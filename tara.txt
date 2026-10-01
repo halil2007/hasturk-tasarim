@@ -1,0 +1,2 @@
+# Taranacak adresler (her satıra bir tane). Bu dosya değişince tarama kendiliğinden çalışır.
+https://www.hasturkgubre.com.tr/

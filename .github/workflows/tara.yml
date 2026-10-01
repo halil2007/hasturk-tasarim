@@ -1,0 +1,40 @@
+name: Siteyi tara
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: 'Taranacak adresler (boşlukla ayır)'
+        default: 'https://www.hasturkgubre.com.tr/'
+  push:
+    paths: ['scripts/tara.mjs', '.github/workflows/tara.yml', 'tara.txt']
+
+permissions:
+  contents: write
+
+concurrency: tara-${{ github.ref }}
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Tarayıcıyı kur
+        run: |
+          npm i --no-save playwright@1
+          npx playwright install --with-deps chromium
+      - name: Sayfaları tara
+        run: |
+          URLS="${{ github.event.inputs.urls }}"
+          if [ -z "$URLS" ] && [ -f tara.txt ]; then URLS="$(grep -v '^#' tara.txt | tr '\n' ' ')"; fi
+          node scripts/tara.mjs $URLS
+      - name: Sonuçları kaydet
+        run: |
+          git config user.name "site-tarama"
+          git config user.email "actions@users.noreply.github.com"
+          git add tarama
+          git diff --cached --quiet || (git commit -m "Site taraması" && git push)
