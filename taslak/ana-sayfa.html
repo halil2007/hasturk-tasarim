@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HasTürk Gübre — Ana Sayfa Taslağı</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --red: #b91c1c;
+    --red-dark: #8f1414;
+    --green: #2f6b3a;
+    --green-dark: #1f4a28;
+    --green-soft: #eef5ec;
+    --cream: #f8f5ee;
+    --ink: #1c1c1c;
+    --muted: #6b6b6b;
+    --line: #e7e2d8;
+    --card: #ffffff;
+    --radius: 16px;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Poppins, system-ui, sans-serif; color: var(--ink); background: #fff; -webkit-font-smoothing: antialiased; }
+  img { display: block; max-width: 100%; }
+  a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 1392px; margin: 0 auto; padding: 0 24px; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+  /* ---- mevcut: duyuru + üst menü ---- */
+  .announce { background: var(--red); color: #fff; text-align: center; font-size: 13px; font-weight: 700; letter-spacing: .06em; padding: 11px 16px; }
+  header.top { border-bottom: 1px solid #eee; background: #fff; }
+  header.top .wrap { display: flex; align-items: center; gap: 28px; height: 80px; }
+  header.top .logo { width: 180px; flex: none; }
+  header.top nav { display: flex; gap: 26px; font-weight: 600; font-size: 15.5px; flex: 1; }
+  header.top nav span::after { content: " ⌄"; color: #999; font-size: 12px; }
+  header.top .icons { display: flex; gap: 22px; }
+  header.top .icons svg { width: 24px; height: 24px; }
+  .burger { display: none; }
+
+  /* ---- mevcut: banner ---- */
+  .hero { display: grid; grid-template-columns: 2fr 1fr; gap: 12px; padding-top: 32px; }
+  .hero .main, .hero .side img { border-radius: 14px; overflow: hidden; }
+  .hero .main img { width: 100%; height: 400px; object-fit: cover; }
+  .hero .side { display: grid; gap: 12px; }
+  .hero .side img { width: 100%; height: 194px; object-fit: cover; }
+  .dots { display: flex; gap: 6px; justify-content: center; margin: 14px 0 0; }
+  .dots i { width: 8px; height: 8px; border-radius: 4px; background: #cfe0cc; }
+  .dots i.on { width: 22px; background: var(--green); }
+
+  /* ---- etiketler (taslak notları) ---- */
+  .tag { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--red); background: #fdecec; border-radius: 999px; padding: 4px 10px; margin-bottom: 10px; }
+  .tag.keep { color: var(--green); background: var(--green-soft); }
+
+  /* ---- güven şeridi ---- */
+  .trust { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; margin-top: 28px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--cream); }
+  .trust div { display: flex; align-items: center; gap: 14px; padding: 18px 22px; }
+  .trust div + div { border-left: 1px solid var(--line); }
+  .trust svg { width: 34px; height: 34px; flex: none; color: var(--green); }
+  .trust b { display: block; font-size: 14.5px; }
+  .trust small { color: var(--muted); font-size: 12.5px; }
+
+  section.block { margin-top: 64px; }
+  .head { display: flex; align-items: end; justify-content: space-between; gap: 16px; margin-bottom: 22px; }
+  .head h2 { margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -.01em; }
+  .head p { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
+  .head .more { font-weight: 600; color: var(--green); white-space: nowrap; font-size: 15px; }
+  .head .more::after { content: " →"; }
+
+  /* ---- bitkinizi seçin ---- */
+  .finder { background: linear-gradient(135deg, #f3f8f1 0%, #fbf9f3 100%); border-radius: 24px; padding: 34px 34px 30px; }
+  .finder .head { align-items: center; }
+  .finder .search { display: flex; align-items: center; gap: 10px; background: #fff; border: 1.5px solid #d6e3d3; border-radius: 999px; padding: 12px 18px; width: 360px; color: var(--muted); font-size: 14.5px; }
+  .finder .search svg { width: 18px; height: 18px; color: var(--green); }
+  .plants { display: grid; grid-template-columns: repeat(9, 1fr); gap: 14px; }
+  .plant { background: #fff; border-radius: 18px; padding: 10px 10px 14px; text-align: center; box-shadow: 0 1px 0 rgba(0,0,0,.04), 0 6px 18px rgba(47,107,58,.08); }
+  .plant img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px; background: #f6f6f2; }
+  .plant b { display: block; margin-top: 10px; font-size: 14.5px; line-height: 1.25; }
+  .plant small { color: var(--muted); font-size: 12px; }
+  .plant.custom { background: var(--green); color: #fff; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 16px; }
+  .plant.custom svg { width: 44px; height: 44px; margin-bottom: 10px; }
+  .plant.custom small { color: #d7ead4; }
+
+  /* ---- ürün kartları ---- */
+  .grid4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+  .card { background: var(--card); border: 1px solid #ece8df; border-radius: var(--radius); padding: 12px 12px 16px; display: flex; flex-direction: column; position: relative; }
+  .card .img { position: relative; border-radius: 12px; overflow: hidden; background: #f7f6f2; }
+  .card .img img { width: 100%; aspect-ratio: 1; object-fit: cover; }
+  .badge { position: absolute; top: 10px; left: 10px; font-size: 11.5px; font-weight: 700; padding: 5px 9px; border-radius: 8px; color: #fff; background: var(--red); }
+  .badge.green { background: var(--green); }
+  .badge.dark { background: #1c1c1c; left: auto; right: 10px; }
+  .card .brand { margin-top: 12px; font-size: 11.5px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #9a9a9a; }
+  .card h3 { margin: 4px 0 0; font-size: 15.5px; font-weight: 600; line-height: 1.35; min-height: 42px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .opt { margin-top: 6px; font-size: 12.5px; color: var(--muted); }
+  .card .price { margin-top: 10px; display: flex; align-items: baseline; gap: 8px; }
+  .card .price b { font-size: 19px; font-weight: 800; }
+  .card .price s { color: #aaa; font-size: 13.5px; }
+  .card .price em { font-style: normal; font-size: 12.5px; color: var(--muted); }
+  .btn { margin-top: 12px; display: flex; align-items: center; justify-content: center; gap: 8px; background: var(--green); color: #fff; font-weight: 700; font-size: 14px; border-radius: 10px; padding: 12px; }
+  .btn svg { width: 18px; height: 18px; }
+
+  /* ---- sezon bandı ---- */
+  .season { display: grid; grid-template-columns: 1.05fr 2fr; gap: 20px; }
+  .season .intro { background: var(--green-dark); color: #fff; border-radius: 22px; padding: 36px; display: flex; flex-direction: column; justify-content: space-between; position: relative; overflow: hidden; }
+  .season .intro::after { content: ""; position: absolute; right: -60px; bottom: -60px; width: 220px; height: 220px; border-radius: 50%; background: rgba(255,255,255,.06); }
+  .season .intro small { color: #bfe0b9; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; font-size: 12px; }
+  .season .intro h2 { margin: 10px 0 12px; font-size: 32px; line-height: 1.15; font-weight: 800; }
+  .season .intro p { margin: 0; color: #d8e9d4; font-size: 15px; line-height: 1.6; }
+  .season .intro ol { margin: 18px 0 0; padding: 0; list-style: none; display: grid; gap: 10px; font-size: 14.5px; }
+  .season .intro ol li { display: flex; gap: 10px; align-items: center; }
+  .season .intro ol li span { width: 26px; height: 26px; border-radius: 50%; background: #fff; color: var(--green-dark); font-weight: 800; display: grid; place-items: center; font-size: 13px; flex: none; }
+  .season .intro .cta { margin-top: 24px; align-self: start; background: #fff; color: var(--green-dark); font-weight: 700; padding: 12px 20px; border-radius: 10px; }
+  .season .grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+
+  /* ---- kendi üretimimiz ---- */
+  .made { display: grid; grid-template-columns: 1fr 1.4fr; gap: 0; background: var(--cream); border-radius: 24px; overflow: hidden; }
+  .made .story { padding: 44px; }
+  .made .story h2 { margin: 0 0 14px; font-size: 32px; font-weight: 800; line-height: 1.15; }
+  .made .story h2 em { font-style: normal; color: var(--red); }
+  .made .story p { margin: 0; color: #4a4a4a; line-height: 1.7; font-size: 15.5px; }
+  .made .facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 26px; }
+  .made .facts div { background: #fff; border-radius: 14px; padding: 14px; }
+  .made .facts b { display: block; font-size: 20px; color: var(--green); }
+  .made .facts small { color: var(--muted); font-size: 12.5px; }
+  .made .prods { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; padding: 28px 28px 28px 0; }
+  .made .prods .card { border: 0; }
+
+  /* ---- kategoriler ---- */
+  .cats { display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px; }
+  .cat { border: 1px solid #ece8df; border-radius: 18px; padding: 16px; display: flex; align-items: center; gap: 14px; background: #fff; }
+  .cat img { width: 64px; height: 64px; border-radius: 50%; object-fit: cover; flex: none; }
+  .cat b { font-size: 14.5px; line-height: 1.3; }
+  .cat small { display: block; color: var(--muted); font-size: 12px; font-weight: 500; }
+
+  .rest { margin: 64px 0 0; border: 2px dashed #d9d4c8; border-radius: 20px; padding: 28px; text-align: center; color: var(--muted); font-size: 15px; }
+  .rest b { color: var(--ink); }
+  footer.end { margin-top: 48px; background: var(--red); color: #fff; padding: 16px 24px; font-size: 13px; }
+
+  /* ---- telefon ---- */
+  .mfab, .mcookie { display: none; }
+  @media (max-width: 760px) {
+    .wrap { padding: 0 16px; }
+    .announce { font-size: 11.5px; padding: 10px 12px; }
+    header.top .wrap { height: 62px; gap: 12px; }
+    header.top nav { display: none; }
+    .burger { display: block; width: 26px; height: 26px; }
+    header.top .logo { width: 150px; margin-right: auto; }
+    header.top .icons { gap: 16px; }
+    .hero { grid-template-columns: 1fr; padding-top: 16px; }
+    .hero .main img { height: auto; aspect-ratio: 1080 / 454; }
+    .hero .side { grid-template-columns: 1fr 1fr; gap: 10px; }
+    .hero .side img { height: 92px; }
+    .trust { grid-template-columns: 1fr 1fr; margin-top: 20px; }
+    .trust div { padding: 14px; gap: 10px; }
+    .trust div:nth-child(3) { border-left: 0; }
+    .trust div:nth-child(n+3) { border-top: 1px solid var(--line); }
+    .trust svg { width: 26px; height: 26px; }
+    .trust b { font-size: 13px; }
+    .trust small { font-size: 11.5px; }
+    section.block { margin-top: 44px; }
+    .head { flex-direction: column; align-items: start; }
+    .head h2 { font-size: 23px; }
+    .head p { font-size: 14px; }
+    .finder { padding: 22px 0 22px 16px; border-radius: 20px; margin: 0 -16px; border-radius: 0; }
+    .finder .head { padding-right: 16px; }
+    .finder .search { width: 100%; }
+    .plants { display: flex; overflow-x: auto; gap: 10px; padding-right: 16px; scrollbar-width: none; }
+    .plant { flex: 0 0 108px; }
+    .plant b { font-size: 13px; }
+    .grid4 { grid-template-columns: 1fr 1fr; gap: 12px; }
+    .card { padding: 8px 8px 12px; }
+    .card h3 { font-size: 13.5px; min-height: 37px; }
+    .card .price b { font-size: 16px; }
+    .btn { padding: 10px; font-size: 13px; }
+    .card .price { flex-wrap: wrap; gap: 2px 8px; }
+    .season { grid-template-columns: 1fr; }
+    .season .intro { padding: 26px; }
+    .season .intro h2 { font-size: 25px; }
+    .season .grid3 { display: flex; overflow-x: auto; gap: 12px; scrollbar-width: none; }
+    .season .grid3 .card { flex: 0 0 170px; }
+    .made { grid-template-columns: 1fr; margin: 0 -16px; border-radius: 0; }
+    .made .story { padding: 28px 16px 8px; }
+    .made .story h2 { font-size: 25px; }
+    .made .facts div { padding: 10px; }
+    .made .facts b { font-size: 16px; }
+    .made .prods { display: flex; overflow-x: auto; padding: 16px; gap: 12px; }
+    .made .prods .card { flex: 0 0 170px; }
+    .cats { grid-template-columns: 1fr 1fr; gap: 10px; }
+    .cat { padding: 10px; gap: 10px; }
+    .cat img { width: 48px; height: 48px; }
+    .cat b { font-size: 13px; }
+    .mfab { display: flex; position: fixed; right: 16px; bottom: 64px; width: 54px; height: 54px; border-radius: 50%; background: #25d366; color: #fff; align-items: center; justify-content: center; box-shadow: 0 6px 18px rgba(0,0,0,.2); z-index: 5; }
+    .mfab svg { width: 28px; height: 28px; }
+    .mcookie { display: flex; position: fixed; left: 0; right: 0; bottom: 0; background: #1c1c1c; color: #eee; font-size: 12px; padding: 10px 16px; align-items: center; gap: 12px; z-index: 6; }
+    .mcookie b { margin-left: auto; color: #fff; text-decoration: underline; white-space: nowrap; }
+  }
+</style>
+</head>
+<body>
+<h1 class="sr-only">HasTürk Gübre — Organik Solucan Gübresi ve Özel Bitki Toprakları</h1>
+
+<div class="announce">TÜM KREDİ KARTLARINA 12 AY TAKSİT İMKANI</div>
+<header class="top">
+  <div class="wrap">
+    <svg class="burger" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    <img class="logo" src="https://cdn.myikas.com/images/theme-images/000af9a3-eed9-46bc-be2b-ed10a0884de8/image_540.webp" alt="HasTürk Gübre">
+    <nav><span>Gübreler</span><span>Topraklar</span><span>Tohumlar</span><span>Saksı &amp; Bahçe Yatağı</span><span>Bahçe Ekipmanları</span><span>Halk Sağlığı Ürünleri</span></nav>
+    <div class="icons">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- Banner: aynen kalıyor -->
+  <div class="hero">
+    <div class="main"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/851776db-ad33-4411-a3cb-06c7e782af5b/image_1080.webp" alt="Toprağın gücü, bitkilerinizin yanında"></div>
+    <div class="side">
+      <img src="https://cdn.myikas.com/images/theme-images/00665c72-f36f-458a-8f68-70c6c24b60d6/image_900.webp" alt="Her bitkiye uygun toprak karışımları">
+      <img src="https://cdn.myikas.com/images/theme-images/fc35fbab-6d18-4704-8be5-b0ffd99237e5/image_900.webp" alt="İlaçlama pompaları">
+    </div>
+  </div>
+  <div class="dots"><i></i><i class="on"></i><i></i><i></i><i></i><i></i></div>
+
+  <!-- YENİ: güven şeridi -->
+  <div class="trust">
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="17.5" cy="17.5" r="1.8"/></svg><span><b>975 TL üzeri ücretsiz kargo</b><small>Siparişleriniz özenle paketlenir</small></span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 10h18M7 15h4"/></svg><span><b>12 aya varan taksit</b><small>Tüm kredi kartlarına</small></span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 21V11"/><path d="M12 11C12 6 8 4 4 4c0 5 3 7 8 7Z"/><path d="M12 13c0-4 3-6 8-6 0 4-3 6-8 6Z"/></svg><span><b>%100 organik</b><small>Yerli üretim solucan gübresi</small></span></div>
+    <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M4 20l1.3-3.9A8 8 0 1 1 8 19.3L4 20Z"/><path d="M9 9.5c.5 2 2.5 4 4.5 4.5l1.2-1.2 2 1-.4 1.6c-3.5.3-8.2-4.4-7.9-7.9L10 7.1l1 2-1 1.2"/></svg><span><b>Uzmanımıza sorun</b><small>WhatsApp: 0553 942 29 61</small></span></div>
+  </div>
+
+  <!-- YENİ: bitkinizi seçin -->
+  <section class="block finder">
+    <div class="head">
+      <div>
+        <span class="tag">Yeni bölüm</span>
+        <h2>Bitkinizi seçin, toprağını bulalım</h2>
+        <p>Her bitkinin ihtiyacına göre hazırlanmış özel karışımlar</p>
+      </div>
+      <div class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>Bitkinizin adını yazın: zeytin, orkide…</div>
+    </div>
+    <div class="plants">
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/2c43737c-3740-44c7-97cf-d48f722069d5/540/monstera-deve-tabani-topragi.webp" alt=""><b>Monstera</b><small>Toprağı · 299 TL</small></a>
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/14b42f50-3724-480f-b944-c9d321b65d02/540/orkide-topragi.webp" alt=""><b>Orkide</b><small>Toprağı · 275 TL</small></a>
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/f6fc8b73-0a53-4b6a-812b-d08f8a52529a/540/limon-agaci-topragi.webp" alt=""><b>Limon Ağacı</b><small>Toprağı · 299 TL</small></a>
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/2644c100-11a1-4b2a-b85b-db79a01320de/540/yaban-mersini-ve-ortanca-topragi.webp" alt=""><b>Yaban Mersini</b><small>Toprağı · 299 TL</small></a>
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/0e26c49b-2e58-4f7e-997a-aa648cd4c89b/540/kaktus-ve-sukulent-topragi.webp" alt=""><b>Kaktüs</b><small>Toprağı · 279 TL</small></a>
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/67f0c48f-7ce3-40fc-9ab1-2b3576d69e6a/540/gul-topragi.webp" alt=""><b>Gül</b><small>Toprağı · 299 TL</small></a>
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/43822432-79f4-4184-80c7-2fa3da5fbdaa/540/pasa-kilici-topragi.webp" alt=""><b>Paşa Kılıcı</b><small>Toprağı · 299 TL</small></a>
+      <a class="plant"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/38733546-6a7f-433d-a04e-93b8065a21a9/540/meneksetopragi.webp" alt=""><b>Menekşe</b><small>Toprağı · 299 TL</small></a>
+      <a class="plant custom">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 10h16l-1.5 9a2 2 0 0 1-2 1.7h-9A2 2 0 0 1 5.5 19L4 10Z"/><path d="M8 10c0-3 1.5-5 4-6M12 10c0-2 1-4 3-5"/></svg>
+        <b>Kendi karışımını oluştur</b><small>İstediğin litrede · 145 TL'den</small>
+      </a>
+    </div>
+  </section>
+
+  <!-- Popüler ürünler: yeni kart tasarımı -->
+  <section class="block">
+    <div class="head">
+      <div><span class="tag keep">Mevcut bölüm · yeni kart</span><h2>Popüler Ürünler</h2><p>Müşterilerimizin en çok tercih ettikleri</p></div>
+      <a class="more">Tümünü gör</a>
+    </div>
+    <div class="grid4">
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/5b68f295-b97d-4c3a-a2c4-26aa18caf8ec/540/cuval.webp" alt=""><span class="badge green">Çok satan</span></div><div class="brand">HasTürk Gübre</div><h3>HasTürk Katı Solucan Gübresi</h3><div class="opt">7 farklı ağırlık seçeneği</div><div class="price"><b>1.400 TL</b></div><a class="btn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/6ae0ec39-5a5a-43e7-be3f-f208180ec99b/540/sivi-solucan-gubresi.webp" alt=""><span class="badge green">Çok satan</span></div><div class="brand">HasTürk Gübre</div><h3>HasTürk Sıvı Solucan Gübresi</h3><div class="opt">6 farklı litre seçeneği</div><div class="price"><b>500 TL</b></div><a class="btn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/d8159f1f-83c4-4985-b488-d8f23bf86d21/540/image.webp" alt=""><span class="badge">%31 indirim</span></div><div class="brand">HG</div><h3>Leonardit – Organik Toprak Düzenleyici</h3><div class="opt">3 farklı paket seçeneği</div><div class="price"><b>398 TL</b><s>580 TL</s></div><a class="btn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/691c4e82-c36f-4b7f-a546-32056da7202e/540/kendi-toprak-karisimini-olustur.webp" alt=""></div><div class="brand">HG</div><h3>Kendi Toprak Karışımını Oluştur – İstediğin Litrede</h3><div class="opt">İçerikleri sen seç</div><div class="price"><b>145 TL</b><em>’den başlayan</em></div><a class="btn">Karışımı Oluştur</a></div>
+    </div>
+  </section>
+
+  <!-- YENİ: sezon bandı -->
+  <section class="block season">
+    <div class="intro">
+      <div>
+        <span class="tag" style="background:rgba(255,255,255,.12);color:#fff">Yeni bölüm · her ay değişir</span><br>
+        <small>Ekim ayı bahçe takvimi</small>
+        <h2>Sonbahar, çim ekmenin tam zamanı</h2>
+        <p>Toprak hâlâ ılık, yağmurlar başladı. Kışa güçlü giren çim, ilkbaharda gür çıkar.</p>
+        <ol>
+          <li><span>1</span>Toprağı solucan gübresiyle besleyin</li>
+          <li><span>2</span>Tohumu ekin, kapama toprağıyla örtün</li>
+          <li><span>3</span>İlk 3 hafta toprağı nemli tutun</li>
+        </ol>
+      </div>
+      <a class="cta">Çim ürünlerini gör →</a>
+    </div>
+    <div class="grid3">
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/32e0cef3-acc7-4456-97df-597c8cc68ad4/540/image.webp" alt=""><span class="badge">Yükselişte</span></div><div class="brand">DSV</div><h3>DSV Lippa Lisuna 6 Mix Çim Tohumu</h3><div class="opt">Adım 2 · Ekim</div><div class="price"><b>350 TL</b></div><a class="btn">Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/e831cc46-94c2-4d3b-ad65-4a3c5a19a884/540/cim-kapagi-topragi.webp" alt=""></div><div class="brand">HG</div><h3>Çim Kapama Toprağı (Leonarditli Formül)</h3><div class="opt">Adım 2 · Örtme</div><div class="price"><b>279 TL</b></div><a class="btn">Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/5b68f295-b97d-4c3a-a2c4-26aa18caf8ec/540/cuval.webp" alt=""></div><div class="brand">HasTürk Gübre</div><h3>HasTürk Katı Solucan Gübresi</h3><div class="opt">Adım 1 · Toprak hazırlığı</div><div class="price"><b>1.400 TL</b></div><a class="btn">Sepete Ekle</a></div>
+    </div>
+  </section>
+
+  <!-- YENİ: kendi üretimimiz -->
+  <section class="block made">
+    <div class="story">
+      <span class="tag">Yeni bölüm</span>
+      <h2>Toprağın gücü, <em>kendi üretimimiz</em></h2>
+      <p>HasTürk solucan gübresi %100 organik ve yerli üretimdir. Katı, sıvı ve hümik asit seçenekleriyle saksıdan bahçeye, fideden meyve ağacına kadar her bitki için doğal bir besin kaynağı.</p>
+      <div class="facts">
+        <div><b>%100</b><small>Organik içerik</small></div>
+        <div><b>Yerli</b><small>Üretim</small></div>
+        <div><b>5 pazaryeri</b><small>Resmi mağaza</small></div>
+      </div>
+    </div>
+    <div class="prods">
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/5b68f295-b97d-4c3a-a2c4-26aa18caf8ec/540/cuval.webp" alt=""></div><div class="brand">Katı</div><h3>HasTürk Solucan Gübresi</h3><div class="price"><b>1.400 TL</b></div><a class="btn">İncele</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/6ae0ec39-5a5a-43e7-be3f-f208180ec99b/540/sivi-solucan-gubresi.webp" alt=""></div><div class="brand">Sıvı</div><h3>HasTürk Sıvı Solucan Gübresi</h3><div class="price"><b>500 TL</b></div><a class="btn">İncele</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/3cd80157-befe-4fa0-9912-48dffa710ad7/540/0640132b-365b-4c52-9a9e-41c7bae35892.webp" alt=""></div><div class="brand">Hümik asit</div><h3>HasTürk Hümix Sıvı Hümik Asit</h3><div class="price"><b>315 TL</b></div><a class="btn">İncele</a></div>
+    </div>
+  </section>
+
+  <!-- Haftanın yıldızları: yeni kart -->
+  <section class="block">
+    <div class="head">
+      <div><span class="tag keep">Mevcut bölüm · yeni kart</span><h2>Haftanın Yıldızları</h2><p>Her hafta seçtiğimiz setler ve kampanyalar</p></div>
+      <a class="more">Tüm setler</a>
+    </div>
+    <div class="grid4">
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/61d779eb-8309-40af-9798-6fa2c03d150c/540/kampanya-gorseli.webp" alt=""><span class="badge">Ayın kampanyası</span></div><div class="brand">HasTürk Gübre</div><h3>20 Kg Katı + 1 Lt Sıvı Solucan Gübresi</h3><div class="price"><b>1.750 TL</b></div><a class="btn">Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/8a5d023e-538b-4d21-9a71-75fa4f3647f0/540/orkide-bakim-seti.webp" alt=""><span class="badge">%15 indirim</span></div><div class="brand">HG</div><h3>Orkide Bakım Seti</h3><div class="price"><b>861 TL</b><s>1.015 TL</s></div><a class="btn">Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/1dec30a2-b05b-4ff7-a20b-61c339a8d137/540/kaktus-bakim-ve-dikim-seti.webp" alt=""><span class="badge">%15 indirim</span></div><div class="brand">HG</div><h3>Kaktüs ve Sukulent 3’lü Dikim ve Bakım Seti</h3><div class="price"><b>940 TL</b><s>1.105 TL</s></div><a class="btn">Sepete Ekle</a></div>
+      <div class="card"><div class="img"><img src="https://cdn.myikas.com/images/dcff75f6-d4ea-4a7a-8726-d44f86a1aac5/81104f1c-39ac-4af4-a935-ff986761ebea/540/bitki-yetistirme-seti.webp" alt=""></div><div class="brand">HG</div><h3>HG 5’li Bitki Yetiştirme Seti</h3><div class="price"><b>1.995 TL</b></div><a class="btn">Sepete Ekle</a></div>
+    </div>
+  </section>
+
+  <!-- Kategoriler: sade kutular -->
+  <section class="block">
+    <div class="head"><div><span class="tag keep">Mevcut bölüm · sade görünüm</span><h2>Kategoriler</h2></div><a class="more">Tüm kategoriler</a></div>
+    <div class="cats">
+      <a class="cat"><img src="https://cdn.myikas.com/images/theme-images/fa95a92d-0379-4173-8465-ef52040a3e68/image_360.webp" alt=""><b>Solucan Gübresi<small>Katı · Sıvı</small></b></a>
+      <a class="cat"><img src="https://cdn.myikas.com/images/theme-images/f1402511-02e8-48bd-8907-46af53cbdefe/image_360.webp" alt=""><b>Özel Bitki Toprakları<small>41 çeşit</small></b></a>
+      <a class="cat"><img src="https://cdn.myikas.com/images/theme-images/74f47ac5-45f3-4fce-a53b-5e8530e49068/image_360.webp" alt=""><b>Sebze &amp; Meyve Toprağı<small>Fide · bahçe</small></b></a>
+      <a class="cat"><img src="https://cdn.myikas.com/images/theme-images/7cb167b0-c05a-47db-8295-7b063f8dd55b/image_360.webp" alt=""><b>Tohumlar<small>Çim · sebze · çiçek</small></b></a>
+      <a class="cat"><img src="https://cdn.myikas.com/images/theme-images/7a64083a-15e2-486d-ad7d-c3570c4fedb8/image_360.webp" alt=""><b>Toprak Düzenleyiciler<small>Perlit · leonardit</small></b></a>
+      <a class="cat"><img src="https://cdn.myikas.com/images/theme-images/d345c95c-ece8-4903-9f54-e05f6997c343/image_360.webp" alt=""><b>İlaçlama Pompaları<small>Manuel · akülü</small></b></a>
+    </div>
+  </section>
+
+  <div class="rest">Ardından <b>Premium Topraklar</b>, <b>İlaçlama Pompaları</b>, <b>Pazaryerleri</b>, <b>bülten</b> ve <b>alt bilgi</b> bugünkü gibi devam eder (yalnızca kartlar yeni tasarımı alır).</div>
+</main>
+<footer class="end">© 2026 HasTürk Gübre – Tüm Hakları Saklıdır</footer>
+
+<a class="mfab" aria-label="WhatsApp"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M4 20l1.3-3.9A8 8 0 1 1 8 19.3L4 20Z"/><path d="M9 9.5c.5 2 2.5 4 4.5 4.5l1.2-1.2 2 1-.4 1.6c-3.5.3-8.2-4.4-7.9-7.9L10 7.1l1 2-1 1.2"/></svg></a>
+<div class="mcookie">Çerezleri kullanıyoruz. <u>Ayrıntılar</u><b>Anladım</b></div>
+</body>
+</html>

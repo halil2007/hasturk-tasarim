@@ -5,13 +5,17 @@ import { chromium } from 'playwright';
 import { mkdir, writeFile } from 'node:fs/promises';
 
 const urls = process.argv.slice(2).length ? process.argv.slice(2) : ['https://www.hasturkgubre.com.tr/'];
-const OUT = 'tarama';
+const OUT = process.env.OUT || 'tarama';
 const views = [
   { name: 'masaustu', viewport: { width: 1440, height: 900 }, mobile: false },
   { name: 'telefon', viewport: { width: 390, height: 844 }, mobile: true },
 ];
 
-const slug = (u) => (new URL(u).pathname.replace(/^\/|\/$/g, '').replace(/[^a-z0-9]+/gi, '-') || 'ana-sayfa');
+const slug = (u) => {
+  const p = new URL(u).pathname;
+  if (u.startsWith('file:')) return p.split('/').pop().replace(/\.html?$/, '');
+  return p.replace(/^\/|\/$/g, '').replace(/[^a-z0-9]+/gi, '-') || 'ana-sayfa';
+};
 
 // Sayfanın yukarıdan aşağıya yapısı: bölümler, başlıklar, görseller, bağlantılar
 function outline() {
