@@ -104,8 +104,8 @@
    "tag": "img",
    "alt": "Halk Sağlığı Ürünleri bannerı",
    "src": "https://cdn.myikas.com/images/theme-images/0ae38cb0-2d93-4e77-9e29-973ba25eb804/image_1512.webp",
-   "w": 0,
-   "h": 0
+   "w": 1512,
+   "h": 680
   },
   {
    "y": 153,
@@ -118,8 +118,8 @@
    "tag": "img",
    "alt": "Evcil Hayvan Ürünleri bannerı",
    "src": "https://cdn.myikas.com/images/theme-images/9bb2e7f4-0176-4b59-b14f-41b7f51a90ae/image_1512.webp",
-   "w": 0,
-   "h": 0
+   "w": 1512,
+   "h": 604
   },
   {
    "y": 153,
@@ -4454,5 +4454,5 @@
  ],
  "url": "https://www.hasturkgubre.com.tr/",
  "view": "masaustu",
- "loadMs": 8072
+ "loadMs": 6626
 }
