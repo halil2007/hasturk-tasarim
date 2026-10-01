@@ -1,0 +1,243 @@
+{
+ "queries": [
+  {
+   "name": "getAvailableSubscriptions",
+   "args": "",
+   "returns": "[GetAvailableSubscriptionResponse!]!",
+   "description": "Using this api, you can get available subscriptions for a merchant app."
+  },
+  {
+   "name": "getMerchant",
+   "args": "",
+   "returns": "MerchantResponse!",
+   "description": "By using this api you can get properties of merchant and merchant staff."
+  },
+  {
+   "name": "getMerchantLicence",
+   "args": "",
+   "returns": "MerchantLicence!",
+   "description": "Using this api you can view all licenses owned by merchant."
+  },
+  {
+   "name": "getSalesChannel",
+   "args": "",
+   "returns": "SalesChannel",
+   "description": "Using this api, you can view your sales channel."
+  },
+  {
+   "name": "listMerchantAppPayment",
+   "args": "id: StringFilterInput, pagination: PaginationInput",
+   "returns": "MerchantAppPaymentPaginationResponse!",
+   "description": "Using this api, you can view the payment features that a merchant has created for the app."
+  },
+  {
+   "name": "listMerchantSettings",
+   "args": "id: StringFilterInput, merchantId: StringFilterInput",
+   "returns": "[MerchantSettings!]!",
+   "description": ""
+  },
+  {
+   "name": "listSalesChannel",
+   "args": "id: StringFilterInput",
+   "returns": "[SalesChannel!]!",
+   "description": ""
+  },
+  {
+   "name": "getGlobalTaxSettings",
+   "args": "",
+   "returns": "GlobalTaxSettings",
+   "description": "Use this mutation to get global settings."
+  },
+  {
+   "name": "listCampaign",
+   "args": "canCombineWithOtherCampaigns: BooleanFilterInput, dateRangeIsActive: CampaignDateRangeIsActiveFilterInput, hasCoupon: BooleanFilterInput, id: StringFilterInput, includeDeleted: Boolean, pagination: PaginationInput, search: String, sort: String, type: CampaignTypeEnumFilterInput, updatedAt: DateFilterInput",
+   "returns": "CampaignPaginationResponse!",
+   "description": "Query to list Campaign Search functionality is available for the following fields: `title`. Example: If search='test', it will match records containing 'test' in any of these fields."
+  },
+  {
+   "name": "listCoupon",
+   "args": "campaignId: StringFilterInput, id: StringFilterInput, includeDeleted: Boolean, pagination: PaginationInput, search: String",
+   "returns": "CouponPaginationResponse!",
+   "description": ""
+  },
+  {
+   "name": "listGlobalTaxSettings",
+   "args": "id: StringFilterInput, includeDeleted: Boolean, storefrontId: StringFilterInput",
+   "returns": "[GlobalTaxSettings!]!",
+   "description": "Query to list GlobalTaxSettings"
+  },
+  {
+   "name": "listShippingSettings",
+   "args": "includeDeleted: Boolean",
+   "returns": "[ShippingSettings!]!",
+   "description": ""
+  },
+  {
+   "name": "listTaxSettings",
+   "args": "countryId: StringFilterInput, id: StringFilterInput, includeDeleted: Boolean",
+   "returns": "[TaxSettings!]!",
+   "description": "Query to list TaxSettings"
+  },
+  {
+   "name": "listStorefront",
+   "args": "id: StringFilterInput, salesChannelId: StringFilterInput",
+   "returns": "[Storefront!]!",
+   "description": ""
+  },
+  {
+   "name": "listStorefrontJSScript",
+   "args": "storefrontId: String",
+   "returns": "[StorefrontJSScript!]!",
+   "description": "Use this query to list storefront javascript scripts by supplying the `storefrontId` input."
+  },
+  {
+   "name": "listStorefrontPolicy",
+   "args": "id: StringFilterInput, includeDeleted: Boolean, language: StringFilterInput, name: StringFilterInput, pagination: PaginationInput, search: String, updatedAt: DateFilterInput",
+   "returns": "[StorefrontPolicy!]!",
+   "description": "Use this query to list storefront policies by supplying the `StorefrontPolicyArgs` input. Search functionality is available for the following fields: `name`, `slug`. Example: If search='test', it will match records containing 'test' in any of these fields."
+  }
+ ],
+ "mutations": [
+  {
+   "name": "updateSubscriptionStatus",
+   "args": "customerId: String!, subscriptionStatus: CustomerEmailSubscriptionStatusesEnum!",
+   "returns": "Boolean!",
+   "description": ""
+  },
+  {
+   "name": "createMerchantAppPayment",
+   "args": "input: MerchantAppPaymentInput!",
+   "returns": "MerchantAppPayment!",
+   "description": "Using this api, you can add payment features to a merchant app."
+  },
+  {
+   "name": "createMerchantAppPaymentWithSubscription",
+   "args": "input: CreateMerchantAppPaymentWithSubscriptionInput!",
+   "returns": "MerchantAppPayment",
+   "description": "Using this api, you can add payment features to a merchant app with app subscription id."
+  },
+  {
+   "name": "saveSalesChannel",
+   "args": "input: SalesChannelInput!",
+   "returns": "SalesChannel",
+   "description": "Using this api you can update the sales channel name, priceList Id and stockLocations properties."
+  },
+  {
+   "name": "campaignAddCoupons",
+   "args": "input: AddCouponsInput!",
+   "returns": "[Coupon!]!",
+   "description": ""
+  },
+  {
+   "name": "deleteCampaignList",
+   "args": "idList: [String!]!",
+   "returns": "Boolean!",
+   "description": "Mutation to delete Campaign"
+  },
+  {
+   "name": "deleteCouponList",
+   "args": "idList: [String!]!",
+   "returns": "String!",
+   "description": ""
+  },
+  {
+   "name": "deleteGlobalTaxSettingsList",
+   "args": "idList: [String!]!",
+   "returns": "Boolean!",
+   "description": "Mutation to delete GlobalTaxSettings"
+  },
+  {
+   "name": "deleteTaxSettingsList",
+   "args": "idList: [String!]!",
+   "returns": "Boolean!",
+   "description": "Mutation to delete TaxSettings"
+  },
+  {
+   "name": "saveCampaign",
+   "args": "input: CampaignInput!",
+   "returns": "Campaign!",
+   "description": "Mutation to save Campaign"
+  },
+  {
+   "name": "saveGlobalTaxSettings",
+   "args": "input: GlobalTaxSettingsInput!",
+   "returns": "GlobalTaxSettings!",
+   "description": "Mutation to save GlobalTaxSettings"
+  },
+  {
+   "name": "saveTaxSettings",
+   "args": "input: TaxSettingsInput!",
+   "returns": "TaxSettings!",
+   "description": "Mutation to save TaxSettings"
+  },
+  {
+   "name": "updateProductSalesChannelStatus",
+   "args": "input: [UpdateProductSalesChannelStatusInput!]!, salesChannelId: String",
+   "returns": "Boolean!",
+   "description": "Response indicating the status of operation."
+  },
+  {
+   "name": "deleteStorefrontJSScript",
+   "args": "storefrontIdList: [String!]!",
+   "returns": "Boolean!",
+   "description": "Using this api, you can delete javascript script from a the storefront."
+  },
+  {
+   "name": "deleteStorefrontPolicyList",
+   "args": "idList: [String!]!",
+   "returns": "Boolean!",
+   "description": "Using this API, you can delete a policy from the storefront."
+  },
+  {
+   "name": "saveStorefrontJSScript",
+   "args": "input: StorefrontJSScriptInput!",
+   "returns": "StorefrontJSScript!",
+   "description": "Using this api, you can save javascript script to a the storefront."
+  },
+  {
+   "name": "saveStorefrontPolicy",
+   "args": "input: StorefrontPolicyInput!",
+   "returns": "StorefrontPolicy!",
+   "description": "Using this API, you can save a policy to the storefront."
+  }
+ ],
+ "probes": [
+  {
+   "name": "getMerchant",
+   "ok": true
+  },
+  {
+   "name": "getMerchantLicence",
+   "ok": true
+  },
+  {
+   "name": "getSalesChannel",
+   "ok": false,
+   "error": "error_messages.merchant.app_is_not_a_sales_channel"
+  },
+  {
+   "name": "listMerchantAppPayment",
+   "ok": true
+  },
+  {
+   "name": "listMerchantSettings",
+   "ok": true
+  },
+  {
+   "name": "listSalesChannel",
+   "ok": true
+  },
+  {
+   "name": "listStorefront",
+   "ok": true
+  },
+  {
+   "name": "listStorefrontJSScript",
+   "ok": true
+  },
+  {
+   "name": "listStorefrontPolicy",
+   "ok": true
+  }
+ ]
+}
