@@ -1,1019 +1,209 @@
 [
 [
-"feijoa-yetistirme",
-[
-"feijoa fruit",
-"feijoa tree",
-"acca sellowiana",
-"feijoa flowers"
-]
-],
-[
-"kabak-tohumu-ekimi",
-[
-"zucchini seedlings",
-"squash seedlings",
-"pumpkin seeds sowing",
-"squash seeds hand"
-]
-],
-[
-"pekan-cevizi-yetistirme",
-[
-"pecan tree",
-"pecan nuts",
-"pecan orchard",
-"pecans"
-]
-],
-[
-"serada-tozlasma",
-[
-"greenhouse tomato pollination",
-"bumblebee greenhouse",
-"pollination flower brush",
-"greenhouse flowers pollinating"
-]
-],
-[
-"yaban-mersini-bahcesi-kurmak",
-[
-"blueberry bushes",
-"blueberry plantation",
-"blueberries bush",
-"blueberry field"
-]
-],
-[
-"yenidunya-yetistirme",
-[
-"loquat tree",
-"loquat fruit",
-"eriobotrya japonica",
-"loquats"
-]
-],
-[
-"agac-hatmisi-yetistirme",
-[
-"hibiscus syriacus",
-"rose of Sharon",
-"hibiscus syriacus shrub",
-"althea flowers"
-]
-],
-[
-"carkifelek-meyvesi-yetistirme",
-[
-"passion fruit vine",
-"passiflora edulis",
-"passion fruit",
-"passionflower"
-]
-],
-[
 "domates-fidesine-solucan-gubresi",
 [
-"tomato seedlings",
-"planting tomato seedling",
-"tomato transplant",
-"worm castings"
-]
-],
-[
-"ejder-meyvesi-yetistirme",
-[
-"dragon fruit plant",
-"pitaya",
-"dragon fruit cactus",
-"hylocereus"
-]
-],
-[
-"greyfurt-agaci-yetistirme",
-[
-"grapefruit tree",
-"grapefruit",
-"grapefruit orchard",
-"grapefruits"
-]
-],
-[
-"limon-cesitleri",
-[
-"lemon tree",
-"lemons",
-"lemon orchard",
-"lemon fruit"
-]
-],
-[
-"alisum-ve-lobelya",
-[
-"sweet alyssum",
-"lobelia flowers",
-"alyssum lobelia",
-"lobelia"
-]
-],
-[
-"elma-cesitleri",
-[
-"apple varieties",
-"apples orchard",
-"apple tree fruit",
-"red apples tree"
-]
-],
-[
-"findik-cesitleri",
-[
-"hazelnut",
-"hazelnut tree",
-"hazelnuts",
-"hazelnut orchard"
-]
-],
-[
-"karpuz-tohumu-ekimi",
-[
-"watermelon seedlings",
-"watermelon seeds",
-"watermelon plant",
-"watermelon seedling"
+"tomato seedling pot",
+"tomato transplant garden",
+"tomato seedlings garden bed",
+"planting tomatoes"
 ]
 ],
 [
 "kiraz-cesitleri",
 [
-"cherries tree",
-"sweet cherry",
-"cherry orchard",
-"cherry fruit"
-]
-],
-[
-"zeytin-cesitleri",
-[
-"olives",
-"olive varieties",
-"olive tree fruit",
-"olives branch"
-]
-],
-[
-"cim-bicme-makinesi-secimi",
-[
-"lawn mower",
-"electric lawn mower",
-"cordless lawn mower",
-"mowing lawn"
-]
-],
-[
-"kavak-yetistiriciligi",
-[
-"poplar plantation",
-"poplar trees",
-"populus plantation",
-"poplar trees row"
-]
-],
-[
-"paulownia-yetistirme",
-[
-"paulownia tree",
-"paulownia",
-"paulownia flowers",
-"paulownia leaves"
-]
-],
-[
-"renkli-misir-yetistirme",
-[
-"ornamental corn",
-"indian corn",
-"colorful corn cobs",
-"flint corn"
-]
-],
-[
-"safran-yetistiriciligi",
-[
-"saffron crocus",
-"saffron",
-"crocus sativus",
-"saffron flowers"
-]
-],
-[
-"saksida-tarhun",
-[
-"tarragon pot",
-"tarragon herb",
-"tarragon plant pot",
-"artemisia dracunculus"
-]
-],
-[
-"balkon-cicek-kombinasyonu",
-[
-"balcony flower box",
-"petunias pots",
-"balcony flowers",
-"window box flowers"
-]
-],
-[
-"fide-dikim-zamani",
-[
-"transplanting seedlings",
-"planting seedlings garden",
-"vegetable seedlings",
-"seedling transplant"
-]
-],
-[
-"isirgan-yetistirme",
-[
-"stinging nettle",
-"urtica dioica",
-"nettle plant",
-"nettles"
-]
-],
-[
-"kekik-tarimi",
-[
-"thyme field",
-"thyme plant",
-"thymus",
-"oregano field"
-]
-],
-[
-"safran-sogani",
-[
-"saffron crocus bulbs",
-"crocus bulbs",
-"crocus corms",
-"saffron bulbs"
-]
-],
-[
-"yag-gulu-yetistirme",
-[
-"rosa damascena",
-"damask rose field",
-"rose oil roses",
-"rose harvest"
-]
-],
-[
-"acur-yetistirme",
-[
-"armenian cucumber",
-"cucumis melo flexuosus",
-"snake melon",
-"cucumber trellis"
-]
-],
-[
-"chia-yetistirme",
-[
-"chia plant",
-"salvia hispanica",
-"chia seeds",
-"chia flowers"
-]
-],
-[
-"kapari-yetistirme",
-[
-"caper bush",
-"capparis spinosa",
-"capers",
-"caper flowers"
-]
-],
-[
-"moringa-yetistirme",
-[
-"moringa tree",
-"moringa leaves",
-"moringa oleifera",
-"moringa pods"
-]
-],
-[
-"sumak-yetistirme",
-[
-"sumac",
-"rhus coriaria",
-"sumac tree",
-"sumac fruits"
+"cherries on tree",
+"sweet cherries fruit",
+"cherry fruit branch",
+"ripe cherries"
 ]
 ],
 [
 "amarant-yetistirme",
 [
-"amaranth",
-"amaranth field",
-"amaranthus",
-"amaranth plants"
-]
-],
-[
-"anahtar-deligi-bahce",
-[
-"keyhole garden",
-"keyhole garden raised bed",
-"circular raised bed garden",
-"compost basket garden"
-]
-],
-[
-"mahlep-yetistirme",
-[
-"prunus mahaleb",
-"mahaleb cherry",
-"mahaleb tree",
-"mahaleb fruits"
+"amaranth plant",
+"amaranthus flowers",
+"amaranth red",
+"amaranth field"
 ]
 ],
 [
 "torfsuz-saksi-topragi-torf-yerine-kokopit-kompost-ve-kabuk",
 [
-"potting soil",
-"coco coir",
-"potting mix hands",
-"potting soil bag"
-]
-],
-[
-"yamula-patlicani",
-[
-"eggplant",
-"aubergine plant",
-"eggplants garden",
-"eggplant field"
-]
-],
-[
-"alabas-yetistirme-kolrabi-dikim-sulama-ve-dogru-hasat-boyu",
-[
-"kohlrabi",
-"kohlrabi plant",
-"kohlrabi garden",
-"kohlrabi harvest"
-]
-],
-[
-"ayas-domatesi",
-[
-"heirloom tomatoes",
-"tomatoes plant",
-"tomato garden",
-"tomatoes vine"
-]
-],
-[
-"gec-don-meyve-agaci",
-[
-"frost blossoms",
-"late frost fruit tree",
-"frost damage blossom",
-"frozen blossoms"
-]
-],
-[
-"marmande-domates",
-[
-"beefsteak tomato",
-"large tomatoes",
-"tomato plant fruit",
-"marmande tomato"
-]
-],
-[
-"yerli-kabak-cesitleri",
-[
-"squash varieties",
-"pumpkins varieties",
-"winter squash",
-"pumpkins"
-]
-],
-[
-"yonca-tarlasi-bakimi",
-[
-"alfalfa field",
-"lucerne field",
-"alfalfa",
-"alfalfa hay"
-]
-],
-[
-"bag-bahar-bakimi",
-[
-"vineyard spring",
-"grape vine buds",
-"vineyard",
-"grapevine spring"
-]
-],
-[
-"dar-yatakta-ne-yetisir",
-[
-"narrow raised bed vegetables",
-"herb garden bed",
-"raised bed herbs",
-"vegetable bed narrow"
+"coir coco peat",
+"coconut coir substrate",
+"potting mix soil",
+"potting soil hands"
 ]
 ],
 [
 "karpuz-cesitleri",
 [
-"watermelon field",
 "watermelons",
+"watermelon sliced",
 "watermelon harvest",
-"watermelon"
-]
-],
-[
-"kavun-cesitleri",
-[
-"melon field",
-"cantaloupe",
-"melons",
-"muskmelon"
-]
-],
-[
-"serada-cilek-yetistirme",
-[
-"strawberry greenhouse",
-"strawberry tunnel",
-"strawberries plants tunnel",
-"strawberry"
-]
-],
-[
-"serada-patlican-yetistirme",
-[
-"eggplant greenhouse",
-"greenhouse eggplants",
-"aubergine greenhouse",
-"eggplant plants"
-]
-],
-[
-"bag-sulamasi",
-[
-"drip irrigation vineyard",
-"vineyard irrigation",
-"grape drip",
-"vineyard rows"
-]
-],
-[
-"bitkiyi-disari-cikarma-zamani",
-[
-"houseplants outdoors",
-"plants balcony spring",
-"potted plants outside",
-"hardening off plants"
-]
-],
-[
-"cilek-cesitleri",
-[
-"strawberries",
-"strawberry plants",
-"strawberry field",
-"strawberries basket"
-]
-],
-[
-"feslegen-cesitleri",
-[
-"basil varieties",
-"purple basil",
-"thai basil",
-"basil"
-]
-],
-[
-"isot-biberi-yetistirme",
-[
-"chili pepper plant",
-"hot peppers drying",
-"dried chili peppers",
-"pepper plants"
-]
-],
-[
-"nane-cesitleri",
-[
-"mint",
-"mint plant",
-"mentha",
-"spearmint"
-]
-],
-[
-"ceviz-cesitleri",
-[
-"walnuts",
-"walnut tree",
-"walnuts tree",
-"walnut"
+"watermelon fruit"
 ]
 ],
 [
 "cissus-bakimi",
 [
-"cissus",
-"grape ivy",
-"cissus rhombifolia",
-"hanging plant cissus"
-]
-],
-[
-"incir-cesitleri",
-[
-"fig tree",
-"figs",
-"fig fruit",
-"ficus carica"
-]
-],
-[
-"kayisi-cesitleri",
-[
-"apricots",
-"apricot tree",
-"apricot fruit",
-"apricots tree"
-]
-],
-[
-"limon-fidani-dikimi",
-[
-"lemon tree pot",
-"lemon sapling",
-"planting citrus tree",
-"lemon tree container"
-]
-],
-[
-"nar-cesitleri",
-[
-"pomegranate",
-"pomegranates",
-"pomegranate fruit",
-"pomegranate tree"
-]
-],
-[
-"armut-cesitleri",
-[
-"pears",
-"pear tree",
-"pear fruit",
-"pear orchard"
+"cissus rhombifolia plant",
+"grape ivy houseplant",
+"hanging houseplant",
+"vine houseplant pot"
 ]
 ],
 [
 "badem-cesitleri",
 [
-"almond blossom",
-"almond tree",
-"almonds",
-"almond orchard"
-]
-],
-[
-"feslegen-hastaliklari-sararan-yaprak-gri-tuylenme-ve-solgunluk",
-[
-"basil leaves",
-"basil downy mildew",
-"basil yellow leaves",
-"basil plant"
-]
-],
-[
-"lavanta-cesitleri",
-[
-"lavender",
-"lavender field",
-"lavandula",
-"lavender flowers"
-]
-],
-[
-"nisan-ayinda-ne-ekilir",
-[
-"sowing seeds garden",
-"seed sowing",
-"seed tray",
-"planting vegetable seeds"
-]
-],
-[
-"seftali-cesitleri",
-[
-"peaches",
-"peach tree",
-"nectarines",
-"peach fruit"
+"almond tree blossoms",
+"almonds on tree",
+"almond nuts",
+"almond orchard blossom"
 ]
 ],
 [
 "alttan-sulama-ev-bitkisini-tabaktan-doyurmak",
 [
-"bottom watering plant",
-"plant saucer",
-"watering houseplant",
-"plant pot saucer water"
-]
-],
-[
-"erisilebilir-bahce-yukseltilmis-yatak-yuksekligi-ve-yol-genisligi",
-[
-"wheelchair accessible garden",
-"accessible raised bed",
-"raised bed wheelchair",
-"garden raised beds elderly"
-]
-],
-[
-"gutasyon-yaprak-ucunda-su-damlasi-neden-olusur",
-[
-"guttation",
-"guttation drops leaf",
-"water droplets leaf tips",
-"strawberry guttation"
+"watering houseplant saucer",
+"plant pot saucer",
+"houseplants watering",
+"potted plants watering"
 ]
 ],
 [
 "nane-hastaliklari-pas-yaprak-lekesi-ve-solgunluk",
 [
-"mint rust",
-"mint leaves",
-"mint leaf spots",
-"mint plant leaves"
+"mint leaves rust",
+"mentha leaves",
+"mint plant garden",
+"peppermint plant"
 ]
 ],
 [
 "yaprak-odemi-yaprak-altindaki-kabarciklar-neden-olusur",
 [
-"edema leaves",
-"oedema plant leaf",
-"leaf blisters",
-"tomato leaf edema"
-]
-],
-[
-"biber-kirmiziya-donmuyor-yesil-biber-ne-zaman-toplanir",
-[
-"green peppers",
-"pepper plant green",
-"bell peppers ripening",
-"peppers plant"
-]
-],
-[
-"hobi-bahcesinden-kucuk-ciftlige",
-[
-"small farm",
-"hobby farm",
-"smallholding",
-"small farm vegetables"
-]
-],
-[
-"koye-tasinmadan-once",
-[
-"village house",
-"countryside house garden",
-"rural house",
-"farmhouse garden"
-]
-],
-[
-"lifli-fasulye-fasulye-neden-sert-ve-ipliki-olur",
-[
-"green beans",
-"string beans",
-"bean pods",
-"beans plant"
-]
-],
-[
-"cim-kirpintisi-ne-yapilir-cimde-birakma-malc-ve-kompost",
-[
-"grass clippings",
-"mowing lawn clippings",
-"lawn clippings",
-"grass clippings mulch"
-]
-],
-[
-"cimde-larva-zarari",
-[
-"lawn grubs",
-"white grubs",
-"lawn damage brown patches",
-"grub lawn"
-]
-],
-[
-"cimde-mantar-cikmasi",
-[
-"lawn mushrooms",
-"fairy ring",
-"mushrooms lawn",
-"fairy ring lawn"
-]
-],
-[
-"domates-catlamasi-meyve-neden-catlar-nasil-onlenir",
-[
-"tomato cracking",
-"cracked tomatoes",
-"tomato fruit cracks",
-"tomatoes cracked"
+"leaf edema",
+"plant leaf bumps underside",
+"tomato leaf blisters",
+"leaf spots plant"
 ]
 ],
 [
 "dunya-su-gunu-bahcede-sebzenin-haftalik-su-ihtiyaci-ve-tasarruf",
 [
-"watering vegetable garden",
-"drip irrigation vegetables",
-"water droplets plant",
-"vegetable garden irrigation"
+"watering vegetable garden hose",
+"watering can vegetables",
+"drip irrigation vegetable bed",
+"watering garden"
 ]
 ],
 [
 "soguk-hava-deposu-nasil-calisir",
 [
-"cold storage vegetables",
-"fruit storage warehouse",
-"apple storage",
-"potato storage"
-]
-],
-[
-"akdeniz-bahcesi-tasarimi",
-[
-"mediterranean garden",
-"lavender garden stone",
-"olive tree garden",
-"gravel garden"
-]
-],
-[
-"bahce-aydinlatma-bitkiler",
-[
-"garden lighting night",
-"white flowers night garden",
-"moon garden",
-"garden lights"
-]
-],
-[
-"bahce-yolu-bitkileri",
-[
-"garden path plants",
-"creeping thyme path",
-"stepping stones plants",
-"stone path garden"
-]
-],
-[
-"japon-bahcesi",
-[
-"japanese garden",
-"japanese garden stones",
-"zen garden",
-"japanese garden pond"
-]
-],
-[
-"nevruz-ve-bahar",
-[
-"spring awakening garden",
-"spring flowers bulbs",
-"crocus spring",
-"early spring garden"
-]
-],
-[
-"on-bahce-duzenleme",
-[
-"front garden",
-"front yard garden",
-"front yard plants",
-"front garden design"
-]
-],
-[
-"cim-bicme-yuksekligi",
-[
-"lawn mowing",
-"mowing grass",
-"lawn mower grass",
-"short lawn"
+"potato storage",
+"vegetable storage warehouse",
+"apple storage crates",
+"cold room fruit crates"
 ]
 ],
 [
 "cim-gubreleme-takvimi",
 [
-"lawn fertilizer",
-"fertilizer spreader lawn",
-"lawn care",
-"lawn"
-]
-],
-[
-"damla-sulama-hesabi",
-[
-"drip irrigation tube",
-"drip emitter",
-"drip irrigation",
-"drip line vegetables"
+"lawn fertilizer spreader",
+"lawn fertilizing",
+"green lawn garden",
+"lawn care"
 ]
 ],
 [
 "damla-sulama-tikanmasi",
 [
-"drip filter",
-"irrigation filter",
-"drip emitter clogged",
-"drip irrigation filter"
+"drip irrigation filter",
+"irrigation filter screen",
+"drip emitter",
+"drip irrigation line"
 ]
 ],
 [
 "nisan-ayinda-bahcede-yapilacaklar",
 [
-"garden work spring",
-"planting garden",
 "gardening spring",
-"garden bed"
-]
-],
-[
-"sus-otlari",
-[
-"ornamental grasses",
-"miscanthus",
-"pennisetum",
-"ornamental grass garden"
+"digging garden",
+"garden planting spring",
+"garden raking spring"
 ]
 ],
 [
 "cim-bicme-makinesi-bakimi",
 [
 "lawn mower blade",
-"mower maintenance",
-"lawn mower",
-"sharpening mower blade"
-]
-],
-[
-"el-capasi",
-[
-"garden hoe",
-"hoeing garden",
-"hoe weeding",
-"rotary tiller garden"
-]
-],
-[
-"orman-haftasi-fidan",
-[
-"tree planting",
-"planting tree sapling",
-"reforestation",
-"sapling planting"
+"sharpening lawn mower",
+"lawn mower maintenance",
+"lawn mower repair"
 ]
 ],
 [
 "sulama-suyu-kalitesi",
 [
-"irrigation water well",
-"well water pump",
-"water quality sample",
-"irrigation canal"
+"irrigation water sample",
+"well water irrigation",
+"irrigation canal water",
+"water well pump field"
 ]
 ],
 [
 "sulama-zaman-ayarlayici",
 [
-"irrigation timer",
-"garden water timer",
-"hose timer",
-"watering timer"
-]
-],
-[
-"yagmurlama-basligi-secimi",
-[
-"sprinkler",
-"lawn sprinkler",
-"garden sprinkler",
-"rotary sprinkler"
-]
-],
-[
-"dal-ogutme-makinesi",
-[
-"wood chipper",
-"branch shredder",
-"wood chips mulch",
-"garden shredder"
-]
-],
-[
-"gunes-enerjili-su-pompasi",
-[
-"solar water pump",
-"solar panel pump",
-"solar irrigation",
-"solar panels field"
+"garden hose timer",
+"irrigation controller",
+"watering timer tap",
+"sprinkler timer"
 ]
 ],
 [
 "ilaclama-pompasi-basinc-dusmesi",
 [
-"pressure sprayer",
-"garden sprayer",
-"sprayer pump",
-"pump sprayer"
+"pressure sprayer garden",
+"knapsack sprayer pump",
+"hand sprayer",
+"sprayer pump"
 ]
 ],
 [
 "nisan-ayinda-hangi-cicekler-ekilir",
 [
-"flower seeds sowing",
 "sowing flower seeds",
-"flower seedlings",
-"zinnia seedlings"
-]
-],
-[
-"pe-boru-baglanti-parcalari",
-[
-"irrigation fittings",
-"pe pipe fittings",
-"drip irrigation connectors",
-"irrigation pipe"
+"flower seed packets",
+"zinnia seedlings",
+"sweet pea seeds"
 ]
 ],
 [
 "su-deposuyla-sulama",
 [
 "water tank garden",
-"rainwater tank",
-"water barrel garden",
-"irrigation tank"
-]
-],
-[
-"kirpi-dostu-bahce",
-[
-"hedgehog garden",
-"hedgehog",
-"hedgehog house",
-"hedgehog"
+"rain barrel garden",
+"water barrel irrigation",
+"water tank drip irrigation"
 ]
 ],
 [
 "orman-bahcesi",
 [
 "food forest",
-"forest garden",
+"forest garden edible",
 "edible forest garden",
-"edible garden trees"
+"permaculture garden trees"
 ]
 ],
 [
 "pompayla-sivi-gubre-uygulamasi",
 [
-"foliar spray",
-"liquid fertilizer garden",
-"spraying plants",
-"sprayer vegetables"
-]
-],
-[
-"yagmur-bahcesi",
-[
-"rain garden",
-"rain garden plants",
-"bioswale",
-"rain garden stones"
+"spraying liquid fertilizer",
+"foliar spraying",
+"sprayer vegetables",
+"garden sprayer plants"
 ]
 ],
 [
@@ -1022,538 +212,160 @@
 "bat box",
 "bat house",
 "bat box tree",
-"bat"
-]
-],
-[
-"bahce-havuzu-kurbaga",
-[
-"garden pond",
-"garden pond frog",
-"frog pond",
-"pond plants"
-]
-],
-[
-"biyocesitlilik-bahce",
-[
-"wildlife garden",
-"pollinator garden",
-"wildflower garden",
-"garden biodiversity"
+"bat roost box"
 ]
 ],
 [
 "okul-bahcesi",
 [
 "school garden",
-"children garden",
-"school garden vegetables",
-"kids school garden"
-]
-],
-[
-"tavuklar-bahceye-zarar-verir-mi",
-[
-"chickens garden",
-"chickens vegetable garden",
-"hens garden",
-"free range chickens garden"
-]
-],
-[
-"yabani-arilar",
-[
-"wild bees",
-"bumblebee flower",
-"solitary bee",
-"mason bee"
+"children school garden vegetables",
+"kids gardening school",
+"school garden raised beds"
 ]
 ],
 [
 "bahce-kulesi-temizligi",
 [
-"washing planter",
-"cleaning flower pots",
-"vertical planter",
-"planter tower"
+"stacked flower pots",
+"strawberry planter tower",
+"vertical garden planter",
+"tiered planter"
 ]
 ],
 [
 "balkon-yatagi-mevsim-plani",
 [
 "balcony vegetable garden",
-"balcony raised bed",
 "balcony planter box vegetables",
-"balcony vegetables"
-]
-],
-[
-"bildircin-yetistirme",
-[
-"quail",
-"quail eggs",
-"japanese quail",
-"quail chicks"
-]
-],
-[
-"dalya-yumrusu-dikimi",
-[
-"dahlia tubers",
-"dahlia",
-"dahlia flowers",
-"planting dahlia tubers"
-]
-],
-[
-"sera-zemini",
-[
-"greenhouse floor",
-"greenhouse gravel path",
-"greenhouse interior floor",
-"greenhouse"
-]
-],
-[
-"tavsan-gubresi",
-[
-"rabbit manure",
-"rabbit pellets",
-"rabbit droppings",
-"rabbit"
-]
-],
-[
-"misirda-kocan-kurdu",
-[
-"corn earworm",
-"corn ear damage",
-"corn cob worm",
-"maize pest"
-]
-],
-[
-"narenciye-hasat-zamani",
-[
-"orange harvest",
-"citrus harvest",
-"oranges tree",
-"citrus orchard"
-]
-],
-[
-"ordek-ve-kaz-yetistirme",
-[
-"ducks garden",
-"geese garden",
-"ducks",
-"ducks slug"
-]
-],
-[
-"salcalik-domates-yetistirme",
-[
-"processing tomatoes field",
-"tomato field harvest",
-"tomato rows",
-"tomato harvester"
-]
-],
-[
-"sus-adacayi",
-[
-"salvia flowers",
-"salvia nemorosa",
-"ornamental sage",
-"purple salvia"
-]
-],
-[
-"tavuklar-icin-yesil-yem",
-[
-"chickens grass",
-"chickens greens",
-"hens eating greens",
-"chickens"
-]
-],
-[
-"frigo-cilek-fidesi",
-[
-"strawberry bare root plants",
-"strawberry transplants",
-"strawberry plants bundle",
-"strawberry seedlings"
-]
-],
-[
-"mandalina-bahcesi",
-[
-"mandarin orchard",
-"mandarin tree",
-"tangerines tree",
-"satsuma"
-]
-],
-[
-"sebze-hasat-zamani-nasil-anlasilir",
-[
-"harvesting vegetables",
-"vegetable harvest basket",
-"harvest tomatoes",
-"zucchini harvest"
-]
-],
-[
-"silajlik-misir-yetistirme",
-[
-"silage corn",
-"maize silage harvester",
-"corn field",
-"forage harvester"
-]
-],
-[
-"tursuluk-sebze-yetistirme",
-[
-"pickling vegetables",
-"cucumbers pickling",
-"cabbage field",
-"pickles jar"
+"balcony tomatoes",
+"balcony garden pots"
 ]
 ],
 [
 "yesillik-saklama",
 [
-"parsley",
-"dill herbs",
-"herbs bunch",
-"fresh herbs"
-]
-],
-[
-"biralik-arpa",
-[
-"malting barley",
-"barley field",
-"barley ears",
-"barley"
-]
-],
-[
-"kabak-cicegi-hasadi",
-[
-"squash blossoms",
-"zucchini flower",
-"zucchini blossom",
-"pumpkin flower"
-]
-],
-[
-"kuru-fasulye-hasadi",
-[
-"dry beans",
-"bean harvest",
-"dried beans",
-"beans"
-]
-],
-[
-"ravent-yetistirme-sap-hasadi-ve-yaprak-uyarisi",
-[
-"rhubarb",
-"rhubarb plant",
-"rhubarb stalks",
-"rhubarb garden"
-]
-],
-[
-"sarimsak-orme",
-[
-"garlic braid",
-"garlic drying",
-"garlic bulbs",
-"garlic harvest"
-]
-],
-[
-"yem-pancari-yetistirme",
-[
-"fodder beet",
-"mangel",
-"fodder beets",
-"beet field"
+"fresh parsley bunch",
+"dill herbs bunch",
+"fresh herbs bunch",
+"herbs in glass water"
 ]
 ],
 [
 "fide-dikim-derinligi",
 [
-"planting tomato seedling deep",
-"transplanting seedling",
-"tomato seedling planting",
-"planting seedlings"
-]
-],
-[
-"sera-sulama-programi",
-[
-"greenhouse drip irrigation",
-"greenhouse watering",
-"greenhouse tomatoes drip",
-"greenhouse irrigation"
-]
-],
-[
-"tohum-ekim-topragi",
-[
-"seed starting mix",
-"seed tray soil",
-"seedling tray",
-"sowing seeds tray"
+"planting tomato seedling",
+"tomato seedling transplanting",
+"transplanting seedlings hands",
+"pepper seedlings planting"
 ]
 ],
 [
 "yatak-arasi-yesil-tunel",
 [
-"bean trellis tunnel",
-"trellis tunnel garden",
-"tomato trellis",
-"garden arch beans"
+"bean trellis arch",
+"garden arch trellis beans",
+"cucumber tunnel trellis",
+"tomato trellis garden"
 ]
 ],
 [
 "yukseltilmis-yatakta-gubreleme-ilk-yil-ve-sezon-ici-program",
 [
-"raised bed fertilizing",
 "raised bed compost",
-"vegetable raised bed",
-"raised bed vegetables"
-]
-],
-[
-"bocek-filesi",
-[
-"insect netting garden",
-"garden netting",
-"row cover vegetables",
-"crop netting"
-]
-],
-[
-"hezaren-yetistirme",
-[
-"delphinium",
-"delphinium flowers",
-"larkspur",
-"delphiniums"
+"raised bed vegetables",
+"raised bed garden soil",
+"vegetable raised bed"
 ]
 ],
 [
 "ilaclama-saati-ruzgar",
 [
-"spraying wind",
-"crop spraying tractor",
+"spraying crops wind",
+"crop sprayer tractor",
 "sprayer drift",
-"anemometer wind"
-]
-],
-[
-"polikarbon-sera",
-[
-"polycarbonate greenhouse",
-"polycarbonate panels",
-"greenhouse polycarbonate",
-"hobby greenhouse"
-]
-],
-[
-"sardunya-bahar-budamasi",
-[
-"pruning geranium",
-"pelargonium pruning",
-"geranium cuttings",
-"geranium pots"
-]
-],
-[
-"azot-acligi",
-[
-"wood chips garden",
-"wood mulch garden",
-"wood chip mulch",
-"sawdust"
-]
-],
-[
-"dolu-filesi",
-[
-"hail net orchard",
-"anti hail net",
-"orchard netting",
-"hail damage fruit"
-]
-],
-[
-"fide-tutmama",
-[
-"wilting transplants",
-"transplant shock",
-"seedlings wilting",
-"dead seedlings"
-]
-],
-[
-"karik-sulama",
-[
-"furrow irrigation",
-"furrow irrigation field",
-"irrigation furrows",
-"flood irrigation field"
+"farmer spraying field"
 ]
 ],
 [
 "nisan-ayi-hasat-takvimi",
 [
-"spring harvest vegetables",
 "radish harvest",
-"spinach harvest",
-"lettuce harvest"
+"spinach harvest garden",
+"lettuce harvest garden",
+"harvesting spring vegetables"
 ]
 ],
 [
 "fulvik-asit",
 [
 "humic acid",
-"humic substances soil",
 "leonardite",
-"foliar spray plants"
+"humic soil amendment",
+"dark soil humus"
 ]
 ],
 [
 "min-maks-termometre-bahcede-gece-sicakligini-olcmek",
 [
-"max min thermometer",
 "garden thermometer",
-"weather station garden",
-"thermometer plants"
-]
-],
-[
-"sera-otomasyonu",
-[
-"greenhouse automation",
-"greenhouse fan",
-"greenhouse vent",
-"greenhouse"
-]
-],
-[
-"siklamen-yazlama",
-[
-"cyclamen",
-"cyclamen pot",
-"cyclamen flowers",
-"cyclamen tubers"
+"outdoor thermometer",
+"thermometer plants frost",
+"weather thermometer garden"
 ]
 ],
 [
 "yatak-gunes-yonu",
 [
-"garden bed sunlight",
-"raised bed sun",
-"vegetable garden sunny",
-"garden shade sun"
-]
-],
-[
-"ayciceginde-canavar-otu",
-[
-"broomrape",
-"sunflower field",
-"sunflower",
-"orobanche"
+"sunny vegetable garden",
+"vegetable garden sun",
+"raised bed sunlight",
+"vegetable garden rows sun"
 ]
 ],
 [
 "bahce-kulesinde-gubreleme-siklik-katlara-dagilim-ve-tuz-birikmesi",
 [
 "strawberry tower",
-"vertical planter",
-"vertical garden fertilizer",
-"salt crust pot"
-]
-],
-[
-"portulaka-yetistirme",
-[
-"portulaca",
-"portulaca flowers",
-"moss rose",
-"purslane"
-]
-],
-[
-"tarim-kireci",
-[
-"agricultural lime",
-"lime spreading",
-"limestone powder",
-"lime soil field"
-]
-],
-[
-"venturi-gubre-enjektoru",
-[
-"venturi injector",
-"fertigation injector",
-"fertilizer injector irrigation",
-"fertigation"
-]
-],
-[
-"cok-yillik-cicekler",
-[
-"perennial flowers",
-"perennial garden border",
-"perennials",
-"echinacea"
-]
-],
-[
-"euphorbia-bakimi",
-[
-"euphorbia",
-"euphorbia plant",
-"euphorbia flowers",
-"euphorbia pot"
+"vertical garden tower",
+"tower garden vegetables",
+"stacked planter strawberries"
 ]
 ],
 [
 "golgede-sebze-yetistirme",
 [
-"shade vegetables",
 "lettuce shade garden",
-"leafy greens garden shade",
-"shade garden"
+"shade vegetables",
+"leafy greens garden",
+"spinach lettuce garden"
 ]
 ],
 [
-"kompostlanmayan-maddeler",
+"meyve-agacina-solucan-gubresi-tac-izdusumu",
 [
-"compost pile",
-"compost bin",
-"compost scraps",
-"compost"
+"fruit tree orchard",
+"peach orchard",
+"apple orchard rows",
+"orchard fruit trees"
 ]
 ],
 [
-"yesilliklerde-nitrat",
+"kisin-boy-atan-salon-bitkisi",
 [
-"lettuce leaves",
-"spinach leaves",
-"leafy greens",
-"arugula"
+"houseplant",
+"indoor plant window",
+"pothos plant",
+"monstera plant"
+]
+],
+[
+"ilaclama-pompasi-tetik-degisimi",
+[
+"garden sprayer",
+"hand pump sprayer",
+"pump sprayer garden",
+"spraying garden plants"
 ]
 ]
 ]
