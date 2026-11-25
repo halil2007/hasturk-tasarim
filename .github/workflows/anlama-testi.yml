@@ -1,0 +1,21 @@
+name: Bilge Bey konuşma anlama testi
+
+# Yayındaki Bilge Bey'e uydurma sohbetler sorar (yazım hatası, önceki mesaja bağlı soru, bitki / ürün değiştirme, düzeltme,
+# birden çok dert, selam / teşekkür, mağaza soruları) ve cevapları puanlar. Testler kayda geçmez (X-Ak-Test). Yardımcı
+# model ve ana yapay zekâ çağrıları birkaç sent tutar.
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Birinci set (kurallar bunlarla geliştirildi)
+        run: node scripts/anlama-testi.mjs --canli | tee -a $GITHUB_STEP_SUMMARY
+      - name: İkinci set (genelleme ölçüsü)
+        run: node scripts/anlama-testi.mjs --canli https://hasturk-arama.halilc2007.workers.dev --set2 | tee -a $GITHUB_STEP_SUMMARY

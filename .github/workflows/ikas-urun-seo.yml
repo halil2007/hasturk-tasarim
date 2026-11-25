@@ -1,0 +1,71 @@
+name: ikas bahçe yatağı ürün sayfaları (dump / SEO)
+
+# MODE=dump: ürünlerin mevcut ad, açıklama ve meta alanlarını veri/yatak-urun-seo/ altına yazar (yalnızca okuma).
+# scripts/yatak-urun-seo/plan-*.json bulunursa plana göre günceller ("apply": false iken kuru çalıştırma).
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['veri/yatak-urun-seo/plan-*.json', 'scripts/ikas-urun-seo.mjs', '.github/workflows/ikas-urun-seo.yml']
+
+permissions:
+  contents: write
+
+concurrency: ikas-urun-seo
+
+jobs:
+  seo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Plan var mı
+        id: plan
+        run: |
+          if ls veri/yatak-urun-seo/plan-hasturk.json >/dev/null 2>&1; then echo "var=1" >> "$GITHUB_OUTPUT"; else echo "var=0" >> "$GITHUB_OUTPUT"; fi
+      - name: HasTürk (oku)
+        if: steps.plan.outputs.var == '0'
+        run: node scripts/ikas-urun-seo.mjs
+        env:
+          MODE: dump
+          OUT_NAME: hasturk
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası (oku)
+        if: steps.plan.outputs.var == '0'
+        run: node scripts/ikas-urun-seo.mjs
+        env:
+          MODE: dump
+          OUT_NAME: tarim
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
+      - name: Okunanları dala kaydet
+        if: steps.plan.outputs.var == '0'
+        run: |
+          git config user.name "yatak-seo"
+          git config user.email "actions@users.noreply.github.com"
+          git add veri/yatak-urun-seo
+          git diff --cached --quiet || (git commit -m "Bahçe yatağı ürünleri: mevcut ad, açıklama ve meta (ikas)" && git push origin HEAD:${GITHUB_REF_NAME})
+      - name: HasTürk (uygula)
+        if: steps.plan.outputs.var == '1'
+        run: node scripts/ikas-urun-seo.mjs
+        env:
+          MODE: apply
+          PLAN: veri/yatak-urun-seo/plan-hasturk.json
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası (uygula)
+        if: steps.plan.outputs.var == '1'
+        run: node scripts/ikas-urun-seo.mjs
+        env:
+          MODE: apply
+          PLAN: veri/yatak-urun-seo/plan-tarim.json
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

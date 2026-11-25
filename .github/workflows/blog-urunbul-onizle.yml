@@ -1,0 +1,40 @@
+name: Blog Ürün Bul önizleme
+
+# Canlı blog ve mağaza sayfalarına bu daldaki derlenmiş widget enjekte edilerek ekran görüntüsü alınır (siteye yazılmaz).
+# Görüntüler onizleme-ekran dalına yazılır.
+on:
+  workflow_dispatch:
+    inputs:
+      canli:
+        description: 'Yayındaki hali dene (enjekte etme)'
+        type: boolean
+        default: false
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/blog-urunbul-onizle.mjs', '.github/workflows/blog-urunbul-onizle.yml', 'public/pm-search.js']
+
+permissions:
+  contents: write
+
+jobs:
+  onizle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - run: node scripts/blog-urunbul-onizle.mjs
+        env:
+          CANLI: ${{ github.event.inputs.canli == 'true' && '1' || '0' }}
+      - name: Görüntüleri onizleme-ekran dalına yaz
+        if: always()
+        run: |
+          cd cikti && git init -q && git checkout -q -b onizleme-ekran
+          git config user.name "onizleme" && git config user.email "actions@users.noreply.github.com"
+          git add . && git commit -qm "Blog Ürün Bul önizleme" && \
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" onizleme-ekran

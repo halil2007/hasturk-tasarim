@@ -1,0 +1,75 @@
+name: Blog canlı kontrol
+
+# Yayından sonra blog sayfalarını canlı Worker'dan yoklar (yalnız okuma; veritabanına yazmaz)
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/blog-canli.yml']
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Yayını bekle ve sayfaları yokla
+        run: |
+          B=https://hasturk-arama.halilc2007.workers.dev/blog
+          for i in $(seq 1 30); do
+            k=$(curl -s -o /tmp/ana.html -w '%{http_code}' "$B?r=$RANDOM")
+            if [ "$k" = 200 ] && grep -q 'blog-statik/site.css?v=35' /tmp/ana.html; then echo "Blog yayında ($i. deneme)"; break; fi
+            echo "bekleniyor: $k"; sleep 20
+          done
+          hata=0
+          kontrol() { k=$(curl -s -o /tmp/s -w '%{http_code}' "$B$1"); if [ "$k" = "$2" ]; then echo "✓ $k $1"; else echo "✗ $k (beklenen $2) $1"; hata=1; fi; }
+          for u in "" /kategoriler /kategori/cicekler /ortanca-bakimi-ve-cicek-actirma-rehberi /saksida-limon-agaci-bakimi /hangi-bitki-hangi-topragi-sever /soru-cevap "/ara?q=toprak" /giris /kayit /hakkimizda /gizlilik /uyelik-sozlesmesi /cerez-politikasi /topluluk-kurallari /kaktus-bakimi-sulama-isik-ve-toprak /solucan-gubresi-nedir-nasil-kullanilir /kasim-ayinda-bahcede-yapilacaklar /sitemap.xml /robots.txt /llms.txt /feed.xml /panel/giris /perlit-nedir-nasil-kullanilir /monstera-deve-tabani-bakimi /balkonda-domates-yetistirme /sonbaharda-cim-bakimi /aralik-ayinda-bahcede-yapilacaklar /meyve-fidani-dikimi /kisin-salon-bitkisi-bakimi /yazarlar /yazar/halil-ibrahim-celik /yazar/mehmet-fatih-celik; do kontrol "$u" 200; done
+          kontrol /olmayan-sayfa 404
+          curl -s "$B/perlit-nedir-nasil-kullanilir" | grep -q 'foto/perlit.webp' && echo "✓ eski yazıda yeni kapak görseli" || { echo "✗ kapak görseli değişmemiş"; hata=1; }
+          curl -s "$B/monstera-deve-tabani-bakimi" | grep -q 'foto/monstera2.webp' && echo "✓ monstera yazısında konuya uygun kapak" || { echo "✗ monstera kapağı düzelmemiş"; hata=1; }
+          curl -s "$B/lale-sogani-dikimi" | grep -q 'foto/lale2.webp' && echo "✓ lale yazısında konuya uygun kapak" || { echo "✗ lale kapağı düzelmemiş"; hata=1; }
+          for f in humus-toprak kokopit-lif sulama-kabi p1-cim-tohum p1-domates-hastalik leca p2-ilk-bicim p2-kirmizi-orumcek p2-pompa-bakim p3-zeytin-hastalik p3-kahve-telvesi p3-evcil-hayvan p4-mantar-sinegi p4-japon-akcaagac p4-kabuklu-bit p5-cilek-hastalik p5-kursuni-kuf p5-noel-gulu p6-pas p6-mildiyo p6-bodur-meyve p7-asma p7-kardelen p7-incir-hastalik p7-cogaltma p8-antraknoz p8-kanola p8-karaleke p8-ayva p9-toprak-gunu p9-zeytin-sinegi p9-kivi-gubre p9-tatli-patates p10-kroton p10-etcil p10-alic p10-zambak p11-karinca p11-antep p11-kudret-nari p11-mine-cicegi; do k=$(curl -s -o /dev/null -w '%{http_code}' "https://hasturk-arama.halilc2007.workers.dev/blog-statik/foto/$f.webp"); echo "$( [ $k = 200 ] && echo ✓ || echo ✗) $k foto/$f.webp"; [ $k = 200 ] || hata=1; done
+          kontrol /panel 303
+          kontrol /git/tarim-perliti 302
+          for u in /blog-statik/site.css /blog-statik/ikon.svg /blog-statik/foto/ortanca.webp /pm-search.js; do k=$(curl -s -o /dev/null -w '%{http_code}' "https://hasturk-arama.halilc2007.workers.dev$u"); echo "$( [ $k = 200 ] && echo ✓ || echo ✗) $k $u"; [ $k = 200 ] || hata=1; done
+          curl -sI "$B" | grep -qi 'x-robots-tag' && echo "✓ önizleme adresi (workers.dev) arama motorlarına kapalı" || { echo "✗ önizleme adresinde noindex yok"; hata=1; }
+          D=https://blog.hasturkgubre.com.tr
+          curl -s "$D/robots.txt" | grep -q '^Allow: /$' && echo "✓ robots.txt: blog arama motorlarına açık" || { echo "✗ robots.txt kapalı (kurulum modu)"; hata=1; }
+          curl -s "$D/?r=$RANDOM" > /tmp/d.html; grep -q 'name="robots" content="noindex' /tmp/d.html && { echo "✗ ana sayfada noindex var"; hata=1; } || echo "✓ ana sayfa indekslenebilir"
+          grep -q 'rel="canonical" href="https://blog.hasturkgubre.com.tr' /tmp/d.html && echo "✓ canonical asıl alan adı" || { echo "✗ canonical yok"; hata=1; }
+          curl -sI "$D/sitemap.xml" | grep -qi 'x-robots-tag' && { echo "✗ site haritası noindex"; hata=1; } || echo "✓ site haritası açık ($(curl -s "$D/sitemap.xml" | grep -c '<loc>') adres)"
+          curl -s "$B/ortanca-bakimi-ve-cicek-actirma-rehberi" > /tmp/y.html
+          grep -q 'class="ip"' /tmp/y.html && echo "✓ yazı içi ürün kartı" || { echo "✗ ürün kartı yok"; hata=1; }
+          grep -q 'cdn.myikas.com/images/' /tmp/y.html && echo "✓ ürün görselleri ikas CDN" || { echo "✗ ürün görseli yok"; hata=1; }
+          grep -q 'BlogPosting' /tmp/y.html && grep -q 'FAQPage' /tmp/y.html && echo "✓ yapısal veri" || { echo "✗ yapısal veri"; hata=1; }
+          U=$(grep -o 'https://cdn.myikas.com/images/[^"]*' /tmp/y.html | head -1); echo "görsel: $(curl -s -o /dev/null -w '%{http_code}' "$U") $U"
+          curl -s "$B/soru-cevap" > /tmp/sc.html; n=$(grep -o 'class="qk"' /tmp/sc.html | wc -l); [ "$n" -ge 12 ] && echo "✓ soru-cevap listesinde $n soru" || { echo "✗ soru-cevap: $n soru"; hata=1; }
+          Q=$(grep -o 'href="/blog/soru-cevap/[0-9][^"]*"' /tmp/sc.html | head -1 | cut -d'"' -f2); curl -s "https://hasturk-arama.halilc2007.workers.dev$Q" | grep -q 'QAPage' && echo "✓ soru sayfası QAPage $Q" || { echo "✗ QAPage yok $Q"; hata=1; }
+          echo "yazı sayısı (sitemap): $(curl -s "$B/sitemap.xml" | grep -c '<loc>')"
+          for u in / /soru-cevap /kaktus-bakimi-sulama-isik-ve-toprak /blog-statik/site.css /google29b16f5fbf542b36.html /cerez-politikasi /favicon.ico /blog-statik/fav/192.png /blog-statik/site.webmanifest; do k=$(curl -s -o /dev/null -w '%{http_code}' "https://blog.hasturkgubre.com.tr$u"); echo "$( [ $k = 200 ] && echo ✓ || echo ✗) blog alan adı $k $u"; [ $k = 200 ] || hata=1; done
+          n=$(grep -o 'class="soc"' /tmp/d.html | wc -l); s=$(grep -oE 'aria-label="HasTürk [^"]+"' /tmp/d.html | wc -l); [ "$n" -ge 1 ] && [ "$s" -ge 3 ] && echo "✓ site altında $s sosyal medya hesabı" || { echo "✗ sosyal medya simgeleri yok"; hata=1; }
+          # 60 günlük plan: paket yükleme, ürünsüz kapaklar, Mikdat, fotoğraf atfı
+          k=$(curl -s -o /dev/null -w '%{http_code}' "https://hasturk-arama.halilc2007.workers.dev/blog-statik/foto/humix.webp"); [ "$k" = 404 ] && echo "✓ ürün ambalajı fotoğrafı kaldırıldı" || { echo "✗ humix.webp hâlâ duruyor ($k)"; hata=1; }
+          curl -s "$D/sivi-gubre-mi-kati-gubre-mi?r=$RANDOM" > /tmp/h.html
+          grep -q 'foto/gubre-granul.webp' /tmp/h.html && echo "✓ sıvı-katı gübre yazısında ürünsüz kapak" || { echo "✗ kapak değişmemiş"; hata=1; }
+          grep -q 'class="kredi"' /tmp/h.html && echo "✓ CC BY fotoğrafta yazar/lisans satırı" || { echo "✗ fotoğraf atıf satırı yok"; hata=1; }
+          grep -rq 'Miktat' /tmp/h.html && { echo "✗ eski yazar adı"; hata=1; } || echo "✓ yazar adı Mikdat"
+          P=$(curl -s "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/" -o /dev/null -w '%{http_code}'); echo "paket klasörü listesi: $P (beklenen 404)"
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p01.1090e42fa9.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p01.1090e42fa9.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ yazı paketi noindex" || { echo "✗ paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p02.6dfad79bce.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p02.6dfad79bce.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ ikinci yazı paketi yayında ve noindex" || { echo "✗ ikinci paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p03.8d5e346027.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p03.8d5e346027.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ üçüncü yazı paketi yayında ve noindex" || { echo "✗ üçüncü paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p04.d261d6bd3c.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p04.d261d6bd3c.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ dördüncü yazı paketi yayında ve noindex" || { echo "✗ dördüncü paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p05.349bc90f4a.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p05.349bc90f4a.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ beşinci yazı paketi yayında ve noindex" || { echo "✗ beşinci paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p06.f39d2fe66f.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p06.f39d2fe66f.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ altıncı yazı paketi yayında ve noindex" || { echo "✗ altıncı paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p07.838babee10.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p07.838babee10.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ yedinci yazı paketi yayında ve noindex" || { echo "✗ yedinci paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p08.81691430a5.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p08.81691430a5.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ sekizinci yazı paketi yayında ve noindex" || { echo "✗ sekizinci paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p09.9f48cb71b2.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p09.9f48cb71b2.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ dokuzuncu yazı paketi yayında ve noindex" || { echo "✗ dokuzuncu paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p10.257733207b.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p10.257733207b.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ onuncu yazı paketi yayında ve noindex" || { echo "✗ onuncu paket dosyası yok ya da noindex değil"; hata=1; }
+          curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p11.891bde88cf.bin" | grep -q ' 200' && curl -sI "https://hasturk-arama.halilc2007.workers.dev/blog-statik/veri/p11.891bde88cf.bin" | grep -qi 'x-robots-tag: noindex' && echo "✓ on birinci yazı paketi yayında ve noindex" || { echo "✗ on birinci paket dosyası yok ya da noindex değil"; hata=1; }
+          for m in menu.json tarim/menu.json; do j=$(curl -s "https://hasturk-arama.halilc2007.workers.dev/$m?t=$(date +%s)"); echo "$j" | grep -q '"phone":"+90 553 727 29 29"' && echo "$j" | grep -q '"whatsapp":"905537272929"' && echo "✓ Bilge Bey / arama müşteri hizmetleri numarası güncel ($m)" || { echo "✗ $m eski ya da eksik müşteri hizmetleri numarası"; hata=1; }; done
+          curl -s "$D/robots.txt" | grep -q 'Disallow: /blog-statik/veri/' && echo "✓ robots.txt paket klasörünü kapatıyor" || { echo "✗ robots.txt paket kuralı yok"; hata=1; }
+          for u in /cim-tohumu-nasil-ekilir /domates-hastaliklari /ilk-cim-bicimi /akulu-pompa-bakimi-ve-kislatma /cim-hastaliklari /zeytin-hastaliklari /neem-yagi /mantar-sinegi /japon-akcaagaci /kabuklu-bit /cilek-hastaliklari /kiraz-hastaliklari /noel-gulu /pas-hastaligi /mildiyo-nedir /bodur-meyve-agaclari /asma-hastaliklari /kardelen-yetistirme /incir-hastaliklari /salon-bitkisi-cogaltma /antraknoz /bahce-defteri /karaleke-hastaligi /kanola-yetistirme /dunya-toprak-gunu /zeytin-sinegi /kivi-gubreleme /tatli-patates-yetistirme /kokina-bakimi /cicek-topragi /zambak-yetistirme /alic-yetistirme /bahcede-karinca /antep-fistigi-gubreleme /kudret-nari-yetistirme /mine-cicegi-yetistirme; do k=$(curl -s -o /dev/null -w '%{http_code}' "$D$u"); [ "$k" = 404 ] && echo "✓ zamanlanmış paket yazısı henüz gizli $u" || echo "• $k $u (26 Ekim'den sonra 200 olmalı)"; done
+          curl -s "$D/yazar/halil-ibrahim-celik?r=$RANDOM" | grep -q 'linkedin.com/in/halil-ibrahim' && echo "✓ yazar sayfasında LinkedIn (sameAs)" || { echo "✗ yazar sayfasında LinkedIn yok"; hata=1; }
+          curl -s "$D/sitemap.xml" | grep -q '/yazar/mehmet-fatih-celik' && echo "✓ site haritasında yazar sayfaları" || { echo "✗ site haritasında yazar yok"; hata=1; }
+          k=$(curl -s -o /dev/null -w '%{http_code}' "$B/dosya/0000000000000000"); [ "$k" = 404 ] && echo "✓ fotoğraf adresi çalışıyor (olmayan dosya 404)" || { echo "✗ fotoğraf adresi $k"; hata=1; }
+          echo "süre (ana sayfa): $(curl -s -o /dev/null -w '%{time_total}' "$B")s"
+          exit $hata

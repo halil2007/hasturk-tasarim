@@ -1,0 +1,42 @@
+name: Blog yeni tasarım canlı kontrol
+
+# Yayından sonra ana sayfa, Soru-Cevap, arama ve yazarken öneriyi canlıda dener (scripts/blog-yeni-test.mjs);
+# arama motoru/yapay zekâ uyumunu (scripts/blog-seo-test.mjs) kontrol eder; sonuçlar blog-yeni-test dalına yazılır. Yalnız okuma.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/blog-yeni-test.mjs', 'scripts/blog-seo-test.mjs', '.github/workflows/blog-yeni-test.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  dene:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Yayını bekle
+        run: |
+          for i in $(seq 1 40); do
+            if curl -s "https://blog.hasturkgubre.com.tr/?r=$RANDOM" | grep -q 'site.css?v=32'; then echo "yeni sürüm yayında ($i)"; break; fi
+            echo "bekleniyor"; sleep 20
+          done
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - run: node scripts/blog-yeni-test.mjs https://blog.hasturkgubre.com.tr
+      - name: Arama motoru ve yapay zekâ uyumu
+        if: always()
+        run: node scripts/blog-seo-test.mjs https://blog.hasturkgubre.com.tr
+      - name: Ekran görüntülerini dala yaz
+        if: always()
+        run: |
+          cd cikti && git init -q && git checkout -q -b blog-yeni-test
+          git config user.name "blog-yeni-test" && git config user.email "actions@users.noreply.github.com"
+          git add . && git commit -qm "Blog yeni tasarım canlı kontrol" && \
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" blog-yeni-test

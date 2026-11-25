@@ -1,0 +1,31 @@
+name: Alt bilgi denemesi
+
+# Yeni alt bilgiyi canlı sitede yayınlamadan dener (scripts/footer-test.mjs); ekran görüntüleri footer-test dalına yazılır.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/footer-test.mjs', '.github/workflows/footer-test.yml', 'widget/pm-search.js']
+
+permissions:
+  contents: write
+
+jobs:
+  dene:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - run: node scripts/footer-test.mjs https://hasturkgubre.com.tr/
+      - name: Ekran görüntülerini footer-test dalına yaz
+        run: |
+          cd cikti && git init -q && git checkout -q -b footer-test
+          git config user.name "footer-test" && git config user.email "actions@users.noreply.github.com"
+          git add . && git commit -qm "Alt bilgi denemesi" && \
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" footer-test

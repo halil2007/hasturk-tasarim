@@ -1,0 +1,45 @@
+name: ikas açıklama güncelle
+
+# Plan dosyasındaki ürünlerin yalnız açıklamasını günceller. Elle "uygula" işaretlenmezse deneme (mağazaya dokunmaz).
+on:
+  workflow_dispatch:
+    inputs:
+      uygula:
+        description: 'Uygula (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+      plan:
+        description: 'Plan dosyası (veri/urun-guncelle/ altında)'
+        default: 'ataturk-aciklama.json'
+
+permissions:
+  contents: read
+
+concurrency: ikas-aciklama-yaz
+
+jobs:
+  yaz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      PLAN: veri/urun-guncelle/${{ github.event.inputs.plan || 'ataturk-aciklama.json' }}
+      APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/ikas-aciklama-yaz.mjs
+        env:
+          SITE: hasturk
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası
+        run: node scripts/ikas-aciklama-yaz.mjs
+        env:
+          SITE: tarim
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

@@ -1,0 +1,84 @@
+name: ikas ürünlerini senkronla
+
+on:
+  schedule:
+    - cron: '17 3 */3 * *'   # 3 günde bir, Türkiye saatiyle 06:17 (kullanıcı kararı, 8 Kasım 2026: günlükten 3 güne indirildi; yeni ürün eklenince elle çalıştırılır). GitHub zamanlaması 20–40 dk gecikebilir
+  workflow_dispatch:          # Actions sekmesinden elle çalıştırma
+  push:
+    branches: [main]          # sadece yayındaki dalda; çalışma dallarına commit atmasın
+    paths: ['config.json', 'config.*.json', 'scripts/sync.mjs', 'scripts/karisim-veri.mjs', 'scripts/tasarla-veri.mjs']   # yalnız eşitlemeyi değiştiren dosyalar (her betik değişikliği ikinci bir yayına yol açmasın)
+
+permissions:
+  contents: write
+
+concurrency: sync
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Ürünleri çek
+        run: node scripts/sync.mjs
+        env:
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+          IKAS_MERCHANT_ID: ${{ secrets.IKAS_MERCHANT_ID }}
+          IKAS_SALES_CHANNEL_ID: ${{ secrets.IKAS_SALES_CHANNEL_ID }}
+          # Tarım Dünyası'nın siparişleri de algoritmaya katılır (aynı ürünler)
+          OTHER_STORE: hasturktarimdunyasi
+          OTHER_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          OTHER_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
+          OTHER_PRODUCTS: public/tarim/products.json
+      - name: Kendi karışımı fiyatları (ürün sayfasından)
+        continue-on-error: true
+        run: node scripts/karisim-veri.mjs
+      - name: Kendin Tasarla seçenek ve fiyatları (sipariş ürününün sayfasından)
+        continue-on-error: true
+        run: node scripts/tasarla-veri.mjs
+      - name: Tarım Dünyası kendi karışımı (ürün ikas'ta açılınca kendiliğinden devreye girer; yoksa atlanır)
+        continue-on-error: true
+        run: mkdir -p public/tarim && node scripts/karisim-veri.mjs
+        env:
+          SITE_URL: https://tarim-dunyasi.com
+          OUT: public/tarim/karisim.json
+      - name: Tarım Dünyası ürünlerini çek (2. mağaza)
+        # Anahtarlar yoksa atlanır; hata olursa 1. mağazanın senkronu yine kaydedilir
+        continue-on-error: true
+        run: node scripts/sync.mjs
+        env:
+          SITE: tarim
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
+          # HasTürk'ün siparişleri de algoritmaya katılır
+          OTHER_STORE: ${{ secrets.IKAS_STORE }}
+          OTHER_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          OTHER_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+          OTHER_PRODUCTS: public/products.json
+      - name: Değiştiyse kaydet
+        run: |
+          git config user.name "urun-senkron"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/products.json
+          if [ -f public/karisim.json ]; then git add public/karisim.json; fi
+          if [ -f public/tasarla/secenek.json ]; then git add public/tasarla/secenek.json; fi
+          if [ -f public/menu.json ]; then git add public/menu.json; fi
+          if [ -f docs/trend-raporu.md ]; then git add docs/trend-raporu.md; fi
+          if [ -d public/tarim ]; then git add public/tarim; fi
+          if [ -f docs/trend-raporu-tarim.md ]; then git add docs/trend-raporu-tarim.md; fi
+          git diff --cached --quiet && exit 0
+          git commit -m "Ürünler güncellendi"
+          # Senkron sürerken ana kola başka bir değişiklik girdiyse gönderme reddedilir: o değişikliği alıp yeniden dene.
+          # Çakışmada bu senkronun ürün verisi kalır (bir sonraki saat zaten baştan üretir).
+          for i in 1 2 3 4; do
+            git push && exit 0
+            git pull --rebase -X theirs origin main || { git rebase --abort; exit 1; }
+            sleep $((i * 5))
+          done
+          exit 1

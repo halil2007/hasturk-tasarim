@@ -1,0 +1,68 @@
+[
+ {
+  "baslangic": "2026-10-09",
+  "toplam": 124,
+  "hazir": 81,
+  "claude": 43,
+  "cevapsiz": 5,
+  "tahmini_usd": 0.644,
+  "sepete_eklenen": 9,
+  "evet": 6,
+  "hayir": 0
+ },
+ {
+  "baslangic": "2026-10-12",
+  "toplam": 226,
+  "hazir": 161,
+  "claude": 64,
+  "cevapsiz": 18,
+  "tahmini_usd": 1.184,
+  "sepete_eklenen": 275,
+  "evet": 7,
+  "hayir": 1
+ },
+ {
+  "baslangic": "2026-10-19",
+  "toplam": 28,
+  "hazir": 13,
+  "claude": 3,
+  "cevapsiz": 12,
+  "tahmini_usd": 0.059,
+  "sepete_eklenen": 0,
+  "evet": 1,
+  "hayir": 3
+ },
+ {
+  "baslangic": "2026-10-26",
+  "toplam": 32,
+  "hazir": 16,
+  "claude": 10,
+  "cevapsiz": 7,
+  "tahmini_usd": 0.257,
+  "sepete_eklenen": 2,
+  "evet": 2,
+  "hayir": 0
+ },
+ {
+  "baslangic": "2026-11-02",
+  "toplam": 37,
+  "hazir": 18,
+  "claude": 18,
+  "cevapsiz": 8,
+  "tahmini_usd": 0.471,
+  "sepete_eklenen": 1,
+  "evet": 1,
+  "hayir": 4
+ },
+ {
+  "baslangic": "2026-11-17",
+  "toplam": 77,
+  "hazir": 48,
+  "claude": 25,
+  "cevapsiz": 6,
+  "tahmini_usd": 0.558,
+  "sepete_eklenen": 4,
+  "evet": 5,
+  "hayir": 4
+ }
+]

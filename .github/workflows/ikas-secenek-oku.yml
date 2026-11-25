@@ -1,0 +1,32 @@
+name: ikas seçenek türü oku
+
+# Salt okuma: ikas'ta "5 Lt" değerli seçenek türünü ve HG Antoryum Çiçeği Toprağı şablonunu iş günlüğüne yazar.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/ikas-secenek-oku.mjs', '.github/workflows/ikas-secenek-oku.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  oku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/ikas-secenek-oku.mjs
+        env:
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - run: node scripts/ikas-secenek-oku.mjs
+        continue-on-error: true
+        env:
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

@@ -1,0 +1,140 @@
+name: Ak Bilge canlı kontrol
+
+# Yayındaki Ak Bilge'yi dener: havuzdan cevaplanan bir soru, Claude'a giden bir soru, öne çıkan sorular ve sitedeki ayar.
+# Mağazaya dokunmaz. Varsayılan olarak yalnız havuz soruları ve sayaç (ücretsiz); ZOR=1 iken Claude'a giden zor sorular da
+# denenir (birkaç sent).
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/ak-check.yml']
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Dene
+        env:
+          ZOR: '0'
+        run: |
+          W=https://hasturk-arama.halilc2007.workers.dev
+          H='-H Origin:https://hasturkgubre.com.tr -H Content-Type:application/json -H X-Ak-Test:1'
+          echo "## Konum (cevap merkezi ve veritabanı bölgesi; bu kontrol ABD'deki GitHub sunucusundan yapılır)" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 20 $W/ak/konum | tee -a $GITHUB_STEP_SUMMARY; echo
+          curl -s -o /dev/null -m 30 $H -d '{"q":"limon ağacına hangi gübre","s":"hasturk","n":"Bilge Bey"}' -w 'havuz cevabı süresi (GitHub sunucusundan): %{time_total} sn\n' $W/ak | tee -a $GITHUB_STEP_SUMMARY
+          echo "## Havuz sorusu" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 30 $H -d '{"q":"limon ağacına hangi gübre","s":"hasturk","n":"Ak Bilge"}' $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);print('kaynak:',d.get('kaynak'),'| ürün:',len(d.get('urunler') or []),'|',(d.get('cevap') or '')[:160].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          if [ "${ZOR:-0}" = "1" ]; then
+          echo "## Claude sorusu" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 40 $H -d '{"q":"fesleğen nasıl yetiştirilir, ne sıklıkla sulanır","s":"hasturk","n":"Ak Bilge"}' $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);print('kaynak:',d.get('kaynak'),'| neden:',d.get('neden'),'| ürün:',d.get('urunler'),'|',(d.get('cevap') or '')[:400].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          fi
+          echo "## İletişim ve elle yazılmış cevaplar" | tee -a $GITHUB_STEP_SUMMARY
+          for q in "müşteri hizmetleri numarası nedir" "telefonunuz var mı" "blok kokopit var mı" "hangi çim tohumunu önerirsin" "yapraklar yapış yapış oldu" "siparişim ne zaman gelir"; do
+            curl -s -m 30 $H -d "{\"q\":\"$q\",\"s\":\"hasturk\",\"n\":\"Bilge Bey\"}" $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);print('- $q →',d.get('kaynak'),'|',d.get('tur'),'|',(d.get('cevap') or '')[:160].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          done
+          echo "## Galvaniz ürünleri, satın alma ve kısa sorular (havuzdan, ücretsiz gelmeli)" | tee -a $GITHUB_STEP_SUMMARY
+          while IFS='|' read -r q g p; do
+            curl -s -m 30 $H -d "{\"q\":\"$q\",\"g\":[${g}],\"p\":\"$p\",\"s\":\"hasturk\",\"n\":\"Bilge Bey\"}" $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);print('- $q →',d.get('kaynak'),'|',d.get('tur'),'|',(d.get('urunler') or [])[:2],'|',(d.get('cevap') or '')[-260:].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          done <<'SORU'
+          odunluk kaç ster alır||
+          4 ster odun için hangi odunluk||
+          kuşhane var mı||
+          klima dış ünitesi için koruma kafesi var mı||
+          garaj için raf lazım||
+          odunluk almak istiyorum||
+          4 adet 40 lt almak istiyorum||yaban-mersini-ve-ortanca-topragi
+          Merkez neresi||
+          Blue beriy||
+          Hangi marka tavsiye|"Yaban mersini için gübre"|
+          araç gölgeliği var mı||
+          arı kovanı sehpası almak istiyorum||
+          sera iskeleti var mı||
+          Hastürk gübre konya bayiliği nerde||
+          İstanbul da mı yeriniz||
+          Telefonu açmıyo lar||
+          Merhaba işlenmemiş saf orman ata toprağı bulabilirmiyiz||
+          perlit fiyatı||
+          çim kapama toprağı nasıl kullanılır||
+          orkidem çiçek açmıyor||
+          SORU
+          echo "## Önerilen sorular (hepsi havuzdan, ücretsiz gelmeli)" | tee -a $GITHUB_STEP_SUMMARY
+          for q in "Ekim ayında ne ekilir?" "Solucan Gübresi nasıl kullanılır?" "Roka tohumu nasıl ekilir?" "Limon için hangi gübre?" "Siparişler ne zaman kargoya veriliyor?"; do
+            curl -s -m 30 $H -d "{\"q\":\"$q\",\"s\":\"hasturk\",\"n\":\"Ak Bilge\"}" $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);print('- $q →',d.get('kaynak'),'|',(d.get('cevap') or '')[:90].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          done
+          echo "## Bitki sorunları ve ürün kartı (havuzdan, ücretsiz gelmeli)" | tee -a $GITHUB_STEP_SUMMARY
+          for q in "saksıda küçük sinekler var" "bitkimin yaprakları neden sarardı" "orkidem çiçek açmıyor" "domatesin altı kararıyor" "yaprak biti için ilaç" "Chrysamed Subon Bitki Yaprak Bakım Spreyi nasıl kullanılır" "Areka palmiyesi ne sıklıkla sulanır" "Saksı çiçeklerine hangi gübre?" "Domates tohumu çeşitleri neler" "Hangi çiçek tohumları var" "biber tohumu ne zaman ekilir" "domates için gübre" "singonyum için nasıl bir toprak almam lazım" "sinekkapan için toprak" "jakaranda için nasıl bir toprak almam lazım"; do
+            curl -s -m 30 $H -d "{\"q\":\"$q\",\"s\":\"hasturk\",\"n\":\"Ak Bilge\"}" $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);c=d.get('cevap') or '';print('- $q →',d.get('kaynak'),'| tür:',d.get('tur'),'| ara:',d.get('ara'),d.get('n'),'| uzunluk:',len(c),'| ürün:',d.get('urunler'),'|',c[:700].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          done
+          if [ "${ZOR:-0}" = "1" ]; then
+          echo "## Zor sorular (yanlış bilgi vermemeli)" | tee -a $GITHUB_STEP_SUMMARY
+          for q in "gül için solucan gübresi kaç gram verilir" "kargom ne zaman gelir" "domatesin yaprakları sararıp kuruyor ne yapmalıyım" "en iyi telefon hangisi" "fare zehiri kaç gram koymalıyım" "salyangozlar çileklerimi yiyor ne yapayım"; do
+            echo "- $q" | tee -a $GITHUB_STEP_SUMMARY
+            curl -s -m 40 $H -d "{\"q\":\"$q\",\"s\":\"hasturk\",\"n\":\"Ak Bilge\"}" $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);print('   kaynak:',d.get('kaynak'),'| neden:',d.get('neden'),'| ürün:',d.get('urunler'),'|',(d.get('cevap') or '')[:500].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          done
+          fi
+          echo "## Widget sağlığı (son 30 gün: kaç sn'de çalıştı, hatalar)" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 20 "$W/trends" | python3 -c "import sys,json;d=json.load(sys.stdin);print('yükleme:', '; '.join(f'{x[0]}: {x[1]}' for x in d.get('yt',[])) or '-');print('hatalar:', '; '.join(f'{x[0]}: {x[1]}' for x in d.get('er',[])) or '-')" | tee -a $GITHUB_STEP_SUMMARY
+          echo "## Sayaç (bugün / son 7 gün)" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 20 $W/ak/sayac | python3 -c "import sys,json;d=json.load(sys.stdin);[print(k, '→ toplam',d[k]['toplam'],'| havuz',d[k]['havuz'],'| claude',d[k]['claude'],'| token giriş',d[k]['giris'],'çıkış',d[k]['cikis'],'| tahmini \$',d[k]['tahmini_usd']) for k in ('bugun','son7')];print('ayrıntı:',d['bugun']['satir']);print('oylar:',d['oylar'],'| model:',d['model'],'| sınır:',d['gunluk_sinir'])" | tee -a $GITHUB_STEP_SUMMARY
+          echo "## Öne çıkan sorular" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 20 $W/ak/populer | tee -a $GITHUB_STEP_SUMMARY; echo
+          echo "## Ayar ve widget" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 20 $W/products.json | python3 -c "import sys,json;print('akbilge ayarı:',json.load(sys.stdin)['config'].get('akbilge'))" | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -m 20 $W/pm-search.js | grep -c 'akbilge' | sed 's/^/widget içinde akbilge: /' | tee -a $GITHUB_STEP_SUMMARY
+          curl -s -o /dev/null -w 'maskot görseli: %{http_code}\n' $W/akbilge/avatar.webp | tee -a $GITHUB_STEP_SUMMARY
+      - name: Bakım kartları (havuzdan, ücretsiz gelmeli)
+        run: |
+          W=https://hasturk-arama.halilc2007.workers.dev
+          H='-H Origin:https://hasturkgubre.com.tr -H Content-Type:application/json -H X-Ak-Test:1'
+          echo "## Bakım kartları" | tee -a $GITHUB_STEP_SUMMARY
+          for q in "kroton güneş sever mi" "zambak kedilere zehirli mi" "kivi neden meyve vermiyor" "karpuz olgunluğu nasıl anlaşılır" "sinek kapan nasıl sulanır" "para ağacı yaprakları sararıyor" "leylak ne zaman budanır" "mor salkım ne zaman ekilir" "monstera nasıl sulanır" "bitkimde kurt var" "saksıda küçük sinekler" "gülde yaprak biti" "yapraklarda gümüşi lekeler" "elmanın içinden kurt çıkıyor" "kiraz tek başına meyve verir mi" "zeytin ne zaman toplanır"; do
+            curl -s -m 30 $H -d "{\"q\":\"$q\",\"s\":\"hasturk\",\"n\":\"Bilge Bey\"}" $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);c=d.get('cevap') or '';print('- $q →',d.get('kaynak'),'| tür:',d.get('tur'),'|',c[:140].replace(chr(10),' '))" | tee -a $GITHUB_STEP_SUMMARY
+          done
+      - name: Sohbet ve dağınık sorular (havuzdan, ücretsiz gelmeli)
+        run: |
+          W=https://hasturk-arama.halilc2007.workers.dev
+          H='-H Origin:https://hasturkgubre.com.tr -H Content-Type:application/json -H X-Ak-Test:1'
+          echo "## Sohbet" | tee -a $GITHUB_STEP_SUMMARY
+          sor() { curl -s -m 30 $H -d "$1" $W/ak | python3 -c "import sys,json;d=json.load(sys.stdin);c=d.get('cevap') or '';print('- $2 →',d.get('kaynak'),'| tür:',d.get('tur'),'|',(('TOPRAK KARTI '+str(d.get('bitki'))) if d.get('dinamik')=='toprak' else c[:130].replace(chr(10),' ')))" | tee -a $GITHUB_STEP_SUMMARY; }
+          sor '{"q":"monsteranın yapraklari sariyo ne yapim","s":"hasturk","n":"Bilge Bey"}' 'monsteranın yapraklari sariyo ne yapim'
+          sor '{"q":"domatesin alti kariyo","s":"hasturk","n":"Bilge Bey"}' 'domatesin alti kariyo'
+          sor '{"q":"abi geçen hafta limon aldım bahçeye diktim gübre lazım","s":"hasturk","n":"Bilge Bey"}' 'abi geçen hafta limon aldım bahçeye diktim gübre lazım'
+          sor '{"q":"gübre","s":"hasturk","n":"Bilge Bey"}' 'gübre'
+          sor '{"q":"limon","g":["gübre"],"s":"hasturk","n":"Bilge Bey"}' '[gübre] → limon'
+          sor '{"q":"peki ne kadar sulayayım","g":["monstera aldım salonda duruyor"],"s":"hasturk","n":"Bilge Bey"}' '[monstera aldım] → peki ne kadar sulayayım'
+          sor '{"q":"kışın dışarıda kalır mı","g":["bahçeye zeytin diktim"],"s":"hasturk","n":"Bilge Bey"}' '[zeytin diktim] → kışın dışarıda kalır mı'
+          sor '{"q":"kargo ücretli mi","s":"hasturk","n":"Bilge Bey"}' 'kargo ücretli mi'
+          sor '{"q":"20 litrelik saksıya kaç litre toprak","s":"hasturk","n":"Bilge Bey"}' '20 litrelik saksıya kaç litre toprak'
+          sor '{"q":"kedim var zararsız bitki önerir misin","s":"hasturk","n":"Bilge Bey"}' 'kedim var zararsız bitki önerir misin'
+          sor '{"q":"balkonda monstera ve limon ağacım var","s":"hasturk","n":"Bilge Bey"}' 'balkonda monstera ve limon ağacım var'
+          sor '{"q":"bunu nasıl kullanırım","g":["monstera yaprakları sararıyor"],"su":["tarim-perliti"],"s":"hasturk","n":"Bilge Bey"}' '[perlit önerildi] → bunu nasıl kullanırım'
+          sor '{"q":"peki ya kışın","g":["balkonda monstera ve limon ağacım var","limonun yaprakları dökülüyor","ona hangi gübre","monstera güneş sever mi"],"s":"hasturk","n":"Bilge Bey"}' '[4 mesaj sonra] → peki ya kışın'
+      - name: Çoklu bitki, uzun sohbet ve Tarım Dünyası (havuzdan, ücretsiz gelmeli)
+        run: |
+          W=https://hasturk-arama.halilc2007.workers.dev
+          HG=https://hasturkgubre.com.tr; TD=https://tarim-dunyasi.com
+          # Widget Tarım Dünyası'nda /ak?s=tarim adresine sorar (sunucu o mağazanın ürün listesini buradan seçer)
+          sor() { U=$W/ak; [ "$3" = "$TD" ] && U="$W/ak?s=tarim"; curl -s -m 30 -H "Origin:$3" -H Content-Type:application/json -H X-Ak-Test:1 -d "$1" "$U" | python3 -c "import sys,json;d=json.load(sys.stdin);c=d.get('cevap') or '';print('- $2 →',d.get('kaynak'),'| tür:',d.get('tur'),'| ürün:',d.get('urunler'),'|',(('TOPRAK KARTI '+str(d.get('bitki'))) if d.get('dinamik')=='toprak' else c[:600].replace(chr(10),' ')))" | tee -a $GITHUB_STEP_SUMMARY; }
+          echo "## Çoklu bitki" | tee -a $GITHUB_STEP_SUMMARY
+          sor '{"q":"monstera ve limon ağacımın yaprakları sararıyor","s":"hasturk","n":"Bilge Bey"}' 'monstera ve limon sararıyor' $HG
+          sor '{"q":"orkide ile antoryum nasıl sulanır","s":"hasturk","n":"Bilge Bey"}' 'orkide ile antoryum nasıl sulanır' $HG
+          sor '{"q":"monstera nasıl sulanır ve hangi gübre verilir","s":"hasturk","n":"Bilge Bey"}' 'monstera sulama + gübre' $HG
+          sor '{"q":"hepsine hangi toprak","g":["monsteram var","bir de limon ağacım var","kaktüs de aldım"],"s":"hasturk","n":"Bilge Bey"}' '[3 bitki] → hepsine hangi toprak' $HG
+          sor '{"q":"peki ikisini nasıl budayayım","g":["zeytin ve incir fidanım var"],"s":"hasturk","n":"Bilge Bey"}' '[zeytin ve incir] → ikisini nasıl budayayım' $HG
+          G=$(python3 -c "import json;print(json.dumps(['soru '+str(i) for i in range(40)]+['bahçeye zeytin diktim']+['tamam teşekkürler']*20))")
+          sor "{\"q\":\"kışın dışarıda kalır mı\",\"g\":$G,\"s\":\"hasturk\",\"n\":\"Bilge Bey\"}" '[60 mesajlık sohbet] → kışın dışarıda kalır mı' $HG
+          sor '{"q":"Merhaba, balkonda monstera, limon ağacı, kaktüs ve bir de orkidem var. Monsteranın alt yaprakları sararıyor, limonun yaprakları dökülüyor, orkide de iki yıldır çiçek açmıyor. Kaktüsün dibi yumuşadı galiba çürüyor. Hepsini aynı gün sulayıp duruyorum, haftada iki kez. Ne yapmam lazım, hangi toprak ve gübreyi almalıyım? Ayrıca kışın balkonda kalabilirler mi?","s":"hasturk","n":"Bilge Bey"}' '[uzun mesaj: 4 bitki, 4 dert, 3 soru]' $HG
+          sor '{"q":"Bitkim yaprak döküyor","s":"hasturk","n":"Bilge Bey"}' 'Bitkim yaprak döküyor' $HG
+          sor '{"q":"Peki başka ne önerirsin","g":["Bitkim yaprak döküyor"],"su":["florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini","hasturk-sivi-solucan-gubresi","tarim-perliti"],"s":"hasturk","n":"Bilge Bey"}' '[yaprak döküyor] → Peki başka ne önerirsin' $HG
+          sor '{"q":"Monstera bitkim yaprak döküyor başka hangi ürün önerirsin","g":["Bitkim yaprak döküyor","Peki başka ne önerirsin"],"su":["florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini","hasturk-sivi-solucan-gubresi","tarim-perliti"],"s":"hasturk","n":"Bilge Bey"}' '[…] → Monstera yaprak döküyor başka hangi ürün' $HG
+          sor '{"q":"Solucan gübreside alıyım bunun için","g":["Bitkim yaprak döküyor","Peki başka ne önerirsin","Monstera bitkim yaprak döküyor başka hangi ürün önerirsin"],"s":"hasturk","n":"Bilge Bey"}' '[…] → Solucan gübresi de alayım bunun için' $HG
+          echo "## Tarım Dünyası" | tee -a $GITHUB_STEP_SUMMARY
+          sor '{"q":"limon ağacına hangi gübre","s":"tarim","n":"Bilge Bey"}' 'limon ağacına hangi gübre' $TD
+          sor '{"q":"monsteranın yaprakları sararıyor","s":"tarim","n":"Bilge Bey"}' 'monsteranın yaprakları sararıyor' $TD
+          sor '{"q":"gül için toprak","s":"tarim","n":"Bilge Bey"}' 'gül için toprak' $TD
+          sor '{"q":"saksıda küçük sinekler var","s":"tarim","n":"Bilge Bey"}' 'saksıda küçük sinekler var' $TD
+          sor '{"q":"kedim var zararsız bitki önerir misin","s":"tarim","n":"Bilge Bey"}' 'kedim var zararsız bitki' $TD
+          sor '{"q":"monstera ve kaktüs için toprak","s":"tarim","n":"Bilge Bey"}' 'monstera ve kaktüs için toprak' $TD
+          sor '{"q":"solucan gübresi nasıl kullanılır","s":"tarim","n":"Bilge Bey"}' 'solucan gübresi nasıl kullanılır' $TD
+          curl -s -m 20 $W/tarim/products.json | python3 -c "import sys,json;c=json.load(sys.stdin)['config'];print('Tarım akbilge ayarı:',c.get('akbilge'));print('Tarım kendi karışım ürünü:',(c.get('soilMatch') or {}).get('custom'))" | tee -a $GITHUB_STEP_SUMMARY

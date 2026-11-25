@@ -1,0 +1,37 @@
+name: Bilge Bey bilgi toplama
+
+# Seçili sitelerin rehber / blog sayfalarını indirir ve şifreli olarak çalışma dalına kaydeder (scripts/veri-topla.mjs).
+# Yalnız genel bitki bilgisi çıkarmak için; müşteriye kaynak / site adı gösterilmez. Mağazaya dokunmaz.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/veri-topla.mjs', '.github/workflows/veri-topla.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        site: [plants.ces.ncsu.edu]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/veri-topla.mjs ${{ matrix.site }}
+      - name: Dala kaydet
+        run: |
+          git config user.name "bilgi-toplama"
+          git config user.email "actions@users.noreply.github.com"
+          git add veri/ham
+          git diff --cached --quiet && exit 0
+          git commit -m "Bilgi toplama: ${{ matrix.site }} (şifreli)"
+          for i in 1 2 3 4 5; do git push && exit 0; git pull --rebase origin "${GITHUB_REF_NAME}" || exit 1; sleep $((i * 4)); done
+          exit 1

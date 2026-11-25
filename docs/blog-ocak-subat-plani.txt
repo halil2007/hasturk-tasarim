@@ -1,0 +1,245 @@
+# HasTürk Blog: 1 aylık yazı programı (18 Ocak – 17 Şubat 2027, günde 5–7 yazı)
+# Son zamanlı yazı 17 Ocak 2027'de çıkıyor; bu program ertesi günden başlar. Gün numarası 60 günlük planlarla aynı: 85 = 18 Ocak, 99 = 1 Şubat, 115 = 17 Şubat.
+# Biçim: aile | kategori | odak kelime | çalışma başlığı | gün aralığı (boşsa serbest)
+#
+# Toplam 172 yazı + aynı günlere düşen 6 ay-ay yazısı (docs/blog-ay-ay-plani.txt) = 178 yazı, günde ortalama 5.7.
+# Kitle dengesi: 100 yazı (%58) genel kitleye (topraksız tarım ve hidroponik, ev bitkileri, balkon ve şehir, hobi ve yaşam,
+# doğa dostu bahçe, çocuk ve öğrenci, yatak ve kule); 72 yazı mevsimin çekirdek işlerine (fide ve tohum ekimi, budama ve aşı, fidan, sera, bahar gübresi, tarla).
+#
+# Kazan-kazan ilkesi:
+# - Okur için: her yazı tek bir soruya eksiksiz, doğru ve uygulanabilir cevap verir; ürün almadan da işe yarar (malzeme listesi, ölçü, adım, belirti→neden→çözüm).
+#   Ev bitkisi, balkon, öğrenci evi, kiracı, emekli, çocuklu aile ve topraksız tarım okuru ilk kez kendi diliyle cevap bulur.
+# - Bizim için: yeni arama alanlarına giriş (topraksız tarım, ev bitkisi, balkon, hobi), mevcut ürünlerin doğal kullanımı (kokopit, perlit, solucan gübresi,
+#   saksı toprağı, damla sulama, yatak ve kule). Ürün kartı yalnız yazının konusuyla doğrudan ilgiliyse; satış dili yok, karşılaştırmada dürüst.
+# - Mevsime uygun çekirdek konular (şubatta fide, budama, aşı, fidan) korunur; çiftçi ve seracı okur bu ayda da kendi takvimini bulur.
+#
+# Kurallar (önceki planlarla aynı, ek olarak):
+# - Yamyamlık yok: odaklar sitedeki 1034 yazı, paketler ve bütün planlarla denetlendi
+#   (node scripts/blog-plan-kontrol.mjs docs/blog-ocak-subat-plani.txt --hedef 172 --gun 85-115 --onceki docs/blog-60gun-plani.txt,docs/blog-30gun-plani.txt,docs/blog-60gun-plani-2.txt,docs/blog-ay-ay-plani.txt,docs/blog-kasim-plani.txt;
+#   node scripts/blog-kopya-kontrol.mjs --plan docs/blog-ocak-subat-plani.txt,docs/blog-60gun-plani-2.txt). Aynı niyette olduğu için çıkarılanlar: mercimek bakımı, hümik asit zeytin, leonardit meyve ağacı,
+#   göz/kalem aşısı farkı, akvaponik nedir (akuaponik yazısı var), fındık fidanı dikimi, fındık bahar gübrelemesi, sardunya çelik, toprak analizi (numune yazısı var), martta balkonda ne ekilir.
+# - "Meyve ağacına hümik asit" yazılırken leonardit-hümik farkı yazısından ayrı tutulur (zamanlama ve ağaç yaşı; fark anlatılmaz, bağlantı verilir).
+# - Ürün bilgisi yalnız docs/bilgi/urunler-hasturk.json; budama makası yalnız budama başlıklı yazılarda. Hastalıkta ilaç adı/dozu yok; hayvan sağlığı veterinere.
+# - Görseller: kapaklar telifsiz fotoğraf (yazısız, ambalajsız, insansız; tekrar yok). Yazı içinde tablo, numaralı adım ya da bilgi kutusu kullanılır.
+# Kategori: bb bitki-bakimi · ci cicekler · tr toprak-rehberi · gu gubreleme · sm sebze-meyve · bi bahce-ipuclari · et ekim-takvimi · gd gundem
+#
+# Günlük: 85=6 86=6 87=6 88=5 89=6 90=5 91=5 92=6 93=6 94=6 95=6 96=6 97=5 98=5 99=6 100=6 101=6 102=6 103=4 104=5 105=4 106=6 107=5 108=6 109=6 110=5 111=5 112=5 113=6 114=6 115=6
+
+## Q: Topraksız tarım ve hidroponik (yeni)
+Q|bi|fitilli hidroponik sistem|Fitilli Sistem: Pompasız ve En Basit Topraksız Yetiştirme
+Q|bi|gelgit sistemi|Gelgit (Ebb and Flow) Sistemi: Masa Tipi Topraksız Yetiştirme
+Q|sm|hidroponik fesleğen|Hidroponik Fesleğen ve Mutfak Otları: Tezgâhta Sürekli Hasat
+Q|bi|hidroponik sistem temizliği|Hidroponik Sistem Temizliği: Yosun, Biyofilm ve Tıkanmaya Karşı Bakım
+Q|bb|hidroponikte kök çürüklüğü|Hidroponikte Kök Çürüklüğü: Kahverengi Kökler, Nedenleri ve Önlem
+Q|bi|hidroponik fide küpü|Hidroponik Fide Üretimi: Cocopeat, Sünger ve Taş Yünü Küplerde Çimlendirme
+Q|bi|tezgah üstü akıllı bahçe|Tezgâh Üstü Akıllı Bahçe Cihazları: Gerçekten İşe Yarar mı?
+Q|bi|hidroponik maliyeti|Evde Hidroponik Ne Kadara Mal Olur? Kurulum ve Aylık Gider Hesabı
+Q|bi|topraksız tarım hataları|Topraksız Tarımda Yeni Başlayanların Yaptığı 10 Hata
+Q|bi|hidroponikte su sıcaklığı|Hidroponikte Su Sıcaklığı ve Oksijen: Köklerin Görünmeyen İhtiyacı
+Q|bb|hidroponikte besin eksikliği|Hidroponikte Besin Eksikliği Belirtileri: Yaprağa Bakarak Teşhis
+Q|bi|balkonda hidroponik|Balkonda Hidroponik: Güneş, Rüzgâr ve Sıcaklıkla Başa Çıkmak
+Q|sm|topraksız domates|Topraksız Domates: Evde ve Hobi Serasında Hidroponik Domates
+
+## V: Ev bitkileri: öğrenci, aile, dükkân (yeni)
+V|bb|hava temizleyen bitkiler|Hava Temizleyen Bitkiler: Araştırmalar Ne Diyor, Evde Ne Beklenmeli?
+V|bb|öğrenci evi bitkileri|Yurt ve Öğrenci Evi İçin Bitkiler: Az Işık, Az Bakım, Küçük Masa
+V|bb|bitkilerle ev dekorasyonu|Bitkilerle Ev Dekorasyonu: Salon, Mutfak ve Yatak Odası İçin Yerleşim
+V|bb|asılı saksı bitkileri|Asılı Saksı Bitkileri: Sarkan Türler, Askı Yeri ve Sulama
+V|bb|koleksiyonluk ev bitkileri|Koleksiyonluk Ev Bitkileri: Alacalı ve Nadir Türlere Başlarken
+V|bb|kokulu ev bitkileri|Kokulu Ev Bitkileri: Evi Doğal Kokuyla Dolduran Türler
+V|bb|ev bitkisi bakım takvimi|Ev Bitkisi Bakım Takvimi: Haftalık ve Aylık Kontrol Listesi
+V|bb|çocuk odası bitkileri|Çocuk Odası İçin Güvenli ve Kolay Bitkiler
+V|bb|kafe ve dükkan bitkileri|Dükkân ve Kafe İçin Bitkiler: Vitrin ve Masada Dayanıklı Türler
+V|bb|zor ölmeyen ev bitkileri|Yeni Başlayanlar İçin Zor Ölmeyen 12 Ev Bitkisi
+
+## B: Balkon ve şehirde yetiştirme (yeni)
+B|bi|balkon zemini koruma|Balkon Zemini Nasıl Korunur? Saksı Altlığı, Ahşap Izgara ve Su Tahliyesi
+B|bi|rüzgârlı balkon bitkileri|Rüzgârlı Balkon İçin Bitkiler ve Saksı Sabitleme
+B|bi|balkonda saksı ağırlığı|Balkonda Saksı Ağırlığı: Toprak, Su ve Güvenli Yük
+B|bi|balkon damla sulama seti|Balkon Damla Sulama Seti: Tatilde ve Yoğun Günlerde Kendi Kendine Sulama
+B|bi|balkonda güvercin|Balkonda Güvercin Sorunu: Bitkilere Zarar Vermeden Uzak Tutmak
+B|bi|balkon güneş ölçümü|Balkonunuz Kaç Saat Güneş Alıyor? Basit Ölçümle Doğru Bitki Seçimi
+B|bi|şehirde yetişen sebze güvenli mi|Şehirde Yetişen Sebze Güvenli mi? Trafik, Toz ve Toprak Kirliliği
+B|bi|balkon sulamasında komşuluk|Balkon Sulamasında Komşuluk: Alt Kata Su Damlatmamanın Yolları
+B|bi|balkonda bitki çayı bahçesi|Balkonda Bitki Çayı Bahçesi: Melisa, Nane, Adaçayı ve Ihlamur
+B|bi|kapı önü saksıları|Kapı Önü ve Giriş Saksıları: Yıl Boyu Şık Duran Dayanıklı Bitkiler
+B|sm|balkonda sebze verimi|Balkonda Ne Kadar Sebze Çıkar? Saksı Başına Gerçekçi Verim
+B|bi|cam balkonda bitki yetiştirme|Cam Balkonda Bitki Yetiştirme: Isı, Işık ve Havalandırma
+
+## J: Bahçe yatağı ve kule (yeni; satış desteği)
+J|ci|bahçe kulesinde çiçek|Bahçe Kulesinde Çiçek: Petunya, Surfinya ve Çilekle Dikey Renk
+J|bi|bahçe yatağı maliyeti|Bahçe Yatağı Kurmanın Maliyeti: Yatak, Toprak ve Fide Hesabı
+J|bi|bahçe kulesi mi yükseltilmiş yatak mı|Bahçe Kulesi mi Yükseltilmiş Yatak mı? Alanınıza Göre Seçim
+J|sm|bahçe kulesi sulama|Bahçe Kulesi Nasıl Sulanır? Üst Kattan Alta Eşit Nem
+J|bi|emekliler için bahçe yatağı|Emekliler İçin Bahçe Yatağı: Eğilmeden, Diz Çökmeden Sebze Yetiştirmek
+J|sm|bahçe yatağında dikey destek|Bahçe Yatağında Dikey Destek: Hıyar, Fasulye ve Domates İçin Ağ ve Çardak
+
+## X: Hobi ve yaşam (yeni)
+X|bi|tohum bombası|Tohum Bombası Yapımı: Kil ve Kompostla Doğaya Çiçek Ekmek
+X|bi|baharat kurutma|Bahçeden Baharata: Kekik, Nane ve Fesleğeni Kurutup Saklamak
+X|bi|bitki fotoğrafı çekmek|Bitki Fotoğrafı Çekmek: Bahçenizi Telefonla Güzel Göstermenin İpuçları
+X|bi|bahçeciliğe başlama bütçesi|Bahçeciliğe Başlamak Ne Kadara Mal Olur? Balkon, Bahçe ve Yatak İçin Bütçe
+X|bi|bitkilerden doğal boya|Bitkilerden Doğal Boya: Ceviz, Soğan Kabuğu ve Kökboya ile Boyamak
+X|bi|hobiden gelire bahçecilik|Hobiden Gelire: Fide, Aromatik Bitki ve Çiçek Satarak Küçük Kazanç
+X|bi|bahçe topluluğu kurmak|Bahçe Topluluğu Kurmak: Mahallede Bitki ve Bilgi Paylaşımı
+X|bi|yarıyıl tatilinde bitki etkinliği|Yarıyıl Tatilinde Çocuklarla 7 Bitki Etkinliği|85-95
+X|bi|minyatür bahçe|Minyatür Bahçe: Saksıda Küçük Peyzaj ve Peri Bahçesi
+X|gd|bahçe sevene hediye|Bahçe Sevene Hediye Fikirleri: Tohumdan Saksıya 15 Öneri
+
+## 2 aylık plandan bu aya alınan genel kitle konuları (docs/blog-60gun-plani-2.txt bölümleri U, Y, O, D, E, I)
+U|gu|salon bitkisine solucan gübresi|Salon Bitkilerine Solucan Gübresi: Kokusuz mu, Ne Sıklıkla?|
+U|gu|solucan gübresi çay|Solucan Gübresi Çayı Nasıl Hazırlanır?|
+U|tr|kokopit blok nasıl açılır|Kokopit Blok Nasıl Açılır? Suyla Şişirme Adımları|
+U|sm|mikro tarım|Mikro Tarım Nedir? Küçük Alanda Planlı Üretim|
+U|sm|topraksız tarım nedir|Topraksız Tarım Nedir? Yöntemler ve Evde Başlangıç|
+U|bi|şehir tarımı|Şehir Tarımı: Balkon, Çatı ve Ortak Alanlarda Üretim|
+U|sm|suda bitki yetiştirme|Suda Bitki Yetiştirme: Topraksız Mutfak ve Salon Bitkileri|
+Y|sm|mantar yetiştirme ortamı|Mantar Yetiştirme Ortamı: Saman, Talaş ve Kahve Telvesi|
+Y|sm|shiitake yetiştirme|Shiitake Mantarı Kütükte Nasıl Yetiştirilir?|
+Y|sm|hidroponik marul|Hidroponik Marul Yetiştirme: Evde Basit Düzenek|
+Y|sm|hidroponik besin çözeltisi|Hidroponik Besin Çözeltisi: EC ve pH Nedir?|
+Y|sm|nft sistemi|NFT Sistemi Nedir? Topraksız Tarımda Su Kanalı Yöntemi|
+Y|sm|derin su kültürü|Derin Su Kültürü (DWC) ile Sebze Yetiştirme|
+Y|sm|aeroponik nedir|Aeroponik Nedir, Hidroponikten Farkı Ne?|
+Y|bi|çatı bahçesi|Çatı Bahçesi Kurmak: Taşıma Yükü, Su Yalıtımı ve Rüzgar|
+Y|bi|apartman bahçesi|Apartman Ortak Bahçesinde Sebze Bahçesi Kurmak|
+Y|sm|filiz yetiştirme kavanoz|Kavanozda Filiz Yetiştirme: Mercimek, Mung ve Yonca|
+Y|bi|bitki yetiştirme çadırı|Bitki Yetiştirme Çadırı (Grow Tent) Nedir?|
+Y|sm|ec metre kullanımı|EC Metre Nasıl Kullanılır? Besin Çözeltisi ve Sulama Suyu|
+E|bi|kılcal sulama saksı|Fitilli Sulama: Tatilde Saksı Bitkilerini Sulamak|
+E|bi|kürek çapa tırmık seçimi|İlk Bahçe İçin Alet Listesi: Kürek, Çapa, Tırmık ve Diğerleri|
+D|bi|permakültür nedir|Permakültür Nedir? Küçük Bahçeye Uygulanabilir İlkeler|
+D|bi|böcek oteli|Böcek Oteli Nasıl Yapılır?|
+D|bi|sıfır atık bahçe|Sıfır Atık Bahçecilik: Evdeki Atıklardan Bahçe Malzemesi|
+D|bi|kuş evi yapımı|Kuş Evi Nasıl Yapılır? Delik Çapı ve Asma Yüksekliği|85-110
+O|bi|fasulye çimlendirme deneyi|Pamukta Fasulye Çimlendirme: Çocuklar İçin Deney|85-98
+O|bi|kediler saksıyı kazıyor|Kedi Saksı Toprağını Kazıyor: Bitkiyi ve Kediyi Korumak|
+O|bi|arıcılığa başlamak|Arıcılığa Başlamak: İlk Kovan İçin Bilinmesi Gerekenler|
+O|bb|akvaryum bitkileri|Akvaryum Bitkileri: Başlangıç İçin Kolay Türler|
+O|bi|bahçe günlüğü|Bahçe Günlüğü Tutmak: Ekim, Hasat ve Hava Notları|
+O|bi|bitki günlüğü çocuk|Çocuklar İçin Bitki Gözlem Defteri|
+U|bi|kompost eleme|Kompost Nasıl Elenir ve Ne Zaman Kullanıma Hazırdır?|
+U|tr|kokopit kaç kez kullanılır|Kokopit Tekrar Kullanılır mı? Yenileme ve Dezenfeksiyon|
+Y|sm|topraksız çilek üretimi|Topraksız Çilek Üretimi: Oluk ve Torba Sistemi|
+Y|bi|kara asker sineği kompost|Kara Asker Sineği Larvası ile Kompost|
+Y|sm|mikro yeşillik satışı|Mikro Yeşillik Satmak: Küçük Ölçekli Üretim Rehberi|
+E|bi|bahçe eldiveni seçimi|Bahçe Eldiveni Seçimi: Dikenli İşten Fide Dikimine|
+E|bi|el arabası seçimi|Bahçe El Arabası Seçimi|
+E|bi|motorlu çapa bakımı|Motorlu Çapa Bakımı: Sezon Öncesi Kontrol|100-115
+D|bi|kuşları bahçeye çekmek|Kuşları Bahçeye Çekmek: Yemlik, Su ve Bitki|
+D|bi|örtü bitkisi|Örtü Bitkileri: Toprağı Boş Bırakmamak|
+D|bi|yerli bitkilerle bahçe|Yerli Bitkilerle Bahçe: Türkiye Florasından Süs Bitkileri|
+O|bi|tavuk kümesi kurmak|Hobi Kümesi Kurmak: 5 Tavuk İçin Alan ve Malzeme|
+O|bi|köpek dostu bahçe|Köpek Dostu Bahçe: Zehirsiz Bitkiler ve Dayanıklı Çim|
+O|bi|kuş kafesi yanında bitki|Muhabbet Kuşu ve Bitkiler: Kafes Yakınında Güvenli Türler|
+O|bi|kovan yeri seçimi|Arı Kovanı Nereye Konur? Güneş, Rüzgar ve Su|
+I|sm|sürekli hasat planı|Ardışık Ekim: Bütün Yaz Taze Sebze İçin Ekim Aralıkları|
+I|sm|aile için sebze bahçesi ölçüsü|4 Kişilik Aile İçin Sebze Bahçesi Ne Kadar Olmalı?|
+O|tr|akvaryum bitki toprağı|Akvaryum Bitki Toprağı ve Kum Seçimi|
+
+## 2 aylık plandan bu aya alınan mevsim konuları (pencere 115'e kırpıldı)
+A|et|ege bölgesinde şubat ekimi|Ege'de Şubat: Erken Ekim ve Bahar Hazırlığı|95-105
+A|et|iç anadolu bahar ekim zamanı|İç Anadolu'da Bahar Ekimi Ne Zaman Başlar? Son Don Tarihine Göre Plan|110-115
+A|et|son don tarihi|Son Don Tarihi Nedir, Kendi Bölgeniz İçin Nasıl Bulunur?|100-115
+A|gd|sevgililer günü bitki hediyesi|Sevgililer Günü İçin Çiçek Yerine Saksı Bitkisi: Uzun Ömürlü Hediye Önerileri|103-109
+A|et|güneydoğu anadolu bahar ekimi|Güneydoğu Anadolu'da Bahar Ekimi ve Erken Sıcaklar|105-115
+A|et|marmara bahar ekim takvimi|Marmara Bölgesinde Bahar Ekim Takvimi|110-115
+P|bi|budama yarası macunu|Budama Yarası Nasıl Kapatılır? Aşı Macunu Ne Zaman Gerekir?|95-115
+P|bi|budama aletleri dezenfeksiyon|Budama Aletleri Nasıl Dezenfekte Edilir? Hastalık Taşımayı Önleme|91-110
+P|bi|aşı kalemi saklama|Aşı Kalemi Ne Zaman Alınır, Nasıl Saklanır?|91-110
+F|sm|domates fidesi ne zaman ekilir|Domates Fidesi Ne Zaman Ekilir? Bölgelere Göre Tohum Ekim Tarihi|91-105
+F|sm|biber tohumu ekimi|Biber Tohumu Ekimi: Çimlenme Sıcaklığı ve Süresi|91-108
+F|sm|salatalık tohumu ekimi|Salatalık Tohumu Nasıl Ekilir? Viyolde ve Doğrudan Ekim|110-115
+F|sm|salçalık biber yetiştirme|Salçalık Kapya Biber Yetiştirme: Tohumdan Hasada|95-115
+F|sm|çengelköy salatalığı|Çengelköy Salatalığı Yetiştirme: Kıtır Yerli Hıyar|110-115
+F|sm|oturak hıyar yetiştirme|Oturak (Bodur) Hıyar Yetiştirme: Sırık Gerektirmeyen Salatalık|110-115
+F|sm|fındık turpu yetiştirme|Fındık Turpu Yetiştirme: 30 Günde Hasat|99-115
+F|sm|çin turpu yetiştirme|Çin Turpu (Daikon) Yetiştirme|99-115
+F|sm|helen tere yetiştirme|Tere Yetiştirme: Saksıda ve Bahçede Helen Tere|99-115
+F|sm|kuşkonmaz tohumu ekimi|Kuşkonmaz Tohumdan Nasıl Yetiştirilir? Sabır İsteyen Çok Yıllık Sebze|105-115
+F|ci|karagöz çiçeği yetiştirme|Karagöz (Rudbeckia) Çiçeği Tohumdan Nasıl Yetiştirilir?|110-115
+F|sm|ön çimlendirme|Tohumları Ekimden Önce Islatmak: Hangi Tohumlar Bekletilir?|91-115
+F|sm|doğrudan ekim yapılan sebzeler|Fide Gerektirmeyen, Doğrudan Ekilen Sebzeler|110-115
+F|bi|tohum ekim takvimi defteri|Bahçe Defteri: Ekim, Gübreleme ve Hasat Kaydı Nasıl Tutulur?|91-110
+F|sm|patlıcan tohumu ekimi|Patlıcan Tohumu Ekimi ve Çimlenme Süresi|91-110
+F|sm|marul tohumu bahar ekimi|Baharda Marul ve Roka Ekimi|110-115
+F|sm|ıspanak bahar ekimi|Baharlık Ispanak Ekimi|105-115
+K|sm|yeni dikilen fidan sulama|Yeni Dikilen Fidan Ne Sıklıkla Sulanır? İlk Yıl Sulama Planı|99-115
+K|sm|fidan neden kurur|Fidan Neden Kurur, Yaprakları Neden Sararır?|105-115
+K|sm|dikim budaması|Dikim Budaması: Dikimden Sonra Fidan Kesilir mi?|95-115
+K|sm|gövde güneş yanığı|Genç Fidanda Gövde Güneş Yanığı ve Dondan Korunma|91-115
+K|sm|anaç sürgünü|Anaç Sürgünü Nedir? Aşı Noktasının Altından Çıkan Dallar|110-115
+K|sm|bodur ve yarı bodur fidan|Bodur, Yarı Bodur ve Çöğür Fidan Farkı: Dikim Aralıkları|91-115
+K|sm|saksıdan toprağa fidan dikimi|Saksıdaki Fidanı Toprağa Dikmek: Kök Topunu Bozmadan|99-115
+K|sm|kiraz fidanı dikimi|Kiraz Fidanı Dikimi: Tozlayıcı Çeşit ve Mesafe|91-115
+K|sm|ceviz fidanı dikimi|Ceviz Fidanı Dikimi ve İlk Yıllarda Bakım|91-115
+K|sm|ağaçların uyanma zamanı|Ağaçlar Ne Zaman Uyanır? Göz Kabarmasından Çiçeğe|105-115
+K|sm|meyve bahçesi planlama|Küçük Meyve Bahçesi Planı: 10 Ağaçla Yıl Boyu Meyve|91-115
+K|sm|sütunvari elma|Sütunvari Elma: Balkon ve Dar Bahçe İçin Meyve Ağacı|99-115
+R|bi|sera yönü ve ölçüsü|Sera Hangi Yöne Kurulur? Ölçü ve Yükseklik Seçimi|91-105
+R|bi|sera havalandırması|Sera Havalandırması ve Nem Kontrolü|99-115
+R|bi|sera ısıtma|Serayı Ekonomik Isıtmak: Gece Soğuğuna Karşı Pratik Yollar|91-110
+R|sm|serada domates yetiştirme|Serada Domates Yetiştirme: Dikimden Hasada|110-115
+R|tr|sera toprağı yorgunluğu|Sera Toprağı Yorgunluğu: Toprak Yenileme ve Solarizasyon|99-115
+R|tr|torba kültürü kokopit|Serada Torba Kültürü: Kokopit ve Perlit ile Topraksız Üretim|105-115
+R|bi|serada hastalık önleme|Serada Mantar Hastalıklarını Havalandırmayla Önlemek|110-115
+U|gu|fideye solucan gübresi|Fidelere Solucan Gübresi Verilir mi? Doğru Oran ve Zaman|95-115
+U|gu|meyve ağacına solucan gübresi|Meyve Ağacına Katı Solucan Gübresi: Taç İzdüşümüne Uygulama|99-115
+U|gu|hümik asit fide|Fidelerde Hümik Asit: Kök Gelişimine Etkisi|95-115
+U|tr|vermikülit tohum çimlendirme|Vermikülitte Tohum Çimlendirme|95-115
+U|bi|tohum saklama|Tohum Nasıl Saklanır? Kuru, Serin ve Etiketli|110-115
+U|bi|bahar öncesi pompa kontrolü|Sezona Başlamadan İlaçlama Pompası Kontrol Listesi|105-115
+U|gu|meyve ağacına hümik asit|Meyve Ağaçlarında Hümik Asit Ne Zaman Verilir?|99-115
+G|gu|bahar gübresi ne zaman atılır|Bahar Gübresi Ne Zaman Atılır? Ağaç, Bahçe ve Çim İçin|99-115
+G|gu|ilkbaharda meyve ağaçlarına hangi gübre|İlkbaharda Meyve Ağaçlarına Hangi Gübre Verilir?|99-115
+G|gu|çiçeklenme öncesi gübreleme|Çiçeklenmeden Önce Gübreleme: Meyve Tutumuna Etkisi|110-115
+G|gu|meyve gözü oluşumu gübre|Meyve Gözü Oluşumu İçin Gübreleme|99-115
+G|gu|zeytin bahar gübrelemesi|Zeytinde Bahar Gübrelemesi: Ne Zaman, Ne Kadar?|99-115
+G|gu|ceviz gübreleme|Ceviz Ağacı Gübreleme|99-115
+G|gu|salon bitkisi bahar gübrelemesi|Salon Bitkilerinde Gübrelemeye Ne Zaman Yeniden Başlanır?|110-115
+G|gu|sebze bahçesi taban gübresi|Sebze Bahçesinde Taban Gübresi: Ekimden Önce Ne Verilir?|110-115
+T|tr|toprak tavı|Toprak Tavı Nedir? Islak Toprağı İşlemenin Zararı|105-115
+H|bi|fide sinekleri|Fide Viyolünde Küçük Sinekler: Nedeni ve Önlemi|95-115
+S|bb|kışın uzayan salon bitkisi|Kışın Boy Atan Salon Bitkisi Nasıl Toparlanır?|105-115
+Z|gu|buğday üst gübreleme|Buğdayda Üst Gübreleme: Kardeşlenme Döneminde Azot|95-115
+Z|gu|arpa gübreleme|Arpada Gübreleme ve Kardeşlenme Dönemi|95-115
+Z|sm|buğday kardeşlenme|Buğdayda Kardeşlenme Nedir, Ne Zaman Olur?|95-115
+Z|sm|patates tohumluk seçimi|Tohumluk Patates Nasıl Seçilir? Sertifikalı ve Kendi Tohumluğu|105-115
+Z|sm|soğan arpacık dikimi|Arpacık Soğan Dikimi: Bahar Ekimi|110-115
+Z|sm|buğdayda yabancı ot|Buğday Tarlasında Yabancı Ot: Zamanında Fark Etmek|105-115
+M|sm|zeytin budaması zamanı|Zeytin Budaması Ne Zaman Yapılır?|99-115
+N|sm|tarhun tohumu ekimi|Tarhun Tohumu Ekimi: Çok Küçük Tohumlar İçin Yöntem|99-115
+N|sm|tatlı patates fidesi üretimi|Tatlı Patates Fidesi (Slip) Evde Nasıl Üretilir?|110-115
+
+## Gün dağılımı (günde 5–7 yazı; ay-ay yazıları ayrıca sayılır; yazım sırasında aynı hafta içinde yer değiştirilebilir)
+# 85 (2027-01-18 Pzt, 6): yarıyıl tatilinde bitki etkinliği · fitilli hidroponik sistem · hava temizleyen bitkiler · rüzgârlı balkon bitkileri · bahçe kulesinde çiçek · tohum bombası
+# 86 (2027-01-19 Sal, 6): fasulye çimlendirme deneyi · salon bitkisine solucan gübresi · mantar yetiştirme ortamı · kılcal sulama saksı · permakültür nedir · kediler saksıyı kazıyor
+# 87 (2027-01-20 Çar, 6): kuş evi yapımı · sürekli hasat planı · gelgit sistemi · öğrenci evi bitkileri · balkonda saksı ağırlığı · bahçe yatağı maliyeti
+# 88 (2027-01-21 Per, 5 + 1 ay-ay): baharat kurutma · solucan gübresi çay · shiitake yetiştirme · kürek çapa tırmık seçimi · böcek oteli
+# 89 (2027-01-22 Cum, 6): arıcılığa başlamak · aile için sebze bahçesi ölçüsü · hidroponik fesleğen · bitkilerle ev dekorasyonu · balkon damla sulama seti · bahçe kulesi mi yükseltilmiş yatak mı
+# 90 (2027-01-23 Cmt, 5): bitki fotoğrafı çekmek · kokopit blok nasıl açılır · hidroponik marul · bahçe eldiveni seçimi · sıfır atık bahçe
+# 91 (2027-01-24 Paz, 5): aşı kalemi saklama · ön çimlendirme · ceviz fidanı dikimi · akvaryum bitkileri · hidroponik sistem temizliği
+# 92 (2027-01-25 Pzt, 6): domates fidesi ne zaman ekilir · tohum ekim takvimi defteri · gövde güneş yanığı · meyve bahçesi planlama · asılı saksı bitkileri · balkonda güvercin
+# 93 (2027-01-26 Sal, 6): sera yönü ve ölçüsü · patlıcan tohumu ekimi · bodur ve yarı bodur fidan · bahçe kulesi sulama · bahçeciliğe başlama bütçesi · mikro tarım
+# 94 (2027-01-27 Çar, 6): biber tohumu ekimi · sera ısıtma · kiraz fidanı dikimi · hidroponik besin çözeltisi · el arabası seçimi · kuşları bahçeye çekmek
+# 95 (2027-01-28 Per, 6): ege bölgesinde şubat ekimi · budama yarası macunu · hümik asit fide · arpa gübreleme · bahçe günlüğü · hidroponikte kök çürüklüğü
+# 96 (2027-01-29 Cum, 6): budama aletleri dezenfeksiyon · salçalık biber yetiştirme · vermikülit tohum çimlendirme · buğday kardeşlenme · koleksiyonluk ev bitkileri · balkon güneş ölçümü
+# 97 (2027-01-30 Cmt, 5): dikim budaması · fide sinekleri · emekliler için bahçe yatağı · bitkilerden doğal boya · topraksız tarım nedir
+# 98 (2027-01-31 Paz, 5): fideye solucan gübresi · buğday üst gübreleme · nft sistemi · örtü bitkisi · bitki günlüğü çocuk
+# 99 (2027-02-01 Pzt, 6): fındık turpu yetiştirme · helen tere yetiştirme · sera toprağı yorgunluğu · zeytin bahar gübrelemesi · hidroponik fide küpü · kokulu ev bitkileri
+# 100 (2027-02-02 Sal, 6): motorlu çapa bakımı · yeni dikilen fidan sulama · meyve ağacına solucan gübresi · ceviz gübreleme · şehirde yetişen sebze güvenli mi · bahçe yatağında dikey destek
+# 101 (2027-02-03 Çar, 6): son don tarihi · saksıdan toprağa fidan dikimi · meyve ağacına hümik asit · zeytin budaması zamanı · hobiden gelire bahçecilik · şehir tarımı
+# 102 (2027-02-04 Per, 6): çin turpu yetiştirme · sütunvari elma · bahar gübresi ne zaman atılır · tarhun tohumu ekimi · derin su kültürü · yerli bitkilerle bahçe
+# 103 (2027-02-05 Cum, 4 + 2 ay-ay): ilkbaharda meyve ağaçlarına hangi gübre · tavuk kümesi kurmak · tezgah üstü akıllı bahçe · ev bitkisi bakım takvimi
+# 104 (2027-02-06 Cmt, 5): sera havalandırması · meyve gözü oluşumu gübre · balkon sulamasında komşuluk · bahçe topluluğu kurmak · suda bitki yetiştirme
+# 105 (2027-02-07 Paz, 4 + 1 ay-ay): bahar öncesi pompa kontrolü · aeroponik nedir · köpek dostu bahçe · hidroponik maliyeti
+# 106 (2027-02-08 Pzt, 6): sevgililer günü bitki hediyesi · ıspanak bahar ekimi · toprak tavı · çocuk odası bitkileri · balkonda bitki çayı bahçesi · minyatür bahçe
+# 107 (2027-02-09 Sal, 5 + 1 ay-ay): fidan neden kurur · kışın uzayan salon bitkisi · kompost eleme · çatı bahçesi · kuş kafesi yanında bitki
+# 108 (2027-02-10 Çar, 6): güneydoğu anadolu bahar ekimi · ağaçların uyanma zamanı · patates tohumluk seçimi · topraksız tarım hataları · kafe ve dükkan bitkileri · kapı önü saksıları
+# 109 (2027-02-11 Per, 6): kuşkonmaz tohumu ekimi · torba kültürü kokopit · buğdayda yabancı ot · bahçe sevene hediye · kokopit kaç kez kullanılır · apartman bahçesi
+# 110 (2027-02-12 Cum, 5 + 1 ay-ay): çengelköy salatalığı · serada domates yetiştirme · soğan arpacık dikimi · kovan yeri seçimi · hidroponikte su sıcaklığı
+# 111 (2027-02-13 Cmt, 5): oturak hıyar yetiştirme · serada hastalık önleme · tatlı patates fidesi üretimi · zor ölmeyen ev bitkileri · balkonda sebze verimi
+# 112 (2027-02-14 Paz, 5): karagöz çiçeği yetiştirme · tohum saklama · filiz yetiştirme kavanoz · akvaryum bitki toprağı · hidroponikte besin eksikliği
+# 113 (2027-02-15 Pzt, 6): iç anadolu bahar ekim zamanı · doğrudan ekim yapılan sebzeler · çiçeklenme öncesi gübreleme · cam balkonda bitki yetiştirme · bitki yetiştirme çadırı · balkonda hidroponik
+# 114 (2027-02-16 Sal, 6): marmara bahar ekim takvimi · marul tohumu bahar ekimi · salon bitkisi bahar gübrelemesi · ec metre kullanımı · topraksız domates · topraksız çilek üretimi
+# 115 (2027-02-17 Çar, 6): salatalık tohumu ekimi · anaç sürgünü · sebze bahçesi taban gübresi · balkon zemini koruma · kara asker sineği kompost · mikro yeşillik satışı

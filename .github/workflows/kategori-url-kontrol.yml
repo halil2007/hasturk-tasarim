@@ -1,0 +1,20 @@
+name: Kategori sayfası kontrolü
+
+# Canlı kategori adreslerini açar, "sayfa bulunamadı" verenleri listeler. Yalnız okur; mağazaya dokunmaz.
+# Önce "ikas ürünlerini senkronla" çalıştırılmış olmalı (yeni kategoriler senkron verisine girer).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/kategori-url-kontrol.mjs

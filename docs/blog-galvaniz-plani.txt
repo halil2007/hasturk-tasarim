@@ -1,0 +1,18 @@
+# HasTürk Blog: galvaniz yapılar ve bahçe yatağı / kule destek yazıları (2 – 15 Kasım 2026, günde 1 yazı, 21:05)
+# Gün 1 = 2 Kasım, 14 = 15 Kasım. Ürün bilgisi yalnız docs/bilgi/urunler-hasturk.json açıklamalarından.
+# Biçim: aile | kategori | odak kelime | çalışma başlığı | gün aralığı
+# Günlük: 1=1 2=1 3=1 4=1 5=1 6=1 7=1 8=1 9=1 10=1 11=1 12=1 13=1 14=1
+G|bi|odun istifleme|Odun Nasıl İstiflenir? Kışlık Odunu Kuru Tutmanın Yolları|1
+G|bi|ster hesabı|1 Ster Odun Ne Kadardır? Ster Hesabı ve Kışlık Odun İhtiyacı|2
+G|bi|kedi balkon güvenliği|Kediler İçin Balkon Güvenliği: Kafes, File ve Dikkat Edilecekler|3
+G|bi|kuşhane kurmak|Bahçede Kuşhane Kurmak: Salma Kuş Kafesi İçin Yer ve Ölçü Seçimi|4
+G|bi|klima dış ünitesi koruma|Klima Dış Ünitesi Koruma Kafesi: Ne İşe Yarar, Nasıl Seçilir?|5
+G|bi|çöp konteyneri muhafazası|Çöp Konteyneri Muhafazası: Site ve Bahçe İçin Düzenli Çöp Alanı|6
+G|bi|garaj düzenleme|Garaj Düzenleme: Raf Seçimi ve Yerleşim Önerileri|7
+G|bi|küçük kümes|Bahçede Küçük Kümes: Kaç Tavuğa Ne Kadar Alan Gerekir?|8
+G|bi|arı kovanı yerleşimi|Arı Kovanı Yerleşimi: Yön, Aralık ve Kovan Sehpası|9
+G|sm|kurutma tezgâhı|Güneşte Kurutma: Domates, Biber ve Meyve İçin Kurutma Tezgâhı|10
+G|bi|araç gölgeliği|Araç Gölgeliği Seçimi: Ölçü, Çatı Tipi ve Yerleşim|11
+G|bi|galvaniz kutu profil|Galvaniz Kutu Profil ile Kendin Yap: Raf ve Tezgâh Fikirleri|12
+B|sm|bahçe yatağı sulama|Bahçe Yatağı Nasıl Sulanır? Ne Sıklıkla, Ne Kadar Su?|13
+B|bi|pencere önü bahçesi|Pencere Önü Bahçesi: Mutfak İçin Aromatik Bitkiler, Çiçeklik ve Kule|14

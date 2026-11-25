@@ -1,0 +1,76 @@
+name: Mağaza eşitle
+
+# HasTürk Gübre ile Tarım Dünyası arasında eksik ürünleri tamamlar (veri/magaza-esitle/).
+# "disa": iki yöndeki eksik ürünlerin bütün bilgilerini okur, magaza-esitle-veri dalına yazar (mağazaya dokunmaz).
+# "ekle": hazırlanan açıklama/meta dosyalarıyla ürünleri ekler; "uygula" işaretlenmezse kuru çalıştırmadır.
+on:
+  workflow_dispatch:
+    inputs:
+      mod:
+        description: 'disa (oku), ekle, stok ya da kategori'
+        default: 'disa'
+      uygula:
+        description: 'Ekle (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/magaza-esitle.mjs', '.github/workflows/magaza-esitle.yml', 'veri/magaza-esitle/**']
+
+permissions:
+  contents: write
+
+concurrency: magaza-esitle
+
+jobs:
+  esitle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      # Dala push ile tetiklenince her zaman kuru çalışır; yazma yalnız elle "uygula" ile
+      MOD: ${{ github.event.inputs.mod || 'disa' }}
+      APPLY: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.uygula == 'true' && '1' || '0' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk → Tarım Dünyası
+        run: mkdir -p cikti && node scripts/magaza-esitle.mjs
+        env:
+          YON: tarim
+          LISTE: veri/magaza-esitle/liste.json
+          ICERIK: veri/magaza-esitle/icerik-tarim.json
+          DISA_DOSYA: cikti/hasturk-to-tarim.json
+          SONUC_DOSYA: cikti/sonuc-tarim.json
+          KAYNAK_JSON: public/products.json
+          KAYNAK_STORE: ${{ secrets.IKAS_STORE }}
+          KAYNAK_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          KAYNAK_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+          HEDEF_STORE: hasturktarimdunyasi
+          HEDEF_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          HEDEF_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
+      - name: Tarım Dünyası → HasTürk
+        if: always()
+        run: mkdir -p cikti && node scripts/magaza-esitle.mjs
+        env:
+          YON: hasturk
+          LISTE: veri/magaza-esitle/liste.json
+          ICERIK: veri/magaza-esitle/icerik-hasturk.json
+          DISA_DOSYA: cikti/tarim-to-hasturk.json
+          SONUC_DOSYA: cikti/sonuc-hasturk.json
+          KAYNAK_JSON: public/tarim/products.json
+          KAYNAK_STORE: hasturktarimdunyasi
+          KAYNAK_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          KAYNAK_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
+          HEDEF_STORE: ${{ secrets.IKAS_STORE }}
+          HEDEF_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          HEDEF_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      # Okunan ürün bilgileri ayrı, geçmişsiz bir dala yazılır (çalışma ortamı dosyaları oradan alır)
+      - name: Okunanları / sonuçları magaza-esitle-veri dalına yaz
+        if: always()
+        run: |
+          mkdir -p cikti && cd cikti && git init -q && git checkout -q -b magaza-esitle-veri
+          git config user.name "magaza-esitle" && git config user.email "actions@users.noreply.github.com"
+          git add . && git commit -qm "Eşitleme için okunan ürün bilgileri" && \
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" magaza-esitle-veri

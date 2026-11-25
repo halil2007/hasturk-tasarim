@@ -1,0 +1,31 @@
+name: Ürün kontrol
+
+# Verilen adreslerdeki ürünlerin varyant, fiyat, stok ve görsellerini listeler (scripts/urun-kontrol.mjs). Mağazaya dokunmaz.
+on:
+  workflow_dispatch:
+    inputs:
+      sluglar:
+        description: 'Ürün adresleri (virgülle)'
+        default: ''
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/urun-kontrol.mjs', '.github/workflows/urun-kontrol.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/urun-kontrol.mjs
+        env:
+          SLUGLAR: ${{ github.event.inputs.sluglar || 'serakulit-premium-vermikulit,serakulit-coarse-vermikulit,serakulit-medium-vermikulit,serakulit-fine-vermikulit,serakulit-superfine-vermikulit,serakulit-micron-vermikulit,serakulit-agroboy-vermikulit-100-litre' }}
+          STORE: ${{ secrets.IKAS_STORE }}
+          ID: ${{ secrets.IKAS_CLIENT_ID }}
+          SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}

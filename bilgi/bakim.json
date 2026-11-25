@@ -1,0 +1,2145 @@
+{
+ "_aciklama": "Bitki bakım kartları (ışık, sulama, sıcaklık, çoğaltma, budama, zehirlilik, sararma, çiçeklenme, dikim, meyve). Bilgiler birden çok kaynaktan karşılaştırılıp kendi cümlelerimizle yazıldı; müşteriye kaynak gösterilmez. Bitki adları config.json > soilMatch ile aynı.",
+ "surum": 4,
+ "bitkiler": {
+  "Monstera": {
+   "isik": "Parlak ama dolaylı ışık sever: güneş almayan, aydınlık bir pencere önü idealdir. Öğle güneşi yapraklarını yakar; çok karanlıkta yapraklar küçülür ve delikler oluşmaz.",
+   "sulama": "Toprağın üst 2–3 cm'si kuruyunca bol sulayın, tabakta biriken suyu boşaltın. Yazın genelde haftada bir, kışın 10–15 günde bir yeterlidir. Fazla su yapraklarda sararma ve kök çürümesi yapar.",
+   "sicaklik": "18–27 °C arası idealdir; 10 °C'nin altına düşen yerde zarar görür. Soğuk cereyandan ve kalorifer peteğinin hemen yanından uzak tutun.",
+   "cogaltma": "Gövdeden, üzerinde en az bir boğum ve tercihen hava kökü olan bir parça kesilir; suda ya da nemli toprakta köklendirilir. Kökler 5 cm olunca saksıya alınır. Yalnız yaprakla çoğalmaz.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Evcil hayvanların ve çocukların ulaşamayacağı bir yere koyun.",
+   "sararma": "En sık neden fazla sulamadır: toprak sürekli ıslaksa sulamayı seyreltin. Alt yaprakların tek tük sararması doğaldır. Yaprak uçları kahverengi ve kuruysa susuzluk ya da kuru hava olabilir.",
+   "budama": "Düzenli budama gerekmez. Sararan yaprakları sapın dibinden kesin; çok büyüdüyse ilkbaharda bir boğumun hemen üstünden kesebilirsiniz, kesilen parça hava köküyle birlikte köklendirilebilir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür. Tırmanması için yosun çubuğu da bu sırada takılabilir."
+  },
+  "Philodendron": {
+   "isik": "Dolaylı, orta-parlak ışık sever; direkt güneş yapraklarını yakar. Az ışığa dayanır ama yavaş büyür.",
+   "sulama": "Toprağın üst kısmı kuruyunca sulayın; kışın aralığı açın. Saksıda su birikmesin.",
+   "sicaklik": "18–27 °C'de rahat eder; 12 °C'nin altını sevmez, soğuk cereyandan koruyun.",
+   "cogaltma": "Boğumlu gövde çelikleriyle suda ya da nemli toprakta kolayca köklenir.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Evcil hayvanların ve çocukların ulaşamayacağı bir yere koyun.",
+   "sararma": "Genelde fazla sulamadan olur; toprak kurumadan tekrar sulamayın. Yeni yapraklar soluksa ışık ya da besin eksikliği olabilir.",
+   "budama": "Sarılıcı türlerde uzayan dalları ilkbaharda bir yaprağın hemen üstünden kısaltmak gürleştirir; kesilen uçlar suda köklenir. Sararan yaprakları dipten alın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Salon sarmaşığı": {
+   "isik": "Az ışığa çok dayanıklıdır ama dolaylı aydınlık ışıkta yaprakları daha renkli ve büyük olur. Direkt öğle güneşinden koruyun.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; sarkan yapraklar susadığını gösterir, sulayınca toparlanır. Fazla su kök çürütür.",
+   "sicaklik": "15–29 °C arası uygundur; 10 °C altında zarar görür.",
+   "cogaltma": "En kolay çoğalan bitkilerdendir: boğumlu sürgün uçları suya konur, 2–3 haftada köklenir.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Evcil hayvanların ve çocukların ulaşamayacağı bir yere koyun.",
+   "sararma": "Fazla sulama ya da saksıda su birikmesi en sık nedendir. Uzun, çıplak dallar ışık azlığını gösterir.",
+   "budama": "Uzayan dalları istediğiniz boyda bir yaprağın üstünden kesin; bitki gürleşir. Kesilen uçlar suda kolayca köklenir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Zamioculcas": {
+   "isik": "Az ışığa en dayanıklı bitkilerdendir; dolaylı aydınlık ışıkta daha hızlı büyür. Direkt güneşte yaprakları sararabilir.",
+   "sulama": "Kalın köklerinde su depolar: toprak tamamen kuruyunca sulayın. Yazın 2–3 haftada bir, kışın ayda bir yeterli olabilir. En büyük tehlike fazla sudur.",
+   "sicaklik": "18–26 °C idealdir; 10 °C altında zarar görür.",
+   "cogaltma": "Yumrulu kökü bölünerek ya da tek yaprakçık / sap toprağa dikilerek çoğaltılır; yaprakla çoğaltma aylar sürer.",
+   "zehir": "Tüm kısımları çiğnenirse ağızda tahriş, salya ve kusma yapabilir; evcil hayvan ve çocuklardan uzak tutun.",
+   "sararma": "Neredeyse her zaman fazla sulamadandır: toprağı tamamen kurutun, saksıda su kalmasın. Sap dibinde yumuşama kök çürümesi belirtisidir.",
+   "budama": "Budama gerekmez. Sararan ya da devrilen sapları dipten kesin.",
+   "dikim": "İlkbahar–yaz başında, yumrular saksıyı zorlayınca bir boy büyük saksıya alın; az sulanan bir bitki olduğu için saksıyı çok büyütmeyin."
+  },
+  "Paşa kılıcı": {
+   "isik": "Hem az ışığa hem güneşe dayanır; en iyi aydınlık, dolaylı ışıkta büyür.",
+   "sulama": "Toprak tamamen kuruyunca sulayın: yazın 2–3 haftada bir, kışın ayda bir. Yaprak dibine su kaçırmayın; fazla su çürütür.",
+   "sicaklik": "15–29 °C uygundur; 10 °C'nin altında yaprakları zarar görür.",
+   "cogaltma": "Kök bölünerek ya da yaprak parçaları toprağa dikilerek çoğaltılır (alacalı türlerde yaprakla çoğaltınca alaca kaybolabilir).",
+   "zehir": "Saponin içerir; çiğnenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "sararma": "Fazla sulama ve soğuk en sık nedendir; yumuşayan yapraklar kök çürümesini gösterir.",
+   "budama": "Budama gerekmez. Zarar görmüş ya da kuruyan yaprakları toprak hizasından kesin.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı çatlatacak kadar dolunca bir boy büyük, ağır ve delikli saksıya alın; sık saksı değişimi sevmez."
+  },
+  "Barış çiçeği": {
+   "isik": "Dolaylı, orta ışık sever; direkt güneş yapraklarını yakar. Çok karanlıkta çiçek açmaz.",
+   "sulama": "Toprağı hafif nemli tutmayı sever; üst kısım kuruyunca sulayın. Susayınca yapraklarını düşürür, sulayınca toparlanır.",
+   "sicaklik": "18–27 °C idealdir; 13 °C'nin altını sevmez.",
+   "cogaltma": "Saksı değişiminde kök bölünerek çoğaltılır.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Evcil hayvanların ve çocukların ulaşamayacağı bir yere koyun.",
+   "cicek": "Çiçek açması için yeterli dolaylı ışık gerekir; karanlık köşede çiçeklenmez. Büyüme döneminde ayda bir hafif besin verin.",
+   "sararma": "Fazla ya da düzensiz sulama, sert (kireçli) su ve doğrudan güneş en sık nedenlerdir. Yaprak uçlarının kahverengileşmesi kuru havadan da olabilir.",
+   "budama": "Solan çiçek saplarını ve sararan yaprakları dipten kesin; başka budama gerekmez.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Antoryum": {
+   "isik": "Parlak, dolaylı ışık ister; direkt güneş yapraklarını yakar, karanlıkta çiçek açmaz.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; su birikmesini sevmez. Nemli havayı sever.",
+   "sicaklik": "18–27 °C idealdir; 15 °C'nin altında büyümesi durur.",
+   "cogaltma": "Kök bölünerek ya da hava köklü yan sürgünler ayrılarak çoğaltılır.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Evcil hayvanların ve çocukların ulaşamayacağı bir yere koyun.",
+   "cicek": "Bol dolaylı ışık ve düzenli, hafif besinle yıl boyu çiçek açabilir. Az ışık en sık çiçeklenmeme nedenidir.",
+   "budama": "Solan çiçekleri saplarıyla birlikte dipten kesin; sararan yaprakları da alın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür. Havadar, iri parçalı bir toprak sever."
+  },
+  "Kurdele çiçeği": {
+   "isik": "Dolaylı aydınlık ışığı sever; az ışığa da dayanır. Direkt güneş yapraklarını yakar.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; kalın kökleri su depolar, fazla sudan hoşlanmaz.",
+   "sicaklik": "13–27 °C'de rahat eder.",
+   "cogaltma": "Uzun saplarda oluşan yavru bitkiler (bebekler) kesilip suya ya da toprağa konarak kolayca çoğaltılır.",
+   "zehir": "Kedi ve köpekler için zehirli değildir; evcil hayvan olan evlere uygundur.",
+   "sararma": "Yaprak uçlarının kahverengileşmesi genelde kireçli su, fazla gübre ya da kuru havadandır; bekletilmiş su kullanın.",
+   "budama": "Kahverengi yaprak uçlarını yaprağın şeklini koruyarak kesebilirsiniz; uzayan yavru saplarını yavru bitkileri ayırmak için kesebilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Areka palmiyesi": {
+   "isik": "Parlak, dolaylı ışık sever; direkt öğle güneşi yapraklarını sarartır.",
+   "sulama": "Toprağın üst 2–3 cm'si kuruyunca sulayın; yazın genelde haftada bir, kışın daha seyrek.",
+   "sicaklik": "18–27 °C idealdir; 12 °C'nin altında zarar görür.",
+   "zehir": "Kedi ve köpekler için zehirli değildir.",
+   "sararma": "Yaprak uçlarında kuruma kuru hava ya da kireçli sudan; genel sararma fazla sulama ya da besin eksikliğinden olabilir.",
+   "budama": "Yalnız tamamen kuruyan yaprakları dipten kesin. Yeşil ya da yarı sarı yaprakları kesmeyin; bitki onlardan besin çeker. Tepe kısmı asla kesilmez.",
+   "dikim": "İlkbaharda, kökler saksıyı doldurunca bir boy büyük saksıya alın; palmiyeler kök bozulmasını sevmez, kök topunu dağıtmadan aktarın.",
+   "cogaltma": "Saksıdaki bitki aslında birçok gövdeden oluşur; saksı değişiminde dikkatle bölünerek çoğaltılabilir. Tohumla çoğaltmak yavaştır."
+  },
+  "Aloe vera": {
+   "isik": "Bol ışık sever: güneşli pencere önü idealdir. Yazın dışarıda öğle güneşine birden çıkarılırsa yaprakları kızarabilir; yavaş alıştırın.",
+   "sulama": "Toprak tamamen kuruyunca sulayın: yazın 2–3 haftada bir, kışın ayda bir. Yapraklarında su depolar; fazla su kökünü çürütür.",
+   "sicaklik": "13–27 °C uygundur; dona dayanmaz, kışın 5 °C'nin altında içeri alın.",
+   "cogaltma": "Dibinden çıkan yavrular ayrılıp birkaç gün kurutulduktan sonra kumlu toprağa dikilir.",
+   "zehir": "Yaprak kabuğundaki madde (aloin) kedi ve köpeklerde kusma ve ishal yapabilir; evcil hayvanların ulaşamayacağı yere koyun.",
+   "sararma": "Yumuşak, sararan yapraklar fazla sudan; incelip kıvrılan yapraklar susuzluktandır.",
+   "budama": "Budama gerekmez. Kuruyan ya da zarar gören dış yaprakları dipten kesin.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "Kaktüs": {
+   "isik": "Bol güneş ister; en aydınlık pencereye koyun. Az ışıkta incelip uzar ve şekli bozulur.",
+   "sulama": "İlkbahar–yaz toprak tamamen kuruyunca sulayın; kışın çok az ya da hiç sulamayın. En sık ölüm nedeni fazla sudur.",
+   "sicaklik": "Yazın sıcağı sever; kışın serin (5–12 °C), kuru ve aydınlık bir yerde dinlenmesi çiçeklenmeyi artırır. Çoğu tür dona dayanmaz.",
+   "cogaltma": "Yavrular ya da kesilen parçalar birkaç gün kurutulup kumlu toprağa dikilir; tohumla da çoğalır.",
+   "cicek": "Çiçek açması için kışın serin ve kuru bir dinlenme dönemi gerekir; yıl boyu sıcak ve sulanan kaktüs çiçek açmaz.",
+   "sararma": "Dipten yumuşayıp sararma fazla sudan (çürüme) olur; kuru, pörsümüş görünüm susuzluktur.",
+   "zehir": "Kaktüslerin çoğu zehirli kabul edilmez; asıl tehlike dikenlerdir. Kaktüse benzeyen sütleğenler ise zehirli özsu taşır.",
+   "budama": "Budama gerekmez. Çürüyen bir bölüm olursa temiz bir bıçakla sağlam dokuya kadar kesip kesiği kurumaya bırakın.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun. Dikenlerden korunmak için kalın eldiven ya da katlanmış kâğıt kullanın."
+  },
+  "Sukulent": {
+   "isik": "Bol ışık sever; ışık azsa uzayıp solar (renk kaybeder).",
+   "sulama": "Toprak tamamen kuruyunca bol sulayıp suyu süzdürün; kışın seyrek sulayın.",
+   "sicaklik": "Çoğu tür dona dayanmaz; kışın 5 °C'nin altında içeri alın.",
+   "cogaltma": "Yaprak ya da gövde parçaları birkaç gün kurutulup kumlu toprağın üstüne konur, kısa sürede köklenir.",
+   "sararma": "Şeffaflaşan, yumuşayan yapraklar fazla sudan; buruşan yapraklar susuzluktan olur.",
+   "zehir": "Türe göre değişir: ekeverya ve haworthia zehirli kabul edilmez; yeşim (para ağacı), kalanşo, aloe ve sütleğenler kedi ve köpekler için zehirlidir.",
+   "budama": "Budama gerekmez. Kuruyan alt yaprakları elle alın; çok uzayıp yamulduysa ilkbaharda tepesini kesip çelik olarak köklendirebilirsiniz.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "Yeşim": {
+   "isik": "Bol ışık sever; günde birkaç saat güneş yapraklarının kenarını kırmızımsı yapar.",
+   "sulama": "Toprak kuruyunca sulayın; kışın seyrek. Yapraklarında su depolar, fazla sudan çürür.",
+   "sicaklik": "Dona dayanmaz; kışın serin (10 °C civarı) aydınlık yerde dinlenmesi iyidir.",
+   "cogaltma": "Yaprak ya da dal çelikleri kurutulup kumlu toprağa dikilir; çok kolay köklenir.",
+   "zehir": "Kedi ve köpeklerde kusma ve halsizlik yapabilir; ulaşamayacakları yere koyun.",
+   "budama": "İlkbaharda uzayan dalları bir boğumun üstünden kısaltmak dallanmayı artırır; kesilen parçalar köklendirilebilir.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "Orkide": {
+   "isik": "Parlak ama dolaylı ışık ister; doğu ya da batı penceresi idealdir. Direkt öğle güneşi yaprakları yakar.",
+   "sulama": "Kabuk karışımı kuruyunca ve kökler gümüşi-gri olunca sulayın (genelde 7–10 günde bir). Saksıyı 10–15 dakika suya batırıp süzdürmek iyi bir yöntemdir. Yaprak koltuğunda su bırakmayın.",
+   "sicaklik": "Gündüz 20–27 °C, gece birkaç derece serin ister; 15 °C'nin altında zarar görür.",
+   "cicek": "Yeni çiçek dalı için yeterli ışık ve sonbaharda birkaç hafta gece-gündüz sıcaklık farkı gerekir. Büyüme döneminde orkide besinini sulama suyuyla verin.",
+   "zehir": "Phalaenopsis (kelebek orkide) kedi ve köpekler için zehirli kabul edilmez.",
+   "sararma": "Alt yaprakların arada bir sararması doğaldır; birden çok yaprak sararıyorsa fazla sulama ya da kök çürümesi olabilir.",
+   "budama": "Çiçekler dökülünce çiçek sapı yeşilse ikinci bir gözün üstünden kesilebilir (yeniden çiçek verebilir); sap kurursa dipten kesin. Sağlıklı hava köklerini kesmeyin.",
+   "dikim": "Çiçeklenme bittikten sonra, 1–2 yılda bir kabuk (orkide ortamı) yenilenir. Çürük kökler temizlenir, bitki aynı boy ya da bir boy büyük, delikli şeffaf saksıya alınır. Normal toprağa dikilmez.",
+   "cogaltma": "Falenopsiste çiçek sapında ya da dipte bazen yavru (keiki) oluşur; 2–3 kökü 5 cm'yi geçince kesip ayrı saksıya alınır. Tohumla çoğaltma evde mümkün değildir."
+  },
+  "Afrika menekşesi": {
+   "isik": "Parlak, dolaylı ışık ister; direkt güneş yapraklarda leke yapar, az ışıkta çiçek açmaz.",
+   "sulama": "Toprak hafif nemli kalmalı; oda sıcaklığında suyla alttan (tabaktan) sulamak en iyisidir. Yapraklarına soğuk su değerse leke kalır.",
+   "sicaklik": "18–24 °C'de rahat eder; soğuk cereyanı sevmez.",
+   "cogaltma": "Saplı yaprak suya ya da nemli toprağa dikilerek kolayca çoğaltılır.",
+   "zehir": "Kedi ve köpekler için zehirli değildir.",
+   "cicek": "Bol dolaylı ışık ve düzenli, hafif (fosforu yüksek) besinle yıl boyu çiçek açabilir.",
+   "budama": "Solan çiçekleri ve alttaki yaşlı yaprakları dipten koparın; başka budama gerekmez.",
+   "dikim": "Yılda bir, ilkbaharda yenilenir; saksı çok büyük olmamalı (bitkinin genişliğinin üçte biri kadar) çünkü kökü biraz sıkışınca daha iyi çiçek açar."
+  },
+  "Begonvil": {
+   "isik": "Bol güneş ister: günde en az 6 saat direkt güneş almazsa çiçek açmaz.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; biraz kuru tutulması çiçeklenmeyi artırır. Fazla su yaprak döktürür.",
+   "sicaklik": "Sıcağı sever; dona dayanmaz. Saksıdakileri kışın 5 °C'nin altında korunaklı yere alın.",
+   "budama": "Çiçeklenmeden sonra ve ilkbaharda şekil budaması yapılır; yeni sürgünlerde çiçek açar.",
+   "cicek": "En sık nedenler az güneş, fazla su ve azotlu gübredir. Bol güneş, biraz kuru toprak ve fosforca zengin besin çiçeklenmeyi artırır.",
+   "cogaltma": "Yarı odunsu dal çelikleriyle ilkbahar–yaz köklendirilir.",
+   "zehir": "Ciddi zehirli kabul edilmez; dikenleri yaralayabilir, yutulursa hafif mide rahatsızlığı yapabilir.",
+   "dikim": "Bahçeye dikim ilkbaharda, don tehlikesi geçince yapılır. Saksıdaki begonvilin kökleri hassastır; kök topunu dağıtmadan aktarın."
+  },
+  "Sardunya": {
+   "isik": "Bol güneş sever; balkon ve pencere önlerinde iyi çiçek açar.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; fazla sudan hoşlanmaz.",
+   "sicaklik": "Dona dayanmaz; kışın 5 °C'nin altında içeri alın, serin aydınlık yerde kışlatın.",
+   "cogaltma": "Sürgün uçlarından alınan çelikler ilkbahar ya da sonbaharda kolayca köklenir.",
+   "budama": "İlkbaharda uzayan dalları kısaltın; solan çiçekleri koparmak yeni çiçekleri teşvik eder.",
+   "zehir": "Kedi ve köpeklerde kusma ve cilt tahrişi yapabilir.",
+   "dikim": "Don tehlikesi geçince ilkbaharda dışarı dikilir; saksı değişimi ilkbaharda yapılır. Çok büyük saksı çiçeklenmeyi azaltır."
+  },
+  "Gül": {
+   "isik": "Günde en az 6 saat güneş ister; az güneşte az çiçek açar ve hastalanır.",
+   "sulama": "Seyrek ama derin sulayın (dibine, yapraklara değil); sıcak havada saksıdakiler daha sık su ister.",
+   "budama": "Asıl budama kış sonu, tomurcuklar kabarmadan yapılır: kuru, zayıf ve içe doğru büyüyen dallar kesilir, sağlıklı dallar dışa bakan bir gözün üstünden kısaltılır. Yaz boyu solan çiçekleri kesmek yeni çiçek açtırır.",
+   "dikim": "Çıplak köklü fidanlar sonbahar ya da kış sonunda, tüplü fidanlar donsuz her mevsim dikilebilir; aşı yeri toprak hizasında kalmalıdır.",
+   "cicek": "Az güneş, fazla azotlu gübre ve yanlış budama en sık nedenlerdir.",
+   "sicaklik": "Kışa dayanıklıdır; bahçedeki gül çoğu bölgede kışı dışarıda geçirir. Çok soğuk bölgelerde aşı yerinin üstüne toprak ya da malç yığılarak korunur.",
+   "zehir": "Zehirli değildir; asıl dikkat edilecek şey dikenleridir.",
+   "cogaltma": "Yaz başında ya da sonbaharda, kalem kalınlığında 15–20 cm'lik çeliklerle çoğaltılabilir; alt yapraklar alınır, çelik nemli toprağa dikilir. Aşılı güllerin çeliği anasından zayıf olabilir."
+  },
+  "Ortanca": {
+   "isik": "Sabah güneşi, öğleden sonra gölge alan yer idealdir; kızgın güneşte yaprakları kavrulur.",
+   "sulama": "Toprağı nemli tutmayı sever; sıcak günlerde sık su ister, ama su birikmesin. Kireçli su yerine yağmur ya da bekletilmiş su iyidir.",
+   "budama": "Çoğu ortanca bir önceki yılın dallarında çiçek açar: kışın sert budama yapılırsa o yıl çiçek açmaz. Yalnız kuru dalları ve solmuş çiçek başlarını alın.",
+   "cicek": "En sık neden yanlış zamanda budamak, az ışık ya da tomurcukların kışın soğuktan zarar görmesidir.",
+   "zehir": "Yaprak ve çiçekleri yenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "sicaklik": "Kışa genelde dayanıklıdır; ancak sert donlar gelecek yılın çiçek tomurcuklarına zarar verebilir. Saksıdaki ortanca kışın donmayan, serin bir yere alınabilir.",
+   "dikim": "Sonbahar ya da ilkbaharda, öğle güneşi almayan yere dikilir. Saksıdakiler ilkbaharda bir boy büyük saksıya alınır.",
+   "cogaltma": "Yaz başında, çiçeksiz yeni sürgünlerden alınan 10–15 cm'lik çeliklerle kolayca köklenir; nemli, gölge bir yerde tutulur."
+  },
+  "Lavanta": {
+   "isik": "Tam güneş ister; gölgede seyrek ve az çiçekli olur.",
+   "sulama": "Kuraklığa dayanıklıdır; toprak kuruyunca sulayın. Islak, ağır toprakta kökü çürür.",
+   "budama": "Çiçeklenme sonrası çiçek saplarıyla birlikte yeşil kısmın bir bölümünü kısaltın; yaşlı odunsu kısma kadar kesmeyin, oradan sürmez.",
+   "sicaklik": "Çoğu türü soğuğa dayanıklıdır; asıl tehlike kışın ıslak kalan topraktır.",
+   "cogaltma": "Yarı odunsu çeliklerle ilkbahar ya da yaz sonunda köklendirilir.",
+   "zehir": "Az miktarda zararsız sayılır; çok yenirse kedi ve köpeklerde mide bulantısı ve kusma yapabilir.",
+   "dikim": "İlkbahar ya da sonbaharda, güneşli ve suyu iyi süzen yere dikilir; fideler arasında 40–60 cm bırakılır."
+  },
+  "Biberiye": {
+   "isik": "Günde en az 6–8 saat güneş ister.",
+   "sulama": "Kuraklığa dayanıklıdır: toprak kuruyunca sulayın, ıslak toprakta kök çürür. Saksıda drenaj deliği açık olmalıdır.",
+   "budama": "İlkbaharda hafif budama daha gür büyütür; yaşlı odunsu kısma kadar kesmeyin.",
+   "cogaltma": "Tohumla zor ve yavaştır; çelikle (suda ya da perlitli toprakta) daha hızlı çoğalır.",
+   "zehir": "Kedi ve köpekler için zehirli kabul edilmez.",
+   "sicaklik": "Hafif donlara dayanır, ancak uzun ve sert donlarda zarar görür. Soğuk bölgelerde saksıda yetiştirip kışın serin ve aydınlık bir yere alın; ıslak ve soğuk toprak en büyük düşmanıdır.",
+   "dikim": "İlkbaharda, don tehlikesi geçince güneşli ve suyu iyi süzen yere dikilir."
+  },
+  "Fesleğen": {
+   "isik": "Bol güneş ister; günde en az 6 saat güneş alan pencere ya da balkon idealdir.",
+   "sulama": "Toprağı hafif nemli tutun; kurumaya ve su birikmesine hassastır. Sabah sulamak iyidir.",
+   "sicaklik": "Soğuğa çok hassastır; 10 °C'nin altında zarar görür, dona dayanmaz.",
+   "budama": "Sürgün uçlarını düzenli koparmak gür büyütür; çiçek sapları çıkınca koparın, yoksa yapraklar sertleşir ve aroması azalır.",
+   "cogaltma": "Tohumla ilkbaharda ya da sürgün uçları suya konarak kolayca çoğaltılır.",
+   "zehir": "Zehirli değildir; kedi ve köpekler için de zararsız kabul edilir.",
+   "dikim": "Tohumu ilkbaharda içeride ya da hava ısınınca dışarıda ekilir; fideler don tehlikesi tamamen geçince dikilir."
+  },
+  "Nane": {
+   "isik": "Güneş ya da yarı gölgede yetişir.",
+   "sulama": "Nemli toprağı sever; kurumaya bırakmayın.",
+   "cogaltma": "Sürgünleri suda kolayca köklenir; toprak altı gövdeleriyle hızla yayılır, bahçede sınırlandırılması iyi olur.",
+   "budama": "Düzenli kesmek gür ve taze yaprak verir; çiçeklenmeden önce hasat etmek aromayı artırır.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışın toprak üstü kısımları kuruyabilir, ilkbaharda kökünden yeniden sürer.",
+   "zehir": "Çok yenirse kedi ve köpeklerde kusma ve ishal yapabilir; az miktarda sorun yaratmaz.",
+   "dikim": "İlkbahar ya da sonbaharda dikilir. Kökleriyle hızla yayıldığı için saksıda ya da toprağa gömülü bir kap içinde yetiştirmek daha kolaydır."
+  },
+  "Limon": {
+   "isik": "Bol güneş ister: günde en az 6–8 saat. Saksıdakiler kışın içeride en aydınlık pencereye konmalıdır.",
+   "sulama": "Toprağın üstü kuruyunca derin sulayın, saksı altında su bırakmayın. Kışın sulamayı azaltın; hem susuzluk hem fazla su yaprak döktürür.",
+   "sicaklik": "Dona dayanıksızdır: 0 °C civarında zarar görür. Saksıdakileri kışın donsuz, aydınlık bir yere alın.",
+   "budama": "Asıl budama kış sonu–ilkbahar başında yapılır: kuru, hastalıklı ve içe büyüyen dallar alınır, gövdeden çıkan sürgünler temizlenir.",
+   "sararma": "Yaprak sararması en çok fazla sulama, soğuk ya da besin (özellikle azot ve demir) eksikliğinden olur; damarları yeşil kalıp araları sararıyorsa demir eksikliği düşünülür.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar; çekirdekten yetişen limon yıllarca meyve vermeyebilir. Limon yıl içinde birkaç kez çiçek açabildiği için meyveler yılın büyük bölümünde toplanabilir; meyve tam sarı ve hafif yumuşak olduğunda olgundur.",
+   "zehir": "Yaprak, kabuk ve meyvesindeki yağlar kedi ve köpeklerde kusma, ishal ve halsizlik yapabilir. Yutulduysa veteriner ya da doktora danışın.",
+   "dikim": "Bahçeye dikim ilkbaharda, don tehlikesi geçince yapılır. Saksıdaki limon 2–3 yılda bir, ilkbaharda bir boy büyük saksıya alınır.",
+   "cogaltma": "Çeliği zor köklenir; çekirdekten yetişen limon yıllarca meyve vermeyebilir. Meyve için aşılı fidan önerilir."
+  },
+  "Zeytin": {
+   "isik": "Tam güneş ister; içeride saksıda tutulursa en aydınlık yere konmalıdır.",
+   "sulama": "Kuraklığa dayanıklıdır; saksıdakileri toprak kuruyunca sulayın. Islak, drenajı kötü toprak kökü çürütür.",
+   "sicaklik": "Kısa süreli hafif donlara dayanır ama sert ve uzun donlarda zarar görür.",
+   "budama": "Hasattan sonra kış sonu–ilkbahar başında, sert dondan sonra yapılır; ortası açılarak ışık alması sağlanır.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar. Yeşil zeytinlik meyveler eylül–ekimde, siyah zeytinlik ve yağlık meyveler kasım–ocak arasında toplanır. Zeytin bir yıl bol bir yıl az ürün verme (periyodisite) eğilimindedir. Birçok çeşit kısmen kendine verimlidir; yakınında başka bir çeşit olması verimi artırır.",
+   "zehir": "Zehirli değildir; kedi ve köpekler için de zararsız kabul edilir.",
+   "dikim": "Tüplü fidanlar sonbaharda ya da ilkbaharda (don tehlikesi geçince) dikilir; güneşli ve suyu iyi süzen yer seçilir.",
+   "cogaltma": "Yarı odunsu çeliklerle nemli ortamda köklendirilerek ya da aşıyla çoğaltılır; evde köklendirmek sabır ister."
+  },
+  "Çilek": {
+   "isik": "Güneşli yer ister; günde en az 6 saat güneş alırsa bol meyve verir.",
+   "sulama": "Toprağı düzenli nemli tutun, özellikle çiçek ve meyve döneminde; yaprakları ve meyveyi ıslatmadan dibinden sulayın.",
+   "cogaltma": "Ana bitkinin uzattığı kollar (stolon) üzerindeki yavru bitkiler köklendirilip ayrılarak çoğaltılır.",
+   "dikim": "Fideler genellikle sonbaharda ya da ilkbaharda dikilir; kök boğazı toprağa gömülmemelidir.",
+   "sicaklik": "Kışa dayanıklıdır; çok soğuk bölgelerde üzerine saman ya da malç örtmek kökleri korur. İlkbahar geç donları çiçeklere zarar verebilir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Meyve verimi için fazla kol (yavru sürgün) kesilir; yavru almak istiyorsanız birkaç tanesini bırakın. Kuru ve hasta yaprakları ayıklayın."
+  },
+  "Domates": {
+   "isik": "Tam güneş ister; günde en az 6–8 saat güneş.",
+   "sulama": "Düzenli ve eşit sulama ister; toprağın bir kuruyup bir ıslanması meyvenin dibinin kararmasına (çiçek burnu çürüklüğü) yol açar. Yaprakları ıslatmadan dibinden sulayın.",
+   "sicaklik": "Soğuğa hassastır; fideler don tehlikesi geçince, gece sıcaklığı 10 °C'nin üstüne çıkınca dikilir.",
+   "budama": "Sırık domateste yaprak koltuklarından çıkan yan sürgünler (koltuk) küçükken alınır; bodur çeşitlerde gerekmez.",
+   "zehir": "Olgun meyvesi zararsızdır; yaprak, sap ve ham meyvesi solanin içerir, kedi ve köpeklerde mide rahatsızlığı yapabilir.",
+   "dikim": "Fideler don tehlikesi geçip gece sıcaklığı 10 °C'nin üstüne çıkınca dikilir; çoğu bölgede nisan sonu–mayıs. Tohum dikimden 6–8 hafta önce içeride ekilir.",
+   "cogaltma": "Tohumla çoğaltılır. Koltuk sürgünleri (yan sürgünler) suda ya da nemli toprakta birkaç günde köklenir ve yeni bitki olarak dikilebilir."
+  },
+  "Sıklamen": {
+   "isik": "Parlak ama dolaylı ışık sever; direkt güneşi sevmez.",
+   "sulama": "Yumruya ve yaprak ortasına su değdirmeden, tabaktan ya da saksı kenarından sulayın; toprak hafif nemli kalsın.",
+   "sicaklik": "Serin sever: 12–18 °C idealdir. Sıcak odada ve kalorifer yanında çabuk solar.",
+   "zehir": "Özellikle yumrusu zehirlidir; yenirse kedi ve köpeklerde kusma ve ishal yapar.",
+   "cicek": "Sonbahardan bahara çiçek açar; yazın dinlenmeye girer, yaprakları sararınca sulama azaltılır.",
+   "budama": "Solan çiçekleri ve sararan yaprakları saplarıyla birlikte yumrudan hafifçe döndürerek koparın.",
+   "dikim": "Yaz dinlenmesinden sonra, sonbahar başında yenilenir; yumrunun üst kısmı toprak üstünde kalacak şekilde dikilir.",
+   "cogaltma": "Tohumla çoğaltılır; yumru bölünmez. Tohumdan çiçeğe bir yıldan fazla sürer."
+  },
+  "Atatürk çiçeği": {
+   "isik": "Parlak, dolaylı ışık ister.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; su birikirse yaprak döker.",
+   "sicaklik": "Soğuk cereyana ve 13 °C'nin altına hassastır; soğukta yapraklarını döker.",
+   "zehir": "Süt özsuyu ağızda ve midede hafif tahriş yapabilir; evcil hayvanlardan uzak tutun.",
+   "cicek": "Kırmızı yaprakların (braktelerin) yeniden renklenmesi için sonbaharda 6–8 hafta boyunca her gece 12–14 saat tam karanlık gerekir.",
+   "budama": "Çiçeklenmeden sonra ilkbaharda dallar yarı yarıya kısaltılabilir; yazın uçları koparmak daha gür bir bitki sağlar. Özsuyu tahriş edicidir.",
+   "dikim": "Saksı değişimi ilkbaharda yapılır; çiçekli bitki kışın aktarılmaz.",
+   "cogaltma": "İlkbahar–yaz uç çelikleriyle çoğaltılır; özsuyu durana kadar kesik ılık suya batırılır."
+  },
+  "Zakkum": {
+   "isik": "Tam güneş sever.",
+   "sulama": "Kuraklığa dayanıklıdır ama düzenli sulanınca daha çok çiçek açar.",
+   "zehir": "Bitkinin tüm kısımları çok zehirlidir (kalbi etkileyen maddeler içerir). Çocukların ve evcil hayvanların ulaşabileceği yerlere dikmeyin; budarken eldiven kullanın.",
+   "budama": "Çiçeklenme sonrası ya da kış sonunda şekil budaması yapılır.",
+   "sicaklik": "Hafif donlara dayanır; sert ve uzun donlarda toprak üstü zarar görebilir, genelde kökten yeniden sürer. Soğuk bölgelerde saksıda yetiştirip kışın serin bir yere alın.",
+   "dikim": "İlkbaharda, don tehlikesi geçince güneşli yere dikilir.",
+   "cogaltma": "Yaz başında çeliklerle kolayca köklenir; suda bile kök verir. Özsuyu zehirlidir, eldiven kullanın."
+  },
+  "Kauçuk": {
+   "isik": "Parlak, dolaylı ışık sever; sabah güneşini tolere eder. Az ışıkta alt yapraklarını döker.",
+   "sulama": "Toprağın üst 3–4 cm'si kuruyunca sulayın; kışın aralığı açın. Su birikmesi yaprak döktürür.",
+   "sicaklik": "16–27 °C uygundur; soğuk cereyan ve ani yer değişikliği yaprak döktürür.",
+   "cogaltma": "Uç çelikleri ya da hava daldırmasıyla çoğaltılır.",
+   "zehir": "Süt özsuyu cildi tahriş edebilir; yenirse kedi ve köpeklerde kusma yapabilir. Budarken eldiven kullanın.",
+   "sararma": "En sık nedenler fazla sulama, soğuk ve ışık azlığıdır; yer değiştirince birkaç yaprak dökmesi normaldir.",
+   "budama": "Çok boylandıysa ilkbaharda tepesinden kesin; kesik altından yan dallar çıkar. Beyaz özsuyu tahriş edicidir, eldiven kullanın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Benjamin": {
+   "isik": "Parlak, dolaylı ışık ister; yer değiştirmeyi sevmez.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; düzensiz sulama yaprak döktürür.",
+   "sicaklik": "16–24 °C idealdir; soğuk cereyanda yapraklarını döker.",
+   "zehir": "Süt özsuyu cildi tahriş edebilir; yenirse kedi ve köpeklerde kusma yapabilir. Budarken eldiven kullanın.",
+   "sararma": "Yaprak dökmesi çoğu zaman yer değişikliği, cereyan, ışık azlığı ya da düzensiz sulamaya tepkidir; yerini sabit tutun.",
+   "budama": "Şekil vermek için ilkbaharda dalların uçları kısaltılabilir. Özsuyu tahriş edicidir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür. Yer değişikliğini sevmez; aktardıktan sonra birkaç yaprak dökmesi normaldir.",
+   "cogaltma": "İlkbahar–yaz uç çelikleriyle, sıcak ve nemli ortamda köklendirilir."
+  },
+  "Keman yapraklı incir": {
+   "isik": "Bol, parlak ışık ister; pencereye yakın, öğle güneşinden korunan yer idealdir.",
+   "sulama": "Toprağın üst 3–5 cm'si kuruyunca sulayın; fazla su yapraklarda kahverengi lekeler yapar.",
+   "sicaklik": "18–27 °C sever; soğuk cereyana ve yer değişikliğine hassastır.",
+   "zehir": "Süt özsuyu cildi tahriş edebilir; yenirse kedi ve köpeklerde kusma yapabilir. Budarken eldiven kullanın.",
+   "sararma": "Kenarlardan kahverengileşen yapraklar genelde fazla su ya da kök çürümesi, kuru kenarlar susuzluk ya da kuru havadır.",
+   "budama": "Tek gövde çok boylandıysa ilkbaharda tepesini kesmek yan dallanmayı sağlar. Özsuyu tahriş edicidir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "Uç çeliği ya da hava daldırmasıyla çoğaltılır; sıcak ve nemli ortam ister."
+  },
+  "Difenbahya": {
+   "isik": "Dolaylı, orta-parlak ışık sever; direkt güneş yakar.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; su birikmesin.",
+   "sicaklik": "18–27 °C'de rahat eder; 15 °C altını sevmez.",
+   "cogaltma": "Gövde parçaları ya da uç çelikleriyle köklendirilir.",
+   "zehir": "Özsuyu çok tahriş edicidir; çiğnenirse ağız ve dilde şişlik, salya ve konuşma güçlüğü yapabilir. Çocuk ve evcil hayvanlardan uzak tutun, budarken eldiven kullanın.",
+   "budama": "Çok boylanıp alttan çıplaklaştıysa gövdeden kesilebilir; kalan kısım yeniden sürer. Özsuyu çok tahriş edicidir, eldiven kullanın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Dua çiçeği": {
+   "isik": "Dolaylı, orta ışık sever; direkt güneş yapraklarının desenini soldurur.",
+   "sulama": "Toprağı hafif nemli tutun, kurumaya bırakmayın; kireçsiz, bekletilmiş su kullanın.",
+   "sicaklik": "18–27 °C ve nemli hava sever; kuru havada yaprak kenarları kurur.",
+   "zehir": "Kedi ve köpekler için zehirli değildir.",
+   "sararma": "Kıvrılan, kenarı kuruyan yapraklar kuru hava ya da kireçli sudan; sararma fazla sudan olabilir.",
+   "budama": "Düzenli budama gerekmez. Sararan ya da kuruyan yaprakları sapın dibinden temiz bir makasla kesin; çok boylandıysa ilkbaharda tepesinden kısaltabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "En kolay yol bölmedir: saksı değişiminde kök topu elle ya da temiz bir bıçakla her parçada kök ve birkaç sürgün kalacak şekilde ayrılır."
+  },
+  "Calathea": {
+   "isik": "Dolaylı, orta ışık ister; direkt güneş yapraklarını soldurur ve yakar.",
+   "sulama": "Toprağı hafif nemli tutun; kireçsiz (yağmur ya da bekletilmiş) su kullanın.",
+   "sicaklik": "18–27 °C ve yüksek nem sever; soğuk cereyana hassastır.",
+   "zehir": "Kedi ve köpekler için zehirli değildir.",
+   "sararma": "Yaprak kenarlarının kuruması kuru hava ve kireçli sudan; sarı, yumuşak yapraklar fazla sudan olur.",
+   "budama": "Düzenli budama gerekmez. Sararan ya da kuruyan yaprakları sapın dibinden temiz bir makasla kesin; çok boylandıysa ilkbaharda tepesinden kısaltabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "En kolay yol bölmedir: saksı değişiminde kök topu elle ya da temiz bir bıçakla her parçada kök ve birkaç sürgün kalacak şekilde ayrılır."
+  },
+  "Fil kulağı": {
+   "isik": "Parlak, dolaylı ışık ister.",
+   "sulama": "Toprağı hafif nemli tutun ama su birikmesin; kışın azaltın.",
+   "sicaklik": "18–27 °C ister; soğukta yapraklarını döküp dinlenmeye girebilir.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "budama": "Sararan ya da yıpranan yaprakları sapın dibinden kesin; başka budama gerekmez.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "Kökteki yan yumrular ya da dipten çıkan yavrular ayrılarak çoğaltılır."
+  },
+  "Şeflera": {
+   "isik": "Parlak, dolaylı ışık sever; az ışıkta uzar.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; fazla sudan hoşlanmaz.",
+   "sicaklik": "15–27 °C uygundur.",
+   "budama": "Uzayan dallar ilkbaharda kısaltılarak gür bir form verilir.",
+   "zehir": "Kalsiyum oksalat içerir; çiğnenirse ağızda tahriş ve kusma yapabilir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "Uç çelikleriyle sıcak ve nemli ortamda köklendirilir."
+  },
+  "Pilea": {
+   "isik": "Parlak, dolaylı ışık sever; düzgün büyümesi için saksıyı ara ara çevirin.",
+   "sulama": "Toprağın üstü kuruyunca sulayın.",
+   "cogaltma": "Dibinden çıkan yavrular ayrılıp ayrı saksıya dikilir.",
+   "zehir": "Kedi ve köpekler için zehirli değildir.",
+   "sicaklik": "Oda sıcaklığını sever (18–24 °C). 10 °C'nin altındaki soğuktan ve soğuk cam kenarından koruyun.",
+   "budama": "Uzayan gövdeyi ilkbaharda kısaltabilirsiniz; dipten çıkan yavruları ayırıp çoğaltabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Dracaena": {
+   "isik": "Dolaylı ışık sever; az ışığa dayanır.",
+   "sulama": "Toprağın üst kısmı kuruyunca sulayın; fazla sudan hoşlanmaz.",
+   "sicaklik": "16–27 °C uygundur.",
+   "cogaltma": "Gövde parçaları ya da uç çelikleriyle köklendirilir.",
+   "zehir": "Kedi ve köpeklerde kusma ve iştahsızlık yapabilir.",
+   "sararma": "Yaprak uçlarının kahverengileşmesi musluk suyundaki flor/klor ve tuzdan olabilir; bekletilmiş su kullanın.",
+   "budama": "Çok boylandıysa gövdeden istediğiniz boyda kesin; kesiğin altından yeni sürgünler çıkar. Kahverengi yaprak uçlarını kırpabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Aglaonema": {
+   "isik": "Az ve orta ışığa dayanır; renkli türler daha çok ışık ister.",
+   "sulama": "Toprağın üstü kuruyunca sulayın.",
+   "sicaklik": "18–27 °C sever; 15 °C altında zarar görür.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "budama": "Düzenli budama gerekmez. Sararan ya da kuruyan yaprakları sapın dibinden temiz bir makasla kesin; çok boylandıysa ilkbaharda tepesinden kısaltabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "En kolay yol bölmedir: saksı değişiminde kök topu elle ya da temiz bir bıçakla her parçada kök ve birkaç sürgün kalacak şekilde ayrılır. Gövde çelikleri de suda köklenebilir."
+  },
+  "Eğrelti otu": {
+   "isik": "Dolaylı ışık ya da yarı gölge sever.",
+   "sulama": "Toprağı sürekli hafif nemli tutun; kurumaya hiç gelmez.",
+   "sicaklik": "16–24 °C ve nemli hava sever.",
+   "zehir": "Boston eğreltisi kedi ve köpekler için zehirli değildir.",
+   "sararma": "Kuruyup dökülen yapraklar kuru hava ya da susuzluktan; yaprak spreyi ve tabakta çakıl-su ile nem artırılabilir.",
+   "budama": "Kuruyan ve kahverengileşen yaprakları dipten kesin.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "En kolay yol bölmedir: saksı değişiminde kök topu elle ya da temiz bir bıçakla her parçada kök ve birkaç sürgün kalacak şekilde ayrılır."
+  },
+  "Begonya": {
+   "isik": "Parlak, dolaylı ışık sever.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; yapraklarını ıslatmayın, külleme yapar.",
+   "sicaklik": "16–24 °C uygundur.",
+   "cogaltma": "Yaprak ya da gövde çelikleriyle köklendirilir.",
+   "zehir": "Özellikle kök ve yumruları kedi ve köpekler için zehirlidir.",
+   "budama": "Uçlarını koparmak dallanmayı artırır; solan çiçekleri ve uzayıp çıplaklaşan dalları kısaltın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Yuka": {
+   "isik": "Bol ışık sever.",
+   "sulama": "Toprak kuruyunca sulayın; fazla su gövdeyi çürütür.",
+   "sicaklik": "Soğuğa oldukça dayanıklıdır; saksıdakiler sert donda korunmalıdır.",
+   "zehir": "Saponin içerir; kedi ve köpeklerde kusma yapabilir.",
+   "budama": "Çok boylandıysa ilkbaharda gövdeden kesilebilir; kesikten yeni başlar çıkar. Kuruyan alt yaprakları dipten alın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "Gövde parçaları ya da dipten çıkan yavrularla çoğaltılır; kesilen gövde parçası toprağa dikilince kök verir."
+  },
+  "Kalanşo": {
+   "isik": "Bol ışık sever.",
+   "sulama": "Toprak kuruyunca sulayın; etli yapraklarında su depolar.",
+   "cicek": "Kısa gün bitkisidir: yeniden çiçek açması için sonbaharda birkaç hafta günde 14 saat karanlık gerekir.",
+   "zehir": "Kedi ve köpekler için zehirlidir (kalbi etkileyen maddeler içerir).",
+   "sicaklik": "Sıcak oda ortamını sever; 10 °C'nin altında zarar görür, dona hiç dayanmaz.",
+   "budama": "Çiçekler solunca çiçek saplarını kesin; uzayan dalları kısaltmak bitkiyi toparlar.",
+   "dikim": "Çiçeklenme bittikten sonra, ilkbaharda bir boy büyük saksıya alın.",
+   "cogaltma": "Yaprak ya da uç çelikleriyle kolayca köklenir; kesiği bir gün kurutup kumlu toprağa dikin."
+  },
+  "Starliçe": {
+   "isik": "Bol ışık ister; çiçek açması için güneşli yer gerekir.",
+   "sulama": "Yazın toprağın üstü kuruyunca sulayın, kışın azaltın.",
+   "sicaklik": "Dona dayanmaz; 10 °C'nin altında korunmalıdır.",
+   "cicek": "Genç bitkiler 3–5 yaşından önce çiçek açmaz; saksısının biraz dar olması çiçeklenmeyi teşvik eder.",
+   "zehir": "Meyve ve tohumları kedi ve köpeklerde mide bulantısı ve kusma yapabilir; hafif zehirli kabul edilir.",
+   "budama": "Kuruyan yaprakları ve solan çiçek saplarını dipten kesin.",
+   "dikim": "İlkbaharda aktarılır; kökü biraz sıkışık olunca daha iyi çiçek açtığı için saksıyı çok büyütmeyin.",
+   "cogaltma": "Kalabalık bitki ilkbaharda bölünerek çoğaltılır; tohumla çoğaltmak yavaştır."
+  },
+  "Hoya": {
+   "isik": "Parlak, dolaylı ışık ister; çiçek açması için ışık şarttır.",
+   "sulama": "Toprak kuruyunca sulayın; etli yaprakları su depolar.",
+   "cicek": "Çiçek sapları her yıl yeniden çiçek açtığı için solan çiçek saplarını kesmeyin.",
+   "zehir": "Kedi ve köpekler için zehirli kabul edilmez.",
+   "sicaklik": "Oda sıcaklığını sever; kışın 10–15 °C'nin altına düşmemesine dikkat edin.",
+   "budama": "Çiçek sapları (mahmuzları) kesilmez; her yıl aynı yerden yeniden çiçek açar. Yalnız çok uzayan ve çıplak dalları kısaltın.",
+   "dikim": "Sık saksı değişimi sevmez; kökler iyice dolunca ilkbaharda bir boy büyük saksıya alın. Kökü sıkışık hoya daha iyi çiçek açar.",
+   "cogaltma": "En az iki boğumlu çeliklerle suda ya da nemli toprakta köklendirilir."
+  },
+  "Peperomya": {
+   "isik": "Dolaylı ışık sever.",
+   "sulama": "Toprak kuruyunca sulayın; fazla sudan çabuk çürür.",
+   "zehir": "Kedi ve köpekler için zehirli değildir.",
+   "cogaltma": "Yaprak ya da gövde çelikleriyle kolayca köklenir.",
+   "sicaklik": "18–24 °C arası idealdir; soğuk cereyandan ve 10 °C'nin altından koruyun.",
+   "budama": "Uzayan dalları kısaltmak bitkiyi toparlar; kesilen uçlar köklendirilebilir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Singonyum": {
+   "isik": "Dolaylı, orta ışık sever.",
+   "sulama": "Toprağın üstü kuruyunca sulayın.",
+   "cogaltma": "Boğumlu çeliklerle suda kolayca köklenir.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "sicaklik": "Sıcak seven tropikal bir bitkidir; 15 °C'nin altında büyümesi durur, soğuk cereyan yaprak kahverengileştirir.",
+   "budama": "Uzayan sarılıcı dalları kesmek bitkiyi gür tutar; kesilen uçlar suda köklenir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Yılbaşı kaktüsü": {
+   "isik": "Parlak, dolaylı ışık ister; direkt güneş yaprak boğumlarını kızartır.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; diğer kaktüslerden daha çok su ister.",
+   "cicek": "Tomurcuklanması için sonbaharda serin gece (10–15 °C) ve uzun karanlık gerekir; tomurcuk varken yerini değiştirmeyin, döker.",
+   "cogaltma": "2–3 boğumlu parçalar koparılıp toprağa dikilerek kolayca çoğaltılır.",
+   "zehir": "Kedi ve köpekler için zehirli kabul edilmez.",
+   "sicaklik": "Serin seven bir kaktüstür: sonbaharda birkaç hafta 12–16 °C'de tutulması tomurcuk bağlamasına yardımcı olur. Dona dayanmaz.",
+   "budama": "Çiçekten sonra uç parçalarını eklem yerinden koparmak dallanmayı artırır; kopan parçalar köklendirilebilir.",
+   "dikim": "Çiçeklenme bittikten sonra, ilkbaharda aktarılır; kökü biraz sıkışık olmayı sever."
+  },
+  "Sikas": {
+   "isik": "Bol, dolaylı ışık sever.",
+   "sulama": "Toprak kuruyunca sulayın; gövde dibinde su bırakmayın.",
+   "zehir": "Bitkinin tüm kısımları, özellikle tohumları çok zehirlidir; evcil hayvanlar için ölümcül olabilir. Ulaşamayacakları yere koyun.",
+   "sicaklik": "Hafif soğuklara dayanır; saksıdakiler kışın donmayan aydınlık bir yerde tutulur. Sert donda yaprakları zarar görür.",
+   "budama": "Yalnız tamamen kuruyan alt yaprakları dipten kesin; tepe asla kesilmez.",
+   "dikim": "Yavaş büyür; kökler saksıyı doldurunca ilkbaharda aktarılır.",
+   "cogaltma": "Dipten çıkan yavrularla ya da tohumla çoğaltılır; çok yavaştır."
+  },
+  "Açelya": {
+   "isik": "Parlak, dolaylı ışık; sabah güneşi uygundur.",
+   "sulama": "Toprağı sürekli nemli tutun, kireçsiz su kullanın; kuruması tomurcuk döktürür.",
+   "sicaklik": "Serin sever (10–18 °C); sıcak odada çiçekler çabuk solar.",
+   "zehir": "Kedi ve köpekler için zehirlidir.",
+   "budama": "Çiçeklenme bittikten hemen sonra hafif şekil budaması yapılır; geç budanırsa gelecek yılın tomurcukları kesilir.",
+   "dikim": "Çiçeklenme bittikten sonra kireçsiz, asidik toprağa aktarılır; bahçeye dikim sonbahar ya da ilkbaharda yapılır.",
+   "cogaltma": "Yaz başında yarı odunsu uç çelikleriyle, kireçsiz nemli ortamda köklendirilir."
+  },
+  "Gardenya": {
+   "isik": "Parlak, dolaylı ışık ister.",
+   "sulama": "Toprağı hafif nemli tutun, kireçsiz su kullanın.",
+   "sicaklik": "Gündüz 18–24 °C, gece biraz serin ister; ani sıcaklık değişiminde tomurcuk döker.",
+   "sararma": "Yaprak sararması çoğunlukla kireçli su ve demir eksikliğinden olur; asidik toprak ve yağmur suyu iyi gelir.",
+   "zehir": "Hafif zehirli kabul edilir; yenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "budama": "Çiçeklenme bitince hafif şekil budaması yapılır; geç budamak gelecek yılın çiçek tomurcuklarını keser.",
+   "dikim": "İlkbaharda kireçsiz, asidik bir toprağa aktarılır; yer değişikliğini sevmez.",
+   "cogaltma": "Yaz başında yarı odunsu çeliklerle, sıcak ve nemli ortamda köklendirilir."
+  },
+  "Hibiskus": {
+   "isik": "Bol güneş ister.",
+   "sulama": "Çiçeklenme döneminde düzenli sulayın, toprak kurumasın.",
+   "sicaklik": "Dona dayanmaz; kışın 10 °C'nin altında içeri alın.",
+   "budama": "İlkbaharda budanırsa yeni sürgünlerde bol çiçek açar.",
+   "cicek": "Az güneş, susuzluk ve tomurcuk varken yer değiştirme çiçek açmamanın en sık nedenleridir.",
+   "zehir": "Genelde ciddi zehirli değildir; çok yenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "dikim": "İlkbaharda aktarılır ya da don tehlikesi geçince dışarı dikilir.",
+   "cogaltma": "İlkbahar–yaz uç çelikleriyle köklendirilir; sıcak ortamda daha kolay kök verir."
+  },
+  "Krizantem": {
+   "isik": "Güneşli yer sever.",
+   "sulama": "Toprağı düzenli nemli tutun.",
+   "cicek": "Kısa gün bitkisidir: günler kısalınca (sonbaharda) çiçek açar.",
+   "budama": "İlkbahar–yaz başında uçlarını koparmak dallanmayı ve çiçek sayısını artırır.",
+   "sicaklik": "Bahçe krizantemleri kışa genelde dayanıklıdır; saksı krizantemleri soğuk bölgelerde kışın donmayan bir yere alınmalıdır.",
+   "zehir": "Kedi ve köpekler için zehirlidir: kusma, ishal, salya akması ve ciltte kızarıklık yapabilir. Yutulduysa veteriner ya da doktora danışın.",
+   "dikim": "Bahçe krizantemleri ilkbaharda dikilir; sonbahar çiçekli saksılar çiçeklenme sonrası bahçeye aktarılabilir.",
+   "cogaltma": "İlkbaharda uç çelikleriyle ya da kök bölerek çoğaltılır."
+  },
+  "Yasemin": {
+   "isik": "Güneşli ya da yarı gölge yer sever.",
+   "sulama": "Toprağı hafif nemli tutun.",
+   "budama": "Çiçeklenmeden sonra budanır.",
+   "sicaklik": "Türe göre değişir: yaygın beyaz yasemin hafif donlara dayanır, kış yasemini soğuğa çok dayanıklıdır; saksıdakiler sert kışta korunmalıdır.",
+   "zehir": "Gerçek yasemin zehirli kabul edilmez. Ancak 'yalancı yasemin' denen sarı çiçekli sarmaşık (Gelsemium) çok zehirlidir; karıştırmayın.",
+   "dikim": "İlkbahar ya da sonbaharda, tutunacağı bir desteğin dibine dikilir.",
+   "cogaltma": "Yaz başında çeliklerle ya da bir dalı toprağa yatırarak (daldırma) çoğaltılır."
+  },
+  "Petunya": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; saksıda yazın sık su ister.",
+   "budama": "Solan çiçekleri koparmak ve uzayan dalları yaz ortasında kısaltmak yeni çiçek açtırır.",
+   "sicaklik": "Sıcak seven bir yazlık çiçektir; dona dayanmaz, don tehlikesi geçince dışarı dikilir.",
+   "zehir": "Zehirli değildir.",
+   "dikim": "Don tehlikesi geçince, ilkbaharda dikilir.",
+   "cogaltma": "Tohumla ya da yazın uç çelikleriyle çoğaltılır."
+  },
+  "Narenciye": {
+   "isik": "Bol güneş ister: günde en az 6–8 saat. Saksıdakileri kışın içeride en aydınlık yere alın.",
+   "sulama": "Yazın genelde haftada 1–2, kışın 10 günde bir sulayın; toprak kurumadan tekrar sulamayın. Çok sık sulama yaprak sararması ve dökülmesine yol açar.",
+   "sicaklik": "Dona dayanıksızdır. Saksıdakileri kışın rüzgâr ve soğuk almayan, ama soba ya da kaloriferle ısıtılmayan (havası kurumayan) aydınlık bir yerde tutun.",
+   "budama": "Kış sonu–ilkbahar başında kuru, hastalıklı ve içe büyüyen dallar alınır; aşı yerinin altından çıkan sürgünler temizlenir.",
+   "sararma": "En sık nedenler fazla sulama, soğuk ve besin eksikliğidir; yaprak damarları yeşil kalıp araları sararıyorsa demir eksikliği düşünülür.",
+   "zehir": "Narenciye yaprak, kabuk ve meyvelerindeki yağlar kedi ve köpeklerde kusma ve ishal yapabilir. Yutulduysa veteriner ya da doktora danışın.",
+   "dikim": "Bahçeye dikim ilkbaharda, don tehlikesi geçince yapılır; saksıdakiler ilkbaharda bir boy büyük saksıya alınır.",
+   "cogaltma": "Meyve için aşıyla çoğaltılır; çekirdekten yetişen narenciye anasına benzemeyebilir ve geç meyveye yatar."
+  },
+  "Portakal": {
+   "isik": "Bol güneş ister: günde en az 6–8 saat. Saksıdakileri kışın içeride en aydınlık yere alın.",
+   "sulama": "Yazın genelde haftada 1–2, kışın 10 günde bir sulayın; toprak kurumadan tekrar sulamayın. Çok sık sulama yaprak sararması ve dökülmesine yol açar.",
+   "sicaklik": "Dona dayanıksızdır. Saksıdakileri kışın rüzgâr ve soğuk almayan, ama soba ya da kaloriferle ısıtılmayan (havası kurumayan) aydınlık bir yerde tutun.",
+   "budama": "Kış sonu–ilkbahar başında kuru, hastalıklı ve içe büyüyen dallar alınır; aşı yerinin altından çıkan sürgünler temizlenir.",
+   "sararma": "En sık nedenler fazla sulama, soğuk ve besin eksikliğidir; yaprak damarları yeşil kalıp araları sararıyorsa demir eksikliği düşünülür.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar. Meyveler çoğunlukla kasım–mart arasında olgunlaşır; kabuk turuncuya döndükten sonra birkaç hafta daha dalda kalırsa tatlanır.",
+   "zehir": "Kabuk ve yapraklarındaki yağlar kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "dikim": "İlkbaharda, don tehlikesi geçince güneşli ve rüzgâr almayan yere dikilir.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Mandalina": {
+   "isik": "Bol güneş ister: günde en az 6–8 saat. Saksıdakileri kışın içeride en aydınlık yere alın.",
+   "sulama": "Yazın genelde haftada 1–2, kışın 10 günde bir sulayın; toprak kurumadan tekrar sulamayın. Çok sık sulama yaprak sararması ve dökülmesine yol açar.",
+   "sicaklik": "Dona dayanıksızdır. Saksıdakileri kışın rüzgâr ve soğuk almayan, ama soba ya da kaloriferle ısıtılmayan (havası kurumayan) aydınlık bir yerde tutun.",
+   "budama": "Kış sonu–ilkbahar başında kuru, hastalıklı ve içe büyüyen dallar alınır; aşı yerinin altından çıkan sürgünler temizlenir.",
+   "sararma": "En sık nedenler fazla sulama, soğuk ve besin eksikliğidir; yaprak damarları yeşil kalıp araları sararıyorsa demir eksikliği düşünülür.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar. Çeşidine göre ekimden ocağa kadar hasat edilir; kabuk rengi tam turuncu olduğunda toplanır.",
+   "zehir": "Kabuk ve yapraklarındaki yağlar kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "dikim": "İlkbaharda, don tehlikesi geçince güneşli ve korunaklı yere dikilir.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Turunç": {
+   "isik": "Bol güneş ister: günde en az 6–8 saat. Saksıdakileri kışın içeride en aydınlık yere alın.",
+   "sulama": "Yazın genelde haftada 1–2, kışın 10 günde bir sulayın; toprak kurumadan tekrar sulamayın. Çok sık sulama yaprak sararması ve dökülmesine yol açar.",
+   "sicaklik": "Birçok narenciyeye göre soğuğa daha dayanıklıdır, ancak uzun ve sert donlarda zarar görür.",
+   "budama": "Kış sonu–ilkbahar başında kuru, hastalıklı ve içe büyüyen dallar alınır; aşı yerinin altından çıkan sürgünler temizlenir.",
+   "sararma": "En sık nedenler fazla sulama, soğuk ve besin eksikliğidir; yaprak damarları yeşil kalıp araları sararıyorsa demir eksikliği düşünülür.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar; meyveler sonbahar–kış olgunlaşır.",
+   "zehir": "Kabuk ve yapraklarındaki yağlar kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "dikim": "İlkbaharda, don tehlikesi geçince güneşli yere dikilir.",
+   "cogaltma": "Çekirdekten kolay yetişir; bu yüzden diğer narenciyelere anaç olarak da kullanılır."
+  },
+  "Greyfurt": {
+   "isik": "Bol güneş ister: günde en az 6–8 saat. Saksıdakileri kışın içeride en aydınlık yere alın.",
+   "sulama": "Yazın genelde haftada 1–2, kışın 10 günde bir sulayın; toprak kurumadan tekrar sulamayın. Çok sık sulama yaprak sararması ve dökülmesine yol açar.",
+   "sicaklik": "Dona dayanıksızdır. Saksıdakileri kışın rüzgâr ve soğuk almayan, ama soba ya da kaloriferle ısıtılmayan (havası kurumayan) aydınlık bir yerde tutun.",
+   "budama": "Kış sonu–ilkbahar başında kuru, hastalıklı ve içe büyüyen dallar alınır; aşı yerinin altından çıkan sürgünler temizlenir.",
+   "sararma": "En sık nedenler fazla sulama, soğuk ve besin eksikliğidir; yaprak damarları yeşil kalıp araları sararıyorsa demir eksikliği düşünülür.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar. Meyveler çoğunlukla kasım–mart arasında hasat edilir.",
+   "zehir": "Kabuk ve yapraklarındaki yağlar kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "dikim": "İlkbaharda, don tehlikesi geçince güneşli ve sıcak bir yere dikilir.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Kumkuat": {
+   "isik": "Bol güneş ister: günde en az 6–8 saat. Saksıdakileri kışın içeride en aydınlık yere alın.",
+   "sulama": "Yazın genelde haftada 1–2, kışın 10 günde bir sulayın; toprak kurumadan tekrar sulamayın. Çok sık sulama yaprak sararması ve dökülmesine yol açar.",
+   "sicaklik": "Narenciyeler içinde soğuğa en dayanıklılardan biridir; yine de uzun ve şiddetli donlardan korunmalıdır, saksıdaki kumkuat kışın donmayan aydınlık bir yere alınır.",
+   "budama": "Kış sonu–ilkbahar başında kuru, hastalıklı ve içe büyüyen dallar alınır; aşı yerinin altından çıkan sürgünler temizlenir.",
+   "sararma": "En sık nedenler fazla sulama, soğuk ve besin eksikliğidir; yaprak damarları yeşil kalıp araları sararıyorsa demir eksikliği düşünülür.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar. Meyveler kış aylarında parlak turuncuya dönünce toplanır; kabuğuyla birlikte yenir.",
+   "zehir": "Kabuk ve yapraklarındaki yağlar kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "dikim": "İlkbaharda dikilir; saksıdakiler 2–3 yılda bir ilkbaharda bir boy büyük saksıya alınır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Trabzon hurması": {
+   "isik": "Güneşli yer ister.",
+   "sicaklik": "Kışın yapraklarını döktüğü için soğuğa diğer subtropik meyvelerden dayanıklıdır; genelde −12 °C'ye kadar dayanır. Geç çiçek açtığından ilkbahar donlarından az etkilenir.",
+   "sulama": "Nemli havayı sever; kurak bölgelerde ve meyve döneminde düzenli sulama ister.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar. Meyveler sonbaharda olgunlaşır; buruk çeşitler yumuşayınca yenir, ilk donlardan önce toplanıp evde olgunlaştırılabilir. Birçok modern çeşit kendine verimlidir.",
+   "zehir": "Meyvesi zehirli değildir; ancak çekirdekleri ve çok miktarda meyve köpeklerde bağırsak tıkanmasına yol açabilir.",
+   "budama": "Kış sonunda kuru, sık ve içe büyüyen dallar alınır; ağacın ortası ışık alacak şekilde açılır. Çok sert budamaktan kaçının.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Asma": {
+   "isik": "Tam güneş ister.",
+   "budama": "Kış budaması yaprak dökümünden sonra, ilkbaharda gözler kabarmadan önce yapılır. Kışı sert ve geç donlu bölgelerde budama olabildiğince geciktirilir (donma riski geçince).",
+   "sulama": "Derin kökludür; genç asmalar ve kurak yazlarda düzenli sulama ister, aşırı su meyve kalitesini düşürür.",
+   "hasat": "Fidan genellikle 2–3 yılda ilk salkımları verir. Üzümler çeşidine göre yaz sonu–sonbahar arasında olgunlaşır; tane rengini tam aldığında ve tatlandığında toplanır (dalda bekletmekle şeker artar).",
+   "sicaklik": "Kışa dayanıklıdır; ancak ilkbaharda uyanan sürgünler geç donlardan zarar görebilir.",
+   "zehir": "Üzüm ve kuru üzüm köpekler için çok tehlikelidir; az miktarı bile böbrek yetmezliği yapabilir. Köpeklerin yere düşen üzümlere ulaşmasına izin vermeyin. Yutulduysa veteriner ya da doktora danışın.",
+   "dikim": "Fidanlar kış sonu–ilkbahar başında, uyanmadan önce dikilir; tüplü fidanlar ilkbahar boyunca dikilebilir.",
+   "cogaltma": "Kışın budamadan çıkan odunsu çeliklerle kolayca çoğaltılır; çelik nemli kuma ya da toprağa dikilir."
+  },
+  "Ceviz": {
+   "budama": "Kış budaması dinlenme döneminde yapılır; çok sert kışlarda budama önerilmez. Genç ağaca şekil (terbiye) budaması, yaşlılara seyreltme budaması uygulanır.",
+   "isik": "Tam güneş ister; geniş, derin topraklı yer sever.",
+   "hasat": "Aşılı fidan genellikle 4–6 yılda, tohumdan yetişenler çok daha geç meyveye yatar. Meyveler sonbaharda yeşil kabuk çatlayınca toplanır. Aynı dönemde çiçek açan tozlayıcı çeşitlerin birlikte dikilmesi verimi artırır.",
+   "sicaklik": "Kışa dayanıklıdır, kışın belli bir süre soğuklanmaya ihtiyaç duyar; ilkbahar geç donları sürgün ve çiçeklere zarar verebilir.",
+   "zehir": "Yere düşüp küflenen cevizler ve yeşil kabukları köpeklerde ciddi zehirlenmeye yol açabilir; köpeklerin yemesine izin vermeyin.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır. Ceviz büyük bir ağaç olur; binalardan uzak, geniş bir yer seçin.",
+   "cogaltma": "Cevizden yetişir ama anasına benzemez ve geç meyveye yatar; çeşidin aynısı için aşılı fidan gerekir.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "Defne": {
+   "isik": "Güneş ya da yarı gölge sever.",
+   "sicaklik": "Deniz etkisindeki, kışı ılık bölgelerde iyi yetişir; sert dondan zarar görür.",
+   "cogaltma": "Çelikle köklenmesi zor ve yavaştır; çoğunlukla tohumla çoğaltılır. Kökleri yer değiştirmeyi sevmez; kalıcı yerine dikin.",
+   "dikim": "Fidanı kalıcı yerine dikin; sonradan yer değiştirmek kurumasına yol açabilir.",
+   "zehir": "Yaprakları çok yenirse kedi ve köpeklerde kusma ve ishal yapabilir. Taflan (karayemiş) farklı bir bitkidir ve zehirlidir; karıştırmayın.",
+   "budama": "Şekil budaması ilkbahar sonu–yaz başında yapılabilir; çit olarak kullanılıyorsa yılda 1–2 kez kırpılır.",
+   "sulama": "Kök tutunca kurağa dayanıklıdır; saksıdaki defne toprağın üstü kuruyunca sulanır, su biriktirilmez."
+  },
+  "Ahududu": {
+   "isik": "Güneşli yer ister.",
+   "sulama": "Meyve döneminde düzenli sulama ister.",
+   "budama": "Meyve veren iki yıllık dallar hasattan sonra dipten kesilir; yeni çıkan güçlü sürgünler bırakılır.",
+   "hasat": "Fidan genellikle ikinci yılında meyveye yatar. Yazlık çeşitler iki yıllık dallarda yaz başında, iki kez ürün veren çeşitler ayrıca o yılın sürgünlerinde sonbaharda meyve verir. Olgun meyve hafifçe çekince kolayca ayrılır.",
+   "sicaklik": "Soğuğa çok dayanıklıdır; kışı dışarıda rahat geçirir.",
+   "zehir": "Zehirli değildir.",
+   "dikim": "Fidanlar sonbaharda ya da ilkbaharda, sıralar halinde dikilir.",
+   "cogaltma": "Dipten çıkan kök sürgünleri sonbaharda ya da ilkbaharda ayrılarak dikilir."
+  },
+  "Frenk üzümü": {
+   "isik": "Güneş ya da yarı gölge sever.",
+   "hasat": "Fidan genellikle ikinci–üçüncü yılında meyveye yatar. Meyveler bölgeye göre haziran–ağustos arasında salkım halinde olgunlaşır.",
+   "budama": "Kışın yaşlı, verimden düşmüş dallar dipten alınır.",
+   "sicaklik": "Soğuğa çok dayanıklıdır; serin iklimleri sever, çok sıcak ve kurak yazlarda zorlanır.",
+   "zehir": "Zehirli olarak bilinmez.",
+   "dikim": "Sonbaharda ya da ilkbahar başında dikilir.",
+   "cogaltma": "Kışın odunsu çeliklerle kolayca köklenir.",
+   "sulama": "Kökleri yüzlektir; özellikle meyve dönemi ve sıcak havalarda toprağı nemli tutun. Dibine malç sermek nemi korur."
+  },
+  "Yaban mersini": {
+   "isik": "Güneşli yer ister; az güneşte az meyve verir.",
+   "sulama": "Sığ köklüdür; toprağı düzenli nemli tutun, kireçsiz su kullanın.",
+   "sararma": "Yaprakların sararması çoğunlukla toprağın yeterince asidik olmamasından (demir alamamasından) olur; kireçli su ve kireçli toprak en sık nedendir.",
+   "hasat": "Fidan 2–3 yılda meyveye yatar. Meyveler çoğunlukla haziran–ağustos arasında, tamamen mavi-lacivert olduktan birkaç gün sonra toplanır. Farklı çeşitlerin yan yana dikilmesi meyve tutumunu artırır.",
+   "sicaklik": "Soğuğa dayanıklıdır ve iyi meyve için kışın belli bir süre soğuklanmaya ihtiyaç duyar. Saksıdakilerin kökleri sert donda korunmalıdır.",
+   "zehir": "Zehirli değildir; meyveleri kedi ve köpekler için de zararsız kabul edilir.",
+   "budama": "İlk 2–3 yıl budama hafif tutulur. Sonra her kış sonunda yaşlı, verimsiz dalların bir kısmı dipten, zayıf ve yatık dallar da kesilir.",
+   "dikim": "Sonbaharda ya da ilkbaharda, kireçsiz (asidik) toprağa dikilir; normal bahçe toprağına doğrudan dikilmez.",
+   "cogaltma": "Yaz başı yumuşak odun çelikleriyle asidik ortamda köklendirilir; evde zordur, fidan almak daha kolaydır."
+  },
+  "Avokado": {
+   "isik": "Bol ışık ister.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; su birikmesine çok hassastır.",
+   "sicaklik": "Dona dayanıksızdır.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar; çekirdekten yetişen avokado çoğu zaman 7–15 yıl meyve vermeyebilir. Meyve dalda yumuşamaz: olgun boyuta gelince koparılıp oda sıcaklığında birkaç günde yumuşatılır.",
+   "zehir": "Yaprak, kabuk ve çekirdeğindeki persin kuşlar, tavşanlar ve atlar için çok zehirlidir; kedi ve köpeklerde mide rahatsızlığı yapabilir, çekirdek boğaz ve bağırsakta tıkanma yapabilir.",
+   "budama": "Genç bitkinin tepesini kesmek dallanmayı sağlar. Ağaçlarda kış sonunda kuru ve sık dallar alınır; sert budama verimi düşürür.",
+   "dikim": "İlkbaharda, don tehlikesi geçince sıcak ve rüzgârsız bir yere dikilir; kök çürümesine hassas olduğu için su tutmayan yer seçilir.",
+   "cogaltma": "Çekirdekten kolayca filizlenir (yarısı suya batacak şekilde kürdanla tutturulur); ancak çekirdekten yetişen avokado çoğu zaman yıllarca meyve vermez, meyve için aşılı fidan gerekir."
+  },
+  "Biber": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Düzenli ve eşit sulama ister.",
+   "sicaklik": "Soğuğa çok hassastır; fideler don tehlikesi tamamen geçince dikilir.",
+   "zehir": "Meyvesi zehirli değildir (acı biber ağız ve gözü yakar); yaprak ve sapları çok yenirse evcil hayvanlarda mide rahatsızlığı yapabilir.",
+   "budama": "Genellikle budama gerekmez; ilk çatala kadar olan alt yan sürgünleri ve yere değen yaprakları almak havalanmayı artırır.",
+   "dikim": "Fideler toprak ısınıp gece sıcaklığı 12–15 °C'ye çıkınca dikilir (domatesten biraz sonra). Tohum dikimden 8–10 hafta önce içeride ekilir.",
+   "cogaltma": "Tohumla çoğaltılır. Tohumlar dikimden 8–10 hafta önce sıcak bir ortamda ekilir."
+  },
+  "Salatalık": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Bol ve düzenli su ister; susuz kalınca meyvesi acılaşabilir.",
+   "sicaklik": "Soğuğa hassastır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Sırıkta yetiştirilende alttaki ilk birkaç boğumdaki yan sürgünler ve çiçekler alınır; sararan alt yapraklar ayıklanır.",
+   "dikim": "Toprak ısınınca (mayıs) doğrudan tohumla ya da fideyle dikilir; dona hassastır.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Marul": {
+   "isik": "Güneş ya da yarı gölge; yaz sıcağında yarı gölge iyidir.",
+   "sulama": "Toprağı düzenli nemli tutun.",
+   "sicaklik": "Serin iklim sebzesidir; sıcakta erken tohuma kaçar ve acılaşır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama gerekmez; sararan ya da hastalanan yaprakları ayıklamanız yeterli.",
+   "dikim": "Serin mevsim sebzesidir: ilkbahar başında ve sonbaharda ekilir ya da dikilir; yaz sıcağında çabuk tohuma kaçar.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Çim": {
+   "sulama": "Seyrek ama derin sulama kökleri derinleştirir; sıcak yaz günlerinde sabah erken ya da akşam sulayın.",
+   "isik": "Çoğu çim karışımı güneş ister; gölgelik alanlar için gölgeye dayanıklı karışım seçilmelidir.",
+   "sicaklik": "Serin iklim çimleri soğuğa dayanıklıdır; donlu ya da karlı çimin üzerine basmamaya çalışın, yapraklar zarar görür.",
+   "zehir": "Zehirli değildir; ancak ilaçlanmış ya da gübre atılmış çimde evcil hayvanları bir süre dolaştırmayın.",
+   "budama": "Yaprak boyunun en fazla üçte biri kadar biçin; çok kısa biçmek çimi zayıflatır. Büyüme döneminde haftada bir biçim çoğu çim için yeterlidir.",
+   "dikim": "En iyi ekim zamanı sonbahar başıdır; ikinci seçenek ilkbahardır. Toprak düzeltilip tohum serpilir, hafifçe örtülüp çimlenene kadar nemli tutulur.",
+   "cogaltma": "Tohumla çoğaltılır; seyrelen yerlere aynı çim karışımından tohum serpilir."
+  },
+  "Mor salkım": {
+   "isik": "Bol güneş ister; gölgede çiçek açmaz.",
+   "budama": "Yazın uzun sürgünler kısaltılır, kışın ikinci kez kısa budanır; çiçek tomurcukları kısa dallarda oluşur.",
+   "cicek": "Az güneş, fazla azotlu gübre ve genç yaş en sık nedenlerdir; tohumdan yetişenler yıllarca çiçek açmayabilir.",
+   "zehir": "Tohum ve kabukları zehirlidir.",
+   "sicaklik": "Kışa dayanıklıdır; ancak ilkbahar geç donları çiçek salkımlarına zarar verebilir.",
+   "dikim": "Sonbaharda ya da ilkbaharda, güçlü bir desteğin (çardak, pergola) dibine, güneşli yere dikilir.",
+   "cogaltma": "Yaz çelikleri ya da bir dalı toprağa yatırarak (daldırma) çoğaltılır; tohumdan yetişen mor salkım çok geç çiçek açar.",
+   "sulama": "Yeni dikilende düzenli sulanır; kök tutunca yalnız uzun kuraklıkta sulama yeterlidir. Fazla su çiçeklenmeyi azaltabilir."
+  },
+  "Kroton": {
+   "isik": "Renklerini korumak için bol, parlak ışık ister; öğle güneşinin camdan doğrudan vurması yapraklarını yakabilir. Az ışıkta yaprakları yeşile döner, renkleri solar.",
+   "sulama": "Toprağı hafif nemli tutun; üstü kurudukça oda sıcaklığındaki suyla sulayın. Kışın aralığı açın, su birikmesine izin vermeyin.",
+   "sicaklik": "18–27 °C uygundur; 13 °C altı, soğuk cereyan ve ani yer değişikliği yaprak döktürür. Nemli ortamı sever.",
+   "cogaltma": "Uç çelikleri ılık ve nemli ortamda köklendirilir.",
+   "zehir": "Süt özsuyu cildi tahriş edebilir; yenirse kedi, köpek ve çocuklarda kusma ve ishal yapabilir. Budarken eldiven kullanın.",
+   "sararma": "Yaprak dökmesi çoğunlukla soğuk, cereyan, yer değişikliği ya da düzensiz sulamadandır; yaprak uçlarının kuruması kuru havaya işaret eder.",
+   "budama": "İlkbaharda uzayan dalları kısaltmak gürleştirir; özsuyu tahriş edicidir, eldiven kullanın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Chamaedorea": {
+   "isik": "Aydınlık ama doğrudan güneş almayan yer idealdir; doğrudan güneş yapraklarını yakar. Az ışığa da uyum sağlar.",
+   "sulama": "Toprağın üst kısmı kuruyunca sulayın; tamamen kurumasına da, saksıda su birikmesine de izin vermeyin. Kışın daha seyrek sulayın.",
+   "sicaklik": "18–24 °C arasında en iyi gelişir; 10 °C altında zarar görür. Nemli havayı sever; kışın yanına su dolu bir tepsi koymak yardımcı olur.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sararma": "Yaprak uçlarının kahverengileşmesi kuru hava ya da kireçli sudandır; alt yaprakların tek tek sararması doğaldır, toplu sararma fazla suya işaret eder.",
+   "budama": "Yalnız kuruyan yaprakları dipten kesin; büyüme ucunu kesmeyin.",
+   "dikim": "İlkbaharda kök topunu bozmadan bir boy büyük saksıya alın; birkaç yılda bir yeterlidir.",
+   "cogaltma": "Tohumla ya da saksıdaki gövde gruplarını bölerek çoğaltılır."
+  },
+  "Para ağacı": {
+   "isik": "Parlak, dolaylı ışık sever; doğrudan güneş yapraklarını yakabilir. Az ışıkta da yaşar ama yavaş büyür.",
+   "sulama": "Toprağın üst 3–4 cm'si kuruyunca sulayın; kışın aralığı açın. Örgülü gövdenin dibinde su birikmesi gövde çürümesine yol açar.",
+   "sicaklik": "18–24 °C uygundur; soğuk cereyan ve ani sıcaklık değişimi yaprak döktürür. Nemli ortamı sever.",
+   "cogaltma": "Uç çelikleriyle çoğaltılabilir.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sararma": "En sık neden fazla sulamadır; yaprakların toplu sararıp düşmesi kök çürümesinin işareti olabilir, gövdeyi kontrol edin (yumuşamışsa çürüme vardır).",
+   "budama": "Uzayan dalları ilkbaharda kısaltmak bitkiyi toparlar; tepeden kesilen gövdeden yeni sürgünler çıkar.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Ficus ginseng": {
+   "isik": "Bol dolaylı ışık ister; sabah ya da akşam güneşi alan pencere önü idealdir. Kışın pencereye yaklaştırın.",
+   "sulama": "Toprağı hafif nemli tutun, üstü kuruyunca sulayın; küçük saksısı çabuk kuruduğu için yazın sık kontrol edin. Yapraklara arada su püskürtmek iyi gelir.",
+   "sicaklik": "15–25 °C uygundur; soğuk cereyan ve yer değişikliğinde yaprak döker.",
+   "budama": "Şeklini korumak için ilkbaharda uzun sürgünler 2–3 yaprak kalacak şekilde kısaltılır. Saksı değişimi 2–3 yılda bir, ilkbaharda yapılır.",
+   "zehir": "Süt özsuyu cildi tahriş edebilir; yenirse kedi ve köpeklerde kusma yapabilir.",
+   "sararma": "Yaprak dökmesi çoğunlukla yer değişikliği, soğuk ya da düzensiz sulamaya tepkidir.",
+   "dikim": "İlkbaharda, 2–3 yılda bir aktarılır; bonsai olarak yetiştiriliyorsa kökler biraz kısaltılabilir.",
+   "cogaltma": "Uç çelikleriyle çoğaltılır; şişkin kök görünümü çelikten yetişende olmaz."
+  },
+  "Bonsai": {
+   "isik": "Türüne göre değişir; ev içinde satılan bonsailerin çoğu (Ficus, Carmona, Serissa) bol dolaylı ışık ister. Çam, ardıç, akçaağaç gibi bonsailer dış mekân bitkisidir; evde uzun süre kalamaz.",
+   "sulama": "Toprak yüzeyi kurumaya başladığında saksının altından su çıkana kadar sulayın; küçük saksı çabuk kurur, tamamen kurumasına izin vermeyin.",
+   "budama": "Şekil budaması ilkbahar ve yaz başında yapılır; yeni sürgünler 2–3 yaprak kalacak şekilde kısaltılır. Kök ve saksı yenileme 2–3 yılda bir ilkbaharda yapılır.",
+   "sararma": "Yaprak dökmesi genellikle susuz kalma, fazla su ya da ışık azlığındandır.",
+   "sicaklik": "Türe göre değişir: dış mekân bonsaileri (çam, akçaağaç, ardıç gibi) kışı dışarıda korunaklı bir yerde geçirmelidir; ficus gibi iç mekân bonsaileri soğuğa dayanmaz.",
+   "zehir": "Türe göre değişir: ficus, sikas ve yeşim bonsaileri evcil hayvanlar için zehirlidir. Bonsainizin türünü öğrenip ona göre önlem alın.",
+   "dikim": "Türüne göre 1–3 yılda bir, çoğunlukla ilkbaharda tomurcuklar uyanırken aktarılır; kökler biraz kısaltılıp bonsai toprağına dikilir.",
+   "cogaltma": "Türüne göre çelik, daldırma ya da tohumla çoğaltılır; ficus bonsaileri uç çelikleriyle kolay köklenir."
+  },
+  "Kaladyum": {
+   "isik": "Aydınlık ama doğrudan güneş almayan yer ister; sabah güneşi zarar vermez, öğle güneşi renkli yapraklarını yakar.",
+   "sulama": "Büyüme döneminde toprağı düzenli nemli tutun; yaprakları sonbaharda sararıp çekilince sulamayı azaltın, yumru kış boyunca kuru ve ılık tutulur.",
+   "sicaklik": "Sıcak seven tropikal bir bitkidir (20–27 °C); 15 °C altında yapraklarını kaybeder.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "sararma": "Sonbaharda yaprakların sararıp çekilmesi doğal dinlenme dönemidir; yumru atılmaz, ilkbaharda yeniden sürer.",
+   "budama": "Sararan yaprakları kesin; sonbaharda yapraklar kuruyunca yumru dinlenmeye alınır.",
+   "dikim": "Yumrular ilkbaharda, hava ve toprak ısınınca dikilir.",
+   "cogaltma": "Yumrular ilkbaharda her parçada göz kalacak şekilde bölünür."
+  },
+  "Kolokasya": {
+   "isik": "Parlak, dolaylı ışık ya da sabah güneşi ister; dış mekânda yarı gölgeyi sever.",
+   "sulama": "Bol su sever; toprağı sürekli nemli tutun, kurumasına izin vermeyin. Kışın dinlenmeye girerse sulamayı azaltın.",
+   "sicaklik": "Sıcak seven bir bitkidir; dona dayanmaz, dışarıdaki yumrular kışın içeri alınmalıdır.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "budama": "Sararan yaprakları dipten kesin.",
+   "dikim": "Yumrular ilkbaharda toprak ısınınca dikilir; saksıdakiler ilkbaharda aktarılır.",
+   "cogaltma": "Yan yumrular ayrılarak çoğaltılır."
+  },
+  "Fittonya": {
+   "isik": "Orta ya da parlak dolaylı ışık ister; doğrudan güneşte yaprakları yanar.",
+   "sulama": "Toprağı sürekli hafif nemli tutun; kuruyunca hemen bayılır, sulayınca birkaç saatte toparlanır. Su birikmesine de izin vermeyin.",
+   "sicaklik": "18–27 °C ve nemli ortam ister; kuru havada yaprak kenarları kurur. Banyo ve teraryum için uygundur.",
+   "cogaltma": "Uç çelikleri suda ya da nemli toprakta kolayca köklenir.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "budama": "Uçlarını düzenli koparmak gür kalmasını sağlar; çiçek başaklarını koparabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Tradeskantya": {
+   "isik": "Parlak, dolaylı ışık renklerini canlı tutar; az ışıkta uzar ve rengi solar.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; kışın aralığı açın.",
+   "sicaklik": "15–25 °C uygundur; dona dayanmaz.",
+   "cogaltma": "Sap çelikleri suda birkaç günde köklenir; en kolay çoğaltılan bitkilerdendir.",
+   "budama": "Uçlarını düzenli koparmak gür ve dolgun bir görünüm sağlar; uzayıp seyrelen dallar kısaltılabilir.",
+   "zehir": "Özsuyu hassas kişilerde ve evcil hayvanlarda ciltte kaşıntı yapabilir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Kordiline": {
+   "isik": "Parlak, dolaylı ışık renklerini korur; öğle güneşi yaprakları yakabilir.",
+   "sulama": "Toprağın üst kısmı kuruyunca sulayın; kireçli ve klorlu su yaprak uçlarını kahverengileştirebilir.",
+   "sicaklik": "16–27 °C uygundur; soğuğa hassastır.",
+   "zehir": "Kedi ve köpeklerde yenirse kusmaya yol açabilir.",
+   "budama": "Çok boylandıysa ilkbaharda gövdeden kısaltılabilir; kuruyan alt yaprakları alın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "Gövde parçalarıyla ya da dipten çıkan sürgünlerle çoğaltılır."
+  },
+  "Aspidistra": {
+   "isik": "Az ışığa ve gölgeye çok dayanıklıdır; doğrudan güneş yapraklarını yakar.",
+   "sulama": "Toprağın büyük kısmı kuruyunca sulayın; fazla sudan hoşlanmaz.",
+   "sicaklik": "Serinliğe dayanıklıdır (5–25 °C); evin serin köşelerinde de yaşar.",
+   "cogaltma": "Kökler ilkbaharda bölünerek çoğaltılır.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "budama": "Kuruyan ve zarar görmüş yaprakları toprak hizasından kesin.",
+   "dikim": "Çok yavaş büyür; birkaç yılda bir, ilkbaharda aktarılır."
+  },
+  "Ktenant": {
+   "isik": "Orta ya da parlak dolaylı ışık ister; doğrudan güneşte desenleri solar.",
+   "sulama": "Toprağı hafif nemli tutun; kireçsiz, oda sıcaklığındaki su tercih edin.",
+   "sicaklik": "18–27 °C ve yüksek nem ister; kuru havada yaprak kenarları kurur.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sararma": "Yaprak kenarlarının kuruması kuru hava ya da kireçli sudandır; yaprakların kıvrılması susuzluğu gösterir.",
+   "budama": "Düzenli budama gerekmez. Sararan ya da kuruyan yaprakları sapın dibinden temiz bir makasla kesin; çok boylandıysa ilkbaharda tepesinden kısaltabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "En kolay yol bölmedir: saksı değişiminde kök topu elle ya da temiz bir bıçakla her parçada kök ve birkaç sürgün kalacak şekilde ayrılır."
+  },
+  "Stromanthe": {
+   "isik": "Parlak, dolaylı ışık ister; doğrudan güneş pembe-krem desenlerini yakar.",
+   "sulama": "Toprağı hafif nemli tutun, tamamen kurutmayın; kireçsiz su tercih edin.",
+   "sicaklik": "18–27 °C ve yüksek nem ister.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "budama": "Düzenli budama gerekmez. Sararan ya da kuruyan yaprakları sapın dibinden temiz bir makasla kesin; çok boylandıysa ilkbaharda tepesinden kısaltabilirsiniz.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "En kolay yol bölmedir: saksı değişiminde kök topu elle ya da temiz bir bıçakla her parçada kök ve birkaç sürgün kalacak şekilde ayrılır."
+  },
+  "Scindapsus": {
+   "isik": "Orta ya da parlak dolaylı ışık ister; gümüş lekeler parlak ışıkta belirginleşir.",
+   "sulama": "Toprağın üst yarısı kuruyunca sulayın; yapraklar hafif kıvrılınca su istediğini anlarsınız.",
+   "sicaklik": "18–29 °C uygundur.",
+   "cogaltma": "Boğumlu sap çelikleri suda ya da toprakta köklenir.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "budama": "Uzayan dalları istediğiniz boyda kesin; kesilen uçlar suda köklenir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Rhaphidophora": {
+   "isik": "Parlak, dolaylı ışık ister; az ışıkta yaprakları küçülür ve yarıkları azalır.",
+   "sulama": "Toprağın üst kısmı kuruyunca sulayın; su birikmesine hassastır.",
+   "sicaklik": "18–27 °C uygundur.",
+   "cogaltma": "Hava kökü olan boğumlu çelikler suda köklenir.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "budama": "Uzayan dalları bir boğumun üstünden kesin; kesilen parçalar köklenir.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür."
+  },
+  "Kentia palmiyesi": {
+   "isik": "Az ve orta ışığa dayanıklıdır; doğrudan güneşten korunmalıdır.",
+   "sulama": "Toprağın üst kısmı kuruyunca sulayın; fazla su kök çürütür.",
+   "sicaklik": "16–24 °C uygundur.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sararma": "Alt yaprakların tek tek sararması doğaldır; yaprak uçlarının kahverengileşmesi kuru hava ya da kireçli suya işaret eder.",
+   "budama": "Yalnız tamamen kuruyan yaprakları dipten kesin; tepe büyüme noktası asla kesilmez.",
+   "dikim": "Yavaş büyür; 2–3 yılda bir, ilkbaharda kök topunu bozmadan bir boy büyük saksıya alın.",
+   "cogaltma": "Tohumla çoğaltılır; çimlenmesi aylar sürer, evde zordur."
+  },
+  "Raphis palmiyesi": {
+   "isik": "Parlak, dolaylı ışık ister; doğrudan güneş yaprakları sarartır.",
+   "sulama": "Toprağı hafif nemli tutun, üstü kuruyunca sulayın.",
+   "sicaklik": "10–25 °C uygundur; serinliğe oldukça dayanıklıdır.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "budama": "Kuruyan yaprakları ve sapları dipten kesin; kahverengi uçları kırpabilirsiniz.",
+   "dikim": "İlkbaharda, kökler saksıyı doldurunca kök topunu bozmadan bir boy büyük saksıya alın.",
+   "cogaltma": "En kolay yol bölmedir: saksı değişiminde kök topu elle ya da temiz bir bıçakla her parçada kök ve birkaç sürgün kalacak şekilde ayrılır."
+  },
+  "Palmiye": {
+   "isik": "Dış mekân palmiyeleri (Washingtonia, Phoenix, Chamaerops) tam güneş ister.",
+   "sulama": "Yeni dikilen palmiye ilk yıl düzenli sulanır; yerleşince kuraklığa dayanıklıdır. Saksıdakiler toprak kuruyunca sulanır.",
+   "sicaklik": "Chamaerops ve Phoenix canariensis hafif donlara dayanır; Washingtonia sert donda zarar görür.",
+   "budama": "Yalnızca tamamen kurumuş alt yapraklar kesilir; yeşil yaprakları kesmek bitkiyi zayıflatır.",
+   "zehir": "Türe göre değişir: areka, kentia ve salon palmiyesi (Chamaedorea) zehirli kabul edilmez; sikas (palmiyeye benzer) ise çok zehirlidir.",
+   "dikim": "Saksı palmiyeleri ilkbaharda kök topu bozulmadan aktarılır; bahçeye dikim sıcak aylarda, don tehlikesi geçince yapılır.",
+   "cogaltma": "Çoğu palmiye tohumla çoğaltılır ve yavaş büyür; bazı türler dipten çıkan yavrularla ayrılabilir."
+  },
+  "Guzmanya": {
+   "isik": "Parlak, dolaylı ışık ister; doğrudan güneş yapraklarını yakar.",
+   "sulama": "Toprağı çok hafif nemli tutun; yaprakların ortasındaki hazneye arada az miktarda kireçsiz su konabilir ve birkaç haftada bir tazelenir.",
+   "sicaklik": "18–27 °C uygundur.",
+   "cicek": "Renkli kısım aylarca dayanır; çiçek bittikten sonra ana bitki yavaşça ölür ve dibinden yavru verir. Bu doğaldır.",
+   "cogaltma": "Ana bitkinin dibinde çıkan yavrular, ana bitkinin üçte biri boyuna gelince ayrılıp dikilir.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "budama": "Çiçek solunca çiçek sapı dipten kesilebilir; ana bitki zamanla kurur, dibinden çıkan yavrular büyütülür.",
+   "dikim": "Küçük bir saksıda yetişir; saksı değişimi nadiren gerekir. Yavrular ana bitkinin üçte biri boya gelince ayrı saksıya alınır."
+  },
+  "Kamelya": {
+   "isik": "Yarı gölge ister; öğle güneşinden korunmalıdır.",
+   "sulama": "Toprağı düzenli nemli tutun; kireçsiz (yağmur ya da dinlenmiş) su tercih edin. Tomurcuk döneminde susuz kalırsa tomurcuk döker.",
+   "sicaklik": "Serin ortamı sever; ev içinin sıcak ve kuru havası tomurcuk döktürür.",
+   "budama": "Çiçeklenme bittikten hemen sonra hafif budanır.",
+   "sararma": "Yaprak sararması çoğunlukla kireçli toprak ya da kireçli sudandır; asidik toprak ister.",
+   "cicek": "Tomurcuk dökmesi en çok ani sıcaklık değişimi, susuzluk ve yer değişikliğinden olur.",
+   "zehir": "Zehirli kabul edilmez.",
+   "dikim": "Sonbaharda ya da ilkbaharda kireçsiz, asidik toprağa, öğle güneşinden korunan yere dikilir.",
+   "cogaltma": "Yaz sonunda yarı odunsu çeliklerle köklendirilir; yavaş ve sabır isteyen bir iştir."
+  },
+  "Gloksinya": {
+   "isik": "Parlak, dolaylı ışık ister; doğrudan güneş yaprakları yakar.",
+   "sulama": "Alttan ya da toprağa sulayın; kadifemsi yapraklara su değmesi leke yapar.",
+   "sicaklik": "18–24 °C uygundur.",
+   "cicek": "Çiçeklenme sonrası yapraklar çekilirse yumru dinlenmeye girer; sulama azaltılır, ilkbaharda yeniden sürer.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Solan çiçekleri koparın; çiçeklenme bitip yapraklar sararınca yumru dinlenmeye alınır.",
+   "dikim": "Yumru kış dinlenmesinden sonra, ilkbahar başında yeni toprağa dikilir; çukur tarafı yukarı bakmalıdır.",
+   "cogaltma": "Yaprak çelikleriyle ya da yumruyu bölerek çoğaltılır."
+  },
+  "Kala": {
+   "isik": "Güneş ya da yarı gölge; ev içinde parlak ışık ister.",
+   "sulama": "Büyüme ve çiçeklenme döneminde toprağı nemli tutun; çiçeklenme sonrası yapraklar sararınca sulamayı azaltın.",
+   "zehir": "Yaprak ve sapında kalsiyum oksalat kristalleri bulunur; çiğnenirse kedi, köpek ve çocuklarda ağızda yanma, salya ve kusmaya yol açabilir. Ulaşamayacakları bir yere koyun.",
+   "cicek": "Yumru dinlenme dönemi geçirmezse ertesi yıl çiçek açmayabilir.",
+   "sicaklik": "Soğuğa hassastır; soğuk bölgelerde yumrular sonbaharda sökülüp donmayan bir yerde saklanır.",
+   "budama": "Solan çiçek saplarını dipten kesin; yaprakları kendiliğinden sararana kadar bırakın.",
+   "dikim": "Yumrular ilkbaharda, don tehlikesi geçince dikilir; saksıda daha erken başlatılabilir.",
+   "cogaltma": "Yumrular ilkbaharda bölünerek ya da yan yumrular ayrılarak çoğaltılır."
+  },
+  "Amarilis": {
+   "isik": "Parlak ışık ister.",
+   "sulama": "Soğan dikildikten sonra az sulanır; yaprak ve çiçek sapı büyüdükçe sulama artırılır.",
+   "dikim": "Soğanın üçte biri toprak üstünde kalacak şekilde, soğandan biraz geniş saksıya dikilir.",
+   "cicek": "Çiçek solduktan sonra sapı kesilir, yapraklar yaz boyu beslenir; yaz sonunda 8–10 hafta kuru ve serin dinlendirilen soğan yeniden çiçek açar.",
+   "zehir": "Soğanı kedi, köpek ve çocuklar için zehirlidir.",
+   "sicaklik": "Dona dayanmaz; soğanı kışın içeride tutulur. Çiçekten sonra dinlenme döneminde serin (yaklaşık 10–15 °C) bir yerde bekletilebilir.",
+   "budama": "Çiçek solunca çiçek sapını soğanın biraz üstünden kesin; yapraklar soğanı beslesin diye kesilmez.",
+   "cogaltma": "Ana soğanın yanında oluşan yavru soğanlar ayrılarak çoğaltılır; yavrular 2–3 yılda çiçek açar."
+  },
+  "Etçil bitki": {
+   "isik": "Sinek kapan ve ibrik bitkileri bol ışık ister; sinek kapan doğrudan güneşi sever.",
+   "sulama": "Yalnızca yağmur suyu, saf su ya da arıtılmış su kullanın; musluk suyundaki kireç ve tuzlar onları öldürür. Sinek kapanın saksısı yazın sığ bir su tabağında durabilir.",
+   "sicaklik": "Sinek kapan kışın serin (5–10 °C) bir dinlenme dönemine ihtiyaç duyar.",
+   "sararma": "Kapanların tek tek kararması doğaldır; toplu kararma genellikle musluk suyu, gübre ya da elle kapan kapatmaktan olur. Gübre vermeyin.",
+   "zehir": "Sinekkapan gibi etçil bitkiler zehirli kabul edilmez.",
+   "budama": "Kararan kapanları ve yaprakları kesin; sinekkapanda çiçek sapını erken kesmek bitkinin güçlü kalmasına yardım eder.",
+   "dikim": "İlkbaharda, kireçsiz ve besinsiz ortama (torf–perlit gibi) aktarılır; normal saksı toprağı ve musluk suyu sevmez.",
+   "cogaltma": "Sinekkapan dipte oluşan yavruları ayırarak ya da yaprak çelikleriyle çoğaltılır; tohumdan da yetişir ama yavaştır."
+  },
+  "Fil ayağı": {
+   "isik": "Bol ışık ister; güneş alan pencere idealdir.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır.",
+   "sicaklik": "Sıcağı sever; 10 °C altından hoşlanmaz.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "budama": "Budama gerekmez; kuruyan yaprak uçlarını kırpabilirsiniz.",
+   "dikim": "Sık saksı değişimi sevmez; birkaç yılda bir ilkbaharda, sığ ve geniş bir saksıya alınır.",
+   "cogaltma": "Tohumla ya da dipten çıkan yavrularla çoğaltılır."
+  },
+  "Fikus": {
+   "isik": "Çoğu fikus parlak, dolaylı ışık ister.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; su birikmesi yaprak döktürür.",
+   "zehir": "Süt özsuyu cildi tahriş edebilir; yenirse kedi ve köpeklerde kusma yapabilir.",
+   "sararma": "Fikuslar yer değişikliği, soğuk cereyan ve düzensiz sulamaya yaprak dökerek tepki verir.",
+   "sicaklik": "Oda sıcaklığını sever; 12 °C'nin altındaki soğuk ve ani sıcaklık değişimleri yaprak döktürür.",
+   "budama": "Şekil vermek için ilkbaharda dal uçları kısaltılabilir; beyaz özsuyu tahriş edicidir, eldiven kullanın.",
+   "dikim": "Saksı değişimi için en iyi zaman ilkbahar–yaz başıdır. Kökler saksının dibinden çıkınca ya da toprak çok çabuk kuruyunca bir boy (2–5 cm) büyük, delikli bir saksıya alın; çok büyük saksı suyu tutup kök çürütür.",
+   "cogaltma": "Uç çeliği ya da hava daldırmasıyla çoğaltılır; beyaz özsuyu durana kadar kesik ılık suya batırılır."
+  },
+  "Haworthia": {
+   "isik": "Parlak, dolaylı ışık ister; yazın öğle güneşinde yaprakları kızarabilir. Diğer sukulentlere göre az ışığa daha dayanıklıdır.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır.",
+   "cogaltma": "Dibinden çıkan yavrular ayrılarak çoğaltılır.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sicaklik": "Oda sıcaklığına uyumludur; dona dayanmaz, kışın 5 °C'nin altına düşmemelidir.",
+   "budama": "Budama gerekmez; kuruyan alt yaprakları elle alın.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "Gasteria": {
+   "isik": "Parlak, dolaylı ışık ister; yazın öğle güneşinde yaprakları kızarabilir. Diğer sukulentlere göre az ışığa daha dayanıklıdır.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır.",
+   "cogaltma": "Dibinden çıkan yavrular ayrılarak çoğaltılır.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sicaklik": "Oda sıcaklığına uyumludur; dona dayanmaz, kışın serin ve kuru tutulabilir.",
+   "budama": "Budama gerekmez; kuruyan yaprakları dipten alın.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "Ekeverya": {
+   "isik": "Bol ışık ister; güneye ya da batıya bakan pencere idealdir. Az ışıkta uzar, rengi solar.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır. Rozetin ortasında su kalmamasına dikkat edin.",
+   "cogaltma": "Yaprakları ya da yavruları kurutulup toprağa konarak çoğaltılır.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sicaklik": "Hafif serinliğe dayanır ama dona dayanmaz; kışın aydınlık, serin ve kuru tutulmalıdır.",
+   "budama": "Budama gerekmez. Kuruyan alt yaprakları elle alın; çok uzayıp yamulduysa ilkbaharda tepesini kesip çelik olarak köklendirebilirsiniz.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "Sedum": {
+   "isik": "Güneş sever; en iyi gelişme için günde en az 6 saat güneş ister.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır.",
+   "cogaltma": "Kopan parçaları ve çelikleri kolayca köklenir.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sicaklik": "Türe göre değişir: bahçe sedumlarının çoğu soğuğa çok dayanıklıdır; bazı süs sedumları dona hassastır.",
+   "budama": "Uzayan dalları ilkbaharda kısaltabilirsiniz; kesilen parçalar kolayca köklenir.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "Agav": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır.",
+   "sicaklik": "Türlerin çoğu hafif dona dayanır; ıslak ve soğuk toprak çürütür.",
+   "zehir": "Özsuyu cildi tahriş edebilir; yaprak uçları sivridir, çocuklardan uzak tutun.",
+   "budama": "Budama gerekmez; kuruyan alt yaprakları dipten kesin (uçları dikenli olabilir, eldiven kullanın).",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun.",
+   "cogaltma": "Dipten çıkan yavrular kökleriyle birlikte ayrılarak dikilir."
+  },
+  "Litops": {
+   "isik": "Bol ışık ister.",
+   "sulama": "İlkbahar ve sonbaharda, toprak tamamen kuruduğunda sulanır; eski yapraklar kuruyup yenileri çıkarken (genelde kış ve ilkbahar başı) hiç sulanmaz. Yazın çok sıcakta da sulama durdurulur.",
+   "sararma": "Buruşması susuzluk, yumuşayıp şeffaflaşması fazla sudur.",
+   "sicaklik": "Dona dayanmaz; kışın aydınlık, serin ve kuru tutulur.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Budama yapılmaz. Eski yapraklar yenilerin altında kendiliğinden kurur; onları zorla çekmeyin.",
+   "dikim": "Nadiren saksı değiştirilir; gerekirse ilkbaharda, çok iyi süzen kumlu bir toprağa alınır ve birkaç gün sulanmaz.",
+   "cogaltma": "Tohumla ya da çok başlı bitkiyi bölerek çoğaltılır; yavaştır."
+  },
+  "Çöl gülü": {
+   "isik": "Tam güneş ister; az ışıkta çiçek açmaz.",
+   "sulama": "Yazın toprak kuruyunca sulanır; kışın yapraklarını dökerse sulama neredeyse durdurulur.",
+   "sicaklik": "Sıcağı sever; 10 °C altında yaprak döker, soğuk ve ıslak toprakta gövdesi çürür.",
+   "zehir": "Özsuyu çok zehirlidir; çocuk ve evcil hayvanlardan uzak tutun, budarken eldiven kullanın.",
+   "budama": "İlkbaharda uzayan dalları kısaltmak daha dallı ve gür bir görünüm verir. Özsuyu tahriş edicidir, eldiven kullanın.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun.",
+   "cogaltma": "Tohumla ya da uç çelikleriyle çoğaltılır; tohumdan yetişen bitkinin gövdesi daha şişkin olur."
+  },
+  "Sütleğen": {
+   "isik": "Bol güneş ister.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır.",
+   "zehir": "Beyaz süt özsuyu cildi ve gözü şiddetli tahriş eder; yenirse zehirlidir. Budarken eldiven ve gözlük kullanın.",
+   "sicaklik": "Çoğu süs sütleğeni sıcak sever ve dona dayanmaz; kışın 10 °C'nin altına düşmemesine dikkat edin.",
+   "budama": "Gerekirse ilkbaharda kesin; beyaz özsuyu ciltte ve gözde tahriş yapar, mutlaka eldiven kullanın.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun. Özsuyu tahriş edicidir, eldiven kullanın.",
+   "cogaltma": "Uç çelikleriyle çoğaltılır: kesik suyla yıkanıp birkaç gün kurutulur, sonra kumlu toprağa dikilir. Özsuyu tahriş edicidir, eldiven kullanın."
+  },
+  "Portulakarya": {
+   "isik": "Bol ışık ister.",
+   "sulama": "Toprak tamamen kuruduktan sonra bol sulayın, fazla suyun akmasını bekleyin; kışın ayda bir-iki sulama çoğu zaman yeter. En sık ölüm nedeni fazla sulamadır.",
+   "cogaltma": "Dal çelikleri birkaç gün kurutulup toprağa dikilir.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sicaklik": "Sıcak seven bir sukulenttir; dona dayanmaz.",
+   "budama": "Şekil vermek için ilkbahar–yaz kısaltılabilir; bonsai gibi şekillendirilmeye uygundur. Kesilen dallar köklenir.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun."
+  },
+  "İnci dizisi": {
+   "isik": "Parlak ışık ister; öğle güneşinden korunmalıdır.",
+   "sulama": "Toprak tamamen kuruyunca sulayın; incilerin buruşması susuzluğu, yumuşayıp kararması fazla suyu gösterir.",
+   "cogaltma": "Sap parçaları toprağın üstüne yatırılarak köklendirilir.",
+   "zehir": "Kedi, köpek ve çocuklar için zehirlidir.",
+   "sicaklik": "Oda sıcaklığına uyumludur; dona dayanmaz, kışın serin ve az sulanarak tutulabilir.",
+   "budama": "Uzayan ya da kuruyan dalları kesebilirsiniz; kesilen parçalar toprağa yatırılınca köklenir.",
+   "dikim": "İlkbaharda geniş ve sığ bir saksıya alın; dalları toprağa değince köklenir."
+  },
+  "Ripsalis": {
+   "isik": "Parlak, dolaylı ışık ister; çöl kaktüsü değil, orman kaktüsüdür.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; çöl kaktüslerinden daha fazla su ve nem ister.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sicaklik": "Oda sıcaklığını sever; 10 °C'nin altından koruyun.",
+   "budama": "Budama gerekmez; çok uzayan dalları kısaltabilirsiniz.",
+   "dikim": "İlkbahar–yaz başında, kökler saksıyı doldurunca bir boy büyük, delikli saksıya alın. Değişimden sonra birkaç gün sulamadan bekleyin; kökteki küçük yaralar kurusun.",
+   "cogaltma": "Dal parçaları birkaç gün kurutulup nemli toprağa dikilince kolayca köklenir."
+  },
+  "Gerbera": {
+   "isik": "Bol ışık ister; ev içinde güneyde pencere, dışarıda sabah güneşi idealdir.",
+   "sulama": "Toprak üstü kuruyunca dibinden sulayın; yaprak rozetinin ortasında su kalırsa çürür.",
+   "cicek": "Solan çiçekler sapın dibinden koparılırsa yenileri açar.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez; yine de yenmesine izin vermeyin.",
+   "sicaklik": "Soğuğa hassastır; saksıdakiler kışın donmayan aydınlık bir yerde tutulur.",
+   "budama": "Solan çiçekleri saplarıyla birlikte dipten koparın; sararan yaprakları alın.",
+   "dikim": "İlkbaharda, don tehlikesi geçince dikilir; kök boğazı toprağa gömülmemelidir.",
+   "cogaltma": "Kalabalık bitki ilkbaharda bölünerek ya da tohumla çoğaltılır."
+  },
+  "Hercai menekşe": {
+   "isik": "Güneş ya da yarı gölge ister.",
+   "sulama": "Toprağı düzenli nemli tutun.",
+   "sicaklik": "Serin havayı sever; hafif donlara dayanır, yaz sıcağında solar.",
+   "cicek": "Solan çiçekleri koparmak yeni çiçek açmasını sağlar.",
+   "dikim": "Sonbahar ya da erken ilkbaharda dikilir.",
+   "zehir": "Zehirli değildir; çiçekleri yenebilir.",
+   "budama": "Solan çiçekleri düzenli koparmak yeni çiçek açtırır. Uzayıp seyrekleşen dalların uçlarını yaz ortasında biraz kısaltmak bitkiyi gürleştirir.",
+   "cogaltma": "Tohumla çoğaltılır; ilkbaharda ekilir. Kurumaya bırakılan çiçek başlarından tohum toplanabilir."
+  },
+  "Kadife çiçeği": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprak kuruyunca dibinden sulayın; yaprakları ıslatmayın.",
+   "dikim": "Don tehlikesi geçince dikilir ya da tohumu ekilir.",
+   "cicek": "Solan çiçekler koparılırsa yaz boyu açar.",
+   "sicaklik": "Sıcak seven yazlık bir çiçektir; dona dayanmaz, don tehlikesi geçince dikilir.",
+   "zehir": "Hafif zehirli kabul edilir; yenirse evcil hayvanlarda mide rahatsızlığı, özsuyu ciltte tahriş yapabilir.",
+   "budama": "Solan çiçekleri düzenli koparmak yeni çiçek açtırır. Uzayıp seyrekleşen dalların uçlarını yaz ortasında biraz kısaltmak bitkiyi gürleştirir.",
+   "cogaltma": "Tohumla çoğaltılır; ilkbaharda ekilir. Kurumaya bırakılan çiçek başlarından tohum toplanabilir."
+  },
+  "Cam güzeli": {
+   "isik": "Yarı gölge ya da gölge ister; öğle güneşinde solar.",
+   "sulama": "Toprağı sürekli nemli tutun; susuz kalınca hemen bayılır.",
+   "sicaklik": "Dona dayanmaz.",
+   "cogaltma": "Uç çelikleri suda kolayca köklenir.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Uçlarını koparmak gürleştirir; uzayıp çıplaklaşan dalları kısaltın.",
+   "dikim": "Don tehlikesi geçince, ilkbaharda dikilir."
+  },
+  "Fuşya": {
+   "isik": "Yarı gölge ister; öğle güneşi yaprak ve çiçeklerini yakar.",
+   "sulama": "Toprağı nemli tutun; sıcak günlerde susuz kalmasına izin vermeyin.",
+   "sicaklik": "Serin ve nemli ortamı sever; 30 °C üstünde çiçek dökebilir.",
+   "cicek": "Solan çiçekler tohum bağlamadan koparılmalıdır.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "İlkbaharda geçen yılın dalları kısaltılır; büyüme sırasında uçları koparmak daha çok dal ve çiçek verir.",
+   "dikim": "Don tehlikesi geçince, ilkbaharda dikilir; öğle güneşi almayan yer seçilir.",
+   "cogaltma": "İlkbahar–yaz uç çelikleriyle kolayca köklenir."
+  },
+  "Lantana": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Yerleştikten sonra kuraklığa dayanıklıdır; saksıda toprak kuruyunca sulayın.",
+   "budama": "İlkbaharda sert budama gür büyümesini sağlar.",
+   "zehir": "Yaprak ve olgunlaşmamış meyveleri hayvanlar ve çocuklar için zehirlidir.",
+   "sicaklik": "Hafif soğuklara dayanır ama sert donda toprak üstü kurur; soğuk bölgelerde saksıda yetiştirip kışın içeri alın.",
+   "dikim": "Don tehlikesi geçince, ilkbaharda güneşli yere dikilir.",
+   "cogaltma": "Yaz uç çelikleriyle çoğaltılır."
+  },
+  "Mine çiçeği": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprak üstü kuruyunca sulayın; fazla su ve sık sulama külleme hastalığını kolaylaştırır.",
+   "cicek": "Solan çiçekleri kesmek çiçeklenmeyi uzatır.",
+   "sicaklik": "Türüne göre değişir; çoğu yazlık olarak yetiştirilir ve sert donda zarar görür.",
+   "zehir": "Süs mine çiçekleri zehirli olarak bilinmez.",
+   "budama": "Solan çiçekleri düzenli koparmak yeni çiçek açtırır. Uzayıp seyrekleşen dalların uçlarını yaz ortasında biraz kısaltmak bitkiyi gürleştirir.",
+   "dikim": "Don tehlikesi geçince, ilkbaharda dikilir.",
+   "cogaltma": "Tohumla ya da uç çelikleriyle çoğaltılır."
+  },
+  "Zinya": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Dibinden sulayın; yaprakları ıslatmak külleme yapar.",
+   "dikim": "Tohumu don tehlikesi geçince doğrudan yerine ekilir.",
+   "cicek": "Çiçek kesildikçe yenileri açar.",
+   "sicaklik": "Sıcak seven yazlık bir çiçektir; dona dayanmaz, toprak ısınınca ekilir.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Solan çiçekleri düzenli koparmak yeni çiçek açtırır. Uzayıp seyrekleşen dalların uçlarını yaz ortasında biraz kısaltmak bitkiyi gürleştirir.",
+   "cogaltma": "Tohumla çoğaltılır; ilkbaharda ekilir. Kurumaya bırakılan çiçek başlarından tohum toplanabilir."
+  },
+  "Kozmos": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Kuraklığa dayanıklıdır; fazla gübre ve su yaprağı artırıp çiçeği azaltır.",
+   "dikim": "Tohumu don geçince yerine ekilir.",
+   "sicaklik": "Yazlık bir çiçektir; dona dayanmaz, don tehlikesi geçince ekilir.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Solan çiçekleri düzenli koparmak yeni çiçek açtırır. Uzayıp seyrekleşen dalların uçlarını yaz ortasında biraz kısaltmak bitkiyi gürleştirir.",
+   "cogaltma": "Tohumla çoğaltılır; ilkbaharda ekilir. Kurumaya bırakılan çiçek başlarından tohum toplanabilir."
+  },
+  "Salvia": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprak kuruyunca sulayın; su birikmesini sevmez.",
+   "cicek": "Solan çiçek başakları kesilirse yenileri gelir.",
+   "sicaklik": "Türe göre değişir: bazı süs adaçayları kışa dayanıklı çok yıllıktır, bazıları dona hassas yazlık olarak yetiştirilir.",
+   "zehir": "Süs adaçayları genelde zehirli kabul edilmez.",
+   "budama": "Solan çiçek başaklarını kesmek yeniden çiçek açtırır; çok yıllık türler ilkbaharda kısaltılır.",
+   "dikim": "Don tehlikesi geçince, ilkbaharda dikilir.",
+   "cogaltma": "Tohumla ya da yaz uç çelikleriyle çoğaltılır."
+  },
+  "Zambak": {
+   "isik": "Gövdesi güneşte, dibi gölgede olmayı sever.",
+   "sulama": "Düzenli sulayın; soğanın bulunduğu toprakta su birikmesi çürütür.",
+   "dikim": "Soğanlar sonbaharda ya da erken ilkbaharda, soğan boyunun 2–3 katı derinliğe dikilir.",
+   "zehir": "Zambak (Lilium) kediler için çok zehirlidir; yaprak, çiçek ve polenin az miktarı bile böbrek yetmezliği yapabilir. Kedi olan evde bulundurmayın.",
+   "sicaklik": "Soğanları kışa genelde dayanıklıdır; kışı toprakta geçirir.",
+   "budama": "Çiçek solunca çiçek sapını kesin ama yaprakları kendiliğinden sararıp kuruyana kadar kesmeyin; yapraklar gelecek yılın çiçeği için soğanı besler.",
+   "cogaltma": "Yavru soğanlarla ya da soğanın pullarını ayırıp nemli ortamda köklendirerek çoğaltılır."
+  },
+  "Lale": {
+   "isik": "Tam güneş ister.",
+   "dikim": "Soğanlar sonbaharda (toprak serinleyince, genelde Ekim–Kasım) soğan boyunun 2–3 katı derinliğe, sivri ucu yukarı gelecek şekilde dikilir.",
+   "sulama": "Dikimden sonra bir kez iyice sulanır; kışın yağmur genellikle yeter. Su birikmesi soğanı çürütür.",
+   "cicek": "Çiçek solunca sap kesilir ama yapraklar kendiliğinden sararana kadar bırakılır; soğan yapraklarla beslenir.",
+   "zehir": "Soğanı kedi ve köpekler için zehirlidir.",
+   "sicaklik": "Soğuğa dayanıklıdır; iyi çiçek için kışın soğuklanmaya ihtiyaç duyar, bu yüzden sonbaharda dikilir.",
+   "budama": "Çiçek solunca çiçek sapını kesin ama yaprakları kendiliğinden sararıp kuruyana kadar kesmeyin; yapraklar gelecek yılın çiçeği için soğanı besler.",
+   "cogaltma": "Ana soğanın yanında oluşan yavru soğanlarla çoğaltılır; yapraklar kuruduktan sonra söküp ayırın ve dikim zamanında ayrı ayrı dikin."
+  },
+  "Sümbül": {
+   "isik": "Güneş ya da yarı gölge.",
+   "dikim": "Soğanlar sonbaharda 10–15 cm derinliğe dikilir.",
+   "cicek": "Çiçek solunca sap kesilir, yapraklar sararana kadar bırakılır.",
+   "zehir": "Soğanı zehirlidir ve çıplak elle tutulduğunda kaşıntı yapabilir.",
+   "sicaklik": "Soğuğa dayanıklıdır; çiçeklenmek için kışın soğuklanmaya ihtiyaç duyar.",
+   "budama": "Çiçek solunca çiçek sapını kesin ama yaprakları kendiliğinden sararıp kuruyana kadar kesmeyin; yapraklar gelecek yılın çiçeği için soğanı besler.",
+   "cogaltma": "Ana soğanın yanında oluşan yavru soğanlarla çoğaltılır; yapraklar kuruduktan sonra söküp ayırın ve dikim zamanında ayrı ayrı dikin.",
+   "sulama": "Büyüme ve çiçeklenme döneminde toprak nemli tutulur; çiçekten sonra yapraklar sararınca sulama azaltılır. Soğanlar su biriken toprakta çürür."
+  },
+  "Nergis": {
+   "isik": "Güneş ya da yarı gölge.",
+   "dikim": "Soğanlar sonbaharda 10–15 cm derinliğe dikilir.",
+   "cicek": "Yapraklar sararana kadar kesilmez; bir sonraki yılın çiçeği bu dönemde oluşur.",
+   "zehir": "Soğanı ve tüm kısımları zehirlidir; soğanı yemeklik soğanla karıştırılmamalıdır.",
+   "sicaklik": "Soğuğa dayanıklıdır; soğanları kışı toprakta geçirir.",
+   "budama": "Çiçek solunca çiçek sapını kesin ama yaprakları kendiliğinden sararıp kuruyana kadar kesmeyin; yapraklar gelecek yılın çiçeği için soğanı besler.",
+   "cogaltma": "Ana soğanın yanında oluşan yavru soğanlarla çoğaltılır; yapraklar kuruduktan sonra söküp ayırın ve dikim zamanında ayrı ayrı dikin.",
+   "sulama": "Büyüme ve çiçeklenme döneminde toprak nemli tutulur; çiçekten sonra yapraklar sararınca sulama azaltılır. Soğanlar su biriken toprakta çürür."
+  },
+  "Frezya": {
+   "isik": "Bol güneş ister.",
+   "dikim": "Ilık bölgelerde sonbaharda, soğuk bölgelerde ilkbaharda 5 cm derinliğe dikilir.",
+   "sulama": "Büyürken nemli tutun; çiçeklenme sonrası yapraklar sararınca sulamayı kesin.",
+   "sicaklik": "Dona hassastır; soğuk bölgelerde soğanları saksıda yetiştirilir ya da kışın sökülerek saklanır.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Çiçek solunca çiçek sapını kesin ama yaprakları kendiliğinden sararıp kuruyana kadar kesmeyin; yapraklar gelecek yılın çiçeği için soğanı besler.",
+   "cogaltma": "Ana soğanın yanında oluşan yavru soğanlarla çoğaltılır; yapraklar kuruduktan sonra söküp ayırın ve dikim zamanında ayrı ayrı dikin."
+  },
+  "Dalya": {
+   "isik": "Tam güneş ister.",
+   "dikim": "Yumrular don tehlikesi geçince 10–15 cm derinliğe dikilir; uzun türlere destek kazığı konur.",
+   "sulama": "Filiz çıkana kadar az, büyüme döneminde düzenli sulanır.",
+   "sicaklik": "Dona dayanmaz; soğuk bölgelerde yumrular sonbaharda sökülüp kuru ve serin yerde saklanır.",
+   "cicek": "Solan çiçekleri kesmek yeni çiçek açmasını sağlar.",
+   "zehir": "Hafif zehirli kabul edilir; yenirse evcil hayvanlarda mide rahatsızlığı, ciltte tahriş yapabilir.",
+   "budama": "Solan çiçekleri kesmek yeni çiçek açtırır; daha iri çiçek için yan tomurcuklar koparılabilir. Sonbaharda donla kararan saplar kesilir.",
+   "cogaltma": "Kök yumruları ilkbaharda, her parçada eski gövdeden bir göz kalacak şekilde bölünür."
+  },
+  "Glayöl": {
+   "isik": "Tam güneş ister.",
+   "dikim": "Soğanlar ilkbaharda 2 hafta arayla gruplar halinde dikilirse yaz boyu çiçek alınır; uzun türlere destek gerekir.",
+   "sicaklik": "Soğuk bölgelerde soğanlar sonbaharda sökülüp kuru yerde saklanır.",
+   "zehir": "Özellikle soğanları zehirlidir; yenirse kedi ve köpeklerde kusma, salya ve ishal yapabilir.",
+   "budama": "Solan çiçek sapını kesin; yapraklar sararınca soğanlar sökülüp saklanabilir.",
+   "cogaltma": "Ana soğanın etrafındaki küçük yavru soğancıklarla çoğaltılır.",
+   "sulama": "Büyüme ve çiçeklenme döneminde toprak nemli tutulur; çiçekten sonra yapraklar sararınca sulama azaltılır. Soğanlar su biriken toprakta çürür."
+  },
+  "Mandevilla": {
+   "isik": "Bol güneş ister; az ışıkta çiçek açmaz.",
+   "sulama": "Toprak üstü kuruyunca sulayın; su birikmesini sevmez.",
+   "sicaklik": "Dona dayanmaz; kışın 10 °C üstünde, aydınlık bir yerde tutulmalıdır.",
+   "budama": "İlkbaharda budanabilir; çiçekler yeni sürgünlerde açar.",
+   "zehir": "Süt özsuyu cildi tahriş edebilir.",
+   "dikim": "Don tehlikesi geçince, ilkbaharda tutunacağı bir desteğin dibine dikilir.",
+   "cogaltma": "İlkbahar–yaz uç çelikleriyle sıcak ve nemli ortamda köklendirilir."
+  },
+  "Plumeria": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Yazın toprak kuruyunca sulanır; kışın yapraklarını dökerse sulama neredeyse kesilir.",
+   "sicaklik": "Dona dayanmaz; kışın serin ve kuru tutulur.",
+   "cogaltma": "Dal çelikleri birkaç hafta kurutulup kumlu toprağa dikilir.",
+   "zehir": "Süt özsuyu cildi tahriş eder.",
+   "budama": "Şekil vermek için kış sonunda kesilebilir; her kesikten genelde iki dal çıkar. Özsuyu tahriş edicidir.",
+   "dikim": "İlkbaharda, hava ısınınca dikilir ya da aktarılır; su tutmayan toprak ister."
+  },
+  "Hanımeli": {
+   "isik": "Bol güneş ya da yarı gölge; çok sıcak yerlerde öğle güneşinden korunmalıdır. Güneş arttıkça çiçek artar.",
+   "sulama": "Toprak üstü kurudukça sulayın; yazın daha sık, kışın seyrek.",
+   "budama": "Çiçeklenme bittikten sonra sıklaşan ve kuruyan dallar seyreltilir.",
+   "zehir": "Meyveleri yenmemelidir; bazı türlerinin meyvesi zehirlidir.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışı dışarıda geçirir.",
+   "dikim": "Sonbaharda ya da ilkbaharda, tutunacağı bir desteğin dibine dikilir.",
+   "cogaltma": "Yaz çelikleriyle ya da dalı toprağa yatırarak (daldırma) kolayca çoğaltılır."
+  },
+  "Duvar sarmaşığı": {
+   "isik": "Dolaylı ışık ya da gölge; yoğun güneş yapraklarını yakabilir. Alacalı türler daha fazla ışık ister.",
+   "sulama": "Toprağın üstü kuruyunca sulayın; ev içinde fazla su kök çürütür.",
+   "cogaltma": "Boğumlu dal çelikleri suda ya da toprakta kolayca köklenir.",
+   "budama": "İstenmeyen yönlere giden dallar her zaman kesilebilir; duvar ve çatı aralarına girmeden kontrol edilmelidir.",
+   "zehir": "Yaprak ve meyveleri yenirse zehirlidir; özsuyu bazı kişilerde ciltte kaşıntı yapar.",
+   "sicaklik": "Soğuğa çok dayanıklıdır.",
+   "dikim": "Sonbaharda ya da ilkbaharda duvarın dibine dikilir."
+  },
+  "Manolya": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sulama": "İlk yıllarda düzenli sulanır; kökleri yüzeyseldir, kuraklıkta sulanmalıdır.",
+   "budama": "Az budama ister; gerekiyorsa çiçeklenmeden hemen sonra yapılır.",
+   "dikim": "Kökleri hassastır; yer değiştirmeyi sevmez, yerine kalıcı dikilmelidir.",
+   "sicaklik": "Çoğu türü kışa dayanıklıdır; erken çiçek açan türlerin çiçekleri geç donlardan zarar görebilir.",
+   "zehir": "Zehirli kabul edilmez.",
+   "cogaltma": "Daldırma ya da aşıyla çoğaltılır; evde zordur."
+  },
+  "Japon akçaağacı": {
+   "isik": "Yarı gölge ister; öğle güneşi ve sıcak rüzgâr yaprak kenarlarını yakar.",
+   "sulama": "Toprağı düzenli nemli tutun; su birikmesini sevmez.",
+   "sararma": "Yaz ortasında yaprak kenarlarının kavrulması çoğunlukla güneş, rüzgâr ve susuzluktandır.",
+   "budama": "Az budama ister; kış dinlenmesinde kuru ve çapraz dallar alınır.",
+   "sicaklik": "Kışa dayanıklıdır; ilkbaharda yeni açan yapraklar geç donlardan ve sert rüzgârdan zarar görebilir.",
+   "zehir": "Kedi ve köpekler için zehirli olarak bilinmez.",
+   "dikim": "Sonbaharda ya da ilkbaharda, öğle güneşi ve sert rüzgârdan korunan yere dikilir.",
+   "cogaltma": "Çeşitleri aşıyla çoğaltılır; tohumdan yetişenler anasına benzemeyebilir."
+  },
+  "Leylak": {
+   "isik": "Tam güneş ister; gölgede az çiçek açar.",
+   "budama": "Çiçeklenme biter bitmez budanır; geç budanırsa ertesi yılın çiçek tomurcukları kesilir.",
+   "cicek": "Az güneş, geç budama ve fazla azotlu gübre en sık çiçek açmama nedenleridir.",
+   "sicaklik": "Soğuğa çok dayanıklıdır; iyi çiçeklenmek için kış soğuğuna ihtiyaç duyar.",
+   "zehir": "Zehirli kabul edilmez.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Dipten çıkan kök sürgünleri ayrılarak çoğaltılır.",
+   "sulama": "Yeni dikilende düzenli sulanır; kök tutunca az su ister, yalnız uzun kuraklıkta sulayın."
+  },
+  "Şimşir": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sulama": "Yerleşince orta düzeyde su ister; kuraklıkta derin sulanır.",
+   "budama": "Şekil budaması ilkbahar sonu ve yaz sonunda yapılır; çok sıcak ve güneşli günlerde budama yaprak yanığı yapar.",
+   "zehir": "Tüm kısımları zehirlidir.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışın güneşli ve rüzgârlı yerlerde yaprakları bronzlaşabilir.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Yaz sonu–sonbaharda yarı odunsu çeliklerle köklendirilir."
+  },
+  "Mersin": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sulama": "Kuraklığa dayanıklıdır; saksıda toprak kuruyunca sulanır.",
+   "budama": "Şekil budamasına iyi cevap verir; çit olarak kullanılabilir.",
+   "sicaklik": "Hafif donlara dayanır; sert ve uzun donlarda zarar görür, soğuk bölgelerde korunaklı yere dikilmelidir.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Yaz çelikleriyle köklendirilir."
+  },
+  "Kurtbağrı": {
+   "isik": "Güneş ya da yarı gölge.",
+   "budama": "Çit olarak yılda 2–3 kez budanabilir.",
+   "zehir": "Meyveleri zehirlidir.",
+   "sicaklik": "Soğuğa dayanıklıdır.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir. Çit için fidanlar sık (30–40 cm arayla) dikilir.",
+   "cogaltma": "Çeliklerle kolayca köklenir.",
+   "sulama": "Yeni dikilen çit ilk yıl düzenli sulanır; kök tutunca kuraklık dışında az su ister."
+  },
+  "Mazı": {
+   "isik": "Tam güneş ister; gölgede seyrekleşir.",
+   "sulama": "Yeni dikilenler ilk iki yıl düzenli sulanmalıdır.",
+   "budama": "Yeşil kısım bırakılarak hafif budanır; tamamen kahverengi, yapraksız kısma kadar kesilirse oradan yeniden sürmez.",
+   "sararma": "İç kısımdaki yaprakların sonbaharda kahverengileşmesi doğaldır; dış yüzeyde toplu kahverengileşme susuzluk ya da su birikmesine işaret eder.",
+   "sicaklik": "Soğuğa çok dayanıklıdır.",
+   "zehir": "Yaprak ve dallarındaki yağ nedeniyle çok yenirse evcil hayvanlarda kusma ve ishal yapabilir.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Sonbaharda yarı odunsu çeliklerle köklendirilir."
+  },
+  "Servi": {
+   "isik": "Tam güneş ister.",
+   "sulama": "İlk yıllarda düzenli sulanır, sonra kuraklığa dayanıklıdır.",
+   "budama": "Yeşil kısımdan hafifçe budanır; çıplak, yapraksız kısma kadar kesmek kalıcı boşluk bırakır.",
+   "sicaklik": "Soğuğa genelde dayanıklıdır; genç fidanlar sert donda ve soğuk rüzgârda zarar görebilir.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Tohumla ya da çelikle çoğaltılır; evde köklendirmek zordur."
+  },
+  "Çam": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Yeni dikilen fidanlar ilk 1–2 yıl düzenli sulanır; yerleşen çam kuraklığa dayanıklıdır.",
+   "budama": "İlkbaharda mum denen yeni sürgünler kısaltılarak şekil verilir; kalın dalların kesilmesinden kaçının.",
+   "sararma": "İçteki eski iğnelerin sonbaharda sararıp dökülmesi doğaldır.",
+   "sicaklik": "Soğuğa dayanıklıdır; türe göre dayanıklılık değişir.",
+   "zehir": "Çam iğneleri yenirse evcil hayvanlarda kusma yapabilir ve ağızda yaralanmaya yol açabilir; reçinesi tahriş edicidir.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Tohumla çoğaltılır; çelikle köklenmez."
+  },
+  "Ateş dikeni": {
+   "isik": "Güneş ister; meyvesi güneşte bol olur.",
+   "budama": "Çiçeklenmeden sonra uzun sürgünler kısaltılır; meyve veren dallar korunur.",
+   "sicaklik": "Soğuğa dayanıklıdır.",
+   "zehir": "Ciddi zehirli kabul edilmez; çok miktarda meyve yenirse mide rahatsızlığı yapabilir. Dikenleri yaralar.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Yaz çelikleriyle köklendirilir.",
+   "sulama": "Kök tutunca kurağa dayanıklıdır; yalnız uzun kuraklıkta sulayın."
+  },
+  "Kartopu": {
+   "isik": "Güneş ya da yarı gölge.",
+   "budama": "Çiçeklenmeden hemen sonra budanır.",
+   "sicaklik": "Soğuğa dayanıklıdır.",
+   "dikim": "Tüplü (saksılı) fidanlar don olmayan her mevsim dikilebilir; en iyi zaman sonbahar ya da ilkbahardır. Çıplak köklü fidanlar kış dinlenmesinde, sonbahar sonu ile ilkbahar başı arasında dikilir.",
+   "cogaltma": "Yaz çelikleriyle ya da daldırmayla çoğaltılır.",
+   "sulama": "Toprağın tamamen kurumasını sevmez; yazın kurak dönemlerde düzenli sulayın."
+  },
+  "Ormangülü": {
+   "isik": "Yarı gölge ister.",
+   "sulama": "Kireçsiz su ile toprağı düzenli nemli tutun; kökleri yüzeyseldir, susuz kalmamalıdır.",
+   "sararma": "Damarlar yeşil kalıp yaprak sararıyorsa toprak yeterince asidik değildir; asidik toprak ister.",
+   "zehir": "Yaprak ve çiçekleri zehirlidir.",
+   "sicaklik": "Kışa genelde dayanıklıdır; kışın kuru soğuk rüzgârdan ve öğle güneşinden korunmalıdır.",
+   "budama": "Çiçekler solunca çiçek başlarını koparın; hafif şekil budaması çiçeklenmeden hemen sonra yapılır.",
+   "dikim": "Sonbaharda ya da ilkbaharda kireçsiz, asidik toprağa yüzlek (derine gömmeden) dikilir.",
+   "cogaltma": "Daldırmayla ya da yarı odunsu çeliklerle çoğaltılır; yavaştır."
+  },
+  "Pieris": {
+   "isik": "Yarı gölge ister.",
+   "sulama": "Kireçsiz su ile düzenli nemli tutun.",
+   "sararma": "Kireçli toprakta yaprakları sararır; asidik toprak ister.",
+   "zehir": "Tüm kısımları zehirlidir.",
+   "sicaklik": "Kışa dayanıklıdır; erken açan çiçek tomurcukları geç donlardan zarar görebilir.",
+   "budama": "Çiçeklenmeden sonra solan çiçek salkımlarını kesin; hafif şekil budaması yeterlidir.",
+   "dikim": "Sonbaharda ya da ilkbaharda kireçsiz, asidik toprağa dikilir.",
+   "cogaltma": "Yarı odunsu çeliklerle çoğaltılır."
+  },
+  "Funda": {
+   "isik": "Güneş ister.",
+   "sulama": "Toprağı nemli tutun; kökleri ince olduğu için tamamen kurursa toparlanmaz.",
+   "budama": "Çiçeklenmeden sonra solan çiçekli uçlar kesilir.",
+   "sicaklik": "Soğuğa dayanıklıdır.",
+   "dikim": "Sonbaharda ya da ilkbaharda kireçsiz toprağa dikilir.",
+   "cogaltma": "Yaz çelikleriyle kireçsiz ortamda köklendirilir."
+  },
+  "Kekik": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Kuraklığa dayanıklıdır; toprak kuruyunca sulayın, fazla su kökünü çürütür.",
+   "budama": "Çiçeklenmeden sonra hafif budamak gür kalmasını sağlar; odunlaşmış kısma kadar kesmeyin.",
+   "hasat": "Çiçeklenme başlangıcında aroması en yüksektir.",
+   "sicaklik": "Soğuğa dayanıklıdır; ıslak ve soğuk topraktan hoşlanmaz.",
+   "zehir": "Zehirli değildir.",
+   "dikim": "İlkbaharda, güneşli ve suyu iyi süzen yere dikilir.",
+   "cogaltma": "Tohumla, çelikle ya da kök bölerek çoğaltılır."
+  },
+  "Adaçayı": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Kuraklığa dayanıklıdır; su birikmesini sevmez.",
+   "budama": "İlkbaharda yeşil kısımdan budanır; yaşlı odunsu kısma kadar kesilmez.",
+   "hasat": "Yapraklar büyüme döneminde gerektikçe toplanır.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışın ıslak toprakta kalmasın.",
+   "zehir": "Az miktarda zararsızdır; çok yenirse mide rahatsızlığı yapabilir.",
+   "dikim": "İlkbaharda ya da sonbaharda, güneşli ve suyu iyi süzen yere dikilir.",
+   "cogaltma": "Tohumla ya da ilkbahar–yaz uç çelikleriyle çoğaltılır."
+  },
+  "Mercanköşk": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprak kuruyunca sulayın.",
+   "hasat": "Çiçeklenme öncesi aroması yüksektir.",
+   "sicaklik": "Dona hassastır; soğuk bölgelerde tek yıllık gibi yetiştirilir ya da saksıda içeri alınır.",
+   "zehir": "Çok yenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "budama": "Düzenli uç almak gürleştirir; çiçeklenmeden önce kesip toplamak aromayı artırır.",
+   "dikim": "İlkbaharda, don tehlikesi geçince dikilir.",
+   "cogaltma": "Tohumla ya da çelikle çoğaltılır."
+  },
+  "Melisa": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sulama": "Toprağı düzenli nemli tutun.",
+   "budama": "Çiçeklenme başlarken kesilirse taze yaprak vermeye devam eder.",
+   "cogaltma": "Kök bölme ya da çelikle çoğaltılır.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışın toprak üstü kuruyup ilkbaharda yeniden sürer.",
+   "zehir": "Çok yenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "dikim": "İlkbaharda ya da sonbaharda dikilir."
+  },
+  "Limon otu": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Bol su sever; toprağı nemli tutun.",
+   "sicaklik": "Dona dayanmaz; soğuk bölgelerde saksıda yetiştirilip kışın içeri alınır.",
+   "zehir": "Çok yenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "budama": "Kuruyan yaprakları dipten kesin; sonbaharda bitki toprağın biraz üstünden kısaltılabilir.",
+   "dikim": "İlkbaharda, hava ısınınca dikilir.",
+   "cogaltma": "Kökleri olan dip sürgünleri ayrılarak çoğaltılır; marketten alınan taze saplar bile suda köklenebilir."
+  },
+  "Stevya": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprağı hafif nemli tutun; su birikmesini sevmez.",
+   "sicaklik": "Dona dayanmaz.",
+   "hasat": "Yapraklar çiçeklenme öncesi en tatlıdır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Uçlarını koparmak dallanmayı artırır; çiçek açmadan önce yaprakları toplamak en tatlı hasadı verir.",
+   "dikim": "İlkbaharda, don tehlikesi geçince dikilir.",
+   "cogaltma": "Uç çelikleriyle çoğaltılır; tohumla çimlenmesi zayıftır."
+  },
+  "Tarhun": {
+   "isik": "Güneş ister.",
+   "sulama": "Kuraklığa oldukça dayanıklıdır.",
+   "cogaltma": "Fransız tarhunu tohum vermez; kök bölme ya da çelikle çoğaltılır.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışın toprak üstü kurur, ilkbaharda yeniden sürer.",
+   "zehir": "Çok yenirse kedi ve köpeklerde kusma ve ishal yapabilir.",
+   "budama": "Düzenli kesip toplamak gürleştirir; sonbaharda toprak üstü dipten kesilir.",
+   "dikim": "İlkbaharda dikilir."
+  },
+  "Kişniş": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sicaklik": "Serin havayı sever; sıcakta hızla çiçeğe kaçar.",
+   "dikim": "Tohumları ilkbahar ya da sonbaharda doğrudan yerine ekilir; sürekli hasat için 2–3 haftada bir ekim yapılır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Yaprakları dıştan keserek toplayın; çiçek sapı çıkınca yapraklar azalır.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı nemli tutun; kuruyan toprakta çabuk tohuma kaçar."
+  },
+  "Papatya": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Toprak kuruyunca sulayın.",
+   "hasat": "Çiçekler tamamen açtığında toplanır.",
+   "sicaklik": "Serin havayı sever ve soğuğa dayanıklıdır.",
+   "zehir": "Kedi ve köpeklerde kusma, ishal ve ciltte tahriş yapabilir; evcil hayvanların kemirmesine izin vermeyin.",
+   "budama": "Solan çiçekleri kesmek yeni çiçek açtırır; çiçek hasadı yapılıyorsa düzenli toplayın.",
+   "dikim": "Tohumu sonbaharda ya da ilkbahar başında toprağın üstüne serpilerek ekilir (ışıkta çimlenir, üstü örtülmez).",
+   "cogaltma": "Tohumla çoğaltılır. Kendi tohumunu döküp kendiliğinden çoğalır."
+  },
+  "Ekinezya": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Yerleşince kuraklığa dayanıklıdır.",
+   "cicek": "Kuru tohum başları kışın kuşlar için bırakılabilir.",
+   "sicaklik": "Soğuğa çok dayanıklıdır; kışı toprakta geçirir.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Solan çiçekleri kesmek çiçeklenmeyi uzatır; kuşlar için tohum başlarını kışa bırakabilirsiniz. İlkbaharda kuru saplar dipten kesilir.",
+   "dikim": "İlkbaharda ya da sonbaharda dikilir; tohumla ekim ilkbaharda yapılır.",
+   "cogaltma": "Tohumla ya da kalabalık bitkiyi bölerek çoğaltılır."
+  },
+  "Maydanoz": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sulama": "Toprağı düzenli nemli tutun.",
+   "dikim": "Tohumu geç çimlenir (2–4 hafta); ekimden önce bir gece suda bekletmek çimlenmeyi hızlandırır.",
+   "hasat": "Dış yapraklar dipten kesilerek toplanır; ortadaki genç yapraklar bırakılırsa üretmeye devam eder.",
+   "sicaklik": "Serin havayı sever ve hafif donlara dayanır; kışın da yetiştirilebilir.",
+   "zehir": "İnsanlar için zararsızdır; evcil hayvanlar çok miktarda yerse ciltte güneşe hassasiyet yapabilir.",
+   "budama": "Dış yaprakları saplarıyla birlikte dipten keserek toplayın; ortadan yenileri çıkar.",
+   "cogaltma": "Tohumla çoğaltılır. Çimlenmesi yavaştır; tohumu ekimden önce bir gece suda bekletmek hızlandırır."
+  },
+  "Dereotu": {
+   "isik": "Tam güneş ister.",
+   "dikim": "Kazık köklüdür, şaşırtmayı sevmez; tohumu yerine ekilir.",
+   "sicaklik": "Sıcakta hızla çiçeğe kaçar.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Yaprakları üstten keserek toplayın; çiçek açınca yaprak azalır.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı nemli tutun, ama su biriktirmeyin."
+  },
+  "Tere": {
+   "isik": "Güneş ya da yarı gölge.",
+   "dikim": "Tohumu 1–2 haftada hasat edilebilecek kadar hızlı büyür; saksıda, hatta nemli pamuk üzerinde bile yetişir.",
+   "sulama": "Toprağı sürekli nemli tutun.",
+   "sicaklik": "Serin havayı sever; yazın sıcakta çabuk tohuma kaçar.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Üstten keserek toplayın; birkaç kez yeniden sürer.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Zencefil": {
+   "isik": "Parlak, dolaylı ışık ya da yarı gölge ister.",
+   "sulama": "Toprağı nemli tutun ama ıslak bırakmayın.",
+   "dikim": "Gözleri (tomurcukları) belirgin, taze bir kök parçası ilkbaharda 3–5 cm derinliğe dikilir.",
+   "hasat": "Dikimden 8–10 ay sonra, yapraklar sararınca hasat edilir.",
+   "sicaklik": "Sıcak ve nem sever; dona dayanmaz.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama gerekmez; sararan saplar dipten kesilir.",
+   "cogaltma": "Gözü olan taze zencefil parçaları ilkbaharda sığ dikilir."
+  },
+  "Zerdeçal": {
+   "isik": "Parlak ışık ya da yarı gölge ister.",
+   "sulama": "Büyürken nemli tutun.",
+   "dikim": "Kök parçası ilkbaharda dikilir.",
+   "hasat": "Yapraklar sarardığında, genelde 8–10 ay sonra hasat edilir.",
+   "sicaklik": "Sıcak seven tropikal bir bitkidir; dona dayanmaz, yumruları kışın içeride saklanır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama gerekmez; sonbaharda yapraklar sararınca yumrular hasat edilir.",
+   "cogaltma": "Gözü olan yumru parçalarıyla çoğaltılır."
+  },
+  "Safran": {
+   "dikim": "Soğanlar (cormlar) yaz sonunda 10–15 cm derinliğe dikilir.",
+   "cicek": "Sonbaharda çiçek açar; kırmızı tepecikler çiçek açtığı gün toplanır.",
+   "sulama": "Su birikmesini sevmez; yazın kuru dinlenir.",
+   "sicaklik": "Soğuğa dayanıklıdır; soğanları kışı toprakta geçirir.",
+   "zehir": "Safran çiğdeminin soğanları yenirse mide rahatsızlığı yapabilir. Sonbaharda açan 'güz çiğdemi' (Colchicum) ise çok zehirlidir; karıştırmayın.",
+   "budama": "Yapraklar kendiliğinden kuruyana kadar kesilmez; soğanlar o yapraklarla beslenir.",
+   "cogaltma": "Ana soğanın etrafında oluşan yavru soğanlarla çoğaltılır.",
+   "isik": "Tam güneş ister; güneşli ve sıcak bir yer seçin."
+  },
+  "Nilüfer": {
+   "isik": "Günde en az 6 saat güneş ister; az ışıkta çiçek açmaz.",
+   "dikim": "Saksıda toprağa dikilip havuz ya da büyük su kabına yerleştirilir.",
+   "sicaklik": "Lotus sıcak sever; soğuk bölgelerde kökleri donmayacak derinlikte kışlatılmalıdır.",
+   "zehir": "Zehirli kabul edilmez.",
+   "budama": "Sararan yaprakları ve solan çiçekleri saplarıyla birlikte kesin; suyun bozulmasını önler.",
+   "cogaltma": "Kök sapı (rizom) ilkbaharda bölünerek çoğaltılır.",
+   "sulama": "Su bitkisidir; saksısı suyun 20–60 cm altında durur. Buharlaşan suyu düzenli tamamlayın."
+  },
+  "Patlıcan": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Düzenli ve derin sulama ister.",
+   "sicaklik": "Sıcak seven bir sebzedir; fideler don tehlikesi tamamen geçince dikilir.",
+   "hasat": "Meyve parlak ve dolgunken toplanır; parlaklığını yitirmiş meyve tohumlu ve acı olur.",
+   "zehir": "Pişmiş meyvesi zararsızdır; yaprak ve sapları solanin içerir, evcil hayvanlarda mide rahatsızlığı yapabilir.",
+   "budama": "Ana dallar belirlendikten sonra alttan çıkan sürgünler ve sararan alt yapraklar alınır.",
+   "dikim": "Fideler toprak iyice ısınınca (mayıs) dikilir; soğuğa domates ve biberden daha hassastır.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Kabak": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Dibinden sulayın; yaprakları ıslatmak külleme hastalığını kolaylaştırır.",
+   "hasat": "Sakız kabağı 15–20 cm iken toplanırsa bitki daha çok verir.",
+   "cicek": "İlk açan çiçeklerin çoğu erkektir ve meyve vermez; bu normaldir. Dişi çiçeklerin dibinde küçük bir kabak bulunur. Meyve tutmuyorsa arı az olabilir; sabah erkek çiçeğin tozunu fırçayla dişi çiçeğe sürmek yardımcı olur.",
+   "sicaklik": "Sıcak sever; dona dayanmaz, don tehlikesi geçince ekilir.",
+   "zehir": "Zehirli değildir. Çok acı tadı olan kabak yenmemelidir.",
+   "budama": "Budama gerekmez; sararan ya da hastalanan yaprakları ayıklamanız yeterli.",
+   "dikim": "Toprak ısınınca (mayıs) tohumla doğrudan ekilir ya da fideyle dikilir.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Fasulye": {
+   "isik": "Tam güneş ister.",
+   "dikim": "Toprak ısınınca (don geçince) tohum doğrudan yerine ekilir; sırık fasulyeye destek gerekir.",
+   "sulama": "Çiçeklenme ve bakla döneminde düzenli sulanmalıdır.",
+   "hasat": "Taze fasulye bakla içindeki taneler belirginleşmeden toplanır.",
+   "sicaklik": "Sıcak sever; dona dayanmaz, toprak ısınınca (yaklaşık 12 °C'nin üstü) ekilir.",
+   "zehir": "Taze fasulye ve kuru fasulye çiğ yenmemelidir; pişince zararsızdır.",
+   "budama": "Budama gerekmez; sararan ya da hastalanan yaprakları ayıklamanız yeterli.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Bezelye": {
+   "isik": "Güneş ister.",
+   "sicaklik": "Serin havayı sever; sıcakta verimi düşer.",
+   "dikim": "Tohumu sonbahar ya da erken ilkbaharda ekilir; tırmanan türlere destek gerekir.",
+   "zehir": "Zehirli değildir. Süs bitkisi olan 'kokulu bezelye' (ıtır bezelyesi) ise zehirlidir; karıştırmayın.",
+   "budama": "Budama gerekmez; sararan ya da hastalanan yaprakları ayıklamanız yeterli.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı eşit nemde tutun; kuruyup ıslanma döngüsü kaliteyi düşürür. Yapraklara değil dibine sulayın; yazın sıcakta daha sık su ister. Çiçeklenme ve bakla döneminde su eksikliği verimi düşürür."
+  },
+  "Soğan": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Baş oluşurken düzenli sulanır; hasattan 2–3 hafta önce sulama kesilir.",
+   "hasat": "Yaprakların çoğu devrilip sarardığında hasat edilir ve gölgede kurutulur.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışlık soğanlar sonbaharda dikilip kışı toprakta geçirir.",
+   "zehir": "Kedi ve köpekler için zehirlidir: çiğ ya da pişmiş, az miktarda bile kansızlığa yol açabilir. Evcil hayvanların soğan yemesine izin vermeyin. Yutulduysa veteriner ya da doktora danışın.",
+   "budama": "Budama yapılmaz.",
+   "dikim": "Arpacık soğan sonbaharda ya da ilkbahar başında dikilir; tohumla yetiştirmede fideler ilkbaharda dikilir.",
+   "cogaltma": "Tohumla ya da arpacık soğanla çoğaltılır."
+  },
+  "Sarımsak": {
+   "dikim": "Dişler sonbaharda, sivri ucu yukarıda 5 cm derinliğe dikilir.",
+   "hasat": "Alt yaprakların yarısı kuruduğunda hasat edilir.",
+   "sulama": "İlkbaharda baş büyürken düzenli sulanır; hasattan önce kesilir.",
+   "sicaklik": "Soğuğa dayanıklıdır; sonbaharda dikilip kışı toprakta geçirir ve kış soğuğu iyi baş bağlamasına yardımcı olur.",
+   "zehir": "Kedi ve köpekler için zehirlidir; kansızlığa yol açabilir. Evcil hayvanların yemesine izin vermeyin. Yutulduysa veteriner ya da doktora danışın.",
+   "budama": "Budama yapılmaz; sert boyunlu çeşitlerde çıkan çiçek sapını erken koparmak başın büyümesine yardımcı olur.",
+   "cogaltma": "Başı dişlere ayırıp her dişi ayrı dikerek çoğaltılır; en iri dişler en iri başları verir.",
+   "isik": "Tam güneş ister."
+  },
+  "Pırasa": {
+   "isik": "Güneş ister.",
+   "dikim": "Fideler derin çukurlara dikilip büyüdükçe dibine toprak çekilirse beyaz kısmı uzun olur.",
+   "sulama": "Düzenli sulama ister.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışın tarlada kalabilir.",
+   "zehir": "Soğan ailesindendir; kedi ve köpekler için zehirlidir, kansızlığa yol açabilir. Yutulduysa veteriner ya da doktora danışın.",
+   "budama": "Budama yapılmaz.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Havuç": {
+   "dikim": "Tohumu doğrudan yerine ekilir; taşlı ve sıkışık toprakta kökleri çatallanır. Gevşek, kumlu toprak ister.",
+   "sulama": "Düzenli sulanmalıdır; düzensiz sulama kökü çatlatır.",
+   "sicaklik": "Serin havayı sever; hafif donlara dayanır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama yapılmaz; çok sık çıkanlar seyreltilir.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "isik": "Tam güneşi sever; yarı gölgede de yetişir ama kökler küçük kalır."
+  },
+  "Turp": {
+   "dikim": "Hızlı yetişir (3–6 haftada); serin mevsimde ekilir.",
+   "sicaklik": "Sıcakta acılaşır ve çiçeğe kaçar.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama yapılmaz; sık çıkanlar seyreltilir.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı eşit nemde tutun; kuruyup ıslanma döngüsü kaliteyi düşürür. Yapraklara değil dibine sulayın; yazın sıcakta daha sık su ister. Düzensiz sulama turpu acılaştırır ve çatlatır.",
+   "isik": "Güneşi sever; yaz sıcağında yarı gölge daha iyidir."
+  },
+  "Pancar": {
+   "dikim": "Tohumu yerine ekilir; her tohum kümesinden birkaç fide çıkar, seyreltilmelidir.",
+   "sulama": "Düzenli sulanmalıdır.",
+   "sicaklik": "Serin havayı sever; hafif donlara dayanır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama yapılmaz; sık çıkanlar seyreltilir.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "isik": "Güneşli yeri sever; yarı gölgeye dayanır."
+  },
+  "Lahana": {
+   "isik": "Güneş ister.",
+   "sicaklik": "Serin mevsim sebzesidir; hafif don tadını tatlandırır.",
+   "sulama": "Baş oluşurken düzenli sulama ister; düzensiz sulama başı çatlatır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama gerekmez; sararan ya da hastalanan yaprakları ayıklamanız yeterli.",
+   "dikim": "Kışlık lahana fideleri yaz sonunda, yazlık çeşitler ilkbahar başında dikilir.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Brokoli": {
+   "sicaklik": "Serin havayı sever.",
+   "hasat": "Ana baş, çiçek tomurcukları sararıp açmadan sıkıyken kesilir; ardından yan sürgünler küçük başlar verir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Ana baş kesildikten sonra yan dallardan küçük başlar çıkar; bitkiyi hemen sökmeyin.",
+   "dikim": "Fideler yaz sonu–sonbahar başında ya da ilkbahar başında dikilir; serin havayı sever.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı eşit nemde tutun; kuruyup ıslanma döngüsü kaliteyi düşürür. Yapraklara değil dibine sulayın; yazın sıcakta daha sık su ister.",
+   "isik": "Tam güneş ister; çok sıcak bölgelerde öğleden sonra gölge iyi gelir."
+  },
+  "Karnabahar": {
+   "sicaklik": "Serin ve dengeli sıcaklık ister; sıcak ya da susuz kalırsa baş küçük kalır.",
+   "hasat": "Baş sıkı ve beyazken kesilir; beyaz kalması için iç yapraklar başın üzerine bağlanabilir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama gerekmez; sararan ya da hastalanan yaprakları ayıklamanız yeterli.",
+   "dikim": "Fideler yaz sonu–sonbahar başında dikilir; serin havayı sever.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı eşit nemde tutun; kuruyup ıslanma döngüsü kaliteyi düşürür. Yapraklara değil dibine sulayın; yazın sıcakta daha sık su ister.",
+   "isik": "Tam güneş ister."
+  },
+  "Roka": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sicaklik": "Serin havada yetişir; sıcakta acılaşır ve çiçeğe kaçar.",
+   "dikim": "Tohumu 2–3 haftada bir ekilirse sürekli hasat alınır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Yaprakları dıştan kesip toplamak bitkinin yeniden yaprak vermesini sağlar.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı eşit nemde tutun; kuruyup ıslanma döngüsü kaliteyi düşürür. Yapraklara değil dibine sulayın; yazın sıcakta daha sık su ister. Susuz kalan roka acılaşır ve tohuma kaçar."
+  },
+  "Ispanak": {
+   "sicaklik": "Serin havayı sever; uzun ve sıcak günlerde çiçeğe kaçar.",
+   "dikim": "Sonbahar ve erken ilkbaharda ekilir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Dıştaki yaprakları keserek toplarsanız ortadan yenileri çıkar.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı eşit nemde tutun; kuruyup ıslanma döngüsü kaliteyi düşürür. Yapraklara değil dibine sulayın; yazın sıcakta daha sık su ister.",
+   "isik": "Güneşi sever; yarı gölgede de iyi yetişir, sıcakta gölge tohuma kaçmayı geciktirir."
+  },
+  "Pazı": {
+   "isik": "Güneş ya da yarı gölge.",
+   "hasat": "Dış yapraklar dipten kesilerek toplanır; bitki aylarca üretmeye devam eder.",
+   "sicaklik": "Serin havayı sever ve hafif donlara dayanır; ılıman bölgelerde kışın da yetişir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Dış yaprakları dipten keserek toplayın; ortadan yenileri gelir.",
+   "dikim": "İlkbaharda ve yaz sonunda ekilir.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Toprağı eşit nemde tutun; kuruyup ıslanma döngüsü kaliteyi düşürür. Yapraklara değil dibine sulayın; yazın sıcakta daha sık su ister."
+  },
+  "Mısır": {
+   "isik": "Tam güneş ister.",
+   "dikim": "Tozlaşma rüzgârla olduğu için tek sıra yerine blok halinde (birkaç kısa sıra) ekilmelidir.",
+   "sulama": "Püskül ve koçan oluşurken susuz kalmamalıdır.",
+   "hasat": "Püsküller kahverengileşip tanelerden süt gibi öz çıktığında hasat edilir.",
+   "sicaklik": "Sıcak sever; dona dayanmaz, toprak ısınınca ekilir.",
+   "zehir": "Bitkisi zehirli değildir; köpekler koçanı yutarsa bağırsak tıkanması olabilir.",
+   "budama": "Budama gerekmez; dipten çıkan yan sürgünlerin bırakılmasında sakınca yoktur.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Bamya": {
+   "isik": "Tam güneş ister.",
+   "sicaklik": "Sıcak seven bir sebzedir.",
+   "hasat": "Meyveler küçük ve körpe iken her 1–2 günde bir toplanır; büyüyünce lifli olur.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Alttaki sararan yapraklar ayıklanır; düzenli hasat yeni bamya verdirir.",
+   "dikim": "Toprak iyice ısınınca (mayıs–haziran) tohumla ekilir; tohumu ekimden önce bir gece suda bekletmek çimlenmeyi hızlandırır.",
+   "cogaltma": "Tohumla çoğaltılır.",
+   "sulama": "Sıcak seven bir sebzedir; toprağın üstü kuruyunca derin sulayın, çiçek ve meyve döneminde su eksik olmasın."
+  },
+  "Kavun": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Meyve büyürken düzenli sulanır; olgunlaşmaya yakın sulama azaltılırsa tadı artar.",
+   "hasat": "Sapın meyveden kolayca ayrılması ve kokusunun gelmesi olgunluğu gösterir.",
+   "sicaklik": "Sıcak sever; dona dayanmaz, toprak iyice ısınınca ekilir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Ana sürgün 4–5 yaprakta uçtan alınırsa yan kollar çıkar ve meyve tutumu artar; kol başına birkaç meyve bırakmak iriliği artırır.",
+   "dikim": "Toprak iyice ısınınca (mayıs) tohumla ya da fideyle dikilir.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Karpuz": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Meyve büyürken düzenli sulanır, olgunlaşmaya yakın azaltılır.",
+   "hasat": "Toprağa değen kısmın sarıya dönmesi ve sapa yakın kıvrık sülüğün kuruması olgunluk işaretidir.",
+   "sicaklik": "Sıcak sever; dona dayanmaz, toprak iyice ısınınca ekilir.",
+   "zehir": "Zehirli değildir; köpeklere verilecekse kabuk ve çekirdekleri çıkarılmalıdır.",
+   "budama": "Genelde budama gerekmez; bitki başına birkaç meyve bırakmak meyvelerin irileşmesini sağlar.",
+   "dikim": "Toprak iyice ısınınca (mayıs) tohumla ya da fideyle dikilir.",
+   "cogaltma": "Tohumla çoğaltılır."
+  },
+  "Patates": {
+   "dikim": "Gözlü tohumluk yumrular ilkbaharda dikilir; filizler büyüdükçe dibine toprak çekilir.",
+   "hasat": "Yapraklar sarardıktan sonra hasat edilir.",
+   "zehir": "Güneşte yeşillenen yumru ve bitkinin yeşil aksamı (yaprak, sap, meyve) zehirli solanin içerir; yeşillenen kısımlar yenmemelidir. Yumrular karanlıkta saklanmalıdır.",
+   "sicaklik": "Dona hassastır; toprak üstü kısımlar donda zarar görür, son don geçince dikilir.",
+   "budama": "Budama yapılmaz.",
+   "cogaltma": "Gözleri olan tohumluk patates yumrularıyla çoğaltılır; büyük yumrular her parçada 1–2 göz kalacak şekilde kesilebilir.",
+   "sulama": "Yumru bağlama döneminde (çiçeklenme civarı) düzenli su ister; düzensiz sulama yumruları çatlatır. Hasattan önce sulama kesilir.",
+   "isik": "Tam güneş ister."
+  },
+  "Tatlı patates": {
+   "dikim": "Filiz (sürgün) çelikleri toprak ısınınca dikilir.",
+   "sicaklik": "Sıcak seven bir bitkidir.",
+   "hasat": "İlk dondan önce hasat edilir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Uzayan sürgünleri kısaltabilirsiniz; kesilen sürgünler köklendirilip dikilebilir.",
+   "cogaltma": "Yumrudan sürdürülen filizler ya da sürgün çelikleriyle çoğaltılır.",
+   "sulama": "Dikimden sonra düzenli sulanır; kök tutunca kurağa dayanıklıdır. Hasattan birkaç hafta önce sulama azaltılır.",
+   "isik": "Tam güneş ve sıcak ister."
+  },
+  "Enginar": {
+   "isik": "Tam güneş ister.",
+   "hasat": "Tomurcuklar sıkı ve açılmadan kesilir.",
+   "sulama": "Düzenli su ister.",
+   "sicaklik": "Hafif donlara dayanır; sert kışlarda kökleri malçla korunmalıdır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Hasattan sonra çiçek sapları dipten kesilir; sonbaharda kuruyan yapraklar temizlenir.",
+   "dikim": "Dip sürgünleri sonbaharda ya da ilkbaharda dikilir.",
+   "cogaltma": "Dipten çıkan sürgünler ayrılarak çoğaltılır."
+  },
+  "Kuşkonmaz": {
+   "dikim": "Kökler kalıcı yerine dikilir; uzun yıllar ürün verir.",
+   "hasat": "İlk 2 yıl hasat yapılmaz, bitkinin güçlenmesi beklenir.",
+   "sicaklik": "Soğuğa dayanıklıdır; kökleri kışı toprakta geçirir.",
+   "zehir": "Filizleri yenir; olgun kırmızı meyveleri yenirse mide rahatsızlığı yapabilir. Süs kuşkonmazı (asparagus eğreltisi) evcil hayvanlar için zehirlidir.",
+   "budama": "Hasat döneminden sonra filizler büyümeye bırakılır; sonbaharda sararan dallar toprak hizasından kesilir.",
+   "cogaltma": "Tohumla ya da hazır kök (pençe) dikilerek çoğaltılır; köklerle başlamak hasadı 1–2 yıl öne çeker.",
+   "sulama": "İlk iki yıl düzenli sulanır; kök tutunca derin ama seyrek sulama yeterlidir.",
+   "isik": "Tam güneş ister."
+  },
+  "Meyve fidanı": {
+   "dikim": "Çıplak köklü fidanlar yaprak döktükten sonra kışın (don olmayan günlerde), tüplü fidanlar yılın çoğu zamanı dikilebilir. Aşı yeri toprak üstünde kalmalıdır.",
+   "sulama": "Dikimden sonra can suyu verilir; ilk yıl yazın düzenli sulama gerekir.",
+   "budama": "Dikimden sonra ilk yıllarda şekil budaması, sonraki yıllarda kışın bakım budaması yapılır.",
+   "sicaklik": "Çoğu meyve fidanı (elma, armut, erik, kiraz gibi) kışa dayanıklıdır; asıl tehlike ilkbaharda çiçek açtıktan sonra gelen geç donlardır.",
+   "zehir": "Elma, kiraz, erik, şeftali, kayısı gibi meyvelerin eti zararsızdır; ancak yaprak, dal ve çekirdekleri evcil hayvanlar için zehirli maddeler içerir.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz.",
+   "isik": "Meyve ağaçlarının çoğu günde en az 6–8 saat güneş ister; gölgede az meyve verir."
+  },
+  "Elma": {
+   "isik": "Tam güneş ister.",
+   "budama": "Kış dinlenmesinde (yapraklar döküldükten sonra, sert don günleri dışında) budanır; kuru, hastalıklı ve iç içe giren dallar alınır.",
+   "hasat": "Aşılı fidan çeşide ve anaca göre 2–5 yılda meyveye yatar (bodur anaçlılar daha erken). Meyveler çeşidine göre yaz sonundan sonbahar sonuna kadar olgunlaşır. Elma çeşitlerinin çoğu kendi çiçek tozuyla iyi meyve bağlamaz; yakınında aynı dönemde çiçek açan başka bir elma çeşidi olması verimi belirgin artırır.",
+   "sulama": "İlk yıllarda düzenli; meyve büyürken susuz bırakılmamalıdır.",
+   "sicaklik": "Soğuğa çok dayanıklıdır ve iyi meyve için kış soğuğuna ihtiyaç duyar; ilkbahar geç donları çiçeklere zarar verebilir.",
+   "zehir": "Meyve eti zararsızdır; çekirdekleri, yaprakları ve dalları evcil hayvanlar için zehirli maddeler içerir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Armut": {
+   "isik": "Tam güneş ister.",
+   "budama": "Kış dinlenmesinde (yapraklar döküldükten sonra, sert don günleri dışında) budanır; kuru, hastalıklı ve iç içe giren dallar alınır.",
+   "hasat": "Aşılı fidan 2–5 yılda meyveye yatar. Çeşidine göre yaz ortasından sonbahar sonuna kadar hasat edilir; kışlık armutlar sert toplanıp serin yerde olgunlaştırılır. Çoğu çeşit tozlayıcı başka bir armut çeşidiyle daha iyi verim verir.",
+   "sulama": "İlk yıllarda düzenli; meyve büyürken susuz bırakılmamalıdır.",
+   "sicaklik": "Kışa dayanıklıdır; erken açan çiçekleri geç donlardan zarar görebilir.",
+   "zehir": "Meyve eti zararsızdır; çekirdekleri evcil hayvanlara yedirilmemelidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Kiraz": {
+   "isik": "Tam güneş ister.",
+   "budama": "Kiraz kış budamasına hassastır; yoğun budama yerine hasattan sonra yazın hafif budama tercih edilir.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar. Bölgeye ve çeşide göre çoğunlukla mayıs–temmuz arasında hasat edilir. Kiraz çeşitlerinin büyük kısmı kendine verimsizdir: meyve için yakınında aynı dönemde çiçek açan uyumlu bir tozlayıcı kiraz çeşidi bulunmalıdır.",
+   "sulama": "İlk yıllarda düzenli; meyve büyürken susuz bırakılmamalıdır.",
+   "sicaklik": "Kışa dayanıklıdır ve kış soğuğuna ihtiyaç duyar; çiçekleri ilkbahar geç donlarına hassastır.",
+   "zehir": "Meyve eti zararsızdır; çekirdeği, yaprakları ve dalları evcil hayvanlar için zehirlidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Erik": {
+   "isik": "Tam güneş ister.",
+   "budama": "Kış dinlenmesinde (yapraklar döküldükten sonra, sert don günleri dışında) budanır; kuru, hastalıklı ve iç içe giren dallar alınır.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar. Çeşidine göre mayıstan eylüle kadar farklı dönemlerde hasat edilir (can erik ilkbahar sonunda, mürdüm ve kuru eriklik çeşitler yaz sonunda). Kendine verimsiz çeşitlerde yakınına tozlayıcı bir erik dikmek meyve tutumunu artırır.",
+   "sulama": "İlk yıllarda düzenli; meyve büyürken susuz bırakılmamalıdır.",
+   "sicaklik": "Kışa dayanıklıdır; erken çiçek açtığı için geç donlardan zarar görebilir.",
+   "zehir": "Meyve eti zararsızdır; çekirdeği, yaprakları ve dalları evcil hayvanlar için zehirlidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz."
+  },
+  "Şeftali": {
+   "isik": "Tam güneş ister.",
+   "budama": "Meyveyi bir önceki yılın sürgünlerinde verir; her yıl kışın düzenli budanmalıdır, budanmazsa meyve uçlara kayar.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar. Meyveler çeşidine göre haziran–eylül arasında olgunlaşır; olgun şeftali hafif bastırınca yumuşar ve kolayca daldan ayrılır. Çeşitlerin çoğu kendine verimlidir.",
+   "sicaklik": "Kışa dayanıklıdır; erken çiçek açtığı için ilkbahar geç donlarına hassastır.",
+   "zehir": "Meyve eti zararsızdır; çekirdeği, yaprakları ve dalları evcil hayvanlar için zehirlidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın. Meyve iriliği için meyve büyürken düzenli sulama önemlidir."
+  },
+  "Kayısı": {
+   "isik": "Tam güneş ister.",
+   "sicaklik": "Erken çiçek açtığı için ilkbahar donlarına hassastır.",
+   "budama": "Kış sonunda ya da hasattan sonra hafif budanır.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar. Bölgeye ve çeşide göre çoğunlukla mayıs sonundan ağustos başına kadar hasat edilir. Yaygın yerli çeşitlerin çoğu kendine verimlidir.",
+   "zehir": "Meyve eti zararsızdır; çekirdeği, yaprakları ve dalları evcil hayvanlar için zehirlidir. Acı kayısı çekirdeği insanlar için de tehlikelidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "Vişne": {
+   "isik": "Güneş ister.",
+   "budama": "Meyve yıllık dallarda olur; düzenli seyreltme budaması yapılır.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar; meyveler yaz başında olgunlaşır. Vişne çeşitlerinin çoğu kendine verimlidir, tek ağaçla da ürün alınır.",
+   "sicaklik": "Kiraza göre soğuğa daha dayanıklıdır; kışı sert bölgelerde de yetişir.",
+   "zehir": "Meyve eti zararsızdır; çekirdeği, yaprakları ve dalları evcil hayvanlar için zehirlidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "Ayva": {
+   "isik": "Güneş ister.",
+   "budama": "Az budama ister; kuru ve iç içe dallar alınır.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar. Sonbaharda, kabuğundaki tüyler kolayca silinip meyve sarardığında toplanır.",
+   "sicaklik": "Kışa dayanıklıdır; ancak ilkbaharda açan çiçekleri geç donlardan zarar görebilir.",
+   "zehir": "Meyve eti zararsızdır; çekirdekleri evcil hayvanlara yedirilmemelidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Kış çelikleriyle köklenebilir; meyve çeşidinin aynısı için aşılı fidan önerilir.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "Dut": {
+   "isik": "Güneş ister.",
+   "budama": "Kışın budanır; budama sırasında çok özsu akıttığı için kalın dal kesiminden kaçınılır.",
+   "hasat": "Aşılı fidan 2–4 yılda meyveye yatar; meyveler yaz başında olgunlaşır ve birkaç hafta boyunca peyderpey toplanır. Karadut fidanı da genellikle 2–4 yılda verime girer.",
+   "sicaklik": "Soğuğa çok dayanıklıdır.",
+   "zehir": "Olgun meyvesi zararsızdır; ham meyvesi ve özsuyu mide rahatsızlığı yapabilir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Odunsu çeliklerle köklenebilir; meyve çeşidinin aynısı için aşılı fidan önerilir.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "İncir": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Saksıda düzenli sulanır; bahçede yerleştikten sonra kuraklığa dayanıklıdır.",
+   "sicaklik": "-8/-10 °C'ye kadar dayanabilir; saksıdakiler kışın donmayacak yere alınır.",
+   "budama": "Kışın kuru ve iç içe dallar alınır.",
+   "zehir": "Süt özsuyu güneşle birlikte ciltte yanık benzeri tahriş yapabilir; budarken eldiven kullanın.",
+   "hasat": "Aşılı ya da çelikten yetişmiş fidan 2–4 yılda meyveye yatar. Çeşidine göre yaz başından sonbahara kadar hasat edilir; meyve yumuşayıp boynu hafifçe bükülünce olgundur.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır. Soğuk bölgelerde ilkbahar dikimi daha güvenlidir.",
+   "cogaltma": "Kışın alınan odunsu çeliklerle kolayca köklenir; yazın yeşil çelikler de köklenebilir."
+  },
+  "Nar": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Düzenli sulanır; kuraklıktan sonra aşırı sulama meyvesini çatlatır.",
+   "budama": "Dipten çıkan kök sürgünleri ve kuru dallar kışın alınır.",
+   "cicek": "Çiçek dökmesi genç bitkide doğaldır; aşırı sulama ve gübre de çiçek döktürebilir.",
+   "hasat": "Aşılı fidan 2–3 yılda meyveye yatar. Meyveler sonbaharda, kabuk tam rengini aldığında ve vurulduğunda madeni bir ses verdiğinde toplanır. Meyve çatlaması çoğunlukla kuraklıktan sonra gelen bol su ya da yağmurdandır; düzenli sulama çatlamayı azaltır.",
+   "sicaklik": "Hafif donlara dayanır; sert ve uzun donlarda zarar görür. Sıcak ve uzun yazları sever.",
+   "zehir": "Zehirli değildir; köpekler çok yerse kusma yapabilir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır. Soğuk bölgelerde ilkbaharda dikin.",
+   "cogaltma": "Kışın odunsu çeliklerle kolayca köklenir."
+  },
+  "Kivi": {
+   "isik": "Güneş ister.",
+   "cicek": "Dişi ve erkek bitkiler ayrıdır; meyve için yakınında erkek bitki olmalıdır (genelde 6–8 dişiye 1 erkek).",
+   "budama": "Kışın ve yazın budanır; sağlam bir çardak ya da tel sistemi gerekir.",
+   "sulama": "Bol su ister; yaz sıcağında susuz kalmamalıdır.",
+   "hasat": "Fidan 3–5 yılda meyveye yatar. Dişi ve erkek bitkiler ayrıdır: meyve için yakınında erkek bitki olmalıdır (genelde 6–8 dişiye 1 erkek). Meyveler sonbaharda sertken toplanıp evde olgunlaştırılır.",
+   "sicaklik": "Kışa genelde dayanıklıdır; ancak ilkbaharda yeni sürgünler geç donlardan kolay zarar görür.",
+   "zehir": "Zehirli değildir.",
+   "dikim": "Fidanlar ilkbahar başında, güçlü bir destek ya da çardağın dibine dikilir; meyve için dişi ve erkek bitki birlikte dikilmelidir.",
+   "cogaltma": "Yaz çelikleriyle ya da aşıyla çoğaltılır; meyve için dişi ve erkek bitki gerekir."
+  },
+  "Muz": {
+   "isik": "Bol ışık ister.",
+   "sulama": "Bol su sever; toprağı nemli tutun, su birikmesine izin vermeyin.",
+   "sicaklik": "Dona dayanmaz; saksıdaki muz kışın içeri alınır.",
+   "sararma": "Kenarlardan kuruma kuru hava ve rüzgârdan, alt yaprakların sararması doğal yaşlanmadandır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Kuruyan yaprakları gövdeye yakın kesin. Meyve veren gövde hasattan sonra kesilir, yerine dipten çıkan yavrulardan biri büyütülür.",
+   "dikim": "İlkbaharda, hava ısınınca rüzgârdan korunan sıcak bir yere dikilir.",
+   "cogaltma": "Ana bitkinin dibinden çıkan yavrular kökleriyle ayrılıp dikilir."
+  },
+  "Böğürtlen": {
+   "isik": "Güneş ister.",
+   "budama": "Meyve veren iki yıllık dallar hasattan sonra dipten kesilir; yeni yılın dalları bırakılır.",
+   "hasat": "Fidan genellikle ikinci yılında meyveye yatar; meyveler yazın parlak siyaha dönünce toplanır. Meyve iki yıllık dallarda olur.",
+   "sicaklik": "Soğuğa dayanıklıdır.",
+   "zehir": "Zehirli değildir.",
+   "dikim": "Sonbaharda ya da ilkbaharda, tel destek kurulacak şekilde sıralar halinde dikilir.",
+   "cogaltma": "Dal uçları toprağa değince kök verir; köklenen uç kesilip dikilir.",
+   "sulama": "Meyve döneminde düzenli su ister; toprağın derinliği kurumasın. Dibinden sulayın."
+  },
+  "Aronya": {
+   "isik": "Güneş ya da yarı gölge.",
+   "sulama": "Düzenli sulama ister.",
+   "hasat": "Fidan 2–3 yılda meyveye yatar. Meyveler ağustos–eylülde koyu siyaha dönünce toplanır. Çoğu çeşit kendine verimlidir.",
+   "sicaklik": "Soğuğa çok dayanıklıdır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Kış sonunda yaşlı, verimsiz ve sık dalların bir kısmı dipten kesilir; çalı formunda tutulur.",
+   "dikim": "Sonbaharda ya da ilkbaharda dikilir.",
+   "cogaltma": "Kök sürgünleri ayrılarak ya da çelikle çoğaltılır."
+  },
+  "Badem": {
+   "isik": "Tam güneş ister.",
+   "sicaklik": "Çok erken çiçek açtığı için ilkbahar geç donlarına hassastır; don cebi olmayan, rüzgâr almayan yere dikin.",
+   "hasat": "Aşılı fidan genellikle 3–4 yılda meyveye yatar. Yaz sonu–sonbahar başında dış kabuk çatlayınca hasat edilir. Birçok çeşit yabancı tozlanmaya ihtiyaç duyar; yakınına tozlayıcı bir badem dikin.",
+   "zehir": "Tatlı badem zararsızdır; acı badem insanlar ve hayvanlar için tehlikelidir. Köpeklerde badem sindirim sorunu yapabilir.",
+   "budama": "Kış sonunda kuru, sık ve içe büyüyen dallar alınır; ağacın ortası açık tutulur. Hastalık riskine karşı yağışlı havada budamayın.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Çekirdekten yetişir ama anasına benzemez ve meyveye geç yatar; çeşidin aynısı için aşılı fidan gerekir. Yarı odunsu çelikle köklendirmek de mümkündür ama zordur.",
+   "sulama": "Kurağa dayanıklıdır; yeni dikilen fidan ilk yıllarda yazın düzenli sulanır, kök tutmuş ağaç az su ister. Su biriken toprak kök çürütür."
+  },
+  "Fındık": {
+   "isik": "Güneş ya da yarı gölge.",
+   "budama": "Dipten çıkan fazla sürgünler (piçler) her yıl alınır.",
+   "hasat": "Fidan genellikle 3–4 yılda meyveye yatar. Meyveler ağustos–eylülde, zuruftan (yeşil kabuk) kolayca ayrılmaya başlayınca toplanır. Aynı dönemde çiçek açan tozlayıcı çeşitlerin birlikte bulunması verim için önemlidir.",
+   "sicaklik": "Soğuğa dayanıklıdır; kışın açan çiçekleri hafif soğuklara dayanır.",
+   "zehir": "Zehirli değildir; küçük köpeklerde yutulursa tıkanma yapabilir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Dipten çıkan sürgünlerin (piç) kökleriyle ayrılmasıyla ya da daldırmayla çoğaltılır.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "Antep fıstığı": {
+   "isik": "Tam güneş ister.",
+   "cicek": "Dişi ve erkek ağaçlar ayrıdır; meyve için tozlayıcı erkek ağaç gerekir.",
+   "sicaklik": "Sıcak ve kurak yazları sever.",
+   "hasat": "Aşılı fidan 4–7 yılda meyveye yatar. Meyveler sonbaharda olgunlaşır. Erkek ve dişi ağaçlar ayrıdır; meyve için bahçede erkek tozlayıcı ağaç bulunmalıdır.",
+   "zehir": "Zehirli değildir; küflenmiş fıstık yenmemelidir.",
+   "budama": "Genç ağaçlarda şekil budaması yapılır; verimdeki ağaçlarda kuru ve sık dallar kış sonunda alınır.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır. Meyve için erkek ve dişi ağaçlar birlikte dikilir.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz.",
+   "sulama": "Kurağa çok dayanıklıdır; genç fidanlar dışında az sulama ister. Fazla su ve su biriken toprak zarar verir."
+  },
+  "Kestane": {
+   "isik": "Güneş ister.",
+   "cicek": "Tozlanma için yakınında başka bir kestane ağacı olması verimi artırır.",
+   "hasat": "Aşılı fidan 4–7 yılda meyveye yatar. Sonbaharda dikenli kabuk açılıp kestaneler dökülmeye başlayınca toplanır. Çoğu çeşit yabancı tozlanmaya ihtiyaç duyar; yakınında başka bir kestane ağacı olması verimi artırır.",
+   "sicaklik": "Kışa dayanıklıdır; ilkbahar geç donları yeni sürgünlere zarar verebilir.",
+   "zehir": "Yenen kestane zehirli değildir. Parklarda görülen at kestanesi ise insanlar ve hayvanlar için zehirlidir; karıştırmayın.",
+   "budama": "Genç ağaçta şekil budaması yapılır; sonra kuru, hasta ve sık dalları almak yeterlidir.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Evde çoğaltmak zordur: meyve çeşidinin aynısını almak için aşıyla çoğaltılır. Çekirdekten yetişen ağaç anasına benzemeyebilir ve yıllarca meyve vermeyebilir; aşılı fidan almanızı öneririz.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "Mango": {
+   "sicaklik": "Dona dayanmaz; Türkiye'de ancak en sıcak sahil bölgelerinde ya da korunaklı ortamda yetişir.",
+   "isik": "Tam güneş ister.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar; ancak Türkiye'de yalnız en sıcak sahil bölgelerinde ya da korunaklı ortamda meyve verir.",
+   "zehir": "Meyve eti zararsızdır; kabuğu ve özsuyu hassas kişilerde ciltte kaşıntı yapabilir, çekirdeği köpeklerde tıkanma yapabilir.",
+   "budama": "Hasattan sonra hafif şekil budaması yapılır; çok sert budama meyveyi azaltır.",
+   "dikim": "Yalnız çok sıcak bölgelerde, ilkbaharda dikilir; diğer yerlerde saksıda yetiştirilir.",
+   "cogaltma": "Çekirdekten yetişir ama anasına benzemez ve meyveye geç yatar; çeşidin aynısı için aşılı fidan gerekir. Yarı odunsu çelikle köklendirmek de mümkündür ama zordur.",
+   "sulama": "Genç bitki düzenli sulanır; çiçeklenmeden önce sulamayı azaltmak çiçek açmasına yardımcı olur. Saksıda su biriktirmeyin."
+  },
+  "Papaya": {
+   "sicaklik": "Dona dayanmaz; sıcak ister.",
+   "sulama": "Su birikmesine çok hassastır.",
+   "hasat": "Hızlı büyür; uygun sıcaklıkta 1–2 yılda meyve verebilir. Meyve yeşilden sarıya dönmeye başlayınca toplanır.",
+   "zehir": "Olgun meyvesi zehirli değildir.",
+   "budama": "Genelde budanmaz; kuruyan alt yapraklar kesilir.",
+   "dikim": "İlkbaharda, sıcak ve rüzgârsız bir yere dikilir.",
+   "cogaltma": "Tohumla kolayca çoğaltılır.",
+   "isik": "Tam güneş ve sıcak ister; rüzgârdan korunan bir yer seçin."
+  },
+  "Ananas": {
+   "isik": "Bol ışık ister.",
+   "cogaltma": "Meyvenin tepesindeki yaprak demeti koparılıp alt yaprakları temizlenir, kuruduktan sonra toprağa dikilir.",
+   "hasat": "Yeni bitki 2–3 yılda meyve verebilir.",
+   "sicaklik": "Sıcak seven tropikal bir bitkidir; 15 °C'nin altında büyümesi durur, dona dayanmaz.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Budama gerekmez; kuruyan yaprakları dipten kesin.",
+   "dikim": "Meyvenin tepesindeki yaprak demeti köklendirilip ilkbaharda saksıya dikilir.",
+   "sulama": "Az su ister; toprağın üstü kuruyunca sulayın. Yaprak ortasındaki çukura biraz su vermek bitkiye iyi gelir."
+  },
+  "Ejder meyvesi": {
+   "isik": "Bol ışık ister.",
+   "sulama": "Kaktüs gibi; toprak kuruyunca sulanır.",
+   "sicaklik": "Dona dayanmaz.",
+   "budama": "Tırmanıcıdır; sağlam bir direk desteği gerekir.",
+   "zehir": "Zehirli değildir.",
+   "dikim": "İlkbaharda, tırmanacağı bir direğin dibine, suyu iyi süzen toprağa dikilir.",
+   "cogaltma": "Gövde parçaları birkaç gün kurutulup toprağa dikilince kolayca köklenir."
+  },
+  "Çarkıfelek": {
+   "isik": "Güneş ister.",
+   "sulama": "Düzenli sulama ister.",
+   "budama": "İlkbaharda kuru ve fazla dallar budanır; çiçekler yeni sürgünlerde açar.",
+   "hasat": "Hızlı büyür; 1–2 yılda meyveye yatar. Meyveler yaz sonu–sonbahar ortasında, kabuk buruşmaya başladığında ya da kendiliğinden düştüğünde olgundur.",
+   "sicaklik": "Dona dayanıksızdır; soğuk bölgelerde saksıda yetiştirilip kışın içeri alınır.",
+   "zehir": "Olgun meyvesi zararsızdır; ham meyvesi ve yaprakları yenmemelidir.",
+   "dikim": "İlkbaharda, don tehlikesi geçince tutunacağı bir desteğin dibine dikilir.",
+   "cogaltma": "Tohumla ya da yaz çelikleriyle çoğaltılır."
+  },
+  "Guava": {
+   "isik": "Güneş ister.",
+   "sicaklik": "Dona dayanıksızdır.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Hasattan sonra şekil budaması yapılabilir; sık ve içe büyüyen dallar alınır.",
+   "dikim": "İlkbaharda, sıcak bir yere dikilir; soğuk bölgelerde saksıda yetiştirilir.",
+   "cogaltma": "Tohumla ya da çelikle çoğaltılır; meyve kalitesi için aşılı fidan daha iyidir.",
+   "sulama": "Toprağın üstü kuruyunca düzenli sulayın; meyve döneminde su eksikliği meyveyi düşürür."
+  },
+  "Yenidünya": {
+   "isik": "Güneş ister.",
+   "cicek": "Sonbahar–kış çiçek açar, meyvesi ilkbaharda olgunlaşır; sert kış donları çiçek ve küçük meyveye zarar verir.",
+   "hasat": "Aşılı fidan 3–4 yılda meyveye yatar. Sonbahar–kış çiçek açar, meyveleri ilkbaharda sezonun ilk taze meyveleri arasında olgunlaşır.",
+   "sicaklik": "Hafif donlara dayanır; kışın açan çiçekleri ve gelişen meyveleri sert donda zarar görür.",
+   "zehir": "Meyve eti zararsızdır; çekirdekleri ve yaprakları zehirli maddeler içerir, yenmemelidir.",
+   "budama": "Hasattan sonra hafif budama yapılır; sık dallar seyreltilir, ağacın ortası ışık alacak şekilde açılır.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Tohumla yetişir ama anasına benzemeyebilir; meyve için aşılı fidan önerilir.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın. Meyve büyürken su eksikliği meyveyi küçültür."
+  },
+  "Keçiboynuzu": {
+   "isik": "Tam güneş ister.",
+   "sulama": "Kuraklığa çok dayanıklıdır.",
+   "sicaklik": "Dona hassastır; Akdeniz iklimini sever.",
+   "hasat": "Aşılı fidan 4–6 yılda meyveye yatar. Baklalar bir sonraki yıl olgunlaşır; koyu kahverengi ve sert olduklarında toplanır. Geleneksel çeşitlerde erkek ve dişi ağaçlar ayrıdır, verim için tozlayıcı erkek ağaç gerekir.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Genç ağaçta şekil budaması yapılır; sonra kuru ve sık dalları almak yeterlidir.",
+   "dikim": "Sonbaharda ya da ilkbaharda, sıcak ve güneşli yere dikilir.",
+   "cogaltma": "Tohumla ya da aşıyla çoğaltılır; meyve için aşılı ve dişi fidan gerekir."
+  },
+  "Goji": {
+   "isik": "Güneş ister.",
+   "sulama": "Kuraklığa oldukça dayanıklıdır.",
+   "budama": "Kışın budanarak dal sayısı sınırlandırılır.",
+   "hasat": "Hızlı büyür; 2–3 yılda meyveye yatar. Yaz boyunca çiçek açar, meyveler yaz sonu–sonbaharda parlak kırmızıya dönünce toplanır.",
+   "sicaklik": "Soğuğa çok dayanıklıdır (yaklaşık -25 °C'ye kadar).",
+   "zehir": "Olgun meyvesi zararsızdır; yaprakları ve ham meyvesi çok yenirse mide rahatsızlığı yapabilir.",
+   "dikim": "Sonbaharda ya da ilkbaharda güneşli yere dikilir.",
+   "cogaltma": "Çeliklerle ya da kök sürgünleriyle kolayca çoğalır."
+  },
+  "Bektaşi üzümü": {
+   "isik": "Güneş ya da yarı gölge.",
+   "budama": "Kışın yaşlı dallar alınarak çalı havadar tutulur.",
+   "hasat": "Fidan 2–3 yılda meyveye yatar; meyveler yaz aylarında olgunlaşır.",
+   "sicaklik": "Soğuğa çok dayanıklıdır; serin iklimleri sever.",
+   "zehir": "Zehirli değildir.",
+   "dikim": "Sonbaharda ya da ilkbahar başında dikilir.",
+   "cogaltma": "Kışın odunsu çeliklerle köklenir.",
+   "sulama": "Kökleri yüzlektir; meyve döneminde ve kurak havada düzenli sulayın. Dibine malç sermek nemi korur."
+  },
+  "Kızılcık": {
+   "isik": "Güneş ya da yarı gölge.",
+   "hasat": "Aşılı fidan 3–5 yılda meyveye yatar (tohumdan yetişenler çok daha geç). Meyveler yaz sonu–sonbahar başında olgunlaşır; tam kırmızı ve hafif yumuşakken toplanır.",
+   "sicaklik": "Soğuğa çok dayanıklıdır; kış donlarından genellikle etkilenmez. Çok erken çiçek açar.",
+   "zehir": "Zehirli değildir.",
+   "budama": "Az budama ister; kış sonunda kuru, kırık ve sık dalları alın.",
+   "dikim": "Fidanlar ağaçlar yaprağını döktükten sonra, sonbahar sonu ile ilkbahar başı arasında (toprak donmuş değilken) dikilir; tüplü fidanlar donsuz her mevsim dikilebilir. Aşı yeri toprağın üstünde kalmalıdır.",
+   "cogaltma": "Tohumla yavaş yetişir; meyve için aşılı fidan önerilir.",
+   "sulama": "Yeni dikilen fidanı ilk iki yıl, yazın kurak dönemlerde haftada bir derin sulayın. Kök tutmuş ağaç çoğu bölgede yalnız uzun kuraklıkta sulama ister; sık ve az sulamak yerine seyrek ve bol sulayın."
+  },
+  "Kuşburnu": {
+   "isik": "Güneş ister.",
+   "hasat": "Fidan 2–3 yılda meyveye yatar. Meyveler sonbaharda kırmızıya döner; ilk hafif donlardan sonra yumuşar ve tatlanır.",
+   "sicaklik": "Soğuğa çok dayanıklıdır.",
+   "zehir": "Meyvesi zararsızdır; içindeki tüyler ağız ve boğazı tahriş edebilir.",
+   "budama": "Kış sonunda yaşlı ve kuru dalların bir kısmı dipten kesilir; çalı fazla sıklaşmasın.",
+   "dikim": "Sonbaharda ya da ilkbaharda dikilir.",
+   "cogaltma": "Tohumla, çelikle ya da kök sürgünleriyle çoğaltılır.",
+   "sulama": "Kurağa dayanıklıdır; yeni dikilende ilk yıl düzenli sulanır, sonra az su ister."
+  }
+ }
+}

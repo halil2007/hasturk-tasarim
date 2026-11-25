@@ -1,0 +1,50 @@
+# HasTürk Blog: Kasım ek planı (2 – 30 Kasım 2026) — 30 trafik/satış yazısı (her gün, 15 Kasım'da 2) + 15 çiftçi gündemi yazısı (iki günde bir)
+# Gün 1 = 2 Kasım … 29 = 30 Kasım. Trafik yazıları 09:20, çiftçi gündemi yazıları 17:50. Mevcut yazılara dokunulmaz.
+# Ürün bilgisi yalnız docs/bilgi/urunler-hasturk.json açıklamalarından; ilaç adı/dozu yok; mevzuat yazılarında rakam/oran verilmez, resmî kuruma yönlendirilir.
+# Biçim: aile | kategori | odak kelime | çalışma başlığı | gün
+# Günlük: 1=2 2=1 3=2 4=1 5=2 6=1 7=2 8=1 9=2 10=1 11=2 12=1 13=2 14=2 15=2 16=1 17=2 18=1 19=2 20=1 21=2 22=1 23=2 24=1 25=2 26=1 27=2 28=1 29=2
+T|gu|organik gübre çeşitleri|Organik Gübre Çeşitleri: Solucan, Yarasa, Leonardit ve Kompost Hangi İşe Yarar?|1
+C|gd|çiftçi kayıt sistemi|Çiftçi Kayıt Sistemi (ÇKS) Nedir? Kimler Kaydolur, Nasıl Başvurulur?|1
+T|bb|pirinç suyu bitkilere|Pirinç Suyu Bitkilere Faydalı mı? Gerçekler ve Doğru Kullanım|2
+T|bb|ev bitkisi neden ölür|Ev Bitkisi Neden Ölür? En Sık Yapılan 9 Hata ve Çözümleri|3
+C|gd|tarsim|TARSİM Nedir? Tarım Sigortası Neleri Kapsar, Nasıl Yaptırılır?|3
+T|bb|sukulent kış bakımı|Sukulent Kış Bakımı: Sulama, Işık ve Soğukta Dinlenme|4
+T|sm|saksıda sarımsak|Saksıda Sarımsak Yetiştirme: Balkonda Diş Dişten Baş Elde Etmek|5
+C|gd|sertifikalı tohum|Sertifikalı Tohum Nedir? Etiketi, Faydası ve Neden Önemli?|5
+T|bi|kümes kışa hazırlık|Kümes Kışa Nasıl Hazırlanır? Soğuk, Rüzgâr ve Neme Karşı Önlemler|6
+T|bb|musluk suyu bitkiler|Musluk Suyuyla Sulama: Klor ve Kireç Bitkilere Zarar Verir mi?|7
+C|gd|tarım kooperatifi|Tarım Kooperatifi Nedir? Üye Olmanın Faydaları ve Dikkat Edilecekler|7
+T|bi|bitki rafı|Bitki Rafı Fikirleri: Salon ve Balkonda Saksıları Katlara Taşımak|8
+T|sm|bahçe yatağını kışa hazırlama|Bahçe Yatağını Kışa Hazırlama: Boş mu Bırakmalı, Ne Ekmeli?|9
+C|gd|sözleşmeli üretim|Sözleşmeli Üretim Nedir? Çiftçi İçin Avantajları ve Riskleri|9
+T|ci|kışın çiçek açan salon bitkileri|Kışın Çiçek Açan Salon Bitkileri: Gri Günlere Renk Katan 10 Bitki|10
+T|bb|saksı dibine taş|Saksının Dibine Taş Koymak Gerekir mi? Drenaj Tabakası Efsanesi|11
+C|gd|tarla kiralama|Tarla Kiralama: Kira Sözleşmesinde ve Arazi Seçiminde Dikkat Edilecekler|11
+T|bb|evcil hayvanlı evde gübre|Evcil Hayvanlı Evde Gübre ve Saksı Güvenliği: Kedi ve Köpek Sahiplerine Rehber|12
+T|bb|salon bitkisi sıcaklık|Salon Bitkileri Kaç Derecede Üşür? İdeal Sıcaklık ve Soğuk Zararı|13
+C|gd|tarımsal destekler|Tarımsal Destekler Nedir? Mazot, Gübre ve Toprak Analizi Desteğinin Mantığı|13
+T|bb|bitki tanıma|Bitki Tanıma: Adını Bilmediğiniz Bitkiyi Fotoğraftan Bulmanın Yolları|14
+T|bb|unlu bit|Unlu Bit: Yapraklarda Pamuk Gibi Beyaz Kümeler ve Temizleme Yolları|14
+T|tr|bahçe toprağı saksıda|Bahçe Toprağı Saksıda Kullanılır mı? Neden Sorun Çıkarır, Ne Yapmalı?|15
+C|gd|tarım arazisi alırken|Tarım Arazisi Alırken Nelere Dikkat Edilmeli? Tapu, Hisse ve Toprak|15
+T|sm|uç alma|Uç Alma: Fesleğen, Domates ve Biberde Gür Bitki İçin Tepe Kesimi|16
+T|bb|monstera yarık yaprak|Monstera Neden Yarık Yaprak Vermiyor? Işık, Yaş ve Destek|17
+C|gd|tarımsal sulama kuyusu|Tarımsal Sulama Kuyusu: İzin, Debi ve Suyu Verimli Kullanmak|17
+T|tr|bahçe yatağı toprağı|Bahçe Yatağı Toprağı: Hangi Karışım, Kaç Litre, Nasıl Doldurulur?|18
+T|tr|saksıda tuz birikmesi|Saksı Kenarında Beyaz Kabuk: Toprakta Tuz Birikmesi ve Temizleme|19
+C|gd|ürün deseni|Ürün Deseni ve Havza Bazlı Üretim Nedir? Çiftçi Ne Ekeceğini Nasıl Planlar?|19
+T|bb|salon bitkisi budama|Salon Bitkisi Budama: Ne Zaman, Nereden ve Nasıl Kesilir?|20
+T|bi|az bütçeyle balkon bahçesi|Az Bütçeyle Balkon Bahçesi: İlk Alışveriş Listesi ve Öncelikler|21
+C|gd|tarımsal dron|Tarımda Dron Kullanımı: İlaçlama, Gübreleme ve Tarla Takibinde Yeni Dönem|21
+T|bb|yeni alınan bitki|Yeni Alınan Bitki: Eve Geldikten Sonraki İlk İki Hafta|22
+T|ci|bitki neden çiçek açmaz|Bitki Neden Çiçek Açmaz? Işık, Gübre, Budama ve Yaş|23
+C|gd|akıllı tarım|Akıllı Tarım: Toprak Nem Sensörü, Hava İstasyonu ve Dijital Tarla Takibi|23
+T|bi|pet şişeden saksı|Pet Şişeden Saksı: Kendi Kendini Sulayan Saksı Yapımı|24
+T|sm|bahçe yatağı malzemesi|Bahçe Yatağı Malzemesi: Ahşap, Metal, Beton ve Plastik Karşılaştırması|25
+C|gd|tarımsal ges|Tarımsal GES: Güneş Enerjili Sulama Pompası ve Çiftliğe Güneş Paneli|25
+T|bb|bitkilere aspirin|Bitkilere Aspirin Verilir mi? Evde Denenen Tüyoların Gerçek Yüzü|26
+T|sm|tohumdan mı fideden mi|Tohumdan mı Fideden mi Başlamalı? Sebzeye Göre Doğru Seçim|27
+C|gd|kuraklıkla mücadele|Kuraklıkla Mücadele: Tarlada ve Bahçede Su Tasarrufu Sağlayan Uygulamalar|27
+T|bb|doğal köklendirici|Doğal Köklendirici: Söğüt Suyu, Tarçın ve Bal Gerçekten İşe Yarar mı?|28
+T|bb|toprak nem ölçer|Toprak Nem Ölçer: Sulama Zamanını Tahmin Değil Ölçümle Bulmak|29
+C|gd|dekar başına maliyet|Dekar Başına Maliyet ve Verim Hesabı: Çiftçi İçin Kâr Tablosu|29

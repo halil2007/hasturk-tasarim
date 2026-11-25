@@ -1,0 +1,30 @@
+name: Blog fotoğraf adayları
+# Kapak fotoğrafı adaylarını toplar ve gözle seçim için temas sayfaları üretir (scripts/foto-aday.mjs → veri/foto-aday/)
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/foto-aday.json']
+
+permissions:
+  contents: write
+
+jobs:
+  aday:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-save --no-package-lock sharp@0.33.5
+      - run: node scripts/foto-aday.mjs
+      - name: Dala ekle
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add veri/foto-aday
+          git diff --cached --quiet && { echo "değişiklik yok"; exit 0; }
+          git commit -m "Blog: fotoğraf adayları"
+          for i in 1 2 3; do git pull --rebase -q origin ${GITHUB_REF_NAME} && git push origin HEAD:${GITHUB_REF_NAME} && break; sleep 5; done

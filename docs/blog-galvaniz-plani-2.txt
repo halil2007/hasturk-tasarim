@@ -1,0 +1,13 @@
+# HasTürk Blog: galvaniz yapılar "nedir / nasıl yapılır" yazıları (1 Kasım ve 16 – 22 Kasım 2026)
+# Gün 1 = 1 Kasım (bugün, 12:05), gün 2–8 = 16–22 Kasım (10:05; 2–15 Kasım önceki planla dolu). Mevcut yazılara dokunulmaz.
+# Ürün bilgisi yalnız docs/bilgi/urunler-hasturk.json açıklamalarından.
+# Biçim: aile | kategori | odak kelime | çalışma başlığı | gün aralığı
+# Günlük: 1=1 2=1 3=1 4=1 5=1 6=1 7=1 8=1
+G|bi|galvaniz nedir|Galvaniz Nedir? Galvanizli Çelik Paslanır mı, Ne Kadar Dayanır?|1
+G|bi|hobi serası kurulumu|Hobi Serası Nasıl Kurulur? Yer, Zemin, İskelet ve Örtü|2
+G|bi|bahçe deposu yapımı|Bahçe Deposu Nasıl Yapılır? İskelet, Kaplama ve Zemin|3
+G|bi|gül kemeri|Gül Kemeri Nasıl Yapılır? Bahçe Kemerine Sarmaşık Yönlendirme|4
+G|sm|fide rafı|Fide Rafı Nasıl Yapılır? Katlı Fide Düzeni İçin Ölçü ve Yerleşim|5
+G|bi|küçük balkon düzenleme|Küçük Balkon Nasıl Düzenlenir? Raf, Saksı ve Depolama|6
+B|sm|seraya sebze yatağı|Seraya Sebze Yatağı Nasıl Yerleştirilir? U Yatak ve Yürüme Yolu|7
+G|bi|kiler düzenleme|Kiler Nasıl Düzenlenir? Raf Seçimi ve Erzak Yerleşimi|8

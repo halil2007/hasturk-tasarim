@@ -1,0 +1,341 @@
+# HasTürk Blog: 2 aylık yazı planı (ilk hali 24 Ocak – 24 Mart 2027, 360 yazı; Kasım 2026'da güncellendi: kalan 217 yazı 18 Şubat – 25 Mart 2027 arası, günde 5–7)
+# 30 günlük planın (docs/blog-30gun-plani.txt) devamı. Gün numarası aynı sayılır: 91 = 24 Ocak, 99 = 1 Şubat, 116 = 18 Şubat, 127 = 1 Mart, 151 = 25 Mart.
+# Güncelleme (Kasım 2026): 18 Ocak – 17 Şubat (gün 85–115) artık docs/blog-ocak-subat-plani.txt programında. Bu plandan 121 konu oraya taşındı
+# (115. güne kadar başlayan mevsim konuları ve genel kitleye yönelik 49 serbest konu); 15 konu aynı arama niyetinde yazı olduğu için çıkarıldı;
+# yazılmış 7 konu "# Yazıldı:" satırına çevrildi. Kalan 217 konu 116–151. günlere yeniden dağıtıldı.
+# Biçim: aile | kategori | odak kelime | çalışma başlığı | gün aralığı (boşsa serbest)
+#
+# Tempo: günde 5–7 yazı (hafta içi 6–7, hafta sonu 5). Günlük sayılar aşağıdaki "Günlük:" satırında; denetim bu sınırlara göre yapılır.
+# Dağılım: 163 konu (%45) mevcut alan (bahar hazırlığı, fide, budama, sera, ürün serileri, toprak/gübre, bitki bakımı),
+# 69 konu (%19) mevcut alanın genişlemesi (yerli çeşitler, meyvecilik/bağ/zeytin, hasat sonrası, çim ve peyzaj),
+# 128 konu (%36) yeni alan (tarla tarımı, niş ve tıbbi-aromatik bitkiler, topraksız tarım ve mantar, çiftçi rehberi,
+# sulama ve ekipman, doğa dostu bahçe, çocuk ve hobi hayvanları).
+#
+# Veriye dayanan seçimler (Ekim 2026 incelemesi):
+# - Stokta olup hiçbir yazıda geçmeyen ürünler: bahçe yatağı ve kule ailesi (42 üründen 28'i), 13 tohum (tarhun, kuşkonmaz, fındık turpu,
+#   çin turpu, helen tere, köy tipi domates, renkli mısır, siyah kabak, salçalık kapya, çengelköy ve oturak hıyar, karagöz, gazanya; gazanya ve köy tipi domates önceki planlarda
+#   konu olarak var, bu planda ürün kartıyla bağlanır),
+#   fare kulağı ve ak üçgül çim tohumu, avokado / lotus / mezar toprağı, çiçek toprağı bakım seti, ilaçlama pompası modelleri, hortum.
+# - Mağazanın Google aramalarında olup blogda karşılığı olmayan konular: tarhun (21 bin gösterim), safran (6,8 bin), yerli çeşitler
+#   (yamula, koçaş, ayaş, marmande), bahar gübresi, ağaçların uyanması, şarjlı/sırt pompası, nisan ekimi, arpa-buğday gübrelemesi,
+#   tavuk için solucan, köye dönüş ve tarım destekleri (rehber biçiminde; tarih/tutar haberi değil).
+# - Şubat–Mart: 2026 verisinde "mart ayında ne ekilir", meyve ağacı bahar gübrelemesi, fide toprağı, tohum çimlendirme yükselişte.
+#
+# Kurallar (önceki planlarla aynı):
+# - Aynı odak iki kez yok; sitedeki yazılar, tüm paketler, mağaza blogu ve 60/30 günlük planlarla aynı açı yok
+#   (node scripts/blog-plan-kontrol.mjs docs/blog-60gun-plani-2.txt --hedef 217 --gun 116-151 --onceki docs/blog-60gun-plani.txt,docs/blog-30gun-plani.txt,docs/blog-ocak-subat-plani.txt).
+# - Mağaza blogunun güçlü olduğu genel aramalarda (hümik asit nedir, solucan gübresi nedir vb.) blog yarışmaz; dar soru ve kullanım açısı seçilir.
+# - Her yazı panel SEO puanı 100; "Kısaca" özeti ve SSS. Bilgi yalnız doğrulanmış kaynaktan; ürün iddiası yalnız ürün açıklamasından.
+# - Hastalık/zararlı yazılarında ilaç adı ve dozu yok (il/ilçe tarım müdürlüğü ve ziraat mühendisine yönlendirme). Ev haşeresi ürünleri yok.
+# - Destek/hibe yazıları süreç rehberidir: tarih, tutar ve şart verilmez; güncel bilgi için resmi kaynağa (Bakanlık, il müdürlüğü, e-Devlet) yönlendirilir.
+# - Hayvan yazılarında ilaç ve veteriner tedavisi yok; sağlık konusu veterinere yönlendirilir.
+# - Kapakta ürün ambalajı, tanınabilir kişi ve yazı yok; görsel tekrar yok. Ürün kartları elle, stoktaki ve doğrudan ilgili ürünler.
+# Kategori: bb bitki-bakimi · ci cicekler · tr toprak-rehberi · gu gubreleme · sm sebze-meyve · bi bahce-ipuclari · et ekim-takvimi · gd gundem
+#
+# Günlük: 116=5 117=6 118=5 119=6 120=7 121=7 122=6 123=6 124=7 125=6 126=6 127=6 128=6 129=7 130=7 131=7 132=5 133=5 134=6 135=7 136=6 137=5 138=5 139=6 140=6 141=6 142=6 143=6 144=7 145=7 146=6 147=4 148=6 149=5 150=7 151=6
+
+## A: Takvim ve mevsim
+A|et|mart ayında bahçede yapılacaklar|Mart Ayında Bahçede Yapılacaklar Listesi|118-126
+A|et|nisan ayında ne ekilir|Nisan Ayında Ne Ekilir? Bahçe, Balkon ve Tarla İçin Takvim|138-148
+A|et|nisan ayında hangi çiçekler ekilir|Nisan Ayında Ekilecek Çiçekler: Tohum ve Soğan Listesi|140-150
+A|et|karadeniz bahar bahçesi|Karadeniz'de Bahar Bahçesi: Yağışlı İklimde Ekim Takvimi|116-130
+A|et|akdeniz mart ekimi|Akdeniz Bölgesinde Mart: Yazlık Sebzelere Geçiş|120-135
+A|gd|nevruz ve bahar|Nevruz ve Toprağın Uyanışı: Baharın İlk Bahçe İşleri|140-148
+A|gd|8 mart bitki hediyesi|8 Mart Kadınlar Günü İçin Bitki Hediyesi ve Bakım Kartı|124-129
+A|bi|bahar temizliği bahçe|Bahçede Bahar Temizliği: Kış Artıklarından Kurtulma Sırası|116-130
+A|et|nisan ayında bahçede yapılacaklar|Nisan Ayında Bahçede Yapılacaklar: Hazırlık Listesi|143-150
+A|et|mart ayında balkonda yapılacaklar|Mart'ta Balkon: Saksı Yenileme ve İlk Ekimler|118-130
+A|gd|dünya su günü ve bahçe|22 Mart Dünya Su Günü: Bahçede Su Tasarrufunun 10 Yolu|141-147
+A|gd|orman haftası fidan|Orman Haftası (21–26 Mart): Fidan Dikerken Doğru Tür Seçimi|142-150
+
+## P: Budama ve aşılama (şubat–mart)
+P|bi|kalem aşısı|Kalem Aşısı Nasıl Yapılır? Yarma ve Kakma Aşı Adımları|116-140
+P|bi|aşı tutmama nedenleri|Aşı Neden Tutmaz? En Sık Yapılan 8 Hata|125-150
+
+## F: Fide ve tohum (bahar ekimi zirvesi)
+F|sm|kabak tohumu ekimi|Kabak Tohumu Ekimi ve Fide Dikim Zamanı|116-140
+F|sm|karpuz tohumu ekimi|Karpuz Tohumu Nasıl Çimlendirilir?|116-140
+F|sm|kavun tohumu ekimi|Kavun Tohumu Ekimi ve Fide Hazırlığı|116-140
+F|sm|siyah kabak yetiştirme|Siyah Kabak (Dolmalık Kabak) Yetiştirme|116-140
+F|sm|renkli mısır yetiştirme|Renkli Mısır Yetiştirme: Süs ve Patlak Mısır|130-150
+F|sm|fide dikim zamanı|Fideyi Toprağa Ne Zaman Dikmeli? Toprak Sıcaklığı Ölçümü|130-150
+F|sm|yaban turpu yetiştirme|Yaban Turpu Yetiştirme: Kökten Çoğaltma ve Hasat|
+F|sm|acur yetiştirme|Acur Yetiştirme: Yazın Serin Kalan Kabakgil|116-145
+F|sm|aşılı fide nedir|Aşılı Fide Nedir? Domates, Karpuz ve Patlıcanda Avantajları|120-150
+T|tr|mantar kompostu|Kullanılmış Mantar Kompostu Bahçede Nasıl Kullanılır?|
+
+## K: Fidan serisi ve meyve bahçesi (dikim sezonu sonu)
+K|sm|limon fidanı dikimi|Limon Fidanı Dikimi: Saksı mı Bahçe mi?|120-150
+K|sm|meyve ağacı çiçek dönemi bakımı|Çiçeklenme Döneminde Meyve Ağacına Ne Yapılmaz?|125-150
+K|sm|geç don meyve ağacı|Geç Don Meyve Ağacına Zarar Verdi mi? Çiçek İçinden Anlama|130-150
+
+## R: Sera serisi (ocak–şubat kurulum, mart dikim)
+# Yazıldı: R|bi|hobi serası kurulumu|Hobi Serası Kurulumu: Naylon, Polikarbonat mı Cam mı?|91-105
+R|sm|serada salatalık yetiştirme|Serada Salatalık Yetiştirme ve Askıya Alma|116-140
+R|sm|serada biber yetiştirme|Serada Biber Yetiştirme|116-140
+R|bi|serada tozlaşma|Serada Tozlaşma: Arı Olmayan Ortamda Meyve Tutumu|125-150
+
+## U: Ürün serileri (stoktaki ve yazısı eksik ürünler)
+U|gu|domates fidesine solucan gübresi|Domates Dikiminde Solucan Gübresi: Dikim Çukuruna Ne Kadar?|125-150
+U|gu|çime solucan gübresi|Çime Solucan Gübresi Serpmek: Bahar Uygulaması|120-145
+U|tr|leonardit ve kireçli toprak|Kireçli Toprakta Leonardit Kullanımı|
+U|gu|leonardit dekara ne kadar|Leonardit Dekara Ne Kadar Atılır? Tarla ve Bahçe Hesabı|
+U|tr|torf ph değeri|Torfun pH Değeri: Asidik ve Nötr Torf Farkı|
+U|tr|ithal torf|İthal Torf ile Yerli Torf Arasındaki Farklar|
+U|tr|mezar toprağı|Mezar Toprağı Seçimi: Mezara Çiçek Dikmeden Önce Toprak Hazırlığı|
+U|ci|çiçek toprağı yenileme|Çiçek Toprağını Yenilemek: Saksı Bitkisine Bahar Bakımı Seti|116-140
+U|bi|bahçe kenar bordürü|Bahçe Kenar Bordürü: Yol ve Tarh Sınırları|
+U|bi|hidroponik kule|Hidroponik Kule mi Topraklı Kule mi? Farklar ve Seçim|
+U|bi|anahtar deliği bahçe|Anahtar Deliği Bahçe: Ortası Kompostlu Yükseltilmiş Yatak|116-145
+U|bi|sırt pompası seçimi|Sırt Tipi İlaçlama Pompası Seçerken Nelere Bakılır?|
+U|bi|şarjlı ilaçlama pompası kaç saat çalışır|Şarjlı İlaçlama Pompası Kaç Saat Çalışır? Akü ve Şarj Süresi|
+U|bi|basınçlı pompa nasıl kullanılır|Basınçlı El Pompası Nasıl Kullanılır? 2, 5 ve 10 Litre|
+U|bi|ilaçlama pompası memesi|İlaçlama Pompası Memesi (Nozul) Seçimi ve Değişimi|
+U|bi|ilaçlama pompası tetik değişimi|İlaçlama Pompası Tetiği ve Çubuğu Nasıl Değiştirilir?|
+U|bi|ilaçlama pompası kalibrasyonu|İlaçlama Pompası Kalibrasyonu: Dekara Su Miktarı Nasıl Bulunur?|
+U|bi|esnek hortum|Esnek (Spiral Olmayan) Hortum mu Klasik Hortum mu?|
+U|bi|sebze bahçesinde gölgeleme|Sebze Bahçesinde Gölgeleme: Yaz Sıcağından Korumak|
+U|gu|tıbbi bitkilere organik gübre|Kekik, Lavanta ve Biberiyeye Organik Gübre Ne Kadar?|
+
+## G: Bahar gübrelemesi
+G|gu|saksı gülü gübreleme|Saksıdaki Gülü Gübrelemek: Bahar Başlangıcı|116-140
+G|gu|organik gübre ne zaman verilir|Organik Gübre Ne Zaman Verilir? Mevsime Göre Rehber|
+
+## T: Toprak hazırlığı
+T|tr|evde toprak testi|Evde Basit Toprak Testi: Kavanoz ve Sirke Yöntemi|
+T|tr|kireç çözücü toprak|Topraktaki Kireç Nasıl Azaltılır? Kükürt, Organik Madde ve Asitli Gübre|
+T|tr|yeni evin bahçe toprağı|Yeni Taşındığınız Evin Bahçe Toprağı: İnşaat Molozu ve Dolgu Toprak|
+T|tr|kum mil kil oranı|Toprak Bünyesi: Kum, Mil ve Kil Oranı Nasıl Anlaşılır?|
+T|tr|bahçe toprağı ph düşürme|Bahçe Toprağının pH'ı Nasıl Düşürülür?|
+
+## H: Bahar hastalık ve zararlıları (ilaç adı/dozu yok)
+# Yazıldı: H|bi|unlu bit|Unlu Bit: Beyaz Pamuksu Lekeler Nedir?|
+H|bi|koşnil|Koşnil (Kabuklu Bit) Nasıl Anlaşılır?|
+H|bi|külleme belirtileri|Külleme Belirtileri: Yapraktaki Beyaz Toz|
+H|bi|tuzak bitkiler|Tuzak Bitkiler: Zararlıyı Asıl Bitkiden Uzak Tutmak|
+H|bi|zararlı tuzakları|Yapışkan ve Feromon Dışında Bahçe Tuzakları: Gözlem Amaçlı Kullanım|
+H|bi|çiçek dökümü bahar|Baharda Meyve Ağacında Çiçek Dökümü: Normal mi?|130-150
+
+## S: Salon, balkon ve çiçekler (bahar geçişi)
+S|bb|bitkiyi dışarı çıkarma zamanı|Saksı Bitkilerini Balkona Ne Zaman Çıkarmalı?|130-150
+S|bb|güneş alıştırma|Bitkiyi Güneşe Alıştırmak: Yaprak Yanığını Önleme|130-150
+S|bb|zz bitkisi bakımı|ZZ Bitkisi Bakımı: Az Işık ve Az Su|
+S|bb|kauçuk çoğaltma|Kauçuk Bitkisi Çelikle Nasıl Çoğaltılır?|
+S|bb|yılan bitkisi çoğaltma|Paşa Kılıcı Yaprak Çeliğiyle Çoğaltma|
+S|bb|fiddle leaf fig bakımı|Keman Yapraklı İncir (Ficus Lyrata) Bakımı|
+S|bb|alocasia bakımı|Alocasia (Fil Kulağı) Bakımı|
+S|ci|surfinya bakımı|Surfinya Bakımı: Balkonda Sarkan Çiçek|125-150
+S|ci|dalya yumrusu dikimi|Dalya Yumrusu Ne Zaman Dikilir?|130-150
+S|ci|gladiol soğanı dikimi|Glayöl (Gladiol) Soğanı Dikimi|130-150
+S|ci|balkon çiçek kombinasyonu|Balkon Saksısında Çiçek Kombinasyonu: Dik, Dolgu ve Sarkan|125-150
+S|ci|ortanca rengi değiştirme|Ortanca Çiçeğinin Rengi Nasıl Değişir? Toprak pH'ı|
+S|ci|bahar soğanlıları saksıda|Saksıda Bahar Soğanlıları: Katmanlı Dikim|
+S|ci|lilyum yetiştirme|Lilyum Soğanı Dikimi ve Bakımı|128-150
+# Çıkarıldı (morsalkim-yetistirme yazısı var): S|ci|mor salkım yetiştirme|Mor Salkım (Wisteria) Yetiştirme ve Çiçek Açtırma|
+S|bb|fittonia bakımı|Fittonia (Sinir Bitkisi) Bakımı|
+S|bb|inci çiçeği bakımı|İnci Çiçeği (Senecio) Bakımı ve Çoğaltma|
+
+## Z: Tarla tarımı (yeni alan)
+Z|sm|nohut ekimi bahar|Yazlık Nohut Ekimi: Mart'ta Tarla Hazırlığı|116-140
+Z|sm|şeker pancarı yetiştirme|Şeker Pancarı Yetiştirme: Ekimden Söküme|120-145
+Z|sm|yonca tarlası bakımı|Yonca Tarlasında Bahar Bakımı ve İlk Biçim|116-145
+Z|sm|silajlık mısır|Silajlık Mısır Yetiştirme: Hayvancılık İçin Yem|130-150
+Z|tr|münavebe planı|Münavebe (Ekim Nöbeti) Planı: Tarlada 4 Yıllık Döngü|
+Z|bi|anız ve sap değerlendirme|Sapı Yakmadan Değerlendirmek: Toprağa Karıştırma ve Kompost|
+Z|bi|tarla sulama yöntemleri|Tarla Sulama Yöntemleri: Salma, Yağmurlama ve Damla Karşılaştırması|
+Z|sm|çavdar yetiştirme|Çavdar Yetiştirme: Fakir Toprakların Tahılı|
+Z|sm|susam yetiştirme|Susam Yetiştirme ve Hasat Zamanı|
+Z|sm|pamuk ekimi|Pamuk Ekimi: Toprak Sıcaklığı ve Ekim Zamanı|
+Z|sm|çeltik yetiştiriciliği|Çeltik (Pirinç) Yetiştiriciliği Nasıl Yapılır?|
+Z|sm|sorgum yetiştirme|Sorgum Yetiştirme: Yem ve Tane İçin|
+Z|sm|soya fasulyesi yetiştirme|Soya Fasulyesi Yetiştirme|
+Z|sm|anason yetiştirme|Anason Yetiştirme|
+Z|sm|kimyon yetiştirme|Kimyon Yetiştirme|
+Z|sm|keten yetiştirme|Keten Yetiştirme: Lif ve Tohum İçin|
+Z|sm|şerbetçiotu yetiştirme|Şerbetçiotu Yetiştirme: Tırmanıcı Çok Yıllık Bitki|
+Z|sm|dekara tohum miktarı|Dekara Ne Kadar Tohum Atılır? Tahıl ve Baklagil Tablosu|
+# Yazıldı: Z|gd|tarımda dron kullanımı|Tarımda Dron Kullanımı: İlaçlama, Gözlem ve Haritalama|
+# Çıkarıldı (akilli-tarim yazısı var): Z|gd|akıllı tarım nedir|Akıllı Tarım Nedir? Sensör, Uydu ve Otomasyon|
+
+## M: Meyvecilik, bağ ve zeytin (profesyonel açı)
+M|sm|bağ bahar bakımı|Bağda Bahar Bakımı: Göz Uyanmasından Çiçeklenmeye|116-145
+M|sm|asma terbiye sistemleri|Asma Terbiye Sistemleri: Goble, Telli ve Çardak|
+M|sm|zeytin aylık bakım takvimi|Aylara Göre Zeytin Bakım Takvimi|
+M|sm|antep fıstığı bahar bakımı|Antep Fıstığında Bahar Bakımı|
+M|sm|nar bahçesi kurmak|Nar Bahçesi Kurmak: Çeşit, Mesafe ve Sulama|
+M|sm|yaban mersini bahçesi kurmak|Yaban Mersini Bahçesi Kurmak: Asidik Toprak ve Torf Hesabı|
+M|sm|pekan cevizi yetiştirme|Pekan Cevizi Yetiştirme|
+M|sm|yenidünya yetiştirme|Yenidünya (Malta Eriği) Yetiştirme|
+M|sm|feijoa yetiştirme|Feijoa (Kaymak Ağacı) Yetiştirme|
+M|sm|çarkıfelek meyvesi yetiştirme|Çarkıfelek Meyvesi (Passiflora) Yetiştirme|
+M|sm|ejder meyvesi yetiştirme|Ejder Meyvesi (Pitaya) Saksıda Yetiştirilir mi?|
+M|sm|greyfurt ağacı yetiştirme|Greyfurt Ağacı Yetiştirme|
+M|sm|limon çeşitleri|Limon Çeşitleri: Lamas, Interdonato, Mayer ve Yediveren|
+M|sm|zeytin çeşitleri|Zeytin Çeşitleri: Ayvalık, Gemlik, Memecik ve Domat|
+M|sm|kiraz çeşitleri|Kiraz Çeşitleri: Ziraat 0900 ve Diğerleri|
+M|sm|fındık çeşitleri|Fındık Çeşitleri: Tombul, Palaz, Çakıldak|
+M|sm|elma çeşitleri|Elma Çeşitleri: Amasya, Starking, Granny Smith|
+M|bi|kavak yetiştiriciliği|Kavak Yetiştiriciliği: Tarla Kenarında Odun ve Gelir|
+M|bi|paulownia yetiştirme|Paulownia Ağacı Gerçekten Çok Hızlı mı Büyür?|
+
+## N: Niş ve tıbbi-aromatik bitkiler (yeni alan)
+N|sm|saksıda tarhun|Saksıda Tarhun Yetiştirme ve Hasat|
+N|sm|safran yetiştiriciliği|Safran Yetiştiriciliği: Soğandan Hasada Rehber|
+N|sm|safran soğanı|Safran Soğanı Nereden Bulunur, Nasıl Saklanır?|
+N|sm|ısırgan yetiştirme|Isırgan Otu Bahçede Yetiştirilir mi?|
+N|sm|yağ gülü yetiştirme|Yağ Gülü (Isparta Gülü) Yetiştirme|
+N|sm|kekik tarımı|Kekik Tarımı: Tarla Kurulumu ve Hasat|
+N|sm|moringa yetiştirme|Moringa Ağacı Saksıda Yetiştirilir mi?|
+N|sm|kapari yetiştirme|Kapari Yetiştirme: Kayalık ve Kurak Alanların Bitkisi|
+N|sm|sumak yetiştirme|Sumak Yetiştirme|
+N|sm|chia yetiştirme|Chia Yetiştirme: Evde Mümkün mü?|
+N|sm|amarant yetiştirme|Amarant (Horoz İbiği Tahılı) Yetiştirme|
+N|sm|mahlep yetiştirme|Mahlep Ağacı Yetiştirme|
+
+## Y: Topraksız tarım, mantar ve kentsel tarım (yeni alan)
+Y|tr|ph metre kullanımı|pH Metre ile Toprak ve Su Ölçümü|
+
+## W: Yerli çeşitler ve ata tohumu (yeni alan)
+W|sm|yamula patlıcanı|Yamula Patlıcanı: Kayseri'nin Yerli Çeşidi ve Yetiştirilmesi|
+W|sm|ayaş domatesi|Ayaş Domatesi: Ata Tohumu Özellikleri ve Yetiştirme|
+W|sm|marmande domates|Marmande Domates Çeşidi: Dilimli İri Domates|
+W|sm|yerli fasulye çeşitleri|Yerli Fasulye Çeşitleri: Oturak ve Sırık Farkı|
+W|sm|yerli kabak çeşitleri|Yerli Kabak Çeşitleri ve Tohum Saklama|
+W|sm|açık tozlanan tohum|Açık Tozlanan Tohum Nedir? Ata Tohumu ve Hibritle Farkı|
+W|sm|biber tohumu saklama|Biber ve Patlıcan Tohumu Nasıl Saklanır?|
+W|sm|kavun çeşitleri|Kavun Çeşitleri: Kırkağaç, Hasanbey ve Ananas Kavunu|
+W|sm|karpuz çeşitleri|Karpuz Çeşitleri ve Bölgelere Uygunluk|
+W|sm|isot biberi yetiştirme|İsot Biberi Yetiştirme: Urfa Biberinin Bahçesi|
+W|sm|nane çeşitleri|Nane Çeşitleri: Bahçe, Limon ve Çikolata Nanesi|
+W|sm|fesleğen çeşitleri|Fesleğen Çeşitleri: Mor, Tarçınlı, Limonlu ve Yeşil|
+W|sm|çilek çeşitleri|Çilek Çeşitleri: Albion, Sabrina ve Yediveren|
+W|sm|kayısı çeşitleri|Kayısı Çeşitleri: Hacıhaliloğlu ve Diğerleri|
+W|sm|nar çeşitleri|Nar Çeşitleri: Hicaz, Ekşi ve Tatlı Narlar|
+W|sm|incir çeşitleri|İncir Çeşitleri: Sarılop, Bursa Siyahı ve Göklop|
+W|sm|ceviz çeşitleri|Ceviz Çeşitleri: Chandler, Kaman ve Yerli Tipler|
+W|sm|badem çeşitleri|Badem Çeşitleri: Geç Çiçeklenenler Neden Önemli?|
+W|sm|armut çeşitleri|Armut Çeşitleri: Deveci, Santa Maria, Ankara|
+W|sm|şeftali çeşitleri|Şeftali Çeşitleri: Erkenci, Geççi ve Nektarin|
+W|ci|lavanta çeşitleri|Lavanta Çeşitleri: İngiliz, Fransız ve Lavandin Farkı|
+
+## C: Çiftçi rehberi (yeni alan; süreç anlatımı, tarih ve tutar yok)
+C|gd|çks kaydı nasıl yapılır|ÇKS Kaydı Nedir, Nasıl Yapılır? Çiftçi Kayıt Sistemi Rehberi|
+C|gd|genç çiftçi programı|Genç Çiftçi Destekleri: Başvuru Öncesi Hazırlık Listesi|
+# Yazıldı: C|gd|tarım kooperatifi|Tarım Kooperatifleri: Küçük Üretici İçin Ortak Güç|
+C|gd|üretici birliği|Üretici Birlikleri Ne İşe Yarar?|
+C|gd|tarımsal kredi|Tarımsal Kredi Kullanmadan Önce Hesaplanması Gerekenler|
+C|gd|çiftçi belgesi|Çiftçi Belgesi Nasıl Alınır, Nerelerde Kullanılır?|
+C|gd|tarım danışmanı|Tarım Danışmanı (Ziraat Mühendisi) Desteği Nasıl Alınır?|
+# Yazıldı: C|gd|sözleşmeli üretim|Sözleşmeli Tarım Nedir? Avantajları ve Riskleri|
+C|gd|hobi bahçesinden küçük çiftliğe|Hobi Bahçesinden Küçük Çiftliğe: İlk 3 Yıl Yol Haritası|
+C|gd|ürün satış kanalları|Küçük Üretici Ürününü Nerede Satar? Pazar, Kooperatif ve İnternet|
+C|gd|tarla alırken dikkat edilecekler|Tarla Alırken Nelere Dikkat Edilmeli? Su, Yol, Toprak ve İmar|
+# Yazıldı: C|gd|tarla kiralama|Tarla Kiralarken Sözleşmede Nelere Dikkat Edilir?|
+C|gd|köye taşınmadan önce|Köye Taşınmadan Önce: Pratik Hazırlık Listesi|
+C|gd|ziraat odası|Ziraat Odası Ne İş Yapar? Üyelik ve Hizmetler|
+C|gd|soğuk hava deposu|Tarım Ürünlerini Saklamak: Soğuk Hava Deposu Nasıl Çalışır?|
+C|gd|tarım fuarları|Türkiye'de Tarım Fuarları: Ziyaret Öncesi İpuçları|
+
+## L: Çim ve peyzaj (bahar sezonu)
+L|bi|fare kulağı çim|Fare Kulağı (Dichondra) ile Çim Alternatifi|
+L|bi|ak üçgül çim|Ak Üçgül (Süs Yoncası): Biçmesi Az Çim Alternatifi|
+L|bi|çimde sararma|Çim Neden Sararır? Bahar Sararmasının 6 Nedeni|
+L|bi|bahçe yolu bitkileri|Taş Aralarına Ekilen Yer Örtücüler|
+L|bi|su bahçesi|Küçük Su Bahçesi: Leğende ve Fıçıda Nilüfer|130-150
+L|bi|ön bahçe düzenleme|Ön Bahçe Düzenleme: Az Bakımlı Bitki Seçimi|
+L|bi|bahçe aydınlatma bitkiler|Gece Bahçesi: Beyaz Çiçekler ve Kokulu Bitkiler|
+L|bi|japon bahçesi|Japon Bahçesi İlkeleri: Küçük Alana Uyarlama|
+L|bi|akdeniz bahçesi tasarımı|Akdeniz Bahçesi Tasarımı: Zeytin, Lavanta ve Taş|
+L|bi|çim biçme yüksekliği|Çim Kaç Santim Biçilmeli? Mevsime Göre Biçme Yüksekliği|
+L|bi|süs otları|Süs Otları: Bahçede Hareket ve Doku|
+L|bi|çim gübreleme takvimi|Yıl Boyu Çim Gübreleme Takvimi|
+
+## E: Sulama ve ekipman (yeni alan)
+E|bi|damla sulama hesabı|Damla Sulama Hesabı: Damlatıcı Debisi ve Süre|
+E|bi|damla sulama tıkanması|Damla Sulama Neden Tıkanır? Filtre ve Temizlik|
+E|bi|sulama zaman ayarlayıcı|Sulama Saati (Zamanlayıcı) Nasıl Kurulur?|
+E|bi|yağmurlama başlığı seçimi|Bahçe Yağmurlama Başlıkları: Döner ve Sabit Tip|
+# Yazıldı: E|bi|toprak nem ölçer|Toprak Nem Ölçer Nasıl Kullanılır?|
+E|bi|el çapası|El Çapası mı Motorlu Çapa mı? Bahçe Büyüklüğüne Göre Seçim|
+E|bi|sulama suyu kalitesi|Kuyu Suyuyla Sulama: Tuz ve Kireç Kontrolü|
+E|bi|çim biçme makinesi bakımı|Çim Biçme Makinesi Bakımı ve Bıçak Bileme|
+E|bi|dal öğütme makinesi|Dal Öğütme Makinesi ile Budama Artıklarını Malça Çevirmek|
+E|bi|su deposuyla sulama|Su Deposu ile Damla Sulama: Şebeke Suyu Olmayan Bahçe|
+E|bi|güneş enerjili su pompası|Güneş Enerjili Su Pompası: Bahçe ve Tarla Sulaması|
+E|bi|pe boru bağlantı parçaları|Sulama Borusu Bağlantı Parçaları: Dirsek, Te ve Vana|
+E|bi|ilaçlama pompası basınç düşmesi|İlaçlama Pompası Basınç Yapmıyor: Arıza ve Çözümleri|
+E|bi|pompayla sıvı gübre uygulaması|İlaçlama Pompasıyla Sıvı Gübre Uygulaması|
+
+## D: Doğa dostu bahçe ve sürdürülebilirlik (yeni alan)
+D|bi|orman bahçesi|Orman Bahçesi (Yenilebilir Orman) Nasıl Kurulur?|
+D|bi|kirpi dostu bahçe|Kirpi Dostu Bahçe: Zararlılarla Doğal Mücadele|
+D|bi|yağmur bahçesi|Yağmur Bahçesi: Su Birikintisini Bahçeye Kazandırmak|
+D|bi|yarasa kutusu|Yarasa Kutusu: Bahçede Doğal Sivrisinek Kontrolü|
+D|bi|yabani arılar|Yabani Arılar ve Tozlaşma: Bal Arısı Dışındaki Yardımcılar|
+D|bi|bahçe havuzu kurbağa|Bahçe Havuzunda Kurbağa: Doğal Denge|
+D|bi|biyoçeşitlilik bahçe|Bahçede Biyoçeşitlilik: Tek Tip Bitkiden Uzaklaşmak|
+
+## O: Çocuk, okul ve hobi hayvanları (yeni alan)
+O|bi|okul bahçesi|Okul Bahçesi Kurmak: Öğretmenler İçin Adım Adım Plan|
+O|bi|tavuklar bahçeye zarar verir mi|Tavuklar Bahçeye Zarar Verir mi? Sebze Bahçesiyle Birlikte Yaşam|
+O|bi|tavuklar için solucan üretimi|Tavuklar İçin Solucan Üretimi: Evde Kırmızı Solucan Kutusu|
+O|bi|kümes altlığı kompost|Kümes Altlığından Kompost Yapmak|
+O|bi|tavşan gübresi|Tavşan Gübresi Bitkiye Nasıl Verilir?|
+O|bi|evcil hayvan ve gübre güvenliği|Bahçe Gübreleri ve Evcil Hayvanlar: Güvenli Kullanım|
+O|bi|bıldırcın yetiştirme|Hobi Bıldırcın Yetiştirme|
+O|bi|ördek ve kaz yetiştirme|Bahçede Ördek ve Kaz Yetiştirme|
+O|bi|tavuklar için yeşil yem|Tavuklar İçin Yeşil Yem Bitkileri: Bahçeden Kümese|
+
+## I: Hasat sonrası ve mutfak bahçesi (yeni alan)
+I|sm|domates kurutma|Güneşte ve Fırında Domates Kurutma|
+I|sm|biber kurutma|Biber Kurutma: Dizi ve Pul Biber Hazırlığı|
+I|sm|salçalık domates yetiştirme|Salçalık Domates Yetiştirme: Verim ve Çeşit Seçimi|
+I|sm|turşuluk sebze yetiştirme|Turşuluk Sebze Bahçesi: Hıyar, Lahana ve Biber|
+I|sm|yeşillik saklama|Maydanoz, Dereotu ve Nane Nasıl Saklanır?|
+I|sm|hasat zamanı nasıl anlaşılır|Sebze Hasat Zamanı Nasıl Anlaşılır? Domatesten Kabağa|
+I|sm|meyve kurutma|Evde Meyve Kurutma: Elma, Kayısı ve Erik|
+I|sm|ceviz hasadı|Ceviz Hasadı, Yeşil Kabuk Soyma ve Kurutma|
+I|sm|kuru fasulye hasadı|Kuru Fasulye Hasadı ve Saklama|
+I|sm|sarımsak örme|Sarımsak Hasadı ve Örgü Yaparak Saklama|
+I|sm|tohum kurutma|Bahçeden Toplanan Tohumlar Nasıl Kurutulur?|
+I|sm|salatalık acılığı|Salatalık Neden Acı Olur?|
+I|sm|biber acılığı|Biber Neden Acı Olur? Acılığı Etkileyen Etkenler|
+I|sm|kabak çiçeği hasadı|Kabak Çiçeği Hasadı: Erkek ve Dişi Çiçek Farkı|
+
+## Gün dağılımı (günde 5–7 yazı; ay-ay yazıları ayrıca sayılır; yazım sırasında aynı hafta içinde yer değiştirilebilir)
+# 116 (2027-02-18 Per, 5 + 1 ay-ay): acur yetiştirme · yaban turpu yetiştirme · mantar kompostu · leonardit ve kireçli toprak · organik gübre ne zaman verilir
+# 117 (2027-02-19 Cum, 6): kalem aşısı · anahtar deliği bahçe · koşnil · zz bitkisi bakımı · münavebe planı · asma terbiye sistemleri
+# 118 (2027-02-20 Cmt, 5): yonca tarlası bakımı · saksıda tarhun · ph metre kullanımı · yamula patlıcanı · çks kaydı nasıl yapılır
+# 119 (2027-02-21 Paz, 6): kabak tohumu ekimi · bağ bahar bakımı · fare kulağı çim · damla sulama hesabı · orman bahçesi · okul bahçesi
+# 120 (2027-02-22 Pzt, 7): mart ayında bahçede yapılacaklar · karpuz tohumu ekimi · aşılı fide nedir · domates kurutma · evde toprak testi · leonardit dekara ne kadar · külleme belirtileri
+# 121 (2027-02-23 Sal, 7): mart ayında balkonda yapılacaklar · kavun tohumu ekimi · limon fidanı dikimi · kauçuk çoğaltma · anız ve sap değerlendirme · zeytin aylık bakım takvimi · safran yetiştiriciliği
+# 122 (2027-02-24 Çar, 6): siyah kabak yetiştirme · ayaş domatesi · genç çiftçi programı · ak üçgül çim · damla sulama tıkanması · kirpi dostu bahçe
+# 123 (2027-02-25 Per, 6): serada salatalık yetiştirme · tavuklar bahçeye zarar verir mi · biber kurutma · kireç çözücü toprak · torf ph değeri · tuzak bitkiler
+# 124 (2027-02-26 Cum, 7): 8 mart bitki hediyesi · serada biber yetiştirme · yılan bitkisi çoğaltma · tarla sulama yöntemleri · antep fıstığı bahar bakımı · safran soğanı · marmande domates
+# 125 (2027-02-27 Cmt, 6): çiçek toprağı yenileme · surfinya bakımı · üretici birliği · çimde sararma · sulama zaman ayarlayıcı · yağmur bahçesi
+# 126 (2027-02-28 Paz, 6): saksı gülü gübreleme · balkon çiçek kombinasyonu · tavuklar için solucan üretimi · salçalık domates yetiştirme · yeni evin bahçe toprağı · ithal torf
+# 127 (2027-03-01 Pzt, 6): nohut ekimi bahar · zararlı tuzakları · fiddle leaf fig bakımı · çavdar yetiştirme · nar bahçesi kurmak · ısırgan yetiştirme
+# 128 (2027-03-02 Sal, 6): lilyum yetiştirme · yerli fasulye çeşitleri · tarımsal kredi · bahçe yolu bitkileri · yağmurlama başlığı seçimi · yarasa kutusu
+# 129 (2027-03-03 Çar, 7): karadeniz bahar bahçesi · çime solucan gübresi · kümes altlığı kompost · turşuluk sebze yetiştirme · kum mil kil oranı · mezar toprağı · alocasia bakımı
+# 130 (2027-03-04 Per, 7): bahar temizliği bahçe · fide dikim zamanı · susam yetiştirme · yaban mersini bahçesi kurmak · yağ gülü yetiştirme · yerli kabak çeşitleri · çiftçi belgesi
+# 131 (2027-03-05 Cum, 7): akdeniz mart ekimi · geç don meyve ağacı · ön bahçe düzenleme · el çapası · yabani arılar · tavşan gübresi · yeşillik saklama
+# 132 (2027-03-06 Cmt, 5): bahçe toprağı ph düşürme · bahçe kenar bordürü · ortanca rengi değiştirme · pamuk ekimi · pekan cevizi yetiştirme
+# 133 (2027-03-07 Paz, 5): kekik tarımı · açık tozlanan tohum · tarım danışmanı · bahçe aydınlatma bitkiler · sulama suyu kalitesi
+# 134 (2027-03-08 Pzt, 6 + 1 ay-ay): çiçek dökümü bahar · bahçe havuzu kurbağa · evcil hayvan ve gübre güvenliği · hasat zamanı nasıl anlaşılır · hidroponik kule · bahar soğanlıları saksıda
+# 135 (2027-03-09 Sal, 7): renkli mısır yetiştirme · bitkiyi dışarı çıkarma zamanı · çeltik yetiştiriciliği · yenidünya yetiştirme · moringa yetiştirme · biber tohumu saklama · hobi bahçesinden küçük çiftliğe
+# 136 (2027-03-10 Çar, 6 + 1 ay-ay): güneş alıştırma · japon bahçesi · çim biçme makinesi bakımı · biyoçeşitlilik bahçe · bıldırcın yetiştirme · meyve kurutma
+# 137 (2027-03-11 Per, 5): dalya yumrusu dikimi · sırt pompası seçimi · sorgum yetiştirme · feijoa yetiştirme · kapari yetiştirme
+# 138 (2027-03-12 Cum, 5 + 1 ay-ay): kavun çeşitleri · ürün satış kanalları · akdeniz bahçesi tasarımı · dal öğütme makinesi · ördek ve kaz yetiştirme
+# 139 (2027-03-13 Cmt, 6): nisan ayında ne ekilir · ceviz hasadı · şarjlı ilaçlama pompası kaç saat çalışır · fittonia bakımı · soya fasulyesi yetiştirme · çarkıfelek meyvesi yetiştirme
+# 140 (2027-03-14 Paz, 6): nevruz ve bahar · sumak yetiştirme · karpuz çeşitleri · tarla alırken dikkat edilecekler · çim biçme yüksekliği · su deposuyla sulama
+# 141 (2027-03-15 Pzt, 6 + 1 ay-ay): nisan ayında hangi çiçekler ekilir · tavuklar için yeşil yem · kuru fasulye hasadı · basınçlı pompa nasıl kullanılır · inci çiçeği bakımı · anason yetiştirme
+# 142 (2027-03-16 Sal, 6): gladiol soğanı dikimi · ejder meyvesi yetiştirme · chia yetiştirme · isot biberi yetiştirme · köye taşınmadan önce · süs otları
+# 143 (2027-03-17 Çar, 6): silajlık mısır · güneş enerjili su pompası · sarımsak örme · ilaçlama pompası memesi · kimyon yetiştirme · greyfurt ağacı yetiştirme
+# 144 (2027-03-18 Per, 7): dünya su günü ve bahçe · su bahçesi · amarant yetiştirme · nane çeşitleri · ziraat odası · çim gübreleme takvimi · pe boru bağlantı parçaları
+# 145 (2027-03-19 Cum, 7): nisan ayında bahçede yapılacaklar · şeker pancarı yetiştirme · tohum kurutma · ilaçlama pompası tetik değişimi · keten yetiştirme · limon çeşitleri · mahlep yetiştirme
+# 146 (2027-03-20 Cmt, 6): aşı tutmama nedenleri · fesleğen çeşitleri · soğuk hava deposu · ilaçlama pompası basınç düşmesi · salatalık acılığı · ilaçlama pompası kalibrasyonu
+# 147 (2027-03-21 Paz, 4 + 1 ay-ay): şerbetçiotu yetiştirme · zeytin çeşitleri · çilek çeşitleri · tarım fuarları
+# 148 (2027-03-22 Pzt, 6): meyve ağacı çiçek dönemi bakımı · pompayla sıvı gübre uygulaması · biber acılığı · esnek hortum · dekara tohum miktarı · kiraz çeşitleri
+# 149 (2027-03-23 Sal, 5): serada tozlaşma · kayısı çeşitleri · kabak çiçeği hasadı · sebze bahçesinde gölgeleme · fındık çeşitleri
+# 150 (2027-03-24 Çar, 7): orman haftası fidan · domates fidesine solucan gübresi · nar çeşitleri · tıbbi bitkilere organik gübre · elma çeşitleri · incir çeşitleri · kavak yetiştiriciliği
+# 151 (2027-03-25 Per, 6 + 1 ay-ay): ceviz çeşitleri · paulownia yetiştirme · badem çeşitleri · armut çeşitleri · şeftali çeşitleri · lavanta çeşitleri

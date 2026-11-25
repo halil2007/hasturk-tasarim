@@ -1,0 +1,30 @@
+name: Sayfa durumu
+
+# Verilen site sayfalarının yayında olup olmadığını (HTTP kodu, sepete ekle / tükendi) kontrol eder; hiçbir şeyi değiştirmez.
+on:
+  workflow_dispatch:
+    inputs:
+      adresler:
+        description: 'Virgüllü adresler (tam URL ya da hasturkgubre.com.tr altındaki yol)'
+        default: ''
+  push:
+    branches: ['claude/**']
+    paths: ['veri/sayfa-durum.txt']
+
+permissions:
+  contents: read
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          if [ -z "$ADRESLER" ]; then ADRESLER=$(grep -v '^#' veri/sayfa-durum.txt | tr '\n' ',' ); fi
+          ADRESLER="$ADRESLER" node scripts/sayfa-durum.mjs
+        env:
+          ADRESLER: ${{ github.event.inputs.adresler }}

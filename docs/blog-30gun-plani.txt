@@ -1,0 +1,421 @@
+# HasTürk Blog: 30 günlük ek yazı planı (25 Aralık 2026 – 23 Ocak 2027, günde 10 yazı = 300 yazı)
+# 60 günlük planın (docs/blog-60gun-plani.txt) devamı. Gün numarası o planla aynı sayılır: 61 = 25 Aralık, 68 = 1 Ocak, 90 = 23 Ocak.
+# Biçim: aile | kategori | odak kelime | çalışma başlığı | gün aralığı (boşsa serbest)
+# Kurallar (60 günlük planla aynı):
+# - Aynı odak iki kez yok; sitedeki 109 yazı, 11 paketteki 550 yazı, 12. paket (aşağıda) ve mağaza blogundaki 116 yazıyla
+#   aynı açı yok (scripts/blog-plan-kontrol.mjs ile denetlenir).
+# - Her yazı panel SEO puanı 100; özgün, okunaklı, gerçek soruya cevap veren içerik; "Kısaca" özeti ve SSS ile yapay zekâ
+#   aramalarında alıntılanabilir yapı.
+# - Bilgi yalnız doğrulanmış kaynaktan; ürün iddiası yalnız ürün açıklamasından. Hastalık ve zararlı yazılarında ilaç adı/dozu yok
+#   (tarım il/ilçe müdürlüğü ve ziraat mühendisine yönlendirilir). Ev haşeresi ürünleri yazılara girmez.
+# - Kapakta ürün ambalajı yok, tanınabilir kişi yok, yazı yok; hiçbir görsel iki yazıda kullanılmaz.
+# - Ürün kartları elle seçilir, yalnız stoktaki ve konuyla doğrudan ilgili ürünler.
+# Kategori: bb bitki-bakimi · ci cicekler · tr toprak-rehberi · gu gubreleme · sm sebze-meyve · bi bahce-ipuclari · et ekim-takvimi · gd gundem
+
+## 0: 12. paket (60 günlük planın 56–60. günleri, 20–24 Aralık) — 60 günlük plandan yazılmamış ve tekrar etmeyen konular
+## Bu bölüm 30 günlük planın parçası değildir; iki listenin çakışmadığını göstermek için burada durur.
+0|bb|sukulent neden çürür|Sukulent Neden Çürür? Kök ve Gövde Çürüklüğü|
+0|bi|çil hastalığı|Çil Hastalığı (Coryneum): Sert Çekirdeklilerde Delik Yaprak|
+0|bi|ağaçlarda kabuk böceği|Ağaçlarda Kabuk Böceği: Gövdedeki Küçük Delikler|
+0|sm|çiçek burnu çürüklüğü|Domateste Çiçek Burnu Çürüklüğü: Kalsiyum mu, Su mu?|
+0|bi|bitkilerde güneş yanığı|Bitkilerde Güneş Yanığı: Yapraktaki Beyaz ve Kahverengi Lekeler|
+0|sm|domates yaprak kıvrılması|Domates Yaprağı Neden Kıvrılır?|
+0|ci|orkide yaprakları neden sararır|Orkide Yaprakları Neden Sararır?|
+0|bb|monstera kök çürümesi|Monstera Kök Çürümesi: Kurtarma Adımları|
+0|tr|podima taşı|Podima Taşı ile Saksı Üstü Süsleme ve Malç|
+0|et|ocak ayında bahçe işleri|Ocak Ayında Bahçede Yapılacaklar|56-60
+0|gu|kabak gübreleme|Kabak Gübreleme|
+0|gu|mısır gübreleme|Mısır Gübreleme|
+0|gu|ayçiçeği gübreleme|Ayçiçeği Gübreleme|
+0|gu|fasulye gübreleme|Fasulye Gübreleme|
+0|gu|karpuz gübreleme|Karpuz Gübreleme|
+0|gu|kavun gübreleme|Kavun Gübreleme|
+0|gu|muz gübreleme|Muz Gübreleme|
+0|gu|lavanta gübreleme|Lavanta Gübreleme: Az Besin, Çok Koku|
+0|gu|muz kabuğu gübresi|Muz Kabuğu Gübresi Gerçekten İşe Yarar mı?|
+0|gu|amino asit gübresi|Amino Asitli Gübreler Ne İşe Yarar?|
+0|bi|meyve dökümü|Meyve Dökümü Neden Olur?|
+0|bi|bahçeye uygun süs ağaçları|Bahçeye Uygun Süs Ağaçları|
+0|sm|evde fide yetiştirme|Evde Fide Nasıl Yetiştirilir?|
+0|sm|fide neden boylanır|Fide Neden Boylanır? İnce Uzun Fideye Çözüm|
+0|sm|fide sertleştirme|Fide Sertleştirme Nasıl Yapılır?|
+0|sm|patlıcan fidesi yetiştirme|Patlıcan Fidesi Yetiştirme|
+0|sm|fide sulama|Fide Nasıl Sulanır?|
+0|bi|bahçe planlaması|Kışın Bahçe Planlaması: Gelecek Yıla Hazırlık|56-60
+0|bi|kış bahçesi|Kış Bahçesi Nasıl Yapılır?|
+0|bi|bahçe kenar düzenleme|Bahçe Kenar Düzenleme ve Kenar Çiti|
+0|bi|kelebek bahçesi|Kelebek Çeken Bitkiler|
+0|bi|bahçede gölgelik|Bahçede Doğal Gölge: Sarmaşıklar ve Pergole Bitkileri|
+0|tr|bahçe toprağına kum karıştırmak|Bahçe Toprağına Kum Karıştırmak Doğru mu?|
+0|bi|bahçe sulama saatleri|Bahçe Ne Zaman Sulanır? Sabah mı Akşam mı?|
+0|bi|bahçede zehirli bitkiler|Bahçede Zehirli Bitkiler: Çocuk ve Hayvan Güvenliği|
+0|bb|ev bitkisi seçimi|İlk Ev Bitkisi Nasıl Seçilir?|
+0|bb|monstera çoğaltma|Monstera Çoğaltma: Boğumdan Çelik|
+0|bb|pothos çoğaltma|Pothos Suda Nasıl Köklendirilir?|
+0|ci|orkide keiki|Orkide Keiki (Yavru) Nasıl Ayrılır?|
+0|bb|aloe vera çoğaltma|Aloe Vera Yavruları Nasıl Ayrılır?|
+0|sm|barbunya yetiştirme|Barbunya Yetiştirme|
+0|sm|patlıcan çeşitleri|Yerli Patlıcan Çeşitleri: Topak, Koçaş, Aydın Siyahı|
+0|bi|kış serası|Kış Serası: Isıtma, Havalandırma ve Nem Dengesi|
+0|gu|genel sıvı bitki besini|Genel Kullanım Sıvı Bitki Besini Nasıl Seçilir?|
+0|bb|mantar önleyici sprey|Bitkilerde Mantar Önleyici Sprey Ne Zaman Kullanılır?|
+0|bb|limon bakım seti|Saksı Limonu İçin Bakım Seti: Toprak ve Besin|
+0|bb|yaprak bakım spreyi|Yaprak Bakım Spreyi Ne İşe Yarar?|
+0|bi|hobi bahçesi|Hobi Bahçesi Nasıl Kurulur?|
+0|sm|tahıllarda kardeşlenme|Tahıllarda Ekim Sıklığı ve Kardeşlenme|
+0|sm|tarlada yabancı ot|Tarlada Yabancı Ot Yönetimi|
+
+## P: Kış budaması (ağaca göre)
+P|bi|armut budama|Armut Ağacı Budama: Zamanı ve Adım Adım Kesim|61-80
+P|bi|erik budama|Erik Ağacı Budama: Kışın Ne Kadar Kesilir?|61-80
+P|bi|nar budama|Nar Ağacı Budama: Dip Sürgünü ve Taç Şekli|65-90
+P|bi|ayva budama|Ayva Ağacı Budama Nasıl Yapılır?|61-85
+P|bi|vişne budama|Vişne Ağacı Budama: Meyve Dalını Korumak|61-85
+P|bi|ceviz budama|Ceviz Ağacı Budanır mı? Doğru Zaman ve Yöntem|61-85
+P|bi|badem budama|Badem Ağacı Budama|61-80
+P|bi|trabzon hurması budama|Trabzon Hurması Budama: Kırılan Dallara Çözüm|61-90
+P|bi|dut budama|Dut Ağacı Budama: Şemsiye Taç ve Gençleştirme|61-90
+P|bi|kivi budama|Kivi Budama: Kış Budamasında Hangi Kollar Kalır?|61-85
+P|bi|ahududu budama|Ahududu Budama: Yazlık ve Güzlük Çeşitler|61-90
+P|bi|böğürtlen budama|Kültür Böğürtleni Budama ve Terbiye|61-90
+P|bb|mandalina budama|Mandalina Ağacı Budama: Saksıda ve Bahçede|75-90
+P|bb|limon budama|Limon Ağacı Budama: Saksı Limonuna Şekil Verme|75-90
+P|bi|fındık budama|Fındıkta Dip Sürgünü Temizliği ve Ocak Budaması|61-90
+P|bi|aronya budama|Aronya Budama: Yaşlı Dalları Yenilemek|61-90
+P|bi|frenk üzümü budama|Frenk Üzümü Budama|61-90
+P|bi|fidan şekil budaması|Genç Fidana İlk Şekil Budaması: Goble ve Lider Dal|61-85
+P|bi|su sürgünü|Su Sürgünü Nedir? Ağaçta Dikine Büyüyen Dallar|
+P|bi|aşı macunu|Budama Yarası ve Aşı Macunu: Ne Zaman Sürülür?|61-85
+P|bi|çit budama|Çit Budama Zamanı ve Sık Çit Elde Etme|
+P|ci|morsalkım budama|Morsalkım Budama: Çiçek Açtırmanın Sırrı|61-90
+P|ci|begonvil budama|Begonvil Budama: Ne Zaman, Ne Kadar?|80-90
+P|ci|yasemin budama|Yasemin Budama ve Sarılma Desteği|
+P|bi|kışın budanmaz|Kışın Budanmaması Gereken Bitkiler|61-75
+
+## F: Fide ve tohum (fide sezonuna hazırlık)
+F|sm|fide kök sarması|Viyolde Kök Sarması: Fide Ne Zaman Büyük Kaba Alınır?|
+F|sm|fide yaprağı sararması|Fide Yaprakları Neden Sararır?|
+F|et|tohumlar kaç yıl saklanır|Tohumlar Kaç Yıl Saklanır? Sebzeye Göre Tohum Ömrü|61-75
+F|et|hibrit tohum nedir|Hibrit (F1) Tohum Nedir? Ata Tohumundan Farkı|
+F|et|organik tohum|Organik Tohum Nedir, Nasıl Anlaşılır?|
+F|et|kaplı tohum|Renkli Kaplı Tohum Nedir? İlaçlı Tohum Neden Kaplanır?|
+F|et|tohum alırken dikkat|Tohum Alırken Nelere Dikkat Edilir? Paket Etiketi Okuma|68-80
+F|sm|kabak fidesi|Kabak Fidesi Yetiştirme: Ne Zaman, Hangi Kapta?|
+F|sm|salatalık fidesi|Salatalık Fidesi Yetiştirme|
+F|sm|karpuz fidesi|Karpuz ve Kavun Fidesi Yetiştirme|
+F|sm|marul fidesi|Marul Fidesi Yetiştirme: Kış Sonu Ekimleri|
+F|sm|lahana fidesi|Lahana ve Brokoli Fidesi Yetiştirme|
+F|ci|kışın ekilen çiçek tohumları|Kışın Ekilen Çiçek Tohumları: Bahara Hazır Fideler|61-90
+F|ci|sardunya tohumdan|Sardunya Tohumdan Nasıl Yetiştirilir?|
+F|et|fide ısıtma matı|Fide Isıtma Matı Gerekli mi? Toprak Sıcaklığı ve Çimlenme|61-90
+F|et|gazete kağıdından saksı|Gazete Kağıdından Fide Saksısı Yapımı|
+F|bi|meşe palamudundan fidan|Meşe Palamudundan Fidan Yetiştirme|61-80
+F|sm|çekirdekten kayısı|Çekirdekten Kayısı ve Şeftali Fidanı: Kışın Soğuklama|61-80
+F|bb|çekirdekten hurma|Hurma Çekirdeğinden Palmiye Yetiştirme|
+F|bb|çekirdekten nar|Nar Çekirdeğinden Fidan Yetiştirme|
+F|gd|tohum takası|Tohum Takası Nedir? Ata Tohumlarını Paylaşmak|
+F|sm|fide seyreltme|Seyreltme: Sık Çıkan Fideler Ne Zaman Ayıklanır?|
+F|et|fide takvimi|Fide Takvimi: Hangi Sebze Dikimden Kaç Hafta Önce Başlatılır?|75-90
+F|sm|biber çimlenmesi|Biber Tohumu Neden Geç Çimlenir? Sıcaklık ve Nem|78-90
+F|sm|domates fidesinde mor yaprak|Domates Fidesinde Mor Yaprak: Soğuk mu, Fosfor mu?|
+F|et|şişede kış ekimi|Şişede Kış Ekimi Yöntemi: Tohumu Dışarıda Soğukla Çimlendirmek|61-80
+F|bb|kaktüs tohumdan|Kaktüs Tohumdan Nasıl Yetiştirilir?|
+
+## S: Salon bitkileri, balkon ve çiçekler
+S|bb|çöl gülü bakımı|Çöl Gülü (Adenium) Bakımı|
+S|bb|kalp zinciri bakımı|Kalp Zinciri (Ceropegia) Bakımı|
+S|bb|monstera adansonii|Monstera Adansonii (Delikli Monstera) Bakımı|
+S|bb|satin pothos|Satin Pothos (Scindapsus) Bakımı|
+S|bb|stromanthe bakımı|Stromanthe Triostar Bakımı|
+S|bb|cordyline bakımı|Cordyline (Kordilin) Bakımı|
+S|bb|gasteria bakımı|Gasteria Bakımı|
+S|bb|eşek kuyruğu bakımı|Eşek Kuyruğu (Sedum morganianum) Bakımı|
+S|bb|rhipsalis bakımı|Rhipsalis (Mercan Kaktüsü) Bakımı|
+S|bb|epiphyllum bakımı|Epiphyllum (Orkide Kaktüsü) Bakımı|
+S|bb|kaktüs neden uzar|Kaktüs Neden İncelip Uzar? Işık Yetersizliği|61-80
+S|bb|sukulent renk değiştirir|Sukulent Neden Kızarır ya da Solar? Renk Değişiminin Anlamı|
+S|bb|sukulent yaprak düşürür|Sukulent Yaprakları Neden Dökülür?|
+S|ci|gerbera bakımı|Saksıda Gerbera Bakımı|
+S|ci|lantana bakımı|Lantana (Ağaç Minesi) Bakımı ve Kışlatma|
+S|ci|mandevilla bakımı|Mandevilla (Dipladenia) Bakımı|
+S|ci|orkide çeşitleri|Orkide Çeşitleri: Phalaenopsis, Dendrobium, Oncidium|
+S|ci|dendrobium bakımı|Dendrobium Orkide Bakımı ve Kış Dinlenmesi|61-90
+S|bb|ev bitkisi neden büyümüyor|Ev Bitkisi Neden Büyümüyor? Kış Durgunluğu mu, Sorun mu?|61-80
+S|bb|yapraklar yapış yapış|Bitki Yaprakları Neden Yapış Yapış Olur?|
+S|tr|saksı toprağında beyaz tabaka|Saksı Toprağında Beyaz Kabuk: Tuz mu, Küf mü?|
+S|bb|kışın yaprak döken salon bitkisi|Salon Bitkisi Kışın Neden Yaprak Döker?|61-75
+S|bb|bitki neden eğilir|Bitki Neden Tek Tarafa Eğilir? Işığa Yönelme|
+S|bb|musluk suyuyla sulama|Musluk Suyuyla Bitki Sulanır mı? Klor ve Kireç|
+S|bb|orkideye buz|Orkideye Buz Küpüyle Su Vermek Doğru mu?|
+S|gd|şans getiren bitkiler|Yeni Yılda Şans Getirdiğine İnanılan Bitkiler ve Bakımları|67-70
+S|bb|küçük ev bitkileri|Küçük Evler İçin Yer Kaplamayan Bitkiler|
+S|bb|mutfak bitkileri|Mutfakta Yetişen Bitkiler: Neme ve Isıya Dayanıklılar|
+S|bb|kuru havaya dayanıklı bitkiler|Kuru Havaya Dayanıklı Ev Bitkileri: Kaloriferli Evler İçin|61-80
+S|bb|ısıtılmayan oda bitkileri|Isıtılmayan Odada Yaşayan Bitkiler|61-80
+S|bb|salon bitkisi alırken|Salon Bitkisi Alırken Nelere Dikkat Edilir?|
+S|bb|aloe vera jeli|Aloe Vera Jeli Nasıl Çıkarılır ve Saklanır?|
+S|bb|kuruyan yaprak kesilir mi|Kuruyan Yaprak Kesilir mi? Doğru Temizlik Budaması|
+S|bb|deliksiz saksı|Deliksiz Saksıda Bitki Yetişir mi?|
+S|bb|bonsai türleri|Yeni Başlayanlar İçin Bonsai Türleri|
+S|bb|yeşil duvar|İç Mekânda Yeşil Duvar Nasıl Yapılır?|
+S|ci|kuzey balkon bitkileri|Kuzey Cephe Balkonu İçin Bitkiler|
+S|ci|rüzgarlı balkon bitkileri|Rüzgârlı Balkon İçin Dayanıklı Bitkiler|
+S|ci|glayöl yetiştirme|Glayöl Yetiştirme: Soğan Dikimi ve Kışlatma|
+S|ci|frezya yetiştirme|Frezya Yetiştirme|
+S|ci|süsen yetiştirme|Süsen (İris) Yetiştirme|
+S|ci|kana çiçeği yetiştirme|Kana Çiçeği (Canna) Yetiştirme|
+S|ci|agapantus yetiştirme|Agapantus (Afrika Zambağı) Yetiştirme|
+S|ci|kartopu çiçeği|Kartopu Çiçeği (Viburnum) Yetiştirme|
+S|ci|ateş dikeni|Ateş Dikeni (Pyracantha): Kışın Kırmızı Meyveli Çit|61-75
+S|ci|hanımeli yetiştirme|Hanımeli Yetiştirme ve Budama|
+S|ci|akasma yetiştirme|Akasma (Clematis) Yetiştirme|
+S|ci|gül çeşitleri|Gül Çeşitleri: Sarmaşık, Bodur, Çalı ve Yer Örtücü|
+S|ci|ortanca çeşitleri|Ortanca Çeşitleri: Top, Tabak, Salkım ve Meşe Yapraklı|
+S|ci|mimoza yetiştirme|Mimoza (Akasya) Yetiştirme: Kışın Açan Sarı Çiçekler|75-90
+S|ci|çiğdem yetiştirme|Çiğdem Yetiştirme: Karla Açan Çiçek|70-90
+S|ci|süs ayvası|Süs Ayvası (Japon Ayvası): Kış Sonu Çiçekleri|
+S|ci|zakkum yetiştirme|Zakkum Yetiştirme ve Güvenli Bakım|
+S|ci|sümbül sonrası bakım|Sümbül Çiçeği Bittikten Sonra Ne Yapılır?|80-90
+S|ci|soğan zorlama|Soğanlı Çiçekleri Evde Erken Açtırma (Zorlama)|61-80
+S|ci|sinerarya bakımı|Sinerarya (Cineraria) Bakımı: Kış Saksı Çiçeği|61-85
+S|ci|terlik çiçeği bakımı|Terlik Çiçeği (Kalseolarya) Bakımı|70-90
+S|ci|erika bakımı|Erika (Funda Çiçeği) Bakımı|61-80
+S|ci|yenilebilir çiçekler|Yenilebilir Çiçekler: Bahçeden Sofraya|
+
+## V: Sebze, meyve ve aromatik bitkiler
+V|sm|kuzukulağı yetiştirme|Kuzukulağı Yetiştirme|
+V|sm|ebegümeci yetiştirme|Ebegümeci Yetiştirme|
+V|sm|acı biber yetiştirme|Acı Biber Yetiştirme: Saksıda ve Bahçede|
+V|sm|cherry domates|Saksıda Cherry Domates Yetiştirme|
+V|sm|yer domatesi|Yer (Bodur) Domatesi Yetiştirme|
+V|sm|domates askılama|Domates Askılama ve Sırık Sistemi|
+V|sm|domates koltuk alma|Domateste Koltuk Alma: Ne Zaman, Nasıl?|
+V|sm|domates sulama|Domates Ne Sıklıkla ve Ne Kadar Sulanır?|
+V|sm|domates neden çatlar|Domates Meyvesi Neden Çatlar?|
+V|sm|domates neden kızarmaz|Domates Neden Kızarmaz?|
+V|sm|domates tohumu alma|Kendi Domatesinden Tohum Almak|
+V|sm|salatalık neden acı olur|Salatalık Neden Acı Olur?|
+V|sm|kabakta tozlaşma|Kabak Çiçek Açıyor Ama Meyve Tutmuyor: Tozlaşma|
+V|sm|karpuz olgunluğu|Karpuz Olgun mu? Hasat Zamanını Anlamak|
+V|sm|tohuma kaçma|Marul ve Ispanak Neden Tohuma Kaçar?|
+V|sm|çilek neden küçük kalır|Çilek Meyvesi Neden Küçük ve Şekilsiz Olur?|
+V|sm|çilek kışın|Çilek Bitkisi Kışın Nasıl Korunur?|61-80
+V|sm|orman çileği|Orman (Yaban) Çileği Yetiştirme|
+V|sm|renkli havuç|Renkli Havuç Yetiştirme: Mor, Sarı ve Beyaz Havuç|
+V|sm|patates ekimi|Patates Ekimi: Tohumluk Seçimi ve Zamanı|80-90
+V|sm|kolay sebzeler|Yeni Başlayanlar İçin En Kolay Sebzeler|
+V|sm|metrekare bahçeciliği|Metrekare Bahçeciliği: Küçük Alanda Planlı Sebze|
+V|sm|mutfak artıklarından sebze|Mutfak Artıklarından Sebze Yetiştirme: Yeşil Soğan, Marul, Kereviz|
+V|sm|elma ağacı yetiştirme|Elma Ağacı Yetiştirme: Fidandan Hasada|
+V|sm|armut ağacı yetiştirme|Armut Ağacı Yetiştirme|
+V|sm|kiraz ağacı yetiştirme|Kiraz Ağacı Yetiştirme ve Tozlayıcı Çeşit|
+V|sm|vişne ağacı yetiştirme|Vişne Ağacı Yetiştirme|
+V|sm|erik ağacı yetiştirme|Erik Ağacı Yetiştirme|
+V|sm|kayısı ağacı yetiştirme|Kayısı Ağacı Yetiştirme: Don Riskine Karşı Yer Seçimi|
+V|sm|şeftali ağacı yetiştirme|Şeftali Ağacı Yetiştirme|
+V|sm|portakal ağacı|Portakal Ağacı Bakımı: Saksıda ve Bahçede|
+V|sm|misket limonu|Misket Limonu (Lime) Yetiştirme|
+V|sm|turunç ağacı|Turunç Ağacı Yetiştirme|
+V|sm|fındık yetiştirme|Fındık Yetiştirme: Ocak Sistemi ve Dikim|
+V|sm|antep fıstığı yetiştirme|Antep Fıstığı Yetiştirme|
+V|sm|fejoa yetiştirme|Fejoa (Kaymak Ağacı) Yetiştirme|
+V|sm|kültür mantarı|Evde Kültür Mantarı Yetiştirme|
+V|sm|evde filiz çimlendirme|Kavanozda Filiz Çimlendirme: Mercimek, Nohut, Maş Fasulyesi|61-90
+V|sm|buğday çimi|Buğday Çimi Yetiştirme|
+V|sm|kratky yöntemi|Kratky Yöntemi: Evde Pompasız Hidroponik Marul|
+V|sm|çörekotu yetiştirme|Çörekotu Yetiştirme|
+V|sm|limon otu yetiştirme|Limon Otu (Lemongrass) Yetiştirme|
+V|sm|mercanköşk yetiştirme|Mercanköşk Yetiştirme|
+V|sm|sofralık üzüm çeşitleri|Sofralık Üzüm Çeşitleri: Bahçe İçin Hangi Asma?|
+V|sm|su kabağı yetiştirme|Su Kabağı (Sukabağı) Yetiştirme|
+
+## G: Gübreleme
+G|gu|yaban mersini gübreleme|Yaban Mersini Gübreleme: Asidik Besin Takvimi|
+G|gu|ahududu gübreleme|Ahududu ve Böğürtlen Gübreleme|
+G|gu|monstera gübreleme|Monstera Gübreleme: Büyük Yaprak İçin Besin|
+G|gu|palmiye gübreleme|Bahçe Palmiyesi Gübreleme ve Magnezyum|
+G|gu|çit bitkisi gübreleme|Çit Bitkileri Nasıl Gübrelenir?|
+G|gu|iğne yapraklı ağaç gübreleme|Çam, Mazı ve İğne Yapraklılarda Gübreleme|
+G|gu|fidan gübreleme|Yeni Dikilen Fidan Gübrelenir mi? İlk Yıl Besleme|61-90
+G|gu|ıspanak gübreleme|Ispanak Gübreleme|
+G|gu|havuç gübreleme|Havuç Gübreleme: Çatallanmayı Önlemek|
+G|gu|pırasa gübreleme|Pırasa Gübreleme|
+G|gu|aromatik bitki gübreleme|Fesleğen, Nane ve Aromatik Bitkilerde Gübre|
+G|gu|gübreleme zamanı|Gübre Ne Zaman Atılır? Saat, Hava ve Toprak Nemi|
+G|gu|gübreden sonra sulama|Gübre Attıktan Sonra Sulamak Gerekir mi?|
+G|gu|koyun gübresi|Koyun Gübresi Nasıl Kullanılır?|
+G|gu|at gübresi|At Gübresi: Avantajları ve Olgunlaştırma|
+G|gu|güvercin gübresi|Güvercin Gübresi Kullanımı ve Dikkat Edilecekler|
+G|gu|yanmış gübre|Yanmış Gübre Nedir? Taze Gübre Neden Yakar?|
+G|gu|solucan gübresi saklama|Solucan Gübresi Nasıl Saklanır? Nem ve Raf Ömrü|
+G|gu|solucan gübresi etkisi|Solucan Gübresinin Etkisi Ne Zaman Görülür?|
+G|gu|bor eksikliği|Bitkilerde Bor Eksikliği: Çatlayan Meyve, Bozuk Uç|
+G|gu|çinko eksikliği|Bitkilerde Çinko Eksikliği: Küçük Yaprak ve Rozetleşme|
+G|gu|mangan eksikliği|Bitkilerde Mangan Eksikliği|
+G|gu|çay posası gübre|Çay Posası Gübre Olur mu?|
+G|gu|kokusuz gübre|Kokusuz Gübre Var mı? Salon Bitkisinde Gübre Seçimi|61-80
+G|gu|gübre etiketi okuma|Gübre Etiketi Nasıl Okunur? NPK, Organik Madde, Hümik|
+G|gu|bakteriyel gübre|Bakteriyel (Mikrobiyal) Gübre Nedir?|
+G|gu|kan unu gübresi|Kan Unu Gübresi: Hızlı Azot Kaynağı|
+G|gu|em mikroorganizma|EM (Etkin Mikroorganizmalar) Nedir? Bahçede Kullanımı|
+
+## T: Toprak bilgisi
+T|tr|humus nedir|Humus Nedir? Toprağın Kara Altını|
+T|tr|toprak donar mı|Toprak Donar mı? Don Derinliği ve Bitki Kökleri|61-85
+T|tr|hazır toprak seçimi|Hazır Torba Toprak Alırken Nelere Bakılır?|
+T|tr|yağmur sonrası toprak kokusu|Yağmurdan Sonra Toprak Neden Güzel Kokar?|
+T|tr|toprakta beyaz ağ|Toprakta Beyaz Ağ ve İplikler: Faydalı Mantar mı?|
+T|tr|saksı toprağında yosun|Saksı Toprağında Yeşil Yosun: Zararlı mı?|
+T|tr|dolomit nedir|Dolomit Nedir? Asidik Toprağa Kireç ve Magnezyum|
+T|tr|asidik toprak düzeltme|Asidik Toprak Nasıl Düzeltilir? pH Yükseltme|
+T|tr|pomza taşı|Pomza Taşı Nedir? Saksıda ve Bahçede Kullanımı|
+T|tr|akadama nedir|Akadama Nedir? Bonsai Toprağı Bileşenleri|
+T|tr|kompost ne zaman hazır|Kompost Ne Zaman Hazır Olur? Olgunluk Testi|
+T|tr|kışın kompost|Kışın Kompost Yığını Donarsa Ne Olur?|61-80
+T|tr|evde solucan kutusu|Evde Solucan Kutusu Kurmak|
+T|tr|toprak analizi sonuçları|Toprak Analizi Sonuçları Nasıl Okunur?|
+T|tr|ec nedir|EC Nedir? Toprak ve Sulama Suyunda Tuzluluk Ölçümü|
+T|tr|funda toprağı|Funda Toprağı Nedir? Asit Seven Bitkiler İçin|
+T|tr|çam kabuğu|Çam Kabuğu: Orkide Ortamı ve Malç Olarak Kullanımı|
+T|tr|bahçeye kaç metreküp toprak|Bahçeye Kaç Metreküp Toprak Gerekir? Hesaplama|
+T|tr|cocopeat yıkama|Cocopeat Neden Yıkanır? Tuz ve EC Sorunu|
+T|tr|torf mu cocopeat mi|Torf mu Cocopeat mi? Saksı İçin Karşılaştırma|
+T|tr|leonardit ve hümik asit farkı|Leonardit ile Hümik Asit Arasındaki Fark|
+T|tr|kum mu perlit mi|Saksıya Kum mu Perlit mi Katılmalı?|
+T|tr|aktif kömür saksı|Saksı Toprağına Aktif Kömür Katılır mı?|
+T|tr|jips nedir|Jips (Alçı Taşı) Toprakta Ne İşe Yarar?|
+
+## H: Hastalık, zararlı ve doğal mücadele
+H|bi|çam kese böceği|Çam Kese Böceği: Kışın Keseler Nasıl Toplanır?|61-85
+H|sm|akdeniz meyve sineği|Akdeniz Meyve Sineği: Narenciye ve Şeftalide Önlem|
+H|bi|armut psillidi|Armut Psillidi (Armut Yaprak Piresi)|
+H|bi|dal kanseri|Ağaçlarda Dal Kanseri: Kabuktaki Çökük Yaralar|
+H|bi|ağaç gövdesinde yosun|Ağaç Gövdesinde Yosun ve Liken: Zararlı mı?|61-85
+H|bi|kış yanığı|İğne Yapraklılarda Kış Yanığı: Kahverengileşen Uçlar|61-80
+H|bi|kırmızı palmiye böceği|Kırmızı Palmiye Böceği: Belirtiler ve Bildirme|
+H|bi|kestane gal arısı|Kestane Gal Arısı|
+H|bi|kahverengi kokarca|Kahverengi Kokarca: Fındık ve Meyve Bahçelerinde Yeni Tehdit|
+H|sm|patates böceği|Patates Böceği (Kolorado Böceği)|
+H|sm|domates yaprak küfü|Domates Yaprak Küfü: Serada Kadife Lekeler|
+H|bi|uğur böceği faydaları|Uğur Böceği: Bahçenin Doğal Yaprak Biti Avcısı|
+H|bi|faydalı böcekler|Bahçede Faydalı Böcekler: Kim Dost, Kim Düşman?|
+H|bi|sarı yapışkan tuzak|Sarı Yapışkan Tuzak Nasıl Kullanılır?|
+H|bi|feromon tuzağı|Feromon Tuzağı Nedir? Meyve Bahçesinde Kullanımı|
+H|bi|sirke ile ot öldürmek|Sirke ile Yabani Ot Öldürmek Doğru mu?|
+H|bb|aspirin suyu bitkiye|Aspirin Suyu Bitkiye Faydalı mı?|
+H|bb|bitkiye şekerli su|Bitkiye Şekerli Su Verilir mi?|
+
+## K: Ağaç ve fidan
+K|bi|fidan seçimi|Sağlıklı Fidan Nasıl Seçilir? Sertifikalı Fidan|61-85
+K|bi|aşılı fidan|Aşılı Fidan Nedir? Anaç ve Kalem Farkı|
+K|bi|fidan kaç yılda meyve verir|Fidan Kaç Yılda Meyve Verir? Türlere Göre Süre|
+K|bi|meyve ağacı tozlaşması|Meyve Ağaçlarında Tozlaşma: Tek Ağaç Meyve Verir mi?|
+K|bi|fidan kazığı|Fidana Kazık ve Bağlama Nasıl Yapılır?|
+K|bi|ağaç gövdesi koruma|Genç Ağaç Gövdesini Dondan ve Kemirgenden Koruma|61-85
+K|bi|ladin ve köknar yetiştirme|Ladin ve Köknar Yetiştirme: Bahçeye Dikim ve Bakım|63-85
+K|bi|çam fidanı dikimi|Çam Fidanı Dikimi ve Bakımı|61-85
+K|bi|okaliptüs yetiştirme|Okaliptüs Yetiştirme|
+K|bi|palmiye don koruması|Palmiyeyi Dondan Koruma|61-80
+K|bi|zeytin ağacı don|Zeytin Ağacı Dondan Nasıl Korunur?|61-80
+K|bb|limon ağacı don|Limon Ağacını Dondan Koruma: Saksıda ve Bahçede|61-80
+K|bi|kar yükü dal kırılması|Kar Yükünde Dal Kırılması: Ağaçlar Nasıl Korunur?|61-85
+K|bi|servi bakımı|Servi Ağacı Bakımı ve Sararma|
+K|bi|espalier|Duvara Yaslı Meyve Ağacı (Espalier) Yetiştirme|
+K|bi|meyve ağaçları arası mesafe|Meyve Ağaçları Arası Mesafe Ne Olmalı?|
+K|bi|çınar yetiştirme|Çınar Ağacı Yetiştirme|
+K|bi|salkım söğüt|Salkım Söğüt Yetiştirme|
+K|bi|atkestanesi|Atkestanesi Yetiştirme|
+K|bi|sedir ağacı|Sedir Ağacı Yetiştirme|
+K|bi|ginkgo yetiştirme|Ginkgo (Mabet Ağacı) Yetiştirme|
+K|bi|bahçede bambu|Bahçede Bambu Yetiştirme ve Yayılmayı Önleme|
+K|bi|dormansi|Dormansi Nedir? Bitkilerin Kış Uykusu|61-80
+K|bi|soğuklama ihtiyacı|Meyve Ağaçlarının Soğuklama İhtiyacı: Ilık Kış Verimi Düşürür mü?|61-85
+K|bi|erken çiçeklenme|Ilık Kışta Erken Çiçek Açan Ağaç: Ne Yapılmalı?|70-90
+K|bi|odun çeliği|Kışın Odun Çeliği Alma: Meyve ve Süs Bitkilerinde|61-85
+K|bi|daldırma ile çoğaltma|Daldırma ile Çoğaltma: Toprak ve Hava Daldırması|
+K|bi|bölerek çoğaltma|Çok Yıllık Bitkileri Bölerek Çoğaltma|
+
+## B: Bahçe genel
+B|bi|bahçeye kedi girmesin|Bahçeye Kedi Girmesin: Hayvana Zarar Vermeyen Yöntemler|
+B|bi|meyveleri kuşlardan koruma|Meyveleri Kuşlardan Koruma: File ve Kovucular|
+B|bi|sivrisinek kovan bitkiler|Sivrisinek Kovan Bitkiler: Gerçek mi, Efsane mi?|
+B|bi|bahçe havuzu bitkileri|Bahçe Havuzu ve Su Bitkileri|
+B|bi|kaya bahçesi|Kaya Bahçesi Nasıl Yapılır?|
+B|bi|yer örtücü bitkiler|Çim Yerine Yer Örtücü Bitkiler|
+B|bi|acemi bahçıvan hataları|Acemi Bahçıvanın En Sık Yaptığı 12 Hata|68-80
+B|gd|yeni yıl bahçe hedefleri|Yeni Yılda Bahçe İçin 10 Hedef|67-69
+B|bi|sebze bahçesi yer seçimi|Sebze Bahçesi İçin Yer Seçimi: Güneş, Su, Rüzgâr|
+B|bi|sulama sistemi kışlatma|Damla Sulama ve Sulama Sistemini Kışlatma|61-75
+B|bi|bahçe atıkları|Bahçe Atıkları: Dal, Yaprak ve Ot Nasıl Değerlendirilir?|
+B|bi|kesme çiçek bahçesi|Kesme Çiçek Bahçesi Kurmak|
+B|bi|tıbbi bitki bahçesi|Tıbbi Bitki Bahçesi Kurmak|
+B|bi|gri su ile sulama|Bulaşık ve Çamaşır Suyuyla Bitki Sulanır mı?|
+B|gd|kent bahçeciliği|Kent Bahçeciliği: Şehirde Kendi Sebzeni Yetiştirmek|
+B|bi|gölge filesi|Gölge Filesi: Seçimi ve Kullanımı|
+B|bi|donlu çime basmak|Donlu Çime Basmak Zarar Verir mi?|61-85
+B|gd|bahçe terapisi|Bahçe Terapisi: Toprakla Uğraşmanın Ruh Sağlığına Etkisi|
+B|bi|bahçede tavuk|Bahçede Tavuk: Gübre, Böcek ve Dikkat Edilecekler|
+B|bi|yükseltilmiş yatak ölçüsü|Yükseltilmiş Bahçe Yatağı Hangi Ölçüde Olmalı?|
+B|bi|bahçe aleti bakımı|Bahçe Aletlerinin Bakımı: Bileme, Temizlik ve Kışa Kaldırma|
+B|bi|fide dikme aleti|Fide Dikme Aleti Nasıl Kullanılır?|
+B|bi|agril örtü|Agril (Tülbent) Örtü Ne İşe Yarar? Dona ve Zararlıya Karşı|61-85
+
+## A: Takvim ve gündem
+A|et|2027 ekim takvimi|2027 Ekim Dikim Takvimi: Ay Ay Sebze ve Çiçek|67-70
+A|et|ay takvimine göre ekim|Ay Takvimine Göre Ekim: Gerçek Payı Ne?|
+A|gd|zemheri|Zemheri: Kışın En Soğuk Günlerinde Bahçe|61-80
+A|gd|cemre ne zaman düşer|Cemre Ne Zaman Düşer? Bahçede Baharın İlk İşaretleri|84-90
+A|et|şubat ayında bahçe işleri|Şubat Ayında Bahçede Yapılacaklar|84-90
+A|et|şubatta balkonda ne ekilir|Şubatta Balkonda Ne Ekilir?|82-90
+# Çıkarıldı (aynı niyet: blog-60gun-plani-2 "mart ayında balkonda yapılacaklar"): A|et|martta balkonda ne ekilir|Martta Balkonda Ne Ekilir?|86-90
+A|gd|karne hediyesi bitki|Karne Hediyesi Olarak Bitki: Çocuklara Uygun Seçenekler|84-89
+A|gd|iklim değişikliği ve bahçe|İklim Değişikliği ve Ev Bahçesi: Nelere Hazırlanmalı?|
+
+## Z: Tarım
+Z|sm|ayçiçeği yetiştirme|Ayçiçeği Yetiştiriciliği: Ekim ve Bakım|
+Z|sm|organik tarım sertifikası|Organik Tarım Sertifikası Nasıl Alınır?|
+Z|sm|yağmurlama sulama|Yağmurlama Sulama: Ne Zaman Uygun?|
+Z|sm|tünel sera kurulumu|Tünel Sera Nasıl Kurulur?|
+Z|sm|sera naylonu seçimi|Sera Naylonu (Örtüsü) Seçimi|
+Z|sm|akuaponik|Akuaponik Nedir? Balık ve Sebze Birlikte|
+Z|sm|küçük arazi değerlendirme|Küçük Arazide Ne Yetiştirilir? Dönüm Başına Fikirler|
+Z|sm|anız yakma|Anız Yakmanın Toprağa Zararları|
+Z|sm|nadas nedir|Nadas Nedir? Toprağı Dinlendirmek Gerekli mi?|
+Z|sm|baklagiller azot|Baklagiller Toprağa Azot Bağlar mı?|
+Z|sm|kinoa yetiştirme|Kinoa Yetiştirme: Türkiye'de Olur mu?|
+Z|sm|aspir yetiştirme|Aspir Yetiştiriciliği|
+Z|sm|korunga ekimi|Korunga Ekimi: Kıraç Arazide Yem Bitkisi|
+Z|sm|dikey tarım|Dikey Tarım Nedir? Kapalı Alanda Katlı Üretim|
+
+## Gün dağılımı (paketler 13–18; her paket 5 gün). Gün aralıkları ve günde 10 yazı kuralına göre üretildi;
+## yazım sırasında aynı gün içinde yer değiştirilebilir.
+# 61 (2026-12-25): ateş dikeni · tohumlar kaç yıl saklanır · sulama sistemi kışlatma · kışın yaprak döken salon bitkisi · kışın budanmaz · çilek kışın · kış yanığı · kışın kompost · soğan zorlama · çekirdekten kayısı
+# 62 (2026-12-26): kuru havaya dayanıklı bitkiler · zemheri · erika bakımı · şişede kış ekimi · limon ağacı don · badem budama · zeytin ağacı don · armut budama · kokusuz gübre · ısıtılmayan oda bitkileri
+# 63 (2026-12-27): erik budama · ev bitkisi neden büyümüyor · dormansi · meşe palamudundan fidan · kaktüs neden uzar · sinerarya bakımı · toprak donar mı · tohuma kaçma · iğne yapraklı ağaç gübreleme · solucan gübresi saklama
+# 64 (2026-12-28): palmiye don koruması · çam fidanı dikimi · kivi budama · şeftali ağacı yetiştirme · ortanca çeşitleri · evde filiz çimlendirme · bahçe terapisi · ec nedir · yapraklar yapış yapış · kompost ne zaman hazır
+# 65 (2026-12-29): kar yükü dal kırılması · ağaç gövdesi koruma · çam kese böceği · morsalkım budama · lahana fidesi · zakkum yetiştirme · epiphyllum bakımı · kuruyan yaprak kesilir mi · vişne ağacı yetiştirme · marul fidesi
+# 66 (2026-12-30): agril örtü · ağaç gövdesinde yosun · fidan seçimi · pomza taşı · patates böceği · kratky yöntemi · ayçiçeği yetiştirme · monstera adansonii · jips nedir · glayöl yetiştirme
+# 67 (2026-12-31): yeni yıl bahçe hedefleri · şans getiren bitkiler · 2027 ekim takvimi · aşı macunu · fidan şekil budaması · ayva budama · akdeniz meyve sineği · salatalık neden acı olur · tohum takası · sofralık üzüm çeşitleri
+# 68 (2027-01-01): acemi bahçıvan hataları · tohum alırken dikkat · donlu çime basmak · ladin ve köknar yetiştirme · çinko eksikliği · kana çiçeği yetiştirme · güvercin gübresi · hanımeli yetiştirme · satin pothos · küçük arazi değerlendirme
+# 69 (2027-01-02): soğuklama ihtiyacı · ceviz budama · odun çeliği · akadama nedir · fındık yetiştirme · rhipsalis bakımı · bitki neden eğilir · gazete kağıdından saksı · fidan gübreleme · monstera gübreleme
+# 70 (2027-01-03): vişne budama · çekirdekten nar · bonsai türleri · sebze bahçesi yer seçimi · gübreden sonra sulama · aspir yetiştirme · akuaponik · sera naylonu seçimi · yenilebilir çiçekler · deliksiz saksı
+# 71 (2027-01-04): su sürgünü · bahçeye kedi girmesin · çay posası gübre · çit bitkisi gübreleme · saksı toprağında yosun · bahçede bambu · fide yaprağı sararması · salon bitkisi alırken · kaplı tohum · orkide çeşitleri
+# 72 (2027-01-05): sedir ağacı · cocopeat yıkama · çilek neden küçük kalır · daldırma ile çoğaltma · bakteriyel gübre · salatalık fidesi · yükseltilmiş yatak ölçüsü · ahududu gübreleme · domates tohumu alma · süsen yetiştirme
+# 73 (2027-01-06): fide ısıtma matı · domates yaprak küfü · ıspanak gübreleme · akasma yetiştirme · fidan kaç yılda meyve verir · meyveleri kuşlardan koruma · buğday çimi · gübreleme zamanı · fejoa yetiştirme · fidan kazığı
+# 74 (2027-01-07): salkım söğüt · armut psillidi · aloe vera jeli · gübre etiketi okuma · karpuz olgunluğu · orkideye buz · acı biber yetiştirme · domates koltuk alma · at gübresi · aşılı fidan
+# 75 (2027-01-08): erken çiçeklenme · yeşil duvar · aromatik bitki gübreleme · toprak analizi sonuçları · fide kök sarması · domates neden kızarmaz · kent bahçeciliği · organik tarım sertifikası · aspirin suyu bitkiye · faydalı böcekler
+# 76 (2027-01-09): kum mu perlit mi · erik ağacı yetiştirme · bahçe havuzu bitkileri · ebegümeci yetiştirme · domates fidesinde mor yaprak · uğur böceği faydaları · dut budama · terlik çiçeği bakımı · çekirdekten hurma · çöl gülü bakımı
+# 77 (2027-01-10): anız yakma · domates sulama · kışın ekilen çiçek tohumları · baklagiller azot · sukulent renk değiştirir · gül çeşitleri · rüzgarlı balkon bitkileri · bahçede tavuk · solucan gübresi etkisi · feromon tuzağı
+# 78 (2027-01-11): frezya yetiştirme · kan unu gübresi · fide seyreltme · evde solucan kutusu · gölge filesi · su kabağı yetiştirme · metrekare bahçeciliği · frenk üzümü budama · humus nedir · sivrisinek kovan bitkiler
+# 79 (2027-01-12): ay takvimine göre ekim · dendrobium bakımı · nadas nedir · havuç gübreleme · servi bakımı · kartopu çiçeği · gri su ile sulama · bölerek çoğaltma · yer domatesi · yaban mersini gübreleme
+# 80 (2027-01-13): koyun gübresi · bahçe atıkları · fide takvimi · karpuz fidesi · nar budama · funda toprağı · palmiye gübreleme · kalp zinciri bakımı · agapantus yetiştirme · dal kanseri
+# 81 (2027-01-14): atkestanesi · dikey tarım · limon budama · trabzon hurması budama · leonardit ve hümik asit farkı · bor eksikliği · limon otu yetiştirme · begonvil budama · mangan eksikliği · sümbül sonrası bakım
+# 82 (2027-01-15): kuzey balkon bitkileri · sirke ile ot öldürmek · böğürtlen budama · kiraz ağacı yetiştirme · mimoza yetiştirme · stromanthe bakımı · yağmur sonrası toprak kokusu · kesme çiçek bahçesi · kabak fidesi · tünel sera kurulumu
+# 83 (2027-01-16): espalier · kaktüs tohumdan · armut ağacı yetiştirme · çiğdem yetiştirme · kırmızı palmiye böceği · mutfak artıklarından sebze · elma ağacı yetiştirme · hibrit tohum nedir · çam kabuğu · şubatta balkonda ne ekilir
+# 84 (2027-01-17): karne hediyesi bitki · fındık budama · portakal ağacı · renkli havuç · mandalina budama · dolomit nedir · kestane gal arısı · kinoa yetiştirme · cemre ne zaman düşer · çınar yetiştirme
+# 85 (2027-01-18): gasteria bakımı · torf mu cocopeat mi · gerbera bakımı · çörekotu yetiştirme · antep fıstığı yetiştirme · organik tohum · pırasa gübreleme · kuzukulağı yetiştirme · cordyline bakımı · yanmış gübre
+# 86 (2027-01-19): eşek kuyruğu bakımı · okaliptüs yetiştirme · çit budama · sarı yapışkan tuzak · kolay sebzeler · yağmurlama sulama · süs ayvası · domates neden çatlar · küçük ev bitkileri · sardunya tohumdan
+# 87 (2027-01-20): toprakta beyaz ağ · misket limonu · mandevilla bakımı · bitkiye şekerli su · mutfak bitkileri · lantana bakımı · tıbbi bitki bahçesi · ginkgo yetiştirme · kabakta tozlaşma
+# 88 (2027-01-21): aktif kömür saksı · musluk suyuyla sulama · patates ekimi · yasemin budama · cherry domates · meyve ağacı tozlaşması · asidik toprak düzeltme · sukulent yaprak düşürür · biber çimlenmesi · saksı toprağında beyaz tabaka
+# 89 (2027-01-22): iklim değişikliği ve bahçe · bahçe aleti bakımı · bahçeye kaç metreküp toprak · yer örtücü bitkiler · fide dikme aleti · hazır toprak seçimi · korunga ekimi · orman çileği · domates askılama · em mikroorganizma
+# 90 (2027-01-23): turunç ağacı · kültür mantarı · meyve ağaçları arası mesafe · ahududu budama · kaya bahçesi · şubat ayında bahçe işleri · aronya budama · mercanköşk yetiştirme · kahverengi kokarca · kayısı ağacı yetiştirme

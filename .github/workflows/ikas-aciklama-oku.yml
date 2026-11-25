@@ -1,0 +1,44 @@
+name: ikas açıklama oku
+
+# Salt okuma: seçilen ürünlerin ikas'taki ham açıklama HTML'ini iş günlüğüne yazar.
+on:
+  workflow_dispatch:
+    inputs:
+      adlar:
+        description: 'Ürün adında geçen metin (| ile birden çok)'
+        default: 'Kokulu Nane Fidesi Karışık'
+      ozet:
+        description: 'Yalnız özet (etiket, stok kodu, fiyat, stok, görsel)'
+        type: boolean
+        default: false
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/ikas-aciklama-oku.mjs', '.github/workflows/ikas-aciklama-oku.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  oku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/ikas-aciklama-oku.mjs
+        env:
+          ADLAR: ${{ github.event.inputs.adlar }}
+          OZET: ${{ github.event.inputs.ozet == 'true' && '1' || '0' }}
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - run: node scripts/ikas-aciklama-oku.mjs
+        continue-on-error: true
+        env:
+          ADLAR: ${{ github.event.inputs.adlar }}
+          OZET: ${{ github.event.inputs.ozet == 'true' && '1' || '0' }}
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

@@ -1,0 +1,27 @@
+// Cloudflare Workers: public/ klasörünü statik dosya olarak yayınlar; src/worker.js sadece /e, /trends, /ak ve /ai/durum adreslerinde çalışır.
+// Ak Bilge ayarları (isteğe bağlı, Settings → Variables): AK_DAILY_LIMIT (günlük Claude sorgu sınırı, varsayılan 150), AK_AI=off (Claude kapalı,
+// yalnız havuz), AK_MODEL (varsayılan claude-opus-5-5). Anthropic anahtarı Secret olarak: ANTHROPIC_API_KEY
+{
+  "name": "hasturk-arama",
+  "compatibility_date": "2025-09-01",
+  "main": "src/worker.js",
+  // Bilge Bey soru havuzu metin olarak paketlenir, ilk soruda çözülür (açılış süresi sınırına takılmasın; src/akbilge.js)
+  "rules": [{ "type": "Text", "globs": ["**/akbilge-havuz.json"], "fallthrough": false }],
+  "assets": {
+    "directory": "./public",
+    // Kod içinden okunur (env.ASSETS): Ak Bilge ürün listesini products.json'dan alır
+    "binding": "ASSETS"
+  },
+  // Ziyaretçi eğilimleri + Bilge Bey veritabanı: Doğu Avrupa'da (EEUR, panelden konum ipucuyla açıldı, 15 Ekim 2026).
+  // DB_ESKI: ilk veritabanı (ABD batısı, WNAM); /tasi ile verisi yeniye kopyalanır, taşıma bitince bu bağlantı kaldırılır.
+  "d1_databases": [
+    { "binding": "DB", "database_name": "hasturk-egilim-eu", "database_id": "2066b984-15b5-40bf-8718-c816821b5bdb" },
+    { "binding": "DB_ESKI", "database_name": "hasturk-egilim" }
+  ],
+  // Bilge Bey haftalık denetimi: pazartesi 04:17 UTC (07:17 TR), haftalık rapordan (08:30 TR) önce
+  "triggers": { "crons": ["17 4 * * 1"] },
+  // Olay kabul edilen site(ler)
+  "vars": {
+    "ORIGINS": "hasturkgubre.com.tr,tarim-dunyasi.com"
+  }
+}

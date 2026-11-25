@@ -1,0 +1,48 @@
+name: Bilge Bey resmî kaynaklar
+
+# Tarım ve Orman Bakanlığı ve TAGEM araştırma enstitülerinin yetiştiricilik / bakım yayınlarını (PDF ve sayfa) bulur,
+# metne çevirir ve şifreli olarak çalışma dalına kaydeder (scripts/veri-devlet.mjs). Mağazaya dokunmaz.
+on:
+  workflow_dispatch:
+    inputs:
+      siteler:
+        description: 'JSON listesi'
+        default: '["arastirma.tarimorman.gov.tr","www.tarimorman.gov.tr"]'
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/veri-devlet.mjs', '.github/workflows/veri-devlet.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        # Betik değişince (push) yalnız araştırma sitesi yeniden taranır; uzun süren bakanlık taraması tekrar başlamaz
+        site: ${{ fromJSON(inputs.siteler || '["arastirma.tarimorman.gov.tr"]') }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils >/dev/null
+      # Araştırma sitesinde gezinti bahçe / meyve / sebze / toprak enstitülerinin alt sitelerinden başlar (yanlış tahmin edilen yol 404 verip atlanır)
+      - run: |
+          EK=""
+          if [ "${{ matrix.site }}" = "arastirma.tarimorman.gov.tr" ]; then
+            EK="/yalovabahce /ataturkbahce /alata /batem /zae /meyvecilik /findik /antepfistigi /bahcekulturleri /aari /topraksu /toprakgubre /etae /ttae /gaptaem /karadeniz /tagem"
+          fi
+          node scripts/veri-devlet.mjs ${{ matrix.site }} $EK
+      - name: Dala kaydet
+        run: |
+          git config user.name "bilgi-toplama"
+          git config user.email "actions@users.noreply.github.com"
+          git add veri/ham
+          git diff --cached --quiet && exit 0
+          git commit -m "Resmî kaynak: ${{ matrix.site }} (şifreli)"
+          for i in 1 2 3 4 5; do git push && exit 0; git pull --rebase origin "${GITHUB_REF_NAME}" || exit 1; sleep $((i * 4)); done
+          exit 1

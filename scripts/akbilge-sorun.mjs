@@ -1,0 +1,505 @@
+// Ak Bilge bitki sorunları bilgisi: "yaprakları neden sarardı, niye çiçek açmıyor, toprakta sinek var" gibi sorular.
+// Her belirti için olası nedenler, nasıl anlaşılır, ne yapılmalı ve sitemizde gerçekten işe yarayacak ürünler (faydasıyla).
+// Bilgiler üniversite yayım (extension) kaynaklarından derlendi (aşağıda KAYNAK); kaynaklar müşteriye gösterilmez.
+// Kurallar: kesin teşhis yok ("olası nedenler"), ilaç dozu yok (ürün etiketine göre), ev/halk sağlığı böcek ilaçları
+// (Chrysamed insektisit, Sinpest vb.) bitkiye önerilmez, ürün faydası yalnız ürün açıklamasında yazanla sınırlı.
+// Çıktı: bilgi/sorunlar.json (akbilge-havuz.mjs okur; stokta olmayan ürün cevaptan sunucuda çıkarılır).
+import { readFile, writeFile } from 'node:fs/promises';
+
+const prods = JSON.parse(await readFile('public/products.json', 'utf8'));
+const bySlug = new Map(prods.items.map((p) => [p.s, p]));
+
+const KAYNAK = {
+  ucipm: 'UC IPM, Houseplant Problems (Pest Notes) — ipm.ucanr.edu/legacy_assets/pdf/pestnotes/pnhouseplantproblems.pdf',
+  illinois: 'University of Illinois Extension, Troubleshooting Houseplant Problems (kök rengi, yaprak ucu, tuz birikimi)',
+  isu: 'Iowa State University Extension, Yard and Garden: How to Get Orchids to Rebloom; Blossom-End Rot of Tomato',
+  clemson: 'Clemson HGIC, Flower & Fruit Problems (fazla azot, yetersiz ışık, budama zamanı)',
+  gnat: 'Oregon State Univ., Univ. of Wisconsin, Univ. of Maryland Extension: Fungus Gnats',
+  ucmg: 'UC Master Gardeners / UConn Home & Garden: Aphids, Mealybugs, Spider Mites on houseplants',
+  umd: 'University of Maryland Extension, Pesticide Profile: Horticultural Oil (sıcakta ve susuz bitkide uygulama uyarısı)',
+  narenciye: 'RHS, Citrus problems; UC Master Gardeners, citrus leaf yellowing and drop',
+  domates: 'University of Nevada Extension (blossom drop); Illinois Extension (fruit cracking); UF/IFAS, MSU, UGA (blossom end rot)',
+  usu: 'Utah State University Extension, Slugs and Snails',
+  mobot: 'Missouri Botanical Garden, Whitefly indoors',
+  ncsu: 'NC State Extension, seedling damping-off; seed starting light',
+  csu: 'Colorado State Univ. Extension, iron chlorosis (yüksek pH, yeni yapraklarda damar arası sararma)',
+};
+
+// Ürün → müşteriye söylenecek fayda (ürün açıklamasında yazanla sınırlı)
+const U = {
+  perlit: ['tarim-perliti', 'toprağı havalandırır, fazla suyun süzülmesini kolaylaştırır; kökler nefes alır'],
+  kalinPerlit: ['kalin-tarim-perliti', 'iri taneli perlit; drenajı artırır, toprağın sıkışmasını önler'],
+  kaktusT: ['kaktus-ve-sukulent-topragi', 'hızlı süzülen karışım; suyun kökte birikmesini önler'],
+  orkideT: ['gartengold-orkide-topragi', 'orkidelere özel havadar yetiştirme ortamı'],
+  cicekT: ['hg-cicek-topragi', 'saksı değişimi ve toprak yenilemede kullanılan çiçek toprağı'],
+  genelT: ['genel-saksi-topragi-ozel-karisim', 'solucan gübreli hazır saksı karışımı; yorgun toprağı yenilemek için'],
+  asitT: ['ortanca-bogurtlen-acelya-topragi', 'asidik toprak isteyen bitkiler (ortanca, açelya, yaban mersini) için özel karışım'],
+  fideT: ['fide-sasirtma-topragi', 'fide yetiştirmeye özel hazırlanmış yeni toprak'],
+  solucan: ['hasturk-kati-solucan-gubresi', '%100 organik, yavaş salınımlı besin; toprağa organik madde katar, önerilen dozda bitkiyi yakmaz'],
+  sivi: ['hasturk-sivi-solucan-gubresi', 'organik sıvı besin; sulama suyuna ya da yapraktan verilir, bitki besini hızlı alır'],
+  humix: ['hasturk-humix-sivi-humik-asit', 'kök gelişimini, besin alımını ve toprağın su tutmasını destekler'],
+  neem: ['tarm-bioleaf-protector-neem-yagi-500-ml-bocek-kovucu-sprey', 'neem yağı esaslı, kullanıma hazır sprey; ürün bilgisine göre yaprak biti, unlu bit, kabuklu bit ve beyaz sineğe karşı kovucu etkilidir'],
+  floristSinek: ['florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi', 'bitkisel bazlı sprey; ürün bilgisine göre unlu bite ve topraktan çıkan küçük sineklere karşı önleyicidir'],
+  floristMantar: ['florist-mantar-onleyici-bitki-spreyi-250-ml', 'bitkisel bazlı sprey; ürün bilgisine göre yapraktaki un serpilmiş gibi beyaz lekelere (külleme) ve orkidede sık görülen mantar sorunlarına karşı önleyicidir'],
+  subonHijyen: ['chrysamed-subon-hijyen-sprey', 'ürün bilgisine göre küllenme görülen bitkilerin bakımında ve toprak kokusunu azaltmada kullanılır'],
+  boncuk: ['chrysamed-envira-subon-akilli-su-boncuklari-400-gr', 'topraktaki nemi dengeler; aşırı ya da yetersiz sulamadan doğan su stresini azaltmaya yardımcı olur'],
+  cicekB: ['florist-cicekli-bitkiler-sivi-konsantre-bitki-besini', 'çiçekli bitkiler için hazırlanmış sıvı besin'],
+  petal: ['tarm-petal-power-cicekli-bitki-besini-sprey-500-ml', 'çiçekli bitkiler için kullanıma hazır sprey besin'],
+  yesilB: ['florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini', 'yeşil yapraklı salon bitkileri için hazırlanmış sıvı besin'],
+  orkideB: ['florist-konsantre-orkide-besini', 'orkidelere özel sıvı besin'],
+  orkideS: ['tarm-orchid-elixir-sivi-orkide-besini-sprey-500-ml', 'orkidelere özel kullanıma hazır sprey besin'],
+  kaktusB: ['florist-konsantre-sivi-kaktus-ve-sukulent-bitki-besini', 'kaktüs ve sukulentlere özel sıvı besin'],
+};
+
+const ILAC_NOT = 'Spreyleri ürün etiketindeki kullanım şekline göre uygulayın; sıcak saatlerde (30°C üstü), güneş altında ve susuz kalmış bitkiye uygulamayın, önce birkaç yaprakta deneyin.';
+
+// Soru kalıbı üreticileri: aynı belirtiyi müşterinin sorabileceği farklı biçimlerde yaz
+const qx = (bas, ekler = ['', ' neden', ' niye', ' ne yapmalıyım', ' ne yapabilirim', ' çözümü', ' ne iyi gelir', ' nasıl geçer', ' nasıl kurtulurum', ' ne kullanmalıyım', ' için ne kullanmalıyım', ' için ne kullanılır']) => ekler.map((e) => bas + e);
+
+const S = [];
+const add = (o) => S.push(o);
+
+// ---------- Genel (tüm bitkiler) ----------
+add({ key: 'yaprak-sararma', baslik: 'Yapraklarda sararma',
+  sorular: [...qx('yapraklar sararıyor'), ...qx('yaprakları sarardı'), ...qx('çiçeğimin yaprakları sararıyor'), 'yaprakları neden sararır', 'bitkimin yaprakları sararıyor', 'çiçeğimin yaprakları sarardı', 'saksı bitkisi yaprak sararması', 'yaprak sararması neden olur',
+    'alt yapraklar sararıyor', 'alt yaprakları sarardı', 'yapraklar sarı oldu', 'sararan yapraklar için ne yapmalı', 'sararan yaprak için gübre', 'yaprak sararmasına hangi gübre', 'yapraklar sararıp düşüyor', 'yapraklar sararıp dökülüyor', 'salon bitkisi yaprakları sararıyor'],
+  nedenler: ['Fazla sulama ve suyun saksıda birikmesi (en sık neden): kökler havasız kalır', 'Besin (özellikle azot) eksikliği: önce yaşlı alt yapraklar açık yeşil-sarı olur', 'Yetersiz ışık: bitki solgun, sarımsı yeşil kalır', 'Yaşlı alt yaprakların doğal dökümü: birkaç yaprak sararıp düşüyorsa normaldir'],
+  anlama: ['Toprağa parmağınızı 2-3 cm sokun: sürekli ıslaksa fazla sulamadır', 'Saksı dibinde delik var mı, tabakta su bekliyor mu bakın', 'Sararma alttaki yaşlı yapraklardaysa besin eksikliği, en uçtaki yeni yapraklarda damarlar yeşil kalıp ara yerler sararıyorsa demir/kireç sorunu olabilir', 'Kökleri kontrol edin: sağlıklı kök beyaz ve diridir; kahverengi-siyah ve yumuşak kök çürüme işaretidir'],
+  yapin: ['Toprağın üstü kurumadan tekrar sulamayın, tabakta su bırakmayın', 'Saksının drenaj deliği yoksa delikli saksıya alın; toprağa perlit karıştırarak süzülmeyi artırın', 'Bitkiyi daha aydınlık bir yere alın (yaprakları yakan direkt öğle güneşi hariç)', 'Toprak uzun süredir değişmediyse ve sulama düzgünse bitkiyi organik bir besinle destekleyin'],
+  urunler: ['perlit', 'solucan', 'sivi', 'genelT'], kaynak: ['ucipm', 'illinois'] });
+
+add({ key: 'kloroz', baslik: 'Yeni yapraklarda damar arası sararma (kireç / demir sorunu)',
+  sorular: ['yeni yapraklar sararıyor', 'uçtaki yapraklar sararıyor', 'yaprak damarları yeşil arası sarı', 'yaprakların damarları yeşil kalıyor', 'damar arası sararma', 'yeni yapraklar sararıyor damarlar yeşil', 'demir eksikliği belirtileri', 'demir eksikliği nasıl giderilir', 'kireçli toprak yaprak sararması', 'açelya yaprakları sararıyor', 'yaban mersini yaprakları sararıyor', 'gardenya yaprakları sararıyor', 'kloroz nedir'],
+  nedenler: ['Toprağın ya da sulama suyunun kireçli (pH yüksek) olması: demir toprakta olsa da bitki alamaz', 'Asidik toprak isteyen bitkilerin (ortanca, açelya, gardenya, yaban mersini, kamelya) normal toprağa dikilmesi', 'Sürekli ıslak toprak: kökler demiri alamaz'],
+  anlama: ['Sararma en uçtaki genç yapraklardadır ve damarlar yeşil kalır', 'Musluk suyu kireçliyse saksı kenarında ve toprak yüzünde beyaz kabuk oluşur'],
+  yapin: ['Asit seven bitkileri asidik özel toprağa alın', 'Mümkünse kireci az su (yağmur suyu, bekletilmiş su) kullanın', 'Toprağı sürekli ıslak tutmayın'],
+  urunler: ['asitT', 'humix', 'solucan'], kaynak: ['csu', 'ucipm'] });
+
+add({ key: 'uc-kuruma', baslik: 'Yaprak uçlarında ve kenarlarında kahverengileşme, kuruma',
+  sorular: [...qx('yaprak uçları kuruyor'), ...qx('yaprak uçları kahverengi'), 'yaprakların ucu kurudu', 'yaprak kenarları kuruyor', 'yaprak kenarları kahverengi oldu', 'yaprak uçları yanıyor', 'yaprak uçları sararıp kuruyor', 'yapraklarda kuruma var', 'yapraklar kuruyor', 'yaprakların ucu kahverengi oldu', 'yaprak uçları kahverengileşiyor'],
+  nedenler: ['Düzensiz sulama: toprağın tamamen kuruyup sonra çok ıslanması', 'Toprakta tuz birikmesi (fazla gübre ya da kireçli su): toprak yüzünde ve saksı kenarında beyaz kabuk', 'Kuru hava: kalorifer, klima, soba yakını ya da soğuk hava akımı', 'Fazla güneş: yaprakta açık renkli, kuru yanık lekeler'],
+  anlama: ['Toprak yüzünde beyaz kabuk varsa tuz birikimidir', 'Bitki kalorifer/klima yanındaysa ya da cereyanda kalıyorsa hava kuruluğudur', 'Kuruma sadece güneşe bakan yaprakladıysa güneş yanığıdır'],
+  yapin: ['Toprağın üst kısmı kuruyunca sulayın, tamamen kurutmayın', 'Tuz birikimi varsa saksıdan bol suyu birkaç kez geçirip süzdürün (yıkama) ve bir süre gübreye ara verin; çok kabuklanmışsa toprağı yenileyin', 'Bitkiyi kalorifer, klima ve cereyandan uzaklaştırın', 'Kuruyan uçları sağlam dokuya kadar temiz makasla kesebilirsiniz'],
+  urunler: ['boncuk', 'genelT', 'cicekT'], kaynak: ['illinois', 'ucipm'] });
+
+add({ key: 'solma', baslik: 'Bitkinin solması, boynunu bükmesi',
+  sorular: [...qx('bitkim soldu'), ...qx('çiçeğim soldu'), 'bitki boynunu büktü', 'yapraklar sarktı', 'yaprakları pörsüdü', 'sulamama rağmen soluyor', 'sulamama rağmen bitkim soldu', 'çiçek soluyor ne yapayım', 'bitki solgun', 'fide soldu', 'yapraklar düştü sarktı', 'solan bitki nasıl kurtarılır'],
+  nedenler: ['Susuz kalma: toprak kupkuru ve saksı hafiftir', 'Fazla sulama ve kök çürümesi: toprak ıslak olduğu halde bitki solar, çünkü çürüyen kök su çekemez', 'Sıcak ve güneşte aşırı ısınma (öğle saatinde geçici solma)', 'Saksının köklerle dolması (kök sıkışması): su hızla tükenir'],
+  anlama: ['Toprak kuruysa susuzluktur; sulayınca birkaç saatte toparlanır', 'Toprak ıslak ve bitki yine solgunsa kökü kontrol edin: kahverengi-siyah, yumuşak ve kötü kokan kök çürümedir', 'Köklerin saksı deliğinden çıkması ve suyun çabuk tükenmesi saksının dar geldiğini gösterir'],
+  yapin: ['Kuru toprakta saksıyı iyice sulayın, fazla suyu süzdürün', 'Islak toprakta solmada sulamayı kesin; kök çürümüşse çürük kökleri kesip bitkiyi yeni, süzek toprağa alın', 'Kökler saksıyı doldurduysa bir boy büyük saksıya alın', 'Sıcak günlerde öğle güneşinden koruyun'],
+  urunler: ['perlit', 'genelT', 'humix', 'boncuk'], kaynak: ['ucipm', 'illinois'] });
+
+add({ key: 'yaprak-dokumu', baslik: 'Yaprak dökülmesi',
+  sorular: [...qx('yapraklar dökülüyor'), ...qx('yaprak döküyor'), 'bitkim yapraklarını döktü', 'yeşil yapraklar dökülüyor', 'yer değiştirince yaprak döktü', 'eve getirdim yaprak döküyor', 'yeni aldığım bitki yaprak döküyor', 'kışın yaprak döküyor', 'kauçuk yaprak döküyor'],
+  nedenler: ['Ortam değişikliği: yeni eve gelme, yer değiştirme, ışığın azalması (özellikle benjamin/ficus çok hassastır)', 'Soğuk ya da sıcak hava akımı, kapı-pencere önü, kalorifer yanı', 'Fazla ya da düzensiz sulama', 'Kışın ışığın azalması ile birlikte fazla sulama'],
+  anlama: ['Bitki yeni geldiyse ya da yeri değiştiyse büyük olasılıkla alışma dökümüdür; yeni yapraklar sağlıklı çıkıyorsa endişe etmeyin', 'Toprak sürekli ıslaksa sulamaya bağlıdır'],
+  yapin: ['Bitkiyi aydınlık, cereyansız bir yere koyup bir daha sık sık yerini değiştirmeyin', 'Toprağın üstü kurumadan sulamayın; kışın sulamayı azaltın', 'Bitki toparlanana kadar gübre vermeyin; yeni sürgün başlayınca besinle destekleyin'],
+  urunler: ['yesilB', 'sivi', 'perlit'], kaynak: ['ucipm', 'illinois'] });
+
+add({ key: 'cicek-acmama', baslik: 'Çiçek açmama',
+  sorular: [...qx('çiçek açmıyor'), ...qx('bitkim çiçek açmıyor'), 'çiçek vermiyor', 'neden çiçeklenmiyor', 'çiçeklenme için ne yapmalı', 'çiçek açması için ne yapmalıyım', 'çiçek açtırmak için gübre', 'çiçeklenme için hangi gübre', 'yaprak veriyor çiçek vermiyor', 'tomurcuk yapmıyor', 'begonvil çiçek açmıyor', 'sardunya çiçek açmıyor', 'gül çiçek açmıyor', 'begonvil neden çiçek açmıyor'],
+  nedenler: ['Yetersiz ışık: çiçekli bitkilerin çoğu bol ışık ister (en sık neden)', 'Fazla azotlu gübre: bitki bol yaprak yapar ama çiçek yapmaz', 'Yanlış zamanda budama: çiçek gözleri kesilmiş olabilir', 'Bitkinin henüz çiçek yaşına gelmemesi ya da dinlenme dönemi geçirmemesi', 'Saksının çok büyük olması ya da kök sorunu'],
+  anlama: ['Bitki koyu yeşil, uzun ve sık yapraklıysa ışık azlığı veya fazla azot olasıdır', 'Son aylarda budandıysa çiçek gözleri gitmiş olabilir'],
+  yapin: ['Bitkiyi daha aydınlık yere alın', 'Azotu yüksek genel gübreyi azaltın; çiçekli bitkiler için hazırlanmış besine geçin', 'Budamayı bitkinin çiçeklenmesi bittikten sonra yapın', 'Kökler sağlıklıysa saksıyı gereksiz büyütmeyin'],
+  urunler: ['cicekB', 'petal', 'solucan'], kaynak: ['clemson'] });
+
+add({ key: 'tomurcuk-dokumu', baslik: 'Tomurcukların ya da çiçeklerin açmadan dökülmesi',
+  sorular: [...qx('tomurcuklar dökülüyor'), ...qx('çiçekler dökülüyor'), 'tomurcuklar açmadan düşüyor', 'tomurcuklar açmadan dökülüyor', 'çiçekler açmadan dökülüyor', 'tomurcuk kuruyup düşüyor', 'çiçek tomurcukları sararıyor'],
+  nedenler: ['Ani ortam değişikliği (yer değiştirme, sıcaklık farkı, cereyan)', 'Düzensiz sulama: toprağın kuruması', 'Kuru hava ve aşırı sıcak', 'Yetersiz ışık'],
+  anlama: ['Bitki tomurcukluyken taşındıysa ya da yeri değiştiyse neden büyük olasılıkla budur', 'Toprak sık sık kuruyorsa sulama düzensizdir'],
+  yapin: ['Tomurcuklu bitkinin yerini değiştirmeyin', 'Toprağı eşit nemde tutun', 'Kalorifer ve cereyandan uzak, aydınlık bir yerde tutun'],
+  urunler: ['boncuk', 'cicekB'], kaynak: ['ucipm', 'clemson'] });
+
+add({ key: 'kok-curumesi', baslik: 'Kök çürümesi',
+  sorular: [...qx('kökleri çürüdü'), ...qx('kök çürümesi'), 'gövde dibi çürüdü', 'gövdesi yumuşadı', 'toprak kötü kokuyor', 'saksı toprağı kokuyor', 'toprak sürekli ıslak', 'kökler kararmış', 'kök çürüklüğü nasıl anlaşılır', 'kök çürümesi tedavisi'],
+  nedenler: ['Fazla sulama ve saksıda suyun birikmesi', 'Drenaj deliği olmayan saksı ya da tabakta bekleyen su', 'Sıkışmış, havasız, su tutan toprak', 'Bitkiye göre çok büyük saksı (fazla toprak uzun süre ıslak kalır)'],
+  anlama: ['Bitki ıslak toprakta soluyor, alt yapraklar sararıyor', 'Saksıdan çıkarınca kökler kahverengi-siyah, yumuşak ve kötü kokuludur; sağlıklı kök beyaz ve diridir'],
+  yapin: ['Bitkiyi saksıdan çıkarıp eski toprağı temizleyin', 'Çürük kökleri temiz makasla kesin', 'Delikli, köke uygun boyda saksıya, yeni ve süzek toprağa (perlit katılmış) dikin', 'Dikimden sonra az sulayın; toprağın üstü kurumadan tekrar sulamayın', 'Köklerin çoğu çürüdüyse sağlam bir dalı çelik olarak köklendirmeyi deneyin'],
+  urunler: ['perlit', 'genelT', 'floristMantar', 'subonHijyen'], kaynak: ['ucipm', 'illinois'] });
+
+add({ key: 'sinekcik', baslik: 'Toprakta ve saksı çevresinde küçük siyah sinekler',
+  sorular: [...qx('toprakta sinek var'), ...qx('saksıda sinek var'), 'saksıda küçük sinekler', 'toprakta küçük siyah sinekler', 'saksı toprağında sinek', 'çiçeklerde küçük sinek', 'saksıdan sinek çıkıyor', 'toprak sineği', 'mantar sineği', 'saksı sineği nasıl yok edilir', 'saksıdaki sinekler için ilaç', 'toprakta kurtçuk var'],
+  nedenler: ['Mantar sinekçiği: sürekli ıslak ve organik maddece zengin toprakta çoğalır; larvaları toprakta yaşar', 'Fazla sulama ve tabakta bekleyen su'],
+  anlama: ['Sinekler toprak yüzünde dolaşır ve sulayınca uçuşur', 'Toprak yüzünde ince beyaz, ipliksi kurtçuklar (larva) görülebilir; yetişkin sinek bitkiye zarar vermez, larvalar fidelerde köke zarar verebilir'],
+  yapin: ['Sulamayı azaltın: toprağın üst birkaç santimi iyice kurumadan sulamayın (larvalar kuru toprakta yaşayamaz)', 'Tabakta su bırakmayın; çürüyen yaprakları toprak üstünden toplayın', 'Toprak yüzüne bir kat perlit serin; üst katman çabuk kurur', 'Yetişkin sinekler için sarı yapışkan tuzak kullanılabilir', 'Sorun büyükse toprağı yenileyin'],
+  urunler: ['floristSinek', 'perlit'], ilac: true, kaynak: ['gnat'] });
+
+add({ key: 'yaprak-biti', baslik: 'Yaprak biti',
+  sorular: [...qx('yaprak biti'), 'yaprak bitine ne iyi gelir', 'yaprak biti ilacı', 'yaprak biti için ilaç', 'yaprak biti için ne kullanılır', 'yaprak biti nasıl yok edilir', 'yapraklarda yeşil böcek', 'yapraklarda küçük böcekler var', 'filizlerde küçük böcekler', 'yapraklar yapış yapış', 'yapraklar yapışkan oldu', 'gülde yaprak biti', 'biberde yaprak biti'],
+  nedenler: ['Yaprak biti: yeşil, siyah ya da gri renkli küçük yumuşak böcekler; genç sürgün ve yaprak altlarında koloni yapar', 'Fazla azotlu gübre yumuşak sürgünleri çoğaltıp biti çeker'],
+  anlama: ['Sürgün uçlarında ve yaprak altlarında kümelenmiş küçük böcekler', 'Yapraklarda yapışkan bir tabaka (ballı madde) ve üzerinde kararma; yaprakların kıvrılması'],
+  yapin: ['Az sayıdaysa sert su ile yıkayın ya da elle silin; ağır bulaşmış sürgünü kesin', 'Bitkiyi diğerlerinden ayırın', 'Bitkisel yağ esaslı (neem) sprey kullanın; kalıcı etkisi olmadığı için birkaç gün arayla tekrarlamak gerekir', 'Azotlu gübreyi azaltın', ILAC_NOT],
+  urunler: ['neem'], ilac: true, kaynak: ['ucmg', 'umd'] });
+
+add({ key: 'unlu-bit', baslik: 'Unlu bit (beyaz pamuk gibi böcek)',
+  sorular: [...qx('unlu bit'), 'unlu bite ne iyi gelir', 'unlu bit ilacı', 'unlu bit nasıl yok edilir', 'yapraklarda beyaz pamuk', 'bitkide beyaz pamuk gibi şey var', 'yaprak dibinde beyaz pamuk', 'kaktüste beyaz pamuk', 'orkidede beyaz pamuk', 'beyaz tüylü böcek', 'yapraklarda beyaz pamuk gibi şeyler var'],
+  nedenler: ['Unlu bit: beyaz, mumsu-pamuksu örtülü böcekler; yaprak dipleri, gövde ve köklerde saklanır', 'Kabuklu bit: yaprak ve gövdeye yapışık kahverengi kabuklar', 'Yeni gelen bir bitkiyle eve taşınma'],
+  anlama: ['Yaprak koltuklarında ve gövdede beyaz pamuk kümeleri', 'Yapraklarda yapışkanlık; bitkinin zayıflayıp sararması'],
+  yapin: ['Bitkiyi hemen diğerlerinden ayırın', 'Az sayıdaysa alkole batırılmış pamukla tek tek silin', 'Bitkisel bazlı sprey uygulayın ve birkaç gün arayla tekrarlayın; tek uygulama yetmez', 'Çok yayılmışsa ağır bulaşmış kısımları kesin', ILAC_NOT],
+  urunler: ['floristSinek', 'neem'], ilac: true, kaynak: ['ucmg', 'umd'] });
+
+add({ key: 'kirmizi-orumcek', baslik: 'Kırmızı örümcek (akar)',
+  sorular: [...qx('kırmızı örümcek'), 'kırmızı örümceğe ne iyi gelir', 'yapraklarda ince ağ var', 'bitkide örümcek ağı', 'yapraklarda küçük noktalar', 'yapraklar noktalı soluk', 'yapraklarda beyaz noktalar var', 'yaprak altında ağ', 'bitkide akar var'],
+  nedenler: ['Kırmızı örümcek (akar): gözle zor görülen çok küçük zararlı; sıcak ve kuru havada hızla çoğalır'],
+  anlama: ['Yapraklarda ince, soluk noktalanma; yaprak grimsi-bronz renk alır', 'Yaprak altlarında ve sürgün uçlarında ince ağ', 'Yaprağın altını beyaz kâğıda silkeleyince yürüyen minik noktalar'],
+  yapin: ['Bitkiyi ayırın, yaprakları (özellikle altlarını) duşla iyice yıkayın', 'Havayı nemlendirin; kalorifer yanından uzaklaştırın', 'Birkaç gün arayla yıkamayı tekrarlayın', 'Akar için etiketinde akar yazan bir ürün gerekir; doğru ürün için bitkinin fotoğrafıyla müşteri hizmetlerimize danışın'],
+  urunler: [], ilac: true, kaynak: ['ucmg'] });
+
+add({ key: 'beyaz-sinek', baslik: 'Beyaz sinek',
+  sorular: [...qx('beyaz sinek'), 'beyaz sineğe ne iyi gelir', 'beyaz sinek için ne kullanılır', 'beyaz sinek ilacı', 'beyaz sinek nasıl yok edilir', 'yaprak altında beyaz sinekler', 'dokununca beyaz sinekler uçuşuyor', 'domateste beyaz sinek', 'beyaz küçük kelebekler'],
+  nedenler: ['Beyaz sinek: yaprak altlarında yaşayan, dokununca uçuşan küçük beyaz böcekler; yumurta ve yavruları yaprağa yapışıktır'],
+  anlama: ['Bitkiyi sallayınca beyaz bulut gibi uçuşma', 'Yapraklarda yapışkanlık ve sararma'],
+  yapin: ['Yaprak altlarını düzenli kontrol edin, ağır bulaşmış yaprakları koparın', 'Sarı yapışkan tuzak yetişkinleri yakalar ama yaprak üstündeki yavruları etkilemez', 'Bitkisel yağ esaslı spreyi yaprak altlarına gelecek şekilde, birkaç gün arayla tekrarlayarak uygulayın', ILAC_NOT],
+  urunler: ['neem'], ilac: true, kaynak: ['mobot', 'umd'] });
+
+add({ key: 'kulleme', baslik: 'Külleme (yapraklarda un gibi beyaz tabaka)',
+  sorular: [...qx('külleme'), ...qx('küllenme'), 'yapraklarda beyaz un gibi leke', 'beyaz un gibi lekeler', 'kabakta beyaz un gibi lekeler', 'yapraklarda beyaz toz var', 'yaprakların üstü beyaz oldu', 'yapraklarda beyaz lekeler', 'yapraklarda mantar var', 'kabakta külleme', 'gülde külleme', 'salatalıkta külleme', 'yapraklarda gri küf'],
+  nedenler: ['Külleme: yaprak yüzeyinde un serpilmiş gibi beyaz tabaka yapan mantar hastalığı', 'Havasız, sık dikilmiş, nemli ortam'],
+  anlama: ['Parmakla silinebilen beyaz-grimsi toz tabakası', 'Hastalık ilerledikçe yaprak sararıp kurur'],
+  yapin: ['Hastalıklı yaprakları koparıp atın (komposta koymayın)', 'Bitkiler arasını açarak hava akışını artırın', 'Yaprakları ıslatmadan, toprağa sulayın', 'Mantar önleyici bitki spreyini ürün etiketine göre uygulayın'],
+  urunler: ['floristMantar', 'subonHijyen'], ilac: true, kaynak: ['ucipm', 'ncsu'] });
+
+add({ key: 'fide-devrilme', baslik: 'Fidelerin dipten çürüyüp devrilmesi (çökerten)',
+  sorular: [...qx('fideler devriliyor'), ...qx('fideler çürüyor'), 'fideler dipten çürüyor', 'fideler yatıyor', 'fide gövdesi inceldi yattı', 'çimlenen tohumlar çürüyor', 'fideler ölüyor', 'çökerten hastalığı', 'fide devrilmesi'],
+  nedenler: ['Çökerten: topraktan bulaşan mantarların fide gövdesini dipten çürütmesi', 'Kullanılmış ya da bahçe toprağı, temizlenmemiş viyoller', 'Fazla sulama, havasız ve serin ortam'],
+  anlama: ['Fide gövdesi toprak hizasında incelir, suyla ıslanmış gibi kararır ve fide devrilir'],
+  yapin: ['Devrilen fideleri hemen atın; hastalık yayılır', 'Yeni ekimi yeni, kullanılmamış fide toprağına ve temiz viyole yapın', 'Toprağı sırılsıklam tutmayın, mümkünse alttan sulayın', 'Fideleri havadar ve aydınlık yerde tutun'],
+  urunler: ['fideT', 'perlit'], kaynak: ['ncsu'] });
+
+add({ key: 'fide-uzama', baslik: 'Fidelerin incecik boylanması',
+  sorular: [...qx('fideler boylanıyor'), ...qx('fideler uzadı'), 'fideler ince uzun oldu', 'fideler cılız', 'fide çok uzuyor', 'fideler ışığa doğru eğiliyor', 'fideler zayıf'],
+  nedenler: ['Yetersiz ışık: fide ışığı aramak için boylanır (pencere önü bile çoğu zaman yetmez)', 'Ortamın fazla sıcak olması', 'Çok sık ekim'],
+  anlama: ['Gövde ince ve uzun, yapraklar açık renkli; fideler pencereye doğru eğik'],
+  yapin: ['Fideleri en aydınlık yere alın ya da bitki lambası kullanın', 'Sık çıkan fideleri seyreltin', 'Şaşırtırken (büyük viyole/saksıya alırken) gövdeyi biraz daha derine dikebilirsiniz', 'Çok cılız fideleri yeniden ekmek çoğu zaman daha iyi sonuç verir'],
+  urunler: ['fideT', 'sivi'], kaynak: ['ncsu'] });
+
+add({ key: 'salyangoz', baslik: 'Salyangoz ve sümüklü böcek',
+  sorular: [...qx('salyangoz'), 'salyangoz nasıl uzaklaştırılır', 'sümüklü böcek', 'yapraklarda delikler var', 'yapraklar yenmiş', 'marul yaprakları delik delik', 'yapraklarda parlak iz', 'bahçede salyangoz çok', 'salyangoz kovucu', 'salyangozlar yaprakları yiyor', 'salyangozlar marulu yiyor', 'sümüklü böcekler yaprakları yiyor'],
+  nedenler: ['Salyangoz ve sümüklü böcekler geceleri ve nemli havada beslenir; yapraklarda düzensiz delikler açar'],
+  anlama: ['Yapraklarda düzensiz delikler ve yanında parlak, kurumuş sümük izi', 'Akşam karanlıkta ya da yağmur sonrası bakınca görülürler'],
+  yapin: ['Akşam veya sabah erken saatte elle toplayın; düzenli toplamak sayıyı hızla düşürür', 'Ters çevrilmiş saksı ya da tahta parçası koyun, sabah altına saklananları toplayın', 'Bitki diplerindeki yabancı ot ve çürük yaprak gibi saklanma yerlerini azaltın', 'Sulamayı akşam yerine sabah yapın'],
+  urunler: [], kaynak: ['usu'] });
+
+add({ key: 'saksi-dar', baslik: 'Bitki büyümüyor, kökler saksıdan taşıyor',
+  sorular: [...qx('bitkim büyümüyor'), 'kökler saksı deliğinden çıkıyor', 'kökler saksının dışına çıktı', 'saksı değişimi ne zaman yapılır', 'saksı değiştirmem gerekir mi', 'bitki gelişmiyor', 'bitkim cansız', 'toprak çok çabuk kuruyor', 'saksı küçük geldi', 'saksı nasıl değiştirilir', 'bitki yerinde sayıyor'],
+  nedenler: ['Kökler saksıyı doldurmuş: toprak az kalır, su ve besin çabuk biter', 'Toprak yıllardır değişmemiş, besin tükenmiş ve sıkışmış', 'Yetersiz ışık ya da kış dinlenmesi'],
+  anlama: ['Kökler drenaj deliğinden çıkıyor ya da toprak yüzüne taşıyor', 'Saksıdan çıkarınca kökler toprağın etrafında sarmal yapmış', 'Sulama suyu toprağa işlemeden hemen dipten akıyor'],
+  yapin: ['İlkbaharda bir boy (çapı birkaç santim) büyük, delikli saksıya alın; çok büyük saksı kök çürümesine yol açar', 'Sarmal kökleri hafifçe açın, taze toprağa dikin', 'Saksı değişimi gerekmiyorsa üstteki birkaç santim toprağı kazıyıp yenisiyle değiştirin ve organik besinle destekleyin'],
+  urunler: ['genelT', 'cicekT', 'solucan', 'sivi'], kaynak: ['ucipm', 'illinois'] });
+
+add({ key: 'toprak-kuf', baslik: 'Toprak yüzünde beyaz tabaka (küf ya da tuz)',
+  sorular: [...qx('toprakta beyaz küf'), 'toprak üstü beyaz oldu', 'toprak yüzünde beyaz tabaka', 'saksıda küf var', 'toprak küflendi', 'toprak üstünde beyaz küf', 'saksı kenarında beyaz kabuk', 'toprak üstünde beyaz kabuk', 'toprakta mantar çıktı'],
+  nedenler: ['Pamuksu, tüylü beyaz tabaka: sürekli ıslak ve havasız toprakta oluşan küf', 'Sert, kabuk gibi beyaz tabaka: kireçli su ve fazla gübreden biriken tuz'],
+  anlama: ['Tüylü ve yumuşaksa küftür; sert ve kabuksa tuz birikimidir'],
+  yapin: ['Küfte: üstteki küflü toprağı kazıyıp atın, sulamayı azaltın, saksıyı havadar yere alın', 'Tuzda: kabuğu kazıyın, saksıdan bol suyu birkaç kez geçirip süzdürün ve bir süre gübre vermeyin', 'Sorun tekrar ediyorsa toprağı yenileyin, perlit katarak süzülmeyi artırın'],
+  urunler: ['subonHijyen', 'perlit', 'genelT'], kaynak: ['illinois', 'ucipm'] });
+
+add({ key: 'gunes-yanigi', baslik: 'Güneş yanığı (yapraklarda soluk, kuru lekeler)',
+  sorular: [...qx('yapraklar yandı'), 'yapraklarda güneş yanığı', 'güneşte yapraklar yandı', 'yapraklarda beyaz kuru lekeler', 'balkona çıkardım yaprakları yandı', 'yapraklar soldu güneşten'],
+  nedenler: ['Gölgeden ani olarak güçlü güneşe çıkarma', 'Cam arkasında öğle güneşi', 'Islak yapraklara güneş vurması'],
+  anlama: ['Leke yalnız güneşe bakan yapraklarda, açık renkli, kuru ve kâğıt gibidir'],
+  yapin: ['Bitkiyi öğle güneşinden koruyun; güneşe birkaç haftada yavaş yavaş alıştırın', 'Yanık yapraklar düzelmez; çok çirkin görünüyorsa kesebilirsiniz', 'Yaprakları güneş altında ıslatmayın'],
+  urunler: ['boncuk'], kaynak: ['ucipm'] });
+
+// ---------- Belirli bitkiler (cevap yalnız bitki adı soruda geçerse verilir) ----------
+add({ key: 'orkide-cicek', bitki: 'Orkide', baslik: 'Orkide çiçek açmıyor',
+  sorular: ['orkide çiçek açmıyor', 'orkidem çiçek açmıyor', 'orkide neden çiçek açmaz', 'orkide çiçek açması için ne yapmalı', 'orkide tekrar nasıl çiçek açar', 'orkide çiçekleri döküldü ne yapmalıyım', 'orkide dal vermiyor', 'orkide çiçek dalı kesilir mi', 'orkideyi çiçeklendirmek için', 'orkide çiçeği bitti'],
+  nedenler: ['Yetersiz ışık (en sık neden): yapraklar koyu yeşilse ışık azdır', 'Gece-gündüz sıcaklık farkı olmaması: orkide (Phalaenopsis) yeni çiçek dalı için birkaç hafta serin gece ister', 'Düzensiz ya da hiç beslenmeme', 'Kök sorunu (fazla sulama)'],
+  anlama: ['Yapraklar koyu yeşil ve bitki yıl boyu aynı sıcak odadaysa ışık ve serin gece eksiktir', 'Sağlıklı kök yeşil-gümüş renkli ve dolgundur'],
+  yapin: ['Direkt öğle güneşi almayan, en aydınlık pencere önüne alın', 'Sonbaharda birkaç hafta gece sıcaklığının gündüzden belirgin serin olduğu bir yerde tutun (soğuk cereyan olmadan)', 'Büyüme döneminde orkideye özel besinle düzenli besleyin', 'Kökleri sağlıklı tutun: orkideye özel havadar ortam, ortam kurumaya yakınken sulama', 'Çiçekleri biten dal yeşilse bırakılabilir, kuruduysa dipten kesin'],
+  urunler: ['orkideB', 'orkideS', 'orkideT'], kaynak: ['isu'] });
+
+add({ key: 'orkide-yaprak', bitki: 'Orkide', baslik: 'Orkide yaprakları sararıyor, buruşuyor ya da kökleri çürüyor',
+  sorular: ['orkide yaprakları sararıyor', 'orkide yaprağı sarardı', 'orkide yaprakları buruşuyor', 'orkide yaprakları yumuşadı', 'orkide yaprakları sarktı', 'orkide kökleri çürüdü', 'orkide kökleri kurudu', 'orkide kökleri sarardı', 'orkide kökleri dışarı çıkıyor', 'orkide hava kökleri', 'orkide yaprakları düşüyor', 'orkide ölüyor', 'orkide nasıl kurtarılır'],
+  nedenler: ['Fazla sulama ve kök çürümesi: çürüyen kök su çekemez, yapraklar buruşup yumuşar', 'Uzun süre susuz kalma: kökler gümüşi-kuru, yapraklar buruşuk', 'En alttaki tek yaprağın yavaşça sararıp düşmesi doğaldır', 'Direkt güneş: yaprakta sarı-kahverengi yanık'],
+  anlama: ['Kökleri kontrol edin: yeşil-gümüş ve dolgun kök sağlıklıdır; kahverengi, yumuşak, içi boşalmış kök çürümüştür', 'Saksıdan dışarı çıkan hava kökleri normaldir, kesmeyin'],
+  yapin: ['Çürük kökleri temiz makasla kesin, orkideyi yeni orkide ortamına alın', 'Sulamayı ortam kurumaya yakınken yapın; saksı içinde su bırakmayın', 'Yaprak koltuğunda su bekletmeyin', 'Direkt öğle güneşinden uzak, aydınlık yerde tutun'],
+  urunler: ['orkideT', 'floristMantar', 'orkideB'], kaynak: ['isu', 'ucipm'] });
+
+add({ key: 'limon', bitki: 'Limon mandalina portakal narenciye', baslik: 'Limon (narenciye) yaprakları sararıyor ya da dökülüyor',
+  sorular: ['limon yaprakları sararıyor', 'limon ağacı yaprak döküyor', 'limon yaprakları dökülüyor', 'limonun yaprakları sarardı', 'saksıda limon yaprak döküyor', 'limon ağacı kuruyor', 'limon çiçekleri dökülüyor', 'limon meyve tutmuyor', 'limon yaprakları kıvrılıyor', 'mandalina yaprakları sararıyor', 'portakal yaprakları sararıyor', 'limon ağacı neden sararır'],
+  nedenler: ['Fazla sulama (özellikle kışın) ve kökte su birikmesi: en sık neden', 'Soğuk ya da cereyan; kışın içeri alınma, ışığın azalması', 'Besin eksikliği: yaşlı yapraklar sararıyorsa azot, yeni yapraklarda damarlar yeşil arası sarıysa demir (kireçli su/toprak)', 'İçeri alınınca bir miktar yaprak dökmesi alışma tepkisidir'],
+  anlama: ['Toprak sürekli ıslaksa sulamadır', 'Sararmanın yaşlı mı yeni mi yaprakta olduğuna bakın'],
+  yapin: ['Toprağın üst birkaç santimi kuruyunca sulayın; kışın sulamayı azaltın', 'Saksının deliği olsun, tabakta su bırakmayın; toprak ağır ise süzek toprakla yenileyin', 'Bitkiyi en aydınlık, cereyansız yere koyun', 'Büyüme döneminde organik besinle destekleyin; kireçli suyla sulanıyorsa demir sorununa karşı toprağı asidik yapıda tutun'],
+  urunler: ['solucan', 'sivi', 'humix', 'perlit'], kaynak: ['narenciye'] });
+
+add({ key: 'domates-cicek', bitki: 'Domates biber', baslik: 'Domates çiçekleri dökülüyor, meyve tutmuyor',
+  sorular: ['domates çiçekleri dökülüyor', 'domates çiçek döküyor', 'domates meyve tutmuyor', 'domates çiçek açıyor meyve vermiyor', 'domateste çiçek dökümü', 'domates tutmuyor', 'domates çiçekleri kuruyor', 'biber çiçekleri dökülüyor', 'biber meyve tutmuyor'],
+  nedenler: ['Sıcaklık: geceler çok serin ya da çok sıcak olduğunda, gündüz aşırı sıcakta çiçekler döllenmeden dökülür', 'Düzensiz sulama ve susuz kalma', 'Fazla azotlu gübre: bol yaprak, az meyve', 'Tozlaşmanın olmaması (rüzgârsız sera, balkon)'],
+  anlama: ['Yaz ortasındaki sıcak dalgalarında ya da serin baharda görülüyorsa sıcaklıktır; hava düzelince yeni çiçekler tutar'],
+  yapin: ['Toprağı eşit nemde tutun, malç ile nemi koruyun', 'Azotlu gübreyi azaltın', 'Balkon ve serada çiçek salkımlarını hafifçe sallayarak tozlaşmaya yardım edin', 'Aşırı sıcakta öğle saatlerinde gölgeleyin'],
+  urunler: ['solucan', 'sivi', 'humix'], kaynak: ['domates'] });
+
+add({ key: 'cicek-burnu', baslik: 'Çiçek burnu çürüklüğü (meyvenin dibinin kararması)',
+  sorular: ['çiçek burnu çürüklüğü', 'domatesin altı kararıyor', 'domatesin dibi çürüyor', 'domates altı siyah', 'domates popo çürüklüğü', 'domates meyvesinin ucu kararıyor', 'biberin ucu çürüyor', 'biberin altı kararıyor', 'kabağın ucu çürüyor', 'domateste kalsiyum eksikliği'],
+  nedenler: ['Meyvenin gelişirken yeterli kalsiyum alamaması; asıl neden çoğu zaman düzensiz sulamadır (toprak kuruyup ıslandıkça kalsiyum meyveye taşınamaz)', 'Fazla azotlu gübre durumu kötüleştirir', 'Saksıda yetiştirilen domates ve biberde sık görülür'],
+  anlama: ['Meyvenin çiçek tarafındaki ucunda önce suyla ıslanmış gibi, sonra kahverengi-siyah, çökük leke'],
+  yapin: ['Toprağı eşit nemde tutun; kuruyup sırılsıklam olmasına izin vermeyin', 'Toprağı malçlayın, saksıdaysa büyük saksı kullanın', 'Azotlu gübreyi azaltın', 'Lekeli meyveleri koparın; sulama düzene girince yeni meyveler sağlıklı gelir'],
+  urunler: ['humix', 'solucan', 'boncuk'], kaynak: ['isu', 'domates'] });
+
+add({ key: 'domates-catlama', bitki: 'Domates', baslik: 'Domates meyvesinde çatlama',
+  sorular: ['domates çatlıyor', 'domatesler çatladı', 'domates meyvesi yarılıyor', 'domates kabuğu çatlıyor', 'domateste çatlama neden olur'],
+  nedenler: ['Kuraklıktan sonra ani bol su ya da yağmur: meyve içten hızlı büyüyüp kabuğu çatlatır', 'Sıcak ve güneşli dönemler'],
+  anlama: ['Meyvenin sap çevresinde halka ya da boyuna çatlaklar'],
+  yapin: ['Kurak dönemde düzenli ve eşit sulayın; toprağı malçla nemli tutun', 'Olgunlaşmaya yakın meyveleri yağmur öncesi toplayın'],
+  urunler: ['humix', 'solucan'], kaynak: ['domates'] });
+
+add({ key: 'kaktus-curume', bitki: 'Kaktüs sukulent', baslik: 'Kaktüs ya da sukulent yumuşadı, çürüyor',
+  sorular: ['kaktüs yumuşadı', 'kaktüs çürüyor', 'sukulent uzuyor', 'kaktüs çürüdü', 'kaktüsün dibi çürüyor', 'kaktüs kararıyor', 'kaktüs sarardı', 'kaktüs buruştu', 'kaktüs ölüyor', 'sukulent yaprakları yumuşadı', 'sukulent çürüyor', 'sukulent yaprakları dökülüyor', 'sukulent yaprakları şeffaf oldu', 'kaktüs ne sıklıkla sulanır', 'kaktüs ne zaman sulanır', 'kaktüs nasıl sulanır', 'sukulent ne zaman sulanır'],
+  nedenler: ['Fazla sulama (en sık neden): toprak kurumadan sulanınca kök ve gövde dibi çürür', 'Su tutan normal toprak, deliksiz saksı', 'Kışın sulamanın azaltılmaması', 'Buruşma çoğunlukla uzun süre susuz kalmadandır'],
+  anlama: ['Dipte yumuşak, kararmış ve kötü kokulu doku çürümedir', 'Gövde sert ama buruşuksa susuz kalmıştır'],
+  yapin: ['Toprak tamamen kurumadan sulamayın; kışın çok seyrek sulayın', 'Çürük kısmı sağlam dokuya kadar kesin, kesik yeri birkaç gün kurutup kaktüs toprağına dikin', 'Delikli saksı ve hızlı süzülen kaktüs toprağı kullanın'],
+  urunler: ['kaktusT', 'perlit', 'kaktusB'], kaynak: ['ucipm'] });
+
+add({ key: 'kaktus-uzama', bitki: 'Kaktüs sukulent', baslik: 'Kaktüs ya da sukulent uzuyor, incelip eğiliyor',
+  sorular: ['kaktüs uzuyor', 'kaktüs inceldi uzadı', 'kaktüs eğiliyor', 'kaktüs ışığa doğru eğildi', 'sukulent uzuyor', 'sukulent boylandı', 'sukulent rengi soldu'],
+  nedenler: ['Yetersiz ışık: bitki ışığa uzanır, rengi solar'],
+  anlama: ['Yeni büyüme ince, soluk ve pencereye doğru eğik'],
+  yapin: ['En aydınlık, güneş alan yere alın (yanmaması için birkaç haftada alıştırın)', 'Uzamış kısım eski haline dönmez; isterseniz kesip köklendirebilirsiniz'],
+  urunler: ['kaktusT', 'kaktusB'], kaynak: ['ucipm'] });
+
+add({ key: 'monstera', bitki: 'Monstera deve tabanı', baslik: 'Monstera yaprakları sararıyor ya da yarılmıyor',
+  sorular: ['monstera yaprakları sararıyor', 'monstera yaprağı sarardı', 'monstera yaprakları yarılmıyor', 'monstera yaprakları delikli çıkmıyor', 'monstera yaprak uçları kahverengi', 'monstera büyümüyor', 'deve tabanı yaprakları sararıyor', 'deve tabanı yaprakları yarılmıyor'],
+  nedenler: ['Sararmada en sık neden fazla sulama ve su tutan topraktır', 'Yaprakların yarılmaması: bitkinin genç olması ya da yetersiz ışık', 'Uç kuruması: kuru hava, düzensiz sulama'],
+  anlama: ['Toprak sürekli ıslaksa ve alt yapraklar sararıyorsa sulamadır', 'Yeni yapraklar küçük ve bütünse ışık azdır'],
+  yapin: ['Toprağın üst kısmı kuruyunca sulayın; toprağa perlit katarak havalandırın', 'Direkt öğle güneşi almayan aydınlık bir yere alın', 'Büyüme döneminde yeşil yapraklı bitki besiniyle besleyin'],
+  urunler: ['perlit', 'yesilB', 'genelT'], kaynak: ['ucipm', 'illinois'] });
+
+add({ key: 'ficus', bitki: 'Benjamin ficus', baslik: 'Benjamin (ficus) yaprak döküyor',
+  sorular: ['benjamin yaprak döküyor', 'benjamin yaprakları sararıyor', 'benjamin yaprakları dökülüyor', 'ficus yaprak döküyor', 'benjamin kurudu', 'benjamin ağacı yaprak döktü'],
+  nedenler: ['Yer değişikliği ve ışığın azalması: benjamin ortam değişimine çok hassastır', 'Cereyan, kalorifer, soğuk pencere', 'Fazla ya da düzensiz sulama'],
+  anlama: ['Bitki yeni geldiyse ya da yeri değiştiyse alışma dökümüdür; yeni yapraklar çıkıyorsa toparlanıyordur'],
+  yapin: ['Aydınlık, cereyansız bir yere koyup yerini değiştirmeyin', 'Toprağın üstü kuruyunca sulayın', 'Toparlanana kadar gübre vermeyin, yeni sürgünde besinle destekleyin'],
+  urunler: ['yesilB', 'perlit'], kaynak: ['ucipm'] });
+
+add({ key: 'ortanca', bitki: 'Ortanca', baslik: 'Ortanca yaprakları sararıyor ya da çiçek açmıyor',
+  sorular: ['ortanca yaprakları sararıyor', 'ortanca yaprakları sarardı', 'ortanca çiçek açmıyor', 'ortanca kuruyor', 'ortanca yaprakları kahverengi oldu', 'ortanca solmuş'],
+  nedenler: ['Kireçli toprak ya da su: ortanca asidik toprak ister, aksi halde yeni yapraklarda damar arası sararma olur', 'Susuz kalma ya da öğle güneşi', 'Çiçek açmamada yanlış zamanda budama (çoğu ortanca bir önceki yılın dallarında çiçek açar) ve gölge'],
+  anlama: ['Yeni yapraklarda damarlar yeşil arası sarıysa kireç/demir sorunudur'],
+  yapin: ['Asit seven bitkiler için hazırlanmış toprağa dikin', 'Toprağı nemli tutun, öğleden sonra gölge sağlayın', 'Budamayı çiçeklenmeden hemen sonra yapın; sonbahar-kış budaması çiçek gözlerini götürebilir'],
+  urunler: ['asitT', 'humix'], kaynak: ['csu', 'clemson'] });
+
+// ---------- Zararlılar, kurtlar, sinekler ve hastalıklar (genişletilmiş) ----------
+// Bitki adıyla sorulanlar için kalıp: "gül yaprak biti", "domates beyaz sinek" (soruda bitki adı geçince de bulunsun)
+const BITKILER = ['gül', 'domates', 'biber', 'patlıcan', 'salatalık', 'kabak', 'fasulye', 'limon', 'portakal', 'mandalina', 'zeytin', 'elma', 'armut', 'şeftali', 'kiraz', 'erik', 'asma', 'üzüm', 'çilek', 'orkide', 'kaktüs', 'sukulent', 'monstera', 'fesleğen', 'nane', 'maydanoz', 'marul', 'lahana', 'sardunya', 'ortanca', 'begonvil', 'kauçuk', 'benjamin', 'yaban mersini', 'lavanta', 'biberiye', 'fikus', 'aloe vera', 'açelya', 'hibiskus'];
+const qp = (taban, bitkiler = BITKILER) => bitkiler.flatMap((b) => taban.map((t) => `${b} ${t}`));
+
+add({ key: 'yaprak-kivrilma', baslik: 'Yaprakların kıvrılması',
+  sorular: [...qx('yaprakları kıvrılıyor'), ...qx('yapraklar kıvrıldı'), 'yapraklar içe doğru kıvrılıyor', 'yapraklar rulo oldu', 'yaprak kenarları kıvrılıyor', 'yapraklar büzüldü', 'yapraklar aşağı kıvrılıyor', 'yapraklar dışa kıvrılıyor'],
+  nedenler: ['Susuzluk ya da çok sıcak ve kuru hava: bitki su kaybını azaltmak için yaprağını kıvırır', 'Yaprak altında yaşayan zararlılar (yaprak biti, trips, akar) ya da fazla güneş ve gübre yanığı'],
+  anlama: ['Yaprağın altına bakın: böcek, ağ ya da gümüşi leke yoksa ve toprak kuruysa sebep çoğunlukla su ve sıcaklıktır'],
+  yapin: ['Toprağı kontrol edin; kuruysa iyice sulayın, sürekli ıslaksa sulamayı azaltın', 'Bitkiyi öğle güneşinden, kalorifer ve klimadan uzaklaştırın', 'Yaprak altında böcek görürseniz ayırıp duşla yıkayın; böceği tanıyıp ona uygun bitkisel sprey kullanın'],
+  urunler: ['neem'], ilac: true, kaynak: ['ucipm', 'illinois'] });
+
+// Bitki adının "-de/-da" hali: gülde, biberde, domateste, limonda, orkidede
+const loc = (b) => { const w = b.split(' '), son = w.pop(), u = (son.match(/[aeıioöuü](?=[^aeıioöuü]*$)/) || ['e'])[0];
+  return [...w, son + (/[çfhkpsşt]$/.test(son) ? 't' : 'd') + (/[aıou]/.test(u) ? 'a' : 'e')].join(' '); };
+const qpl = (taban, bitkiler = BITKILER) => bitkiler.flatMap((b) => taban.flatMap((t) => [`${b} ${t}`, `${loc(b)} ${t}`]));
+// Var olan zararlı kayıtlarına bitki adlı kalıplar ("biberde beyaz sinek", "orkidede unlu bit")
+for (const [k, t] of [['yaprak-biti', ['yaprak biti']], ['unlu-bit', ['unlu bit']], ['beyaz-sinek', ['beyaz sinek']], ['kirmizi-orumcek', ['kırmızı örümcek']], ['kulleme', ['külleme']], ['sinekcik', ['sinek var']]]) {
+  const x = S.find((y) => y.key === k); if (x) x.sorular = [...new Set([...x.sorular, ...qpl(t)])];
+}
+
+// Ne olduğu belli olmayan "kurt / sinek / böcek" soruları: ayırt etme rehberi
+add({ key: 'kurt-genel', baslik: 'Bitkide kurt görüldüğünde: hangisi olduğu nasıl anlaşılır',
+  sorular: [...qx('bitkimde kurt var'), ...qx('çiçeğimde kurt var'), ...qx('saksıda kurt var'), 'saksıda kurtçuk var', 'toprakta kurt çıktı', 'toprakta beyaz kurt', 'saksı toprağında kurt', 'bitkide kurt', 'çiçekte kurt', 'bahçede kurt var', 'kurtlanma', 'kurtlandı', 'bitki kurtları', 'bitki kurdu nasıl yok edilir', 'kurt ilacı', 'kurtlara ne iyi gelir', 'yapraklarda kurt var', 'yaprakları kurt yemiş'],
+  nedenler: ['Toprakta ince, şeffaf-beyaz, başı siyah küçük kurtçuklar: mantar sinekçiği larvası (sürekli ıslak toprakta çoğalır)', 'Toprakta C şeklinde kıvrılmış, kalınca beyaz kurt: böcek larvası (kökleri kemirir); yaprakta yeşil-kahverengi kurt: kelebek tırtılı (yaprağı yer)'],
+  anlama: ['Kurdun nerede olduğuna bakın: toprak yüzünde mi, kökte mi, yaprakta mı, meyvenin içinde mi; boyunu ve rengini not edin'],
+  yapin: ['Toprak yüzündeki ince kurtçuklar için sulamayı azaltın, toprağın üstünü kurutun', 'Kökte kalın beyaz kurt varsa bitkiyi saksıdan çıkarıp kurtları elle toplayın, kökleri silkeleyip yeni toprağa dikin', 'Yaprakta tırtıl varsa elle toplayın, yaprak altlarındaki yumurta kümelerini temizleyin'],
+  urunler: ['genelT', 'floristSinek'], ilac: true, kaynak: ['ucipm', 'gnat'] });
+
+add({ key: 'sinek-genel', baslik: 'Bitkinin çevresinde sinek: hangisi olduğu nasıl anlaşılır',
+  sorular: [...qx('bitkimde sinek var'), ...qx('çiçeğimde sinek var'), ...qx('çiçeklerde sinek var'), 'bitkilerde sinek', 'çiçeklerin etrafında sinek', 'saksının etrafında sinekler uçuşuyor', 'evdeki bitkilerde sinek', 'bitki sineği', 'çiçek sineği', 'sinek ilacı bitki için', 'bitkiler için sinek ilacı', 'çiçeklere sinek ilacı', 'sineklere ne iyi gelir', 'sinekten nasıl kurtulurum'],
+  nedenler: ['Toprak yüzünde dolaşan, sulayınca uçuşan küçük siyah sinek: mantar sinekçiği (ıslak toprakta çoğalır)', 'Yaprak altlarında yaşayan, dokununca beyaz bulut gibi uçuşan: beyaz sinek; meyve, çöp ve kompost çevresinde kırmızı gözlü kahverengi sinek: sirke sineği'],
+  anlama: ['Saksıya hafifçe vurun: topraktan kalkıyorsa sinekçik, yaprak altından kalkıyorsa beyaz sinektir'],
+  yapin: ['Sinekçik için sulamayı azaltın, tabakta su bırakmayın, toprak yüzüne perlit serin', 'Beyaz sinek için yaprak altlarını düzenli kontrol edin, bitkisel yağ esaslı spreyi yaprak altına uygulayın', 'Ev tipi sinek ilaçlarını bitkiye sıkmayın; bitkiye zarar verir'],
+  urunler: ['floristSinek', 'neem', 'perlit'], ilac: true, kaynak: ['gnat', 'mobot'] });
+
+add({ key: 'bocek-genel', baslik: 'Bitkide böcek var: en sık görülenler',
+  sorular: [...qx('bitkimde böcek var'), ...qx('çiçeğimde böcek var'), 'bitkide böcek', 'çiçekte böcek var', 'yapraklarda böcek var', 'bitkimde küçük böcekler var', 'saksıda böcek var', 'bitki böcekleri', 'çiçek böceği', 'bitki zararlıları', 'bitkime böcek dadandı', 'bitkimde haşere var', 'bitki haşeresi', 'böcek ilacı bitki için', 'bitkiye böcek ilacı sıkılır mı', 'ev böcek ilacı bitkiye sıkılır mı'],
+  nedenler: ['Yaprak biti (sürgün uçlarında yeşil-siyah küçük böcekler), unlu bit (beyaz pamuk kümeleri), kabuklu bit (gövdeye yapışık kahverengi kabuklar)', 'Kırmızı örümcek (yaprak altında ince ağ, noktalanma), beyaz sinek (dokununca uçuşan beyaz böcekler), trips (yaprakta gümüşi lekeler)'],
+  anlama: ['Bir yaprağın altını ve sürgün uçlarını yakından inceleyin; mümkünse fotoğrafını çekin'],
+  yapin: ['Böcekli bitkiyi hemen diğerlerinden ayırın', 'Ev tipi (karasinek, hamamböceği) böcek ilaçlarını bitkiye sıkmayın; yaprakları yakabilir', 'Böceği tanıdıktan sonra ona uygun bitkisel bazlı spreyi birkaç gün arayla tekrarlayarak uygulayın'],
+  urunler: ['neem', 'floristSinek'], ilac: true, kaynak: ['ucipm', 'ucmg'] });
+
+add({ key: 'kabuklu-bit', baslik: 'Kabuklu bit (gövde ve yapraklarda kahverengi kabuklar)',
+  sorular: [...qx('kabuklu bit'), 'kabuklu bite ne iyi gelir', 'kabuklu bit ilacı', 'kabuklu bit nasıl yok edilir', 'yapraklarda kahverengi kabuklar', 'gövdede kahverengi kabuk', 'yaprakta kahverengi kabarcık', 'yapraklarda yapışık kahverengi noktalar', 'dalda beyaz kabuklar', 'limonda kabuklu bit', 'zeytinde kabuklu bit', 'defnede kabuklu bit', ...qpl(['kabuklu bit'])],
+  nedenler: ['Kabuklu bit: kendini sert ya da mumsu bir kabukla örten, yaprak ve gövdeye yapışık yaşayan böcek; bitkinin özsuyunu emer', 'Yeni alınan bitkiyle eve taşınma; havasız ve kuru ortam'],
+  anlama: ['Tırnakla kazınınca kalkan kahverengi-gri kabuklar; yapraklarda yapışkanlık ve üzerinde kararma'],
+  yapin: ['Bitkiyi ayırın; az sayıdaysa kabukları alkole batırılmış pamuk ya da yumuşak fırçayla kazıyın', 'Ağır bulaşmış dal ve yaprakları kesin', 'Bitkisel yağ esaslı spreyi birkaç gün arayla tekrarlayın; yavrular kabuk bağlamadan önce daha kolay etkilenir'],
+  urunler: ['neem'], ilac: true, kaynak: ['ucipm', 'umd'] });
+
+add({ key: 'trips', baslik: 'Trips (yapraklarda gümüşi lekeler ve siyah noktalar)',
+  sorular: [...qx('trips'), 'thrips', 'trips böceği', 'yapraklarda gümüşi lekeler', 'yapraklarda gümüş rengi lekeler', 'yapraklar gümüş gibi parlıyor', 'yapraklarda siyah noktalar ve beyaz lekeler', 'çiçeklerde ince uzun küçük böcekler', 'çiçek yaprakları lekeli ve şekilsiz', 'yaprakta minik siyah çizgi gibi böcekler', ...qp(['trips'], ['gül', 'biber', 'domates', 'salatalık', 'monstera', 'fikus', 'orkide', 'krizantem'])],
+  nedenler: ['Trips: 1–2 mm boyunda, ince uzun, sarımsı ya da siyah böcekler; yaprak ve çiçek dokusunu kazıyıp özsuyunu emer', 'Sıcak ve kuru ortamda hızla çoğalır'],
+  anlama: ['Yapraklarda gümüşi-beyaz lekeler ve bunların üzerinde minik siyah noktalar (dışkı); çiçeklerde lekelenme ve şekil bozukluğu'],
+  yapin: ['Bitkiyi ayırın, yaprakları (altları dahil) duşla iyice yıkayın; birkaç gün arayla tekrarlayın', 'Ağır zarar görmüş yaprak ve solan çiçekleri toplayın', 'Mavi ya da sarı yapışkan tuzak yetişkinleri yakalamaya yardımcı olur; doğru ürün için bitkinin fotoğrafıyla müşteri hizmetlerimize danışın'],
+  urunler: [], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'kok-unlu-biti', baslik: 'Köklerde beyaz pamuk (kök unlu biti)',
+  sorular: ['köklerde beyaz pamuk', 'kökte beyaz pamuk gibi şeyler', 'köklerde beyaz böcek', 'kökte unlu bit', 'kök unlu biti', 'saksı değiştirirken köklerde beyaz', 'toprakta beyaz pamuk gibi lekeler', 'kaktüs köklerinde beyaz pamuk', 'sukulent köklerinde beyaz'],
+  nedenler: ['Kök unlu biti: köklerde ve toprakta beyaz, mumsu kümeler halinde yaşayan böcek; özellikle kaktüs, sukulent ve salon bitkilerinde görülür'],
+  anlama: ['Bitki sulamaya rağmen büyümez ve solgun kalır; saksıdan çıkarınca kök ve toprakta beyaz pamuksu kümeler görülür'],
+  yapin: ['Bitkiyi saksıdan çıkarın, eski toprağı tamamen atın, kökleri ılık suyla iyice yıkayın; ağır bulaşmış kökleri kesin', 'Saksıyı sabunlu suyla yıkayın ya da yenisini kullanın; bitkiyi yeni toprağa dikin', 'Birkaç hafta diğer bitkilerden ayrı tutup kontrol edin'],
+  urunler: ['kaktusT', 'genelT', 'cicekT'], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'toprak-kurdu', baslik: 'Toprakta C şeklinde beyaz kurt (kökleri kemiren böcek larvası)',
+  sorular: ['toprakta beyaz kalın kurt', 'saksıda beyaz kalın kurt', 'toprakta c şeklinde kurt', 'saksıda kıvrık beyaz kurt', 'kökleri kurt yemiş', 'köklerde kurt var', 'kök kurdu', 'toprak kurdu', 'toprak kurdu nasıl yok edilir', 'bahçe toprağında beyaz kurt', 'çimde beyaz kurt', 'çim kurdu', 'mayıs böceği kurdu', 'saksıdaki bitki birden soldu toprakta kurt var', 'toprak kurdu ilacı'],
+  nedenler: ['Mayıs böceği ve benzeri böceklerin larvası: krem-beyaz renkli, başı kahverengi, C şeklinde kıvrılan kalınca kurt; kökleri kemirir', 'Saksıda genellikle dışarıda bekletilen ya da bahçe toprağı kullanılan saksılarda görülür'],
+  anlama: ['Sulamaya rağmen bitki solar, hafifçe çekince kolayca yerinden çıkar; toprakta kıvrık beyaz kurtlar görülür'],
+  yapin: ['Saksıdaysa bitkiyi çıkarın, kurtları elle toplayın, eski toprağı atıp bitkiyi yeni toprağa dikin', 'Bahçede toprağı bellerken çıkan kurtları toplayın; çimde sorun büyükse doğru yöntem için müşteri hizmetlerimize danışın', 'Saksı toprağı olarak bahçe toprağı yerine hazır saksı toprağı kullanın'],
+  urunler: ['genelT', 'cicekT'], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'saksi-solucan', baslik: 'Saksıda solucan çıktı',
+  sorular: [...qx('saksıda solucan var'), 'saksıda solucan çıktı', 'saksı dibinden solucan çıkıyor', 'saksıdaki solucanlar zararlı mı', 'toprakta solucan var zararlı mı', 'saksıdaki solucan nasıl çıkarılır', 'saksı diplerinde solucan', 'bitkimin toprağında solucan var', 'solucan bitkiye zarar verir mi', 'saksıda solucan zararlı mı', 'saksıda solucan çıktı zararlı mı', 'toprakta solucan zararlı mı'],
+  nedenler: ['Toprak solucanı bitkiye zarar vermez; bahçede toprağı havalandırıp besler', 'Saksıya genellikle bahçe toprağından ya da saksı yere konduğunda drenaj deliğinden girer'],
+  anlama: ['Saksıda çok sayıda solucan toprağı tünellerle bozabilir, drenaj deliğini tıkayıp saksı dibinden çıkabilir'],
+  yapin: ['Az sayıdaysa dert etmeyin; rahatsız ediyorsa saksıyı bir kova suya toprak hizasına kadar 15–20 dakika batırın, yüzeye çıkan solucanları bahçeye bırakın', 'Saksıyı doğrudan toprağa değil, bir tabak ya da altlığa koyun', 'Saksı değiştirirken hazır saksı toprağı kullanın'],
+  urunler: ['genelT'], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'bozkurt', baslik: 'Fidelerin dipten kesilmesi (gece çıkan toprak tırtılı)',
+  sorular: ['fideler dipten kesilmiş', 'fideleri gece bir şey kesiyor', 'fidelerim devrilmiş dibinden kopmuş', 'domates fidesi dibinden kesildi', 'biber fidesini kurt kesmiş', 'toprakta gri kıvrık tırtıl', 'fide kurdu', 'bozkurt', 'toprak tırtılı', 'fideleri kesen kurt'],
+  nedenler: ['Toprak tırtılları (bozkurt): gündüz toprakta saklanan, geceleri çıkıp genç fideleri toprak hizasından kesen gri-kahverengi tırtıllar'],
+  anlama: ['Sabah fidelerin dipten kesilip devrildiğini görürsünüz; fide dibinin birkaç santim altında kıvrılmış tırtıl bulunur'],
+  yapin: ['Kesilen fidenin çevresindeki toprağı hafifçe karıştırıp tırtılı bulun ve toplayın; akşam karanlıkta fenerle kontrol etmek işe yarar', 'Fidelerin gövdesine karton ya da plastik şişeden kesilmiş bir yaka geçirip 2–3 cm toprağa gömün', 'Dikimden önce yabani otları temizleyin; tırtıllar otlarda barınır'],
+  urunler: [], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'tirtil', baslik: 'Yaprakları yiyen tırtıl (yeşil kurt)',
+  sorular: ['yaprakları kurt yiyor', 'yapraklar delik deşik', 'yapraklarda delikler var', 'yapraklar yenmiş', 'yaprakları bir şey yiyor', 'yaprakta yeşil kurt', 'lahanada kurt', 'lahana kurdu', 'yapraklarda tırtıl', 'tırtıl nasıl yok edilir', 'tırtıla ne iyi gelir', 'gülde yeşil kurt', 'domates yaprağını kurt yiyor', 'roka yaprakları delik', 'fesleğen yaprakları delik delik', ...qp(['yaprakları delik delik'], ['gül', 'domates', 'lahana', 'roka', 'fesleğen', 'ıspanak', 'marul', 'biber', 'nane'])],
+  nedenler: ['Kelebek ve güve tırtılları: yaprakları kenarından ya da ortasından yer; altlarda yeşil-siyah dışkı tanecikleri bırakır', 'Salyangoz ve sümüklü böcek de yaprak deler; yaprakta parlak sümük izi varsa onlardır'],
+  anlama: ['Yaprak altlarını ve yeni sürgünleri inceleyin; tırtıl, yumurta kümesi ya da dışkı tanecikleri arayın'],
+  yapin: ['Tırtılları ve yaprak altındaki yumurta kümelerini elle toplayın; birkaç gün üst üste kontrol edin', 'Sebzelerin üzerini ince tül örtüyle kapatmak kelebeklerin yumurta bırakmasını önler', 'Sorun büyükse doğru ürün için bitkinin fotoğrafıyla müşteri hizmetlerimize danışın'],
+  urunler: [], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'galeri-sinegi', baslik: 'Yapraklarda beyaz yollar, tüneller (galeri sineği / güve)',
+  sorular: ['yapraklarda beyaz yollar', 'yapraklarda beyaz çizgiler var', 'yaprakta kıvrımlı beyaz çizgiler', 'yaprağın içinde tünel', 'yaprak içinde kurt var', 'yaprak galeri sineği', 'galeri sineği', 'domates güvesi', 'tuta', 'domates yaprağında beyaz lekeler ve delik', 'domates meyvesinde delik', 'domateste kurt', 'domatesin içinden kurt çıktı', 'limon yaprağında beyaz yollar', 'narenciye yaprak galerisi', 'ıspanak yaprağında beyaz lekeler'],
+  nedenler: ['Galeri sineği ve güve larvaları: yaprağın iki yüzü arasında yaşayıp beslenir, arkasında kıvrımlı beyaz yollar ya da saydam lekeler bırakır', 'Domates güvesi yaprağın yanında meyveyi ve gövdeyi de deler'],
+  anlama: ['Yaprağı ışığa tutunca tünelin ucunda küçük bir larva görülür'],
+  yapin: ['Tünelli yaprakları ve delikli meyveleri koparıp kapalı bir torbada atın (komposta koymayın)', 'Sera ya da balkon girişlerine ince tül gerin; yabani otları temizleyin', 'Domates güvesi için feromonlu tuzaklar kullanılabilir; sorun büyükse müşteri hizmetlerimize danışın'],
+  urunler: [], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'meyve-kurdu', baslik: 'Meyvenin içinden kurt çıkıyor',
+  sorular: ['elmanın içinden kurt çıkıyor', 'elma kurtlu', 'elmada kurt var', 'armutta kurt', 'kiraz kurtlu', 'kirazda kurt var', 'erikte kurt', 'şeftalide kurt', 'ayvada kurt', 'cevizde kurt', 'zeytinde kurt', 'meyveler kurtlu', 'meyvenin içinde kurt', 'meyve kurdu', 'meyve kurtlanıyor ne yapmalıyım', 'meyveler kurtlanıp dökülüyor', 'incirde kurt', 'mandalinada kurt', 'meyve sineği kurdu'],
+  nedenler: ['Elma, armut, ayva ve cevizde içkurdu (güve tırtılı) meyveyi delip çekirdeğe ulaşır', 'Kiraz, şeftali, incir ve narenciyede meyve sinekleri meyveye yumurta bırakır; kurtçuklar meyve etinde beslenir'],
+  anlama: ['Meyve kabuğunda küçük delik ve çevresinde kahverengi talaş benzeri dışkı; meyve erken olgunlaşıp dökülür'],
+  yapin: ['Kurtlu ve yere dökülen meyveleri düzenli toplayıp imha edin; yerde bırakmayın (kurtlar toprağa geçip ertesi yıl çıkar)', 'Ağaç altını temiz tutun; kışın gövdedeki kabuk çatlaklarını kontrol edin', 'Bu zararlılarda mücadele zamanı çok önemlidir; ertesi yıl için doğru zamanlamayı müşteri hizmetlerimize danışın'],
+  urunler: [], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'sirke-sinegi', baslik: 'Saksı ve meyve çevresinde kırmızı gözlü küçük sinekler (sirke sineği)',
+  sorular: ['sirke sineği', 'meyve sineği', 'mutfakta küçük sinekler', 'meyvelerin üstünde küçük sinekler', 'kompostta sinek', 'kırmızı gözlü küçük sinek', 'kahverengi küçük sinekler', 'çöpün etrafında küçük sinek', 'meyve sineği nasıl yok edilir'],
+  nedenler: ['Sirke sineği: olgun ve çürüyen meyve, meyve suyu, kompost ve çöpte çoğalan, kırmızı gözlü kahverengi küçük sinek; bitkiye zarar vermez'],
+  anlama: ['Saksı toprağından değil, meyve kâsesinden ve çöpten kalkar; toprakta dolaşan siyah sinekler ise mantar sinekçiğidir'],
+  yapin: ['Olgun meyveleri buzdolabına alın, çöpü ve kompost kabını kapalı tutun', 'Bir kaba biraz elma sirkesi ve bir damla bulaşık deterjanı koyup üzerini delikli streçle kapatarak tuzak yapın', 'Ev tipi sinek ilaçlarını bitkilerin üzerine sıkmayın'],
+  urunler: [], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'karinca', baslik: 'Bitkide ve saksıda karınca',
+  sorular: [...qx('saksıda karınca var'), ...qx('bitkide karınca var'), 'ağaçta karınca var', 'saksıya karınca yuva yapmış', 'karıncalar bitkiye zarar verir mi', 'gülde karınca', 'şeftalide karınca', 'karınca ilacı bitkiye', 'yapraklarda karınca dolaşıyor', 'karınca nasıl uzaklaştırılır'],
+  nedenler: ['Karıncalar çoğunlukla yaprak biti, unlu bit ve kabuklu bitin bıraktığı tatlı yapışkan maddeyi toplar; karınca varsa önce bu böcekleri arayın', 'Kuru saksı toprağına yuva da yapabilirler'],
+  anlama: ['Karıncaların gittiği sürgün uçlarına ve yaprak altlarına bakın; orada genellikle bit kolonisi vardır'],
+  yapin: ['Asıl sorun olan biti temizleyin; bit gidince karınca da gider', 'Saksıda yuva varsa saksıyı bir kova suya toprak hizasına kadar 20–30 dakika batırın ya da toprağı değiştirin', 'Ev tipi karınca ilaçlarını bitkiye ve saksı toprağına uygulamayın'],
+  urunler: ['neem'], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'catal-kuyruk', baslik: 'Toprakta zıplayan minik beyaz böcekler',
+  sorular: ['toprakta zıplayan beyaz böcekler', 'saksıda zıplayan minik böcekler', 'toprakta beyaz minik böcekler', 'sulayınca topraktan beyaz böcekler çıkıyor', 'saksı tabağında küçük beyaz böcekler', 'toprakta minik beyaz kurtçuklar zıplıyor', 'çatal kuyruk', 'toprak piresi'],
+  nedenler: ['Çatal kuyruk (toprak piresi): 1–2 mm, beyaz-gri, zıplayan minik canlılar; çürüyen organik maddeyle beslenir, bitkiye zarar vermez', 'Toprağın sürekli ıslak kalması'],
+  anlama: ['Sulayınca toprak yüzüne çıkar ve zıplar; bitkide zarar görülmez'],
+  yapin: ['Sulama aralığını açın, toprağın üstünü kurutun; tabakta su bırakmayın', 'Toprak yüzündeki çürüyen yaprakları toplayın', 'Rahatsız ediyorsa toprağı yenileyin; bitki için ilaç gerekmez'],
+  urunler: ['perlit', 'genelT'], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'nematod', baslik: 'Köklerde urlar, şişlikler (kök-ur nematodu)',
+  sorular: ['köklerde ur var', 'köklerde şişlikler var', 'köklerde boğum boğum şişkinlik', 'kökler yumru yumru', 'nematod', 'kök ur nematodu', 'domates köklerinde ur', 'kökte topak topak şişlik', 'nematod nasıl yok edilir'],
+  nedenler: ['Kök-ur nematodu: toprakta yaşayan, gözle görülmeyen kurtçuklar; köklerde boğum boğum urlar oluşturur, bitki su ve besin alamaz', 'Aynı yere her yıl aynı sebzeyi (domates, biber, salatalık) dikmek'],
+  anlama: ['Bitki sıcakta çabuk solar, cılız kalır; sökünce köklerde kolayca ayrılmayan şişlikler görülür (bezelye-fasulye köklerindeki faydalı yumrular parmakla kolayca ayrılır)'],
+  yapin: ['Hastalıklı bitkileri kökleriyle birlikte söküp atın; saksıdaysa toprağı tamamen yenileyin', 'Bahçede o yere 3–4 yıl domates, biber, patlıcan, salatalık dikmeyin; ekim nöbeti yapın', 'Toprağı organik maddeyle zenginleştirin; doğru mücadele için müşteri hizmetlerimize danışın'],
+  urunler: ['solucan', 'genelT'], ilac: false, kaynak: ['ucipm'] });
+
+// --- Hastalıklar ---
+add({ key: 'yaprak-lekesi', baslik: 'Yapraklarda kahverengi ya da siyah lekeler',
+  sorular: [...qx('yapraklarda kahverengi lekeler'), ...qx('yapraklarda siyah lekeler'), 'yapraklarda leke var', 'yapraklarda lekeler oluştu', 'yapraklarda sarı halkalı kahverengi leke', 'yapraklarda yuvarlak lekeler', 'yapraklarda kara lekeler', 'yapraklar lekelendi', 'yaprak lekesi hastalığı', 'yapraklarda mantar lekesi', 'yapraklarda sulu lekeler', ...qp(['yapraklarında leke'], ['biber', 'limon', 'kauçuk', 'monstera', 'sardunya', 'çilek', 'ortanca', 'fesleğen', 'zeytin'])],
+  nedenler: ['Mantar ya da bakteri kaynaklı yaprak lekesi: genellikle yaprakların uzun süre ıslak kalması, sık dikim ve havasız ortamda yayılır', 'Lekeler kuru ve yaprak kenarındaysa güneş yanığı, kuru hava ya da gübre yanığı da olabilir'],
+  anlama: ['Hastalık lekesi genellikle yuvarlaktır, çevresinde sarı bir hale olur ve yayılır; yanık lekesi ise kurudur ve güneş gören tarafta toplanır'],
+  yapin: ['Lekeli yaprakları koparıp atın (komposta koymayın), makas ve elinizi sonra yıkayın', 'Yaprakları ıslatmadan dibinden sulayın; sabah saatlerinde sulayın, bitkiler arasında hava dolaşımı sağlayın', 'Mantar önleyici bitki spreyini ürün etiketine göre uygulayın'],
+  urunler: ['floristMantar'], ilac: true, kaynak: ['ucipm', 'ncsu'] });
+
+add({ key: 'pas', baslik: 'Pas hastalığı (yaprak altında turuncu kabarcıklar)',
+  sorular: [...qx('pas hastalığı'), 'yaprak altında turuncu noktalar', 'yapraklarda turuncu kabarcıklar', 'yapraklarda pas lekesi', 'yapraklarda pas rengi toz', 'gülde pas', 'sardunyada pas', 'nanede pas', 'fasulyede pas', 'yapraklarda kahverengi kabarık noktalar', 'pas hastalığına ne iyi gelir'],
+  nedenler: ['Pas: yaprağın alt yüzünde turuncu-kahverengi, toz salan kabarcıklar oluşturan mantar hastalığı; nemli ve ılık havada yayılır'],
+  anlama: ['Yaprak altında parmağa turuncu toz bırakan kabarcıklar, üst yüzde sarı lekeler; yapraklar sararıp dökülür'],
+  yapin: ['Hastalıklı yaprakları hemen toplayıp atın; dökülen yaprakları yerden temizleyin', 'Yaprakları ıslatmadan sulayın, bitkiyi havadar bir yere alın, sık dikilmişse seyreltin', 'Mantar önleyici bitki spreyini ürün etiketine göre uygulayın; sorun büyükse müşteri hizmetlerimize danışın'],
+  urunler: ['floristMantar'], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'mildiyo', baslik: 'Mildiyö (yaprak üstünde sarı leke, altında gri-mor küf)',
+  sorular: [...qx('mildiyö'), 'mildiyo', 'yaprak üstünde sarı lekeler altında gri küf', 'yaprak altında mor tüylü küf', 'asmada mildiyö', 'üzümde mildiyö', 'salatalıkta mildiyö', 'fesleğende mildiyö', 'fesleğen yaprakları kararıyor', 'gülde mildiyö', 'yapraklarda yağ lekesi gibi sarı lekeler'],
+  nedenler: ['Mildiyö: serin ve çok nemli havada yayılan bir hastalık; yaprak üstünde damarlarla sınırlı sarı lekeler, altında grimsi-mor tüylenme yapar'],
+  anlama: ['Külleme yaprağın üstünde beyaz un gibidir ve silinir; mildiyönün küfü yaprağın altındadır ve lekeler zamanla kahverengileşir'],
+  yapin: ['Hastalıklı yaprakları toplayıp atın', 'Yaprakları ıslatmayın, akşam sulamayın; bitkiler arasını açarak havalandırın', 'Asma ve sebzelerde hastalık yayılıyorsa doğru ürün ve zamanlama için müşteri hizmetlerimize danışın'],
+  urunler: [], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'gri-kuf', baslik: 'Gri küf (çiçek ve meyvelerde gri tüylü çürüme)',
+  sorular: ['çileklerde gri küf', 'çilek çürüyor', 'çilekler küfleniyor', 'meyvelerde gri küf', 'çiçeklerde gri küf', 'çiçekler çürüyor', 'gri tüylü küf', 'kurşuni küf', 'yapraklarda gri tüylü küf', 'domateste gri küf', 'üzüm salkımı çürüyor', 'sıklamen çürüyor gri küf', 'botrytis'],
+  nedenler: ['Gri küf (kurşuni küf): serin, nemli ve havasız ortamda solan çiçek, olgun meyve ve yaralı dokuda başlayan mantar hastalığı'],
+  anlama: ['Çürüyen dokunun üstünde dokununca toz kaldıran gri, tüylü küf'],
+  yapin: ['Küflü meyve, çiçek ve yaprakları hemen toplayıp atın; solan çiçekleri düzenli temizleyin', 'Bitkileri havalandırın, yaprak ve meyveleri ıslatmayın; çileklerin altına saman ya da malç sererek meyvenin toprağa değmesini önleyin', 'Sık dikimden ve fazla azotlu gübreden kaçının'],
+  urunler: ['floristMantar'], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'fumajin', baslik: 'Yapraklarda siyah is tabakası (fumajin)',
+  sorular: ['yapraklarda siyah tabaka', 'yapraklar simsiyah oldu', 'yapraklarda kurum gibi siyahlık', 'yapraklarda siyah toz', 'yapraklar yapışkan ve siyah', 'limon yaprakları siyah', 'zeytin yaprakları siyah', 'fumajin', 'yapraklarda is', 'yapraklar kapkara oldu'],
+  nedenler: ['Fumajin: yaprak biti, unlu bit, kabuklu bit ve beyaz sineğin bıraktığı tatlı yapışkan madde üzerinde gelişen siyah küf; asıl sorun bu böceklerdir'],
+  anlama: ['Siyah tabaka ıslak bezle silinince çıkar; altında yaprak genellikle sağlamdır; yakında yapışkanlık ve böcek bulunur'],
+  yapin: ['Önce yapışkan maddeyi bırakan böceği bulun ve temizleyin; böcek gidince fumajin de durur', 'Yaprakları ılık su ve yumuşak bezle silin', 'Bitkisel yağ esaslı spreyi birkaç gün arayla uygulayın'],
+  urunler: ['neem'], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'solgunluk-hastaligi', baslik: 'Sulamaya rağmen solma ve kuruma (solgunluk hastalığı)',
+  sorular: ['domates sulamama rağmen soluyor', 'domates bir dalı kurudu', 'biber sulamaya rağmen soluyor', 'patlıcan soluyor', 'domates yaprakları tek taraftan sararıp kuruyor', 'domates aniden soldu', 'gövdenin içi kahverengi', 'solgunluk hastalığı', 'fusarium', 'kavun soluyor', 'karpuz fidesi soldu', 'salatalık aniden soldu'],
+  nedenler: ['Toprak kaynaklı solgunluk hastalıkları: bitkinin su borularını tıkar; bitki sulansa bile solar, yapraklar çoğu zaman bir taraftan sararır', 'Aynı yere her yıl aynı sebzeyi dikmek hastalığı toprakta biriktirir'],
+  anlama: ['Toprak nemliyken bitki gün ortasında solup akşam toparlanıyorsa ve gövde dibi kesilince içi kahverengi görünüyorsa solgunluk hastalığı olabilir'],
+  yapin: ['Hastalanan bitkiyi kökleriyle söküp atın (komposta koymayın)', 'O yere 3–4 yıl domates, biber, patlıcan dikmeyin; saksıda toprağı tamamen yenileyin', 'Bir sonraki dikimde hastalığa dayanıklı ya da aşılı fide tercih edin; aşırı sulamadan kaçının'],
+  urunler: ['genelT', 'humix'], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'kok-bogazi', baslik: 'Gövdenin dipten kararıp yumuşaması (kök boğazı çürüklüğü)',
+  sorular: ['gövdesi dipten çürüdü', 'gövde dibi kararıyor', 'gövde dibi yumuşadı', 'kaktüsün dibi yumuşadı', 'kaktüs dipten çürüyor', 'sukulent dipten çürüdü', 'sukulent gövdesi siyahlaştı', 'biber gövdesi dipten kararıyor', 'gövdesi siyah ve yumuşak', 'kök boğazı çürüklüğü', 'orkide gövdesi çürüdü', 'paşa kılıcı dipten çürüyor', 'zamioculcas gövdesi yumuşadı'],
+  nedenler: ['Kök boğazı çürüklüğü: fazla sulama, drenajsız saksı ve gövdenin derine gömülmesiyle toprak hizasında başlayan çürüme', 'Soğuk ve ıslak toprak, özellikle kaktüs ve sukulentlerde hızla ilerler'],
+  anlama: ['Gövde dibi kahverengi-siyah, yumuşak ve sulu olur; çoğu zaman kötü koku vardır'],
+  yapin: ['Sulamayı hemen kesin; bitkiyi saksıdan çıkarıp çürük kısımları temiz bir bıçakla kesin', 'Kaktüs ve sukulentte sağlam üst kısmı kesip birkaç gün kurutun, sonra kuru kaktüs toprağına dikerek yeniden köklendirin', 'Bitkiyi gövdesini gömmeden, drenajlı saksıda süzek toprağa dikin'],
+  urunler: ['kaktusT', 'perlit'], ilac: false, kaynak: ['ucipm', 'illinois'] });
+
+add({ key: 'virus', baslik: 'Yapraklarda alaca desen, kıvırcıklık (virüs hastalığı)',
+  sorular: ['yapraklarda alaca desen', 'yapraklarda mozaik desen', 'yapraklar kıvırcık oldu', 'yapraklar buruş buruş', 'yapraklar küçük ve şekilsiz çıkıyor', 'domates yaprakları kıvrılıyor ve sararıyor', 'biber yaprakları buruşuk', 'yapraklarda açık koyu yeşil desen', 'virüs hastalığı', 'bitkide virüs var mı'],
+  nedenler: ['Virüs hastalıkları: yaprak biti, beyaz sinek ve trips gibi böceklerle, bazen de bulaşık el ve aletlerle taşınır', 'Böcek ilacı ya da gübre virüsü iyileştirmez'],
+  anlama: ['Yapraklarda düzensiz açık-koyu yeşil desen, kıvrılma, büzülme; bitki bodur kalır ve az ürün verir'],
+  yapin: ['Hastalıklı bitkiyi söküp atın ki diğerlerine geçmesin; komposta koymayın', 'Virüsü taşıyan yaprak biti, beyaz sinek ve tripsle erken mücadele edin', 'Budama ve hasatta aletlerinizi sık temizleyin; bir sonraki dikimde sağlıklı fide kullanın'],
+  urunler: ['neem'], ilac: false, kaynak: ['ucipm'] });
+
+add({ key: 'domates-yaniklik', bitki: 'Domates', baslik: 'Domates yapraklarında halka halka lekeler, kararma (yanıklık)',
+  sorular: ['domates yapraklarında kahverengi lekeler', 'domates yaprakları kararıyor', 'domates yapraklarında halka halka lekeler', 'domates yaprakları alttan sararıp lekeleniyor', 'domates yaprakları yanmış gibi', 'domateste mildiyö', 'domates yanıklığı', 'domates gövdesinde kahverengi leke', 'domates meyvesinde kahverengi sert leke', 'domates kurudu yaprakları siyah'],
+  nedenler: ['Erken yanıklık: alt yaşlı yapraklarda iç içe halkalı kahverengi lekeler, çevresinde sararma', 'Geç yanıklık (mildiyö): serin ve yağışlı havada yaprak ve gövdede hızla büyüyen koyu, sulu lekeler; meyvede kahverengi sert leke'],
+  anlama: ['Lekeler alttaki yapraklardan başlayıp yukarı çıkıyorsa ve halka deseni varsa erken yanıklık, birkaç günde tüm bitkiyi kaplıyorsa geç yanıklık olabilir'],
+  yapin: ['Lekeli yaprakları hemen koparıp atın; toprağa değen alt yaprakları temizleyin', 'Dibinden ve sabah sulayın, yaprakları ıslatmayın; bitkileri bağlayıp havalandırın, toprağın üstüne malç serin', 'Ertesi yıl domatesi aynı yere dikmeyin; sorun yayılıyorsa müşteri hizmetlerimize danışın'],
+  urunler: [], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'gul-kara-leke', bitki: 'Gül', baslik: 'Gülde siyah lekeler ve yaprak dökülmesi (kara leke)',
+  sorular: ['gül yapraklarında siyah lekeler', 'gülde kara leke', 'gül yaprakları sararıp dökülüyor', 'gül yapraklarında siyah noktalar', 'gülde siyah leke hastalığı', 'gül yaprakları lekeli'],
+  nedenler: ['Kara leke: yaprakların ıslak kalmasıyla yayılan mantar hastalığı; kenarları saçaklı siyah lekeler yapar, yapraklar sararıp dökülür'],
+  anlama: ['Siyah lekenin çevresi sararır, hastalık alttaki yapraklardan yukarı çıkar'],
+  yapin: ['Lekeli yaprakları ve yere dökülenleri toplayıp atın', 'Yaprakları ıslatmadan dibinden sulayın, gülün içini budayarak havalandırın', 'Kış budamasında hastalıklı dalları kesin; hastalığa dayanıklı çeşitler tercih edin'],
+  urunler: [], ilac: true, kaynak: ['ucipm'] });
+
+add({ key: 'orkide-leke', bitki: 'Orkide', baslik: 'Orkide yapraklarında lekeler ve yumuşama',
+  sorular: ['orkide yapraklarında leke', 'orkide yapraklarında siyah leke', 'orkide yaprakları yumuşadı', 'orkide yapraklarında sulu leke', 'orkide yaprağı çürüyor', 'orkide yaprakları kahverengi lekeli', 'orkide mantar', 'orkide yapraklarında sarı lekeler'],
+  nedenler: ['Yaprak koltuğunda ya da yaprak üstünde kalan su: mantar ve bakteri kaynaklı lekelere ve yumuşak çürümeye yol açar', 'Havasız ortam ve fazla sulama'],
+  anlama: ['Sulu, yumuşak, hızla büyüyen kahverengi lekeler çürümeye; kuru, sert, açık renkli lekeler güneş yanığına işaret eder'],
+  yapin: ['Lekeli yaprak kısmını temiz bir makasla sağlam dokudan kesin', 'Sularken yaprak arasında ve ortadaki büyüme noktasında su bırakmayın; bitkiyi havadar tutun', 'Mantar önleyici bitki spreyini ürün etiketine göre uygulayın'],
+  urunler: ['floristMantar', 'orkideT'], ilac: true, kaynak: ['ucipm'] });
+
+// ---------- Ürünleri bağla (sitede olmayan ürün çıkarılır) ----------
+const out = [], yok = [];
+for (const s of S) {
+  // Bitkiye özel kayıtlarda ilk kalıpların "neden / ne yapmalıyım" biçimleri de olsun
+  if (s.bitki) s.sorular = [...new Set([...s.sorular, ...s.sorular.slice(0, 4).flatMap((q) => [q + ' neden', q + ' ne yapmalıyım', 'neden ' + q, q + ' nasıl düzelir'])])];
+  const urunler = (s.urunler || []).map((k) => { const [slug, fayda] = U[k]; if (!bySlug.has(slug)) { yok.push(slug); return null; } return { slug, ad: bySlug.get(slug).n.trim(), fayda }; }).filter(Boolean);
+  out.push({ ...s, urunler, kaynak: s.kaynak.map((k) => KAYNAK[k]) });
+}
+// Ürün → fayda cümlesi (ürün açıklamasıyla sınırlı); bakım kartlarındaki öneriler de bunu kullanır (akbilge-havuz.mjs)
+await writeFile('bilgi/urun-fayda.json', JSON.stringify(Object.fromEntries(Object.values(U).map(([slug, f]) => [slug, f])), null, 1) + '\n');
+await writeFile('bilgi/sorunlar.json', JSON.stringify({ _aciklama: 'Ak Bilge bitki sorunları: olası nedenler, nasıl anlaşılır, ne yapılmalı, sitemizdeki faydalı ürünler. Kesin teşhis ve ilaç dozu yok. Kaynaklar müşteriye gösterilmez. Üretici: scripts/akbilge-sorun.mjs', guncelleme: new Date().toISOString().slice(0, 10), ilacNot: ILAC_NOT, sorunlar: out }, null, 1) + '\n');
+console.log(`Bitki sorunları: ${out.length} belirti, ${out.reduce((a, s) => a + s.sorular.length, 0)} soru kalıbı, ${out.reduce((a, s) => a + s.urunler.length, 0)} ürün bağlantısı${yok.length ? '; sitede bulunamayan: ' + [...new Set(yok)].join(', ') : ''}`);

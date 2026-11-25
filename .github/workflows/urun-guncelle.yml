@@ -1,0 +1,51 @@
+name: Ürün fiyat ve görsel güncelle
+
+# veri/urun-guncelle/plan.json'daki ürünlerin fiyatını ve görsellerini iki mağazada günceller.
+# Dala push ile tetiklenince her zaman deneme (kuru) çalışır; yazma yalnız elle "uygula" ile.
+on:
+  workflow_dispatch:
+    inputs:
+      uygula:
+        description: 'Uygula (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+      plan:
+        description: 'Plan dosyası (veri/urun-guncelle/ altında)'
+        default: 'plan.json'
+      sadece:
+        description: 'Yalnız bu adresler (virgüllü slug; boşsa hepsi)'
+        default: ''
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/urun-guncelle.mjs', '.github/workflows/urun-guncelle.yml', 'veri/urun-guncelle/**']
+
+permissions:
+  contents: read
+
+concurrency: urun-guncelle
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      PLAN: veri/urun-guncelle/${{ github.event.inputs.plan || 'plan.json' }}
+      APPLY: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.uygula == 'true' && '1' || '0' }}
+      SADECE: ${{ github.event.inputs.sadece || '' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/urun-guncelle.mjs
+        env:
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası
+        run: node scripts/urun-guncelle.mjs
+        env:
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
