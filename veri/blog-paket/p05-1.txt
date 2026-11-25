@@ -1,0 +1,935 @@
+### YAZI
+slug: cilek-hastaliklari
+baslik: Çilek Hastalıkları: Yaprakta Leke, Meyvede Küf ve Kökte Çürüme
+yayin: 2026-11-15 07:15
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: çilek hastalıkları
+seo_baslik: Çilek Hastalıkları: Belirtiler, Nedenler ve Önlemler
+seo_aciklama: Çilek hastalıkları nasıl tanınır? Kurşuni küf, yaprak lekesi, külleme, kök çürüklüğü ve solgunluk için belirtiler, nedenler ve doğal önlemler.
+ozet: Çilekte yapraktaki mor lekeler, meyvedeki gri küf ya da birden solan bitkiler farklı hastalıkların işaretidir. En sık görülen çilek hastalıklarını ve onları baştan önlemenin yollarını anlatıyoruz.
+etiketler: çilek hastalıkları, çilek yetiştirme, kurşuni küf, yaprak lekesi, külleme
+gorsel: p5-cilek-hastalik
+gorsel_alt: Yapraklarında mor kenarlı lekeler bulunan çilek bitkisi
+urunler: albion-cilek-fidesi-6-adet, albion-cilek-fidesi-ciceli-12-adet, albion-cilek-fidesi-ciceli-30-adet, hg-cilek-topragi, florist-mantar-onleyici-bitki-spreyi-250-ml, cilek-yetistirme-seti
+kisaca: En sık görülen çilek hastalıkları kurşuni küf, yaprak lekesi, külleme, kök ve kök boğazı çürüklüğü ile solgunluktur. Çoğu fazla nem, sık dikim, havasız ortam ve su tutan topraktan kaynaklanır. Süzek toprak, seyrek dikim, dipten sulama, meyvenin toprağa değmemesi ve hastalıklı yaprakların toplanması en etkili önlemlerdir.
+@govde
+Çilek hastalıkları, hem bahçede hem de balkonda çilek yetiştirenlerin en sık karşılaştığı sorunların başında gelir. Bir gün yapraklarda küçük mor noktalar belirir, bir başka gün olgunlaşmak üzere olan meyvelerin üzerini gri bir küf kaplar ya da dün sağlıklı görünen bir bitki birden solar. Bu belirtilerin her biri farklı bir etkenden kaynaklanır; ama hemen hepsinin ortak bir noktası vardır: fazla nem, havasız ortam ve yorgun toprak. Kasım ayı, sonbaharda dikilen fidelerin köklendiği ve eski bitkilerin kışa girdiği bir dönemdir; yani gelecek yılın hasadını korumak için en doğru zaman şimdi. Bu yazıda en yaygın hastalıkları tek tek tanıtıyor ve çoğunu ilaca gerek kalmadan önlemenin yollarını anlatıyoruz.
+
+## En sık görülen çilek hastalıkları
+
+Çilekte görülen sorunları belirtinin çıktığı yere göre ayırmak, teşhisi kolaylaştırır. Yaprakta beliren lekeler, meyvede görülen küf ve çürüme, bitkinin tamamını etkileyen solgunluk birbirinden farklı nedenlere işaret eder. Aşağıdaki tablo, bahçede ilk bakışta neye dikkat etmeniz gerektiğini özetliyor.
+
+| Hastalık | Nerede görülür? | Tipik belirti |
+|---|---|---|
+| Kurşuni küf | Çiçek ve meyve | Meyvede kahverengi yumuşama, üzerinde gri tozlu küf |
+| Yaprak lekesi | Yaprak | Ortası açık, kenarı mor küçük yuvarlak lekeler |
+| Külleme | Yaprak, meyve | Yaprak altında beyaz pudra, yukarı kıvrılan yaprak kenarları |
+| Kök ve kök boğazı çürüklüğü | Kök, taç | Bitkinin solması, taç kesildiğinde kahverengi doku |
+| Solgunluk | Tüm bitki | Dış yapraklardan başlayan kuruma, cılız büyüme |
+
+## Kurşuni küf: meyvenin en büyük düşmanı
+
+Kurşuni küf, çilek yetiştiricisinin en çok korktuğu hastalıktır. Etken, serin ve nemli havalarda çiçeklere yerleşir; çoğu zaman meyve olgunlaşırken ortaya çıkar. Meyvenin bir köşesinde kahverengi, yumuşak bir leke belirir, kısa sürede tüm meyveyi sarar ve üzerini gri, tozlu bir küf tabakası kaplar. Toprağa değen, yağmurdan sonra kurumayan ve sık dikilmiş bitkilerin altında kalan meyveler en çok risk altındadır.
+
+Korunmanın yolu, meyvenin kuru ve havadar kalmasını sağlamaktır. Bitkilerin altına saman, çam kabuğu ya da örtü sererek meyvenin toprakla temasını kesin. Çürüyen meyveleri ve kuruyan çiçekleri hemen toplayıp bahçeden uzaklaştırın; bir tek küflü meyve, çevresindeki onlarca meyveye bulaşmaya yeter. Bu hastalığın diğer bitkilerdeki seyrini [kurşuni küf](/kursuni-kuf) yazımızda ayrıntılı olarak anlattık.
+
+## Yaprak lekesi ve külleme
+
+Yaprak lekesi, yapraklarda önce küçük mor noktalar şeklinde başlar. Noktalar zamanla büyür, ortaları griye ya da beyaza döner, kenarları mor kalır. Hafif durumlarda bitkiye fazla zarar vermez; ama lekeler çoğaldığında yaprak kurur ve bitki zayıflar. Yağmur ve yukarıdan sulama, hastalığın yayılmasını hızlandırır; çünkü etken su damlalarıyla bir yapraktan ötekine sıçrar.
+
+Külleme ise kuru ama nemli gecelerin olduğu dönemlerde, özellikle sera ve balkonlarda sık görülür. Yaprakların alt yüzünde beyaz, pudra gibi bir tabaka oluşur, yaprak kenarları yukarı doğru kıvrılır ve yaprak altı morumsu bir renk alır. Meyvelerde de mat bir görünüme ve sertleşmeye yol açabilir. Küllemenin genel özellikleri için [külleme hastalığı](/kulleme-hastaligi) yazımıza göz atabilirsiniz.
+
+Her iki hastalıkta da ilk adım, lekeli ve beyazlamış yaprakları kesip atmaktır. Sonbaharda ve kış sonunda eski, kurumuş yaprakları temizlemek, hastalık etkenlerinin kışı geçirdiği yerleri ortadan kaldırır. Mantar hastalıklarına karşı bitkiler için geliştirilmiş koruyucu spreyler, etiket talimatına uygun kullanıldığında ve hastalığın erken döneminde uygulandığında destek sağlar.
+
+[ürün:florist-mantar-onleyici-bitki-spreyi-250-ml]
+
+## Kökten gelen sorunlar: çürüklük ve solgunluk
+
+Bitkinin yaprakları sağlıklı görünürken birden sarkması, sulamaya rağmen toparlanmaması çoğu zaman kökten gelen bir sorunun işaretidir. Ağır, su tutan ve drenajı zayıf topraklarda kökler havasız kalır ve toprakta yaşayan mantarlar kökleri ve tacı çürütür. Şüphelendiğiniz bir bitkiyi söküp tacını boyuna kestiğinizde, sağlıklı beyaz doku yerine kahverengi, çürümüş bir doku görüyorsanız sorun kök ve taç çürüklüğüdür.
+
+Solgunlukta ise belirtiler daha yavaş ilerler: dış yapraklar sararıp kurur, yeni yapraklar küçük kalır, bitki cılızlaşır. Bu hastalıkların tedavisi yoktur; hastalanan bitkiler sökülüp atılmalı ve aynı yere en az üç dört yıl çilek dikilmemelidir. Bu kuralı hastalık etkenlerine duyarlı domates, patates, biber ve patlıcanın yetiştiği yerler için de uygulamak gerekir.
+
+## Çilek hastalıklarını önlemenin altın kuralları
+
+Çilek hastalıkları, tedavi etmekten çok önlemesi kolay sorunlardır. Bahçede ve saksıda uygulanabilecek en etkili önlemler şunlardır:
+
+**Sağlıklı fide ile başlayın:** Fideleri güvenilir bir kaynaktan alın; lekeli, solgun ya da kökleri kararmış fideleri dikmeyin. Sonbaharda fide dikerken dikkat edilmesi gerekenler için [sonbaharda çilek fidesi dikimi](/sonbaharda-cilek-fidesi-dikimi) yazımız yol gösterir.
+
+**Süzek bir toprak seçin:** Çilek, organik maddece zengin, hafif asidik ve suyu bekletmeyen bir toprak ister. Saksıda ve yükseltilmiş yatakta yetiştirirken çileğe özel hazırlanmış bir karışım, kök çürüklüğü riskini belirgin şekilde azaltır. Çileğin toprak isteklerini [çilek toprağı](/cilek-topragi) yazımızda ayrıntılı olarak anlattık.
+
+[ürün:hg-cilek-topragi]
+
+**Seyrek dikin:** Bitkiler arasında 30–35 cm mesafe bırakmak, yaprakların arasından hava geçmesini ve yağmurdan sonra çabuk kurumasını sağlar.
+
+**Dipten sulayın:** Yaprakları ve meyveleri ıslatmadan, sabah saatlerinde toprağa su verin. Akşam yapılan sulamada yapraklar gece boyunca ıslak kalır ve mantarlar için ideal ortam oluşur.
+
+**Ölçülü gübreleyin:** Fazla azot, yumuşak ve sık yapraklar oluşturarak hastalıkları davet eder. Dengeli beslemenin yolları için [çilek gübreleme](/cilek-gubreleme) yazımıza bakabilirsiniz.
+
+**Temiz tutun:** Kuru yaprakları, çürük meyveleri ve yabani otları düzenli olarak temizleyin. Kış sonunda yapılan genel temizlik, yeni sezona hastalıksız başlamanızı sağlar.
+
+## Balkonda ve saksıda çilek
+
+Saksıda yetiştirilen çilekler, bahçedekilere göre daha kolay kontrol edilir; ama dar alanda sık dizilen saksılar ve rüzgâr almayan köşeler küllemeyi ve kurşuni küfü kolaylaştırır. Saksıların altında drenaj deliği olduğundan emin olun, tabakta biriken suyu boşaltın ve saksıları birbirine değmeyecek şekilde yerleştirin. Balkonda çilek yetiştirmenin incelikleri için [balkonda çilek yetiştirme](/balkonda-cilek-yetistirme) yazımıza göz atabilirsiniz. Yeni başlayanlar için toprak, saksı ve fideyi bir arada sunan hazır setler işi kolaylaştırır.
+
+Çilek, doğru koşullar sağlandığında oldukça cömert bir bitkidir. Havadar bir yer, süzek bir toprak, dipten yapılan sulama ve düzenli bir temizlik; bu dört kurala uyduğunuzda hastalıklarla uğraşmak yerine tatlı ve sağlıklı meyvelerin tadını çıkarırsınız.
+@sss
+S: En sık görülen çilek hastalıkları nelerdir?
+C: Kurşuni küf, yaprak lekesi, külleme, kök ve kök boğazı çürüklüğü ile solgunluk en sık görülen hastalıklardır. Çoğu fazla nem, sık dikim ve su tutan topraktan kaynaklanır.
+
+S: Çilekte meyveler neden küfleniyor?
+C: Meyvede gri, tozlu küf genellikle kurşuni küften kaynaklanır. Toprağa değen, yağmurdan sonra kurumayan ve sık dikilmiş bitkilerin altında kalan meyveler risk altındadır. Malç sermek ve çürük meyveleri hemen toplamak en etkili önlemdir.
+
+S: Çilek yapraklarındaki mor lekeler nedir?
+C: Ortası açık, kenarı mor küçük yuvarlak lekeler yaprak lekesi hastalığının tipik belirtisidir. Lekeli yaprakları toplamak, dipten sulamak ve bitkileri seyrek dikmek hastalığın yayılmasını önler.
+
+S: Çilek neden birden solar?
+C: Sulamaya rağmen toparlanmayan solgunluk çoğu zaman kök ve taç çürüklüğünün ya da solgunluk hastalığının işaretidir. Hastalanan bitkiler sökülmeli ve aynı yere birkaç yıl çilek dikilmemelidir.
+
+### YAZI
+slug: kis-gubrelemesi
+baslik: Kış Gübrelemesi: Ağaç Diplerine Ne Zaman, Ne Verilir?
+yayin: 2026-11-15 08:35
+yazar: Mikdat Çelik
+kategori: gubreleme
+odak: kış gübrelemesi
+seo_baslik: Kış Gübrelemesi: Meyve Ağaçlarına Ne Zaman Ne Verilir?
+seo_aciklama: Kış gübrelemesi nasıl yapılır? Dinlenme döneminde ağaç diplerine organik gübre, doğru zaman ve yer, miktar, bağ ve bahçe için kış beslemesinin kuralları.
+ozet: Ağaçların yapraklarını döktüğü kış ayları, toprağı gelecek sezona hazırlamak için en uygun dönemdir. Kış gübrelemesinin ne zaman, nasıl ve hangi gübrelerle yapılacağını anlatıyoruz.
+etiketler: kış gübrelemesi, meyve ağacı gübreleme, ahır gübresi, solucan gübresi, organik gübre
+gorsel: p5-kis-gubre
+gorsel_alt: Dibi organik malçla örtülmüş genç meyve ağacı ve sebzeler
+urunler: kati-solucan-gubresi-20-kg, leonardit-organik-toprak-duzenleyici, guanokalong-yarasa-gubresi-toz
+kisaca: Kış gübrelemesi, ağaçların dinlenmede olduğu aralık–şubat döneminde, toprak donmuş ve çok ıslak değilken yapılır. Amaç bitkiyi hemen beslemek değil, toprağı ilkbahara hazırlamaktır. Bu dönemde yanmış ahır gübresi, kompost ve solucan gübresi gibi yavaş çözünen organik gübreler taç izdüşümüne serilip toprağa hafifçe karıştırılır.
+@govde
+Kış gübrelemesi, bahçede en çok ihmal edilen ama en çok karşılığını veren işlerden biridir. Ağaçlar yapraklarını döküp dinlenmeye çekildiğinde çoğumuz bahçeyi de unuturuz. Oysa toprağın altında hayat durmaz: kökler ılık günlerde çalışmaya devam eder, toprak canlıları organik maddeyi ayrıştırır ve ilkbaharda bitkinin kullanacağı besinler bu sessiz aylarda hazırlanır. Bu yüzden kış, ağaçlara hemen etki edecek bir gübre vermek için değil, toprağı gelecek sezona hazırlamak için en uygun zamandır. Bu yazıda kış aylarında meyve ağaçlarına, bağa ve bahçeye ne zaman, hangi gübrelerin ve nasıl verileceğini anlatıyoruz.
+
+## Kış gübrelemesinin amacı nedir?
+
+Kışın verilen gübrenin görevi, ilkbaharda uyanan ağacın ihtiyaç duyacağı besinleri toprağa önceden yerleştirmektir. Ahır gübresi, kompost ve solucan gübresi gibi organik gübreler bir anda çözünmez; toprak canlıları tarafından haftalar ve aylar içinde yavaş yavaş ayrıştırılır. Kışın serilen organik gübre, ilkbaharda tomurcuklar patlarken tam kullanılabilir hâle gelir.
+
+Bu dönemde verilen gübre, toprağın yapısını da iyileştirir. Organik madde ağır killi topraklarda havalanmayı, kumlu topraklarda ise su tutmayı artırır. Kış yağmurları organik maddenin toprağın derinlerine ulaşmasına yardım eder. Toprakta organik maddenin önemi için [toprakta organik madde](/toprakta-organik-madde) yazımıza göz atabilirsiniz.
+
+## Kış gübrelemesi ne zaman yapılır?
+
+En uygun dönem, ağaçların yapraklarını tamamen döktüğü aralık başından şubat sonuna kadar olan süredir. Ilık bölgelerde bu iş kasım sonunda başlayabilir; kışı sert geçen yerlerde ise toprağın çözüldüğü ilk günler beklenir. Önemli olan, toprağın donmuş, karla kaplı ya da su birikmiş olmadığı bir gün seçmektir. Donmuş toprağa serilen gübre karışmaz, çamurlu toprağı çiğnemek ise toprağı sıkıştırır.
+
+Sonbaharda gübreleme yaptıysanız kış gübrelemesine gerek olmayabilir. Ekim ve kasım aylarında yapılan beslemenin ayrıntıları için [meyve ağaçlarında sonbahar gübrelemesi](/meyve-agaclarinda-sonbahar-gubrelemesi) yazımıza bakabilirsiniz.
+
+## Önce toprağınızı tanıyın
+
+Gübre seçmeden önce bahçenizin toprağını tanımak, emeğinizin boşa gitmemesini sağlar. Kireçli ve pH'ı yüksek topraklarda organik madde, besinlerin bitki tarafından alınmasını kolaylaştırır; bu tür bahçelerde kompost ve solucan gübresi özellikle faydalıdır. Ağır killi topraklarda kış yağmurlarıyla su birikiyorsa, gübreyle birlikte toprağın havalanmasını artıracak organik maddeyi bol tutmak gerekir. Kumlu topraklarda ise besinler hızla yıkandığı için az ama yıllar boyunca düzenli organik madde vermek en iyi sonucu verir.
+
+Birkaç yılda bir yaptıracağınız basit bir toprak analizi, toprağınızda hangi besinin eksik, hangisinin fazla olduğunu gösterir ve gereksiz gübre harcamasını önler. Toprak tepkimesinin bitkiler için ne anlama geldiğini [toprak pH'ı](/toprak-ph-nedir) yazımızda ayrıntılı olarak anlattık.
+
+## Hangi gübreler kullanılır?
+
+Kışın tercih edilecek gübreler, yavaş çözünen ve toprağı besleyen organik gübrelerdir. Azotu yüksek ve hızlı etkili kimyasal gübreler bu dönemde kullanılmaz; çünkü bitki onları kullanamaz, yağmurla yıkanıp kaybolurlar.
+
+| Gübre | Özelliği | Not |
+|---|---|---|
+| Yanmış ahır gübresi | Toprağı besler, yapısını iyileştirir | Taze gübre kullanılmaz, en az 6 ay olgunlaşmış olmalı |
+| Kompost | Organik madde ve toprak canlıları kazandırır | Bahçe atıklarından evde yapılabilir |
+| Solucan gübresi | Dengeli ve yavaş etkili, kokusuz | Genç ağaçlarda ve saksılı ağaçlarda idealdir |
+| Leonardit | Humik asit kaynağı, toprak düzenleyici | Organik gübrelerle birlikte kullanılır |
+| Guano | Fosforca zengin | Çiçek ve meyve tomurcukları için destek |
+
+Ahır gübresinin doğru kullanımı için [ahır gübresi](/ahir-gubresi) yazımız yol gösterir. Kokusuz ve dengeli bir seçenek arayanlar için solucan gübresi, hem bahçede hem de büyük saksılardaki ağaçlarda güvenle kullanılabilir.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+## Gübre nereye ve nasıl verilir?
+
+En sık yapılan hata, gübreyi ağacın gövdesinin hemen dibine yığmaktır. Ağacın besin alan ince kökleri gövdenin dibinde değil, dalların uçlarının toprağa düşen izdüşümünde, yani taç izdüşümünde yoğunlaşır. Gübreyi bu halka boyunca, gövdeden en az 30–50 cm uzakta başlayarak serin.
+
+Uygulama için taç izdüşümü boyunca toprağı bir çapa ya da bel küreğiyle 10–15 cm derinliğe kadar hafifçe kabartın, gübreyi serin ve toprakla karıştırın. Kökleri zedelememek için derin kazmaktan kaçının. Alternatif olarak, halka boyunca 20–30 cm derinliğinde birkaç çukur açıp gübreyi bu çukurlara doldurabilirsiniz. Uygulamadan sonra üzerini malçla örtmek hem gübrenin korunmasını hem de toprağın nemini sağlar. Ağaç dibine malç sermenin yolları için [ağaç dibi malçlama](/agac-dibi-malclama) yazımıza göz atabilirsiniz.
+
+## Ne kadar gübre verilmeli?
+
+Miktar; ağacın yaşına, büyüklüğüne ve toprağın durumuna göre değişir. Genel bir fikir vermesi için şu değerler kullanılabilir: yeni dikilmiş ve genç ağaçlarda 5–10 kg yanmış ahır gübresi ya da 1–2 kg solucan gübresi, verim çağındaki ağaçlarda 15–25 kg yanmış ahır gübresi ya da 3–5 kg solucan gübresi yeterlidir. Organik madde bakımından fakir, kumlu ya da yorgun topraklarda bu miktarlar biraz artırılabilir.
+
+Leonardit, organik gübrelerle birlikte kullanıldığında toprağın besin tutma gücünü artırır ve organik maddenin daha uzun süre toprakta kalmasını sağlar.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Bağ, bahçe ve saksılarda kış beslemesi
+
+Bağlarda kış gübrelemesi, budamadan önce ya da sonra, sıra aralarına ve omca diplerine organik gübre serilerek yapılır. Sebze bahçelerinde ise boş kalan tarhlara yanmış ahır gübresi ya da kompost serilip toprağa hafifçe karıştırılır; ilkbahar ekimine kadar toprak bu gübreyi sindirir.
+
+Saksıdaki salon bitkileri ise kışın gübrelenmez. Işığın azaldığı bu dönemde bitkiler yavaş büyür ve verilen gübreyi kullanamaz; fazla gübre topraktaki tuz birikimini artırır. Saksı bitkilerinin yıl boyu beslenme takvimi için [saksı bitkileri gübreleme takvimi](/saksi-bitkileri-gubreleme-takvimi) yazımıza bakabilirsiniz. Balkonda büyük saksıda yetişen meyve ağaçlarına ise kış sonunda, toprağın üst katmanına az miktarda solucan gübresi karıştırmak yeterlidir.
+
+Çiçek ve meyve tomurcuklarını desteklemek isteyenler için fosforca zengin guano, kış sonunda organik gübreyle birlikte toprağa karıştırılabilir.
+
+## Kaçınılması gereken hatalar
+
+Taze ahır gübresini doğrudan köklere değecek şekilde vermek kökleri yakabilir. Kışın azotlu kimyasal gübre kullanmak hem paranızı hem de suyu kirletir. Donmuş ya da çamurlu toprakta çalışmak toprağın yapısını bozar. Gübreyi gövdenin dibine yığmak ise kabukta çürümeye ve zararlıların yerleşmesine yol açabilir.
+
+Kış gübrelemesi, ilkbaharda bahçenizde göreceğiniz canlılığın görünmeyen hazırlığıdır. Bu kış bir öğleden sonranızı ayırıp ağaçlarınızın dibine organik gübre serdiğinizde, tomurcuklar patladığında farkı kendiniz göreceksiniz.
+@sss
+S: Kış gübrelemesi ne zaman yapılır?
+C: Ağaçların yapraklarını döktüğü aralık başından şubat sonuna kadar, toprağın donmuş, karla kaplı ya da çamurlu olmadığı bir günde yapılır. Ilık bölgelerde kasım sonunda başlanabilir.
+
+S: Kışın ağaçlara hangi gübre verilir?
+C: Yanmış ahır gübresi, kompost ve solucan gübresi gibi yavaş çözünen organik gübreler verilir. Azotu yüksek ve hızlı etkili kimyasal gübreler kışın kullanılmaz; bitki bunları kullanamaz ve yağmurla yıkanırlar.
+
+S: Gübre ağacın neresine verilir?
+C: Gövdenin dibine değil, dalların uçlarının toprağa düşen izdüşümüne verilir. Besin alan ince kökler bu halkada yoğunlaşır. Gübre serilip toprağa hafifçe karıştırılır ya da halka boyunca açılan çukurlara doldurulur.
+
+S: Saksı bitkileri kışın gübrelenir mi?
+C: Salon bitkileri kışın gübrelenmez. Işık azaldığı için yavaş büyürler ve gübreyi kullanamazlar; fazla gübre toprakta tuz birikimine yol açar. Gübrelemeye ilkbaharda yeniden başlanır.
+
+### YAZI
+slug: yasemin-bakimi
+baslik: Yasemin Bakımı: Salonda, Balkonda ve Bahçede Kokulu Çiçekler
+yayin: 2026-11-15 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: yasemin bakımı
+seo_baslik: Yasemin Bakımı: Işık, Sulama, Budama ve Çiçeklenme
+seo_aciklama: Yasemin bakımı nasıl yapılır? Salon, kış ve yaz yasemini farkları, ışık, sulama, toprak, kışın serin dinlenme, budama zamanı ve bol çiçek için öneriler.
+ozet: Yasemin, kokusuyla evleri ve bahçeleri dolduran en sevilen çiçeklerdendir. Hangi yaseminin nerede yetişeceğini ve bol çiçek için bakımın inceliklerini anlatıyoruz.
+etiketler: yasemin bakımı, salon yasemini, kış yasemini, kokulu çiçekler, sarılıcı bitkiler
+gorsel: p5-yasemin
+gorsel_alt: Pembe tomurcukları ve beyaz çiçekleriyle salon yasemini
+urunler: hg-cicek-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini, cornet-ic-dis-mekan-tabakli-dekoratif-saksi-12-litre
+kisaca: Yasemin bakımı türüne göre değişir. Salon yasemini parlak ışık ister ve tomurcuk bağlaması için kışın 10–15 °C'lik serin bir dinlenmeye ihtiyaç duyar. Kış yasemini bahçede ocak–mart arasında sarı çiçek açar. Hepsi süzek, organik maddece zengin toprak, düzenli ama ölçülü sulama ve çiçeklenmeden hemen sonra budama ister.
+@govde
+Yasemin bakımı, ilk bakışta zor gibi görünse de birkaç temel kuralı öğrendikten sonra oldukça keyifli bir uğraştır. Yaz akşamlarında bahçe kapılarını süsleyen beyaz çiçekler, kış sonunda salonu baştan başa kokuyla dolduran pembe tomurcuklar ve ocak ayının soğuğunda açan sarı çiçekler aynı ailenin farklı üyeleridir. Yaseminin en çok merak edilen sorusu ise neden çiçek açmadığıdır; bu sorunun cevabı çoğu zaman yanlış yer ve kışın fazla sıcak tutulan bir odadır. Bu yazıda hangi yaseminin nerede yetiştiğini, ışık, su ve toprak isteklerini, kış dinlenmesini ve budamayı anlatıyoruz.
+
+## Hangi yasemin, nerede yetişir?
+
+Yasemin adıyla satılan bitkiler birbirinden oldukça farklı bakım ister. Bakıma başlamadan önce elinizdeki bitkinin hangisi olduğunu bilmek, başarının yarısıdır.
+
+| Tür | Çiçek | Nerede? |
+|---|---|---|
+| Salon yasemini (Jasminum polyanthum) | Pembe tomurcuk, beyaz ve çok kokulu çiçek, şubat–nisan | Saksıda, serin ve aydınlık iç mekân, ılık bölgelerde bahçe |
+| Kış yasemini (Jasminum nudiflorum) | Sarı, kokusuz çiçek, ocak–mart | Bahçe, çit ve duvar önü, soğuğa dayanıklı |
+| Yaz yasemini (Jasminum officinale) | Beyaz, kokulu çiçek, haziran–eylül | Bahçe, pergola ve çit, ılıman bölgeler |
+| Arap yasemini (Jasminum sambac) | Beyaz, yoğun kokulu çiçek, yaz boyu | Saksıda, sıcak ve aydınlık ortam |
+
+Halk arasında yıldız yasemini denen bitki (Trachelospermum) ve gardenya da sıkça yaseminle karıştırılır. Gardenya bakımının ayrıntıları için [gardenya bakımı](/gardenya-bakimi) yazımıza göz atabilirsiniz.
+
+## Işık ve yer seçimi
+
+Yaseminlerin hepsi bol ışık sever. Salon yasemini ve Arap yasemini evde, günde en az birkaç saat doğrudan ya da parlak dolaylı ışık alan bir pencere önünde bulunmalıdır. Güney ve batı pencereleri idealdir. Yetersiz ışıkta sürgünler uzar, yapraklar seyrelir ve bitki çiçek açmaz.
+
+Bahçede yetiştirilen yaz ve kış yaseminleri için güneşli ya da yarı gölge, rüzgârdan korunaklı bir yer seçin. Sarılıcı türler için bir çit, tel ya da pergola gibi tutunacakları bir destek gerekir. Kış yasemini ise sarılmaz; uzun ve esnek dallarını bir duvara yaslayarak ya da yüksek bir yerden aşağı sarkıtarak kullanılabilir.
+
+## Toprak ve saksı
+
+Yasemin, organik maddece zengin, nemi tutan ama suyu bekletmeyen süzek bir toprak ister. Saksıda yetiştirirken kaliteli bir çiçek toprağına bir miktar perlit eklemek drenajı iyileştirir. Saksının altında mutlaka drenaj deliği olmalıdır.
+
+[ürün:hg-cicek-topragi]
+
+Salon yasemini hızlı büyüyen bir sarılıcıdır; iki üç yılda bir, ilkbaharda çiçeklenme bittikten sonra bir boy büyük saksıya alınması gerekir. Saksı değiştirme zamanı ve yöntemi için [saksı değiştirme rehberi](/saksi-degistirme-rehberi) yazımız yol gösterir.
+
+[ürün:cornet-ic-dis-mekan-tabakli-dekoratif-saksi-12-litre]
+
+## Yasemin bakımında sulama ve nem
+
+Büyüme ve çiçeklenme döneminde toprağın üst 2–3 santimetresi kuruduğunda bol su verin ve saksı tabağında biriken suyu boşaltın. Yasemin toprağının tamamen kurumasından da sürekli ıslak kalmasından da hoşlanmaz. Kışın, serin dinlenme döneminde sulama azaltılır; toprak hafif nemli tutulur.
+
+Kaloriferli evlerde kuru hava, tomurcukların dökülmesine ve kırmızı örümcek gibi zararlılara yol açabilir. Saksıyı ıslak çakıl dolu bir tabağın üzerine koymak ya da diğer bitkilerle gruplamak nemi artırır. Kışın evde nem dengesini korumanın yolları için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza göz atabilirsiniz.
+
+## Kış dinlenmesi: çiçek açtırmanın sırrı
+
+Salon yaseminin kış sonunda çiçek açabilmesi için sonbahar ve kış başında birkaç hafta serin bir dönem geçirmesi gerekir. Bu dönemde gece sıcaklıklarının 10–15 °C civarında olması, bitkinin tomurcuk bağlamasını tetikler. Bütün kış 22–24 °C'lik sıcak bir salonda tutulan yaseminler genellikle yeşil kalır ama çiçek açmaz.
+
+Bunun için kasım ve aralık aylarında bitkiyi ısıtılmayan ama donmayan, aydınlık bir odaya, kapalı bir balkona ya da serin bir merdiven boşluğuna alın. Tomurcuklar belirdiğinde ise daha ılık bir odaya taşıyabilirsiniz. Bu küçük değişiklik, şubat ve mart aylarında evinizi kokuyla dolduracak yüzlerce çiçek demektir. Kışın açan diğer bitkiler için [kışın çiçek açan bitkiler](/kisin-cicek-acan-bitkiler) yazımıza bakabilirsiniz.
+
+## Gübreleme
+
+İlkbahardan yaz sonuna kadar iki üç haftada bir, çiçekli bitkiler için hazırlanmış sıvı bir besinle gübreleme yapılabilir. Azotu fazla gübreler bol yaprak ama az çiçek verir. Sonbaharda gübreleme kesilir; kış dinlenmesi sırasında gübre verilmez.
+
+## Budama
+
+Yaseminler çiçeklenme bittikten hemen sonra budanır. Salon yasemini ilkbaharda, çiçekler solduktan sonra; kış yasemini mart–nisan aylarında; yaz yasemini ise sonbaharda, çiçeklenme bittiğinde budanır. Budamada kuru, zayıf ve birbirine dolanan dallar çıkarılır, çok uzayan sürgünler kısaltılır. Yanlış zamanda, örneğin sonbaharda salon yasemini budamak, gelecek yılın çiçek tomurcuklarının kesilmesine yol açar.
+
+Salon yasemini sarılmaya çok yatkındır; saksıya yerleştirilen bir çember ya da kafes, sürgünlerin düzenli büyümesini sağlar. Büyüyen sürgünleri ara sıra desteğin etrafına sarmak, bitkiye toplu ve gösterişli bir görünüm kazandırır.
+
+## Bahçedeki yaseminleri kışa hazırlamak
+
+Bahçede yetişen kış yasemini soğuğa oldukça dayanıklıdır ve özel bir korumaya ihtiyaç duymaz; hatta çiçeklerini karın içinden açtığı bile olur. Yaz yasemini ise genellikle –10 °C'ye kadar dayanır; ama genç bitkiler ve soğuk bölgelerde yetişenler için dibe kalın bir malç sermek kökleri korur. Salon yaseminini ılık kıyı bölgelerinde bahçede yetiştirenler, sert soğuk uyarısı olduğunda bitkiyi bir örtüyle sarmalıdır.
+
+Balkonda saksıda duran yaseminlerde ise kökler soğuğa daha açıktır. Saksıyı duvar dibine çekmek, altına bir tahta koymak ve çevresini sarmak, ani soğuklarda kök zararını önler. Doğru yasemin bakımı, kışın da bitkinin kendi doğasına uygun bir dinlenme geçirmesine izin vermektir; ne fazla sıcak ne de dondurucu soğuk.
+
+## Sık görülen sorunlar
+
+Çiçek açmama genellikle yetersiz ışık, kışın fazla sıcak ortam ya da yanlış zamanda yapılan budamadan kaynaklanır. Tomurcukların dökülmesi kuru hava, ani sıcaklık değişimi ya da toprağın kurumasıyla ilgilidir. Yaprakların sararması ise çoğu zaman fazla sulamanın ya da kireçli suyun işaretidir. Yaprak altlarında ince ağlar görüyorsanız kırmızı örümcek, yapışkan yapraklar görüyorsanız yaprak biti ya da kabuklu bit olabilir.
+
+Doğru yasemin bakımı, aslında bitkinin doğasını taklit etmekten ibarettir: bol ışık, ölçülü su, kışın serin bir dinlenme ve doğru zamanda budama. Bu dengeyi kurduğunuzda yasemininiz her yıl sizi kokusuyla karşılayacaktır.
+@sss
+S: Yasemin bakımı zor mu?
+C: Zor değildir; ama türüne göre değişir. Hepsi bol ışık, süzek toprak ve ölçülü sulama ister. Salon yasemini ayrıca kış başında serin bir dinlenme dönemine ihtiyaç duyar.
+
+S: Salon yasemini neden çiçek açmaz?
+C: En sık neden, kış boyunca sıcak bir odada tutulmasıdır. Tomurcuk bağlaması için kasım ve aralık aylarında gece sıcaklığı 10–15 °C olan serin ve aydınlık bir yerde birkaç hafta kalması gerekir. Yetersiz ışık ve yanlış zamanda budama da çiçeklenmeyi engeller.
+
+S: Yasemin ne zaman budanır?
+C: Çiçeklenme bittikten hemen sonra budanır. Salon yasemini ilkbaharda, kış yasemini mart–nisanda, yaz yasemini sonbaharda budanır.
+
+S: Kış yasemini kokulu mu?
+C: Kış yasemininin sarı çiçekleri kokusuzdur. Kokulu türler salon yasemini, yaz yasemini ve Arap yaseminidir.
+
+### YAZI
+slug: bruksel-lahanasi-yetistirme
+baslik: Brüksel Lahanası Yetiştirme: Dondan Sonra Tatlanan Minik Lahanalar
+yayin: 2026-11-15 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: brüksel lahanası
+seo_baslik: Brüksel Lahanası Yetiştirme: Ekim, Bakım ve Hasat
+seo_aciklama: Brüksel lahanası nasıl yetiştirilir? Tohum ekim ve fide dikim zamanı, toprak, gübreleme, destekleme, tepe alma, dondan sonra hasat ve sık görülen sorunlar.
+ozet: Gövde boyunca dizilen minik lahanalarıyla Brüksel lahanası, kış bahçesinin en ilginç sebzelerindendir. Ekiminden hasadına kadar yetiştirmenin inceliklerini anlatıyoruz.
+etiketler: brüksel lahanası, kışlık sebze, lahana yetiştirme, kış bahçesi, sebze yetiştirme
+gorsel: p5-bruksel
+gorsel_alt: Kışın tarlada yetişen Brüksel lahanası bitkileri
+urunler: bruksel-lahanasi-fidesi-6-adet, solucan-gubreli-sebze-topragi, hasturk-kati-solucan-gubresi, moduler-yukseltilmis-bahce-yatagi-281-litre
+kisaca: Brüksel lahanası, uzun bir yetişme süresi isteyen soğuk sever bir lahanagildir. Tohumları mart–mayıs arasında ekilir, fideleri mayıs–haziranda 60 cm arayla dikilir. Organik maddece zengin, sıkı toprakta iyi gelişir. Hasat ekimden itibaren alttaki lahanalardan başlar; hafif donlardan sonra lahanalar daha tatlı olur.
+@govde
+Brüksel lahanası, bahçede yetiştirilen sebzelerin belki de en sabırlısıdır. Tohumdan hasada kadar altı yedi ay süren yolculuğunun sonunda, kalın bir gövde boyunca yaprak koltuklarına dizilmiş, ceviz büyüklüğünde onlarca minik lahana verir. En güzel yanı ise hasadın, bahçenin büyük bölümünün boşaldığı kasım ile şubat arasına denk gelmesidir. Üstelik soğuk, bu sebzenin düşmanı değil dostudur: hafif donlardan sonra lahanaların tadı belirgin şekilde tatlanır. Bu yazıda ekim zamanından toprak hazırlığına, bakımdan hasada kadar Brüksel lahanası yetiştirmenin bütün aşamalarını anlatıyoruz. Bahçesinde şu an bitkileri olanlar için de hasat ve kış bakımı bölümleri yol gösterecek.
+
+## Brüksel lahanasını tanıyalım
+
+Brüksel lahanası, lahana, karnabahar, brokoli ve kara lahana ile aynı türün bir çeşididir. Bitki 60–90 cm boyunda, kalın ve dik bir gövde oluşturur. Gövdenin üstünde geniş yapraklar bulunur; her yaprağın gövdeye bağlandığı noktada, yani yaprak koltuğunda, küçük bir baş oluşur. Lahanalar gövdenin dibinden başlayarak yukarı doğru olgunlaşır.
+
+Serin iklimi seven bir bitkidir. En iyi gelişmeyi 15–20 °C sıcaklıklarda gösterir; aşırı sıcak, başların gevşek ve açık kalmasına yol açar. Yerleşmiş bitkiler –10 °C'ye kadar soğuğa dayanabilir. Lahanagillerin genel yetiştirme bilgileri için [lahana ve kara lahana yetiştirme](/lahana-ve-karalahana-yetistirme) yazımıza göz atabilirsiniz.
+
+## Ekim ve dikim zamanı
+
+Uzun bir yetişme süresine ihtiyaç duyduğu için Brüksel lahanası erken ekilir. Tohumlar mart ile mayıs arasında viyollere ya da fide yastığına ekilir. Fideler 4–6 yapraklı olduğunda, mayıs ve haziran aylarında bahçeye dikilir. Bu takvimle ilk hasat ekim sonu ya da kasım başında başlar ve kış boyunca sürer.
+
+Ilık kıyı bölgelerinde fide dikimi temmuz başına kadar uzatılabilir. Ancak geç dikilen bitkiler kış gelmeden yeterince büyüyemez ve küçük başlar verir. Bu yüzden şu an elinizde tohum varsa, onları gelecek ilkbahar için saklamak en doğrusudur.
+
+## Toprak hazırlığı
+
+Brüksel lahanası, organik maddece zengin, nemi tutan ve sıkı bir toprak ister. Gevşek ve kabarık topraklarda kökler gövdeyi sağlam tutamaz, uzun bitkiler rüzgârda devrilir ve başlar gevşek oluşur. Bu yüzden dikimden birkaç hafta önce toprağı derin işleyip bol yanmış ahır gübresi ya da kompost karıştırmak, dikimden hemen önce ise toprağı bastırarak sıkılaştırmak gerekir.
+
+Toprak pH'ının 6,5–7,5 arasında olması idealdir; asidik topraklarda lahanagillerde kök uru hastalığı daha sık görülür. Yükseltilmiş yataklarda ve büyük kaplarda yetiştirirken sebzeye uygun, besince zengin bir karışım kullanmak işi kolaylaştırır.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Dikim aralığı ve destekleme
+
+Bitkiler büyüdükçe çok yer kaplar. Sıra üzeri ve sıra arası en az 60 cm mesafe bırakın. Fideleri saksıda olduklarından biraz daha derine, ilk gerçek yapraklarına kadar gömün ve toprağı dibinde iyice bastırın.
+
+Rüzgâr alan bahçelerde, bitkiler 40–50 cm boya ulaştığında her birinin yanına bir kazık çakıp gövdeyi gevşek bir bağla sabitleyin. Sonbaharda gövdenin dibine toprak doldurmak da bitkiyi sağlamlaştırır.
+
+## Sulama ve gübreleme
+
+Brüksel lahanası düzenli nem ister; özellikle yaz aylarında toprağın kurumasına izin vermeyin. Düzensiz sulama, başların gevşek ve acı olmasına yol açar. Dibine serilen malç toprağın nemini korur.
+
+Yaz başında ve baş oluşumu başladığında, bitkinin dibine solucan gübresi gibi dengeli bir organik gübre serip toprağa karıştırmak yeterlidir. Aşırı azot, iri yapraklar ama gevşek ve kolay çürüyen başlar oluşturur.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Tepe alma ve alt yaprakların temizlenmesi
+
+Sonbaharda, alttaki lahanalar 1–2 cm büyüklüğe ulaştığında bitkinin tepe noktasını, yani en üstteki yaprak tutamını kesmek, bitkinin enerjisini başlara yönlendirir. Bu işlem, başların daha eşit ve kısa sürede büyümesini sağlar. Kış boyunca uzun süre hasat yapmak isteyenler tepe almayı atlayabilir.
+
+Gövdenin alt kısmındaki sararan yaprakları koparmak, başların arasında hava dolaşımını artırır ve çürümeyi önler.
+
+## Hasat: dondan sonra daha lezzetli
+
+Lahanalar 2–4 cm çapa ulaştığında, sıkı ve parlak yeşil oldukları dönemde hasat edilir. Hasada gövdenin dibinden başlanır; başları aşağı doğru bastırarak ya da bir bıçakla keserek koparın. Üstteki başlar birkaç hafta içinde sırayla olgunlaşır.
+
+Hafif donlar, bitkinin dokularındaki nişastanın bir kısmını şekere dönüştürür. Bu yüzden ilk donlardan sonra toplanan lahanalar daha tatlı ve yumuşak lezzetlidir. Kışın bitkiler bahçede kalabilir ve ihtiyaç oldukça hasat yapılabilir. Hasattan sonra başlar buzdolabında birkaç gün tazeliğini korur; sezon sonunda kalan başları gövdesiyle birlikte kesip serin bir yerde asarak daha uzun süre saklayabilirsiniz.
+
+## Sık görülen sorunlar
+
+Gevşek ve açık başlar genellikle aşırı sıcak, gevşek toprak ya da fazla azottan kaynaklanır. Yapraklarda delikler lahana kelebeği tırtıllarının, yaprak altlarında gri kümeler ise lahana yaprak bitinin işaretidir. Yaz aylarında bitkilerin üzerine ince bir tül örtmek kelebeklerin yumurta bırakmasını engeller. Lahanagillerde görülen hastalıklar için [lahana hastalıkları](/lahana-hastaliklari) yazımıza bakabilirsiniz.
+
+## Küçük bahçede ve yükseltilmiş yatakta
+
+Brüksel lahanası, derin ve geniş bir yükseltilmiş yatakta da başarıyla yetişir. Bir yatakta iki üç bitki, bir ailenin kış boyunca ara ara sofraya taşıyacağı kadar hasat verir. Bitkilerin arasındaki boşluklara hızlı yetişen marul, roka ya da turp ekerek alanı verimli kullanabilirsiniz.
+
+Aynı ailenin hızlı yetişen bir başka üyesi için [brokoli yetiştirme](/brokoli-yetistirme) yazımıza, kış bahçesinde yetişebilecek diğer sebzeler için ise [kışlık sebzeler listesi](/kislik-sebzeler-listesi) yazımıza göz atabilirsiniz.
+
+## Mutfakta taze hasadın tadını çıkarın
+
+Bahçeden yeni toplanmış lahanaların tadı, marketten alınanlardan çok daha tatlı ve yumuşaktır. Hasattan sonra dış yaprakları ayıklayın, sap kısmını hafifçe kesin ve iri olanları ikiye bölün. Kısa süre buharda pişirmek ya da fırında zeytinyağıyla kızartmak, acılığı ortaya çıkarmadan doğal tatlılığını korur. Uzun süre haşlamak ise hem rengini soldurur hem de kükürtlü kokunun ağırlaşmasına yol açar. Fazla hasadı kısa süre haşlayıp soğuk suya aldıktan sonra dondurucuda aylarca saklayabilirsiniz.
+
+Brüksel lahanası sabır ister; ama bahçenin en sessiz aylarında soğuğa meydan okuyan, her hafta birkaç avuç taze sebze veren bir bitki görmek, bu sabrın en güzel ödülüdür.
+@sss
+S: Brüksel lahanası ne zaman ekilir?
+C: Tohumlar mart ile mayıs arasında viyollere ekilir, fideler mayıs ve haziran aylarında bahçeye dikilir. Bu takvimle hasat ekim sonu ya da kasım başında başlar.
+
+S: Brüksel lahanası ne zaman hasat edilir?
+C: Lahanalar 2–4 cm çapa ulaştığında, sıkı ve parlak yeşilken gövdenin dibinden başlanarak hasat edilir. Hasat kasımdan şubata kadar sürebilir; hafif donlardan sonra lahanalar daha tatlı olur.
+
+S: Brüksel lahanasının başları neden gevşek olur?
+C: Aşırı sıcak, gevşek ve kabarık toprak, düzensiz sulama ve fazla azotlu gübreleme başların gevşek ve açık kalmasına yol açar.
+
+S: Brüksel lahanası soğuğa dayanıklı mı?
+C: Evet, yerleşmiş bitkiler –10 °C'ye kadar soğuğa dayanabilir. Kış boyunca bahçede kalabilir ve ihtiyaç oldukça hasat yapılabilir.
+
+### YAZI
+slug: yesim-bitkisi-bakimi
+baslik: Yeşim Bitkisi Bakımı: Yıllarca Yaşayan Etli Yapraklı Ağaççık
+yayin: 2026-11-15 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: yeşim bitkisi
+seo_baslik: Yeşim Bitkisi Bakımı: Işık, Sulama, Toprak ve Çoğaltma
+seo_aciklama: Yeşim bitkisi nasıl bakılır? Crassula ovata için ışık, kışın sulama, süzek toprak, saksı seçimi, yaprak dökümü, çiçek açtırma ve yaprakla çoğaltma.
+ozet: Kalın gövdesi ve parlak etli yapraklarıyla yeşim bitkisi, doğru bakıldığında onlarca yıl yaşayan bir sukulenttir. Işıktan sulamaya, kış bakımından çoğaltmaya kadar her şeyi anlatıyoruz.
+etiketler: yeşim bitkisi, crassula ovata, sukulent bakımı, salon bitkileri, kolay bitkiler
+gorsel: p5-yesim
+gorsel_alt: Kalın gövdeli ve etli yapraklı yeşim bitkisi
+urunler: kaktus-ve-sukulent-topragi, florist-konsantre-sivi-kaktus-ve-sukulent-bitki-besini, kaktus-sukulent-3lu-dikim-bakim-seti
+kisaca: Yeşim bitkisi (Crassula ovata), bol ışık seven, gövdesinde ve yapraklarında su depolayan bir sukulenttir. Toprağı tamamen kuruduğunda sulanır, kışın sulama iyice azaltılır. Kaktüs ve sukulent toprağı gibi süzek bir karışım ve drenaj delikli saksı ister. Kışın serin ve aydınlık bir yerde tutulursa çiçek açabilir.
+@govde
+Yeşim bitkisi, kalın ve ağaç gibi dallanan gövdesi, parlak yeşil ve dolgun yapraklarıyla salonların en uzun ömürlü sakinlerinden biridir. Doğru bakıldığında onlarca yıl yaşayabilir, kuşaktan kuşağa aktarılan bir aile bitkisi hâline gelebilir. Az su istemesi ve dayanıklılığı sayesinde yeni başlayanlar için de idealdir. Yine de en sık yapılan hata, ona diğer salon bitkileri gibi davranıp sık sulamaktır. Kış ayları, bu bitkinin bakımında en dikkat edilmesi gereken dönemdir; çünkü hem sulama ihtiyacı en aza iner hem de doğru koşullar sağlandığında bu dönemde çiçek açar. Bu yazıda ışıktan sulamaya, topraktan çoğaltmaya kadar bakımın bütün inceliklerini anlatıyoruz.
+
+## Yeşim bitkisini tanıyalım
+
+Yeşim bitkisi (Crassula ovata), Güney Afrika'nın kurak ve taşlık yamaçlarından gelen bir sukulenttir. Doğada 1–2 metreye kadar boylanan, kalın gövdeli bir çalı oluşturur. Etli ve oval yaprakları su depolar; bu sayede uzun kuraklıklara dayanabilir. Bazı çeşitlerinin yaprak kenarları güneşte kırmızımsı bir renk alır, bazılarının yaprakları ise tüp şeklindedir.
+
+Halk arasında kimi yerde para ağacı ya da para çiçeği olarak da anılır. Ancak bu isimler başka bitkiler için de kullanıldığından karışıklığa yol açabilir. Para ağacı olarak bilinen bir başka popüler salon bitkisinin bakımını [Zamioculcas bakımı](/para-agaci-zamioculcas-bakimi) yazımızda ayrıca anlattık.
+
+## Işık ihtiyacı
+
+Yeşim bitkisi bol ışık sever. Evde günde en az dört saat doğrudan güneş alan güney ya da batı penceresi idealdir. Işık yetersiz kaldığında gövde ve dallar ışığa doğru uzar, yapraklar seyrekleşir ve küçülür, bitki dağınık bir görünüm alır.
+
+Yazın balkonda ya da terasta tutulabilir; ama içeriden dışarıya alınan bitkiyi doğrudan güneşe birden çıkarmak yapraklarda yanıklara yol açar. Birkaç gün yarı gölgede tutarak yavaş yavaş alıştırın. Sonbaharda gece sıcaklıkları 5 °C'nin altına inmeden içeri alın.
+
+## Sulama: en önemli kural
+
+Bu bitkinin bakımındaki altın kural şudur: toprak tamamen kuruduğunda sulayın. Parmağınızı toprağa 3–4 santimetre daldırdığınızda hâlâ nem hissediyorsanız beklemeye devam edin. Suladığınızda ise suyu saksının altından akana kadar verin ve tabakta biriken suyu boşaltın.
+
+Yazın genellikle 10–15 günde bir sulama yeterlidir. Kışın ise bitki neredeyse dinlenmeye geçer; serin bir odada üç dört haftada bir hafif sulama yeterli olur. Sık sulanan bir yeşim bitkisinde kökler ve gövdenin dibi çürür. Yaprakların buruşması ise uzun süre susuz kaldığını gösterir; bu durumda bir kez bol sulamak yaprakları birkaç gün içinde yeniden dolgunlaştırır.
+
+## Toprak ve saksı seçimi
+
+Yeşim bitkisi süzek ve havadar bir toprak ister. Sıradan saksı toprağı çok fazla su tuttuğu için kökleri boğabilir. Kaktüs ve sukulentler için hazırlanmış, içinde perlit, kum ve pomza gibi iri parçacıklar bulunan bir karışım en uygunudur.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+Saksı seçerken drenaj deliği olan, ağır ve geniş tabanlı modelleri tercih edin. Yaşlandıkça ağırlaşan bitki, hafif plastik saksılarda kolayca devrilebilir. Pişmiş toprak saksılar, nemin kenarlardan buharlaşmasını sağladığı için ayrıca avantajlıdır. Yeşim bitkisi saksısında biraz sıkışık durmayı sever; iki üç yılda bir, ilkbaharda bir boy büyük saksıya almak yeterlidir.
+
+Yeni başlayanlar için toprak, saksı ve dikim malzemelerini bir arada sunan setler, ilk dikimi kolaylaştırır.
+
+[ürün:kaktus-sukulent-3lu-dikim-bakim-seti]
+
+## Gübreleme
+
+İlkbahar ve yaz aylarında, ayda bir kez kaktüs ve sukulentler için hazırlanmış sıvı bir besin yeterlidir. Sonbahar ve kış aylarında gübre verilmez. Fazla gübre, bitkinin yumuşak ve zayıf sürgünler oluşturmasına yol açar.
+
+## Kışın çiçek açtırmak
+
+Pek çok kişi yeşim bitkisinin çiçek açtığını bilmez. Oysa olgun bitkiler, kış sonunda dalların uçlarında yıldız şeklinde küçük, beyaz ya da açık pembe çiçek kümeleri oluşturur. Bunun için sonbaharda ve kış başında bitkinin serin geceler geçirmesi gerekir: gece sıcaklığının 10–13 °C civarında olduğu, gündüz bol ışık alan bir oda, kapalı bir balkon ya da serin bir pencere önü idealdir. Bu dönemde sulama da iyice azaltılır.
+
+Sıcak bir salonda, bol suyla geçen kışlarda bitki yeşil kalır ama çiçek açmaz. Çiçek açtırmanın benzer prensipleri için [kaktüs çiçek açtırma](/kaktus-cicek-actirma) yazımıza da göz atabilirsiniz.
+
+## Çoğaltma
+
+Bu bitki kolayca çoğaltılabilir. İlkbahar ve yaz aylarında 8–10 cm uzunluğunda bir dal ucu ya da sağlıklı tek bir yaprak kesip birkaç gün gölgede bekleterek kesik yüzeyin kurumasını sağlayın. Ardından nemli sukulent toprağına dikin ve toprağı yalnızca hafif nemli tutun. Birkaç hafta içinde kökler oluşur. Ayrıntılı yöntem için [sukulent çoğaltma](/sukulent-cogaltma-yaprak-ve-celikle) yazımız yol gösterir.
+
+## Ağaç gibi şekillendirmek
+
+Kalın gövdesi ve yavaş büyümesi sayesinde bu bitki, bonsai meraklılarının en sevdiği başlangıç bitkilerinden biridir. İlkbahar ve yaz aylarında dalların uçlarını iki yaprak çifti kalacak şekilde koparmak, bitkinin yana doğru dallanmasını ve sık bir taç oluşturmasını sağlar. Alttaki dalları zamanla temizlemek ise gövdeyi ortaya çıkararak bitkiye küçük bir ağaç görünümü kazandırır. Kesilen parçaları atmayın; her biri yeni bir bitki için çelik olarak kullanılabilir. Bonsai şekillendirmenin temelleri için [bonsai bakımı](/bonsai-bakimi-baslangic-rehberi) yazımıza göz atabilirsiniz.
+
+## Sık görülen sorunlar
+
+Yaprakların yumuşayıp sararması ve gövdenin dibinin kararması aşırı sulamanın işaretidir. Yaprakların buruşması susuz kalmayı, yaprak dökülmesi ise ani sıcaklık değişimini ya da uzun süre ışıksız kalmayı gösterir. Yaprak koltuklarında beyaz pamuksu kümeler unlu bit olabilir; alkole batırılmış bir pamukla silerek temizlenebilir.
+
+Yeşim bitkisi kedi ve köpekler için zararlı olabilir; evcil hayvanınız varsa bitkiyi ulaşamayacakları bir yere koyun. Evcil hayvanlarla güvenle yaşayabilecek bitkiler için [evcil hayvan dostu bitkiler](/evcil-hayvan-dostu-bitkiler) yazımıza bakabilirsiniz.
+
+Yeşim bitkisi, az ilgiyle çok şey veren bir dosttur. Bol ışık, seyrek su ve süzek bir toprak; bu üç kurala uyduğunuzda yıllar içinde küçük bir ağaca dönüşen bu bitki, evinizin en eski ve en sevilen üyelerinden biri olacaktır.
+@sss
+S: Yeşim bitkisi ne sıklıkla sulanır?
+C: Toprak tamamen kuruduğunda sulanır. Yazın genellikle 10–15 günde bir, kışın serin bir odada üç dört haftada bir hafif sulama yeterlidir.
+
+S: Yeşim bitkisinin yaprakları neden düşer?
+C: Yaprak dökümü genellikle aşırı sulama, ani sıcaklık değişimi ya da uzun süre ışıksız kalmaktan kaynaklanır. Yaprakların yumuşayıp sararması fazla suyun, buruşması ise susuz kalmanın işaretidir.
+
+S: Yeşim bitkisi çiçek açar mı?
+C: Olgun bitkiler kış sonunda beyaz ya da açık pembe yıldız şeklinde çiçekler açar. Bunun için sonbaharda ve kış başında serin geceler, bol ışık ve az su gerekir.
+
+S: Yeşim bitkisi nasıl çoğaltılır?
+C: İlkbahar ve yaz aylarında kesilen bir dal ucu ya da tek bir yaprak, birkaç gün kurutulduktan sonra nemli sukulent toprağına dikilir. Birkaç hafta içinde köklenir.
+
+### YAZI
+slug: saksida-drenaj-tabakasi
+baslik: Saksıda Drenaj Tabakası: Dipteki Çakıl Gerçekten İşe Yarar mı?
+yayin: 2026-11-15 13:45
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: drenaj tabakası
+seo_baslik: Saksıda Drenaj Tabakası Gerekli mi? Doğru Bilinen Yanlış
+seo_aciklama: Saksı dibine çakıl koymak drenajı artırır mı? Drenaj tabakasının suyu nasıl tuttuğu, asıl drenajın delik, toprak ve perlitle nasıl sağlandığı.
+ozet: Saksının dibine bir kat çakıl ya da kil topu koymak, nesillerdir önerilen bir alışkanlıktır. Bu tabakanın aslında suyu nasıl köklerin yakınında tuttuğunu ve gerçek drenajın nasıl sağlandığını anlatıyoruz.
+etiketler: drenaj tabakası, saksı drenajı, saksı toprağı, perlit, kök çürümesi
+gorsel: p5-drenaj
+gorsel_alt: Drenaj deliklerinin üzerine ağ yerleştirilmiş saksılar
+urunler: tarim-perliti, kalin-tarim-perliti, genel-saksi-topragi-ozel-karisim
+kisaca: Saksı dibine serilen çakıl, kırık saksı parçası ya da kil topundan oluşan drenaj tabakası, sanıldığının aksine suyun aşağı inmesini kolaylaştırmaz. Su, ince topraktan iri parçacıklara kolay geçmediği için tabakanın hemen üstünde ıslak bir bölge oluşur. Asıl drenaj; drenaj deliği, süzek bir toprak karışımı ve tabakta su bırakmamakla sağlanır.
+@govde
+Drenaj tabakası, saksıya bitki dikerken en çok önerilen ama en az sorgulanan alışkanlıklardan biridir. Saksının dibine bir avuç çakıl, kırık saksı parçası ya da kil topu koymanın fazla suyu topraktan uzaklaştıracağı, kökleri çürümekten koruyacağı düşünülür. Kulağa son derece mantıklı gelir: iri taşların arasından su kolayca akar, öyleyse toprağın altına bir taş katmanı koymak suyun daha hızlı süzülmesini sağlamalıdır. Oysa toprak fiziği bize bunun tam tersini söylüyor. Kış aylarında bitkilerin az su tükettiği ve kök çürümesinin en sık görüldüğü bu dönemde, bu yanlış bilinen kuralı yakından incelemek için iyi bir zaman. Bu yazıda saksının içinde suyun nasıl hareket ettiğini, dipteki taş katmanının neden işe yaramadığını ve gerçek drenajı nasıl sağlayacağınızı anlatıyoruz.
+
+## Saksıda su nasıl hareket eder?
+
+Saksı toprağı, küçük ve büyük gözeneklerle dolu bir sünger gibidir. Suladığınızda su önce bütün gözenekleri doldurur, ardından yer çekimiyle aşağı doğru iner. Ancak toprak parçacıklarının arasındaki ince gözenekler suyu kılcal bir kuvvetle tutar. Bu yüzden sulamadan sonra saksının alt kısmında her zaman bir miktar suya doymuş toprak kalır. Toprak bilimciler bu bölgeye "asılı su tablası" der.
+
+Bu ıslak bölgenin kalınlığı, saksının boyuna değil toprağın yapısına bağlıdır. İnce ve sıkı topraklarda bu bölge kalın, iri parçacıklı ve havadar karışımlarda ise incedir. Yani aynı toprağı kullandığınız sürece, saksının en dibindeki birkaç santimetre her zaman diğer kısımlardan daha ıslak kalacaktır.
+
+## Drenaj tabakası suyu neden yukarıda tutar?
+
+Saksının dibine çakıl koyduğunuzda, ince dokulu toprak ile iri taşlar arasında keskin bir sınır oluşur. Su, ince gözeneklerden iri boşluklara kendiliğinden geçmez; toprak suyu kılcal kuvvetle tuttuğu için, sınırın hemen üstündeki toprak tamamen suya doyana kadar su taş katmanına inmez. Sonuç olarak ıslak bölge yok olmaz, yalnızca yukarı, yani köklerin yaşadığı alana doğru kayar.
+
+Bir başka deyişle, drenaj tabakası saksının dibini değil, kök bölgesini ıslak bırakır. Üstelik bu taş katmanı saksının hacminin bir kısmını kapladığı için köklerin kullanabileceği toprak miktarı da azalır. Küçük saksılarda bu kayıp özellikle önemlidir.
+
+Bu durum, bahçede yapılan deneylerle ve toprak fiziği araştırmalarıyla defalarca gösterilmiştir. Yine de bu alışkanlık, kulaktan kulağa aktarılan bir bahçe bilgisi olarak yaşamaya devam ediyor.
+
+## Peki asıl drenaj nasıl sağlanır?
+
+Saksıda sağlıklı bir drenaj için dipte taş katmanına değil, şu üç şeye ihtiyacınız var:
+
+**1. Drenaj deliği:** Fazla suyun saksıdan dışarı çıkabilmesi için tabanda en az bir, tercihen birkaç delik bulunmalıdır. Deliksiz dekoratif saksıları doğrudan kullanmak yerine, bitkiyi delikli bir iç saksıya dikip dekoratif saksının içine yerleştirin. Saksı seçerken dikkat edilmesi gerekenler için [saksı seçimi rehberi](/saksi-secimi-rehberi) yazımıza göz atabilirsiniz.
+
+**2. Süzek bir toprak karışımı:** Drenajın asıl sırrı, saksının dibinde değil, toprağın kendisindedir. Perlit, pomza, kabuk ya da iri kum gibi iri parçacıkların toprağın tamamına karıştırılması, gözenekleri büyütür ve ıslak bölgeyi inceltir. Böylece su toprağın her yerinden daha kolay süzülür ve kökler hava alır.
+
+[ürün:tarim-perliti]
+
+**3. Tabakta su bırakmamak:** Sulamadan 15–20 dakika sonra saksı tabağında biriken suyu boşaltın. Tabakta bekleyen su, drenaj deliğinden yeniden toprağa çekilir ve bütün çabanızı boşa çıkarır.
+
+## Doğru toprak karışımı
+
+Bitkinizin türüne göre toprağa farklı oranlarda perlit eklemek, drenaj tabakasına gerek bırakmadan suyun düzgün akmasını sağlar. Aşağıdaki tablo genel bir fikir verir:
+
+| Bitki grubu | Önerilen karışım |
+|---|---|
+| Çoğu yeşil yapraklı salon bitkisi | 3 ölçü saksı toprağı + 1 ölçü perlit |
+| Kök çürümesine hassas bitkiler (monstera, philodendron) | 2 ölçü saksı toprağı + 1 ölçü perlit + 1 ölçü kabuk |
+| Kaktüs ve sukulentler | Hazır kaktüs toprağı ya da 1 ölçü toprak + 1 ölçü perlit veya pomza |
+| Sebze ve otsu bitkiler | 4 ölçü sebze toprağı + 1 ölçü perlit |
+
+Büyük saksılarda ve dış mekânda iri taneli perlit, ince taneliye göre daha uzun süre gözenekli kalır. Perlitin özellikleri ve kullanım yolları için [perlit nedir](/perlit-nedir-nasil-kullanilir) yazımıza bakabilirsiniz.
+
+[ürün:kalin-tarim-perliti]
+
+Kendi karışımını hazırlamak istemeyenler için drenajı ve havalanması dengelenmiş hazır saksı toprakları da iyi bir başlangıç noktasıdır.
+
+## Delik üzerine bir şey koymalı mıyım?
+
+Drenaj deliğinden toprak akmasını önlemek için deliğin üzerine küçük bir parça ağ, filtre kâğıdı ya da tek bir kırık saksı parçası koymak yeterlidir. Bu, bir katman oluşturmaz; yalnızca toprağın delikten dökülmesini engeller ve suyun akışına engel olmaz. Saksının dibini birkaç santimetre taşla doldurmak ise ayrı bir şeydir ve yukarıda anlattığımız ıslak bölge sorununu yaratır.
+
+## Kil topu ne zaman işe yarar?
+
+Kil toplarının tek başına bir yetiştirme ortamı olarak kullanıldığı yarı hidroponik sistemler ise farklıdır. Bu sistemlerde saksının tamamı kil topuyla doldurulur ve toprak kullanılmaz; bu yüzden ince ve iri malzeme arasında bir sınır oluşmaz. Kil topları ayrıca saksının üst yüzeyine serilerek mantar sineğini caydırmak ve görsel bir bitiş sağlamak için de kullanılabilir. Bu malzemenin farklı kullanım alanları için [kil bilyesi nedir](/kil-bilyesi-nedir-nasil-kullanilir) yazımıza göz atabilirsiniz.
+
+## Uzun saksılar ve deliksiz kaplar
+
+Aynı toprak miktarıyla uzun ve dar bir saksı, basık ve geniş bir saksıya göre daha iyi drene olur; çünkü ıslak bölgenin kalınlığı değişmez ama toprağın daha büyük bir kısmı bu bölgenin üstünde kalır. Kök çürümesine hassas bitkiler için biraz daha uzun saksılar seçmek bu yüzden avantajlıdır.
+
+Deliksiz kaplarda bitki yetiştirmek zorundaysanız, dipte taş katmanı yerine sulamayı çok dikkatli ölçmek gerekir. Bu tür kaplarda en güvenli yol, bitkiyi delikli bir iç saksıda tutmak ve suladıktan sonra iç saksıyı kaldırıp fazla suyu boşaltmaktır.
+
+## Kışın drenaj daha da önemli
+
+Kış aylarında ışık azaldığı için bitkiler daha yavaş büyür ve daha az su tüketir. Bu dönemde toprak uzun süre ıslak kalır ve kökler havasız kalarak çürümeye başlar. Kışın sulama aralıklarını uzatmak, saksı tabağını sürekli kontrol etmek ve toprağın kurumasını beklemek, drenaj kadar önemlidir. Saksı toprağını kendiniz hazırlamak isterseniz [kendi toprak karışımınızı oluşturma](/kendi-toprak-karisimini-olusturma) yazımız yol gösterir.
+
+Kısacası, saksının dibine serilen bir kat taş, suyu köklerden uzaklaştırmaz; tam tersine köklere yaklaştırır. Drenaj tabakası yerine bir drenaj deliği, iyi karıştırılmış süzek bir toprak ve boş bir saksı tabağı; bitkilerinizin kökleri size bunun için teşekkür edecektir.
+@sss
+S: Saksının dibine çakıl koymak gerekli mi?
+C: Gerekli değildir. Saksı dibindeki çakıl ya da kil topu tabakası suyun aşağı inmesini kolaylaştırmaz; ince toprak ile iri taşlar arasındaki sınır nedeniyle ıslak bölge yukarı, köklerin olduğu alana kayar.
+
+S: Saksıda drenaj nasıl sağlanır?
+C: Tabanda drenaj deliği olan bir saksı, perlit ya da pomza gibi iri parçacıklar karıştırılmış süzek bir toprak ve sulamadan sonra tabakta su bırakmamak, saksıda sağlıklı drenajın üç temel kuralıdır.
+
+S: Drenaj deliğinin üzerine ne konur?
+C: Toprağın delikten dökülmesini önlemek için küçük bir ağ parçası, filtre kâğıdı ya da tek bir kırık saksı parçası koymak yeterlidir. Saksı dibini birkaç santimetre taşla doldurmaya gerek yoktur.
+
+S: Toprağa ne kadar perlit karıştırılmalı?
+C: Çoğu salon bitkisi için 3 ölçü saksı toprağına 1 ölçü perlit yeterlidir. Kök çürümesine hassas bitkilerde perlit oranı artırılır, kaktüs ve sukulentlerde ise toprak ile perlit eşit oranda karıştırılabilir.
+
+### YAZI
+slug: sulama-tabancasi-secimi
+baslik: Sulama Tabancası Seçimi: Bahçeye ve Balkona Uygun Modeli Bulmak
+yayin: 2026-11-15 15:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: sulama tabancası
+seo_baslik: Sulama Tabancası Seçimi: Hangi Model, Hangi İş İçin?
+seo_aciklama: Sulama tabancası nasıl seçilir? Su akış modları, fide, çim ve sebze için doğru başlık, tutuş ve malzeme, hortum bağlantısı, kışın saklama ve bakım önerileri.
+ozet: Doğru sulama tabancası, fideleri ezmeden yumuşak bir yağmur, çime geniş bir püskürtme, saksılara ise kontrollü bir akış verir. Bahçe ve balkon için doğru modeli seçmenin ipuçlarını anlatıyoruz.
+etiketler: sulama tabancası, bahçe hortumu, bahçe sulama, hortum başlığı, bahçe aletleri
+gorsel: p5-sulama-tabanca2
+gorsel_alt: Çimenlik üzerinde kıvrılmış bahçe hortumu
+urunler: sgs-3-fonksiyonlu-sulama-tabancasi, sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu, sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu
+kisaca: Sulama tabancası, hortumun ucuna takılarak suyun akışını ve şeklini ayarlayan başlıktır. Fide ve tohum yatakları için yumuşak duş, çim için geniş püskürtme, saksı ve ağaç dipleri için düz akış modu gerekir. Rahat bir tutuş, sızdırmayan bağlantı ve dayanıklı malzeme önemlidir. Kışın tabanca hortumdan çıkarılıp donmayan bir yerde saklanır.
+@govde
+Sulama tabancası, bahçe hortumunun ucuna takılan küçük ama işin kalitesini belirleyen bir alettir. Hortumun ucunu parmakla sıkıştırarak sulamak hem yorucudur hem de suyun gücünü kontrol etmeyi zorlaştırır. Sert bir su akışı yeni çimlenmiş tohumları topraktan söker, fideleri yatırır ve toprağın yüzeyini sıkıştırarak kabuk bağlamasına yol açar. Doğru seçilmiş bir başlık ise aynı hortumla fidelere yumuşak bir yağmur, çime geniş bir püskürtme, saksılara kontrollü bir akış verebilir; üstelik su israfını da azaltır. Bahçe aletlerinin elden geçirildiği ve gelecek sezona hazırlık yapılan kış ayları, eksikleri tamamlamak için iyi bir zamandır. Bu yazıda sulama tabancası seçerken nelere dikkat etmeniz gerektiğini ve onu uzun yıllar nasıl kullanacağınızı anlatıyoruz.
+
+## Sulama tabancası ne işe yarar?
+
+Bir sulama başlığının temel görevi, hortumdan gelen suyun akış şeklini ve miktarını ayarlamaktır. Tetik ya da açma kapama düğmesi sayesinde, her seferinde musluğa gitmeden suyu açıp kapatabilirsiniz. Bu, saksılar arasında dolaşırken ya da bahçenin bir ucundan öbür ucuna geçerken önemli miktarda su tasarrufu sağlar.
+
+Çok fonksiyonlu modellerde başlığın ucu çevrilerek farklı akış şekilleri seçilir. Her bitki ve her iş farklı bir akış ister; bu yüzden birden fazla modu olan bir başlık, bahçede en çok işinize yarayacak olandır.
+
+## Akış modları ve kullanım alanları
+
+| Akış modu | Nasıl çalışır? | Nerede kullanılır? |
+|---|---|---|
+| Duş (yağmur) | Çok sayıda ince delikten yumuşak su | Fideler, tohum yatakları, çiçekler, saksılar |
+| Püskürtme (sis, geniş fan) | Geniş alana ince damlacık | Çim, geniş tarhlar, yaprak yıkama |
+| Düz akış (jet) | Tek ve güçlü su hüzmesi | Ağaç dipleri, uzak noktalar, yer ve alet yıkama |
+| Konik ya da halka | Orta güçte dairesel akış | Sebze sıraları, çalı dipleri |
+
+Fideleri ve yeni ekilmiş tohumları sularken her zaman en yumuşak modu kullanın. Sert akış, tohumları yerinden oynatır ve toprakta küçük çukurlar açar. Yeni ekilen çim alanlarının sulanmasıyla ilgili ayrıntılar için [çim ekiminden sonra sulama](/cim-ekiminden-sonra-sulama) yazımıza göz atabilirsiniz.
+
+## Sulama tabancası seçerken nelere bakmalı?
+
+**Mod sayısı:** Küçük bir balkon için iki üç modlu basit bir başlık yeterlidir. Sebze, çim ve çiçeklerin bir arada olduğu bahçelerde ise en az üç farklı akış veren modeller daha kullanışlıdır.
+
+**Tutuş ve tetik:** Uzun süre sulama yapacaksanız, ele iyi oturan, kaymayan bir sap ve parmakları yormayan bir tetik önemlidir. Bazı modellerde tetiği açık konumda sabitleyen bir kilit bulunur; bu, uzun sulamalarda eli rahatlatır.
+
+**Akış ayarı:** Tetiğe basma derecesine ya da ayrı bir düğmeye göre suyun miktarını ayarlayabilmek, hassas bitkileri sularken büyük kolaylık sağlar.
+
+**Malzeme:** Plastik başlıklar hafif ve ekonomiktir. Metal gövdeli modeller daha dayanıklıdır ama soğukta elinizi üşütebilir. Hangisini seçerseniz seçin, sızdırmaz contaları ve sağlam bir bağlantı ağzı olmasına dikkat edin.
+
+**Bağlantı uyumu:** Başlığın hortumunuza ve musluğunuza uygun bağlantı parçalarıyla gelmesi, sızıntıyı önler. Hızlı bağlantı sistemleri, başlığı saniyeler içinde takıp çıkarmanızı sağlar.
+
+Üç farklı akış modu sunan, hafif ve rahat tutuşlu bir başlık, ev bahçelerinin ve balkonların çoğu için idealdir.
+
+[ürün:sgs-3-fonksiyonlu-sulama-tabancasi]
+
+## Hortum da en az başlık kadar önemli
+
+En iyi sulama başlığı bile, sürekli bükülen, düğümlenen ya da sızdıran bir hortumla verimli çalışmaz. Esnek ve bükülmeye dirençli bir hortum, suyun basıncını korur ve bahçede rahatça hareket etmenizi sağlar. Hortumun uzunluğunu musluktan bahçenin en uzak noktasına kadar olan mesafeye göre seçin; gereğinden uzun hortumlar basınç kaybına yol açar.
+
+[ürün:sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu]
+
+Örgülü ve çok katlı hortumlar, yüksek basınca ve güneşe daha dayanıklıdır; yoğun kullanılan bahçelerde uzun ömürlü bir tercihtir.
+
+## Doğru sulama alışkanlıkları
+
+İyi bir başlık, doğru sulama alışkanlıklarıyla birlikte anlam kazanır. Sulamayı sabah erken saatlerde yapın; gün ortasında su hızla buharlaşır, akşam sulamasında ise yapraklar gece boyunca ıslak kalır. Suyu yapraklara değil toprağa, bitkinin dibine yönlendirin. Az ve sık sulamak yerine seyrek ama derin sulama yapmak, köklerin derine inmesini sağlar. Bitkilerin ne sıklıkla sulanması gerektiğini [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımızda ayrıntılı olarak anlattık.
+
+Geniş sebze bahçelerinde ve uzun sıralarda elle sulama yerine kalıcı bir sistem düşünüyorsanız [damla sulama kurulumu](/damla-sulama-kurulumu) yazımıza göz atabilirsiniz.
+
+## Bakım ve kışın saklama
+
+Bir sulama başlığı doğru bakıldığında yıllarca sorunsuz çalışır. Her kullanımdan sonra suyu kapatın ve başlıktaki basıncı boşaltın; sürekli basınç altında kalan contalar daha çabuk yıpranır. Kireçli suyun kullanıldığı bölgelerde başlığın deliklerinde zamanla tortu birikir; başlığı ara sıra sirkeli suda bekletmek ve deliklerini ince bir iğneyle açmak akışı yeniler.
+
+Kış gelmeden önce başlığı hortumdan çıkarın, içindeki suyu tamamen boşaltın ve donmayan bir yerde saklayın. İçinde su kalan başlıklar ve hortumlar donda çatlayabilir. Hortumların kışa hazırlanması için [hortum kışlatma](/hortum-kislatma) yazımız yol gösterir.
+
+## Su basıncı ve verim
+
+Evlerin çoğunda şebeke basıncı bir sulama başlığını rahatça çalıştırmaya yeter; ama apartmanların üst katlarında ya da depodan beslenen bahçelerde basınç düşük olabilir. Düşük basınçta jet ve geniş püskürtme modları zayıf kalır, duş modu ise genellikle yeterli çalışır. Böyle durumlarda hortumun gereğinden uzun olmamasına, bükülmemesine ve bağlantılarda sızıntı bulunmamasına dikkat etmek, başlığa ulaşan basıncı artırır.
+
+Sulama sırasında başlığı bitkinin dibine yakın tutmak, suyun rüzgârla savrulmasını ve yaprakların gereksiz ıslanmasını önler. Geniş bir alanı sularken suyu bir noktada bekletmek yerine yavaş ve düzenli hareket ettirin; böylece toprak suyu emmeye zaman bulur ve yüzeyde göllenme olmaz. Toprak yüzeyinde su birikiyorsa, kısa bir ara verip ikinci bir tur sulamak suyun derine inmesini sağlar.
+
+## Balkonda sulama başlığı
+
+Balkon ve teraslarda musluk bağlantısı varsa kısa bir hortum ve küçük bir başlık, saksıları kova taşımadan sulamanızı sağlar. Bu durumda yumuşak duş modu, saksı toprağını yerinden oynatmadan suyu eşit dağıtır. Su tasarrufu için sulamaya başlamadan önce saksıların gerçekten suya ihtiyacı olup olmadığını parmağınızla kontrol etmeyi unutmayın.
+
+Sulama tabancası küçük bir yatırımdır; ama bahçede geçirdiğiniz her saatin daha rahat, bitkilerinizin daha sağlıklı ve su faturanızın daha düşük olmasını sağlar.
+@sss
+S: Sulama tabancası nasıl seçilir?
+C: Bahçenizdeki işlere uygun akış modlarına, ele rahat oturan bir sapa, akış ayarına, sızdırmaz bir bağlantıya ve dayanıklı bir malzemeye bakılır. Sebze, çim ve çiçeklerin bir arada olduğu bahçelerde en az üç modlu başlıklar daha kullanışlıdır.
+
+S: Fideler hangi modla sulanır?
+C: Fideler ve yeni ekilmiş tohumlar, çok sayıda ince delikten yumuşak su veren duş ya da yağmur moduyla sulanır. Sert akış tohumları yerinden oynatır ve fideleri yatırır.
+
+S: Sulama tabancası kışın nasıl saklanır?
+C: Hortumdan çıkarılır, içindeki su tamamen boşaltılır ve donmayan bir yerde saklanır. İçinde su kalan başlıklar donda çatlayabilir.
+
+S: Sulama başlığının delikleri neden tıkanır?
+C: Kireçli sularda deliklerde zamanla tortu birikir. Başlığı ara sıra sirkeli suda bekletmek ve deliklerini ince bir iğneyle açmak akışı yeniler.
+
+### YAZI
+slug: kursuni-kuf
+baslik: Kurşuni Küf: Çiçekte, Meyvede ve Yaprakta Gri Tozlu Çürüklük
+yayin: 2026-11-15 16:35
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: kurşuni küf
+seo_baslik: Kurşuni Küf Nedir? Belirtileri ve Önleme Yolları
+seo_aciklama: Kurşuni küf nedir, nasıl tanınır? Serin ve nemli havada çiçek, meyve ve yapraklarda gri tozlu çürüklük, serada ve evde görülme nedenleri ve önleme yolları.
+ozet: Çiçeklerde, meyvelerde ve yapraklarda beliren gri, tozlu küf tabakası kurşuni küfün işaretidir. Serin ve nemli aylarda hızla yayılan bu hastalığı tanımayı ve önlemeyi anlatıyoruz.
+etiketler: kurşuni küf, botrytis, bitki hastalıkları, sera hastalıkları, mantar hastalıkları
+gorsel: p5-kursuni-kuf
+gorsel_alt: Ahududu meyvelerinde gri tozlu kurşuni küf
+urunler: florist-mantar-onleyici-bitki-spreyi-250-ml, uzman-05-lt-basincli-sprey-puskurtucu-k-4, budama-makasi
+kisaca: Kurşuni küf, serin ve nemli havalarda çiçek, meyve, yaprak ve gövdelerde kahverengi çürüklük ve üzerinde gri, tozlu bir küf tabakası oluşturan yaygın bir mantar hastalığıdır. Yaralı ve yaşlı dokulardan girer. Havalandırma, seyrek dikim, dipten sulama, hastalıklı parçaların hemen uzaklaştırılması ve temizlik en etkili önlemlerdir.
+@govde
+Kurşuni küf, serin ve nemli aylarda bahçede, serada ve evde en sık karşılaşılan mantar hastalıklarından biridir. Adını, hastalanan dokunun üzerini kaplayan gri, kurşun renkli ve dokunduğunuzda toz gibi havalanan küf tabakasından alır. Çilekte olgunlaşan meyveyi bir gecede çürütebilir, seradaki domatesin gövdesini sarabilir, evdeki sıklamenin çiçeklerini kahverengi bir lapaya dönüştürebilir. Kış ve erken ilkbahar, bu hastalığın en çok görüldüğü dönemdir; çünkü kapalı tutulan seralar, iyi havalandırılmayan odalar ve kısa günler etken için ideal koşulları oluşturur. Bu yazıda hastalığı nasıl tanıyacağınızı, neden ortaya çıktığını ve ilaca gerek kalmadan büyük ölçüde nasıl önleyebileceğinizi anlatıyoruz.
+
+## Kurşuni küf nedir?
+
+Hastalığın etkeni Botrytis cinerea adlı bir mantardır. Bu mantar yüzlerce farklı bitkide hastalık yapabilir: çilek, üzüm, domates, biber, salatalık, fasulye, marul gibi sebze ve meyvelerin yanı sıra gül, sıklamen, sardunya, begonya, kasımpatı, lale ve şakayık gibi çiçekler de sık etkilenir.
+
+Etken, çoğunlukla sağlıklı ve güçlü dokulara değil; yaralı, yaşlı, solmuş ya da zayıf dokulara yerleşir. Solmuş bir çiçek yaprağı, budama yarası, dökülmüş bir yaprak ya da çatlamış bir meyve, hastalığın başlangıç noktası olabilir. Buradan sağlıklı dokulara yayılır. Mantarın sporları hava akımıyla, su damlalarıyla ve dokunmayla çok kolay taşınır; bu yüzden tek bir hastalıklı meyve ya da çiçek, kısa sürede çevresindeki bitkilere bulaşır.
+
+## Belirtiler
+
+Hastalığın belirtileri, etkilenen bitki kısmına göre biraz farklılık gösterir:
+
+- **Çiçeklerde:** Taç yapraklarda küçük, su emmiş gibi görünen lekeler, ardından kahverengileşme ve çürüme. Solmuş çiçekler gri küfle kaplanır.
+- **Meyvelerde:** Kahverengi, yumuşak bir leke; kısa sürede meyvenin tamamını sarar ve üzerinde gri, tozlu bir küf oluşur.
+- **Yaprak ve gövdelerde:** Kahverengi, ıslak görünümlü lekeler; gövdede halka şeklinde çürüme ve bu noktanın üstünde kalan kısmın solması.
+- **Fidelerde:** Kök boğazında çürüme ve devrilme.
+
+Gri küf tabakasına dokunduğunuzda havaya küçük bir toz bulutu kalkıyorsa, bu milyonlarca sporun yayıldığı anlamına gelir. Hastalıklı parçaları toplarken onları bir poşetin içine almak, sporların etrafa saçılmasını önler.
+
+## Kurşuni küf neden ortaya çıkar?
+
+Hastalık için en uygun koşullar serin sıcaklıklar (15–20 °C), yüksek nem ve yaprakların uzun süre ıslak kalmasıdır. Seralarda gece ile gündüz arasındaki sıcaklık farkı, yapraklarda ve camlarda yoğuşmaya yol açar; bu da mantarın gelişmesi için gereken ıslaklığı sağlar.
+
+Sık dikim, havasız ortam, akşam saatlerinde yapılan ve yaprakları ıslatan sulama, aşırı azotlu gübreleme ile oluşan yumuşak ve sulu dokular, toplanmayan solmuş çiçekler ve dökülmüş yapraklar hastalığı davet eden başlıca etkenlerdir. Evde ise kalabalık bir pencere önünde birbirine değen saksılar, havalandırılmayan odalar ve yaprakların üzerine püskürtülen su kurşuni küfü kolaylaştırır.
+
+## Önleme yolları
+
+Bu hastalıkla mücadelenin en etkili yolu, ortamı mantar için elverişsiz hâle getirmektir:
+
+**Havalandırın:** Seraları güneşli günlerde birkaç saat açın; evdeki bitkilerin bulunduğu odayı her gün kısa süre havalandırın. Hava hareketi, yaprakların ve çiçeklerin çabuk kurumasını sağlar.
+
+**Seyrek dikin ve yerleştirin:** Bitkiler ve saksılar arasında hava geçecek kadar boşluk bırakın. Sık yaprakları ve iç dalları seyreltin.
+
+**Dipten ve sabah sulayın:** Suyu yapraklara değil toprağa verin. Sabah yapılan sulamada fazla nem gün içinde kurur.
+
+**Temiz tutun:** Solmuş çiçekleri, sararmış yaprakları ve çürüyen meyveleri hemen toplayın. Hastalıklı parçaları kompost yığınına değil, kapalı bir poşet içinde çöpe atın.
+
+**Doğru budayın:** Budamayı kuru havada, temiz ve keskin bir makasla yapın; düzgün kesimler daha çabuk kapanır. Makası hastalıklı bitkiden sonra alkolle silin.
+
+[ürün:budama-makasi]
+
+**Ölçülü gübreleyin:** Aşırı azot, yumuşak ve hastalığa açık dokular oluşturur. Dengeli beslenen bitkiler hastalığa daha dirençlidir.
+
+## Hastalık başladığında ne yapmalı?
+
+Belirtileri gördüğünüzde ilk iş, hastalıklı bütün parçaları dikkatlice kesip uzaklaştırmaktır. Ardından ortamın nemini azaltın, havalandırmayı artırın ve sulamayı gözden geçirin. Hafif durumlarda bu önlemler hastalığın ilerlemesini durdurmaya yeter.
+
+Mantar hastalıklarına karşı bitkiler için geliştirilmiş koruyucu spreyler, hastalığın erken döneminde ve etiket talimatına uygun kullanıldığında destek sağlar. Uygulamada yaprakların alt yüzünün ve sık dalların iç kısımlarının da ıslanması önemlidir; ince zerreli küçük bir püskürtücü bunu kolaylaştırır. Bahçe ve serada geniş çaplı bir sorun varsa, müşteri hizmetlerimize danışın.
+
+[ürün:florist-mantar-onleyici-bitki-spreyi-250-ml]
+
+## Hasattan sonra da dikkat
+
+Kurşuni küf yalnızca bahçede değil, hasattan sonra depoda ve buzdolabında da devam edebilir. Çilek, üzüm, domates ve kiraz gibi yumuşak meyvelerde, hasat sırasında fark edilmeyen küçük bir enfeksiyon birkaç gün içinde bütün kasayı sarabilir. Meyveleri kuru havada toplamak, ezilmiş ve yaralı olanları ayırmak, yıkamayı tüketmeden hemen öncesine bırakmak ve serin bir yerde, üst üste yığmadan saklamak bu kayıpları azaltır.
+
+Kesme çiçeklerde de aynı durum geçerlidir: vazoda beklerken taç yapraklarda beliren kahverengi lekeler çoğu zaman bu hastalığın başlangıcıdır. Vazo suyunu sık değiştirmek ve solmaya başlayan çiçekleri ayıklamak, buketin ömrünü uzatır. Soğanlı çiçeklerin ve kış yumrularının depolanmasında da havadar, serin ve kuru bir ortam seçmek, küflenmeyi önlemenin en kolay yoludur.
+
+## Sık etkilenen bitkiler
+
+**Çilek:** Olgunlaşan meyvelerde en büyük kayıp nedenidir. Ayrıntılar için [çilek hastalıkları](/cilek-hastaliklari) yazımıza göz atabilirsiniz.
+
+**Seradaki sebzeler:** Kışın seralarda domates, biber, salatalık ve marulda gövde ve yaprak çürüklüğüne yol açar. Kış serasında doğru havalandırma için [kışın serada ne yetiştirilir](/kisin-serada-ne-yetistirilir) yazımız yol gösterir.
+
+**Sıklamen ve diğer kış çiçekleri:** Yumrunun üzerine su dökülen ve sık yapraklı sıklamenlerde çiçek ve yaprak saplarının dibinde çürüme görülür. Doğru sulama yöntemi için [sıklamen bakımı](/siklamen-bakimi) yazımıza bakabilirsiniz.
+
+**Bağ:** Hasada yakın dönemde yağışlı geçen havalarda salkımlarda çürümeye yol açar.
+
+Kurşuni küfü külleme ile karıştırmamak gerekir: küllemede yaprakların yüzeyinde beyaz, un gibi bir tabaka oluşur ve doku çürümez. Bu farkı [külleme hastalığı](/kulleme-hastaligi) yazımızda ayrıntılı olarak anlattık.
+
+Kurşuni küf, korkulacak kadar yaygın ama önlenebilecek kadar da tanıdık bir hastalıktır. Havadar bir ortam, kuru yapraklar, temiz bir bahçe ve dikkatli bir göz; bu dört şey, bitkilerinizi gri küften korumanın en güvenilir yoludur.
+@sss
+S: Kurşuni küf nedir?
+C: Botrytis cinerea adlı mantarın neden olduğu, serin ve nemli havalarda çiçek, meyve, yaprak ve gövdelerde kahverengi çürüklük ve üzerinde gri, tozlu bir küf tabakası oluşturan yaygın bir hastalıktır.
+
+S: Kurşuni küf hangi bitkilerde görülür?
+C: Çilek, üzüm, domates, biber, salatalık, marul gibi sebze ve meyvelerde; gül, sıklamen, sardunya, begonya ve kasımpatı gibi çiçeklerde sık görülür.
+
+S: Kurşuni küf nasıl önlenir?
+C: İyi havalandırma, seyrek dikim, sabah ve dipten sulama, solmuş çiçeklerin ve çürüyen meyvelerin hemen toplanması ve ölçülü gübreleme en etkili önlemlerdir.
+
+S: Kurşuni küf ile külleme arasındaki fark nedir?
+C: Kurşuni küfte doku kahverengileşip çürür ve üzerinde gri, tozlu bir küf oluşur. Küllemede ise yaprak yüzeyinde beyaz, un gibi bir tabaka görülür ve doku çürümez.
+
+### YAZI
+slug: cin-gulu-bakimi
+baslik: Çin Gülü Bakımı: Kışı Evde Geçiren Tropik Çiçek
+yayin: 2026-11-15 18:15
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: çin gülü
+seo_baslik: Çin Gülü Bakımı: Işık, Sulama, Kışlatma ve Budama
+seo_aciklama: Çin gülü nasıl bakılır? Hibiskus için bol ışık, sulama, toprak ve gübre, kışın içeri alma, tomurcuk dökülmesi, yaprak sararması, budama ve zararlılar.
+ozet: Kocaman, rengârenk çiçekleriyle Çin gülü, yazı balkonda kışı evde geçiren tropik bir güzeldir. Bol çiçek için ışık, su ve kış bakımının inceliklerini anlatıyoruz.
+etiketler: çin gülü, hibiskus bakımı, saksı çiçekleri, tropik bitkiler, kışın salon bitkileri
+gorsel: p5-cin-gulu
+gorsel_alt: Kırmızı iri çiçeği açmış Çin gülü
+urunler: hg-cicek-topragi, tarm-petal-power-cicekli-bitki-besini-sprey-500-ml, florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi
+kisaca: Çin gülü (Hibiscus rosa-sinensis), günde birkaç saat doğrudan güneş alan sıcak bir yer, düzenli nemli ama su tutmayan bir toprak ve büyüme döneminde düzenli gübre ister. Soğuğa dayanıksızdır; gece sıcaklıkları 10 °C'nin altına inmeden içeri alınır. Kışın aydınlık ve serin bir odada, daha az suyla dinlenir ve ilkbaharda budanır.
+@govde
+Çin gülü, tabak büyüklüğündeki parlak çiçekleriyle evlerin ve balkonların en gösterişli bitkilerinden biridir. Kırmızı, pembe, sarı, turuncu ve beyazın sayısız tonunda açan çiçekler tek tek yalnızca bir iki gün yaşar; ama sağlıklı bir bitki, ilkbahardan sonbahara kadar neredeyse aralıksız yeni tomurcuklar verir. Tropik bir bitki olduğu için ülkemizin büyük bölümünde kışı evde geçirmesi gerekir ve bakımda en çok zorlanılan dönem de budur. Sonbaharda içeri alınan bitkilerin tomurcuklarını dökmesi, yapraklarının sararması çok sık karşılaşılan sorunlardır. Bu yazıda ışıktan suya, kışlatmadan budamaya kadar bakımın bütün inceliklerini anlatıyoruz.
+
+## Çin gülünü tanıyalım
+
+Çin gülü (Hibiscus rosa-sinensis), adına rağmen gerçek bir gül değil, ebegümecigillerden bir çalıdır. Doğu Asya kökenli olduğu düşünülür ve tropik bölgelerde metrelerce boylanan bir çit bitkisidir. Saksıda ise genellikle 1–2 metre boyunda kalır. Bahçelerde yetiştirilen ve soğuğa dayanıklı olan ağaç hatmi (Hibiscus syriacus) ile karıştırılmamalıdır; ağaç hatmi kışın yapraklarını döker ve dışarıda kalabilir, Çin gülü ise her dem yeşildir ve soğuğa dayanmaz.
+
+## Işık ihtiyacı
+
+Bol çiçek için en önemli koşul ışıktır. Yazın balkonda ya da bahçede, günde en az dört beş saat doğrudan güneş alan bir yer idealdir; yalnızca çok sıcak bölgelerde öğle güneşinden hafifçe korunmalıdır. Evde ise güney ya da batıya bakan, en aydınlık pencerenin önü tercih edilmelidir. Işık yetersiz kaldığında bitki yeşil kalır ama tomurcuk vermez ya da oluşan tomurcuklar açılmadan dökülür.
+
+Bitkinin yerini sık sık değiştirmemek de önemlidir. Çin gülü ani ışık ve sıcaklık değişimlerine tomurcuklarını dökerek tepki verir.
+
+## Sulama ve nem
+
+Büyüme ve çiçeklenme döneminde Çin gülü bol su ister. Toprağın üst 2 santimetresi kuruduğunda saksının altından su akana kadar sulayın ve tabakta biriken suyu boşaltın. Sıcak yaz günlerinde balkondaki bitkiler her gün sulama gerektirebilir. Toprağın tamamen kuruması tomurcuk dökülmesine, sürekli ıslak kalması ise yaprak sararmasına ve kök çürümesine yol açar.
+
+Kalorifer yanan evlerde kuru hava, hem tomurcukların dökülmesine hem de kırmızı örümcek gibi zararlıların çoğalmasına neden olur. Saksıyı ıslak çakıl dolu bir tabağın üzerine koymak ya da diğer bitkilerle gruplamak nemi artırır. Bitkiyi kalorifer peteğinin hemen yanına ya da önüne koymaktan kaçının.
+
+## Toprak, saksı ve gübre
+
+Çin gülü, organik maddece zengin, hafif asidik ile nötr arası, nemi tutan ama süzek bir toprak ister. Kaliteli bir çiçek toprağına bir miktar perlit eklemek drenajı iyileştirir. İki üç yılda bir, ilkbaharda bir boy büyük saksıya almak yeterlidir; çok büyük saksılar toprağın uzun süre ıslak kalmasına neden olur. Saksı değişiminin doğru yapılışı için [saksı değiştirme rehberi](/saksi-degistirme-rehberi) yazımıza göz atabilirsiniz.
+
+[ürün:hg-cicek-topragi]
+
+İlkbahardan sonbahara kadar, iki haftada bir çiçekli bitkiler için hazırlanmış bir besinle gübreleme yapın. Çin gülü potasyumu sever; potasyumca zengin gübreler çiçeklenmeyi destekler, fazla azot ise bol yaprak ama az çiçek verir. Kış dinlenmesi sırasında gübre verilmez.
+
+[ürün:tarm-petal-power-cicekli-bitki-besini-sprey-500-ml]
+
+## Çin gülünü kışa hazırlamak
+
+Sonbaharda gece sıcaklıkları 10–12 °C'nin altına inmeden bitkiyi içeri alın. İçeri almadan önce yaprak altlarını ve dalları zararlılar için dikkatle kontrol edin; balkondan getirilen yaprak biti ve beyaz sinek, evin sıcağında hızla çoğalır. Gerekirse yaprakları ılık suyla duşlayın.
+
+Kışın en uygun yer, aydınlık ama çok sıcak olmayan, 13–18 °C arası bir odadır. Bu dönemde bitki yavaşlar ve dinlenmeye geçer; sulama azaltılır, toprağın üst kısmı biraz daha kuruduğunda su verilir. İçeri alındıktan sonraki ilk haftalarda birkaç yaprağın sararıp dökülmesi normaldir; bitki yeni ışık koşullarına alışmaktadır. Kışın salon bitkilerinin genel bakımı için [kışın salon bitkisi bakımı](/kisin-salon-bitkisi-bakimi) yazımıza, pencere önündeki konum için ise [kışın pencere önündeki bitkiler](/kisin-pencere-onundeki-bitkiler) yazımıza bakabilirsiniz.
+
+## Budama
+
+Çin gülü yeni sürgünlerin uçlarında çiçek açar; bu yüzden düzenli budama hem formu korur hem de çiçek sayısını artırır. Asıl budama, ilkbaharda bitki yeniden büyümeye başlamadan hemen önce, şubat sonu ile mart arasında yapılır. Dalları üçte bir oranında, dışa bakan bir yaprak ya da göz üzerinden kısaltın; kuru, zayıf ve içe doğru büyüyen dalları çıkarın. Yaz boyunca sürgün uçlarını hafifçe koparmak, bitkinin daha sık ve dolgun olmasını sağlar. Sonbaharda sert budama yapmaktan kaçının.
+
+## Yazın balkona çıkarmak
+
+İlkbaharda gece sıcaklıkları sürekli olarak 12–15 °C'nin üzerine çıktığında Çin gülü yeniden balkona ya da bahçeye taşınabilir. Kışı içeride geçiren bitkinin yaprakları güçlü güneşe alışkın değildir; bu yüzden ilk hafta yarı gölge bir köşede tutup her gün biraz daha güneşe yaklaştırarak alıştırmak, yapraklarda yanıkları önler. Rüzgâr alan yerler de iri çiçeklerin ve tomurcukların zarar görmesine yol açar.
+
+Dışarıda yetişen bitki hızla büyür ve kısa sürede yeni tomurcuklar oluşturur. Bu dönemde sulama ve gübreleme artırılır; sıcak günlerde toprağın kurumaması için saksının üst yüzeyine ince bir malç sermek işe yarar. Yaz sonunda, içeri almadan birkaç hafta önce gübrelemeyi azaltmak, bitkinin kışa daha dengeli girmesini sağlar.
+
+## Sık görülen sorunlar
+
+**Tomurcuk dökülmesi:** En sık nedenleri ani yer ve sıcaklık değişimi, toprağın kuruması ya da aşırı ıslak kalması, yetersiz ışık ve kuru havadır.
+
+**Yaprak sararması:** Birkaç alt yaprağın sararması normaldir. Çok sayıda yaprak sararıyorsa fazla sulama, soğuk ya da besin eksikliği düşünülmelidir. Bu konuyu [yapraklar neden sararır](/yapraklar-neden-sararir) yazımızda ayrıntılı olarak anlattık.
+
+**Zararlılar:** Yaprak biti, beyaz sinek, unlu bit ve kırmızı örümcek sık görülür. Yaprak altlarını düzenli kontrol edin; az sayıdaysa ılık ve hafif sabunlu suyla silerek temizleyin. Yayılmışsa bitkiler için geliştirilmiş doğal içerikli spreyler etiket talimatına uygun kullanılabilir. Kırmızı örümcekle mücadele için [kırmızı örümcek](/kirmizi-orumcek) yazımıza göz atabilirsiniz.
+
+Doğru ışık, düzenli su ve kışın sakin bir dinlenme; Çin gülü bu üçünü bulduğunda, her yaz balkonunuzu tropik bir bahçeye çevirecek ve yıllarca size eşlik edecektir.
+@sss
+S: Çin gülü kışın nerede tutulur?
+C: Aydınlık ama çok sıcak olmayan, 13–18 °C arası bir odada tutulur. Gece sıcaklıkları 10–12 °C'nin altına inmeden içeri alınmalı, kışın sulama azaltılmalı ve gübre verilmemelidir.
+
+S: Çin gülü neden tomurcuklarını döker?
+C: En sık nedenleri ani yer ve sıcaklık değişimi, toprağın kuruması ya da aşırı ıslak kalması, yetersiz ışık ve kalorifer yanan evlerdeki kuru havadır.
+
+S: Çin gülü ne zaman budanır?
+C: Asıl budama ilkbaharda, şubat sonu ile mart arasında yapılır. Dallar üçte bir oranında kısaltılır; yaz boyunca sürgün uçları hafifçe koparılabilir.
+
+S: Çin gülü ile ağaç hatmi aynı bitki mi?
+C: Hayır. Çin gülü her dem yeşil ve soğuğa dayanıksız tropik bir türdür, kışı evde geçirmelidir. Ağaç hatmi ise kışın yaprak döken ve bahçede dışarıda kalabilen, soğuğa dayanıklı bir türdür.
+
+### YAZI
+slug: asiri-sulama-belirtileri
+baslik: Aşırı Sulama Belirtileri: Bitkiniz Susuz mu, Boğuluyor mu?
+yayin: 2026-11-15 20:20
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: aşırı sulama
+seo_baslik: Aşırı Sulama Belirtileri ve Bitkiyi Kurtarma Yolları
+seo_aciklama: Aşırı sulama nasıl anlaşılır? Sararan yumuşak yapraklar, ıslak toprakta solma, kötü koku, kök çürümesi, susuzluktan farkı ve kurtarma adımları.
+ozet: Salon bitkilerinin en sık ölüm nedeni susuzluk değil, fazla sudur. Aşırı sulamanın belirtilerini susuz kalmadan nasıl ayıracağınızı ve bitkinizi nasıl kurtaracağınızı anlatıyoruz.
+etiketler: aşırı sulama, kök çürümesi, salon bitkileri, bitki sulama, yaprak sararması
+gorsel: p5-asiri-sulama
+gorsel_alt: Kök çürüklüğünden kararmış bitki kökü
+urunler: tarim-perliti, genel-saksi-topragi-ozel-karisim, cornet-ic-dis-mekan-tabakli-dekoratif-saksi-12-litre
+kisaca: Aşırı sulamada toprak ıslakken bitki solar, alt yapraklar sararıp yumuşar, gövde dibi kararır, toprak kötü kokar ve mantar sinekleri çoğalır. Susuz kalan bitkide ise toprak kuru, yapraklar gevrek ve kurudur. Kurtarmak için sulama kesilir, saksı tabağı boşaltılır; kökler çürümüşse çürük kökler kesilip bitki süzek yeni toprağa dikilir.
+@govde
+Aşırı sulama, salon bitkilerinin en sık ölüm nedenidir. Çoğumuz bitkilerimizi sevdiğimiz için sularız ve yaprakları sarktığında ilk aklımıza gelen biraz daha su vermek olur. Oysa sarkan yaprak, her zaman susuzluğun değil, bazen de köklerin suda boğulduğunun işaretidir. Kış ayları bu açıdan en riskli dönemdir: ışık azalır, bitkiler yavaşlar ve daha az su tüketir; yaz alışkanlığıyla sulamaya devam ettiğimizde toprak haftalarca ıslak kalır. Bu yazıda fazla suyun belirtilerini, susuz kalmadan nasıl ayıracağınızı, hangi bitkilerin daha hassas olduğunu ve hasta bir bitkiyi nasıl kurtaracağınızı adım adım anlatıyoruz.
+
+## Fazla su köklere ne yapar?
+
+Kökler yalnızca su değil, oksijen de alır. Sağlıklı bir toprağın gözeneklerinin bir kısmı suyla, bir kısmı havayla doludur. Toprak sürekli ıslak kaldığında gözenekler tamamen suyla dolar ve kökler oksijensiz kalır. Oksijensiz kalan ince kökler önce çalışmayı durdurur, sonra ölür ve çürümeye başlar. Çürüyen kökler su alamadığı için, ne kadar ıslak bir toprakta durursa dursun bitki susuz kalmış gibi solar.
+
+Bu noktada toprakta yaşayan çürüklük mantarları da devreye girer. Zayıflamış kökler bu mantarlar için kolay bir hedeftir; çürüme köklerden gövdenin dibine doğru ilerler.
+
+## Aşırı sulamanın belirtileri
+
+- **Islak toprakta solma:** Toprak nemli olduğu hâlde yaprakların sarkması, en tipik belirtidir.
+- **Sararan ve yumuşayan yapraklar:** Özellikle alt yapraklar sararır, dokunulduğunda yumuşak ve cansızdır; zamanla dökülür.
+- **Kahverengi, ıslak lekeler:** Yaprak kenarlarında ya da yüzeyinde koyu, su emmiş gibi lekeler görülebilir.
+- **Gövde dibinin kararması:** Kök boğazı ve gövdenin toprağa yakın kısmı yumuşar, kararır.
+- **Kötü koku:** Topraktan ekşi ya da çürük bir koku gelir.
+- **Toprak yüzeyinde küf ve sinekler:** Beyaz küf tabakası ve saksının etrafında uçuşan küçük siyah mantar sinekleri, toprağın sürekli ıslak kaldığını gösterir.
+- **Büyümenin durması:** Yeni yapraklar küçük ve soluk çıkar ya da hiç çıkmaz.
+
+Saksı topraklarında görülen beyaz küfün nedenleri için [saksı toprağı neden küflenir](/saksi-topragi-neden-kuflenir) yazımıza, küçük siyah sinekler için ise [mantar sineği](/mantar-sinegi) yazımıza göz atabilirsiniz.
+
+## Susuz kalmadan nasıl ayırırım?
+
+Fazla su ve susuzluk birbirine çok benzer belirtiler verebilir; çünkü her iki durumda da kökler bitkiye su taşıyamaz. Aradaki farkı anlamanın en kolay yolu toprağa dokunmaktır.
+
+| Belirti | Aşırı sulama | Susuz kalma |
+|---|---|---|
+| Toprak | Islak, ağır, kötü kokulu olabilir | Kuru, hafif, saksı kenarından çekilmiş |
+| Yapraklar | Sarı, yumuşak, cansız | Kuru, gevrek, kenarları kahverengi |
+| Solma | Sulamadan sonra düzelmez | Sulamadan birkaç saat sonra düzelir |
+| Gövde dibi | Yumuşak, koyu renkli | Sağlam |
+| Saksı ağırlığı | Ağır | Belirgin şekilde hafif |
+
+Parmağınızı toprağa 3–4 santimetre daldırın; hâlâ nemliyse sulamayın. Saksıyı kaldırıp ağırlığını ölçmek de iyi bir yöntemdir: suyu yeni almış bir saksı ile kurumuş bir saksı arasındaki fark, birkaç denemeden sonra elinizle kolayca anlaşılır.
+
+## Neden aşırı sulama olur?
+
+En sık neden, takvime göre sulamaktır. "Her pazartesi" sulanan bir bitki, yazın bu suyu birkaç günde tüketirken kışın iki üç hafta boyunca kullanamaz. Bunun yanında drenaj deliği olmayan saksılar, su tutan ağır topraklar, bitkinin kök kütlesine göre çok büyük saksılar ve tabakta biriken su da sorunu büyütür. Bitkilerin ne zaman ve ne kadar suya ihtiyaç duyduğunu [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımızda ayrıntılı olarak anlattık.
+
+## Fazla sudan zarar gören bitkiyi kurtarmak
+
+**1. Sulamayı hemen kesin:** Saksı tabağındaki suyu boşaltın ve toprağın kurumasını bekleyin. Bitkiyi aydınlık ama doğrudan güneş almayan, havadar bir yere alın.
+
+**2. Kökleri kontrol edin:** Bir hafta içinde toparlanma yoksa bitkiyi saksısından dikkatlice çıkarın. Sağlıklı kökler beyaz ya da açık renkli ve serttir. Çürümüş kökler kahverengi ya da siyah, yumuşak ve kaygandır; çekildiğinde kabuğu kolayca soyulur ve kötü kokar.
+
+**3. Çürük kökleri kesin:** Temiz ve keskin bir makasla bütün çürümüş kökleri sağlam dokuya kadar kesin. Eski ve ıslak toprağı köklerden tamamen uzaklaştırın.
+
+**4. Yeni toprağa dikin:** Bitkiyi taze, süzek bir toprak karışımına ve drenaj delikli, kök kütlesine uygun büyüklükte bir saksıya dikin. Toprağa perlit eklemek havalanmayı artırır.
+
+[ürün:tarim-perliti]
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+**5. Sabırlı olun:** Yeni dikilen bitkiyi ilk birkaç gün çok az sulayın ya da hiç sulamayın; kesilen köklerin iyileşmesine izin verin. Kaybedilen kökler kadar yaprak da dökülebilir; bu normaldir. Yeni yaprakların çıkması, bitkinin kurtulduğunun işaretidir.
+
+Köklerin tamamı çürümüşse, gövdenin sağlam kalan kısımlarından çelik alarak bitkiyi yeniden köklendirmek en iyi seçenek olabilir.
+
+## Fazla suya en hassas bitkiler
+
+Kaktüsler ve sukulentler, paşa kılıcı, zamioculcas, monstera, philodendron, orkideler ve yeşim bitkisi gibi kalın köklü ya da su depolayan bitkiler fazla suya en hassas olanlardır. Bu bitkilerde toprak tamamen kuruduktan sonra sulamak, kışın ise sulama aralığını iyice uzatmak gerekir. Eğrelti otları, barış çiçeği ve calathea gibi nem seven bitkiler biraz daha fazla suya toleranslıdır; ama onlar da tabakta bekleyen suyu sevmez.
+
+## Kışın sulama düzeni nasıl olmalı?
+
+Kış aylarında sulama alışkanlığınızı mevsime göre değiştirmek, fazla suyun önüne geçmenin en etkili yoludur. Kalorifer yanan sıcak bir salondaki bitki ile serin bir yatak odasındaki bitki aynı sıklıkta suya ihtiyaç duymaz; sıcak ve aydınlık odalarda toprak daha çabuk kurur. Bu yüzden her bitkiyi ayrı ayrı kontrol etmek gerekir.
+
+Sulamayı sabah saatlerinde yapın ve oda sıcaklığındaki suyu tercih edin; soğuk su köklerde şoka yol açabilir. Az ve sık sulamak yerine, toprak kuruduğunda saksının altından su akana kadar bir kez bol sulayıp ardından tabağı boşaltmak, kökleri hem suya hem de havaya kavuşturur. Bitkinin yanına koyacağınız küçük bir not ya da telefonunuza alacağınız bir hatırlatma, ne zaman suladığınızı unutmamanıza yardımcı olur.
+
+## Önlemenin yolları
+
+Saksı seçerken mutlaka drenaj delikli modelleri tercih edin; dekoratif deliksiz saksıları yalnızca dış kap olarak kullanın. Bitkiyi, kök kütlesinden yalnızca bir iki boy büyük saksıya dikin. Sulamadan önce her seferinde toprağı kontrol edin ve sulamadan 15–20 dakika sonra tabağı boşaltın.
+
+Aşırı sulama çoğu zaman sevgiden kaynaklanan bir hatadır. Bitkinize su vermeden önce bir an durup toprağına dokunmak, onu kurtaracak en basit alışkanlıktır. Kışın bitki bakımıyla ilgili diğer ipuçları için [kışın salon bitkisi bakımı](/kisin-salon-bitkisi-bakimi) yazımıza göz atabilirsiniz.
+@sss
+S: Aşırı sulama nasıl anlaşılır?
+C: Toprak ıslakken bitkinin solması, alt yaprakların sararıp yumuşaması, gövde dibinin kararması, topraktan gelen kötü koku ve toprak yüzeyinde küf ile mantar sinekleri aşırı sulamanın tipik belirtileridir.
+
+S: Fazla su verilen bitki nasıl kurtarılır?
+C: Sulama kesilir ve tabak boşaltılır. Toparlanma olmazsa bitki saksıdan çıkarılır, çürümüş kahverengi kökler kesilir ve bitki süzek yeni bir toprağa, drenaj delikli bir saksıya dikilir.
+
+S: Aşırı sulama ile susuz kalma nasıl ayırt edilir?
+C: Toprağa dokunmak en kolay yoldur. Fazla suda toprak ıslak ve ağır, yapraklar yumuşak ve sarıdır; susuz kalmada toprak kuru ve hafif, yapraklar gevrek ve kurudur. Susuz kalan bitki sulamadan birkaç saat sonra toparlanır.
+
+S: Kışın bitkiler ne sıklıkla sulanmalı?
+C: Kışın ışık azaldığı için bitkiler daha az su tüketir. Takvime göre değil, toprağın kurumasına göre sulanmalıdır; çoğu salon bitkisinde sulama aralığı yaza göre iki üç kat uzar.
+
+### SORU
+yayin: 2026-11-15 10:20
+kategori: bitki-bakimi
+baslik: Yeşim bitkimin yaprakları buruşmaya başladı, sulamam mı gerekiyor?
+metin: Salondaki yeşim bitkimi her hafta biraz suluyorum ama son günlerde bazı yapraklar buruşuk ve yumuşak görünüyor. Alttaki birkaç yaprak da düştü. Suyu artırmalı mıyım?
+@cevap Rümeysa Altınova | 3
+Buruşuk yaprak çoğu zaman susuzluğu gösterir; ama yaprakların aynı zamanda yumuşak olması ve alttan dökülmesi, bizim aklımıza önce fazla suyu getiriyor. Kışın her hafta az az sulamak, toprağın hiç kurumamasına ve köklerin zamanla zayıflamasına yol açabiliyor. Zayıflayan kökler su alamadığı için bitki, ıslak toprakta bile susuz kalmış gibi buruşuyor. Önce parmağınızı toprağa 3–4 cm daldırın. Toprak nemliyse suyu artırmayın, tam tersine sulamayı tamamen kesip toprağın kurumasını bekleyin. Gövdenin dibine hafifçe bastırın; sert ve sağlamsa endişelenmenize gerek yok. Yumuşak ya da koyu renkliyse bitkiyi saksısından çıkarıp kökleri kontrol etmeniz gerekir. Kahverengi ve kaygan kökleri kesip bitkiyi kaktüs toprağı gibi süzek bir karışıma almak çoğu zaman bitkiyi kurtarır. Kış boyunca toprak tamamen kuruduğunda, üç dört haftada bir sulamanız yeterli olacaktır.
+
+### SORU
+yayin: 2026-11-15 17:30
+kategori: gubreleme
+baslik: Elma ağaçlarımın dibine kışın gübre verebilir miyim, geç mi kaldım?
+metin: Bahçemde beş altı yaşında üç elma ağacı var. Sonbaharda hiç gübre vermedim. Şimdi yapraklar döküldü, kışın gübre vermek için geç mi? Ne vermeliyim?
+@cevap Mikdat Çelik | 4
+Geç kalmadınız; aslında tam zamanı. Yapraklar döküldükten sonra, aralıktan şubat sonuna kadar olan dönem, ağaçlara organik gübre vermek için çok uygundur. Bu dönemde verilen gübre ilkbahara kadar toprakta yavaş yavaş ayrışır ve ağaç uyandığında hazır olur. Sizin ağaçlarınızın yaşında, her ağaç için 10–15 kg kadar iyi yanmış ahır gübresi ya da 2–3 kg solucan gübresi yeterli olacaktır. Gübreyi gövdenin dibine değil, dalların uçlarının toprağa düşen izdüşümü boyunca bir halkaya serin ve toprağa 10 cm kadar hafifçe karıştırın. Toprağın donmuş ya da çamurlu olmadığı bir gün seçin. Bu dönemde azotlu kimyasal gübre vermeyin; ağaç onu kullanamaz ve yağmurla yıkanır. Uygulamadan sonra üzerine biraz yaprak ya da saman malçı sererseniz, hem gübre korunur hem de toprak canlıları daha rahat çalışır.

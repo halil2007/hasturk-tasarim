@@ -1,0 +1,137 @@
+### YAZI
+slug: min-maks-termometre-bahcede-gece-sicakligini-olcmek
+baslik: Min-Maks Termometre: Bahçede ve Balkonda Gece Sıcaklığını Ölçmek
+yayin: 2027-03-29 16:40
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: min-maks termometre
+seo_baslik: Min-Maks Termometre ile Gece Sıcaklığını Ölçmek
+seo_aciklama: Min-maks termometre bahçede gece en düşük sıcaklığı kaydeder. Nereye asılır, nasıl okunur, hava tahminiyle farkı nasıl çıkar? Kayıt tablosu ve adımlarla.
+ozet: Hava durumu uygulaması şehir merkezini söyler, fideleriniz ise sizin köşenizdeki gerçek soğuğu yaşar. Gece en düşük ve gündüz en yüksek değeri hatırlayan termometrenin nereye asılacağını ve kayıtla nasıl kullanılacağını anlattık.
+etiketler: min-maks termometre, gece sıcaklığı, don, balkon, bahçe ölçümü, fide
+gorsel: bekliyor
+gorsel_alt: Balkon korkuluğunda sabah çiyi taşıyan fide saksıları ve asılı küçük termometre
+urunler: tekerlekli-sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak, bahce-kulesi-tekerlek-seti-7-adet
+kisaca: Min-maks termometre, en düşük ve en yüksek sıcaklığı hafızasında tutan basit bir ölçerdir; sabah bakıp sıfırlarsınız. Bitki yüksekliğinde, güneşten ve duvardan uzak asılır. Birkaç hafta kayıt tutunca hava tahmininin köşenizde kaç derece şaştığını görür, fideleri içeri alma kararını ölçüme dayandırırsınız.
+@govde
+Nisan başında bir akşam telefon ekranı gece için dört derece diyor; elinizde ise bir min-maks termometre bile yok. Balkondaki domates fideleri iki haftadır dışarıda ve iyi gidiyor. İçeri mi alsanız, bırakıp uyusanız mı? Sabah kalktığınızda bazı komşular yaprakların morardığını, bazıları da hiçbir şey olmadığını söyler. Fark çoğu zaman tahminde değil, balkonun kendi iklimindedir. Aradaki farkı gösteren basit bir alet var. Aşağıda nasıl seçileceğini, nereye asılacağını ve çıkan sayıların nasıl okunacağını anlattık.
+
+## Min-maks termometre ne yapar?
+
+Sıradan bir termometre yalnızca o an bakılan sıcaklığı gösterir. Siz sabah yedide baktığınızda gece üçteki en soğuk an çoktan geçmiştir. Min-maks termometre ise iki değeri hafızasında tutar: son sıfırlamadan bu yana ölçülen en düşük ve en yüksek sıcaklık. Cıvasız klasik modellerde U borusu içinde iki küçük gösterge bulunur ve bir mıknatısla başa çektirilir. Dijital modellerde iki ayrı hafıza vardır ve bir düğmeyle silinir.
+
+Bahçıvan için asıl bilgi gecenin en düşük değeridir. Fideyi öldüren ya da yaprağı mora çeviren o tek anlık soğuk, akşam yedide değil sabaha karşı yaşanır. Termometre onu sizin yerinize bekler ve sabah söyler.
+
+## Hava tahmini neden yetmez?
+
+Tahmin ölçüsü bir istasyondan gelir; çoğunlukla havaalanı ya da şehir merkezindeki bir direğin değeridir. Sizin köşenizde üç dört etken bunu değiştirir:
+
+- Bina ve beton, gün boyu ısıyı depolar ve geceleri bırakır; şehir merkezi çevreye göre sıcaktır.
+- Alçak noktalar soğuk havayı toplar. Soğuk hava yamaçtan aşağı akıp çukurda birikir.
+- Açık, rüzgârsız gecelerde yeryüzü ısısını hızla gökyüzüne verir; bitkinin yaprağı havadan daha soğuk olabilir. Washington State University'nin meyve bahçeleri için hazırladığı yayında da bu "ışınım" gecelerinde bitki sıcaklığının çevre havadan daha hızlı düştüğü, durumun açık ve sakin gecelerde belirginleştiği anlatılıyor ([Washington State University](https://treefruit.wsu.edu/?p=34270)).
+- Duvar dibi, korkuluk yanı ve cam önü, açık bahçeden farklı davranır.
+
+Bu yüzden aynı gece iki balkon arasında beş derece fark çıkabilir. Kendi ölçümünüz size bu farkın değerini söyler.
+
+## Klasik mi dijital mi?
+
+İkisi de iş görür. Sıvılı ve mıknatıslı klasik modeller pil istemez, yağmurdan çok etkilenmez, ama okuması biraz el becerisi ister: göstergeyi doğru yere oturtmak, mıknatısı bırakıp sıfırlamak gerekir. Dijital modeller ekranda iki değeri birden gösterir, düğmeyle sıfırlanır; pili ve nemi sevmez. Balkon korkuluğunda yağmur alacaksa kapalı bir kutu ya da küçük bir çatı altında durması uzun ömür sağlar. Hangisini seçerseniz seçin, birkaç gün aynı değerleri göstermesi, kayıt için sabit bir yerde durması yeter.
+
+## Nereye asmalı?
+
+Yer seçimi, termometreden önemlidir. Yanlış yerdeki iyi termometre yanlış sayı verir.
+
+| Yer | Sonuç |
+|---|---|
+| Doğrudan güneş alan duvar | Gündüz maksimumu yüksek çıkar, güvenilmez |
+| Bina duvarına yapışık, kapı ya da pencere yanı | Binanın ısısını okur, geceyi sıcak gösterir |
+| Bitkilerin yanında, yaprak yüksekliğinde | En doğru değer |
+| Zemine yatık, çukurda | Soğuk cep: geceyi gerçekten olduğundan soğuk gösterebilir |
+
+University of Arizona Extension'ın hava ölçüm notu, maksimum-minimum termometrenin doğrudan güneşten uzak, izlenmek istenen alana yakın bir yerde durmasını öneriyor ([University of Arizona Extension](https://extension.arizona.edu/sites/extension.arizona.edu/files/attachment/WeatherStations.pdf)). Balkonda bunun anlamı şu: Duvara değil, korkuluk üzerinde ya da bir askıda, bitkilerle aynı yükseklikte ve güneşin değmeyeceği bir gölgelikli noktada asın. Küçük bir karton ya da beyaz plastik gölgelik, öğle güneşini keser.
+
+## Doğru okumak için üç ayar
+
+Aleti asmadan önce üç şey yapın.
+
+::: adimlar
+Buz suyu testi yapın | Termometreyi buz ve su dolu bardağa batırın; sıfıra yakın değer göstermeli, iki derecelik sapma varsa farkı not edin.
+Sıfırlama saatini sabitleyin | Her sabah aynı saatte, güneş ısıtmadan önce bakıp sıfırlayın.
+Tabloya yazın | Gece en düşük ve gündüz en yüksek sayıyı tarihle birlikte deftere ya da telefona işleyin.
+:::
+
+Buz suyu testi çok basit ama işe yarar. Ucuz bir termometre kolayca iki üç derece şaşırabilir; bir bahçe fidesi için bu fark hayatidir. Sapmayı bir kez öğrendiğinizde sayıdan düşersiniz.
+
+## İlk iki haftanın kaydı
+
+Gerçek değer, tahminle ölçümü yan yana koyduğunuzda ortaya çıkar. İlk iki hafta şu tabloyu doldurmak yeterlidir:
+
+| Tarih | Tahmin (gece) | Ölçüm (en düşük) | Fark | Not |
+|---|---|---|---|---|
+| 3 Nisan | 4 °C | 6 °C | +2 | Rüzgâr vardı |
+| 5 Nisan | 3 °C | 1 °C | -2 | Açık, sakin gece |
+| 8 Nisan | 7 °C | 7 °C | 0 | Bulutlu |
+
+Birkaç hafta sonra bir örüntü çıkar. Balkonunuz bulutlu gecelerde tahminle aynı, açık ve sakin gecelerde iki üç derece daha soğuk olabilir. Artık "dört derece" yazan bir gecede, açık ve rüzgârsızsa hassas fideleri içeri alırsınız; bulutluysa bırakırsınız. Kararınızı ezbere değil kayda dayandırmak, hem gereksiz taşımayı hem sabah acısını azaltır.
+
+## Hangi sayıda ne yapılır?
+
+Sebzelerin soğuk toleransı birbirinden çok farklıdır. Aşağıdaki sınırlar genel bir çerçevedir; çeşide, fidenin yaşına ve sertleşme durumuna göre değişir.
+
+| Gece en düşük | Durum | Yapılacak |
+|---|---|---|
+| 10 °C ve üstü | Domates, biber, patlıcan, fasulye için rahat | Dışarıda bırakın |
+| 5-10 °C | Sıcak sevenlerde büyüme yavaşlar | Fideleri duvar dibine çekin, örtü atın |
+| 0-5 °C | Don riski yok ama zorlanma var | Hassas fideleri içeri alın |
+| 0 °C ve altı | Sıcak seven fideler zarar görür | İçeri alın ya da örtü ve tünel kullanın |
+| -3 °C ve altı | Marul, ıspanak gibi serin bitkiler de yanar | Örtü şart |
+
+Soğuğa dayanıklı marul, ıspanak, bezelye ve turp hafif donu atlatır. Fide sertleştirme rehberinde anlattığımız gibi, dışarıya alıştırılmış fide aynı soğuğa daha iyi dayanır; ayrıntı için [fide sertleştirme](/fide-sertlestirme) yazısına bakın. Donu yemiş bitkiyi atmadan önce [don zararı belirtileri](/don-zarari-belirtileri) yazısında kurtarma ölçütlerini bulabilirsiniz. Bölgenizin son don zamanını tahmin etmek için ise [son don tarihi](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısı faydalı.
+
+## Soğuk cebi bulmak
+
+Termometreyi tek yerde değil, iki farklı yerde denemek de bir yöntemdir. Büyük bahçesi olan biri, en alçak köşeye ve evin yakınındaki yükseltilmiş bir yatağa birer termometre koyup aynı gece okuma yapabilir. Fark üç dört dereceyi bulursa, hassas fideleri alçak köşeden uzak tutmanız gerektiğini öğrenmiş olursunuz. Soğuk hava aşağıya akar; bir çukur, çitle kapatılmış bir köşe ya da duvarın dibi, açık bir yamaçtan daha soğuk olabilir.
+
+Balkonda aynı mantık yükseklik farkıyla çalışır. Zemine yakın saksılar, korkuluk hizasındakilerden daha soğuk bir gece yaşayabilir. Yer seviyesindeki saksıları bir tabure ya da rafa kaldırmak bile bir iki derece kazandırabilir.
+
+## Ölçümü harekete çevirmek
+
+Sayılar sadece bilgi değil, karar demektir. Tekerlekli bir yatak ya da kule bu kararı hızlandırır. Tekerlekli sehpalı balkon yatağı, ürün bilgisine göre frenli altı tekerlekle yer değiştirebiliyor; akşam yatağı bina duvarına yaklaştırıp sabah yerine alabilirsiniz. Yediveren kule için tekerlek seti de benzer şekilde kuleyi taşımayı kolaylaştırıyor. Toprakla dolu yatağın ve kulenin ağırlığını göz önünde tutun, zeminin düz ve engelsiz olmasına dikkat edin.
+
+Tekerleği olmayan düzenlerde ise saksıları akşamları bir araya toplayıp üzerine tülbent ya da bahçe örtüsü atmak da iş görür.
+
+[ürün:tekerlekli-sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak,bahce-kulesi-tekerlek-seti-7-adet]
+
+## Sezon sonuna kadar kullanın
+
+Termometre yalnızca don için değildir. Yazın en yüksek sıcaklığı da kaydeder. Temmuzda balkonunuzda 42 derece görürseniz, öğleden sonra gölge bezi ya da saksıyı hareket ettirme ihtiyacını sayı üzerinden anlarsınız. Sonbaharda ilk soğuk geceyi yakalar, kışlık bitkileri içeri alma gününü belirlersiniz. Birkaç sezon sonra elinizde kendi balkonunuzun ya da bahçenizin iklim defteri olur; hava tahmini bir ipucu olarak kalır, karar sizin verilerinizle verilir.
+
+Alet küçüktür, sorusu büyüktür: Sabaha kadar ne kadar soğudu? Bir kez bu soruya kendi cevabınızı bulduğunuzda, hava durumu uygulamasına bakışınız da değişir.
+@sss
+S: Min-maks termometre nedir?
+C: Gün içinde ölçülen en düşük ve en yüksek sıcaklığı hafızasında tutan bir termometredir. Sabahları bakıp sıfırlanır; böylece gecenin en soğuk değerini, siz uyurken kayda alır.
+
+S: Min-maks termometre bahçede nereye asılır?
+C: Doğrudan güneş almayan, bina duvarından biraz uzak ve bitkilerin yüksekliğinde bir noktaya asılır. Duvara yapışık ya da güneşli bir yer gündüzü yüksek, geceyi sıcak gösterir.
+
+S: Termometrenin doğru ölçüp ölçmediğini nasıl anlarım?
+C: Buz ve su dolu bardağa batırın; sıfıra yakın bir değer göstermelidir. İki derece sapma varsa farkı not edin ve ölçümlerden düşün. Üç dereceden fazla şaşıyorsa yenisini alın.
+
+S: Hava durumu tahmini ile balkonumdaki sıcaklık neden farklı çıkar?
+C: Tahmin çoğunlukla şehir merkezi ya da havaalanındaki bir istasyonu gösterir. Balkon, bina ısısı, rüzgâr, yükseklik ve açık gecelerdeki ışınım kaybı yüzünden iki üç derece farklı olabilir.
+
+### SORU
+yayin: 2027-03-29 11:50
+kategori: bahce-ipuclari
+baslik: Balkonda fideleri geceleri içeri almaktan yoruldum, ne zaman bırakabilirim?
+metin: İki haftadır her akşam domates ve biber fidelerimi içeri alıp sabah çıkarıyorum. Hava ısındı gibi ama emin değilim. Hangi gece sıcaklığından sonra dışarıda bırakılır?
+@cevap Muhammed Hamza Çelik | 2
+Sıcak seven fideler için gece en düşük sıcaklığın art arda birkaç gün on derecenin üzerinde kalması iyi bir işarettir. Bir termometreyle gece ölçümü yapmak tahminden daha güvenilir sonuç verir. Açık ve rüzgârsız gecelerde balkon tahminden iki üç derece soğuk olabilir; bu gecelerde yine içeri alın. Kararsızsanız fideleri duvar dibine çekip üzerlerine ince bir örtü atmak yeterli olur.
+
+### SORU
+yayin: 2027-03-29 14:20
+kategori: toprak-rehberi
+baslik: Saksı toprağım sabah buz gibi, sıcaklığı etkiler mi?
+metin: Sabah saksıya elimi soktum, toprak çok soğuktu ama hava gündüz ısınıyor. Fideleri etkiler mi, ısıtma yöntemi var mı?
+@cevap Ahmet Sacit Çelik | 3
+Soğuk toprak kökün su ve besin almasını yavaşlatır; fide büyümeyi durdurup soluk görünebilir. Saksıyı koyu renkli bir yüzeye ya da güneş alan duvar dibine koymak toprağı daha çabuk ısıtır. Yeni dikilen fideleri çok soğuk toprağa vermeyin; saksıyı bir iki gün sıcak bir yerde bekletin. Sulamayı sabahın serinliğinde değil, öğleye doğru, ılık suyla yapın.

@@ -1,0 +1,170 @@
+### YAZI
+slug: cerezlik-kabak-yetistirme
+baslik: Çerezlik Kabak Yetiştirme: Çekirdek Kabağı Ekimi, Sulama ve Hasat
+yayin: 2027-01-26 14:30
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: çerezlik kabak yetiştirme
+seo_baslik: Çerezlik Kabak Yetiştirme: Ekim, Sulama ve Hasat
+seo_aciklama: Çerezlik kabak yetiştirme: çekirdek kabağının ekim zamanı, toprak ısısı, kuru ve sulu koşul, hasat ve çekirdeği kurutma adımlarını anlattık.
+ozet: Çerezlik kabak yetiştirme, etinden çok çekirdeği için kabak üretmektir; yarı kurak bölgelerde nisan sonu ve mayıs başında, toprak yeterince ısınınca ekilir. Ekim zamanını, kuru ve sulu koşul farkını, gübre ve bakımı, hasat olgunluğunu ve çekirdeğin ayrılıp güneşte kurutulmasını yazdık.
+etiketler: çerezlik kabak, çekirdek kabağı, kabak çekirdeği, kabak ekimi, Kayseri, hasat ve kurutma
+gorsel: bekliyor
+gorsel_alt: Tarlada olgunlaşmış çerezlik kabaklar ve yanında kurumaya serilmiş kabak çekirdekleri
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Çerezlik kabak yetiştirme, çekirdek için yapılan kabak üretimidir ve Türkiye'de ağırlıkla Orta Anadolu'da, özellikle Kayseri'de yapılır. Tohum nisan sonu ile mayıs başında, toprak ısındıktan sonra ekilir; üretim büyük ölçüde kuru koşulda yapılır. Hasatta meyveler olgunlaşınca toplanır, çekirdek meyveden ayrılıp yıkanır ve güneşte kurutulur.
+@govde
+Bir tabak sofralık kabak ile bir avuç kabak çekirdeği aynı bitkinin yakınlarından gelir ama aynı üretimden gelmez. Çerezlik kabak yetiştirme, meyvenin eti için değil, içindeki çekirdek için yapılır; amaç bol, dolgun ve kabuğu temiz çekirdektir. Türkiye'de bu üretimin merkezi Orta Anadolu'dur ve Kayseri bölgesi öne çıkar. Bu yazı çerezlik kabağın nasıl yetiştirildiğini, hangi noktalarda sofralık kabaktan ayrıldığını ve hasat sonrası çekirdeğin nasıl işlendiğini anlatıyor. Sofralık kabak için [kabak yetiştirme](/kabak-yetistirme) yazısına bakabilirsiniz.
+
+## Çerezlik kabak nedir, sofralık kabaktan farkı ne?
+
+Çerezlik kabak, çekirdeği iri, dolgun ve kabuğu ince ya da kabuksuza yakın çeşitlerle yapılan bir tarla üretimidir. Sofralık kabakta (sakız, girit) meyve genç hasat edilir; çerezlik kabakta ise meyve tam olgunlaşır ve çekirdek asıl üründür. Tomarza çekirdek kabağı için hazırlanan coğrafi işaret belgesi, hasattan sonra tohumların meyveden ayrıldığını ve güneşte kurutulduğunu belirtir ([Türk Patent coğrafi işaret belgesi](https://ci.turkpatent.gov.tr/Files/GeographicalSigns/185.pdf)). Yani üretimin sonu tarlada değil, çekirdeğin ayrılıp kurutulduğu aşamadır.
+
+| Özellik | Sofralık kabak | Çerezlik kabak |
+|---|---|---|
+| Amaç | Taze meyve | Çekirdek |
+| Hasat | Meyve genç | Meyve tam olgun |
+| Ekim | Ocak ocak ya da sıra | Tarla ekimi, çoğunlukla makineyle |
+| Su | Düzenli sulama | Yarı kurak bölgede çoğunlukla kuru koşul |
+| Son işlem | Meyve satılır | Çekirdek ayrılır, yıkanır, kurutulur |
+
+## Çerezlik kabak yetiştirme için iklim ve toprak
+
+Kabak sıcak seven bir bitkidir ve don kaldırmaz. Üniversite çalışmalarında, çerezlik kabağın yarı kurak iklim koşullarında çoğunlukla kuru tarım şartlarında yetiştirildiği belirtilir; bu yüzden bölge, yıllık yağış ve toprağın su tutma gücü verimi belirler. Derin, süzek ve çok ağır olmayan topraklar uygundur; su toplayan parsellerde kökler ve meyveler çürür. Tarlayı seçerken, bir önceki yıl kabakgillerin (kabak, kavun, karpuz, hıyar) ekilmediği bir parseli tercih edin; ayrıntı için [ekim nöbeti](/ekim-nobeti) yazısına bakın. Toprak analizi gübreyi belirlemek için ilk adımdır ([toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir)).
+
+## Ekim zamanı: toprak ısınmadan ekmeyin
+
+Kayseri'de yapılan çalışmalarda tohum ekimi nisan sonu ve mayıs başında yapılır ve ekilişlerde ağırlıkla tarımsal mekanizasyondan yararlanılır. Aynı çalışmalarda ekim zamanı gece toprak sıcaklığının düşük olmasının çimlenme ve çıkış kayıplarına yol açabildiği bildirilir ve çimlenme için toprak sıcaklığının yaklaşık 11–12 derece olması gerektiği belirtilir. Bu yüzden ekimi takvime değil toprak ısısına bakarak yapın; son donun geçtiğinden emin olun. Soğuk ve ıslak toprağa ekilen tohum çürür ya da zayıf çıkar. Ekim tarihi bölgenize göre değişir; il ve ilçe tarım müdürlüğünden yerel öneri alın.
+
+Ekim derinliği, aralığı ve tohum miktarı çeşide, toprağa ve makineye göre değişir. Elinizdeki tohumluğun etiketindeki öneriyi esas alın; mekanik ekim yapacaksanız makineyi tohum iriliğine göre ayarlayın ([mibzer ayarı](/mibzer-ayari) yazısındaki kalibrasyon mantığı burada da geçerlidir). Tohumluğu güvenilir kaynaktan alın ([sertifikalı tohum nedir](/sertifikali-tohum-nedir)).
+
+::: adimlar
+Parseli seçin | Süzek toprak, kabakgil olmayan bir önceki ürün, güneşli bir yer.
+Toprağı hazırlayın | Sonbahar ya da erken ilkbahar sürümünü yapın, ekim yatağını ince hazırlayın.
+Toprak ısısını izleyin | Don riski bitip toprak yeterince ısınınca ekin.
+Ekin | Tohumu etiketteki derinlik ve sıklıkta, çıkış sonrası seyreltme planıyla ekin.
+Bakım | Yabancı otu erkenden temizleyin, gerekiyorsa sulayın ve hastalıkları izleyin.
+Hasat ve kurutma | Meyve olgunlaşınca toplayın, çekirdeği ayırın, yıkayıp güneşte kurutun.
+:::
+
+## Kuru koşul mu, sulu tarım mı?
+
+Çerezlik kabak yetiştirme çoğunlukla kuru koşulda yapılır; bu, yağışa güvenmek demektir. Yıllık yağışı düşük bir yılda verim düşer, yağışlı yılda ise hastalık ve çürüme riski artar; bu yüzden çerezlik kabak yetiştirme planı bir yıllık hava durumuna göre değil, birkaç yılın ortalamasına göre yapılmalıdır. Süleyman Demirel Üniversitesi'nde yapılan bir çalışmada ikinci ürün çerezlik kabağın su kullanım etkinliğinin yüksek bulunduğu ve Orta Anadolu'da sulu tarımda ikinci ürün olarak yetiştirilmesinin avantajlı olabileceği sonucuna varılmıştır. Sulama yapacaksanız damla sulama su tasarrufu sağlar ve yaprağı ıslatmadığı için hastalık riskini azaltır. Kabakta sulama dengesizliği meyve çürümesine yol açar; Kayseri'de ağustos-eylül aylarında meyve çürümesi sorunu bildirilir. Bu yüzden meyve olgunlaşma dönemine doğru sulamayı azaltın ve meyvelerin ıslak toprakla temasını kesmek için yatakların düzgün drene olmasına bakın. Sulama ilkeleri için [kuraklıkla mücadele](/kuraklikla-mucadele) yazısı tarlada su yönetimi konusunda fikir verir.
+
+## Gübre ve bakım
+
+Kabak, fazla azotla yaprağını çoğaltır ama meyve ve çekirdek tutumu düşer. Gübre dozunu toprak analizine göre belirleyin; dengeli besin için [kabak gübreleme](/kabak-gubreleme) yazısına bakabilirsiniz. Organik madde toprağın su tutmasına yardım eder.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Yabancı ot, özellikle ilk haftalarda kabağın ana rakibidir; çapa ya da makineli çapa uygulayın ([tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi)). Hastalık ve zararlıları düzenli izleyin: külleme, virüs ve yaprak biti kabakta sık görülür; belirtileri için [kabak hastalıkları](/kabak-hastaliklari) yazısına bakın. İlaç gerekirse yalnız ruhsatlı ürünü ve etiketteki bekleme süresini kullanın.
+
+## Hasat: meyve olgun, çekirdek dolgun olmalı
+
+Çerezlik kabakta hasat, meyvenin tam olgunlaştığı döneme bırakılır; kabuk sertleşir, rengi dönmeye ve sap kurumaya başlar. Hasadı kuru havada yapın, meyveleri yaralamadan tarlada ya da kenarda toplayın. Olgunlaşmamış meyvede çekirdek dolgun olmaz, kabuğu zayıf kalır. Hasat sonrası meyveyi kırın, çekirdekleri etinden ayırın ve bol suyla yıkayıp posasından arındırın. Çekirdeklerin üstünde kalan et ve nem, küf ve kötü kokuya yol açar. Mekanizasyon gerektiğinde çekirdek ayırma makinesi kullanılabilir.
+
+## Kurutma ve saklama
+
+Yıkanan çekirdeği ince bir tabaka hâlinde, gölge ve havadar ya da güneşli bir zemine serin; arada karıştırarak eşit kurumasını sağlayın. Güneşte kurutma geleneksel yöntemdir (Tomarza belgesinde de anılır). Kuru çekirdek ağzı açık ve nemsiz bir çuval ya da kasada, serin ve kuru bir yerde saklanır; nem küfe ve aflatoksin riskine yol açabilir, bu yüzden çekirdeği tam kuru olmadan çuvallamayın. Aynı dikkat evde kabak çekirdeği kurutan bahçıvanlar için de geçerlidir.
+
+Küçük ölçekli çerezlik kabak yetiştirme bahçede de denenebilir; birkaç bitki bir aile için yeterli çekirdek verir, ama bahçe ölçeğinde de meyvenin tam olgunlaşmasını beklemek gerekir. Satış, kalite ve destek konuları için ilinizin tarım müdürlüğü ve ilgili birlikler yetkili kaynaktır. Gübre ve toprak konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Çerezlik kabak yetiştirme ne zaman başlar?
+C: Kayseri gibi yarı kurak bölgelerde ekim nisan sonu ve mayıs başında yapılır. Çimlenme için toprak sıcaklığı yaklaşık 11–12 dereceyi bulmalıdır; don ve soğuk toprakta ekim çıkış kaybına yol açar.
+
+S: Çerezlik kabak sulanır mı?
+C: Büyük ölçüde kuru koşulda, yağışa dayanarak yetiştirilir. Sulu tarım mümkünse, özellikle ikinci ürün olarak avantajlı olabilir. Damla sulama kullanın ve olgunlaşmaya doğru sulamayı azaltın; fazla su meyve çürütür.
+
+S: Kabak çekirdeği nasıl ayrılır ve kurutulur?
+C: Olgun meyveyi kırıp çekirdeği etinden ayırın, bol suyla yıkayın ve posasından temizleyin. Ince bir tabaka hâlinde gölge ya da güneşte karıştırarak tam kurutun; nemli çuvallamayın.
+
+S: Çerezlik kabakla sofralık kabak aynı mıdır?
+C: Hayır. Sofralık kabakta meyve genç yenir, çerezlik kabakta amaç çekirdektir ve meyve tam olgunlaşır. Çerezlik çeşitlerin çekirdeği iri ve dolgundur; üretim tarla ölçeğinde yapılır.
+
+### YAZI
+slug: hardal-yetistirme
+baslik: Hardal Yetiştirme: Yeşil Gübre, Baharat ve Yağ İçin Ekim, Sulama ve Hasat
+yayin: 2027-01-26 16:55
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: hardal yetiştirme
+seo_baslik: Hardal Yetiştirme: Yeşil Gübre ve Tohum İçin
+seo_aciklama: Hardal yetiştirme: yeşil gübre, baharat ve yağ için ekim zamanı, tohum miktarı, sulama, çiçeklenmeden önce toprağa karıştırma ve hasat adımlarını anlattık.
+ozet: Hardal yetiştirme üç amaca hizmet eder: toprağı örten yeşil gübre, baharat olarak tohum ve yağ ile yeşillik. Her amaçta ekim zamanı, tohum miktarı ve hasat farklıdır; yeşil gübrede bitki tohum oluşturmadan sonlandırılır. USDA kaynağına dayalı ekim bilgilerini, ekim nöbeti ilişkisini ve bakımı yazdık.
+etiketler: hardal, yeşil gübre, örtü bitkisi, baharat, ekim nöbeti, Brassicaceae
+gorsel: bekliyor
+gorsel_alt: Sarı çiçek açmış hardal tarlası ve yakın planda hardal bitkisinin tohum kapsülleri
+urunler: leonardit-organik-toprak-duzenleyici
+kisaca: Hardal yetiştirme, üç amaç için yapılır: yeşil gübre, baharat olarak tohum ve yağ. Yeşil gübre olarak USDA, hardalın tohum oluşturmadan sonlandırılmasını önerir; ABD koşullarında sonbahar ekimi için serpmede dekara yaklaşık 1–1,7 kg, mibzerde yaklaşık 0,6–1,3 kg tohum verilir. Türkiye için ilinizin tarım müdürlüğünden bölgesel öneri alın.
+@govde
+Hardal, mutfaktaki sarı sosun bitkisi olduğu kadar tarlanın en hızlı gelişen örtü bitkilerinden biridir. Hardal yetiştirme çiftçide yeşil gübre, tohum üreticisinde baharat ve yağ, bahçıvanda ise toprağı kışın boş bırakmayan bir örtü anlamına gelir. Bu yazı, üç amacı birbirinden ayırarak ekim, sulama ve hasat kararlarını anlatıyor. Türkiye için hazır bir il müdürlüğü rehberi bulamadığımız için kaynak olarak ABD Tarım Bakanlığı (USDA) yayını kullanıldı; sayıları kendi bölgenize uyarlamadan önce il ya da ilçe tarım müdürlüğüne danışın. Genel yeşil gübre yöntemi için [yeşil gübreleme](/yesil-gubreleme) yazısına bakabilirsiniz.
+
+## Hardal hangi bitkidir, hangi amaçla yetiştirilir?
+
+Hardal, lahana, turp ve kanola ile aynı bitki ailesindendir (Brassicaceae). Bu aile bağı iki yönden önemlidir: ekim nöbetinde lahanagillerle aynı yere art arda ekilmemelidir ve kanola gibi yağ bitkileriyle ortak hastalıkları paylaşabilir. Kışlık yağ bitkisi için [kanola yetiştirme](/kanola-yetistirme) yazısı da ilgili bir örnek. Hardal şu amaçlarla yetiştirilir:
+
+| Amaç | Ne için? | Hasat zamanı |
+|---|---|---|
+| Yeşil gübre ve örtü | Toprağı örtmek, organik madde sağlamak, yabancı otu bastırmak | Çiçeklenmeden önce, tohum oluşmadan |
+| Baharat (tohum) | Sarı, kahverengi ya da siyah hardal tohumu | Kapsüller olgunlaşıp kuruyunca |
+| Yağ | Tohumdan yağ elde edilmesi | Tohum olgunlaşınca |
+| Yeşillik | Taze yaprak (salata ve pişirme) | Genç yapraklar gelişince |
+
+Bu yazının odağı yeşil gübre ve tohum üretimidir; yeşillik için küçük ölçekli bahçe ekimi de benzer ilkelerle yapılır.
+
+## Yeşil gübre olarak hardal: ABD kaynağı ne diyor?
+
+USDA Tarımsal Araştırma Servisi'nin örtü bitkisi bilgi sayfası, hardalı kış aylarında ekilen bir örtü bitkisi olarak ele alır; ekim için eylülden ekim başına kadar olan dönemi, mibzerle ekimde acre başına 5–12 pound, serpmede 10–15 pound tohum miktarını belirtir ve yeşil gübre olarak kullanımda bitkinin tohum oluşturmadan sonlandırılmasını söyler ([USDA ARS, hardal örtü bitkisi bilgi sayfası](https://www.ars.usda.gov/ARSUserFiles/60100500/FactSheets/FS04d.pdf)). Bu değerler ABD koşulları ve birimleriyle verilmiştir; kaba çevirimle mibzerde dekara yaklaşık 0,6–1,3 kg, serpmede yaklaşık 1,1–1,7 kg tohum eder. Türkiye'de iklim, çeşit ve bölge değişeceği için bu sayıyı kesin öneri olarak değil, mertebe olarak okuyun ve ilinizdeki tarım müdürlüğüyle teyit edin.
+
+## Neden çiçeklenmeden önce sonlandırılır?
+
+Hardal hızlı gelişir ve çiçeklenip tohum bağladığında kendi kendine tarlada yayılabilir; yabancı ot gibi davranır. Tohum oluşmadan toprağa karıştırmak ya da biçip malç yapmak bunu önler. Yeşil kütle toprağa karıştığında organik madde sağlar; ayrıca hardalın toprağı kışın örtmesi erozyonu ve yabancı otu azaltır. Toprağa karıştırmadan sonra ekim yapılacaksa bekleme süresine ve yeşil kütlenin çürümesine dikkat edin; taze yeşil kütleyi toprağa gömüp hemen ekim yapmak çıkış sorunu doğurabilir. Toprakta organik maddenin önemi için [toprakta organik madde](/toprakta-organik-madde) yazısına bakın.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Tohum için hardal yetiştirme
+
+Baharat ya da yağ için hardal yetiştiriyorsanız hedef, tohum olgunluğuna ulaşmaktır. Bu durumda bitki çiçeklenir, kapsül bağlar ve kapsüller sararıp kurumaya başlayınca hasat edilir. Tohum hasadı için bitkiler tamamen kurumadan, kapsüller çatlayıp tohumu dökmeden toplanmalıdır; çatlayıp dökülen tohum hasat kaybıdır. Hasattan sonra tohumu kurutun ve kuru, serin yerde saklayın. Tohumluk için güvenilir kaynak ve çeşit seçin ([sertifikalı tohum nedir](/sertifikali-tohum-nedir)). Ticari tohum ya da yağ üretimi için ayrıca alıcıya, çeşide ve bölgedeki deneyime danışmak gerekir.
+
+## Ekim, toprak ve sulama
+
+Hardal serin mevsim bitkisidir; çimlenmek için fazla sıcak istemez ve hafif donları çoğu zaman atlatır. Bu yüzden sonbahar ya da erken ilkbahar ekimi yaygındır. Tarlayı hazırlarken ekim yatağını ince ve düzgün yapın; hardal tohumu küçük olduğu için derin ekilmemelidir. Tohumu yüzlek ekin, ekimden sonra toprağı bastırın. Sulama gerekirse çıkış döneminde hafif ve düzenli yapın; hardal genellikle yağışla yetinebilir. Gübreleme için yeşil gübre amacıyla yetiştiriliyorsa azotu aşırıya kaçmadan verin; bitki zaten hızlı büyür.
+
+::: adimlar
+Amacı belirleyin | Yeşil gübre, tohum ya da yeşillik; amaca göre ekim zamanı ve hasat değişir.
+Tohumluğu seçin | Güvenilir kaynaktan, amaca uygun çeşit alın.
+Ekim yatağını hazırlayın | İnce, düzgün ve nemli bir tohum yatağı yapın.
+Yüzlek ekin | Tohum küçüktür; yüzlek ekip bastırın ve gerekirse hafifçe sulayın.
+Sonlandırma ya da hasat | Yeşil gübrede çiçeklenmeden önce toprağa karıştırın; tohum için kapsüller olgunlaşınca toplayın.
+:::
+
+## Küçük bahçede hardal yetiştirme
+
+Hardal yetiştirme yalnız tarlada değil, sebze bahçesinde ve yükseltilmiş yatakta da işe yarar. Boş kalan yatağa sonbaharda hardal ekmek, toprağı kış boyunca örter, yağmurla toprağın yıkanmasını ve yabancı otun çoğalmasını azaltır. İlkbaharda yatağı sebze dikimine hazırlarken hardalı çiçeklenmeden keser, kökünü yerinde bırakır ve yeşil kısmı malç ya da kompost olarak kullanırsınız. Küçük bahçede hardal yetiştirme, ekim sonrası fazla bakım istemez: çıkış döneminde nemli tutmak, sonra kendi hâline bırakmak yeter. Tek dikkat noktası, sonraki ürünün lahanagillerden olmamasıdır. Yatak planlaması için [bahçe yatağını kışa hazırlama](/bahce-yatagini-kisa-hazirlama) yazısına bakabilirsiniz. Genç hardal yaprakları da yenebilir; hasat edeceğiniz yeşillik için yaprakları ilaçsız ve temiz tutun.
+
+## Ekim nöbeti ve dikkat edilecekler
+
+Hardal lahanagillerle aynı ailedendir; lahana, karnabahar, turp ve kanola ekilen bir parselde hardal ekmek hastalık ve zararlıları besleyebilir. Hardal sonrası ekilecek ürün de önemlidir: aynı aileden bir ürün ekilecekse aralığı açın. Lahana grubundaki sorunlar için [lahana hastalıkları](/lahana-hastaliklari) ve [kök ur nematodu](/kok-ur-nematodu) yazılarına göz atın. Ekim nöbeti ilkeleri için [ekim nöbeti](/ekim-nobeti) yazısına bakın.
+
+Yabancı otun yönetiminde hardal örtüsü yardımcı olur ama kendi tohumunu tarlaya dağıtırsa yeni bir yabancı ot problemine dönüşebilir; bu yüzden çiçeklenme izlenmelidir. Tarlanın dışında yetişen yabani hardal türleri de yabancı ot olarak görülebilir; kendi ilinizdeki yabani ot yönetimi için [tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi) yazısına bakabilirsiniz. Toprak düzenleyici ve gübre konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Hardal yetiştirme amacıyla ne zaman ekilir?
+C: Serin mevsim bitkisi olduğu için sonbahar ya da erken ilkbaharda ekilir. USDA kaynağında kış örtüsü için eylülden ekim başına kadar olan dönem anılır; Türkiye'de tarih bölgeye göre değişir, il müdürlüğüne danışın.
+
+S: Hardal yeşil gübre olarak ne zaman toprağa karıştırılır?
+C: Çiçeklenmeden önce, tohum oluşmadan. USDA kaynağı, yeşil gübre olarak kullanımda hardalın tohum oluşturmadan sonlandırılmasını söyler; böylece bitki tarlada yabancı ot gibi yayılmaz.
+
+S: Hardal hangi bitki ailesindendir, neden önemli?
+C: Lahana, turp ve kanola ile aynı aile olan Brassicaceae'dendir. Ekim nöbetinde bu bitkilerle art arda aynı parsele ekilmemeli, çünkü ortak hastalık ve zararlıları besleyebilir.
+
+S: Hardal tohumu ne zaman hasat edilir?
+C: Kapsüller olgunlaşıp sararmaya başlayınca, çatlayıp tohum dökülmeden hasat edilir. Tohum tam kurutulup serin ve kuru yerde saklanır.
+
+### SORU
+yayin: 2027-01-26 11:15
+kategori: sebze-meyve
+baslik: Tarlama hardal ekip yeşil gübre yapacağım, çiçek açmadan mı karıştırmalıyım?
+metin: Kış sonunda boş kalan tarlama hardal ektim, bitki hızlı büyüyor ve sarı tomurcuklar görünmeye başladı. Çiçek açmasını bekleyeyim mi, toprağa mı karıştırayım?
+@cevap Muhammed Hamza Çelik | 2
+Yeşil gübre amacıyla ekiliyorsa çiçeklenmeden önce, tohum oluşmadan toprağa karıştırın. USDA'nın hardal bilgi sayfası da yeşil gübre olarak kullanımda bitkinin tohum oluşturmadan sonlandırılmasını söyler; çiçeklenip tohum bağlarsa hardal tarlada yabancı ot gibi yayılabilir. Tomurcuk görünmeye başladıysa vakit gelmiştir: bitkiyi biçip ya da diskle parçalayıp toprağa karıştırın. Ardından yeşil kütlenin toprakta çürümesi için bir süre bekleyin; taze kütleyi gömüp hemen ekim yapmak çıkışı olumsuz etkileyebilir. Hangi ürünü ekeceğinize göre bekleme süresi ve gübre planı değişir; il ya da ilçe tarım müdürlüğüne danışın. Hardal lahanagillerle aynı ailedendir; sonraki ürün lahana ya da turpsa ara verin.
+

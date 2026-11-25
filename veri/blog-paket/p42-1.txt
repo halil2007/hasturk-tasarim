@@ -1,0 +1,712 @@
+### YAZI
+slug: tutun-cicegi-yetistirme-aksam-kokan-cicek-gunduz-kapanir
+baslik: Tütün Çiçeği Yetiştirme: Akşam Kokan Çiçek Neden Gündüz Kapanır?
+yayin: 2027-05-19 08:45
+yazar: Ahmet Sacit Çelik
+kategori: cicekler
+odak: tütün çiçeği yetiştirme
+seo_baslik: Tütün Çiçeği Yetiştirme: Akşam Kokusu ve Bakım
+seo_aciklama: Tütün çiçeği yetiştirme rehberi: tohumu ışıkta ekmek, mayısta fide dikmek, akşam kokan türü seçmek ve gündüz kapanan çiçeğin nedenini anlamak.
+ozet: Akşam balkonda mis gibi kokan, gündüz ise büzüşen tütün çiçeğini nasıl yetiştireceğinizi, hangi türün gerçekten koktuğunu, tohumu nasıl ekeceğinizi ve çiçek açmazsa nereye bakacağınızı anlattık.
+etiketler: tütün çiçeği, nicotiana, akşam kokulu çiçek, yazlık çiçek, tohumdan çiçek, balkon çiçeği
+gorsel: bekliyor
+gorsel_alt: Alacakaranlıkta açmış beyaz yıldız biçimli tütün çiçekleri bahçe kenarında
+urunler: arzuman-petunya-boru-cicegi-tohumu-100-adet, hg-cicek-topragi
+kisaca: Tütün çiçeği (Nicotiana) güneşli, korunaklı yerde, verimli ve nemli ama süzülen toprakta yetişir. Tohumu çok ufaktır ve çimlenmek için ışık ister; üstü kapatılmaz. Kokulu türler akşam açar, gündüz büzüşür; gündüz açık kalan renkli melezlerin kokusu çoğunlukla zayıftır.
+@govde
+Akşam yemeğinden sonra balkon kapısını açtığınızda, sabah bir şey fark etmediğiniz köşeden tatlı, baharat karışımı bir koku geliyor. Kaynağı, gün boyu sarkık ve silik duran tütün çiçeği. Tütün çiçeği yetiştirme işinin püf noktası burada: bitki bozuk değil, gece çalışan tozlayıcılara göre ayarlı. Aşağıda hangi türün kokacağını, tohumu nasıl ekeceğinizi ve çiçeğin neden açmadığını sırayla anlatıyoruz.
+
+## Tütün çiçeği gündüz neden kapanır?
+
+Nicotiana cinsinin birçok türü çiçeklerini akşam üstü açar ve gece boyunca koku salar. [RHS'nin Nicotiana cins sayfası](https://www.rhs.org.uk/plants/nicotiana) birçok türün yalnızca akşam ve gece açtığını, kokunun da buhur benzeri olduğunu belirtir. Bunun mantığı basit: koku ve açık renk, gece uçan güveleri çağırmak için var. Gündüz sıcağında çiçek enerji ve su harcamamak için kapanır ya da sarkar.
+
+Bu yüzden "çiçeklerim neden büzüşüyor" sorusu çoğu zaman bir arıza değil, bitkinin doğal ritmidir. Sorun, bitki akşam serinliğinde de toparlanmıyorsa başlar. O durumda susuzluk, kök çürümesi ya da aşırı sıcak akla gelir.
+
+Bazı melezler ise bu huydan vazgeçirilmiştir. Renkli, bodur ve gündüz de açık duran seçilmiş tiplerde kokunun çoğu zaman zayıfladığını görürsünüz. Kokuyu istiyorsanız tür seçimi, rengi istiyorsanız melez seçimi sizi doğru yere götürür.
+
+## Hangi tür kokar, hangisi renklidir?
+
+Tohum paketinde yalnızca "tütün çiçeği" yazıyorsa iş şansa kalır. Aşağıdaki tablo, bahçede en sık karşılaşılan üç tipi ayırmanıza yardım eder. RHS kayıtlarına göre *N. alata* geceleri güçlü kokar ve oturma alanlarının ya da patikanın yanına dikilmesi önerilir; *N. sylvestris* ise 1,5 metreye kadar boylanan beyaz çiçekli bir türdür.
+
+| Tip | Boy | Çiçek | Koku | Nereye uygun |
+|---|---|---|---|---|
+| *N. alata* (kokulu tütün çiçeği) | 60-90 cm | Beyaz, yeşilimsi krem | Akşam güçlü | Oturma alanı, büyük saksı |
+| *N. sylvestris* | 1-1,5 m | Sarkık beyaz borular | Hafif, tatlı | Yarı gölgeli, arka plan |
+| *N. × sanderae* melezleri | 25-50 cm | Kırmızı, pembe, yeşil, beyaz | Zayıf ya da yok | Kenar süsü, balkon saksısı |
+
+Koku peşindeyseniz tohum torbasının arkasında tür adını arayın. Renk ve bodur boy istiyorsanız melezleri seçin, ama kokuyu beklemeyin. Her iki tipi aynı saksıda karıştırmak da mümkündür; beyaz kokulu türü arkaya, renkli melezi öne koymak iyi bir düzendir.
+
+## Tohumdan tütün çiçeği nasıl yetişir?
+
+Tohum toza yakındır. Bir çimlenme tepsisine serpildiğinde gözle zor ayırt edilir. Nicotiana tohumu çimlenmek için ışığa ihtiyaç duyar; bu yüzden üstüne toprak örtmek en sık yapılan hatadır. Tohumu nemli yüzeye serpip parmak ucuyla hafifçe bastırmanız yeter. Ayrıntılı derinlik bilgisi için [tohum ekim derinliği tablosuna](/tohum-ekim-derinligi-tablosu) bakabilirsiniz.
+
+::: adimlar
+Tepsiyi hazırlayın | İnce, sıkıştırılmamış fide toprağını nemlendirip düzleyin. Kaba parçaları eleyin.
+Tohumu serpin | Tohumu kuru kumla karıştırıp ince ince serpin; böylece yığılma olmaz. Üstünü örtmeyin.
+Nemi koruyun | Tepsiyi şeffaf kapakla ya da poşetle kapatın. Yüzeyi alttan ıslatın, üstten güçlü su tutmayın.
+Işık verin | Aydınlık ve ılık bir pencere kenarı seçin. Çimlenme genellikle iki hafta civarında başlar.
+Seyreltin ve şaşırtın | İki gerçek yaprak çıkınca fideleri tek tek küçük saksıya alın.
+Sertleştirin | Dışarı çıkmadan önce bir hafta boyunca fideyi günde birkaç saat dışarıda tutun.
+:::
+
+Fide hazırlığına mart-nisan aylarında başlanır. Mayıs ortasında hâlâ geç değildir: hazır fide dikebilir ya da ılık bölgelerde tohumu doğrudan toprağa serpebilirsiniz. İç Anadolu gibi geç don görülen yerlerde son don geçmeden dışarı çıkmayın. Hangi tarihte neyin ekileceğini hesaplamak için [yazlık çiçek tohumu ekim takvimine](/yazlik-cicek-tohumu-ne-zaman-ekilir-son-dondan-geriye-hesap) bakın.
+
+[ürün:arzuman-petunya-boru-cicegi-tohumu-100-adet]
+
+Aynı ailenin (patlıcıngiller) bir başka yaz çiçeği olan petunya da tohumdan yetişir ve balkon saksısında uzun süre çiçekte kalır. Tütün çiçeği ile yan yana dikildiğinde gündüz petunya renk verir, akşam tütün çiçeği koku. Petunyanın ayrıntıları için [petunya yetiştirme rehberine](/petunya-yetistirme) göz atın.
+
+## Tütün çiçeği yetiştirme için hangi yer ve toprak uyar?
+
+RHS, tütün çiçeği için güneşli konumu ve verimli, nemli ama iyi süzülen toprağı önerir. Uzun boylu türlerin kuvvetli rüzgârda zarar görebileceğini, bu nedenle korunaklı yere dikilmesi ya da desteklenmesi gerektiğini de ekler. Koyu gölgede çiçeklenmenin zayıf kaldığı, çok ıslak ya da çok kuru toprağın da gelişmeyi yavaşlattığı yine aynı kaynakta belirtilir.
+
+Pratikte bu şuna denk gelir: öğleden sonra sert güneş alan, ama akşam gölgesi olan bir köşe mükemmeldir. Çünkü bitki gün boyu yeterli ışığı toplar, akşam ise çiçekler serin ortamda açılır. Güneyi tamamen açık bir balkonda saksıyı öğle saatlerinde bir perde ya da başka bir bitkinin gölgesine almak çiçeğin ömrünü uzatır.
+
+Saksıda yetiştirecekseniz en az 10-12 litrelik bir kap seçin ve dibi mutlaka delik olsun. Hazır çiçek toprağı çoğu zaman iş görür; torf, kokopit ve perlit içeren karışım nemi tutarken hava da bırakır.
+
+[ürün:hg-cicek-topragi]
+
+Bahçeye dikimde ağır killi toprağı kumla ve olgun kompostla gevşetin. Fideleri 30-40 santim arayla dikin; sıkı dikim hem havayı keser hem de mantar hastalıklarını çağırır.
+
+## Sulama, gübre ve bakım düzeni
+
+İyi bir tütün çiçeği yetiştirme programı dengeli sulamaya dayanır: tütün çiçeği susuzluğa tahammül etmez ama su da seven bir bitki sayılmaz. Toprağın üst iki parmak kalınlığı kuruduğunda derince sulayın, saksı altındaki tabağı bir süre sonra boşaltın. Yaprakları ıslatmadan, sabah erken sulamak külleme riskini düşürür.
+
+Gübrede ölçülü olun. Azotlu gübre yaprağı büyütür ama çiçeği azaltır. Dikimden bir ay sonra ve sonrasında üç-dört haftada bir, çiçek bitkilerine uygun dengeli bir besin yeterlidir. Doz için ürün etiketini izleyin; fazlası kökleri yakar.
+
+- Solmuş çiçek salkımlarını koparın; bitki tohuma yönelmek yerine yeni çiçek üretir.
+- Uzun türleri bir bambu ya da çubukla destekleyin, rüzgâr gövdeyi kırabilir.
+- Toprağın üstüne ince bir malç tabakası serin tutar ve su kaybını azaltır.
+- Yaprak altında yaprak biti varsa güçlü bir su püskürtmesiyle yıkayın; ardından birkaç gün bakın.
+
+RHS, tütün çiçeğinin genellikle tek yıllık gibi yetiştirilse de aslında *N. alata* ve *N. sylvestris*'in kısa ömürlü çok yıllık olabildiğini söyler. Ilık bölgelerde kalın ve kuru bir malçla kışı geçirmek mümkündür. Soğuk bölgelerde ise bahar için tohumunu toplamak daha güvenlidir.
+
+## Çiçek açmıyor ya da sarkıyor: neye bakılır?
+
+Tütün çiçeği sorun çıkardığında genellikle bir iki nedenden biri ortaya çıkar. Aşağıdaki şerit, belirtiden nedene ve çözüme giden kısa yolu özetliyor.
+
+::: belirti
+Akşam bile çiçekler sarkık | Susuzluk ya da kök çürümesi | Toprağı parmakla kontrol edin; kuruysa derin sulayın, çamurluysa sulamayı kesin
+Bol yaprak, az çiçek | Gölge ya da fazla azot | Daha güneşli yere alın, azotlu gübreyi bırakın
+Yapraklarda beyaz toz | Külleme, sıcak ve kuru dönemde sık görülür | Sıkı dikimi seyreltin, sabah sulayın; ayrıntı için külleme yazısına bakın
+Çiçek açıyor ama kokmuyor | Koku zayıf melez tür | Gelecek sezon *N. alata* ya da *N. sylvestris* seçin
+:::
+
+RHS, sıcak ve kuru havanın bitkiyi küllemeye daha açık hale getirdiğini belirtir. Yaprak üstündeki beyaz tozu tanımak ve önlemek için [külleme hastalığı yazısına](/kulleme-hastaligi) başvurabilirsiniz. Hastalık için kimyasal ürün düşünüyorsanız etiket bilgisi ve doğru ürün seçimi için ilçe tarım müdürlüğüne ya da bir ziraat mühendisine danışın.
+
+## Akşam bahçesi tasarımında tütün çiçeği
+
+Kokuyu zevke çevirmek için çiçeği akşamları vakit geçirdiğiniz yere koyun: balkon masasının yanına, kapı eşiğine ya da bahçe oturağının arkasına. Hareketli hava kokuyu taşır, ama sert rüzgâr dağıtır. Bu yüzden duvar dibi ya da çit önü iyi çalışır.
+
+Beyaz çiçekli bitkiler karanlıkta daha parlak görünür. Gece bahçesi fikrini daha geniş düşünüyorsanız [gece bahçesi bitkileri ve beyaz çiçekler yazısı](/bahce-aydinlatma-bitkiler) tütün çiçeğine uygun eşlikçiler sunuyor. Şebboy da akşam kokusuyla aynı mantıkta bir çiçektir; ayrıntısı için [şebboy yetiştirme yazısına](/sebboy-yetistirme) bakın.
+
+Son bir not: tütün çiçeği yetiştirme sırasında bitkiyi tanımak önemlidir, çünkü adı üzerinde tütün ailesindendir. Yaprak ve çiçeklerini yemeyin, çocukların ve evcil hayvanların ağzına almayacağı bir yere dikin. Budama ya da çiçek koparma sonrası ellerinizi yıkayın.
+
+@sss
+S: Tütün çiçeği neden gündüz kapanıyor, hasta mı?
+C: Çoğu kokulu tür çiçeğini akşam açıp gündüz büzüştürür; bu bitkinin doğal ritmidir. Akşam serinliğinde de toparlanmıyorsa susuzluğa ya da kök sorununa bakın.
+
+S: Tütün çiçeğinin tohumu toprağa gömülür mü?
+C: Hayır, tohum ufaktır ve çimlenmek için ışığa ihtiyaç duyar. Nemli toprağın yüzeyine serpip hafifçe bastırın, üstünü örtmeyin.
+
+S: Tütün çiçeği saksıda yetişir mi?
+C: Evet, en az 10-12 litrelik delikli bir saksıda yetişir. Güneşli ama öğle sıcağında gölgelenebilen yer seçin ve toprağı üst kısmı kuruyunca sulayın.
+
+S: Tütün çiçeği her yıl yeniden çıkar mı?
+C: Bazı türler kısa ömürlü çok yıllıktır ve ılık bölgelerde kalın malçla kışı geçirebilir. Soğuk yerlerde tohum toplayıp her bahar yeniden ekmek daha güvenlidir.
+
+### YAZI
+slug: kaktus-ile-sukulent-farki-her-kaktus-sukulent-midir
+baslik: Kaktüs ile Sukulent Farkı: Her Kaktüs Sukulent midir, Sulama Aynı mı?
+yayin: 2027-05-19 10:20
+yazar: Hatice Kübra Çelik
+kategori: bitki-bakimi
+odak: kaktüs ile sukulent farkı
+seo_baslik: Kaktüs ile Sukulent Farkı: Areol Testi ve Sulama
+seo_aciklama: Kaktüs ile sukulent farkı nedir? Her kaktüs sukulenttir, her sukulent kaktüs değildir. Areol testini ve iki grubun sulama ritmindeki farkı öğrenin.
+ozet: Markette yan yana duran dikenli ve etli bitkilerin hangisinin kaktüs, hangisinin sukulent olduğunu nasıl ayıracağınızı, areol testini ve bu farkın sulamaya nasıl yansıdığını anlattık.
+etiketler: kaktüs, sukulent, areol, kaktüs sukulent farkı, etli bitkiler, sukulent sulama
+gorsel: bekliyor
+gorsel_alt: Yan yana duran dikenli bir kaktüs ile yaprakları rozet biçimli bir sukulent bitkisi
+urunler: kaktus-ve-sukulent-topragi, serinova-kaktus-dikim-seti
+kisaca: Her kaktüs sukulenttir ama her sukulent kaktüs değildir. Sukulent, suyu dokusunda depolayan bitkilerin genel adıdır; kaktüs ise areol denen yastıkçıkları olan tek bir bitki ailesidir. Sulamada ortak kural, toprağın tamamen kurumasını beklemektir; sıklık türe ve mevsime göre değişir.
+@govde
+Kaktüs ile sukulent farkı, pazar tezgâhında bir saksıyı eline alan herkesin kafasını karıştırır: dikeni yok ama etli, dikenli ama yaprağı var, hangisi hangisi? Kısa cevap şu: sukulent geniş bir şemsiye, kaktüs ise o şemsiyenin altındaki tek bir aile. Bu yazıda ayırt etmenin kolay yolunu, ardından sulama düzeninin neden bazen aynı, bazen farklı olduğunu açıklıyoruz.
+
+## Kaktüs ile sukulent farkı nerede başlar?
+
+Sukulent, bitkinin yaşam tarzını anlatan bir sözcük: yaprakta, gövdede ya da kökte suyu depolayan, kurak dönemi bu depoyla geçiren bitkiler. Bu özellik birbirinden bağımsız olarak pek çok ailede ortaya çıkmıştır. Aloe, sedum, echeveria, jade bitkisi, agave ve kaktüsün hepsi aynı gruba girer.
+
+Kaktüs ise botanik bir aile. Bütün kaktüsler sukulenttir, ama sukulentlerin büyük çoğunluğu kaktüs değildir. Bu fark, bir fincanın bardak olup olmadığı sorusuna benzer: her kaktüs etli bir depolayıcıdır, fakat etli her bitki kaktüs ailesinden gelmez.
+
+Günlük dilde "kaktüs" diye sattığımız bazı bitkiler aslında başka ailelerdendir. Dikenli, sütunlu, kaktüse benzeyen sütleğen (Euphorbia) türleri bunun en bilinen örneğidir. Dışarıdan bakınca birbirine benzerler, ama içeride ayrı hikâyeleri vardır.
+
+## Areol testiyle kaktüs nasıl tanınır?
+
+Kaktüsü ayıran en güvenilir işaret areoldür. Vikipedi'nin [areol maddesi](https://en.wikipedia.org/wiki/Areole), bu yapıyı kaktüslerin ayırt edici özelliği olarak tanımlar. Areol, gövdenin üstünde düzenli aralıklarla duran küçük, yastık ya da tüylü benek gibi bir noktadır. Diken, tüy, çiçek ve yeni sürgün hep bu noktadan çıkar.
+
+Diken tek başına karar vermeye yetmez. Dikensiz kaktüsler vardır ve onların da areolleri durur, sadece diken taşımaz. Tersine, dikenli bazı sukulentlerde areol yoktur. Bu yüzden bitkiye elinizdeki büyüteçle yakından bakın.
+
+::: adimlar
+Gövdeye yakından bakın | Dikenlerin ya da tüylerin çıktığı noktayı bulun. Küçük bir yastıkçık, areoldür.
+Dikenin nereden çıktığını izleyin | Diken doğrudan deriden çıkıyorsa kaktüs olma ihtimali düşer; yastıkçıktan çıkıyorsa kaktüstür.
+Yaprakları sayın | Etli, belirgin ve düzenli yaprak rozeti sukulent habercisidir; çoğu kaktüste yaprak görülmez ya da çok küçüktür.
+Kesilirse ne akar? | Beyaz sütümsü özsu sütleğen ailesine işaret edebilir; bu özsu cildi tahriş edebilir, bitkiye eldivenle dokunun.
+Çiçeğin yerine bakın | Kaktüs çiçeği çoğunlukla areolden açar; sukulent çiçekleri genellikle uzun bir sap üzerinde gelir.
+:::
+
+Satın alırken etiket yoksa bir fotoğraf çekip tür adını aramak da işe yarar. Etikette kaktüs yazan ama areolü olmayan bir bitki, çoğunlukla başka ailedendir.
+
+## Sulamada fark: aynı kural mı, aynı sıklık mı?
+
+İki grup için ortak kural şu: toprak tamamen kuruduktan sonra sulayın ve fazla suyu saksıdan akıtın. Çürüme, bu bitkilerde en çok görülen kayıptır. Ayrıntısı için [sukulent neden çürür yazısına](/sukulent-neden-curur) ve [kaktüs çürümesi yazısına](/kaktus-curumesi) bakabilirsiniz.
+
+Fark, sıklık ve mevsim ritminde ortaya çıkar. Aşağıdaki tablo, evde en sık rastlanan gruplar için genel bir çerçeve çizer. Rakamlar yaklaşık değerlerdir; saksının boyu, toprağın havadarlığı ve ev sıcaklığı sonucu değiştirir.
+
+| Grup | Tipik örnek | Sulama ritmi | Dikkat |
+|---|---|---|---|
+| Çöl kaktüsleri | Echinopsis, Mammillaria | Yaz büyüme döneminde toprak kuruyunca; kışın neredeyse kuru | Kışın sulama çürümeye yol açar |
+| Etli yapraklı rozet sukulentler | Echeveria, Sempervivum | Yazın toprak kuruyunca; kışın seyrek | Rozet ortasına su kaçmasın |
+| Haworthia, Gasteria | Haworthia | Yarı gölgede, toprak kuruyunca | Güçlü öğle güneşinde yanar |
+| Jade bitkisi, Crassula | Crassula ovata | Biraz daha sık, yine toprak kuruyunca | Gövdesi kalın, aşırı sudan çürür |
+| Orman kaktüsleri | Yılbaşı kaktüsü | Ara sıra, toprak hafif nemli kalabilir | Çöl kaktüsü gibi kurak tutulmaz |
+
+Son satır önemli bir ayrıntı: orman kaktüsleri kaktüstür ama çöl kaktüsü gibi bakılmaz. Aynı ailedeki farklı yaşam alanları, farklı sulama anlamına gelir. Yılbaşı kaktüsünün ihtiyacı için [yılbaşı kaktüsü bakım yazısını](/yilbasi-kaktusu-bakimi) inceleyebilirsiniz.
+
+## Toprak ve saksı: farkı kökler hisseder
+
+İki grubun ortak noktası, köklerin suyu uzun süre ıslak tutmaması gerektiğidir. Torfu bol, suyu saklayan bir karışım kaktüs ve sukulentte işi tersine çevirir. Mineral ağırlıklı, hızlı kuruyan karışım hem çürümeyi hem de kök boğulmasını önler.
+
+Çok kullanılan formül şudur: yaklaşık bir parça iyi saksı toprağı, bir parça perlit ya da ponza, bir parça iri kum ya da çakıl. Hazır bir kaktüs ve sukulent toprağı da bu işi görür. Ürün sayfasındaki tanıma göre HG Kaktüs ve Sukulent Toprağı yüksek drenajlı, pomzalı bir karışımdır ve fazla suyun saksı tabanından hızla süzülmesini hedefler.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+Saksının dibinde mutlaka delik olsun. Terracotta ve kil saksılar gözenekli olduğu için toprağı daha hızlı kurutur; plastik saksıda aynı bitki daha uzun süre nemli kalır. İlk kez bitki alıyorsanız ve sulama ritmini henüz oturtamadıysanız kil saksı güvenli bir başlangıçtır.
+
+## Işık ve mevsim farkı
+
+Kaktüslerin çoğu bol ve doğrudan güneş sever, ama pencere camının arkasında bile yanabilir. Sukulentlerin ışık isteği çok daha çeşitlidir: haworthia gibi türler yarı gölgeyi tercih eder, agave ise tam güneşi. Aşağıdaki işaretler ışık eksikliğini ya da fazlalığını gösterir.
+
+- Gövde ya da rozet incelip uzuyorsa ışık yetersizdir; bu duruma etiolasyon denir. Ayrıntılı çözüm için [kaktüs neden uzar yazısına](/kaktus-neden-uzar) bakın.
+- Yaprak ya da gövde kahverengi, kuru lekeyle yanıyorsa güneşe aniden çıkarılmıştır.
+- Rengi solan ve kıvrılan yaprak çoğu zaman susuzluk, yumuşayıp sararan yaprak ise aşırı sudur.
+
+Kışın çoğu çöl kaktüsü dinlenmeye geçer. Serin (10-15 derece civarı), aydınlık ve kuru bir ortam çiçeklenmeyi destekler. Bu dönemde sulamayı neredeyse tamamen kesmek, bahar için bitkiyi hazırlar. Sukulentlerde bu kural türden türe değişir; bazı etli yapraklı türlerin kışın büyüme dönemi vardır. Etiketteki tür adını bilmek burada işinizi kolaylaştırır.
+
+## Sık yapılan üç yanlış anlama
+
+Birincisi, "kaktüs hiç su istemez" düşüncesi. Kaktüs de susar; yalnızca suyu uzun süre depolar ve bu yüzden seyrek ama doyurucu sulama ister. Aylarca tek damla vermemek, bitkiyi küçültür ve kökleri kurutur.
+
+İkincisi, "sukulent her yerde yaşar" düşüncesi. Pek çok sukulent, ışıksız bir banyo köşesinde birkaç ay dayanır ama büyümez, renk değiştirir ve uzar. Aydınlık pencere hâlâ en iyi yerdir.
+
+Üçüncüsü, sulama takvimine körü körüne uymaktır. "Haftada bir" ya da "ayda bir" gibi kurallar, ısı, nem ve saksı türüyle çarpışır. Parmağınızı toprağa batırmak, saksıyı elinizde tartmak ve yaprağın dolgunluğuna bakmak takvimden daha güvenilirdir.
+
+## Hangisini seçmeli, nasıl başlamalı?
+
+Bakım zamanınız azsa ve sulamayı sık unutuyorsanız çöl kaktüsleri ve sert yapraklı agave gibi türler affedicidir. Hızlı büyüyen, kolay çoğalan ve renk değiştiren bir bitki istiyorsanız echeveria ve sedum gibi sukulentler eğlencelidir; yapraktan çoğaltmayı [sukulent çoğaltma yazısında](/sukulent-cogaltma-yaprak-ve-celikle) adım adım bulabilirsiniz. Tür seçimi için [sukulent çeşitleri](/sukulent-cesitleri) ve [kaktüs çeşitleri](/kaktus-cesitleri) rehberleri iyi bir başlangıçtır.
+
+Birden fazla türü tek kapta toplamayı düşünüyorsanız aynı sulama ritmine sahip bitkileri birlikte dikin. Çöl kaktüsü ile jade bitkisini aynı saksıya koymak, ikisinden birinin hep sorun yaşamasına yol açar. Küçük bir masa bahçesi kurmak için pratik bir araç seti işinizi görür.
+
+[ürün:serinova-kaktus-dikim-seti]
+
+Ürün açıklamasında Serinova Kaktüs Dikim Seti'nin toprak kabı, kürek, kök sökücü ve yuva açma aracından oluştuğu belirtilir. Dikenli bitkilerle çalışırken kalın bir eldiven ya da katlanmış gazete bandı, ele batmayı önler.
+
+## Kısa özet: farkı akılda tutmak
+
+Elinize bir bitki aldığınızda önce areole bakın, sonra "bu bitkinin doğal yaşam alanı ne?" diye sorun. Çöl kökenliyse kuru tutun, orman kökenliyse hafif nemli bırakın. Bu iki soru, kaktüs ile sukulent farkını bilmeseniz bile sulama hatalarının çoğunu engeller. Ve evet: her kaktüs bir sukulenttir, ama her sukulent kaktüs değildir.
+
+@sss
+S: Her kaktüs sukulent midir?
+C: Evet. Sukulent, suyu dokusunda depolayan bitkilere verilen genel addır ve bütün kaktüsler bu tanıma girer. Ama etli yapraklı aloe, echeveria ve jade gibi bitkiler kaktüs ailesinden değildir.
+
+S: Dikenli olan her bitki kaktüs müdür?
+C: Hayır. Diken tek başına yeterli değildir; asıl ölçüt, dikenlerin çıktığı yastıkçıktır (areol). Bazı sütleğen türleri dikenli ve kaktüse benzer ama areolleri yoktur.
+
+S: Kaktüs ve sukulenti aynı saksıya dikebilir miyim?
+C: Aynı sulama ve ışık ritmine sahiplerse olur. Çöl kaktüsü ile su isteği daha yüksek bir sukulenti aynı kapta tutarsanız biri hep susuz, diğeri aşırı sulanmış kalabilir.
+
+S: Kaktüsü ne sıklıkla sulamalıyım?
+C: Sabit gün sayısı yoktur. Büyüme döneminde toprak tamamen kuruyunca sulayın, kışın dinlenme döneminde neredeyse kesin. Saksı hafifleyince ve toprak içte de kuruyunca suyu verin.
+
+### YAZI
+slug: bahce-mala-seti-hangi-mala-hangi-ise-yarar
+baslik: Bahçe Mala Seti: Hangi Mala Hangi İşe Yarar, Tek Mala Yeter mi?
+yayin: 2027-05-19 12:10
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: bahçe mala seti
+seo_baslik: Bahçe Mala Seti: Hangi Mala Hangi İşe Yarar?
+seo_aciklama: Bahçe mala seti nelerden oluşur, geniş mala, dar mala, fide dikme aleti ve çapa hangi işte kullanılır? Tek mala yeter mi sorusunun dürüst cevabı.
+ozet: Saksıda, yatakta ve patikada aynı küçük küreği kullanıp elinizi yoruyorsanız bu yazı size göre. Bahçe mala setindeki her aletin ne işe yaradığını, tek malanın nerede yetmediğini ve alet seçerken nelere bakılacağını anlattık.
+etiketler: bahçe mala seti, el küreği, fide dikme aleti, el çapası, bahçe el aletleri, saksı dikimi
+gorsel: bekliyor
+gorsel_alt: Ahşap bir zeminde yan yana duran el küreği, el çapası ve fide dikme aleti
+urunler: raco-bahce-el-kuregi, raco-fide-dikme-aleti, raco-iki-disli-bahce-el-capasi, raco-yabani-ot-sokme-aleti
+kisaca: Bir bahçe mala seti genellikle geniş bir el küreği, bir fide dikme aleti ve bir el çapasından oluşur. Küçük bahçede tek mala çoğu işi görür, ama sık fide dikiyor, saksı dolduruyor ve ot söküyorsanız üç ayrı aleti taşımak eli de bitkiyi de yormaz.
+@govde
+Bir pazar sabahı elinizde tek bir küçük kürekle fide dikmeye başlıyorsunuz. İlk beş fide güzel gidiyor, sonra bilek ağrıyor, çukurlar boy boy oluyor ve yan fidenin kökü kazara kesiliyor. Sorun çoğunlukla sizde değil, malada. Bahçe mala seti dediğimiz aletlerin her biri başka bir hareket için biçimlenmiş; aşağıda hangisinin hangi işte işe yaradığını anlatıyoruz.
+
+## Bahçe mala seti neden tek parça değil?
+
+Mala, hobi bahçesinde en çok kullanılan alettir; ama "mala" kelimesi tek bir şekli anlatmaz. Geniş ağızlı olanı toprak taşır, dar ve uzun olanı fide çukuru açar, çatallı ya da çapa biçimli olanı kökleri koparır ya da yüzeyi gevşetir. Tek bir alet hepsini idare eder ama hiçbirini en rahat biçimde yapmaz.
+
+Bu yüzden bahçe mala seti, çoğu zaman üç-dört parçalık bir takımdır. Kimi sette ot sökücü de bulunur. Setin avantajı, işe göre aleti değiştirebilmeniz ve her biri kendi görevi için küçük tutulduğundan elinizin yorulmamasıdır.
+
+Bir şeyi baştan söyleyelim: tek bir küçük bahçeniz varsa ve haftada bir iki saat uğraşıyorsanız, iyi bir tek mala bile iş görür. Set, yapılan işin çeşitlendiği ve sıklaştığı noktada anlam kazanır.
+
+## Hangi alet hangi işe yarar?
+
+Aşağıdaki tablo, bir bahçe mala setinde en sık bulunan aletleri ve bu aletlerin asıl işlerini topluyor. Ölçüler genel bilgidir; satın alırken ürün sayfasındaki değerlere bakın.
+
+| Alet | En iyi olduğu iş | Nerede yetersiz kalır |
+|---|---|---|
+| Geniş el küreği (mala) | Saksı doldurma, toprak taşıma, orta boy fide dikimi | Sert, taşlı toprakta bükülebilir |
+| Fide dikme aleti | Düzgün ve derin çukur açmak, soğan ve küçük fide dikmek | Büyük saksı doldurmak için küçük kalır |
+| El çapası (iki dişli) | Toprağı gevşetmek, ot altını çapalamak, kabuk bağlamış yüzeyi açmak | Çukur açmak için uygun değildir |
+| Ot sökme aleti | Köklü otları (karahindiba gibi) kökünden çekmek | Yüzey işi için fazla dardır |
+| Küçük tel tırmık | Yüzeyi tırmıklamak, ölü yaprak ve taşı toplamak | Derin işlerde işe yaramaz |
+
+Tabloya bakınca fark ediliyor: aletler birbirinin yerini tutabilir, ama birbirinden daha az verimli biçimde. Yorgunluk ve hatalar da çoğunlukla bu "idare etme" yerlerinde başlıyor.
+
+## Fide ve soğan dikiminde mala mı, dikme aleti mi?
+
+Kök topağı küçük fide, soğan, sarımsak dişi ya da tohum çukuru için dikme aleti belirgin biçimde üstündür. Dar ve derin bir çukur açar, toprağı yanlara fazla savurmaz. Geniş bir malayla açılan çukur ise gereğinden büyük olur; fide içinde sallanır ve ilk sulamada boşluk kalır.
+
+Yine de dikme aletinin sınırı var. Çukuru istenen derinliğe getirmek için sizin eliniz ve gözünüz gerekir; ölçü işaretli modeller yardımcı olur. Fide dikim derinliği domates ve biber için farklıdır; ayrıntısı [fide dikim derinliği yazısında](/fide-dikim-derinligi) anlatılıyor.
+
+::: adimlar
+Toprağı gevşetin | Çapa ya da mala ucuyla dikim yerini birkaç santim derinlikte kabartın.
+Çukuru açın | Dikme aletini dik tutup kök topağına yetecek kadar derin bastırın; sallamadan çıkarın.
+Fideyi yerleştirin | Kökü eğmeden çukura indirin. Kök boğazının seviyesini bitkinin türüne göre ayarlayın.
+Toprağı geri doldurun | Mala ile kenardan toprak alıp çukuru doldurun, parmak uçlarınızla hafifçe bastırın.
+Sulayın | Fidenin çevresine yavaş yavaş su verin; ilk sulama topraktaki boşlukları kapatır.
+:::
+
+[ürün:raco-fide-dikme-aleti]
+
+Ürün açıklamasına göre Raco Fide Dikme Aleti tamamen ahşaptan yapılmış, ucu metal sac kaplıdır, boyu 280 mm ve ağırlığı 250 gramdır. Plastik gövdeli bir başka model olan Star Garden Fide Dikme Aleti ise 150 mm dikim derinliği ve 33 mm çukur çapına sahiptir. Hangisini seçeceğiniz, elinize yatan ağırlığa ve kök topağınızın çapına bağlıdır.
+
+## Saksı doldurmak ve toprak taşımak: geniş mala
+
+Saksıya toprak koymak, torbadan toprak almak ve karışım hazırlamak için geniş ve hafif bir el küreği en rahat alettir. Ağzı ne kadar genişse bir seferde o kadar toprak taşırsınız; ama genişlik arttıkça alet ağırlaşır, bilek yorulur. Küçük bahçe ve balkon için 80 mm civarı genişlik dengeli bir noktadır.
+
+Bu ölçüde bir örnek olarak Raco Bahçe El Küreği, ürün açıklamasında 305 mm uzunluğunda, en fazla 80 mm genişliğinde ve yalnızca 200 gram olarak verilir. Gövdesi preslenmiş çelik, sapı plastik kaplıdır. Hafif olması, uzun süre saksı doldururken avantajdır.
+
+[ürün:raco-bahce-el-kuregi]
+
+Kürek seçerken şuna bakın: sap ile ağız birleşimi sağlam mı, uç hafif içbükey mi ve sapın kavrama yeri kaymayı önlüyor mu? Yanlış seçilmiş bir malanın ucu, sıkışık toprağa ilk bastırışınızda bükülür. Sert, killi toprak için çapa ile önce gevşetmek, malayı korur. Toprak hazırlığında derinlik ve kazma yönteminin farkı için [bahçe toprağının nasıl kazılacağını anlatan yazıya](/bahce-topragi-ne-derinlikte-kazilir-capa-mi-bel-mi) bakabilirsiniz.
+
+## Çapa ve ot sökücü: yüzeyin işçileri
+
+El çapası, kabuk bağlamış toprağı kırar ve ot köklerinin altına girer. İki dişli modellerde dişler kök arasına girip toprağı kaldırır. Çapa, malanın yapamadığı bir işi görür: yüzeyi "tarama". Doğru zamanlama da önemlidir; toprak çok ıslakken çapalamak hamur gibi topaklar bırakır, çok kuruyken tozlaşır.
+
+Ot sökme aleti ise karahindiba gibi kazık köklü otlar için tasarlanmıştır. İnce ve uzun yapısı kökün altına girmeyi, bütün köküyle çıkarmayı kolaylaştırır. Kök kalırsa ot yeniden çıkar. Hangi otun kökünün ne kadar derine indiğini görmek için [yabani ot tanıma rehberine](/yabani-ot-tanima-12-ot-koke-gore-mucadele) göz atabilirsiniz. Elle çapa ile motorlu çapa arasında kalan okurlar için de [el çapası mı motorlu çapa mı yazısı](/el-capasi) yardımcı olur.
+
+[ürün:raco-iki-disli-bahce-el-capasi]
+
+Alet seçerken ürün açıklamasındaki ölçüler karşılaştırma için kullanışlıdır: Raco Kök Çapası 285 mm uzunlukta, çapa üst uzunluğu 190 mm ve ağırlığı 220 gramdır. Ot sökme aleti 350 mm boydadır ve 200 gram gelir.
+
+## Toprak türü aletin ömrünü ve seçimini değiştirir
+
+Aynı mala, kumlu toprakta yıllarca sorunsuz çalışırken killi ya da taşlı toprakta birkaç haftada bükülebilir. Bunun nedeni basit: ağır toprak, alete daha fazla yük bindirir. Bahçenizin toprağını önce tanıyın, sonra alet seçin.
+
+- Kumlu, gevşek toprak: hafif ve geniş mala rahat çalışır; çapa yüzeyi çok az zorlar.
+- Killi, ağır toprak: önce çapa ya da bel ile toprağı kabartın, mala ile yalnızca kabaran toprağı taşıyın. Islakken sıkı toprağı kazmaya çalışmayın.
+- Taşlı toprak: dar uçlu dikme aleti taşlara takılır; ucu bükülmüşse sapı kırılabilir. Taşı elle çıkarıp çukuru yeniden açın.
+- Saksı toprağı ve karışımlar: geniş mala en iyi çalıştığı yerdedir; kovada karıştırma için ayrı, daha uzun saplı bir kürek de işe yarar.
+
+Elinizin boyutu da önemlidir. Büyük bir el küçük sapı sıkıp yorulur; küçük bir el kalın sapı tutamaz. Mümkünse satın almadan önce sapı avucunuza oturtun; kayma yapıp yapmadığına bakın. Çocuklarla bahçe işine çıkıyorsanız küçük, hafif ve yuvarlatılmış uçlu aletler daha güvenlidir.
+
+## Alet bakımı: bir mevsimde çok şey değişir
+
+Mala seti iyi seçilmişse bile, kirli ve paslı kullanılırsa kısa sürede ömrünü yitirir. Her kullanımdan sonra aletin üzerindeki toprağı fırçalayın; yaş toprak kuruyunca pasa dönüşür. Mevsim sonunda ince bir yağ sürerek ve kuru bir yerde saklayarak ömrünü uzatın. Kış bakımı için [bahçe aletleri kış bakımı yazısı](/bahce-aletleri-kis-bakimi) ayrıntıları verir.
+
+Hastalıklı bitkiyle çalıştıysanız aleti sabunlu suyla yıkayıp kurulayın. Bir bitkiden ötekine hastalık taşımak için en kolay yol, kirli bir alettir.
+
+## Set mi, tek tek mi almalı?
+
+Karar vermeden önce şu soruları kendinize sorun:
+
+- Haftada kaç saat bahçeyle uğraşıyorum? Beş saatin altındaysa tek iyi mala ve bir dikme aleti çoğu zaman yeter.
+- Saksı mı yoksa toprak yatak mı ağırlıkta? Saksı çoksa geniş mala, yatak çoksa çapa daha önemli.
+- Elim ya da bileğim ağrıyor mu? Öyleyse hafif ve kavrama yeri geniş saplı aletleri tercih edin.
+- Bahçem küçükse depolama sorun mu? Küçük setler bir çekmeceye ya da bahçe sepetine sığar.
+
+Bir bahçe mala seti, bu soruların cevabı "evet" olduğunda kendini aşağı yukarı karşılar. Cevaplar "hayır" ise tek bir kaliteli mala ile başlayıp ihtiyaç doğdukça parça eklemek akıllıca olur. Böylece elinizde yalnızca kullandığınız aletler kalır.
+
+@sss
+S: Bahçe mala setinde neler bulunur?
+C: Çoğu sette geniş bir el küreği, bir fide dikme aleti ve bir el çapası bulunur. Bazı setlerde ot sökücü ya da küçük tırmık da yer alır. Ürün açıklamasından parça listesine bakın.
+
+S: Tek mala ile fide dikilir mi?
+C: Dikilir. Ancak geniş mala gereğinden büyük çukur açtığı için fide boşlukta kalabilir. Sık dikim yapıyorsanız dar ve derin çukur açan bir dikme aleti hem hızlı hem düzgün olur.
+
+S: Mala ile el çapası arasındaki fark nedir?
+C: Mala toprağı kazar, taşır ve çukur açar. El çapası ise toprağın yüzeyini gevşetir ve ot kökünü kaldırır. Birbirinin yerini tutabilir ama her biri kendi işinde daha rahat çalışır.
+
+S: Bahçe aletlerini nasıl temiz tutmalıyım?
+C: Her kullanımdan sonra yaş toprağı fırçayla temizleyin, kuru bir yerde saklayın. Mevsim sonunda ince bir yağ sürmek pası önler. Hastalıklı bitkiyle çalışınca aleti sabunlu suyla yıkayın.
+
+### YAZI
+slug: olla-sulama-topraga-gomulen-comlek-su-tasarrufu-saglar-mi
+baslik: Olla Sulama: Toprağa Gömülen Çömlek Gerçekten Su Tasarrufu Sağlar mı?
+yayin: 2027-05-19 14:30
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: olla sulama
+seo_baslik: Olla Sulama: Gömülen Çömlek Su Tasarrufu Sağlar mı?
+seo_aciklama: Olla sulama nedir, gömülen kil çömlek suyu nasıl verir ve gerçekten tasarruf sağlar mı? Kurulum adımları, sınırlar ve hangi bitkilerde işe yaradığı.
+ozet: Toprağa gömülen gözenekli kil çömleğin bitkiyi kökünden nasıl suladığını, üniversite yayım kaynaklarının tasarruf iddiası hakkında ne dediğini, kendi ollanızı nasıl kuracağınızı ve hangi bitkilerde işe yaramadığını anlattık.
+etiketler: olla sulama, çömlek sulama, su tasarrufu, kil çömlek, kök bölgesi sulama, yatak sulama
+gorsel: bekliyor
+gorsel_alt: Yükseltilmiş sebze yatağının ortasına gömülü, ağzı açık duran kil çömlek ve çevresindeki domates fideleri
+urunler: kullanima-hazir-cocopeat-torfu, hg-vermikulit
+kisaca: Olla sulama, ağzı yüzeyde kalacak biçimde toprağa gömülen gözenekli bir kil çömleğin suyla doldurulup köklere yavaş yavaş nem vermesidir. Buharlaşma ve akıp giden su azaldığı için tasarruf mümkündür, ama bu kazanç toprağa, havaya ve kıyasladığınız yönteme göre değişir.
+@govde
+Hava ısındı, yatağınızdaki fidelerin etrafı bir günde kuruyor ve hortumla uğraşmak istemiyorsunuz. Biri size toprağa gömülü bir çömlek önermiş: suyu kendi kendine verirmiş, üstelik tasarruf da sağlarmış. Olla sulama gerçekten böyle çalışır mı? Kısa cevap, kısmen evet. Çömlek suyu yavaş verir ve yüzey buharlaşmasını azaltır, ama her bitki için ve her bahçede mucize beklemek doğru olmaz.
+
+## Olla sulama nasıl çalışır?
+
+Olla, İspanyolca'da "çömlek" demek. Yöntemin kendisi çok eski: pişmiş ama sırlanmamış kilden yapılmış, yuvarlak ve gözenekli bir kap, ağzı yüzeyde kalacak biçimde bitkilerin arasına gömülür ve suyla doldurulur. [Colorado Eyalet Üniversitesi yayım hizmeti](https://pueblo.extension.colostate.edu/olla-pots-an-ancient-irrigation-technique/), kilin gözenekli olduğunu ve çömleğin içindeki suyun, çevre toprakla denge sağlanana kadar duvardan sızdığını anlatır.
+
+Burada kilit nokta "denge". Çevre toprak kuruyunca çömlekten daha çok su geçer, toprak nemlenince geçiş yavaşlar. Yani sulama, bitkinin ve toprağın susuzluğuna göre kendiliğinden ayarlanır. Aşırı sulama riski, hortumla bastırılan bir yatağa göre belirgin biçimde düşer.
+
+Su, doğrudan kök bölgesine gittiği için yüzey kuru kalır. Kuru yüzey, yabani otların çimlenmesini azaltır ve güneşte buharlaşan su miktarını düşürür.
+
+## Gerçekten su tasarrufu sağlıyor mu?
+
+Bu soru, olla hakkındaki en çok merak edilen konu. Arizona Üniversitesi Kooperatif Yayım hizmetinin [Ollalarla sulama yayını](https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1911-2021.pdf), sistemin geleneksel sulamaya göre yüzde 60-70 arasında su tasarrufu sağlayabileceğini belirtir. Aynı yayın, olla aralıklarına dair araştırmanın sınırlı olduğunu da kabul eder.
+
+Bu iki cümleyi birlikte okumak gerekir. Tasarruf "olabilir", ama:
+
+- Kıyaslama noktası önemlidir. Üstten fışkırtmalı bir sulamaya göre tasarruf büyük, iyi kurulmuş bir damla sisteme göre küçük olabilir.
+- Toprak türü sonucu değiştirir. Kumlu toprakta su hızla aşağı kaçar, killi toprakta çömlek çevresinde uzun süre nemli kalır.
+- Sıcak ve rüzgârlı havada çömlek daha hızlı boşalır; sıklıkla doldurmanız gerekir.
+
+Bu nedenle "yüzde şu kadar tasarruf ederim" diye hesap yapmak yerine, kendi bahçenizde bir deneme alanı kurmak daha sağlıklı olur: iki benzer yatak, birine olla, diğerine her zamanki sulama. Bir iki hafta sonra su sayacı ya da kovayla ölçerek karşılaştırın.
+
+## Kendi ollanızı nasıl kurarsınız?
+
+Hazır olla satın alınabilir, ama hobi bahçecileri çoğu zaman iki sırsız kil saksıyı ağız ağıza yapıştırarak kendi ollasını yapar. Önemli olan, kabın sırlanmamış ve gözenekli olması ve ağzının kolay doldurulabilir olmasıdır.
+
+::: adimlar
+Kabı seçin | Sırsız, gözenekli pişmiş kil kap bulun. Sırlı ya da boyalı kap suyu geçirmez.
+Deliği kapatın | Saksı tabanında delik varsa su geçirmez bir malzemeyle kapatın; yalnızca duvardan sızma istenir.
+Gömme yerini belirleyin | Çömleği bitkilerin arasına, köklerin yakınına ama onlara değmeyecek biçimde yerleştirin.
+Gömün | Çömleği boynuna kadar toprağa gömün; ağzı yüzeyde kalsın. Çevresini hafifçe bastırın.
+Doldurun ve örtün | Suyla doldurup üstünü taş ya da kapakla kapatın. Açık ağız, sinek ve buharlaşmayı çoğaltır.
+Takip edin | Birkaç gün seviyeye bakın; çok hızlı boşalıyorsa toprak kumludur, daha sık doldurun.
+:::
+
+Başlangıçta çömlek bir iki kez hızla boşalabilir; gözenekler dolana kadar bu normaldir. Nemli toprağa gömüldüğünde sızma azalır. Bitki fideyken olla yakına, büyüdüğünde kök bölgesine yakınlığa dikkat edin.
+
+## Hangi bitkilerde olla işe yarar?
+
+Olla sulama, tarım yayım kaynaklarında genellikle yatak ve saksı sebzeleriyle ilişkilendirilir. Arizona yayını, ağaç ve çalı gibi odunsu bitkilerin kökleri çömleği kırabileceği için önerilmediğini söyler. [New Mexico Eyalet Üniversitesi yayım notu](https://swyg.nmsu.edu/2020/040420.html) da ollaların kap bahçeciliğinde ve saksılı bitkilerde iyi çalıştığını belirtir.
+
+| Durum | Olla uygun mu? | Not |
+|---|---|---|
+| Domates, biber, patlıcan yatağı | Uygun | Çömleği iki üç bitkinin ortasına koyun |
+| Kabak, salatalık | Uygun | Geniş kök alanı olduğundan iki olla gerekebilir |
+| Marul, ıspanak (sığ kök) | Kısmen | Çömlek yüzeyden uzak kalırsa fide susuz kalabilir |
+| Büyük saksı (30 litre ve üzeri) | Uygun | Saksı ortasına küçük olla |
+| Meyve ağacı, gül, çalı | Önerilmez | Kökler kil kabı kırabilir |
+| Tohum ekilen yeni yatak | Uygun değil | Çimlenme için yüzey nemi gerekir, olla yüzeyi ıslatmaz |
+
+Tohum çimlendirirken hâlâ yüzeyden sulamak gerekir; ollaya geçmek için fidelerin kök salmasını bekleyin. Ayrıntılı sulama saati kararları için [bahçe sulama saatleri yazısı](/bahce-sulama-saatleri) ve her bitkinin ne sıklıkla sulanması gerektiği için [bitkiler ne sıklıkla sulanmalı yazısı](/bitkiler-ne-siklikla-sulanmali) yardımcı olur.
+
+## Olla ve toprağın su tutması
+
+Olla suyu bitki köküne taşır; toprak ise o suyu ne kadar tutacağını belirler. Çok kumlu bir toprakta olla da kaçan suyu durdurmaz. Toprağın su tutma gücünü artırmak, ollanın verimini yükseltir. Organik madde, kokopit ya da vermikülit gibi suyu tutan malzemeler bu iş için kullanılır.
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+Ürün açıklamasına göre hazır kokopit yüksek su tutma kapasitesine sahiptir ve ön hazırlık gerektirmeden kullanılabilir. Kumlu yatağa belli oranda karıştırmak toprağın nemi daha uzun tutmasını sağlar. Hangi malzemenin hangi amaçla seçileceği için [malç çeşitleri yazısı](/malc-cesitleri) da yüzey tarafını tamamlar; ince bir malç tabakası olla çevresindeki buharlaşmayı azaltır.
+
+## Çömlek ne kadar su verir, ne sıklıkla doldurulur?
+
+Her çömleğin gözenekliliği farklıdır; bu yüzden hazır bir "şu kadar günde bir" kuralı yoktur. Kendi ollanızın hızını bir hafta izleyerek bulabilirsiniz. Basit bir örnekle gösterelim: 3 litrelik bir çömlek dört günde boşalıyorsa günlük ortalama sızma 0,75 litredir. Bu rakam sıcak haftada yükselir, serin ve bulutlu haftada düşer. Rakamlar yalnızca örnek; sizin çömleğiniz farklı çıkabilir.
+
+Şöyle bir izleme düzeni işe yarar:
+
+1. Çömleği doldurduğunuz günü ve su seviyesini not edin.
+2. İki üç gün sonra bir sopayla ya da parmağınızla seviyeyi ölçün.
+3. Boşalma hızına göre doldurma sıklığını belirleyin; yaz ortasında bu aralık kısalır.
+4. Aynı sırada bitkiyi izleyin: yaprak kıvırıyor ya da sarkıyorsa ollaya ek elle sulama gerekebilir.
+
+Sulama suyunun sıcaklığı da önemlidir. Çok soğuk su, sıcak topraktaki köklere ani bir şok yaratabilir; bidonu bir süre gölgede bekleterek oda sıcaklığına yaklaştırın. Yağmur suyu varsa, çömleği doldurmak için en uygun kaynaktır; kireci azdır ve gözenekleri daha az tıkar.
+
+Mevsime göre ollayı yönetmek için aşağıdaki tablo bir çerçeve verir.
+
+| Dönem | Yapılacak iş | Dikkat |
+|---|---|---|
+| Nisan-mayıs | Ollayı fideler dikildikten sonra gömün | Yeni fidenin ilk haftası yüzeyden de sulanır |
+| Haziran-ağustos | Çömleği sık kontrol edin, gerekirse günde bir doldurun | Ağzı kapalı tutun; sıcakta buharlaşma artar |
+| Eylül-ekim | Doldurma sıklığını azaltın | Yağmur başlarsa çömleği fazla doldurmayın |
+| Kasım ve sonrası | Çömleği çıkarın, temizleyin, kuru yerde saklayın | Donan su çömleği çatlatır |
+
+## Olla ile damla sulama ve elle sulama karşılaştırması
+
+Olla her sorunun cevabı değildir. Damla sulama, çok sayıda bitki ve büyük alan için otomatik ve ayarlanabilir bir sistemdir. Ollanın avantajı basit ve ucuz olması, elektrik ya da hat gerektirmemesidir. Dezavantajı, doldurmanız gerekmesi ve her çömleğin sınırlı bir alanı sulamasıdır.
+
+- Küçük yükseltilmiş yatak, birkaç saksı ve balkon sebzesi için olla kolay ve ucuz bir seçenektir.
+- Düzenli geniş sıralar için [damla sulama kurulumu](/damla-sulama-kurulumu) daha pratiktir.
+- Birkaç gün evde olmadığınızda çömleği doldurup gitmek işe yarar; uzun süreli tatilde ise [tatilde bitkilerin nasıl sulanacağını](/tatilde-bitkiler-nasil-sulanir) anlatan yöntemlere bakın.
+
+## Olla kullanırken sık yapılan hatalar
+
+Çömleği ağzı açık bırakmak ilk hatadır. Su yüzeyi sinek ve sivrisinekler için uygun bir üreme yeridir; bir kapak ya da düz bir taş kapatır. İkinci hata, çömleği çok dar aralıklarla yerleştirip toprağı sürekli ıslak tutmaktır. Bu durumda kök çürümesi riski doğar.
+
+Üçüncü hata, kışın dışarıda bırakmaktır. Donan su, çömleği çatlatabilir. Soğuk bölgelerde sonbaharda çömleği boşaltıp çıkarın, kuru bir yerde saklayın.
+
+Kil içinde mineral tuz birikebilir; zaman zaman çömleği temiz suyla durulayın. Uzun süre kullanılan çömlekte gözenekler tıkanabilir; sızma azalırsa fırçayla temizleyin.
+
+@sss
+S: Olla sulama nedir?
+C: Olla, gözenekli kilden yapılmış bir çömleğin ağzı yüzeyde kalacak biçimde toprağa gömülüp suyla doldurulmasıdır. Su duvardan yavaş yavaş sızarak köklere ulaşır.
+
+S: Olla sulama gerçekten su tasarrufu sağlar mı?
+C: Arizona Üniversitesi yayım yayını geleneksel sulamaya göre yüzde 60-70 tasarruf olabileceğini belirtir. Ama sonuç toprağa, havaya ve kıyaslanan yönteme göre değişir; kendi bahçenizde deneyerek ölçün.
+
+S: Olla ağaçlar için kullanılır mı?
+C: Önerilmez. Ağaç ve çalı kökleri kalınlaşıp çömleği kırabilir. Olla en çok yatak sebzelerinde ve saksılarda işe yarar.
+
+S: Ollayı kendim yapabilir miyim?
+C: Evet. Sırsız iki kil saksıyı ağız ağıza yapıştırıp bir deliği açık bırakarak doldurulabilir bir çömlek elde edersiniz. Sırlı ya da boyalı kap suyu geçirmez, bu yüzden kullanmayın.
+
+### YAZI
+slug: turpgil-pire-bocegi-roka-ve-turp-yapragindaki-delikler
+baslik: Turpgil Pire Böceği: Roka ve Turp Yaprağındaki Minik Delikleri Kim Açıyor?
+yayin: 2027-05-19 16:55
+yazar: Mehmet Fatih Çelik
+kategori: bitki-bakimi
+odak: turpgil pire böceği
+seo_baslik: Turpgil Pire Böceği: Roka ve Turpta Delik Delik Yaprak
+seo_aciklama: Turpgil pire böceği roka ve turp yaprağında iğne ucu delikler açar. Zararlıyı tanıyın, fideyi örtüyle koruyun, ne zaman müdahale gerektiğini öğrenin.
+ozet: Roka ve turp yapraklarında bir sabah beliren iğne ucu deliklerin arkasındaki zıplayan küçük böceği, hangi bitkilere saldırdığını, ne zaman gerçekten zarar verdiğini ve ilaçsız önlemleri anlattık.
+etiketler: turpgil pire böceği, pire böceği, roka zararlısı, turp zararlısı, yaprakta delik, örtü ile koruma
+gorsel: bekliyor
+gorsel_alt: Roka yaprağının yüzeyinde iğne ucu büyüklüğünde çok sayıda küçük delik
+urunler: arzuman-rota-roka-tohumu-25-gr, altinvadi-toros-kirmizisi-turp-tohumu
+kisaca: Turpgil pire böceği, roka, turp, lahana ve hardal gibi turpgil bitkilerinin yaprağını iğne ucu deliklerle delen, 2-3 mm boyunda, dokununca zıplayan küçük bir böcektir. En çok fideye ve yeni çıkan bitkiye zarar verir; ekimden hemen sonra serilen hafif bir örtü en güvenilir korumadır.
+@govde
+Sabah roka tarhına baktığınızda yapraklar sanki iğneyle delinmiş gibi: yüzlerce minik delik, yer yer kurumuş kenarlar. Tam bir fotoğraf çekecekken bir şey yan taraftan zıplıyor ve kayboluyor. Karşınızdaki, turpgil pire böceği. Küçük, hızlı ve özellikle fidelik döneminde sinsi biçimde zarar veren bu böceği tanıdığınızda, hem gereksiz paniği hem de gereksiz müdahaleyi önlersiniz.
+
+## Turpgil pire böceği nasıl görünür, nasıl tanınır?
+
+Yetişkin böcek 2-3 milimetre boyundadır, genellikle parlak siyah ya da koyu metalik renktedir; bazı türlerde sırtta açık renkli çizgi görülür. Adını ayaklarından alır: arka bacakları güçlüdür ve rahatsız edildiğinde pire gibi sıçrar. Bu zıplama, onu kuru bir toz zerresinden ayıran en güvenilir işarettir.
+
+Zararın izi de karakteristiktir. Yaprağın üstünde, iğne ucu ya da kurşun saçmasına benzer yuvarlak, küçük delikler görülür. Bu yüzden Amerikan kaynaklarında "shothole" (saçma deliği) denir. Delikler genelde yaprağın içine doğru kuruma ya da kahverengileşme yapar. Larvalar ise toprakta, kökte beslenir ve gözle görülmesi zordur.
+
+Aşağıdaki ayrım, yaprak deliklerini diğer olası suçlulardan ayırmak için işe yarar.
+
+::: belirti
+İğne ucu, bol sayıda küçük yuvarlak delik | Turpgil pire böceği; dokununca zıplayan küçük böcek | Fideyi örtün, yabani turpgilleri temizleyin
+Yaprak kenarından başlayan büyük, düzensiz oyuk | Tırtıl ya da salyangoz | Geceleri elle toplayın; salyangoz için nemli köşeleri kontrol edin
+Yaprakta gümüşi, ince çizgili leke | Trips | Sarı yapışkan tuzakla izleyin; trips yazısına bakın
+Yaprak altında sarı-yeşil minik topluluk | Yaprak biti | Su püskürtmesiyle yıkayın, uğur böceği varsa dokunmayın
+:::
+
+## Hangi bitkilere saldırır, ne zaman çıkar?
+
+Turpgil böceği, adı üzerine turpgil (Brassicaceae) ailesini sever. Roka, turp, şalgam, hardal, tere, lahana, karnabahar, brokoli ve karalahana bu listede yer alır. Bazı pire böceği türleri patlıcan ve patates gibi başka bitkileri de rahatsız eder; ama bu yazı turpgil grubuna odaklanıyor.
+
+Yetişkin böcekler kışı genellikle bitki artığında ve toprak yüzeyinde geçirir, ilkbaharda ilk yeşillenen turpgilleri arar. Pratik olarak: erken ilkbaharda ekilen roka ve turp, mayıs ayında hedef olur. Vermont Üniversitesi'nin [yayım bilgi notu](https://www.uvm.edu/vtvegandberry/factsheets/fleabeetle.html) ve Massachusetts Üniversitesi'nin [turpgil pire böceği notu](https://www.umass.edu/agriculture-food-environment/vegetable/fact-sheets/brassica-flea-beetles) da bu bitkileri en çok etkilenen grup olarak gösterir.
+
+Mayıs ortasında roka çıkmış, turp bir iki yapraklıysa risk yüksektir. Sıcak ve kuru hava, böceğin faaliyetini artırır. Yağışlı ve serin günlerde ise zarar daha düşüktür.
+
+## Zarar ne zaman ciddi, ne zaman önemsiz?
+
+Her delikli yaprak ilaç ya da tedbir gerektirmez. Colorado Eyalet Üniversitesi yayım notu, olgunlaşmış bitkilerde beslenmenin çoğu zaman düşük zarar verdiğini, önemli kayıp için yaprak alanının yaklaşık yüzde 20-30'unun ya da daha fazlasının yok olması gerektiğini anlatır. Ayrıntı için [Colorado Eyalet Üniversitesi bilgi notuna](https://www.extension.colostate.edu/docs/pubs/insect/05592.pdf) bakabilirsiniz.
+
+Ama fide döneminde işler değişir. İki ya da üç yapraklı bir turp ya da roka fidesi küçük bir böcek grubunun saldırısıyla birkaç günde yok olabilir. Bu yüzden koruma, ekimden itibaren planlanmalıdır, belirtiler çıktıktan sonra değil.
+
+Roka tüketimi için de kalite düşer: yaprağı yeme amaçlı yetiştirdiğiniz bitkide delikler görüntüyü bozar. Salata yaprağında hafif delik tadı ve sağlığı etkilemez ama gözü rahatsız eder.
+
+## Önlemin en güçlüsü: ekimden sonra örtü
+
+Vermont ve Massachusetts üniversitelerinin yayım notları, yüzen bir örtünün (hafif agril ya da tül) turpgil böceğine karşı en güvenilir koruma olduğunu vurgular. Örtünün işe yarayabilmesi için ekimden hemen sonra serilmesi, kenarlarının toprakla ya da ağırlıkla kapatılması gerekir; aksi halde böcek aralıktan girer. Beslenmeye başlamış böceklerin üstüne örtü kapatmak da sonuç vermez; böcekleri bitkiyle birlikte kapatmış olursunuz.
+
+::: adimlar
+Ekimi yapın | Tohumu ya da fideyi ektikten hemen sonra örtüyü serin; böcek ilk yeşil dokuyu bulmadan davranın.
+Örtüyü yerleştirin | Hafif, hava ve su geçiren bir örtü kullanın. Bitkilerin büyümesine yer bırakacak kadar gevşek tutun.
+Kenarları kapatın | Kenarlara toprak, taş ya da boru koyarak kapatın. Aralık, böceğe açık kapıdır.
+Havalandırmayı unutmayın | Sıcak günlerde altı fazla ısınabilir; saatlere dikkat edin, gerekirse öğlen kenarı kaldırın.
+Hasattan önce açın | Kök ya da yaprak hasadından hemen önce örtüyü kaldırıp bitkileri kontrol edin.
+:::
+
+Örtü seçerken göz aralığı (mesh) kritik. Çok geniş gözlü file, pire böceğini geçirir. Böcek filelerinde göz aralığına nasıl bakılacağını [böcek filesi seçimi yazısı](/bocek-filesi) anlatıyor.
+
+[ürün:arzuman-rota-roka-tohumu-25-gr]
+
+Ürün açıklamasına göre Arzuman Rota Roka Tohumu geniş yapraklı bir çeşittir. Ürün sayfası rokanın ılıman bölgelerde tüm yıl, soğuk bölgelerde ilkbahar ve sonbahar arasında yetiştirilebileceğini, aşırı sıcaklarda tohuma kalkabileceğini belirtir. Bu da zamanlama için işe yarar bir ipucu: mayısta zararlı yoğunsa, sonbahara doğru yeniden ekim yapmak daha rahat olabilir.
+
+## Örtü dışında neler yardım eder?
+
+Tek bir önlem yerine birkaçını birleştirmek en iyi sonucu verir. Bu önlemler, ilaç kullanmadan zararı azaltır.
+
+- **Rotasyon:** Geçen sezon turpgil ekilen yere bu yıl yine turpgil ekmeyin. Böcek kışı oradaki artıkta geçirmiş olabilir. Yer değiştirme mantığı için [ekim nöbeti yazısı](/ekim-nobeti) fikir verir.
+- **Yabani turpgiller:** Yabani hardal, çoban çantası ve yabani turp, böceğe ara konak olur. Bahçe kenarında bu otları söküp temizleyin. Yabani otlarla doğal mücadele için [yabani otla doğal mücadele yazısı](/yabani-otla-dogal-mucadele) yardımcı olur.
+- **Bitki artıklarını temizleyin:** Hasat sonrası kalan sap ve yaprak, böceğin kışlık yeridir.
+- **Su:** Düzenli ve yeterli sulama bitkinin zarara tahammülünü artırır; kuru, stresli bitkide yaprak kaybı daha kötü etki yapar. [Wisconsin Üniversitesi yayım notu](https://hort.extension.wisc.edu/articles/flea-beetles), öğle saatlerinde sulamanın yetişkin böceğin beslenmesini azaltabileceğini belirtir.
+- **Tuzak bitki:** Bazı kaynaklar bir turp sırasını erken ekip böceği ona çekmeyi önerir; ama bu yöntem alan ve zaman gerektirir, küçük bahçede her zaman pratik değildir.
+
+[ürün:altinvadi-toros-kirmizisi-turp-tohumu]
+
+Turp tohumunun ürün sayfasında turpun serin iklim bitkisi olduğu, yüksek sıcaklık ve kuraklığı sevmediği, sıcakta sapa kalkma, acılaşma ve koflaşma eğiliminin arttığı yazılıdır. Yani mayısın ikinci yarısından sonra turp ekimi riskli; hem sıcak hem böcek aynı anda bitkiyi zorlar. Turpun neden acıdığı ve sulama dengesi için [turp neden acı olur yazısına](/turp-neden-aci-olur-sicaklik-ve-duzensiz-sulama) göz atabilirsiniz. Turp yetiştirme sürecinin tamamı ise [turp yetiştirme rehberinde](/turp-yetistirme) anlatılıyor.
+
+## İlaç kullanmak gerekir mi?
+
+Hobi bahçesinde çoğu zaman gerekmez. Örtü, rotasyon ve zamanlama genellikle yeterlidir. Böcek sayısı çok artıp yaprak kaybı belirgin bir seviyeye ulaştıysa, hangi ürünün ve hangi zamanda uygun olduğunu bölgenizdeki ilçe tarım müdürlüğüne ya da bir ziraat mühendisine danışarak belirleyin. Etiketlerde bu bitkilere uygunluk, bekleme süresi ve dozu mutlaka okunmalı; yenen yaprak bitkilerinde bekleme süresi özellikle önemlidir.
+
+Bu yazıda herhangi bir etken madde ya da doz vermiyoruz; çünkü uygulama, bitkiye ve yere göre değişir ve yanlış kullanım hem bitkiye hem faydalı böceklere zarar verebilir. Bahçedeki faydalı böcekleri tanımak ve korumak için [bahçede faydalı böcekler yazısı](/faydali-bocekler) yol gösterici olur.
+
+## Pratik bir kontrol listesi
+
+Bu hafta bahçenize çıktığınızda şu üç şeye bakın: yeni çıkan roka ve turp fideleri örtülü mü, yabani turpgil otları temizlendi mi ve geçen yıl turpgil ekilen yere bu yıl yine aynı aile ekildi mi? Bu üç sorunun cevabı "evet, hayır, hayır" ise büyük ölçüde güvendesiniz. Zıplayan küçük böcek yine görünebilir, ama bitkiye verebileceği zarar sınırlı kalır.
+
+@sss
+S: Turpgil pire böceği nedir?
+C: Turpgil pire böceği, roka, turp, lahana gibi turpgil bitkilerinin yaprağını delen, 2-3 mm boyunda ve dokununca zıplayan küçük bir böcektir. En çok fidelere zarar verir.
+
+S: Roka yaprağındaki küçük delikler zararlı mı?
+C: Olgun bitkide hafif delikler genellikle büyük kayıp yaratmaz, ama fide dönemindeki yoğun beslenme bitkiyi öldürebilir. Delikli roka yenilebilir; sadece iyice yıkayın ve görüntüsünü kabul edin.
+
+S: Pire böceğine karşı en iyi yöntem nedir?
+C: Ekimden hemen sonra hafif bir örtü serip kenarlarını kapatmak en güvenilir yöntemdir. Ayrıca rotasyon yapın ve yabani turpgil otlarını bahçeden temizleyin.
+
+S: Turp ve roka mayısta ekilir mi?
+C: Ekilir ama sıcaklık arttıkça turp sapa kalkıp acılaşır, roka tohuma yatar. Böcek baskısı da yüksektir. Mayısın ilk yarısını tercih edin ve örtü kullanın.
+
+### YAZI
+slug: sera-raf-ve-masa-duzeni-kucuk-seranin-her-kosesi
+baslik: Sera Raf ve Masa Düzeni: Küçük Seranın Her Köşesi Nasıl Kullanılır?
+yayin: 2027-05-19 19:40
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: sera raf ve masa düzeni
+seo_baslik: Sera Raf ve Masa Düzeni: Küçük Serada Yerleşim
+seo_aciklama: Sera raf ve masa düzeni nasıl kurulur? Koridor genişliği, raf yüksekliği, tezgâh derinliği ve havalandırma için küçük hobi serasına uygun ölçüler.
+ozet: Küçük bir serada fideler yerde, saksılar köşede, çalışacak yer yoksa sorun ölçüde değil düzendedir. Koridor payını, raf ve tezgâh yüksekliğini, ışık ve havalandırmayı hesaba katan bir yerleşimi adım adım anlattık.
+etiketler: sera raf ve masa düzeni, hobi serası, sera tezgahı, fide rafı, sera yerleşimi, küçük sera
+gorsel: bekliyor
+gorsel_alt: Küçük bir hobi serasının içinde iki yanda fide rafları ve ortada dar bir koridor
+urunler: galvaniz-kucuk-sera-rafi-iskeleti-3-katli-88x46x111-cm, galvaniz-saksi-ve-sasirtma-tezgahi-iskeleti-2-katli-128x66x88-cm, galvaniz-sera-fide-rafi-iskeleti-3-katli-131x46x111-cm
+kisaca: Küçük serada sera raf ve masa düzeni, ortada bir yürüme koridoru, iki yanda sığ raflar ve bir kenarda bel hizasında çalışma tezgâhı demektir. Raflar ışığı alt kata geçirecek biçimde seyrek, tabla ise havanın dolaşmasına izin verecek yapıda olmalıdır.
+@govde
+Hobi serasını kurdunuz, örtüyü gerdiniz, kapıyı taktınız. İlk hafta fideleri yere dizdiniz, saksıları köşeye yığdınız. Sulamak için eğilmekten belinizi tuttunuz, yerdeki fideler sulama suyuyla çamur oldu ve arka sıradaki bitkiye ulaşamıyorsunuz. Yani sera hazır ama sera raf ve masa düzeni henüz yok. Küçük bir alanda her köşenin işe yarayabilmesi için önce nerede ne yapılacağını çizmek gerekir.
+
+## Sera raf ve masa düzeni neden ölçüyle başlar?
+
+Küçük sera, aslında bir mutfak gibidir: az alan, çok iş. Hazırlık, ekim, şaşırtma, sulama ve bitki bekletme aynı kutunun içinde yapılır. Düzensiz yerleşimde bitkiler yerde kalır, yer ıslanır ve hastalık riski artar. Düzenli yerleşimde ise aynı alanda iki üç kat daha fazla fide taşıyabilirsiniz.
+
+Düzenin ilk kuralı, taban alanını bölgelere ayırmaktır. Alt tablo, sık kullanılan bölgeleri ve onlara yaklaşık olarak ne kadar yer ayrılacağını gösterir. Oranlar tahmini bir başlangıçtır; seranın şekline ve yaptığınız işe göre değişir.
+
+| Bölge | Ne için | Yer | Not |
+|---|---|---|---|
+| Yürüme koridoru | Taşıma, sulama, gözlem | Ortada, kapıdan arka duvara | Rahat dönüş için yeterli genişlik bırakın |
+| Çalışma tezgâhı | Saksı doldurma, şaşırtma | Kapıya yakın kenar | Bel hizasında ve su sıçramasına dayanıklı |
+| Fide rafları | Tohum çimlendirme, fide | Yan duvarlar, ışık alan taraf | Sığ, çok katlı |
+| Zemin ya da yatak | Büyük saksı, sebze yatağı | Arka taraf | Büyüyen bitkiler için |
+| Depolama | Toprak, saksı, gübre | Tezgâh altı ya da köşe | Nem alan malzemeyi yerden yüksekte tutun |
+
+## Koridor genişliği: önce ölçü, sonra raf
+
+Yürüme koridoru, küçük serada en çok tartışılan yer. Çok dar olursa bitkiye ve tezgâha ulaşamazsınız, çok geniş olursa raf yeri kalmaz. Bir hesapla gösterelim. Tabanı 1,58 × 2,35 m olan hobi tipi bir sera düşünün. İki yana 46 cm derinliğinde raf koyarsanız ortada 158 − 92 = 66 cm koridor kalır; bu, tek kişi için yeterlidir. Not: gerçek iç ölçü, profillerin ve örtünün kalınlığı kadar küçüktür; rafı yerleştirmeden önce seranın iç genişliğini ölçün.
+
+::: adimlar
+Seranın iç ölçüsünü alın | Genişlik, uzunluk ve yan duvar yüksekliğini şerit metreyle ölçün; kapı kanadının açılma alanını işaretleyin.
+Kâğıda çizin | Ölçekli bir planda koridoru, tezgâhı ve rafları yerleştirin. Kâğıtta kalan hata, serada kalan hatadan ucuzdur.
+Önce koridoru ayırın | Tek kişi için en az 60-70 cm, iki kişi için daha geniş bırakın. Bu, pratik bir öneridir; arabalı taşıma yapıyorsanız artırın.
+Rafı kalan alana göre seçin | Raf derinliğini koridordan arta kalan genişliğe göre belirleyin.
+Kurduktan sonra deneyin | Sulama kabıyla bir tur atın. Dirsek ya da fide tablasına çarpıyorsanız yerleşimi değiştirin.
+:::
+
+Sera raf ve masa düzeni için genel kural: dar serada tek yan duvara raf, geniş serada iki yan duvara raf ve ortada koridor. Clemson Üniversitesi'nin [hobi seraları yayım notu](https://hgic.clemson.edu/factsheet/hobby-greenhouses/) küçük seraların planlanmasında ve yerleşiminde bu tür düşünmenin önemini vurgular. Seranın kendisini nasıl kuracağınız için [hobi serası kurulumu yazısı](/hobi-serasi-kurulumu) başlangıç noktasıdır.
+
+[ürün:galvaniz-kucuk-sera-rafi-iskeleti-3-katli-88x46x111-cm]
+
+Ürün sayfasına göre Galvaniz Küçük Sera Rafı İskeleti 88 × 46 × 111 cm ölçüsündedir, 3 katlıdır ve 88 cm genişlikte 6 bölmeli fide düzeni sunar. Raf tablaları pakete dahil değildir; tablayı istediğiniz malzemeden kestirirsiniz. Böylece tablayı su geçirmeyen bir malzemeden ya da delikli yapıda seçebilirsiniz.
+
+## Raf yüksekliği: üst kat sıcak, alt kat gölge
+
+Rafları üst üste dizmek alanı çoğaltır, ama her kat farklı bir iklim yaratır. Sera tavanına yakın üst kat, sıcak havanın biriktiği yerdir; alt kat ise gölgede kalır ve nemlidir. Aşağıdaki işaretler, hangi bitkinin hangi kata uygun olduğunu gösterir.
+
+- **Üst kat:** Işık isteyen fideler, çimlenme kapları. Isı çok yükseldiğinde sulama ihtiyacı da artar.
+- **Orta kat:** Şaşırtılmış fide ve genç bitkiler. Çalışma ve gözlem için en rahat yükseklik burasıdır.
+- **Alt kat:** Gölgeye dayanan bitkiler, saksı ve toprak deposu. Işık az olduğu için fide büyütmek burada zor olur.
+
+Raflar arasında yeterli aralık bırakmak da şarttır: fide boy attıkça üstteki tabla ışığı keser. Kat arası mesafeyi, beklediğiniz en uzun bitkiye göre seçin. Yazın raflar boşalınca bitkileri zemine ya da yatağa taşıyabilir, rafı depolama için kullanabilirsiniz. Seradaki ısı değerleri için [sera sıcaklık tablosu](/sera-sicaklik-tablosu) karar vermenize yardımcı olur.
+
+## Tezgâh yüksekliği ve derinliği
+
+Çalışma tezgâhında iki ölçü önemlidir: yükseklik ve derinlik. Yükseklik bel hizasında olmalı ki eğilmeden saksı dolduruyor olasınız; çoğu hobi serası tezgâhı 80-90 cm arasında çalışma yüksekliği sunar. Derinlik ise kolun uzanabildiği yerle sınırlıdır; 60-70 cm derinlik, tek taraftan çalışırken rahat uzanılan bir mesafedir.
+
+Ürün sayfalarında standart köpük viyolün 66,5 × 32,8 cm olduğu yazılı; 70 cm derinlikli tezgâh, viyolü enine tam oturtur. Bu ölçüler, tohum çimlendirme için viyol kullanan hobi bahçıvanlar için kullanışlıdır.
+
+[ürün:galvaniz-saksi-ve-sasirtma-tezgahi-iskeleti-2-katli-128x66x88-cm]
+
+Galvaniz Saksı ve Şaşırtma Tezgâhı İskeleti ürün açıklamasında 128 × 66 × 88 cm ölçüsünde, 2 katlı olarak tanıtılır; 88 cm çalışma yüksekliği bel hizasında tezgâh, altında ise depolama sağlar. Tabla gerekirse kendiniz kestirirsiniz. Tezgâh altına toprak torbaları ve boş saksılar girer; böylece zemin boşalır.
+
+## Havalandırma ve hijyen: tabla yapısı fark yaratır
+
+Tezgâh ve raf tablası düz ve kapalı olursa su dibinde birikir, hava bitkilerin altından geçemez. Oklahoma Eyalet Üniversitesi'nin [sera zeminleri ve tezgâhları yayını](https://extension.okstate.edu/fact-sheets/print-publications/hla/greenhouse-floors-and-benches-hla-6703.pdf), tel ya da çıta gibi açık tablaların bitki çevresinde hava dolaşımına izin verdiğini belirtir. Nemli sera ortamında hava hareketi, mantar hastalıklarına karşı en ucuz önlemlerden biridir.
+
+Bu yüzden:
+
+- Tablayı delikli, çıtalı ya da tel yapıda seçin; düz kapalı tabla kullanıyorsanız fide tepsilerinin altına kısa ayak koyun.
+- Rafı duvara tam yapıştırmayın; birkaç santim aralık havanın dolaşmasını sağlar.
+- Sulama suyunun alt kata damlamaması için üst kata su verirken alta tepsi koyun.
+- Sezon başında rafları ve tezgâhı sabunlu suyla silin; [sera temizliği yazısı](/sera-temizligi-sezon-basi-dezenfeksiyon) ayrıntıları verir.
+
+Havalandırma ve nem dengesini kapsamlı görmek isterseniz [sera havalandırması ve nem kontrolü yazısına](/sera-havalandirmasi-nem-kontrolu) bakın.
+
+## Malzeme seçimi: galvaniz mi, ahşap mı?
+
+Serada nem yüksektir. Ahşap raf zamanla su emer, çürür ve mantar barındırabilir; boyalı ya da yağlanmış olsa bile bakım ister. Galvaniz iskelet ise nemli ortama dayanıklıdır ve sökülüp taşınabilir. Ürün açıklamalarında galvaniz kaplamanın nemli ortamda paslanmaya karşı dayanıklı olduğu, iskeletlerin kaynaksız ve civatalı kurulduğu yazılıdır.
+
+[ürün:galvaniz-sera-fide-rafi-iskeleti-3-katli-131x46x111-cm]
+
+Fide yetiştirenler için 131 × 46 × 111 cm ölçüsündeki 3 katlı sera fide rafı, ürün açıklamasında tohum çimlendirme ve fide için sera yan duvarına uygun olarak tanımlanır. Aynı profille genişletilebildiği için bir sezon sonra ihtiyaç büyürse iskeleti uzatabilirsiniz. Kendin yap projelerinde profilin nasıl kullanılacağı için [galvaniz kutu profil ile kendin yap yazısına](/galvaniz-kutu-profil-ile-kendin-yap) bakabilirsiniz.
+
+## Sık yapılan altı hata
+
+Düzen kurarken çoğu hobi bahçıvanı aynı yerlere takılır. Bunların bilinmesi, ilk kurulumda zaman kazandırır.
+
+1. Rafı koridoru hesaplamadan almak ve sonra kapıdan geçememek.
+2. Tüm fideleri üst rafa koymak ve öğle sıcağında kurumalarını izlemek.
+3. Düz, kapalı tabla kullanıp su birikmesine izin vermek.
+4. Tezgâhı çok alçak yapıp sürekli eğilmek ve bel ağrısı çekmek.
+5. Raf arasını bitki boyuna göre değil, rakama bakarak ayarlamak.
+6. Zemini boş bırakmayıp her şeyi raflara sıkıştırmak; büyüyen saksılar için zemin yeri düşünülmelidir.
+
+İlk hafta düzeni deneyin, ikinci hafta bir iki ayar yapın. Güzel bir sera raf ve masa düzeni bir günde kurulmaz; bitkiler büyüdükçe ihtiyaç değişir. Önemli olan, her köşenin bir işi olması ve koridorun hep açık kalmasıdır. Evde fide tepsisi hazırlıyorsanız [evde fide yetiştirme rehberi](/evde-fide-yetistirme) bu rafların ilk işini planlamanıza yardım eder.
+
+@sss
+S: Küçük serada koridor ne kadar geniş olmalı?
+C: Tek kişi için yaklaşık 60-70 cm çoğu iş için yeterlidir. Arabayla taşıma yapacaksanız ya da iki kişi çalışacaksanız daha geniş bırakın. Raf derinliğini kalan alana göre seçin.
+
+S: Sera tezgâhı kaç santim yüksekliğinde olmalı?
+C: Çalışma yüksekliği bel hizasında, çoğu hobi serası için 80-90 cm arasındadır. Boyunuza göre ayarlayın; eğilmeden saksı doldurabiliyorsanız yükseklik uygundur.
+
+S: Raflara üst üste fide koymak zararlı mı?
+C: Üst kat daha sıcak ve ışıklı, alt kat daha gölgeli ve nemlidir. Işık isteyen fideleri üst ve orta katlara koyun, alt katı depolama ya da gölgeye dayanıklı bitkiler için kullanın.
+
+S: Sera rafı için ahşap mı galvaniz mi daha uygun?
+C: Nemli sera ortamında ahşap zamanla su emip çürüyebilir. Galvaniz iskelet paslanmaya dayanıklıdır, sökülüp taşınabilir. Tablayı açık yapıda seçmek havanın dolaşmasına yardımcı olur.
+
+### SORU
+yayin: 2027-05-19 21:05
+kategori: cicekler
+baslik: Tütün çiçeği fidesini doğuya bakan balkona dikeceğim, sabah güneşi yeter mi, akşam kokar mı?
+metin: Doğuya bakan kapalı bir balkonum var, sabahları üç dört saat güneş görüyor. Tütün çiçeği fidesi aldım. Bu ışıkla çiçek açar mı, akşam koku verir mi? Saksı olarak 12 litrelik bir kova düşünüyorum.
+@cevap Ahmet Sacit Çelik | 2
+Sabah güneşi tütün çiçeği için fena değil; bitki bütün gün yakıcı güneşte olmak zorunda değil, hatta öğle sıcağından kaçınması çiçeğin ömrünü uzatır. Üç dört saat doğrudan güneş ve geri kalan saatlerde aydınlık yeter, ama çiçek sayısı güneyli balkona göre biraz az olabilir. Koku, kokulu tür seçtiyseniz akşam gelir; paketin üstünde Nicotiana alata ya da sylvestris yazıyorsa umut var, renkli bodur melezlerde koku zayıf kalır. 12 litrelik kova uygundur, dibine mutlaka delik açın ve toprağı üst kısmı kuruyunca sulayın.
+
+### SORU
+yayin: 2027-05-19 21:40
+kategori: bahce-ipuclari
+baslik: Ollayı ikinci günde boşalıyor, her gün doldurmam gerekir mi, bir yanlışlık mı var?
+metin: Domates yatağıma kil bir çömlek gömdüm, ağzını kapattım. Üç litrelik çömlek iki günde boşalıyor. Sıcak günler başladı. Normal mi, yoksa çömlek çok mu gözenekli, çatlak mı olabilir?
+@cevap Halil İbrahim Çelik | 3
+İlk haftalarda çömlek hızlı boşalır, çünkü gözenekler doluyor ve çevre toprak henüz kuru. Sıcak havada ve kumlu toprakta bu hız zaten yüksek olur. Çatlak şüphesi varsa çömleği çıkarıp suyla doldurun ve dışından su damlayıp damlamadığına bakın; yalnızca duvardan terleme normaldir, çatlaktan akan su değildir. Bir hafta sonra hız yavaşlamıyorsa iki çömlek kullanmak ya da yüzeyi malçlamak daha mantıklı olur. Fide dönemindeyse ollaya ek olarak üstten de sulamaya devam edin.
+

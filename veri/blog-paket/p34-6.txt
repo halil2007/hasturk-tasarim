@@ -1,0 +1,126 @@
+### YAZI
+slug: turfanda-sebze-erken-hasat-icin-tunel-malc-ve-fide-plani
+baslik: Turfanda Sebze: Erken Hasat İçin Tünel, Malç ve Fide Planı
+yayin: 2027-04-08 16:40
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: turfanda sebze
+seo_baslik: Turfanda Sebze: Tünel, Malç ve Fide ile Erken Hasat
+seo_aciklama: Turfanda sebze için erken hasat planı: siyah malçla toprağı ısıtma, alçak tünel ve örtü, soğuğa dayanıklı fide seçimi, don riski ve tünelin açılma zamanı.
+ozet: Turfanda sebze, mevsiminden önce hasat edilen sebzedir. Toprağı malçla ısıtmak, alçak tünelle havayı korumak ve doğru fideyi doğru tarihte dikmek bunun üç ayağıdır. Plan, takvim ve risk tablosuyla anlatıldı.
+etiketler: turfanda sebze, erken hasat, alçak tünel, siyah malç, fide dikimi, don koruması
+gorsel: bekliyor
+gorsel_alt: Siyah plastik malç serili sıralarda yarım daire demirlerle desteklenmiş beyaz tünel örtüsü altında genç sebze fideleri
+urunler: dev-kivircik-marul-fidesi-12-adet, jersey-lahana-fidesi-6-adet, hg-fide-topragi, hasturk-kati-solucan-gubresi
+kisaca: Turfanda sebze üretiminin üç ayağı vardır: siyah malçla toprağı ısıtmak, alçak tünel ya da örtüyle havayı korumak ve soğuğa dayanıklı, erkenci fideleri doğru tarihte dikmek. Soğuk toprak erken üretimin asıl engelidir. Sıcak seven sebzelerde don riskini ve tünelin havalandırmasını planlamadan erken dikim yapmayın.
+@govde
+Turfanda sebze, normal mevsiminden haftalarca önce hasat edilen sebzedir; pazarda ilk gelen ürün olduğu için değerlidir. Ama erken üretim şansa değil plana dayanır: toprağı ısıtmak, havayı korumak ve doğru fideyi seçmek gerekir. Bu üçünden biri eksik kalırsa ilk dondan sonra ya fide donar ya da tünelde yanar. Aşağıda her ayağı, kaynaklarıyla ve bölgeye göre farkıyla anlatıyoruz.
+
+## Turfanda sebze neden sıcak toprakla başlar?
+
+Erken sezonda hava ve toprak soğuktur, ikisi de verimi sınırlar. Colorado State Üniversitesi'nin don koruma notu, hem soğuk hava hem de soğuk toprağın erken üretimi sınırlayan etkenler olduğunu söylüyor; çerçeve üzerindeki plastik örtüyle birlikte toprağı ısıtmak için siyah plastik malç kullanılmasını öneriyor ([Colorado State Extension, don koruması](https://cmg.extension.colostate.edu/Gardennotes/722.pdf)). Cornell Üniversitesi de plastik malçın toprağı ısıttığını ve sezon boyunca üzerinde kalırsa hasadı yaklaşık iki hafta öne çektiğini yazıyor ([Cornell, erken dikim için bitki koruma](https://cals.cornell.edu/school-integrative-plant-science/school-sections/horticulture-section/outreach-and-extension/pandemic-vegetable-gardening/pandemic-vegetable-gardening-2020-archive/protecting-plants-for-earlier-plantings)).
+
+Bu yüzden turfanda planın ilk işi, tünelden önce malçı sermektir. Malçı dikimden iki üç hafta önce yayıp kenarlarını toprağa gömün; böylece toprak ısınırken fideniz tarlada beklemez. Damla borusunu malçın altına yerleştirin: yağmura ve sulamaya rağmen toprak ısısını kaybetmez. Malç seçenekleri için [malç çeşitleri](/malc-cesitleri) ve hat kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazılarına bakın.
+
+## Alçak tünel mi, örtü mü?
+
+Oregon State Üniversitesi alçak tüneli, tek bir sıranın üstüne çemberlerle gerilen plastik örtü olarak tanımlıyor; tünel içi hava ve toprak daha sıcak olduğundan sezon uzuyor ve verim artıyor ([Oregon State Extension, alçak tüneller](https://extension.oregonstate.edu/catalog/em-9333-low-tunnels-season-extension-oregon-design-construction-costs)). Aynı yayın plastiğin gergin tutulmasını öneriyor; su birikirse örtü çöker. Colorado State'in denemelerinde çerçeve üzerindeki plastik örtü yaklaşık 2 °C'den 3,5 °C'nin üzerine kadar don koruması sağlamış ve soğuğu seven ürünlerde sezonu iki ila altı hafta ya da daha fazla uzatmıştır.
+
+| Seçenek | Isı kazancı | Artısı | Eksisi |
+|---|---|---|---|
+| Alçak plastik tünel | Orta-yüksek | Isıyı tutar, rüzgârı keser | Güneşli günde aşırı ısınır, havalandırma ister |
+| Yüzen örtü (agril) | Düşük | Hafif, havalı, böceri uzak tutar | Sert donda yetmez |
+| Tünel + malç birlikte | En yüksek | Hem toprak hem hava korunur | Kurulum emeği ve masraf |
+| Sera | Yüksek | Tam kontrol | Yatırım büyük |
+
+Örtüler gün boyu kapalı kalmamalıdır. Maryland Üniversitesi, örtünün erken yaz sonrasına kadar bırakılmasının bitkiyi aşırı ısıtıp çiçek ve meyve dökümüne yol açabileceğini, sıcak seven bitkiler çiçeklenmeye başlayınca örtünün tozlayıcıların girebilmesi için kaldırılması gerektiğini bildiriyor ([Maryland Extension, yüzen örtüler](https://extension.umd.edu/resource/row-covers)). Güneşli günde tünel ucunu açın, akşam kapatın. Tünel tipi seralar için [tünel sera kurulumu](/tunel-sera-kurulumu), kış ve erken ilkbahar için [soğuk çerçeve](/soguk-cerceve) yazıları ek bilgi verir.
+
+[ürün:dev-kivircik-marul-fidesi-12-adet]
+
+## Hangi sebze turfanda yetiştirilir?
+
+Her sebze erken dikilmeye uygun değildir. Soğuğa dayanıklı olanlar erken dikilir; sıcak seven sebzeler ise ancak tünelde, don riski geçerken denenir.
+
+| Grup | Örnek | Erken dikim riski |
+|---|---|---|
+| Soğuğa dayanıklı | Marul, ıspanak, turp, lahana, brokoli, karnabahar | Düşük; hafif donu tolere eder |
+| Orta | Soğan, bezelye, pırasa, havuç | Düşük-orta |
+| Sıcak sever | Domates, biber, patlıcan, salatalık | Yüksek; don ve soğuk toprak fideyi durdurur |
+
+Ürün bilgisine göre Dev Kıvırcık Marul fidesi iri baş yapan erkenci bir çeşittir ve sapa kalkmaya toleranslıdır; Jersey Lahana fidesi konik başlı, erkenci bir tiptir. Erkenci çeşit etiketini gördüğünüzde bile don riskini aklınızdan çıkarmayın: erkencilik, soğuğa dayanıklılık demek değildir. Domates ve biberde erken dikimin faydası, donla zarar riskini karşılamıyorsa dikimi bir iki hafta geciktirin. Fide sertleştirme ayrıntısı için [fide sertleştirme nasıl yapılır](/fide-sertlestirme) yazısına bakın.
+
+## Bölgeye göre turfanda takvimi
+
+Turfanda sebze, Akdeniz kıyısında kışın ortasında bile mümkün; Marmara ve Ege'de mart sonunda; İç Anadolu ve Doğu'da ise nisan sonu-mayıs başında tünel altında başlar. Aşağıdaki takvim bir çerçeve olarak düşünülmelidir; son don tarihini kendi bölgenizin geçmiş kayıtlarına göre belirleyin.
+
+::: takvim
+Fide yetiştirme (ısıtmalı ortam) | 1-3
+Malç serme, tünel kurma | 2-4
+Soğuğa dayanıklı fide dikimi | 3-4
+Sıcak seven fide dikimi (tünel altı) | 4-5
+Tünel sökme | 5-6
+Turfanda hasat | 4-6
+:::
+
+Don tahminlerini yerel hava durumundan ve meteoroloji uyarılarından izleyin; tünel altına rağmen sert don gecelerinde ek örtü (eski battaniye, ikinci kat agril) sermek faydalıdır. Don sonrası zararı tanımak için [don zararı belirtileri](/don-zarari-belirtileri) ve önlemler için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazılarına bakın.
+
+## Fide planı: ne zaman, ne kadar?
+
+Erken üretimin sırrı hazır güçlü fide ile başlamaktır. Tohum ekimini ısıtmalı bir ortamda ve dikimden altı sekiz hafta önce yapın; fideleri tüplerde yetiştirip dikimden bir hafta önce dışarı alıştırın. Işık yetersizse fideler boylanır; bu konuda [fide neden boylanır](/fide-neden-boylanir) yazısına bakın. Sağlıklı fide için ürün bilgisine göre HG Fide Toprağı tohum çimlendirme ve genç fidelerin erken gelişimi için hazırlanmış bir karışımdır.
+
+::: adimlar
+Tarihi belirleyin | Bölgenin son don tarihinden geriye doğru hesap yapın: fide yaşı ve tünel süresi eklenir.
+Toprağı hazırlayın | Taban gübresini verin, yatağı kabartın, siyah malçı serin ve kenarlarını gömün.
+Tüneli kurun | Çemberleri yerleştirip plastiği gergin çekin, kenarlarını toprakla ya da kum torbasıyla sabitleyin.
+Fideyi dikin | Malçı delip fideyi dikin ve ilk sulamayı yapın; geceleri tüneli kapalı tutun.
+Havalandırın | Güneşli günlerde tünelin iki ucunu açın, akşam kapatın.
+Tüneli kaldırın | Hava ısınınca ve sıcak seven bitkiler çiçek açınca örtüyü tamamen alın.
+:::
+
+[ürün:jersey-lahana-fidesi-6-adet,hg-fide-topragi]
+
+## Hasat ve satış planı
+
+Turfanda ürünün değeri ilk haftalardadır; hasadı pazara göre planlayın. Aynı gün hasat edilen marul ve lahana kısa sürede solar, bu yüzden hasat saatini sabah serinine alın ve ürünü gölgede bekletin. Erken ürün normal sezondan küçük kalabilir; baş büyüklüğünü beklemek yerine, pazarın istediği boyda toplamak sonraki dikimlere yer açar. Aynı sırada farklı olgunlukta bitki bulunacak şekilde dikimi iki üç hafta arayla bölmek, hasadı tek haftaya sıkıştırmaktan iyidir; hem işgücü hem pazar riski dağılır.
+
+## Turfandada sık yapılan hatalar
+
+Birinci hata, tüneli açmayı unutmaktır. Güneşli bir nisan öğleninde tünel içinde fideler birkaç saatte pişebilir; sabahı kapalı bırakıp iş başına gitmek en pahalı hatadır. İkinci hata, plastiği delik deşik bırakmaktır; Penn State, örtülerdeki deliklerin ısıyı kaçırdığını ve böceri çağırdığını belirtiyor ([Penn State Extension, sezon uzatıcılar](https://extension.psu.edu/season-extenders-and-growing-fall-vegetables)). Üçüncü hata, toprağı hazırlamadan tünel kurmaktır; soğuk toprak üzerindeki sıcak havadan fide yararlanamaz. Dördüncü hata, tüm alana tek ürün dikmek: don riskine karşı farklı tarihlerde dikim yaparak riski dağıtın.
+
+Erken üretimin bir diğer yönü işgücüdür. Tünel açma ve kapama, dikim ve kontrol işleri, normal sezondan daha yoğundur. Küçük parselde denemeden önce bir sıra tünel kurup bir sezon gözlemlemek, tüm araziye yatırım yapmaktan çok daha güvenlidir. Toprağa organik madde eklemeyi de unutmayın; zengin bir toprak erken dikimde fidenin stresini azaltır. Katı solucan gübresi gibi organik düzenleyiciler bu amaçla kullanılır.
+@sss
+S: Turfanda sebze ne demektir?
+C: Normal mevsiminden önce yetiştirilip hasat edilen sebzeye turfanda denir. Tünel, siyah malç ya da sera ile toprak ve hava ısıtılarak hasat birkaç hafta öne çekilir. İlk gelen ürün olduğu için pazarda ilgi görür.
+
+S: Turfanda için hangi sebze erken dikilir?
+C: Marul, ıspanak, turp, lahana, brokoli ve karnabahar gibi soğuğa dayanıklı sebzeler erken dikilir. Domates, biber, patlıcan ve salatalık ise yalnız tünel altında ve don riski geçerken denenir.
+
+S: Alçak tünel ne zaman açılır?
+C: Güneşli günlerde sabah ya da öğleden önce iki ucu açılıp akşam kapatılır; aksi hâlde içerisi aşırı ısınır. Sıcak seven sebzeler çiçek açınca tünel tamamen kaldırılır ki tozlayıcılar girebilsin.
+
+S: Siyah malç hasadı ne kadar öne çeker?
+C: Cornell Üniversitesi plastik malçın toprağı ısıttığını ve sezon boyunca kalırsa hasadı yaklaşık iki hafta öne çekebildiğini yazıyor. Etkisi bölgeye, ürüne ve havaya göre değişir; tünelle birlikte kullanımı daha büyük fark yaratır.
+
+### SORU
+yayin: 2027-04-08 10:40
+kategori: sebze-meyve
+baslik: Tünelin içi öğlen çok ısınıyor, fideler yanar mı, ne zaman açmalıyım?
+metin: Alçak tünel kurdum, içinde marul ve lahana fidesi var. Güneşli günlerde öğlen tünelin içi çok sıcak oluyor. Sabah açıp akşam kapatmam yeterli mi?
+@cevap Mikdat Çelik | 2
+Evet, güneşli günlerde tünelin iki ucunu sabah erken açıp akşam güneş inerken kapatmak doğru uygulamadır. Plastik tünel içi kısa sürede dışarıdan çok daha sıcak olur ve fideleri yakabilir. Hava bulutlu ve serinse kısmen açık bırakmak yeter. Gece don riski varsa akşam mutlaka kapatın. Plastiğin gergin olması ve yan kenarların toprakla örtülü olması ısının dengeli kalmasına yardım eder.
+
+### SORU
+yayin: 2027-04-08 13:25
+kategori: toprak-rehberi
+baslik: Siyah plastik malçı sulama borusunun altına mı üstüne mi sermeliyim?
+metin: Domates ve biber sırasına siyah plastik malç sereceğim, damla borusu da var. Boru malçın altında mı üstünde mi olmalı?
+@cevap Halil İbrahim Çelik | 3
+Damla borusunu malçın altına, bitki sırasının yanına yerleştirin. Böylece su doğrudan toprağa gider, malç üstünde buharlaşma ve rüzgâr kaybı olmaz. Önce toprağı nemlendirip boruyu serin, sonra malçı gerin ve kenarlarını toprağa gömün. Fide için malçta küçük delikler açın. Malç toprağı ısıtırken borunun altında su tutmaz; damlatıcıların yerini ve boru çıkışlarını bitkilerin kök bölgesine denk getirin.
+
+### SORU
+yayin: 2027-04-08 18:50
+kategori: bahce-ipuclari
+baslik: Fideleri tünele dikmeden önce kaç gün alıştırmak gerekir?
+metin: Evde yetiştirdiğim fideleri nisanın ortasında tünele dikeceğim. Dışarı alıştırma kaç gün sürmeli, tünel altında da gerekli mi?
+@cevap Rümeysa Altınova | 2
+Tünel altında bile alıştırmak iyi olur çünkü ev ile tünel arasında ışık ve rüzgâr farkı büyüktür. Yaklaşık bir hafta boyunca fideleri gün gün artan süreyle dışarıda tutun: ilk gün birkaç saat gölgede, sonraki günlerde güneşe ve rüzgâra doğru uzatın. Gece sıcaklığı düşük kalacaksa geceleri içeri alın. Dikimden önce suyu hafifçe kısmak fideyi sertleştirir; ama kurumasına izin vermeyin.

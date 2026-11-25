@@ -1,0 +1,631 @@
+### YAZI
+slug: balkonda-saksi-agirligi
+baslik: Balkonda Saksı Ağırlığı: Toprak, Su ve Güvenli Yük
+yayin: 2027-01-22 08:30
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: balkonda saksı ağırlığı
+seo_baslik: Balkonda Saksı Ağırlığı: Toprak, Su ve Güvenli Yük
+seo_aciklama: Balkonda saksı ağırlığı nasıl hesaplanır? Islak toprak ve suyun yükünü, ağırlığı yayma ve hafifletme yollarını, balkon kenarına ve köşeye yerleşimi anlattık.
+ozet: Balkonda saksı ağırlığı çoğu zaman hafife alınır: ıslak toprak ve su, kuru saksının birkaç katı yük bindirir. Hacme göre kaba ağırlık tablosunu, yükü yayma ve hafifletme yollarını ve balkonun taşıma gücü için kime danışılacağını yazdık.
+etiketler: balkonda saksı ağırlığı, balkon yükü, ıslak toprak ağırlığı, hafif saksı, balkon güvenliği, tekerlekli yatak
+gorsel: bekliyor
+gorsel_alt: Balkon zemininde duvar dibine sıralanmış büyük saksılar ve yanlarında tekerlekli bir yetiştirme kasası
+urunler: moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60, tarim-perliti
+kisaca: Balkonda saksı ağırlığı hesabında kural şudur: 1 litre su 1 kilogramdır ve ıslak saksı toprağı litre başına kabaca 0,6–1 kg gelir. 40 litrelik bir saksı bitkisiyle 30–45 kg'ı bulabilir. Ağır kapları duvar yanına yayın, perlit ve hafif karışımla yükü azaltın; balkonun taşıma gücü için inşaat mühendisine danışın.
+@govde
+Bir saksının ağırlığı toprağıyla değil, suyla sınanır. Kuru toprak hafiftir; sulandıktan sonra aynı saksı iki katına çıkabilir. Balkonda saksı ağırlığı bu yüzden en çok yeni başlayanların ihmal ettiği, ama bir gün ciddi sorun yaratabilecek konudur: bir balkon, bir salonun zemininden farklı biçimde taşınır ve tek noktaya binen yük dönüp köşede yoğunlaşabilir. Aşağıda yükü nasıl hesaplayacağınızı ve nasıl yöneteceğinizi anlatıyoruz.
+
+## Ağırlığı hesaplamanın üç adımı
+
+Önce saksının hacmini litre olarak belirleyin: 30 cm çapında, 30 cm derinliğinde bir saksı yaklaşık 20 litre, 40 cm çapında ve 35 cm derinliğinde olan ise yaklaşık 40 litre alır. Sonra ıslak toprağın litre başına ağırlığını kabaca 0,6–1 kg alın; hafif saksı karışımları alt sınıra, bahçe toprağı ve killi karışımlar üst sınıra yaklaşır. Son adımda saksının kendi ağırlığını ekleyin: plastik hafiftir, seramik ve beton çok ağırdır.
+
+Bu değerler yaklaşıktır; toprağın nemine ve karışımın yapısına göre değişir. En doğru yol saksıyı sulanmış hâldeyken bir baskülle tartmaktır: önce kendiniz, sonra saksıyı kucaklayıp tartıldığınızda fark saksının ağırlığını verir.
+
+| Saksı hacmi | Islak toprak (kaba) | Saksı ve bitki ile toplam |
+|---|---|---|
+| 10 litre | 6–10 kg | 8–13 kg |
+| 20 litre | 12–20 kg | 15–25 kg |
+| 40 litre | 24–40 kg | 28–48 kg |
+| 100 litre | 60–100 kg | 70–115 kg |
+| 200 litre (yetiştirme kasası) | 120–200 kg | 130–215 kg |
+
+Bu tablo bir sınır değil bir hesap yöntemidir; kendi saksınızın tartısını bu satırlarla karşılaştırın.
+
+## Balkonun taşıma gücü: kimi arayacaksınız?
+
+Balkonun taşıyabileceği yük binanın yaşına, yapı sistemine ve balkonun nasıl yapıldığına bağlıdır. Konsol (duvardan dışarı çıkan) balkonlar, kolonlara oturan balkonlardan farklı çalışır; eski binalarda ise donatı ve beton kalitesi bilinmeyebilir. Bu nedenle tek bir "güvenli kilogram" değeri vermek mümkün değildir. Çok sayıda ağır saksı, yetiştirme kasası ya da küçük havuz koymayı planlıyorsanız bina yönetiminden yapının projesini isteyin ve bir inşaat mühendisinin görüşünü alın. Balkonda çatlak, paslı donatı, kabarmış sıva ya da eğim varsa yükü artırmadan önce mutlaka kontrol ettirin.
+
+Kat mülkiyeti açısından balkon korkuluğu ve dış cephe ortak alandır; korkuluğa ağır saksı asmak ya da cepheye bağlantı yapmak yönetim kararı ve izin gerektirebilir.
+
+## Yük nereye konur: kenar mı, duvar dibi mi?
+
+Konsol balkonlarda yük, duvardan uzaklaştıkça etkisi artan bir kuvvet oluşturur; bu yüzden ağır kapları duvara yakın yerleştirin, korkuluğa yakın bölgeyi hafif saksılarla kullanın. Tek bir noktada yoğunlaşan yük, yayılmış yükten daha zorlayıcıdır: aynı 100 kg, dört ayrı noktaya dağıldığında tek bir yere binmesinden çok daha az sorun çıkarır. Bu yüzden büyük yetiştirme kasalarını ayaklarının altına geniş bir altlık koyarak yerleştirin.
+
+::: adimlar
+Tüm saksıları listeleyin | Her saksının hacmini ve tahmini ıslak ağırlığını bir kâğıda yazıp toplayın.
+Haritasını çıkarın | Balkon planını çizip ağır kapları duvara yakın, hafif kapları korkuluğa yakın yerleştirin.
+Yükü yayın | Ağır saksı altına geniş altlık ya da ahşap ızgara koyarak yükü yayın; ayrıntı için [balkon zemini nasıl korunur](/balkon-zemini-nasil-korunur) yazısına bakın.
+Köşeleri boş bırakın | Kapı yanı, köşe ve korkuluk ortası gibi hassas bölgelere en hafif kapları koyun.
+Sulamadan sonra tekrar kontrol edin | Sulama ağırlığı artırır; saksıyı en ağır hâliyle düşünerek planlayın.
+:::
+
+## Balkonda saksı ağırlığını azaltmanın yolları
+
+Yükü azaltmanın en etkili yolu, topraktan tasarruf etmektir. Perlit ve benzeri hafif katkılar saksı toprağının yoğunluğunu düşürür; kil bilye ile saksı tabanını doldurmak ise tabandaki gereksiz toprağı azaltır. Perlitin saksı toprağındaki oranı ve etkisi için [bitkilere göre perlit oranı](/bitkilere-gore-perlit-orani) yazısına bakabilirsiniz. Plastik, cam elyaf ve hafif dayanıklı malzemeler seramikten çok daha hafiftir. Boş yer kaplayan çok büyük saksı yerine bitkinin gerçekten ihtiyaç duyduğu boyutta saksı seçmek de hem yükü hem toprak masrafını azaltır.
+
+[ürün:tarim-perliti]
+
+## Tekerlekli yatak ve taşınabilir çözümler
+
+Ağır kapları hareket ettirmek gerekiyorsa tekerlek işi kolaylaştırır. Tekerlekli bir balkon sebze yatağının ürün açıklamasında, toprakla dolu ve sulanmış hâldeyken bile kolayca hareket ettirilebildiği, 30 cm toprak derinliğiyle yaklaşık 198 litre toprak hacmi sunduğu ve gövdenin toplam 400 kg yüke kadar tasarlandığı belirtiliyor. Bu rakam yatağın kendi yapısının dayanımıdır; balkonun taşıma gücüyle karıştırılmamalıdır. Yukarıdaki hesapla 198 litrelik yatak, ıslak hâlde yüzlerce kilogram gelir; bu yüzden böyle bir kasayı balkonun duvara yakın ve taşıyıcı bir kolona yakın bölgesine yerleştirmek ve balkon gücünden emin olmak gerekir.
+
+## Balkonda saksı ağırlığı sulamayla nasıl değişir?
+
+Aynı saksı gün içinde iki farklı ağırlıkta olabilir. Sabah sulanmış saksı en ağır hâlindedir; akşama doğru toprak kuruyunca ağırlığı düşer. Özellikle büyük saksılarda bu fark onlarca kilogramı bulur: 40 litrelik bir saksıda toprağın suyla doyma hâli ile kuruma noktası arasında kolayca 8–12 kg fark oluşabilir. Hesabı yaparken her zaman "ıslak ve dolu" hâli esas alın; çünkü balkonun asıl zorlandığı an, yağmurdan sonra ya da sulamadan hemen sonradır.
+
+Yağmurlu havalarda açık balkondaki saksılar tabaksız bırakılırsa sürekli doymuş kalır. Bu hem ağırlık hem kök çürümesi demektir. Yağış sonrası fazla suyu boşaltmak ve drenaj deliklerini açık tutmak yükü azaltır. Saksı seçiminde drenaj ve boyut ilkeleri için [saksı seçimi rehberi](/saksi-secimi-rehberi) yazısına bakabilirsiniz.
+
+## Bitkiye göre doğru saksı boyutu: gereksiz toprağı taşımayın
+
+Her bitkinin kök hacmi farklıdır; gereğinden büyük saksı, bitkiye yararı olmayan toprağı da taşımak demektir. Yeşilliklerin kökü sığdır; 15–20 cm derinlik yeter. Aromatik otlar için 10–15 litre, domates ve biber için 20–30 litre, meyve ağaçları için 50 litre ve üstü saksı uygundur. Tek bir ağaç için 100 litrelik saksı yapmak yerine, uygun cüce çeşit ve 50 litrelik saksı seçmek balkona binen yükü yarıya indirir. Büyük saksıda ağaç yetiştirme konusunda drenaj ve ağırlık hesabı için [büyük saksıda ağaç yetiştirme](/buyuk-saksida-agac) yazısı da yardımcı olur.
+
+Balkonda saksı ağırlığı konusunda son bir pratik ipucu: saksıları hafif tutan bir düzen kurun. Sezon başında yalnızca gerekli sayıda bitki ekin ve toprak seviyesini saksının ağzından 3–4 cm aşağıda bırakın; hem taşmayı hem fazladan toprak yükünü azaltır.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60]
+
+## Mevsimin etkisi: yağmur, kar ve don
+
+Açık balkonda yağmur, saksıyı bir anda ağırlaştırır; kar ise saksıların üstünde ve korkulukta ek yük bırakır. Kışın bitkileri kasa ve rafın üstünde bırakıyorsanız karı ve buzu temizleyin. Donan toprak kabarır ve saksıyı çatlatabilir; terakota ve seramik saksılar kış boyunca balkonda bırakılmamalıdır. Yağmurlu havalarda saksı tabaklarını boşaltın; biriken su hem ağırlık hem sivrisinek demektir. Balkonu kışa hazırlamak için [balkon bahçesi kışa hazırlık](/balkon-bahcesi-kisa-hazirlik) yazısındaki kontrol listesi işe yarar.
+
+## Yüksek katta ek güvenlik
+
+Üst katlarda saksının düşmesi yalnızca zarar değil, can güvenliği sorunudur. Saksıyı korkuluğun dışına asmayın; içe yerleştirin. Rüzgârlı balkonlarda saksı sabitleme yöntemleri için [rüzgârlı balkon için bitkiler](/ruzgarli-balkon-icin-bitkiler) yazısına bakın. Fırtına öncesinde hafif saksıları içeri alın ve rafları boşaltın. Raf kullanıyorsanız raf ayaklarının zeminde dengeli durduğundan ve duvara sabitlendiğinden emin olun.
+
+## Hafif ve doğru seçimle hem balkon hem bitki kazanır
+
+Ağırlık sorunu çoğunlukla "çok büyük saksı" alışkanlığından doğar. Bitkinin kök hacmine uygun saksı seçmek, hem kök sağlığı hem ağırlık açısından daha iyidir. Balkon için sebze yetiştiriyorsanız domates gibi büyük bitkilere 20–30 litre yeter; yeşilliklere ise sığ ve geniş kaplar uygundur. Saksı büyüklüğüne bitkiye göre karar vermek için [balkon sebze yatağı](/balkon-sebze-yatagi) yazısındaki ölçülere bakabilirsiniz.
+
+Balkon bahçesi ekipmanı konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Balkonda saksı ağırlığı nasıl hesaplanır?
+C: Saksı hacmini litre olarak bulun, ıslak toprağı litre başına yaklaşık 0,6–1 kg sayın ve saksının kendi ağırlığını ekleyin. En doğrusu sulanmış saksıyı baskülle tartmaktır; 40 litrelik saksı 30–45 kg'a ulaşabilir.
+
+S: Balkon ne kadar saksı ağırlığı taşır?
+C: Bu binanın yapısına, yaşına ve balkonun tipine göre değişir; genel bir kilogram değeri yoktur. Çok ağır yük planlıyorsanız bina projesine bakın ve bir inşaat mühendisine danışın.
+
+S: Ağır saksıları balkonun neresine koymalıyım?
+C: Duvar yanına ve taşıyıcıya yakın yere koyun, korkuluğa ve köşelere hafif saksılar yerleştirin. Yükü altlık ya da ızgarayla yayın; tek noktaya binen ağırlık daha risklidir.
+
+S: Saksı ağırlığı nasıl azaltılır?
+C: Perlit gibi hafif katkılar kullanın, tabanı kil bilyeyle doldurun, plastik ya da cam elyaf saksı seçin ve bitkinin gerçekten ihtiyaç duyduğu boyutta saksı alın. Çok büyük saksı gereksiz toprak ve ağırlık demektir.
+
+### YAZI
+slug: balkon-damla-sulama-seti
+baslik: Balkon Damla Sulama Seti: Tatilde ve Yoğun Günlerde Kendi Kendine Sulama
+yayin: 2027-01-22 09:55
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: balkon damla sulama seti
+seo_baslik: Balkon Damla Sulama Seti Nasıl Kurulur ve Kullanılır?
+seo_aciklama: Balkon damla sulama seti nasıl kurulur? Zamanlayıcı, ana hat, damlatıcı sayısı, kova ve musluk seçenekleri ile test sulamasını anlattık.
+ozet: Balkon damla sulama seti, saksıların dibine küçük debili damlatıcılarla zamanlayıcılı su verir. Parçaları, musluğu olmayan balkona kovayla kurulum seçeneğini, saksı başına damlatıcı hesabını, test sulamasını ve taşma risklerini yazdık.
+etiketler: balkon damla sulama seti, damla sulama, zamanlayıcı, tatilde sulama, saksı sulama, balkon bahçesi
+gorsel: bekliyor
+gorsel_alt: Balkon saksılarının toprağına yerleştirilmiş damlatıcılı ince hortum ve musluğa bağlı zamanlayıcı
+urunler: hg-kil-bilyesi, chrysamed-envira-subon-akilli-su-boncuklari-400-gr
+kisaca: Balkon damla sulama seti; zamanlayıcı, ana hortum, ince dağıtım borusu ve her saksıya bir ya da birkaç damlatıcıdan oluşur. Saksı büyüdükçe damlatıcı sayısı artar. Kurulumdan sonra 5–10 dakikalık test sulaması yapın, tabağa su birikmediğini ve alt kata damlamadığını kontrol edin; set tatilde bitkiyi susuz bırakmamanın en güvenilir yoludur.
+@govde
+Balkon bahçesinin en sıkıcı işi sulamadır: yaz sıcağında günde bir ya da iki kez, tatilde ise kimse yok. Damla sulama bu işi saatine bağlar. Balkon damla sulama seti, musluktan gelen suyu küçük parçalara bölüp her saksının dibine yavaşça damlatır; zamanlayıcı da açıp kapatır. Aşağıda setin parçalarını, kurulumu ve balkona özgü sorunları sıralıyoruz.
+
+## Damla sulama balkonda neden mantıklı?
+
+Saksıdaki toprak sınırlıdır ve çabuk kurur; elle sulamada ya fazla ya az su verilir. Damla sulama suyu bitki köküne yakın ve yavaş verir; böylece toprak daha eşit nemli kalır ve yaprak ıslanmadığı için bazı mantar sorunları azalır. Colorado State Üniversitesi Extension, damla sistemlerin saksı bitkilerini sulamak için çok uygun olduğunu ve tatilde de kullanılabileceğini belirtir ([Colorado State Extension saksıları damlayla sulama](https://pueblo.extension.colostate.edu/watering-potted-plants-with-drip-systems-vacation-and-beyond/)). Oklahoma State Üniversitesi Extension de damla sistemin suyu her bitkinin dibine ulaştırdığını ve zamanlayıcıyla çalışabileceğini yazar.
+
+Balkonda ayrıca bir avantaj vardır: sulama zamanlayıcıya bağlı olduğundan sabah erkenden, siz uyurken yapılabilir; gün içi sıcaklık dalgasında bile saksılar aç kalmaz.
+
+## Setin parçaları
+
+| Parça | Görevi | Seçerken dikkat |
+|---|---|---|
+| Zamanlayıcı | Suyu açıp kapatır | Pilli ya da elektronik, günde birkaç program |
+| Musluk bağlantısı ve filtre | Suyu hatta bağlar, kirleticiyi tutar | Musluk ağzına uygun adaptör |
+| Basınç düşürücü | Musluk basıncını damlatıcılara uygun hâle getirir | Eksikse bağlantılar fırlar |
+| Ana hortum | Suyu balkona taşır | Güneşe dayanıklı, ince çaplı |
+| Dağıtım borusu ve bağlantılar | Suyu saksılara böler | Gereken saksı sayısına göre |
+| Damlatıcılar | Saksıya yavaş su verir | Saksı boyutuna uygun debi, ayarlanabilir uçlar |
+
+Bu parçalar tek bir kitte hazır gelir; Mississippi State Üniversitesi Extension de yeni başlayanlar için hazır kitle başlamayı ve sonradan hat ve damlatıcı eklemeyi önerir. Ayrıntılı bağlantı mantığı için bahçe ölçeğindeki [damla sulama kurulumu](/damla-sulama-kurulumu) yazısı da yardımcı olur; balkonda ölçek küçülür ama mantık aynıdır.
+
+## Musluk yoksa: kova ve pompa seçeneği
+
+Her balkonda musluk olmaz. Bu durumda iki yol vardır: Mutfak ya da banyo musluğundan hortumla balkona su getirmek (hortum geçişini kapı arasından düzenlemek gerekir) ya da bir su kovasına bağlı küçük bir pompalı zamanlayıcıyla sulamak. Kovalı sistemde kovanın hacmi sulama süresini sınırlar: 20 litrelik bir kova yirmi saksıya günlük 1 litre veriyorsa, bir günde biter. Bu nedenle kovayı tatil için büyük seçin ve kovanın kapağını kapatın; açık su sivrisineğe yuvadır. Kovalı sistemde pompa pilli ya da USB'li olabilir; elektrik kullanıyorsanız priz ve pompayı yağmur ve sulama suyundan koruyun.
+
+## Saksı başına damlatıcı hesabı
+
+Her saksıya aynı miktarda su vermek yanlıştır. Büyük saksı çok, küçük saksı az su ister. Damlatıcı sayısını saksı çapına göre ayarlayın: küçük (20–25 cm) saksıya bir damlatıcı, orta (30–40 cm) saksıya iki, büyük saksıya üç ya da dört damlatıcı yerleştirin ve damlatıcıları toprağın değişik noktalarına, gövdeden biraz uzağa koyun. Ayarlanabilir damlatıcıda debiyi bitkinin ihtiyacına göre değiştirebilirsiniz. Aynı zamanlayıcıya bağlı saksılar aynı süre çalışır; bu yüzden küçük saksılara göre ayar yapıp büyük saksılara damlatıcı eklemek dengeli sonuç verir. Sulama sıklığı hakkında genel çerçeve için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazısına bakın.
+
+## Balkon damla sulama seti: adım adım kurulum
+
+::: adimlar
+Yerleşimi çizin | Saksıların yerini ve musluğa uzaklığını kâğıda çizip hortum boyunu ve damlatıcı sayısını hesaplayın.
+Zamanlayıcıyı bağlayın | Zamanlayıcıyı musluğa, filtreyi ve basınç düşürücüyü zamanlayıcıya bağlayın.
+Ana hortumu serin | Ana hortumu balkon kenarı boyunca döşeyin; kıvrılmaya ve geçiş noktalarında ezilmeye dikkat edin.
+Dağıtım borusunu ve damlatıcıları yerleştirin | Borudan her saksıya kol ayırın ve damlatıcıyı toprağa yerleştirip sabitleyin.
+Test edin | Zamanlayıcıyı elle açıp 5–10 dakika çalıştırın; tüm damlatıcıların su verdiğini ve bağlantılardan sızıntı olmadığını görün.
+:::
+
+Test sırasında damlatıcılardan su gelmeyen ya da fazla gelen yerler varsa düzeltin; kurulumdan sonraki ilk iki gün saksıları kontrol edin. Hortumların güneşte ısınıp esnemesi bağlantıları gevşetebilir; zamanla sıkılığı yeniden kontrol edin.
+
+[ürün:hg-kil-bilyesi]
+
+## Balkon damla sulama seti ve komşuluk: damlayı kontrol altında tutun
+
+Damla sulama saksıdan fazla su akıtırsa tabak taşar. Saksı tabağı kullanıyorsanız damlatıcı debisini düşük ayarlayın ve tabaktan suyu süzecek bir çözüm düşünün. Doğrusu, su damlaması ile alt kata sızmayı engelleyen önlemleri birlikte düşünmektir; tabağı geniş seçmek, sulama süresini kısa tutmak ve tabağı düzenli boşaltmak yeterlidir. Saksı başına su miktarını toprağın nem durumuna göre ayarlamak için [toprak nemi ölçme](/toprak-nemi-olcme) yazısına bakabilirsiniz.
+
+## Tatilde damla seti: hazırlık
+
+Tatile çıkmadan bir hafta önce sistemi test edin ve zamanlayıcı pilini yenileyin. Gitmeden önce saksıların toprağını elle sulayın ve yüzeyi kil bilye ya da malçla kapatın; bu buharlaşmayı azaltır. Toprak nemini daha uzun tutmak için su tutan boncuklar da kullanılabilir. Bir su boncuğu ürününün açıklamasında, hidrojel polimer esaslı olduğu ve toprak nemi azaldığında suyu kademeli olarak toprağa vermeye yardımcı olduğu belirtiliyor; ayrıntılı kullanım için [su boncuğu (hidrojel) nasıl kullanılır](/su-boncugu-hidrojel-nasil-kullanilir) yazısına bakın. Başka tatil önlemleri için [tatilde bitkiler nasıl sulanır](/tatilde-bitkiler-nasil-sulanir) yazısındaki yedi yöntem de damla setiyle birleştirilebilir.
+
+## Sık yaşanan sorunlar ve çözümleri
+
+Damla sulama setinin balkonda en çok görülen sorunları şunlardır: Damlatıcı tıkanması suyun tuz ve kirecinden olur; filtreyi ayda bir temizleyin ve tıkanan damlatıcıyı ince bir iğneyle açın ya da değiştirin. Bağlantı sızıntısı ısınan hortumların genleşmesinden olur; bağlantıları sıkıştırıp gerekirse conta kullanın. Bazı saksıların fazla, bazılarının az su alması damlatıcı sayısı ve debi ayarındaki dengesizliktir; saksıları tek tek izleyip ayarlayın. Zamanlayıcının pili bitince sulama durur ve bitkiler bir gün içinde zarar görebilir; pili sezon başında yenileyin ve tatilden önce kontrol edin. Hortum, güneşte zamanla sertleşip çatlar; seçimde güneşe dayanıklı malzeme önemlidir, hortum seçimi için [bahçe hortumu seçimi](/bahce-hortumu-secimi) yazısına bakabilirsiniz.
+
+## Sulamanın süresini nasıl ayarlarsınız?
+
+Sulama süresi saksı hacmine, damlatıcı debisine ve havaya göre değişir. Başlangıç için kısa bir süre (örneğin 5–10 dakika) deneyin ve bir saat sonra toprağı yoklayın: üst toprak nemli ve tabanda su süzülüyorsa yeterlidir. Çok sıcak günlerde sulama ikiye bölünebilir: sabah ve geç akşam. Birkaç gün gözlemledikten sonra süreyi azaltın ya da artırın. Mevsim değişince süreyi yeniden ayarlayın: yazın uzun, ilkbahar ve sonbaharda kısa olmalıdır. Zamanlayıcı kullanmak sulamayı otomatikleştirir ama toprak yoklamayı gereksiz kılmaz; haftada bir kez toprağa parmak batırarak ayarı doğrulayın.
+
+[ürün:chrysamed-envira-subon-akilli-su-boncuklari-400-gr]
+
+## Kışın ne olur?
+
+Ocak ayında balkon donuyorsa damla hattı da donar ve boru çatlar. Kış boyunca suyu hatta bırakmayın: zamanlayıcıyı çıkarın, hatları boşaltın ve içeride saklayın. Hortum kışlatma adımları için [hortum kışlatma](/hortum-kislatma) yazısına bakabilirsiniz. İlkbaharda yeniden kurmadan önce damlatıcıları ve filtreyi temizleyin; tıkanmış damlatıcı, bir bitkinin fark edilmeden susuz kalmasına yol açar.
+
+Balkon bahçesi sulama ekipmanı konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Balkon damla sulama seti nasıl çalışır?
+C: Zamanlayıcı musluğu belirlenen saatte açar, su ana hortum ve dağıtım borusundan geçip her saksıdaki damlatıcıdan yavaşça toprağa damlar. Böylece saksılar elle sulamadan düzenli ve eşit nem alır.
+
+S: Balkonda musluk yoksa damla sulama yapılır mı?
+C: Yapılır. Mutfaktan hortumla su getirebilir ya da su dolu bir kovaya bağlı pilli ya da USB'li küçük bir pompalı zamanlayıcı kullanabilirsiniz. Kovanın kapağını kapatın; açık su sivrisinek üretir.
+
+S: Her saksıya kaç damlatıcı gerekir?
+C: Küçük saksıya bir, orta saksıya iki, büyük saksıya üç dört damlatıcı yeterlidir. Damlatıcıları gövdeden biraz uzağa ve toprağın farklı noktalarına yerleştirin; ayarlanabilir uçlarla debi bitkiye göre değiştirilir.
+
+S: Damla sulama seti kışın bırakılır mı?
+C: Hayır. Donan su hortum ve bağlantıları çatlatır. Kış boyunca zamanlayıcıyı çıkarın, hatları boşaltın ve içeride saklayın; ilkbaharda damlatıcıları temizleyip yeniden kurun.
+
+### YAZI
+slug: balkonda-guvercin
+baslik: Balkonda Güvercin Sorunu: Bitkilere Zarar Vermeden Uzak Tutmak
+yayin: 2027-01-22 11:25
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: balkonda güvercin
+seo_baslik: Balkonda Güvercin Sorunu: Zarar Vermeden Uzak Tutma
+seo_aciklama: Balkonda güvercin sorunu nasıl çözülür? Fileyle kapatma, tel ve misina, yuvayı erken kaldırma, dışkıyı güvenle temizleme ve bitki koruma yöntemleri.
+ozet: Balkonda güvercin tünediğinde dışkı, yuva ve bitkilere zarar gelir. Üniversite yayım servislerinin önerdiği öncelik, kuşu fiziksel olarak uzak tutmaktır: file, tünek engelleme ve yuva kaldırma. Dışkı temizliğinde sağlık önlemlerini ve yapılmaması gerekenleri yazdık.
+etiketler: balkonda güvercin, güvercin engelleme, balkon filesi, kuş dışkısı, balkon bitkileri, yuva
+gorsel: bekliyor
+gorsel_alt: Balkon korkuluğu boyunca gerilmiş ince tel ve açık kenarlarda file ile korunmuş bitkili balkon
+urunler: hg-kil-bilyesi, tarim-perliti
+kisaca: Balkonda güvercin sorununun en etkili çözümü kuşu fiziksel olarak uzak tutmaktır: açık kenarlara file ya da tel germek, korkuluk ve çıkıntı üstüne ince tel ya da misina geçirmek, yuvayı yumurtlamadan önce kaldırmak ve yem vermemek. Dışkıyı kuruyken süpürmeyin; nemlendirip eldiven ve maskeyle temizleyin. Zarar verici yöntemlerden kaçının.
+@govde
+Güvercin balkonu sever: korunaklı, kuru ve yemek bulabileceği bir yer. Bir kez yuva yaptığında dışkı bitkilerin üstüne düşer, saksılar devrilir, fidelerin yaprağı yenir ve balkon kullanılamaz hâle gelir. Balkonda güvercin sorununu çözmek için sabır gerekir; ama hem kuşa hem bitkiye zarar vermeyen yöntemler vardır ve en etkilisi de bunlardır.
+
+## Neden balkonda güvercin?
+
+Güvercin yuva ve tünek için yüksek, kuru ve rüzgârdan korunaklı yerler arar. Balkonun kapalı köşeleri, klima dış ünitesi altı, saksı arkası ve tavan çıkıntıları bunun için idealdir. Sürekli yiyecek bulunan bir yer (yem döken komşu, açık çöp) kuşu kalıcı yapar. Bir güvercin bir yeri yuva olarak seçtiyse her yıl geri döner; bu yüzden en başta, yuva kurmadan müdahale etmek en kolay çözümdür.
+
+## En etkili yöntem: dışarıda tutmak
+
+Florida Üniversitesi (UF/IFAS) yayım servisi, kuşları dışarıda tutmayı (exclusion) yaban hayatı sorunlarında en iyi yaklaşım olarak anar ([UF/IFAS güvercin yayını](https://edis.ifas.ufl.edu/publication/UW117/pdf)). Nebraska Üniversitesi ise çıkıntı altlarının ve sundurmaların tel kafes, file ya da benzeri engelle kapatılmasını önerir ([Nebraska Extension kuş kontrolü](https://extensionpubs.unl.edu/publication/g2024/na/html/view)). Balkon için bu şu demektir: açık kenarlar kuşun giremeyeceği ince gözlü file ya da telle kapatılır, tünek yapılabilecek çıkıntılar ise eğimli levhayla ya da telle engellenir.
+
+| Yöntem | Nasıl uygulanır? | Not |
+|---|---|---|
+| Filede kapatma | Balkonun açık yüzünü ince gözlü fileyle sağlam bağlayın | Kuşun sıkışmaması için gözler küçük olmalı; bina yönetimine danışın |
+| Tel ya da misina | Korkuluğun üstüne 4–5 cm yukarıdan ince tel/misina gerin | UF, rafın 4–5 cm üstüne tel gerilmesini önerir |
+| Çıkıntı kapatma | Tavan çıkıntısı ve kirişlerin altını tel örgüyle kapatın | Yuva yeri olmaktan çıkar |
+| Yuva kaldırma | Yumurtlamadan önce yuvayı temizleyin | Yumurta varsa yerel kurala bakın |
+| Yem kaynağını kesme | Balkondaki yem ve atıkları kaldırın | Komşu uyarısı gerekebilir |
+
+Missouri Üniversitesi Extension, filenin işe yaradığını ama her yerde kabul edilmeyebileceğini belirtir; bu yüzden bina yönetimine ve komşulara danışın ([Missouri Extension kuş kontrolü](https://extension.missouri.edu/publications/g9448)).
+
+## Bitkileri korumak
+
+Balkonun tamamını kapatamıyorsanız yalnızca değerli bitkileri koruyun. Fideleri ve yeşillikleri hafif bir çerçeve üstüne gerilmiş ince fileyle örtün; yaprak yiyen güvercin ve diğer kuşlar fileyi aşamaz. Saksıların üstüne konan kuşlar toprağı eşeler ve saksıyı devirir; saksı yüzeyini kil bilye ya da iri çakılla kapatmak eşelemeyi zorlaştırır. Balkon sebze bahçesinde bu önlem kuşların filizlere zarar vermesini de azaltır.
+
+[ürün:hg-kil-bilyesi]
+
+## Yuva kurulmuşsa ne yapılır?
+
+Yumurta ve yavru varsa durum hassastır. Bazı ülkelerde kuş yuvalarına ve yumurtalarına müdahale yerel yasalara tabidir; yuvayı kaldırmadan önce bölgenizdeki belediye ya da orman ve yaban hayatı birimine danışmak sağlıklı olur. Yuvayı yavrular uçana kadar bırakmak, ardından balkonu temizleyip engelleyici önlemleri uygulamak hem hukuki hem etik olarak daha güvenlidir. Kuşu yaralayan ya da öldüren yöntemlerden (yapışkan tuzaklar, zehir) uzak durun; bunlar hem acı verir hem komşu hayvanlara ve çocuklara risk taşır.
+
+## Dışkıyı güvenle temizlemek
+
+Güvercin dışkısı kuruyup toza dönüştüğünde mantar sporları taşıyabilir. Arizona Üniversitesi Extension, güvercin dışkısının sağlık riskinin özellikle bağışıklığı zayıf kişiler için daha ciddi olduğunu belirtir ([Arizona Extension güvercin yayını](https://extension.arizona.edu/sites/default/files/2024-08/az2001-2022.pdf)); Nebraska Extension de kontrol ve temizlik sırasında koruyucu ekipman kullanılmasını önerir. Temizlikte şu adımları izleyin:
+
+1. Eldiven ve toz maskesi takın.
+2. Dışkıyı kuru kuru süpürmeyin; önce hafifçe nemlendirin ki toz kalkmasın.
+3. Kazıyıp torbaya koyun ve ağzını bağlayarak atın.
+4. Zemini deterjanlı suyla silin; çalışırken balkon kapısını kapalı tutun, çocuk ve hayvanları uzak tutun.
+5. Elleri ve kıyafetleri yıkayın.
+
+Bağışıklık sorunu olanlar ya da çok miktarda dışkı biriktiğinde temizliği başkasına bırakmak ya da profesyonel temizlik hizmetinden yararlanmak daha güvenlidir. Temizlenmiş balkonda üstüne düşen dışkı sebze bitkilerine bulaşırsa sebzeyi iyice yıkayın; genel kural bol akan suyla yıkamaktır.
+
+## Yapılmaması gerekenler
+
+- **Kuşu beslemek:** Yem kuşu kalıcı yapar.
+- **Ses ya da yansıma ile çözmeyi ummak:** Kuşlar kısa sürede alışır; fiziksel engel dışında kalıcı çözüm azdır.
+- **Yapışkan tuzak ve zehir:** Acı verir, başka hayvanları da etkiler.
+- **Yuvaya yumurta varken müdahale:** Yerel kurallara bakın.
+- **Komşuyla konuşmadan fileyi uygulamak:** Ortak cephede bina yönetimiyle uyum şarttır.
+
+## Balkonda güvercin geri gelmesin: kalıcı çözüm planı
+
+Güvercin bir kez yerleştiyse engeller yetersiz kalırsa geri döner. Kalıcı bir çözüm için üç aşamalı düşünün: önce balkonu temizleyin (yuva malzemesi, dışkı, yem artığı), sonra giriş ve tünek noktalarını kapatın, en sonunda çevrede kuşu çeken şeyleri (açık yem, çöp, su birikintisi) azaltın. Kuş, ancak yem ve barınak aynı yerde buluyorsa kalıcı olur. Balkonu temiz ve bitkileri düzenli tutmak da iyi bir önlemdir; boş köşe, dağınık kutu ve saksı arkası kuşa yuva fırsatı sunar.
+
+Bitkiler kapalı alanı kuşa sevdiren başka bir etkendir. Büyük, sık yapraklı bitkiler güvercinin gizlenmesini sağlar; balkonun dar kenarlarında yoğun saksı yığılmasını azaltmak ve bitkilerin arkasını açık tutmak, yuva kurma isteğini azaltır. Saksıları sulama ve düzen açısından iyi yönetmek için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazısına, balkon zemininin temizliğini korumak için [balkon zemini nasıl korunur](/balkon-zemini-nasil-korunur) yazısına göz atabilirsiniz.
+
+## Sebze ve meyve bitkilerini korumak
+
+Balkonda sebze yetiştiriyorsanız güvercin ve diğer kuşlar filizleri yiyebilir. Genç fideleri çerçeveli fileyle korumak ve olgunlaşan meyveyi sarıp örtmek yaygın yöntemlerdir; meyve koruma yöntemleri için [meyveleri kuşlardan koruma](/meyveleri-kuslardan-koruma) yazısındaki file ve kovucu bilgileri balkonda da uygulanabilir. Çerçeveyi bitkiden 10–15 cm yukarıda kurun ki file yapraklara değmesin; fileye değen yaprağı kuş gagalayabilir.
+
+[ürün:tarim-perliti]
+
+Balkon bahçesi ve bitki koruma ürünleri konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Balkonda güvercin nasıl uzak tutulur?
+C: En etkili yol fiziksel engeldir: açık kenarlara ince gözlü file ya da tel germek, korkuluk ve çıkıntı üstüne ince tel ya da misina geçirmek ve yem kaynağını kesmek. Yuvayı yumurtlamadan önce kaldırmak da önemlidir.
+
+S: Güvercin dışkısı tehlikeli midir?
+C: Kuruyup toza dönüştüğünde mantar sporları taşıyabilir; bağışıklığı zayıf kişiler için risk daha yüksektir. Dışkıyı nemlendirip eldiven ve maskeyle temizleyin, kuru süpürmeyin.
+
+S: Güvercin yuvasını kaldırmak serbest mi?
+C: Yumurta ve yavru varsa müdahale yerel mevzuata tabi olabilir; belediye ya da yaban hayatı birimine danışın. Yavrular uçtuktan sonra yuvayı temizleyip engelleyici önlemleri uygulamak daha güvenlidir.
+
+S: Güvercini saksılardan nasıl uzak tutarım?
+C: Fide ve yeşillikleri hafif bir çerçeveye gerilmiş ince fileyle örtün, saksı yüzeyini kil bilye ya da çakılla kaplayın. Balkonun tamamını kapatamıyorsanız yalnız değerli bitkileri koruyun.
+
+### YAZI
+slug: balkonunuz-kac-saat-gunes-aliyor
+baslik: Balkonunuz Kaç Saat Güneş Alıyor? Basit Ölçümle Doğru Bitki Seçimi
+yayin: 2027-01-22 13:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: balkonunuz kaç saat güneş alıyor
+seo_baslik: Balkonunuz Kaç Saat Güneş Alıyor? Ölçüm ve Bitki
+seo_aciklama: Balkonunuz kaç saat güneş alıyor? Saat saat işaretlemeyle güneşi ölçmeyi, tam güneş ve yarı gölge sınıflarını ve uygun bitkileri anlattık.
+ozet: Balkonunuz kaç saat güneş alıyor sorusunun cevabı, bitki seçiminin temelidir. Saat başı işaretleme yöntemini, tam güneş, yarı güneş ve gölge sınıflarını, mevsim ve cephe etkisini ve her sınıfa uygun sebze, çiçek ve otları yazdık.
+etiketler: balkon güneşi, güneş ölçümü, tam güneş, yarı gölge, balkon bitkileri, bitki seçimi
+gorsel: bekliyor
+gorsel_alt: Balkon zeminine düşen güneş ışığı ve gölge sınırı, yanında telefonla not tutan el
+urunler: hg-aromatik-bitkiler-icin-saksi-topragi, hg-cicek-topragi
+kisaca: Balkonunuz kaç saat güneş alıyor öğrenmek için aynı gün sabahtan akşama her saat başı balkonun hangi bölgesinin güneşte olduğunu işaretleyin. Doğrudan güneş 6 saat ve üstüyse tam güneş, 3–6 saat yarı güneş, 3 saatin altı gölge sayılır. Domates ve biber tam güneş, yeşillik ve otlar yarı güneş ister.
+@govde
+Bitki satın almadan önce yapılacak en değerli iş, balkonun ışığını öğrenmektir. "Güneşli" bir balkon sabah güneşi alıyor olabilir ve öğleden sonra tamamen gölgede kalabilir; "gölge" dediğiniz köşe ise yazın birkaç saat doğrudan güneş yiyor olabilir. Balkonunuz kaç saat güneş alıyor sorusuna kafadan cevap vermeyin; ölçün. Ölçüm basittir ve bir gününüzü almaz.
+
+## Balkonunuz kaç saat güneş alıyor? Güneş sınıfları
+
+Güneş ışığı için yaygın sınıflandırma doğrudan güneş saatine dayanır. Iowa State Üniversitesi Extension, yenilebilir bitki bahçelerinin en az 6 saat doğrudan güneş alması gerektiğini; yarı güneşi ise 4–6 saat olarak tanımlar ([Iowa State Extension gölgeli alanda yenilebilir bitkiler](https://yardandgarden.extension.iastate.edu/how-to/growing-edible-plants-shady-areas)). Aynı kaynak, çoğu sebzenin iyi ürün için en az 6 saat doğrudan güneşe ihtiyaç duyduğunu, yapraklı sebzelerin ise daha toleranslı olduğunu belirtir. Kaynaklar arasında sınırlar birkaç saat oynar; bu yüzden aşağıdaki tabloyu bir rehber olarak okuyun.
+
+| Sınıf | Doğrudan güneş | Uygun bitkiler |
+|---|---|---|
+| Tam güneş | 6 saat ve üstü | Domates, biber, patlıcan, salatalık, lavanta, sardunya |
+| Yarı güneş | 3–6 saat | Marul, roka, ıspanak, nane, maydanoz, fesleğen, çilek |
+| Gölge | 3 saatin altı | Yapraklı yeşillikler, hercai menekşe, eğrelti, hosta |
+
+## Saat başı işaretleme yöntemi
+
+Yöntem şöyledir: Güneşli bir günde sabah 07.00'den akşam 19.00'a kadar her saat başı balkona çıkın ve hangi bölgenin doğrudan güneşte olduğunu işaretleyin. Balkon planını bir kâğıda çizin, her saat için farklı bir renkle güneşli alanı taralı bırakın. Gün sonunda hangi köşe kaç saat güneş almış sayarak bulursunuz. Telefonla fotoğraf çekip aynı açıdan saat başı kaydetmek, bu işi kolaylaştırır; fotoğrafları yan yana koyunca ışığın hareketi net görünür.
+
+::: adimlar
+Planı çizin | Balkonun üstten bir planını çizin ve saksı koyabileceğiniz bölgeleri numaralandırın.
+Saat başı işaretleyin | Sabahtan akşama kadar her saat başı güneşli bölgeleri boyayın ya da fotoğraflayın.
+Saatleri sayın | Her bölgenin kaç saat doğrudan güneşte kaldığını toplayın.
+Sınıflayın | Bölgeyi tam güneş, yarı güneş ya da gölge olarak etiketleyin.
+Mevsimi düzeltin | Ölçümün hangi ayda yapıldığını not edin; yaz ve kış sonuçları farklıdır.
+:::
+
+## Mevsim ve cephe etkisi
+
+Güneşin açısı mevsimle değişir. Ocak ayında güneş alçaktır ve güney cepheli bir balkon bile yalnızca birkaç saat doğrudan ışık alabilir; haziranda aynı balkon çok daha uzun süre güneşte kalır. Bu yüzden kış ölçümü yaz ölçümünden daha az güneş gösterir. Yaz için tahmin yapmak istiyorsanız kış sonucuna yaklaşık 1–3 saat eklemeyi deneyebilirsiniz, ama en güvenilir yol mayıs sonunda ölçümü tekrarlamaktır. Cephe de önemlidir: güney cephe çoğu gün boyu, doğu cephe sabahları, batı cephe öğleden sonra, kuzey cephe neredeyse hiç doğrudan güneş almaz. Kuzey cepheli balkonlar için [kuzey balkon bitkileri](/kuzey-balkon-bitkileri) yazısı, bu koşulun nasıl yönetileceğini anlatır.
+
+## Güneşin zamanı da önemlidir: sabah mı, öğleden sonra mı?
+
+Aynı süreli güneş, sabah ve öğleden sonra farklı etki yapar. Sabah güneşi yumuşaktır ve yapraklar çabuk kurur; öğleden sonra güneşi sıcaktır, yaprak yanığı ve su kaybı riski yüksektir. Batı cepheli balkonlarda gölge isteyen yeşillik öğleden sonra güneşinden zarar görür. Sabah güneşi alan balkon, marul ve çilek için bile dengelidir. Güneş yanığı belirtileri için [bitkilerde güneş yanığı](/bitkilerde-gunes-yanigi) yazısına bakın.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## Ölçümden bitki seçimine
+
+Ölçüm tamamlandığında balkonun bölgelerini üç sınıfa ayırın ve bitkileri buna göre yerleştirin. Tam güneş alan bölgeye domates, biber ve aromatik Akdeniz otları; yarı güneşe marul, roka, çilek ve nane; gölgeye ise yaprakları için yetişen bitkiler. Sebze bahçesi için güneş kuralı balkon ya da bahçe fark etmez: [sebze bahçesi yer seçimi](/sebze-bahcesi-yer-secimi) yazısındaki ilkeler balkon için de geçerlidir. Gölge köşeleri güzelleştirmek için [gölge bahçe bitkileri](/golge-bahce-bitkileri) yazısına bakabilirsiniz.
+
+## Cam balkon ve yansıma
+
+Cam balkon güneşi süzer ve cam bazı ışığı keser; cam ışığın bir kısmını yansıtır. Aynı zamanda ısıyı hapseder; yazın cam balkon sera gibi ısınır. Bu nedenle cam balkonda ölçüm yaparken doğrudan güneş saatinin yanında sıcaklığı da gözleyin. Yansıyan ışık (beyaz duvar, bina cephesi) bazı köşelere ek ışık verir; yalnızca doğrudan güneşi değil, aydınlık düzeyini de not edin.
+
+## Balkonunuz kaç saat güneş alıyor? Sonucu okumak
+
+Ölçüm sonucunu okurken iki şeye dikkat edin: toplam süre ve süreklilik. Üç saat sabah, üç saat öğleden sonra olarak bölünmüş altı saatlik güneş, kesintisiz altı saatlik güneşten biraz farklı sonuç verir; ama çoğu bitki için toplam süre belirleyicidir. Bölgelere göre gün içinde güneşin hareketini görünce, ağır ve sıcak sever bitkileri öğleden sonra güneşini alan köşeye, hassas yapraklıları sabah güneşi alan köşeye taşıyabilirsiniz.
+
+Ölçümü bir sonraki mevsim için tekrarlamak değerlidir. Yılda iki kez (ocak ve haziran) yapılan iki ölçüm, balkonun yıl içindeki güneş aralığını gösterir; bu veriyle kışlık ve yazlık bitkileri planlayabilirsiniz. Telefon ya da tablet uygulamaları, güneşin yolunu simüle edebilir ama balkondaki gölgelerin (komşu bina, korkuluk, tente) gerçek etkisini yalnızca kendi gözleminiz verir.
+
+## Güneşi az olan balkon: ne yapılabilir?
+
+Balkonunuz üç saatten az güneş alıyorsa umutsuz değilsiniz. Yeşillikler, bazı otlar (nane, maydanoz, frenk soğanı) ve gölge seven çiçekler yetişir. Ayrıca yansıtıcı yüzeyler ışığı artırır: duvarı beyaza boyamak ya da açık renkli zemin kullanmak ışığı bitkilere doğru yansıtır. Bitkileri korkuluk kenarında, gün ışığına en yakın noktada tutmak da işe yarar. Domates ve biber gibi güneş seven meyve sebzeleri gölgeli balkonda yetiştirmeye çalışmayın; ürün yerine uzun, ince bitki alırsınız.
+
+[ürün:hg-cicek-topragi]
+
+Bitki ve toprak seçimi konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Balkonunuz kaç saat güneş alıyor nasıl ölçülür?
+C: Güneşli bir günde sabahtan akşama her saat başı balkonda hangi bölgenin doğrudan güneşte olduğunu işaretleyin ya da fotoğraflayın. Gün sonunda her bölgenin kaç saat güneş aldığını toplayın.
+
+S: Domates için kaç saat güneş gerekir?
+C: Domates, biber ve patlıcan gibi meyve veren sebzeler çoğu kaynağa göre en az 6 saat doğrudan güneş ister. Marul, roka, ıspanak ve nane gibi yapraklı bitkiler 3–6 saat güneşle de gelişir.
+
+S: Kışın yaptığım ölçüm yaz için geçerli mi?
+C: Değil. Kışın güneş alçaktır ve balkon daha az doğrudan ışık alır; yaz ölçümü daha uzun çıkar. En güvenilir yol mayıs sonunda ölçümü tekrarlamaktır.
+
+S: Cam balkonda güneş ölçümü farklı mı?
+C: Cam ışığın bir kısmını keser ve ısıyı hapseder. Doğrudan güneş saatinin yanında sıcaklığı da gözleyin; yazın cam balkon sera gibi ısınabilir ve gölge gerekebilir.
+
+### YAZI
+slug: sehirde-yetisen-sebze-guvenli-mi
+baslik: Şehirde Yetişen Sebze Güvenli mi? Trafik, Toz ve Toprak Kirliliği
+yayin: 2027-01-22 15:05
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: şehirde yetişen sebze güvenli mi
+seo_baslik: Şehirde Yetişen Sebze Güvenli mi? Toprak ve Toz
+seo_aciklama: Şehirde yetişen sebze güvenli mi? Toprak kirliliği, kurşun, trafik tozu ve yıkama kuralları; yükseltilmiş yatak ve toprak analiziyle riski azaltma.
+ozet: Şehirde yetişen sebze çoğu durumda güvenle yenebilir; ama toprak kirliliği, trafik tozu ve eski boyalı yüzeyler risk taşıyabilir. Toprak analizinin, temiz saksı toprağının, konum seçiminin ve doğru yıkamanın riski nasıl azalttığını üniversite yayımlarına dayanarak yazdık.
+etiketler: şehir tarımı, toprak kirliliği, kurşun, trafik tozu, sebze yıkama, yükseltilmiş yatak
+gorsel: bekliyor
+gorsel_alt: Binaların arasında ayaklı kasada yetişen marul ve roka, yanında musluk altında yıkanan yeşillikler
+urunler: solucan-gubreli-sebze-topragi, moduler-yukseltilmis-bahce-yatagi-217-litre
+kisaca: Şehirde yetişen sebze, temiz toprak ve doğru uygulamayla güvenli olabilir; asıl risk eski binaların yakınındaki kurşunlu toprak ve yoğun trafiğin tozudur. Toprağı test ettirin, şüpheli toprakta yükseltilmiş yatak ya da saksı ve temiz karışım kullanın, bitkileri yoldan uzak ve korunaklı yetiştirin; sebzeyi bol suda yıkayıp dış yaprakları atın.
+@govde
+Şehirde sebze yetiştirmek giderek yaygınlaşıyor; ama balkonda ya da bahçede domates yetiştiren herkes bir noktada aynı soruyu sorar: Bu sebzeyi yemek güvenli mi? Şehirde yetişen sebze güvenli mi sorusunun cevabı "evet, ama koşulları vardır" biçimindedir. Risk bir sebzeden çok toprak ve konum meselesidir. Aşağıda riskin nereden geldiğini ve nasıl azaltılacağını üniversite yayımlarına dayanarak anlatıyoruz.
+
+## Risk nereden gelir?
+
+Üç ana kaynak vardır: toprak, hava ve su. Toprak, şehirde en önemli kaynaktır. Eski yerleşimlerde toprağa karışan kurşun ve diğer ağır metaller (eski boyalar, geçmişte kullanılan benzin, sanayi atıkları) birikmiş olabilir. Oregon State Üniversitesi Extension, bir yerleşim ne kadar eskiyse toprakta kurşun ve diğer metallerin bulunma olasılığının o kadar yüksek olduğunu belirtir ([Oregon State Extension bahçede ve oyun alanlarında kurşun riski](https://extension.oregonstate.edu/catalog/pub/ec1616)). Hava, trafik tozu ve havadaki partiküller yoluyla yapraklara yerleşir; su ise genellikle şebeke suyuyla sulayan balkonlarda düşük bir risk taşır.
+
+## Balkon ve saksıda risk neden daha düşüktür?
+
+Balkonda ve saksıda toprak sizin getirdiğiniz temiz karışımdır; yani zeminin kirlenmiş toprağıyla temas yoktur. Bu, balkon yetiştiriciliğinin en önemli avantajıdır. Bahçe zemininde yetişen sebze ise o toprağın kalitesine bağlıdır. Illinois Üniversitesi Extension, topraktaki toplam kurşun miktarı belirli bir düzeyin üstündeyse yükseltilmiş yatak ya da kapta yetiştirmeyi ve yatakla kirli toprak arasına bir bariyer kumaş koymayı önerir ([Illinois Extension kentsel toprak kurşun maruziyeti](https://extension.illinois.edu/soil/urban-soil-lead-exposure)). Balkon saksısı bu açıdan temiz bir başlangıçtır; yalnızca kullandığınız toprak ve gübrenin güvenilir olduğundan emin olmanız gerekir.
+
+| Yetiştirme yeri | Toprak riski | Hava (toz) riski | Öneri |
+|---|---|---|---|
+| Balkonda saksı | Düşük (temiz toprak kullanırsanız) | Orta (yola ve cepheye bağlı) | Temiz toprak, yıkama |
+| Yükseltilmiş yatak | Düşük (temiz toprak + bariyer) | Orta | Yatağı toprak yüzeyinden ayırın |
+| Bahçede doğrudan toprak | Bilinmez, test gerekir | Orta | Toprak analizi, şüphede yatak |
+| Yol kenarı | Yüksek ihtimalle riskli | Yüksek | Sebze yetiştirmeyin |
+
+## Toprak analizi: şüphede ilk adım
+
+Bahçede doğrudan toprakta sebze yetiştirecekseniz önce analiz yaptırın. Georgia Üniversitesi, kentsel bahçeciliğin ilk adımının toprağı kirlilik açısından değerlendirmek olduğunu anlatır ([UGA kentsel bahçecilikte toprak değerlendirmesi](https://fieldreport.caes.uga.edu/publications/C1075/urban-gardening-assessing-soils-for-contamination/)). Türkiye'de toprak analizi için il ya da ilçe tarım müdürlüğüne ya da üniversite ve özel laboratuvarlara başvurabilirsiniz; numunenin nasıl alınacağını [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) ve sonuçların nasıl okunacağını [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazılarında anlattık. Bir uyarı: standart toprak analizi çoğu zaman besin ve pH'a bakar; ağır metal (kurşun) için ayrıca istemeniz gerekir.
+
+## Konum: yoldan ve eski yapıdan uzak durun
+
+Illinois Extension, bahçeleri 1980 öncesi yapılmış eski binalardan ve özellikle yoğun trafikli yollardan uzakta kurmayı önerir. Massachusetts Üniversitesi de çit ya da çalı ile bahçeyi havadaki partiküllerden korumayı tavsiye eder. Balkonda bu ilke şu hâli alır: yola bakan korkuluğa yaprağı yenen sebzeyi (marul, roka) değil, meyve veren sebzeyi (domates, biber) koyun; yola bakan taraf için bir bitki perdesi ya da file kullanın. Şehirde yoğun trafikli bir yolun kenarındaki balkonda yeşillik yetiştirecekseniz hasadı iyi yıkamak zorunludur.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Şehirde yetişen sebze güvenli mi? Yıkama ve hazırlama
+
+Georgia Üniversitesi şu uygulamaları önerir: bütün sebzeleri yemeden önce akan suyla yıkayın, kök sebzeleri yıkamadan önce soyun, yeşilliklerin özellikle toprağa en yakın dış yapraklarını atın ve toprakla çalışırken eldiven takın. Bu kurallar basittir ve riskin büyük kısmını giderir. Yeşilliği yıkarken yapraklarını tek tek ayırıp bol suda çalkalayın; durgun suda bekletmek yerine akan su kullanın. Balkon ya da çatıda yetişen sebzede yapraktaki toz ve kuş dışkısı için de aynı yıkama yeterlidir.
+
+## Yükseltilmiş yatak ve temiz toprak
+
+Zemin toprağı şüpheliyse en güvenilir çözüm yükseltilmiş yatak ve temiz karışımdır. Bahçe zemininde yatak kuracaksanız yatak tabanına kumaş bariyer serin ve üstünü satın alınmış temiz toprakla doldurun. Yükseltilmiş yatak sistemleri ve kurulumu için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazısına bakabilirsiniz. Yatağı doldurduğunuz toprağın kaynağını bilin: bahçeden kazılan ya da kaynağı belirsiz dolgu toprağı, kurşun ve atık içerebilir. Ambalajlı bitki yetiştirme toprağı bu açıdan daha öngörülebilirdir.
+
+## Şehirde yetişen sebze güvenli mi? Havadan gelen toz
+
+Trafikli yollar yakınındaki balkon ve bahçelerde sebzenin yaprağına yapışan toz, ağır metaller ve partikül içerebilir. Illinois Üniversitesi Extension, en yüksek kurşun derişiminin ince tozda bulunduğunu ve bahçenin yol ve eski binalardan uzak tutulmasını önerir. Pratikte bunun anlamı, yaprağı yenen sebzenin (marul, roka, ıspanak, maydanoz) yol kenarında yetiştirilmemesi ve yetişen sebzenin her zaman yıkanmasıdır. Meyvesi yenen sebzelerin (domates, biber, patlıcan) toza maruz kalan yüzeyi daha azdır ve yıkama sonrası soyma gibi ek önlemlere de uygundur.
+
+Yağmur toz tabakasını temizler; sulama yapmak yaprağı da yıkar. Sebzeyi sabah hasat etmeden önce yaprağa su sıkmak ise gerekli değildir; asıl yıkama mutfakta akan suyla yapılır. Rüzgârlı ve tozlu günlerde hasadı ertelemek, yıkama yükünü azaltır.
+
+## Su kalitesi ve sulama
+
+Balkon sebzesi çoğunlukla şebeke suyuyla sulanır; şebeke suyu için bölgenizin kalite denetimi vardır. Yağmur suyu toplayıp sulama yapıyorsanız çatı malzemesi ve çatı kirliliği suyu etkileyebilir; çatıdan toplanan yağmur suyunu yeşilliklerin üstüne değil, toprağa verin. Kuyu ya da dere suyu kullanıyorsanız analizini yaptırın. Sulamanın yaprağa değil toprağa yapılması, yaprağa sıçrayan toprak ve toz parçacıklarını da azaltır.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-217-litre]
+
+## Küçük çocuklar ve hamilelik
+
+Kurşun, küçük çocuklar ve hamileler için özellikle önemlidir. Şüpheli topraklı bahçelerde çocuğun toprakla oynamasını engelleyin, çocukların elini yıkayın ve sebzeyi iyice yıkayın. Sağlıkla ilgili kaygınız varsa bir hekime danışın; bu yazı tıbbi görüş yerine geçmez. Toprak analizinde yüksek kurşun çıktıysa il ya da ilçe tarım müdürlüğünden ve sağlık kuruluşundan görüş alın.
+
+Balkon ve bahçe toprağı seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Şehirde yetişen sebze güvenli mi?
+C: Temiz toprak, uygun konum ve doğru yıkamayla genellikle güvenlidir. Asıl risk eski yapı çevresindeki kurşunlu toprak ve yoğun trafiğin tozudur; balkonda temiz saksı toprağı kullanmak toprak riskini büyük ölçüde azaltır.
+
+S: Şehirde bahçedeki toprak nasıl test edilir?
+C: Toprak numunesini il ya da ilçe tarım müdürlüğüne ya da yetkili bir laboratuvara gönderin ve ağır metal (kurşun) analizini ayrıca isteyin. Standart analiz çoğunlukla yalnızca besin ve pH'a bakar.
+
+S: Trafik kenarında yetişen sebze yenir mi?
+C: Yoğun yol kenarında yeşillik yetiştirmek önerilmez. Mecbursanız yoldan uzak bir konum seçin, bitkileri çit ya da file ile koruyun, meyve veren sebzeyi tercih edin ve hasadı akan suda iyice yıkayıp dış yaprakları atın.
+
+S: Sebze nasıl yıkanır?
+C: Akan suyla yıkayın, kök sebzeleri yıkamadan önce soyun ve toprağa en yakın dış yaprakları atın. Yeşilliği yaprak yaprak ayırıp bol suda çalkalayın; durgun suda bekletmek yerine akan su kullanın.
+
+### YAZI
+slug: balkon-sulamasinda-komsuluk
+baslik: Balkon Sulamasında Komşuluk: Alt Kata Su Damlatmamanın Yolları
+yayin: 2027-01-22 17:20
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: balkon sulamasında komşuluk
+seo_baslik: Balkon Sulamasında Komşuluk: Alt Kata Su Damlatmama
+seo_aciklama: Balkon sulamasında komşuluk için su damlatmama yöntemleri: tepsi, süzdürme, saat ve miktar ayarı, korkuluk saksıları ve komşuyla iletişim önerileri.
+ozet: Balkon sulamasında komşuluk, alt kata ve yan balkona su damlatmamakla başlar. Tepsi kullanımı, sulamayı kısa ve yavaş yapmak, korkuluk saksılarının tahliyesi, uygun saat seçimi ve komşuyla önceden konuşma gibi pratik yöntemleri ve sorun çıkarsa izlenecek yolu yazdık.
+etiketler: balkon sulaması, komşuluk, alt kata su, saksı tepsisi, korkuluk saksısı, balkon bahçesi
+gorsel: bekliyor
+gorsel_alt: Balkon korkuluğu boyunca sıralı saksılar ve her birinin altında geniş tepsiler, zeminde ince bir havlu
+urunler: moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60, hg-kil-bilyesi
+kisaca: Balkon sulamasında komşuluk kuralı basittir: suyu saksıdan balkon zeminine ya da alt kata taşırmayın. Her saksının altına geniş tepsi koyun, sulamayı yavaş ve kısa yapın, tepsiyi boşaltın, korkuluk saksılarını iç tarafa asın ve sabah erken sulayın. Komşunuzla önceden konuşmak, sorun çıkmadan çoğu sürtüşmeyi önler.
+@govde
+Balkon bahçeciliğinin en sık sorun çıkaran tarafı, bitkinin kendisi değil sulama suyudur. Üst kattan damlayan su, alt katın camını, çamaşırını ve balkon eşyalarını kirletir; yağmur gibi gelmediği için de daha rahatsız edicidir. Balkon sulamasında komşuluk bu yüzden hem nezaket hem bahçecilik işidir. Aşağıda suyun nasıl kontrol altına alınacağını ve komşuluk ilişkisinin nasıl korunacağını sıralıyoruz.
+
+## Su nereden damlar?
+
+Alt kata su üç yolla gider: saksı deliğinden süzülüp zemine akan su, tepsiden taşan su ve korkuluğa asılı saksıdan doğrudan dökülen su. Zemin eğimli olduğu için balkon yüzeyine akan su giderden çıkar ya da kenardan alt kata sızar. Gider tıkanmışsa ya da balkon kenarına doğru eğim varsa, su doğrudan alt katın balkonuna damlar. İlk adım, suyun nereye aktığını görmektir: bir kova suyu balkona boşaltıp yönünü izleyin.
+
+## Sulamayı yavaş ve kısa yapın
+
+Hızlı sulama, toprağın suyu emmesine zaman bırakmaz; su saksı kenarından ve delikten bir anda dışarı çıkar. Bu yüzden sulamayı yavaş yapın: su verin, toprağın emmesini bekleyin ve tekrar su verin. Böylece daha az su kullanır ve tepsiyi taşırmazsınız. Saksının delikten su akıtmaya başladığı anı görün ve durun. Sulama miktarını bitkiye göre ayarlamak için toprak nemine bakmak gerekir; ölçüm yolları [toprak nemi ölçme](/toprak-nemi-olcme) yazısında anlatılıyor. Sulama sıklığı için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazısına bakabilirsiniz.
+
+## Tepsi, altlık ve süzdürme
+
+| Önlem | Nasıl? | Neden işe yarar? |
+|---|---|---|
+| Geniş tepsi | Saksıdan geniş bir tepsi koyun | Süzülen suyu toplar |
+| Altlık ya da ayak | Saksıyı tepsiden yükseltin | Kök sudan ayrı durur, taşma azalır |
+| Süzdürme | Sulamadan sonra bir iki dakika bekleyin | Fazla su tepsiye akar, sonra boşaltılır |
+| Tepsiyi boşaltma | Sulamadan on dakika sonra tepsiyi boşaltın | Taşmayı ve sivrisineği önler |
+| Süngerimsi örtü | Tepsiye emici bez koyun | Küçük taşmaları tutar |
+
+Tepsi dolu kalırsa kök çürümesine neden olur; bu yüzden "tepsi suyu bırakma" ilkesi hem bitki hem komşu için geçerlidir. Zemini korumak için ek ilkeler [balkon zemini nasıl korunur](/balkon-zemini-nasil-korunur) yazısında yer alır.
+
+## Korkuluk saksıları: dışa değil içe
+
+Korkuluğun dışına asılan saksı, sulandığında suyu doğrudan alt kata ve yola dökebilir. Ayrıca düşme riski de taşır. Saksıyı korkuluğun iç tarafına asmak ya da içeride rafa koymak hem güvenli hem komşu dostudur. Dışa asmanız gerekiyorsa içeriye su sızmayacak biçimde tepsili ve damlama toplamalı saksılar kullanın; hiç değilse sulamayı yalnızca tepsili, kapalı alt gövdeli kaplarla yapın. Bina yönetiminin korkuluk kuralları varsa onlara uyun; ortak cepheye bağlantı için izin gerekebilir.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60]
+
+## Alt tepsili kapalı yatak: kontrol kolaylığı
+
+Çok sayıda saksıyla uğraşmak yerine alt tepsili kapalı bir yetiştirme kasası kullanmak sulama yönetimini kolaylaştırır. Balkon için tasarlanmış bir yatağın ürün açıklamasında, kapalı alt tepsisi sayesinde sulama suyunun zemine akmadığı, ayakları sayesinde yatağın yerden yükseldiği ve altının kolayca silinebildiği belirtiliyor. Bu yapı birden çok saksının yerine geçer ve tahliyeyi tek noktada toplar; yine de toprak hacmi ve ağırlık konusunda balkonun taşıma gücünü düşünmek gerekir ([balkonda saksı ağırlığı](/balkonda-saksi-agirligi) yazısı hesabı anlatıyor). Damla sulama kullanıyorsanız suyun tepsiye uygun hızda verilmesi için [balkon damla sulama seti](/balkon-damla-sulama-seti) yazısındaki ayarlara bakın.
+
+## Balkon sulamasında komşuluk için doğru zamanlama
+
+Sabah erken sulamak hem bitki hem komşu için en iyi saattir. Bitki gün boyu suyu kullanır; tepsideki su buharlaşır; alt kattaki komşu henüz balkona çıkmamış ya da camlar kapalıdır. Öğle ve akşam sulaması daha çok sorun çıkarır: komşu balkonda oturmuş olabilir, çamaşır asılı olabilir ve akşam sıcaklığı düşük olduğu için su geç kurur. Çok sıcak günlerde bile sabah ve geç akşam sulaması yerine sabah sulamasını bol su yerine yeterli su ile yapın. Ayrıntılı saat bilgisi için [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısını inceleyin.
+
+## Komşuyla iletişim
+
+Çoğu sorun, komşu fark etmeden önce konuşulduğunda çözülür. Yeni bir balkon bahçesi kurduğunuzda alt kat komşunuza haber verin, su damlarsa size söylemesini isteyin ve sorun olduğunda hemen düzeltin. Bir sorun yaşandığında özür dileyip nedeni giderdiğinizi göstermek, tartışmayı büyümeden bitirir. Gerekirse komşunuza küçük bir hediye olarak bir fesleğen fidesi vermek sıcak bir çözümdür. Kalıcı bir anlaşmazlık olursa bina yönetimine başvurun; yönetmelik ve kat mülkiyeti hükümleri çerçevesinde çözüm aranır.
+
+## Balkon sulamasında komşuluk: yağmur ve temizlik günleri
+
+Sulama dışında iki durum daha alt kata su gönderir: balkon yıkama ve yağmur. Balkon zeminini hortumla yıkamak, kirli suyu alt kata taşır; bunun yerine ıslak bez ve kova kullanın. Yağmurdan sonra balkonda biriken suyu giderden süpürün; gider tıkalıysa yağmur suyu kapı eşiğine ve alt kata gider. Çiçeklerin üstüne yağan yağmur da saksıları taşırır; yağmurlu günlerde tepsileri boşaltmayı unutmayın. Bu hâllerde komşunun balkonunda çamaşır asılıysa düşen su sorun yaratır; saksıları yağmur beklenirken içeri alma alışkanlığı kazanın.
+
+## Küçük araçlar, büyük fark
+
+Birkaç basit araç komşuluk sorunlarını çoğunlukla ortadan kaldırır: dar ağızlı bir sulama kabı suyu hedefe verir ve etrafa sıçratmaz; geniş tepsiler taşmaları emer; saksı altına konan emici paspas küçük damlaları tutar; yarı ıslak bir bez balkon zemini sulama sonrası silmeye yarar. Büyük saksılar için tekerlekli altlık, saksıyı sulamak için kenara çekmeyi kolaylaştırır. Bu araçların toplam maliyeti, alt kattaki komşunun cam ya da çamaşır temizliğinden çok daha azdır. Bunlara ek olarak, sulama saatini komşunuzun balkona çıkmadığı saatlere kaydırmak çoğu durumda yeterlidir.
+
+Balkon sulamasında komşuluk bir kez kurulunca alışkanlığa dönüşür. İlk hafta sulamayı yavaş yapıp tepsileri izleyin, ikinci hafta gider ağzını ve altlıkları kontrol edin; üçüncü haftada düzen oturmuş olur. Alışkanlığı kolaylaştırmak için sulama kabını balkon kapısının yanında tutun ve tepsileri boşaltacağınız kovayı da yanına koyun. Böylece sulama ve temizlik tek hamlede biter.
+
+[ürün:hg-kil-bilyesi]
+
+Balkon bahçesi ekipmanı konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Balkonda sulama yaparken alt kata su damlamasını nasıl önlerim?
+C: Her saksının altına geniş bir tepsi koyun, sulamayı yavaş yapıp suyun toprağa girmesini bekleyin ve sulamadan sonra tepsiyi boşaltın. Korkuluk saksılarını dış tarafa değil iç tarafa asın ve gider deliğini açık tutun.
+
+S: Balkonda en uygun sulama saati hangisidir?
+C: Sabah erken saatler en uygunudur. Bitki gün boyu suyu kullanır, tepsideki su buharlaşır ve komşu henüz balkonda olmaz. Akşam sulaması daha geç kurur ve çoğu zaman çamaşır ve oturma saatlerine denk gelir.
+
+S: Korkuluğa asılı saksı komşuya sorun çıkarır mı?
+C: Dışa asılı saksı sulandığında suyu alt kata ve yola dökebilir, ayrıca düşme riski taşır. Saksıyı iç tarafa asmak ya da tepsili ve kapalı gövdeli kaplar kullanmak daha güvenlidir.
+
+S: Komşum su damladığını söylerse ne yapmalıyım?
+C: Özür dileyip sulama düzenini hemen değiştirin: tepsileri genişletin, sulamayı kısaltın ve sabaha alın. Sorun devam ederse bina yönetimine danışarak ortak bir çözüm bulun.
+
+### YAZI
+slug: balkonda-bitki-cayi-bahcesi
+baslik: Balkonda Bitki Çayı Bahçesi: Melisa, Nane, Adaçayı ve Ihlamur
+yayin: 2027-01-22 19:50
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: balkonda bitki çayı bahçesi
+seo_baslik: Balkonda Bitki Çayı Bahçesi: Melisa, Nane, Adaçayı
+seo_aciklama: Balkonda bitki çayı bahçesi nasıl kurulur? Melisa, nane, adaçayı, kekik ve papatya için saksı, ışık, hasat, kurutma ve ıhlamurun gerçekçi durumu.
+ozet: Balkonda bitki çayı bahçesi küçük saksılarla kurulabilir: melisa, nane, adaçayı, kekik, papatya ve limon otu uygun adaylardır. Her bitkinin ışık ve su ihtiyacını, hasat ve kurutma zamanını, ıhlamurun neden balkonda zor olduğunu ve çay tüketirken dikkat edilecekleri yazdık.
+etiketler: bitki çayı, balkon bahçesi, melisa, nane, adaçayı, kekik, papatya
+gorsel: bekliyor
+gorsel_alt: Balkon korkuluğunda sıralanmış saksılarda melisa, nane, adaçayı ve kekik; yanında bir demet kurutulmuş otlar
+urunler: hg-aromatik-bitkiler-icin-saksi-topragi, bahce-yatagi-ciceklik-no-1v2-85x35x30-cm
+kisaca: Balkonda bitki çayı bahçesi için melisa, nane, adaçayı, kekik, papatya ve limon otu uygundur; hepsi saksıda yetişir ve yarım güneşten tam güneşe kadar ışıkla idare eder. Ihlamur büyük bir ağaçtır, balkonda yetişmez. Yaprakları sabah çiy kalktıktan sonra toplayıp gölgede kurutun; bitki çayını bilinçli ve ölçülü tüketin.
+@govde
+Bir demet melisayı balkondan koparıp demliğe atmak, marketten alınan poşet çayla kıyaslanmayacak kadar farklı bir tattır. Bitki çayları saksıda yetişen en kolay bitkilerdendir; çoğu çok az toprak ister, sık sık hasat edilebilir ve balkon bahçesinde birkaç saksıyla bir sezonluk çay çıkar. Balkonda bitki çayı bahçesi kurmak için gerekenleri, hangi bitkinin neyi sevdiğini ve gerçekçi beklentileri aşağıda sıraladık.
+
+## Balkonda bitki çayı bahçesi için en uygun bitkiler
+
+| Bitki | Kısmı | Işık | Saksı hacmi | Not |
+|---|---|---|---|---|
+| Nane | Yaprak | Yarı güneş–güneş | 5–10 litre | Çok yayılır, ayrı saksıda tutun |
+| Melisa (oğul otu) | Yaprak | Yarı güneş | 5–10 litre | Limon kokulu, hızlı büyür |
+| Adaçayı | Yaprak | Tam güneş | 5–10 litre | Süzek toprak, az su |
+| Kekik | Yaprak ve çiçek | Tam güneş | 3–5 litre | Süzek toprak, kışın aşırı ıslaktan kaçının |
+| Papatya | Çiçek | Tam güneş | 10 litre | Tek yıllık, tohumdan |
+| Limon otu | Yaprak ve sap | Güneş | 10 litre | Sıcak sever, kışın içeri alın |
+| Lavanta | Çiçek | Tam güneş | 5–10 litre | Süzek toprak, bol güneş |
+
+Bu bitkilerin her biri için ayrıntılı bakım yazılarımız var: [saksıda nane yetiştirme](/saksida-nane-yetistirme), [melisa yetiştirme](/melisa-yetistirme), [adaçayı yetiştirme](/adacayi-yetistirme), [saksıda biberiye ve kekik yetiştirme](/saksida-biberiye-ve-kekik-yetistirme) ve [lavanta yetiştirme](/lavanta-yetistirme).
+
+## Ihlamur gerçeği: balkonda yetişir mi?
+
+Ihlamur çayı en sevilen bitki çaylarından biridir; ama ıhlamur on metrelerce boylanan bir ağaçtır ve balkon saksısında doğal boyuna ulaşamaz. Balkona ıhlamur dikmek gerçekçi değildir; küçük bir fidan bir iki yıl saksıda tutulabilir, ama çiçek vermez ve zayıf kalır. Ihlamurun yetişme koşulları ve bahçe için bakımı [ıhlamur yetiştirme](/ihlamur-yetistirme) yazısında anlatılıyor. Balkon için gerçekçi seçenek, kurutulmuş ıhlamur çiçeğini güvenilir bir kaynaktan almaktır. Balkon bahçeniz için melisa ve nane, ıhlamurun hoş kokulu bir tamamlayıcısı olur.
+
+## Saksı, toprak ve yerleşim
+
+Bitki çayı bitkilerinin çoğu zengin toprak istemez; hafif ve süzek bir karışım yeterlidir. Akdeniz kökenli bitkiler (adaçayı, kekik, lavanta) ıslak toprağı sevmez; saksının dibinde drenaj ve karışıma perlit eklemek köklerin sağlığını korur. Nane ve melisa daha nemli toprak sever. Bu farkı gözeterek bitkileri nem ihtiyacına göre gruplayın: kuraklığı sevenleri bir saksıda ya da bir çiçeklikte, nem sevenleri ayrı tutun. Aromatik bitkilerin toprağı için [aromatik bitki toprağı](/aromatik-bitki-topragi) yazısına bakın. Uzun bir çiçeklik, birden çok bitkiyi bir arada barındırmak için pratiktir.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## Hasat ve kurutma
+
+Yaprakları sabah çiy kalktıktan sonra, öğle sıcağından önce toplayın; bu saatte aromatik yağ oranı yüksektir. Bitkiyi bir seferde üçte birinden fazla kesmeyin ki yenilenebilsin. Taze kullanabilir ya da kurutabilirsiniz: yaprakları yıkamadan dallarıyla bir demet yapıp ters asın ya da bir bez üstüne serin, gölgede ve havadar bir yerde kurutun. Doğrudan güneşte kurutmak aromayı uçurur. Kuruyunca yaprakları dalından ayırıp kapaklı cam kavanozda saklayın. Kurutma yöntemleri için [güneşte kurutma tezgâhı](/kurutma-tezgahi) yazısındaki mantık otlar için de geçerlidir; ancak çay otlarını gölgede kurutun. Kurutulmuş otları ışık ve nemden uzak tutun.
+
+## Çay hazırlarken ve içerken dikkat
+
+Taze ya da kuru yaprakları sıcak suyla demleyin; yaprak sayısı ve süre bitkiye göre değişir. Bitki çayı doğal olduğu için zararsız demek değildir: bazı bitkiler ilaçlarla etkileşebilir, hamilelik ve emzirme döneminde ya da kronik hastalıkta bazı otlar önerilmez. Papatya gibi bitkilere alerjisi olanlar, çocuklar ve bebekler için hekim görüşü gerekir. Bitkiyi balkonda yetiştirirken ilaç ya da böcek ilacı kullandıysanız, hasat öncesinde yeterli bekleme süresi geçmeden çay yapmayın. Şüpheniz varsa bitkiyi çay yerine yemek tarifinde kullanın ve bir hekim ya da eczacıya danışın. Bu yazı tıbbi öneri değildir; çayın sağlık etkileri konusunda iddiada bulunmuyoruz.
+
+## Balkonda bitki çayı bahçesi için sezon planı
+
+Balkon çay bahçesi için en uygun başlangıç zamanı ilkbahardır. Mart–nisan aylarında fide ya da tohumla başlayın; mayıs-ekim arası hasat edin. Nane ve melisa sonbaharda dallarını kısaltın ve kışı geçirsin; kışı sert bölgelerde saksıyı korunaklı bir köşeye alın. Adaçayı ve kekik ılık kıyılarda kışı balkonda geçirir; iç bölgelerde donlu geceler için örtü gerekir. Ocak ayında şimdiden yapılacak iş, saksı ve toprak hazırlığı ile bitkilerin yerini planlamaktır. Balkon güneşi ölçümü için [balkonunuz kaç saat güneş alıyor](/balkonunuz-kac-saat-gunes-aliyor) yazısı bu planlamada yardımcı olur.
+
+## Balkonda bitki çayı bahçesi: tohum mu, fide mi?
+
+Çay bitkilerinin çoğu fideyle başlamak için daha kolaydır. Nane ve melisa fide ya da çelik olarak alınır; tohumdan çimlenmeleri yavaştır ve sonuç tutarsız olabilir. Papatya ve kekik tohumla kolayca başlar; papatya doğrudan saksıya ekilir ve çok az bakım ister. Adaçayı fide ile daha çabuk hasada gelir. İlk sezon için dört beş fide ve bir papatya tohumu bir bahçeye yeter. Saksıları iki üç yıl sonra bölerek çoğaltabilirsiniz; nane ve melisa kolayca bölünür.
+
+## Çay bahçesinde zararlı ve hastalık
+
+Aromatik bitkiler az zararlı çeker; yine de yaprak bitleri, beyaz sinek ve örümcek akarı zaman zaman çıkar. Çay için kullanacağınız bitkilere kimyasal böcek ilacı sıkmayın; zararlıyı önce su fıskiyesiyle yıkamayı ya da elle temizlemeyi deneyin. Ağır sorunlarda bitkiyi çaydan çıkarıp ilaçlama sonrası bekleme süresi geçene kadar tüketmeyin; ilaç seçimi ve bekleme süresi için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın. Fazla sulama aromatik bitkilerde kök çürümesi yapar; süzek toprak ve ölçülü sulama bu sorunu önler.
+
+Çay bahçesini küçük bir ritüele çevirmek de mümkündür: haftada bir sabah çiy kalktıktan sonra balkona çıkıp bir demet toplayın, bir kısmını taze demleyin, kalanını gölgede kurutmaya asın. Bu rutin hem bitkilerin düzenli budanmasını sağlar hem de balkon bahçeciliğine keyif katar. Kurutulan otları etiketleyip tarih yazmak, bir sonraki sezonda hangi bitkinin ne zaman toplandığını görmenizi sağlar.
+
+[ürün:bahce-yatagi-ciceklik-no-1v2-85x35x30-cm]
+
+Bitki çayı bitkileri ve toprak seçimi konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Balkonda bitki çayı için hangi bitkiler yetişir?
+C: Nane, melisa, adaçayı, kekik, papatya, limon otu ve lavanta saksıda rahatça yetişir. Hepsi yarım güneşten tam güneşe kadar ışık ister; Akdeniz otları süzek toprak sever, nane ve melisa daha nemli toprak ister.
+
+S: Balkonda ıhlamur yetişir mi?
+C: Pek yetişmez. Ihlamur on metrelerce boylanan bir ağaçtır; saksıda küçük kalır ve çiçek vermez. Ihlamur çayı için kurutulmuş çiçeği güvenilir kaynaktan almak daha gerçekçidir.
+
+S: Bitki çayı için yapraklar ne zaman toplanır?
+C: Sabah çiy kalktıktan sonra, öğle sıcağından önce toplanır; bu saatte aromatik yağ oranı yüksektir. Bitkinin üçte birinden fazlası bir seferde kesilmemelidir.
+
+S: Bitki çayları herkes için güvenli midir?
+C: Hayır. Bazı otlar ilaçlarla etkileşebilir, hamilelik ve emzirmede önerilmeyebilir ya da alerji yapabilir. Şüpheniz varsa hekim ya da eczacıya danışın; ilaçlanmış bitkiden bekleme süresi geçmeden çay yapmayın.
+
+### SORU
+yayin: 2027-01-22 10:15
+kategori: bahce-ipuclari
+baslik: Balkonda 3-4 tane büyük saksım var, balkon taşır mı diye nasıl anlarım?
+metin: Dördüncü katta eski bir binada oturuyorum. Balkonda birkaç büyük saksı ve bir ağaç var; ıslak toprakla çok ağır olmuş olmalı. Balkonun bunu taşıyıp taşımadığını nasıl anlarım, hangi belirtilere dikkat etmeliyim?
+@cevap Halil İbrahim Çelik | 3
+Balkonun taşıma gücünü gözle anlamak mümkün değildir; ancak bazı uyarı belirtileri vardır. Balkon zemininde ya da duvarla birleştiği yerde yeni çatlaklar, zeminde belirgin sarkma ya da eğim değişikliği, beton yüzeyde kabarma ve dökülme, paslı donatının görünmesi, korkulukta oynama gibi belirtilerden herhangi birini görürseniz yükü hemen azaltın ve bir inşaat mühendisine kontrol ettirin. Eski binalarda donatı korozyonu ve beton kalitesi bilinmediği için dikkat daha da önemlidir. Önce yükünüzü hesaplayın: her saksının hacmini litre olarak bulun, ıslak toprağı litre başına yaklaşık 0,6–1 kg alıp saksının kendi ağırlığını ekleyin; toplam birkaç yüz kilogram ediyorsa bir uzman görüşü şarttır. Genel bir önlem olarak ağır saksıları duvara yakın ve taşıyıcı kolonun yakınına koyun, korkuluğa ve balkon ucuna hafif kaplar yerleştirin. Bina projesine yönetimden ya da belediyeden ulaşabilirsiniz; projedeki balkon yükü bilgisi mühendisin işini kolaylaştırır. Hiç emin değilseniz ağaç gibi büyük saksıyı zemine, daha sağlam bir yere ya da daha hafif bir saksıya taşımak güvenli çözümdür.
+
+### SORU
+yayin: 2027-01-22 16:30
+kategori: sebze-meyve
+baslik: Balkonda kuru kuruya sulama yapınca saksı tabaklarında su kalıyor, kök çürür mü?
+metin: Balkon saksılarının altına tabak koydum ki alt kata su damlamasın. Ama tabaklarda sürekli su birikiyor ve boşaltmayı unutuyorum. Domates ve fesleğenimin kökleri çürür mü, tabak yerine ne kullanayım?
+@cevap Mehmet Fatih Çelik | 2
+Evet, tabakta sürekli duran su kök çürümesine yol açabilir; çünkü saksı deliğinden su geri emilir ve kökler havasız kalır. Domates ve fesleğen bu konuda hassastır: fesleğen çürümeye çok yatkındır. Çözüm tabağı kaldırmak değil, onu doğru yönetmektir. Sulamadan sonra on dakika bekleyin ve tabaktaki suyu boşaltın; bunu alışkanlık hâline getirmek için tabakları saksıdan kolay çıkabilen bir tipte seçin. Saksıyı tabağın içine değil, tabağın üstünde küçük ayaklarla ya da halkayla yükseltin; böylece biriken su köke değmez. Kil bilye ya da iri çakıl tabağa serilirse saksı suyun üstünde durur, ancak yine de tabak dolduğunda boşaltmak gerekir. Taşma riskinin yüksek olduğu sıcak yaz günlerinde sulamayı iki aşamaya bölün: bir kez az su verin, birkaç dakika sonra tekrar verin. Böylece toprak daha iyi emer ve tabağa daha az su iner. Çok sayıda saksınız varsa alt tepsili kapalı yetiştirme kasaları ya da damla sulama ile suyu daha kontrollü vermeyi düşünün.

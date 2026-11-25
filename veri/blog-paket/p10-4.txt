@@ -1,0 +1,934 @@
+### YAZI
+slug: kukurt-eksikligi
+baslik: Kükürt Eksikliği: Azotla Karıştırılan Sessiz Sararma
+yayin: 2026-12-13 07:15
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: kükürt eksikliği
+seo_baslik: Bitkilerde Kükürt Eksikliği: Belirtiler ve Önleme
+seo_aciklama: Bitkilerde kükürt eksikliği nasıl anlaşılır? Genç yapraklarda sararma, azot eksikliğinden farkı, hassas bitkiler ve toprağı organik maddeyle korumak.
+ozet: Bütün bitki soluk yeşile dönmüş ama azotlu gübre işe yaramıyorsa, sorun kükürt olabilir. Az konuşulan ama lahana, soğan ve sarımsak gibi bitkiler için çok önemli olan kükürt eksikliğini tanımayı ve önlemeyi anlatıyoruz.
+etiketler: kükürt eksikliği, bitki besin eksikliği, yaprak sararması, lahana gübreleme, organik madde
+gorsel: p10-kukurt
+gorsel_alt: Kükürdü çok seven bir lahanagil olan kanolanın sarı çiçekleri
+urunler: hasturk-kati-solucan-gubresi, organik-toprak, leonardit-organik-toprak-duzenleyici
+kisaca: Kükürt eksikliği, özellikle genç yapraklarda görülen açık yeşil-sarı renkle kendini gösterir. Azot eksikliğine çok benzer, ancak azotta sararma yaşlı yapraklardan başlar. Lahanagiller, soğan, sarımsak ve baklagiller hassastır. Organik madde kükürdün başlıca kaynağıdır; kumlu ve yağış alan topraklarda eksiklik daha sık görülür.
+@govde
+Kükürt eksikliği, bahçede en az tanınan beslenme sorunlarından biridir. Çoğu bahçe sahibi sararan bir bitki gördüğünde ilk olarak azotu düşünür ve azotlu gübreye uzanır. Oysa bazı durumlarda bitkinin ihtiyaç duyduğu şey kükürttür ve azot vermek sorunu çözmez, hatta dengesizliği artırabilir. Kükürt, bitkiler için azot, fosfor ve potasyumdan sonra en çok ihtiyaç duyulan besinlerden biridir; bu nedenle bazı kaynaklar onu dördüncü ana besin olarak anar. Bu yazıda kükürdün bitkideki görevini, eksikliğin nasıl tanındığını ve toprağı nasıl koruyacağınızı anlatıyoruz.
+
+## Kükürt bitkide ne işe yarar?
+
+Kükürt, proteinlerin yapı taşları olan bazı amino asitlerin vazgeçilmez bir parçasıdır. Klorofil oluşumunda, yani bitkinin yeşil rengini ve fotosentez gücünü kazanmasında rol oynar. Baklagillerde kökteki azot bağlayıcı bakterilerin çalışması için gereklidir. Lahana, brokoli, hardal, soğan ve sarımsak gibi bitkilerin kendine özgü keskin tadı ve kokusu da büyük ölçüde kükürtlü bileşiklerden gelir. Kükürt eksik olduğunda bu sebzelerin hem verimi hem de lezzeti düşer.
+
+## Kükürt eksikliği belirtileri
+
+**Genç yapraklarda sararma:** Kükürt bitki içinde kolay taşınmadığı için belirtiler ilk olarak yeni yapraklarda görülür. Yapraklar, damarları dahil olmak üzere düzgün biçimde açık yeşil ya da sarımsı bir renk alır.
+
+**Genel solgunluk:** Ağır durumlarda tüm bitki soluk görünür.
+
+**Yavaş ve cılız büyüme:** Gövdeler ince, bitki boyu kısa kalır.
+
+**Gecikmiş olgunlaşma:** Meyve ve tohum oluşumu gecikir, verim düşer.
+
+**Lahanagillerde mor renk:** Bazı lahana türlerinde yaprak altlarında morumsu tonlar görülebilir.
+
+## Azot eksikliğinden nasıl ayırt edilir?
+
+Bu iki eksiklik ilk bakışta neredeyse aynı görünür; her ikisinde de yapraklar düzgün bir şekilde sararır. Aradaki en önemli fark, sararmanın başladığı yerdir. Azot bitki içinde kolayca taşınır; bitki yaşlı yapraklardaki azotu genç yapraklara aktarır, bu yüzden azot eksikliğinde sararma alttaki yaşlı yapraklardan başlar. Kükürt ise taşınamadığı için sararma üstteki genç yapraklarda başlar ya da tüm bitkide eşit dağılır. Azot eksikliğinin belirtilerini [azot eksikliği](/azot-eksikligi) yazımızda ayrıntılı olarak anlattık.
+
+Genç yapraklarda görülen diğer sararmalarla da karıştırılmamalıdır. Demir eksikliğinde genç yaprakların damarları yeşil kalır, damar araları sararır; kükürt eksikliğinde ise damarlar da sararır. Diğer besin eksikliklerini karşılaştırmak için [mikro element eksikliği](/mikro-element-eksikligi) yazımız yol gösterici olabilir.
+
+## Kükürt eksikliği neden olur?
+
+**Organik maddesi düşük topraklar:** Topraktaki kükürdün büyük kısmı organik maddede bulunur. Organik maddesi azalmış, yorgun topraklarda kükürt de azalır.
+
+**Kumlu ve hafif topraklar:** Bitkilerin aldığı sülfat formundaki kükürt suyla kolayca yıkanır. Kumlu ve bol yağış alan ya da sık sulanan topraklarda kükürt kök bölgesinden uzaklaşır.
+
+**Soğuk ve ıslak ilkbahar:** Organik maddedeki kükürdü bitkinin alabileceği forma dönüştüren toprak canlıları soğukta yavaş çalışır. Bu yüzden ilkbaharın başında geçici bir eksiklik görülebilir; hava ısındıkça çoğu zaman kendiliğinden düzelir.
+
+**Yoğun hasat:** Lahana ve soğan gibi kükürdü çok kullanan bitkilerin aynı toprakta yıllarca yetiştirilmesi topraktaki kükürdü tüketir.
+
+**Yalnızca saf gübrelerin kullanılması:** Eskiden sık kullanılan bazı gübreler içerdikleri kükürtle bu besini dolaylı olarak sağlıyordu. Günümüzde yaygın olan yüksek saflıktaki gübreler kükürt içermeyebilir.
+
+## Hangi bitkiler daha hassastır?
+
+Kükürde en çok ihtiyaç duyan bitkiler lahanagillerdir: lahana, brokoli, karnabahar, Brüksel lahanası, kanola, turp ve roka. Soğan, sarımsak ve pırasa da kükürde çok ihtiyaç duyar. Baklagiller, yani fasulye, bezelye, nohut ve yonca, kökteki bakterilerin çalışması için yeterli kükürde gerek duyar. Belirtiler genellikle önce bu bitkilerde görülür. Lahanagillerin yetiştirilmesi için [lahana ve karalahana yetiştirme](/lahana-ve-karalahana-yetistirme) yazımıza da göz atabilirsiniz.
+
+## Kükürt eksikliği nasıl önlenir?
+
+**Organik maddeyi artırın.** Toprağa düzenli olarak olgun kompost, solucan gübresi ve yanmış ahır gübresi eklemek, kükürdü de içeren dengeli bir besin deposu oluşturur. Organik madde ayrıca kükürdün yağmurla yıkanmasını yavaşlatır. Bu konuda [toprakta organik madde](/toprakta-organik-madde) yazımız yol gösterir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+**Ekim nöbeti yapın.** Lahanagilleri ve soğangilleri her yıl aynı parsele ekmeyin; aralarına baklagiller ve diğer sebzeleri yerleştirin.
+
+**Toprak yapısını iyileştirin.** Kumlu topraklarda organik madde ve humik maddeler suyun ve besinlerin tutulmasına yardımcı olur.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+**Toprak analizi yaptırın.** Bu sorundan şüpheleniyorsanız, belirtilerden emin olmak için toprak ve gerekirse yaprak analizi yaptırın. Kükürt içeren gübreler ya da toprak düzenleyiciler, yalnızca analiz sonucuna ve müşteri hizmetlerimizin önerisine göre uygulanmalıdır. Kükürt toprağın pH'ını da düşürdüğü için gereksiz ve aşırı kullanımı toprağı fazla asitleştirebilir.
+
+## Kükürt ve toprak pH'ı
+
+Kükürdün bahçecilikte bir başka bilinen kullanımı, kireçli toprakların pH'ını düşürmektir. Ancak bu, besin eksikliğini gidermekten farklı bir amaçtır ve elementel kükürdün toprakta yavaş yavaş asit oluşturmasına dayanır. Bu konuyu [toprak nasıl asitlendirilir](/toprak-nasil-asitlendirilir) yazımızda ayrıntılı olarak ele aldık. Besin eksikliği yaşayan bir bitki için amaç pH'ı değiştirmek değil, bitkinin alabileceği formda yeterli kükürt bulundurmaktır.
+
+## Bahçede gözlem yaparken dikkat edilecekler
+
+Besin eksikliklerini teşhis etmek her zaman kolay değildir, çünkü belirtiler birbirine benzer ve aynı anda birden fazla sorun bulunabilir. Bir bitkinin sararmasını değerlendirirken önce sulama ve kök sağlığını kontrol edin: aşırı ıslak ya da çok kuru toprak, sıkışmış kökler ve zararlılar da benzer görünümlere yol açabilir. Ardından sararmanın hangi yapraklarda başladığına bakın: üstteki genç yapraklar mı, alttaki yaşlılar mı? Belirtinin yalnızca bir bitki türünde mi yoksa bahçenin tamamında mı görüldüğünü not edin. Lahana ve soğan sararıyor ama domates ve biber sağlıklıysa, kükürt ihtimali artar. Gözlemlerinizi tarih ve fotoğrafla kaydetmek, mevsimler boyunca hangi değişikliklerin işe yaradığını görmenizi kolaylaştırır.
+
+## Saksı bitkilerinde kükürt
+
+Saksı bitkilerinde bu sorun nadirdir, çünkü kaliteli saksı toprakları ve organik gübreler genellikle yeterli kükürt içerir. Yine de aynı toprağı yıllarca kullandıysanız ve bitkiniz genç yapraklarından itibaren soluyorsa, toprağı yenilemek en pratik çözümdür.
+
+@sss
+S: Kükürt eksikliği ile azot eksikliği nasıl ayırt edilir?
+C: Azot eksikliğinde sararma alttaki yaşlı yapraklardan başlar, kükürtte ise genç yapraklarda ya da bütün bitkide eşit olarak görülür. Kesin teşhis için yaprak ve toprak analizi en güvenilir yoldur.
+
+S: Yumurta kabuğu ya da kahve telvesi kükürt sağlar mı?
+C: Bu malzemeler çok az kükürt içerir ve eksikliği gidermek için yeterli değildir. Düzenli kompost ve solucan gübresi kullanımı çok daha dengeli bir kaynaktır.
+
+S: Kükürt eksikliği kendiliğinden düzelir mi?
+C: Soğuk ve ıslak ilkbahar havasında görülen geçici eksiklik, hava ısınıp toprak canlıları çalışmaya başladığında çoğu zaman düzelir. Kalıcı eksiklikte ise toprağın organik maddesini artırmak gerekir.
+
+### YAZI
+slug: toprak-isleme
+baslik: Toprak İşleme: Bellemek mi, Çapalamak mı, Hiç Kazmamak mı?
+yayin: 2026-12-13 08:35
+yazar: Mikdat Çelik
+kategori: toprak-rehberi
+odak: toprak işleme
+seo_baslik: Bahçede Toprak İşleme: Zamanı, Yöntemleri ve Hatalar
+seo_aciklama: Bahçede toprak işleme ne zaman ve nasıl yapılır? Bellemek, çapalamak, kazmadan bahçe yöntemi, ıslak toprakta çalışmanın zararları ve kış işlemesi.
+ozet: Bahçede toprağı kazmak, kabartmak ve çapalamak kuşaklardır süren bir alışkanlıktır. Ama ne zaman, ne kadar derin ve hangi yöntemle? Toprak işlemenin faydalarını, zararlarını ve kazmadan bahçe yaklaşımını anlatıyoruz.
+etiketler: toprak işleme, bellemek, çapalama, kazmadan bahçe, toprak yapısı
+gorsel: p10-ot-sokme
+gorsel_alt: İşlenmiş bahçe toprağının üzerinde bahçe küreği, iş eldivenleri ve kökleriyle sökülmüş otlar
+urunler: raco-iki-disli-bahce-el-capasi, sgs-capa-sivri-sapli, organik-toprak
+kisaca: Toprak işleme, toprağı gevşetmek, havalandırmak ve organik maddeyi karıştırmak için yapılır. En uygun zaman toprağın tavda, yani ne çok ıslak ne çok kuru olduğu dönemdir; ıslak toprağı işlemek yapıyı bozar. Ağır topraklarda sonbahar ve kış işlemesi dondan yararlanır. Gereğinden sık ve derin işleme ise toprak canlılarına ve organik maddeye zarar verir.
+@govde
+Toprak işleme, bahçede yaptığımız en eski ve en temel işlerden biridir. Ekimden önce toprağı bel küreğiyle bellemek, sebze sıralarının arasını çapalamak ya da bahçeyi motorlu çapayla sürmek birçoğumuz için bahçeciliğin ta kendisidir. Doğru zamanda ve doğru ölçüde yapılan işleme sıkışmış toprağı gevşetir, kökler için uygun bir yatak hazırlar ve organik maddeyi toprağa karıştırır. Ancak yanlış zamanda, gereğinden derin ya da sık yapılan işleme, toprağın doğal yapısını bozabilir, organik maddeyi hızla tüketebilir ve toprak canlılarına zarar verebilir. Son yıllarda yaygınlaşan kazmadan bahçe yaklaşımı da tam bu sorunlardan doğmuştur. Bu yazıda toprak işlemenin ne zaman, nasıl ve ne kadar yapılması gerektiğini anlatıyoruz.
+
+## Toprak işleme neden yapılır?
+
+**Gevşetme ve havalandırma:** Kökler ve toprak canlıları oksijene ihtiyaç duyar. Sıkışmış toprak hem hava hem su geçirmez.
+
+**Ekim yatağı hazırlama:** Küçük tohumların çimlenmesi ve fidelerin köklenmesi için ince ve düzgün bir yüzey gerekir.
+
+**Organik madde karıştırma:** Kompost, gübre ve bitki artıkları toprağa karıştırılarak ayrışmaları hızlandırılır.
+
+**Yabani ot kontrolü:** Çapalama, yabani otları tohum bağlamadan önce keser.
+
+**Yüzey kabuğunu kırma:** Yağmurdan sonra oluşan sert kabuk kırıldığında su ve hava toprağa daha kolay girer.
+
+## Doğru zaman: Toprağın tavı
+
+Toprak işlemede en önemli kural, toprağı doğru nemdeyken işlemektir. Buna halk arasında tav denir. Tavdaki toprak, avucunuzda sıktığınızda topaklanır ama parmağınızla dokunduğunuzda kolayca ufalanır. Toprak avucunuzda çamur gibi yapışıp parmak izinizi taşıyorsa çok ıslaktır; kesinlikle işlemeyin. Islak toprakta çalışmak, toprak gözeneklerini ezer, kurudukça taş gibi sertleşen kesekler oluşturur ve sıkışmayı daha da artırır. Bu hasarın düzelmesi yıllar alabilir. Toprak tozlaşacak kadar kuruysa da işleme hem zordur hem toprağın yapısını dağıtır. Sıkışmanın nedenleri ve çözümleri için [toprak sıkışması](/toprak-sikismasi) yazımıza göz atabilirsiniz.
+
+## Sonbahar ve kış işlemesi
+
+Özellikle ağır, killi topraklarda sonbaharda ya da kış başında yapılan kaba işleme çok faydalıdır. Toprak iri kesekler halinde bellenip bırakılır, yüzey düzlenmez. Kış boyunca donma ve çözülme döngüleri bu kesekleri doğal olarak ufalar; ilkbaharda toprak çok daha kolay işlenir hale gelir. Bu dönemde toprağa olgun ahır gübresi ya da kompost karıştırmak da idealdir, çünkü organik maddenin ayrışması için kış boyunca zaman olur. Killi toprakların iyileştirilmesi için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazımızda başka öneriler de bulabilirsiniz.
+
+[ürün:organik-toprak]
+
+Kumlu ve hafif topraklarda ise kış işlemesine genellikle gerek yoktur. Bu topraklar yapısını kolay kaybeder; yüzeyi malçla ya da bir örtü bitkisiyle kapatmak kışın daha iyi bir seçimdir.
+
+## Toprak işleme yöntemleri
+
+**Bellemek:** Bel küreği ya da bel çatalıyla toprağı bir bel derinliğinde (yaklaşık 25-30 santimetre) çevirmek. Yeni açılan alanlar, ağır topraklar ve kök sebze yatakları için uygundur. Bel çatalı, toprağı çevirmeden gevşetmek için daha nazik bir seçenektir.
+
+**Çapalamak:** Toprağın yüzeyini birkaç santimetre derinlikte gevşetmek. Yabani otları kesmek, yüzey kabuğunu kırmak ve gübreyi toprağa karıştırmak için kullanılır. Sebze sıralarının arasında düzenli yapılan yüzeysel çapa, hem otları kontrol eder hem de toprağın nemini korur.
+
+[ürün:raco-iki-disli-bahce-el-capasi]
+
+**Motorlu çapa:** Geniş alanlarda zamandan tasarruf sağlar. Ancak sık kullanıldığında toprağı fazla ufalar ve çapa derinliğinin hemen altında sıkışmış bir tabaka (pulluk tabanı) oluşturabilir. Bu yüzden yılda bir iki kezden fazla kullanılmaması, her seferinde de farklı derinlikte çalışılması önerilir.
+
+**Derin gevşetme:** Uzun süre sıkışmış topraklarda, toprağı çevirmeden alt katmanları kırmak için bel çatalı ya da dişli aletler kullanılır.
+
+## Fazla toprak işlemenin zararları
+
+Toprağı gereğinden sık işlemek, havalanan organik maddenin hızla yanıp tükenmesine yol açar. Toprak solucanlarının tünelleri ve mantar ağları her işlemede parçalanır. Çıplak bırakılan ince toprak yağmurla akıp gider ve rüzgârla savrulur; yüzeyde sert kabuklar oluşur. Ayrıca her işleme, derinlerde uyuyan yabani ot tohumlarını yüzeye çıkarıp çimlenmeye teşvik eder. Toprak canlılarının önemini [toprak solucanı faydaları](/toprak-solucani-faydalari) yazımızda anlattık.
+
+## Kazmadan bahçe yaklaşımı
+
+Kazmadan bahçecilikte toprak hiç ya da çok az işlenir. Bunun yerine toprağın üstüne her yıl birkaç santimetre kalınlığında olgun kompost ya da organik malzeme serilir. Solucanlar ve diğer toprak canlıları bu malzemeyi kendiliğinden toprağın içine taşır. Tohumlar ve fideler doğrudan bu kompost tabakasına ekilir. Yabani otlar, kompost ve malç tabakası sayesinde zamanla azalır.
+
+Bu yöntem, toprağın doğal yapısını korur, nemi daha iyi tutar ve zamanla çok canlı, verimli bir toprak oluşturur. Ancak başlangıçta bol miktarda kompost gerektirir ve çok sıkışmış ya da yeni açılan alanlarda ilk yıl bir kez derin gevşetme yapmak gerekebilir. Birçok bahçıvan bu iki yaklaşımı birleştirir: yeni alanları bir kez işleyip ardından kazmadan bakım yapar.
+
+## Saksı ve yükseltilmiş yataklarda toprak işleme
+
+Yükseltilmiş bahçe yataklarında ve büyük saksılarda toprak üzerine basılmadığı için sıkışma çok daha azdır. Bu alanlarda derin bellemek genellikle gerekmez. Her sezon başında yüzeyi bir el çapası ya da küçük bir çatalla birkaç santimetre gevşetmek ve üzerine taze kompost eklemek yeterlidir. Saksılarda toprak birkaç yılda bir yorulup çöktüğünde ise işlemek yerine toprağı yenilemek daha doğru bir yaklaşımdır. Bu düzenli ama hafif bakım, toprak işleme yükünü azaltırken toprağın yapısını yıllarca korur ve toprak canlılarının çalışmasına fırsat tanır. Böylece hem emekten hem de zamandan tasarruf edersiniz.
+
+## Toprak işlemede altın kurallar
+
+- Islak toprağa asla girmeyin, üzerinde yürümeyin.
+- Gerektiğinden derin ve sık işlemeyin.
+- Her işlemede toprağa organik madde ekleyin.
+- İşlenmiş toprağı uzun süre çıplak bırakmayın; malçlayın ya da ekin.
+- Yatakları kalıcı yollarla ayırın, böylece ekim alanına basmazsınız.
+
+@sss
+S: Bahçe toprağı ne zaman bellenir?
+C: Ağır topraklarda sonbahar ve kış başında, toprak tavdayken kaba bellemek idealdir. İlkbaharda ise ekimden önce, toprak yeterince kuruduğunda ince bir ekim yatağı hazırlanır.
+
+S: Motorlu çapa toprağa zarar verir mi?
+C: Arada bir kullanıldığında zararı sınırlıdır. Ancak sık ve hep aynı derinlikte kullanılırsa toprağı fazla ufalar ve altında sıkışmış bir tabaka oluşturabilir.
+
+S: Kazmadan bahçe her toprakta işe yarar mı?
+C: Çoğu toprakta işe yarar, ancak çok sıkışmış ya da yeni açılan alanlarda başlangıçta bir kez derin gevşetme yapmak ve bol kompost kullanmak gerekir.
+
+### YAZI
+slug: dugun-cicegi-yetistirme
+baslik: Düğün Çiçeği Yetiştirme: Gül Gibi Katmerli Ranunculus Rehberi
+yayin: 2026-12-13 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: düğün çiçeği yetiştirme
+seo_baslik: Düğün Çiçeği (Ranunculus) Yetiştirme ve Dikim Rehberi
+seo_aciklama: Düğün çiçeği yetiştirme rehberi: ranunculus yumrularını ıslatma, dikim zamanı ve derinliği, toprak, sulama, soğuktan koruma ve saksıda yetiştirme.
+ozet: Kat kat ince yapraklarıyla küçük güllere benzeyen düğün çiçeği (ranunculus), baharın en zarif kesme çiçeklerinden biridir. Pençe şeklindeki yumrularını doğru ıslatıp doğru zamanda dikerek bahçenizde ve saksınızda yetiştirebilirsiniz.
+etiketler: düğün çiçeği yetiştirme, ranunculus, yumrulu çiçekler, kesme çiçek, bahar çiçekleri
+gorsel: p10-dugun-cicegi
+gorsel_alt: Turuncu renkli, kat kat yapraklı düğün çiçekleri
+urunler: hg-cicek-topragi, tarim-perliti, hasturk-sivi-solucan-gubresi
+kisaca: Düğün çiçeği (ranunculus) pençe şeklindeki yumrulardan yetişir. Yumrular dikimden önce 3-4 saat suda bekletilir ve pençeleri aşağı bakacak şekilde 5 cm derinliğe dikilir. Ilık kışlı bölgelerde sonbaharda ve kışın, soğuk bölgelerde ise erken ilkbaharda dikilir. Süzek toprak, bol güneş ve aşırı olmayan sulama ister; ıslak toprakta yumrular çürür.
+@govde
+Düğün çiçeği yetiştirme, bahar bahçesine ve vazolarınıza zarif bir dokunuş katmanın en güzel yollarından biridir. Ranunculus olarak da bilinen bu çiçek, kâğıt inceliğindeki yaprakları kat kat dizilmiş, küçük bir gülü ya da şakayığı andıran çiçekleriyle gelin buketlerinin vazgeçilmezidir; adını da buradan alır. Beyazdan pembeye, sarıdan turuncuya, kırmızıdan mora kadar geniş bir renk yelpazesi vardır. Akdeniz ve Orta Doğu kökenli olduğu için iklimimize de oldukça uyumludur; hatta yabani ranunculus türleri Anadolu'nun birçok yerinde ilkbaharda kendiliğinden açar. Bu yazıda düğün çiçeğini yumrudan çiçeğe nasıl yetiştireceğinizi anlatıyoruz.
+
+## Düğün çiçeği yumrusunu tanıyalım
+
+Düğün çiçeği, küçük bir pençeye ya da ahtapota benzeyen, kuru ve sert yumrulardan yetişir. Satın aldığınızda bu yumrular tamamen kurumuş ve dinlenme halindedir. Yumrunun pençeleri köklerin çıkacağı yerdir ve dikimde aşağıya bakmalıdır; pençelerin birleştiği üst kısım ise sürgünün çıkacağı taraftır. İri yumrular daha güçlü bitkiler ve daha fazla çiçek verir.
+
+## Dikim zamanı
+
+Düğün çiçeği serin havayı sever; ılık ve serin günlerde büyür, sıcaklar başladığında çiçeklenmeyi bitirip dinlenmeye geçer. Hafif donlara dayanır ama sert donlardan zarar görür.
+
+**Ilık kışlı bölgeler (Akdeniz, Ege, Marmara sahilleri):** Sonbahar ve kış başı dikimi idealdir. Ekim ile aralık arasında dikilen yumrular kış boyunca kök ve yaprak geliştirir, baharın başında bol çiçek açar.
+
+**Soğuk kışlı bölgeler (İç ve Doğu Anadolu):** Yumrular kış sonunda, şubat-mart aylarında içeride ya da soğuk bir seranın içinde viyollerde başlatılır, sert donlar geçtikten sonra dışarıya dikilir.
+
+Kış ekimi yapılabilecek diğer bitkiler için [Akdeniz kış ekimi](/akdeniz-kis-ekimi) yazımıza göz atabilirsiniz.
+
+## Yumruları ıslatma ve ön çimlendirme
+
+Kurumuş yumrular dikimden önce oda sıcaklığındaki suda 3-4 saat bekletilir. Bu sürede yumrular şişip neredeyse iki katına çıkar. Yumruları gereğinden uzun süre suda bırakmayın; çürümeye başlayabilirler.
+
+Daha erken ve güçlü çiçek almak isteyenler için ön çimlendirme yöntemi de vardır: ıslatılan yumrular, hafif nemli bir toprak ya da kokopit dolu bir tepsiye yerleştirilir ve serin (yaklaşık 10 °C) bir yerde on gün kadar bekletilir. Pençelerden küçük beyaz kökler çıkmaya başladığında yumrular yerine dikilir.
+
+## Toprak ve yer
+
+Düğün çiçeği tam güneş alan bir yer ister. Toprağın süzek olması çok önemlidir; yumrular ıslak toprakta kolayca çürür. Ağır toprağınız varsa dikim alanını organik maddeyle ve perlitle hafifletin ya da yükseltilmiş yataklarda yetiştirin. Toprak hafif asidik ile nötr arasında, verimli ve gevşek olmalıdır.
+
+[ürün:hg-cicek-topragi]
+
+## Düğün çiçeği yetiştirmede dikim adımları
+
+1. Toprağı birkaç santimetre derinliğe kadar gevşetin ve olgun kompostla zenginleştirin.
+2. Yumruları pençeleri aşağı bakacak şekilde, yaklaşık 5 santimetre derinliğe dikin.
+3. Yumrular arasında 15-20 santimetre mesafe bırakın.
+4. Dikimden sonra toprağı bir kez iyice sulayın.
+5. Sürgünler görünene kadar, toprak tamamen kurumadıkça yeniden sulamayın.
+
+Bu son adım çok önemlidir: yaprakları olmayan yumru suyu kullanamaz ve fazla nemde çürür. Sürgünler toprak yüzeyine çıktıktan sonra sulamaya düzenli olarak başlanır.
+
+[ürün:tarim-perliti]
+
+## Sulama ve besleme
+
+Yapraklar geliştikten sonra toprağı hafif nemli tutun, ama asla çamur gibi bırakmayın. Toprağın üst birkaç santimetresi kuruduğunda sulayın. Sulamayı sabah saatlerinde, yaprakları ıslatmadan yapın. Tomurcuklar görünmeye başladığında iki haftada bir verilen sıvı organik besin, çiçeklerin iriliğini ve sayısını artırır.
+
+## Soğuktan koruma
+
+Genç düğün çiçeği bitkileri -3 °C civarına kadar hafif donlara dayanabilir, ancak daha sert donlarda yapraklar zarar görür. Sert soğuk beklendiğinde bitkilerin üzerini tülbent benzeri bir örtüyle kapatmak yeterli koruma sağlar. Örtüyü gündüz havalar ısındığında kaldırmayı unutmayın.
+
+## Saksıda düğün çiçeği
+
+Düğün çiçeği saksılarda ve balkon çiçekliklerinde çok güzel görünür. En az 20 santimetre derinliğinde, dibi delikli bir saksı seçin. 30 santimetre çapında bir saksıya beş altı yumru dikebilirsiniz. Süzek bir çiçek toprağına bir miktar perlit karıştırın. Saksılar sert donlarda korunaklı bir köşeye çekilebildiği için soğuk bölgelerde de saksıda yetiştirmek kolaydır. Balkon için saksı seçimi konusunda [balkon çiçekliği seçimi](/balkon-cicekligi-secimi) yazımız yardımcı olabilir.
+
+## Kesme çiçek olarak düğün çiçeği
+
+Düğün çiçeği vazoda bir haftadan fazla dayanabilen harika bir kesme çiçektir. Çiçekleri, tomurcuk renklenmiş ve yumuşamış ama henüz tam açılmamışken kesin. Sabah erken saatlerde kesip hemen serin suya koyun. Bir bitki, düzenli kesildiğinde birkaç hafta boyunca yeni çiçekler vermeye devam eder.
+
+## Düğün çiçeği yetiştirme sırasında sık yapılan hatalar
+
+- **Yumruları ters dikmek:** Pençeler her zaman aşağı bakmalıdır.
+- **Dikimden sonra sık sulamak:** Yapraksız yumru fazla suda çürür.
+- **Ağır ve su tutan toprak:** En sık görülen kayıp nedenidir.
+- **Yumruları çok uzun ıslatmak:** Bir geceden uzun bekletmek yumruyu yumuşatır.
+- **Sıcak dönemde dikmek:** Yaz sıcağında dikilen yumrular çimlenmeden çürüyebilir.
+- **Gölgeye dikmek:** Az ışıkta saplar uzar ve çiçekler küçük kalır.
+
+## Bahçede düğün çiçeğiyle kombinler
+
+Düğün çiçeği, lale, sümbül, nergis ve müskari gibi ilkbahar soğanlılarıyla birlikte dikildiğinde bahar bahçesine uzun soluklu bir renk geçidi kazandırır. Soğanlılar genellikle önce açar, düğün çiçekleri ise onların ardından bayrağı devralır. Bu bitkilerin dikim ayrıntıları için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazımıza göz atabilirsiniz. Vazoya keseceğiniz çiçeklerin ömrünü uzatmak içinse [kesme çiçek ömrü](/kesme-cicek-omru) yazımızdaki ipuçları işinize yarayacaktır.
+
+Bu kombinlerde boy farkını da hesaba katın: düğün çiçekleri 30-45 santimetre boylanır; önlerine alçak müskari ve hercai, arkalarına uzun laleler dikildiğinde katmanlı ve dolgun bir görünüm elde edilir.
+
+## Çiçeklenme sonrası
+
+Havalar ısınıp çiçeklenme sona erdiğinde yapraklar sararmaya başlar. Yapraklar tamamen kuruduktan sonra yumrular sökülüp temizlenir, gölge ve havadar bir yerde iyice kurutulur ve kuru, serin bir yerde, kâğıt torbada sonbahara kadar saklanır. Yumruları yerinde bırakmak da mümkündür, ancak yaz sulaması olan bahçelerde çürüme riski yüksektir.
+
+@sss
+S: Düğün çiçeği yumrusu ne kadar suda bekletilir?
+C: Yaklaşık 3-4 saat yeterlidir. Yumrular şişip dolgunlaştığında dikime hazırdır. Bir geceden uzun süre suda bırakmak çürümeye yol açabilir.
+
+S: Düğün çiçeği kaç günde çiçek açar?
+C: Dikim zamanına ve havaya bağlı olarak genellikle 90 gün civarında çiçek açar. Sonbaharda dikilen yumrular erken ilkbaharda, ilkbaharda dikilenler ise yaz başında çiçeklenir.
+
+S: Düğün çiçeği zehirli mi?
+C: Ranunculus türlerinin özsuyu ağız ve deride tahrişe yol açabilir; evcil hayvanlar ve çocuklar için yenilmesi zararlıdır. Bitkiyle çalışırken eldiven kullanmak iyi bir alışkanlıktır.
+
+### YAZI
+slug: igde-yetistirme
+baslik: İğde Yetiştirme: Gümüş Yapraklı, Mis Kokulu ve Kanaatkâr Ağaç
+yayin: 2026-12-13 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: iğde yetiştirme
+seo_baslik: İğde Yetiştirme: Dikim, Toprak, Budama ve Hasat
+seo_aciklama: İğde yetiştirme rehberi: kuraklığa ve tuzlu toprağa dayanıklı iğde ağacının dikimi, sulama, besleme, budama, çit olarak kullanımı, hasat ve meyveyi kurutma.
+ozet: Haziranda bütün sokağı saran baş döndürücü kokusu, gümüşi yaprakları ve tatlı, unlu meyveleriyle iğde, Anadolu'nun en kanaatkâr ağaçlarından biridir. Kurak, kireçli, hatta tuzlu topraklarda bile yetişen iğdeyi bahçenize nasıl kazandıracağınızı anlatıyoruz.
+etiketler: iğde yetiştirme, iğde ağacı, kuraklığa dayanıklı ağaçlar, çit bitkileri, Anadolu meyveleri
+gorsel: p10-igde
+gorsel_alt: Gümüşi yapraklar arasında açmış küçük sarı iğde çiçekleri
+urunler: hasturk-kati-solucan-gubresi, budama-makasi, organik-toprak
+kisaca: İğde kuraklığa, soğuğa, kireçli ve tuzlu topraklara çok dayanıklı, toprak seçmeyen bir ağaçtır. Güneşli bir yerde, kış dinlenmesinde fidan olarak dikilir. Kökleri havadaki azotu bağlayabildiği için fazla gübre istemez. İlk iki yıl düzenli sulama yeterlidir. Meyveler eylül-ekimde kızarıp unlu bir yapı kazandığında toplanır ve kurutularak saklanır.
+@govde
+İğde yetiştirme, az suyla ve az emekle hem gölge hem koku hem de meyve isteyenler için harika bir seçenektir. İğde (Elaeagnus angustifolia), Anadolu'nun hemen her yerinde, köy yollarının kenarlarında, bağ sınırlarında ve kurak tepelerde kendiliğinden yetişen, insanların yüzyıllardır tanıdığı bir ağaçtır. İlkbahar sonunda açan küçük, sarı çiçeklerinin kokusu o kadar güçlüdür ki yüzlerce metre öteden hissedilir. Gümüşi grimsi yaprakları bahçeye farklı bir renk katar. Sonbaharda olgunlaşan tatlı, unlu meyveleri ise kuru yemiş olarak sevilerek tüketilir. Bu yazıda iğdeyi nasıl dikeceğinizi, bakımını ve hasadını anlatıyoruz.
+
+## İğde ağacını tanıyalım
+
+İğde, boyu genellikle 4-7 metreye ulaşan, yayvan taçlı, yaprağını döken bir ağaç ya da büyük bir çalıdır. Dalları çoğu zaman dikenlidir. Yaprakları dar, uzun ve iki yüzü de gümüşi pullarla kaplıdır; bu pullar yaprağın güneşten ve kuraklıktan korunmasını sağlar. Mayıs ve haziran aylarında yaprak koltuklarında açan küçük, çan şeklindeki çiçekler dışta gümüşi, içte sarıdır ve son derece kokuludur. Arılar bu çiçekleri çok sever.
+
+İğdenin en dikkat çekici özelliklerinden biri, köklerinde havadaki azotu bağlayan mikroorganizmalarla ortak yaşamasıdır. Bu sayede fakir topraklarda bile kendi azotunu sağlayabilir ve çevresindeki toprağı zamanla zenginleştirir.
+
+## İğde yetiştirmeye uygun iklim ve toprak
+
+İğde son derece dayanıklı bir ağaçtır. Kışın -25 °C'ye kadar soğuğa, yazın ise yüksek sıcaklıklara ve uzun kuraklıklara dayanır. Toprak konusunda da neredeyse hiç seçici değildir: kumlu, taşlı, kireçli, hatta tuzlu ve alkali topraklarda bile yetişebilir. Bu yüzden diğer ağaçların zorlandığı yerlerde, örneğin yol kenarlarında, kurak yamaçlarda ve tuzlu topraklarda erozyon kontrolü ve ağaçlandırma için de kullanılır. Kireçli topraklara uyum sağlayan diğer bitkileri [kireçli toprakta yetişen bitkiler](/kirecli-toprakta-yetisen-bitkiler) yazımızda bulabilirsiniz.
+
+İğdenin tek gerçek istekleri bol güneş ve suyun birikmemesidir. Gölgede zayıf gelişir ve az çiçek açar; sürekli ıslak kalan topraklarda ise kökleri zarar görür.
+
+## Fidan seçimi ve dikim
+
+İğde tohumla, çelikle ve kök sürgünleriyle çoğaltılabilir. Bahçe için en pratik yol fidanlıktan alınan bir fidanı dikmektir. Daha iri ve tatlı meyveli çeşitler isteniyorsa aşılı fidanları tercih edin.
+
+Dikim için en uygun zaman, ağacın yapraksız olduğu sonbahar sonu ile kış sonu arasıdır; toprağın donmadığı aralık günleri de uygundur. Kök sisteminin iki katı genişliğinde, 40-50 santimetre derinliğinde bir çukur açın. Fakir topraklarda çıkan toprağa bir miktar olgun kompost ya da organik toprak karıştırmak fidanın ilk yıllarda daha hızlı gelişmesini sağlar. Fidanı fidanlıktaki seviyesinde dikin, toprağı bastırın ve bol su verin.
+
+[ürün:organik-toprak]
+
+## Sulama
+
+Genç iğde fidanlarını ilk iki yıl, özellikle yaz aylarında, haftada bir derin sulama ile destekleyin. Kök sistemi derinleştikten sonra iğde, yağışların az olduğu bölgelerde bile ek sulama olmadan yaşayabilir. Bununla birlikte, meyve büyüme döneminde yapılacak birkaç derin sulama meyvelerin daha iri ve dolgun olmasını sağlar. Aşırı sulamadan kaçının; iğde ıslak ayaklardan hoşlanmaz. Az su isteyen bir bahçe kurmayı düşünüyorsanız [kuraklığa dayanıklı bahçe](/kurakliga-dayanikli-bahce) yazımızda iğdeye eşlik edebilecek bitkileri bulabilirsiniz.
+
+## Besleme
+
+İğde, köklerindeki azot bağlayıcı ortakları sayesinde azotlu gübreye neredeyse hiç ihtiyaç duymaz. Fazla azot, ağacın meyve yerine uzun sürgünler üretmesine yol açar. Çok fakir topraklarda kış sonunda ağacın taç izdüşümüne serpilen bir miktar solucan gübresi ya da olgun kompost, toprağın yapısını iyileştirmek ve fosfor, potasyum gibi diğer besinleri sağlamak için yeterlidir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Budama
+
+İğde hızlı büyüyen bir ağaçtır ve doğal olarak yayvan, düzensiz bir taç oluşturur. Kış dinlenmesinde kurumuş, kırılmış ve birbirine sürtünen dallar çıkarılır, tacın ortası ışık alacak şekilde seyreltilir. Ağaç formunda yetiştirmek istiyorsanız alttaki dalları zamanla temizleyerek tek bir gövde oluşturun. Çalı formunda ya da çit olarak yetiştiriyorsanız düzenli kısaltma budamasıyla yoğun bir yapı elde edebilirsiniz. Dikenli dallarla çalışırken kalın eldiven kullanmayı unutmayın.
+
+İğde, kökten sürgün verme eğilimindedir. Ağacın çevresinden çıkan sürgünleri düzenli olarak dipten kesin. Bazı bölgelerde iğde, kendiliğinden yayılarak doğal alanlara yerleşebildiği için, bahçenin dışına yayılmasına izin vermemek ve kök sürgünlerini kontrol altında tutmak iyi bir bahçecilik alışkanlığıdır.
+
+## İğde çit olarak
+
+Dikenli dalları, sık dallanması, rüzgâra ve kuraklığa dayanıklılığı iğdeyi, özellikle kırsal bahçelerde ve bağ evlerinde iyi bir rüzgâr kıran ve sınır çiti yapar. Çit için fidanlar 1-1,5 metre aralıkla dikilir ve ilk yıllarda uçları kısaltılarak dipten dallanmaları sağlanır. Farklı çit bitkilerini karşılaştırmak için [çit bitkileri](/cit-bitkileri) yazımıza göz atabilirsiniz.
+
+## İğde yetiştirmede hasat ve kurutma
+
+İğde meyveleri eylül sonu ile ekim arasında olgunlaşır. Olgunlaşan meyvenin kabuğu kırmızımsı kahverengiye döner, eti ise sarımsı-beyaz, tatlı ve unlu bir yapı kazanır. Meyveler dallar silkelenerek ya da elle toplanır. Taze olarak da yenebilir, ancak genellikle kurutulur. Kurutmak için meyveler güneşli ve havadar bir yerde bir iki hafta bekletilir. İyi kurutulmuş iğde, kuru ve serin bir yerde, bez torbalarda aylarca saklanabilir.
+
+## Çoğaltma
+
+İğde tohumları sonbaharda toplanıp dışarıda soğuklamaya bırakıldığında ilkbaharda çimlenir. Tohumdan yetişen ağaçların meyve kalitesi değişken olabilir. Daha garantili bir yöntem, kış dinlenmesinde alınan odun çelikleriyle ya da kök sürgünlerinin ayrılmasıyla çoğaltmaktır. Tohumların soğuklama işlemi hakkında bilgi için [tohum soğuklama](/tohum-soguklama-stratifikasyon) yazımıza bakabilirsiniz.
+
+## İğde ile hünnap arasındaki fark
+
+İğde ve hünnap, ikisi de kuraklığa dayanıklı, kurutularak tüketilen meyveler verdiği için sık sık karıştırılır. İğdenin yaprakları dar ve gümüşi, meyvesi unlu ve kuru yapılıdır. Hünnabın yaprakları ise parlak yeşil, meyvesi taze iken gevrek ve elma gibidir. Hünnap hakkında daha fazla bilgi için [hünnap yetiştirme](/hunnap-yetistirme) yazımızı okuyabilirsiniz.
+
+@sss
+S: İğde kaç yılda meyve verir?
+C: Fidan olarak dikilen iğde genellikle üç dört yıl içinde meyve vermeye başlar. Tohumdan yetişen ağaçlarda bu süre daha uzun olabilir.
+
+S: İğde ağacı ne kadar su ister?
+C: İlk iki yıl düzenli sulama ister. Yerleştikten sonra kuraklığa çok dayanıklıdır ve çoğu bölgede ek sulama olmadan yaşar; meyve döneminde birkaç derin sulama meyveyi iriltir.
+
+S: İğde çiçeğinin kokusu alerji yapar mı?
+C: İğde çiçeklerinin güçlü kokusu ve polenleri bazı hassas kişilerde alerjik belirtilere yol açabilir. Alerjiniz varsa ağacı pencere ve oturma alanlarından uzağa dikmeyi düşünebilirsiniz.
+
+### YAZI
+slug: ming-aralia-bakimi
+baslik: Ming Aralia Bakımı: İnce Yapraklı Zarif Salon Ağacı
+yayin: 2026-12-13 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: ming aralia bakımı
+seo_baslik: Ming Aralia (Polyscias) Bakımı: Işık, Nem ve Sulama
+seo_aciklama: Ming aralia bakımı nasıl yapılır? Polyscias için ışık, sulama, nem, toprak, sıcaklık, yaprak dökümünün nedenleri, budama ve bonsai biçiminde yetiştirme.
+ozet: İnce, dantel gibi parçalı yapraklarıyla ming aralia, salonlara Uzak Doğu havası katan zarif bir bitkidir. Ancak yer değişikliğine, soğuğa ve kuru havaya hassastır. Ming aralia bakımının inceliklerini anlatıyoruz.
+etiketler: ming aralia bakımı, polyscias, salon bitkisi bakımı, bonsai, yaprak dökümü
+gorsel: p10-ming-aralia
+gorsel_alt: İnce ve derin parçalı yeşil yaprakları olan ming aralia bitkisi
+urunler: akilli-toprak-organik-bitki-topragi, tarim-perliti, hasturk-sivi-solucan-gubresi
+kisaca: Ming aralia parlak ama doğrudan güneş almayan bir ışık, 18-24 °C sıcaklık ve yüksek nem ister. Toprağın üst kısmı kuruduğunda sulanmalı, saksıda su bırakılmamalıdır. Yer değişikliği, soğuk hava akımı ve kuru hava yaprak dökümünün başlıca nedenleridir. Süzek bir toprak, düzenli hafif besleme ve sabit bir yer bitkiyi sağlıklı tutar.
+@govde
+Ming aralia bakımı, sabırlı ve dikkatli bitki severler için çok keyifli bir uğraştır. Güney Pasifik adalarından gelen bu bitki (Polyscias fruticosa), ince, derin parçalı, dantel gibi yaprakları ve zamanla odunlaşan, hafif kıvrımlı gövdesiyle küçük bir Asya ağacını andırır. Bu zarif görünümü sayesinde hem salonlarda tek başına bir süs bitkisi olarak hem de bonsai meraklılarının koleksiyonlarında sıkça yer alır. Ming aralia aslında zor bir bitki değildir, ama ficus ailesine benzer bir huyu vardır: değişiklikten hoşlanmaz ve stres yaşadığında yapraklarını hızla döker. Bu yazıda ming aralianın ışık, sulama, nem ve toprak isteklerini, yaprak dökümünün nedenlerini ve şekil vermeyi anlatıyoruz.
+
+## Işık
+
+Ming aralia parlak ama süzülmüş bir ışığı sever. Doğu ya da batıya bakan bir pencere önü idealdir. Güney penceresinin önünde tül perde arkasında durabilir; öğle güneşinin camdan doğrudan vurması ince yapraklarda yanıklara yol açar. Işık yetersiz kaldığında dallar uzar, yapraklar seyrekleşir ve iç kısımdaki yapraklar dökülür. Kış aylarında bitkiyi evin en aydınlık noktasına yaklaştırmak faydalıdır. Işık ihtiyacının genel ilkeleri için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazımıza göz atabilirsiniz.
+
+Ming aralia, ışık yönünün sık değişmesinden hoşlanmaz. Saksıyı çevirmek gerekiyorsa bunu birkaç haftada bir ve çok az yaparak gerçekleştirin.
+
+## Ming aralia bakımında sulama
+
+Ming aralia, ne kurumayı ne de ıslak kalmayı sever. Toprağın üst iki üç santimetresi kuruduğunda bitkiyi iyice sulayın ve fazla suyun saksının dibinden akmasını bekleyin. Saksı tabağında su bırakmayın. Toprağın tamamen kuruması yaprakların sararıp dökülmesine, sürekli ıslak kalması ise kök çürümesine yol açar. Yaz aylarında sulama sıklığı artar, kışın ise büyüme yavaşladığı için azalır. Sulama suyunun oda sıcaklığında olmasına dikkat edin; soğuk su kökleri şaşırtır.
+
+## Nem: En çok ihmal edilen konu
+
+Tropik adaların nemli havasından gelen ming aralia, yüksek nemi çok sever. Kışın kaloriferli evlerde hava nemi çok düştüğünde yaprak uçları kahverengileşir, yapraklar sararıp dökülür ve kırmızı örümcek gibi zararlılar kolayca çoğalır. Nemi artırmak için saksıyı çakıllı ve sulu bir tepsinin üzerine koyabilir, bitkiyi diğer salon bitkileriyle gruplayabilir ya da bir nemlendirici kullanabilirsiniz. Banyo ve mutfak gibi doğal olarak nemli ve aydınlık mekânlar da ming aralia için uygun olabilir. Kış aylarında nemi korumanın yolları için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza göz atabilirsiniz.
+
+## Toprak ve saksı
+
+Ming aralia, hafif, havadar, organik maddece zengin ve süzek bir toprak ister. Kaliteli bir saksı toprağına perlit eklenerek hazırlanan karışım idealdir. Ağır ve sıkışan topraklar köklerin havasız kalmasına neden olur. Saksının dibinde mutlaka drenaj deliği bulunmalıdır.
+
+[ürün:akilli-toprak-organik-bitki-topragi]
+
+Ming aralia, köklerinin saksıyı biraz doldurmasını sever ve sık saksı değişiminden hoşlanmaz. Kökler saksının dibinden çıkmaya başladığında, ilkbaharda bir boy büyük bir saksıya geçin. Saksı değişimi sırasında kök topunu mümkün olduğunca bozmamaya çalışın.
+
+[ürün:tarim-perliti]
+
+## Sıcaklık
+
+Ming aralia sıcak bir ortam sever: 18-24 °C idealdir. 15 °C'nin altındaki sıcaklıklar ve ani sıcaklık değişimleri yaprak dökümünü tetikler. Kışın soğuk pencere camlarına, sık açılan kapılara ve cereyanlı koridorlara yakın tutmayın. Kalorifer peteğinin hemen yanı da havayı kurutarak bitkiyi zorlar.
+
+## Yaprak dökümü neden olur?
+
+Ming aralia sahiplerinin en sık karşılaştığı sorun ani yaprak dökümüdür. Bitki yeni alındığında ya da yeri değiştirildiğinde birkaç yaprak dökmesi normaldir. Bu dönemde bitkiyi yerinden oynatmayın, sulamayı abartmayın ve sabırla yeni yaprakları bekleyin.
+
+Yaprak dökümü sürüyorsa şu nedenleri gözden geçirin:
+
+- **Soğuk ya da cereyan:** Yeşil yaprakların aniden ve topluca dökülmesi.
+- **Kuru hava:** Kahverengileşen yaprak uçları ve kenarları.
+- **Aşırı sulama:** Sararan yapraklar ve sürekli ıslak toprak.
+- **Susuzluk:** Kuruyup çıtırlaşan yapraklar.
+- **Işık yetersizliği:** İç kısımdaki yaprakların yavaş yavaş dökülmesi.
+- **Zararlılar:** Yaprak altlarında ince ağlar kırmızı örümcek belirtisidir; kuru havada sık görülür.
+
+Benzer hassasiyete sahip bir başka salon ağacı için [ficus ginseng bakımı](/ficus-ginseng-bakimi) yazımız da faydalı olabilir.
+
+## Besleme
+
+İlkbahardan sonbahara kadar, ayda bir ya da iki kez sulama suyuna karıştırılan seyreltilmiş bir sıvı besin yeterlidir. Kış aylarında besleme kesilir. Fazla gübre yaprak uçlarının yanmasına ve toprakta tuz birikmesine yol açar.
+
+## Budama ve şekil verme
+
+Ming aralia budamaya iyi tepki verir. İlkbaharda uzayan dalların uçlarını kısaltmak bitkinin daha sık dallanmasını ve daha yoğun bir görünüm kazanmasını sağlar. Gövdeyi ortaya çıkarmak için alttaki küçük dalları zamanla temizleyerek bitkiyi ağaç formunda yetiştirebilirsiniz. Bonsai olarak yetiştirmek isteyenler için ming aralia iyi bir başlangıç bitkisidir; ince yaprakları ve odunlaşan gövdesi minyatür bir ağaç görüntüsü verir. Budamadan çıkan sağlıklı uç çelikleri de yeni bitkiler elde etmek için köklendirilebilir. Çoğaltma yöntemleri için [salon bitkisi çoğaltma](/salon-bitkisi-cogaltma) yazımıza göz atabilirsiniz.
+
+## Ming aralia bakımında mevsimsel takvim
+
+**İlkbahar:** Büyümenin yeniden başladığı dönemdir. Saksı değişimi, şekil budaması ve beslemeye başlamak için en uygun zamandır. Günler uzadıkça sulama sıklığını yavaş yavaş artırın.
+
+**Yaz:** Toprağın kuruma hızını yakından izleyin, düzenli besleyin ve sıcak günlerde nemi artırın. Bitkiyi balkona çıkaracaksanız doğrudan güneş almayan, rüzgârsız bir köşe seçin.
+
+**Sonbahar:** Beslemeyi azaltın. Balkondaki bitkiyi gece sıcaklıkları 15 °C'nin altına inmeden içeri alın ve sabit bir yere yerleştirin.
+
+**Kış:** Sulamayı azaltın, beslemeyi kesin, nemi artırın ve bitkiyi soğuk camdan ve kaloriferden uzak tutun. Bu basit takvime uymak, ming aralia bakımını kolaylaştırır ve mevsim geçişlerindeki yaprak dökümünü en aza indirir.
+
+## Evcil hayvanlar
+
+Ming aralia yaprakları kediler ve köpekler için tahriş edici olabilir. Evde yaprak kemiren dostlarınız varsa bitkiyi onların ulaşamayacağı bir yere yerleştirin.
+
+@sss
+S: Ming aralia ne kadar büyür?
+C: Saksıda genellikle 1-2 metre boya ulaşabilir. Budamayla daha küçük ve yoğun tutulabilir; bonsai olarak yetiştirildiğinde ise birkaç on santimetrede tutulur.
+
+S: Ming aralia neden yapraklarını döker?
+C: En sık nedenler yer değişikliği, soğuk hava akımı, kuru hava ve düzensiz sulamadır. Bitkiyi sabit, aydınlık ve sıcak bir yerde tutmak ve nemi artırmak çoğu zaman sorunu çözer.
+
+S: Ming aralia az ışıkta yaşar mı?
+C: Kısa süre dayanabilir, ama uzun vadede yapraklarını döker ve seyrek bir görünüm alır. Parlak, süzülmüş bir ışık bu bitki için en sağlıklı ortamdır.
+
+### YAZI
+slug: aglaonema-bakimi
+baslik: Aglaonema Bakımı: Az Işıkta Bile Renkli Kalan Kolay Salon Bitkisi
+yayin: 2026-12-13 13:45
+yazar: Muhammed Hamza Çelik
+kategori: bitki-bakimi
+odak: aglaonema bakımı
+seo_baslik: Aglaonema Bakımı: Işık, Sulama, Toprak ve Çoğaltma
+seo_aciklama: Aglaonema bakımı nasıl yapılır? Yeşil ve renkli çeşitler için ışık, sulama, toprak, sıcaklık, besleme, yaprak sorunlarının nedenleri ve bölerek çoğaltma.
+ozet: Yeşil, gümüşi, pembe ve kırmızı desenli yapraklarıyla aglaonema, az ışığa ve ara sıra unutulan sulamaya dayanan, başlangıç için ideal bir salon bitkisidir. Aglaonema bakımını ve sık görülen yaprak sorunlarını anlatıyoruz.
+etiketler: aglaonema bakımı, çin her dem yeşili, salon bitkisi bakımı, az ışıkta yaşayan bitkiler, ofis bitkileri
+gorsel: p10-aglaonema
+gorsel_alt: Kırmızı ve yeşil desenli yaprakları olan aglaonema bitkileri
+urunler: genel-saksi-topragi-ozel-karisim, tarim-perliti, hasturk-sivi-solucan-gubresi
+kisaca: Aglaonema orta ile az ışığa dayanıklıdır, ancak renkli çeşitler daha parlak, dolaylı ışık ister. Toprağın üst yarısı kuruduğunda sulanmalı, saksıda su bırakılmamalıdır. 18-27 °C sıcaklık ve orta nem idealdir; 15 °C'nin altı yapraklara zarar verir. Süzek bir toprak, ılık mevsimde hafif besleme ve soğuktan korunma bitkiyi yıllarca sağlıklı tutar.
+@govde
+Aglaonema bakımı, salon bitkileriyle yeni tanışanlar için bile oldukça kolaydır. Güneydoğu Asya'nın tropik ormanlarının gölgeli tabanından gelen bu bitki, Çin her dem yeşili adıyla da bilinir ve bulunduğu yere dayanıklılığıyla dikkat çeker. Az ışıklı köşelere, ara sıra unutulan sulamalara ve ofis ortamlarına diğer birçok salon bitkisinden daha iyi uyum sağlar. Son yıllarda geliştirilen pembe, kırmızı, turuncu ve gümüşi desenli çeşitleriyle de dekorasyonun gözdesi haline geldi. Bu yazıda aglaonemanızı sağlıklı ve renkli tutmak için ışık, sulama, toprak ve sıcaklık isteklerini, yaprak sorunlarının nedenlerini ve çoğaltma yöntemini anlatıyoruz.
+
+## Yeşil ve renkli aglaonema çeşitleri
+
+Aglaonemaları bakım açısından kabaca iki gruba ayırabiliriz. **Koyu yeşil ve gümüşi desenli çeşitler** az ışığa en dayanıklı olanlardır; kuzey penceresi ya da odanın iç kısımları onlara yetebilir. **Pembe, kırmızı ve turuncu renkli çeşitler** ise renklerini koruyabilmek için daha fazla ışığa ihtiyaç duyar. Bu çeşitler loş bir köşede renklerini kaybedip soluklaşabilir.
+
+## Işık
+
+Aglaonema doğrudan güneş ışığından hoşlanmaz; güneşin camdan doğrudan vurduğu yerlerde yapraklarında solgun, yanık lekeler oluşur. En iyi gelişim, parlak ama dolaylı ışık alan yerlerde görülür. Yeşil çeşitler orta ve az ışıkta da yaşar, ancak büyümeleri yavaşlar. Renkli çeşitleri pencereye birkaç metre mesafede, aydınlık bir noktada tutun. Az ışıkta yaşayabilen diğer bitkileri merak ediyorsanız [az ışıkta yaşayan salon bitkileri](/az-isikta-yasayan-salon-bitkileri) yazımıza göz atabilirsiniz.
+
+## Aglaonema bakımında sulama
+
+Aglaonema, toprağın biraz kurumasına izin verilmesini sever. Toprağın üst yarısı kuruduğunda bitkiyi iyice sulayın ve fazla suyun saksının dibinden akmasını bekleyin. Saksı tabağında su bırakmayın. Kışın büyüme yavaşladığı için sulama aralığı uzar. Aşırı sulama, bu bitkinin en büyük düşmanıdır; sürekli ıslak toprak kök ve gövde çürümesine yol açar. Kısa süreli susuzluğa ise genellikle iyi dayanır. Sulama sıklığı hakkında genel bilgi için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımızı okuyabilirsiniz.
+
+## Toprak ve saksı
+
+Aglaonema, organik maddece zengin, hafif ve süzek bir toprak ister. Kaliteli bir saksı toprağına perlit eklemek, fazla suyun kolayca akmasını ve köklerin nefes almasını sağlar. Saksının dibinde mutlaka drenaj deliği olmalıdır.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+Aglaonema yavaş büyüyen bir bitkidir ve köklerinin saksıyı doldurmasından rahatsız olmaz. Genellikle iki üç yılda bir, ilkbaharda bir boy büyük saksıya geçmek yeterlidir. Saksı değişiminin adımları için [saksı değiştirme rehberi](/saksi-degistirme-rehberi) yazımıza göz atabilirsiniz.
+
+[ürün:tarim-perliti]
+
+## Sıcaklık ve nem
+
+Tropik kökenli aglaonema sıcak sever: 18-27 °C idealdir. 15 °C'nin altındaki sıcaklıklar yapraklarda kararma ve sararmaya, uzun süreli soğuk ise bitkinin ciddi zarar görmesine yol açar. Kışın soğuk pencere camlarına değmemesine, cereyan alan yerlerde durmamasına dikkat edin. Orta düzeyde nem yeterlidir; kuru kış havasında yaprak uçları kahverengileşebilir. Bu durumda saksıyı çakıllı ve sulu bir tepsinin üzerine koymak yardımcı olur.
+
+## Besleme
+
+İlkbahardan sonbahara kadar, ayda bir kez sulama suyuna karıştırılan seyreltilmiş bir sıvı besin aglaonemanın ihtiyacını karşılar. Kışın besleme yapılmaz. Fazla gübre yaprak kenarlarında kahverengi yanıklara yol açar.
+
+## Yaprak sorunları ve nedenleri
+
+**Sararan alt yapraklar:** Yaşlı yaprakların ara sıra sararıp dökülmesi doğaldır. Birden çok yaprak sararıyorsa aşırı sulamayı kontrol edin.
+
+**Kahverengi yaprak uçları:** Kuru hava, düzensiz sulama ya da toprakta tuz birikmesi.
+
+**Soluklaşan renkli yapraklar:** Işık yetersizliği.
+
+**Yapraklarda solgun, kuru lekeler:** Doğrudan güneş yanığı.
+
+**Kararan, yumuşayan yapraklar ve gövde:** Soğuk zararı ya da çürüme.
+
+**Yaprak altında pamuksu kümeler:** Unlu bit olabilir; erken fark edilirse yaprakları silerek temizlemek çoğu zaman yeterlidir.
+
+## Çoğaltma
+
+Aglaonema en kolay bölerek çoğaltılır. İlkbaharda saksı değişimi sırasında bitkiyi saksıdan çıkarın ve her parçada kök ve birkaç yaprak kalacak şekilde nazikçe ayırın. Parçaları ayrı saksılara dikip ilk haftalarda toprağı hafif nemli tutun. Uzayıp çıplak kalmış gövdelerin uç kısımları da kesilip suda ya da nemli toprakta köklendirilebilir.
+
+## Aglaonema bakımında sık yapılan hatalar
+
+Aglaonema dayanıklı bir bitki olsa da bazı hatalar onu kısa sürede zor duruma sokabilir. En sık yapılan hata, bitkiyi her gün ya da çok sık sulamaktır. Toprağın kurumasına izin vermeden verilen su, köklerin havasız kalmasına ve çürümesine yol açar. İkinci yaygın hata, renkli çeşitleri loş köşelere koymaktır; bu çeşitler renklerini ancak yeterli ışıkta korur. Üçüncü hata ise kışın bitkiyi soğuk bir pencere önünde ya da sürekli açılıp kapanan bir kapının yanında bırakmaktır. Ayrıca çok büyük bir saksıya geçmek de gereksiz toprak hacmi nedeniyle aşırı nem birikmesine yol açar.
+
+Bunlara ek olarak, yaprakların üzerinde biriken toz da gözden kaçan bir sorundur. Geniş aglaonema yaprakları zamanla toz tutar; bu da ışığın yaprağa ulaşmasını azaltır ve zararlıların yerleşmesini kolaylaştırır. Ayda bir yaprakları nemli, yumuşak bir bezle silmek bitkinin hem daha sağlıklı hem de daha canlı görünmesini sağlar.
+
+## Ofis ve ev için neden iyi bir seçim?
+
+Aglaonema, ofislerin floresan ışıklı ortamlarına, düzensiz bakım temposuna ve klimalı havasına birçok salon bitkisinden daha iyi uyum sağlar. Yavaş büyüdüğü için sık saksı değişimi ya da budama gerektirmez. Masa üstüne uygun küçük boylardan zemin saksılarına uygun büyük bitkilere kadar farklı boyutlarda bulunabilir. Yapraklarındaki desenler sayesinde çiçek açmasa bile yıl boyu renkli bir görünüm sunar. Çalışma ortamı için başka öneriler arıyorsanız [ofis bitkileri](/ofis-bitkileri) yazımıza da göz atabilirsiniz. Doğru yerde, ölçülü sulama ile aglaonema bakımı yıllarca zahmetsizce sürdürülebilir.
+
+## Evcil hayvanlar ve güvenlik
+
+Aglaonemanın yaprak ve gövdelerinde bulunan kalsiyum oksalat kristalleri, yenildiğinde ağız ve boğazda tahrişe yol açabilir. Bu nedenle bitkiyi kedilerin, köpeklerin ve küçük çocukların ulaşamayacağı bir yerde tutun. Bu konuda daha fazla bilgi için [zehirli ev bitkileri](/zehirli-ev-bitkileri) yazımıza göz atabilirsiniz.
+
+@sss
+S: Aglaonema az ışıkta yaşar mı?
+C: Koyu yeşil çeşitler az ışığa iyi dayanır. Pembe ve kırmızı desenli çeşitler ise renklerini koruyabilmek için parlak, dolaylı ışığa ihtiyaç duyar.
+
+S: Aglaonema ne sıklıkla sulanır?
+C: Takvime göre değil, toprağa göre sulanmalıdır. Toprağın üst yarısı kuruduğunda bol su verin; yazın bu genellikle haftada bir, kışın iki üç haftada bir sulamaya denk gelir.
+
+S: Aglaonema çiçek açar mı?
+C: Olgun bitkiler ara sıra küçük, beyazımsı, kalla çiçeğine benzeyen çiçekler açabilir. Bu çiçekler süs değeri taşımaz; bazı yetiştiriciler bitkinin enerjisini yapraklara yönlendirmek için onları keser.
+
+### YAZI
+slug: kus-dostu-bahce
+baslik: Kuş Dostu Bahçe: Kışın Kuşları Bahçenize Davet Etmenin Yolları
+yayin: 2026-12-13 15:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: kuş dostu bahçe
+seo_baslik: Kuş Dostu Bahçe Nasıl Kurulur? Kış İçin Öneriler
+seo_aciklama: Kuş dostu bahçe nasıl kurulur? Kışın kuşlar için yem ve su, meyveli çalılar, sık çitler, yuva kutuları, ilaçsız bahçe ve zararlılarla doğal mücadele.
+ozet: Kış sabahı pencereden bahçeye konan bir iskete, bir kızılgerdan ya da bir serçe sürüsü... Kuşlar hem bahçeye neşe katar hem de zararlılarla mücadelede en büyük yardımcılarımızdır. Kışın kuşları bahçenize davet etmenin yollarını anlatıyoruz.
+etiketler: kuş dostu bahçe, kış bahçesi, doğal zararlı kontrolü, meyveli çalılar, yuva kutusu
+gorsel: p10-kus-dostu
+gorsel_alt: Karla kaplı zeminde yem arayan bir kızılgerdan kuşu
+urunler: altinvadi-gelincik-cicegi-tohumu, altinvadi-karagoz-kadife-cicegi-tohumu, organik-toprak
+kisaca: Kuş dostu bir bahçe için dört temel ihtiyaç karşılanır: yiyecek, su, barınak ve yuva yeri. Kışın meyvesi dalda kalan çalılar, tohum veren çiçekler ve düzenli tazelenen temiz su kuşları çeker. Sık dallı çitler ve çalılar barınak sağlar. Sonbaharda bahçeyi aşırı temizlememek ve ilaç kullanmamak kuşların besin bulmasını kolaylaştırır.
+@govde
+Kuş dostu bahçe, sadece kuş sevenlerin değil, bahçesini sağlıklı ve canlı tutmak isteyen herkesin hedefi olmalıdır. Kuşlar bahçeye renk, ses ve hareket katar; bir kış sabahı pencereden izlenen bir serçe sürüsü ya da çit dibinde eşelenen bir karatavuk, en sakin bahçeyi bile canlandırır. Ama kuşların bahçeye katkısı bununla sınırlı değildir. Baştankara gibi küçük kuşlar yavrularını beslemek için tek bir mevsimde binlerce tırtıl, yaprak biti ve böcek toplar. Yani kuşlar bahçenin ücretsiz ve çok çalışkan zararlı avcılarıdır. Kış ise kuşların en zor dönemidir: besin azalır, su donar ve geceler uzar. Bu dönemde bahçenizde onlara destek olmak, ilkbaharda karşılığını fazlasıyla alacağınız bir yatırımdır. Bu yazıda kışın kuşları bahçenize davet etmenin yollarını anlatıyoruz.
+
+## Kuşların dört temel ihtiyacı
+
+Kuş dostu bir bahçe kurmanın sırrı, kuşların dört temel ihtiyacını karşılamaktır:
+
+1. **Yiyecek:** Tohumlar, meyveler, böcekler ve kışın ek yem.
+2. **Su:** İçmek ve tüylerini temizlemek için temiz su.
+3. **Barınak:** Yırtıcılardan ve kötü havadan korunacakları sık dallar.
+4. **Yuva yeri:** İlkbaharda yavru büyütecekleri güvenli köşeler.
+
+Bu dördünü bir arada sunan kuş dostu bahçe, kısa sürede kuşların düzenli uğrak yeri haline gelir.
+
+## Kışın meyve veren bitkiler
+
+Kuşlar için en değerli bitkiler, meyvelerini kış boyunca dalda tutan çalı ve ağaçlardır. Kuşburnu, alıç, ateş dikeni, kokina, ardıç, mersin, ligustrum ve yemişen bu açıdan çok değerlidir. Bu bitkilerin meyveleri kışın ortasında, başka besin kalmadığında kuşlar için hayati bir kaynak olur. Bahçenize bu tür birkaç çalı eklemek, kuşları en doğal yoldan beslemenin yoludur. Kuşburnunun yetiştirilmesi için [kuşburnu yetiştirme](/kusburnu-yetistirme) yazımıza göz atabilirsiniz.
+
+Meyve ağaçlarınızdaki son birkaç elmayı ya da ayvayı dalda bırakmak da kışın kuşlar için güzel bir ikram olur.
+
+## Tohum veren çiçekler ve sonbahar temizliği
+
+Ayçiçeği, kadife çiçeği, kozmos, ekinezya, gelincik ve birçok ot türünün tohumları, iskete ve saka gibi tohumla beslenen kuşların favori besinidir. Bu nedenle sonbaharda çiçek tarhlarını tamamen temizlemek yerine, tohum başlarını dalda bırakmayı düşünün. Kurumuş saplar hem kuşlara besin sağlar hem de böceklerin kışlaması için barınak olur.
+
+[ürün:altinvadi-karagoz-kadife-cicegi-tohumu]
+
+Bahar geldiğinde kuru sapları temizleyip yeni ekimler yapabilirsiniz. İlkbaharda ekeceğiniz kır çiçekleri ise hem arılara hem de böceklerle beslenen kuşlara yaz boyu besin sağlar. Polinatörleri destekleyen bitkiler için [arı dostu bitkiler](/ari-dostu-bitkiler) yazımıza göz atabilirsiniz.
+
+[ürün:altinvadi-gelincik-cicegi-tohumu]
+
+Dökülen yaprakları da tamamen toplamayın. Çit diplerinde ve çalı altlarında bırakılan yaprak tabakası, kışın kuşların eşelenerek böcek ve kurt aradığı zengin bir sofradır. Dökülen yaprakları değerlendirmenin bir yolu da [yaprak kompostu](/yaprak-kompostu) yapmaktır.
+
+## Kış yemliği
+
+Kar yağdığında ve soğuklar sertleştiğinde, doğal besinler kuşlara yetmeyebilir. Bu dönemde bir yemlik kurmak kuşlara büyük destek olur. Yemlik için uygun besinler şunlardır:
+
+- Kabuklu ya da kabuksuz ayçiçeği çekirdeği (tuzsuz ve kavrulmamış)
+- Darı ve kuş yemi karışımları
+- Tuzsuz, çiğ ve ufalanmış ceviz ya da fıstık
+- Elma ve armut dilimleri
+- Kuşlar için hazırlanmış iç yağı topları
+
+Kuşlara asla tuzlu, baharatlı, kızartılmış yiyecekler ve küflenmiş ekmek vermeyin. Bayat ekmek kuşların karnını doyurur ama besin değeri düşüktür; düzenli olarak verilmemelidir.
+
+Yemliği kedilerin ulaşamayacağı bir yüksekliğe, ama kuşların yakındaki bir çalıya ya da ağaca hızla kaçabileceği bir mesafeye yerleştirin. Yemliği düzenli temizleyin ve ıslanıp küflenen yemleri atın. Bir kez beslemeye başladıysanız kış boyunca düzenli devam edin, çünkü kuşlar bu kaynağa güvenmeye başlar.
+
+## Su
+
+Kışın donan sular yüzünden kuşlar içecek su bulmakta zorlanır. Sığ bir su kabı ya da kuş banyosu, bahçenizi kuşlar için çok çekici hale getirir. Kabın derinliği birkaç santimetreyi geçmemeli, içine tutunmaları için birkaç düz taş konulmalıdır. Suyu her gün tazeleyin; dondurucu soğuklarda sabahları buzu kırın ya da kabı ılık suyla doldurun. Suya kesinlikle antifriz, tuz ya da başka bir madde eklemeyin.
+
+## Barınak: Sık çitler ve çalılar
+
+Kuşlar, yırtıcı kuşlardan, kedilerden ve sert rüzgârdan korunabilecekleri sık dallı bitkilere ihtiyaç duyar. Kışın yaprak dökmeyen çitler ve çalılar, örneğin taflan, ligustrum, şimşir ve ardıç, kış gecelerinde kuşlar için sıcak birer sığınaktır. Dikenli çalılar, örneğin alıç, ateş dikeni ve kuşburnu, hem barınak hem de besin sağlar. Farklı çit bitkilerini karşılaştırmak için [çit bitkileri](/cit-bitkileri) yazımıza göz atabilirsiniz.
+
+Bahçenizin bir köşesine kuru dallardan küçük bir yığın yapmak da kuşlar ve diğer küçük canlılar için mükemmel bir barınak olur.
+
+## Yuva kutuları
+
+Kış sonu, yuva kutularını asmak için en uygun zamandır. Kuşlar ilkbahar gelmeden yuva yeri aramaya başlar. Yuva kutusunu, öğle güneşini ve hâkim rüzgârı doğrudan almayan, kedilerin ulaşamayacağı bir yüksekliğe, bir ağaç gövdesine ya da duvara sabitleyin. Giriş deliğinin çapı, hangi kuşların yerleşeceğini belirler: küçük delikler baştankaralar, daha büyük delikler serçeler içindir. Yuva kutularını her sonbaharda temizlemek, parazitlerin birikmesini önler.
+
+## Kuş dostu bahçede ilaçlama
+
+Kuşları bahçeye çekmenin en önemli kurallarından biri, ilaç kullanımını en aza indirmektir. Böcek ilaçları, kuşların en önemli besin kaynağı olan böcekleri yok eder; zehirlenmiş böceklerle beslenen kuşlar da zarar görebilir. Salyangoz yemleri ve fare zehirleri ise kuşlar ve diğer hayvanlar için ciddi tehlike oluşturur. Bahçenizde zararlılarla doğal yöntemlerle mücadele etmenin yolları için [salyangoz ve sümüklü böcek](/salyangoz-ve-sumuklu-bocek) yazımıza göz atabilirsiniz. Zorunlu bir ilaçlama gerektiğinde, müşteri hizmetlerimize danışarak en az zararlı yöntemi seçin.
+
+## Kediler ve kuşlar
+
+Evcil ve sokak kedileri, bahçelerdeki kuşlar için en büyük tehlikelerden biridir. Yemlik ve su kabını açık alanda ama sık bir çalıya yakın konumlandırmak, kuşların kaçmasını kolaylaştırır. Yemliğin altına dikenli dallar yerleştirmek kedilerin pusu kurmasını zorlaştırır.
+
+@sss
+S: Kuşlara kışın ekmek vermek doğru mu?
+C: Ara sıra az miktarda verilebilir, ancak ekmeğin besin değeri düşüktür ve ıslanınca küflenebilir. Ayçiçeği çekirdeği, darı ve tuzsuz kuruyemiş çok daha uygun besinlerdir.
+
+S: Kuş yemliği ne zaman kurulmalı?
+C: Doğal besinlerin azaldığı sonbahar sonu ve kış başı en uygun zamandır. Beslemeye başladıktan sonra kış boyunca düzenli devam etmek önemlidir.
+
+S: Kuşlar meyve ağaçlarına zarar verir mi?
+C: Bazı kuşlar olgun meyveleri gagalayabilir. Ancak aynı kuşlar yıl boyunca çok sayıda zararlı böceği yer. Hasat döneminde meyveli ağaçları file ile korumak, kuşları bahçeden uzaklaştırmadan meyvelerinizi korumanın en iyi yoludur.
+
+### YAZI
+slug: lahana-gubreleme
+baslik: Lahana Gübreleme: Sıkı ve İri Baş İçin Doğru Besleme
+yayin: 2026-12-13 16:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: lahana gübreleme
+seo_baslik: Lahana Gübreleme Nasıl Yapılır? Zamanı ve Gübreler
+seo_aciklama: Lahana gübreleme nasıl yapılır? Dikim öncesi toprak hazırlığı, organik gübreler, büyüme dönemi beslemesi, azot ve kükürt dengesi ve baş çatlaması.
+ozet: Lahana, bahçenin en iştahlı sebzelerinden biridir; sıkı ve iri bir baş bağlaması için uzun süre dengeli beslenmesi gerekir. Dikim öncesi hazırlıktan baş bağlama dönemine kadar lahana gübrelemenin adımlarını anlatıyoruz.
+etiketler: lahana gübreleme, lahana yetiştirme, kış sebzeleri, organik gübre, lahanagiller
+gorsel: p10-lahana-gubre
+gorsel_alt: Tarlada sık sıralar halinde yetişen yeşil lahanalar
+urunler: hasturk-kati-solucan-gubresi, solucan-gubreli-sebze-topragi, hasturk-sivi-solucan-gubresi
+kisaca: Lahana çok besin isteyen bir sebzedir. Dikimden önce toprağa bol olgun organik gübre karıştırılır. Yaprak gelişimi sırasında ek besleme yapılır; baş bağlama döneminde azot azaltılır. Kükürt ve kalsiyum da önemlidir. Düzenli sulama gübrelemenin etkisini artırır ve baş çatlamasını önler. Miktarlar analiz ve ürün etiketine göre belirlenir.
+@govde
+Lahana gübreleme, bahçede sıkı, iri ve lezzetli lahana başları almak isteyenlerin mutlaka bilmesi gereken bir konudur. Lahana, lahanagiller ailesinin en tanınan üyesi olarak hem yazlık hem kışlık çeşitleriyle bahçelerimizin vazgeçilmez sebzelerinden biridir. Aynı zamanda bahçenin en iştahlı sebzelerinden biridir: koca bir baş oluşturmak için uzun süre boyunca bol besin ister. Yetersiz beslenen lahana küçük, gevşek başlar bağlar; yanlış zamanda verilen fazla azot ise baş çatlamasına ve hastalıklara davetiye çıkarır. Bu yazıda lahananın besin ihtiyacını, toprak hazırlığını, büyüme dönemindeki beslemeyi ve sık yapılan hataları anlatıyoruz.
+
+## Lahana hangi besinlere ihtiyaç duyar?
+
+**Azot:** Lahananın en çok ihtiyaç duyduğu besindir. Büyük ve sağlıklı yaprakların oluşmasını sağlar. Ancak baş bağlama döneminde fazlası zararlıdır.
+
+**Potasyum:** Başın sıkılığını, dayanıklılığını ve depolama ömrünü artırır. Ayrıca bitkinin soğuğa ve hastalıklara direncini güçlendirir.
+
+**Fosfor:** Kök gelişimi için önemlidir, özellikle fide döneminde.
+
+**Kükürt:** Lahanagillerin kendine özgü tadını veren bileşiklerin yapı taşıdır. Eksikliğinde genç yapraklar soluklaşır. Bu konuyu [kükürt eksikliği](/kukurt-eksikligi) yazımızda anlattık.
+
+**Kalsiyum:** İç yaprakların uç yanığını önler.
+
+**Bor ve molibden:** Az miktarda gerekir ama eksiklikleri lahanagillerde içi boş saplar ve bozuk yapraklar gibi sorunlara yol açabilir.
+
+## Dikim öncesi toprak hazırlığı
+
+Lahana gübrelemenin en önemli adımı dikimden önce atılır. Lahana derin, verimli, organik maddece zengin ve nemi iyi tutan topraklarda en iyi gelişir. Dikimden birkaç hafta önce, ekim alanına bol miktarda olgun kompost, iyi yanmış ahır gübresi ya da solucan gübresi serilip toprağa karıştırılır. Bu organik madde hem besin deposu oluşturur hem de toprağın su tutma kapasitesini artırır. Ahır gübresinin olgunlaştırılması için [ahır gübresi](/ahir-gubresi) yazımıza göz atabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Lahana hafif asidik ile nötr arasındaki toprakları sever (pH 6,0-7,5). Çok asidik topraklarda lahanagillerin önemli bir hastalığı olan kök uru daha sık görülür. Toprağınızın pH değerini öğrenmek için toprak analizi yaptırmak, hem gübrelemeyi doğru planlamanıza hem de bu riski değerlendirmenize yardımcı olur.
+
+## Lahana gübreleme takvimi
+
+**Dikim:** Fideler dikilirken dikim çukuruna bir avuç olgun kompost ya da solucan gübresi koymak, köklerin hızlı gelişmesine yardımcı olur.
+
+**Yaprak gelişimi (dikimden 3-4 hafta sonra):** Bitki güçlü yapraklar oluştururken ilk ek besleme yapılır. Organik gübre bitkinin çevresine serpilip çapayla toprağa karıştırılır ve ardından sulanır. Bu dönemde sıvı organik besinler de iyi sonuç verir.
+
+**Baş bağlama başlangıcı (dikimden 6-8 hafta sonra):** İkinci ve son besleme yapılır. Bu aşamadan sonra azotlu besleme kesilir; potasyumca zengin, dengeli besinler tercih edilir.
+
+**Baş bağladıktan sonra:** Ek gübreleme yapılmaz. Fazla azot bu dönemde başların gevşemesine, çatlamasına ve hastalıklara açık hale gelmesine yol açar.
+
+Kışlık lahanalarda büyüme soğuk aylarda yavaşladığı için sonbahar sonundan sonra besleme yapılmaz; ilkbaharda büyüme yeniden başladığında hafif bir destek verilebilir.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+Kimyasal gübre kullanacaksanız miktar, toprağın yapısına, önceki ürüne ve analiz sonuçlarına göre çok değişir. Doğru miktarı belirlemek için toprak analizini müşteri hizmetlerimize danışarak değerlendirin ve gübre paketindeki talimata uyun.
+
+## Sulama ve gübrelemenin ilişkisi
+
+Lahananın iri ve sulu yaprakları oluşturmak için bol suya ihtiyacı vardır. Gübrelerin köklere ulaşabilmesi için de toprağın nemli olması gerekir. Toprağı düzenli olarak nemli tutun; özellikle baş bağlama döneminde susuz kalan lahana küçük ve sert başlar bağlar. Uzun bir kuraklıktan sonra aniden verilen bol su ise başların çatlamasına yol açar. Bitkilerin dibini malçla örtmek nemi dengeler.
+
+## Saksıda ve bahçe yatağında lahana
+
+Lahanayı yükseltilmiş bahçe yataklarında ve büyük saksılarda da yetiştirebilirsiniz. Bir lahana bitkisi için en az 20-25 litrelik bir saksı gerekir. Saksıda yetiştirilen lahana, sınırlı toprak nedeniyle daha sık ama daha hafif beslenmek ister. Sebze yetiştirmek için hazırlanmış, organik maddece zengin bir toprak kullanmak işinizi kolaylaştırır.
+
+## Besin eksikliği belirtileri
+
+**Alt yaprakların sararması:** Azot eksikliği. Bu durumu [azot eksikliği](/azot-eksikligi) yazımızda ayrıntılı olarak anlattık.
+
+**Genç yaprakların soluklaşması:** Kükürt eksikliği olabilir.
+
+**İç yaprak kenarlarının kararması:** Kalsiyumun taşınamaması; çoğu zaman düzensiz sulamadan kaynaklanır.
+
+**Yapraklarda morumsu renk:** Soğuk havada normal olabilir, ama sıcak dönemde fosfor eksikliğine işaret edebilir.
+
+**İçi boş ya da çatlak saplar:** Bor eksikliği.
+
+## Lahana çeşidine göre farklar
+
+Lahananın farklı türleri benzer beslenme isteklerine sahip olsa da bazı küçük farklar vardır. **Beyaz baş lahana** en iştahlı olanıdır; iri baş bağlamak için uzun süreli ve bol besine ihtiyaç duyar. **Kırmızı lahana** biraz daha yavaş büyür ve başları daha küçük ama sıkıdır; potasyum, rengin ve sıkılığın korunmasında önemlidir. **Karalahana** baş bağlamadığı için yaprak hasadı boyunca düzenli ama hafif azotlu besleme ister; her yaprak hasadından sonra verilen sıvı besin yeni yaprakların hızlı gelişmesini sağlar. **Brüksel lahanası** uzun yetişme süresi nedeniyle sezon ortasında bir ek beslemeye daha ihtiyaç duyabilir. Brokoli ve karnabahar gibi diğer lahanagiller de benzer şekilde beslenir; bu sebzelerin yetiştirilmesi için [brokoli yetiştirme](/brokoli-yetistirme) yazımıza göz atabilirsiniz.
+
+## Ekim nöbeti ve toprağın dinlendirilmesi
+
+Lahanagiller topraktan çok fazla besin çeker. Bu nedenle aynı parsele en az üç dört yıl arayla lahanagil dikmek, hem toprağın besin dengesini korur hem de toprak kaynaklı hastalıkların birikmesini önler. Lahanadan önce o parselde fasulye ya da bezelye gibi baklagiller yetiştirmek, toprağa doğal yoldan azot kazandırır. Lahanadan sonra ise havuç, soğan ya da marul gibi daha az besin isteyen sebzeler ekilebilir. Böyle bir planlama, lahana gübreleme ihtiyacını da azaltır.
+
+## Sık yapılan hatalar
+
+- **Taze gübre kullanmak:** Kökleri yakar ve hastalık riskini artırır.
+- **Baş bağlama döneminde azot vermek:** Başların gevşemesine ve çatlamasına yol açar.
+- **Aynı parsele her yıl lahanagil dikmek:** Topraktaki besinleri tüketir ve kök uru gibi hastalıkları biriktirir.
+- **Düzensiz sulama:** Gübrelemenin etkisini azaltır, baş çatlamasına neden olur.
+
+Lahananın genel bakımı için [lahana ve karalahana yetiştirme](/lahana-ve-karalahana-yetistirme) yazımıza, hastalıklar için ise [lahana hastalıkları](/lahana-hastaliklari) yazımıza göz atabilirsiniz.
+
+@sss
+S: Lahanaya ne zaman gübre verilir?
+C: Ana besleme dikimden önce toprağa organik gübre karıştırılarak yapılır. Dikimden 3-4 hafta sonra ve baş bağlamaya başlarken iki ek besleme yeterlidir. Baş bağladıktan sonra gübre verilmez.
+
+S: Lahana başı neden çatlar?
+C: En sık neden, uzun bir kuraklıktan sonra aniden bol su verilmesidir. Baş bağlama döneminde fazla azot da çatlamayı artırır. Düzenli sulama ve zamanında hasat bu sorunu önler.
+
+S: Odun külü lahanaya iyi gelir mi?
+C: Odun külü potasyum içerir, ancak toprağın pH'ını yükseltir. Kireçli topraklarda kullanılmamalı, asidik topraklarda ise çok az miktarda ve kompostla karıştırılarak kullanılmalıdır.
+
+### YAZI
+slug: zambak-yetistirme
+baslik: Zambak Yetiştirme: Soğandan Kokulu ve Görkemli Çiçeklere
+yayin: 2026-12-13 18:15
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: zambak yetiştirme
+seo_baslik: Zambak (Lilyum) Yetiştirme: Dikim, Bakım ve Çiçeklenme
+seo_aciklama: Zambak yetiştirme rehberi: lilyum soğanı dikim zamanı ve derinliği, toprak, güneş ve gölge dengesi, sulama, besleme, saksıda zambak ve kedi uyarısı.
+ozet: Uzun saplar üzerinde açan iri, kokulu ve görkemli çiçekleriyle zambak, yaz bahçesinin yıldızıdır. Sonbahar ve kış başında dikilen soğanlarla, doğru toprak ve biraz özenle her yıl yeniden çiçek açar. Zambak yetiştirmeyi adım adım anlatıyoruz.
+etiketler: zambak yetiştirme, lilyum, soğanlı çiçekler, yaz çiçekleri, kesme çiçek
+gorsel: p10-zambak
+gorsel_alt: Bahçede açmış iri, beyaz, trompet biçimli zambak çiçekleri
+urunler: hg-cicek-topragi, tarim-perliti, hasturk-kati-solucan-gubresi
+kisaca: Zambak soğanları sonbahar sonu ile kış başında, toprak donmadan, soğan boyunun üç katı derinliğe dikilir. Zambaklar başları güneşte, kökleri serin ve gölgede olmayı sever. Süzek, organik maddece zengin toprak şarttır; ıslak toprakta soğanlar çürür. Uzun çeşitler desteklenmeli, solan çiçekler kesilmeli ama yapraklar sararana kadar bırakılmalıdır.
+@govde
+Zambak yetiştirme, bahçenize yaz boyunca zarafet ve koku katmanın en etkileyici yollarından biridir. Zambaklar (Lilium), uzun ve sağlam sapların üzerinde açan, trompet, kâse ya da yıldız biçimli iri çiçekleriyle bahçenin en dikkat çekici bitkileri arasındadır. Beyazdan pembeye, sarıdan turuncuya, kırmızıdan bordoya kadar geniş bir renk yelpazesi vardır ve birçoğu akşamları bütün bahçeyi saran güçlü bir koku yayar. Anadolu'nun dağlarında doğal olarak yetişen birçok yabani zambak türü de bulunur. Zambak soğanları sonbaharda ve kış başında dikilir; bu yüzden aralık, bahar ve yaz için plan yapmanın tam zamanıdır. Bu yazıda zambak soğanlarını nasıl seçeceğinizi, dikeceğinizi ve yıllarca nasıl yaşatacağınızı anlatıyoruz.
+
+## Zambak türleri
+
+Bahçelerde en sık yetiştirilen zambak grupları şunlardır:
+
+**Asya melezleri:** En kolay yetişen ve en erken açan zambaklardır. Renk seçenekleri çok geniştir, ancak çoğu kokusuzdur. Yaz başında açarlar.
+
+**Oryantal melezler:** İri, çoğu zaman benekli ve son derece kokulu çiçekleri vardır. Yaz ortası ile sonunda açarlar. Hafif asidik toprağı tercih ederler.
+
+**Trompet zambaklar:** Uzun, trompet şeklinde, kokulu çiçekler açarlar. Boyları iki metreye ulaşabilir.
+
+**Beyaz zambak (Lilium candidum):** Akdeniz kökenli, kokulu ve saf beyaz çiçekli klasik bahçe zambağıdır. Diğerlerinden farklı olarak yüzeye çok yakın dikilir ve sonbaharda yaprak rozeti oluşturur.
+
+## Zambak soğanı seçimi
+
+Zambak soğanları, lale ya da nergis soğanlarından farklıdır: koruyucu bir dış kabukları yoktur ve üst üste dizilmiş etli pullardan oluşurlar. Bu yüzden kurumaya çok hassastırlar. Soğan alırken dolgun, sert ve ağır olanları seçin. Pulları buruşmuş, yumuşamış, küflenmiş ya da kararmış soğanlardan kaçının. Soğanları aldıktan sonra mümkün olduğunca çabuk dikin; hemen dikemiyorsanız hafif nemli torf ya da talaş içinde serin bir yerde saklayın.
+
+## Zambak yetiştirmede dikim zamanı
+
+Zambak soğanları için en uygun dikim zamanı sonbahar sonu ve kış başıdır; toprak donmadığı sürece aralık ayında da dikim yapılabilir. Bu dönemde dikilen soğanlar kış boyunca kök geliştirir ve ilkbaharda güçlü bir başlangıç yapar. Kışın toprağın uzun süre donduğu soğuk bölgelerde ise erken ilkbaharda dikim de yapılabilir. Sonbaharda dikilebilecek diğer soğanlı çiçekler için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazımıza göz atabilirsiniz.
+
+## Yer seçimi: Başı güneşte, ayağı gölgede
+
+Zambakların klasik kuralı şudur: başları güneşte, kökleri serin ve gölgede olmalıdır. Zambaklar günde en az altı saat güneş alan bir yerde en iyi çiçeği verir. Ancak kökleri ve soğanları sıcaktan hoşlanmaz. Bu dengeyi sağlamanın en iyi yolu, zambakları alçak boylu çok yıllık bitkilerin ya da yer örtücülerin arasına dikmektir; bu bitkiler toprağı gölgeleyip serin tutarken zambakların sapları güneşe uzanır. Toprağı malçla örtmek de aynı etkiyi sağlar. Çok sıcak bölgelerde öğleden sonra hafif gölge alan bir yer, çiçeklerin daha uzun süre dayanmasını sağlar.
+
+## Toprak hazırlığı
+
+Zambak soğanları ıslak toprakta kolayca çürür. Bu yüzden süzek bir toprak, zambak yetiştirmenin en önemli şartıdır. Ağır, killi topraklarda dikim alanını bol organik madde ve perlitle hafifletin ya da zambakları yükseltilmiş yataklara dikin. Toprak organik maddece zengin, gevşek ve hafif asidik ile nötr arasında olmalıdır. Oryantal zambaklar biraz daha asidik toprağı sever; beyaz zambak ise hafif kireçli toprakta iyi gelişir.
+
+[ürün:hg-cicek-topragi]
+
+## Dikim derinliği ve aralığı
+
+Zambak soğanları genel kural olarak soğan boyunun yaklaşık üç katı derinliğe, yani çoğu soğan için 15-20 santimetre derinliğe dikilir. Bu derinlik hem soğanı sıcaktan ve dondan korur hem de sapın kök salmasını sağlar; zambakların birçoğu soğanın üstündeki sap kısmından da kök verir. Beyaz zambak ise istisnadır ve yalnızca 2-3 santimetre toprakla örtülür.
+
+Dikim adımları:
+
+1. Dikim çukurunu gerekli derinliğin birkaç santimetre fazlası kadar açın.
+2. Çukurun dibine bir avuç perlit ya da iri kum serperek drenajı artırın.
+3. Soğanı sivri ucu yukarı bakacak şekilde yerleştirin, köklerini hafifçe yayın.
+4. Üzerini toprakla kapatın, hafifçe bastırın ve sulayın.
+5. Soğanlar arasında 20-30 santimetre mesafe bırakın. Üç beşli gruplar halinde dikildiklerinde daha etkileyici görünürler.
+
+Dikim yerini bir çubukla işaretlemek, ilkbaharda sürgünler çıkana kadar yanlışlıkla bu alanı kazmanızı önler.
+
+[ürün:tarim-perliti]
+
+## Sulama ve besleme
+
+Dikimden sonra bir kez iyice sulayın, kış boyunca ise yağışlar genellikle yeterlidir. İlkbaharda sürgünler çıktıktan sonra toprağı hafif nemli tutun, ancak ıslak bırakmayın. Çiçeklenme döneminde düzenli sulama çiçeklerin daha uzun süre açık kalmasını sağlar. Sulamayı yaprakları ıslatmadan, toprağa yapın.
+
+Besleme için ilkbaharda sürgünler toprak yüzeyine çıktığında bitkilerin çevresine bir avuç solucan gübresi ya da olgun kompost serpip hafifçe karıştırmak yeterlidir. Tomurcuklar oluşmaya başladığında ikinci hafif bir besleme yapılabilir. Fazla azotlu gübre zayıf saplara ve hastalıklara yol açar.
+
+## Destekleme
+
+Uzun boylu zambak çeşitleri, özellikle iri çiçekleri açtığında ve rüzgârlı havalarda devrilebilir. Sürgünler büyürken saplarının yanına bir destek çubuğu yerleştirip yumuşak bir bağla tutturun. Çubuğu soğanın hemen yanına batırmamaya dikkat edin; dikim sırasında yerleştirmek en güvenli yoldur.
+
+## Çiçeklenme sonrası bakım
+
+Solan çiçekleri, tohum kapsülü oluşmadan sapın üst kısmından kesin. Bu, bitkinin enerjisini soğanı beslemeye yönlendirir. Ancak sapı ve yaprakları kesinlikle erken kesmeyin; yapraklar sonbaharda kendiliğinden sararıp kuruyana kadar gelecek yılın çiçekleri için soğana besin depolar. Kesme çiçek için zambak keserken de sapın en az üçte birini yapraklarıyla birlikte bitkide bırakın. Kesme zambakların vazoda daha uzun dayanması için [kesme çiçek ömrü](/kesme-cicek-omru) yazımıza göz atabilirsiniz.
+
+## Saksıda zambak
+
+Zambaklar, özellikle kısa boylu Asya ve oryantal çeşitler, saksılarda çok güzel yetişir. En az 30 santimetre derinliğinde, dibi delikli bir saksı seçin. 30 santimetre çapındaki bir saksıya üç soğan dikilebilir. Süzek bir çiçek toprağına perlit karıştırın. Saksıdaki soğanlar kışın soğuktan daha fazla etkilenir; sert donlarda saksıyı korunaklı bir köşeye çekin.
+
+## Kediler için önemli uyarı
+
+Zambaklar kediler için son derece zehirlidir. Çiçeklerinin, yapraklarının, polenlerinin, hatta vazo suyunun çok az bir miktarı bile kedilerde ciddi böbrek hasarına yol açabilir. Evinizde ya da bahçenizde kedi varsa zambak yetiştirmekten ve kesme zambak getirmekten kaçının. Evcil hayvanlarla güvenle yetiştirilebilecek bitkiler için [evcil hayvan dostu bitkiler](/evcil-hayvan-dostu-bitkiler) yazımıza göz atabilirsiniz.
+
+## Sık karşılaşılan sorunlar
+
+**Zambak böceği:** Parlak kırmızı renkli küçük bir böcektir; larvaları yaprakları hızla yiyebilir. Erken fark edildiğinde böcekleri ve larvaları elle toplamak etkilidir.
+
+**Kurşuni küf:** Nemli havalarda yapraklarda kahverengi lekeler oluşturur. Hava dolaşımını artırmak ve yaprakları ıslatmamak en iyi önlemdir.
+
+**Soğan çürümesi:** Hemen her zaman ıslak topraktan kaynaklanır.
+
+@sss
+S: Zambak soğanı ne zaman dikilir?
+C: En uygun zaman sonbahar sonu ile kış başıdır; toprak donmadığı sürece aralıkta da dikilebilir. Soğuk bölgelerde erken ilkbaharda dikim de mümkündür.
+
+S: Zambak her yıl açar mı?
+C: Evet, zambaklar çok yıllıktır. Yapraklar doğal olarak sararana kadar bırakılır ve toprak süzek olursa her yıl yeniden çiçek açar, zamanla çoğalarak kümeler oluşturur.
+
+S: Zambak soğanları kışın sökülmeli mi?
+C: Çoğu bölgede gerek yoktur; soğanlar yerlerinde kışlar. Toprağın çok derin donduğu bölgelerde üstünü kalın bir malç tabakasıyla örtmek yeterli koruma sağlar.
+
+### YAZI
+slug: venus-sinek-kapani-bakimi
+baslik: Venüs Sinek Kapanı Bakımı: Etçil Bitkiyi Evde Yaşatmanın Sırları
+yayin: 2026-12-13 20:20
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: venüs sinek kapanı bakımı
+seo_baslik: Venüs Sinek Kapanı Bakımı: Su, Toprak, Işık ve Kış
+seo_aciklama: Venüs sinek kapanı bakımı nasıl yapılır? Saf su ile sulama, gübresiz turba ortamı, bol güneş, kış uykusu, besleme ve kapanların neden karardığı.
+ozet: Yapraklarını bir kapan gibi kapatarak böcek yakalayan venüs sinek kapanı, evdeki en ilginç bitkilerden biridir. Ama musluk suyu, gübre ve kış uykusu konusunda yapılan hatalar onu kısa sürede öldürebilir. Venüs sinek kapanını yaşatmanın inceliklerini anlatıyoruz.
+etiketler: venüs sinek kapanı bakımı, etçil bitkiler, dionaea, sphagnum torf, kış uykusu
+gorsel: p10-etcil
+gorsel_alt: Kırmızı iç yüzlü, dişli kapanları açık venüs sinek kapanı bitkisi
+urunler: hg-ham-torf, tarim-perliti, qts-ithal-sphagnum-ham-torf-220-lt-0-25mm
+kisaca: Venüs sinek kapanı yalnızca yağmur suyu ya da saf suyla sulanmalı, saksı tabağında sürekli birkaç santimetre su bulunmalıdır. Gübresiz turba ve perlit karışımında, günde en az dört altı saat güneş alan bir yerde yetişir. Kışın 0-10 °C arasında üç dört ay uyku dönemi ister. Gübre verilmez, kapanlar parmakla tetiklenmez.
+@govde
+Venüs sinek kapanı bakımı, sıradan salon bitkilerinin bakımından oldukça farklıdır ve bu farkları bilmeyenler çoğu zaman bitkiyi birkaç ay içinde kaybeder. Venüs sinek kapanı (Dionaea muscipula), yalnızca Amerika Birleşik Devletleri'nin Kuzey ve Güney Carolina eyaletlerindeki küçük bir bölgede, besin açısından son derece fakir, asidik ve sürekli nemli turbalıklarda doğal olarak yetişir. Topraktan yeterli besin alamadığı için yapraklarını kapana dönüştürmüş ve eksik besinlerini yakaladığı böceklerden sağlamayı öğrenmiştir. Bu ilginç uyum, bakımının da temelini oluşturur: bu bitki için iyi niyetle yapılan gübreleme ve musluk suyuyla sulama zararlıdır. Bu yazıda venüs sinek kapanı bakımı için gereken su, toprak, ışık ve kış uykusu koşullarını anlatıyoruz.
+
+## Kapanlar nasıl çalışır?
+
+Venüs sinek kapanının her yaprağının ucunda, iki yarıdan oluşan ve kenarları dişli bir kapan bulunur. Kapanın iç yüzünde birkaç ince tetik tüyü vardır. Bir böcek bu tüylerden birine kısa süre içinde iki kez dokunduğunda kapan saniyenin onda biri gibi kısa bir sürede kapanır. Bu çift dokunuş sistemi, yağmur damlası ya da düşen bir yaprak gibi yanlış alarmlarda kapanın boşuna kapanmasını önler. Yakalanan böcek kapanın içinde hareket etmeye devam ettikçe kapan sıkıca kapanır ve sindirim başlar. Sindirim birkaç gün ile iki hafta arasında sürer; ardından kapan yeniden açılır.
+
+Her kapan ömrü boyunca yalnızca birkaç kez kapanıp açılabilir. Bu yüzden kapanları parmakla ya da bir çubukla eğlence için tetiklemek, bitkiyi gereksiz yere yorar ve kapanların erken kararmasına yol açar.
+
+## Venüs sinek kapanı bakımında su
+
+Venüs sinek kapanı, musluk suyundaki minerallere ve tuzlara son derece hassastır. Musluk suyu ya da şişe içme suyu ile düzenli sulanan bir bitki, toprakta biriken minerallerden dolayı birkaç ay içinde zayıflar ve ölür. Bu yüzden yalnızca şu sular kullanılmalıdır:
+
+- Yağmur suyu
+- Damıtılmış (saf) su
+- Ters ozmoz cihazından geçmiş su
+
+Venüs sinek kapanı sürekli nemli bir ortam ister. En kolay yöntem tepsi yöntemidir: saksıyı, içinde birkaç santimetre saf su bulunan bir tabağa ya da tepsiye koyun ve büyüme mevsimi boyunca bu suyu hiç kurutmayın. Toprak alttan sürekli olarak nemli kalır. Kış uykusu döneminde ise toprak yalnızca hafif nemli tutulur, tepside su bırakılmaz. Yağmur suyu toplamanın pratik yolları için [yağmur suyu toplama](/yagmur-suyu-toplama) yazımıza göz atabilirsiniz.
+
+## Toprak: Besinsiz ve asidik
+
+Venüs sinek kapanı, normal saksı toprağında yaşayamaz. Saksı toprakları, kompost ve gübre içeren karışımlar bu bitkinin köklerini yakar. Bitki için ideal ortam, hiçbir gübre ya da katkı içermeyen saf sphagnum turbası (ham torf) ile perlitin karıştırılmasıyla hazırlanır. Genel bir oran olarak yarı yarıya ya da üçte iki turba, üçte bir perlit karışımı uygundur. Perlitin de yıkanmış ve katkısız olması önemlidir. Bazı yetiştiriciler turba yerine ya da turbayla birlikte canlı sphagnum yosunu da kullanır. Sphagnum turbanın özellikleri için [sphagnum torf](/sphagnum-torf) yazımıza göz atabilirsiniz.
+
+[ürün:hg-ham-torf]
+
+Saksı olarak plastik ya da sırlı saksılar tercih edilmelidir; sırsız pişmiş toprak saksılar zamanla toprağa mineral bırakabilir. Saksının dibinde drenaj deliği olmalı ki alttaki tepsiden su emilebilsin. Kökler oldukça uzun olduğu için derin saksılar daha iyidir. Saksı değişimi ve toprak yenileme bir iki yılda bir, ilkbaharda kış uykusundan çıkarken yapılır.
+
+[ürün:tarim-perliti]
+
+## Işık: Bol güneş
+
+Venüs sinek kapanı güneşi çok sever. Günde en az dört altı saat doğrudan güneş alması gerekir. Güneye ya da batıya bakan bir pencere önü ya da güneşli bir balkon idealdir. Yeterli ışık alan bir bitkinin kapanlarının iç yüzü kırmızı renktedir. Işık yetersiz kaldığında yapraklar uzayıp incelir, kapanlar küçük ve yeşil kalır ve bitki zamanla zayıflar. Kapalı ve loş odalar bu bitki için uygun değildir. Işık ihtiyacının genel ilkeleri için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazımıza göz atabilirsiniz.
+
+## Kış uykusu: Atlanmaması gereken dönem
+
+Venüs sinek kapanı, doğal ortamında soğuk kışlar geçiren çok yıllık bir bitkidir ve her yıl üç dört aylık bir kış uykusuna ihtiyaç duyar. Kış uykusuna sokulmayan bir bitki bir iki yıl içinde zayıflayıp ölür.
+
+Sonbaharda günler kısalıp havalar serinlediğinde bitki büyümesini yavaşlatır, yeni yapraklar küçük ve yere yakın çıkar, bazı yapraklar kararır. Bu doğal bir süreçtir. Kasımdan şubat sonuna kadar bitkiyi 0-10 °C arasında, aydınlık ve serin bir yerde tutun. Isıtılmayan bir oda, kapalı bir balkon ya da serin bir pencere önü uygundur. Bu dönemde toprağı yalnızca hafif nemli tutun ve tepside su bırakmayın. Kararan yaprakları temizleyerek mantar oluşumunu önleyin. Mart ayında havalar ısınınca bitki yeniden sıcak ve güneşli yerine alınır ve tepsi sulamasına başlanır.
+
+## Besleme
+
+Venüs sinek kapanını dışarıda ya da balkonda yetiştiriyorsanız, bitki kendi böceklerini kolayca yakalar. İçeride yetiştiriyorsanız ve bitki uzun süre hiç böcek yakalamamışsa, büyüme mevsiminde ayda bir iki kez, kapanın üçte birinden küçük, canlı bir sinek ya da örümcek verebilirsiniz. Kapanın tam kapanabilmesi ve sindirimin başlayabilmesi için avın hareket etmesi gerekir. Et, peynir ya da insan yiyecekleri asla vermeyin; kapanın çürümesine neden olur.
+
+Bitkiye hiçbir şekilde gübre vermeyin. Kökleri gübreye karşı son derece hassastır.
+
+## Kapanlar neden kararır?
+
+Bir kapanın birkaç kez kapanıp açıldıktan sonra kararıp ölmesi doğaldır; bitki sürekli yeni kapanlar üretir. Ancak birçok kapan aynı anda kararıyorsa şu nedenleri kontrol edin:
+
+- **Musluk suyu ile sulama**
+- **Gübreli toprak ya da gübre verilmesi**
+- **Yetersiz ışık**
+- **Kapanların sık tetiklenmesi**
+- **Çok büyük av ya da uygunsuz yiyecek**
+- **Kış uykusunun yaklaşması** (sonbaharda doğal)
+
+## Çiçeklenme
+
+İlkbaharda venüs sinek kapanı uzun bir sap üzerinde küçük, beyaz çiçekler açar. Çiçek açmak bitki için çok yorucudur; özellikle genç ve küçük bitkilerde birçok yetiştirici bitkinin enerjisini kapanlara yönlendirmek için çiçek sapını erken keser. Tohum almak istiyorsanız güçlü, olgun bitkilerin çiçeklenmesine izin verebilirsiniz.
+
+@sss
+S: Venüs sinek kapanı musluk suyuyla sulanır mı?
+C: Hayır. Musluk suyundaki mineraller zamanla toprakta birikir ve bitkiyi öldürür. Yalnızca yağmur suyu, damıtılmış su ya da ters ozmoz suyu kullanılmalıdır.
+
+S: Venüs sinek kapanı kışın neden kararıyor?
+C: Sonbahar ve kışta yaprakların kararması kış uykusunun doğal bir parçasıdır. Bitki serin ve aydınlık bir yerde dinlendirilir, ilkbaharda yeni yapraklar çıkarır.
+
+S: Venüs sinek kapanını ne kadar beslemeliyim?
+C: Dışarıdaki bitkiler kendi avlarını yakalar. İçerideki bitkilere büyüme mevsiminde ayda bir iki küçük, canlı böcek yeterlidir. Gübre ve insan yiyeceği asla verilmez.
+
+### SORU
+yayin: 2026-12-13 10:20
+kategori: sebze-meyve
+baslik: Bahçedeki lahanalarımın dış yaprakları morardı, soğuktan mı yoksa gübre mi eksik?
+metin: Ekimde diktiğim lahana fideleri iyi büyüdü, ama son iki haftadır gece soğukları başlayınca dış yapraklarda mor ve kırmızımsı lekeler çıktı. İç yapraklar yeşil ve sağlıklı görünüyor. Gübre mi vermeliyim, yoksa bu soğuğa karşı normal bir tepki mi?
+@cevap Halil İbrahim Çelik | 3
+Anlattığınız tablo büyük olasılıkla soğuğa verilen doğal bir tepkidir. Gece sıcaklıkları düştüğünde lahanagillerin dış yapraklarında antosiyanin denen mor-kırmızı bir pigment birikir; bu, bitkinin kendini soğuktan ve güneşten koruma biçimidir. İç yaprakların yeşil kalması ve bitkinin büyümeye devam etmesi de bunu destekler. Hava ısındığında yeni çıkan yapraklar yine yeşil olacaktır. Bu dönemde gübre vermenize gerek yok; kışın lahananın büyümesi yavaşlar ve fazla besin, özellikle azot, dokuları yumuşatıp soğuğa karşı daha hassas hale getirebilir. Yalnız şunlara dikkat edin: morarma alttaki yaşlı yapraklardan başlayıp bütün bitkiye yayılıyor, bitki büyümüyor ve sıcak günlerde de geçmiyorsa fosfor eksikliği akla gelebilir. Bu durumda toprak analizi yaptırmak en doğrusudur. Bitkilerin dibine ince bir malç sermek kökleri soğuktan korur. Sert donların beklendiği gecelerde lahanaların üzerini tülbent benzeri bir örtüyle kapatabilirsiniz. İlkbaharda büyüme yeniden hızlandığında hafif bir organik besleme yapabilirsiniz.

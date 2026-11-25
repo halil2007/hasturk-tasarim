@@ -1,0 +1,646 @@
+### YAZI
+slug: nevruz-ve-bahar
+baslik: Nevruz ve Bahar: Toprağın Uyanışı ve İlk Bahçe İşleri
+yayin: 2027-03-16 08:45
+yazar: Mikdat Çelik
+kategori: gundem
+odak: nevruz ve bahar
+seo_baslik: Nevruz ve Bahar: Toprak Uyanırken Bahçede İlk İşler
+seo_aciklama: Nevruz ve bahar bahçede neyi değiştirir? Ekinoksun anlamı, toprağın ısınması, son don riski ve mart sonunda yapılacak ilk bahçe işleri bölge bölge.
+ozet: Nevruz ve bahar, gece ile gündüzün eşitlendiği ekinoksla birlikte bahçede işlerin hızlandığı dönemi başlatır. Toprağın uyanışını, don riskini ve mart sonu bahçe işlerini sırayla anlattık.
+etiketler: nevruz, ilkbahar, ekinoks, mart bahçe işleri, son don, toprak ısınması, bahçe hazırlığı
+gorsel: bekliyor
+gorsel_alt: Nevruz sabahı çiğle ıslanmış bahçe toprağında yeni çıkan yeşil filizler
+urunler: leonardit-organik-toprak-duzenleyici, hasturk-kati-solucan-gubresi, bahce-topragi-canlandirma-seti
+kisaca: Nevruz ve bahar, 20–21 Mart civarındaki ilkbahar ekinoksuyla başlar: gece ile gündüz eşitlenir, gün uzar, toprak ısınmaya başlar. Bahçede bu hafta toprak hazırlanır, soğuğa dayanıklı sebzeler ekilir; hassas fideler ise son don geçene kadar bekler.
+@govde
+Takvimde baharın başladığı gün ile bahçede baharın başladığı gün aynı olmaz. Nevruz ve bahar birlikte anılsa da toprak, hava tahminine ve bölgenizin son don tarihine göre uyanır.
+## Nevruz ve bahar: takvimdeki bahar ile toprağın baharı
+
+Ekinoks, gece ile gündüzün eşitlendiği andır ve ilkbaharda 20 ya da 21 Mart civarında gerçekleşir. Birleşmiş Milletler 21 Mart'ı Uluslararası Nevruz Günü olarak kabul etmiştir; Türkiye'de de geleneksel olarak baharın gelişi bu tarihle kutlanır. Nevruz hakkında genel bilgi için [Vikipedi'deki Nevruz maddesine](https://tr.wikipedia.org/wiki/Nevruz) bakabilirsiniz.
+
+Bahçe için asıl önemli olan, gün uzunluğunun artmasıdır. Gün uzadıkça bitkiler uykudan çıkar, ağaçlar tomurcuk verir, çim ve soğanlar canlanır. Ama toprak havadan daha geç ısınır. Mart sonunda gündüz ılık olsa bile gece donu ve soğuk toprak, hassas fideleri hâlâ öldürebilir.
+
+## Bölgeye göre toprak ve don durumu
+
+Aynı tarihte kıyıda ile iç bölgede bahçeye girmek aynı anlama gelmez. Aşağıdaki tablo genel bir çerçeve verir; kendi ilçenizin hava tahminini [Meteoroloji Genel Müdürlüğü](https://www.mgm.gov.tr) sayfasından izleyin.
+
+| Bölge | Mart sonunda durum | Bahçede ne yapılır? |
+|---|---|---|
+| Akdeniz ve Ege kıyıları | Don riski genellikle geride kalmıştır | Yazlık sebze fideleri için hazırlık, domates ve biber tohumu |
+| Marmara ve Karadeniz kıyıları | Ara ara don, sık yağış | Toprak tavına gelince soğuğa dayanıklı sebzeler |
+| İç Anadolu ve Göller | Gece donları sürebilir | Toprak hazırlığı, bezelye ve ıspanak; hassas fideler beklemede |
+| Doğu ve yüksek rakım | Toprak yeni çözülür | Alet bakımı, bahçe temizliği, yatak planı |
+
+## Toprak işlemeye hazır mı? Tava testi
+
+Bahçeye girmek için takvim yerine toprağa bakın. Islak ve ağır toprağı işlemek yapısını bozar ve sıkıştırır. Bir avuç toprağı sıkıp bırakın: Top olup parmakla hafifçe dokunduğunuzda dağılıyorsa toprak tavdadır. Yapışkan çamur gibi kalıyorsa birkaç gün bekleyin. Üstü donmuş ya da buz tutmuş toprağı da işlemeyin.
+
+::: adimlar
+Tava testini yapın | Bir avuç toprağı sıkın; ezilince dağılıyorsa kürek girebilir.
+Bahçeyi temizleyin | Kış boyunca birikmiş dal, yaprak ve yabani otları kaldırın; sağlam yaprakları komposta atın.
+Toprağı yoklayın | Eliniz ya da toprak termometresiyle üst katmanın ısınıp ısınmadığına bakın.
+Organik madde ekleyin | Yatağın üstüne olgun kompost ya da solucan gübresi serip yüzeysel karıştırın.
+Planı yazın | Hangi yatağa hangi sebzenin gireceğini önceki yılın ürününe göre belirleyin.
+:::
+
+Toprağınızın besin durumunu bilmiyorsanız bu mevsim analiz için iyi bir zamandır; [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısı örnek alma yöntemini anlatıyor.
+
+[ürün:leonardit-organik-toprak-duzenleyici,hasturk-kati-solucan-gubresi]
+
+## Tohum için toprak kaç derece olmalı?
+
+Hava sıcaklığı yanıltıcıdır; tohumu uyandıran şey toprağın sıcaklığıdır. Alabama Üniversitesi Yayım Servisi'nin [sebze tohumu çimlenme tablosunda](https://www.aces.edu/blog/topics/lawn-garden/soil-temperature-conditions-for-vegetable-seed-germination/) marul ve ıspanak için en düşük çimlenme sıcaklığı 35 °F, bezelye için 40 °F, domates için 50 °F, biber için 60 °F olarak verilir. Santigrata çevirirsek sırasıyla yaklaşık 2, 4, 10 ve 16 derece eder.
+
+| Sebze | Toprağın en düşük çimlenme sıcaklığı (yaklaşık) | Mart sonunda açığa ekilir mi? |
+|---|---|---|
+| Marul, ıspanak | 2 °C | Evet, toprak tavdaysa |
+| Bezelye | 4 °C | Evet |
+| Domates | 10 °C | Hayır, fide hazırlanır |
+| Biber, patlıcan | 16 °C | Hayır, ılık serada fide |
+
+Bu değerler "çimlenebilir" sınırıdır, "iyi çimlenir" sınırı değil. Domates tohumu 10 derecede çimlense bile haftalarca yer altında bekleyip çürüyebilir. Elinize ucuz bir toprak termometresi alıp sabah saat dokuzda, tohum derinliğinde ölçün; üç gün üst üste eşiğin üstündeyse ekim zamanı gelmiştir.
+
+## Mart sonunda yapılabilecek ilk işler
+
+Soğuğa dayanıklı sebzeler toprak çözülür çözülmez ekilebilir. Bezelye, ıspanak, turp, marul, havuç, soğan ve sarımsak ilkbahar serinliğinde iyi gelişir. Domates, biber, patlıcan, salatalık ve fasulye ise son don geçmeden açığa dikilmez; bunların fideleri evde ışıklı bir pencerede hazırlanır.
+
+Meyve ağaçlarında bu dönem tomurcuk kabarması dönemidir. Çiçek açmış ağaçları geç donlardan korumak zordur; ani soğuk bekleniyorsa örtü ve sisleme gibi yöntemler için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına bakın. Dona yakalanmış bitkide zararı anlamak için [don zararı belirtileri](/don-zarari-belirtileri) rehberi işe yarar.
+
+## Kış sonrası bahçe toplaması
+
+Kışı geçiren çalıların kuru dallarını temizleyin, çimdeki dökülmüş yaprakları tırmıkla toplayın ve saksıları kontrol edin. Toplanan yaprakları atmayın: Bir kenarda yığılan yapraklar bir yıl içinde değerli bir toprak düzenleyiciye dönüşür. Nasıl yapılacağını [yaprak kompostu](/yaprak-kompostu) yazısında anlattık.
+
+Saksı bitkilerinde bu dönemde toprağın üstünü birkaç santim yenilemek, kök bölgesini karıştırmadan besin katmanını tazeler. Yeni toprak karışımı hazırlayacaksanız [kendi toprak karışımınızı oluşturma](/kendi-toprak-karisimini-olusturma) rehberi oranları gösterir.
+
+## Son don tarihini kendi bahçenizde kestirmek
+
+Resmî bir "son don günü" yoktur; her mahallenin soğuk çukurları, rüzgâr alan yamaçları vardır. Dere kenarındaki ve çukur bahçelerde soğuk hava gece boyunca birikir, yamaçtaki bahçe aynı gece birkaç derece ılık kalabilir. O yüzden iki yöntemi birlikte kullanın: Meteoroloji'nin ilçe tahminini izleyin ve bahçenize bir min-max termometre asın. Üç hafta boyunca sabahları en düşük değeri not ederseniz, kendi bahçenizin gerçek soğuk eğrisini görürsünüz.
+
+Fideyi dikmeden önceki akşam sert soğuk tahmini varsa, bir gece örtü hazırlamak, tüm yatırımı kurtarır. Nisanın ilk yarısında İç Anadolu'da hâlâ sıfırın altı görülebilir; bu yüzden sabırlı olmak çoğu bahçede en ucuz önlemdir.
+
+## Bahar toplamasında sık yapılan hatalar
+
+Toprağa bakmadan takvime uymak en yaygın hatadır. Çamur hâlindeki toprağı küreklemek, kesek bırakır ve o yıl yatağın yapısını bozar. İkinci hata, kış örtülerini tek günde kaldırmaktır: Soğuğa alışmış sürgün aniden güneşe çıkınca yanar; örtüyü birkaç günde, bulutlu bir günden başlayarak açın. Üçüncüsü, domates ve biber fidesini son don geçmeden dikmektir. Fide erken dikilirse ilk soğuk gecede durur; birkaç hafta geç dikilen fide çoğu zaman erken dikileni geçer.
+
+Gübre konusunda da ölçüyü koruyun. Bahar, yüzeye ince bir olgun organik madde katmanı sermek için uygundur; derin gömülen taze gübre ise kökleri yakabilir.
+
+## Kısaca bahar bahçe takvimi
+
+Nevruz ve bahar bahçede bir hazırlık dönemidir; asıl ekim ayları sonradan gelir. Aşağıdaki şerit mart sonundan itibaren genel işlerin zamanını gösterir.
+
+::: takvim
+Toprak hazırlığı ve kompost | 2-4
+Soğuğa dayanıklı sebze ekimi | 3-4
+Yazlık sebze fidesi hazırlığı (evde) | 2-4
+Yazlık sebze fidesi dikimi (son dondan sonra) | 4-5
+Çim bakımı ve ilk biçim | 3-5
+:::
+@sss
+S: Nevruz günü bahçeye ne ekilir?
+C: Toprak donmamış ve tavdaysa bezelye, ıspanak, turp, marul ve soğan ekilebilir. Domates, biber ve patlıcan gibi sıcak sever sebzelerin fideleri son don geçmeden açığa dikilmez.
+
+S: Mart ayında son don bitti mi?
+C: Bölgeye göre değişir. Akdeniz ve Ege kıyılarında don riski genellikle geride kalır; iç bölgelerde nisan ortasına kadar gece donu görülebilir. Güncel tahmin için Meteoroloji'ye bakın.
+
+S: Baharda toprağa önce ne yapılır?
+C: Önce toprağın tavda olduğu doğrulanır, sonra bahçe temizlenir ve yüzeye olgun kompost ya da solucan gübresi serilir. Derin kazı ve fazla gübre gerekmez.
+
+S: Nevruz ile ilkbahar ekinoksu aynı gün mü?
+C: Birbirine çok yakındır. Ekinoks 20 ya da 21 Mart'ta gerçekleşir; Nevruz ise geleneksel olarak 21 Mart'ta kutlanır ve baharın gelişini anlatır.
+
+### YAZI
+slug: bahce-yolu-bitkileri
+baslik: Bahçe Yolu Bitkileri: Taş Aralarına Ekilen Yer Örtücüler
+yayin: 2027-03-16 10:20
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: bahçe yolu bitkileri
+seo_baslik: Bahçe Yolu Bitkileri: Taş Arası Yer Örtücü Seçimi
+seo_aciklama: Bahçe yolu bitkileri hangileridir? Taş aralarına ekilen kekik, Korsika nanesi ve sedum gibi yer örtücüleri, ışık ihtiyacını ve dikim adımlarını anlattık.
+ozet: Bahçe yolu bitkileri, basma taşlarının arasını yeşil ve düzgün tutar. Hangi yer örtücülerin yürüyüşe dayandığını, güneş ve su ihtiyaçlarını ve taş arasına dikimi adım adım anlattık.
+etiketler: bahçe yolu, taş arası bitki, yer örtücü, kekik, basma taş, yürünebilen bitki
+gorsel: bekliyor
+gorsel_alt: Bahçede düzenli basma taşların arasında yeşil yer örtücü bitkiler
+urunler: raco-bahce-el-kuregi, dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm, hg-aromatik-bitkiler-icin-saksi-topragi
+kisaca: Bahçe yolu bitkileri olarak taş aralarına bodur kekik, Korsika nanesi, sedum ve yer yoncası gibi alçak, yayılan yer örtücüler ekilir. Hafif ayak trafiğine dayanırlar; güneşli ve süzek aralıklarda kekik, gölgeli ve nemli yerlerde nane ve gümüş düğme uygundur.
+@govde
+Basma taşların arası boş kalırsa yabani ot dolar, taşlar yer yer kayar ve yol dağınık görünür. Doğru bahçe yolu bitkileri bu boşluğu alçak bir yeşille kapatır, ot tohumuna yer bırakmaz ve yürürken hoş bir koku verebilir.
+## Bahçe yolu bitkileri neye dayanmalı?
+
+Taş aralarına bitki seçerken üç ölçüt belirleyicidir: boy, yayılma biçimi ve ayak trafiği. Boyu birkaç santimi geçen bitki yürürken ayağa takılır. Dik büyüyen bitki ezilir. İyi bir yer örtücü yere yapışık, kök salarak yayılan ve ezildiğinde kendini toparlayan yapıdadır.
+
+Üçüncü ölçüt yolun kullanımıdır. Her gün yürünen ana yolda bitki yıpranır; hafif kullanılan bahçe patikasında ise rahat yaşar. Ağır trafik varsa taş aralarını bitkiyle değil, ince çakılla doldurmak daha dayanıklıdır.
+
+## Güneşli taş aralarında hangi bitkiler olur?
+
+Illinois Üniversitesi Yayım Servisi, [bodur kekik](https://extension.illinois.edu/landscaping/creeping-thyme) türünün küçük alanlarda çim yerine ve basma taşların arasına uygun olduğunu, tam güneşi ya da hafif gölgeyi ve süzek toprağı sevdiğini belirtir. Kuzey Carolina Eyalet Üniversitesi de hafif ayak trafiğine dayandığını yazar. Bodur kekik yürüyüşte ezildikçe koku salar ve çiçek açtığında arıları çeker.
+
+Aynı koşulda sedum (damkoruğu) türleri de iş görür. Etli yaprakları suyu depolar, yazın kurak dönemde fazla bakım istemez. Kekik ve sedum çok ıslak, ağır topraktan hoşlanmaz; taş altına drenaj için kaba kum serilmesi işe yarar.
+
+## Gölgeli ve nemli aralıklar için seçenekler
+
+Korsika nanesi, nemli toprakta ve yarı gölgede yeşil bir halı oluşturur; düzenli suya ihtiyaç duyar. Gümüş düğme (Leptinella) ve yer yoncası da basılmaya dayanır. Yaprak yapısı küçük olduğu için taş aralarında doğal bir görünüm verirler.
+
+| Bitki | Işık | Su | Yürüyüş dayanımı |
+|---|---|---|---|
+| Bodur kekik | Güneş, hafif gölge | Az | Hafif, orta |
+| Sedum (damkoruğu) | Güneş | Çok az | Hafif |
+| Korsika nanesi | Yarı gölge | Düzenli | Hafif |
+| Gümüş düğme | Güneş, yarı gölge | Orta | Orta |
+| Yer yoncası | Güneş, yarı gölge | Orta | Orta, ezildikçe toparlanır |
+
+Çim alternatifi olarak yer yoncasını ayrıntılı bilmek isterseniz [süs yoncası](/sus-yoncasi) yazısına, biçim istemeyen bir yer örtücü için de [dikondra](/dikondra) yazısına bakabilirsiniz.
+
+## Taş arasına bitki dikimi adım adım
+
+::: adimlar
+Aralığı temizleyin | Taş arasındaki ot ve köklerini çıkarın; eski toprağı birkaç santim derinlikten kazıyın.
+Toprağı hazırlayın | Bahçe toprağını kum ve olgun kompostla karıştırarak boşluğu doldurun; taş aralığı su tutmayacak kadar süzek olmalı.
+Fideleri bölün | Kekik ya da sedum saksısını küçük parçalara bölün; her parçada kök bulunsun.
+Dikin ve bastırın | Parçaları aralığa yerleştirip toprağı parmakla sıkıştırın; taşın kenarını bozmayın.
+Sulayın | İlk üç dört hafta toprak nemli kalsın; sonra bitki kendi kökleriyle tutunur.
+:::
+
+Dikimde küçük bir el küreği ve fide dikme aleti işinizi kolaylaştırır. Kekik ve nane gibi aromatik bitkilerin toprak ihtiyacı için [aromatik bitki toprağı](/aromatik-bitki-topragi) yazısı karışım oranlarını gösterir.
+
+[ürün:raco-bahce-el-kuregi,hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## İlk yıl bakımı ve yabani ot kontrolü
+
+Taş aralarındaki bitkiler ilk yıl yavaş yayılır; bu sürede açıkta kalan toprakta yabani ot çıkar. Otları elle ve kökünden temizleyin; yer örtücü dolana kadar toprak yüzeyine ince bir çakıl ya da malç serebilirsiniz. Malç seçenekleri için [malç çeşitleri](/malc-cesitleri) rehberine bakın.
+
+Kekik tarzı bitkileri ilkbaharda hafifçe kırpmak sık ve kompakt kalmalarını sağlar. Sulamayı sabit ve derin yapın; sürekli yüzeysel sulama kökü sığ tutar. Bitkiler dolduğunda yol için ayrı bir bakım gerekmez.
+
+## Parçayla mı, tohumla mı yayılır?
+
+Kekik, sedum ve gümüş düğme parçalarla çok daha hızlı yerleşir. Bir saksı fidesini avuç içi büyüklüğünde yedi sekiz parçaya bölüp aralıklara dağıtırsanız, bir mevsimde ciddi bir örtü elde edersiniz. Tohumla ekim daha ucuzdur ama çimlenme düzensizdir; tohum taş aralığında yağmurla sürüklenir ve ot tohumuyla yarışır. Bu yüzden ilk yıl hızlı kapama istiyorsanız parça, ikinci yıl boşluk doldurmak için tohum kullanın.
+
+Nane türleri ise stolonla yayılır; bir parça birkaç ayda taş aralığını geçip çimin ya da yatağın içine sızabilir. Korsika nanesini yola dikerken kenarına bir kenar ayırıcı koymak, bu istilayı sınırlar.
+
+## Taş aralığı kaç santim olmalı?
+
+Bitkinin tutunacağı aralığın genişliği, seçimi doğrudan etkiler. Yan yana dizilmiş ve aralığı iki santimin altında kalan taşlara bitki dikilmez; oraya kaba kum ya da ince çakıl koymak daha mantıklıdır. Aralık beş altı santimi bulduğunda bodur kekik rahat kök salar. On santimden geniş boşluklarda ise yürürken ayak bileğinizi burkma riski artar; bu geniş boşluğu iki sıra bitkiyle doldurmak ya da taşları birbirine yaklaştırmak gerekir.
+
+Taşın altına serilen zemin de önemlidir. Sıkıştırılmış kil tabanın üzerine konan taş, yağmurda suyu aralığa akıtır ve bitki dibinde su birikir. Taşları döşerken altına bir avuç iri kum katmak, bu birikimi azaltır.
+
+## Mevsime göre bakım
+
+İlkbahar, dikim ve parça bölme mevsimidir. Kış boyunca yamulmuş ya da kuruyan uçları makasla alın; bitki alt kısımdan yeniler. Yazın sıcak bölgelerde, özellikle Ege ve Akdeniz'de, güneşe tam açık taş yolunda kekiğin uçları kuruyabilir. Bu normal bir yaz stresi olabilir; ama dipten yeşil yenileniyorsa müdahale gerekmez.
+
+Sonbaharda yağmurla birlikte yeniden dikim ve aralık doldurma zamanıdır. Kışın don olan bölgelerde taş arasındaki nemli toprak donup çözülerek bitkiyi yukarı itebilir; ilkbaharda kökleri parmakla toprağa bastırmak yeterlidir. Çok ağır kar yağan bölgelerde basma taşların üstündeki karı kürerken bitkiyi sıyırmamaya özen gösterin.
+
+## Sık yapılan hatalar
+
+Dik büyüyen ve uzayan bir bitkiyi taş arasına dikmek, ilk yazdan sonra ayakta tökezletir ve ezilmiş sapların çürümesine yol açar. Güneşli aralığa nemi seven nane türünü seçmek de aynı ölçüde yaygın bir hatadır: Nane gölgede iyi eder, tam güneşte ve kuru taşın arasında hızla kavrulur. Taş altını sıkıştırıp drenajsız bırakmak ise kökü çürütür. Son olarak, aynı aralığa çok farklı türleri karıştırıp dikmek bir yıl sonra bir türün diğerini bastırmasına yol açar; bir aralık, bir tür kuralıyla ilerleyin.
+
+## Kararı üç soruyla verin
+
+Önce ışığa bakın: güneşteki yola kekik ve sedum, gölgedeki yola nane ve gümüş düğme gider. Sonra aralık genişliğine bakın: aralık beş santimden darsa bitki yerine kum doldurun. Üçüncü soru kullanım yoğunluğudur: Her gün geçilen ana yolda bahçe yolu bitkileri yıpranır, bu bölüme çakıl koyun; hafif patikada yer örtücüler rahatça yaşar.
+@sss
+S: Taş aralarına en uygun bitki hangisidir?
+C: Güneşli ve süzek aralıklar için bodur kekik en yaygın seçimdir; hafif ayak trafiğine dayanır. Gölgeli ve nemli aralıklarda Korsika nanesi, gümüş düğme ya da yer yoncası daha iyi çalışır.
+
+S: Taş aralarına ne zaman bitki dikilir?
+C: En uygun zaman son donlardan sonra ilkbahar ya da sonbahardır. Aşırı sıcak yaz günlerinde dikilen parçalar daha sık sulama ister ve zor tutunur.
+
+S: Taş arası bitkiler yabani otu engeller mi?
+C: Tamamen engellemez ama yoğun örtü oluşturduğunda ot tohumuna yer bırakmaz. İlk yıl otları elle temizlemek gerekir; bitkiler dolduktan sonra ot sorunu belirgin biçimde azalır.
+
+S: Taş aralığı ne kadar geniş olmalı?
+C: Bitkinin kök tutabilmesi için aralık birkaç santim genişlikte ve toprakla dolu olmalıdır. Çok dar boşluğa bitki dikilmez; oraya ince kum ya da çakıl doldurmak daha uygundur.
+
+### YAZI
+slug: on-bahce-duzenleme
+baslik: Ön Bahçe Düzenleme: Az Bakımlı Bitki Seçimi
+yayin: 2027-03-16 12:10
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: ön bahçe düzenleme
+seo_baslik: Ön Bahçe Düzenleme: Az Bakım İsteyen Bitkiler
+seo_aciklama: Ön bahçe düzenleme nasıl yapılır? Az bakım isteyen bitki seçimi, çim alanını küçültme, malç, damla sulama ve planlama adımlarını tek rehberde topladık.
+ozet: Ön bahçe düzenleme, evin görünen yüzünü düzenlerken bakım yükünü de hesaba katmayı gerektirir. Az bakımlı bitki seçimini, çim alanını küçültmeyi, malç ve sulamayı adım adım anlattık.
+etiketler: ön bahçe, bahçe düzenleme, az bakımlı bitki, peyzaj, malç, damla sulama, çim alanı
+gorsel: bekliyor
+gorsel_alt: Evin önünde lavanta, süs otu ve çakıl malçla düzenlenmiş sade bir bahçe
+urunler: envaplas-esnek-yesil-cim-ayirici-ve-sinirlayici-25-metre, dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm, leonardit-organik-toprak-duzenleyici
+kisaca: Ön bahçe düzenleme, az bakımlı olması için yerin ışığına ve toprağına uyan, yetişkin boyu alanı aşmayan bitkilerle yapılır. Çim alanını küçültmek, açık toprağı malçla kapatmak ve damla sulamaya geçmek bakım yükünü en çok azaltan üç adımdır.
+@govde
+Ön bahçe, evin vitrinidir ama çoğu zaman en az vakit ayrılan yerdir. Bu yüzden ön bahçe düzenleme planında süs kadar bakım yükü de hesaplanmalıdır. Her hafta budanan, sulanan ve biçilen bir bahçe ilk yıl güzel görünür; vakit azalınca dağılır.
+## Ön bahçe düzenleme: önce yeri okuyun
+
+Mississippi Eyalet Üniversitesi Yayım Servisi, bitkiyi büyüyeceği yere uygun seçmenin sürekli budama ihtiyacını ortadan kaldırdığını belirtir; [peyzaj yönetimi rehberi](https://extension.msstate.edu/lawn-and-garden/landscape-architecture/landscape-design-and-management/landscape-management) planın bitki seçiminden önce yapılmasını önerir. Yani önce yeri tanıyın, sonra bitkiye karar verin.
+
+Üç soruya cevap bulun: Gün içinde kaç saat güneş alıyor? Toprak ağır mı, kumlu mu, süzek mi? Su nereden gelecek? Güney ve batı cepheleri sıcak, kuzey cephesi gölgeli ve nemli kalır. Rüzgâr ve apartman gölgesi de bitki seçimini değiştirir.
+
+## Çim alanını küçültmek bakımı en çok azaltır
+
+Çim, bahçedeki en bakım isteyen yüzeydir: biçim, sulama, gübre ve havalandırma ister. Ön bahçenin tamamını çimle kapatmak yerine, bir bölümünü çok yıllık bitki yatağına çevirin. Çimi korumak istiyorsanız yola yakın, düz ve geniş bir şerit bırakın.
+
+Çim ile yatak arasını bir ayırıcıyla belirlemek, çimin yatağa taşmasını önler ve bahçeye düzgün bir çizgi kazandırır. Çimde kalan alanın bakım takvimi için [çim tohumu nasıl ekilir](/cim-tohumu-nasil-ekilir) yazısına, çime alternatif olan basılabilir yer örtücüler için [dikondra](/dikondra) yazısına bakabilirsiniz.
+
+## Az bakımlı bitki seçimi tablosu
+
+Aşağıdaki bitkiler, ılıman iklimlerde ön bahçe yatağı için sık kullanılır. Kuzey ve İç Anadolu gibi soğuk bölgelerde kışlık dayanıklılığı yerel fidanlıktan doğrulayın.
+
+| Bitki | Işık | Su ihtiyacı | Bakım notu |
+|---|---|---|---|
+| Lavanta | Güneş | Az | Çiçekten sonra hafif budanır |
+| Biberiye | Güneş | Az | Süzek toprak şart |
+| Süs otları | Güneş | Az, orta | Yılda bir kez dipten kırpılır |
+| Sedum | Güneş | Çok az | Etli yaprak, kuraklığa dayanır |
+| Defne, çobanpüskülü | Güneş, yarı gölge | Az | Biçim budaması yeter |
+| Hanımeli, kadın tuzluğu gibi çalılar | Yarı gölge | Orta | Yer seçimi önemli |
+
+Lavanta için [lavanta yetiştirme](/lavanta-yetistirme) yazısı toprak ve budama bilgisini verir. Küçük bahçeye uygun ağaç ve çalı seçmek için [bahçeye uygun süs ağaçları](/bahceye-uygun-sus-agaclari) rehberi boy ve gölge bilgisini toplar.
+
+[ürün:envaplas-esnek-yesil-cim-ayirici-ve-sinirlayici-25-metre]
+
+## Malç ve damla sulama düzeni
+
+Açıkta kalan toprak yabani ot ister. Bitkilerin arasını kalın bir malç katmanıyla kapatmak hem otu bastırır hem toprağın nemini tutar. Taş, çakıl, çam kabuğu ya da saman gibi seçenekleri [malç çeşitleri](/malc-cesitleri) yazısında karşılaştırdık.
+
+Sulama için bitki köklerine yakın döşenen damla hattı, su kaybını ve yaprak hastalığı riskini azaltır. Hattın kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısı gerekli parçaları ve sırayı gösterir. Bir sulama zamanlayıcısı eklemek, tatile çıktığınızda da bahçenin bakımsız kalmamasını sağlar.
+
+## Adım adım ön bahçe düzenleme planı
+
+::: adimlar
+Planı çizin | Bahçenin ölçülerini kâğıda alın; giriş yolu, çim alanı ve yatakları ayrı çizin.
+Işık ve toprağı belirleyin | Her bölgenin kaç saat güneş aldığını not edin; toprağın süzekliğini yoklayın.
+Çimi küçültün | Çim alanını gerçekten kullandığınız kadar bırakın, kalanı yatak yapın.
+Bitkileri yerleştirin | Uzun bitkiyi arkaya, alçak olanı öne dikin; yetişkin boylarını hesaplayın.
+Malçı serin | Dikimden sonra yatağı 5–7 santim malçla kapatın ve damla hattını döşeyin.
+:::
+
+## Gölgeli ve kuzey cepheli ön bahçe
+
+Her ön bahçe güneşli değildir. Kuzey cephesi gün boyu gölgede kalır ve toprak geç ısınır; yukarıdaki tabloda güneş isteyen türler burada başarısız olur. Gölgede iş yapan bitkiler farklıdır: her dem yeşil şimşir ve taflan gibi çalılar, eğrelti otları, hosta, sarmaşık ve çuha çiçeği gibi yaprak ve çiçek dokusu veren türler. Gölge bahçede çim de zorlanır; yosun ve çıplak toprak belirir. Çimi gölge alanlarında zorlamak yerine yatağa çevirin; ağaç altındaki gölgeli çim için [gölgeye dayanıklı çim](/golgeye-dayanikli-cim) yazısı seçenekleri gösterir.
+
+Gölgede bitkiler daha az sulanır çünkü toprak geç kurur; tam tersine, sürekli sulama yaprak hastalığı getirir. Toprağı elinizle yoklayıp parmak boyu derinlikte kuru ise sulayın.
+
+## Giriş yolu, çit ve aydınlatma
+
+Ön bahçenin en çok görülen yeri giriş yoludur ve burası bakım istemeyen malzemeyle kurulmalıdır. Taş ya da beton döşeme, kenarlarında çim ya da bitki sızdırmayan bir ayırıcı ile birlikte yıllarca temiz kalır. Yolun iki yanına bitki dikecekseniz yetişkin genişliklerini hesaplayın: Yola taşan bir lavanta ya da biberiye hem yürüyüşü hem kendi şeklini bozar. Yol kenarından en az bitkinin yetişkin boyunun yarısı kadar geri çekilin.
+
+Çit seçerken hızlı büyüyen türlerin hızlı kırpma istediğini unutmayın. Leylandi gibi hızlı çitler yılda birkaç kez kırpılır; [leylandi bakımı](/leylandi-bakimi) yazısında bu yükün boyutunu görebilirsiniz. Daha yavaş büyüyen ve doğal formunu koruyan bir çalı sırası, çok daha az iş çıkarır. Aydınlatma için de aynı mantık geçerli: Birkaç alçak lamba, bütün bahçeyi aydınlatan tek bir projektörden çok daha az enerji ve bakım ister.
+
+## Yıl boyunca bakım takvimi
+
+Az bakımlı bahçe de bakımsız değildir; iş yılın belirli aylarına toplanır.
+
+::: takvim
+Kış budaması ve ayırıcı kontrolü | 2-3
+Çim gübresi ve yatak kırpımı | 3-4
+Malç tazeleme ve damla hattı testi | 4-5
+Yaz sulaması (haftada bir derin) | 6-8
+Soğan dikimi ve sonbahar toplaması | 10-11
+:::
+
+Mart ve nisan en yoğun aylardır: Süs otlarını dipten kırpar, lavantayı hafifçe şekillendirir, malçı yeniler ve sulama hattını bir kez çalıştırıp tıkanan damlatıcıları temizlersiniz. Yazın işi sulama ve solan çiçeği almakla sınırlıdır. Böyle bir takvim, bahçeyi haftada bir saatlik bakımla bile ayakta tutar.
+
+## Sık yapılan hatalar
+
+Bitkiyi alırken yalnızca küçük fidan hâline bakıp yetişkin boyunu hesaba katmamak en pahalı hatadır; üç yıl sonra çalı pencereyi kapatır. Hepsini aynı anda çiçek açan türlerle doldurmak da bahçeyi bir ay güzel, on bir ay sönük bırakır; erken ilkbahar, yaz ve sonbahar için ayrı bitkiler seçin. Sulama düzenini bitkiden sonra düşünmek, hortumla yatağı gezmeye mecbur kalmak demektir. Evin duvarına çok yakın büyük ağaç dikmek temellere ve çatıya zarar verebilir. Yatak kenarını belirlememek de sonradan çimin yatağa, otun çime karışmasına yol açar.
+
+## Önce plan, sonra fidan
+
+Ön bahçe düzenleme bakım yükünü baştan hesaplayan bir iştir: yeri okuyun, çimi küçültün, yetişkin boyuna uyan bitkiyi seçin, açık toprağı malçlayın, sulamayı otomatikleştirin. İlk iki yıl sulama ve ot kontrolü gerekir; üçüncü yıldan itibaren çoğu bahçe kendi dengesini bulur.
+@sss
+S: Az bakımlı ön bahçe için hangi bitkiler seçilir?
+C: Lavanta, biberiye, kekik, sedum ve süs otları az sulama ve az budama ister. Güneşli, süzek bir toprakta bu bitkiler birkaç yılda yerine oturur ve fazla bakım gerektirmez.
+
+S: Ön bahçede çim mi çiçek yatağı mı daha az bakım ister?
+C: Çiçek yatağı, özellikle çok yıllık bitkilerle kurulup malçlandığında çimden daha az bakım ister. Çim her hafta biçim, düzenli sulama ve gübre gerektirir.
+
+S: Ön bahçe düzenleme için en iyi mevsim hangisi?
+C: Ağaç ve çalı için sonbahar ya da erken ilkbahar uygundur. Bitkiler sıcak yazdan önce kök salar. Çok yıllık yatak da bu iki mevsimde kurulabilir.
+
+S: Ön bahçede malç kalınlığı ne kadar olmalı?
+C: Yatakta 5–7 santim malç yaygındır. Gövdeye ve bitkinin boynuna yaslanmamalıdır; aralarda hava boşluğu bırakılmalıdır ki çürüme olmasın.
+
+### YAZI
+slug: bahce-aydinlatma-bitkiler
+baslik: Gece Bahçesi: Bahçe Aydınlatma Bitkiler, Beyaz Çiçekler ve Koku
+yayin: 2027-03-16 14:30
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: bahçe aydınlatma bitkiler
+seo_baslik: Gece Bahçesi: Bahçe Aydınlatma Bitkiler ve Kokular
+seo_aciklama: Gece bahçesi için bahçe aydınlatma bitkiler nelerdir? Akşam açılan beyaz çiçekler, koku veren türler, ışıkla birlikte yerleşim ve bakım ipuçları.
+ozet: Akşam saatlerinde parlayan beyaz çiçekler ve kokular, gece bahçesinin asıl aydınlatmasıdır. Bahçe aydınlatma bitkiler arasından hangilerinin seçileceğini, nasıl yerleştirileceğini ve nasıl bakılacağını anlattık.
+etiketler: gece bahçesi, beyaz çiçekler, akşam kokusu, bahçe aydınlatma, yasemin, hanımeli, gece sefası
+gorsel: bekliyor
+gorsel_alt: Alacakaranlıkta loş ışıkta parlayan beyaz çiçekli bahçe köşesi
+urunler: hg-cicek-topragi, hasturk-sivi-solucan-gubresi, hg-fidan-topragi
+kisaca: Bahçe aydınlatma bitkiler, akşam saatlerinde açılan, açık renkli ve kokulu türlerdir: yasemin, hanımeli, gece sefası, tütün çiçeği, gece şebboyu ve beyaz petunya. Loş ışıkta beyaz çiçekler öne çıkar, kokular da gece sıcak ve durgun havada daha belirgin hissedilir.
+@govde
+Gün batınca renkli çiçekler solar, beyaz ve açık renkli olanlar ise loş ışıkta parlamaya devam eder. Gece bahçesi, bu etkiyi bilinçli kullanan bir düzendir. Bahçe aydınlatma bitkiler çoğu zaman ışıkla birlikte tasarlanır: Lamba az, bitki çoktur.
+## Bahçe aydınlatma bitkiler neden gece öne çıkar?
+
+Açık renkli çiçekler az ışığı yansıtır ve karanlıkta daha kolay seçilir. Bazı türler ise çiçeklerini yalnızca akşam açar ya da kokularını akşam yoğunlaştırır. Bunun nedeni gece uçan güve gibi tozlayıcıları çekmektir. Kraliyet Bahçıvanlık Derneği (RHS), akşam çiçek açan ve kokusu akşam artan bitkilerin güvelere besin sağladığını belirtir; ayrıntı için [RHS güve dostu bitkiler sayfasına](https://www.rhs.org.uk/garden-design/sustainable-planting-combinations/pollinators/moths) bakabilirsiniz.
+
+Aynı kaynak, gece fazının örneği olarak gece fulyasını (Zaluzianskya ovata) gösterir: Gündüz kıvrık duran çiçekleri akşam açılıp kokulu beyaz yıldızlara dönüşür; [RHS bitki profilinde](https://www.rhs.org.uk/plants/19181/zaluzianskya-ovata/details) yaz ortasından sonuna kadar çiçek açtığı yazılıdır.
+
+## Gece bahçesinde hangi bitkiler kullanılır?
+
+| Bitki | Tür | Gece etkisi | Işık |
+|---|---|---|---|
+| Yasemin | Sarmaşık, çalı | Akşam yoğun koku | Güneş, yarı gölge |
+| Hanımeli | Sarmaşık | Akşamları kokar | Güneş, yarı gölge |
+| Gece sefası | Çok yıllık, yazlık | Akşam açılır | Güneş |
+| Tütün çiçeği (Nicotiana) | Yazlık | Beyaz, akşam kokusu | Güneş, yarı gölge |
+| Gece şebboyu | Yazlık | Akşam kokusu | Güneş |
+| Beyaz petunya, beyaz sardunya | Saksı bitkisi | Loş ışıkta parlar | Güneş |
+| Beyaz gül | Çalı | Işıkta görünür, kokulu | Güneş |
+
+Yasemin bakımı için [yasemin bakımı](/yasemin-bakimi) yazısı, sebboy gibi yazlık kokulu çiçekler için [şebboy yetiştirme](/sebboy-yetistirme) rehberi bilgi verir. Güneşi seven kokulu yazlıkları saksıda yetiştirecekseniz hafif, süzek bir çiçek toprağı kullanın.
+
+[ürün:hg-cicek-topragi]
+
+## Koku ve ışığı birlikte planlamak
+
+Kokulu bitkileri oturma alanına yakın, rüzgârın koku taşıyacağı yöne dikin. Yasemin ya da hanımeli bir kemere, pergolaya ya da duvara sarılırsa koku tam kafa hizasında yayılır. Gül kemeri kurmak isterseniz [gül kemeri nasıl yapılır](/gul-kemeri) yazısı destek yapısını anlatır.
+
+Işıkta az yaklaşım iyi çalışır. Gövdeye ya da yaprak altına yerleştirilmiş sıcak tonlu küçük bir lamba, çiçeğin üzerine doğrudan değil yan yönden vurduğunda beyazı öne çıkarır. Çok parlak ışık hem gece uçan böcekleri şaşırtır hem bitkinin gece ritmini bozabilir.
+
+## Gece bahçesi nasıl kurulur?
+
+::: adimlar
+Oturma yerini seçin | Akşam en çok vakit geçirdiğiniz köşeyi belirleyin; koku buraya yönelsin.
+Beyaz çekirdeği kurun | Arka planda beyaz çalı ve sarmaşık, önde alçak beyaz yazlık dikin.
+Kokuyu katmanlayın | Kemere yasemin ya da hanımeli, saksılara tütün çiçeği ve şebboy yerleştirin.
+Işığı sade tutun | Birkaç alçak, sıcak tonlu lamba kullanın; ışığı yukarıdan değil, yandan verin.
+Düzenli sulayın | Saksı bitkilerini sabah sulayın; akşam ıslak yapraklar mantara yol açar.
+:::
+
+## Bakım ve sık yapılan hatalar
+
+Beyaz çiçekler solduğunda kahverengileşir ve gece bahçesinde göze batar. Solan çiçekleri düzenli koparın; bu hem yeni tomurcuk teşvik eder hem görünümü temiz tutar. Yazlık kokulu çiçekler besin ister: Saksıda iki üç haftada bir seyreltik sıvı besin vermek çiçeklenmeyi uzatır; sıvı solucan gübresi bu amaçla kullanılabilir.
+
+- Hepsini aynı alanda yığmak; koku birbirini bastırır
+- Işık tutulacağı yöne bakmadan lamba dikmek
+- Güneşi seven türleri gölgeye dikmek
+- Sulamayı akşam yapmak; yapraklar gece ıslak kalır
+- Zehirli türleri çocuk ve evcil hayvan erişimine açık bırakmak
+
+## Ne zaman dikilir?
+
+Gece bahçesinin yazlık bitkileri son donlardan sonra dikilir: Tütün çiçeği, gece şebboyu, gece sefası ve petunya sıcağı sever ve don görürse ölür. Evde ya da serada tohumdan fide yetiştirenler bu bitkileri mart sonunda ekip nisan sonu ile mayıs başı arasında dikebilir. Yasemin ve hanımeli gibi çok yıllık sarmaşıklar ise sonbahar ve erken ilkbaharda dikilir; ilk yaz biraz sulama ve destek ister. Çiçeklenmeye ilk yıl beklemeyin: Sarmaşıklar çoğu zaman ikinci yaz gürleşir.
+
+Saksıdaki bitkileri taşırken akşam saatinden önce yer değiştirin. Koku bitkileri yer ve ışık değişimine kısa süreli tepki verip tomurcuk dökebilir.
+
+## Balkonda gece bahçesi
+
+Bahçeniz yoksa aynı etki balkonda da kurulur. Korkuluk saksılarına beyaz petunya, orta boy saksıya tütün çiçeği, köşeye bir yasemin yerleştirin. Burada asıl sınır güneştir: Kuzeye bakan balkonda bu bitkilerin çoğu çiçek vermez. Güney ve batı balkonu bu iş için en verimli yöndür, çünkü akşam sıcağı kokuyu da öne çıkarır.
+
+Saksıda yetişen kokulu bitkiler sık sulama ister. Yazın sıcak günlerde sabah ve akşamüstü toprağı yoklayın. Işığı kısık tutun; parlak bir lamba kokulu çiçeklerin gece tozlayıcılarını uzaklaştırabilir.
+
+## Solar lamba mı, kablolu aydınlatma mı?
+
+Güneş enerjili alçak lambalar kablo çekmek zorunda bırakmaz ve bitki yataklarının arasına kolayca yerleştirilir. Karşılığında ışıkları zayıftır ve kapalı havalarda ya da gölgede şarj olmaz; bu yüzden panelini gün boyu güneş alan bir noktaya koyun. Kablolu sistemler daha parlak ve süreklidir ama kurulumu bir elektrik işi sayılır; dış mekânda su geçirmez bağlantı ve sigorta koruması şarttır, bu iş için elektrikçiden destek alın. Her iki durumda da amaç bahçeyi aydınlatmak değil, beyaz çiçeği ve gövdeyi vurgulamaktır: Işık sayısını az tutun.
+
+## Zehirli türlere dikkat
+
+Gece bahçesinde sık kullanılan bazı bitkiler zehirlidir. Melek borusu (Brugmansia) ve bazı tütün çiçeği türleri insanlar ve evcil hayvanlar için zararlı olabilir. Çocuk ya da kedi, köpek olan evde bu bitkileri erişim dışında tutun ya da hiç dikmeyin. Evcil hayvanlar için güvenli seçimler konusunda [evcil hayvan dostu bitkiler](/evcil-hayvan-dostu-bitkiler) yazısı bir liste sunar.
+
+## Hangi saatte hangi koku?
+
+Aynı bahçede kokular saat saat değişir. Yasemin ve hanımeli, gün batımından hemen sonra yoğunlaşır. Gece fulyası güneş battıktan sonra açılır ve kokusu gece boyunca sürer. Tütün çiçeği alacakaranlıkta başlar. Bu sıra sayesinde oturma alanında akşamın farklı saatlerine ayrı bir koku denk getirebilirsiniz. Bir bitkiyi bir köşeye yığmak yerine, kokuları oturma yerinin etrafında halka gibi dağıtmak daha dengeli sonuç verir.
+
+## Bahçe aydınlatma bitkiler: kısa seçim notu
+
+Bahçe aydınlatma bitkiler arasında üç ölçüt belirleyicidir: beyaz ya da açık çiçek rengi, akşam kokusu, güneş isteği. Yasemin, hanımeli, gece sefası, tütün çiçeği ve gece şebboyu birlikte kullanıldığında bahçe geceleri de canlı kalır.
+@sss
+S: Gece bahçesi için hangi çiçekler uygundur?
+C: Beyaz ve açık renkli, akşam açılan ya da kokusu akşam artan türler uygundur: yasemin, hanımeli, gece sefası, tütün çiçeği, gece şebboyu ve beyaz petunya.
+
+S: Beyaz çiçekler geceleri neden daha parlak görünür?
+C: Açık renkli çiçekler az ışığı yansıtır; koyu renkler ise karanlıkta kaybolur. Bu yüzden loş bir bahçede beyaz ve krem tonlar en görünür olanlardır.
+
+S: Gece kokulu bitkiler saksıda yetişir mi?
+C: Evet. Tütün çiçeği, şebboy ve petunya geniş bir saksıda güneşli bir yerde rahat yetişir. Saksıya süzek toprak koyun ve sulamayı sabah yapın.
+
+S: Gece bahçesinde aydınlatma lambası nasıl olmalı?
+C: Az sayıda, sıcak tonlu ve alçak lamba yeterlidir. Işık çiçeğe yandan vurmalı; çok parlak ya da beyaz ışık hem bitkiyi hem gece uçan böcekleri rahatsız eder.
+
+### YAZI
+slug: japon-bahcesi
+baslik: Japon Bahçesi İlkeleri: Küçük Alana Uyarlama
+yayin: 2027-03-16 16:55
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: japon bahçesi
+seo_baslik: Japon Bahçesi İlkeleri ve Küçük Alana Uyarlama
+seo_aciklama: Japon bahçesi nasıl kurulur? Taş, su ve bitki üçlüsü, boşluk ilkesi, yosun ve çakıl kullanımı ile küçük bahçe ve balkona uyarlama adımları.
+ozet: Japon bahçesi, taş, su ve bitkiyi sade bir düzende buluşturur. Temel ilkeleri, çakıl ve yosun kullanımını ve bu düzeni küçük bir bahçe, avlu ya da balkona uyarlamanın yollarını anlattık.
+etiketler: japon bahçesi, zen bahçesi, çakıl bahçe, küçük bahçe, yosun, taş, minimal bahçe
+gorsel: bekliyor
+gorsel_alt: Tırmıklanmış çakıl, yosunlu taşlar ve kısa boylu bir çalıyla sade bahçe köşesi
+urunler: dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm, hg-bonsai-saksi-topragi, hg-kil-bilyesi
+kisaca: Japon bahçesi, taş, su ve bitkiyi sade ve dengeli bir düzende bir araya getiren bahçe tarzıdır. Küçük alanda bir kaya grubu, tırmıklanmış çakıl, bir su kabı ve birkaç yaprağını yıl boyu koruyan bitkiyle kurulabilir; sadelik ve boş bırakılan alan temel ilkedir.
+@govde
+Japon bahçesi kalabalık bir bahçe değildir; tersine, ne koymadığınızla tanınır. Taşlar, su ve bitkiler ölçülü yerleştirilir, aralarındaki boşluk da tasarımın parçasıdır. Bu yüzden japon bahçesi küçük bir avluya, yan bahçeye ya da balkon köşesine de uyarlanabilir.
+## Japon bahçesi ilkeleri nelerdir?
+
+Kraliyet Bahçıvanlık Derneği'nin [Japon bahçesi rehberi](https://www.rhs.org.uk/garden-design/create-a-japanese-garden), bu tarzın üç temel öğesini şöyle özetler: yapıyı anlatan taş, yaşamın ritmini simgeleyen su ve mevsimle renk değiştiren doğal bitki örtüsü. Bu üçlüyü küçük de olsa korumak yeterlidir.
+
+Bunun yanında dört ilke bahçeyi şekillendirir:
+
+- **Sadelik:** Az malzeme, az bitki türü; tekrar eden bir palet.
+- **Boşluk:** Çakıl ya da yosunla bırakılan boş alan tasarımın parçasıdır ve doldurulmaz.
+- **Doğal dizilim:** Taşlar ve bitkiler simetrik değil, üçlü gruplar hâlinde ve düzensiz ama dengeli yerleştirilir.
+- **Gizleme ve keşif:** Bahçe tek bakışta görünmez; bir çalı ya da taş, arkasındaki alanı bir sonraki adıma saklar.
+
+## Taş, su ve bitki küçük alanda nasıl kurulur?
+
+Taşları bahçenin iskeleti olarak düşünün. Üç farklı boyda taşı üçlü bir grup hâlinde, yarısı toprağa gömülü olacak şekilde yerleştirin; böylece taş yerleştirilmiş değil, orada duruyormuş gibi görünür. Su için küçük bir su kabı, bambu çeşme ya da kuru dere (çakıl şeridi) yeterlidir. RHS, çok küçük bir bahçede de küçük bir havzanın yer bulabileceğini belirtir.
+
+Bitkilerde yeşil ağırlıklı, yıl boyu yaprağı kalan türler seçin: bodur çam, bonsai biçimli çalılar, yosun, eğrelti otu ve süs otları. Renk için mevsimlik tek bir akçaağaç ya da kiraz yeterlidir. Akçaağaç için [Japon akçaağacı](/japon-akcaagaci), gür bambu için [bahçede bambu yetiştirme](/bahcede-bambu) yazısına bakın.
+
+## Su yoksa çakıl: kuru bahçe tekniği
+
+Zen bahçesi tarzı kuru bahçede su yerine ince çakıl ya da kum kullanılır ve tırmıkla dalga biçiminde çizilir. Çakıl, suyu temsil eder; üzerine yerleştirilen taşlar adacıkları andırır. Bu tarz balkon için ideal olabilir çünkü sulama ve drenaj sorunu yoktur.
+
+Kuru bahçeyi kurarken zemini önce temizleyin, üstüne geçirgen örtü serin ve 5–7 santim çakıl dökün. Örtü, otların çakıldan geçmesini zorlaştırır. Düzenli olarak yaprak ve toz toplayın; çakıl her birkaç haftada tırmıklanır.
+
+| Unsur | Açık bahçe | Balkon ve avlu |
+|---|---|---|
+| Taş | Üç, beş taşlık gruplar | Bir ya da üç küçük taş |
+| Su | Havuz, çeşme | Su kabı ya da kuru çakıl |
+| Bitki | Bodur çam, akçaağaç, bambu | Bonsai, eğrelti, yosun, süs otu |
+| Zemin | Yosun, çakıl, basma taş | Çakıl, taş döşeme |
+
+[ürün:dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm,hg-bonsai-saksi-topragi]
+
+## Küçük bir su kabı nasıl kurulur?
+
+Balkon ya da avlu için en kolay su ögesi, dibi delinmemiş geniş bir seramik ya da taş kaptır. Kabı sağlam bir zemine yerleştirin, içini yağmur suyu ya da dinlendirilmiş musluk suyuyla doldurun. Küçük bir solar pompa su yüzeyini hareket ettirir; durgun suda sivrisinek üremesini azaltmak için yaz boyunca suyu yedi on günde bir yenileyin. Yağmur suyu toplama düzeninin kurulumu için [yağmur suyu toplama](/yagmur-suyu-toplama) yazısı pratik bilgi veriyor.
+
+Kabın içine bir iki taş koymak ve etrafına yosun ya da eğrelti dikmek tasarımı tamamlar. Su yüzeyi gökyüzünü yansıttığı için küçük alanı büyük gösterir; bu da Japon bahçesinin küçük ölçekte en etkili hilesidir.
+
+## Yosun ve basma taş yolu
+
+Yosun, sert kenarları yumuşatır ve yeni taşa eski görünüm verir. Yosunlu bir alan gölgeli, nemli ve asidik zeminde gelişir; sulamayı düzenli yapmak gerekir. Yosunu doğadan sökmek yerine, hazır yüzey elde etmeyi tercih edin.
+
+Basma taş yolu hem ziyaretçiyi yönlendirir hem yosunu çiğnenmekten korur. Taşların arasını geniş tutun ki adım yavaşlasın; bu da Japon bahçesindeki yavaş gezinmenin bir parçasıdır. Taş arası için [bahçe yolu bitkileri](/bahce-yolu-bitkileri) yazısı yer örtücü seçeneklerini anlatır.
+
+## Küçük bahçeye uyarlama adımları
+
+::: adimlar
+Alanı sınırlayın | Bahçenin bir köşesini ayırın; bir çit ya da duvar arka plan olsun.
+Kaya grubunu yerleştirin | Üç taşı farklı boylarda yarı gömülü olarak koyun.
+Zemini döşeyin | Örtü serip çakıl dökün; yürüyüş yolunu basma taşla belirleyin.
+Bitkileri seçin | Bir akçaağaç ya da bonsai, birkaç süs otu ve yosun yeterlidir.
+Su ögesi ekleyin | Küçük bir kap ya da bambu çeşme; yoksa çakıl dalgası.
+Sadeliği koruyun | Eksik görünen alanı doldurmayın; bir yıl sonra yeniden değerlendirin.
+:::
+
+## Taş seçimi ve yerleştirme
+
+Taş, bahçede tek bir tür olmalıdır: Hep aynı kayadan, farklı boylarda üç parça. Düzgün kesilmiş sanayi taşı yerine, yüzeyi doğal ve kenarları yuvarlak taş daha iyi görünür. Taşı yerleştirirken geniş ve düz yüzeyini aşağı koyun, alt kısmın üçte birini toprağa gömün ve önce en büyük taşı, sonra ortancayı, en son küçüğü yerleştirin. Bir taşın yüzünü bahçeye bakacak biçimde, yosunlu ya da çizgili yüzünü öne çevirin. Bir iki gün sonra uzaklaşıp bakın; taşlar doğal oturmuyorsa yer değiştirmek yarım saat sürer ve sonucu çok değiştirir.
+
+## Mevsimle değişen tek renk
+
+Japon bahçesinde çiçek ikinci plandadır; mevsimi gösteren şey yaprağın rengidir. İlkbaharda akçaağacın kırmızımsı körpe yaprağı, yazın koyu yeşil, sonbaharda turuncu ve kırmızı; kışın ise çıplak dal ve çakıl üstündeki kırağı bahçenin yüzü olur. Bu yüzden her mevsim için tek bir bitkiye güvenmek yeterlidir: ilkbahar için bir kiraz ya da şimşir, yaz için yosun ve eğrelti, sonbahar için akçaağaç, kış için her dem yeşil bir çam. Küçük alanda bunların hepsini koymak şart değildir; tek bir ağaç tüm yılı taşıyabilir.
+
+Akçaağaç Türkiye'de güneşi çok seven bir bitki değildir. Öğle güneşinde yaprak kenarları yanabilir. Yarı gölgede, rüzgârdan korunmuş bir köşe ona daha uygundur.
+
+## Küçük alanda sık yapılan hatalar
+
+En sık hata, kalabalıklaştırmaktır. Heykel, lamba, renkli saksı ve rengârenk çiçek bir araya gelince sadelik kaybolur. İkinci hata, taşları yüzeye bırakmak yerine toprağa gömmemektir; yüzeye konmuş taş yapışık değil, "unutulmuş" görünür. Üçüncüsü bakım yükünü hafife almaktır: Çakılın yaprak ve otlardan temizlenmesi, yosunun nemi ve çizgilerin düzenli tırmıklanması gerekir. Balkonda ise ağırlık sınırını aşmayın; taş ve çakıl yoğun bir yük yaratır, bu yüzden sığ bir tepsi ve birkaç küçük taşla başlamak daha güvenlidir.
+
+## Japon bahçesi için akılda kalacak kural
+
+Japon bahçesi küçük alana taş, su ve bitki üçlüsüyle uyarlanır. Taşları üçlü gruplayın, su yoksa çakıl dalgası kullanın, bitkiyi az tutun ve boşluğu doldurmayın. Bu tarzda sadelik, bakım yükünü azaltmanın da en kolay yoludur.
+@sss
+S: Japon bahçesinde hangi bitkiler kullanılır?
+C: Bodur çam, Japon akçaağacı, bambu, eğrelti otu, süs otları ve yosun yaygındır. Çoğu yıl boyu yeşil kalan, sade yapraklı ve mevsimle ince renk değiştiren türlerdir.
+
+S: Balkona Japon bahçesi kurulabilir mi?
+C: Evet. Geniş bir saksıya ya da sığ bir tepsiye çakıl, bir iki taş ve bir bonsai ya da süs otu yerleştirerek küçük bir kuru bahçe yapılabilir. Su gerektirmez.
+
+S: Japon bahçesi bakım ister mi?
+C: Az bitkili olduğu için bakımı hafiftir ama sıfır değildir. Çakılın yapraktan temizlenmesi, otların alınması ve yosunun nemli tutulması düzenli işlerdir.
+
+S: Zen bahçesi ile Japon bahçesi aynı şey mi?
+C: Zen bahçesi, Japon bahçesinin kuru ve çakıl ağırlıklı bir türüdür. Su yerine tırmıklanmış çakıl kullanır; Japon bahçesi ise su, bitki ve yürüyüş yollarını da içerebilir.
+
+### YAZI
+slug: akdeniz-bahcesi-tasarimi
+baslik: Akdeniz Bahçesi Tasarımı: Zeytin, Lavanta ve Taş
+yayin: 2027-03-16 19:40
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: akdeniz bahçesi tasarımı
+seo_baslik: Akdeniz Bahçesi Tasarımı: Zeytin, Lavanta, Çakıl
+seo_aciklama: Akdeniz bahçesi tasarımı nasıl yapılır? Zeytin, lavanta ve biberiye gibi kurağa dayanıklı bitkiler, çakıl ve taş kullanımı ile sulama ve toprak hazırlığı.
+ozet: Akdeniz bahçesi tasarımı güneşi seven, az su isteyen bitkileri çakıl ve taşla bir araya getirir. Bitki seçimini, toprak ve drenaj hazırlığını, çakıl malçı ve ilk yıl sulamasını anlattık.
+etiketler: akdeniz bahçesi, kurağa dayanıklı bahçe, zeytin, lavanta, çakıl bahçe, biberiye, güneşli bahçe
+gorsel: bekliyor
+gorsel_alt: Güneşli bahçede çakıl zemin üzerinde lavanta, zeytin ağacı ve taş duvar
+urunler: hg-aromatik-bitkiler-icin-saksi-topragi, hg-kil-bilyesi, hg-fidan-topragi
+kisaca: Akdeniz bahçesi tasarımı güneşli, süzek ve düşük su gerektiren bir düzene dayanır: zeytin, lavanta, biberiye, kekik gibi bitkiler çakıl malçla ve taş detaylarla birleştirilir. Başarının sırrı bitkiyi kurutmak değil, toprağın suyu bekletmemesidir.
+@govde
+Akdeniz iklimi yazı sıcak ve kurak, kışı ılık ve yağışlı geçirir. Bu iklimin bitkileri kuraklığa dayanıklıdır ama ıslak ayaklara dayanamaz. Akdeniz bahçesi tasarımı bu yüzden önce toprağın nasıl süzeceğine, sonra bitkilerin ne kadar güneş alacağına bakar.
+## Akdeniz bahçesi tasarımı nasıl başlar?
+
+Kraliyet Bahçıvanlık Derneği (RHS), Akdeniz bitkilerinin çoğunun [güneşli ve iyi drene olan bir yerde](https://www.rhs.org.uk/garden-design/design-with-plants/mediterranean-garden-plants) en iyi sonucu verdiğini belirtir. Bu yüzden ilk kural, bahçenin en güneşli ve en süzek köşesini bu bitkilere ayırmaktır.
+
+Zeminin ağır ve killi olması, Akdeniz bahçesinin en büyük sorunudur. Böyle bir toprakta kabartılmış yatak yapın, toprağı kum ya da ince çakılla gevşetin ya da bitkileri hafif bir yüksekliğe dikin. Çukur ve su biriken yerlere zeytin ve lavanta dikmeyin.
+
+## Bitki seçimi: iskelet ve dolgu
+
+Bir Akdeniz bahçesi ağaç ya da iri çalıdan oluşan iskeleti, orta boy çalı ve kokulu bitki dolgusunu ve alt katman çakılı birleştirir.
+
+| Katman | Bitkiler | Not |
+|---|---|---|
+| İskelet | Zeytin, servi, defne, nar | Tam güneş, süzek toprak |
+| Orta katman | Lavanta, biberiye, adaçayı, santolina | Hafif budama ile sık kalır |
+| Alt katman | Kekik, sedum, kadife çiçeği, kediotu | Alçak, kokulu |
+| Süs | Sarmaşık, begonvil, yasemin | Duvar ve kemer kenarı |
+
+RHS lavantanın fakir toprakta ve tam güneşte iyi yaşadığını, kuraklığa çok dayanıklı olduğunu vurgular. Lavanta ayrıntıları için [lavanta yetiştirme](/lavanta-yetistirme), kış sonrası kırpma için [lavanta budama](/lavanta-budama) yazılarına göz atın. Zeytin ağacı için [zeytin fidanı dikimi](/zeytin-fidani-dikimi) rehberi dikim zamanını ve aralığı anlatır.
+
+## Çakıl ve taşın rolü
+
+Çakıl, Akdeniz bahçesinin imzasıdır. Bitki aralarına serilen çakıl, yabani otu bastırır, toprağın nemini tutar ve bitkinin boynunu kuru bırakır. Bunu yaparken çakılın altına geçirgen bir örtü serebilir ya da doğrudan toprak üstüne kaplayabilirsiniz. Çakıl bahçesi kurulumu için RHS bu yöntemin tipik olarak birkaç santimlik bir çakıl katmanıyla yapıldığını anlatır; ayrıntıyı [RHS çakıl bahçeleri rehberinde](https://www.rhs.org.uk/advice/profile.aspx?PID=500) bulabilirsiniz.
+
+Taşı iskelet olarak kullanın: bir kaya grubu, kuru taş duvar ya da basma taş yolu bahçeye Akdeniz köylerinin dokusunu verir. Bitki aralarında çıplak toprak yerine çakıl veya iri kum dengesi kurulabilir. Malç seçenekleri için [malç çeşitleri](/malc-cesitleri) yazısına bakın.
+
+[ürün:hg-fidan-topragi,hg-kil-bilyesi]
+
+## Toprak hazırlığı ve drenaj
+
+Akdeniz bitkileri zengin ve nemli toprağı sevmez. Aşırı gübre, yapraklı ve yumuşak büyüme yaptırır, bitkiyi kış soğuğuna ve hastalığa açar. Toprağı kum ya da ince çakılla gevşetin, çok az olgun kompost katın.
+
+Saksıda Akdeniz bitkisi yetiştirecekseniz karışımın süzek olması şarttır; bunun için [aromatik bitki toprağı](/aromatik-bitki-topragi) yazısı oranları verir. Saksı tabanındaki drenaj katmanı için [kil bilyesi nedir](/kil-bilyesi-nedir-nasil-kullanilir) rehberi bilgi sunar.
+
+## Taş duvar, teras ve oturma köşesi
+
+Akdeniz bahçesinde taş yalnızca yüzey değil, mekân kurucudur. Eğimli bir bahçede kuru taş duvar teras oluşturur, arkasındaki toprak süzek kalır ve duvar aralarına kekik, sedum, kapari gibi bitkiler yerleşebilir. Taş ısıyı gündüz depolar, geceleri geri verir; bu yüzden duvar önündeki bitkiler hafif donlardan biraz korunur. Oturma köşesini bir zeytin ya da asma pergolasının gölgesine kurarsanız, yaz sıcağında Akdeniz bahçelerinin asıl cazibesi olan serin gölge köşesine kavuşursunuz.
+
+Zemin malzemesini sade tutun: tek renk çakıl, tek tür taş. Çok malzeme karışırsa Akdeniz havası dağılır.
+
+## Sulama: ilk yıl düzenli, sonra seyrek
+
+Kuraklığa dayanıklı bitki, suya hiç ihtiyaç duymayan bitki demek değildir. Yeni dikilen Akdeniz bitkileri kökleri yerleşene kadar, ilk birkaç ay düzenli sulanmalıdır. Bunu derin ve seyrek yapın: Haftada bir derin sulama, her gün yüzeysel sulamadan iyidir; kök derine iner.
+
+İkinci yıldan sonra çoğu bitki yalnızca uzun kurak dönemlerde sulama ister. Damla sulama, su israfını ve yaprak hastalıklarını azaltır; kurulumunu [damla sulama kurulumu](/damla-sulama-kurulumu) yazısında anlattık.
+
+## Adım adım kurulum
+
+::: adimlar
+Yeri seçin | Gün boyu en az altı saat güneş alan, su tutmayan bir alan belirleyin.
+Toprağı gevşetin | Kum ya da ince çakılla toprağı havalandırın; ağır zeminde yükseltilmiş yatak yapın.
+Bitkileri yerleştirin | Zeytini iskelet olarak koyun; lavanta ve biberiyeyi önüne, kekiği en öne dikin.
+Çakılı serin | Dikimden sonra bitki aralarına çakıl katmanı yayın; bitkinin boynunu açıkta bırakın.
+İlk yılı sulayın | Kökler yerleşene kadar haftada bir derin sulayın.
+:::
+
+## Saksıda küçük Akdeniz köşesi
+
+Bahçeniz yoksa, balkonda da Akdeniz havası kurulur. Geniş, dibi delikli terakota saksılarda lavanta, kekik, biberiye ve bir cüce zeytin ya da defne yer alabilir. Terakota fazla suyu duvarlarından buharlaştırır; bu da kök çürümesi riskini azaltır. Saksının dibine kil bilyesi ya da iri çakıl katmanı koyup üstüne süzek karışım doldurmak yeterlidir. Sulama aralığını toprağın üst birkaç santiminin kurumasına bağlayın; bu bitkiler takvime değil toprağa göre sulanır.
+
+## Kıyıda ve iç bölgede aynı bahçe olmaz
+
+Akdeniz bahçesi adını taşıdığı iklimde en kolay kurulur: Antalya, Mersin, Muğla ve Ege kıyılarında kışlar ılıktır ve zeytin, biberiye, defne, begonvil açıkta kalabilir. Marmara'da ve Karadeniz kıyısında yağış fazladır; bu bölgelerde yükseltilmiş yatak ve çakıl zemin kaçınılmaz olur, çünkü kışın yağışla gelen nem lavanta ve biberiyenin ilk düşmanıdır.
+
+İç Anadolu'da ise kışın sert don kesin sınırdır. Lavanta ve kekik birçok iç bölge bahçesinde yaşar; zeytin ve biberiye için ise saksı kültürü ve kışlama planı gerekir. Üşüyen bölgede Akdeniz bahçesi kurarken, bitkilerin yarısını kalıcı, yarısını saksıda taşınabilir tutmak akıllıca bir tasarım yöntemidir.
+
+## Sık yapılan hatalar
+
+Ağır, killi toprağa drenaj yapmadan dikmek, bahçeyi ilk kışta kaybettirir. Her bitkiye zengin gübre ve bol su vermek hem kokuyu hem kışa dayanıklılığı azaltır. Çakılı bitkinin gövdesine yığmak boyun çürümesine yol açar; gövdenin etrafında bir parmak boşluk bırakın. Gölgeli köşeye lavanta ve biberiye dikmek çiçeksiz, uzamış dallarla sonuçlanır. Her yıl sert budama yapmak da Akdeniz çalılarını yaşlandırır; bu bitkiler çiçekten sonra hafifçe kırpılır.
+
+## Güneş, drenaj, çakıl
+
+Akdeniz bahçesi tasarımı özünde bu üç şeye dayanır. Zeytin iskeleti, lavanta ve biberiye dolguyu, kekik de zemini oluşturur. Bitkiyi susuz bırakmayın ama suyu da bekletmeyin: İlk yıl düzenli sulayıp sonra seyrekleştirin.
+@sss
+S: Akdeniz bahçesi için hangi bitkiler seçilir?
+C: Zeytin, servi, lavanta, biberiye, adaçayı, kekik, sedum ve begonvil yaygındır. Hepsi tam güneş ve süzek toprak ister; yazın az su, kışın ıslak ayak istemezler.
+
+S: Akdeniz bahçesinde toprak nasıl hazırlanır?
+C: Toprağı kum ya da ince çakılla gevşetin, çok az olgun kompost katın. Killi ve ağır toprakta yükseltilmiş yatak yapın ya da bitkileri hafif tümsek üzerine dikin.
+
+S: Lavanta ve biberiye ne kadar sulanır?
+C: İlk birkaç ay haftada bir derin sulayın. Kökler yerleştikten sonra seyrek sulayın. Fazla su ve zengin gübre bu bitkileri zayıflatır, kokularını azaltır.
+
+S: Akdeniz bahçesi soğuk bölgede olur mu?
+C: Bazı türler, örneğin lavanta ve kekik, soğuk bölgelerde de yaşar. Zeytin ve biberiye ise ağır donlardan zarar görebilir; iç bölgede saksıda yetiştirip kışın korumak daha güvenlidir.
+
+### SORU
+yayin: 2027-03-16 07:50
+kategori: bahce-ipuclari
+baslik: Taş aralarına ektiğim kekik yazın sararıp kurudu, nerede hata yapmış olabilirim?
+metin: Geçen mayıs bahçe yolundaki taş aralarına bodur kekik diktim. Haziranda güzeldi ama temmuzda sararıp kurudu. Her gün sulamıştım. Taşın altı sert toprak. Sebebi ne olabilir, yeniden denemeli miyim?
+@cevap Rümeysa Altınova | 4
+Büyük ihtimalle sorun fazla su ve sıkışık toprak. Kekik taş arasındaki dar boşlukta suyu bekletirse kökü çürür. Çürük kökleri ve sarı kısımları temizleyin, aralığa kum ve ince çakılla karışık süzek toprak doldurun. Sonbaharda yeni parçaları dikin; ilk haftalar nemli, sonra seyrek sulayın. Güneşli ve süzek alanda kekik gerçekten iyi tutunur.
+@cevap Ahmet Sacit Çelik | 20
+Taşın altına kaba kum katmanı serdiyseniz drenaj da daha iyi olur. Dikimden sonra malç yerine ince çakıl koymak da boynun ıslak kalmasını önler.
+
+### SORU
+yayin: 2027-03-16 11:15
+kategori: bahce-ipuclari
+baslik: Ön bahçem kuzeye bakıyor ve çok gölgeli, ne dikebilirim?
+metin: Evin kuzey cephesinde bahçem gün boyu güneş görmüyor. Lavanta ve çim denedim ama tutmadı. Gölgede de az bakım isteyen bitkiler var mı?
+@cevap Hatice Kübra Çelik | 5
+Kuzey cephesi için güneş seven lavanta ve çim doğru seçim değil. Gölgeye uygun düzenli yaprak bitkileri deneyin: şimşir ya da taflan gibi her dem yeşil çalılar, eğrelti otları, hosta ve süs otlarının gölgeye dayanan türleri iyi gider. Toprağı organik maddeyle zenginleştirin ve nemli tutun. Gölgede su daha geç buharlaşır, bu yüzden sulamayı seyrek ve derin yapın.

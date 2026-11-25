@@ -1,0 +1,312 @@
+### YAZI
+slug: bahce-plani-nasil-cizilir-olcek-gunes-su-noktasi
+baslik: Bahçe Planı Nasıl Çizilir? Ölçek, Güneş ve Su Noktası
+yayin: 2027-04-04 09:10
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: bahçe planı nasıl çizilir
+seo_baslik: Bahçe Planı Nasıl Çizilir? Ölçek, Güneş, Su Noktası
+seo_aciklama: Bahçe planı nasıl çizilir? Şerit metreyle ölçüm, kareli kâğıtta ölçek seçimi, güneş ve gölge haritası, su noktası, yürüme yolu ve yatak yerleşimi adım adım.
+ozet: Bahçe planı çizmek için şerit metre, kareli kâğıt ve bir gün gözlem yeterlidir. Ölçek seçimini, güneş ve gölgenin işaretlenmesini, su noktasının yerini, yürüme yollarını ve yatak yerleşimini adım adım anlattık.
+etiketler: bahçe planı, bahçe çizimi, ölçek, güneş haritası, su noktası, sebze bahçesi
+gorsel: bekliyor
+gorsel_alt: Kareli kâğıda çizilmiş bahçe planı, yanında şerit metre ve kurşun kalem
+urunler: moduler-yukseltilmis-bahce-yatagi-545-litre, moduler-yukseltilmis-bahce-yatagi-108-litre, sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu
+kisaca: Bahçe planı çizmek için önce alanı şerit metreyle ölçüp kareli kâğıda sabit bir ölçekle (örneğin 1 cm = 50 cm) aktarın, sonra gün boyu güneş ve gölgeyi, su musluğunu, ağaçları ve yapıları işaretleyin. Yatakları, yolları ve kompost köşesini bu haritanın üstüne yerleştirin; en az 6 saat güneş alan yeri sebzeye ayırın.
+@govde
+Boş bir arsaya bakarak "buraya domates, şuraya marul" demek kolaydır; gerçek bahçede güneş kayar, ağacın gölgesi uzar, hortum yetmez. Bahçe planı nasıl çizilir sorusunun cevabı sanatsal bir çizim değil, ölçü, güneş ve su bilgisini kâğıda dökmektir. İyi bir plan; yatağı nereye koyacağınızı, hortumun nereye ulaşacağını ve yürüyeceğiniz yolu önceden gösterir. Aşağıda altı adımda, kareli kâğıt ve şerit metreyle yapılabilecek bir plan anlatıyoruz.
+
+## Bahçe planı nasıl çizilir: önce alanı ölçün
+
+Şerit metre, iki kazık ve bir not defteri yeterlidir. Bahçenin köşelerini kazıkla işaretleyin, kenarları ölçün, çaprazları da (köşegen) ölçerek köşelerin dik olup olmadığını denetleyin. İki çapraz uzunluğu eşitse alan dikdörtgendir. Sonra sabit nesnelerin yerini köşelere göre ölçün: ev duvarı, kapı, musluk, büyük ağaçlar, çit, elektrik direği, kuyu ya da fosseptik kapağı. Kâğıda geçmeden önce bu ölçüleri kaba bir taslağa yazın.
+
+## Ölçek seçimi
+
+Plan kâğıdının tamamını kullanabilmek için ölçeği alan boyutuna göre seçin. Kareli kâğıtta bir kareyi (genellikle 5 mm ya da 1 cm) sabit bir uzunluğa karşılık getirin.
+
+| Alan | Önerilen ölçek | Kâğıtta görünüşü |
+|---|---|---|
+| Balkon, teras (3 × 1,5 m) | 1 cm = 10 cm | 30 × 15 cm |
+| Küçük bahçe (6 × 10 m) | 1 cm = 50 cm | 12 × 20 cm |
+| Orta bahçe (10 × 15 m) | 1 cm = 50 cm | 20 × 30 cm (A4'e sığmaya yakın) |
+| Geniş bahçe, tarla (30 × 40 m) | 1 cm = 200 cm | 15 × 20 cm |
+
+Örnek hesap: 10 × 15 m bahçe, 1 cm = 50 cm ölçeğinde 1000 ÷ 50 = 20 cm ve 1500 ÷ 50 = 30 cm yapar; A4'ün kısa kenarı 21 cm olduğu için yan yatırarak sığdırılır. Ölçeği kâğıdın köşesine yazın ve bir ölçek çubuğu çizin; sonradan başkası da planı okuyabilir.
+
+## Güneşi ve gölgeyi işaretleyin
+
+Güneş, sebzenin en kritik şartıdır. University of Maryland ve University of Illinois yayım servisleri, bahçe yerinin günde en az altı saat doğrudan güneş alması gerektiğini söylüyor; sebzelerin çoğunun sekiz saat ve üzerinde daha iyi verim verdiği de belirtiliyor ([Maryland Extension, sebze bahçesi planlama](https://extension.umd.edu/resource/planning-vegetable-garden)). Marul ve ıspanak gibi yapraklı sebzeler daha az ışıkla da yetişir.
+
+Güneşi ölçmek için tek bir gün yeterlidir. Sabah 09:00, öğle 12:00 ve akşamüstü 16:00'da bahçenin fotoğrafını çekin, gölgeli yerleri kareli kâğıda taranmış kalemle işaretleyin. Üç haritayı üst üste koyduğunuzda hiç gölge görmeyen bölge günlük en çok güneş alan yerdir. Nisan başında ağaçlar henüz tam yapraklanmamıştır; mayıs sonunda gölge daha geniş olur. Yaprak dökmeyen çam ya da servi gölgesi tüm yıl kalır, bu yüzden tahminlerinizi buna göre genişletin.
+
+Yön için basit bir kural: Öğle güneşi (kuzey yarım kürede) güneyden gelir. Boyu uzun bitkileri (mısır, domates fidanı, fasulye çardağı) planın kuzey tarafına koyun ki kısa bitkilerin güneşini kesmesin.
+
+## Su noktasını ve hortum menzilini çizin
+
+Hortumu bir musluğa bağladığınızda ulaşabileceğiniz mesafe, bahçenin kullanılabilir alanını belirler. Hortum uzunluğunu ölçeğe çevirin: 20 metrelik bir hortum 1 cm = 50 cm ölçeğinde 40 cm eder; bu, musluktan çizilen yarım dairenin yarıçapıdır. Ulaşamadığınız alanlara sulama hattı gerekir.
+
+University of Illinois ve Maryland yayımları, bahçenin bir musluğa hortumla ulaşılabilir uzaklıkta olmasını, sebzelerin de yaklaşık haftada bir inç (25 mm) suya ihtiyaç duyduğunu belirtiyor ([Illinois Extension, plan yapmak](https://extension.illinois.edu/blogs/good-growing/2020-03-24-starting-garden-begin-plan)). Musluk yoksa varil, depo ya da kuyuyu da su noktası olarak planın üstüne işaretleyin ve en uzak yatağa ulaşıp ulaşmadığını ölçün.
+
+[ürün:sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu]
+
+## Yatak, yol ve yardımcı alanları yerleştirin
+
+Fiziksel sınırlar belli olunca alanları yerleştirin. Katmanlı bir düşünüş yardımcı olur:
+
+::: adimlar
+Sabit unsurlar | Ev, çit, ağaç, musluk, kapı. Bunları kâğıda tuşla ya da kalın kalemle işleyin.
+Güneş alanı | En çok güneş alan bölgeyi sebze yataklarına ayırın.
+Yürüme yolları | Yatakların arasına en az 50–60 cm, tekerlekli el arabası için 80–90 cm yol bırakın.
+Yataklar | Her yatağın ortasına iki yandan uzanabilmek için 1,1–1,2 m genişlik makuldür.
+Yardımcı alanlar | Kompost, alet deposu, fide yeri; rüzgâr ve koku için sebzeden uzak ama rahat ulaşılır olsun.
+:::
+
+Yükseltilmiş yatak düşünüyorsanız bahçe planında ölçüler netleşir. Modüler yükseltilmiş yataklarda ürün bilgisine göre No:1 modeli 60 × 60 × 30 cm ve 108 litre hacimli, No:10 modeli 165 × 110 × 30 cm ve 545 litre hacimlidir; yatakları planda dikdörtgenler olarak çizebilirsiniz. Yataklar için ölçü ve yerleşim ayrıntısı [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazısında. Yatak ve doğrudan toprağa ekim arasında karar vermek için [bahçe yatağı mı toprağa ekim mi](/bahce-yatagi-mi-topraga-ekim-mi) yazısına bakabilirsiniz.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-545-litre,moduler-yukseltilmis-bahce-yatagi-108-litre]
+
+## Eğim ve su akışını çizin
+
+Bahçe planı nasıl çizilir sorusunun gözden kaçan kısmı eğimdir. Yağmur sonrası suyun hangi köşede toplandığını, hangi yamaçtan aktığını planın kenarına oklarla işaretleyin. Su toplanan alana yatak koymayın; kök çürümesi riskini artırır. Eğimli bahçede yatakları eğime dik (yani yükselti çizgisine paralel) yerleştirmek, suyun ve toprağın aşağıya kaymasını yavaşlatır. Yamaç bahçelerde sıraları aşağıya doğru değil, eğimi kesecek biçimde uzatın. Düz arazide bile ev duvarından ve yoldan akan suyun yönünü kontrol edin.
+
+## Ağaç ve çalılardan uzak durun
+
+Büyük ağaçlar yalnızca gölge yapmaz; kökleri suyu ve besini yarıştırır. Maryland ve Illinois yayımları sebze bahçesini büyük ağaç ve çalılardan uzağa kurmayı, su toplanan çukur yerlerden de kaçınmayı öneriyor. Bu alanları planda "kısıtlı" diye işaretleyin ve onların yerine çiçek tarhı, kompost ya da dinlenme köşesi yerleştirin.
+
+## Planı sahaya aktarın: ip ve kazık
+
+Kâğıtta bitmiş plan, sahada denenmeden kesinleşmez. Yatak köşelerini kazıkla, kenarlarını iple işaretleyin; yürüme yollarını tebeşir ya da un çizgisiyle belirleyin. Bir iki gün bahçede dolaşarak yolun rahat olup olmadığına bakın, el arabasını ya da sulama kovasını planlanan yoldan geçirin. Gerekirse kâğıttaki ölçüyü düzeltin; bu işi yatakları kurmadan yapmak, kurduktan sonra yer değiştirmekten çok daha ucuzdur.
+
+Kâğıt planı ayrıca bir sonraki yıl için bir arşiv olur. Her yıl yeni bir kopya çıkarıp ekili bitkileri yazarsanız münavebe (ekim nöbeti) kararlarını vermek kolaylaşır.
+
+## Ekim planı: planı yatakların içine taşıyın
+
+Alan planı hazır olunca her yatağa bir ad (A, B, C) verin. Ayrı bir kâğıda hangi yatağa hangi bitkinin gideceğini, ekim ve dikim tarihlerini ve hasattan sonra ne ekileceğini yazın. Aileleri (domatesgiller, kabakgiller, baklagiller, yapraklılar) her yıl yer değiştirecek biçimde planlayın; ayrıntı için [sebze bahçesi planı](/sebze-bahcesi-plani) yazısına bakın. Plan yılda bir kez, ilkbaharda güncellenir.
+
+## Sık yapılan hatalar
+
+- **Güneşi saymak değil tahmin etmek:** Gölge haritası olmadan yerleştirme, domateste verim kaybı getirir.
+- **Yürüme yolunu unutmak:** Sulamak, hasat etmek ve el arabasını geçirmek için yol payı gerekir.
+- **Ölçeksiz çizmek:** Kâğıtta sığan yatak sahada sığmaz.
+- **Hortum menzilini ölçmemek:** Ekim yapılan uç köşeye su ulaşmaz.
+- **Ağacın büyümesini hesaba katmamak:** Fidanın beş yıl sonraki gölgesini çizin.
+@sss
+S: Bahçe planı çizmek için hangi ölçek kullanılır?
+C: Alan boyutuna bağlıdır: balkon için 1 cm = 10 cm, 6 × 10 m bahçe için 1 cm = 50 cm, geniş bahçe için 1 cm = 200 cm uygundur. Kâğıdın köşesine ölçeği yazmayı unutmayın.
+
+S: Bahçe için kaç saat güneş gerekir?
+C: Sebzelerin çoğu için günde en az altı saat doğrudan güneş gerekir; sekiz saat ve üzeri verimi artırır. Marul, ıspanak gibi yapraklı sebzeler daha az ışıkla da yetişir.
+
+S: Güneş haritasını nasıl çıkarırım?
+C: Sabah, öğle ve akşamüstü bahçenin fotoğrafını çekin, gölgeli bölgeleri kâğıda işaretleyin. Üç haritayı üst üste koyduğunuzda hiç gölge görmeyen yer en çok güneş alandır.
+
+S: Yatakların arası ne kadar olmalı?
+C: Yürüme yolu için en az 50–60 cm, el arabası geçecekse 80–90 cm bırakın. Yatak genişliği iki yandan ortaya uzanabileceğiniz kadar, genelde 1,1–1,2 m olmalıdır.
+
+### YAZI
+slug: yumurta-kolisi-ve-sut-kutusunda-fide-yetistirme-geri-donusumlu-kaplar
+baslik: Yumurta Kolisi ve Süt Kutusunda Fide Yetiştirme: Geri Dönüşümlü Kaplar
+yayin: 2027-04-04 11:35
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: süt kutusunda fide yetiştirme
+seo_baslik: Süt Kutusunda Fide Yetiştirme: Geri Dönüşümlü Kaplar
+seo_aciklama: Süt kutusunda fide yetiştirme ve yumurta kolisi kullanımı: delik açma, temizlik, kap derinliği, hangi bitkiye hangi kap ve dikimde karşılaşılan hatalar.
+ozet: Yumurta kolisi, süt kutusu ve yoğurt kabı fide kabı olarak kullanılabilir; şartı dipte delik ve temiz kaptır. Hangi kabın hangi fideye uyduğunu, delik açma ve dezenfekte adımlarını ve kartonun çözülme sorununu anlattık.
+etiketler: geri dönüşüm, fide kabı, yumurta kolisi, süt kutusu, fide yetiştirme, tohum ekimi
+gorsel: bekliyor
+gorsel_alt: Pencere önünde sıra sıra duran yumurta kolisi gözleri ve kesilmiş süt kutusu içinde minik fideler
+urunler: hg-fide-topragi, 45-goz-yuvarlak-fide-viyolu, hindistan-cevizi-torfu-tablet-cocopeat-12-adet
+kisaca: Süt kutusunda fide yetiştirme mümkündür: kutuyu ya da plastik süt bidonunu yarım kesin, dibine drenaj delikleri açın, sabunlu suyla yıkayıp seyreltik çamaşır suyuyla dezenfekte edin ve steril fide toprağıyla doldurun. Yumurta kolisi küçük tohumlar için uygundur; çürüyen kartonu fideyle birlikte dikmeyin.
+@govde
+Fide kabı için para harcamadan önce mutfak dolabına bakmak mantıklıdır: yumurta kolisi, süt kutusu, yoğurt kabı, kâğıt bardak. Hepsi çalışır; yeter ki iki şartı taşısın. Dipte su çıkış deliği ve temiz yüzey. Süt kutusunda fide yetiştirme bu iki şartla sorunsuz yürür, bu şartlar yoksa fideler çürür. Aşağıda hangi kabın hangi fideye uyduğunu ve hazırlık adımlarını sırayla anlattık.
+
+## Hangi geri dönüşümlü kap fide için uygun?
+
+Maine Üniversitesi'nin yayım servisi, en az 5–9 cm (2–3,5 inç) derinliğinde, yeterli drenaj delikli temiz her kabın tohum ekimine uygun olduğunu söylüyor; süt bidonlarının kesilmiş alt kısımları da örnek olarak sayılıyor ([Maine Extension, evde tohum başlatmak](https://extension.umaine.edu/publications/2751e/)). Minnesota Üniversitesi de tohum ekilecek her kabın dibinde delik olması gerektiğini vurguluyor ([Minnesota Extension, evde tohum ekimi](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/starting-seeds-indoors)).
+
+| Kap | Uygunluk | Dikkat edilecek nokta |
+|---|---|---|
+| Plastik süt bidonu (kesilmiş alt kısım) | Çok uygun | Dibe 4–6 delik; şeffaf ise ışık köke geçer, mantara yol açabilir |
+| Karton süt kutusu | Uygun | Nemde yumuşar; bir sezon ömrü vardır |
+| Yumurta kolisi (karton) | Küçük tohum için uygun | Çabuk çürür, fideyi dikerken kökler zarar görebilir |
+| Yumurta kolisi (plastik, şeffaf) | Uygun | Delik açın; tabağı altlık yapın |
+| Yoğurt kabı, kâğıt bardak | Uygun | Dibe delik; kâğıt bardak nemde dağılır |
+| Konserve kutusu | Pek uygun değil | Paslanır, kenarı keskindir |
+
+## Süt kutusunda fide yetiştirme: hazırlık adımları
+
+::: adimlar
+Kutuyu ya da bidonu kesin | Karton kutuyu uzunlamasına yarım kesin; plastik bidonun üst kısmını kesin ve alt 8–10 cm'yi kullanın.
+Dibe delik açın | 4–6 adet 5 mm'lik delik; ucu ısıtılmış çivi ya da makasın ucu işe yarar.
+Temizleyin | Sabunlu suyla iyice yıkayıp durulayın; kalan süt kokusu ve organik artık mantarı çağırır.
+Dezenfekte edin | Maine Extension'ın önerdiği gibi bir kısım çamaşır suyu, dokuz kısım suyla bir süre bekletip bol suyla durulayın; Minnesota Extension yaklaşık 30 dakikalık bekletmeyi öneriyor.
+Altlık hazırlayın | Kapların altına su toplayacak bir tepsi koyun.
+Fide toprağını doldurun | Bahçe toprağı yerine steril fide toprağı kullanın; kabın kenarından 1 cm boşluk bırakın.
+:::
+
+Minnesota ve Maine yayımları, bahçe toprağı yerine steril, topraksız bir fide karışımı kullanmayı öneriyor; böylece hastalık ve yabani ot tohumu riski azalıyor. Kaplarla ilgili hastalık riski için damping-off (fide çökmesi) yazılarında geçen temizlik kuralları aynıdır.
+
+[ürün:hg-fide-topragi,45-goz-yuvarlak-fide-viyolu]
+
+## Yumurta kolisinde yetiştirme: avantajı ve sınırı
+
+Yumurta kolisinin gözü küçüktür (genelde 4–5 cm); marul, fesleğen, çiçek tohumları ve domates gibi küçük başlangıç fideleri için yeter, ama biber ve patlıcan gibi büyüyen fidelerin kökleri iki üç haftada göze sığmaz. Bu durumda fideleri bir boy büyük kaba aktarmak gerekir. Karton koli suyu çeker ve bitkinin köküne ulaşan nemi eşitleyebilir, ama nem kaldığı sürece küflenir. Kolinin altına bir tepsi ya da plastik torba koyup suyu tepsiden verin.
+
+Kartonu fideyle birlikte toprağa dikmek cazip gelir. Bu, kolinin gözleri tek tek yırtılıp köklere yer bırakıldığında olur; ancak kalın ve sert kartonlar toprakta yavaş çözülür, kökler engel bulur. Dikmeden önce kartonun altını yırtmak ya da fideyi kabından çıkarmak daha güvenlidir.
+
+## Süt kutusunda fide yetiştirme: tohum ekimi adım adım
+
+Kaplar hazırsa ekim basittir. Fide toprağını kaba doldurup hafifçe bastırın, önce nemlendirin; kuru toprağa tohum ekmek, ilk sulamada tohumları yıkar. Tohumu, paket üzerinde yazan derinliğe ekin; genel kural, tohumun boyunun iki üç katıdır. Küçük tohumlar yüzeye serpilir ve hafifçe örtülür. Kabın üstünü şeffaf bir poşetle ya da cam kapakla örterek nemi korumak çimlenmeyi hızlandırır; filiz görününce örtüyü kaldırın.
+
+Kabın üstüne etiket yapıştırın: tohumun adı ve ekim tarihi. Aynı tür fideler görünürde birbirine benzer; etiketsiz bırakırsanız dikim sırasında karıştırırsınız. Çimlenme sıcaklığı bitkiye göre değişir; domates ve biber için ılık bir yer (yaklaşık 20–25 derece) gerekir. Tohum canlılığını önceden denemek için [tohum çimlenme testi](/tohum-cimlenme-testi) yazısına bakın.
+
+## Tetra Pak kutu ve ince karton: sorun var mı?
+
+Tetra Pak türü karton kutular iç yüzlerinde plastik ve alüminyum kaplama taşıdığı için su geçirmez; bu, kapta fide yetiştirmek için işe yarar, ama toprakla çürümez. Kutu içindeki fideyi dikmek için kutuyu yırtıp çıkarmanız gerekir. Plastik su ve süt şişeleri de kullanılabilir; dibi delik olmak koşuluyla. Eski mayonez ya da hazır yemek kapları ise çoğunlukla yeterince derin olmayabilir; fide için derinlik en az 5–9 cm olmalıdır.
+
+## Hangi fide hangi kapta?
+
+Süt kutusu ya da bidon, yumurta kolisinden daha derindir; kök gelişimi için daha fazla toprak sunar. Domates, biber ve patlıcan fidelerinde süt kutusunun alt yarısı yeterlidir; marul, roka ve otlar için yumurta kolisi uygundur. Kabak ve salatalık gibi hızlı büyüyen, derin kök yapan fideler için daha büyük kâğıt bardak ya da 500 ml'lik plastik bardak daha uygundur. Kök sebzeleri (havuç, turp) fide yetiştirme yerine doğrudan ekilir; kap içinde kökleri bozulur.
+
+## Sulama ve ışık
+
+Küçük kapların toprağı hızla kurur. Kabın kenarından değil, tepsiden alttan sulamak köklerin aşağıya doğru gitmesini sağlar ve yüzeyi ıslak tutmaz. Pencere önünde güneş alan tarafta fideler ışığa doğru eğilir; kapları iki günde bir çevirin. Şeffaf kaplarda (bidon, plastik koli) kök bölgesine ışık girerse yosun oluşabilir; kabın dışını bir kâğıtla örtmek bunu önler.
+
+## Dikim zamanı ve fide sertleştirme
+
+Fideler iki üç gerçek yaprak yapıp köklerin kaba doldurmasıyla hazır olur. Dikimden bir hafta önce dışarıda yavaşça alıştırın. Dikim ayrıntısı için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) ve [torf tablet kullanımı](/torf-tablet-kullanimi) yazıları yardımcı olur. Süt kutusundan çıkarırken kabın kenarlarını hafifçe sıkıp kök topağını çıkarın; fidenin gövdesinden çekmeyin.
+
+## Sık yapılan hatalar
+
+- **Deliksiz kap:** Su dipte birikir, kök çürür.
+- **Temizlenmemiş kap:** Süt artığı ve eski toprak mantar taşır.
+- **Çok derin kap, az fide:** Toprak uzun süre ıslak kalır.
+- **Bahçe toprağıyla doldurmak:** Kapta sıkışır, hastalık taşır; steril fide toprağı kullanın.
+- **Çok büyümüş fideyi küçük kapta bekletmek:** Kökler dolanır; zamanında bir boy büyük kaba alın.
+@sss
+S: Süt kutusunda fide yetiştirilir mi?
+C: Evet. Kutunun ya da süt bidonunun alt yarısını kesip dibine delik açın, iyice yıkayıp dezenfekte edin ve steril fide toprağıyla doldurun. En az 5–9 cm derinlik yeterlidir.
+
+S: Yumurta kolisi fide kabı olur mu?
+C: Küçük tohumlar için olur, ama karton çabuk çürür ve köklere sınır koyar. Büyüyen fideleri iki üç haftada bir boy büyük kaba aktarın; plastik kolide dipten delik açın.
+
+S: Geri dönüşümlü kapları temizlemek şart mı?
+C: Evet. Önce sabunlu suyla yıkayıp kalıntıyı temizleyin, sonra seyreltik çamaşır suyuyla (1 kısım çamaşır suyu, 9 kısım su) bekletip bol suyla durulayın. Bu, fide çökmesini önler.
+
+S: Kartonla birlikte fide toprağa dikilir mi?
+C: Kalın kartonlar toprakta yavaş çözülür; kökler engel bulabilir. Dikmeden önce kartonun altını yırtmak ya da fideyi kabından çıkarmak daha güvenlidir.
+
+### YAZI
+slug: damlama-bant-ile-damla-boru-arasindaki-fark
+baslik: Damlama Bant ile Damla Boru Arasındaki Fark
+yayin: 2027-04-04 19:30
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: damlama bant ile damla boru
+seo_baslik: Damlama Bant ile Damla Boru Arasındaki Fark
+seo_aciklama: Damlama bant ile damla boru arasındaki fark: et kalınlığı, ömür, damlatıcı yapısı ve esneklik. Sebze sırası, fidan ve saksı için hangi hat seçilir?
+ozet: Damlama bant ince cidarlı, genellikle tek sezonluk ve düz sıra sebzeye uygundur; damla boru kalın cidarlı, uzun ömürlü ve kıvrılabilir yapıdadır. Et kalınlığı, damlatıcı aralığı, ömür ve kullanım yerine göre farkları tablo ile karşılaştırdık.
+etiketler: damlama bant, damla boru, damla sulama, sulama hattı, damlatıcı, sebze sulama
+gorsel: bekliyor
+gorsel_alt: Sebze sırasının üzerine serilmiş siyah damla sulama bandı ve yan yana duran kalın damla boru bobini
+urunler: sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu, sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu
+kisaca: Damlama bant ince cidarlı, düz, genellikle tek sezon kullanılan ve sıra sebzeye uygun bir hattır; damla boru kalın cidarlıdır, kıvrılabilir, yıllarca kullanılabilir ve fidan, çiçek tarhı ve saksı gibi karışık yerleşimlerde tercih edilir. Seçim, ömre, esnekliğe ve damlatıcı aralığına göre yapılır.
+@govde
+Aynı bahçe, aynı su, ama iki ayrı hat: biri ince, kâğıt gibi bir bant; diğeri kalın, kıvrılabilen bir boru. Seçmeden önce bilinmesi gereken şey, damlama bant ile damla boru arasındaki farkın ömür, esneklik ve damlatıcı yapısında toplandığıdır. Sebze sırası için bant, fidan ve saksı için boru çoğunlukla daha mantıklıdır. Hat kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısı adım adım anlatıyor; burada yalnızca iki ürünün farkını açıyoruz.
+
+## Damlama bant ile damla boru nedir?
+
+İkisi de suyu yavaş yavaş, kök bölgesine damla damla veren sulama hatlarıdır. Fark yapının içindedir.
+
+**Damlama bant (drip tape):** İnce, esnek, genellikle düz bir bant. Damlatıcılar üretim sırasında bandın dikişine (kenarına) kalıplanır. Basınç yokken yassılaşır, basınç gelince şişer. Penn State Extension ince cidarlı, tek kullanımlık bantların 8–10 mil (yaklaşık 0,2–0,25 mm) kalınlıkta olduğunu söylüyor ([Penn State Extension, sebze üretiminde damla sulama](https://extension.psu.edu/drip-irrigation-for-vegetable-production)).
+
+**Damla boru (drip tube, drip line):** Kalın cidarlı, yuvarlak, sert bir boru; damlatıcılar boru içine yerleştirilmiş. Utah State University, damla borusunun yıllarca açıkta ya da toprak altında kullanılabildiğini ve sızıntı riskinin daha düşük olduğunu belirtiyor.
+
+## Yan yana karşılaştırma
+
+| Özellik | Damlama bant | Damla boru |
+|---|---|---|
+| Et kalınlığı | İnce (kaynaklara göre yaklaşık 5–15 mil) | Kalın (kaynaklara göre yaklaşık 23–70 mil) |
+| Ömür | Tek sezon, bazı bahçelerde iki | Yıllarca, birçok sezon |
+| Esneklik | Düz hat; keskin dönüş yapmaz | Kıvrılabilir; yuvarlak tarh, ağaç çevresi |
+| Damlatıcı | Dikişe kalıplı, sık aralıklı | İçine yerleştirilmiş; aralık seçilebilir |
+| Basınç | Düşük basınç ister | Daha geniş basınç toleransı |
+| Maliyet | Metre başı daha düşük | Başlangıçta daha yüksek, uzun ömürlü |
+| En uygun | Sıra sebze, düz yataklar | Fidan, çiçek tarhı, saksı, kalıcı kurulum |
+
+Tablodaki kalınlıklar kaynaklar arasında farklı çıkıyor: Oklahoma State University bandı 5–15 mil, Oregon State University boruyu 23–47 mil, Utah State ise 50–70 mil olarak veriyor. Sayılar üretici ve ürüne göre değişir; ambalaj etiketindeki değeri esas alın.
+
+## Sıra sebzede: bant neden pratik?
+
+Marul, havuç, soğan, fasulye, mısır gibi düz sıra ekilen sebzelerde bant sırayla serilir, her sıranın üstüne bir bant geçer. Illinois Extension, bandın bükülmediği ve bu yüzden düz sıralı sebze bahçelerinde kullanıldığını, borunun ise bükülebildiği için peyzaj tarhlarında da kullanıldığını yazıyor ([Illinois Extension, ev bahçesinde damla sulama](https://extension.illinois.edu/blogs/good-growing/2025-06-06-drip-irrigation-home-garden)). Bant ucuz olduğu için sezon sonunda toplanıp atılabilir ya da bir sezon daha denenebilir.
+
+Bandı bitkiye göre seçin: damlatıcı aralığı ile bitki aralığı uyumlu olmalıdır. Penn State, tek sezonluk sebze sırası için çoğunlukla 12 inç (30 cm) damlatıcı aralığını anıyor. Marul 25–30 cm, domates 50–60 cm aralıkla dikildiğinden, 30 cm'lik aralık marul için yeterince sık, domates için ise her bitkiye bir damlatıcı denk gelir.
+
+## Fidanda, tarhta ve saksıda: boru neden öne çıkar?
+
+Meyve fidanı, gül ve çalılar gibi kalıcı bitkiler için kıvrılabilir kalın boru uygundur. Hat, ağacın çevresine halka olarak döşenir ve yıllarca kalır. Sezonluk bantla bunu yapmak, her yıl hattı yeniden kurmak anlamına gelir. Saksı gruplarında da borudan çıkan ince tüplerle (mikro tüp) her saksıya bir damlatıcı verilir; kıvrılan yapı balkon ve terasta kolaylık sağlar.
+
+Fidan çevresinde ağacın büyüyen taç çizgisine göre halkayı yıllar içinde genişletmek mümkündür; [meyve ağacında gübre nereye verilir](/meyve-agacinda-gubre-nereye-verilir-tac-izdusumu-kurali) yazısındaki taç izdüşümü kuralı, damlatıcıları nereye yerleştireceğinizi de gösterir.
+
+## Damlama bant ile damla boru: damlatıcı aralığı ve debi
+
+Seçim yaparken iki sayıya bakın: damlatıcı aralığı ve damlatıcı debisi (saatte litre). Aralık, bitkilerin sıklığına uymalıdır; debi ise toprak türüne. Kumlu toprakta su hızla aşağı iner, yan yana yayılmaz; sık aralıklı ve düşük debili hat daha iyi ıslatır. Killi toprakta su yanlara yayılır; seyrek aralık yeterli olabilir ama yavaş verilmelidir, yoksa su yüzeyde birikir.
+
+Basit bir hesap: 30 cm aralıklı ve damlatıcı başı saatte 1,6 litre debili bir hat, 10 metrede 33 damlatıcı eder ve saatte yaklaşık 53 litre su verir. Bir sıra marul için yarım saatlik sulama yaklaşık 26 litre eder. Bu rakamlar örnektir; hat üzerindeki etikette yazan debiyi esas alın, süreyi toprak nemini yoklayarak ayarlayın.
+
+## Kurulum ve bağlantı farkları
+
+Bandın ucu bir bağlantı parçasıyla ana hatta bağlanır, öbür ucu kapatılır. Bant esnek olduğu için kesilip uzatmak kolaydır, ama basınç altında şişen yapısı keskin kıvrımlarda kıvrılıp su yolunu keser. Boru ise standart bağlantı elemanlarıyla birleştirilir, delikle damlatıcı eklenir ya da iç damlatıcılı model kullanılır. İkisinde de sulamayı başlatmadan önce hattı bir süre açık bırakıp suyu geçirmek, içinde kalan kirleri temizler.
+
+Kurulum ayrıntıları için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısına, sulama sıklığı için [bahçe yatağı sulama](/bahce-yatagi-sulama) yazısına bakın.
+
+## Güneş, don ve saklama
+
+Bant açıkta güneşte uzun süre kalırsa ince cidarı gevrekleşir. Siyah rengi ısındığı için üzerine malç ya da toprak örtmek ömrünü uzatır. Boru güneşe dayanıklıdır, ama kışın donarsa su içinde kalmışsa çatlayabilir; sezon sonunda hattı boşaltın. Bant sezon sonunda toplanıp temizlenirse bir sonraki yıl denenebilir ama ince olduğu için çoğu bahçede tek sezon sayılır.
+
+## Basınç, filtre ve su kalitesi
+
+Damlama bant düşük basınçla çalışır; çoğu için evlerde musluktan gelen basınç yüksektir ve basınç düşürücü gerekir. Hem bant hem boru, damlatıcıların tıkanmaması için filtre ister. Kireçli suda damlatıcılar zamanla tıkanır; bu yüzden filtreyi düzenli temizleyin. Filtre ve basınç konularını anlatan ayrı yazılar sulama serisinde yer alıyor.
+
+## Ne zaman hangisini seçmeli?
+
+Şu üç soruya bakın: Hat yıllarca mı kalacak, yoksa tek sezon mu? Bitkiler düz sıra mı, dağınık mı? Hat doğrudan güneşte mi kalacak, toprak altına mı gömülecek? Tek sezonluk sıra sebze için bant, kalıcı kurulum ve dağınık yerleşim için boru seçin. Karar vermek zorsa küçük bir parselde ikisini de deneyin.
+
+[ürün:sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu,sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu]
+@sss
+S: Damlama bant ile damla boru arasındaki en büyük fark nedir?
+C: Et kalınlığı ve ömürdür. Bant ince cidarlı, düz ve çoğunlukla tek sezonluktur; boru kalın cidarlı, kıvrılabilir ve yıllarca kullanılabilir. Bant sıra sebzeye, boru fidan ve tarha uygundur.
+
+S: Damlama bant ikinci sezon kullanılır mı?
+C: Kullanılabilir ama garantisi yoktur. İnce cidar güneşte ve toprakta yıpranır; sızıntı ihtimali artar. Tek sezonluk olarak düşünün, ikinci yıl için hattı baştan kontrol edin.
+
+S: Saksılar için bant mı boru mu?
+C: Boru daha uygundur. Kıvrılabilir olduğu için balkon ve terasta saksı gruplarına dolaşır; mikro tüplerle her saksıya damlatıcı bağlanabilir. Bant düz sıra için tasarlanmıştır.
+
+S: Damla hatlarına filtre gerekir mi?
+C: Evet. Hem bant hem boru damlatıcılarının tıkanmaması için filtre ister. Kireçli suda filtre ve hatların düzenli temizliği daha da önemlidir.
+
+### SORU
+yayin: 2027-04-04 12:30
+kategori: sebze-meyve
+baslik: Yumurta kolisine ektiğim domates fideleri uzadı ve soldu, ne yanlış?
+metin: Yumurta kolisine domates tohumu ektim, pencere önünde duruyor. Üç haftada fideler çok uzadı, ince ve soluk, bazıları yatıyor. Kolinin içi de hep ıslak. Ne yanlış yapıyorum?
+@cevap Mehmet Fatih Çelik | 2
+İki sorun birleşmiş: yetersiz ışık fideyi uzatır ve inceltir (etiyolasyon); sürekli ıslak koli ise kök çürümesine ve fide çökmesine yol açar. Fideleri daha aydınlık bir pencereye ya da bitki lambasının altına alın; ışık kaynağına yakın tutun. Sulamayı azaltın: koli tepsisine su verin ve fazlasını yarım saat sonra boşaltın. Uzamış gövdeleri dikimde boyunlarının yarısına kadar gömebilirsiniz. Domates gövdeden de kök atar. Ayrıca bir boy büyük kaba, örneğin süt kutusunun kesilmiş alt yarısına aktarmak fideyi toparlar.
+
+### SORU
+yayin: 2027-04-04 15:20
+kategori: toprak-rehberi
+baslik: Kokopit blok aldım, toprak yerine doğrudan kullanabilir miyim?
+metin: 5 kiloluk kokopit blok aldım. Saksıdaki toprağın yerine tamamen kokopit koyabilir miyim, yoksa karıştırmak mı gerekir?
+@cevap Mikdat Çelik | 2
+Bloğu önce suyla şişirip bol suyla yıkayıp sıkın. Tek başına kullanılabilir ama içinde besin yoktur; her sulamada besin yıkanır, bu yüzden düzenli sıvı gübreleme gerekir. Genellikle perlit ile (yaklaşık yarı yarıya ya da 70/30) ve biraz olgun kompost ya da solucan gübresiyle karıştırmak daha dengeli bir karışım sağlar. Kokopit hızlı kuruyabilir; saksıda toprağın üstünü parmakla kontrol edin. Hidroponik ya da kokopitle topraksız yetiştirme yapıyorsanız besin çözeltisiyle düzenli beslemek şarttır.
+
+### SORU
+yayin: 2027-04-04 18:40
+kategori: gubreleme
+baslik: Monsteram kışı atlattı ama hiç yeni yaprak çıkarmıyor, gübreyi başlatayım mı?
+metin: Monsteramı kışın hiç gübrelemedim. Nisan oldu, hâlâ yeni yaprak yok. Gübreye başlamalı mıyım?
+@cevap Rümeysa Altınova | 2
+Önce ışığı ve sulamayı kontrol edin; yeni yaprağın çıkmaması çoğu zaman besinden değil ışıktan olur. Monsterayı aydınlık, dolaylı ışıklı bir yere alın, toprağı üst iki üç santim kuruyunca sulayın. İki üç hafta içinde gövde ucunda şişlik ya da yeni yaprak kılıfı görürseniz uyanmıştır; o zaman yarım dozla gübre başlatın. Yeni yaprak yoksa ve kökler saksıya sıkışmışsa saksı değişimi düşünün. Bitki henüz uyanmamışken gübre vermek, kökleri yakabilir.

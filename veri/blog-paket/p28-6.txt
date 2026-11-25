@@ -1,0 +1,634 @@
+### YAZI
+slug: zeytinde-bahar-gubrelemesi-ne-zaman-ne-kadar
+baslik: Zeytinde Bahar Gübrelemesi: Ne Zaman, Ne Kadar?
+yayin: 2027-02-06 19:30
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: zeytinde bahar gübrelemesi
+seo_baslik: Zeytinde Bahar Gübrelemesi: Ne Zaman, Ne Kadar?
+seo_aciklama: Zeytinde bahar gübrelemesi ne zaman ve nasıl yapılır? Azotu bölme, taç izdüşümüne verme, çiçeklenme öncesi fosfor, potasyum, bor ve analize dayalı doz.
+ozet: Zeytinde bahar gübrelemesi şubat sonu–mart başında, çiçeklenmeden önce başlar. Azotun tek seferde değil bölünerek verilmesini, taç izdüşümüne serpip toprağa karıştırmayı, çiçeklenme öncesi fosfor, potasyum ve bor desteğini ve miktarın neden analizle belirlendiğini anlattık.
+etiketler: zeytin gübreleme, bahar gübrelemesi, azot, bor, taç izdüşümü, zeytin bakımı, yaprak analizi
+gorsel: bekliyor
+gorsel_alt: Çiçek tomurcukları şişmeye başlamış zeytin dalı ve ağaç altında taç hizasında toprağa serpilmiş gübre
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, hasturk-sivi-solucan-gubresi
+kisaca: Zeytinde bahar gübrelemesi şubat sonu–mart başında, çiçeklenme öncesinde yapılır. Azotlu gübre tek seferde değil bölünerek, taç izdüşümüne serpilip toprakla karıştırılarak verilir; çiçeklenme öncesi fosfor, potasyum ve bor desteği faydalı bulunmuştur. Ağaç başına doz yaşa, verime ve toprak ile yaprak analizine göre belirlenir; aşırı azottan kaçınılır.
+@govde
+Zeytin ağacı kışı sessiz geçirir, ama şubat sonunda tomurcuklar şişmeye başladığında bahçıvanın gözü gübreye döner. Zeytinde bahar gübrelemesi iki yönden hata kaldırmaz: Çok geç verilen gübre çiçeklenmeye yetişmez, aşırı verilen azot ise sürgünü şişirir ve verimi düşürür. İyi haber şu ki Tarım ve Orman Bakanlığı'nın araştırma enstitülerinin yayınları, doğru yöntemi birkaç kısa kuralla özetliyor. Aşağıda o kuralları ve zamanlamayı sırayla anlatıyoruz.
+
+## Zeytinde bahar gübrelemesi ne zaman yapılır?
+
+Zeytinin ilkbahar gübrelemesi çiçeklenmenin öncesine denk getirilir. Gemlik çeşidi üzerinde yapılan bir DergiPark çalışması, çiçeklenme öncesi uygulamanın şubat sonu ya da mart başında yapıldığını bildiriyor. Aynı çalışma çiçeklenme öncesinde fosfor, bor ve potasyum ağırlıklı, küçük meyve döneminde ise potasyum ağırlıklı gübrelemeyi öneriyor. Bu bulgu tek bir çeşit ve bölge için bir örnektir; yine de çiçeklenme öncesi ve sonrası iki ayrı aşama düşünmenin mantığını gösteriyor.
+
+Takvim bölgeye göre kayar. Ege ve Akdeniz kıyılarında zeytin daha erken uyanır, uygulama şubat ortası ile mart başı arasına denk gelir. Marmara'nın ve Karadeniz kıyısının daha serin bölümlerinde mart ortasını beklemek gerekebilir. Pratik ölçüt, tomurcukların şişmeye başlaması ve toprağın donmuş ya da çamur hâlinde olmamasıdır.
+
+::: takvim
+İlkbahar azotunun ilk kısmı | 2-3
+Çiçeklenme öncesi fosfor, potasyum, bor desteği | 2-4
+Çiçeklenme | 5-6
+Küçük meyve dönemi (potasyum ağırlıklı) | 6-7
+:::
+
+## Azotu neden bölmek gerekir?
+
+Yalova'daki Bahçe Kültürleri Araştırma Enstitüsü'nün zeytin broşürü, azotlu gübrenin tek seferde değil bölünerek verilmesini ve aşırı azotlu gübreden kaçınılmasını öneriyor ([Tarım ve Orman Bakanlığı zeytin broşürü](https://arastirma.tarimorman.gov.tr/yalovabahce/Belgeler/brosurler/Zeytin.pdf)). Mantığı basittir: Azot yağışla kolayca yıkanır, bir seferde verilirse ağaç ihtiyacından fazlasını alamaz, kalanı kaybolur. Bölünmüş uygulamada ağaç her aşamada ihtiyacı kadar alır.
+
+Fazla azotun bir diğer bedeli de verim dengesidir. Azot sürgünü ve yaprağı artırır ama aşırı olursa meyve tutumunu geriletir, ağacı yumuşak sürgünle hastalık ve dona açık hâle getirir. Meyve ağaçlarında genel olarak benzer bir dengeyi [meyve gözü oluşumu için gübreleme](/meyve-gozu-olusumu-icin-gubreleme) yazısında anlattık.
+
+## Taç izdüşümüne serpmek, toprakla karıştırmak
+
+Aynı broşür, azotlu gübrenin ağacın taç izdüşümüne saçılmasını ve ardından çapa ya da tırmıkla toprakla karıştırılmasını da şart koşuyor. Taç izdüşümü, dalların uç hizasında toprağa düşen çemberdir; ince besin kökleri oradadır. Gübre gövde dibine yığılırsa köke ulaşmaz, kabuğa zarar verebilir. Yüzeyde bırakılan gübre de yağmurla akıp gider. Taç izdüşümüne uygulamanın ayrıntıları için [meyve ağacına solucan gübresi](/meyve-agacina-solucan-gubresi-tac-izdusumu) yazısına bakabilirsiniz.
+
+::: adimlar
+Taç sınırını belirleyin | Dalların uç hizasından toprağa halka çizin; gövdenin dibini boş bırakın.
+Yüzeyi temizleyin | Ot ve kuru yaprakları kenara çekin.
+Gübreyi eşit serpin | Halka boyunca eşit yayın; bir noktaya yığmayın.
+Toprağa karıştırın | Çapa ya da tırmıkla üst toprağa hafifçe karıştırın.
+Sulayın ya da yağmuru bekleyin | Gübrenin köke inmesi için toprak nemli olmalı.
+:::
+
+## Çiçeklenme öncesi fosfor, potasyum ve bor
+
+Zeytinde çiçeklenme öncesi dönem, ağacın çiçek ve meyve tutumu için depo besinini kullandığı dönemdir. Türkçe akademik yayınlar, kirazda ve zeytinde bor yetersizliğinde çiçek tomurcuğu oluşumu, polen üretimi ve meyve tutumunun zayıfladığını, Gemlik ve Domat çeşitlerinde çiçeklenme öncesi veya çiçeklenme sırasındaki yaprak bor uygulamalarının bazı çalışmalarda meyve tutumunu artırdığını bildiriyor. Bor, dar bir aralıkta çalışan bir elementtir: Eksikliği de fazlalığı da zarar verir. Bu yüzden doz, ürün ve uygulama zamanı yaprak ve toprak analizine göre belirlenmelidir; ev bahçesinde tahminle bor atılmaz.
+
+Fosfor kök ve çiçek gelişimini, potasyum meyve dolumunu ve ağacın stres dayanımını destekler. Bu iki besinin zamanlamasında ana kural, çiçeklenme öncesinde fosfor ve potasyuma ağırlık, meyve dolumunda ise potasyuma ağırlık vermektir. Yine de gerçek ihtiyaç analizle ortaya çıkar.
+
+## Ne kadar gübre? Miktarı analiz belirler
+
+"Ne kadar" sorusuna ağaç başına tek bir sayı vermek dürüst olmaz. Bakanlığın BUGEM tarafından yayımlanan "Zeytinde Gübreleme" dokümanı, çok yıllık bitkilerde yalnızca toprak analizinin yeterli olmadığını, yaprak ve toprak analiz sonuçlarının karşılaştırılarak öneri yapılması gerektiğini vurguluyor ([Tarım ve Orman Bakanlığı Zeytinde Gübreleme dokümanı](https://www.tarimorman.gov.tr/BUGEM/kumelenme/Belgeler/Budama/Zeytinde%20G%C3%BCbreleme.pdf)). Doz; ağacın yaşına, yıllık sürgün gücüne, önceki yılki ürüne, sulu mu kuru mu olduğuna ve toprağa göre değişir.
+
+Bir ADÜ çalışması Memecik çeşidinde ağaç başına 800 g azota kadar uygulanabileceği sonucuna varmıştır; bu değer o çalışmanın deneme koşullarına aittir ve bir tarif olarak okunmamalıdır. Kendi bahçenizde miktarı belirlemek için şu üç basamağı izleyin:
+
+| Basamak | Ne yapılır? | Ne sağlar? |
+|---|---|---|
+| 1 | Toprak analizi yaptırın | Organik madde, pH, kireç, fosfor, potasyum |
+| 2 | Yaprak analizi yaptırın | Ağacın o anki besin durumu |
+| 3 | Sürgün ve yaprak rengini izleyin | Azot dengesini gözle teyit |
+
+Yaprak ve toprak örneğinin nasıl alınacağını [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısında anlattık; sonuçların okunması için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısına bakın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Organik gübreyle zeytin
+
+Zeytin bahçesinde organik madde desteği toprağın yapısını ve su tutmasını düzeltir. HasTürk katı solucan gübresi açıklamasında zeytin de uygun bitkiler arasında sayılıyor ve ürün için dozlar bitki türüne ve uygulama şekline göre değiştiği belirtiliyor; yazılı ölçü yalnızca fidan dikimi (fidan başına 1,5–2 kg) için verilmiş. Yetişkin zeytin için yazılı bir doz olmadığından, miktarı analizle ve küçük bir deneme parseliyle ayarlayın. Organik madde yavaş etki ettiği için kış sonu uygulaması sezon boyu toprakta kalır; ayrıca azotu aşırıya kaçmadan vermeniz için tampon oluşturur.
+
+Hasat sonrası beslenme ve budama için [zeytin ağacına hasat sonrası bakım](/zeytin-agacina-hasat-sonrasi-bakim) yazısına bakabilirsiniz; bu yazı onun ilkbahardaki devamıdır. Genel ilkbahar gübre ilkeleri için [bahar gübresi ne zaman atılır](/bahar-gubresi-ne-zaman-atilir) yazısı bir çerçeve sunar.
+
+## Sık yapılan hatalar
+
+- **Tek seferde yüksek azot.** Bölünmüş uygulama yerine bir kerede atılan gübre yıkanır ve sürgünü şişirir.
+- **Gövdeye yığmak.** Gübre kök bölgesine, yani taç izdüşümüne gitmelidir.
+- **Toprağı karıştırmamak.** Yüzeyde kalan gübre akıp gider.
+- **Analizsiz bor.** Bor için ince bir denge vardır; tahminle atılmaz.
+- **Soğuk ya da donmuş toprakta uygulama.** Gübre köke ulaşmaz.
+- **Gübreyi her soruna çözüm saymak.** Yaprak sararması bazen su fazlalığından ya da kireçten gelir.
+
+Bu listedeki her madde, zeytinde bahar gübrelemesini rastgele bir iş olmaktan çıkarıp bir plana çevirir.
+@sss
+S: Zeytinde bahar gübrelemesi ne zaman yapılır?
+C: Çiçeklenmeden önce, çoğu bölgede şubat sonu ile mart başında, tomurcuklar şişmeye başlarken yapılır. Toprak donmuş ya da çamur olmamalıdır. Ege ve Akdeniz kıyısında takvim daha erkendir, serin bölgelerde mart ortasına kayabilir.
+
+S: Zeytine azotlu gübre nasıl verilmeli?
+C: Tek seferde değil, bölünerek verilmelidir. Tarım ve Orman Bakanlığı Yalova Bahçe Kültürleri Araştırma Enstitüsü gübrenin taç izdüşümüne serpilip çapa ya da tırmıkla toprağa karıştırılmasını ve aşırı azottan kaçınılmasını öneriyor.
+
+S: Zeytin ağacına kaç kilo gübre atılır?
+C: Ağaç başına tek bir doz yoktur; yaşa, verime, sulamaya ve toprağa göre değişir. Bakanlık dokümanı yaprak ve toprak analizlerinin birlikte değerlendirilmesini öneriyor. Analiz yaptırmadan miktar artırmayın.
+
+S: Zeytinde bor gübresi atılır mı?
+C: Bazı çalışmalarda çiçeklenme öncesi ya da sırasındaki yaprak bor uygulamaları meyve tutumunu artırmış. Ancak bor dar aralıkta çalışır; eksik de fazla da zarar verir. Doz ve zaman için yaprak analizine ve ziraat mühendisine danışın.
+
+### YAZI
+slug: bocek-oteli-nasil-yapilir
+baslik: Böcek Oteli Nasıl Yapılır? Delik Çapı, Derinlik ve Yerleştirme
+yayin: 2027-02-06 09:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: böcek oteli
+seo_baslik: Böcek Oteli Nasıl Yapılır? Ölçü ve Yerleştirme
+seo_aciklama: Böcek oteli nasıl yapılır? Yalnız yaşayan arılar için delik çapı, derinlik, kasa ölçüsü, güneşe bakan yön, asma yüksekliği ve yıllık bakım adım adım.
+ozet: Böcek oteli, yalnız yaşayan yaban arılarına yuva olan delikli tahta ve kamış kümesidir. Kasa ve delik ölçülerini, delik derinliğini, yön ve yükseklik seçimini, hangi malzemeden kaçınılacağını ve yıllık bakımı üniversite ve RHS yayınlarına dayanarak anlattık.
+etiketler: böcek oteli, yaban arısı, tozlayıcı, yalnız arı, bahçe yapımı, doğa dostu bahçe
+gorsel: bekliyor
+gorsel_alt: Güneş alan bahçe duvarında asılı, delikli tahta bloklar ve kamış tüplerle dolu ahşap kasa
+urunler: arzuman-papatya-tohumu-100-adet, arzuman-lavanta-tohumu-100-adet, altinvadi-karagoz-kadife-cicegi-tohumu
+kisaca: Böcek oteli, yalnız yaşayan yaban arıları için bir kasa içine yerleştirilmiş delikli tahta blok ve kamış tüplerdir. Delikler çok sayıda çapta açılır, arkası kapalı bırakılır, kenarları pürüzsüz tutulur. Kasa güneye ya da güneydoğuya bakan, öğleye kadar güneş alan, yerden yaklaşık 1–1,5 metre yükseklikte bir yere ilkbahar başında asılır.
+@govde
+Bahçedeki arıların büyük çoğunluğu kovanda yaşamaz. Dünyada binlerce yaban arısı türü yalnız yaşar: Dişi arı kendi yuvasını kazar ya da hazır bir deliği kullanır, içine polen ve yumurta koyar, kapatır ve gider. Böcek oteli bu hazır delikleri bahçeye getirir. Ama kötü yapılmış bir böcek oteli yuvadan çok tuzak olabilir: Çok geniş delikler, çürüyen malzeme ya da yanlış yön arıyı çekmez, hatta zarar verir. Aşağıda böcek oteli nasıl yapılır sorusunu ölçülerle cevaplıyoruz.
+
+## Böcek oteli neye yarar, neye yaramaz?
+
+Böcek oteli yalnız yaşayan yaban arılarının ve bazı faydalı böceklerin yuva kurmasına yardım eder. Bu arılar kovan arısından farklı olarak bal yapmaz, koloni kurmaz, saldırgan değildir; çiçek tozu taşıyarak meyve ağaçlarının ve sebzelerin tozlaşmasına katkı verir. Bahçedeki faydalı böcek ilişkilerini [bahçede faydalı böcekler](/faydali-bocekler) yazısında anlattık.
+
+Her böcek oteli işe yaramaz. Gerçekçi beklenti şudur: İlk yıl birkaç delik dolabilir, bazı delikler boş kalabilir. Delik açmak yetmez; çevrede çiçek ve çamur kaynağı da olmalıdır. Arı yuvasını kapatmak için çamur ya da bitki parçası ister. Bahçede çiçek yoksa otel boş durur.
+
+## Kasa ve blok ölçüleri
+
+Nebraska Üniversitesi'nin yayım servisi (NebGuide G2256) genel kılavuz olarak en az 15 cm derinliğinde ve 25 cm genişliğinde bir çerçeve öneriyor, sabit standart bulunmadığını belirtiyor. Tahta bloklar 15 cm'e kadar uzunlukta olabilir ve içlerinde farklı çaplarda tüneller bulunmalıdır ([Nebraska Üniversitesi böcek oteli yayını](https://extensionpubs.unl.edu/publication/g2256/pdf/view/g2256-2021.pdf)). Yani küçük bir bahçe için ortalama bir kutu, yaklaşık 25 × 25 cm ölçüsünde ve 15 cm derinlikte yeterlidir.
+
+Çerçeveyi sert, işlenmemiş ağaçtan yapın: meşe, kayın, ceviz gibi sert odun ya da kavak, çam gibi işlenebilir tahta olur. Boya, vernik ve kimyasal emdirme maddeleri arıya zarar verebilir; bu yüzden yalnızca ham ve kuru ahşap kullanın. Arka duvarı kapalı olsun; böylece yağmur ve rüzgâr deliklere girmez.
+
+## Delik çapı ve derinliği
+
+Kaynaklar çap ve derinlik için biraz farklı aralıklar veriyor, ama aynı noktada birleşiyor: Geniş delik derin, dar delik daha kısa olmalıdır. Nebraska yayını 1,5 mm ile 16 mm arası tünel çaplarını anıyor ve delik derinliğinin çapla birlikte arttığını, deliklerin bloğun arkasına geçmemesi gerektiğini yazıyor. Kraliyet Bahçıvanlık Derneği (RHS) 2 ile 10 mm arası delikler öneriyor, mümkün olduğunca derin olmalarını istiyor ve 8 mm'lik deliklerin kırmızı duvarcı arısına özellikle uygun olduğunu belirtiyor ([RHS yaban arısı yuvası yayını](https://www.rhs.org.uk/wildlife/how-to-make-habitats-for-wild-bees)).
+
+| Delik çapı | Derinlik | Kim kullanır? |
+|---|---|---|
+| 3–5 mm | yaklaşık 8–10 cm | Küçük yalnız arılar |
+| 6–8 mm | yaklaşık 10–15 cm | Duvarcı arıları gibi orta boy türler |
+| 9–10 mm | 15 cm'e yakın | Daha iri yalnız arılar |
+
+Bu tablo iki yayının aralığını bir araya getirerek hazırlanmış bir özettir; kesin standart yoktur. Çoğu bahçe için 4, 6 ve 8 mm'lik üç matkap ucu yeterlidir. Birden çok çapta delik açmak farklı türleri çeker. Delikler arasında en az 2 cm bırakın ki tahta çatlamasın ve her yuva bağımsız kalsın.
+
+## Adım adım yapım
+
+::: adimlar
+Tahtayı kesin | Kuru, işlenmemiş sert ahşabı 15 cm'lik bloklara bölün.
+Delikleri açın | Yan yana farklı çaplarda matkapla delin; arkaya geçmeyin, bir parça kalın ahşap bırakın.
+Kenarları düzeltin | Delik ağızlarındaki ve içindeki kıymıkları zımparayla alın; talaşı üfleyip temizleyin.
+Kasaya yerleştirin | Blokları kutuya sıkıca oturtun; gerekirse kamış tüplerle boşlukları doldurun.
+Çatı ekleyin | Öne doğru taşan eğik bir çatı, yağmurun deliklere girmesini önler.
+Asın | Güvenli bir şekilde duvara ya da direğe sabitleyin.
+:::
+
+Pürüzsüz delik önemlidir. Nebraska yayını delik kenarlarını düzeltmeyi ve kullanmadan önce talaşı temizlemeyi öneriyor; pürüzlü iç yüzey arının kanadına zarar verir.
+
+## Kamış, bambu ve kuru bitki sapları
+
+Tahta bloğun yanına kamış, bambu ya da içi boş bitki saplarını da koyabilirsiniz. Kamış tüplerini bir ucu kapalı olacak şekilde (boğumlu kısım arkada) kesin ve çaplarını 4–8 mm civarında tutun. Tüplerin ağzını diş makası gibi bir aletle düzeltin. Sapları bir sıkı demet hâlinde bağlayıp kasaya yerleştirirseniz arılar uygun çapı seçer. Delikli tuğla ya da çam kozalağı gibi malzemelerle kutuyu doldurmak çoğu zaman işe yaramaz; çünkü bunların delikleri arılar için uygun çapta değildir ve içlerine su dolar.
+
+## Nereye ve ne zaman asılır?
+
+Nebraska rehberi, böcek otelinin ilkbahar başında, nisan ortasından önce yerleştirilmesini, ön yüzünün gün boyu doğrudan güneş alacak biçimde güneye ya da güneydoğuya bakmasını ve yerden 0,9–1,5 metre yükseklikte durmasını öneriyor. Sabah güneşi arıyı ısıtır ve uçuşa hazırlar; gölgede kalan otel soğuk ve nemli olur, küf ve mantar çıkar. Rüzgârdan korunaklı, çiçekli bitkilere yakın bir duvar ya da çit önü iyi bir yerdir.
+
+Otelin sallanmaması önemlidir. Rüzgârda sallanan kutu yuvayı rahatsız eder. Çiçek kaynağı için [arı dostu bitkiler](/ari-dostu-bitkiler) yazısına bakın; böcek oteli ile aynı bahçede papatya, lavanta ve kadife çiçeği gibi bitkiler arı çeker.
+
+[ürün:arzuman-papatya-tohumu-100-adet]
+
+## Yıllık bakım
+
+Böcek oteli bir kez kurulup bırakılan bir şey değildir. Yıl sonunda arılar yuvalarını kapatır ve larvalar tüp içinde kışı geçirir; bu dönemde oteli kurcalamayın, kışlık depoda ya da korunaklı bir yerde bekletmeyin. Sezon sonunda eski kamış tüpleri yenilemek parazit ve küf birikimini azaltır. Çürüyen, küflenen ya da su alan blokları değiştirin. Kasayı yağmurdan koruyan çatı sağlam ve kuru olmalıdır. Kuşlar bazen tüpleri yırtıp larvaları yer; öne ince tel örgü geçirmek bunu azaltır, tel aralığı arıların geçmesine engel olmayacak genişlikte olmalıdır.
+
+## Böcek oteli yerine ne yapılabilir?
+
+Her arı delikli tahtada yaşamaz; çoğu yer altında yuva kurar. Bahçenin bir köşesini çıplak, güneş alan bir toprak parçası olarak bırakmak bu arılar için yuva alanı olur. Ölü odun yığını, çürüyen kütük ve çiçekli ot bırakmak da böcek çeşitliliğini destekler. Kuş yuvaları ve yemlikler için [kuş dostu bahçe](/kus-dostu-bahce) yazısına bakabilirsiniz.
+
+Ayrıca bahçede kimyasal ilaç kullanımını azaltmak, çiçeklenme dönemlerinde ilaçlamadan kaçınmak, yaban arılarını koruyan en etkili önlemdir. Bir böcek oteli kurmak, bu önlemlerin yerini tutmaz; onu tamamlar.
+@sss
+S: Böcek oteli nasıl yapılır?
+C: Kuru, işlenmemiş sert ahşap bloklara farklı çaplarda (yaklaşık 3–10 mm) ve arkası kapalı delikler açılır, kenarlar zımparalanır, kasaya konup çatıyla korunur ve güneşe bakan bir duvara asılır. Boya ve vernik kullanılmaz.
+
+S: Böcek oteli için delik çapı kaç mm olmalı?
+C: RHS 2–10 mm arası delikler öneriyor; 8 mm'lik delikler kırmızı duvarcı arısına uygundur. Nebraska Üniversitesi daha geniş bir aralık anıyor. Delik ne kadar genişse o kadar derin olmalıdır; arkaya geçmemelidir.
+
+S: Böcek oteli nereye asılır?
+C: Güneye ya da güneydoğuya bakan, günün büyük kısmında güneş alan, rüzgârdan korunaklı bir yere, yerden yaklaşık 0,9–1,5 metre yüksekliğe asılır. Nebraska rehberi ilkbahar başında, nisan ortasından önce kurmayı öneriyor.
+
+S: Böcek oteline kozalak ve delikli tuğla konur mu?
+C: Önerilmez. Bu malzemelerin delikleri arılar için uygun çapta değildir ve su dolup küf yapabilir. Tahta bloklar ve kamış tüpler daha güvenlidir.
+
+### YAZI
+slug: sifir-atik-bahcecilik-evdeki-atiklar
+baslik: Sıfır Atık Bahçecilik: Evdeki Atıklardan Bahçe Malzemesi
+yayin: 2027-02-06 11:35
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: sıfır atık bahçe
+seo_baslik: Sıfır Atık Bahçecilik: Evdeki Atıklardan Bahçe
+seo_aciklama: Sıfır atık bahçe nasıl kurulur? Mutfak artığından kompost, karton ve gazeteyle ot kontrolü, yumurta kolisinde fide ve kapları saksıya çevirme.
+ozet: Sıfır atık bahçe, evde çöpe giden malzemelerin bahçede ikinci bir iş görmesini sağlar: mutfak artığı kompost, karton malç, yumurta kolisi fide kabı, kavanoz sulama kabı. Neyin işe yaradığını, neyin zarar verdiğini ve evdeki atığı bahçe malzemesine çevirmenin sınırlarını anlattık.
+etiketler: sıfır atık, kompost, geri dönüşüm, karton malç, fide kabı, mutfak atığı, sürdürülebilir bahçe
+gorsel: bekliyor
+gorsel_alt: Bahçe masasında yumurta kolisinde filizlenen fideler, kavanoz, kuru kahve telvesi ve karton parçaları
+urunler: hg-fide-topragi, kullanima-hazir-cocopeat-torfu, hasturk-kati-solucan-gubresi
+kisaca: Sıfır atık bahçe, evdeki atığın çöpe gitmeden bahçede kullanılmasıdır: sebze ve meyve artıkları kompost olur, karton ve gazete ot bastıran örtü olur, yumurta kolisi ve yoğurt kabı fide kabına dönüşür. Etli ve yağlı yemek artıkları ile boyalı, kimyasal işlemli malzeme bahçeye girmez.
+@govde
+Bir ev, haftada bir poşet dolusu çöp çıkarır; bunun büyük kısmı bahçede iş görebilir. Soğan kabuğu, çay posası, yumurta kabuğu, karton koli, cam kavanoz, eski saksı, kırık çömlek. Sıfır atık bahçe bu malzemeleri çöpten çıkarıp ikinci bir hayata sokmaktır. Ama atığın hepsi bahçeye uygun değildir; yanlış malzeme toprağı kirletir, kemirgen çağırır, bitkiyi bozar. Aşağıda neyin işe yaradığını, neyin yaramadığını sıralıyoruz.
+
+## Sıfır atık bahçe nedir, nereden başlanır?
+
+Sıfır atık, atığı sıfıra indirmek anlamına gelmez; çöpe gideni mümkün olduğunca azaltmak demektir. Bahçede bunun üç basamağı vardır: Önce kullanmadan önce düşünmek (gereksiz plastik saksı almamak), sonra yeniden kullanmak (kavanozu sulama kabı yapmak), en sonunda dönüştürmek (kompost). California Üniversitesi'nin yayım servisi, bahçede malzemeyi yeniden kullanmanın ve kompostlamanın çöp miktarını azalttığını ve masrafı düşürdüğünü vurguluyor ([UC ANR sürdürülebilir bahçe sayfası](https://ucanr.edu/node/128516)).
+
+İlk adım bir mutfak kovası koymaktır. Sebze ve meyve artıkları, çay ve filtre kahve posası, yumurta kabukları orada toplanır. Haftalık dolunca kompost kutusuna ya da yığına boşaltılır. Kompostun kurulumu için [bahçede kompost yığını](/bahcede-kompost-yigini) ve balkon için [balkonda kompost yapımı](/balkonda-kompost-yapimi) yazılarına bakabilirsiniz.
+
+## Mutfak atığından bahçe malzemesi
+
+Kompost yapmak mutfak atığını işlemenin en yaygın yoludur; ama her atık eklenmez.
+
+| Atık | Bahçede kullanım | Dikkat |
+|---|---|---|
+| Sebze ve meyve kabukları | Komposta | Küçük doğrayın, çabuk dönüşür |
+| Çay ve filtre kahve posası | Komposta ya da ince katman olarak toprağa | Fazlası topaklanır ve kokar |
+| Yumurta kabuğu | Ezilip komposta ya da fide kabı olarak | Kalsiyum kaynağıdır; önce yıkayıp kurutun |
+| Odun külü (az) | Komposta çok az | Bazik; fazlası toprağı alkali yapar |
+| Et, balık, yağ, süt ürünleri | Eklenmez | Koku yapar, kemirgen çeker |
+| Pişmiş yemek | Eklenmez | Yağ ve tuz içerir |
+| Narenciye kabuğu ve soğan | Az miktar | Fazlası kompost solucanlarını rahatsız eder |
+
+Ev kompostları, yağlı yemek artıklarının ve etin ayrışması için gereken sıcaklığa çıkmaz; bu yüzden onları bahçeye sokmamak hem koku hem zararlı açısından güvenlidir. Kompostun koku yapması durumunda çözümler için [kompost kokusu](/kompost-kokusu) yazısına bakın. Olgunlaşan kompostun ne zaman kullanılabileceğini [kompost ne zaman hazır olur](/kompost-ne-zaman-hazir-olur) yazısı anlatıyor.
+
+## Karton, gazete ve ot kontrolü
+
+Kalın karton ve gazete kâğıdı, bahçede ot bastırıcı örtü olarak kullanılır. Alanı otlardan temizlemeden, yabani otların üzerine karton serilir; ışık engellendiği için ot ölür, karton ise zamanla ayrışarak toprağa karışır. Üstüne kompost ve malç koyarak katmanlı bahçe yatağı kurulabilir. Katmanlı yatağı [katmanlı bahçe yatağı](/katmanli-bahce-yatagi) yazısında anlattık. Parlak ya da renkli baskılı kâğıt, boyalı karton ve bantlı koli kullanılmadan önce bandı sökülmelidir; kâğıt temiz, düz renkli ve baskısız olmalı.
+
+::: adimlar
+Kartonu toplayın | Bant, etiket ve zımbayı çıkarın; yalnızca sade kartonu kullanın.
+Ot üstünü kesin | Yabani otları yere yakın biçip kökleriyle bırakın.
+Serin ve ıslatın | Kartonu üst üste binecek şekilde serin, bol su ile ıslatın.
+Üstünü örtün | 8–10 cm kompost ya da malç koyun.
+Beklemeye bırakın | Birkaç ay içinde altındaki ot ölür ve karton ayrışır.
+:::
+
+## Kaplar ve saksılar: ikinci ömür
+
+Yumurta kolisi, yoğurt kabı, süt kartonu, gazete rulosu fide yetiştirmek için kullanılabilir. Dibine delik açın, fide toprağı doldurun ve tohumu ekin. Karton yumurta kolisi doğrudan toprağa gömülebilir, çünkü zamanla ayrışır; plastik kaplar ise sökülüp yeniden kullanılır. Kaptaki fidenin gelişmesi için kullanım öncesi kabı sıcak sabunlu suyla yıkayın. Ayrıntılı fide başlangıcı için [evde fide yetiştirme](/evde-fide-yetistirme) yazısına bakın.
+
+Cam kavanozlar sulama kabı, tohum saklama kabı ya da küçük bir saksı çömlek olur. Kırık çömlek parçaları saksı tabanına drenaj olarak konabilir. Eski bir çaydanlık, kova ya da tahta kasa da güzel bir saksı olur; ama delik açılması ve drenajın sağlanması gerekir. Boyalı ya da kimyasal madde taşıyan kapları yenebilir bitki yetiştirmek için kullanmayın.
+
+[ürün:hg-fide-topragi]
+
+## Bahçe atığı: yaprak, dal, çim
+
+Bahçenin kendi atığı da bir kaynaktır. Dökülen yapraklar yaprak kompostuna dönüşür ([yaprak kompostu](/yaprak-kompostu)); dalları parçalayıp malç olarak kullanabilir, kuru otları kompost katmanı olarak yığına ekleyebilirsiniz. Biçilen çim ince katmanlar hâlinde serilir, kalın yığın çürür ve kokar. Bahçe atığının yakılması yerine nasıl değerlendirileceği için [bahçe atıkları](/bahce-atiklari) yazısı ayrıntılı bir rehberdir. Malçlama ve ağaç dibi için [ağaç dibi malçlama](/agac-dibi-malclama) yazısına bakın.
+
+## Neyi kullanmayın?
+
+Sıfır atık, her şeyi kullanmak anlamına gelmez. Şu malzemeleri bahçeden uzak tutun: Boyalı ya da vernikli ahşap, basınçlı emdirilmiş (yeşil) kereste, plastik poşet parçaları, lastik, ilaçlı ya da kimyasal bulaşmış kaplar, kullanılmış motor yağı bulaşmış malzeme. Bunlar toprağa ağır metal ya da kimyasal taşıyabilir ve sebze bahçesinde kalıcı sorun olur. Emin olmadığınız kabı yenilebilir bitki yetiştirmek için kullanmayın.
+
+## Sıfır atık bahçe ve su
+
+Atığın bir türü de sudur. Mutfakta sebze yıkadığınız ve ısıtmadan bıraktığınız su, pişirme sonrası soğuyan tuzsuz haşlama suyu ve evde biriken yağmur suyu saksıları sulamak için kullanılabilir. Tuzlu, yağlı ya da deterjanlı suyu bahçeye vermeyin; toprağın tuzlanmasına ve kökün zarar görmesine neden olur. Balkonda bir kova ile yağmur suyu toplamak, hem musluk suyunu azaltır hem de klorsuz, bitkilerin sevdiği bir su sağlar. Sıfır atık bahçe, atığı ayırmakla kalmaz, kaynakları döngüde tutar.
+
+Eski hortum parçaları, kırık saksı kenarları ve ahşap kasa parçaları da ikinci kez kullanılır: Hortum parçası damla sulama için bağlantı elemanı, ahşap parça bitki etiketi ya da destek çubuğu olur. Ama her malzemeyi kullanmak şart değildir; yer kaplayan, işe yaramayan eşyaları biriktirmek de başka bir atık yaratır.
+
+
+
+Bir seferde her şeyi değiştirmeye çalışmayın. İlk hafta mutfak kovası ve bir kompost kutusu kurun. İkinci hafta bir yatağa karton serin. Üçüncü hafta yumurta kolisine fide ekin. Bir ay sonra çöp poşetinin ne kadar hafiflediğini görürsünüz ve bahçe için ayrı toprak ya da kap alma ihtiyacı azalır.
+@sss
+S: Sıfır atık bahçe nedir?
+C: Evdeki ve bahçedeki atığın çöpe gitmeden bahçede kullanılmasıdır: mutfak artığından kompost, karton ve gazeteyle ot kontrolü, kolilerden fide kabı, kavanozlardan sulama kabı yapmak. Atığı sıfırlamak değil, azaltmak hedeftir.
+
+S: Hangi mutfak atıkları komposta eklenir?
+C: Sebze ve meyve kabukları, çay ve filtre kahve posası, yumurta kabukları eklenir. Et, balık, yağ, süt ürünleri ve pişmiş yemek eklenmez; koku ve kemirgen sorunu çıkarır, ev kompostunda yeterince ayrışmaz.
+
+S: Karton bahçede nasıl kullanılır?
+C: Bant ve etiketleri sökülmüş sade karton, otların üstüne serilip ıslatılır ve üzerine kompost ya da malç konur. Işık engellendiği için ot ölür ve karton zamanla ayrışır. Parlak ve renkli baskılı kâğıt kullanılmaz.
+
+S: Yumurta kolisinde fide yetişir mi?
+C: Yetişir. Karton yumurta kolisine delik açıp fide toprağı doldurun ve tohum ekin. Fide büyüyünce koli doğrudan toprağa gömülebilir, zamanla ayrışır. Plastik koliler yıkanıp yeniden kullanılır.
+
+### YAZI
+slug: kedi-saksi-topragini-kaziyor
+baslik: Kedi Saksı Toprağını Kazıyor: Bitkiyi ve Kediyi Korumak
+yayin: 2027-02-06 14:05
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: kedi saksı toprağını kazıyor
+seo_baslik: Kedi Saksı Toprağını Kazıyor: Bitki ve Kediyi Koru
+seo_aciklama: Kedi saksı toprağını kazıyor, ne yapmalı? Nedenleri, toprağı kapatma yöntemleri, kum kutusu ve kedi çimi alternatifi ile kaçınılacak tehlikeli yöntemler.
+ozet: Kedi saksı toprağını kazıyorsa nedeni çoğunlukla merak, oyun ya da tuvalet ihtiyacıdır. Nedeni anlamanın yolunu, toprağı kapatan zararsız yöntemleri, kedinin kazma dürtüsünü yönlendirmeyi, kullanılmaması gereken tehlikeli çözümleri ve bitki zehirliliği konusunda dikkat edilecekleri anlattık.
+etiketler: kedi, saksı toprağı, kedi çimi, kil bilyesi, evcil hayvan güvenliği, ev bitkisi, kum kutusu
+gorsel: bekliyor
+gorsel_alt: Saksı toprağının üstü iri çakıl taşlarıyla kaplanmış bitki ve yanında pencerede oturan tekir kedi
+urunler: hg-kil-bilyesi, quik-dogal-kedi-cimi--fileli-, hg-cicek-topragi
+kisaca: Kedi saksı toprağını kazıyorsa kaza gevşek toprağın kazma ve tuvalet içgüdüsünü çağırmasıdır. Toprağın üstünü iri taş, kil bilyesi ya da kafes ile kapatmak, kediye kedi çimi ve temiz bir kum kutusu sunmak çoğu zaman işe yarar. Naftalin, uçucu yağ ve sirke gibi yöntemler hem kediye hem bitkiye zarar verebilir.
+@govde
+Kedi saksı toprağını kazıyor ve sabah salona girdiğinizde saksıdan dökülen toprak, kopmuş yapraklar ve patilerin izi. Kedisi olan hemen her ev bitkisi sahibi bu sahneyi bilir. Kedi saksı toprağını kazıyor diye kediyi suçlamak yersiz; gevşek, nemli ve yumuşak toprak bir kedi için kum kutusunun hemen kendisidir. Çözüm, kediyi cezalandırmak değil, toprağı çekici olmaktan çıkarmak ve kazma dürtüsüne başka bir çıkış vermektir.
+
+## Kedi saksı toprağını kazıyor: neden bu davranışı yapıyor?
+
+Kediler doğal olarak toprağı kazar; yuva kurma, gömme ve tuvalet davranışı bunun parçasıdır. Saksı toprağı yumuşak, kolay kazılır ve çoğu zaman bir pencere kenarında güneşli durur. Bir kedi bu toprağı üç nedenden birinden dolayı bozar: Merak ve oyun (özellikle yavru kedilerde), tuvalet ihtiyacı ve sıkıntı.
+
+Tuvalet nedeni en ciddi olandır. Kum kutusu kirli, kötü yerde ya da kedinin hoşlanmadığı bir kumla doluysa kedi saksıyı kullanabilir. Saksıya sık işiyor ya da dışkılıyorsa önce kum kutusuna bakın; evde kedi sayısından bir fazla kutu bulunması çoğu zaman önerilir. Davranış ani başladıysa ve idrar yapma şekli değiştiyse bir veteriner hekime başvurun; bu bir sağlık sorunu belirtisi olabilir.
+
+## Toprağı kapatmak: en etkili yöntem
+
+Kedi kazamıyorsa kazmaz. Toprağın yüzeyini kedi patisine rahatsız gelecek, ama bitkiye zarar vermeyecek bir tabakayla kapatın.
+
+| Yöntem | Nasıl yapılır? | Not |
+|---|---|---|
+| İri çakıl ve taş | Toprağın üstüne 2–3 cm kalınlıkta, kedinin kolay oynatamayacağı büyüklükte taş serin | Ağırlık saksıyı devirmesin |
+| Kil bilyesi | Toprak yüzeyini örtecek şekilde serin | Hafif ve su geçirgen; kedi büyük bilyeyi kazamaz |
+| Tel örgü ya da kafes | Saksıya oturan delikli plastik ya da telden kapak | Bitkinin gövdesi için delik bırakın |
+| Çam kozalağı | Yüzeye yayın | Sivri; kedi ağırlığını vermek istemez |
+| Saksı yükseltme | Yüksek raf, asma saksı | Kedinin tırmanmayacağı yere |
+
+Kil bilyesi hafif, gözenekli bir malçtır; kil bilyesinin malç ve drenaj olarak kullanımını [kil bilyesi nedir](/kil-bilyesi-nedir-nasil-kullanilir) yazısında anlattık. Bilyeler sulamayı engellemez; su aralardan toprağa iner.
+
+[ürün:hg-kil-bilyesi]
+
+## Kedinin kazma dürtüsüne alternatif sunun
+
+Kazma kedinin doğal bir ihtiyacıdır; engellemek yerine yönlendirin. Kedi çimi (arpa, buğday ya da yulaf çimi) kedilerin çiğneyip kemirmeyi sevdiği güvenli bir bitkidir. Pencere önüne kedi çimi koymak, ev bitkilerine olan ilgiyi azaltabilir. Kedi çimi yetiştirmek için [kedi çimi yetiştirme](/kedi-cimi-yetistirme) yazısına bakabilirsiniz. Kedi çimi alırken fileli ve kullanıma hazır ürünler pratiktir.
+
+Ayrıca kediye bir "kazma kutusu" sunabilirsiniz: sığ bir kap, içine temiz kum ya da işlenmemiş toprak doldurun ve sessiz bir köşeye koyun. Kediler bazen bu alternatifi saksıdan daha çekici bulur. Oyuncak, tırmalama tahtası ve oyun alanı da sıkıntı kaynaklı kazmayı azaltır.
+
+## Yavru kedi, yetişkin kedi: davranış farkı
+
+Yavru kedilerde saksı toprağını kazma çoğu zaman merak ve oyundur; her yeni nesneyi pati ile yoklarlar. Bu dönemde saksıyı ulaşılmaz yere kaldırmak ve oyuncakla ilgiyi başka yöne çekmek yeter. Yetişkin kedide sorun sürekli ise sebep çoğunlukla tuvalet, sıkıntı ya da stres olur: Evde yeni bir hayvan ya da taşınma, kum kutusu değişimi, yalnız kalma süresi uzaması bu davranışı tetikleyebilir. Kedinin kum kutusunu ve gün içindeki oyun saatini gözden geçirmek bitkiden önce yapılacak ilk şeydir.
+
+Yaşlı bir kedide bu davranış birden başlarsa, bir hastalık belirtisi (idrar yolu sorunu, eklem ağrısı nedeniyle kum kutusuna girmekte zorlanma) olabilir. Bu durumda bitkiyi korumaya çalışmak yerine kediyi veteriner hekime götürün.
+
+## Toprak yerine ne kullanılır?
+
+Kazılan toprağın en büyük sorunu dökülen toprak ve yaralanan köktür. Bitkiyi saksıdan çıkarmadan da yüzey kapatma yapılabildiği için bu yöntem en pratik olanıdır; ama bitki zaten kök sorunu yaşıyorsa toprağı değiştirmek de gerekebilir. Saksı toprağı seçerken hafif ve iyi drene eden bir karışım tercih edin; çiçek toprağı çoğu ev bitkisi için uygundur. Yüzeyi bir kat taş ya da bilyeyle kapatmak, toprağın sulama sırasında sıçramasını da önler.
+
+## Yapılmaması gerekenler
+
+İnternette kedi uzaklaştırıcı olarak sunulan bazı yöntemler hem kediye hem bitkiye zarar verir:
+
+- **Naftalin (güve topu):** Kediler için zehirlidir. Asla saksıya koymayın.
+- **Uçucu yağlar:** Çoğu uçucu yağ, özellikle çay ağacı ve ökaliptüs, kediler için tehlikelidir. Saksıya sıkmayın ya da yaprağa sürmeyin.
+- **Sirke:** Toprağın pH'ını bozar ve kökleri yakabilir.
+- **Sivri çubuk ve plastik çatal:** Kedinin pati ve ağzını yaralayabilir.
+- **Acı biber ve baharat:** Kedinin gözünü ve burnunu tahriş eder.
+- **Cezalandırma:** Su püskürtmek ya da bağırmak kedide strese yol açar, sorunu çözmez.
+
+Narenciye kabuğu bazen koku ile uzaklaştırıcı olarak önerilir; kokusu bir süre sonra kaybolur ve her gün yenilenmesi gerekir. Kediler narenciye kokusunu sevmez, ama bu yöntem kalıcı bir çözüm değildir.
+
+## Bitki zehirli mi?
+
+Kazan kedi çoğu zaman bitkiyi de ısırır. Birçok yaygın ev bitkisi kediler için zehirlidir: antoryum, difenbahya, barış çiçeği, filodendron, zambak türleri ve diğerleri. Kedisi olan evde bitki seçmeden önce türün güvenliğini araştırın ve şüphe varsa veteriner hekime danışın. Güvenli bitki seçenekleri için [evcil hayvan dostu bitkiler](/evcil-hayvan-dostu-bitkiler) yazısına, zehirli türlerin listesi için [zehirli ev bitkileri](/zehirli-ev-bitkileri) yazısına bakın. Kedi bir bitkiyi yediyse ve kusma, ağız köpürmesi, halsizlik gibi belirtiler gösteriyorsa beklemeden veteriner kliniğine gidin.
+
+Gübre ve toprak güvenliği de önemlidir. Evcil hayvanlı evde gübre ve saksı toprağı saklama konusunu [evcil hayvanlı evde gübre ve saksı güvenliği](/evcil-hayvanli-evde-gubre-guvenligi) yazısında ayrıntılı anlattık.
+
+## Dışarıda ve balkonda
+
+Balkon saksıları da kedilerin ilgisini çeker. Balkon kedi güvenliği için [kedi balkon güvenliği](/kedi-balkon-guvenligi) yazısı, bahçeye gelen sokak kedileri için [bahçeye kedi girmesin](/bahceye-kedi-girmesin) yazısı kullanılabilir.
+@sss
+S: Kedi saksı toprağını neden kazıyor?
+C: Gevşek toprak kedinin kazma içgüdüsünü çağırır; merak, oyun ve tuvalet ihtiyacı başlıca nedenlerdir. Kum kutusu kirli ya da uygunsuzsa kedi saksıyı tuvalet olarak kullanabilir.
+
+S: Kedi saksı toprağından nasıl uzak tutulur?
+C: Toprağın yüzeyini iri taş, kil bilyesi ya da tel kafesle kapatın, saksıyı yükseğe koyun, kediye kedi çimi ve temiz bir kum kutusu sunun. Cezalandırma ve sert kokulu maddeler işe yaramaz, zarar verebilir.
+
+S: Güve topu kediyi uzaklaştırır mı?
+C: Kullanmayın. Naftalin (güve topu) kediler için zehirlidir. Uçucu yağlar da kedilere tehlikelidir. Güvenli yöntem toprağı kapatmak ve kediyi alternatif bir kazma alanına yönlendirmektir.
+
+S: Kedi saksıya işiyorsa ne yapmalıyım?
+C: Önce kum kutusunu kontrol edin: temiz mi, yeterli sayıda mı, doğru yerde mi? Davranış ani başladıysa ya da idrar alışkanlığı değiştiyse veteriner hekime başvurun. Saksı toprağını kapatın ve kirli toprağı değiştirin.
+
+### YAZI
+slug: sera-topragi-yorgunlugu-solarizasyon
+baslik: Sera Toprağı Yorgunluğu: Toprak Yenileme ve Solarizasyon
+yayin: 2027-02-06 16:40
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: sera toprağı yorgunluğu
+seo_baslik: Sera Toprağı Yorgunluğu: Yenileme ve Solarizasyon
+seo_aciklama: Sera toprağı yorgunluğu nedir, nasıl anlaşılır? Tuz birikimi, hastalık yükü, organik madde kaybı, yıkama, solarizasyon ve toprak yenileme adımları.
+ozet: Sera toprağı yorgunluğu, aynı yerde yıllarca üretimden sonra verimin düşmesidir; nedenleri tuz birikimi, hastalık yükü ve organik madde kaybıdır. Belirtileri, toprak analiziyle tanıyı, yıkama, organik madde takviyesi ve güneşle ısıl işlem olan solarizasyon adımlarını anlattık.
+etiketler: sera toprağı, toprak yorgunluğu, solarizasyon, tuz birikimi, toprak yenileme, sera bakımı
+gorsel: bekliyor
+gorsel_alt: Sera içinde nemli toprağın üstüne gerilmiş şeffaf polietilen örtü ve kenarları toprakla gömülü
+urunler: kati-solucan-gubresi-20-kg, leonardit-organik-toprak-duzenleyici, hasturk-kati-solucan-gubresi
+kisaca: Sera toprağı yorgunluğu, yıllarca üretimden sonra tuz birikmesi, toprak kaynaklı hastalıkların artması ve organik maddenin azalması yüzünden verimin düşmesidir. Çözüm; toprak ve EC analizi, tuzlu toprağın yıkanması, bol olgun organik madde ve sıcak mevsimde 4–6 hafta şeffaf örtüyle solarizasyondur.
+@govde
+Sera, toprağın bir yılda iki üç ürün verdiği, açık alandan çok daha yoğun işlenen bir ortamdır. Yağmur toprağı yıkamaz, aynı bitki ailesi yıllarca aynı yerde yetişir, sulama ve gübre hep aynı sığ katmanda birikir. Sonuç, bir yıl önce sorunsuz giden domatesin bu yıl bodur kalması, fidenin dipten çürümesi, yaprak kenarının yanmasıdır. Sera toprağı yorgunluğu bu belirtilerin ortak adıdır ve sera toprağı yorgunluğu çoğu seracının ikinci üçüncü yılda karşılaştığı bir sorundur. Aşağıda nedenleri, tanıyı ve çözümleri sırayla anlatıyoruz.
+
+## Sera toprağı yorgunluğu nasıl anlaşılır?
+
+Yorgun toprağın belirtileri bitkide ve toprakta birlikte görülür. Verim yıldan yıla düşer, fideler dikimden sonra gelişmez, yaprak kenarları kahverengiye yanar, kök boğazında çürüme ve solgunluk artar. Toprak yüzeyinde beyazımsı tuz kabuğu görülebilir, sulama suyu toprağa geç sızar, toprak sıkışıp katılaşır. Bitki sağlıklı sulansa bile bodur kalıyorsa ve aynı sorun art arda iki üç sezon geliyorsa yorgunluktan şüphelenin.
+
+Belirti tek bir nedenden gelmez. Aynı görünüm tuz stresi, kök hastalığı, besin dengesizliği ya da kök-ur nematodu ile de ortaya çıkabilir. Tanıyı toprak analizi ve bitkiyi gözlemek koyar. Yorgun bahçe toprağını canlandırma konusunu açık alan için [yorgun bahçe toprağını canlandırma](/yorgun-bahce-topragi-canlandirma) yazısında anlattık; sera ise farklı sorunlar taşır.
+
+## Üç ana neden
+
+Sera toprağını yoran üç etken öne çıkar:
+
+| Neden | Nasıl oluşur? | Belirti |
+|---|---|---|
+| Tuz birikimi | Yağmur yıkamaz; sulama suyu ve gübre tuzu yüzeyde birikir | Yaprak kenarı yanığı, beyaz kabuk, yüksek EC |
+| Toprak kaynaklı hastalık | Aynı ailenin art arda ekilmesi; fungus ve nematod birikir | Kök çürüğü, solgunluk, kök yumruları |
+| Organik madde kaybı ve sıkışma | Yoğun üretim, işlemenin ağırlığı | Sert, geç sızan, canlılığı düşük toprak |
+
+Her üç etken birbirini besler. Sıkışık toprakta kökler zayıflar, zayıf kök hastalığa açık olur, tuz yoğunluğu kök hasarını artırır.
+
+## Önce analiz: EC, pH, organik madde
+
+Nedeni tahmin etmek yerine toprağı analiz ettirin. Toprak numunesinin nasıl alınacağı için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına, sonuçların okunması için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısına bakın. Sera toprağında özellikle şu üç değere bakın: EC (tuzluluk), pH ve organik madde. EC'nin ne olduğunu ve tuzlulukla ilişkisini [EC nedir](/ec-nedir-toprak-tuzlulugu-olcumu) yazısında anlattık. Yüksek EC tuz birikimini, düşük organik madde yorgunluğu, anormal pH besin kilidini gösterir.
+
+## Tuz birikiyorsa: yıkamak
+
+Tuz birikmiş seranın en basit çözümü toprağı bol suyla yıkamaktır. Yağışsız sera toprağında tuz yüzeyde kalır; bol su tuzu alt katmanlara taşır. Bunun için toprağı derin ve yavaş sulayın, suyun toprak altından geçmesine olanak veren drenaj olduğundan emin olun. Seranın kış aylarında yağmura ya da kara açılması da toprağı doğal yıkar; birçok üretici bu amaçla kış sonunda sera örtüsünü kaldırır ya da yan perdeleri açar. Yıkamanın miktarı toprak yapısına ve tuz düzeyine göre değişir; analiz sonucu olmadan abartmayın, aksi hâlde besinler de yıkanır.
+
+## Solarizasyon: güneşle ısıl işlem
+
+Solarizasyon, nemli toprağı şeffaf plastikle örtüp güneş ısısıyla ısıtarak toprak kaynaklı hastalık, nematod ve yabani ot tohumlarını azaltma yöntemidir. Kaliforniya Üniversitesi'nin UC IPM yayını solarizasyonun genellikle yılın sıcak döneminde, toprağın en çok doğrudan güneş aldığı zamanda dört ila altı hafta sürdüğünü, plastik örtünün 6–7 haftadan fazla kalırsa kırılgan olduğunu yazıyor ([UC IPM solarizasyon rehberi](https://ipm.ucanr.edu/home-and-landscape/soil-solarization-for-gardens-landscapes/)). Aynı kaynak 0,025 mm (1 mil) kalınlığında şeffaf polietilen öneriyor, rüzgârlı yerlerde daha kalın örtü kullanılabileceğini, toprağın önceden ıslatılması ve yüzeyin düzgün olması gerektiğini, plastik ile toprak arasında hava boşluğunun ısınmayı çok azalttığını belirtiyor.
+
+Sera içinde bu yöntem daha da etkilidir. FAO'nun Japonya sera solarizasyonu derlemesi, seralarda 20 cm derinlikte günün bazı saatlerinde 40–45 °C sıcaklığa ulaşılabildiğini bildiriyor ([FAO sera solarizasyonu bölümü](https://www.fao.org/4/t0455e/T0455E04.htm)). Aynı derleme, yüksek su içeriğinin hava geçirmez ve sıcak koşullarda toprakta oksijensiz (indirgeyici) koşullar yaratabileceğini de not ediyor.
+
+::: adimlar
+Toprağı hazırlayın | Bitki artıklarını temizleyin, toprağı gevşetip taşları ve büyük kesekleri ayıklayın, yüzeyi düzleştirin.
+Bol sulayın | Toprağı derinlemesine ıslatın; ıslak toprak ısıyı daha iyi iletir.
+Şeffaf örtüyü serin | Şeffaf polietileni toprağa tam yapıştırın, kenarlarını toprak altına gömerek sabitleyin.
+Bekleyin | Sıcak ve güneşli bir dönemde dört altı hafta bırakın; seranın havalandırmasını kapalı tutun.
+Örtüyü kaldırın | Kazı yapmadan, yeni toprak çıkarmadan yüzeyi hazırlayın ve ekime geçin.
+:::
+
+Solarizasyon her sorunu çözmez. Tuz birikimini gidermez; hatta nemli toprakta buharlaşma tuzu yüzeye çıkarabilir. Bu yüzden önce analiz, tuz varsa yıkama, sonra solarizasyon sırası izlenmelidir. Faydalı mikroorganizmaları da azaltır; bu nedenle solarizasyondan sonra toprağa olgun organik madde karıştırmak biyolojik dengeyi yeniden kurmaya yardım eder.
+
+## Organik madde ve toprağın canlandırılması
+
+Yorgun toprağı yenileyen en kalıcı yöntem organik maddeyi artırmaktır. Bol olgun kompost ya da solucan gübresi serin ve üst toprağa karıştırın; toprağın su tutması, havalanması ve canlılığı artar. Leonardit gibi organik düzenleyiciler de toprak yapısını destekler; ürün açıklamasında leonardit için bahçe ve tarla kullanımında metrekareye 1 litre/kg serpme önerilirken, katı solucan gübresi için sebze tarımında toprak hazırlığı doz örneği olarak dekara 40–80 kg veriliyor. Sera ölçeğinde miktarı toprak analizine göre ayarlayın.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+## Ekim nöbeti ve çeşit değişimi
+
+Toprak kaynaklı hastalıklar aynı bitki ailesinin art arda yetiştirilmesiyle birikir. Domates, biber ve patlıcan (patlıcangiller) bir yıl ardışık yetişmişse, ertesi sezon baklagiller, soğangiller ya da yapraklı sebzelerle nöbetleşe ekmek hastalık yükünü azaltır. Nöbet mantığı için [ekim nöbeti](/ekim-nobeti) yazısına bakın. Yükseltilmiş yatak ya da torba kültürü gibi seçenekler sera toprağına bağımlılığı azaltır; seraya yatak yerleştirme için [seraya sebze yatağı](/seraya-sebze-yatagi) yazısı yol gösterir.
+
+## Önleme: yorulmadan önce
+
+Yorgunluğu önlemek için sulamayı kontrollü yapın, gübreyi analize göre verin, her sezon organik madde ekleyin, bitki artıklarını temizleyin ve nöbeti uygulayın. Kışın seranın yan perdelerini açıp toprağı yağmur ve soğuğa bırakmak da hastalık ve tuz yükünü hafifletir. Sera havalandırması ve nem yönetimi için [sera havalandırması ve nem kontrolü](/sera-havalandirmasi-nem-kontrolu) yazısına bakabilirsiniz.
+@sss
+S: Sera toprağı yorgunluğu nedir?
+C: Yıllarca yoğun üretimden sonra tuz birikimi, toprak kaynaklı hastalıklar ve organik madde kaybı yüzünden verimin düşmesidir. Belirtileri bodur bitki, yaprak kenarı yanığı, kök çürüğü ve sıkışmış toprak olarak görülür.
+
+S: Solarizasyon nedir, ne kadar sürer?
+C: Nemli toprağın şeffaf plastikle örtülüp güneş ısısıyla ısıtılmasıdır. UC IPM genellikle yılın sıcak döneminde dört ila altı hafta sürdüğünü, 6–7 haftadan uzun bırakılan plastiğin kırılgan olduğunu yazıyor.
+
+S: Solarizasyon sera toprağındaki tuzu giderir mi?
+C: Hayır. Solarizasyon hastalık, nematod ve yabani ot tohumlarına yöneliktir. Tuz birikimi için toprak analizi yaptırıp bol suyla yıkamak gerekir. Solarizasyon öncesi tuz düzeyini kontrol edin.
+
+S: Yorgun sera toprağı nasıl yenilenir?
+C: Önce toprak ve EC analizi, tuz varsa yıkama, ardından hastalık yükü için solarizasyon ve bol olgun organik madde ile ekim nöbeti uygulanır. Miktarlar analize göre ayarlanır.
+
+### YAZI
+slug: yabani-ot-tanima-12-ot-koke-gore-mucadele
+baslik: Yabani Ot Tanıma: Bahçede En Sık Görülen 12 Ot ve Köküne Göre Mücadele
+yayin: 2027-02-06 14:05
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: yabani ot tanıma
+seo_baslik: Yabani Ot Tanıma: 12 Sık Ot ve Köküne Göre Mücadele
+seo_aciklama: Yabani ot tanıma rehberi: bahçede sık görülen 12 otu ömür döngüsüne ve köke göre tanıyın; tek yıllık, kazık ve sürünen köklü otlarla mücadele.
+ozet: Yabani ot tanıma, mücadelenin ilk adımıdır; çünkü otlar ömür döngüsüne (tek yıllık, çok yıllık) ve köke (kazık, sürünen kök) göre farklı yöntem ister. Bahçede sık görülen 12 otu bu iki ölçüte göre sıraladık, her grup için sökme, kesme ve örtme yöntemlerini anlattık.
+etiketler: yabani ot, ot tanıma, ayrık otu, karahindiba, tarla sarmaşığı, semizotu, sirken, bahçe otları
+gorsel: bekliyor
+gorsel_alt: Bahçe tarhında yan yana bırakılmış söküm sonrası kazık köklü karahindiba ve ince sürünen kökleriyle ayrık otu
+urunler: raco-yabani-ot-sokme-aleti
+kisaca: Yabani ot tanıma iki soruya dayanır: Ot tek yıllık mı çok yıllık mı, kökü kazık mı sürünen mi? Tek yıllıklar (semizotu, sirken, çoban çantası) tohum bağlamadan sökülür; kazık köklü çok yıllıklar (karahindiba, labada) kökle birlikte; sürünen köklüler (ayrık otu, tarla sarmaşığı) ise tekrar tekrar sökülüp köküne ulaşılarak yorulur.
+@govde
+Aynı yabani otu iki bahçıvan iki ayrı yöntemle söker ve birinde otun üç ay sonra geri geldiğini, ötekinde bir daha çıkmadığını görür. Fark ot değil, otun kimliğidir: Biri kazık kökün üst yarısını kopartır, öteki kökün altına iner. Yabani ot tanıma bu yüzden mücadelenin zorunlu ilk adımıdır; çünkü otların yöntemi iki ölçüte göre belirlenir: ömür döngüsü ve kök yapısı. Aşağıda bahçede en sık karşılaşılan 12 ot bu iki ölçüte göre gruplandı. Genel ilkeler Amerikan üniversite yayım servislerinin sınıflandırmasına dayanıyor; tür örneklerindeki kök ve ömür bilgileri ise yaygın botanik bilgisidir ve bölgeye göre yerel adlar değişebilir.
+
+## Yabani ot tanıma: önce iki soru, ömür döngüsü ve kök
+
+Yabani ot tanıma işinde ilk bakılacak şey, otun yaprak biçimi değil yaşama biçimidir.
+
+Iowa State Üniversitesi Uzantı Servisi yabani otları önce yaşam döngüsüne göre ayırıyor: Tek yıllıklar tohumdan çıkıp aynı yıl tohum bağlayıp ölür, çok yıllıklar ise toprak yüzeyinde ya da altında bulunan büyüme noktalarından yeniden sürerek yıllarca yaşar ([Iowa State: bahçe ve çimdeki yabani ot türleri](https://yardandgarden.extension.iastate.edu/how-to/types-weeds-landscapes-gardens-and-lawns)). Colorado State'in yabani ot tanım notları da aynı çerçevede otları yaşam döngüsü ve kök tipine göre tarif ediyor ([Colorado State: yabani ot tanımları](https://cmg.extension.colostate.edu/Gardennotes/352.pdf)). Bu iki ölçütten üç pratik grup çıkar:
+
+| Grup | Ömür | Kök | Ne zaman mücadele? | Yöntem |
+|---|---|---|---|---|
+| A. Tek yıllık, saçak köklü | 1 yıl | Yüzeysel | Çiçek ve tohumdan önce | Çapalama, sökme, malç |
+| B. Çok yıllık, kazık köklü | Yıllarca | Derin kazık kök | Kök bütün sökülebilirken | Kökle birlikte sökme |
+| C. Çok yıllık, sürünen köklü | Yıllarca | Yayılan kök/rizom | Tekrarlayan müdahale | Sürekli söküm, örtü, yorma |
+
+## Grup A: Tek yıllık otlar (tohum bağlamadan alın)
+
+Bu grupta ot, tek mevsimde çıkar, büyür ve tohum verir; sorun tohum bankasıdır. Tek bir bitki yüzlerce tohum bırakabildiği için, tohum bağlamadan almak mücadelenin kendisidir. Küçükken çapayla ya da elle sökmek yeterlidir.
+
+1. **Semizotu (Portulaca oleracea):** Sıcakta yerde yayılan, etli yapraklı tek yıllık ot; sıcak mevsim ve sulanan tarhta çoğalır. Köklü olarak çıkarılmazsa kopan sürgün yeniden kök salabilir; sökülen bitkiyi toprak üstünde bırakmayın.
+2. **Sirken (Chenopodium album):** Mavimsi tozlu yaprakları olan, boylu ve yaz boyunca çıkan tek yıllık. Çiçeklenmeden sökülür; çok sulanan sebze tarhında hızla büyür.
+3. **Çoban çantası (Capsella bursa-pastoris):** Küçük, rozet yapan ve kalp biçimli meyveleriyle tanınan, serin mevsim otu. Kış sonu ve ilkbaharda çıkar, çabuk tohumlanır.
+4. **Kırmızı köklü tilkikuyruğu (Amaranthus retroflexus):** Yaz tarhında boylanan, dik, kırmızımsı gövdeli ot. Kuvvetli büyür; küçükken çapalamak kolaydır.
+5. **Çim otu türleri (ör. Digitaria, çatal ot):** Yazın çıkan tek yıllık çim ailesi otları. Üniversite yayımları yengeç otu (crabgrass) ve benzeri otları yaz tek yıllıklarına sayıyor; Penn State Üniversitesi, yengeç otunun toprağın yüzeye yakın kısmı birkaç gün üst üste yaklaşık 55–58 °F'ye (yaklaşık 13–14 °C) ulaşınca çimlendiğini ([Penn State: çimde yabani ot yönetimi](https://extension.psu.edu/weed-management-in-turf)) ve sık çim örtüsünün bu ota karşı en iyi koruma olduğunu yazıyor.
+
+## Grup B: Kazık köklü çok yıllık otlar (kökle birlikte alın)
+
+Kazık kök, otun derine inen kalın ana köküdür. Bu otları yalnızca yaprak seviyesinde koparırsanız kökten yeniden sürer. Üniversite yayım kaynakları karahindibanın kalın kazık kökünün toprakta birkaç inç (on santimetre mertebesinde) derine indiğini belirtiyor. Bu grupta önemli olan, kökün üst yarısının kalmadan çıkarılmasıdır.
+
+6. **Karahindiba (Taraxacum officinale):** Rozet yapraklı, sarı çiçekli. Kök boyunca makas ya da dar bir yabani ot sökme aletiyle toprağın içine inerek sökülür. Nemli toprakta kök daha kolay çıkar; yağmur sonrası ya da sulamadan sonra sökün.
+7. **Labada (Rumex türleri):** Uzun yapraklı, kalın kazık köklü; yoğun tohum bırakır. Kök çok derinse parçayı sökün ve çiçeklenmeden önce alın.
+8. **Devedikeni (Cirsium arvense):** Dikenli, yatay kök sistemiyle de yayılan çok yıllık. Hem kazık hem yayılan kökü olduğu için B ile C arasındadır; eldivenle ve tekrarlı müdahaleyle yorulur.
+
+## Grup C: Sürünen köklü çok yıllık otlar (yorarak yenin)
+
+Bu grup en inatçı olanıdır; çünkü kök ya da gövde yatay uzar ve her parça yeni bir bitki oluşturabilir. Üniversite yayım kaynakları tarla sarmaşığını (Convolvulus arvensis) bu grubun temsilcisi olarak anlatıyor: Yaygın kök sistemi toprakta çok derine inebilir ve tohumları onlarca yıl canlı kalabilir. Kaynaklarda söküm tek başına çoğu zaman yetmiyor; düzenli ve ısrarlı söküm kök sistemini zamanla aç bırakıyor.
+
+9. **Tarla sarmaşığı (Convolvulus arvensis):** Çiçekleri huni biçimli, sarılıcı; en zorlu ottur. Yeni sürgün çıkar çıkmaz sökmek, sürekli kök rezervini tüketir. Yüzeyi karanlık örtü (kalın malç ya da karton) ile örtmek de yardımcı olur.
+10. **Ayrık otu (Elymus repens):** Uzun beyaz rizomlarıyla yayılan çim ailesi otu. Çatalla toprağı kaldırıp rizomları parça bırakmadan çıkarın; rizom parçaları yeni bitki verir.
+11. **Köpek dişi (Cynodon dactylon):** Sürünen gövde ve rizomla yayılır; sıcak mevsim otu. Kenar ve çim sınırlarında bariyer kullanılır.
+12. **Isırgan (Urtica dioica):** Yer altı sürgünleriyle büyüyen, yanıcı tüylü ot. Eldivenle sökülür; kökleri tamamen çıkarmak gerekir. Isırgan bahçeden atılmak zorunda değildir: Isırgan gübresi için ayrı bir yazımız var ([ısırgan gübresi](/isirgan-gubresi)).
+
+## Yöntemi seçmek
+
+Yabani ot tanıma bilgisini mücadeleye çevirmek için aşağıdaki sırayı izleyin.
+
+::: adimlar
+Otun grubunu belirleyin | Tek yıllık mı, çok yıllık mı; kazık mı sürünen mi?
+Tek yıllık ise erken müdahale | Çapa ya da el ile küçükken, çiçek ve tohumdan önce.
+Kazık köklüyse kökle sökün | Nemli toprakta, aletle köke inerek; kökün üst kısmını bırakmayın.
+Sürünen köklüyse tekrarlayın | Her yeni sürgünü sökün, toprağı kaldırıp rizom parçalarını toplayın.
+Toprağı örtün | Malç ve karton, ışığı keserek yeni çıkışı azaltır.
+Ot tohum bağlamadan alın | Çiçekli otu kompost yığınına değil, çöpe ya da güneşte kurutarak atın.
+:::
+
+Mücadelenin diğer yönleri (malç, zamanlama, doğal yöntemler) için [yabani otla doğal mücadele](/yabani-otla-dogal-mucadele) yazısına, sirke gibi ev yöntemlerinin sınırları için [sirke ile yabani ot öldürmek](/sirke-ile-yabani-ot-oldurmek) yazısına bakabilirsiniz; bu yazının konusu otu tanımaktır. Çim alanlarında ot sorunu için ayrı bir rehber var: [çimde yabani ot](/cimde-yabani-ot).
+
+## Alet: sökmek için doğru araç
+
+Kazık köklü otlarda kök boyunca inebilen dar bir alet işi kolaylaştırır. Raco Yabani Ot Sökme Aleti ürün açıklamasına göre 350 mm boyunda, 200 gram ağırlığında, preslenmiş çelik gövdeli bir el aleti; balkon saksılarında ve bahçelerde istenmeyen otların sökülmesi için tasarlanmış. Büyük ve derin köklü otlarda alet kadar toprağın nemi de belirleyicidir: Kuru toprakta kök koptuğu için ıslak toprakta çalışmak gerekir.
+
+[ürün:raco-yabani-ot-sokme-aleti]
+
+## Zamanlama: hangi otu ne zaman?
+
+Tek yıllıkların tohum bırakmadan önce alınması en önemli zamanlama kuralıdır. Çok yıllıklarda bitki tohumdan çok kök rezervi tehdidi olduğu için, bitki en yüksek enerjiyi yer üstüne verdiği zaman (çiçeklenme öncesi) tekrarlı kesme ya da sökme kök rezervini tüketir. Yengeç otu gibi yaz çim otlarında zamanlama çimlenmenin başladığı toprak sıcaklığına bağlıdır: Penn State yayını, toprağın yüzeye yakın kısmı birkaç gün üst üste yaklaşık 13–14 °C'ye çıktığında bu otun çimlendiğini belirtiyor; bu dönemden önce çim örtüsünü sıklaştırmak ve toprağı kapalı tutmak koruma sağlar. Toprak sıcaklığı ve çimlenme ilişkisi için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısına bakın.
+
+## Kimyasal mücadele nerede devreye girer?
+
+Kaynaklarda ilaç önerileri, otun türüne (geniş yapraklı ya da dar yapraklı) ve ortama (çim, sebze tarhı, boş alan) göre değişiyor; Amerikan yayımlarındaki ürün adları ve izinleri ülkemizde geçerli değildir. Bu yazı herhangi bir ilaç önermez; kullanmadan önce etiketi okumanız ve il ya da ilçe tarım müdürlüğüne danışmanız gerekir. Sebze tarhında ve yenilebilir bitkilerin yanında kimyasal kullanımı özellikle dikkat gerektirir. Çoğu bahçe otu, tanıma ve zamanlama doğru yapıldığında mekanik yöntemlerle yönetilebilir.
+@sss
+S: Yabani ot tanıma neden önemli?
+C: Çünkü mücadele yöntemi otun ömür döngüsüne (tek yıllık mı, çok yıllık mı) ve köküne (kazık mı, sürünen mi) bağlıdır. Tek yıllıklar tohumdan önce, kazık köklüler kökle birlikte, sürünen köklüler ise tekrarlı sökümle yorularak yönetilir.
+
+S: Karahindiba nasıl sökülür?
+C: Kazık köklü olduğu için kökle birlikte sökülmelidir. Üniversite yayımları kalın kazık kökün toprakta derine indiğini belirtiyor. Yağmur ya da sulama sonrası nemli toprakta dar bir aletle köke inin; kökün kopan parçası yeniden sürebilir.
+
+S: Tarla sarmaşığı neden bu kadar inatçı?
+C: Yaygın kök sistemi çok derine inebilir ve tohumları onlarca yıl canlı kalabilir. Üniversite yayımları tek seferlik sökümün genellikle yetmediğini, düzenli ve ısrarlı sökümün kök rezervini zamanla tükettiğini belirtiyor.
+
+S: Yabani otlar komposta atılır mı?
+C: Çiçeklenmemiş tek yıllık otlar kompost yığınına atılabilir; tohum bağlamış ya da rizomlu otlar (ayrık otu, tarla sarmaşığı) atılmamalıdır, çünkü yığında canlı kalıp yayılabilir.
+
+### YAZI
+slug: pulluk-tabani-sikismis-alt-katman-dip-kazan
+baslik: Pulluk Tabanı: Sıkışmış Alt Katmanı Dip Kazan ile Kırmak
+yayin: 2027-02-06 16:40
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: pulluk tabanı
+seo_baslik: Pulluk Tabanı: Sıkışmış Alt Katmanı Dip Kazanla Kırmak
+seo_aciklama: Pulluk tabanı nedir, nasıl anlaşılır, dip kazanla nasıl kırılır? Sıkışmış katmanı bulma, derinlik ayarı, kuru toprak şartı ve gereklilik uyarısı.
+ozet: Pulluk tabanı, aynı derinlikte tekrarlanan sürüm ve ağır makine trafiğiyle oluşan sıkışmış alt katmandır; kök ve suyun inmesini engeller. Önce katmanın yerini bulmak, sonra dip kazanı sıkışık bölgeden 2,5–5 cm derine ayarlamak ve toprak kuruyken çalışmak gerekir. Minnesota Üniversitesi, sıkışma yoksa derin işlemenin karşılığını vermeyebileceğini belirtiyor.
+etiketler: pulluk tabanı, dip kazan, toprak sıkışması, derin işleme, riper, toprak yapısı, tarla toprağı
+gorsel: bekliyor
+gorsel_alt: Kesilmiş toprak profilinde üst gevşek katmanın altında yatay uzanan sıkı gri-kahverengi tabaka ve kökün orada yana dönmesi
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Pulluk tabanı, aynı derinlikte tekrarlanan sürüm ve ağır makine geçişiyle oluşan sıkışık alt katmandır; kök ve su geçemez. Dip kazan, katmanın 2,5–5 cm altına ayarlanır ve toprak kuruyken çalışır. Minnesota Üniversitesi derin işlemenin yalnızca sıkışma varsa karşılık verdiğini belirtiyor.
+@govde
+Bir sezon fide kuruyor, ertesi sezon yağmurdan sonra tarlada gölcük oluşuyor, kökler dikey inmek yerine yan dönüyor: Bu üç belirti birbirinden bağımsız görünse de çoğu zaman tek bir yerden gelir, toprağın altında yatay uzanan sıkışık bir katmandan. Çiftçi dilinde buna pulluk tabanı denir. Pulluk tabanı iyi bilinen ama çoğu zaman yanlış tedavi edilen bir sorundur: Tarlaya girilip derin işlenir, oysa katman o derinlikte yoktur ya da hiç yoktur. Aşağıda katmanın nasıl oluştuğunu, nasıl bulunacağını ve dip kazan ile nasıl, hangi şartlarda kırılacağını anlatıyoruz. Toprak sıkışmasına genel bakış için [toprak sıkışması](/toprak-sikismasi) yazısını da okuyabilirsiniz; burada konu özellikle pulluk tabanı ve derin işlemedir.
+
+## Pulluk tabanı nasıl oluşur?
+
+Yıllarca aynı derinlikte sürülen toprakta, aletin altında kalan katman her seferinde bastırılır, düzleşir ve sıkışır. Ağır traktör ve römork geçişleri, özellikle toprak ıslakken, aynı etkiyi yapar. Sonuçta üstte gevşek, altta yatay uzanan sıkı bir tabaka kalır. Minnesota Üniversitesi'nin toprak işleme aletleri rehberi bu mekanizmaya benzer bir uyarıyı disk aletleri için de yapıyor: Disk aletleri bazı topraklarda aynı derinlikte tekrar tekrar kullanıldığında yoğunlaşmış bir tabaka oluşturabilir ([UMN toprak işleme aletleri](https://extension.umn.edu/soil-management-and-health/tillage-implements-purpose-and-ideal-use)). Yani katman yalnızca pulluktan değil, her tür alet ve trafikten gelen sabit derinlikli baskıdan doğar. Ayrıntılı alet farkları için [tarla toprak işleme aletleri](/tarla-toprak-isleme-aletleri-pulluk-diskaro) yazımıza bakın.
+
+## Belirtiler: tarlada nasıl görünür?
+
+Pulluk tabanı üç yerde kendini gösterir. Birincisi kök yapısıdır: Kökler dikey inmek yerine bir derinlikte yana kıvrılır ve yatay yayılır; bitki yüzeysel köklü kalır ve kuraklıkta çabuk solar. İkincisi sudur: Yağmur ya da sulama suyu üst katmanda birikir, tarlada göllenme olur ve toprak uzun süre ıslak kalır; kuraklıkta ise kökler aşağıdaki nemden yararlanamaz. Üçüncüsü bitki gelişimidir: Dar alanlarda cılız, sararmış ya da eşit olmayan büyüme görülür.
+
+Bu belirtiler başka sorunlardan da gelebilir (besin eksikliği, hastalık, tuzluluk), bu yüzden karar vermeden önce toprağı açıp bakmak gerekir.
+
+## Önce bulun: katman nerede?
+
+Derin işlemenin en büyük hatası, katmanın yerini bilmeden aleti ayarlamaktır. Minnesota Üniversitesi rehberi önce sıkışık bölgenin derinliğini bulmayı, sonra aleti bu derinliğin 1–2 inç (yaklaşık 2,5–5 cm) altına ayarlamayı öneriyor. Katmanı bulmanın üç yolu var:
+
+::: adimlar
+Çukur kazın | Tarlanın birkaç yerinde bir spadayla 40–60 cm derinliğinde çukur açıp profile bakın; sıkı, yatay, koyu ya da gri katman görünür.
+Köke bakın | Bir bitkiyi dikkatle sökün; kökün hangi derinlikte yana döndüğüne bakın.
+Sondajla ölçün | Sert bir çubuk ya da sondayı toprağa bastırın; direncin aniden arttığı derinliği not edin.
+Birkaç noktada tekrarlayın | Sıkışma tarlada eşit dağılmaz; yoğun traktör yolları ve tarla başları daha sıkıdır.
+:::
+
+Bir 2025 derlemesi de toprağın içindeki mekanik direnç dağılımının pulluk tabanı katmanının yerini gösterebildiğini ve işleme derinliğini ayarlamada rehber olabileceğini bildiriyor; basit bir çubuk sondası bu fikrin düşük teknoloji hâlidir.
+
+## Dip kazan ve derin işleme: ne zaman, nasıl?
+
+Katmanı kırmak için kullanılan aletler dip kazan (subsoiler), derin riper ve benzeri uzun bacaklı araçlardır. Bacak, sıkı katmanın içinden geçip onu çatlatır; üst toprağı çevirmez. Minnesota Üniversitesi rehberine göre üç ilke önemlidir.
+
+Birinci ilke, derinlik: Alet, sıkışık katmanın 1–2 inç (yaklaşık 2,5–5 cm) altına ayarlanmalıdır; daha sığ çalışırsanız katmanı kırmazsınız, daha derin çalışırsanız boşuna yakıt ve güç harcarsınız. İkinci ilke, toprak nemi: Bacakların toprağı gerçekten çatlatması için toprak bacağın derinliğine kadar kuru olmalı. Islak toprakta bacak toprağı çatlatmak yerine kesip yağlar ve sıkışmayı artırabilir. Üçüncü ilke, gereklilik: Derin işleme yalnızca sıkışma varsa karşılığını verir. Rehber, derin zon işlemeyi ancak derin toprak sıkışması olduğunu biliyorsanız düşünmenizi söylüyor ve saha denemelerinde bazı durumlarda verim artışı görülmediğini belirtiyor.
+
+| Karar | Ne zaman? |
+|---|---|
+| Dip kazan ya da derin riper | Katman bulundu, kökler yana dönüyor, toprak kuru |
+| Derin işleme yapmayın | Katman yok ya da yüzeysel sıkışma var, toprak ıslak |
+| Alternatif | Hafif sürüm derinliğini her yıl değiştirmek, kök derinleşen örtü bitkisi |
+
+## Tekrar oluşmasını önlemek
+
+Katmanı kırmak geçici bir çözümdür; kırılmış katman aynı ağır trafikle yeniden sıkışır. Kalıcı çözüm, sıkışmanın nedenini ortadan kaldırmaktır. Makine geçişlerini mümkün olduğunca belirli yollara sınırlandırın; ıslak toprakta traktör kullanmayın; her yıl aynı derinlikte sürmeyin; pulluk derinliğini değiştirin ya da az işleme sistemlerini düşünün. Organik madde toprak yapısını sağlamlaştırır ve sıkışmaya karşı direnci artırır; bu konuda [toprakta organik madde](/toprakta-organik-madde) yazısı faydalıdır. Derin kök salan örtü bitkileri (yeşil gübre) de kök kanallarıyla katmanı çatlatabilir; ayrıntı için [yeşil gübreleme](/yesil-gubreleme) yazısına bakın.
+
+Organik düzenleyici kullanmak yapıya yardımcı olur ama sıkışmış katmanı tek başına çözmez. HasTürk Katı Solucan Gübresi ürün açıklamasında toprağın organik madde içeriğini artırdığı, toprağın havalanmasını ve mikroorganizma faaliyetini desteklediği, su tutma kapasitesini artırdığı belirtiliyor; bu özellikler üst toprakta yapıyı destekler, ancak sıkı alt katmanı mekanik olarak kırmaz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Küçük alanda: bahçe ölçeği
+
+Bahçe ve sebze tarhı ölçeğinde derin kazı ya da çift kazı yöntemi benzer bir amaçla kullanılabilir: Üst toprağı kenara alıp alttaki sıkı katmanı çatalla gevşetmek, sonra üst toprağı geri koymak. Bu iş zahmetli olduğu için tek seferlik düzeltme olarak düşünülür; sonrasında üzerine basmamak ve organik madde eklemek gerekir. Tarla ölçeğinde olduğu gibi burada da önce katmanın var olduğunu doğrulayın; çoğu bahçe sorunu yüzeyel sıkışmadır ve çatalla gevşetmek yeterlidir. Killi toprak için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir), doku tanıması için [toprak dokusu](/toprak-teksturu) yazılarına bakın.
+
+## Maliyet-fayda: her tarlaya gerekli değil
+
+Dip kazan çalışması ağır traktör gücü, yakıt ve zaman ister. Minnesota Üniversitesi'nin uyarısı bu yüzden önemlidir: Sıkışma olmadan derin işleme yapmak maliyet getirir, verim getirmez. Karar vermeden önce katmanın varlığını doğrulayın, çiftçi olarak kendi tarlanızda küçük bir parselde deneme yapın ve sonucu ayrı parselle karşılaştırın. Yerel ziraat odası ve il tarım müdürlüğünün toprak sıkışması için deneyimli teknik elemanları vardır; tarla koşullarınıza göre öneri almak için başvurabilirsiniz.
+@sss
+S: Pulluk tabanı nedir?
+C: Aynı derinlikte tekrarlanan sürüm ve ağır makine geçişleriyle oluşan, toprağın altında yatay uzanan sıkışık katmandır. Kök ve su bu katmanı geçemez; kökler yana döner, yağmur suyu üstte birikir.
+
+S: Pulluk tabanı nasıl anlaşılır?
+C: Tarlada çukur açıp toprak profiline bakın, bir bitkiyi sökerek kökün hangi derinlikte yana döndüğünü görün ve çubukla toprağın direncini ölçün. Sıkı katman genellikle yatay, koyu ya da gri bir tabaka olarak görülür.
+
+S: Dip kazan hangi derinliğe ayarlanır?
+C: Minnesota Üniversitesi önce sıkışık bölgenin derinliğini bulmayı, aleti bu derinliğin 1–2 inç (yaklaşık 2,5–5 cm) altına ayarlamayı ve toprak bacak derinliğine kadar kuruyken çalışmayı öneriyor.
+
+S: Her tarlada dip kazan gerekli mi?
+C: Hayır. Minnesota Üniversitesi derin işlemenin yalnızca derin sıkışma varsa karşılığını verdiğini ve bazı saha denemelerinde verim artışı görülmediğini belirtiyor. Önce katmanın varlığını doğrulayın.

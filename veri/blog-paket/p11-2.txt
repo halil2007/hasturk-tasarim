@@ -1,0 +1,968 @@
+### YAZI
+slug: verticillium-solgunlugu
+baslik: Verticillium Solgunluğu: Tek Taraftan Solan Bitkilerin Gizli Nedeni
+yayin: 2026-12-16 07:15
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: verticillium solgunluğu
+seo_baslik: Verticillium Solgunluğu: Belirtiler, Teşhis ve Önleme
+seo_aciklama: Verticillium solgunluğu nedir? Domates, patlıcan ve zeytinde tek taraflı solma, iletim demetlerinde kahverengileşme, fusariumdan farkı ve önlemler.
+ozet: Bir gün önce sağlıklı görünen bitkinin yapraklarının bir tarafı sararıp soluyorsa, toprak kaynaklı bir mantar olan verticillium sorumlu olabilir. Bu hastalığı tanımayı, fusariumdan ayırmayı ve bahçede yayılmasını önlemeyi anlatıyoruz.
+etiketler: verticillium solgunluğu, solgunluk hastalığı, toprak kaynaklı hastalıklar, domates hastalıkları, zeytin hastalıkları
+gorsel: p11-verticillium
+gorsel_alt: Verticillium solgunluğu nedeniyle yaprağı sararıp solmuş patlıcan bitkisi
+urunler: organik-toprak, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Verticillium solgunluğu, topraktan köke giren ve su iletim borularını tıkayan bir mantar hastalığıdır. Alt yapraklardan başlayan sararma, bitkinin bir tarafında solma ve gövde kesildiğinde kahverengi çizgiler tipik belirtilerdir. Mantar toprakta yıllarca yaşar; dayanıklı çeşit, ekim nöbeti ve hastalıklı artıkları uzaklaştırmak en etkili önlemlerdir.
+@govde
+Verticillium solgunluğu, bahçede ve tarlada pek çok bitkiyi etkileyen, toprak kaynaklı ve sinsi bir mantar hastalığıdır. Domates, patlıcan, biber, patates, çilek, pamuk, zeytin ve birçok meyve ağacı ile süs bitkisi bu hastalıktan etkilenebilir. Hastalığın en zor yanı, etkeninin toprakta uzun yıllar canlı kalabilmesi ve bir kez yerleştiği bahçeden kolay kolay çıkmamasıdır. Bitkinin kökünden girip su iletim borularını tıkadığı için belirtiler önce susuzluk ya da besin eksikliği gibi görünebilir; bu da teşhisi geciktirir. Bu yazıda verticillium solgunluğunu nasıl tanıyacağınızı, benzer hastalıklardan nasıl ayıracağınızı ve bahçede riski nasıl azaltacağınızı anlatıyoruz.
+
+## Verticillium solgunluğu nasıl bir hastalıktır?
+
+Hastalığa Verticillium dahliae ve Verticillium albo-atrum adlı toprak mantarları neden olur. Bu mantarlar, mikrosklerot adı verilen dayanıklı yapılar sayesinde toprakta, bitki kökü olmadan bile yıllarca yaşayabilir. Uygun bir konukçu bitkinin kökleri yakınlarından geçtiğinde mantar uyanır, kök uçlarından ya da küçük yaralardan bitkiye girer ve gövdedeki su iletim borularına yerleşir. Burada çoğaldıkça bu boruları tıkar; bitkinin yukarılarına su ve besin taşınamaz hale gelir. Sonuç, yaprakların sararması, solması ve kuruması, ağır durumlarda ise bitkinin tamamen ölmesidir.
+
+Mantar özellikle serin ve ılıman topraklarda, toprak sıcaklığı 20-25 °C civarındayken etkilidir. Bu yüzden belirtiler çoğu zaman ilkbahar sonu ve yaz başında ortaya çıkar; çok sıcak yaz günlerinde bazı bitkilerde gerileyip sonbaharda yeniden belirginleşebilir.
+
+## Verticillium solgunluğu belirtileri
+
+**Alt yapraklardan başlayan sararma:** Belirtiler genellikle bitkinin alt kısmındaki yaşlı yapraklarda başlar ve yukarı doğru ilerler.
+
+**V şeklinde sararma:** Domateste yaprakçıkların kenarlarından içe doğru, V harfi şeklinde sararmalar görülür.
+
+**Tek taraflı solma:** Yaprağın bir yarısı ya da bitkinin bir tarafındaki dallar solarken diğer tarafı sağlıklı kalabilir.
+
+**Gündüz solma, gece toparlanma:** Hastalığın başlangıcında bitki sıcak öğle saatlerinde solar, akşam serinliğinde kısmen toparlanır.
+
+**İletim demetlerinde renk değişimi:** Etkilenen bir gövde ya da dal enine kesildiğinde, kabuğun hemen altındaki iletim dokusunda kahverengi noktalar ya da halka görülür; boyuna kesildiğinde ise kahverengi çizgiler uzanır.
+
+**Ağaçlarda dal kurumaları:** Zeytin ve meyve ağaçlarında, özellikle ilkbaharda, bir ya da birkaç dalın yapraklarıyla birlikte aniden kuruması tipik bir belirtidir.
+
+## Fusarium solgunluğundan farkı
+
+Verticillium ve fusarium solgunlukları birbirine çok benzer: her ikisi de toprak kaynaklıdır, kökten girer ve iletim borularını tıkar. Ancak bazı ipuçları ayrım yapmaya yardımcı olur. Fusarium daha sıcak toprakları sever ve genellikle yaz ortasında belirginleşir; iletim demetlerindeki renk değişimi çoğu zaman daha koyu ve daha yukarılara uzanır. Verticillium ise daha serin topraklarda etkilidir ve belirtiler daha erken başlar. Kesin teşhis için laboratuvar analizi gerekir. Fusarium hakkında ayrıntılı bilgi için [fusarium solgunluğu](/fusarium-solgunlugu) yazımıza göz atabilirsiniz.
+
+## Hangi bitkiler risk altında?
+
+**Sebzeler:** Domates, patlıcan, biber, patates, çilek, kavun ve karpuz. Patlıcan özellikle hassastır.
+
+**Meyve ağaçları:** Zeytin, kayısı, şeftali, kiraz, badem ve antep fıstığı.
+
+**Süs bitkileri:** Akçaağaç, gül, krizantem ve kasımpatı gibi birçok süs bitkisi.
+
+Buna karşılık mısır, buğday ve arpa gibi buğdaygiller ile çoğu baklagil verticilliuma karşı dayanıklıdır; bu bitkiler ekim nöbetinde değerlidir. Zeytinde görülen diğer hastalıklar için [zeytin hastalıkları](/zeytin-hastaliklari) yazımıza göz atabilirsiniz.
+
+## Hastalık nasıl yayılır?
+
+Mantar, hastalıklı bitki artıkları, bulaşık toprak, toprak işleme aletleri, sulama suyu ve hastalıklı fideler ya da fidanlarla yayılır. Hastalıklı bitkileri kompost yığınına atmak da mantarı bahçenin diğer köşelerine taşıyabilir. Köklerin yaralanmasına neden olan nematodlar ve derin çapalama da hastalığın bitkiye girişini kolaylaştırır. Kök ur nematodu hakkında bilgi için [kök ur nematodu](/kok-ur-nematodu) yazımıza bakabilirsiniz.
+
+## Verticillium solgunluğuna karşı önlemler
+
+Verticillium solgunluğunun bitkiye yerleştikten sonra tedavisi yoktur. Bu yüzden mücadelenin temeli önlemedir.
+
+**Dayanıklı çeşit seçin.** Domates fide ve tohumlarında etiketteki "V" harfi, verticillium solgunluğuna dayanıklılığı gösterir. Dayanıklı çeşitler ve aşılı fideler, hastalık geçmişi olan bahçelerde en güvenilir çözümdür.
+
+**Ekim nöbeti uygulayın.** Aynı parsele art arda domates, patlıcan, biber ve patates gibi hassas bitkiler ekmeyin. Araya mısır, buğdaygiller ve baklagiller gibi dayanıklı bitkileri koyun. Ekim nöbetinin ilkeleri için [ekim nöbeti](/ekim-nobeti) yazımıza göz atabilirsiniz.
+
+**Hastalıklı bitkileri uzaklaştırın.** Hastalıklı bitkileri kökleriyle birlikte sökün ve kompostlamak yerine bahçeden uzaklaştırın.
+
+**Aletleri temizleyin.** Hastalıklı alanlarda kullanılan aletleri ve ayakkabıları temizlemeden bahçenin diğer kısımlarında kullanmayın.
+
+**Kökleri yaralamayın.** Hassas bitkilerin dibinde derin çapalamadan kaçının.
+
+**Toprağı sağlıklı tutun.** Organik maddece zengin, canlı topraklarda faydalı mikroorganizmalar hastalık etkenleriyle rekabet eder. Olgun kompost ve solucan gübresi bu dengeyi destekler.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+**Dengeli gübreleyin.** Fazla azot, bitkilerin hastalığa daha duyarlı hale gelmesine yol açabilir.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Aşılı fide neden işe yarar?
+
+Domates ve patlıcanda verticillium solgunluğuna karşı en etkili yöntemlerden biri aşılı fide kullanmaktır. Aşılı fidelerde meyve veren üst kısım, hastalıklara dayanıklı güçlü bir anaç köke aşılanmıştır. Bu anaçlar toprak kaynaklı mantarlara karşı daha dirençlidir ve bitkinin daha güçlü bir kök sistemi geliştirmesini sağlar. Hastalık geçmişi olan seralarda ve küçük bahçelerde, her yıl aynı yere domates dikmek zorunda kalan yetiştiriciler için aşılı fideler önemli bir çözümdür.
+
+## Saksıda ve küçük bahçede çözüm
+
+Hastalığın görüldüğü küçük bahçe parsellerinde bir süre hassas bitkileri saksılarda ya da yükseltilmiş yataklarda, temiz ve yeni bir toprakla yetiştirmek pratik bir çözümdür. Saksı topraklarını her sezon yenilemek ve kullanılmış toprağı hassas bitkilerde tekrar kullanmamak da riski azaltır. Küçük miktarlardaki toprağın sterilizasyonu hakkında [toprak sterilizasyonu](/toprak-sterilizasyonu) yazımızda bilgi bulabilirsiniz.
+
+## Zeytin ve meyve ağaçlarında ne yapmalı?
+
+Zeytin bahçelerinde verticillium solgunluğu ciddi kayıplara yol açabilir. Kuruyan dalları sağlıklı dokuya kadar kesip uzaklaştırmak, budama aletlerini dezenfekte etmek, ağaçların altında hassas sebze yetiştirmemek ve aşırı sulama ile aşırı azottan kaçınmak önemlidir. Yeni bahçe kurulurken temiz, sertifikalı fidan kullanmak ve daha önce hassas bitki yetiştirilmiş alanlarda dikkatli olmak gerekir. Ağaçlarda kesin teşhis ve uygun mücadele programı için müşteri hizmetlerimize danışın.
+
+@sss
+S: Verticillium solgunluğu tedavi edilebilir mi?
+C: Bitkiye yerleştikten sonra etkili bir tedavisi yoktur. Hastalıklı bitkiler sökülüp uzaklaştırılmalı, sonraki yıllarda dayanıklı çeşitler ve ekim nöbetiyle risk azaltılmalıdır.
+
+S: Verticillium toprakta ne kadar yaşar?
+C: Mantarın dayanıklı yapıları toprakta, uygun bitki olmasa bile yıllarca canlı kalabilir. Bu yüzden ekim nöbeti uzun soluklu planlanmalıdır.
+
+S: Domates fidesindeki V harfi ne anlama gelir?
+C: Tohum ve fide etiketlerindeki V harfi, o çeşidin verticillium solgunluğuna dayanıklı olduğunu gösterir. F harfi ise fusarium solgunluğuna dayanıklılığı belirtir.
+
+### YAZI
+slug: toprak-rengi
+baslik: Toprak Rengi: Bahçe Toprağınızın Rengi Size Ne Anlatıyor?
+yayin: 2026-12-16 08:35
+yazar: Mikdat Çelik
+kategori: toprak-rehberi
+odak: toprak rengi
+seo_baslik: Toprak Rengi Ne Anlatır? Koyu, Kırmızı, Gri Topraklar
+seo_aciklama: Toprak rengi ne anlatır? Koyu, kırmızı, sarı, gri ve beyazımsı toprakların organik madde, demir, drenaj ve kireç hakkında verdiği ipuçları ve iyileştirme.
+ozet: Toprağın rengi, bize organik madde miktarı, drenaj durumu, kireç ve demir içeriği hakkında şaşırtıcı derecede çok şey anlatır. Bahçe toprağınızın rengini okumayı ve ona göre ne yapmanız gerektiğini anlatıyoruz.
+etiketler: toprak rengi, toprak yapısı, organik madde, drenaj, kireçli toprak
+gorsel: p11-toprak-rengi
+gorsel_alt: Yamaçta açığa çıkmış kırmızı, kahverengi ve krem tonlarında toprak
+urunler: organik-toprak, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Toprak rengi, toprağın içeriği hakkında önemli ipuçları verir. Koyu kahverengi ve siyaha yakın toprak genellikle organik maddece zengindir. Kırmızı ve sarı tonlar demir oksitlerden gelir ve iyi havalanan topraklarda görülür. Gri ve mavimsi lekeli toprak, suyun uzun süre biriktiğini gösterir. Beyazımsı yüzey kireç ya da tuz birikimine işaret edebilir.
+@govde
+Toprak rengi, bahçenizin toprağı hakkında hiçbir alet kullanmadan elde edebileceğiniz en hızlı ve en değerli bilgilerden biridir. Bir kürek toprağı elinize aldığınızda gördüğünüz renk, aslında o toprağın yüzyıllar içinde geçirdiği süreçlerin, içerdiği organik maddenin, demir bileşiklerinin ve suyun nasıl hareket ettiğinin bir özetidir. Toprak bilimciler toprakları sınıflandırırken renge büyük önem verir; standart renk kartlarıyla toprağın tonunu, açıklığını ve doygunluğunu belirler. Bahçede ise bu kadar ayrıntıya gerek yok; birkaç temel rengi tanımak, toprağınızın neye ihtiyacı olduğunu anlamak için yeterlidir. Bu yazıda farklı toprak renklerinin ne anlattığını ve toprağınızı nasıl iyileştirebileceğinizi anlatıyoruz.
+
+## Toprak rengi neden önemlidir?
+
+Toprak rengi tek başına verimliliği kesin olarak göstermez, ama önemli ipuçları verir. Rengi belirleyen üç ana etken vardır: organik madde, demir ve manganez bileşikleri ve toprağın su ile hava ilişkisi. Organik madde toprağı koyulaştırır. Demir bileşikleri havayla temas ettiğinde kırmızı ve sarı tonlar oluşturur; su altında kalıp havasız kaldığında ise gri ve mavimsi renklere dönüşür. Kireç ve tuzlar ise toprağa beyazımsı bir görünüm kazandırır.
+
+Toprağın rengini değerlendirirken nemli toprağa bakmak daha doğrudur; kuru toprak her zaman daha açık görünür. Ayrıca yalnızca yüzeye değil, bir kürek derinliğindeki toprağa da bakmak gerekir.
+
+## Koyu kahverengi ve siyaha yakın toprak
+
+Koyu renkli topraklar genellikle organik maddece zengindir. Organik madde, yani çürümüş bitki ve hayvan kalıntıları ve humus, toprağa koyu kahverengi ya da siyaha yakın bir renk verir. Bu topraklar çoğu zaman verimli, gevşek ve nemi iyi tutan topraklardır. Orman toprakları, kompostla düzenli beslenmiş bahçe toprakları ve bazı vadi tabanlarındaki topraklar bu gruptadır.
+
+Ancak her koyu toprak verimli değildir. Sürekli ıslak kalan bataklık alanlarında da organik madde birikir ve toprak koyulaşır; bu topraklar ise havasız ve drenajı zayıftır. Koyu renkle birlikte ekşi ya da çürük bir koku varsa, toprağın havasız kaldığı düşünülmelidir. Organik maddenin önemi hakkında [toprakta organik madde](/toprakta-organik-madde) yazımıza göz atabilirsiniz.
+
+## Kırmızı ve kırmızımsı kahverengi toprak
+
+Kırmızı renk, toprakta bulunan demir oksitlerden kaynaklanır. Akdeniz bölgesinde sıkça görülen kırmızı topraklar (terra rossa), kireç taşı üzerinde gelişen ve iyi havalanan topraklardır. Kırmızı renk genellikle toprağın iyi drene olduğunu ve havalandığını gösterir. Bu topraklar çoğu zaman organik maddece fakirdir ve kil oranı yüksek olabilir. Organik madde ekleyerek hem yapılarını hem de verimliliklerini artırmak mümkündür.
+
+## Sarı ve sarımsı kahverengi toprak
+
+Sarı tonlar da demir bileşiklerinden gelir, ancak kırmızıya göre biraz daha nemli koşullarda oluşur. Sarımsı topraklar genellikle orta düzeyde drenaja sahiptir. Organik maddece fakir, açık renkli sarımsı topraklar düzenli kompost ve organik gübre takviyesinden büyük fayda görür.
+
+[ürün:organik-toprak]
+
+## Gri, mavimsi ve yeşilimsi toprak
+
+Gri, mavimsi ya da yeşilimsi renkler, toprağın uzun süre su altında kaldığını ve havasız olduğunu gösterir. Oksijen yokluğunda demir bileşikleri renk değiştirir. Bu renkler genellikle suyun biriktiği çukur alanlarda, ağır killi topraklarda ve yüksek taban suyu olan yerlerde görülür. Bu tür topraklarda çoğu bitkinin kökleri çürür.
+
+Toprakta gri zemin üzerinde turuncu-kahverengi lekeler (benekler) görüyorsanız, bu da toprağın dönem dönem suya doyup kuruduğunun işaretidir. Bu tür topraklarda drenajı iyileştirmek, yükseltilmiş yataklar kurmak ve organik madde eklemek gerekir. Ağır toprakların iyileştirilmesi için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazımıza göz atabilirsiniz.
+
+## Beyazımsı ve açık renkli toprak
+
+Toprak yüzeyinde beyaz bir kabuk ya da lekeler görülmesi kireç ya da tuz birikimine işaret edebilir. Kireçli topraklar genellikle açık renklidir ve asidik toprak seven bitkilerde demir eksikliğine yol açabilir. Kurak bölgelerde ve sulama suyunun tuzlu olduğu yerlerde ise yüzeyde beyaz tuz kabukları oluşabilir. Toprak tuzluluğunun belirtileri ve çözümleri için [toprak tuzluluğu](/toprak-tuzlulugu) yazımıza göz atabilirsiniz.
+
+Açık gri ya da beyazımsı renkteki kumlu topraklar ise organik maddenin ve besinlerin yıkanıp gittiği fakir topraklar olabilir. Bu topraklar suyu ve besinleri tutmakta zorlanır.
+
+## Toprak rengini değerlendirmek için basit bir test
+
+1. Bahçenin farklı yerlerinden, yüzeyden ve yaklaşık 20-30 santimetre derinlikten birer avuç toprak alın.
+2. Toprağı hafifçe nemlendirin ve gün ışığında inceleyin.
+3. Renkleri karşılaştırın: yüzeyle derinlik arasında büyük fark varsa, üst katmanın organik maddece zengin olduğunu ya da yıllar içinde yıkandığını gösterebilir.
+4. Toprağı koklayın: hoş, orman toprağını andıran bir koku sağlıklı bir toprağı, ekşi ve çürük koku havasız bir toprağı gösterir.
+5. Toprağı parmaklarınız arasında ovalayarak dokusunu hissedin.
+
+Toprağın dokusunu değerlendirmek için [toprak tekstürü](/toprak-teksturu) yazımızdaki yöntemleri de kullanabilirsiniz.
+
+## Toprağı nasıl iyileştirirsiniz?
+
+Toprağınızın rengi ne olursa olsun, en etkili iyileştirme yöntemi düzenli olarak organik madde eklemektir. Olgun kompost, solucan gübresi, yanmış ahır gübresi ve yaprak kompostu, açık renkli ve fakir toprakları zamanla koyulaştırır, yapılarını iyileştirir ve canlılıklarını artırır. Ağır ve havasız topraklarda drenajı iyileştirmek, kumlu topraklarda ise su tutma kapasitesini artırmak organik maddeyle mümkündür.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Humik maddeler de toprağın besin tutma kapasitesini artırarak özellikle organik maddesi düşük topraklarda faydalı olabilir.
+
+## Mevsime göre renk değişimi
+
+Aynı toprak farklı zamanlarda farklı renklerde görünebilir. Yağmurdan sonra nemli toprak koyulaşır, yaz kuraklığında ise açılır ve grileşir. Bu yüzden toprak rengini karşılaştırırken toprağı her seferinde benzer nemde incelemek gerekir. Ayrıca toprağa düzenli olarak organik madde eklediğiniz bahçelerde, birkaç yıl içinde üst katmanın belirgin şekilde koyulaştığını görebilirsiniz; bu, emeğinizin toprağa yansıdığının en güzel göstergesidir.
+
+## Renk her şeyi söylemez
+
+Toprak rengi önemli ipuçları verse de pH, besin içeriği ve tuzluluk gibi değerleri kesin olarak öğrenmenin tek yolu toprak analizidir. Özellikle yeni bir bahçe kuruyorsanız ya da bitkilerinizde açıklayamadığınız sorunlar varsa, toprak analizi yaptırmak doğru kararlar vermenizi sağlar.
+
+@sss
+S: Koyu renkli toprak her zaman verimli midir?
+C: Çoğu zaman organik maddece zengin olduğunu gösterir, ama sürekli ıslak kalan havasız topraklar da koyu renkli olabilir. Koku ve drenaj da birlikte değerlendirilmelidir.
+
+S: Toprağım gri ve lekeli, ne yapmalıyım?
+C: Gri ve lekeli toprak, suyun uzun süre biriktiğini gösterir. Drenajı iyileştirmek, organik madde eklemek ve gerekirse yükseltilmiş yataklarda yetiştirmek gerekir.
+
+S: Kırmızı toprak verimli midir?
+C: Kırmızı topraklar genellikle iyi havalanır, ama çoğu zaman organik maddece fakirdir. Düzenli kompost ve organik gübreyle verimlilikleri belirgin şekilde artırılabilir.
+
+### YAZI
+slug: aslanagzi-yetistirme
+baslik: Aslanağzı Yetiştirme: Serin Mevsimin Renkli ve Uzun Ömürlü Çiçeği
+yayin: 2026-12-16 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: aslanağzı yetiştirme
+seo_baslik: Aslanağzı Yetiştirme: Tohum, Dikim, Bakım ve Çiçeklenme
+seo_aciklama: Aslanağzı yetiştirme rehberi: tohum ekimi, sonbahar ve ilkbahar dikimi, güneşli yer, toprak, sulama, uç alma, kesme çiçek ve kışa dayanıklılık.
+ozet: Sıkıldığında ağzını açıp kapayan bir aslanı andıran çiçekleriyle aslanağzı, çocukların ve bahçe severlerin vazgeçilmezidir. Serin havayı seven, ılık bölgelerde kışı bile geçirebilen bu çiçeğin yetiştirilmesini anlatıyoruz.
+etiketler: aslanağzı yetiştirme, antirrhinum, kesme çiçek, serin mevsim çiçekleri, çiçek tohumu
+gorsel: p11-aslanagzi
+gorsel_alt: Uzun saplar üzerinde açmış rengârenk aslanağzı çiçekleri
+urunler: hg-cicek-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini, budama-makasi
+kisaca: Aslanağzı serin havayı seven, güneşli yerde ve süzek toprakta yetişen bir çiçektir. Tohumları kış sonunda içeride ekilir; ılık bölgelerde fideler sonbaharda dikilip ilkbaharda erken çiçek alınabilir. Fideler 10 cm olunca uç alınması dallanmayı artırır. Düzenli sulama, solan çiçeklerin kesilmesi ve uzun çeşitlerde destekleme uzun süreli çiçeklenme sağlar.
+@govde
+Aslanağzı yetiştirme, bahçede ve balkonda uzun süre renk isteyenler için klasik ama hep sevilen bir seçimdir. Akdeniz kökenli aslanağzı (Antirrhinum majus), uzun saplar üzerinde aşağıdan yukarıya doğru açan, ejderha ya da aslan ağzını andıran çiçekleriyle tanınır. Çiçeğin yanlarını hafifçe sıktığınızda "ağzını" açar; bu özelliği yüzünden çocukların en sevdiği çiçeklerden biridir. Beyaz, sarı, pembe, kırmızı, turuncu ve bordo gibi neredeyse her renkte çeşidi bulunur. Aslanağzı serin havayı sevdiği için ilkbaharda ve sonbaharda en güzel halini alır; ılık bölgelerde sonbaharda dikilen fideler kışı geçirerek ilkbaharda erkenden çiçek açar. Bu yazıda aslanağzını tohumdan çiçeğe nasıl yetiştireceğinizi anlatıyoruz.
+
+## Aslanağzı çeşitleri
+
+Aslanağzı çeşitleri boylarına göre üç gruba ayrılır:
+
+**Bodur çeşitler (15-30 cm):** Balkon çiçeklikleri, saksılar ve tarh kenarları için uygundur.
+
+**Orta boylu çeşitler (30-60 cm):** Çiçek tarhlarında ve karışık bordürlerde kullanılır.
+
+**Uzun çeşitler (60-100 cm ve üzeri):** Kesme çiçek için yetiştirilir; tarhların arka kısımlarına dikilir ve genellikle destek ister.
+
+Ayrıca katmerli çiçekli ve açık ağızlı (çan şeklinde) çiçek açan çeşitler de vardır.
+
+## Aslanağzı ne zaman ekilir ve dikilir?
+
+Aslanağzı tohumları çok küçüktür ve fideler yavaş gelişir. Bu yüzden genellikle içeride, dikimden 8-10 hafta önce ekilir.
+
+**İlkbahar çiçeklenmesi için (ılık bölgeler):** Tohumlar yaz sonunda ekilir, fideler sonbaharda bahçeye dikilir. Bitkiler kış boyunca kök geliştirir ve ilkbaharda erken, güçlü bir çiçeklenme yapar.
+
+**Yaz çiçeklenmesi için (soğuk bölgeler):** Tohumlar şubat-mart aylarında içeride ekilir, fideler son don tehlikesi geçtikten sonra dikilir.
+
+Aslanağzı hafif donlara dayanabilir; bu yüzden fideleri diğer yaz çiçeklerine göre biraz daha erken dışarı çıkarabilirsiniz.
+
+## Tohum ekimi
+
+1. Viyolleri ya da küçük kapları ince ve hafif bir tohum toprağıyla doldurun ve nemlendirin.
+2. Tohumları toprağın yüzeyine serpin ve hafifçe bastırın. Aslanağzı tohumları çimlenmek için ışığa ihtiyaç duyar; toprakla örtmeyin.
+3. Kabın üzerini şeffaf bir kapakla örtün ve 18-21 °C civarında, aydınlık bir yerde tutun.
+4. Tohumlar genellikle 10-21 gün içinde çimlenir.
+5. Fideler iki üç gerçek yaprak oluşturduğunda ayrı kaplara şaşırtın.
+
+Şaşırtma işleminin ayrıntıları için [fide şaşırtma](/fide-sasirtma) yazımıza göz atabilirsiniz.
+
+## Aslanağzı yetiştirmede yer ve toprak seçimi
+
+Aslanağzı tam güneşte en bol çiçeği verir; ancak sıcak bölgelerde öğleden sonra hafif gölge çiçeklenme süresini uzatır. Toprak süzek, verimli ve organik maddece orta zenginlikte olmalıdır. Ağır ve su tutan topraklarda kök çürümesi görülebilir. Saksıda yetiştirirken kaliteli bir çiçek toprağı kullanın. Çiçek toprağının özellikleri için [çiçek toprağı](/cicek-topragi) yazımıza göz atabilirsiniz.
+
+[ürün:hg-cicek-topragi]
+
+## Dikim
+
+Fideleri, bodur çeşitlerde 20-25, uzun çeşitlerde 30 santimetre aralıkla dikin. Dikimden sonra bol su verin. Uzun çeşitlerde dikim sırasında bir destek çubuğu ya da file yerleştirmek, ileride saplar uzayıp çiçeklerle ağırlaştığında devrilmelerini önler.
+
+## Uç alma
+
+Fideler 10-15 santimetre boya ulaştığında ana sürgünün ucunu kesmek, bitkinin yanlardan dallanmasını ve daha çok çiçek sapı vermesini sağlar. Kesme çiçek için tek ve uzun bir sap isteniyorsa uç alma yapılmaz.
+
+## Sulama ve besleme
+
+Aslanağzı düzenli nem ister, ama ıslak toprağı sevmez. Toprağın üst kısmı kuruduğunda sulayın; sulamayı yapraklara değil, toprağa yapın. Islak yapraklar pas hastalığına yol açabilir. Çiçeklenme döneminde iki üç haftada bir verilen sıvı bir çiçek besini, çiçeklenmenin sürekliliğini destekler.
+
+[ürün:florist-cicekli-bitkiler-sivi-konsantre-bitki-besini]
+
+## Solan çiçekleri kesmek
+
+Bir çiçek sapındaki çiçeklerin çoğu solduğunda sapı, altındaki ilk yaprak çiftinin hemen üzerinden kesin. Bu, bitkinin tohum yapmak yerine yeni çiçek sapları oluşturmasını teşvik eder. Yaz sıcaklarında çiçeklenme yavaşladığında bitkiyi üçte bir oranında budamak ve beslemek, sonbaharda ikinci bir çiçeklenme sağlayabilir.
+
+## Kesme çiçek olarak aslanağzı
+
+Aslanağzı vazoda bir hafta kadar dayanan güzel bir kesme çiçektir. Saplar, alttaki çiçeklerin üçte biri açtığında, sabah serinliğinde kesilmelidir. Kesilen saplar hemen suya konmalıdır. Vazoda üstteki tomurcuklar da açmaya devam eder. Kesme çiçeklerin ömrünü uzatmak için [kesme çiçek ömrü](/kesme-cicek-omru) yazımıza göz atabilirsiniz.
+
+## Aslanağzı yetiştirme için balkon ve bahçe fikirleri
+
+Bodur aslanağzı çeşitleri balkon çiçekliklerinde, hercai menekşe ve sardunyayla birlikte renkli kombinasyonlar oluşturur. Orta ve uzun boylu çeşitler ise bahçede çiçek tarhlarının arka sıralarında, lavanta, ekinezya ve kozmos gibi bitkilerle birlikte doğal ve yüksek bir görünüm sağlar. Aslanağzı, kır bahçesi tarzı tasarımlarda da çok sevilir. Arılar, özellikle iri bombus arıları, aslanağzı çiçeklerinin ağzını açıp içine girebilen nadir böceklerdendir; bu yüzden aslanağzı bahçeye polinatör çekmek için de iyi bir seçimdir. Arı dostu bir bahçe için [arı dostu bitkiler](/ari-dostu-bitkiler) yazımıza göz atabilirsiniz.
+
+Aslanağzı ayrıca sonbaharda ve kış başında da çiçek açmaya devam edebilen az sayıdaki çiçekten biridir. Ilık geçen bir sonbaharda, yaz sonunda budanmış bitkiler kasım ayına kadar yeni çiçekler verebilir. Bu özelliği sayesinde bahçede mevsim geçişlerini renklendirmek için de çok değerlidir; özellikle sonbahar tarhlarında kasımpatı ve süs lahanalarıyla birlikte güzel bir görünüm sunar.
+
+## Tohum toplama
+
+Bazı çiçek saplarını solduktan sonra kesmeyip bitkinin üzerinde bırakırsanız, küçük kafatasını andıran tohum kapsülleri oluşur. Kapsüller kahverengileşip kuruduğunda saplar kesilir ve kâğıt bir torbanın içinde silkelenerek tohumlar toplanır. Melez çeşitlerin tohumlarından yetişen bitkiler ana bitkiden farklı renklerde çiçekler açabilir; bu da bahçenize sürpriz renkler katabilir. Toplanan tohumlar kuru ve serin bir yerde, kâğıt zarflarda saklanır ve bir sonraki sezonda ekilir. Tohum saklama hakkında bilgi için [ata tohumu saklama](/ata-tohumu-saklama) yazımıza göz atabilirsiniz.
+
+## Sık karşılaşılan sorunlar
+
+**Pas hastalığı:** Yaprakların altında kahverengi-turuncu toz kümecikleri. Hava dolaşımı ve yaprakları ıslatmayan sulama en iyi önlemdir.
+
+**Yaprak biti:** Genç sürgün uçlarında görülebilir.
+
+**Uzayıp devrilen saplar:** Yetersiz ışık ya da desteksiz uzun çeşitler.
+
+@sss
+S: Aslanağzı kışa dayanıklı mı?
+C: Hafif donlara dayanabilir. Ilık bölgelerde sonbaharda dikilen fideler kışı geçirerek ilkbaharda erken çiçek açar. Sert soğuklarda üzerini örtmek faydalıdır.
+
+S: Aslanağzı tohumu toprakla örtülür mü?
+C: Hayır. Tohumlar çimlenmek için ışığa ihtiyaç duyar; toprak yüzeyine serpilip hafifçe bastırılır.
+
+S: Aslanağzı her yıl yeniden açar mı?
+C: Genellikle tek yıllık olarak yetiştirilir. Ilık bölgelerde bitkiler ikinci yıla kalabilir ve kendiliğinden dökülen tohumlardan yeni bitkiler çıkabilir.
+
+### YAZI
+slug: misir-yetistirme
+baslik: Mısır Yetiştirme: Bahçede Tatlı ve Sulu Koçanlar İçin Rehber
+yayin: 2026-12-16 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: mısır yetiştirme
+seo_baslik: Mısır Yetiştirme: Ekim, Tozlaşma, Sulama ve Hasat
+seo_aciklama: Mısır yetiştirme rehberi: tatlı mısır çeşitleri, ekim zamanı ve blok ekim, toprak hazırlığı, sulama, gübreleme, tozlaşma, koçan hasat zamanı ve sık hatalar.
+ozet: Bahçeden yeni koparılıp hemen haşlanan tatlı mısırın lezzeti başkadır. Mısır sıcağı ve bol besini sever, ama asıl sırrı rüzgârla tozlaşmasındadır. Kış aylarında planlamaya başlayabileceğiniz mısır yetiştirmenin adımlarını anlatıyoruz.
+etiketler: mısır yetiştirme, tatlı mısır, yazlık sebzeler, tozlaşma, sebze bahçesi
+gorsel: p10-misir
+gorsel_alt: Yaz başında sık sıralar halinde yetişen yeşil mısır tarlası
+urunler: arzuman-tatli-misir-tohumu-25-gr, hasturk-kati-solucan-gubresi, solucan-gubreli-sebze-topragi
+kisaca: Mısır sıcak seven bir bitkidir; toprak sıcaklığı 12-15 °C'yi geçince, nisan sonu ile mayıs arasında ekilir. Rüzgârla tozlaştığı için tek uzun sıra yerine en az dört sıralı bloklar halinde ekilmelidir. Bol besin ve püskül döneminde düzenli su ister. Koçan püskülleri kahverengileşip taneler süt kıvamına gelince hasat edilir.
+@govde
+Mısır yetiştirme, yaz bahçesine hem yükseklik hem de lezzet katan, sonucunda tüm aileyi sevindiren bir uğraştır. Bahçeden koparılıp birkaç saat içinde haşlanan ya da közlenen tatlı mısır, marketten alınanlardan çok daha tatlı ve sulu olur; çünkü mısırın şekeri koparıldıktan sonra hızla nişastaya dönüşür. Amerika kıtasından dünyaya yayılan mısır, Türkiye'de de hem tarlalarda hem de ev bahçelerinde yaygın olarak yetiştirilir. Mısır sıcak seven bir bitki olduğu için ilkbahar sonunda ekilir, ancak aralık ve ocak ayları tohum seçmek ve bahçe planı yapmak için ideal bir zamandır. Bu yazıda bahçede tatlı mısır yetiştirme sürecini adım adım anlatıyoruz.
+
+## Mısır çeşitleri
+
+**Tatlı mısır (şeker mısırı):** Bahçe için en çok tercih edilen türdür. Taneler süt olumunda hasat edilir; haşlama ve közleme için idealdir. Bazı çeşitler normal tatlılıkta, bazıları ise çok tatlıdır.
+
+**Patlak mısır (cin mısırı):** Taneleri tamamen kuruduktan sonra hasat edilir ve patlatılarak tüketilir.
+
+**Renkli ve süs mısırları:** Rengârenk tanelere sahip, genellikle süs amaçlı ya da un için yetiştirilen çeşitlerdir.
+
+**Tarla mısırı:** Hayvan yemi ve un için yetiştirilen, olgunlaştıktan sonra hasat edilen çeşitlerdir.
+
+Farklı mısır türlerini yan yana ekmek tozlaşma sırasında birbirlerini etkileyebilir; özellikle tatlı mısırı patlak ya da tarla mısırından uzak tutmak, tatlılığın korunması açısından önemlidir.
+
+## Mısır ne zaman ekilir?
+
+Mısır dona dayanıksızdır ve soğuk toprakta çimlenmez. Tohumlar toprak sıcaklığı en az 12-15 °C olduğunda ekilmelidir; tatlı mısır çeşitleri için biraz daha sıcak toprak (16 °C ve üzeri) daha iyidir. Bu genellikle sahil bölgelerinde nisan ortası-sonu, iç bölgelerde mayıs ayına denk gelir. Toprak sıcaklığının ekime etkisi için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazımıza göz atabilirsiniz.
+
+Mısır yetiştirme sezonunda hasat dönemini uzatmak için iki üç haftalık aralıklarla birkaç kez ekim yapabilirsiniz. Böylece yaz boyunca taze mısır elde edersiniz.
+
+## Mısır yetiştirmede toprak hazırlığı
+
+Mısır bol besin isteyen, toprağı yoran bir bitkidir. Derin, verimli, organik maddece zengin ve süzek topraklarda en iyi gelişir. Ekimden birkaç hafta önce toprağı derince işleyip bol miktarda olgun kompost ya da yanmış ahır gübresi karıştırın. Toprak pH'ı hafif asidik ile nötr arasında olmalıdır. Daha önce fasulye ya da bezelye gibi baklagillerin yetiştirildiği parseller, toprağa bıraktıkları azot sayesinde mısır için çok uygundur.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Blok ekim: Tozlaşmanın sırrı
+
+Mısır, çoğu sebzeden farklı olarak rüzgârla tozlaşır. Bitkinin tepesindeki püskül (erkek çiçek) polen üretir; bu polenler rüzgârla aşağıdaki koçanlardan çıkan ince ipeksi püsküllere (dişi çiçekler) düşer. Her ipek teli bir taneye bağlıdır; döllenmeyen teller boş kalan tanelere yol açar.
+
+Bu yüzden mısırı uzun, tek bir sıra halinde ekmek yerine, en az dört sıradan oluşan kare ya da dikdörtgen bloklar halinde ekmek gerekir. Böylece polenler rüzgârla her yöne dağılır ve koçanlar dolgun, tam taneli olur. Küçük bahçelerde bile dört sıralı küçük bir blok, tek uzun sıradan çok daha iyi sonuç verir.
+
+## Ekim
+
+Tohumlar 3-5 santimetre derinliğe, sıra üzerinde 20-30 santimetre, sıralar arasında 60-75 santimetre aralıkla ekilir. Her ocağa iki üç tohum atıp çimlendikten sonra en güçlü fideyi bırakmak da bir yöntemdir. Ekimden sonra toprağı iyice sulayın. Uygun sıcaklıkta tohumlar bir hafta içinde çimlenir. Kuşlar ve fareler ekilen tohumları sevdiği için ilk günlerde alanı kontrol etmek iyi olur. Ekim aralıkları hakkında [sebze ekim aralıkları](/sebze-ekim-araliklari) yazımıza göz atabilirsiniz.
+
+[ürün:arzuman-tatli-misir-tohumu-25-gr]
+
+## Sulama
+
+Mısır, özellikle püskül çıkarma ve koçanların ipek püskülü verme döneminde düzenli suya ihtiyaç duyar. Bu kritik dönemde susuz kalan bitkilerde tozlaşma bozulur ve koçanlar seyrek taneli olur. Toprağı haftada bir iki kez derinlemesine sulayın. Mısırın kökleri yüzeye yakın da yayıldığı için toprağın üst kısmının kurumaması önemlidir; bitkilerin dibine malç sermek nemi korur. Damla sulama mısır için ideal bir yöntemdir.
+
+## Gübreleme ve boğaz doldurma
+
+Mısır azotu çok sever. Ekim öncesi toprağa karıştırılan organik gübreye ek olarak, bitkiler diz boyuna ulaştığında ve püskül çıkarmadan hemen önce sıra boyunca bir miktar organik gübre serpip çapayla toprağa karıştırmak verimi artırır. Bu sırada bitkilerin dibine toprak çekmek (boğaz doldurma) bitkilerin rüzgârda devrilmesini önler ve gövdenin alt kısmından çıkan destek köklerinin toprağa tutunmasını kolaylaştırır.
+
+Yaprakların alttan başlayarak açık yeşil-sarı renge dönmesi azot eksikliğine işaret edebilir. Bu konuda [azot eksikliği](/azot-eksikligi) yazımıza göz atabilirsiniz.
+
+## Yabani ot kontrolü
+
+Genç mısır bitkileri yabani otlarla rekabette zayıftır. İlk haftalarda sıra aralarını yüzeysel olarak çapalayın. Mısırın kökleri yüzeye yakın olduğu için derin çapadan kaçının. Bitkiler büyüdükten sonra gölgeleri yabani otları kendiliğinden bastırır.
+
+## Üç kız kardeş: Mısır, fasulye ve kabak
+
+Amerika'nın yerli halklarının yüzyıllardır uyguladığı "üç kız kardeş" yöntemi, mısırı fasulye ve kabakla birlikte yetiştirmektir. Mısır, sırık fasulyesine doğal bir destek olur; fasulye toprağa azot kazandırır; kabağın geniş yaprakları toprağı gölgeleyip nemi korur ve yabani otları bastırır. Bu yöntem küçük bahçelerde alanı verimli kullanmanın keyifli bir yoludur. Bitkilerin birbirine faydası hakkında [arkadaş bitkiler](/arkadas-bitkiler) yazımıza göz atabilirsiniz.
+
+## Hasat zamanı
+
+Tatlı mısırda doğru hasat zamanını yakalamak çok önemlidir. Koçanlar genellikle ipek püsküllerinin görünmesinden 18-24 gün sonra hasada gelir. Olgunluk işaretleri şunlardır:
+
+- Koçan püskülleri kahverengileşip kurumaya başlar.
+- Koçan dolgun ve sert hisseder, ucu yuvarlaklaşır.
+- Kabuğu hafifçe aralayıp bir taneyi tırnağınızla bastırdığınızda süt gibi beyaz bir sıvı çıkar.
+
+Sıvı berraksa koçan henüz olmamıştır; macun kıvamındaysa geç kalınmıştır. Koçanları sabah serinliğinde koparın ve mümkün olan en kısa sürede tüketin ya da buzdolabına koyun. Fazla ürünü haşlayıp taneleri ayırarak dondurabilirsiniz.
+
+## Sık karşılaşılan sorunlar
+
+**Seyrek taneli koçanlar:** Yetersiz tozlaşma; tek sıra ekim ya da püskül döneminde susuzluk.
+
+**Devrilen bitkiler:** Rüzgâr, zayıf kök ve boğaz doldurma yapılmaması.
+
+**Mısır kurdu:** Koçanların ucunda tırtıl zararı görülebilir; yoğun durumlarda müşteri hizmetlerimize danışın.
+
+**Kuş ve hayvan zararı:** Olgunlaşan koçanları kuşlar ve diğer hayvanlar sever; gerekirse koçanları file ya da kâğıt torbayla koruyun.
+
+@sss
+S: Mısır ne zaman ekilir?
+C: Toprak sıcaklığı 12-15 °C'yi geçtiğinde, genellikle nisan sonu ile mayıs arasında ekilir. Tatlı mısır çeşitleri biraz daha sıcak toprağı sever.
+
+S: Mısır neden seyrek taneli olur?
+C: En sık neden yetersiz tozlaşmadır. Mısırı tek uzun sıra yerine bloklar halinde ekmek ve püskül döneminde düzenli sulamak tozlaşmayı iyileştirir.
+
+S: Mısır saksıda yetişir mi?
+C: Bodur çeşitler büyük saksılarda yetiştirilebilir, ancak tozlaşma için birkaç saksıyı yan yana koymak ve bol sulamak gerekir. Verim bahçeye göre düşük olur.
+
+### YAZI
+slug: gloksinya-bakimi
+baslik: Gloksinya Bakımı: Kadife Çan Çiçekleriyle Göz Alıcı Bir Salon Bitkisi
+yayin: 2026-12-16 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: gloksinya bakımı
+seo_baslik: Gloksinya (Sinningia) Bakımı: Işık, Sulama, Kış Uykusu
+seo_aciklama: Gloksinya bakımı nasıl yapılır? Sinningia için dolaylı ışık, alttan sulama, nem, toprak, besleme, çiçeklenme sonrası yumru dinlendirme ve yeniden çiçek.
+ozet: İri, kadifemsi, çan şeklindeki çiçekleri ve tüylü yapraklarıyla gloksinya, salonların en gösterişli çiçekli bitkilerinden biridir. Doğru bakımla yumrusunu dinlendirip her yıl yeniden çiçek açtırabilirsiniz. Gloksinya bakımını anlatıyoruz.
+etiketler: gloksinya bakımı, sinningia, çiçekli salon bitkileri, yumrulu bitkiler, kış uykusu
+gorsel: p11-gloksinya
+gorsel_alt: İri, kadifemsi, mor ve beyaz çan şeklinde açmış gloksinya çiçekleri
+urunler: hg-menekse-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini, tarim-perliti
+kisaca: Gloksinya (Sinningia speciosa) parlak dolaylı ışık, 18-24 °C sıcaklık ve orta-yüksek nem ister. Toprak hafif nemli tutulmalı, sulama tercihen alttan yapılmalı, yapraklara su değdirilmemelidir. Çiçeklenmeden sonra bitki yumru halinde dinlenmeye geçer; serin ve kuru tutulan yumru ilkbaharda yeniden sürgün verir.
+@govde
+Gloksinya bakımı, Afrika menekşesiyle aynı aileden gelen bu gösterişli bitkiyi seven herkesin öğrenmesi gereken birkaç özel noktaya dayanır. Brezilya'nın nemli ormanlarından gelen gloksinya (Sinningia speciosa), kadife dokulu, iri, çan şeklindeki çiçekleri ve tüylü, koyu yeşil yapraklarıyla salonların en dikkat çekici çiçekli bitkilerinden biridir. Çiçekleri mor, kırmızı, pembe, beyaz ve iki renkli olabilir; bazı çeşitlerin kenarları fırfırlıdır. Gloksinyayı diğer salon bitkilerinden ayıran en önemli özellik, toprağın altında bir yumru oluşturması ve çiçeklenmeden sonra dinlenmeye geçmesidir. Birçok kişi bu dönemde bitkinin öldüğünü düşünüp atar; oysa doğru bakımla gloksinya yıllarca yeniden çiçek açabilir. Bu yazıda gloksinya bakımı ve yumrunun dinlenme dönemi hakkında bilmeniz gerekenleri anlatıyoruz.
+
+## Işık
+
+Gloksinya parlak ama dolaylı ışığı sever. Doğu ya da batıya bakan bir pencere önü idealdir. Doğrudan güneş, özellikle öğle saatlerinde, yapraklarda kahverengi yanık lekelere yol açar. Işık yetersiz kaldığında ise yaprak sapları uzar, yapraklar soluklaşır, çiçekler az ve küçük olur. Yaprakların düz ve yere paralel durması doğru ışığın işaretidir; yapraklar yukarı doğru uzanıyorsa ışık yetersizdir. Işık konusunda genel bilgi için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazımıza göz atabilirsiniz.
+
+## Gloksinya bakımında sulama
+
+Gloksinya, büyüme ve çiçeklenme döneminde toprağın hafif nemli kalmasını ister. Toprağın yüzeyi kurumaya başladığında sulayın; toprağı ne tamamen kurutun ne de ıslak bırakın. Tüylü yaprakları ıslandığında lekelenir ve yaprakların ortasında biriken su yumrunun çürümesine yol açabilir. Bu yüzden en güvenli yöntem alttan sulamadır: saksıyı oda sıcaklığındaki su dolu bir kaba yirmi otuz dakika bırakın, ardından fazla suyun süzülmesini bekleyin. Soğuk su yapraklarda açık renkli lekeler bırakır; her zaman oda sıcaklığındaki suyu kullanın.
+
+## Nem ve sıcaklık
+
+Gloksinya 18-24 °C arasındaki sıcaklıklarda rahat eder. 15 °C'nin altındaki sıcaklıklar ve soğuk cereyan bitkiyi strese sokar. Orta ve yüksek nemi sever; kuru havada tomurcuklar açılmadan kuruyabilir. Saksıyı çakıllı ve sulu bir tepsinin üzerine koymak ya da diğer bitkilerle gruplamak nemi artırır. Yapraklara doğrudan su püskürtmekten ise kaçının. Kış aylarında nemi artırmanın yolları için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza göz atabilirsiniz.
+
+## Toprak ve saksı
+
+Gloksinya hafif, havadar, nemi tutan ama süzek bir toprak ister. Afrika menekşesi için hazırlanan topraklar gloksinya için de çok uygundur. Toprağa bir miktar perlit eklemek drenajı iyileştirir. Saksı yumrunun çapından birkaç santimetre geniş olmalıdır; çok büyük saksılarda toprak uzun süre ıslak kalır. Menekşe toprağının özellikleri için [menekşe toprağı](/menekse-topragi) yazımıza göz atabilirsiniz.
+
+[ürün:hg-menekse-topragi]
+
+[ürün:tarim-perliti]
+
+## Besleme
+
+Gloksinya, iri ve bol çiçekler için düzenli besine ihtiyaç duyar. Büyüme ve çiçeklenme döneminde iki haftada bir, sulama suyuna karıştırılan seyreltilmiş bir çiçekli bitki besini verin. Tomurcuklar oluşmaya başladığında fosfor ve potasyumca zengin bir besin çiçeklenmeyi destekler. Çiçeklenme bittiğinde ve yapraklar sararmaya başladığında beslemeyi kesin.
+
+## Çiçeklenme dönemi
+
+Gloksinya genellikle ilkbahar sonu ve yaz aylarında çiçek açar; çiçeklenme birkaç ay sürebilir. Solan çiçekleri sapının dibinden temizlemek bitkinin yeni tomurcuklar açmasını teşvik eder ve mantar hastalıklarını önler. Bazen ilk çiçeklenmeden sonra yaprakların bir kısmını kesip bitkiyi beslemeye devam etmek, aynı sezonda ikinci bir çiçeklenme sağlayabilir.
+
+## Dinlenme dönemi: Gloksinya ölmedi
+
+Çiçeklenme sona erdikten bir süre sonra, genellikle sonbaharda, gloksinyanın yaprakları sararmaya ve solmaya başlar. Bu, bitkinin dinlenme dönemine girdiğinin işaretidir. Bu dönemde:
+
+1. Sulamayı yavaş yavaş azaltın ve yapraklar tamamen kuruduğunda tamamen kesin.
+2. Kurumuş yaprakları ve sapları yumrunun hemen üzerinden kesin.
+3. Yumruyu saksısında bırakabilir ya da topraktan çıkarıp temizleyerek hafif nemli turba ya da kum içinde saklayabilirsiniz.
+4. Yumruyu 10-15 °C civarında, serin, karanlık ve kuru bir yerde iki üç ay dinlendirin.
+5. Bu süre boyunca yumrunun tamamen kurumaması için ayda bir çok az su verin ya da saklama malzemesini hafifçe nemlendirin.
+
+## Yeniden uyandırma
+
+Kış sonu ya da ilkbahar başında yumrunun üst kısmında küçük pembe sürgünler belirmeye başlar. Bu, uyandırma zamanının geldiğini gösterir. Yumruyu taze ve hafif bir toprağa, içbükey tarafı yukarı bakacak şekilde, üst kısmı toprak yüzeyiyle aynı seviyede ya da çok az altında kalacak şekilde dikin. Bitkiyi aydınlık ve sıcak bir yere alın, toprağı hafif nemli tutun. Sürgünler büyüdükçe sulamayı artırın ve beslemeye başlayın. Birkaç ay içinde bitki yeniden çiçek açar.
+
+## Gloksinya bakımında mevsimsel takvim
+
+**Kış sonu - ilkbahar başı:** Yumru uyanır, taze toprağa dikilir, sıcak ve aydınlık bir yere alınır. Sulama yavaş yavaş artırılır.
+
+**İlkbahar:** Yapraklar büyür, tomurcuklar oluşur. İki haftada bir besleme başlar.
+
+**Yaz:** Çiçeklenme dönemi. Düzenli alttan sulama, solan çiçeklerin temizlenmesi ve doğrudan güneşten korunma.
+
+**Sonbahar:** Çiçeklenme biter, yapraklar sararır. Sulama ve besleme azaltılıp kesilir.
+
+**Kış:** Yumru serin, karanlık ve kuru bir yerde dinlenir.
+
+## Gloksinyayı yapraktan çoğaltmak
+
+Gloksinya, tıpkı akrabası Afrika menekşesi gibi yapraktan çoğaltılabilir. İlkbahar ya da yaz başında sağlıklı, olgun bir yaprağı sapıyla birlikte kesin ve sapı nemli, hafif bir toprağa ya da suya yerleştirin. Birkaç hafta içinde sapın ucunda kökler ve küçük bir yumru oluşur, ardından yeni yapraklar çıkar. Yapraktan çoğaltılan bitkiler genellikle bir sonraki yıl çiçek açar. Bu yöntemin ayrıntıları için [menekşe çoğaltma](/menekse-cogaltma) yazımızdaki adımları uygulayabilirsiniz.
+
+Hediye olarak çiçekli halde alınan gloksinyalar genellikle sera koşullarından gelir; eve geldiklerinde birkaç tomurcuğu dökmeleri normaldir. Bitkiyi aydınlık bir yere koyup sulamayı düzenli tutmak uyum sürecini kolaylaştırır.
+
+## Sık karşılaşılan sorunlar
+
+**Tomurcukların açılmadan kuruması:** Kuru hava, düşük sıcaklık ya da düzensiz sulama.
+
+**Yapraklarda açık renkli lekeler:** Soğuk su ya da yapraklara su değmesi.
+
+**Yumrunun yumuşaması:** Aşırı sulamaya bağlı çürüme.
+
+**Uzun saplı, soluk yapraklar:** Yetersiz ışık.
+
+@sss
+S: Gloksinya çiçekten sonra ölür mü?
+C: Hayır. Çiçeklenmeden sonra yaprakları kuruyup dinlenmeye geçer. Yumru serin ve kuru bir yerde birkaç ay dinlendirildikten sonra ilkbaharda yeniden sürgün verir.
+
+S: Gloksinya nasıl sulanır?
+C: En güvenli yöntem alttan sulamadır. Saksıyı oda sıcaklığındaki suya yirmi otuz dakika bırakıp fazla suyu süzdürmek, yaprakların ve yumrunun ıslanmasını önler.
+
+S: Gloksinya ile Afrika menekşesi akraba mı?
+C: Evet, ikisi de aynı aileden gelir ve benzer ışık, nem ve toprak isterler. Gloksinyanın farkı, yumru oluşturması ve dinlenme dönemine girmesidir.
+
+### YAZI
+slug: klivya-bakimi
+baslik: Klivya Bakımı: Kış Dinlenmesiyle Her Yıl Turuncu Çiçek Açan Bitki
+yayin: 2026-12-16 13:45
+yazar: Muhammed Hamza Çelik
+kategori: bitki-bakimi
+odak: klivya bakımı
+seo_baslik: Klivya (Clivia) Bakımı: Işık, Sulama ve Çiçek Açtırma
+seo_aciklama: Klivya bakımı nasıl yapılır? Clivia için ışık, sulama, toprak, saksı seçimi, kış dinlenmesi, çiçek açtırma, saksı değişimi ve yavrularla çoğaltma.
+ozet: Koyu yeşil, kayış gibi yaprakları ve kış sonunda açan parlak turuncu çiçek kümeleriyle klivya, uzun ömürlü ve dayanıklı bir salon bitkisidir. Klivyanın çiçek açması için gereken kış dinlenmesini ve bakımının püf noktalarını anlatıyoruz.
+etiketler: klivya bakımı, clivia, çiçekli salon bitkileri, kış dinlenmesi, salon bitkisi bakımı
+gorsel: p11-klivya
+gorsel_alt: Koyu yeşil yapraklar arasında turuncu çiçek kümesi açmış klivya
+urunler: genel-saksi-topragi-ozel-karisim, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini, tarim-perliti
+kisaca: Klivya (Clivia miniata) parlak dolaylı ışık, süzek toprak ve köklerini sıkışık tutan bir saksı ister. Çiçek açması için sonbahar sonundan kış ortasına kadar 8-12 hafta serin (10-15 °C) ve az sulanan bir dinlenme dönemi gerekir. Çiçek sapı 15 cm olunca sıcak yere alınıp sulama artırılır. Saksı değişimi seyrek, çiçeklenmeden sonra yapılır.
+@govde
+Klivya bakımı, yıllarca yaşayan ve her kış sonunda çiçeklenen bir salon bitkisi isteyenler için oldukça ödüllendiricidir. Güney Afrika'nın gölgeli ormanlarından gelen klivya (Clivia miniata), koyu yeşil, parlak, kayış gibi uzun yapraklarıyla çiçek açmadığı zamanlarda bile şık bir görünüm sunar. Kış sonu ve ilkbahar başında ise kalın bir sap üzerinde, onlarca küçük borudan oluşan parlak turuncu, bazen sarı ya da kırmızı çiçek kümeleri açar. Klivya son derece dayanıklıdır ve doğru bakıldığında onlarca yıl yaşayabilir; bazı aileler bu bitkiyi kuşaktan kuşağa aktarır. Ancak klivyanın çiçek açabilmesi için bilinmesi gereken önemli bir sır vardır: kışın serin bir dinlenme dönemi. Aralık ayı, bu dinlenmeyi sağlamak için tam zamanıdır. Bu yazıda klivya bakımı ve çiçek açtırma yöntemini adım adım anlatıyoruz.
+
+## Işık
+
+Klivya parlak ama dolaylı ışığı sever. Doğu ya da kuzeye bakan bir pencere önü, ya da güney ve batı pencerelerinin biraz gerisi idealdir. Doğrudan güneş, özellikle yaz öğle güneşi, yapraklarda sarı ve kahverengi yanık lekelere yol açar. Klivya az ışığa da dayanır, ancak bu durumda çiçek açmayabilir. Yaz aylarında gölgeli bir balkonda ya da bahçede, doğrudan güneş almayan bir köşede durabilir.
+
+## Klivya bakımında sulama
+
+Klivyanın kalın, etli kökleri su depolar; bu yüzden bitki aşırı sulamaya karşı hassastır. Büyüme döneminde, yani ilkbahar ve yaz aylarında, toprağın üst yarısı kuruduğunda bitkiyi iyice sulayın ve fazla suyun saksının dibinden akmasını sağlayın. Saksı tabağında su bırakmayın. Sonbaharda sulamayı azaltın ve kış dinlenmesi sırasında yalnızca yaprakların buruşmasını önleyecek kadar az su verin.
+
+## Toprak ve saksı
+
+Klivya süzek, havadar ve organik maddece zengin bir toprak ister. Kaliteli bir saksı toprağına perlit ya da ince ağaç kabuğu eklemek kalın köklerin nefes almasını sağlar. Ağır ve sıkışan topraklar kök çürümesine yol açar.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+Klivyanın ilginç bir özelliği, köklerinin saksıyı sıkışık doldurduğu durumlarda daha iyi çiçek açmasıdır. Bu yüzden saksı değişimini sık yapmayın; genellikle üç dört yılda bir, kökler saksıyı tamamen doldurduğunda ve saksıyı itmeye başladığında, yalnızca bir boy büyük saksıya geçin. Saksı değişimi için en iyi zaman çiçeklenmeden hemen sonrasıdır. Klivya zamanla ağırlaşan bir bitki olduğu için sağlam ve ağır saksılar tercih edilmelidir.
+
+[ürün:tarim-perliti]
+
+## Kış dinlenmesi: Çiçeğin anahtarı
+
+Klivyanın çiçek açmamasının en yaygın nedeni, kışın sıcak bir salonda sürekli sulanarak tutulmasıdır. Bitkinin çiçek tomurcuğu oluşturabilmesi için kışın 8-12 hafta süren serin ve kuru bir dinlenme dönemi geçirmesi gerekir.
+
+1. **Ne zaman:** Sonbahar sonundan, yani kasım-aralıktan ocak-şubata kadar.
+2. **Sıcaklık:** 10-15 °C civarı idealdir. Isıtılmayan ama donmayan bir oda, kapalı bir balkon ya da serin bir merdiven boşluğu uygundur.
+3. **Işık:** Dolaylı ışık almaya devam etmelidir; karanlıkta tutulmamalıdır.
+4. **Sulama:** Çok azaltılır; ayda bir iki kez, yalnızca toprağı hafifçe nemlendirecek kadar su verilir.
+5. **Besleme:** Tamamen kesilir.
+
+## Çiçek sapı göründüğünde
+
+Dinlenme döneminin sonunda yaprakların arasından kalın bir çiçek sapı yükselmeye başlar. Çiçek sapı yaklaşık 15 santimetre uzunluğa ulaştığında bitkiyi daha sıcak (18-22 °C) ve aydınlık bir yere alın, sulamayı yavaş yavaş artırın ve beslemeye başlayın. Bitkiyi sap çok kısayken sıcak yere almak, çiçeklerin yaprakların arasında sıkışıp kalmasına yol açabilir. Çiçeklenme döneminde saksıyı döndürmemeye dikkat edin; sap ışığa doğru büyür.
+
+## Besleme
+
+İlkbahardan yaz sonuna kadar, iki üç haftada bir sulama suyuna karıştırılan seyreltilmiş bir sıvı besin klivyanın güçlenmesini ve gelecek yılın çiçeklerini hazırlamasını sağlar. Sonbaharda beslemeyi azaltın, kışın tamamen kesin.
+
+## Çiçeklenme sonrası
+
+Çiçekler solduktan sonra, tohum oluşmasını istemiyorsanız çiçek sapını dibinden kesin. Tohum oluşumu bitkiyi yorar ve gelecek yılın çiçeklenmesini azaltabilir. Kırmızı meyvelerin oluşmasını isterseniz ise sapı bırakabilirsiniz; meyveler yaklaşık bir yılda olgunlaşır ve tohumlarından yeni bitkiler yetiştirilebilir, ancak tohumdan yetişen klivyalar çiçek açmak için birkaç yıl bekletir.
+
+## Yavrularla çoğaltma
+
+Klivya, ana bitkinin yanından yavrular verir. Yavrular en az dört beş yaprak oluşturduğunda, çiçeklenmeden sonra saksı değişimi sırasında kökleriyle birlikte nazikçe ayrılıp ayrı saksılara dikilebilir. Yavrudan yetişen bitkiler genellikle iki üç yıl içinde çiçek açar. Salon bitkilerini çoğaltmanın diğer yolları için [salon bitkisi çoğaltma](/salon-bitkisi-cogaltma) yazımıza göz atabilirsiniz.
+
+## Sık karşılaşılan sorunlar
+
+**Çiçek açmama:** Kış dinlenmesinin yapılmaması, yetersiz ışık ya da çok büyük saksı.
+
+**Yaprakların arasında sıkışan çiçekler:** Bitkinin sap kısayken sıcak yere alınması ya da yetersiz su.
+
+**Sararan yapraklar:** Aşırı sulama ya da doğrudan güneş.
+
+**Beyaz pamuksu kümeler:** Unlu bit olabilir; yaprak diplerini kontrol edin.
+
+## Klivya bakımı için yıllık takvim
+
+**İlkbahar (mart-mayıs):** Çiçeklenme ve hemen ardından saksı değişimi ya da yavru ayırma zamanı. Beslemeye başlayın, sulamayı düzenli hale getirin.
+
+**Yaz (haziran-ağustos):** Büyüme dönemi. Gölgeli bir balkon ya da bahçe köşesinde tutulabilir. İki üç haftada bir besleyin, toprağın üst yarısı kuruduğunda sulayın.
+
+**Sonbahar (eylül-kasım):** Beslemeyi azaltın, sulamayı seyrekleştirin. Balkondaki bitkiyi gece sıcaklıkları 8-10 °C'ye inmeden içeri alın.
+
+**Kış (aralık-şubat):** Serin dinlenme dönemi. 10-15 °C, az su, besleme yok. Çiçek sapı 15 santimetreye ulaşınca sıcak yere alın.
+
+Bu takvime uyulduğunda klivya her yıl düzenli olarak çiçek açar ve zamanla yavrularıyla birlikte gösterişli, büyük bir küme oluşturur. Kışın serin bir köşede tutulabilecek diğer bitkiler için [kışın pencere önündeki bitkiler](/kisin-pencere-onundeki-bitkiler) yazımıza da göz atabilirsiniz.
+
+## Güvenlik
+
+Klivyanın tüm kısımları, özellikle kökleri ve yumru benzeri gövdesi, yenildiğinde zehirlidir. Bitkiyi çocukların ve evcil hayvanların ulaşamayacağı bir yerde tutun. Bu konuda [zehirli ev bitkileri](/zehirli-ev-bitkileri) yazımıza göz atabilirsiniz.
+
+@sss
+S: Klivya neden çiçek açmıyor?
+C: En sık neden kış dinlenmesinin yapılmamasıdır. Bitki kışın 8-12 hafta 10-15 °C civarında, az sulanarak tutulmalıdır. Yetersiz ışık ve çok büyük saksı da çiçeklenmeyi engeller.
+
+S: Klivya ne zaman çiçek açar?
+C: Genellikle kış sonu ve ilkbahar başında, şubat ile nisan arasında çiçek açar.
+
+S: Klivya saksısı ne zaman değiştirilir?
+C: Klivya sıkışık köklerle daha iyi çiçek açtığı için saksı değişimi üç dört yılda bir, çiçeklenmeden hemen sonra yapılmalıdır.
+
+### YAZI
+slug: ruzgar-kiran-bitkiler
+baslik: Rüzgâr Kıran Bitkiler: Bahçeyi Sert Rüzgâra Karşı Yeşil Bir Kalkanla Korumak
+yayin: 2026-12-16 15:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: rüzgâr kıran
+seo_baslik: Rüzgâr Kıran Bitkiler: Hangi Ağaçlar, Nasıl Dikilir?
+seo_aciklama: Rüzgâr kıran nedir, bahçeye faydası ne? Rüzgâr kıran için uygun ağaç ve çalılar, sıra düzeni, yükseklik ve mesafe hesabı, dikim zamanı ve bakım ipuçları.
+ozet: Sert rüzgârlar bitkileri kurutur, dalları kırar, meyve ve çiçekleri döker, toprağı savurur. Doğru seçilmiş ağaç ve çalılardan oluşan bir rüzgâr kıran, bahçenizi korurken kuşlara da yuva olur. Rüzgâr kıran bitkileri ve dikim düzenini anlatıyoruz.
+etiketler: rüzgâr kıran, çit bitkileri, rüzgâr koruması, bahçe tasarımı, ağaç dikimi
+gorsel: p11-ruzgar-kiran
+gorsel_alt: Tarla kenarında sıra halinde dikilmiş genç ağaçlardan oluşan rüzgâr kıran
+urunler: organik-toprak, hasturk-kati-solucan-gubresi, budama-makasi
+kisaca: Rüzgâr kıran, hâkim rüzgârın geldiği yöne dikilen ağaç ve çalı sıralarıdır. Rüzgârı tamamen kesmek yerine yaklaşık yarısını geçiren yarı geçirgen bir perde en iyi sonucu verir. Korunan alan, perdenin yüksekliğinin yaklaşık on katı uzaklığa kadar uzanır. Her dem yeşil ve yaprağını döken türlerin karışımı, iki üç sıralı dikim ve kış dikimi önerilir.
+@govde
+Rüzgâr kıran, rüzgârlı bölgelerde bahçe ya da tarla sahibi olanların en değerli yatırımlarından biridir. Özellikle kıyı bölgelerinde, açık ovalarda, yaylalarda ve tepelerdeki bahçelerde sert ve sürekli esen rüzgâr, bitkiler üzerinde sanıldığından çok daha büyük bir etki yaratır. Rüzgâr yaprakları ve toprağı kurutur, genç fidanları eğer, dalları kırar, çiçekleri ve meyveleri döker, arıların uçuşunu zorlaştırır ve toprağın verimli üst katmanını savurur. Doğru planlanmış bir rüzgâr kıran ise bahçenin mikroklimasını değiştirerek bitkilerin daha sağlıklı büyümesini, daha az su tüketmesini ve daha fazla ürün vermesini sağlar. Kış dinlenme dönemi, rüzgâr kıran ağaçlarını dikmek için en uygun zamandır. Bu yazıda rüzgâr kıranın nasıl çalıştığını, hangi bitkilerin kullanılabileceğini ve nasıl dikileceğini anlatıyoruz.
+
+## Rüzgâr kıran nasıl çalışır?
+
+Rüzgâr kıran, rüzgârın hızını azaltarak arkasında korunaklı bir alan oluşturur. İlginç olan, en iyi bitki perdesinin rüzgârı tamamen kesen değil, bir kısmını geçiren yapı olmasıdır. Duvar ya da çok sık bir çit gibi tamamen kapalı engeller, rüzgârın üstten aşıp arka tarafta girdaplar oluşturmasına yol açar; bu girdaplar bitkilere duvarsız bir alandan bile fazla zarar verebilir. Yaklaşık yüzde 40-60 geçirgenliğe sahip bir bitki perdesi ise rüzgârı yavaşlatarak süzer ve arkasında çok daha geniş ve sakin bir alan oluşturur.
+
+## Korunan alan ne kadar büyüktür?
+
+Bir koruma şeridinin etkisi, yüksekliğiyle doğrudan ilişkilidir. Genel bir kural olarak, perdenin arkasında, yüksekliğinin yaklaşık on katı uzaklığa kadar rüzgâr hızı belirgin şekilde azalır; en güçlü koruma ise ilk beş altı katlık mesafededir. Örneğin 4 metre yüksekliğindeki bir ağaç sırası, arkasındaki yaklaşık 20-40 metrelik alanı korur. Küçük bahçelerde 1,5-2 metrelik bir çit bile sebze yataklarını korumak için yeterli olabilir.
+
+## Rüzgâr kıran için bitki seçimi
+
+Bu amaçla kullanılacak iyi bir bitki; bölgenin iklimine ve toprağına uygun, rüzgâra dayanıklı, kökleri sağlam, dalları kolay kırılmayan ve tercihen hızlı büyüyen bir tür olmalıdır.
+
+**Her dem yeşil ağaçlar ve çalılar:** Kışın da koruma sağlarlar. Servi, mazı, karaçam, kızılçam (sıcak bölgelerde), defne, kocayemiş, ardıç, taflan ve ligustrum sık kullanılan türlerdir. Leylandi hızlı büyür ama çok geniş ve yoğun olabilir; düzenli bakım ister. Bu türlerin bakımı için [leylandi bakımı](/leylandi-bakimi) ve [mazı bakımı](/mazi-bakimi) yazılarımıza göz atabilirsiniz.
+
+**Yaprağını döken ağaçlar:** Yazın etkili koruma sağlar, kışın daha geçirgen olurlar. Kavak, akçaağaç, dişbudak, ıhlamur ve kızılağaç gibi türler, özellikle tarım arazilerinde yaygındır.
+
+**Meyve veren ve kuş dostu çalılar:** Alıç, kuşburnu, iğde ve ahududu gibi çalılar alt katmanı doldurur, kuşlara besin ve yuva sağlar. Kurak ve tuzlu bölgelerde iğde ve ılgın gibi dayanıklı türler iyi bir seçimdir.
+
+Farklı türleri bir arada kullanmak, hastalık ve zararlıların tüm koruma şeridini yok etmesini önler ve doğal çeşitliliği artırır. Çit olarak kullanılabilecek diğer bitkiler için [çit bitkileri](/cit-bitkileri) yazımıza göz atabilirsiniz.
+
+## Sıra düzeni
+
+**Tek sıralı perde:** Küçük bahçeler için uygundur. Sık dallı ve alttan dolgun bir çit ya da çalı sırası kullanılır.
+
+**İki üç sıralı bitki perdesi:** Daha büyük alanlar ve tarlalar için idealdir. Rüzgâr tarafına en dışa alçak ve sık çalılar, ortaya orta boylu ağaçlar ya da her dem yeşil türler, iç tarafa uzun ağaçlar dikilir. Bu yapı rüzgârı aşamalı olarak yükseltir ve yavaşlatır. Sıralar arasında 2-4 metre, sıra üzerindeki bitkiler arasında türe göre 1-3 metre mesafe bırakılır. Bitkileri zikzak düzende dikmek, aralarda boşluk kalmasını önler.
+
+## Yer seçimi
+
+Koruma şeridini, bölgenizde en sık ve en sert esen rüzgârın geldiği yöne, bu rüzgâra dik olacak şekilde dikin. Türkiye'nin birçok yerinde kuzey ve kuzeydoğu rüzgârları kışın soğuk ve kurutucu etkiler yaratırken, bazı kıyı bölgelerinde güney ve güneybatı rüzgârları da sert olabilir. Korumak istediğiniz alanın tamamını kapsaması için perdenin uzunluğu, korunacak alandan biraz fazla olmalıdır; aksi halde rüzgâr kenarlardan dolanır. Bitki perdesini evin, su borularının ve yolların çok yakınına dikmekten kaçının; büyüyen kökler ve dallar sorun yaratabilir.
+
+## Dikim zamanı ve yöntemi
+
+Koruma şeridi ağaçları ve çalıları için en uygun dikim zamanı, bitkilerin dinlenmede olduğu sonbahar sonu ve kış dönemidir. Çıplak köklü fidanlar bu dönemde ekonomik bir seçenektir; tüplü fidanlar ise daha geniş bir zaman aralığında dikilebilir. Dikim çukurlarını kök sistemine uygun genişlikte açın, fakir topraklarda çıkan toprağa olgun organik madde karıştırın. Genç fidanları ilk yıllarda rüzgâra karşı kazıklarla destekleyin. Fidan dikiminin ayrıntıları için [çıplak köklü fidan dikimi](/ciplak-koklu-fidan-dikimi) yazımıza göz atabilirsiniz.
+
+[ürün:organik-toprak]
+
+## İlk yılların bakımı
+
+Perde bitkileri ilk iki üç yıl düzenli sulama ister; rüzgârlı yerlerde toprak çok daha hızlı kurur. Fidanların dibini malçla örtmek nemi korur ve yabani otları bastırır. Yabani otlar genç fidanlarla su ve besin için rekabet eder; dikim sırasının çevresini temiz tutun. Kış sonunda fidanların çevresine bir miktar solucan gübresi ya da kompost serpmek, güçlü bir başlangıç yapmalarını sağlar.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Budama ve bakım
+
+Rüzgâr kıranın alttan seyrekleşmemesi önemlidir; alt kısımdan boşalan bir perde, rüzgârın altından hızla geçmesine yol açar. Çalı ve çit bitkilerini ilk yıllarda uçlarından kısaltarak dipten dallanmalarını sağlayın. Kırılan, hastalıklı ve kurumuş dalları kış budamasıyla temizleyin. Yüksek ağaçlarda tepeyi kesmekten kaçının; bu, ağacın yapısını zayıflatır.
+
+## Rüzgâr kıranın ek faydaları
+
+- Toprak erozyonunu azaltır. Bu konuda [toprak erozyonu](/toprak-erozyonu) yazımıza göz atabilirsiniz.
+- Bitkilerin su tüketimini azaltır, sulama ihtiyacını düşürür.
+- Arıların uçuşunu kolaylaştırarak tozlaşmayı artırır.
+- Kuşlara ve faydalı böceklere yaşam alanı sağlar.
+- Kışın soğuk rüzgârların donma etkisini hafifletir.
+- Kar birikimini düzenleyerek toprağın nemini artırır.
+- Eve gelen soğuk rüzgârı keserek ısınma giderlerini azaltabilir.
+
+@sss
+S: Rüzgâr kıran için en hızlı büyüyen ağaç hangisi?
+C: Kavak, söğüt ve leylandi hızlı büyüyen türler arasındadır. Ancak hızlı büyüyen ağaçların ömrü genellikle kısadır; bunları daha yavaş büyüyen ve uzun ömürlü türlerle birlikte dikmek en iyisidir.
+
+S: Duvar mı, bitkisel rüzgâr kıran mı daha iyi?
+C: Bitkisel rüzgâr kıran rüzgârı süzerek yavaşlattığı için arkasında daha geniş ve sakin bir alan oluşturur. Duvar ise arka tarafta girdaplar yaratabilir.
+
+S: Rüzgâr kıran ne zaman dikilir?
+C: En uygun zaman bitkilerin dinlenmede olduğu sonbahar sonu ve kış dönemidir. Tüplü fidanlar ilkbaharda da dikilebilir, ancak yazın düzenli sulama gerekir.
+
+### YAZI
+slug: kemik-unu
+baslik: Kemik Unu: Kök ve Çiçek Gelişimini Destekleyen Yavaş Etkili Fosfor Kaynağı
+yayin: 2026-12-16 16:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: kemik unu
+seo_baslik: Kemik Unu Nedir? Faydaları, Kullanımı ve Dikkat Edilecekler
+seo_aciklama: Kemik unu nedir, ne işe yarar? Fosfor ve kalsiyum içeriği, soğanlı çiçek ve fidan dikiminde kullanımı, pH ile ilişkisi ve evcil hayvan güvenliği.
+ozet: Kemik unu, fosfor ve kalsiyumu yavaş yavaş bırakan, organik bahçecilikte uzun süredir kullanılan bir besin kaynağıdır. Ne zaman işe yaradığını, hangi topraklarda etkisinin sınırlı kaldığını ve dikkat edilmesi gereken noktaları anlatıyoruz.
+etiketler: kemik unu, fosforlu gübre, organik gübre, soğanlı çiçekler, kök gelişimi
+gorsel: p11-kemik-unu
+gorsel_alt: Petri kabında toz halindeki kemik unu
+urunler: guanokalong-yarasa-gubresi-toz, hasturk-kati-solucan-gubresi, organik-toprak
+kisaca: Kemik unu, hayvan kemiklerinin öğütülüp işlenmesiyle elde edilen, fosfor ve kalsiyumca zengin, yavaş etkili organik bir gübredir. Kök gelişimini ve çiçeklenmeyi destekler; soğanlı çiçek ve fidan dikiminde toprağa karıştırılır. Fosforu asidik ve nötr topraklarda daha iyi çözünür; kireçli topraklarda etkisi sınırlıdır.
+@govde
+Kemik unu, organik bahçecilikle uğraşanların uzun yıllardır kullandığı, özellikle soğanlı çiçeklerin ve fidanların dikiminde sıkça önerilen bir besin kaynağıdır. Hayvan kemiklerinin temizlenip ısıl işlemden geçirilmesi ve toz haline getirilmesiyle elde edilir. Kimyasal gübrelerin aksine besinlerini hızla değil, toprak canlılarının etkisiyle yavaş yavaş serbest bırakır. Bu özelliği onu dikim sırasında toprağa karıştırılan uzun süreli bir destek haline getirir. Ancak bu gübrenin her toprakta ve her bitkide aynı etkiyi göstermediğini bilmek gerekir. Bu yazıda kemik ununun ne olduğunu, ne zaman işe yaradığını ve nasıl kullanılacağını anlatıyoruz.
+
+## Kemik unu neler içerir?
+
+Bu organik gübre başlıca iki besin açısından zengindir:
+
+**Fosfor:** Bitkilerde kök gelişimi, çiçeklenme, tohum ve meyve oluşumu için gerekli olan temel besinlerden biridir. Enerji aktarımında rol oynar. Fosfor eksikliğinde bitkiler cılız kalır, yapraklar koyu ya da morumsu bir renk alabilir. Bu konuyu [fosfor eksikliği](/fosfor-eksikligi) yazımızda ayrıntılı olarak anlattık.
+
+**Kalsiyum:** Hücre duvarlarının yapı taşıdır ve sağlam dokular için gereklidir.
+
+İçindeki azot ise genellikle düşüktür. Bu yüzden yaprak gelişimi için değil, kök ve çiçek gelişimi için tercih edilir.
+
+## Kemik unu nasıl çalışır?
+
+İçindeki fosfor, suda kolayca çözünmeyen bir formdadır. Toprak canlıları ve köklerin salgıladığı asitler bu fosforu zamanla çözer ve bitkilerin kullanabileceği hale getirir. Bu yüzden hızlı bir etki göstermez; etkisi aylar boyunca yavaş yavaş ortaya çıkar. Toprağın pH'ı bu süreçte belirleyicidir: fosfor, asidik ve nötr topraklarda (pH 7'nin altı) daha kolay çözünür. Anadolu'nun yaygın kireçli ve alkali topraklarında ise bu fosforun büyük kısmı bitkilerin alamayacağı formda kalabilir. Toprağınızın pH değerini öğrenmek için [toprak pH nedir](/toprak-ph-nedir) yazımıza göz atabilirsiniz.
+
+## Kemik unu ne zaman kullanılır?
+
+**Soğanlı çiçek dikimi:** Lale, nergis, sümbül ve zambak gibi soğanlıların dikiminde dikim çukuruna az miktarda kemik unu karıştırmak, köklenmeyi destekleyen geleneksel bir uygulamadır. Soğanlı çiçeklerin dikimi için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazımıza göz atabilirsiniz.
+
+**Fidan ve çok yıllık bitki dikimi:** Meyve fidanları, gül, çalı ve çok yıllık çiçeklerin dikiminde çukur toprağına karıştırılabilir.
+
+**Fosfor eksikliği olan topraklar:** Toprak analizi fosfor eksikliği gösteriyorsa ve toprak asidik ya da nötrse, kemik unu yavaş etkili bir fosfor kaynağı olarak kullanılabilir.
+
+**Sebze bahçesi hazırlığı:** Domates, biber gibi meyve veren sebzelerin dikiminde toprağa karıştırılabilir; ancak bu bitkiler için dengeli bir organik besleme daha önemlidir.
+
+## Nasıl uygulanır?
+
+Toz gübre, toprak yüzeyine serpmek yerine toprağa karıştırılarak kullanılmalıdır. Dikim çukuruna ya da ekim sırasına konup toprakla iyice karıştırılır ve ardından sulanır. Kökler fosfora toprağın içinde ulaştığı için yüzeyde bırakılan gübrenin etkisi azdır. Kullanım miktarı için ürün etiketindeki talimata uyun; toprak analizi olmadan sürekli ve yüksek miktarda kullanmayın.
+
+## Aşırı kullanımın sakıncaları
+
+Fosfor toprakta kolay yıkanmaz ve birikebilir. Fosforu zaten yeterli olan topraklarda aşırı kullanım faydasızdır; hatta demir ve çinko gibi mikro besinlerin alımını zorlaştırabilir ve bazı faydalı toprak mantarlarının (mikoriza) faaliyetini azaltabilir. Bu yüzden onu her yıl rastgele eklemek yerine ihtiyaç olduğunda, ölçülü kullanmak gerekir.
+
+## Evcil hayvan güvenliği
+
+Bu ürün, kokusu nedeniyle köpekleri ve diğer hayvanları cezbedebilir. Hayvanlar toprağı kazabilir ya da gübreyi yiyebilir; büyük miktarlarda yenmesi sindirim sorunlarına yol açabilir. Gübreyi mutlaka toprağa iyice karıştırın ve ambalajı evcil hayvanların ulaşamayacağı bir yerde saklayın. Uygulama sırasında tozunu solumamak için eldiven ve gerekirse maske kullanın.
+
+## Alternatif fosfor kaynakları
+
+Kireçli topraklarda ya da bu ürün bulunamadığında, fosfor ihtiyacını karşılamak için başka organik kaynaklar da kullanılabilir. Yarasa gübresi (guano) fosfor açısından zengin bir doğal kaynaktır. Solucan gübresi ve olgun kompost ise fosfor dahil tüm besinleri dengeli şekilde içerir ve toprağın canlılığını artırarak mevcut fosforun bitkilere ulaşmasını kolaylaştırır. Guano hakkında bilgi için [yarasa gübresi (guano) nasıl kullanılır](/yarasa-gubresi-guano-nasil-kullanilir) yazımıza göz atabilirsiniz.
+
+[ürün:guanokalong-yarasa-gubresi-toz]
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Kemik unu ve soğanlı çiçekler: Gerçekten gerekli mi?
+
+Kemik unu, özellikle soğanlı çiçek dikiminde neredeyse bir gelenek haline gelmiştir. Ancak sağlıklı ve iri bir soğan, ilk yılın çiçekleri için gereken besinin büyük kısmını zaten kendi içinde taşır. Soğanlar için asıl önemli olan iyi drene olan, organik maddece orta zenginlikte bir toprak ve çiçeklenmeden sonra yaprakların sararana kadar bırakılmasıdır. Bu yüzden verimli bir bahçe toprağında dikim yapıyorsanız ek fosfora ihtiyaç olmayabilir. Fakir, kumlu ya da yıllardır yorulmuş topraklarda ise dikim çukuruna karıştırılan az miktarda fosfor kaynağı, soğanların sonraki yıllarda da güçlü çiçek açmasına yardımcı olabilir.
+
+## Saklama
+
+Toz halindeki gübreleri nem almayan, ağzı sıkıca kapalı bir kapta, serin ve kuru bir yerde saklayın. Nem alan ürün topaklaşır ve kokusu artar. Ambalajı çocukların ve evcil hayvanların ulaşamayacağı bir rafta tutun. Uygulamadan sonra ellerinizi yıkamayı unutmayın; organik gübreler de olsa toz halindeki ürünlerle çalışırken temel hijyen kurallarına uymak önemlidir.
+
+## Hangi bitkiler fosfora daha çok ihtiyaç duyar?
+
+Fosfor özellikle kök gelişiminin hızlı olduğu dönemlerde ve çiçeklenme-meyve tutumu aşamalarında önem kazanır. Yeni dikilen fidanlar, kök sebzeler (havuç, pancar, turp), soğanlı çiçekler ve meyve veren sebzeler bu açıdan daha hassastır. Yapraklı sebzeler ve çim alanlar ise fosfordan çok azota ihtiyaç duyar. Bu farkı bilmek, gübreyi doğru yerde ve doğru zamanda kullanmanızı sağlar.
+
+## Toprağı bütün olarak düşünün
+
+Bitkilerin sağlıklı gelişmesi için tek bir besine odaklanmak yerine toprağın genel sağlığını düşünmek gerekir. Organik maddece zengin, canlı bir toprak hem fosforu hem de diğer besinleri daha etkili bir şekilde bitkilere ulaştırır. Toprağa düzenli olarak olgun organik madde eklemek, çoğu bahçede bu tür tek besin odaklı takviyelere duyulan ihtiyacı azaltır.
+
+@sss
+S: Kemik unu hangi bitkilere iyi gelir?
+C: Soğanlı çiçekler, fidanlar, güller ve çok yıllık çiçekler gibi kök gelişimi ve çiçeklenmenin önemli olduğu bitkilerde dikim sırasında toprağa karıştırılarak kullanılır.
+
+S: Kemik unu kireçli toprakta işe yarar mı?
+C: Kireçli ve alkali topraklarda kemik unundaki fosfor zor çözünür ve etkisi sınırlı kalır. Bu topraklarda organik madde artırmak ve diğer fosfor kaynaklarını değerlendirmek daha etkilidir.
+
+S: Kemik unu ne kadar sürede etki eder?
+C: Yavaş etkili bir gübredir; fosforu toprak canlılarının etkisiyle aylar içinde serbest bırakır. Hızlı bir sonuç beklenmemelidir.
+
+### YAZI
+slug: rezene-yetistirme
+baslik: Rezene Yetiştirme: Anason Kokulu Yumru ve Yapraklar İçin Rehber
+yayin: 2026-12-16 18:15
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: rezene yetiştirme
+seo_baslik: Rezene Yetiştirme: Ekim Zamanı, Yumru Oluşumu ve Hasat
+seo_aciklama: Rezene yetiştirme rehberi: yumru rezene ve yaprak rezene farkı, ekim zamanı, toprak, sulama, boğaz doldurma, tohuma kaçmayı önleme, hasat ve tohum toplama.
+ozet: Anason kokulu, gevrek yumrusu ve tüy gibi ince yapraklarıyla rezene hem mutfakta hem bahçede değerli bir bitkidir. Serin mevsimi seven rezenenin iri ve beyaz yumru bağlaması için bilinmesi gerekenleri anlatıyoruz.
+etiketler: rezene yetiştirme, yumru rezene, Floransa rezenesi, aromatik bitkiler, kışlık sebzeler
+gorsel: p11-rezene
+gorsel_alt: Sarı şemsiye biçimli çiçekler açmış rezene bitkisi
+urunler: solucan-gubreli-sebze-topragi, hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi
+kisaca: Rezene, serin mevsimi seven ve anason kokulu bir bitkidir. Yumru rezene (Floransa rezenesi) yaz sonu ve sonbaharda ya da erken ilkbaharda ekilir; uzun ve sıcak günlerde tohuma kaçar. Verimli, nemli ama süzek toprak, düzenli sulama ve yumrunun dibine toprak çekmek beyaz ve gevrek bir yumru sağlar. Yumru tenis topu büyüklüğüne ulaşınca hasat edilir.
+@govde
+Rezene yetiştirme, mutfakta farklı lezzetler denemeyi seven bahçe sahipleri için keyifli bir uğraştır. Akdeniz kökenli rezene (Foeniculum vulgare), yaprakları, sapları, tohumları ve bazı çeşitlerde yumru gibi şişkin yaprak dipleriyle tamamen kullanılabilen, anason kokulu bir bitkidir. Türkiye'nin Ege ve Akdeniz kıyılarında yabani rezene, yol kenarlarında ve boş arazilerde kendiliğinden yetişir; taze filizleri ve yaprakları özellikle Ege mutfağında sevilerek tüketilir. Bahçede ise genellikle yumru rezene (Floransa rezenesi) yetiştirilir; salatalarda çiğ olarak, fırında, zeytinyağlı yemeklerde ve balıkla birlikte çok lezzetlidir. Rezene serin mevsimi sevdiği için ılık bölgelerde kış boyunca bahçede yetişebilir. Bu yazıda rezene yetiştirme sürecini adım adım anlatıyoruz.
+
+## Yumru rezene ve yaprak rezene
+
+**Yumru rezene (Floransa rezenesi):** Yaprak sapları dipte üst üste şişerek beyaz, gevrek bir "yumru" oluşturur. Bahçede en çok yetiştirilen türdür.
+
+**Yaprak ve tohum rezenesi:** Yumru oluşturmaz; tüy gibi ince yaprakları ve aromatik tohumları için yetiştirilir. Çok yıllık olabilir ve iki metreye kadar boylanabilir. Yabani rezene de bu gruptadır.
+
+Bu yazıdaki bilgiler ağırlıklı olarak yumru rezene içindir.
+
+## Rezene ne zaman ekilir?
+
+Yumru rezenenin en büyük sorunu, uzun ve sıcak günlerde yumru bağlamadan çiçek sapı oluşturmasıdır. Bu yüzden ekim zamanı çok önemlidir.
+
+**Ilık bölgeler (Ege, Akdeniz, Marmara kıyıları):** En iyi sonuç yaz sonu ve sonbahar başında yapılan ekimlerden alınır. Bitkiler sonbahar ve kış boyunca serin havada yumru bağlar.
+
+**Soğuk bölgeler:** Erken ilkbaharda ekim yapılır; ancak yaz sıcakları başlamadan hasat edilmesi gerekir. Yaz ortası ekimler de sonbahar hasadı için uygundur.
+
+Rezene yetiştirme sırasında tohuma kaçmaya dayanıklı çeşitler seçmek de başarıyı artırır. Kış ekimine uygun diğer sebzeler için [Akdeniz kış ekimi](/akdeniz-kis-ekimi) yazımıza göz atabilirsiniz.
+
+## Ekim ve fide
+
+Rezene, kökü havuç gibi derine inen ve şaşırtılmaktan hoşlanmayan bir bitkidir. Şaşırtma stresi tohuma kaçmayı hızlandırabilir. Bu yüzden tohumları doğrudan yetişeceği yere ya da tek tek küçük saksılara veya viyol gözlerine ekmek en iyisidir. Tohumlar 1-1,5 santimetre derinliğe ekilir; çimlenme 1-2 hafta sürer. Fideler, sıra üzerinde 25-30 santimetre, sıralar arasında 40-50 santimetre mesafe kalacak şekilde seyreltilir. Viyolde yetiştirilen fideler, kök topu bozulmadan, henüz küçükken dikilmelidir.
+
+## Rezene yetiştirmede toprak
+
+Rezene verimli, organik maddece zengin, nemi iyi tutan ama süzek bir toprak ister. Yumrunun iri ve gevrek olması için kökler büyüme boyunca düzenli nem ve besin bulmalıdır. Ekimden önce toprağı derince işleyip bol olgun kompost ya da organik gübre karıştırın. Toprak pH'ı hafif asidik ile hafif kireçli arasında olabilir. Saksıda yetiştirecekseniz en az 25-30 santimetre derinliğinde bir saksı ve sebze yetiştirmeye uygun, besince zengin bir toprak kullanın.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Sulama
+
+Rezene düzenli nem ister. Toprağın kuruması, bitkinin strese girip yumru bağlamadan tohuma kaçmasına neden olan en önemli etkenlerden biridir. Toprağı sürekli hafif nemli tutun; özellikle yumru oluşum döneminde sulamayı aksatmayın. Bitkilerin dibine serilecek malç nemi korur ve toprağın sıcaklığını dengeler.
+
+## Besleme
+
+Yumru rezene, güçlü bir yumru oluşturmak için orta-yüksek düzeyde besin ister. Ekim öncesi toprağa karıştırılan organik gübreye ek olarak, bitkiler 15-20 santimetre olduğunda ve yumru şişmeye başladığında iki üç haftada bir seyreltilmiş sıvı organik besin vermek gelişimi destekler.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Boğaz doldurma: Beyaz ve tatlı yumru
+
+Yumrular ceviz büyüklüğüne ulaştığında, yumrunun çevresine toprak çekerek üstünü yarıya kadar örtmek (boğaz doldurma) yumrunun güneş görmesini engeller. Böylece yumru daha beyaz, daha tatlı ve daha yumuşak dokulu olur. Bu işlem aynı zamanda bitkinin rüzgârda devrilmesini de önler. Boğaz doldururken toprağın yumru katmanlarının arasına girmemesine dikkat edin; bazı yetiştiriciler bunun için yumrunun çevresine karton bir halka koyar.
+
+## Tohuma kaçmayı önlemek
+
+- Doğru mevsimde, serin dönemde ekin.
+- Fideleri şaşırtmayın ya da kök topunu bozmadan, erken dikin.
+- Toprağı sürekli nemli tutun.
+- Sıcak dönemlerde öğleden sonra hafif gölge sağlayın.
+- Tohuma kaçmaya dayanıklı çeşitler seçin.
+
+## Hasat
+
+Yumrular tenis topu ile yumruk büyüklüğü arasına ulaştığında, ekimden yaklaşık 80-100 gün sonra hasat edilir. Yumruyu toprak seviyesinin hemen üzerinden bıçakla kesin. Kökü toprakta bırakırsanız, ılık bölgelerde kesik yerinden yeni ince sürgünler çıkabilir ve bunlar yaprak olarak kullanılabilir. Yumruları çok büyümeye bırakmayın; aşırı büyüyen yumrular lifli ve sert olur. Hasat edilen rezene buzdolabında bir hafta kadar taze kalır. İnce yapraklar da maydanoz ve dereotu gibi yemeklerde ve salatalarda kullanılabilir. Bu yeşillikler hakkında [dereotu yetiştirme](/dereotu-yetistirme) yazımıza da göz atabilirsiniz.
+
+## Rezene ve komşu bitkiler
+
+Rezene, bahçede bazı bitkilerle iyi geçinmez. Özellikle domates, fasulye, kişniş ve dereotu ile yan yana ekilmesi önerilmez; dereotuyla çapraz tozlaşarak tohumların karakterini değiştirebilir. Bu yüzden rezeneyi bahçenin ayrı bir köşesine ya da kendi yatağına ekmek en iyisidir. Bununla birlikte rezene çiçekleri, yaprak bitlerini avlayan uğur böcekleri ve faydalı sinekler gibi canlıları bahçeye çeker. Bitkilerin birbirini nasıl etkilediği hakkında [arkadaş bitkiler](/arkadas-bitkiler) yazımıza göz atabilirsiniz.
+
+## Mutfakta rezene
+
+Yumru rezene çiğ olarak ince dilimlenip salatalara eklendiğinde ferah ve gevrek bir tat verir; portakal ve zeytinle çok iyi uyum sağlar. Fırında zeytinyağı ile pişirildiğinde anason aroması yumuşar ve tatlılaşır. Zeytinyağlı yemeklerde, balık yanında ve çorbalarda da kullanılabilir. İnce yapraklar dereotu gibi soslara, salatalara ve balık yemeklerine eklenir. Tohumlar ise ekmeklere, turşulara ve çaylara aroma katar. Bahçenizde birkaç rezene bitkisi, mutfağınıza mevsim boyunca farklı bir lezzet kazandırır.
+
+## Tohum toplama
+
+Tohuma kaçan rezene bitkilerinin sarı şemsiye çiçeklerinden sonra oluşan tohumlar, yeşilden kahverengiye döndüğünde toplanır. Tohum başlarını kesip kâğıt bir torbada kurutun. Rezene tohumları hem baharat olarak hem de çay yapımında kullanılabilir.
+
+@sss
+S: Rezene neden yumru bağlamaz?
+C: En sık nedenler sıcak ve uzun günlerde ekim, fidelerin şaşırtılması ve toprağın kurumasıdır. Bu durumlar bitkinin yumru yerine çiçek sapı oluşturmasına yol açar.
+
+S: Rezene saksıda yetişir mi?
+C: Evet, en az 25-30 santimetre derinliğinde bir saksıda yetiştirilebilir. Saksıdaki rezene düzenli sulama ve besleme ister.
+
+S: Rezene kışa dayanıklı mı?
+C: Yumru rezene hafif donlara dayanabilir; ılık bölgelerde kış boyunca bahçede yetişir. Sert donlarda yaprakları zarar görebilir.
+
+### YAZI
+slug: karpuz-yetistirme
+baslik: Karpuz Yetiştirme: Tatlı ve Kırmızı Karpuzun Bahçedeki Yolculuğu
+yayin: 2026-12-16 20:20
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: karpuz yetiştirme
+seo_baslik: Karpuz Yetiştirme: Dikim, Sulama ve Olgun Karpuz Seçimi
+seo_aciklama: Karpuz yetiştirme rehberi: fide ve dikim zamanı, sıcak toprak, malç ve tünel, sulama dengesi, meyve seyreltme, tozlaşma ve olgun karpuzu tanımanın yolları.
+ozet: Yaz sıcağının en serinletici meyvesi karpuz, sıcak toprak, bol güneş ve doğru sulamayla küçük bir bahçede bile yetiştirilebilir. Olgun karpuzu tanımanın da bir sanatı vardır. Kış aylarında planlamaya başlayabileceğiniz karpuz yetiştirmeyi anlatıyoruz.
+etiketler: karpuz yetiştirme, karpuz fidesi, yazlık sebzeler, kabakgiller, hasat zamanı
+gorsel: p10-karpuz
+gorsel_alt: Plastik tüneller arasında yetişen genç karpuz bitkileri
+urunler: solucan-gubreli-sebze-topragi, hasturk-kati-solucan-gubresi, 45-goz-yuvarlak-fide-viyolu
+kisaca: Karpuz sıcak seven bir bitkidir; toprak sıcaklığı 18-20 °C'yi geçince, genellikle mayısta dikilir. Süzek, organik maddece zengin toprak, tam güneş ve geniş alan ister. Meyve büyürken düzenli, olgunlaşma döneminde az sulama tatlılığı artırır. Sülüğün kuruması, alt lekenin sararması ve tok ses olgunluğu gösterir.
+@govde
+Karpuz yetiştirme, yaz sıcağında kendi bahçesinden serin, tatlı ve kırmızı bir karpuz kesmenin keyfini yaşamak isteyenler için harika bir deneyimdir. Türkiye, dünyanın en büyük karpuz üreticilerinden biridir; Adana, Antalya, Diyarbakır ve Bafra gibi bölgeler karpuzlarıyla ünlüdür. Karpuz, kavun, kabak ve salatalıkla aynı aileden, yani kabakgillerden gelir ve sıcağı, güneşi çok sever. Bahçede biraz yer ayırabilirseniz, doğru zamanda dikim ve dikkatli sulamayla siz de lezzetli karpuzlar yetiştirebilirsiniz. Aralık ve ocak ayları tohum ve çeşit seçmek, bahçe planı yapmak ve toprağı kışın hazırlamak için uygun bir zamandır. Bu yazıda karpuzu fideden hasada nasıl yetiştireceğinizi anlatıyoruz.
+
+## Karpuz çeşitleri
+
+**Büyük ve iri meyveli çeşitler:** Klasik, 8-15 kilogram ağırlığa ulaşabilen, uzun yaz isteyen çeşitlerdir.
+
+**Küçük (mini) çeşitler:** 1-4 kilogramlık, buzdolabına sığan, erken olgunlaşan karpuzlardır. Küçük bahçeler ve kısa yazlı bölgeler için idealdir.
+
+**Çekirdeksiz çeşitler:** Tozlaşma için yakında çekirdekli bir çeşidin bulunmasını gerektirir.
+
+**Sarı etli çeşitler:** Kırmızı yerine sarı ya da turuncu meyve etine sahip, farklı aromalı çeşitlerdir.
+
+## Karpuz yetiştirmeye uygun iklim
+
+Karpuz, sıcaklığı en çok seven sebzelerden biridir. Tohumların çimlenmesi için toprak sıcaklığının en az 18-20 °C, bitkilerin iyi gelişmesi için gündüz sıcaklıklarının 25-35 °C civarında olması gerekir. Dona hiç dayanamaz. Uzun, sıcak ve güneşli yazlar meyvelerin tatlanması için şarttır. Kısa yazlı ve serin bölgelerde erkenci ve küçük meyveli çeşitler seçmek, fideleri önceden hazırlamak ve toprağı ısıtmak başarı şansını artırır.
+
+## Toprak hazırlığı
+
+Karpuz kumlu-tınlı, hafif, süzek ve organik maddece zengin toprakları sever. Ağır ve su tutan topraklarda kökler zayıflar ve hastalıklar artar. Dikimden birkaç hafta önce toprağı derince işleyin ve bol miktarda olgun kompost ya da yanmış ahır gübresi karıştırın. Toprağın pH'ı hafif asidik ile nötr arasında olmalıdır. Yükseltilmiş tümsekler ya da sırtlar, toprağın daha çabuk ısınmasını ve suyun birikmemesini sağlar.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Fide hazırlığı
+
+Karpuz, kabakgillerin çoğu gibi kök bozulmasına hassastır. Fide yetiştirecekseniz tohumları dikimden 3-4 hafta önce, tek tek viyol gözlerine ya da küçük saksılara ekin; şaşırtma yapmayın. Tohumlar sıcak bir ortamda (25-30 °C) bir hafta içinde çimlenir. Fideleri aydınlık ve sıcak bir yerde tutun. Dikimden bir hafta önce fideleri gündüzleri dışarı çıkararak dış koşullara alıştırın.
+
+[ürün:45-goz-yuvarlak-fide-viyolu]
+
+## Dikim
+
+Fideler ya da tohumlar, son don tarihi geçip toprak iyice ısındıktan sonra, genellikle mayıs ayında bahçeye dikilir. Bitkiler arasında 1-1,5 metre, sıralar arasında 2-2,5 metre mesafe bırakılır; karpuz yayılarak büyüdüğü için geniş alan ister. Fideleri kök topunu bozmadan dikip bol su verin.
+
+Toprağın üzerini siyah plastik malç ile örtmek, toprağı ısıtır, nemi korur, yabani otları bastırır ve meyvelerin doğrudan toprağa değmesini önler. Serin bölgelerde dikimden sonraki ilk haftalarda alçak plastik tüneller kullanmak fidelerin hızlı gelişmesini sağlar; bitkiler çiçeklenmeye başlayınca tüneller tozlaşma için açılmalıdır.
+
+## Tozlaşma
+
+Karpuzda erkek ve dişi çiçekler aynı bitkide ama ayrı ayrı oluşur. Dişi çiçeklerin dibinde küçük bir karpuz şeklinde şişkinlik bulunur. Tozlaşma büyük ölçüde arılar tarafından yapılır. Bahçede yeterli arı yoksa meyve tutumu zayıf olur ya da meyveler şekilsiz kalır. Arıları bahçeye çekmek için çiçekli bitkiler dikmek ve ilaç kullanımını en aza indirmek önemlidir. Bu konuda [arı dostu bitkiler](/ari-dostu-bitkiler) yazımıza göz atabilirsiniz.
+
+## Karpuz yetiştirmede sulama
+
+Karpuz, büyüme ve meyve gelişimi döneminde düzenli ve derin sulama ister. Toprağı haftada bir iki kez derinlemesine sulayın, yaprakları ıslatmamaya özen gösterin; ıslak yapraklar külleme ve mildiyö gibi hastalıklara yol açar. Damla sulama karpuz için en uygun yöntemdir. Damla sulamanın kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazımıza göz atabilirsiniz.
+
+Meyveler son büyüklüklerine yaklaştığında, hasattan yaklaşık iki hafta önce sulamayı azaltın. Bu dönemde fazla su, meyvenin tatsız ve sulu olmasına, ani ve bol sulama ise meyvenin çatlamasına neden olur.
+
+## Besleme
+
+Dikim öncesi toprağa karıştırılan organik madde temel ihtiyacı karşılar. Sürgünler uzamaya başladığında ve ilk meyveler tuttuğunda bitkilerin çevresine bir miktar solucan gübresi serpip hafifçe toprağa karıştırın. Fazla azot bol yaprak ama az meyve demektir; meyve döneminde potasyum tatlılık ve kalite için önemlidir.
+
+## Meyve seyreltme ve bakım
+
+Her bitkide iki üç sağlıklı meyve bırakıp fazlasını erken dönemde koparmak, kalan meyvelerin daha iri ve tatlı olmasını sağlar. Mini çeşitlerde bitki başına daha fazla meyve bırakılabilir. Meyvelerin altına saman ya da bir tahta parçası koymak, toprağa değen kısmın çürümesini önler. Meyveleri ara sıra hafifçe çevirmek renk ve şekil açısından daha düzgün bir gelişim sağlar.
+
+## Olgun karpuz nasıl anlaşılır?
+
+- **Sülük:** Meyve sapının hemen yanındaki kıvrımlı sülük (filiz) kurumuş ve kahverengileşmişse karpuz büyük olasılıkla olgunlaşmıştır.
+- **Alt leke:** Karpuzun toprağa değen yüzündeki lekenin beyazdan krem-sarı renge dönmesi olgunluk işaretidir.
+- **Kabuk:** Kabuk matlaşır, parlaklığını kaybeder ve tırnakla kolay çizilmez.
+- **Ses:** Parmakla vurulduğunda tok ve derin bir ses çıkar; olgunlaşmamış karpuz daha tiz ses verir.
+
+Karpuz koparıldıktan sonra olgunlaşmaya devam etmez; bu yüzden hasat zamanını doğru yakalamak önemlidir.
+
+## Ekim nöbeti
+
+Karpuzu her yıl aynı yere ekmek, toprak kaynaklı solgunluk hastalıklarının ve zararlıların birikmesine yol açar. Karpuzu ve diğer kabakgilleri aynı parsele en erken üç dört yıl sonra yeniden ekin. Araya baklagiller, mısır ya da yapraklı sebzeler yerleştirmek toprağın dinlenmesini sağlar.
+
+## Sık karşılaşılan sorunlar
+
+**Külleme ve mildiyö:** Yapraklarda beyaz tabaka ya da kahverengi lekeler.
+
+**Solgunluk hastalıkları:** Bitkilerin aniden solması; ekim nöbeti ve dayanıklı çeşitler önemlidir.
+
+**Meyve çatlaması:** Düzensiz sulama.
+
+**Çiçek burnu çürüklüğü:** Meyvenin ucunda koyu çürüklük; çoğu zaman düzensiz sulama ve kalsiyumun taşınamamasıyla ilgilidir.
+
+Karpuzda görülen hastalıklar için [karpuz hastalıkları](/karpuz-hastaliklari) yazımıza göz atabilirsiniz.
+
+@sss
+S: Karpuz ne zaman dikilir?
+C: Toprak sıcaklığı 18-20 °C'yi geçtikten sonra, genellikle mayıs ayında dikilir. Fideler dikimden 3-4 hafta önce içeride hazırlanabilir.
+
+S: Karpuz neden tatsız olur?
+C: En sık nedenler olgunlaşma döneminde fazla sulama, erken hasat, yetersiz güneş ve fazla azotlu gübredir.
+
+S: Karpuz saksıda yetişir mi?
+C: Mini çeşitler en az 40-50 litrelik büyük saksılarda ve bir destek üzerinde yetiştirilebilir. Meyveler file ya da bez askılarla desteklenmelidir.
+
+### SORU
+yayin: 2026-12-16 10:30
+kategori: toprak-rehberi
+baslik: Bahçe toprağımı kışın kazıp kesek halinde bırakmak doğru mu?
+metin: Babamdan hep sonbaharda bahçeyi bel küreğiyle derin kazıp iri kesekler halinde bırakmak gerektiğini duydum. Bizim toprak biraz killi ve yağmurdan sonra sertleşiyor. Bu yöntemi şimdi aralıkta uygulamak doğru olur mu, yoksa toprağa zarar verir mi?
+@cevap Mikdat Çelik | 3
+Killi topraklarda bu yöntemin gerçekten faydası var. Toprağı iri kesekler halinde çevirip düzlemeden bırakırsanız, kış boyunca suyun donup çözülmesi bu kesekleri doğal olarak ufalar; ilkbaharda toprak çok daha kolay işlenir ve daha kabarık bir yapıya kavuşur. Yalnız birkaç noktaya dikkat edin. Toprağı mutlaka tavında, yani elinizde sıktığınızda çamur gibi yapışmayan ama topaklanıp kolayca dağılan bir nemdeyken kazın; ıslak toprağı kazmak yapıyı ezer ve keseklerin taş gibi sertleşmesine yol açar. Kazarken toprağa iyi olgunlaşmış ahır gübresi ya da kompost karıştırmak için de en uygun zaman şimdi; organik madde kış boyunca ayrışmaya başlar ve killi toprağın yapısını kalıcı olarak iyileştirir. Kazdığınız alanın üzerine basmamaya özen gösterin. Kumlu ya da hafif topraklarınız olsaydı bu yöntemi önermezdik; o tür topraklarda yüzeyi kışın çıplak bırakmak yerine malçla örtmek daha iyidir. İlkbaharda ekimden önce yüzeyi bir tırmıkla düzleyip ince bir tohum yatağı hazırlamanız yeterli olacaktır.

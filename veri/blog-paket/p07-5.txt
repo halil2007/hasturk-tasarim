@@ -1,0 +1,962 @@
+### YAZI
+slug: fusarium-solgunlugu
+baslik: Fusarium Solgunluğu: Su Verildiği Hâlde Neden Bitki Solar?
+yayin: 2026-11-29 07:15
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: fusarium solgunluğu
+seo_baslik: Fusarium Solgunluğu: Belirtiler, Nedenler ve Korunma
+seo_aciklama: Fusarium solgunluğu nedir? Domates, biber, karpuz ve muzda belirtileri, gövde kesitinde kahverengi halka, toprakta kalıcılığı ve bahçede korunma yolları.
+ozet: Sulanmasına rağmen bir yanından solan, gövdesi kesildiğinde içi kahverengi görünen bitkiler, çoğu zaman fusarium solgunluğunun işaretidir. Bu inatçı toprak hastalığını nasıl tanıyacağınızı ve bahçenizi nasıl koruyacağınızı anlatıyoruz.
+etiketler: fusarium solgunluğu, solgunluk hastalığı, toprak kaynaklı hastalıklar, domates hastalıkları, ekim nöbeti
+gorsel: p7-fusarium
+gorsel_alt: Fusarium solgunluğu görülen bir muz gövdesinin kesitinde kahverengi halkalar
+urunler: hg-fide-topragi, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Fusarium solgunluğu, topraktaki bir mantarın köklerden girip bitkinin su iletim borularını tıkamasıyla oluşur. Bitki su verilse bile solar; belirtiler çoğu zaman tek yandan başlar ve gövde kesitinde kahverengi bir halka görülür. Mantar toprakta yıllarca canlı kalır. Dayanıklı çeşit, ekim nöbeti, temiz fide ve dengeli toprak en etkili korunma yollarıdır.
+@govde
+Sıcak bir yaz öğleden sonrası, bahçedeki domates bitkilerinden birinin yapraklarını sarkıttığını görürsünüz. Toprak nemlidir, bitki sulanmıştır; yine de akşam serinliğinde bile toparlanmaz. Birkaç gün içinde alt yapraklar sararır, bitkinin bir yanı kurur ve sonunda bitki tamamen solar. Bu tablo, bahçecilerin en çok korktuğu toprak hastalıklarından biri olan fusarium solgunluğunun tipik bir örneğidir. Bu yazıda bu hastalığı nasıl tanıyacağınızı, hangi bitkilerde görüldüğünü ve neden bu kadar inatçı olduğunu, en önemlisi de bahçenizi bu hastalığa karşı nasıl koruyabileceğinizi anlatıyoruz.
+
+## Fusarium solgunluğu nedir?
+
+Bu hastalık, toprakta yaşayan bir mantarın neden olduğu bir hastalıktır. Mantar, bitkiye köklerdeki küçük yaralardan ya da kök uçlarından girer ve bitkinin suyu topraktan yapraklara taşıyan iletim borularına yerleşir. Burada çoğaldıkça borular tıkanır; bitki toprakta yeterli su olsa bile bu suyu yukarıya taşıyamaz ve solar. Bu nedenle hastalığa yakalanan bir bitki, aslında susuzluktan değil, su yollarının kapanmasından ölür.
+
+Bu mantarın ilginç bir özelliği, büyük ölçüde konukçuya özgü olmasıdır. Domatese saldıran fusarium ırkı genellikle karpuza, karpuza saldıran ise muza zarar vermez. Ancak bu durum, aynı bitki ailesinden türlerin aynı tarlaya üst üste ekilmesi hâlinde hastalığın hızla birikmesine engel olmaz.
+
+## Hangi bitkilerde görülür?
+
+Hastalık çok geniş bir bitki grubunda görülür. Bahçelerde en sık karşılaşılan örnekler şunlardır:
+
+- **Domates, biber ve patlıcan:** Sıcak yaz aylarında, özellikle hafif ve kumlu topraklarda yaygındır.
+- **Karpuz, kavun ve salatalık:** Aynı tarlaya üst üste kabakgil ekildiğinde sık görülür.
+- **Nohut ve fasulye:** Kuru ve sıcak dönemlerde verimi önemli ölçüde düşürür.
+- **Muz:** Dünyada en çok bilinen örneklerinden biri olan Panama hastalığı, muzda görülen bir fusarium solgunluğudur. Kapaktaki fotoğrafta, hastalıklı bir muz gövdesinin kesitinde iletim demetlerinin kahverengileştiği açıkça görülmektedir.
+- **Süs bitkileri:** Karanfil, şebboy ve bazı soğanlı çiçekler de bu hastalıktan etkilenebilir.
+
+Muz yetiştiriciliğine ilgi duyanlar için [muz yetiştirme](/muz-yetistirme) yazımıza da göz atabilirsiniz.
+
+## Belirtiler: fusarium solgunluğu nasıl tanınır?
+
+Bu solgunluğu diğer sorunlardan ayıran birkaç önemli işaret vardır:
+
+1. **Su verildiği hâlde solma:** Bitki günün sıcak saatlerinde solar, başlangıçta akşamları toparlanabilir ama zamanla tamamen solgun kalır.
+2. **Tek taraflı belirti:** Sararma ve solma çoğu zaman bitkinin bir yanında, hatta tek bir yaprağın bir yarısında başlar. Bunun nedeni, mantarın önce belirli iletim borularını tıkamasıdır.
+3. **Alttan yukarı sararma:** Alt yapraklar sararır, kurur ve dalda asılı kalır; belirtiler zamanla yukarı doğru ilerler.
+4. **Gövde kesitinde kahverengi halka:** Bitkinin gövdesini toprağa yakın bir noktadan çapraz kestiğinizde, dış kabuğun hemen altında kahverengi bir halka ya da noktalar görürsünüz. Sağlıklı gövde ise içi açık yeşil ve beyazımsıdır.
+
+Gövde kesiti testi, bu hastalığı aşırı sulama, kök çürüklüğü ya da susuzluktan ayırmanın en pratik yoludur. Aşırı sulamanın belirtilerini [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazımızda anlattık.
+
+## Neden bu kadar inatçı?
+
+Fusarium mantarı, toprakta dayanıklı yapılar oluşturarak bitki olmadan bile uzun yıllar canlı kalabilir. Bir kez bulaştığı tarladan kolay kolay gitmez. Hastalıklı bitki artıkları, bulaşık toprak taşıyan aletler, ayakkabılar, sulama suyu ve hastalıklı fideler, mantarın bir yerden başka bir yere taşınmasının başlıca yollarıdır. Hafif asidik, kumlu ve organik maddesi az olan topraklarda, ayrıca sıcak havalarda hastalık daha şiddetli seyreder. Köklere zarar veren nematodların bulunduğu topraklarda ise mantar bitkiye çok daha kolay girer.
+
+## Bahçede korunma yolları
+
+Fusarium solgunluğunun bitki üzerinde bir tedavisi yoktur; bir kez iletim borularına yerleşen mantarı bitkiden temizlemek mümkün değildir. Bu yüzden mücadele tamamen korunmaya dayanır.
+
+**Dayanıklı çeşit seçin:** Domates başta olmak üzere pek çok sebzenin fusarium solgunluğuna dayanıklı çeşitleri vardır. Daha önce bu hastalığın görüldüğü bahçelerde dayanıklı çeşitler ya da dayanıklı anaçlara aşılı fideler kullanmak en etkili önlemdir.
+
+**Ekim nöbeti uygulayın:** Aynı bitki ailesini aynı yere üst üste ekmeyin. Domates, biber ve patlıcanı bir yıl ekip ardından birkaç yıl tahıl, soğan ya da yapraklı sebzelerle nöbetleşe kullanmak, hastalığın birikmesini yavaşlatır. Ekim nöbeti planlaması için [ekim nöbeti](/ekim-nobeti) yazımıza göz atabilirsiniz.
+
+**Temiz fide ve temiz toprak kullanın:** Fide yetiştirirken bahçe toprağı yerine, hastalık etmenlerinden arındırılmış fide toprakları kullanmak, hastalığın bahçeye fidelerle girmesini önler.
+
+[ürün:hg-fide-topragi]
+
+**Hastalıklı bitkileri hemen sökün:** Belirti gösteren bitkileri kökleriyle birlikte sökün ve kompost yığınına atmadan bahçeden uzaklaştırın. Bu bitkilerin bulunduğu yerde kullandığınız aletleri temizleyin.
+
+## Toprak sağlığı: en güçlü savunma
+
+Canlı, organik maddece zengin ve dengeli bir toprak, fusarium solgunluğuna karşı doğal bir savunma hattı oluşturur. Bu tür topraklarda yararlı mantarlar ve bakteriler, zararlı mantarlarla besin ve alan için rekabet eder, onların çoğalmasını sınırlar. Toprağa düzenli olarak olgun organik madde kazandırmak, bu yararlı canlıların sayısını artırır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Organik maddesi çok azalmış, yorgun topraklarda hümik madde içeren düzenleyiciler, toprağın yapısını ve canlılığını destekler.
+
+Dengeli besleme de önemlidir. Aşırı azotlu gübreleme, bitkileri yumuşak ve hastalığa açık hâle getirir; potasyum ise bitkinin genel direncini destekler. Toprağın pH değerinin aşırı düşük olması da hastalığı kolaylaştırdığı için asidik topraklarda pH'ın dengelenmesi faydalı olur. Bu konuyu [toprak pH nedir](/toprak-ph-nedir) yazımızda anlattık.
+
+## Saksı ve küçük alanlarda fusarium
+
+Balkonda ya da küçük bir bahçede saksıda yetiştirilen domates ve biberlerde de fusarium solgunluğu görülebilir. Bu durumda en önemli kural, hastalıklı bitkinin toprağını bir sonraki sezon aynı türde bitki için tekrar kullanmamaktır. Eski saksı toprağını yenilemek ya da güneşte uzun süre ısıtarak arındırmak, hastalığın bir sonraki yıla taşınma riskini azaltır. Bu yöntemleri [toprak sterilizasyonu](/toprak-sterilizasyonu) yazımızda ayrıntılı anlattık.
+
+## Benzer hastalıklarla karıştırmayın
+
+Bitkilerde solgunluğa yol açan tek etken fusarium değildir. Verticillium solgunluğu da benzer belirtiler gösterir, ancak genellikle daha serin havalarda ortaya çıkar ve yapraklarda V şeklinde sararmalar oluşturur. Bakteriyel solgunlukta ise kesilen gövde suya batırıldığında süt gibi bir akıntı görülebilir. Kök çürüklüğünde ise kökler kahverengi, yumuşak ve kolayca kopan bir yapıdadır. Domateste görülen hastalıkların genel tablosu için [domates hastalıkları](/domates-hastaliklari) yazımıza göz atabilirsiniz.
+
+Fusarium solgunluğu, sessizce toprağa yerleşen ve yıllarca orada bekleyen bir hastalıktır. İyi haber şu ki dayanıklı çeşitler, düzenli ekim nöbeti, temiz fide ve canlı bir toprakla bu hastalığın bahçenizdeki etkisini büyük ölçüde azaltabilirsiniz.
+@sss
+S: Fusarium solgunluğu nasıl anlaşılır?
+C: Su verilmesine rağmen solma, belirtilerin bitkinin tek yanından başlaması ve gövde toprağa yakın bir noktadan kesildiğinde kabuğun altında kahverengi bir halka görülmesi fusarium solgunluğunun tipik işaretleridir.
+
+S: Fusarium solgunluğu tedavi edilir mi?
+C: Hastalık bitkinin iletim borularına yerleştikten sonra tedavi edilemez. Dayanıklı çeşitler, ekim nöbeti, temiz fide ve organik maddece zengin toprak en etkili korunma yollarıdır.
+
+S: Fusarium toprakta ne kadar yaşar?
+C: Fusarium mantarı toprakta dayanıklı yapılar oluşturarak bitki olmadan bile yıllarca canlı kalabilir. Bu yüzden aynı bitki ailesini aynı yere üst üste ekmemek önemlidir.
+
+### YAZI
+slug: teras-bahcesi
+baslik: Teras Bahçesi: Çatıda ve Geniş Balkonda Yeşil Bir Kaçış Noktası
+yayin: 2026-11-29 08:35
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: teras bahçesi
+seo_baslik: Teras Bahçesi Nasıl Yapılır? Saksı, Toprak ve Bitki Seçimi
+seo_aciklama: Teras bahçesi kurarken taşıma yükü, su yalıtımı, rüzgâr, saksı ve hafif toprak seçimi, sulama düzeni, uygun bitkiler ve kışa hazırlık adım adım.
+ozet: Bir teras, doğru planlandığında şehrin ortasında küçük bir bahçeye dönüşebilir. Taşıma yükü ve yalıtım gibi teknik konulardan rüzgâra dayanıklı bitkilere, hafif toprak karışımlarından sulama düzenine kadar teras bahçesinin temel kurallarını anlatıyoruz.
+etiketler: teras bahçesi, çatı bahçesi, balkon bahçesi, büyük saksı, şehir bahçeciliği
+gorsel: p7-teras
+gorsel_alt: Saksı bitkileri, masa ve sandalyelerle düzenlenmiş bir teras bahçesi
+urunler: cornet-ic-dis-mekan-tabakli-dekoratif-saksi-50-litre, yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi, tarim-perliti, chrysamed-envira-subon-akilli-su-boncuklari-400-gr
+kisaca: Teras bahçesi kurmadan önce terasın taşıma kapasitesi, su yalıtımı ve drenajı kontrol edilmelidir. Hafif saksılar ve perlitle hafifletilmiş toprak karışımları yükü azaltır. Rüzgâr ve güçlü güneş nedeniyle dayanıklı bitkiler seçilmeli, saksılar hızlı kuruduğu için düzenli bir sulama sistemi kurulmalıdır. Kışın saksılar dona karşı korunmalıdır.
+@govde
+Şehirde yaşayanlar için bir teras, evin en değerli alanlarından biridir. Çatı katındaki geniş bir teras ya da apartmanların üst katlarındaki büyük balkonlar, doğru planlandığında sebzelerin, aromatik bitkilerin ve çiçeklerin bir arada yetiştiği küçük bir bahçeye dönüşebilir. Ancak teras bahçesi, yerdeki bir bahçeden farklı kurallara sahiptir: ağırlık, rüzgâr, yoğun güneş ve hızlı kuruyan saksılar, planlamada mutlaka hesaba katılması gereken konulardır. Bu yazıda bir teras bahçesini güvenle ve keyifle nasıl kurabileceğinizi adım adım anlatıyoruz.
+
+## Önce güvenlik: taşıma yükü ve yalıtım
+
+Teras bahçesi kurmadan önce sorulması gereken ilk soru, terasın ne kadar yük taşıyabileceğidir. Islak toprak sanıldığından çok daha ağırdır; büyük bir saksı, sulandıktan sonra yüz kilogramı rahatlıkla aşabilir. Özellikle çatı teraslarında büyük saksılar, yükseltilmiş yataklar ya da ağaç dikmeyi düşünüyorsanız, binanın taşıma kapasitesi hakkında bina yönetiminden ya da bir yapı mühendisinden bilgi almak gerekir.
+
+İkinci önemli konu, su yalıtımıdır. Saksılardan akan su ve sürekli nemli kalan yüzeyler, zamanla yalıtıma zarar verebilir. Saksıları doğrudan zemine değil, ayaklıklar ya da altlıklar üzerine yerleştirmek, saksının altında su birikmesini önler ve zeminin havalanmasını sağlar. Terasın su giderlerinin açık olduğundan ve saksılardan akan toprağın giderleri tıkamadığından emin olun.
+
+Ağır saksıları terasın ortası yerine, taşıyıcı duvarlara ve kenarlara yakın yerleştirmek de genellikle daha güvenli bir yaklaşımdır.
+
+## Rüzgâr ve güneş: terasın iki gerçeği
+
+Yüksek katlardaki teraslar, yerdeki bahçelere göre çok daha fazla rüzgâr ve güneş alır. Rüzgâr, toprağı ve yaprakları hızla kurutur, uzun bitkileri devirebilir ve hafif saksıları yerinden oynatabilir. Yoğun yaz güneşi ise hassas bitkilerin yapraklarını yakabilir.
+
+- **Rüzgâr kırıcılar:** Bambu paneller, kafes çitler ya da sık dallı çalılardan oluşan bir sıra, rüzgârın etkisini azaltır. Tamamen kapalı duvarlar yerine rüzgârı süzen yapılar daha iyi sonuç verir.
+- **Gölge alanı:** Bir pergole, tente ya da büyük bir şemsiye, hem sizin hem de gölge seven bitkilerin yaz öğleden sonralarını rahat geçirmesini sağlar.
+- **Sağlam saksılar:** Uzun bitkiler için geniş tabanlı ve ağır saksılar seçin.
+
+## Teras bahçesi için saksı ve toprak seçimi
+
+Teras bahçesinde saksı seçimi, hem ağırlık hem de dayanıklılık açısından önemlidir. Pişmiş toprak saksılar doğal ve nefes alan bir yapıya sahiptir ama ağırdır ve donda çatlayabilir. Plastik ve fiber saksılar ise hafif, dona dayanıklı ve uzun ömürlüdür. Büyük bitkiler için geniş hacimli, tabaklı saksılar toprağın daha yavaş kurumasını sağlar.
+
+[ürün:cornet-ic-dis-mekan-tabakli-dekoratif-saksi-50-litre]
+
+Toprak karışımı da teraslarda özel bir önem taşır. Bahçe toprağı ağırdır ve saksıda kısa sürede sıkışır. Bunun yerine kaliteli bir saksı toprağını perlitle hafifletmek, hem ağırlığı azaltır hem de köklerin havalanmasını sağlar.
+
+[ürün:tarim-perliti]
+
+Saksı başına ne kadar toprak gerektiğini hesaplamak için [saksıya kaç litre toprak gider](/saksiya-kac-litre-toprak-gider) yazımıza göz atabilirsiniz. Fiber saksıların avantajlarını ise [fiber saksı](/fiber-saksi) yazımızda anlattık.
+
+## Sulama düzeni
+
+Terasta saksılar, rüzgâr ve güneş nedeniyle yerdeki bahçeden çok daha hızlı kurur. Sıcak yaz günlerinde küçük saksıların günde iki kez sulanması gerekebilir. Bu yüzden teras bahçesinde düzenli ve pratik bir sulama sistemi kurmak, hem bitkilerinizi hem de sizi rahatlatır.
+
+- **Damla sulama:** Zamanlayıcıya bağlanan bir damla sulama sistemi, her saksıya düzenli ve az miktarda su verir.
+- **Büyük saksılar:** Hacim arttıkça toprak daha yavaş kurur; küçük saksılar yerine az sayıda büyük saksı tercih edin.
+- **Malç:** Saksı yüzeyine serilen ağaç kabuğu ya da çakıl, buharlaşmayı azaltır.
+- **Su tutucular:** Toprağa karıştırılan su boncukları, sulamalar arasında köklere nem sağlar.
+
+Damla sulama sisteminin kurulumunu [damla sulama kurulumu](/damla-sulama-kurulumu) yazımızda, tatile giderken bitkilerin sulanması için yöntemleri ise [tatilde bitkiler nasıl sulanır](/tatilde-bitkiler-nasil-sulanir) yazımızda bulabilirsiniz.
+
+## Terasa uygun bitkiler
+
+Teras bahçesinde başarılı olmanın yolu, rüzgâra, güneşe ve kuraklığa dayanıklı bitkiler seçmektir.
+
+**Aromatik bitkiler:** Lavanta, biberiye, kekik ve adaçayı, güneşli ve rüzgârlı teraslar için idealdir. Hem az su ister hem de mutfakta kullanılır.
+
+**Sebzeler:** Domates, biber, patlıcan, marul ve roka, büyük saksılarda ya da yükseltilmiş yataklarda başarıyla yetişir. Dikey bahçe kuleleri, az alanda çok sayıda bitki yetiştirmeyi mümkün kılar.
+
+**Çalılar ve küçük ağaçlar:** Zeytin, bodur meyve ağaçları, defne ve şimşir, büyük saksılarda terasa kalıcı bir yeşillik katar. Saksıda zeytin yetiştirmenin inceliklerini [saksıda zeytin ağacı yetiştirme](/saksida-zeytin-agaci-yetistirme) yazımızda anlattık.
+
+**Çiçekler:** Sardunya, begonvil, petunya ve süs otları, güneşli teraslarda bütün yaz renk sunar.
+
+Sebze yetiştirmek için yükseltilmiş yataklar kurmak isterseniz [balkon sebze yatağı](/balkon-sebze-yatagi) yazımız yol gösterebilir.
+
+## Teras bahçesinde düzen ve yerleşim
+
+Bir teras bahçesini hem kullanışlı hem de keyifli kılmak için alanı bölgelere ayırın. Oturma alanını evin kapısına yakın ve rüzgârdan korunaklı bir köşeye, sebze ve aromatik bitkileri en çok güneş alan bölgeye, gölge seven bitkileri ise pergolenin ya da duvarın gölgesine yerleştirin. Uzun bitkileri terasın kenarlarına ve arka sıralara, alçak bitkileri öne koymak, hem manzarayı kapatmaz hem de her bitkinin ışık almasını sağlar. Saksıları aynı renk ve malzemeden seçmek, terasın daha düzenli ve geniş görünmesine yardımcı olur.
+
+## Kışa hazırlık
+
+Teraslardaki saksılar, kışın yerdeki bahçelere göre çok daha savunmasızdır. Saksıdaki kökler, toprağın koruyucu etkisinden yoksun olduğu için dondan kolayca zarar görür. Kış öncesi saksıları duvar diplerine ve rüzgâr almayan köşelere toplayın, büyük saksıların etrafını hasır, keçe ya da kabarcıklı naylonla sarın. Hassas bitkileri içeri alın ve kışın sulamayı azaltın. Dona karşı koruma yöntemlerini [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazımızda ayrıntılı anlattık.
+
+Teras bahçesi, şehir hayatının içinde doğayla bağ kurmanın en keyifli yollarından biridir. Güvenliği önceleyen bir plan, doğru saksı ve toprak seçimi ve dayanıklı bitkilerle, terasınız yıl boyu yeşil bir kaçış noktasına dönüşebilir.
+@sss
+S: Teras bahçesi için hangi toprak kullanılmalı?
+C: Bahçe toprağı ağır olduğu ve saksıda sıkıştığı için önerilmez. Kaliteli bir saksı toprağını perlitle hafifletmek hem terasın yükünü azaltır hem de köklerin havalanmasını sağlar.
+
+S: Terasta hangi bitkiler yetişir?
+C: Lavanta, biberiye, kekik gibi aromatik bitkiler, domates ve biber gibi sebzeler, zeytin ve defne gibi çalılar ile sardunya ve begonvil gibi çiçekler rüzgâr ve güneşe dayanıklı iyi seçeneklerdir.
+
+S: Teras bahçesi kurarken nelere dikkat edilmeli?
+C: Önce terasın taşıma kapasitesi ve su yalıtımı kontrol edilmelidir. Saksılar ayaklık üzerine yerleştirilmeli, ağır saksılar kenarlara yakın konmalı ve rüzgâra karşı önlem alınmalıdır.
+
+### YAZI
+slug: kesme-cicek-omru
+baslik: Kesme Çiçek Ömrü: Vazodaki Buketi Bir Hafta Daha Taze Tutmak
+yayin: 2026-11-29 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: kesme çiçek ömrü
+seo_baslik: Kesme Çiçek Ömrü Nasıl Uzatılır? Vazoda 10 Altın Kural
+seo_aciklama: Kesme çiçek ömrü nasıl uzar? Sap kesimi, temiz vazo, su değişimi, yaprak temizliği, sıcaklık ve meyve etkisi; gül, lale ve krizantem için özel ipuçları.
+ozet: Hediye gelen ya da bahçeden kesilen çiçeklerin vazoda kısa sürede solması çoğu zaman önlenebilir. Sap kesiminden su değişimine, vazo temizliğinden yerleşime kadar kesme çiçeklerin ömrünü uzatan pratik kuralları ve çiçek türlerine göre ipuçlarını anlatıyoruz.
+etiketler: kesme çiçek ömrü, vazoda çiçek, buket bakımı, gül, kendi çiçek bahçeniz
+gorsel: p7-kesme-cicek
+gorsel_alt: Beyaz duvar önünde cam vazoda sarı ve turuncu kesme çiçekler
+urunler: arzuman-zinya-kirli-hanim-cicegi-tohumu-30-adet, altinvadi-karagoz-kadife-cicegi-tohumu, arzuman-papatya-tohumu-100-adet
+kisaca: Kesme çiçek ömrü, sapların suyu ne kadar iyi çekebildiğine bağlıdır. Sapları keskin bir bıçakla verev kesmek, su altında kalacak yaprakları temizlemek, temiz vazo kullanmak ve suyu iki günde bir değiştirmek ömrü belirgin şekilde uzatır. Çiçekleri sıcaktan, doğrudan güneşten ve olgun meyvelerden uzak tutmak da tazeliği korur.
+@govde
+Bir buket çiçek, bir evi bir anda aydınlatır. Ancak hediye gelen ya da bahçeden özenle kesilen çiçeklerin birkaç gün içinde boynunu bükmesi, hepimizin yaşadığı küçük bir hayal kırıklığıdır. İyi haber şu ki kesme çiçek ömrü, büyük ölçüde bizim elimizdedir. Birkaç basit kurala dikkat ederek aynı buketi birkaç gün değil, bir hafta ya da daha uzun süre taze tutmak mümkündür. Bu yazıda kesme çiçeklerin neden solduğunu, ömürlerini uzatmak için neler yapabileceğinizi ve farklı çiçek türleri için özel ipuçlarını anlatıyoruz.
+
+## Kesme çiçekler neden solar?
+
+Bir çiçek kesildiği anda, köklerinden gelen su ve besin akışı kesilir. Bu noktadan sonra çiçeğin yaşamı, sapının vazodaki suyu ne kadar iyi çekebildiğine bağlıdır. Kesme çiçeklerin erken solmasının üç temel nedeni vardır:
+
+- **Sapların tıkanması:** Kesilen sapın ucunda hava kabarcıkları oluşabilir ya da su içinde çoğalan bakteriler sapın su borularını tıkar. Su yukarı çıkamadığında çiçek, vazo dolu olsa bile susuz kalır.
+- **Su kaybı:** Yapraklar ve taç yapraklar sürekli su buharlaştırır. Sıcak, kuru ve güneşli bir ortamda bu kayıp hızlanır.
+- **Yaşlanma:** Çiçeğin doğal ömrü, kesildiği andaki olgunluğuna ve türüne bağlıdır. Bazı ortamlar bu yaşlanmayı hızlandırır.
+
+## Kesme çiçek ömrünü uzatan altın kurallar
+
+**1. Sapları yeniden kesin.** Çiçekleri vazoya koymadan önce saplarının ucundan 2-3 santimetre kesin. Keskin bir bıçak ya da makas kullanın; körelmiş makas sapı ezer ve su borularını kapatır. Kesimi verev yapmak, suyun girdiği yüzeyi genişletir ve sapın vazonun dibine tam oturup suyu kesmesini önler.
+
+**2. Mümkünse su içinde kesin.** Sapları bir kap su içinde kesmek, kesik uca hava girmesini engeller. Özellikle gül gibi çabuk tıkanan çiçeklerde bu küçük adım fark yaratır.
+
+**3. Su altında kalacak yaprakları temizleyin.** Vazodaki suyun içinde kalan yapraklar hızla çürür ve bakterilerin çoğalmasına yol açar. Su seviyesinin altında kalan tüm yaprakları koparın.
+
+**4. Vazoyu iyice temizleyin.** Önceki buketten kalan bakteriler, yeni çiçeklerin saplarını kısa sürede tıkar. Vazoyu sıcak su ve deterjanla yıkayın, iyice durulayın.
+
+**5. Suyu düzenli değiştirin.** Vazodaki suyu iki günde bir tamamen değiştirin. Her değişimde sapların ucundan bir iki santimetre daha kesmek, ömrü daha da uzatır.
+
+**6. Ilık su kullanın.** Çoğu çiçek, oda sıcaklığında ya da hafif ılık suyu soğuk sudan daha kolay çeker. Lale ve nergis gibi soğanlı çiçekler ise serin suyu tercih eder.
+
+**7. Serin bir yer seçin.** Çiçekleri kaloriferden, sobadan, doğrudan güneşten ve televizyon gibi ısı yayan cihazlardan uzak tutun. Geceleri vazoyu evin en serin köşesine taşımak, kesme çiçek ömrünü birkaç gün uzatabilir.
+
+**8. Meyve tabağından uzak tutun.** Olgunlaşan elma, muz ve domates gibi meyveler, etilen adı verilen bir gaz yayar. Bu gaz çiçeklerin yaşlanmasını hızlandırır ve taç yaprakların erken dökülmesine yol açar.
+
+**9. Solanları hemen ayıklayın.** Buketteki solmuş çiçekleri ve yaprakları çıkarmak, hem görünümü korur hem de suyun kirlenmesini yavaşlatır.
+
+**10. Çiçek besinini doğru kullanın.** Çiçekçilerin buketle birlikte verdiği küçük besin paketleri, hem şeker hem de bakteri çoğalmasını yavaşlatan maddeler içerir. Bunları paketin üzerindeki ölçüye uygun kullanmak faydalıdır.
+
+## Ev yapımı tarifler işe yarar mı?
+
+Vazoya aspirin, bozuk para ya da şeker atmak gibi pek çok ev tarifi dolaşır. Bunların bir kısmının etkisi sınırlıdır, bir kısmı ise zararlı bile olabilir. Örneğin yalnızca şeker eklemek, çiçeği beslese de bakterilerin çoğalmasını hızlandırarak sapların daha çabuk tıkanmasına yol açar. Temiz bir vazo, düzenli su değişimi ve taze kesilmiş saplar, çoğu ev tarifinden çok daha etkilidir.
+
+## Çiçek türlerine göre ipuçları
+
+- **Gül:** Boynunu büken bir gülün sapını su içinde yeniden kesin ve gülü birkaç saat boyunca boynuna kadar ılık suya yatırın; çoğu zaman yeniden dikleşir. Dikenleri tamamen soymaktan kaçının; sapta açılan yaralar bakterilere kapı açar.
+- **Lale:** Vazoda bile uzamaya ve ışığa doğru eğilmeye devam eder. Serin su ve serin bir ortam sever. Nergislerle aynı vazoya hemen konmamalıdır; nergis saplarından çıkan özsu laleleri soldurur. Nergisleri birkaç saat ayrı bir kapta beklettikten sonra laleye ekleyebilirsiniz.
+- **Krizantem ve papatyalar:** Uzun ömürlü çiçeklerdir. Su altında kalan yaprakları özenle temizlemek yeterlidir.
+- **Ortanca:** Çok su kaybeden bir çiçektir. Sapın ucunu kestikten sonra birkaç santimetre yukarıya doğru dikine yarmak su alımını artırır.
+- **Gerbera:** Sapları kolayca çürür; vazoya az su koymak ve suyu sık değiştirmek daha iyi sonuç verir.
+
+## Bahçeden kesilen çiçekler için
+
+Kendi bahçenizden çiçek kesiyorsanız, kesimi sabahın erken saatlerinde, bitkiler gece boyunca suyunu topladıktan sonra yapın. Öğle sıcağında kesilen çiçekler hızla solar. Tamamen açmış çiçekler yerine, tomurcuklarının yarısı açmış çiçekleri kesmek, vazoda daha uzun süre keyif almanızı sağlar. Kesilen çiçekleri hemen yanınızda getirdiğiniz bir kova suya koyun ve vazoya yerleştirmeden önce birkaç saat serin bir yerde dinlendirin.
+
+## Kendi kesme çiçek köşenizi kurun
+
+Bahçenizin ya da balkonunuzun bir köşesini kesme çiçeklere ayırmak, ilkbahardan sonbahara kadar evinizi kendi çiçeklerinizle süslemenin en keyifli yoludur. Zinya, kadife çiçeği ve papatya gibi tek yıllık çiçekler, kesildikçe yeniden çiçek açar ve tohumdan kolayca yetişir. Bu tohumları ilkbaharda doğrudan toprağa ya da viyollere ekebilirsiniz.
+
+[ürün:arzuman-zinya-kirli-hanim-cicegi-tohumu-30-adet]
+
+[ürün:altinvadi-karagoz-kadife-cicegi-tohumu]
+
+Kadife çiçeği tohumlarını toplayıp yeniden ekmenin yollarını [kadife çiçeği tohumu toplama ve ekimi](/kadife-cicegi-tohumu-toplama-ve-ekimi) yazımızda, papatya yetiştirmenin ayrıntılarını ise [papatya yetiştirme](/papatya-yetistirme) yazımızda bulabilirsiniz.
+
+## Hediye olarak saksılı bitki de düşünün
+
+Kesme çiçekler ne kadar iyi bakılsa da birkaç hafta içinde ömrünü tamamlar. Uzun süre hatırlanacak bir hediye arıyorsanız, saksılı bir orkide, sıklamen ya da bir sukulent de güzel bir seçenek olabilir. Bu konuda fikir almak için [yılbaşı bitkileri](/yilbasi-bitkileri) yazımıza göz atabilirsiniz.
+
+Kesme çiçek ömrü, birkaç dakikalık özenle katlanabilir. Keskin bir bıçak, temiz bir vazo ve iki günde bir değiştirilen suyla, buketinizden hak ettiği kadar uzun süre keyif alabilirsiniz.
+@sss
+S: Vazodaki çiçeklerin suyu ne sıklıkla değiştirilmeli?
+C: Vazodaki su iki günde bir tamamen değiştirilmelidir. Her değişimde sapların ucundan bir iki santimetre kesmek ve vazoyu çalkalamak, kesme çiçeklerin ömrünü belirgin şekilde uzatır.
+
+S: Boynunu büken gül nasıl canlandırılır?
+C: Gülün sapını su içinde keskin bir bıçakla yeniden kesin ve gülü birkaç saat boyunca boynuna kadar ılık suya yatırın. Sap tıkanması giderildiğinde gül çoğu zaman yeniden dikleşir.
+
+S: Vazoya şeker koymak çiçeklerin ömrünü uzatır mı?
+C: Yalnızca şeker eklemek bakterilerin çoğalmasını hızlandırır ve sapların daha çabuk tıkanmasına yol açabilir. Temiz vazo, düzenli su değişimi ve taze kesilmiş saplar çok daha etkilidir.
+
+### YAZI
+slug: hurma-palmiyesi-bakimi
+baslik: Hurma Palmiyesi Bakımı: Bahçede ve Saksıda Yıllarca Yaşayan Palmiyeler
+yayin: 2026-11-29 11:05
+yazar: Ahmet Sacit Çelik
+kategori: bitki-bakimi
+odak: hurma palmiyesi bakımı
+seo_baslik: Hurma Palmiyesi Bakımı: Işık, Sulama, Toprak ve Kış Koruma
+seo_aciklama: Hurma palmiyesi bakımı nasıl yapılır? Kanarya, meyve hurması ve cüce hurma türleri, ışık, sulama, toprak, besleme, yaprak budama ve kışın dondan koruma.
+ozet: Hurma palmiyeleri, Akdeniz bahçelerinin simgesi olduğu kadar saksıda yetiştirilen gösterişli bitkilerdir. Kanarya hurmasından cüce hurmaya kadar yaygın türleri, ışık ve sulama ihtiyaçlarını, toprak seçimini ve kış korumasını anlatıyoruz.
+etiketler: hurma palmiyesi bakımı, cüce hurma, kanarya hurması, palmiye bakımı, saksıda palmiye
+gorsel: p7-hurma
+gorsel_alt: Cüce hurma palmiyesinin tüy gibi yayılan yaprakları
+urunler: areka-palmiyesi-topragi, tarim-perliti, cornet-ic-dis-mekan-tabakli-dekoratif-saksi-50-litre
+kisaca: Hurma palmiyesi bakımı, bol ışık, iyi süzülen bir toprak ve kuruyunca derin sulama üzerine kuruludur. Kanarya hurması ve meyve hurması bahçede hafif donlara dayanır; cüce hurma ise saksıda ve iç mekânda yetiştirilir. Kuru yapraklar gövdeye yakın değil, biraz mesafe bırakılarak kesilmeli, genç bitkiler sert ayazlardan korunmalıdır.
+@govde
+Antalya'nın caddelerinden İzmir'in kordon boylarına kadar hurma palmiyeleri, sıcak iklimlerin ve tatil havasının simgesidir. Ancak bu bitkiler yalnızca kıyı şehirlerinin bahçelerinde değil, evlerin aydınlık köşelerinde de saksıda yetiştirilebilir. Doğru tür seçildiğinde ve temel ihtiyaçlar karşılandığında, hurma palmiyeleri yıllarca, hatta onlarca yıl yaşayabilir. Bu yazıda hurma palmiyesi bakımı ile ilgili bilmeniz gerekenleri, bahçede ve saksıda yetiştirme farklarını ve kış koruma yöntemlerini anlatıyoruz.
+
+## Yaygın hurma palmiyesi türleri
+
+Hurma palmiyeleri, ortak bir cinse ait birkaç farklı türü kapsar. Bakım ihtiyaçları birbirine benzese de büyüklükleri ve soğuğa dayanıklılıkları farklıdır:
+
+- **Kanarya hurması:** Kalın gövdesi ve geniş, kemer gibi açılan koyu yeşil yapraklarıyla en gösterişli türdür. Kıyı şehirlerimizin park ve caddelerinde sıkça görülür. Hafif donlara dayanır.
+- **Meyve hurması:** Yenilen hurmayı veren türdür. İnce ve uzun gövdeli, gri-yeşil yapraklıdır. Bol meyve vermesi için çok sıcak ve kurak yazlara ihtiyaç duyar.
+- **Cüce hurma:** Boyu birkaç metreyi geçmeyen, ince ve tüy gibi yumuşak yapraklı zarif bir türdür. Saksıda ve iç mekânda yetiştirmeye en uygun hurma palmiyesidir. Kapaktaki fotoğrafta yaprakları görülen tür budur.
+
+Benzer bakım isteyen diğer palmiyeler için [areka palmiyesi bakımı](/areka-palmiyesi-bakimi) ve [kentia palmiyesi](/kentia-palmiyesi) yazılarımıza göz atabilirsiniz.
+
+## Işık: palmiyenin en önemli ihtiyacı
+
+Hurma palmiyeleri güneşi seven bitkilerdir. Bahçede, günün büyük bölümünde doğrudan güneş alan bir yere dikilmelidir. Saksıda yetiştirilen palmiyeler ise evin en aydınlık penceresinin önünde, tercihen güney ya da batı cephesinde tutulmalıdır. Işık yetersiz olduğunda yeni yapraklar soluk ve zayıf çıkar, bitki ışığa doğru eğilir.
+
+Yazın saksılı palmiyeleri balkona ya da terasa çıkarmak, bitkiyi güçlendirir. Ancak içeride kışı geçirmiş bir palmiyeyi bir anda yoğun öğle güneşine çıkarmak yapraklarda yanıklara yol açabilir; birkaç gün boyunca önce yarı gölgede tutarak alıştırın.
+
+## Sulama: derin ama seyrek
+
+Hurma palmiyesi bakımında en sık yapılan hata, sık ve az sulamaktır. Palmiyeler, toprağın derinlerine uzanan köklerini besleyen derin sulamalardan hoşlanır. Toprağın üst birkaç santimetresi kuruduğunda, suyu saksının dibinden akana kadar verin ve saksı altında biriken suyu boşaltın.
+
+- **Yazın:** Sıcak ve kurak dönemlerde saksılı palmiyeler haftada bir iki kez sulanabilir. Bahçedeki genç palmiyeler de ilk birkaç yıl düzenli sulama ister.
+- **Kışın:** Büyüme yavaşladığı için sulama aralığı uzatılmalıdır. İçeride kışlayan palmiyelerde toprağın daha fazla kurumasını bekleyin.
+
+Sürekli ıslak toprak, palmiye köklerinin çürümesine yol açar. Alt yaprakların hızla sararması ve gövde dibinde yumuşama, aşırı sulamanın işaretleri olabilir.
+
+## Hurma palmiyesi bakımı için toprak ve saksı
+
+Hurma palmiyeleri, iyi süzülen, havadar ve hafif kumlu toprakları sever. Saksıda yetiştirmek için palmiyeler için hazırlanmış karışımlar ya da kaliteli bir saksı toprağına perlit eklenerek hazırlanan süzek bir karışım uygundur.
+
+[ürün:areka-palmiyesi-topragi]
+
+[ürün:tarim-perliti]
+
+Palmiyenin kökleri derine uzandığı için geniş olduğu kadar derin saksılar tercih edin. Saksının dibinde mutlaka drenaj delikleri bulunmalıdır. Palmiyeler köklerinin rahatsız edilmesinden hoşlanmaz; bu yüzden saksı değişimini yalnızca kökler saksıyı tamamen doldurduğunda, ilkbaharda ve bir boy büyük saksıyla yapın.
+
+Büyük saksılarda ağaç yetiştirmenin incelikleri için [büyük saksıda ağaç](/buyuk-saksida-agac) yazımıza göz atabilirsiniz.
+
+## Besleme
+
+Hurma palmiyeleri, büyüme dönemi olan ilkbahar ve yaz aylarında düzenli beslemeden fayda görür. Palmiyelerde magnezyum ve potasyum eksiklikleri sık görülür: magnezyum eksikliğinde yaşlı yaprakların kenarları sararırken ortası yeşil kalır; potasyum eksikliğinde ise yaşlı yapraklarda sarı-turuncu noktalar ve kuruyan uçlar oluşur. Dengeli, mikro besin içeren bir palmiye ya da yeşil bitki besini ile ilkbahar ve yaz aylarında düzenli besleme yapın, kışın gübrelemeye ara verin.
+
+## Yaprak budama: ne kadar, ne zaman?
+
+Palmiyelerde alt yapraklar zamanla sararır ve kurur; bu doğal bir süreçtir. Tamamen kurumuş yaprakları kesmek, bitkiye bakımlı bir görünüm kazandırır. Ancak burada dikkat edilmesi gereken önemli bir nokta vardır: Yarı yeşil, hâlâ canlı olan yaprakları kesmeyin. Palmiye, sararmakta olan yapraklardaki besinleri geri çekerek yeni yapraklara aktarır; erken kesim bitkiyi zayıflatır.
+
+Yaprakları gövdenin dibinden sıfırlayarak değil, gövdeye zarar vermeyecek şekilde biraz mesafe bırakarak kesin. Palmiyelerde gövdenin yaralanması, hastalıkların ve zararlıların girişini kolaylaştırır. Özellikle büyük palmiyelerde budama işini güvenli ekipmanla ve dikkatle yapın. Kanarya hurmasının yaprak saplarında sert ve sivri dikenler bulunur; eldiven ve koruyucu gözlük kullanmak önemlidir.
+
+## Kışın hurma palmiyesi
+
+Kanarya hurması ve meyve hurması, olgun dönemde kısa süreli hafif donlara dayanabilir; ancak genç bitkiler ve uzun süren sert ayazlar onlara zarar verir. İç kesimlerde ya da kışları sert geçen bölgelerde palmiyeleri saksıda yetiştirip kışın korunaklı bir alana almak en güvenli yoldur.
+
+Bahçedeki genç palmiyeleri sert soğuklarda korumak için yaprakları gevşekçe toplayıp nefes alan bir örtüyle sarabilir, gövde dibini kalın bir malç tabakasıyla örtebilirsiniz. Cüce hurma ise soğuğa hassastır; kışı mutlaka içeride, aydınlık ve serin bir odada geçirmelidir. Dona karşı alınabilecek diğer önlemler için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazımıza göz atabilirsiniz.
+
+## Sık görülen sorunlar
+
+- **Yaprak uçlarının kahverengileşmesi:** İç mekânda kuru hava ya da düzensiz sulamaya işaret eder.
+- **Yaprakların sararması:** Alt yapraklarda doğal yaşlanma olabilir; yaygın sararma ise aşırı sulama ya da besin eksikliğini gösterir.
+- **Yapraklarda beyaz pamuksu kümeler:** Unlu bit gibi zararlılara işaret eder. Bu zararlılarla mücadele için [salon bitkilerinde zararlılar](/salon-bitkilerinde-zararlilar) yazımız yol gösterebilir.
+- **Tepe sürgününün çürümesi:** Palmiyenin büyüme noktası çürürse bitki kurtarılamaz. Tepe sürgününe su doldurmamaya ve sulama sırasında suyu toprağa vermeye özen gösterin.
+
+Doğru hurma palmiyesi bakımı ile bu zarif bitkiler, bahçenize ya da evinize yıllarca Akdeniz'in sıcak havasını taşır. Bol ışık, derin ama seyrek sulama ve sabırla, palmiyeniz her yıl birkaç yeni yaprakla büyümeye devam edecektir.
+@sss
+S: Hurma palmiyesi evde yetişir mi?
+C: Evet. Özellikle cüce hurma, saksıda ve iç mekânda yetiştirmeye çok uygundur. Evin en aydınlık penceresinin önünde, süzek bir toprakta ve kuruyunca sulanarak yıllarca yaşar.
+
+S: Hurma palmiyesinin kuru yaprakları kesilir mi?
+C: Tamamen kurumuş yapraklar kesilebilir, ancak yarı yeşil yapraklar kesilmemelidir. Kesim gövdeye zarar vermeyecek şekilde biraz mesafe bırakılarak yapılmalıdır.
+
+S: Hurma palmiyesi dona dayanıklı mı?
+C: Olgun kanarya hurması ve meyve hurması kısa süreli hafif donlara dayanabilir. Genç bitkiler ve cüce hurma soğuğa hassastır; sert kışlarda korunmalı ya da içeri alınmalıdır.
+
+### YAZI
+slug: ofis-bitkileri
+baslik: Ofis Bitkileri: Masada ve Toplantı Odasında Az Bakımla Yaşayan Yeşillik
+yayin: 2026-11-29 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: ofis bitkileri
+seo_baslik: Ofis Bitkileri: Masa İçin Az Bakım İsteyen 9 Seçenek
+seo_aciklama: Ofis bitkileri nasıl seçilir? Floresan ışığa ve klimaya dayanıklı, az su isteyen masa ve köşe bitkileri, hafta sonu ve tatil sulaması, ortak bakım düzeni.
+ozet: Ofis ortamı; klima, floresan ışık ve hafta sonları boş kalan odalarıyla bitkiler için kendine özgü bir yaşam alanıdır. Bu koşullara dayanabilen masa ve köşe bitkilerini, bakım düzenini ve tatil dönemlerinde sulama çözümlerini anlatıyoruz.
+etiketler: ofis bitkileri, masa bitkileri, az bakım isteyen bitkiler, sukulent, paşa kılıcı
+gorsel: p7-ofis
+gorsel_alt: Ahşap masa üzerinde koyu renkli saksılarda küçük sukulentler
+urunler: kaktus-ve-sukulent-topragi, pasa-kilici-sansevieria-topragi, salon-bitkilerine-ozel-toprak-karisimi
+kisaca: Ofis bitkileri seçilirken ışık, klima ve hafta sonu boşlukları dikkate alınmalıdır. Paşa kılıcı, para ağacı, salon sarmaşığı, haworthia ve diğer sukulentler, az ışığa ve düzensiz sulamaya dayanıklı seçeneklerdir. Bitkileri klima üflemesinden uzak tutmak, sulamayı takvimle değil toprağın kuruluğuyla yapmak ve tatilde bir sorumlu belirlemek gerekir.
+@govde
+Günümüzün büyük bölümünü geçirdiğimiz ofisler, çoğu zaman beyaz duvarlar, ekranlar ve gri halılardan oluşur. Masanın köşesine konan küçük bir saksı ya da toplantı odasının köşesindeki büyük bir bitki, bu ortama beklenmedik bir canlılık katar. Ancak ofis bitkileri, ev bitkilerinden daha zorlu koşullarla karşı karşıyadır: klimanın kurutan havası, pencereden uzak masalar, yalnızca floresan ışık ve kimsenin uğramadığı uzun hafta sonları. Bu yazıda ofis ortamına dayanabilecek bitkileri, onları nasıl yaşatacağınızı ve ofiste ortak bir bitki bakım düzeninin nasıl kurulabileceğini anlatıyoruz.
+
+## Ofis ortamını tanıyın
+
+Bitki seçmeden önce masanızın ya da bitkiyi koymak istediğiniz köşenin koşullarına bakın:
+
+- **Işık:** Pencereye yakın bir masa mı, yoksa ofisin ortasında yalnızca tavan lambalarıyla aydınlanan bir alan mı? Pencereden birkaç metre uzaklaşıldığında doğal ışık çok azalır.
+- **Klima ve ısıtma:** Klima ya da kalorifer üfleme ağızlarının hemen önü, bitkiler için en kötü yerdir. Sürekli hava akımı yaprakları kurutur.
+- **Hafta sonu ve tatiller:** Bitkileriniz iki üç gün boyunca sulanmadan kalabilecek mi? Bayram tatillerinde ofis bir hafta boş kalıyor mu?
+- **Sorumluluk:** Bitkiyle kim ilgilenecek? Ortak alandaki bitkiler, çoğu zaman herkesin sulayabileceği ama kimsenin sulamadığı bitkilere dönüşür.
+
+## Ofis bitkileri: dokuz dayanıklı seçenek
+
+**Paşa kılıcı (Sansevieria):** Ofislerin en dayanıklı bitkisidir. Floresan ışığa, kuru havaya ve haftalarca unutulmaya dayanır. Dik ve sade görünümü modern ofislere çok yakışır.
+
+[ürün:pasa-kilici-sansevieria-topragi]
+
+**Para ağacı (Zamioculcas):** Kalın, su depolayan kökleri sayesinde düzensiz sulamaya dayanır. Az ışıkta bile parlak, koyu yeşil yapraklarını korur.
+
+**Salon sarmaşığı (Pothos):** Bir dosya dolabının ya da rafın üzerinden sarkan dallarıyla ofise yumuşak bir yeşillik katar. Floresan ışıkta da büyür, susadığında yapraklarını sarkıtarak haber verir.
+
+**Haworthia:** Küçük boyutu ve çizgili, kalın yapraklarıyla masa için ideal bir sukulenttir. Diğer pek çok sukulentin aksine orta ışıkta da iyi yaşar. Bakımı için [haworthia bakımı](/haworthia-bakimi) yazımıza göz atabilirsiniz.
+
+**Sukulentler ve kaktüsler:** Güneş alan pencere önündeki masalar için en pratik seçimdir. Ancak pencereden uzak, ışığı az masalarda sukulentler uzar ve renklerini kaybeder.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+**Barış çiçeği:** Orta ışıkta beyaz çiçekler açar ve sulama zamanını yapraklarını düşürerek belli eder.
+
+**Kauçuk ağacı:** Toplantı odaları ve geniş köşeler için gösterişli bir zemin bitkisidir.
+
+**Dua çiçeği:** Masaüstünde ilgi çekici yaprak desenleri sunar ama nem sever; klimalı ofislerde daha fazla ilgi ister.
+
+**Kurdele çiçeği (Chlorophytum):** Hızlı büyür, kolay çoğalır ve ortak alanlarda neşeli bir görüntü oluşturur.
+
+Az ışıkta yaşayan bitkilerin geniş listesi için [az ışıkta yaşayan salon bitkileri](/az-isikta-yasayan-salon-bitkileri) yazımıza, sukulent türleri için ise [sukulent çeşitleri](/sukulent-cesitleri) yazımıza göz atabilirsiniz.
+
+## Floresan ve LED ışık yeterli mi?
+
+Ofislerdeki tavan aydınlatmaları, pek çok az ışık bitkisinin yaşaması için yeterli olabilir. Ancak bu ışık, pencereden gelen gün ışığından çok daha zayıftır. Paşa kılıcı, para ağacı ve salon sarmaşığı gibi bitkiler yalnızca tavan aydınlatmasıyla yavaş ama sağlıklı büyüyebilir. Işık seven bitkiler içinse masaya yerleştirilen küçük bir bitki lambası çok fark yaratır. Ofis ışıklarının hafta sonu ve geceleri tamamen kapandığını da unutmayın; bu, bitkilerin aldığı toplam ışığı azaltır.
+
+## Sulama düzeni
+
+Ofis bitkilerinin en büyük düşmanı, hem susuzluk hem de aşırı sulamadır. Pazartesi sabahları "hafta sonu susamıştır" diye bol su vermek ve hafta boyunca birkaç kişinin aynı bitkiyi sulaması, kökleri çürüten en yaygın hatalardır.
+
+- Sulamayı takvime göre değil, toprağın kuruluğuna göre yapın.
+- Ortak alandaki bitkiler için bir sulama sorumlusu belirleyin ya da saksıya sulandığı tarihi yazan küçük bir etiket koyun.
+- Az su isteyen bitkileri, sık su isteyen bitkilerle aynı saksıya ya da aynı sulama düzenine koymayın.
+
+Sulama aralıkları hakkında genel bilgi için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımıza göz atabilirsiniz.
+
+## Tatil ve uzun hafta sonları
+
+Bayram tatilleri ve yılbaşı gibi ofisin uzun süre boş kaldığı dönemler için önceden plan yapın. Tatilden bir iki gün önce bitkileri iyice sulamak, saksıları pencereden biraz uzaklaştırarak su kaybını azaltmak ve küçük saksıları bir arada gruplamak, bir haftalık bir boşluğu çoğu bitki için sorunsuz hâle getirir. Daha uzun süreler için kendi kendini sulayan saksılar ya da fitil sistemleri işe yarar. Bu yöntemleri [tatilde bitkiler nasıl sulanır](/tatilde-bitkiler-nasil-sulanir) yazımızda anlattık.
+
+## Toprak ve saksı seçimi
+
+Ofis bitkileri için süzek ve havadar bir toprak, aşırı sulama hatalarını tolere etmenin en iyi yoludur. Saksının dibinde drenaj deliği olması önemlidir; ancak masada su akıtmamak için altlık kullanmayı ve altlıkta su biriktirmemeyi unutmayın.
+
+Küçük masa saksılarında toprak çabuk kurur; bu yüzden çok küçük saksılar yerine, bitkinin kök kütlesine uygun, biraz daha hacimli saksılar tercih edin.
+
+## Bitkilerin ofise katkısı
+
+Bitkilerin ofis havasını belirgin şekilde temizlediği iddiası abartılıdır; gerçek bir ofiste havanın kalitesini belirleyen asıl şey havalandırma sistemidir. Ancak çalışma ortamında bitkilerin bulunması, pek çok kişi için daha keyifli ve sakin bir atmosfer yaratır. Bir bitkiyle ilgilenmek, ekran başında geçen saatlerin arasında küçük ve iyi gelen bir mola sunar. Ofis bitkilerinin asıl değeri de burada yatar.
+
+## Sık yapılan hatalar
+
+- **Klima önüne koymak:** Yaprak uçları kurur, yapraklar dökülür.
+- **Birden fazla kişinin sulaması:** Aşırı sulama ve kök çürüklüğüne yol açar.
+- **Işık seven bitkiyi karanlık köşeye koymak:** Bitki uzar, solar ve yaprak döker.
+- **Tatil planı yapmamak:** Uzun tatillerden sonra kurumuş bitkilerle karşılaşılır.
+
+Doğru seçilmiş ofis bitkileri, az ilgiyle yıllarca yaşayarak çalışma alanınızı daha yeşil ve daha keyifli hâle getirir. Masanızın ışığına uygun küçük bir bitkiyle başlayın; belki birkaç ay sonra bütün ekip kendi saksısını getirmeye başlar.
+@sss
+S: Penceresiz ofiste hangi bitki yaşar?
+C: Paşa kılıcı, para ağacı ve salon sarmaşığı yalnızca tavan aydınlatmasıyla yavaş ama sağlıklı büyüyebilir. Işık seven bitkiler için masaya küçük bir bitki lambası eklemek gerekir.
+
+S: Ofis bitkileri ne sıklıkla sulanmalı?
+C: Takvime göre değil, toprağın kuruluğuna göre sulanmalıdır. Paşa kılıcı ve para ağacı gibi bitkiler genellikle iki üç haftada bir yeterli olurken salon sarmaşığı daha sık su ister.
+
+S: Bayram tatilinde ofis bitkileri nasıl sulanır?
+C: Tatilden önce bitkileri iyice sulayıp pencereden biraz uzaklaştırmak ve gruplamak bir haftalık boşluğu çoğu bitki için sorunsuz hâle getirir. Daha uzun süreler için kendi kendini sulayan saksılar kullanılabilir.
+
+### YAZI
+slug: fil-kulagi-topragi
+baslik: Fil Kulağı Toprağı: Alokazyanın Dev Yaprakları İçin Havadar Bir Yuva
+yayin: 2026-11-29 13:45
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: fil kulağı toprağı
+seo_baslik: Fil Kulağı Toprağı: Alokazya İçin Doğru Karışım ve Saksı
+seo_aciklama: Fil kulağı toprağı nasıl olmalı? Alokazya köklerinin hava ihtiyacı, perlit ve kabuk katkısı, pH, saksı seçimi, saksı değişimi ve kışın kök çürüklüğünü önleme.
+ozet: Fil kulağı olarak bilinen alokazyalar, dev ve desenli yaprakları kadar hassas kökleriyle de tanınır. Bu bitkiler için toprağın neden hem nemli hem havadar olması gerektiğini, iyi bir karışımın bileşenlerini ve saksı değişiminin inceliklerini anlatıyoruz.
+etiketler: fil kulağı toprağı, alokazya, alocasia, saksı toprağı, tropik bitkiler
+gorsel: p7-alokazya
+gorsel_alt: Beyaz damarlı, koyu yeşil ok biçimli bir alokazya yaprağı
+urunler: hg-fil-kulagi-topragi, tarim-perliti, kalin-tarim-perliti
+kisaca: Fil kulağı toprağı, alokazyanın etli köklerini çürütmeden nemli tutabilecek kadar organik, ama havayı ve suyu hızla geçirecek kadar gözenekli olmalıdır. Kalın perlit, ağaç kabuğu ve torf ya da kokopit içeren hafif asidik bir karışım idealdir. Saksı değişimi ilkbaharda ve bir boy büyük saksıyla yapılmalı, kışın toprak daha kuru tutulmalıdır.
+@govde
+Fil kulağı adıyla bilinen alokazyalar, son yıllarda evlerimizin en gözde salon bitkileri arasına girdi. Ok ya da kalp biçimli, kimi zaman beyaz damarlarla süslenmiş dev yaprakları, bir odayı tropik bir ormana dönüştürür. Ancak bu gösterişli bitkiler, bakımda yapılan hatalara oldukça duyarlıdır ve sorunların büyük bölümü köklerden başlar. Doğru seçilmiş bir fil kulağı toprağı, alokazya bakımının belki de en kritik adımıdır. Bu yazıda alokazya köklerinin neye ihtiyaç duyduğunu, iyi bir karışımın nasıl olması gerektiğini ve saksı değişiminin inceliklerini anlatıyoruz.
+
+Alokazyanın ışık, nem ve genel bakımı için [fil kulağı alokazya bakımı](/fil-kulagi-alokazya-bakimi) yazımıza göz atabilirsiniz.
+
+## Alokazya köklerinin özelliği
+
+Alokazyalar, doğal ortamlarında tropik ormanların zemininde, sürekli ayrışan yaprakların oluşturduğu gevşek ve havadar bir katmanda yetişir. Kökleri kalın, etli ve beyazdır; aynı zamanda bitkinin su ve besin deposu olarak çalışan bir yumru ya da kalın bir gövde tabanından çıkar. Bu yapı, köklerin hem nemi sevmesine hem de havasızlığa son derece hassas olmasına neden olur.
+
+Saksıdaki toprak sıkıştığında ya da sürekli ıslak kaldığında, alokazya kökleri birkaç gün içinde çürümeye başlayabilir. Bitki bunu önce alt yapraklarını sarartarak, ardından yeni yaprakların küçük ve zayıf çıkmasıyla belli eder. Bu yüzden fil kulağı toprağı, iki zıt ihtiyacı aynı anda karşılamalıdır: nemi korumak ve havayı geçirmek.
+
+## İyi bir fil kulağı toprağının özellikleri
+
+- **Yüksek gözeneklilik:** Kökler arasında hava dolaşımını sağlayan iri parçacıklar.
+- **Hızlı drenaj:** Sulamadan sonra fazla suyun dakikalar içinde saksının dibinden çıkması.
+- **Dengeli nem:** Kökleri sulamalar arasında tamamen kurutmayacak kadar organik madde.
+- **Hafif asidik yapı:** Yaklaşık pH 5,5 ile 6,5 arası.
+- **Zamanla sıkışmayan yapı:** Uzun süre gevşek kalabilen dayanıklı bileşenler.
+
+Bu özellikleri karşılayan bir karışım, genellikle torf ya da kokopit gibi nem tutan bir taban, kalın perlit ve ağaç kabuğu gibi gözenek oluşturan katkılar ve olgun organik gübreden oluşur. Kullanıma hazır, alokazyalar için dengelenmiş karışımlar bu oranlarla uğraşmadan doğru bir başlangıç yapmanızı sağlar.
+
+[ürün:hg-fil-kulagi-topragi]
+
+## Perlit ve kabuğun rolü
+
+Fil kulağı toprağında perlit ve ağaç kabuğu, köklerin nefes almasını sağlayan iskelettir. Perlit hafif ve gözeneklidir, suyu emmeden hızla geçirir ve toprağın sıkışmasını engeller. Alokazya gibi havaya duyarlı bitkiler için ince perlit yerine kalın taneli perlit tercih etmek, karışımın daha uzun süre gevşek kalmasını sağlar.
+
+[ürün:kalin-tarim-perliti]
+
+Mevcut bir saksı toprağını alokazya için uygun hâle getirmek isterseniz, karışıma bolca perlit ekleyebilirsiniz.
+
+Perlit tane boyutlarının farkını [ince ve kalın perlit](/ince-ve-kalin-perlit) yazımızda, perlitin genel özelliklerini ise [perlit nedir, nasıl kullanılır](/perlit-nedir-nasil-kullanilir) yazımızda anlattık.
+
+## Fil kulağı toprağı ve saksı seçimi
+
+Toprak ne kadar iyi olursa olsun, yanlış saksı tüm dengeyi bozabilir. Alokazyalar için saksı seçerken şunlara dikkat edin:
+
+- **Drenaj deliği şarttır.** Dibi kapalı dekoratif saksıları yalnızca dış kap olarak kullanın ve içindeki asıl saksının altında su birikmesine izin vermeyin.
+- **Boyut önemlidir.** Kök kütlesinden çok büyük bir saksı, kökler tarafından kullanılmayan bol toprak demektir; bu toprak uzun süre ıslak kalır ve çürümeye yol açar. Bir boy büyük saksı yeterlidir.
+- **Malzeme:** Pişmiş toprak saksılar nefes alır ve toprağın daha hızlı kurumasını sağlar; aşırı sulama eğilimi olanlar için iyi bir seçimdir. Plastik saksılar nemi daha uzun tutar.
+
+Saksı seçiminin genel kuralları için [saksı seçimi rehberi](/saksi-secimi-rehberi) yazımıza göz atabilirsiniz.
+
+## Saksı değişimi: ne zaman ve nasıl?
+
+Alokazyaların saksı değişimi için en uygun zaman, bitkinin yeni yapraklar vermeye başladığı ilkbahar ve erken yaz aylarıdır. Kışın, büyümenin yavaşladığı dönemde saksı değiştirmek, bitkinin toparlanmasını zorlaştırır ve kök çürüklüğü riskini artırır.
+
+1. Bitkiyi saksıdan dikkatle çıkarın ve eski toprağı köklerin arasından nazikçe temizleyin.
+2. Kökleri kontrol edin: sağlıklı kökler beyaz ve sıkıdır; kahverengi, yumuşak ve kötü kokan kökleri temiz bir makasla kesin.
+3. Kök kütlesinin çevresinde birkaç parmak boşluk kalacak büyüklükte bir saksı seçin.
+4. Bitkiyi eski toprak seviyesinde kalacak şekilde yerleştirin; gövde tabanını daha derine gömmeyin.
+5. Toprağı bastırmadan, saksıyı hafifçe sarsarak yerleştirin; alokazya toprağının gevşek kalması önemlidir.
+6. İlk sulamayı hafif yapın ve bitkiyi birkaç gün doğrudan güneşten uzak tutun.
+
+Saksı değişimi sırasında ana bitkinin yanında küçük yavrular ya da yumrucuklar bulabilirsiniz. Bunları ayırıp ayrı saksılara dikerek yeni bitkiler elde edebilirsiniz.
+
+## Kışın fil kulağı toprağı
+
+Kış, alokazyalar için en riskli dönemdir. Işık azalır, sıcaklık düşer ve bitki büyümesini yavaşlatır; bazı türler birkaç yaprağını kaybederek yarı dinlenmeye geçer. Bu dönemde toprak yazın olduğundan çok daha yavaş kurur. Yaz alışkanlığıyla sulamaya devam etmek, kök çürüklüğünün en sık nedenidir.
+
+Kışın toprağın üst birkaç santimetresinin tamamen kurumasını bekleyin, saksıyı soğuk zeminden ve pencere camından uzak tutun. Bitki yapraklarının çoğunu kaybetse bile, yumru sağlam ve sıkıysa ilkbaharda yeniden sürecektir; bu dönemde toprağı neredeyse kuru tutmak yumrunun çürümesini önler.
+
+## Topraktan kaynaklanan sorunlar
+
+- **Alt yaprakların hızla sararması:** Çoğunlukla aşırı sulama ya da havasız topraktan kaynaklanır.
+- **Toprakta küf ve kötü koku:** Toprak sürekli ıslak kalıyor demektir; karışımı yenilemek gerekir. Bu konuyu [saksı toprağı neden küflenir](/saksi-topragi-neden-kuflenir) yazımızda anlattık.
+- **Yaprak kenarlarında kahverengi kuruma:** Toprakta tuz birikimi ya da düzensiz sulamaya işaret edebilir. Saksıyı yılda birkaç kez bolca sulayarak tuzları yıkamak işe yarar.
+- **Toprakta küçük sinekler:** Sürekli nemli toprakta çoğalan mantar sineklerini gösterir.
+
+Benzer köklere sahip [kaladyum bakımı](/kaladyum-bakimi) yazımız da yumrulu tropik bitkilerde toprak ve sulama dengesi açısından fikir verebilir.
+
+## Besleme
+
+Alokazyalar, büyüme döneminde hızlı gelişen ve besin tüketen bitkilerdir. İlkbahar ve yaz aylarında iki üç haftada bir seyreltilmiş sıvı besinle beslemek, iri ve sağlıklı yapraklar oluşmasını destekler. Toprağın yüzeyine yılda bir iki kez ince bir solucan gübresi katmanı serpmek de besinleri yavaş yavaş sunar. Kışın gübrelemeye tamamen ara verin.
+
+Doğru fil kulağı toprağı, alokazyanın köklerine hem nefes alacak alan hem de ihtiyaç duyduğu nemi sunar. Havadar bir karışım, uygun boyda bir saksı ve kışın biraz daha cimri bir sulamayla, bu dev yapraklı bitki evinizin en gösterişli köşesi olmaya devam edecektir.
+@sss
+S: Alokazya için hangi toprak kullanılır?
+C: Alokazya için nemli kalabilen ama çok havadar ve süzek bir karışım gerekir. Torf ya da kokopit tabanına kalın perlit ve ağaç kabuğu eklenmiş, hafif asidik karışımlar iyi sonuç verir.
+
+S: Fil kulağı bitkisinin kökleri neden çürür?
+C: En sık nedenler sıkışmış ve havasız toprak, drenaj deliği olmayan saksı ve özellikle kışın yapılan aşırı sulamadır. Toprağın üst kısmı kurumadan sulamamak çürümeyi önler.
+
+S: Alokazyanın saksısı ne zaman değiştirilir?
+C: En uygun zaman bitkinin yeni yapraklar verdiği ilkbahar ve erken yaz aylarıdır. Kışın saksı değişimi bitkiyi zorlar ve kök çürüklüğü riskini artırır.
+
+### YAZI
+slug: tohum-cimlenme-testi
+baslik: Tohum Çimlenme Testi: Ekimden Önce Tohumlarınızın Canlılığını Ölçün
+yayin: 2026-11-29 15:10
+yazar: Mehmet Fatih Çelik
+kategori: ekim-takvimi
+odak: tohum çimlenme testi
+seo_baslik: Tohum Çimlenme Testi: Kâğıt Havluyla Canlılık Ölçümü
+seo_aciklama: Tohum çimlenme testi nasıl yapılır? Kâğıt havlu yöntemi, kaç tohum kullanılır, çimlenme oranı hesabı, sonuçların yorumu ve eski tohumlarla ekim planı.
+ozet: Çekmecede bekleyen eski tohumların hâlâ çimlenip çimlenmeyeceğini ekimden önce öğrenmek mümkün. Kâğıt havluyla evde yapılan basit bir çimlenme testini, sonuçların nasıl hesaplanıp yorumlanacağını ve bu bilgiyle ekimin nasıl planlanacağını anlatıyoruz.
+etiketler: tohum çimlenme testi, çimlenme oranı, eski tohum, tohum saklama, ekim hazırlığı
+gorsel: p7-cimlenme
+gorsel_alt: Petri kabında kökçük çıkarmış çimlenen buğday taneleri
+urunler: hindistan-cevizi-torfu-tablet-cocopeat-12-adet, 45-goz-yuvarlak-fide-viyolu, hg-fide-topragi
+kisaca: Tohum çimlenme testi, eldeki tohumların canlılığını ekimden önce ölçmenin basit bir yoludur. On ya da yirmi tohum nemli bir kâğıt havluya sarılır, ılık bir yerde bekletilir ve çimlenen tohumlar sayılır. Çimlenme oranı yüzde 80 üzerindeyse tohum normal, 50-80 arasında ise sık ekilmeli, 50'nin altındaysa yenilenmelidir.
+@govde
+Tohum çimlenme testi, her bahçecinin çekmecesindeki o eski tohumlar için yapılır: geçen yıllardan kalmış yarım tohum paketleri, kendi bahçesinden topladığı ve kâğıt zarflara koyduğu tohumlar ya da bir komşudan gelen birkaç avuç ata tohumu. İlkbahar yaklaştığında hep aynı soru sorulur: Bu tohumlar hâlâ çimlenir mi? Bunu öğrenmek için ekip haftalarca beklemek ve sonunda boş bir viyolle karşılaşmak zorunda değilsiniz. Evde birkaç dakikada kurulabilen bir tohum çimlenme testi, tohumlarınızın ne kadar canlı olduğunu birkaç gün içinde gösterir. Kış ayları, ilkbahar ekiminden önce bu testi yapmak için en uygun zamandır. Bu yazıda testin nasıl yapılacağını, sonuçların nasıl hesaplanacağını ve bu bilgiyle ekimi nasıl planlayacağınızı anlatıyoruz.
+
+## Tohumlar neden zamanla çimlenme gücünü kaybeder?
+
+Tohum, içinde küçük bir bitki embriyosu ve onu besleyecek bir besin deposu taşıyan canlı bir yapıdır. Bu canlılık, tohum saklandığı sürece yavaş yavaş azalır. Sıcaklık, nem ve ışık bu yaşlanmayı hızlandıran başlıca etkenlerdir. Serin, kuru ve karanlık bir yerde saklanan tohumlar yıllarca canlı kalabilirken, sıcak ve nemli bir mutfak dolabında bekleyen tohumlar bir iki yıl içinde çimlenme gücünü büyük ölçüde kaybedebilir.
+
+Tohumların ömrü türden türe de değişir. Domates, patlıcan, kabak ve salatalık tohumları genellikle uzun ömürlüdür; soğan, pırasa, maydanoz ve havuç tohumları ise çok daha çabuk yaşlanır. Bu yüzden özellikle kısa ömürlü tohumlarda, ekimden önce bir test yapmak büyük bir zaman kaybını önler. Tohum saklamanın doğru yollarını [ata tohumu saklama](/ata-tohumu-saklama) yazımızda anlattık.
+
+## Tohum çimlenme testi için gerekenler
+
+- Test etmek istediğiniz tohumlardan 10 ya da 20 adet,
+- Birkaç kat kâğıt havlu ya da kahve filtresi,
+- Kapağı olan plastik bir kap ya da kilitli bir poşet,
+- Su püskürtmek için bir sprey şişe,
+- Tohum türünü ve tarihi yazmak için kalem ve etiket.
+
+Test için kullanılan tohum sayısı, sonucun güvenilirliğini belirler. On tohum hızlı bir fikir verir; yirmi ya da daha fazla tohum ise daha doğru bir oran sağlar. İri tohumlarda ve elinizde çok az tohum varsa on tohum yeterlidir.
+
+## Adım adım kâğıt havlu yöntemi
+
+1. Kâğıt havluyu su ile iyice nemlendirin, ardından fazla suyunu sıkın. Havlu ıslak ama damlamayan bir kıvamda olmalıdır.
+2. Tohumları havlunun bir yarısına, birbirine değmeyecek şekilde aralıklı dizin.
+3. Havlunun diğer yarısını tohumların üzerine katlayın ya da havluyu hafifçe rulo yapın.
+4. Havluyu kapaklı bir kaba ya da poşete koyun. Kapağı tamamen kapatmayın; hafif bir hava girişi küflenmeyi azaltır.
+5. Kabın üzerine tohum türünü ve testin başladığı tarihi yazın.
+6. Kabı 20-25 derece arasında, ılık bir yerde tutun. Buzdolabının üstü ya da kaloriferin yakınındaki bir raf genellikle uygundur.
+7. Her gün kontrol edin; havlu kurumaya başlamışsa sprey şişeyle nemlendirin.
+
+Tohumlardan beyaz bir kökçük çıktığında, o tohum çimlenmiş sayılır.
+
+## Ne kadar beklemeli?
+
+Her türün çimlenme süresi farklıdır. Test süresini, türün normal çimlenme süresinin biraz üzerinde tutun:
+
+| Tohum türü | Ortalama çimlenme süresi |
+| --- | --- |
+| Marul, roka, turp, lahana | 3-7 gün |
+| Domates, kabak, salatalık, fasulye | 5-10 gün |
+| Biber, patlıcan | 7-14 gün |
+| Soğan, pırasa | 7-14 gün |
+| Maydanoz, havuç | 14-21 gün |
+
+Bu süre sonunda hiç kökçük çıkarmayan tohumları çimlenmemiş kabul edebilirsiniz. Biber ve maydanoz gibi yavaş çimlenen türlerde sabırlı olun ve sıcaklığın düşmemesine dikkat edin. Sıcaklığın çimlenme üzerindeki etkisini [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazımızda anlattık.
+
+## Tohum çimlenme testi sonucunu hesaplamak
+
+Çimlenme oranını bulmak çok kolaydır: Çimlenen tohum sayısını, test edilen toplam tohum sayısına bölüp yüzle çarparsınız. Örneğin yirmi tohumdan on altısı çimlendiyse çimlenme oranı yüzde 80'dir.
+
+- **Yüzde 80 ve üzeri:** Tohumlarınız sağlıklıdır; normal ekim yoğunluğuyla ekebilirsiniz.
+- **Yüzde 50-80 arası:** Tohumlar kullanılabilir, ancak her göze ya da ocağa bir yerine iki üç tohum ekmek gerekir.
+- **Yüzde 50'nin altı:** Tohumlar ciddi şekilde yaşlanmıştır. Çok sık ekerek deneyebilirsiniz ama mümkünse taze tohum temin edin.
+
+Çimlenme hızına da dikkat edin. Normal sürede ve hep birlikte çimlenen tohumlar güçlüdür. Çok yavaş ve dağınık çimlenen tohumlar, oran yüksek görünse bile zayıf fideler verebilir.
+
+## Çimlenen tohumları ne yapmalı?
+
+Test sırasında çimlenen tohumları çöpe atmak zorunda değilsiniz. Kökçükleri birkaç milimetre uzunluğa ulaşan tohumları, kökçüğe dokunmadan dikkatle bir viyole ya da tabletlere ekebilirsiniz. Kökçüğün aşağı bakacak şekilde yerleştirilmesi ve üzerinin ince bir fide toprağıyla örtülmesi yeterlidir.
+
+[ürün:hindistan-cevizi-torfu-tablet-cocopeat-12-adet]
+
+[ürün:45-goz-yuvarlak-fide-viyolu]
+
+Viyolde ekimin adımlarını [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazımızda bulabilirsiniz.
+
+## Test sonucu kötüyse
+
+Tohumlarınız hiç çimlenmediyse bunun birkaç nedeni olabilir. Tohumlar gerçekten canlılığını kaybetmiş olabilir; ancak bazı türler çimlenmek için özel koşullara ihtiyaç duyar. Örneğin lavanta, adaçayı ve bazı çok yıllık bitkilerin tohumları, çimlenmeden önce bir süre soğuk görmek ister. Bazı tohumlar ise ışıkta çimlenir; bu tohumlar kâğıt havlunun arasında karanlıkta kalırsa sonuç yanıltıcı olabilir. Böyle türler için tohumları havlunun üzerine koyup katlamadan, şeffaf bir kapla kapatarak test etmek daha doğrudur. Soğuk ihtiyacı olan tohumlar için [tohum soğuklama](/tohum-soguklama-stratifikasyon) yazımıza, çimlenmeme nedenlerinin geniş listesi için ise [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazımıza göz atabilirsiniz.
+
+## Kışın test, ilkbaharda ekim
+
+Tohum çimlenme testini kış aylarında, ocak ve şubatta yapmak, ilkbahar ekimine hazırlıklı girmenizi sağlar. Böylece hangi tohumların yenilenmesi gerektiğini erkenden öğrenir, eksikleri ekim zamanı gelmeden tamamlarsınız. Kendi topladığınız tohumlarda bu test, hasattan sonraki ilk kışta yapıldığında tohumlarınızın ne kadar iyi olgunlaşıp kuruduğunu da gösterir. Test ettiğiniz tohum paketlerinin üzerine çimlenme oranını ve test tarihini yazmak, bir sonraki yıl için de değerli bir kayıt oluşturur.
+
+Tohum çimlenme testi, birkaç kâğıt havlu ve biraz sabırla, ilkbaharın en büyük hayal kırıklıklarından birini önler. Çekmecedeki eski tohumlara bir şans vermeden önce onları test edin; belki de yıllardır sakladığınız o ata tohumu hâlâ hayata hazırdır.
+@sss
+S: Tohum çimlenme testi nasıl yapılır?
+C: On ya da yirmi tohum nemli bir kâğıt havluya aralıklı dizilir, havlu katlanıp kapaklı bir kaba konur ve 20-25 derecede bekletilir. Türün çimlenme süresi sonunda kökçük çıkaran tohumlar sayılarak oran hesaplanır.
+
+S: Çimlenme oranı nasıl hesaplanır?
+C: Çimlenen tohum sayısı test edilen toplam tohum sayısına bölünüp yüzle çarpılır. Örneğin yirmi tohumdan on altısı çimlendiyse oran yüzde 80'dir.
+
+S: Çimlenme oranı düşük tohum ekilir mi?
+C: Yüzde 50-80 arası oranlarda tohumlar her göze iki üç adet sık ekilerek kullanılabilir. Yüzde 50'nin altında ise mümkünse taze tohum temin etmek daha doğrudur.
+
+### YAZI
+slug: zeytinde-periyodisite
+baslik: Zeytinde Periyodisite: Var Yılı Yok Yılı Neden Olur, Nasıl Azaltılır?
+yayin: 2026-11-29 16:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: zeytinde periyodisite
+seo_baslik: Zeytinde Periyodisite: Var Yılı Yok Yılı ve Çözüm Yolları
+seo_aciklama: Zeytinde periyodisite nedir? Var yılı ve yok yılı döngüsünün nedenleri, geç hasat etkisi, dengeli besleme, budama, sulama ve verimi yıllara yaymanın yolları.
+ozet: Zeytin ağacının bir yıl dallarını büküp ertesi yıl neredeyse hiç ürün vermemesi, üreticilerin en eski derdidir. Var yılı yok yılı döngüsünün nedenlerini ve budama, besleme, sulama ve hasat zamanıyla bu dalgalanmanın nasıl azaltılabileceğini anlatıyoruz.
+etiketler: zeytinde periyodisite, var yılı yok yılı, zeytin gübreleme, zeytin budama, zeytin verimi
+gorsel: p7-zeytin-gubre
+gorsel_alt: Yamaçta yaşlı ve kalın gövdeli zeytin ağaçlarının bulunduğu bir zeytinlik
+urunler: kati-solucan-gubresi-20-kg, leonardit-organik-toprak-duzenleyici, guanokalong-extract-sivi-guano-gubresi
+kisaca: Zeytinde periyodisite, ağacın bir yıl bol, ertesi yıl az ürün vermesidir. Bol ürünlü yılda meyveler besinleri tüketir ve ertesi yılın çiçek tomurcuklarının oluşumu baskılanır. Dengeli besleme, her yıl düzenli yapılan hafif budama, kritik dönemlerde sulama ve gecikmeden yapılan hasat bu dalgalanmayı azaltır.
+@govde
+Ege ve Akdeniz'in zeytinliklerinde dilden dile dolaşan bir söz vardır: "Zeytin bir yıl verir, bir yıl dinlenir." Bir yıl dalları yere eğilecek kadar bol ürün veren ağaçların ertesi yıl neredeyse boş kalması, zeytin üreticilerinin yüzyıllardır bildiği bir durumdur. Zeytinde periyodisite ya da halk arasındaki adıyla var yılı yok yılı, hem çiftçinin gelirini hem de bahçesinde birkaç zeytin ağacı olanların sofrasını doğrudan etkiler. Bu dalgalanma tamamen ortadan kaldırılamasa da doğru bakımla belirgin şekilde azaltılabilir. Bu yazıda periyodisitenin nedenlerini ve bu döngüyü yumuşatmanın yollarını anlatıyoruz.
+
+Zeytin ağacının hasat sonrası bakımı için [zeytin ağacına hasat sonrası bakım](/zeytin-agacina-hasat-sonrasi-bakim) yazımıza da göz atabilirsiniz.
+
+## Zeytinde periyodisite neden olur?
+
+Zeytin ağacı, meyvesini bir önceki yıl oluşan sürgünler üzerinde verir. Yani bu yılın çiçekleri ve meyveleri, geçen yıl büyüyen dallarda açar. Aynı zamanda ağaç, bu yıl yeni sürgünler geliştirerek gelecek yılın ürününü hazırlar. İşte periyodisitenin kökü bu iki işin aynı anda yapılmasında yatar.
+
+Bol ürünlü bir yılda ağaç, enerjisinin ve besin depolarının büyük bölümünü meyvelere aktarır. Meyveler adeta güçlü bir çekim merkezi gibi davranarak sürgün gelişimine yetecek kaynak bırakmaz. Bu yüzden var yılında yeni sürgünler kısa ve az olur. Ayrıca gelişen meyvelerin ve çekirdeklerin salgıladığı bazı doğal maddeler, ertesi yılın çiçek tomurcuklarının oluşumunu baskılar. Sonuçta ertesi yıl hem meyve verecek sürgün az olur hem de bu sürgünlerdeki tomurcukların çoğu çiçeğe dönüşmez: yok yılı gelir.
+
+Yok yılında ise ağacın meyve yükü az olduğu için bol ve güçlü sürgünler gelişir; bu da bir sonraki yılın bol ürününü hazırlar. Döngü böylece kendini tekrar eder.
+
+## Döngüyü güçlendiren etkenler
+
+Periyodisite her zeytin ağacında aynı şiddette görülmez. Bazı etkenler döngüyü belirgin şekilde güçlendirir:
+
+- **Çeşit:** Bazı zeytin çeşitleri periyodisiteye doğal olarak daha yatkındır.
+- **Geç hasat:** Meyvelerin dalda uzun süre bırakılması, ağacın kaynaklarını daha uzun süre tüketir ve ertesi yılın tomurcuk oluşumunu daha fazla baskılar.
+- **Yetersiz besleme:** Bol ürün yılında tükenen besinlerin yerine konmaması, ağacın toparlanmasını geciktirir.
+- **Kuraklık:** Özellikle sürgün büyümesi ve meyve dolumu dönemlerinde yaşanan su sıkıntısı, döngüyü derinleştirir.
+- **Düzensiz budama:** Yıllarca budanmayıp bir anda sert budanan ağaçlar, dengesiz bir sürgün-meyve ilişkisine girer.
+- **Hastalık ve zararlılar:** Yaprak kaybına yol açan hastalıklar ağacın depolarını azaltır. Zeytinde görülen başlıca hastalıkları [zeytin hastalıkları](/zeytin-hastaliklari) yazımızda anlattık.
+
+## Zeytinde periyodisite nasıl azaltılır?
+
+### Dengeli ve düzenli besleme
+
+Zeytinde periyodisite ile mücadelenin temel taşlarından biri, ağacın her yıl düzenli olarak beslenmesidir. Var yılında meyveyle birlikte topraktan önemli miktarda besin kaldırılır; bu besinlerin yerine konmaması, yok yılını daha da derinleştirir. Azot, sürgün gelişimini destekler; potasyum ise meyve kalitesi ve ağacın genel direnci için önemlidir. Bor gibi mikro besinler de çiçeklenme ve meyve tutumunda rol oynar.
+
+Gübreleme programını toprak ve yaprak analizlerine göre yapmak, gereksiz masrafı önler ve eksik besini doğru zamanda vermeyi sağlar. Organik madde açısından zengin bir toprak, besinleri daha dengeli sunar ve ağacın toprak altındaki kök sistemini güçlendirir.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+Yorgun ve organik maddesi azalmış zeytinlik topraklarında hümik madde içeren düzenleyiciler, toprağın besin tutma kapasitesini artırır.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+Sıvı organik gübreler ise ilkbaharda sürgün gelişiminin başladığı dönemde hızlı bir destek sağlayabilir.
+
+### Her yıl hafif budama
+
+Zeytin ağacını birkaç yılda bir sert budamak yerine her yıl hafifçe budamak, sürgün ve meyve arasındaki dengeyi korur. Var yılından sonra yapılan budamada, ağacın tacını havalandıracak ve yeni sürgün gelişimini teşvik edecek şekilde hafif bir seyreltme yapılır. Yok yılından sonra ise budama daha da hafif tutulmalıdır; çünkü bu yıl gelişen bol sürgünler, gelecek yılın ürününü taşıyacaktır. Budama zamanı ve tekniği için [kış budaması](/kis-budamasi) yazımıza göz atabilirsiniz.
+
+### Kritik dönemlerde sulama
+
+Sulanabilen zeytinliklerde, özellikle ilkbaharda sürgün büyümesi ve çiçeklenme döneminde, ayrıca yaz sonunda meyve dolumu sırasında yapılan destek sulamaları, ağacın her iki işi birden yürütmesine yardımcı olur. Kuru tarım yapılan alanlarda ise toprağın kış yağışlarını tutmasını sağlayacak uygulamalar, örneğin ağaç altlarının malçlanması ve toprağın sıkışmasının önlenmesi önemlidir.
+
+### Hasadı geciktirmeyin
+
+Meyveleri uzun süre dalda bırakmak, ertesi yılın ürününü olumsuz etkiler. Özellikle yağlık zeytinde hasadı çok geciktirmemek, periyodisiteyi yumuşatan en etkili ve en masrafsız yöntemlerden biridir. Sofralık siyah zeytin için meyvelerin dalda olgunlaşması gerekse de hasat zamanının ağacın durumuna göre planlanması önemlidir.
+
+### Çok yüklü yıllarda meyve seyreltme
+
+Çok bol ürünün beklendiği yıllarda, özellikle sofralık çeşitlerde, meyve tutumundan kısa süre sonra yapılan seyreltme, meyve iriliğini artırır ve ağacın ertesi yıl için kaynak ayırmasına olanak tanır. Bu uygulama küçük bahçelerde elle yapılabilir; büyük zeytinliklerde ise daha çok budama ile yük dengelenir.
+
+## Bahçesinde birkaç zeytin ağacı olanlar için
+
+Evinin bahçesinde ya da büyük bir saksıda birkaç zeytin ağacı yetiştirenler de periyodisiteyi yaşar. Bu ölçekte yapılabilecek en etkili şeyler şunlardır: ağacı her yıl hafifçe budamak, ilkbaharda olgun organik gübreyle beslemek, kurak yazlarda ağaç dibini derin ve seyrek sulamak ve meyveleri zamanında toplamak. Saksıdaki zeytin ağaçlarında besin depoları daha sınırlı olduğu için düzenli besleme daha da önemlidir. Bu konuyu [saksıda zeytin ağacı yetiştirme](/saksida-zeytin-agaci-yetistirme) yazımızda ayrıntılı ele aldık. Yeni bir zeytinlik kuranlar için ise [zeytin fidanı dikimi](/zeytin-fidani-dikimi) yazımız yol gösterebilir.
+
+Zeytinde periyodisite, ağacın doğasından gelen bir döngüdür ve tamamen yok edilemez. Ancak dengeli besleme, düzenli budama, kritik dönemlerde su ve zamanında hasat ile var yılı ile yok yılı arasındaki uçurum daraltılabilir ve zeytinlikten her yıl daha istikrarlı bir ürün alınabilir.
+@sss
+S: Zeytin neden bir yıl verip bir yıl vermez?
+C: Bol ürünlü yılda meyveler ağacın besin ve enerjisini tüketir, yeni sürgün gelişimi azalır ve ertesi yılın çiçek tomurcuklarının oluşumu baskılanır. Bu yüzden ertesi yıl ürün az olur.
+
+S: Zeytinde periyodisite nasıl önlenir?
+C: Tamamen önlenemez ama azaltılabilir. Her yıl dengeli besleme, düzenli ve hafif budama, kritik dönemlerde sulama ve hasadı geciktirmemek döngünün etkisini belirgin şekilde yumuşatır.
+
+S: Geç hasat zeytin verimini etkiler mi?
+C: Evet. Meyvelerin dalda uzun süre bırakılması ağacın kaynaklarını daha uzun süre tüketir ve ertesi yılın çiçek tomurcuğu oluşumunu baskılar; bu da yok yılını derinleştirir.
+
+### YAZI
+slug: kis-yasemini
+baslik: Kış Yasemini: Ocakta Sarı Çiçek Açan Yorulmaz Sarmaşık
+yayin: 2026-11-29 18:15
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: kış yasemini
+seo_baslik: Kış Yasemini: Dikim, Budama, Çoğaltma ve Bakım Rehberi
+seo_aciklama: Kış yasemini nasıl yetiştirilir? Kışın açan sarı çiçekleri, dikim yeri, toprak, sulama, çiçeklenme sonrası budama, daldırmayla çoğaltma ve sık sorunlar.
+ozet: Bahçenin en sessiz aylarında çıplak yeşil dallarında sarı çiçekler açan kış yasemini, kışın bahçeye renk katmanın en kolay yollarından biridir. Dikiminden budamasına, çoğaltılmasından bahçedeki kullanımına kadar anlatıyoruz.
+etiketler: kış yasemini, kışın çiçek açan bitkiler, sarmaşık, bahçe çalıları, jasminum nudiflorum
+gorsel: p7-kis-yasemini
+gorsel_alt: Kış yasemininin yeşil dalları üzerinde açmış sarı çiçekler
+urunler: budama-makasi, hasturk-kati-solucan-gubresi, genel-saksi-topragi-ozel-karisim
+kisaca: Kış yasemini, aralık ile mart arasında yapraksız yeşil dalları üzerinde sarı çiçekler açan, soğuğa dayanıklı ve az bakım isteyen bir çalı ya da yarı sarmaşıktır. Güneş veya yarı gölgede, süzek toprakta yetişir. Kokusu yoktur. Budama, çiçeklenme biter bitmez ilkbaharda yapılmalıdır; dallar toprağa değdiği yerden kolayca köklenir.
+@govde
+Kasımın sonunda bahçeler sessizleşir ve kış yasemini sahneye çıkmaya hazırlanır. Yapraklar dökülür, çiçekler çoktan solmuştur ve kış uzun bir bekleyiş gibi görünür. İşte tam bu günlerde, bir duvarın üzerinden sarkan ya da bir çitin kenarında yayılan yeşil dallarda küçük sarı yıldızlar belirmeye başlar. Bu bitki, en soğuk aylarda çiçek açan, neredeyse hiç bakım istemeyen ve bahçeye kış ortasında bir güneş parçası taşıyan bir bitkidir. Bu yazıda onu nasıl tanıyacağınızı, nereye dikeceğinizi, nasıl budayıp çoğaltacağınızı anlatıyoruz.
+
+## Kış yasemini nedir?
+
+Çin kökenli, yaprak döken bir çalıdır. Uzun, ince, dört köşeli ve yeşil renkli dalları vardır. Kendiliğinden tırmanan bir sarmaşık değildir; dalları uzayarak sarkar ya da bir desteğe bağlandığında yükselir. Bu yüzden duvar üstlerinden sarkıtmak, şevleri kaplamak ya da bir çite yaslandırarak yetiştirmek için çok uygundur.
+
+Bitkinin en dikkat çekici özelliği, çiçeklerini yapraklarından önce, kış ortasında açmasıdır. Aralıktan marta kadar süren bu dönemde, çıplak yeşil dallar boyunca altı taç yapraklı, parlak sarı çiçekler sıralanır. Çiçekler ilkbaharda dökülür, ardından küçük, üçlü yapraklar gelir.
+
+## Gerçek yaseminle farkı
+
+Adında yasemin geçse de bu bitki, yaz akşamlarını mis gibi kokutan beyaz çiçekli yaseminden oldukça farklıdır. En önemli fark, kış yasemininin çiçeklerinin neredeyse hiç kokmamasıdır. Buna karşılık soğuğa çok daha dayanıklıdır ve sert kışları bile rahatlıkla geçirir. Beyaz çiçekli, kokulu yaseminin bakımını [yasemin bakımı](/yasemin-bakimi) yazımızda anlattık.
+
+Bitki, ilkbaharda açan ve sarı çiçekleri nedeniyle zaman zaman onunla karıştırılan altın çanaktan da farklıdır. Altın çanağın dalları kahverengi ve yuvarlaktır, çiçekleri dört taç yapraklıdır; kış yasemininde ise dallar yeşil ve köşelidir, çiçekler altı taç yapraklıdır.
+
+## Dikim yeri ve toprak
+
+Bu çalı, toprak seçmeyen ve pek çok koşula uyum sağlayan bir bitkidir. Yine de en bol çiçeği tam güneş ya da yarı gölge alan bir yerde açar. Derin gölgede yaşar ama çiçeklenme azalır.
+
+- **Toprak:** Süzek olduğu sürece killi, kumlu ya da kireçli topraklarda yetişir. Su biriken alanlardan kaçının.
+- **Konum:** Kuzey rüzgârlarından korunan, güneye bakan bir duvarın önü idealdir. Bu konum çiçekleri soğuk rüzgârlardan ve sabah ayazından korur.
+- **Dikim zamanı:** Sonbahar ya da ilkbahar, dikim için en uygun dönemlerdir. Kasım ayında dikilen fidanlar, kış yağışlarıyla köklerini yerleştirir.
+
+Dikim çukuruna bir miktar olgun organik gübre karıştırmak, bitkiye iyi bir başlangıç sağlar.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Bitki saksıda da yetiştirilebilir. Geniş ve derin bir saksıda, süzek bir saksı toprağıyla balkon korkuluklarından sarkan güzel bir görüntü oluşturur. Saksıdaki bitkilerin kökleri soğuğa daha açık olduğundan, çok sert kışlarda saksının etrafını sarmak faydalıdır.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+## Sulama ve besleme
+
+Yerleştikten sonra kuraklığa oldukça dayanıklıdır. Yeni dikilen bitkileri ilk yıl, özellikle yaz aylarında düzenli sulayın. Yerleşmiş bitkiler ise yalnızca uzun süren kuraklık dönemlerinde sulama ister. Saksıdaki bitki daha sık sulama gerektirir; toprağın üst kısmı kuruduğunda sulayın.
+
+Besleme konusunda da az talepkârdır. İlkbaharda, çiçeklenme bittikten sonra bitkinin dibine serpilen bir avuç organik gübre yeterlidir. Fazla azotlu gübre, bol yeşil dal ama az çiçek oluşmasına yol açar.
+
+## Kış yasemini budaması
+
+Bitki, bir önceki yaz gelişen dallar üzerinde çiçek açar. Bu yüzden budama zamanı çok önemlidir: Budama, çiçeklenme biter bitmez, ilkbaharın başında yapılmalıdır. Yazın ya da sonbaharda yapılan budamalar, gelecek kışın çiçek açacak dallarını keser ve çiçeklenmeyi azaltır.
+
+- Çiçek açmış dalları, güçlü bir yan sürgünün hemen üzerinden kısaltın.
+- Kuru, zayıf ve birbirine dolanan dalları dipten çıkarın.
+- Yaşlanmış ve çiçeklenmesi azalmış bitkilerde, en yaşlı dalların birkaçını her yıl topraktan kesmek bitkiyi gençleştirir.
+
+Çok yaşlı ve dağınık bitkiler, ilkbaharda yerden birkaç karış yükseklikte sert bir şekilde budanabilir. Bitki bu tür budamalara iyi yanıt verir ve kısa sürede yeni sürgünler verir; ancak ertesi kış çiçeklenme az olabilir.
+
+Doğru budama makası seçimi için [budama makası seçimi](/budama-makasi-secimi) yazımıza göz atabilirsiniz.
+
+## Kolay çoğaltma: daldırma
+
+Bu bitkinin en sevimli özelliklerinden biri, kendiliğinden çoğalmasıdır. Uzun dallar toprağa değdiği yerlerde kök salar. Bu özellikten yararlanarak bitkinizi kolayca çoğaltabilirsiniz:
+
+1. İlkbahar ya da yaz başında, esnek ve sağlıklı bir dalı toprağa doğru eğin.
+2. Dalın toprağa değecek kısmındaki yaprakları temizleyin ve kabuğunu hafifçe çizin.
+3. Bu kısmı birkaç santimetre derinliğe gömün ve bir taş ya da tel parçasıyla sabitleyin.
+4. Toprağı nemli tutun. Birkaç ay içinde gömülen kısım kök salar.
+5. Köklenen dalı ana bitkiden kesip yeni yerine dikin.
+
+Yazın alınan yarı odunsu çeliklerle de kolayca çoğaltılır. Çoğaltmanın genel yöntemleri için [salon bitkisi çoğaltma](/salon-bitkisi-cogaltma) yazımız da fikir verebilir.
+
+## Bahçede kullanım fikirleri
+
+- **Duvar üstü ve istinat duvarları:** Uzun dallarını duvarın üzerinden sarkıtarak sarı bir şelale oluşturun.
+- **Şevler:** Eğimli alanlarda toprağı tutan ve hızla yayılan bir örtü oluşturur.
+- **Çit ve kafes:** Dallarını bir desteğe bağlayarak iki üç metre yüksekliğe kadar yönlendirebilirsiniz.
+- **Kış bahçesi köşesi:** Çiğdem, kardelen ve kış açan diğer bitkilerle birlikte kış ortasında canlı bir köşe yaratır. Kardelenin bakımı için [kardelen yetiştirme](/kardelen-yetistirme) yazımıza göz atabilirsiniz.
+
+Kışın çiçek açan diğer bitkiler için [kışın çiçek açan bitkiler](/kisin-cicek-acan-bitkiler) yazımız da ilham verebilir.
+
+## Sık görülen sorunlar
+
+Bitki, hastalık ve zararlılara karşı oldukça dayanıklıdır. Karşılaşılan sorunların çoğu bakım hatalarından kaynaklanır:
+
+- **Az çiçek açması:** Genellikle yanlış zamanda yapılan budamadan, derin gölgeden ya da fazla azotlu gübrelemeden kaynaklanır.
+- **Çiçeklerin kararması:** Çok sert ayazlar açık çiçekleri yakabilir; ancak kapalı tomurcuklar sonraki ılık günlerde açmaya devam eder.
+- **Dağınık görünüm:** Düzenli budanmayan bitkiler zamanla karmaşık bir dal yığınına dönüşür. Yıllık budama ve destek, düzenli bir görünüm sağlar.
+
+Kış yasemini, bahçenin en karanlık günlerinde bile umut veren bir bitkidir. Bir kez dikildiğinde yıllarca az ilgiyle yaşar ve her kış, karın ve ayazın ortasında küçük sarı çiçekleriyle baharın yaklaştığını hatırlatır.
+@sss
+S: Kış yasemini ne zaman çiçek açar?
+C: Kış yasemini, bölgeye göre aralık ile mart arasında, yapraklarını çıkarmadan önce yeşil dalları üzerinde sarı çiçekler açar.
+
+S: Kış yasemini kokar mı?
+C: Hayır. Kış yasemininin çiçekleri neredeyse kokusuzdur. Kokulu olan, yazın beyaz çiçek açan yasemin türleridir.
+
+S: Kış yasemini ne zaman budanır?
+C: Çiçeklenme biter bitmez, ilkbaharın başında budanmalıdır. Bitki bir önceki yaz gelişen dallarda çiçek açtığı için yaz ve sonbahar budaması çiçeklenmeyi azaltır.
+
+### YAZI
+slug: salon-bitkisi-cogaltma
+baslik: Salon Bitkisi Çoğaltma: Bir Bitkiden Ona, Beş Kolay Yöntem
+yayin: 2026-11-29 20:20
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: salon bitkisi çoğaltma
+seo_baslik: Salon Bitkisi Çoğaltma: Çelik, Yaprak, Bölme ve Daldırma
+seo_aciklama: Salon bitkisi çoğaltma nasıl yapılır? Suda ve toprakta gövde çeliği, yaprak çeliği, kök bölme, yavru ayırma ve hava daldırması; hangi bitkiye hangi yöntem?
+ozet: Evdeki salon bitkilerinin çoğu, birkaç basit yöntemle kolayca çoğaltılabilir. Gövde ve yaprak çeliğinden kök bölmeye, yavru ayırmaktan hava daldırmasına kadar beş yöntemi, hangi bitkiye hangisinin uygun olduğunu ve en iyi zamanı anlatıyoruz.
+etiketler: salon bitkisi çoğaltma, çelik alma, yaprak çeliği, kök bölme, hava daldırması
+gorsel: p7-cogaltma
+gorsel_alt: Su dolu cam kapta kök salmaya başlayan bir bitki çeliği
+urunler: tarim-perliti, hg-vermikulit, salon-bitkilerine-ozel-toprak-karisimi, hindistan-cevizi-torfu-tablet-cocopeat-12-adet
+kisaca: Salon bitkisi çoğaltma için beş temel yöntem vardır: gövde çeliği, yaprak çeliği, kök bölme, yavru ayırma ve hava daldırması. Salon sarmaşığı ve filodendron suda kolayca köklenir; sukulentler ve menekşe yaprakla, paşa kılıcı ve barış çiçeği bölmeyle çoğalır. En uygun zaman ilkbahar ve yazdır; ılık ve aydınlık ortam köklenmeyi hızlandırır.
+@govde
+Salon bitkisi çoğaltma, sevdiğiniz bir bitkinin bir benzerini bir arkadaşınıza hediye etmek, uzayıp dağılan bir bitkiyi yenilemek ya da yalnızca evinizi daha da yeşillendirmek istediğinizde yeni bir bitki satın almadan yapabileceğiniz en kolay iştir. Evdeki salon bitkilerinin çoğu, birkaç basit yöntemle kolayca çoğaltılabilir. Üstelik bir çeliğin kök salıp yeni bir bitkiye dönüşmesini izlemek, bitki bakımının en keyifli anlarından biridir. Bu yazıda salon bitkisi çoğaltma yöntemlerini, hangi bitkiye hangi yöntemin uygun olduğunu ve başarı şansınızı artıracak incelikleri anlatıyoruz.
+
+## Salon bitkisi çoğaltma ne zaman yapılır?
+
+Salon bitkileri, aktif olarak büyüdükleri ilkbahar ve yaz aylarında en kolay çoğalır. Bu dönemde günler uzun, ışık bol ve sıcaklık yüksektir; çelikler hızla kök salar. Kış aylarında da çoğaltma yapılabilir, ancak köklenme yavaşlar ve çürüme riski artar. Kışın çoğaltma yapacaksanız çelikleri evin en aydınlık ve ılık köşesinde tutun. Çoğaltma için her zaman sağlıklı, zararlısız ve iyi beslenmiş bir ana bitki seçin.
+
+## 1. Gövde çeliği
+
+Gövde çeliği, salon bitkisi çoğaltma yöntemlerinin en yaygınıdır. Bir sürgünün ucundan, üzerinde birkaç yaprak ve en az bir iki boğum bulunan bir parça kesilir. Boğumlar, yaprakların gövdeye bağlandığı noktalardır ve yeni kökler genellikle buradan çıkar.
+
+**Suda köklendirme:** Salon sarmaşığı, filodendron, monstera, yeşil sarmaşık ve telgraf çiçeği gibi bitkiler suda çok kolay köklenir. Çeliğin alt yapraklarını temizleyip boğumları suyun içinde kalacak şekilde bir cam kaba koyun. Suyu birkaç günde bir değiştirin. Kökler birkaç santimetre uzadığında çeliği toprağa alın.
+
+**Toprakta köklendirme:** Kauçuk, şeflera, difenbahya ve pek çok çalımsı bitki için çeliği doğrudan hafif ve havadar bir köklendirme karışımına dikmek daha iyi sonuç verir. Perlit ve vermikülit, köklendirme ortamını hem nemli hem havadar tutar.
+
+[ürün:tarim-perliti]
+
+[ürün:hg-vermikulit]
+
+Monstera gibi hava kökleri olan bitkilerde, çeliği mutlaka bir boğum ve mümkünse bir hava kökü içerecek şekilde kesin; yalnızca yaprak ve sap parçası kök salmaz. Monsteranın bakımı için [monstera bakımı](/monstera-deve-tabani-bakimi) yazımıza göz atabilirsiniz.
+
+## 2. Yaprak çeliği
+
+Bazı bitkiler, yalnızca bir yapraktan yeni bir bitki oluşturabilir. Bu yöntem özellikle sukulentlerde, Afrika menekşesinde ve begonyalarda kullanılır.
+
+- **Sukulentler:** Echeveria ve kalanşo gibi sukulentlerde yaprağı gövdeden yavaşça çevirerek koparın. Yaprağın kopan ucunun birkaç gün kurumasını bekleyin, ardından kuru bir kaktüs toprağının üzerine yatırın. Birkaç hafta içinde yaprağın dibinden küçük kökler ve minik bir rozet çıkar.
+- **Afrika menekşesi:** Sapıyla birlikte kesilen sağlıklı bir yaprağı, sapı toprağa gelecek şekilde nemli bir karışıma dikin. Bir iki ay içinde sapın dibinden yavru bitkiler çıkar.
+- **Paşa kılıcı:** Yaprağı birkaç parçaya bölüp her parçayı alt ucu aşağıda kalacak şekilde toprağa dikmek de bir yöntemdir; ancak alacalı türlerde yeni bitkiler alacalılığını kaybedebilir.
+
+Bu yöntemlerin ayrıntılarını [sukulent çoğaltma](/sukulent-cogaltma-yaprak-ve-celikle) ve [menekşe çoğaltma](/menekse-cogaltma) yazılarımızda anlattık.
+
+## 3. Kök bölme
+
+Topraktan birden fazla gövde ya da rozet halinde çıkan bitkiler, kök bölme yöntemiyle kolayca çoğaltılır. Paşa kılıcı, barış çiçeği, aspidistra, kurdele çiçeği, eğrelti otları ve dua çiçeği bu gruptadır.
+
+Bitkiyi saksısından çıkarın, kök kütlesini nazikçe gevşetin ve her parçada yeterli kök ve en az birkaç gövde ya da yaprak kalacak şekilde elle ya da temiz bir bıçakla bölün. Her parçayı ayrı bir saksıya, taze bir toprağa dikin. Kök bölme, saksı değişimiyle birlikte yapıldığında bitki için en az stresli yöntemdir.
+
+Para ağacı gibi yumrulu bitkiler de bölmeyle çoğaltılabilir; bu konuyu [para ağacı çoğaltma](/zamioculcas-cogaltma) yazımızda ele aldık.
+
+## 4. Yavru ayırma
+
+Bazı salon bitkileri, ana bitkinin yanında ya da uzun saplarının ucunda kendiliğinden yavrular üretir. Kurdele çiçeğinin sarkan saplarının ucundaki küçük bitkiler, aloe veranın dibinden çıkan yavrular ve bazı kaktüslerin yan yavruları bu gruba girer. Yavrular birkaç santimetre büyüdüğünde ve kendi köklerini geliştirdiğinde ana bitkiden ayrılıp ayrı saksılara dikilebilir. Aloe veranın yavrularını ayırmanın inceliklerini [aloe vera bakımı ve çoğaltma](/aloe-vera-bakimi-ve-cogaltma) yazımızda anlattık.
+
+## 5. Hava daldırması
+
+Hava daldırması, kauçuk ağacı, keman yapraklı ficus ve monstera gibi büyük ve odunsu gövdeli bitkileri çoğaltmanın en güvenli yoludur. Bu yöntemde çelik, ana bitkiden ayrılmadan önce köklendirilir.
+
+1. Gövde üzerinde bir boğumun hemen altında, kabuğu birkaç santimetrelik bir halka şeklinde dikkatlice soyun ya da hafif bir kesik açın.
+2. Bu bölgeyi nemli yosun ya da kokopitle sarın.
+3. Üzerini şeffaf bir naylonla kapatın ve iki ucundan bağlayın.
+4. Yosunu birkaç haftada bir nemlendirin.
+5. Naylonun içinde kökler belirdiğinde, köklenen kısmın altından gövdeyi kesin ve yeni bitkiyi saksıya dikin.
+
+Hava daldırması birkaç hafta ile birkaç ay arasında sürebilir, ancak başarı oranı çok yüksektir. Ana bitki bu süre boyunca yaşamaya devam eder.
+
+## Hangi bitkiye hangi yöntem?
+
+| Bitki | En kolay yöntem |
+| --- | --- |
+| Salon sarmaşığı, filodendron | Gövde çeliği (suda) |
+| Monstera | Boğumlu gövde çeliği veya hava daldırması |
+| Kauçuk, keman yapraklı ficus | Hava daldırması veya toprakta çelik |
+| Paşa kılıcı, barış çiçeği | Kök bölme |
+| Afrika menekşesi, sukulentler | Yaprak çeliği |
+| Aloe vera, kurdele çiçeği | Yavru ayırma |
+
+## Köklenen çeliklerin bakımı
+
+Kök salan çelikleri saksıya aldıktan sonra ilk birkaç hafta onları doğrudan güneşten uzak, aydınlık bir yerde tutun. Suda köklenen çelikler toprağa geçişte bir süre zorlanabilir; bu dönemde toprağı hafif nemli tutmak geçişi kolaylaştırır. Yeni bitkiler yeni yapraklar vermeye başladığında, seyreltilmiş bir sıvı besinle hafif bir beslemeye başlayabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Boğumsuz çelik kesmek:** Pek çok bitkide kökler yalnızca boğumlardan çıkar.
+- **Suyu değiştirmemek:** Bulanıklaşan suda çelikler çürür.
+- **Aşırı nemli toprak:** Köklendirme karışımı nemli olmalı, çamur gibi olmamalıdır.
+- **Kışın ışıksız köşede köklendirmek:** Köklenme durur, çelikler zayıflar.
+- **Hastalıklı bitkiden çelik almak:** Sorunlar yeni bitkilere taşınır.
+
+Salon bitkisi çoğaltma, sabır ve biraz merakla herkesin başarabileceği bir iştir. Bir bardak su ve bir dal salon sarmaşığıyla başlayın; birkaç ay sonra evinizin her köşesinde, hatta dostlarınızın evlerinde, aynı bitkinin yeşil izlerini göreceksiniz.
+@sss
+S: Hangi salon bitkileri suda köklenir?
+C: Salon sarmaşığı, filodendron, monstera, yeşil sarmaşık ve telgraf çiçeği suda kolayca köklenir. Çeliklerde mutlaka bir iki boğum bulunmalı ve su birkaç günde bir değiştirilmelidir.
+
+S: Salon bitkileri ne zaman çoğaltılır?
+C: En uygun zaman bitkilerin aktif büyüdüğü ilkbahar ve yaz aylarıdır. Kışın da çoğaltma yapılabilir ancak köklenme yavaşlar; çelikler aydınlık ve ılık bir yerde tutulmalıdır.
+
+S: Paşa kılıcı nasıl çoğaltılır?
+C: Paşa kılıcı en kolay kök bölmeyle çoğaltılır. Yaprak parçalarıyla da çoğaltılabilir, ancak bu yöntemde alacalı türlerin yeni bitkileri alacalılığını kaybedebilir.
+
+### SORU
+yayin: 2026-11-29 13:10
+kategori: sebze-meyve
+baslik: Yer elmasını ne zaman hasat etmeliyim?
+metin: İlkbaharda bahçenin bir köşesine birkaç yer elması yumrusu diktim, yazın boyları iki metreyi geçti. Şimdi saplar kurumaya başladı. Yumruları hemen mi sökmeliyim, yoksa beklemem mi gerekiyor?
+@cevap Hatice Kübra Çelik | 5
+Sapların sararıp kuruması, yer elmasının hasat zamanının geldiğini gösterir; ama acele etmenize gerek yok. Yumrular toprağın altında soğuğa çok dayanıklıdır ve hatta ilk donlardan sonra daha tatlı bir lezzet kazanır. Bu yüzden kuru sapları yerden bir karış yükseklikte kesip yumruları toprakta bırakabilir, kış boyunca ihtiyacınız kadarını sökerek kullanabilirsiniz. Yer elmasının ince kabuğu çabuk su kaybettiği için söktüğünüz yumrular buzdolabında birkaç haftadan fazla dayanmaz; toprakta beklemek en iyi saklama yöntemidir. Toprağın tamamen donduğu sert kışlarda kazmayı kolaylaştırmak için bitki sıralarının üzerine kalın bir saman ya da yaprak malçı serin. Hasat sırasında küçük yumruların hepsini toplamaya çalışın; toprakta kalan her parça ertesi yıl yeniden sürer ve bitki kısa sürede bahçeye yayılabilir.

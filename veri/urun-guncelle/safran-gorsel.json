@@ -1,0 +1,10 @@
+{
+ "not": "HG Safran Toprağı: HasTürk'te ürün eklenirken görsel yüklenemedi; yalnız görsel eklenir, fiyata dokunulmaz",
+ "urunler": [
+  {
+   "slug": "hg-safran-topragi",
+   "ad": "HG Safran Toprağı",
+   "gorsel": { "ortak": ["https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-safran-topragi.webp"] }
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "site": "tarim",
+ "kategoriler": [
+  {
+   "name": "Topraklar",
+   "slug": "topraklar",
+   "pageTitle": "Topraklar",
+   "description": "Topraklar",
+   "children": [
+    {
+     "name": "Özel Bitki Toprakları",
+     "slug": "ozel-bitki-topraklari",
+     "pageTitle": "Özel Bitki Toprakları",
+     "description": "Özel bitki toprakları"
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "HG Ejder Ağacı Toprağı",
+   "marka": "HG",
+   "sku": "HG-EJD-05L",
+   "kategoriler": [
+    "Özel Bitki Toprakları"
+   ],
+   "fiyat": 249,
+   "etiketler": [
+    "kdv_20"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-ejder-agaci-topragi.webp"
+   ],
+   "metaData": {
+    "slug": "hg-ejder-agaci-topragi",
+    "pageTitle": "HG Ejder Ağacı Toprağı | Tarım Dünyası",
+    "description": "Ejder ağacında yaprak ucu kuruması ve kök çürümesi için hafif ve süzek hazır toprak. Saksı değişimi adımları ve sulama ipuçları."
+   },
+   "aciklama": "<p>Ejder ağacınızın yaprak uçları kuruyor, alt yapraklar sararıyor ya da saksıdan küf kokusu geliyorsa, çoğu zaman sorun toprak ve sulama dengesindedir. HG Ejder Ağacı Toprağı, bu bitkinin kökleri için hafif, havadar ve suyu iyi süzen yapıda hazırlanmış kullanıma hazır saksı toprağıdır. Karıştırma, eleme ya da oran hesabı gerekmez: açın ve saksıya doldurun.</p>\n<h2>Ejder Ağacı Neden Toprakta Zorlanır?</h2>\n<p>Ejder ağacı (Dracaena marginata) yavaş büyüyen, kuraklığa nispeten dayanıklı bir salon bitkisidir. Asıl sorun aşırı suyla gelir: sıkışmış ve suyu geç bırakan toprakta kökler nefes alamaz ve çürümeye başlar. Saksı tabağında bekleyen su da aynı sonucu doğurur. Fazla suyu bırakan bir toprak bu riski belirgin biçimde azaltır.</p>\n<h2>Karışımın İçinde Ne Var?</h2>\n<ul>\n<li><strong>Sphagnum ham torf:</strong> %40, hafif ve kabarık taban</li>\n<li><strong>Cocopeat torfu:</strong> %20, dengeli nem ve havalanma</li>\n<li><strong>Kalın tarım perliti:</strong> %20, fazla suyun hızla akması</li>\n<li><strong>Solucan gübresi:</strong> %10, organik besin</li>\n<li><strong>Leonardit:</strong> %10, organik madde ve besin tutma desteği</li>\n</ul>\n<h2>Seçerken Neye Bakmalı?</h2>\n<ul>\n<li><strong>Doku:</strong> hafif, gevşek, sertleşip topaklanmayan</li>\n<li><strong>Su davranışı:</strong> nemi bir süre tutar, fazlasını hızla bırakır</li>\n<li><strong>Saksı:</strong> dibi delikli, bitkiden bir boy büyük</li>\n</ul>\n<h2>Saksı Değişimi: 4 Adım</h2>\n<ol>\n<li>Bitkiyi saksıdan çıkarın; çürümüş, koyu ve yumuşak kökleri temiz makasla kesin.</li>\n<li>Yeni saksının dibine birkaç santim toprak koyun ve bitkiyi eski derinliğinde yerleştirin.</li>\n<li>Çevresini toprakla doldurun, hafifçe bastırın ve bir kez su verin.</li>\n<li>Fazla su aktıktan sonra tabağa koyun; sonraki sulamayı toprağın üst 3–5 cm'si kuruyunca yapın.</li>\n</ol>\n<h2>Paket Boyları</h2>\n<p>5 litre: bir iki saksı için. 10 ve 20 litre: birkaç saksı ya da toplu saksı değişimi için. 40 litre: çok sayıda saksı ve geniş koleksiyonlar için.</p>\n<h2>Kısa Cevaplar</h2>\n<p><strong>Ejder ağacı ne sıklıkla sulanır?</strong> Toprağın üst 3–5 cm'si kuruyunca; fazla su boşaltılır.<br><strong>Yaprak uçları neden kahverengi?</strong> Çoğunlukla kuru hava, klorlu su ya da düzensiz sulama.<br><strong>Evcil hayvanlar için güvenli mi?</strong> Bitki kedi ve köpekler için zehirlidir; erişemeyecekleri yere koyun.<br><strong>Başka bitkilere de olur mu?</strong> Benzer isteği olan salon bitkilerinde kullanılabilir; ürün ejder ağacı için hazırlanmıştır.</p>",
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "20 Lt",
+     "40 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 249,
+     "sku": "HG-EJD-05L",
+     "stok": 1000
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 349,
+     "sku": "HG-EJD-10L",
+     "stok": 1000
+    },
+    {
+     "deger": "20 Lt",
+     "fiyat": 549,
+     "sku": "HG-EJD-20L",
+     "stok": 1000
+    },
+    {
+     "deger": "40 Lt",
+     "fiyat": 1075,
+     "sku": "HG-EJD-40L",
+     "stok": 1000
+    }
+   ],
+   "stoksuzSat": false
+  }
+ ]
+}

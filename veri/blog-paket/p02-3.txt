@@ -1,0 +1,1175 @@
+### YAZI
+slug: cim-havalandirma
+baslik: Çim Havalandırma Nasıl Yapılır? Sıkışan Toprağı Nefes Aldırmanın Yolları
+yayin: 2026-11-02 07:15
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: çim havalandırma
+seo_baslik: Çim Havalandırma Nasıl Yapılır? Zamanı, Aletler, Bakım
+seo_aciklama: Çim havalandırma ne zaman ve nasıl yapılır? Sıkışma belirtileri, tapalı ve çivili havalandırma farkı, sonrasında kum, tohum ve gübre uygulaması.
+ozet: Ayak trafiği, yağmur ve biçme makinesi zamanla çim toprağını sıkıştırır. Havalandırma, köklere hava, su ve besin ulaşmasını sağlayan en etkili bakım işlemlerinden biridir; doğru zamanda ve doğru aletle yapıldığında çim birkaç hafta içinde belirgin şekilde canlanır.
+etiketler: çim havalandırma, çim bakımı, toprak sıkışması, sonbahar çim bakımı, çim tohumu
+gorsel: p2-cim-havalandir
+gorsel_alt: Çim alanında traktöre bağlı tapalı havalandırma makinesi
+urunler: cim-kapama-topragi-leonarditli-formul, dsv-lippa-tamu-5-mix-cim-tohumu, dogatech-sonbahar-cim-gubresi-14-14-17
+kisaca: Çim havalandırma, sıkışmış toprağa küçük delikler açarak köklere hava, su ve besin ulaştırma işlemidir. Serin iklim çimlerinde en uygun zaman eylül–ekim ve ilkbahar başıdır. Toprak hafif nemliyken tapalı bir aletle yapılır; ardından ince kum ya da kapama toprağı serilir, seyrek yerlere tohum atılır.
+@govde
+Çim havalandırma, bakımlı görünen ama bir türlü gürleşmeyen çim alanlarının çoğunda eksik olan işlemdir. Çim yıllar içinde biçilir, sulanır, gübrelenir; ama toprak yüzeyinin altında yavaş yavaş başka bir şey olur: Ayak trafiği, yağmur damlaları ve biçme makinesinin ağırlığı toprağı sıkıştırır. Sıkışan toprakta gözenekler kapanır, kökler derine inemez, su yüzeyde birikir ya da akıp gider. Sonuçta ne kadar gübre verilirse verilsin çim soluk ve seyrek kalır. Bu yazıda çim toprağının ne zaman havalandırılması gerektiğini, hangi aletlerin kullanılacağını ve işlemden sonra yapılması gerekenleri adım adım anlatıyoruz.
+
+## Toprak neden sıkışır?
+
+Sağlıklı bir toprağın yaklaşık yarısı boşluktur. Bu boşlukların bir kısmında su, bir kısmında hava bulunur ve kökler bu boşluklardan ilerleyerek büyür. Çim alanlarında toprağın üzerinde sürekli basınç vardır:
+
+- **Ayak trafiği:** Çocukların oynadığı, evcil hayvanların koştuğu ya da her gün aynı yoldan yüründüğü alanlar en hızlı sıkışan yerlerdir.
+- **Islakken basmak:** Yağmurdan hemen sonra çime basmak, kuru toprağa basmaktan çok daha fazla sıkışmaya yol açar.
+- **Killi toprak:** İnce taneli kil, sıkışmaya en yatkın toprak tipidir.
+- **İnşaat sonrası alanlar:** Ev yapımında iş makinelerinin geçtiği yerlerde alt toprak çoğu zaman sert bir tabaka hâlindedir.
+
+Killi bahçe topraklarının genel olarak iyileştirilmesi için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazımıza da göz atabilirsiniz.
+
+## Çimin havalandırma istediğini gösteren belirtiler
+
+Her çim alanı her yıl havalandırma gerektirmez. Şu belirtilerden ikisi ya da daha fazlası varsa işlem zamanı gelmiş demektir:
+
+| Belirti | Ne anlatır? |
+|---|---|
+| Yağmurdan sonra yüzeyde uzun süre su birikintisi | Su toprağa sızamıyor |
+| Sulama suyu hızla akıp gidiyor | Yüzey sertleşmiş |
+| Tornavida toprağa zor giriyor | Üst 10 cm sıkışmış |
+| Gübreye rağmen soluk ve seyrek çim | Kökler besine ulaşamıyor |
+| Yürüme yollarında çıplak şeritler | Yoğun ayak trafiği |
+| Yosun ve kazayağı gibi otların artması | Havasız, nemli toprak |
+| Kök derinliği 3–5 cm'yi geçmiyor | Kökler aşağı inemiyor |
+
+Basit bir test için toprağın hafif nemli olduğu bir gün uzun bir tornavidayı çime bastırın. Tornavida 10–15 cm kolayca giriyorsa toprak iyi durumdadır; birkaç santimde takılıyorsa havalandırma faydalı olacaktır.
+
+## Çim havalandırma ne zaman yapılır?
+
+Havalandırma çimi kısa süreliğine strese sokar. Bu yüzden çimin hızla toparlanabileceği, aktif büyüdüğü bir dönemde yapılmalıdır.
+
+- **Serin iklim çimleri (İngiliz çimi, yumak, salkım otu):** En iyi zaman eylül ve ekim ayıdır. İkinci seçenek mart–nisandır. Kasım başında ılıman bölgelerde hâlâ yapılabilir, ama toprak sıcaklığı 10 °C'nin altına indiyse ilkbahara bırakmak daha doğrudur.
+- **Sıcak iklim çimleri (Bermuda, zoysia):** Geç ilkbahar ve yaz başı, çimin en hızlı büyüdüğü dönemdir.
+- **Kaçınılacak zamanlar:** Yaz sıcakları, kuraklık dönemleri, toprak donmuşken ya da çamur hâlindeyken.
+
+Sonbaharda yapılan havalandırmanın en büyük avantajı, ardından yapılacak tohum takviyesi ve sonbahar gübrelemesiyle aynı zamana denk gelmesidir. Sonbaharda yapılacak diğer çim işleri için [sonbaharda çim bakımı](/sonbaharda-cim-bakimi) yazımıza bakabilirsiniz.
+
+## Tapalı ve çivili havalandırma: farkı nedir?
+
+Çim havalandırma için kullanılan aletler iki ana gruba ayrılır:
+
+**Tapalı (karot çıkaran) havalandırma:** İçi boş borular toprağa girer ve 1–2 cm çapında, 5–10 cm uzunluğunda toprak tapaları çıkarır. Toprağın bir kısmı gerçekten dışarı alındığı için çevredeki toprak gevşer ve kalıcı bir etki oluşur. Sıkışmış topraklar için en etkili yöntemdir.
+
+**Çivili havalandırma:** Dolu çiviler toprağa delik açar ama toprak dışarı çıkmaz; deliğin çevresi yana doğru itilir. Hafif sıkışmış ve kumlu topraklarda kısa süreli fayda sağlar, ama killi topraklarda deliğin kenarlarını daha da sıkıştırabilir.
+
+Alete göre seçenekler şöyledir:
+
+- **Ayakla basılan el aletleri:** Küçük bahçeler ve yerel sıkışmalar için. Yorucu ama ucuzdur.
+- **Çivili ayakkabılar:** Pratik görünür ama etkisi çok sınırlıdır.
+- **Motorlu tapalı makineler:** 200 m² üzerindeki alanlar için. Kiralanabilir.
+- **Bahçe çatalı:** Çok küçük alanlarda çatalı 10 cm derine batırıp hafifçe geriye yatırmak basit bir çözümdür.
+
+## Çim havalandırma adım adım
+
+1. **Bir gün önce sulayın:** Toprak kuru ve sertse aletler girmez; çamur hâlindeyse tapalar parçalanır. Hafif nemli toprak idealdir.
+2. **Çimi biçin:** Normalden biraz kısa biçmek aletin toprağa ulaşmasını kolaylaştırır.
+3. **Engelleri işaretleyin:** Sulama başlıkları, borular ve kablolar zarar görmesin.
+4. **Alanı geçin:** Delikler arası 5–10 cm olacak şekilde alanı bir yönde, sıkışma fazlaysa ikinci kez çapraz yönde geçin.
+5. **Tapaları bırakın:** Çıkan toprak tapalarını toplamak zorunda değilsiniz. Birkaç gün kuruduktan sonra tırmıkla dağıtıldığında parçalanıp deliklerin içine dökülür.
+
+## Havalandırmadan sonra yapılacaklar
+
+Havalandırmadan hemen sonraki birkaç gün, çime bir şey eklemek için yılın en iyi fırsatıdır; çünkü açılan delikler malzemeyi doğrudan kök bölgesine taşır.
+
+- **Üst kaplama:** Alanın üzerine 0,5–1 cm kalınlığında ince yıkanmış kum ya da çim kapama toprağı serip tırmığın sırtıyla deliklere süpürün. Killi topraklarda bu işlem birkaç yıl tekrarlandığında üst toprağın yapısı belirgin şekilde düzelir.
+- **Tohum takviyesi:** Seyrek alanlara tohum serpin. Deliklere düşen tohumlar nemli ve korunaklı bir ortamda çimlenir.
+- **Gübreleme:** Sonbaharda potasyumu yüksek bir çim gübresi kökleri kışa hazırlar.
+- **Sulama:** Tohum attıysanız yüzeyi çimlenene kadar nemli tutun.
+
+[ürün:cim-kapama-topragi-leonarditli-formul]
+
+Kapama toprağının doğru serilmesi için [çim kapama toprağı nasıl serilir](/cim-kapama-topragi-nasil-serilir) yazımız, seyrek yerlerin tohumla kapatılması için ise [çimdeki boş alanlar nasıl kapatılır](/cimdeki-bos-alanlar-nasil-kapatilir) yazımız yol gösterecektir.
+
+[ürün:dsv-lippa-tamu-5-mix-cim-tohumu]
+
+## Havalandırma ile keçe temizliği aynı şey mi?
+
+Sık karıştırılan iki işlem vardır. Havalandırma toprağı gevşetir. Keçe temizliği (tırmıklama ya da dikey biçme) ise toprak yüzeyinde biriken ölü sap, kök ve yaprak tabakasını, yani keçeyi uzaklaştırır. Keçe 1–1,5 cm'yi geçtiğinde suyun ve gübrenin toprağa ulaşmasını engeller. İki işlem birlikte yapılacaksa önce keçe temizliği, ardından havalandırma yapılır. Küçük alanlarda sert dişli bir tırmık keçe temizliği için yeterlidir.
+
+## Ne sıklıkla yapılmalı?
+
+| Alan durumu | Önerilen sıklık |
+|---|---|
+| Killi toprak, yoğun kullanım (çocuk oyun alanı) | Yılda 1–2 kez |
+| Orta yapılı toprak, normal kullanım | Yılda 1 kez |
+| Kumlu toprak, az kullanım | 2–3 yılda bir |
+| Yeni ekilmiş çim (ilk yıl) | Yapılmaz |
+
+Yeni ekilen ya da rulo çimle kurulan alanlarda ilk yıl havalandırma yapılmaz; kökler henüz yerleşmemiştir.
+
+## Havalandırmadan sonra gübreleme
+
+Sonbaharda yapılan çim havalandırma işleminin ardından verilen gübre, açılan deliklerden kök bölgesine kolayca ulaşır. Bu dönemde azotu düşük, potasyumu yüksek bir sonbahar çim gübresi seçmek, çimin kışa sağlam köklerle girmesini sağlar. Sonbahar gübresinin seçimi ve uygulama zamanı için [sonbahar çim gübresi](/sonbahar-cim-gubresi) yazımıza bakabilirsiniz.
+
+[ürün:dogatech-sonbahar-cim-gubresi-14-14-17]
+
+## Sık yapılan hatalar
+
+- **Kuru toprakta havalandırma:** Aletler birkaç santimden fazla giremez, işlem boşa gider.
+- **Yazın sıcakta yapmak:** Açılan delikler toprağı daha da kurutur, çim strese girer.
+- **Tapaları hemen toplamak:** Tapalar değerli organik madde ve mikroorganizma taşır; yerinde parçalanmaları daha iyidir.
+- **Her yıl gereksiz yere yapmak:** Kumlu ve az kullanılan alanlarda sık havalandırma fayda sağlamaz.
+- **Sonrasını ihmal etmek:** Delikler açıldıktan sonra kum, tohum ve gübre verilmezse işlemin etkisi yarıda kalır.
+
+Düzenli ve doğru zamanda yapılan çim havalandırma, kökleri derinleştirir, suyu toprağa indirir ve çimin kuraklığa, hastalıklara ve yabani otlara karşı direncini artırır. Sıkışmış bir alan genellikle ilk uygulamadan sonraki birkaç hafta içinde daha koyu ve sık bir görünüme kavuşur.
+@sss
+S: Çim havalandırma ne zaman yapılır?
+C: Serin iklim çimlerinde en uygun zaman eylül–ekim, ikinci seçenek ise mart–nisan aylarıdır. Toprak hafif nemli olmalı, donmuş ya da çamur hâlinde olmamalıdır.
+
+S: Çim havalandırmadan sonra çıkan toprak tapaları toplanmalı mı?
+C: Toplanması gerekmez. Birkaç gün kuruduktan sonra tırmıkla dağıtıldığında parçalanır ve deliklere dökülerek toprağa karışır.
+
+S: Çim havalandırma her yıl yapılmalı mı?
+C: Killi ve yoğun kullanılan alanlarda yılda bir ya da iki kez, kumlu ve az kullanılan alanlarda ise 2–3 yılda bir yapmak yeterlidir.
+
+S: Havalandırmadan sonra tohum atılır mı?
+C: Evet. Havalandırmadan hemen sonra seyrek alanlara tohum serpmek çok etkilidir; deliklere düşen tohumlar nemli ve korunaklı bir ortamda çimlenir.
+
+### YAZI
+slug: sarimsak-hastaliklari
+baslik: Sarımsak Hastalıkları: Pas, Beyaz Çürüklük ve Diğer Sorunların Tanınması
+yayin: 2026-11-02 08:35
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: sarımsak hastalıkları
+seo_baslik: Sarımsak Hastalıkları: Pas, Beyaz Çürüklük ve Önlemler
+seo_aciklama: Sarımsak hastalıkları nasıl tanınır? Pas, beyaz çürüklük, mildiyö, mavi küf, sap nematodu ve virüslerin belirtileri ile ekimden hasada önlemler.
+ozet: Sarımsak dayanıklı bir bitki olarak bilinse de toprak kaynaklı çürüklükler, pas ve depoda görülen küfler hasadı ciddi şekilde düşürebilir. Hastalıkların çoğu sağlıklı diş seçimi, ekim nöbeti ve iyi drenajla önlenebilir.
+etiketler: sarımsak hastalıkları, sarımsak pası, beyaz çürüklük, sarımsak yetiştirme, soğangiller
+gorsel: p2-sarimsak-hastalik
+gorsel_alt: Yapraklarında pas hastalığı görülen sarımsak bitkileri
+urunler: florist-mantar-onleyici-bitki-spreyi-250-ml, hasturk-kati-solucan-gubresi
+kisaca: Sarımsak hastalıkları içinde en yaygın olanlar yapraklarda turuncu kabarcıklar yapan pas, dişleri beyaz küfle çürüten beyaz çürüklük, mildiyö ve depoda görülen mavi küftür. Korunmanın temeli sağlıklı tohumluk diş, 3–4 yıllık ekim nöbeti, süzek toprak, dengeli gübre ve iyi kurutmadır.
+@govde
+Sarımsak hastalıkları, özellikle sonbaharda dikilip kışı tarlada geçiren sarımsakta ilkbahara doğru kendini gösterir. Sarımsak uzun bir yetiştirme dönemine sahiptir: Ekim–kasımda dikilen dişler haziran–temmuzda hasat edilir. Bu sekiz-dokuz aylık süre boyunca bitki yağmurlu kış aylarını, nemli ilkbaharı ve ısınan havayı yaşar. Her dönemin kendine özgü sorunları vardır. Bu yazıda sarımsakta en sık görülen hastalıkları belirtileriyle anlatıyor ve ekimden depoya kadar alınabilecek önlemleri sıralıyoruz. İlaç dozu vermiyoruz; ruhsatlı bir ürün kullanılacaksa etiket talimatına uyulmalı, ürün seçimi için müşteri hizmetlerimize danışılmalıdır.
+
+## Pas (Puccinia allii)
+
+**Belirti:** Yapraklarda önce küçük beyazımsı benekler, ardından turuncu ya da pas renginde, toz çıkaran kabarcıklar görülür. Ağır durumlarda yapraklar sararır ve erken kurur. Mevsim ilerledikçe kabarcıklar koyulaşıp siyahımsı bir renk alabilir.
+
+**Ne zaman?** İlkbaharda ılık (10–20 °C) ve nemli havada, özellikle sık dikilmiş ve az havalanan tarlalarda.
+
+**Etkisi:** Yapraklar erken kuruduğu için baş küçük kalır. Hastalık dişleri doğrudan çürütmez ama verimi belirgin şekilde düşürür.
+
+**Ne yapılır:** Sıra arasını geniş tutun, azotlu gübreyi aşırıya kaçırmayın, hastalıklı yaprakları toplayın. Pas, pırasa ve soğanda da görüldüğü için bu bitkileri sarımsağın hemen yanına dikmemek yayılmayı yavaşlatır.
+
+## Beyaz çürüklük (Sclerotium cepivorum)
+
+**Belirti:** Yaşlı yapraklar uçtan başlayarak sararır ve bitki solar. Bitki kolayca çekilip çıkar; kökler çürümüştür. Dişlerin dibinde beyaz, pamuksu bir küf ve bu küfün içinde haşhaş tanesi büyüklüğünde siyah, sert tanecikler (sklerot) bulunur.
+
+**Neden önemli?** Sarımsağın en tehlikeli hastalığıdır. Siyah tanecikler toprakta 15–20 yıl canlı kalabilir ve soğangil kökleri yaklaştığında yeniden etkinleşir.
+
+**Ne yapılır:** Hastalıklı bitkileri çevresindeki toprakla birlikte söküp bahçeden uzaklaştırın, kompost yığınına atmayın. Hastalık görülen alana uzun yıllar sarımsak, soğan ve pırasa dikmeyin. Alet ve ayakkabılarla toprağın başka parsellere taşınmasını önleyin.
+
+## Mildiyö (Peronospora destructor)
+
+**Belirti:** Yapraklarda soluk, uzunlamasına lekeler; nemli sabahlarda bu lekelerin üzerinde gri-mor bir küf. Yaprak uçları kıvrılıp kurur.
+
+**Ne zaman?** Serin, sisli ve çiyli havalarda. Sarımsakta soğandaki kadar yaygın değildir ama nemli yıllarda görülebilir.
+
+**Ne yapılır:** Havadar dikim, sabah sulaması ve hastalıklı yaprakların temizlenmesi.
+
+## Mavi küf (Penicillium)
+
+**Belirti:** Tarlada nadiren, depoda sıkça görülür. Dişlerde sarımsı yumuşak lekeler, üzerinde mavi-yeşil, tozlu bir küf. Ekim için kullanılan küflü dişler tarlada çürür ve boşluklar oluşturur.
+
+**Ne yapılır:** Hasattan sonra başları iyice kurutun, yaralı başları ayırın ve serin, havadar bir yerde saklayın. Ekim için yalnızca sağlam, küfsüz dişleri kullanın.
+
+## Fusarium kök ve baş çürüklüğü
+
+**Belirti:** Yapraklar uçtan sararır, kökler pembe-kahverengi renk alır, baş tabanında yumuşama görülür. Sıcak dönemde ve hasada yakın aylarda belirginleşir.
+
+**Ne yapılır:** Su birikmesini önleyin, toprağı aşırı ıslak tutmayın, hasadı geciktirmeyin ve ekim nöbeti uygulayın.
+
+## Sap ve soğan nematodu (Ditylenchus dipsaci)
+
+**Belirti:** Bitkilerde bodurluk, yapraklarda şişkinlik ve kıvrılma, başta süngerimsi yumuşama ve çatlama. Belirti gösteren bitkiler tarlada öbek öbek görülür.
+
+**Ne yapılır:** Nematod çoğunlukla bulaşık tohumluk dişlerle taşınır. Güvenilir kaynaktan tohumluk almak ve hastalık görülen alanda uzun süre soğangil yetiştirmemek en etkili önlemdir.
+
+## Virüs hastalıkları
+
+**Belirti:** Yapraklarda sarı çizgiler ve mozaik desen, bodur büyüme ve küçük başlar. Virüsler dişlerle nesilden nesile taşınır ve yaprak bitleriyle yayılır.
+
+**Ne yapılır:** Virüs belirtisi gösteren bitkilerin dişlerini ertesi yılın tohumluğu olarak kullanmayın. Her yıl en sağlıklı ve en iri başlardan tohumluk ayırmak, virüs yükünün yıllar içinde artmasını önler.
+
+## Sarımsak hastalıkları ile karıştırılan sorunlar
+
+| Görünüm | Olası neden | Hastalık mı? |
+|---|---|---|
+| Yaprak uçlarında sararma (kışın) | Soğuk, don | Hayır |
+| İlkbaharda genel soluk yeşil renk | Azot eksikliği, su birikmesi | Hayır |
+| Mayıs–hazirandan itibaren yaprakların sararması | Olgunlaşma | Hayır, hasat yaklaşıyor |
+| Turuncu kabarcıklar | Pas | Evet |
+| Dişlerde beyaz küf ve siyah tanecikler | Beyaz çürüklük | Evet |
+
+Hasat zamanı yaklaştığında alttan başlayan doğal sararma normaldir ve hastalıkla karıştırılmamalıdır. Soğanda görülen benzer sorunlar için [soğan hastalıkları](/sogan-hastaliklari) yazımıza göz atabilirsiniz.
+
+## Sarımsak hastalıkları nasıl önlenir?
+
+1. **Sağlıklı tohumluk:** Sert, iri, küfsüz ve yarasız dişler seçin. Market sarımsakları çoğu zaman çimlenmeyi geciktiren işlemlerden geçmiştir ve hastalık geçmişi bilinmez.
+2. **Ekim nöbeti:** Aynı yere en az 3–4 yıl sarımsak, soğan ya da pırasa dikmeyin.
+3. **Drenaj:** Kış yağmurlarında su biriken yerlerde masura yapın.
+4. **Aralık:** Sıra arası 25–30 cm, sıra üzeri 10–15 cm bırakın.
+5. **Dengeli besleme:** Aşırı azot yaprakları yumuşatır ve pası kolaylaştırır.
+6. **Temizlik:** Hastalıklı bitki artıklarını tarlada bırakmayın.
+7. **Hasat ve kurutma:** Başları zamanında söküp gölgede, havadar bir yerde 2–3 hafta kurutun.
+
+Doğru dikim zamanı ve derinliği için [sarımsak ve soğan dikimi](/sarimsak-ve-sogan-dikimi) yazımız, dengeli besleme için ise [sarımsak gübreleme](/sarimsak-gubreleme) yazımız yol gösterecektir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Toprak ve mantar hastalıkları
+
+Organik maddesi yüksek, havadar ve süzek bir toprak, kök çürüklüklerine karşı en iyi korumadır. Sarımsak hafif asitten hafif kireçliye kadar geniş bir pH aralığında yetişir; ama ağır ve su tutan killi topraklarda kök hastalıkları çok daha sık görülür. Toprak tepkimesi hakkında bilgi için [toprak pH nedir](/toprak-ph-nedir) yazımıza bakabilirsiniz. Yapraklarda mantar lekelerinin ilk belirdiği dönemde koruyucu bir bitki spreyi yayılmayı yavaşlatabilir; bu tür ürünler hastalığı tedavi etmekten çok önlemeye yardımcı olur.
+
+[ürün:florist-mantar-onleyici-bitki-spreyi-250-ml]
+
+## Depolamada dikkat
+
+Sarımsak hastalıkları yalnızca tarlada değil depoda da kayba yol açar. Başları sapları ve kökleri kurumadan depolamayın, ıslak ya da güneşte yanmış başları ayırın. 0–4 °C ya da serin bir oda sıcaklığı ve düşük nem, uzun saklama için uygundur. Depoda yumuşayan, küflenen başları hemen ayırmak, hastalığın komşu başlara geçmesini önler. Doğru yapılan bir hasat ve kurutma, ertesi yılın tohumluğunun da sağlıklı olmasını sağlar; böylece sarımsak hastalıkları ile mücadele her yıl biraz daha kolaylaşır.
+@sss
+S: Sarımsak yaprağında turuncu lekeler neden olur?
+C: Turuncu, toz çıkaran kabarcıklar genellikle pas hastalığıdır. Nemli ve ılık ilkbahar havasında, sık dikilmiş tarlalarda yaygınlaşır.
+
+S: Sarımsakta beyaz çürüklük nasıl anlaşılır?
+C: Bitki solar ve kolayca çekilip çıkar; dişlerin dibinde beyaz pamuksu bir küf ve haşhaş tanesi büyüklüğünde siyah tanecikler görülür.
+
+S: Beyaz çürüklük görülen yere tekrar sarımsak ekilir mi?
+C: Ekilmemelidir. Hastalığın siyah tanecikleri toprakta 15–20 yıl canlı kalabilir; bu alanda uzun süre sarımsak, soğan ve pırasa yetiştirilmemelidir.
+
+S: Sarımsak yaprakları neden sararır?
+C: Kışın soğuk, ilkbaharda azot eksikliği ya da su birikmesi, hasada yakın dönemde ise doğal olgunlaşma en sık nedenlerdir. Turuncu kabarcık ya da kök çürüklüğü varsa hastalık düşünülmelidir.
+
+### YAZI
+slug: ataturk-cicegi-bakimi
+baslik: Atatürk Çiçeği Bakımı: Kırmızı Yaprakları Uzun Süre Korumanın Yolları
+yayin: 2026-11-02 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: atatürk çiçeği bakımı
+seo_baslik: Atatürk Çiçeği Bakımı: Işık, Sulama ve Yeniden Kızartma
+seo_aciklama: Atatürk çiçeği bakımı nasıl yapılır? Işık, sıcaklık, sulama, yaprak dökülmesinin nedenleri, çiçek sonrası budama ve yaprakları yeniden kızartma yöntemi.
+ozet: Atatürk çiçeği, kasım ayında açan kırmızı yapraklarıyla kışın en sevilen saksı bitkilerinden biridir. Soğuk hava akımından korunan, aydınlık ve dengeli sulanan bir bitki kırmızı rengini aylarca korur; sabırlı bir bakımla ertesi yıl yeniden renklendirilebilir.
+etiketler: atatürk çiçeği, euphorbia pulcherrima, kış çiçekleri, salon bitkileri, kasım çiçeği
+gorsel: p2-ataturk-cicegi
+gorsel_alt: Kırmızı yapraklı Atatürk çiçeği (Euphorbia pulcherrima)
+urunler: salon-bitkilerine-ozel-toprak-karisimi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini
+kisaca: Atatürk çiçeği bakımı için bitki aydınlık, 18–22 °C ve soğuk hava akımından uzak bir yerde tutulur. Toprağın üstü kuruyunca sulanır, tabakta su bırakılmaz. Yaprak dökümünün başlıca nedenleri soğuk, ani yer değişikliği ve aşırı sudur. Yeniden kızarması için ekimden itibaren 8–10 hafta, günde 14 saat karanlık gerekir.
+@govde
+Atatürk çiçeği bakımı, kasım ayıyla birlikte çiçekçilerde ve marketlerde sıkça karşılaştığımız bu bitkiyi evine alan herkesin merak ettiği konudur. Bilimsel adı Euphorbia pulcherrima olan bu bitki, Meksika kökenlidir. Ülkemizde Atatürk çiçeği adını, kırmızı renginin en parlak olduğu zamanın 10 Kasım'a denk gelmesinden almıştır. Dünyada ise yılbaşı yıldızı olarak bilinir. Bitkinin çiçek sandığımız kırmızı kısımları aslında renkli yapraklardır (brakte); asıl çiçekler ortadaki küçük sarı tomurcuklardır. Bu yazıda Atatürk çiçeğini eve getirdiğiniz andan itibaren nasıl bakmanız gerektiğini ve ertesi yıl yeniden kızartmanın yolunu anlatıyoruz.
+
+## Satın alırken nelere dikkat etmeli?
+
+Bitkinin evdeki ömrü büyük ölçüde satın aldığınız anda belirlenir:
+
+- **Ortadaki sarı çiçekler:** Kırmızı yaprakların ortasındaki küçük sarı tomurcuklar kapalı ya da yeni açıyorsa bitki tazedir. Polen dökmüş ya da düşmüş tomurcuklar, bitkinin renkli döneminin sonuna yaklaştığını gösterir.
+- **Yapraklar:** Alttaki yeşil yapraklar dolgun ve gövdeye kadar yerinde olmalıdır. Alt yaprakları dökülmüş bitkiler soğuk ya da su stresi yaşamıştır.
+- **Toprak:** Ne kupkuru ne de çamur gibi ıslak olmalıdır.
+- **Teşhir yeri:** Kapı önünde ya da soğuk bir tezgâhta bekletilen bitkileri almayın.
+- **Taşıma:** Soğuk havada bitkiyi kâğıt ya da naylonla sarıp kısa sürede eve götürün. 10 °C'nin altındaki hava birkaç dakikada yaprak dökümüne yol açabilir.
+
+## Işık ve konum
+
+Atatürk çiçeği bol ama dolaylı ışık sever. Günde en az 6 saat aydınlık alan, güneye ya da doğuya bakan bir pencerenin yakını idealdir. Kış güneşi yaprakları yakmaz, ama camla yaprakların temas etmemesine dikkat edin; soğuk camlar yaprakları üşütür. Kalorifer peteğinin, sobanın ya da klimanın hemen yanı, sık açılan dış kapıların önü ise en kötü yerlerdir.
+
+## Sıcaklık
+
+- **Gündüz:** 18–22 °C
+- **Gece:** 15–18 °C. Gece biraz serin olması renklerin daha uzun süre canlı kalmasını sağlar.
+- **Sınır:** 10 °C'nin altı ve ani sıcaklık değişimleri yaprak dökümüne neden olur.
+
+## Atatürk çiçeği bakımı: sulama
+
+Sulama, bu bitkinin bakımında en çok hata yapılan konudur. Atatürk çiçeği ne kurumayı ne de ıslak kalmayı sever.
+
+1. Toprağın üst 2–3 cm'si kuruduğunda sulayın. Çoğu evde bu, haftada bir ya da on günde bir sulama anlamına gelir.
+2. Oda sıcaklığındaki suyu, saksının altından akana kadar verin.
+3. 15 dakika sonra tabakta ya da kaşpoda biriken suyu mutlaka boşaltın.
+4. Süslü folyo ya da ambalaj kâğıdı saksının altındaki deliği kapatıyorsa ya delin ya da çıkarın; folyonun içinde biriken su kökleri birkaç günde çürütür.
+
+Kuru kalan bitki yapraklarını sarkıtır; zamanında sulandığında birkaç saat içinde toparlanır. Aşırı sulanan bitkide ise alt yapraklar sararır ve dökülür. Kış aylarında genel sulama ritmi için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımıza bakabilirsiniz.
+
+## Nem
+
+Kaloriferli evlerin kuru havası yaprak kenarlarının kurumasına ve renkli yaprakların erken solmasına yol açar. Saksıyı ıslak çakıl dolu bir tepsinin üzerine koymak ya da odaya bir nemlendirici yerleştirmek fayda sağlar. Kış aylarında evde nemi artırmanın diğer yolları için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza göz atabilirsiniz.
+
+## Toprak ve besleme
+
+Satın alınan bitkiler genellikle torf ağırlıklı, hafif bir toprakta gelir. Renkli dönemde saksı değiştirmek ve gübre vermek gerekmez. Saksı değişimi ilkbaharda, budamadan sonra yapılır. Yeni saksıda süzek, havadar ve organik maddesi yüksek bir toprak kullanılmalıdır.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+
+Bitki ilkbaharda yeni sürgün vermeye başladığında, yaz sonuna kadar 2–3 haftada bir dengeli bir sıvı besin verilebilir. Renklendirme döneminin başladığı ekimden itibaren beslemeyi ayda bire düşürmek yeterlidir.
+
+[ürün:florist-cicekli-bitkiler-sivi-konsantre-bitki-besini]
+
+## Yapraklar neden dökülüyor?
+
+| Belirti | En olası neden | Çözüm |
+|---|---|---|
+| Eve getirildikten birkaç gün sonra yaprak dökümü | Soğuk hava, taşıma stresi | Sabit, ılık ve aydınlık bir yer; birkaç hafta yerini değiştirmeyin |
+| Alt yaprakların sararıp düşmesi | Aşırı su, kök çürüklüğü | Tabak suyunu boşaltın, toprak kuruyunca sulayın |
+| Yaprakların aniden sarkması | Kuruma | Hemen sulayın |
+| Renkli yaprakların kenarlarının kahverengileşmesi | Kuru hava, sıcak petek | Nem artırın, peteğin yanından alın |
+| Yaprak altında beyaz küçük sinekler | Beyaz sinek | Sarı yapışkan tuzak, yaprakları yıkama |
+
+Salon bitkilerinde görülen zararlıların tanınması için [salon bitkilerinde zararlılar](/salon-bitkilerinde-zararlilar) yazımıza bakabilirsiniz.
+
+## Renkli dönem bittikten sonra
+
+Kırmızı yapraklar genellikle şubat–mart aylarında solmaya ve dökülmeye başlar. Bu noktada bitkiyi atmak zorunda değilsiniz:
+
+1. **Mart–nisan:** Sulamayı azaltın, bitkiyi birkaç hafta serin bir yerde dinlendirin.
+2. **Nisan sonu:** Gövdeleri 10–15 cm'ye kadar budayın. Kesilen yerlerden süt gibi beyaz bir öz akar; eldiven kullanın.
+3. **Mayıs:** Bitkiyi bir boy büyük saksıya alın, ılık ve aydınlık bir yere koyup düzenli sulamaya ve beslemeye başlayın. Gece sıcaklıkları 15 °C'nin üzerine çıktığında balkona çıkarabilirsiniz.
+4. **Haziran–temmuz:** Bitkinin dolgun olması için yeni sürgünlerin uçlarını bir-iki kez kırpın. Ağustostan sonra uç alma yapmayın.
+
+## Yeniden kızartma: karanlık yöntemi
+
+Atatürk çiçeği kısa gün bitkisidir; renkli yaprakları gecelerin uzadığı dönemde oluşturur. Evde akşamları yanan lambalar bitkinin bu dönemi algılamasını engeller. Yeniden renklenmesi için:
+
+- **Ekim başından itibaren 8–10 hafta:** Bitki her gün akşam 17:00'den sabah 08:00'e kadar tam karanlıkta kalmalıdır. Karanlık bir dolap, kullanılmayan bir oda ya da üzerine geçirilen kalın, ışık geçirmez bir kutu işe yarar.
+- **Gündüz:** Bitki yine aydınlık bir yerde durmalı ve normal şekilde sulanmalıdır.
+- **Dikkat:** Karanlık dönemde kısa süreli bir ışık bile (lamba açmak gibi) süreci bozabilir.
+
+Kasım sonuna doğru yaprakların uçlarından başlayarak kırmızı renk belirir. Renk oturduktan sonra karanlık uygulamasına gerek kalmaz.
+
+## Güvenlik notu
+
+Atatürk çiçeğinin beyaz özsuyu ciltte ve gözde tahrişe yol açabilir. Budama yaparken eldiven kullanın. Bitki zannedildiği kadar zehirli değildir ama yenmesi kedi, köpek ve çocuklarda mide bulantısına neden olabilir; ulaşamayacakları bir yerde tutun.
+
+## Diğer kış çiçekleriyle birlikte
+
+Atatürk çiçeği, kışın evde renk veren diğer bitkilerle birlikte çok güzel bir köşe oluşturur. Benzer koşulları seven bitkiler için [sıklamen bakımı](/siklamen-bakimi) ve [yılbaşı kaktüsü bakımı](/yilbasi-kaktusu-bakimi) yazılarımıza göz atabilirsiniz. Doğru ışık, ölçülü su ve soğuktan korunma ile Atatürk çiçeği bakımı zor değildir ve bitki kırmızı rengini bahara kadar korur.
+@sss
+S: Atatürk çiçeği ne sıklıkla sulanır?
+C: Toprağın üst 2–3 cm'si kuruduğunda, genellikle haftada bir sulanır. Tabakta ve süs folyosunun içinde biriken su mutlaka boşaltılmalıdır.
+
+S: Atatürk çiçeğinin yaprakları neden dökülür?
+C: En sık nedenler soğuk hava akımı, ani yer değişikliği ve aşırı sulamadır. Bitki 10 °C'nin altındaki havaya birkaç dakika maruz kalsa bile yaprak dökebilir.
+
+S: Atatürk çiçeği ertesi yıl tekrar kızarır mı?
+C: Kızarır. Ekim başından itibaren 8–10 hafta boyunca her gün yaklaşık 14 saat tam karanlıkta tutulursa kasım sonuna doğru yeniden renklenir.
+
+S: Atatürk çiçeği zehirli midir?
+C: Beyaz özsuyu cildi ve gözü tahriş edebilir; yenmesi ise mide bulantısına yol açabilir. Evcil hayvanların ve çocukların ulaşamayacağı yerde tutulması önerilir.
+
+### YAZI
+slug: odun-kulu-gubre
+baslik: Odun Külü Gübre Olarak Kullanılır mı? Faydaları, Riskleri ve Doğru Miktar
+yayin: 2026-11-02 11:05
+yazar: Ahmet Sacit Çelik
+kategori: gubreleme
+odak: odun külü gübre
+seo_baslik: Odun Külü Gübre Olarak Kullanılır mı? Doğru Kullanım
+seo_aciklama: Odun külü gübre olarak kullanılır mı? Potasyum ve kireç etkisi, hangi bitkilere verilir, hangilerine verilmez, kaç gram atılır ve nelere dikkat edilir.
+ozet: Soba ve şömine külü bahçede ücretsiz bir potasyum ve kireç kaynağıdır. Doğru toprakta ve ölçülü kullanıldığında faydalıdır; ama kireçli topraklarda, asit seven bitkilerde ve fazla miktarda kullanıldığında zarar verebilir.
+etiketler: odun külü, kül gübre, potasyum, toprak pH, kompost, doğal gübre
+gorsel: p2-odun-kulu
+gorsel_alt: Sobadan çıkmış gri odun külü yakın plan
+urunler: hasturk-kati-solucan-gubresi, biochar-mese-odunu-bazli-karbon-toprak-duzenleyici
+kisaca: Odun külü gübre olarak kullanılabilir; potasyum, kalsiyum ve az miktarda fosfor içerir, azot içermez. Kireç gibi etki ederek pH'ı yükseltir; asidik topraklarda faydalı, kireçli topraklarda ise sakıncalıdır. Yılda metrekareye en fazla 50–100 gram ince serpilir. Kömür ve boyalı tahta külü kullanılmaz.
+@govde
+Odun külü gübre olarak kullanılır mı sorusu, kış aylarında soba ve şömine yakan her evin aklına gelir. Her hafta kovalar dolusu kül çıkar ve çoğu zaman çöpe gider. Oysa bu gri toz, bitkilerin ihtiyaç duyduğu birkaç önemli besini içerir. Öte yandan yanlış toprağa ya da yanlış bitkiye verildiğinde zarar da verebilir. Bu yazıda odun külünün içinde neler olduğunu, hangi topraklarda ve bitkilerde faydalı olduğunu, ne kadar kullanılacağını ve hangi durumlarda hiç kullanılmaması gerektiğini anlatıyoruz.
+
+## Odun külünün içinde ne var?
+
+Odun yandığında azot ve kükürt gibi elementler gaz olarak uçar; geriye mineral kısım kalır. Külün bileşimi ağacın türüne, yaşına ve yanma sıcaklığına göre değişse de genel tablo şöyledir:
+
+| Bileşen | Yaklaşık oran | Etkisi |
+|---|---|---|
+| Kalsiyum (kalsiyum karbonat ve oksit olarak) | %15–30 | Kireç etkisi, pH yükseltir |
+| Potasyum | %3–7 | Meyve kalitesi, dayanıklılık |
+| Magnezyum | %1–2 | Yaprak yeşili |
+| Fosfor | %0,5–1,5 | Kök ve çiçek |
+| Mangan, bor, çinko gibi iz elementler | Az miktarda | Çeşitli işlevler |
+| Azot | Yok denecek kadar az | — |
+
+Sert ağaçlar (meşe, kayın, gürgen, meyve ağaçları) genellikle çam gibi yumuşak ağaçlara göre daha fazla besin içeren kül verir. Gübre etiketlerindeki besinlerin ne anlama geldiğini [NPK nedir](/npk-nedir-gubre-etiketi) yazımızda ayrıntılı anlattık.
+
+## Kül, kireç gibi davranır
+
+Külün en güçlü etkisi aslında besin değil, toprağın asitliğini azaltmasıdır. Külün kireç değeri tarım kirecinin yaklaşık yarısı kadardır. Bu, iki farklı sonuç doğurur:
+
+- **Asidik topraklarda (pH 6'nın altı):** Kül, toprak pH'ını yükselterek birçok sebzenin ve çimin daha iyi gelişmesini sağlar. Karadeniz kıyıları gibi yağışlı bölgelerin asidik toprakları için faydalı bir malzemedir.
+- **Kireçli topraklarda (pH 7,5'in üstü):** İç Anadolu, Güneydoğu ve Akdeniz'in birçok bölgesinde toprak zaten kireçlidir. Bu topraklara kül eklemek pH'ı daha da yükseltir ve demir, mangan, çinko gibi elementlerin alınmasını zorlaştırır. Sonuçta yapraklarda sararma görülebilir.
+
+Bu nedenle külü kullanmadan önce toprağınızın pH değerini bilmek gerekir. Basit bir pH ölçümünün nasıl yapılacağı için [toprak pH nedir](/toprak-ph-nedir) yazımıza bakabilirsiniz.
+
+## Odun külü gübre olarak hangi bitkilere uygun?
+
+Asidik ya da nötr toprakta ölçülü kullanıldığında külden en çok fayda gören bitkiler şunlardır:
+
+- **Potasyum seven sebzeler:** Domates, biber, patates, pancar, lahanagiller ve fasulye.
+- **Soğanlı bitkiler:** Soğan, sarımsak ve pırasa.
+- **Meyve ağaçları:** Elma, armut, kiraz ve erik; özellikle asidik topraklarda.
+- **Çim:** pH'ı düşük, yosun tutmuş çim alanları.
+- **Kompost yığını:** Asidik yaprak ve mutfak artıklarının dengelenmesi için.
+
+## Hangi bitkilere verilmez?
+
+- **Asit seven bitkiler:** Ortanca (mavi renk için), yaban mersini, açelya, orman gülü, kamelya, gardenya ve aronya. Kül bu bitkilerde demir eksikliğine ve gelişme geriliğine yol açar.
+- **Patates (yüzeye fazla miktarda):** Yüksek pH patates kabuğunda uyuz hastalığını artırabilir; patates tarlasında çok az ve dikimden önce kullanılmalıdır.
+- **Fideler ve çimlenen tohumlar:** Külün tuz etkisi genç kökleri yakabilir.
+- **Kireçli topraktaki tüm bitkiler:** pH zaten yüksekse kül eklenmemelidir.
+
+## Ne kadar kullanılmalı?
+
+Odun külünün en büyük riski aşırı kullanımdır. Kül çok ince ve yoğun bir malzemedir; bir avuç bile toprağı belirgin şekilde etkileyebilir.
+
+| Kullanım | Önerilen miktar |
+|---|---|
+| Bahçe toprağı (asidik/nötr) | Yılda 50–100 g/m² (yaklaşık 1–2 avuç) |
+| Meyve ağacı dibi | Taç izdüşümüne yılda 200–300 g, eşit dağıtılarak |
+| Kompost yığını | Her 10–15 cm katmana ince bir serpme |
+| Saksı | Önerilmez |
+
+Külü her yıl kullanacaksanız 2–3 yılda bir toprak pH'ını yeniden ölçmek iyi bir alışkanlıktır.
+
+## Nasıl uygulanır?
+
+1. **Soğumuş kül kullanın:** Kül, sönmüş görünse bile içinde günlerce kor kalabilir. Metal bir kovada en az birkaç gün bekletin.
+2. **Kuru ve rüzgârsız bir gün seçin:** Kül çok tozludur; eldiven ve gerekiyorsa maske kullanın.
+3. **İnce ve eşit serpin:** Yığın hâlinde bırakmayın; yağmurla eriyen yığınlar o noktada toprağı aşırı kireçli hâle getirir.
+4. **Toprağa karıştırın:** Sonbaharda ya da kış sonunda serpip çapayla üst toprağa karıştırın.
+5. **Azotlu gübreyle aynı anda vermeyin:** Kül, amonyum içeren gübrelerle karıştığında azotun gaz olarak kaybolmasına yol açar. İki uygulama arasında en az birkaç hafta bırakın.
+
+## Kompostta odun külü
+
+Kompost yığını külü değerlendirmenin en güvenli yollarından biridir. Az miktarda kül, mutfak artıklarının ve yaprakların oluşturduğu asidik ortamı dengeler ve kompostu potasyumca zenginleştirir. Ancak fazla kül kompostun pH'ını yükseltip mikroorganizmaları yavaşlatır. Kompost yapımının temel kuralları için [balkonda kompost yapımı](/balkonda-kompost-yapimi) yazımıza göz atabilirsiniz.
+
+## Kesinlikle kullanılmaması gereken küller
+
+- **Taş kömürü ve linyit külü:** Kükürt ve ağır metal içerebilir.
+- **Boyalı, cilalı, vernikli ya da emprenyeli tahta külü:** Kurşun, krom ve arsenik gibi zararlı maddeler içerebilir.
+- **Sunta, MDF ve kontrplak külü:** Tutkal ve kimyasallar içerir.
+- **Çöp, plastik ve kâğıt yakılarak elde edilen kül.**
+- **Mangal kömürü briketleri:** Yanmayı hızlandıran katkılar içerebilir.
+
+## Odun külü mü, biyokömür mü?
+
+Kül ile biyokömür sıkça karıştırılır. Kül, odunun tamamen yanmasıyla geriye kalan mineral tozdur. Biyokömür ise odunun oksijensiz ortamda kömürleştirilmesiyle elde edilen, gözenekli ve karbonca zengin bir malzemedir. Biyokömür toprağın yapısını iyileştirir, su ve besin tutma kapasitesini artırır ve toprakta uzun yıllar kalır; pH üzerindeki etkisi külden çok daha hafiftir. Ayrıntılar için [biochar nedir](/biochar-nedir-toprakta-nasil-kullanilir) yazımıza bakabilirsiniz.
+
+[ürün:biochar-mese-odunu-bazli-karbon-toprak-duzenleyici]
+
+## Kül tek başına yeterli mi?
+
+Odun külü gübre olarak tamamlayıcı bir malzemedir ama tam bir gübre değildir. Azot içermediği ve organik madde katmadığı için toprağın yapısını iyileştirmez. Bahçede asıl temel, olgun kompost ya da solucan gübresi gibi organik maddedir. Kül ise asidik topraklarda bu temeli potasyum ve kalsiyumla destekleyen bir yardımcıdır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Meyve ağaçlarının sonbahardaki beslenmesi için [meyve ağaçlarında sonbahar gübrelemesi](/meyve-agaclarinda-sonbahar-gubrelemesi) yazımız yol gösterecektir.
+@sss
+S: Odun külü hangi bitkilere iyi gelir?
+C: Asidik ya da nötr topraklarda domates, biber, patates, lahanagiller, soğan, sarımsak ve meyve ağaçları gibi potasyum seven bitkilere faydalıdır.
+
+S: Odun külü hangi bitkilere verilmez?
+C: Ortanca, yaban mersini, açelya ve orman gülü gibi asit seven bitkilere, fidelere ve kireçli topraktaki bitkilere verilmez.
+
+S: Metrekareye ne kadar odun külü atılır?
+C: Asidik ya da nötr bahçe toprağında yılda metrekareye 50–100 gram, yani yaklaşık bir iki avuç yeterlidir. Kireçli topraklarda kullanılmamalıdır.
+
+S: Kömür külü gübre olarak kullanılır mı?
+C: Kullanılmamalıdır. Taş kömürü ve linyit külü kükürt ve ağır metal içerebilir; yalnızca boyasız, işlenmemiş doğal odun külü kullanılmalıdır.
+
+### YAZI
+slug: toprak-sterilizasyonu
+baslik: Toprak Sterilizasyonu: Evde Saksı Toprağı Nasıl Temizlenir?
+yayin: 2026-11-02 12:25
+yazar: Rümeysa Altınova
+kategori: toprak-rehberi
+odak: toprak sterilizasyonu
+seo_baslik: Toprak Sterilizasyonu: Evde Saksı Toprağını Temizleme
+seo_aciklama: Toprak sterilizasyonu ne zaman gerekir? Fırında, buharda ve güneşte toprak temizleme yöntemleri, doğru sıcaklık ve süreler, sonrasında toprağı canlandırma.
+ozet: Fide çökertmesi, toprak sinekleri ya da hastalıklı bir bitkinin ardından eski toprağı yeniden kullanmak istediğinizde toprağı ısıyla temizlemek bir seçenektir. Doğru sıcaklıkta yapılan işlem zararlıları yok eder; ardından toprağa yararlı canlılar geri kazandırılmalıdır.
+etiketler: toprak sterilizasyonu, saksı toprağı, fide çökertmesi, toprak sineği, solarizasyon
+gorsel: p2-toprak-steril
+gorsel_alt: Saksıdan çıkarılmış kök topu ve eski saksı toprağı
+urunler: hg-fide-topragi, hasturk-kati-solucan-gubresi
+kisaca: Toprak sterilizasyonu, saksı toprağındaki mantar sporlarını, zararlı yumurtalarını ve yabani ot tohumlarını ısıyla yok etmektir. Evde en pratik yol, nemli toprağı fırında 70–80 °C'de 30 dakika tutmaktır; daha yüksek ısı toprağı bozar. İşlemden sonra solucan gübresi ya da kompost katılarak toprak yeniden canlandırılır.
+@govde
+Toprak sterilizasyonu, özellikle fide yetiştirenlerin ve eski saksı toprağını yeniden kullanmak isteyenlerin sık sorduğu bir konudur. Bir sezon boyunca domates yetiştirdiğiniz, içinde bitkisi kuruyan ya da toprak sineği istilasına uğramış bir saksının toprağını doğrudan yeni bir bitkiye kullanmak risklidir. Toprakta hastalık yapan mantarların sporları, zararlıların yumurtaları ve yabani ot tohumları kalabilir. Bu yazıda toprağın ne zaman ısıyla temizlenmesi gerektiğini, evde uygulanabilecek yöntemleri ve en önemlisi işlemden sonra toprağı yeniden canlı hâle getirmenin yollarını anlatıyoruz.
+
+## Sterilizasyon mu, pastörizasyon mu?
+
+Bu iki kavram sıkça karıştırılır ve evde yapılacak işlem için doğru olanı seçmek önemlidir:
+
+- **Sterilizasyon:** Toprağı 100 °C ve üzerine ısıtarak içindeki bütün canlıları, yararlı olanlar da dâhil yok etmek. Bu sıcaklıkta organik madde bozulur, toprakta amonyum ve mangan birikerek bitkilere zarar verebilir.
+- **Pastörizasyon:** Toprağı 60–80 °C'de 30 dakika tutmak. Hastalık yapan mantarların, zararlıların ve yabani ot tohumlarının çoğu ölür; ama ısıya dayanıklı yararlı bakterilerin bir kısmı hayatta kalır.
+
+Evde "toprak sterilizasyonu" denince aslında yapılması gereken pastörizasyondur. Bu yazıda da önerdiğimiz sıcaklıklar bu aralıktadır.
+
+## Toprak ne zaman temizlenmeli?
+
+Her eski toprağın ısıl işleme ihtiyacı yoktur. Şu durumlarda faydalıdır:
+
+- **Fide çökertmesi yaşandıysa:** Fidelerin toprak seviyesinden çürüyüp devrildiği bir viyolün ya da saksının toprağı.
+- **Hastalıklı bitkinin ardından:** Kök çürüklüğü, solgunluk hastalığı ya da kök ur nematodu görülen bir bitkinin toprağı.
+- **Toprak sineği istilası:** Larvaların bulunduğu nemli saksı toprağı.
+- **Yabani ot tohumu riski:** Bahçeden alınan toprağı fide karışımında kullanacaksanız.
+- **Tohum ekimi:** Hassas ve küçük tohumlu bitkilerin (begonya, petunya, lobelya gibi) ekiminde.
+
+Sağlıklı bir bitkiden kalan toprak için genellikle ısıl işlem yerine yenileme yeterlidir. Eski toprağın yenilenmesi için [eski saksı toprağı nasıl yenilenir](/eski-saksi-topragi-nasil-yenilenir) yazımıza bakabilirsiniz.
+
+## Fırında toprak sterilizasyonu
+
+Küçük miktarlar için en pratik ve kontrollü yöntemdir.
+
+1. **Toprağı eleyin:** Kökleri, taşları ve iri parçaları ayıklayın.
+2. **Nemlendirin:** Toprak hafif nemli olmalıdır; sıktığınızda topak olup su damlamamalıdır. Nem, ısının toprağın içine eşit yayılmasını sağlar.
+3. **Tepsiye serin:** Fırın tepsisine en fazla 8–10 cm kalınlığında yayın ve üzerini alüminyum folyoyla örtün.
+4. **Isıtın:** Fırını 90–100 °C'ye ayarlayın. Toprağın ortasına bir mutfak termometresi batırın ve toprak 70–80 °C'ye ulaştıktan sonra 30 dakika bu sıcaklıkta tutun.
+5. **Soğutun:** Folyoyu açmadan soğumaya bırakın.
+
+**Dikkat:** Toprak ısıtılırken koku çıkarabilir; mutfağı havalandırın. Fırını 120 °C'nin üzerine çıkarmayın.
+
+## Buharda toprak temizleme
+
+Büyük bir tencereye birkaç parmak su koyun, üzerine metal bir süzgeç ya da sepet yerleştirin ve toprağı bu sepete doldurun. Kapağı kapatıp suyu kaynatın; toprağın ortası 70–80 °C'ye ulaştıktan sonra 30 dakika bekleyin. Buhar yöntemi toprağı kurutmadan ısıttığı için fırına göre daha eşit sonuç verir.
+
+## Mikrodalgada toprak temizleme
+
+Çok küçük miktarlar (1–2 litre) için mikrodalga kullanılabilir. Nemli toprağı mikrodalgaya uygun, kapağı hafif aralık bir kaba koyun ve tam güçte birkaç dakika ısıtın. Isınma düzensiz olabileceği için toprağı karıştırıp sıcaklığı termometreyle kontrol edin. Metal parça ve tel içeren toprakları mikrodalgaya koymayın.
+
+## Güneşle toprak temizleme (solarizasyon)
+
+Bahçe yatakları ve büyük miktarlar için, yaz aylarında güneşin enerjisinden yararlanılır:
+
+1. Toprağı çapalayıp temizleyin ve bol sulayın.
+2. Üzerini şeffaf ya da siyah, ince bir naylonla sıkıca örtün; kenarlarını toprakla gömün.
+3. Temmuz–ağustos aylarında 4–6 hafta bekleyin. Bu sürede üst 10–15 cm toprak, gündüzleri 45–55 °C'ye ulaşır.
+
+Saksı toprağı için aynı yöntem siyah çöp poşetleri kullanılarak da uygulanabilir: Nemli toprağı poşetlere doldurup ağzını kapatın ve en sıcak haftalarda güneşli bir yüzeye yayın. Kasım ayında güneş yeterince güçlü olmadığından bu yöntem ancak yaz için planlanabilir.
+
+## Sterilizasyondan sonra toprağı canlandırma
+
+Isıl işlemden geçen toprak zararlılardan temizlenmiştir ama yararlı mikroorganizmaların büyük kısmı da yok olmuştur. Boş kalan bu ortamı ilk dolduran canlılar her zaman iyi olanlar olmayabilir. Bu yüzden işlemden sonra:
+
+- **Toprağı birkaç gün dinlendirin:** Isıtma sırasında açığa çıkan maddelerin dağılması için toprağı 3–7 gün havadar bir yerde bekletin.
+- **Canlı organik madde ekleyin:** Toprağın her 4–5 ölçüsüne bir ölçü solucan gübresi ya da olgun kompost karıştırın. Bu, toprağa yararlı bakteri ve mantarları geri kazandırır.
+- **Yapıyı düzeltin:** Eski toprak sıkışmışsa perlit ya da kokopit ekleyin.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Ne zaman yeni toprak almak daha mantıklı?
+
+Toprak sterilizasyonu zahmetli bir işlemdir ve her zaman en iyi seçim değildir. Fide ve tohum ekimi gibi hassas işlerde, ısıl işlem görmüş ve yabani ot tohumundan arındırılmış hazır bir fide toprağı daha güvenli ve pratik olabilir. Özellikle birkaç litrelik ihtiyaçlarda fırın, termometre ve zamanla uğraşmak yerine temiz bir başlangıç toprağı tercih edilebilir.
+
+[ürün:hg-fide-topragi]
+
+Tohumdan fide yetiştirmenin adımları için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazımıza bakabilirsiniz.
+
+## Toprak sinekleri ve küf için ek önlemler
+
+Isıl işlem toprak sineklerinin larvalarını ve küf sporlarını yok eder, ama aynı koşullar sürerse sorun geri gelir. Toprak sinekleri ve yüzeyde beyaz küf genellikle sürekli ıslak kalan toprağın işaretidir. Sulama aralığını açmak, saksıyı daha aydınlık ve havadar bir yere almak ve toprağın üst 1–2 cm'sini kurutmak kalıcı çözümdür. Saksı toprağındaki küfün nedenleri için [saksı toprağı neden küflenir](/saksi-topragi-neden-kuflenir) yazımıza göz atabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Kuru toprağı ısıtmak:** Isı eşit dağılmaz, bazı bölgeler yanarken bazıları yeterince ısınmaz.
+- **Çok yüksek sıcaklık:** 100 °C'nin üzerinde toprağın organik maddesi bozulur ve bitkilere zararlı maddeler oluşur.
+- **Termometre kullanmamak:** Fırın sıcaklığı toprağın içindeki sıcaklıkla aynı değildir.
+- **Hemen ekim yapmak:** Toprağı birkaç gün dinlendirmeden ve canlandırmadan kullanmak.
+- **Yeniden bulaştırmak:** Temizlenen toprağı kirli saksılara, eski viyollere ya da yıkanmamış aletlerle doldurmak. Saksıları ve viyolleri de sıcak sabunlu suyla yıkayın.
+
+Doğru sıcaklıkta yapılan ve ardından canlandırma ile tamamlanan toprak sterilizasyonu, eski toprağı güvenle yeniden kullanmanızı ve fidelerinizi en hassas döneminde korumanızı sağlar.
+@sss
+S: Saksı toprağı fırında kaç derecede sterilize edilir?
+C: Nemli toprak, ortası 70–80 °C'ye ulaşacak şekilde ısıtılır ve 30 dakika bu sıcaklıkta tutulur. Fırını 120 °C'nin üzerine çıkarmamak gerekir.
+
+S: Toprak sterilizasyonu yararlı bakterileri de öldürür mü?
+C: Evet, büyük kısmını öldürür. Bu yüzden işlemden sonra toprağa solucan gübresi ya da olgun kompost katarak yararlı canlıları geri kazandırmak gerekir.
+
+S: Güneşte toprak sterilizasyonu nasıl yapılır?
+C: Nemli toprak yaz aylarında şeffaf ya da siyah naylonla sıkıca örtülür ve 4–6 hafta güneşte bırakılır. Bu yöntem temmuz–ağustos gibi sıcak aylarda etkilidir.
+
+S: Sterilize edilen toprak hemen kullanılır mı?
+C: Hemen kullanılmamalıdır. Toprağı 3–7 gün havadar bir yerde dinlendirip ardından solucan gübresi ya da kompostla karıştırmak daha güvenlidir.
+
+### YAZI
+slug: karadeniz-kis-bahcesi
+baslik: Karadeniz Kış Bahçesi: Yağmurlu ve Ilıman İklimde Ne Ekilir?
+yayin: 2026-11-02 13:45
+yazar: Muhammed Hamza Çelik
+kategori: ekim-takvimi
+odak: karadeniz kış bahçesi
+seo_baslik: Karadeniz Kış Bahçesi: Kışlık Sebze Ekimi ve Bakım
+seo_aciklama: Karadeniz kış bahçesi rehberi: Yağışlı ve ılıman kıyı ikliminde kışlık sebzeler, ekim takvimi, asidik toprağın iyileştirilmesi ve drenaj önerileri.
+ozet: Karadeniz kıyılarında kışlar ılıman ama çok yağışlıdır. Bu iklimde lahana, karalahana, pırasa, ıspanak ve bakla gibi sebzeler kış boyunca yetişir; başarı için en önemli iki konu drenaj ve asidik toprağın dengelenmesidir.
+etiketler: karadeniz kış bahçesi, kışlık sebze, karalahana, ekim takvimi, asidik toprak
+gorsel: p2-karadeniz
+gorsel_alt: Rize yamaçlarında yeşil bahçeler ve dağınık köy evleri
+urunler: kara-lahana-fidesi-6-adet, kis-sebze-bahcesi-fide-paketi-24-fide, mor-kivircik-lahana-kale-fidesi-6-adet, arzuman-yaprak-karalahana-tohumu-10-gr, altinvadi-ispanak-tohumu-10-gr, altinvadi-bezelye-tohumu-25-gr
+kisaca: Karadeniz kış bahçesi için kıyı kesimlerde kasım başına kadar ıspanak, roka, maydanoz, bakla ve bezelye ekilebilir; lahana, karalahana ve pırasa fideleri dikilebilir. Kış yağmurları nedeniyle yükseltilmiş yatak ya da masura şarttır. Toprak genellikle asidik olduğundan pH 5,5'in altındaysa kireçleme yapılır.
+@govde
+Karadeniz kış bahçesi, ülkemizin diğer bölgelerinden oldukça farklı kurallarla yönetilir. Kıyı şeridinde kışlar ılıman geçer; kar yağsa bile genellikle uzun süre kalmaz ve sert donlar seyrektir. Buna karşılık yağış çok fazladır: Rize ve Artvin kıyılarında yıllık yağış 2.000 mm'yi aşar ve bunun önemli bir kısmı sonbahar ve kış aylarına düşer. Bu iklim, soğuğa dayanıklı yapraklı sebzeler için büyük bir fırsat, ama su birikmesine hassas bitkiler için bir risktir. Bu yazıda Karadeniz kıyılarında kış boyunca yetiştirilebilecek sebzeleri, ekim takvimini ve toprak hazırlığının püf noktalarını anlatıyoruz.
+
+## Karadeniz ikliminin kış bahçesine etkisi
+
+- **Ilıman sıcaklıklar:** Kıyıda kış ortalamaları genellikle 5–9 °C arasındadır. Bu, birçok sebzenin kış boyunca yavaş da olsa büyümeye devam etmesi demektir.
+- **Bol yağış ve yüksek nem:** Toprak uzun süre ıslak kalır, mantar hastalıkları ve salyangozlar artar.
+- **Az güneş:** Bulutlu günler fazladır; bu da büyümeyi yavaşlatır ve yapraklarda nitrat birikimini artırabilir.
+- **Asidik toprak:** Yağmur, kalsiyum ve magnezyumu toprağın derinlerine yıkar. Bölgenin topraklarının çoğu asidiktir; bu yüzden çay ve fındık bu bölgede çok iyi yetişir.
+- **Eğimli araziler:** Yamaçlarda erozyon riski vardır; teraslama ve yeşil örtü önemlidir.
+
+İç kesimlerde ve yaylalarda ise durum tamamen farklıdır. Rakım 500 metreyi geçtiğinde kışlar sertleşir ve iç bölgelerdeki takvim geçerli olur. Bu yazıdaki öneriler kıyı şeridi ve alçak vadiler içindir.
+
+## Karadeniz kış bahçesi ekim takvimi
+
+| Sebze | Ekim / dikim zamanı | Hasat | Not |
+|---|---|---|---|
+| Karalahana | Fide: eylül–ekim | Kasım–nisan | Bölgenin vazgeçilmezi, dondan sonra lezzetlenir |
+| Beyaz ve kırmızı lahana | Fide: eylül–ekim | Ocak–mart | Su birikmeyen yerde |
+| Pırasa | Fide: ağustos–ekim | Aralık–mart | Dibine toprak çekilerek beyazlatılır |
+| Ispanak | Tohum: eylül–kasım başı | Kasım–mart | Kademeli ekim önerilir |
+| Roka, tere | Tohum: eylül–kasım | 4–6 hafta sonra | Örtü altında kış boyu |
+| Maydanoz, dereotu | Tohum: eylül–ekim | Kış boyunca | Yavaş çimlenir |
+| Marul (kışlık) | Fide: eylül–ekim | Aralık–mart | Masura üzerinde |
+| Bakla | Tohum: ekim–kasım | Nisan–mayıs | Kök çürüklüğüne karşı drenaj |
+| Bezelye | Tohum: ekim–kasım | Nisan–mayıs | Destek gerekir |
+| Sarımsak, kuru soğan | Diş/arpacık: ekim–kasım | Haziran–temmuz | Yükseltilmiş yatakta |
+| Turp | Tohum: eylül–ekim | 4–8 hafta sonra | Hızlı hasat |
+
+Kasım başında hâlâ ıspanak, roka, bakla ve bezelye ekmek mümkündür. Fide dikimi için ise ekim sonu genellikle son güvenli zamandır; kasımda dikilen fideler kök salmakta zorlanır. Kışın yetiştirilebilecek sebzelerin genel listesi için [kışlık sebzeler listesi](/kislik-sebzeler-listesi) yazımıza bakabilirsiniz.
+
+[ürün:arzuman-yaprak-karalahana-tohumu-10-gr]
+
+## Karalahana: bölgenin kış sebzesi
+
+Karalahana, Karadeniz mutfağının ve kış bahçesinin temelidir. Soğuğa çok dayanıklıdır; hatta ilk donlardan sonra yapraklarındaki nişasta şekere dönüştüğü için daha tatlı ve yumuşak olur. Alt yapraklardan başlayarak kış boyunca hasat edilir ve bitki ilkbahara kadar yeni yaprak vermeye devam eder. Lahanagillerin yetiştirilmesi için [lahana ve karalahana yetiştirme](/lahana-ve-karalahana-yetistirme) yazımız ayrıntılı bilgi verir.
+
+## Drenaj: Karadeniz bahçesinin bir numaralı kuralı
+
+Kış yağmurlarında toprakta biriken su, köklerin havasız kalmasına ve çürümesine yol açar. Karadeniz'de kış bahçesinin başarısı büyük ölçüde suyun ne kadar hızlı uzaklaştırıldığına bağlıdır:
+
+- **Yükseltilmiş yataklar:** 20–30 cm yüksekliğinde yataklar suyu hızla uzaklaştırır ve toprak ilkbaharda daha erken ısınır.
+- **Masura (sırt) ekimi:** Sebzeleri düz zemine değil, 15–20 cm yüksekliğinde sırtlara dikin; aralarında su akış kanalları bırakın.
+- **Eğime dik sıralar:** Yamaçlarda sıraları eğime dik açmak hem erozyonu hem de su birikmesini azaltır.
+- **Organik madde:** Kompost ve solucan gübresi gibi organik maddeler toprağın yapısını iyileştirir, suyun hem süzülmesini hem de tutulmasını dengeler.
+
+## Asidik toprağı dengelemek
+
+Karadeniz topraklarının pH değeri çoğu zaman 4,5–5,5 arasındadır. Lahanagiller, ıspanak, bakla ve bezelye gibi sebzeler ise pH 6–7 arasında en iyi sonucu verir. Asidik toprakta lahanagillerde kök uru hastalığı da daha sık görülür.
+
+1. **Ölçüm yapın:** Bir pH ölçeri ya da basit bir test seti ile toprağın pH değerini öğrenin.
+2. **Kireçleme:** pH 5,5'in altındaysa sonbaharda tarım kireci ya da dolomit kireci uygulanabilir. Kireç, ekimden birkaç hafta önce toprağa karıştırılmalıdır.
+3. **Odun külü:** Ölçülü kullanıldığında asidik topraklar için iyi bir yardımcıdır. Ayrıntılar için [odun külü gübre olarak kullanılır mı](/odun-kulu-gubre) yazımıza bakabilirsiniz.
+4. **Organik madde:** Toprağın tampon kapasitesini artırır ve pH değişimlerini yumuşatır.
+
+pH kavramı ve ölçümü için [toprak pH nedir](/toprak-ph-nedir) yazımız yol gösterecektir. Asidik toprağı seven yaban mersini, ortanca ve çay gibi bitkilerin bulunduğu yerlere kireç uygulanmamalıdır.
+
+## Kış sebzelerinde bakım
+
+- **Sulama:** Kış boyunca genellikle gerekmez. Uzun süre yağmur yağmayan güneşli dönemlerde yeni dikilen fideler kontrol edilmelidir.
+- **Gübreleme:** Kış aylarında azotlu gübre en aza indirilmelidir. Az güneşli havada azot yapraklarda nitrat olarak birikebilir. Dikimden önce verilen olgun kompost ya da solucan gübresi genellikle yeterlidir.
+- **Salyangoz ve sümüklü böcekler:** Nemli kış gecelerinde en büyük zararlılardır. Akşamları elle toplamak, tahtalar altında saklanma yerleri oluşturup sabah kontrol etmek etkili yöntemlerdir.
+- **Hastalıklar:** Mildiyö ve yaprak lekeleri için bitkiler arasında hava dolaşımını sağlayın, hastalıklı yaprakları erken uzaklaştırın.
+- **Rüzgâr:** Kıyıda sert esen poyraz ve lodos fideleri yatırabilir. Rüzgâr kıran çitler ya da file kullanılabilir.
+
+[ürün:altinvadi-ispanak-tohumu-10-gr]
+
+## Örtü altı yetiştiricilik
+
+Karadeniz'de basit bir tünel ya da sera, kış bahçesinin verimini belirgin şekilde artırır. Burada amaç soğuktan çok yağmurdan korumaktır. Tünel altında yağmurdan korunan ıspanak, marul ve roka daha temiz ve daha az hastalıklı yetişir. Ancak yüksek nem nedeniyle tünel uçlarını güneşli günlerde açmak ve havalandırmak şarttır. Kışın kapalı alanda yetiştiricilik için [kışın serada ne yetiştirilir](/kisin-serada-ne-yetistirilir) yazımıza göz atabilirsiniz.
+
+## Baklagillerle toprağı zenginleştirmek
+
+Bakla ve bezelye, Karadeniz kış bahçesinin iki önemli bitkisidir. Hem ilkbaharda ilk hasadı verirler hem de köklerindeki nodüller sayesinde havadaki azotu toprağa bağlarlar. Hasattan sonra köklerini toprakta bırakmak, ardından gelecek yaz sebzeleri için toprağı zenginleştirir. Ekim zamanı ve aralıkları için [bakla ekimi](/bakla-ekimi) yazımıza bakabilirsiniz.
+
+## Diğer bölgelerle karşılaştırma
+
+Karadeniz kış bahçesi, ılıman sıcaklıklarıyla Ege ve Akdeniz'e, yağış miktarıyla ise hiçbir bölgeye benzemez. Ege ve Akdeniz'de kışın sorun ara sıra gelen kuraklık iken Karadeniz'de sorun fazla sudur. Diğer bölgelerin takvimleri için [Ege kışlık sebze takvimi](/ege-kislik-sebze-takvimi), [Akdeniz kış ekimi](/akdeniz-kis-ekimi) ve [İç Anadolu kış ekimi](/ic-anadolu-kis-ekimi) yazılarımıza göz atabilirsiniz.
+
+Drenajı sağlanmış, pH'ı dengelenmiş ve organik maddeyle beslenmiş bir toprakta Karadeniz kış bahçesi, kasımdan nisana kadar sofraya taze yeşillik getiren en verimli bahçelerden biridir.
+@sss
+S: Karadeniz'de kasımda ne ekilir?
+C: Kıyı kesimlerde kasım başına kadar ıspanak, roka, tere, bakla ve bezelye ekilebilir; sarımsak ve arpacık soğan dikilebilir.
+
+S: Karadeniz toprağına kireç atılır mı?
+C: pH 5,5'in altındaysa sebze bahçelerinde kireçleme faydalıdır. Ancak yaban mersini, ortanca ve çay gibi asit seven bitkilerin bulunduğu yerlere kireç atılmamalıdır.
+
+S: Karadeniz'de kış sebzeleri neden çürür?
+C: En sık neden aşırı yağışla toprakta su birikmesidir. Yükseltilmiş yatak ya da masura ekimi bu sorunu büyük ölçüde önler.
+
+S: Karalahana ne zaman dikilir?
+C: Karadeniz kıyılarında karalahana fideleri eylül ve ekim aylarında dikilir; kasımdan nisana kadar alt yapraklarından hasat edilir.
+
+### YAZI
+slug: karnabahar-yetistirme
+baslik: Karnabahar Yetiştirme: Fide Dikiminden Bembeyaz Başlara
+yayin: 2026-11-02 15:10
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: karnabahar yetiştirme
+seo_baslik: Karnabahar Yetiştirme: Dikim, Gübre, Beyazlatma, Hasat
+seo_aciklama: Karnabahar yetiştirme rehberi: Dikim zamanı, toprak ve gübre, düzenli sulama, başı yapraklarla beyazlatma, hasat zamanı ve sık görülen sorunlar.
+ozet: Karnabahar, lahanagillerin en titiz üyesidir. Düzenli su, dengeli besin ve serin hava isteyen bu sebze, doğru koşullarda iri ve bembeyaz başlar verir; strese girdiğinde ise küçük ve dağınık başlar oluşturur.
+etiketler: karnabahar yetiştirme, karnabahar, lahanagiller, kışlık sebze, sebze bahçesi
+gorsel: p2-karnabahar
+gorsel_alt: Bahçede iri yapraklarının arasında başı oluşan karnabahar
+urunler: karnabahar-fidesi-6-adet, romanesco-piramit-karnabahar-fidesi-6-adet, solucan-gubreli-sebze-topragi, hasturk-kati-solucan-gubresi
+kisaca: Karnabahar yetiştirme için fideler yaz sonu ve sonbaharda, 50–60 cm arayla, organik maddece zengin ve pH 6–7,5 olan toprağa dikilir. Toprak sürekli hafif nemli tutulur. Baş yumurta büyüklüğüne ulaşınca dış yapraklar üzerine bağlanarak beyaz kalması sağlanır. Baş sıkı ve pürüzsüzken, çiçekler açılmadan hasat edilir.
+@govde
+Karnabahar yetiştirme, bahçede biraz özen göstermeye hazır olanlar için çok tatmin edici bir iştir. Lahana ve brokoliyle aynı türün bir çeşidi olan karnabahar, akrabalarına göre daha titizdir. Fide döneminde yaşanan bir kuraklık, ani bir sıcak dalgası ya da besin eksikliği, bitkinin erkenden küçük ve dağınık bir baş yapmasına yol açabilir. Buna karşılık serin havada düzenli sulanan ve iyi beslenen bir bitki, mutfakta çok değerli olan iri ve bembeyaz başlar verir. Bu yazıda karnabaharı fide dikiminden hasada kadar adım adım anlatıyoruz.
+
+## Karnabahar yetiştirme için doğru zaman
+
+Karnabahar serin havayı sever. Baş oluşumu için ideal sıcaklık 15–20 °C arasıdır. 25 °C'nin üzerindeki sıcaklıklar başın gevşemesine, yapraklar arasından yaprak çıkmasına ve renginin bozulmasına neden olur.
+
+- **Sonbahar–kış yetiştiriciliği:** Ülkemizin çoğu bölgesinde en başarılı dönemdir. Fideler temmuz–ağustos aylarında yetiştirilir, ağustos–eylülde dikilir ve kasımdan şubata kadar hasat edilir.
+- **Ilıman kıyı bölgeleri:** Ege, Akdeniz ve Marmara kıyılarında ekim ayına kadar fide dikilebilir; başlar kış ortasında ya da ilkbahar başında olgunlaşır.
+- **İlkbahar yetiştiriciliği:** Soğuk bölgelerde fideler şubat–mart aylarında hazırlanır ve son donlardan sonra dikilir. Yaz sıcakları başlamadan hasat edilmesi gerekir.
+
+Kasım başında dikim için genellikle geç kalınmıştır; bu dönemde hasat ve bakım öndedir. Ilıman kıyılarda erkenci çeşitlerle hâlâ şans denenebilir.
+
+## Toprak hazırlığı
+
+Karnabahar besince zengin, organik maddesi yüksek, nemi tutan ama su biriktirmeyen bir toprak ister.
+
+- **pH:** 6,0–7,5 arası idealdir. Asidik topraklarda molibden eksikliği ve kök uru hastalığı görülebilir.
+- **Organik madde:** Dikimden 2–3 hafta önce metrekareye 3–5 kg olgun kompost ya da yanmış ahır gübresi karıştırın.
+- **Derinlik:** Toprağı 25–30 cm derinliğe kadar işleyin.
+- **Drenaj:** Ağır topraklarda masura üzerine dikim yapın.
+
+Toprak hazırlığının temel adımları için [bahçe toprağı hazırlığı](/bahce-topragi-hazirligi) yazımıza bakabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Fide seçimi ve dikim
+
+1. **Fide seçimi:** 4–6 gerçek yapraklı, koyu yeşil, bodur ve sağlıklı fideler seçin. Viyolde uzun süre beklemiş, kökleri sarmalaşmış ya da sararmış fideler erken baş yapma eğilimindedir.
+2. **Aralık:** Sıra arası ve sıra üzeri 50–60 cm bırakın. Karnabahar iri yapraklar yapar ve sık dikimde başlar küçük kalır.
+3. **Derinlik:** Fideyi viyoldeki seviyesinden biraz daha derin, ilk yaprakların hemen altına kadar dikin.
+4. **Can suyu:** Dikimden hemen sonra bol can suyu verin.
+5. **Gölge:** Sıcak günlerde dikim yapılacaksa ilk 2–3 gün fideleri hafif gölgelemek tutmayı kolaylaştırır.
+
+## Sulama
+
+Karnabahar yetiştirme sürecinde en kritik konu düzenli sulamadır. Toprak hiçbir zaman tamamen kurumamalı, ama su da birikmemelidir. Kuraklık stresi yaşayan bitki erken ve küçük baş yapar. Sonbaharda yağmurlar başlayana kadar haftada 2–3 kez, derin sulama yapın. Malç kullanmak toprak nemini dengede tutar.
+
+## Gübreleme
+
+Karnabahar besin isteği yüksek bir sebzedir:
+
+- **Temel gübreleme:** Dikim öncesi organik madde ile birlikte dengeli bir taban gübresi.
+- **Azot desteği:** Dikimden 3–4 hafta sonra ve baş oluşumu başlamadan önce olmak üzere iki kez hafif azot takviyesi.
+- **Bor ve molibden:** Karnabahar bu iki iz elemente çok hassastır. Bor eksikliğinde baş kahverengileşir ve sapın içi boşalır; molibden eksikliğinde yapraklar daralır ve kamçı gibi uzar (kamçı yaprak). Organik maddesi yüksek ve pH'ı dengeli topraklarda bu eksiklikler daha az görülür.
+
+Lahanagillerin genel beslenmesinde aşırı azottan kaçınmak, başın gevşek ve hastalığa açık olmasını önler.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Başı beyazlatma
+
+Beyaz karnabahar çeşitlerinde başın güneş gören kısmı sararır ve tadı acılaşabilir. Bunu önlemek için:
+
+1. Baş yumurta ile tenis topu büyüklüğüne ulaştığında,
+2. Dış yaprakları başın üzerine doğru toplayın,
+3. Bir ip ya da lastik bantla gevşekçe bağlayın.
+
+Baş 1–2 hafta içinde hasat olgunluğuna ulaşır. Bağlı yaprakların altını birkaç günde bir kontrol edin; yağmurlu havada içeride su birikip çürüme başlamamalıdır. Bazı modern çeşitler yapraklarını kendiliğinden başın üzerine kapatır ve bağlamaya gerek duymaz. Mor, turuncu ve yeşil çeşitlerin ise beyazlatılması gerekmez.
+
+## Hasat zamanı
+
+- Baş sıkı, pürüzsüz ve tam büyüklüğüne ulaşmışken hasat edilir.
+- Genellikle 15–20 cm çapa ulaşır, ama çeşide göre değişir.
+- Çiçek tomurcukları gevşemeye, ayrılmaya ya da baş pürüzlü bir görünüm almaya başladıysa beklemeyin; baş hızla bozulur.
+- Başı, birkaç sarmalayıcı yaprakla birlikte keskin bir bıçakla kesin.
+
+Karnabahar brokoliden farklı olarak hasattan sonra yan sürgün vermez; bitki hasattan sonra sökülür. Brokoliyle karşılaştırma ve yan sürgün hasadı için [brokoli yetiştirme](/brokoli-yetistirme) yazımıza bakabilirsiniz.
+
+## Sık karşılaşılan sorunlar
+
+| Sorun | Neden | Çözüm |
+|---|---|---|
+| Küçük, erken baş (düğme baş) | Fide stresi, kuraklık, soğuk şoku | Genç fide, düzenli sulama, zamanında dikim |
+| Gevşek, dağınık baş | Sıcak hava, geç hasat | Serin dönemde yetiştirme, zamanında hasat |
+| Sarı ya da morumsu baş | Güneş görmesi | Yapraklarla örtme |
+| Baş arasından yaprak çıkması | Sıcaklık dalgalanması | Ekim zamanını doğru seçmek |
+| Kahverengi, içi boş sap | Bor eksikliği | Organik madde, dengeli pH |
+| Yapraklarda delikler | Lahana kelebeği tırtılı, salyangoz | Elle toplama, böcek tülü |
+
+Lahanagillerde görülen hastalıklar için [lahana hastalıkları](/lahana-hastaliklari) yazımız yol gösterecektir.
+
+## Ekim nöbeti
+
+Karnabahar, lahana, brokoli, turp ve roka gibi lahanagillerle aynı hastalık ve zararlıları paylaşır. Aynı yere en az 3 yıl lahanagil dikmemek, kök uru ve diğer toprak kaynaklı hastalıkların birikmesini önler. Karnabahardan önce fasulye, bezelye ya da bakla gibi baklagiller yetiştirmek, toprağı azotça zenginleştirir.
+
+Karnabahar yetiştirme sabır ve düzen ister: Genç ve sağlıklı fide, serin mevsim, düzenli su ve dengeli besin. Bu dört koşul sağlandığında bahçeden çıkan bembeyaz başlar, emeğin karşılığını fazlasıyla verir. Kışın bahçede yetişebilecek diğer sebzeler için [kışlık sebzeler listesi](/kislik-sebzeler-listesi) yazımıza göz atabilirsiniz.
+@sss
+S: Karnabahar ne zaman dikilir?
+C: Çoğu bölgede fideler ağustos–eylül aylarında dikilir ve kasımdan şubata kadar hasat edilir. Ilıman kıyılarda ekim ayına kadar dikim yapılabilir.
+
+S: Karnabahar neden küçük baş yapar?
+C: Genellikle fide döneminde yaşanan stres, kuraklık, soğuk şoku ya da viyolde uzun süre bekleyip yaşlanan fidelerin dikilmesi nedeniyle erken ve küçük baş yapar.
+
+S: Karnabahar başı neden sararır?
+C: Başın güneş görmesi sararmaya yol açar. Baş yumurta büyüklüğüne ulaşınca dış yapraklar başın üzerine bağlanarak beyaz kalması sağlanır.
+
+S: Karnabahar hasattan sonra tekrar baş verir mi?
+C: Vermez. Brokoliden farklı olarak karnabahar yan sürgün oluşturmaz; hasattan sonra bitki sökülür.
+
+### YAZI
+slug: agac-dibi-malclama
+baslik: Ağaç Dibi Malçlama: Kökleri Kışa Hazırlamanın Doğru Yolu
+yayin: 2026-11-02 16:35
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: ağaç dibi malçlama
+seo_baslik: Ağaç Dibi Malçlama: Doğru Kalınlık, Malzeme ve Hatalar
+seo_aciklama: Ağaç dibi malçlama nasıl yapılır? Doğru kalınlık ve genişlik, uygun malzemeler, volkan malç hatası, genç fidanlarda kış koruması ve yıllık yenileme.
+ozet: Ağaç dibine serilen bir malç tabakası kökleri dondan ve kuraklıktan korur, yabani otları bastırır ve toprağı yavaş yavaş zenginleştirir. Ama gövdeye yığılan kalın malç, faydadan çok zarar verir; doğru kalınlık ve gövdeden bırakılan boşluk her şeyi değiştirir.
+etiketler: ağaç dibi malçlama, malç, fidan bakımı, kış hazırlığı, meyve ağacı bakımı
+gorsel: p2-agac-malc
+gorsel_alt: Ağaç gövdesine yığılmış hatalı volkan tipi malç örneği
+urunler: hasturk-kati-solucan-gubresi, dogal-orman-topragi-humuslu
+kisaca: Ağaç dibi malçlama için gövdeden 5–10 cm boşluk bırakılarak, taç izdüşümü genişliğinde ve 5–8 cm kalınlığında organik bir malç serilir. Odun yongası, ağaç kabuğu ve yaprak kompostu en uygun malzemelerdir. Malç gövdeye yığılmamalıdır. Sonbaharda serilen malç kökleri dondan korur, her yıl inceldikçe tamamlanır.
+@govde
+Ağaç dibi malçlama, özellikle ilk yıllarındaki fidanlar için bahçede yapılabilecek en ucuz ve en etkili bakım işlerinden biridir. Ormanda ağaçların dibi her zaman dökülen yapraklar, dallar ve çürümekte olan bitki artıklarıyla örtülüdür. Bu örtü toprağı soğuktan ve kuraklıktan korur, yağmur suyunu tutar ve zamanla çürüyerek toprağı besler. Bahçede ise ağaçların dibi çoğu zaman çıplak ya da çimle kaplıdır. Doğru serilen bir malç, bu doğal örtünün yerini tutar. Bu yazıda ağaçların dibine malçın nasıl, ne kalınlıkta ve hangi malzemeyle serileceğini, en sık yapılan hataları ve kış öncesi püf noktalarını anlatıyoruz.
+
+## Ağaç dibi malçlama neden önemli?
+
+- **Dondan koruma:** Malç toprak sıcaklığındaki ani değişimleri yumuşatır. Kışın donun köklere ulaşmasını geciktirir; özellikle yüzeysel kökleri olan genç fidanlar için önemlidir.
+- **Nem koruma:** Yazın toprağın buharlaşmayla kaybettiği suyu belirgin şekilde azaltır.
+- **Yabani ot kontrolü:** Işığı kestiği için yabani otların çimlenmesini engeller. Fidanın dibindeki otlar, su ve besin için fidanla yarışır.
+- **Toprak yapısı:** Organik malç zamanla çürür, solucanları ve toprak canlılarını besler, toprağın yapısını iyileştirir.
+- **Mekanik koruma:** Çim biçme makinesi ve misinalı tırpanın gövdeye çarpmasını önleyen bir tampon bölge oluşturur. Genç ağaçların ölümünde tırpan yaraları sanıldığından çok daha sık bir nedendir.
+- **Çimle rekabeti azaltma:** Çim, fidanın kökleriyle su ve azot için güçlü bir rakiptir. Dibi malçlanan fidanlar, çimle çevrili olanlara göre belirgin şekilde hızlı büyür.
+
+## Hangi malzemeler kullanılabilir?
+
+| Malzeme | Avantaj | Dikkat edilecek nokta |
+|---|---|---|
+| Odun yongası (budama artığı) | Ucuz, uzun ömürlü, toprak canlılarını besler | Taze yonga toprağa karıştırılmamalı, üstte kalmalı |
+| Çam ve ağaç kabuğu | Dekoratif, yavaş çürür | Yokuşlarda yağmurla kayabilir |
+| Yaprak kompostu | Toprağı hızla zenginleştirir | İnce olduğu için daha sık yenilenir |
+| Saman | Sebze bahçesine yakın yerlerde pratik | Fare yuvalanmasına dikkat |
+| Çam iğnesi | Hafif, havadar | Toprağı sanıldığı kadar asitlendirmez |
+| Kompost | Besin değeri yüksek | Üzerine kaba bir malç ile birlikte kullanılabilir |
+| Çakıl ve dekoratif taş | Kalıcı, temiz görünüm | Toprağı beslemez, yazın ısınır |
+
+Ağaç dipleri için en iyi seçim, genellikle odun yongası ya da ağaç kabuğu gibi kaba, organik bir malzemedir. Dökülen yaprakları değerlendirmenin yolları için [yaprak kompostu](/yaprak-kompostu) yazımıza göz atabilirsiniz.
+
+## Ağaç dibi malçlama adım adım
+
+1. **Yabani otları temizleyin:** Malç alanındaki otları ve çimi kökleriyle birlikte sökün. Çim yoğunsa üzerine birkaç kat karton serip malçı kartonun üzerine yayabilirsiniz; karton birkaç ayda çürür.
+2. **Toprağı besleyin:** Malçtan önce fidan dibine ince bir kat solucan gübresi ya da olgun kompost serip hafifçe yüzeye karıştırın.
+3. **Toprağı nemlendirin:** Malç kuru toprağın üzerine değil, sulanmış ya da yağmurla nemlenmiş toprağın üzerine serilmelidir.
+4. **Genişliği belirleyin:** Malç alanı, en az ağacın taç izdüşümü kadar geniş olmalıdır. Genç fidanlarda en az 1 metre çapında bir halka hedefleyin.
+5. **Kalınlığı ayarlayın:** Kaba malzemelerde 5–8 cm, ince malzemelerde (kompost, yaprak) 3–5 cm.
+6. **Gövdeyi açık bırakın:** Malçı gövdeden 5–10 cm uzakta bitirin. Gövdenin dibi her zaman görünür ve kuru kalmalıdır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## En büyük hata: volkan malç
+
+Bahçelerde ve sokak ağaçlarında sıkça görülen bir hata, malçın gövdenin etrafına bir tepecik ya da volkan şeklinde yığılmasıdır. Bu görüntü düzenli görünse de ağaç için ciddi zararlara yol açar:
+
+- **Kabuk çürümesi:** Gövde kabuğu sürekli nemli kalmak için yapılmamıştır. Malçın altında kalan kabuk yumuşar, mantar ve bakteri hastalıklarına açık hâle gelir.
+- **Kemirgen zararı:** Fareler ve tarla fareleri kalın malçın içine yuva yapar ve kışın gövde kabuğunu kemirir.
+- **Boğucu kökler:** Gövdeye yığılan nemli malçın içine doğru büyüyen kökler zamanla gövdeyi sararak boğar.
+- **Havasız kökler:** 10–15 cm'yi aşan kalın tabakalar toprağın hava almasını engeller ve yağmur suyunun köklere ulaşmasını zorlaştırır.
+
+Eğer ağacınızın dibinde volkan şeklinde malç varsa, gövdenin çevresindeki malçı elle açın ve gövdenin toprağa girdiği genişleyen kök boğazı kısmını görünür hâle getirin.
+
+## Kış öncesi malçlama
+
+Sonbahar, ağaç dibi malçlama için en uygun zamanlardan biridir. Toprak hâlâ ılık ve yağmurlarla nemlenmişken serilen malç, bu sıcaklığı ve nemi kış boyunca korur. Malçı ilk sert donlardan önce, ama toprağın ısısını içine hapsedebileceği bir zamanda sermek idealdir.
+
+- **Yeni dikilen fidanlar:** Kasımda dikilen fidanların kökleri henüz toprağa yerleşmemiştir. Dikimden hemen sonra serilen malç, köklerin kış boyunca büyümeye devam etmesini sağlar. Fidan dikiminin adımları için [kasımda fidan dikimi](/kasimda-fidan-dikimi) yazımıza bakabilirsiniz.
+- **Soğuk bölgeler:** İç Anadolu ve Doğu'da malç kalınlığı biraz artırılabilir, ama gövdeden bırakılan boşluk yine korunmalıdır.
+- **Kemirgen riski:** Malçı ilk donlardan sonra sermek, farelerin malçın içine yerleşmesini azaltır. Gövdeye ince bir tel ya da plastik koruyucu sarmak da kemirgen zararını önler.
+
+Kışa hazırlıkta yapılacak diğer işler için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazımıza göz atabilirsiniz.
+
+## Saksıdaki ağaçlar
+
+Saksıdaki zeytin, limon ya da süs ağaçlarında da malç kullanılabilir. Toprak yüzeyine serilen 2–3 cm'lik bir ağaç kabuğu ya da dekoratif taş tabakası nemi korur ve toprağın yüzeyinde kabuk bağlamasını önler. Saksılarda da gövdenin dibi açık bırakılmalıdır. Saksı toprağının yüzeyini yenilerken organik maddece zengin, humuslu bir toprak kullanmak ağacı da besler.
+
+[ürün:dogal-orman-topragi-humuslu]
+
+## Malçın bakımı ve yenilenmesi
+
+Organik malç zamanla çürür ve incelir. Bu, malçın işini yaptığının işaretidir. Her yıl sonbaharda ya da ilkbaharda kalınlığı kontrol edin ve eksilen kısmı tamamlayın. Eski malçı kaldırmanız gerekmez; çürüyen alt tabaka toprağa karışır. Yalnızca mantar ya da kötü koku görülen, sıkışıp keçeleşmiş kısımları tırmıkla kabartın.
+
+Meyve ağaçlarında dökülen hastalıklı yaprakları ise malç olarak kullanmayın; bunları toplayıp bahçeden uzaklaştırmak, ertesi yıl hastalığın tekrar etmesini önler. Bahçenin kışa hazırlanmasıyla ilgili genel işler için [kış öncesi bahçe temizliği ve malçlama](/kis-oncesi-bahce-temizligi-ve-malclama) yazımızdan yararlanabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Gövdeye malç yığmak:** Kabuk çürümesine ve kemirgen zararına yol açar.
+- **Çok kalın sermek:** 10 cm'yi aşan tabakalar kökleri havasız bırakır.
+- **Çok dar bir halka:** Gövdenin çevresine serilen küçük bir halka, köklerin büyük kısmını korumaz.
+- **Taze yongayı toprağa karıştırmak:** Toprakta çürürken azotu bağlar ve bitkiyi aç bırakır. Yonga yalnızca üstte kalmalıdır.
+- **Kuru toprağa malç sermek:** Malç kuru toprağı da kuru tutar.
+
+Doğru kalınlıkta, geniş bir halka hâlinde ve gövdeyi açıkta bırakarak yapılan ağaç dibi malçlama, fidanların ilk yıllarında büyümeyi hızlandırır ve kış kayıplarını belirgin şekilde azaltır.
+@sss
+S: Ağaç dibine malç ne kalınlıkta serilir?
+C: Odun yongası ya da ağaç kabuğu gibi kaba malzemelerde 5–8 cm, kompost ve yaprak gibi ince malzemelerde 3–5 cm yeterlidir.
+
+S: Malç ağaç gövdesine değebilir mi?
+C: Değmemelidir. Malç gövdeden 5–10 cm uzakta bitirilmeli; gövdeye yığılan malç kabuk çürümesine ve kemirgen zararına yol açar.
+
+S: Ağaç dibi malçlama ne zaman yapılır?
+C: Sonbahar ve ilkbahar en uygun zamanlardır. Sonbaharda nemli toprağa serilen malç, kökleri kış boyunca dondan korur.
+
+S: Ağaç dibine hangi malç serilir?
+C: Odun yongası, ağaç kabuğu ve yaprak kompostu en uygun malzemelerdir. Hastalıklı yapraklar malç olarak kullanılmamalıdır.
+
+### YAZI
+slug: sebboy-yetistirme
+baslik: Şebboy Yetiştirme: İlkbaharın Kokulu Çiçeğini Sonbaharda Hazırlamak
+yayin: 2026-11-02 18:15
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: şebboy yetiştirme
+seo_baslik: Şebboy Yetiştirme: Tohum Ekimi, Dikim ve Bakım Rehberi
+seo_aciklama: Şebboy yetiştirme rehberi: Tohum ekim zamanı, fide dikimi, kireçli toprak isteği, kış bakımı, uç alma ve bol kokulu çiçek için öneriler.
+ozet: Şebboy, ilkbaharda açan sarı, turuncu ve bordo tonlarındaki kokulu çiçekleriyle eski Türk bahçelerinin vazgeçilmezidir. Yazın tohumdan yetiştirilen ya da sonbaharda fide olarak dikilen şebboy, kışı dışarıda geçirir ve mart–mayıs arasında bahçeyi kokusuyla doldurur.
+etiketler: şebboy yetiştirme, şebboy, erysimum, kokulu çiçekler, ilkbahar çiçekleri
+gorsel: p2-sebboy
+gorsel_alt: Turuncu ve sarı çiçekli şebboy (Erysimum cheiri) öbeği
+urunler: arzuman-sebboy-cicegi-tohumu-100-adet, hg-cicek-topragi
+kisaca: Şebboy yetiştirme için tohumlar mayıs–temmuz arasında ekilir, fideler eylül–kasım arasında 25–30 cm arayla, güneşli ve süzek bir yere dikilir. Şebboy hafif kireçli toprağı sever ve su birikmesine dayanamaz. Kışı dışarıda geçirir, mart–mayıs arasında açar. Gür bitki için genç fidelerin uçları kırpılır.
+@govde
+Şebboy yetiştirme, eski bahçelerin ve köy evlerinin önündeki o tanıdık kokuyu yeniden yakalamak isteyenler için harika bir başlangıçtır. Bilimsel adı Erysimum cheiri (eski adıyla Cheiranthus cheiri) olan şebboy, lahanagiller ailesindendir. İlkbaharda sarı, turuncu, kırmızı, bordo ve mor tonlarında açan çiçekleri, özellikle akşam saatlerinde baharlı ve tatlı bir koku yayar. Lalelerle aynı dönemde açtığı için soğanlı çiçeklerin en güzel eşlikçilerinden biridir. Bu yazıda şebboyu tohumdan çiçeğe kadar nasıl yetiştireceğinizi ve kasım ayında yapılması gerekenleri anlatıyoruz.
+
+## Şebboyu tanıyalım
+
+- **Yaşam döngüsü:** Aslında kısa ömürlü çok yıllık bir bitkidir, ama bahçelerde genellikle iki yıllık olarak yetiştirilir. Birinci yıl yaprak ve kök geliştirir, kışı geçirir ve ikinci ilkbaharda çiçek açar.
+- **Boy:** Çeşide göre 20–60 cm.
+- **Çiçeklenme:** Mart–mayıs. Serin bölgelerde haziran başına kadar sürebilir.
+- **Kökeni:** Akdeniz havzası. Bu yüzden kuru, taşlık ve kireçli ortamlara alışkındır; eski duvar diplerinde ve taş aralarında kendiliğinden yetişebilir.
+- **Koku:** Bahçede en güçlü kokulu ilkbahar çiçeklerinden biridir.
+
+## Şebboy yetiştirme takvimi
+
+| Dönem | Yapılacak iş |
+|---|---|
+| Mayıs–temmuz | Tohum ekimi |
+| Temmuz–ağustos | Fidelerin şaşırtılması, uç alma |
+| Eylül–kasım | Kalıcı yerine dikim |
+| Aralık–şubat | Kış dinlenmesi, az sulama |
+| Mart–mayıs | Çiçeklenme |
+| Haziran | Söküm ya da tohum toplama |
+
+Kasım ayı, şebboy fidelerini kalıcı yerine dikmek için hâlâ uygun bir zamandır. Fideler kış gelmeden kök salarsa ilkbaharda daha gür ve erken çiçek açar. Sonbaharda bahçeye dikilebilecek diğer çiçekler için [sonbaharda dikilecek çiçekler](/sonbaharda-dikilecek-cicekler) yazımıza bakabilirsiniz.
+
+## Tohum ekimi
+
+1. **Zaman:** Mayıs sonu ile temmuz arası. Ilıman bölgelerde ağustos başına kadar ekim yapılabilir.
+2. **Ortam:** Viyole ya da açık havada hazırlanmış bir tohum yatağına ekin. Tohumlar orta büyüklüktedir ve kolay çimlenir.
+3. **Derinlik:** Yaklaşık 0,5 cm. Üzerini ince bir toprak tabakasıyla örtün.
+4. **Çimlenme:** 15–20 °C'de 1–2 hafta içinde çimlenir.
+5. **Şaşırtma:** Fideler 4–5 yapraklı olunca ayrı ayrı küçük saksılara ya da 15 cm arayla fide yatağına alın.
+
+Viyolde tohum çimlendirmenin adımları için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazımıza göz atabilirsiniz.
+
+[ürün:arzuman-sebboy-cicegi-tohumu-100-adet]
+
+## Uç alma: gür bitkinin sırrı
+
+Fideler 10–15 cm boya ulaştığında büyüme ucunu parmaklarınızla kırpın. Bu işlem bitkinin yandan dallanmasını sağlar. Uç alma yapılmayan şebboylar tek bir uzun gövde yapar ve ilkbaharda tek bir çiçek salkımı verir. Uç alınanlar ise yuvarlak, gür ve çok sayıda çiçek salkımlı bir bitkiye dönüşür. Uç alma ağustos sonuna kadar yapılmalıdır.
+
+## Yer ve toprak
+
+- **Işık:** Tam güneş en iyisidir. Yarı gölgede de yetişir ama çiçek sayısı azalır.
+- **Toprak:** Süzek, orta verimlilikte ve hafif kireçli. pH 6,5–8 aralığını sever. Ülkemizin kireçli topraklarının çoğu şebboy için uygundur.
+- **Drenaj:** Şebboyun en büyük düşmanı kışın biriken sudur. Ağır killi topraklarda bol kum, perlit ve kompost ekleyin ya da yükseltilmiş yatak kullanın.
+- **Besin:** Aşırı verimli toprak ve fazla azot, bol yaprak ama az çiçek ve kışa dayanıksız yumuşak dokular verir.
+
+Toprak tepkimesi ve kireçli toprak hakkında bilgi için [toprak pH nedir](/toprak-ph-nedir) yazımıza bakabilirsiniz.
+
+## Kalıcı yerine dikim
+
+1. Dikim yerini 25–30 cm derinliğinde işleyin ve gerekirse drenajı düzeltin.
+2. Fideleri 25–30 cm arayla dikin.
+3. Fidenin kök boğazını toprak seviyesinde tutun, derine gömmeyin.
+4. Toprağı köklerin çevresine iyice bastırın; şebboy gevşek toprakta rüzgârla sallanıp kök kaybedebilir.
+5. Bir kez bol can suyu verin.
+
+Rüzgârlı yerlerde fidelerin dibine biraz toprak doldurmak, kış rüzgârlarında bitkinin yerinden oynamasını önler.
+
+## Saksıda şebboy
+
+Şebboy balkon ve teras saksılarında da çok güzel görünür. En az 20 cm derinliğinde, drenaj delikli saksılar kullanın. Saksı toprağına bir miktar perlit ekleyin. Saksıdaki şebboy kışın yağmurdan biraz korunaklı bir köşeye alınabilir, ama tamamen kapalı ve ılık bir yere taşınmamalıdır; çiçek açmak için soğuk döneme ihtiyaç duyar. Hercai menekşe ve soğanlı çiçeklerle aynı saksıda karışık dikilebilir. Hercai menekşe yetiştirme için [hercai menekşe yetiştirme](/hercai-menekse-yetistirme) yazımıza göz atabilirsiniz.
+
+[ürün:hg-cicek-topragi]
+
+## Kış bakımı
+
+- **Soğuğa dayanıklılık:** Şebboy –10 °C civarına kadar dayanabilir. Sert kışlı bölgelerde soğuk rüzgârlardan korunaklı bir yer seçin.
+- **Sulama:** Kışın yağmur genellikle yeterlidir. Saksılarda toprak tamamen kuruduğunda az miktarda su verin.
+- **Gübre:** Kışın gübre verilmez.
+- **İlkbahar desteği:** Mart başında çiçek tomurcukları belirirken hafif bir çiçekli bitki besini ya da ince bir kompost tabakası çiçeklenmeyi destekler.
+
+## Çiçeklenme sonrası
+
+Solan çiçek salkımlarını kesmek, çiçeklenmenin birkaç hafta daha uzamasını sağlar. Çiçeklenme bittikten sonra bitkiler genellikle sökülür ve yerine yaz çiçekleri dikilir. Tohum toplamak isterseniz birkaç salkımı bırakın; uzun ve ince kapsüller kuruyup kahverengileştiğinde toplayın. Çeşitli renkleri yan yana yetiştirdiyseniz yeni bitkilerin renkleri farklı çıkabilir.
+
+
+## Şebboyu nerelerde kullanabilirsiniz?
+
+Şebboy, bahçede birçok farklı köşeye uyum sağlar. Taş duvarların dibinde ve taş aralarında, kuru ve güneşli şevlerde, kapı önlerindeki tarhlarda ve pencere altlarında çok güzel görünür. Kokusundan en iyi şekilde yararlanmak için oturma alanlarına, pencerelere ya da sık geçilen yolların kenarına yakın dikmek iyi bir fikirdir. Lale, nergis ve müscari gibi soğanlı çiçeklerle karışık dikildiğinde ilkbaharda renk ve koku bir arada sunulur. Arıların ve kelebeklerin yılın ilk besin kaynaklarından biri olduğu için doğa dostu bahçelerde de değerli bir bitkidir.
+## Sık karşılaşılan sorunlar
+
+| Sorun | Neden | Çözüm |
+|---|---|---|
+| Kışın kök çürümesi | Su birikmesi | Süzek toprak, yükseltilmiş yatak |
+| Az çiçek, uzun gövde | Uç alma yapılmamış, gölge | Uç alma, güneşli yer |
+| Yapraklarda delikler | Pire böceği, tırtıl | Genç fideleri file ile örtme |
+| Kök uru | Asidik toprak, lahanagil sonrası dikim | Kireçleme, ekim nöbeti |
+| Yaprak altlarında beyaz küf | Mildiyö, nemli hava | Havadar dikim |
+
+Şebboy lahanagiller ailesinden olduğu için lahana, brokoli ve turp yetiştirilen yerlere dikilmemelidir. Şebboy yetiştirme sabır isteyen ama hiç de zor olmayan bir iştir; yazın ekilen birkaç tohum, ertesi ilkbaharda bahçeyi rengârenk ve kokulu bir köşeye dönüştürür.
+@sss
+S: Şebboy tohumu ne zaman ekilir?
+C: Şebboy tohumu mayıs sonu ile temmuz arasında ekilir. Fideler sonbaharda kalıcı yerine dikilir ve ertesi ilkbaharda çiçek açar.
+
+S: Şebboy kışa dayanıklı mı?
+C: Evet. Şebboy –10 °C civarına kadar dayanabilir; kışı dışarıda geçirmesi ve soğuk dönemi yaşaması çiçek açması için gereklidir.
+
+S: Şebboy hangi toprağı sever?
+C: Süzek, orta verimli ve hafif kireçli toprağı sever. Su biriken ağır topraklarda kökleri çürüyebilir.
+
+S: Şebboy saksıda yetişir mi?
+C: Yetişir. En az 20 cm derinliğinde, drenaj delikli bir saksı ve süzek bir toprak yeterlidir; saksı kışın da dışarıda kalmalıdır.
+
+### YAZI
+slug: sogan-ekme-aleti
+baslik: Soğan Ekme Aleti ile Lale ve Sümbül Dikimi: Daha Hızlı ve Doğru Derinlikte
+yayin: 2026-11-02 20:20
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: soğan ekme aleti
+seo_baslik: Soğan Ekme Aleti Nasıl Kullanılır? Lale ve Sümbül Dikimi
+seo_aciklama: Soğan ekme aleti nedir, nasıl kullanılır? Lale, sümbül, nergis ve çiğdem soğanlarını doğru derinlikte, hızlı ve düzenli dikmenin adım adım yöntemi.
+ozet: Lale, sümbül, nergis ve çiğdem soğanlarını tek tek kürekle dikmek hem yorucu hem de derinlik açısından tutarsızdır. Soğan ekme aleti, toprağa silindir şeklinde bir delik açarak soğanı doğru derinliğe kolayca yerleştirmenizi sağlar.
+etiketler: soğan ekme aleti, lale dikimi, sümbül dikimi, soğanlı çiçekler, bahçe aletleri
+gorsel: p2-sogan-aleti
+gorsel_alt: Sığ bir hendeğe dikim derinliğinde dizilmiş çiçek soğanları
+urunler: raco-cicek-ve-bitki-sogani-ekme-aleti, raco-bahce-el-kuregi, hg-cicek-topragi
+kisaca: Soğan ekme aleti, toprağa silindir şeklinde bir delik açıp toprak tapasını çıkaran bir bahçe aletidir. Alet işaretli derinliğe kadar bastırılır, döndürülerek çekilir, soğan sivri ucu yukarıda deliğe konur ve çıkan toprakla üzeri kapatılır. Soğan genellikle kendi boyunun 2–3 katı derinliğe dikilir.
+@govde
+Soğan ekme aleti, sonbaharda bahçesine onlarca lale, sümbül, nergis ya da çiğdem soğanı dikmek isteyenlerin işini kolaylaştıran basit ama çok kullanışlı bir alettir. Soğanlı çiçeklerin ilkbaharda düzgün ve aynı anda açması, büyük ölçüde doğru derinlikte dikilmelerine bağlıdır. Kürekle tek tek çukur açtığınızda bazı soğanlar fazla derine, bazıları fazla yüzeye girer; üstelik yüzlerce soğan dikmek bileklerinizi yorar. Bu yazıda soğan ekme aletinin ne olduğunu, nasıl kullanıldığını ve sonbahar dikiminde dikkat edilmesi gerekenleri anlatıyoruz.
+
+## Soğan ekme aleti nedir?
+
+Bu alet, alt ucu açık, konik ya da silindir şeklinde metal bir gövde ile bir saptan oluşur. Toprağa bastırıldığında içine bir toprak tapası alır; alet çekildiğinde toprakta düzgün bir delik kalır. Gövdenin üzerindeki santimetre işaretleri, deliğin derinliğini kolayca ayarlamanızı sağlar. Bazı modellerde içindeki toprağı bırakmak için bir tetik ya da yaylı mekanizma bulunur.
+
+İki temel tipi vardır:
+
+- **El tipi:** Kısa saplıdır, diz çökerek ya da çömelerek kullanılır. Saksılar, çiçek tarhları ve küçük bahçeler için idealdir.
+- **Uzun saplı (ayaklı):** Ayakla basılarak kullanılır, ayakta durarak çalışılır. Çim alanlarına ve geniş alanlara çok sayıda soğan dikerken beli korur.
+
+[ürün:raco-cicek-ve-bitki-sogani-ekme-aleti]
+
+## Hangi soğanlar için kullanılır?
+
+Alet, sonbaharda dikilen bütün çiçek soğanları için kullanılabilir:
+
+| Soğan | Dikim derinliği | Sıra aralığı | Dikim zamanı |
+|---|---|---|---|
+| Lale | 10–15 cm | 10–15 cm | Ekim sonu–kasım |
+| Sümbül | 10–12 cm | 15 cm | Ekim–kasım |
+| Nergis | 12–15 cm | 10–15 cm | Eylül–ekim |
+| Çiğdem | 6–8 cm | 5–8 cm | Eylül–ekim |
+| Müscari (arap sümbülü) | 6–8 cm | 5–8 cm | Eylül–ekim |
+| Kardelen | 6–8 cm | 5–8 cm | Eylül–ekim |
+| Süs soğanı (allium) | 15–20 cm | 20–30 cm | Ekim–kasım |
+
+Genel kural, soğanı kendi yüksekliğinin 2–3 katı derinliğe dikmektir. Kumlu ve hafif topraklarda biraz daha derine, ağır killi topraklarda biraz daha yüzeye dikilir. Kasım ayı, özellikle lale için en uygun dikim zamanlarından biridir. Lalenin ayrıntılı dikim bilgileri için [lale soğanı dikimi](/lale-sogani-dikimi) yazımıza bakabilirsiniz.
+
+## Soğan ekme aleti nasıl kullanılır?
+
+1. **Toprağı hazırlayın:** Dikim alanını yabani otlardan temizleyin. Toprak hafif nemli olmalıdır; çok kuru toprak tapa olarak kalmaz, çok ıslak toprak aletin içine yapışır.
+2. **Derinliği belirleyin:** Aletin gövdesindeki işaretlerden dikeceğiniz soğana uygun derinliği seçin.
+3. **Aleti bastırın:** Aleti dik tutarak işaretli derinliğe kadar toprağa bastırın. Sert topraklarda aleti hafifçe sağa sola döndürmek girişi kolaylaştırır.
+4. **Döndürerek çekin:** Aleti yarım tur döndürüp yukarı çekin. Toprak tapası aletin içinde kalır.
+5. **Deliği kontrol edin:** Gerekirse deliğin dibine bir tutam olgun kompost ya da solucan gübresi atın ve üzerine biraz toprak serpin. Soğanın doğrudan gübreye değmemesi daha güvenlidir.
+6. **Soğanı yerleştirin:** Soğanı sivri ucu yukarıda, köklü düz tabanı aşağıda olacak şekilde deliğin dibine oturtun. Tabanın toprağa tam temas etmesi önemlidir; havada kalan soğan kök salmakta zorlanır.
+7. **Kapatın:** Bir sonraki deliği açtığınızda aletten çıkan toprak tapasını önceki deliğin üzerine bırakın. Bu şekilde ilerlediğinizde her yeni delik, bir öncekini kapatır.
+8. **Bastırın ve sulayın:** Toprağı elinizle hafifçe bastırın ve dikim bittikten sonra alanı bir kez sulayın.
+
+## Doğal görünümlü dikim
+
+Soğanlı çiçekler düz sıralar yerine öbekler hâlinde dikildiğinde çok daha doğal görünür. Bir avuç soğanı dikim alanına hafifçe atıp düştükleri yerlere dikmek, çim alanlarında doğal bir çayır görüntüsü oluşturmanın kolay yoludur. Alet bu yöntemde çok işe yarar; çünkü çimi ve toprağı az bozarak düzgün delikler açar. Çim alanına dikilen çiğdem ve müscari, ilkbaharda çim biçilmeden önce çiçeklenir ve yapraklarını sarartır.
+
+## Katmanlı dikim (lazanya yöntemi)
+
+Saksı ve küçük tarhlarda farklı derinliklere farklı soğanlar dikerek aynı alanda haftalar boyunca süren bir çiçeklenme elde edebilirsiniz:
+
+- **En alt (15 cm):** Lale ya da nergis
+- **Orta (10 cm):** Sümbül
+- **Üst (5–7 cm):** Çiğdem ya da müscari
+- **En üst:** Hercai menekşe gibi kış çiçekleri
+
+Saksıda katmanlı dikimde en az 30 cm derinliğinde bir saksı ve süzek, kaliteli bir çiçek toprağı kullanın. Soğanlı çiçeklerin genel dikim bilgileri için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazımıza göz atabilirsiniz.
+
+[ürün:hg-cicek-topragi]
+
+## Aletin diğer kullanım alanları
+
+Bu alet yalnızca çiçek soğanları için değil, birçok bahçe işinde kullanılabilir:
+
+- **Fide dikimi:** Viyolden çıkan fideler için düzgün ve aynı derinlikte delikler açar.
+- **Sarımsak ve arpacık soğan:** Az sayıda diş dikilecekse pratik bir çözümdür. Sarımsak dikiminin ayrıntıları için [sarımsak ve soğan dikimi](/sarimsak-ve-sogan-dikimi) yazımıza bakabilirsiniz.
+- **Çim tamiri:** Çim alanındaki küçük çıplak noktalara toprak tapası çıkarıp yerine kapama toprağı ve tohum koymak için.
+- **Gübre yerleştirme:** Ağaç ve çalıların kök bölgesine birkaç noktadan organik gübre yerleştirmek için.
+
+Daha küçük fideler ve geniş alanda çalışırken ise bir bahçe el küreği tamamlayıcı bir alet olarak işinizi kolaylaştırır.
+
+## Dikim sonrası bakım
+
+- **Sulama:** Dikimden sonra bir kez bol sulayın. Kış yağmurları genellikle yeterlidir.
+- **Malç:** Soğuk bölgelerde dikim alanına ince bir yaprak ya da saman malçı sermek, soğanları ani donlardan korur.
+- **Kemirgenler:** Fareler ve sincaplar lale ve çiğdem soğanlarını sever. Dikim yerinin üzerine tel örgü sermek koruma sağlar. Nergis soğanları zehirli olduğu için kemirgenler tarafından genellikle yenmez.
+- **İşaretleme:** Dikim yerlerini küçük etiketlerle işaretleyin; ilkbaharda filizler çıkana kadar alanı kazmayın.
+
+Nergislerin yetiştirilmesi ve bakımı için [nergis yetiştirme](/nergis-yetistirme) yazımız yol gösterecektir.
+
+## Aleti seçerken ve kullanırken
+
+- **Malzeme:** Paslanmaz ya da boyalı çelik gövde, sert topraklarda eğilmez ve uzun ömürlüdür.
+- **Derinlik işaretleri:** Gövdede okunaklı santimetre işaretleri olmalıdır.
+- **Sap:** Elinize oturan, kaymayan bir sap uzun süreli kullanımda yorgunluğu azaltır.
+- **Temizlik:** Kullanımdan sonra aletin içindeki toprağı temizleyip kurulayın. Islak toprakla saklanan metal paslanır.
+
+Doğru derinlikte, düzenli aralıklarla ve az yorularak yapılan dikim, ilkbaharda aynı anda açan sağlıklı çiçekler demektir. Doğru bir soğan ekme aleti, yüzlerce soğanı birkaç saat içinde, bileklerinizi yormadan toprağa yerleştirmenizi sağlar.
+@sss
+S: Soğan ekme aleti ne işe yarar?
+C: Toprağa silindir şeklinde düzgün bir delik açarak lale, sümbül, nergis ve çiğdem gibi çiçek soğanlarının doğru derinliğe hızlı ve kolay dikilmesini sağlar.
+
+S: Lale soğanı kaç cm derine dikilir?
+C: Lale soğanı genellikle 10–15 cm derinliğe dikilir. Genel kural, soğanı kendi yüksekliğinin 2–3 katı derinliğe dikmektir.
+
+S: Soğanın hangi tarafı yukarı gelir?
+C: Sivri ucu yukarıda, köklerin çıktığı düz tabanı aşağıda olacak şekilde dikilir. Tabanın toprakla tam temas etmesi önemlidir.
+
+S: Soğan ekme aleti fide dikiminde kullanılır mı?
+C: Kullanılır. Viyolden çıkan fideler için aynı derinlikte düzgün delikler açar; az sayıda sarımsak dişi dikerken de pratiktir.
+
+### SORU
+yayin: 2026-11-02 10:40
+kategori: bahce-ipuclari
+baslik: Çimimde yağmurdan sonra günlerce su birikiyor, havalandırma işe yarar mı?
+metin: Bahçedeki çim alanımızda yağmur yağdığında bazı yerlerde iki üç gün su birikintisi kalıyor ve bu bölgelerde çim seyrekleşmiş. Çocuklar da genelde orada oynuyor. Havalandırma yapmak çözüm olur mu, yoksa başka bir şey mi yapmalıyım?
+@cevap Halil İbrahim Çelik | 3
+Anlattığınız tablo, yoğun ayak trafiği nedeniyle sıkışmış bir toprağın tipik belirtisi. Bu durumda havalandırma büyük ölçüde işe yarar. Toprak hafif nemliyken tapalı bir havalandırma aletiyle alanı iki yönde geçin; ardından deliklere ince yıkanmış kum ya da çim kapama toprağı süpürün ve seyrek yerlere tohum serpin. Killi topraklarda bu işlemi birkaç yıl üst üste yapmak üst toprağın yapısını kalıcı olarak düzeltir. Su birikmesi havalandırmaya rağmen sürüyorsa altta daha derin bir sert katman ya da eğim sorunu olabilir; bu durumda drenaj kanalı düşünmek gerekir. Sonbahar şu an için iyi bir zaman, toprak 10 °C'nin altına inmeden yapmaya çalışın.
+
+### SORU
+yayin: 2026-11-02 17:30
+kategori: gubreleme
+baslik: Odun sobasının külünü bahçeye ve saksılara dökebilir miyim?
+metin: Kışın odun sobası yakıyoruz ve her hafta epey kül çıkıyor. Bir komşumuz bunun çok iyi gübre olduğunu söyledi. Sebze bahçesine, meyve ağaçlarının dibine ve balkondaki saksılara dökebilir miyim? Ne kadar kullanmalıyım?
+@cevap Ahmet Sacit Çelik | 5
+Kül faydalı olabilir ama her yere ve bol miktarda dökülmemeli. Odun külü potasyum ve kalsiyum içerir, toprağın pH'ını kireç gibi yükseltir. Toprağınız asidikse (pH 6'nın altında) sebze bahçesine yılda metrekareye 50–100 gram, yani bir iki avuç, ince ve eşit şekilde serpip toprağa karıştırabilirsiniz. Toprağınız kireçliyse (ülkemizin birçok bölgesinde öyledir) kül eklemek yapraklarda sararmaya yol açabilir; önce bir pH ölçümü yapmanızı öneririz. Saksılara kül koymanızı önermiyoruz, küçük hacimde pH çok hızlı yükselir. Ortanca, yaban mersini ve açelya gibi asit seven bitkilere de hiç vermeyin. Yalnızca boyasız, cilasız doğal odun külü kullanın; kömür külünü kesinlikle bahçeye dökmeyin.

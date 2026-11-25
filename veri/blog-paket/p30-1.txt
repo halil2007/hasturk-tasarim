@@ -1,0 +1,661 @@
+### YAZI
+slug: kabak-tohumu-ekimi
+baslik: Kabak Tohumu Ekimi ve Fide Dikim Zamanı
+yayin: 2027-03-01 08:45
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: kabak tohumu ekimi
+seo_baslik: Kabak Tohumu Ekimi: Toprak Sıcaklığı ve Doğru Zaman
+seo_aciklama: Kabak tohumu ekimi ne zaman yapılır? Çimlenme için gereken toprak sıcaklığı, ekim derinliği, doğrudan ekim ile fide arasındaki fark ve bölgelere göre takvim.
+ozet: Kabak tohumu ekimi takvime değil toprak sıcaklığına bağlıdır. Tohumun çimlenmesi için gereken en düşük sıcaklığı, doğrudan ekim ile fide yetiştirmenin ne zaman tercih edileceğini, ekim derinliğini ve bölgelere göre ekim ve dikim aylarını anlattık.
+etiketler: kabak ekimi, kabak tohumu, toprak sıcaklığı, kabak fidesi, sakız kabağı, ekim zamanı
+gorsel: bekliyor
+gorsel_alt: Bahçe toprağında yan yana açılmış ekim çukurları ve çimlenmeye başlayan iri kabak tohumları
+urunler: arzuman-beyaz-sakiz-kabak-tohumu-10-gr, arzuman-siyah-kabak-tohumu, hg-premium-fide-topragi
+kisaca: Kabak tohumu ekimi, toprak sıcaklığı en az 18 °C olunca yapılır; bu da çoğu bölgede son donlardan sonra, nisan sonu ile mayıs arasına denk gelir. Tohum 2–4 cm derinliğe, çukur başına 2–3 adet ekilir. Fide yetiştirecekseniz ekim, dikim tarihinden yaklaşık 3–4 hafta önce yapılır. Kabak soğuğa ve çürümeye çok hassastır.
+@govde
+Kabak sıcağı seven bir bitkidir ve soğuk toprakta çimlenmez. Kabak tohumu ekimi için tarih aramak yerine toprağın ısısına bakmak daha güvenilirdir. Aşağıda çimlenme için gereken sıcaklığı, doğrudan ekim ile fide arasındaki seçimi ve bölgelere göre ekim zamanını sırayla anlattık. Amacımız, tohumun toprakta çürümeden ilk yapraklarını çıkarması.
+
+## Kabak tohumu ekimi için toprak kaç derece olmalı?
+
+Kabak tohumu çok soğuk ve nemli toprakta çürür. Üniversite uzatma servislerinin ortak önerisi, tohumu toprak ısındıktan sonra ekmektir. Kaliforniya Üniversitesi'nin sebze tohumu çimlenme tablosuna göre kabakgillerde en uygun toprak sıcaklığı 21–35 °C arasındadır. Çimlenme 38 °C'ye kadar sürer, ama aşağıda belirli bir eşik vardır: 18 °C'nin altındaki toprakta tohum çimlenmez ya da çok yavaş çimlenir. Manitoba tarım kılavuzu da soğuk ve nemli toprakta tohumun çürümeye yatkın olduğunu belirtir. Ayrıntılar için [UC Master Gardener sebze tohumu çimlenme tablosuna](https://ucanr.edu/program/uc-master-gardener-program/seed-germination-temperature-and-timing) bakabilirsiniz.
+
+Toprak ısısını takvimden çok sabah ölçümü belirler. Bir toprak termometresini 5 cm derinliğe batırıp sabah saatlerinde okuyun. Üç gün üst üste 18 °C ve üzerini görüyorsanız ekim zamanı gelmiştir. Ölçümün ayrıntıları için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısı yardımcı olur.
+
+| Toprak sıcaklığı | Ne olur? | Ne yapılır? |
+|---|---|---|
+| 18 °C'nin altı | Çimlenme yok ya da çok yavaş; soğuk ve ıslak toprakta tohum çürür | Ekim yapılmaz, toprağı örtüyle ısıtın |
+| 18–21 °C | Çimlenme başlar, süre uzar | Doğrudan ekim için alt sınır |
+| 21–35 °C | En hızlı ve düzenli çimlenme | Ekim için ideal aralık |
+| 38 °C ve üzeri | Çimlenme üst sınırına ulaşır | Öğleden sonra gölgeleyin, akşam sulayın |
+
+## Doğrudan ekim mi, fide mi?
+
+Kabak kök sarsıntısını sevmez; bu yüzden doğrudan ekim genellikle en sorunsuz yoldur. Tohum toprağa girdiği yerde büyür ve kök zedelenmez. Fide ise kısa yazın olduğu serin bölgelerde ya da erken hasat isteyenlerde işe yarar. Ayrıntılı fide bakımı için [kabak fidesi yetiştirme](/kabak-fidesi) rehberine bakabilirsiniz.
+
+İki yöntemin farkı şöyle özetlenir:
+
+- **Doğrudan ekim:** Toprak 18 °C'yi geçince yapılır. Kök bozulmaz, emek azdır. Geç ekim nedeniyle hasat birkaç hafta sonra başlar.
+- **Fide ile başlama:** Dikimden 3–4 hafta önce, 8–10 cm'lik saksıda yapılır. Hasat daha erken başlar, ama dikim sırasında kök topağı sarsılırsa gelişme yavaşlar.
+- **Serin bölgelerde karma yol:** Fide erken yetiştirilir, dikim sonrası geceleri örtüyle korunur.
+
+Fide ile başlayacaksanız saksıyı kökü zedelemeden alabileceğiniz bir yapıda seçin. Kabak ince kökleriyle büyük saksıya kolay geçer; 3–4 haftadan uzun bekletilen fide kök sarar ve dikimden sonra duraklar.
+
+## Kabak tohumu nasıl ekilir?
+
+Ekim işlemi basittir ama derinlik ve aralık önemlidir. Kabak tohumu iridir; çok derine gömülürse çıkamaz, yüzeye yakın bırakılırsa kurur.
+
+::: adimlar
+Toprağı hazırlayın | Toprağı 25–30 cm derinlikte gevşetin, taşları ve kesekleri ayıklayın; kabak havalı ve organik maddesi yüksek toprağı sever.
+Ekim çukurunu açın | Sıra üzerinde 80–100 cm aralıkla, 2–4 cm derinlikte çukurlar açın. Alabama Üniversitesi uzatma servisi çukura 2–3 tohum önerir.
+Tohumu yatık koyun | Sivri ucu aşağı bakacak biçimde, hafif eğik yerleştirin; böylece su tohumun ucunda birikmez.
+Örtün ve hafifçe sulayın | Üzerini gevşek toprakla kapatın, toprağı ıslatın ama su basmasın. Michigan Eyalet Üniversitesi'nin kabak notlarına göre çimlenme 3–10 gün sürer.
+Seyreltin | İkinci gerçek yaprak çıkınca çukur başına en güçlü fideyi bırakın, diğerlerini dipten makasla kesin.
+:::
+
+Fazla tohumu çekip koparmayın; kökler iç içe geçtiği için kalan fide zarar görür. Makasla dipten kesmek daha güvenlidir.
+
+[ürün:arzuman-beyaz-sakiz-kabak-tohumu-10-gr,arzuman-siyah-kabak-tohumu]
+
+## Bölgelere göre kabak tohumu ekimi ve fide dikimi
+
+Türkiye'de aynı ay kıyıda yaz, iç bölgede kış gibi geçebilir. Aşağıdaki tablo genel bir çerçeve sunar; kendi bölgenizde toprak ölçümü her zaman tarihten önce gelir.
+
+| Bölge | Doğrudan ekim | Fide dikimi |
+|---|---|---|
+| Akdeniz ve Ege kıyıları | Mart sonu–nisan | Mart (tünel ya da sera altında) |
+| Marmara ve Karadeniz kıyıları | Nisan sonu–mayıs başı | Nisan sonu |
+| İç Anadolu ve Göller | Mayıs | Mayıs başı, son donlardan sonra |
+| Doğu Anadolu ve yüksek yaylalar | Mayıs sonu–haziran başı | Haziran başı, korumalı |
+
+Kıyılarda mart ekimi için tohumu soğuk çerçeve ya da tünel altına ekmek yeterlidir. İç bölgede ise gece donu bitmeden dışarı çıkmayın; kabak donla zarar görür.
+
+## Toprağı ısıtmak ve çimlenmeyi hızlandırmak
+
+Toprak geç ısınan bahçelerde birkaç ucuz yöntem ekimi birkaç gün öne çeker. Siyah malç filmi güneş ışığını emip toprağı ısıtır. Güney Dakota Üniversitesi uzatma servisi, ekimden birkaç gün önce toprağı şeffaf plastikle örtmenin çimlenme için toprağı ısıttığını belirtir; ayrıntılar [South Dakota State kabak yetiştirme rehberinde](https://extension.sdstate.edu/how-grow-it-summer-squash) bulunur.
+
+Yükseltilmiş yataklar da toprağın erken ısınmasına yardımcı olur, çünkü yan yüzeylerinden güneş alır ve fazla suyu tutmaz. Yatakta kabak yetiştirmek için en az 60 cm genişlik ve düzenli sulama gerekir.
+
+Tohumu ekmeden önce ılık suda birkaç saat bekletmek çimlenmeyi hızlandırabilir. Islatılmış tohumu aynı gün ekin; suda bir günü geçirmeyin, havasız kalıp çürüyebilir.
+
+## Ekimden sonra ilk haftalar
+
+Çimlenmeden sonra iki konu öne çıkar: nem ve soğuk gece. Toprak sürekli ıslak kalırsa çökertme hastalığı çıkar; tohumları su çok verilen çukurda çürür. Toprak üst 2 cm kuruduğunda sulayın, sabah saatini seçin.
+
+Geç don riski varsa yeni çıkan fidelere gece örtüsü ya da kesilmiş şeffaf bidon geçirin. Gündüz örtüyü açın, yoksa fide ısınıp bunalır.
+
+İlk gerçek yapraklar çıktıktan sonra bitkiyi besleme zamanı gelir. Kabağın besin ihtiyacı için [kabak gübreleme](/kabak-gubreleme) takvimine, genel yetiştirme bilgileri için de [kabak yetiştirme](/kabak-yetistirme) rehberine bakabilirsiniz. Fideyi dışarı çıkarmadan önce [fide sertleştirme](/fide-sertlestirme) hafta programını uygulamak dikim şokunu azaltır.
+
+## Tohum ekiminde sık yapılan hatalar
+
+Kabak tohumu ekimi sırasında aynı hatalar sık tekrarlanır:
+
+- **Erken ekim:** Soğuk toprakta tohum günlerce bekler ve çürür. Takvim yerine termometre kullanın.
+- **Derin ekim:** Tohum 2–4 cm derinlikte yeterlidir; çok derin gömülen tohumun çıkışı gecikir.
+- **Aşırı sulama:** Tohum ekildikten sonra sürekli ıslak toprak çürüme riski getirir.
+- **Sık ekim:** Çukur başına 3 fideyi bırakmak yapraklarda mantar hastalığını artırır. Seyreltmeyi geciktirmeyin.
+- **Tüm tohumu aynı güne ekmek:** Bahçede sürekli hasat için ekimi iki üç haftalık aralıklarla tekrarlamak, hasat dönemini uzatır.
+
+Tohumun yaşı da önemlidir. Kabak tohumu serin ve kuru koşulda saklanırsa birkaç yıl çimlenme gücünü korur. Eski tohumdan şüpheleniyorsanız ekimden önce 10 tohumu nemli kâğıt havluya koyup bir hafta bekleyin; çimlenen sayısı ekim sıklığını belirler.
+
+## Kısaca ekim ve dikim takvimi
+
+Genel olarak, toprak ısındığında kabak tohumu ekimi yapılır; aşağıdaki şerit ılık kıyılar için ekim ve dikim aylarını gösterir. İç bölgelerde pencere birkaç hafta sonraya kayar.
+
+::: takvim
+Fide için tohum ekimi (ılık kıyılar) | 2-3
+Fide dikimi (ılık kıyılar) | 3-4
+Doğrudan ekim (ılık kıyılar) | 3-5
+Doğrudan ekim (iç bölgeler) | 5-6
+Hasat | 5-10
+:::
+
+Toprağı hazırlarken saksıda fide yetiştirecekseniz hafif, iyi drene olan bir fide toprağı kullanmak çökertme riskini azaltır.
+
+[ürün:hg-premium-fide-topragi]
+@sss
+S: Kabak tohumu ne zaman ekilir?
+C: Toprak sıcaklığı en az 18 °C olunca ekilir. Çoğu bölgede bu, son donlardan sonra nisan sonu ile mayıs arasına denk gelir; ılık kıyılarda mart sonunda ekim mümkündür.
+
+S: Kabak tohumu kaç günde çimlenir?
+C: Toprak ılıksa kabak tohumu 3–10 günde çimlenir. Toprak 18 °C'nin altında kalırsa süre uzar, tohum çürüyebilir.
+
+S: Kabak tohumu ne kadar derine ekilir?
+C: Kabak tohumu 2–4 cm derinliğe ekilir. Çukur başına 2–3 tohum konur, ikinci gerçek yaprak çıkınca en güçlü fide bırakılır.
+
+S: Kabak tohumu fide mi doğrudan mı ekilmeli?
+C: Çoğu bahçede doğrudan ekim yeterlidir; kök zedelenmez. Yaz kısa olan serin bölgelerde ya da erken hasat için dikimden 3–4 hafta önce fide yetiştirilir.
+
+### YAZI
+slug: serada-tozlasma
+baslik: Serada Tozlaşma: Arı Olmayan Ortamda Meyve Tutumu
+yayin: 2027-03-01 10:20
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: serada tozlaşma
+seo_baslik: Serada Tozlaşma: Arı Yokken Meyve Nasıl Tutar?
+seo_aciklama: Serada tozlaşma nasıl sağlanır? Domates, biber, patlıcan ve kabakgillerde elle tozlaştırma, titreşim, nem ve sıcaklık sınırları, çiçek dökülmesinin nedenleri.
+ozet: Kapalı serada arı yoktur, rüzgâr da zayıftır. Serada tozlaşma için domates, biber, patlıcan ve kabakgillerin tozlanma biçimlerini, elle ve titreşimle tozlaştırmayı, nem ve sıcaklığın etkisini ve çiçek dökülmesinde nelere bakılacağını anlattık.
+etiketler: serada tozlaşma, elle tozlaştırma, domates çiçek dökümü, sera nemi, meyve tutumu, kabak tozlaşma
+gorsel: bekliyor
+gorsel_alt: Sera içinde sıralı domates bitkileri, sarı çiçek salkımları ve havalandırma açıklığı
+urunler: hg-bol-verimli-sebze-topragi, sebze-yatagi-bitki-destek-unitesi-85-cm-genislikteki-yataklar-icin
+kisaca: Serada tozlaşma için domates ve patlıcan çiçekleri her gün hafifçe sallanır, kabakgillerde erkek çiçek dişi çiçeğe sürülür. Gece 13 °C altı, gündüz 32 °C üstü ve %80 üstü nem meyve tutumunu bozar. Yalnızca dişi çiçekli salatalık çeşitleri tozlaşma istemez. Hormon spreyi tozlaşmanın yerini tutmaz.
+@govde
+Açık havada tozlaşmayı arılar ve rüzgâr yapar. Kapalı serada ise ikisi de azdır, çiçek açar ama meyve tutmaz. Serada tozlaşma bu yüzden hobi serasında bile planlanması gereken bir iştir. Aşağıda hangi sebzenin neye ihtiyaç duyduğunu, elle nasıl tozlaştırılacağını ve nem ile sıcaklığın etkisini anlattık.
+
+## Serada tozlaşma neden sorun olur?
+
+Bir çiçeğin meyveye dönüşmesi için polenin dişi organa ulaşması gerekir. Sera naylonu ve ağları arıları içeri bırakmaz; havalandırma da çiçekleri sallayacak kadar rüzgâr yaratmaz. Arizona Üniversitesi'nin sera domatesi kılavuzu, kalabalık bir seranın hava hareketinin iyi tozlaşma için yetersiz olduğunu belirtir; ayrıntılar [Arizona Üniversitesi sera domatesi kılavuzunda](https://cales.arizona.edu/hydroponictomatoes/pollinat.htm) bulunur.
+
+Bütün sebzeler aynı yardıma ihtiyaç duymaz. Bazıları kendi kendine tozlanır, bazıları polen taşıyacak bir dış hareket ister, bazıları ise hiç tozlaşma gerektirmez.
+
+| Sebze | Tozlaşma biçimi | Serada ne yapılır? |
+|---|---|---|
+| Domates | Kendine verimli, polen çiçeği sallanınca düşer | Her gün çiçek salkımını sallayın ya da titreştirin |
+| Biber | Kendine verimli, hafif sarsıntı yeterli | Haftada birkaç kez bitkiyi hafifçe sallayın |
+| Patlıcan | Kendine verimli, titreşim verimi artırır | Çiçeği sallayın ya da dolaylı titreştirin |
+| Salatalık (yalnız dişi çiçekli çeşit) | Tozlaşma gerekmez | Hiçbir şey yapılmaz; arı olursa meyve bozulabilir |
+| Kabak, kavun, karpuz | Ayrı erkek ve dişi çiçek | Erkek çiçeği dişi çiçeğe sürün |
+
+## Serada domates ve patlıcanı tozlaştırmak
+
+Domates çiçeği erkek ve dişi organı aynı çiçekte taşır, fakat polen ancak çiçek sallanınca dökülür. Doğada bunu rüzgâr ya da bombus arısı yapar. Serada bu işi sizin yapmanız gerekir.
+
+Mississippi Eyalet Üniversitesi uzatma servisi, elektrikli diş fırçasıyla yapılan titreşimin bir ölçüde tozlaşma sağladığını ama özel elektrikli tozlaştırıcı kadar yüksek verim vermediğini belirtir; kaynak [Mississippi State Extension sera domatesi sayfasında](https://extension.msstate.edu/agriculture/crops/commercial-horticulture/greenhouse-tomatoes/can-i-use-vibrating-toothbrush-rather-the-expensive-electric-pollinators) bulunur.
+
+Uygulamada şu sıra işe yarar:
+
+::: adimlar
+Zamanı seçin | Öğleye yakın, çiçekler tam açıkken ve sera havası kuruyken yapın; sabahın nemli saatinde polen yapışır.
+Çiçek salkımını sallayın | Salkımın dibinden tutup birkaç saniye hafifçe silkeleyin ya da telin üzerine parmakla vurun.
+Gün aşırı tekrarlayın | Her çiçek yalnız kısa süre döllenmeye açıktır; iki üç günde bir sallamayı sürdürün.
+Ayrı ayrı bakın | Her salkım ayrı ayrı sallanmalıdır; bir bitkinin sallanması tüm salkımları kapsamaz.
+Tutumu kontrol edin | Birkaç gün içinde çiçeğin arkasında küçük yeşil meyve görünürse tozlaşma olmuştur.
+:::
+
+Patlıcan için aynı yöntem kullanılır. Patlıcan çiçekleri ağırdır ve sarkar; bitkiyi dolaylı titreştirmek (sera teline vurmak) genellikle yeterlidir.
+
+## Kabak, kavun ve karpuzda elle tozlaştırma
+
+Kabakgillerde erkek ve dişi çiçek ayrıdır. Erkek çiçek ince ve uzun sapın ucunda durur; dişi çiçeğin arkasında ise minik bir meyve gibi bir şişkinlik bulunur. Çiçekler genellikle yalnız bir gün açıktır ve sabah erken saatte polen yayar.
+
+Utah Üniversitesi Doğa Tarihi Müzesi'nin hazırladığı kılavuza göre kabağı elle tozlaştırmak için yeni açmış bir erkek çiçeğin taç yaprakları çıkarılır ve polenli kısım dişi çiçeğin tepesindeki tozlanma organına sürülür; yöntemin ayrıntıları [Utah Üniversitesi sebze tozlaştırma kılavuzunda](https://nhmu.utah.edu/sites/default/files/attachments/Pollinating%20Vegetables%20by%20Hand.pdf) yer alır.
+
+Bir erkek çiçek çoğu zaman bir dişi çiçeği tozlaştırmaya yeter. Dişi çiçeğin tozlanmadığını arkasındaki meyvenin sararıp dökülmesinden anlarsınız. Tozlaşma sabah 8–10 arasında, çiçekler yeni açılmışken yapılırsa tutum şansı artar.
+
+Salatalıkta durum farklıdır. Seraya özel dişi çiçekli (ginoesik, partenokarpik) çeşitler tozlaşmadan meyve verir. Bu çeşitleri arı tozlarsa meyve biçimsiz ve tohumlu olabilir. Çeşit etiketinde "partenokarpik" ya da "dişi çiçekli" yazıyorsa elle ya da arıyla uğraşmayın.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Nem ve sıcaklık: tozlaşmanın görünmeyen sınırı
+
+Polen kuru ve ılık havada hareket eder. Sera havası çok nemliyse polen çiçeğin dişi organına yapışmaz, topaklanır. Çok sıcakta ise polen canlılığını yitirir ya da çiçek dökülür. Domates için uzatma servislerinin verdiği sınırlar şöyledir:
+
+| Koşul | Sınır | Sonuç |
+|---|---|---|
+| Soğuk gece | Sürekli 13 °C'nin (55 °F) altı | Bitki geçici olarak meyve bağlamayı bırakır |
+| Sıcak gün | Sürekli 32 °C'nin (90 °F) üstü | Polen canlılığını yitirir, çiçek düşer |
+| Sıcak gece | 24 °C'nin (75 °F) üstü | Çiçek kısırlığı artar |
+| Ortam nemi | %40–70 | En uygun aralık |
+| Ortam nemi | %80'in üstü | Polen dökülmez ya da topaklanır |
+
+Sınırlar Nebraska Üniversitesi uzatma notunda ([çiçek dökümü bilgi notu](https://extension.unl.edu/statewide/buffalo/Tomato%20Blossom%20Drop%2C%20August%208%2C%202011.pdf)) ve Kuzey Carolina uzatma servisinin uyarısında ([domates çiçeği neden ölür](https://henderson.ces.ncsu.edu/2022/07/plant-health-alert-tomato-blossoms-dying)) birbirine yakın verilir; kaynaklar arasında birkaç derecelik fark vardır. Nem için NC State en uygun aralığı %40–70 olarak yazar.
+
+Bu sınırların içinde kalmak için havalandırmayı sabahtan açın, sulamayı sabaha taşıyın ve akşama doğru yaprak ıslatmayın. Sera nemini düşürmek mantar hastalıklarını da azaltır; [kış serası ısıtma, havalandırma ve nem dengesi](/kis-serasi-isitma-havalandirma) yazısında bu dengeyi anlattık.
+
+## Çiçek dökülüyorsa neye bakılır?
+
+Çiçek açıp meyve bağlamadan dökülüyorsa tozlaşmadan önce şu sıraya bakın: gece ısısı, nem, bitkinin aşırı azotla beslenmesi ve gün ışığı. Aşırı azotlu bitki yaprak üretir, çiçeği bırakır. Domates beslemesi için [domates gübreleme](/domates-gubreleme) takvimi yararlı olur.
+
+Piyasada "meyve tutum" ya da "tozlaşma spreyi" diye anılan ürünler vardır. Bunlar çiçeği tozlaştırmaz; bitki hormonu içerir ve yumurtalığın büyümesini tetikler. Meyve tohumsuz ve biçimsiz olabilir. Spreyi son çare olarak düşünün; asıl çözüm çiçeği sallamak ve nem-sıcaklık dengesini kurmaktır. İlaç ya da hormon kullanma kararından önce il ya da ilçe tarım müdürlüğüne danışın.
+
+## Küçük bir hobi serasında günlük rutin
+
+Serada tozlaşma, doğru saatte yapılan beş dakikalık bir işe dönüştürülebilir. Önce sera iç sıcaklığına bakın; gündüz 32 °C'yi aşıyorsa havalandırmayı açın ve gölgeleme düşünün. Öğleye doğru domates ve patlıcan sırasını gezip çiçek salkımlarına parmak ucuyla vurun. Çiçek tam açıldığında taç yaprakları geri kıvrılır; kıvrılmamış tomurcuğa dokunmak gereksizdir.
+
+Salkımın alt yarısındaki çiçekler üstündekilerden önce açar; bu yüzden aynı salkıma birkaç gün üst üste dönmek gerekir. Kabakgilleri ise sabah erken, çiçekler yeni açılmışken ziyaret edin. Her gün üç dört çiçeğe bakmak, küçük bir serada yeterli olur. Bir not defteri tutmak da işe yarar: Hangi bitkide kaç meyve bağlandığını yazarsanız, tozlaşma sorunu ile beslenme sorununu birbirinden ayırabilirsiniz.
+
+## Serada arı kullanmak
+
+Ticari seralar bombus arısı kullanır; hobi serasında bu pratik değildir. Arı kolonisini yönetmek, serada havalandırma açıklıklarına ağ germeyi ve ilaç kullanmamayı gerektirir. Küçük seralarda elle tozlaştırma ya da titreşim çoğu zaman daha ucuz ve kolaydır. Bahçede arı çeken çiçekler ekmek yine de faydalıdır; bu konuda [arı dostu bitkiler](/ari-dostu-bitkiler) yazısına bakabilirsiniz.
+
+Sera kapılarını gün içinde bir süre açık tutmak da rüzgâr ve doğal tozlayıcı girişini sağlar. Salatalık dışındaki sebzelerde bunun faydası görülür. Serada tozlaşma sorunu yaşıyorsanız önce nemi ve sıcaklığı, sonra çiçeğin sallanma sıklığını gözden geçirin; hormon sprey ise en son düşünülmesi gereken adımdır.
+@sss
+S: Serada domates neden çiçek açar da meyve bağlamaz?
+C: En sık neden polenin çiçeğe ulaşmamasıdır. Çiçekleri her gün hafifçe sallayın; gece sıcaklığı 13 °C altına, gündüz 32 °C üstüne düşmesin, nemi %80'in altında tutun.
+
+S: Serada hangi sebzeler elle tozlaştırılır?
+C: Kabak, kavun ve karpuz gibi ayrı erkek-dişi çiçekli sebzeler elle tozlaştırılır. Domates, biber ve patlıcanda çiçeği sallamak yeter; dişi çiçekli salatalık çeşitlerine hiçbir şey yapılmaz.
+
+S: Domates çiçeği günün hangi saatinde tozlaştırılır?
+C: Öğleye yakın, çiçekler tam açıkken ve sera havası kuruyken tozlaştırılır. Sabahın nemli saatinde polen topaklanır, yapışmaz.
+
+S: Meyve tutum spreyi tozlaşmanın yerini tutar mı?
+C: Hayır. Bu ürünler bitki hormonudur ve yumurtalığı büyütür, çiçeği tozlaştırmaz. Meyve tohumsuz ve biçimsiz olabilir; asıl çözüm çiçeği sallamak ve nem ile sıcaklığı dengelemektir.
+
+### YAZI
+slug: yaban-mersini-bahcesi-kurmak
+baslik: Yaban Mersini Bahçesi Kurmak: Asidik Toprak ve Torf Hesabı
+yayin: 2027-03-01 12:10
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: yaban mersini bahçesi kurmak
+seo_baslik: Yaban Mersini Bahçesi Kurmak: Toprak ve Torf Hesabı
+seo_aciklama: Yaban mersini bahçesi kurmak için pH hedefi, kükürt zamanı, çukur başına torf hesabı, sıra aralığı ve ilk yıl sulaması. Örnek hesap tablosuyla adım adım.
+ozet: Yaban mersini bahçesi kurmak, çoğu yerde toprağı baştan değiştirmek demektir. Hedef pH'yı, kükürtün neden dikimden aylar önce verildiğini, çukur başına torf hesabını ve sıra aralıklarını bir örnek hesapla anlattık.
+etiketler: yaban mersini bahçesi, açık arazi dikimi, torf hesabı, kükürt uygulaması, sıra aralığı, dikim şeridi
+gorsel: bekliyor
+gorsel_alt: Bahçede yan yana açılmış geniş dikim çukurları ve yanlarında torf balyaları
+urunler: hg-asidik-torf, yaban-mersini-ve-ortanca-topragi, yaban-mersini-bakim-seti-20-lt-toprak-500-ml-solucan-gubresi
+kisaca: Yaban mersini bahçesi kurmak için toprak pH'sı 4,5–5,0 aralığına getirilir; pH yüksekse kükürt dikimden en az üç ay önce uygulanır. Her çukurdaki toprağın yaklaşık yarısı ıslatılmış asidik torfla değiştirilir. Örnek: 60×60×40 cm'lik bir çukur 144 litredir ve yaklaşık 72 litre torf ister. İki farklı çeşit dikmek verimi artırır.
+@govde
+Yaban mersini, bahçenin sıradan toprağında yaşayamayan nadir meyvelerden biridir. Kökleri çok incedir ve ancak asidik, gevşek, nemli ama suyu tutmayan toprakta beslenir. Yaban mersini bahçesi kurmak bu yüzden fidanla değil, toprakla başlar. Dikimden aylar önce yapılan hazırlık, sonraki on yıllık verimi belirler.
+
+## Önce pH: hedef 4,5–5,0
+
+Yaban mersininin istediği toprak pH'sı çoğu sebze ve meyvenin istediğinden iki-üç birim düşüktür. Pennsylvania Eyalet Üniversitesi uzatma servisi hedef pH'yı 4,5–5,0 olarak verir; Massachusetts Üniversitesi 4,5–5,2 aralığını ideal sayar. Kaynaklar için [Penn State ev bahçesi yaban mersini rehberine](https://extension.psu.edu/site-selection-and-preparation-for-home-blueberry-plantings) ve [UMass yüksek boylu yaban mersini sayfasına](https://www.umass.edu/agriculture-food-environment/fruit/ne-small-fruit-management-guide/highbush-blueberries) bakabilirsiniz.
+
+Önce kendi toprağınızın pH'sını öğrenin. Ucuz ölçerler kabaca fikir verir, ama kükürt miktarını hesaplamak için laboratuvar analizi gerekir. Numune alma ve ölçüm için [toprak pH değeri](/toprak-ph-nedir) yazısındaki adımlar yeterlidir. Türkiye topraklarının büyük bölümü kireçlidir ve pH'ı 7'nin üstündedir; böyle bir toprağı 4,5'a indirmek zor ve pahalıdır. Bu durumda yükseltilmiş yatak ya da büyük kap daha gerçekçi seçenektir.
+
+| Toprak durumu | Gerekli iş | Gerçekçi mi? |
+|---|---|---|
+| pH 5,0–5,5, hafif, organik maddeli | Kükürt ve torf, az miktarda | Evet |
+| pH 6–7, orta bünyeli | Kükürt, bol torf, ölçüm tekrarı | Emekle mümkün |
+| pH 7,5 ve üstü, kireçli ve killi | Toprak yerine tamamen ayrı yatak | Yatak ya da kap daha uygun |
+
+## Kükürt dikimden önce, üç ay önce
+
+Toprağın pH'sını düşürmek için elementel kükürt kullanılır. Kükürt toprak bakterileri tarafından asite çevrilir ve bu süreç haftalar alır. Bu nedenle kükürt dikimden sonra verilirse işe yaramaz. Penn State, dikimden sonra yüzeye serilen kükürdün pH'yı düşürmekte etkisiz kaldığını yazar; Connecticut Üniversitesi uzatma servisi de pH 4,5'in üstündeyse granül kükürdün dikimden üç ay önce uygulanmasını önerir.
+
+Maine Üniversitesi, tınlı toprakta pH'yı yarım birim (örneğin 5,0'dan 4,5'e) düşürmek için 100 ft² başına yaklaşık 1,2 libre öğütülmüş kükürt verir; kumlu toprakta miktar yarıya iner. Bu, metrekare başına kabaca 58 gramdır. Rakam toprağın tampon gücüne göre değişir; kendi miktarınızı il ya da ilçe tarım müdürlüğünün ya da bir laboratuvarın toprak analiz raporuna göre belirleyin. Ayrıntı için [Maine Üniversitesi yüksek boylu yaban mersini bülteni](https://extension.umaine.edu/publications/2253e/) okunabilir.
+
+## Yaban mersini bahçesi kurmak için torf hesabı
+
+Kükürtten bağımsız olarak, her çukurun içindeki toprak torfla zenginleştirilir. Penn State, torfun çukurdan çıkan toprak hacminin yaklaşık yarısını değiştirecek kadar karıştırılmasını önerir; Maine ise çıkan toprakla ıslatılmış torf, kompost ya da çürük talaşın bir bire bir karıştırılmasını yazar. Rutgers Üniversitesi daha hafif bir yol olarak çukura bir galon (yaklaşık 3,8 litre) torf önerir. Üç kaynağın ortak noktası, torfun dikimden önce tamamen ıslatılmasıdır; kuru torf kökten suyu çeker.
+
+Örnek bir hesap yapalım. Bir çukur 60 cm genişlik, 60 cm uzunluk, 40 cm derinlik olsun.
+
+| Adım | Hesap | Sonuç |
+|---|---|---|
+| Çukur hacmi | 0,6 × 0,6 × 0,4 m | 0,144 m³ = 144 litre |
+| Torf (yarısı) | 144 ÷ 2 | yaklaşık 72 litre |
+| 10 fidan için | 72 × 10 | 720 litre |
+| 220 litrelik balya | 720 ÷ 220 | 3,3 yani 4 balya |
+
+Hesap iki yönlü çalışır. Torfu azaltmak isterseniz çukur boyutunu küçültebilirsiniz, ama o zaman köklerin yayılacağı kısıtlı bir alan bırakırsınız. Birkaç yıl sonra kökler çukurun dışındaki sıradan toprağa ulaştığında gelişim yavaşlar. Bu yüzden çukur yerine yaklaşık 1 metre genişliğinde bir dikim şeridi hazırlamak çoğu zaman daha iyi sonuç verir.
+
+[ürün:hg-asidik-torf,yaban-mersini-ve-ortanca-topragi]
+
+## Yaban mersini bahçesi kurmak için yerleşim ve aralık
+
+Yaban mersini tam güneşte en çok meyve verir; gün boyu en az altı saat ışık hedefleyin. Rüzgârdan korunaklı, suyun durmadığı bir yer seçin. Çukurda su birikiyorsa yükseltilmiş dikim, en ucuz drenaj çözümüdür.
+
+Sıra üstü aralık için uzatma servislerinin yaygın önerisi yaklaşık 1,2–1,5 metre, sıra arası ise makine geçecekse 2,5–3 metredir. Küçük bir hobi bahçesinde sıra arası daha dar tutulabilir. Aralık dar olursa bitkiler birbirinin ışığını keser ve budama zorlaşır.
+
+Tek çeşit yetiştirebilirsiniz, ama farklı iki çeşit dikmek meyve iriliğini ve sayısını artırır. Çeşit seçerken çiçeklenme zamanı birbirine yakın iki çeşidi birlikte alın. Kap kültüründe aynı toprak mantığının nasıl uygulandığını [saksıda yaban mersini yetiştirme](/saksida-yaban-mersini-yetistirme) yazısında bulabilirsiniz.
+
+## Dikim günü ve ilk yıl bakımı
+
+Fideyi dikim kabından çıkardığınızda kökler çoğunlukla dibe sarılmış olur. Kök topağını parmaklarınızla çözün, yoksa kökler yeni toprağa geçmez. Fideyi saksıdaki seviyesinde, kök boğazı toprak hizasında olacak biçimde dikin. Dikimden sonra bol su verin ve etrafına çam kabuğu, talaş ya da çam iğnesi malçı serin.
+
+İlk yıl için şu iş sırası genelde yeterlidir:
+
+1. Dikimden hemen sonra bol sulama ve 5–8 cm malç.
+2. İlk sezon çiçekleri koparın; bitki enerjisini kök yapmaya harcasın.
+3. Haftada bir derin sulama; yüzey kuruyor ama alt toprak nemli kalsın.
+4. Yaz ortasında pH'yı bir kez ölçün; yükselmişse asidik gübre ve kükürt takviyesini planlayın.
+5. Gübrelemeyi dikimden birkaç hafta sonra, düşük dozda başlatın.
+
+Besleme planı için [yaban mersini gübreleme](/yaban-mersini-gubreleme) yazısı ayrıntılıdır. Genç bitkiyi aşırı gübre yakar; bu yüzden ilk yıl hafif tutun. Sulama suyunuz kireçliyse zamanla toprak pH'sı yükselir; yağmur suyu biriktirmek bunu önler.
+
+## Sık yapılan hatalar
+
+Yaban mersini bahçesi kurmak isteyenlerin çoğu aynı yerlerde takılır:
+
+- **Kükürdü dikimden sonra atmak:** Etkisi aylar sonra başlar; bitki o zamana kadar sararır.
+- **Kuru torf kullanmak:** Torf ıslatılmadan karıştırılırsa kök bölgesi kurur.
+- **Bahçe toprağına doğrudan dikmek:** Kireçli toprakta bitki ilk yıl yaşar, ikinci yıl yapraklar sararır.
+- **Fazla derin dikmek:** Kök boğazı toprağa gömülürse çürür.
+- **Malçsız bırakmak:** Yüzey kökleri sıcakta ve kuruda zarar görür.
+
+pH'ya karşı en güvenilir kontrol yapraktır: yeşil damarlı sarı yaprak (damar arası sararması) çoğu zaman pH'nın yükseldiğini ve demirin alınamadığını gösterir. O durumda ölçüm yapıp kükürt kararını yeniden verin. Torfun ne olduğunu ve hangi türünü seçeceğinizi merak ediyorsanız [torf nedir, hangi torf seçilmeli](/torf-nedir-hangi-torf-secilmeli) yazısı yardımcı olur.
+
+## Verim ne zaman başlar?
+
+Yaban mersini ilk yıllarda yavaş büyür. Dikimden sonraki ikinci ya da üçüncü yıl ilk küçük hasat gelir; asıl verim genellikle beşinci yıldan sonradır. Bu süreyi kısaltmak için ilk yıllarda çiçek koparmak, toprağı asidik tutmak ve düzenli sulamak yeterlidir. Hasat dönemi çeşide ve bölgeye göre değişir; ılıman kıyılarda erken, iç bölgelerde geç gelir.
+@sss
+S: Yaban mersini bahçesi kurmak için toprak pH'sı kaç olmalı?
+C: Hedef pH 4,5–5,0 aralığıdır. Üniversite uzatma servisleri 4,5 ile 5,2 arasındaki değerleri ideal sayar; pH'yı kükürtle düşürmek için dikimden en az üç ay önce uygulama yapılır.
+
+S: Yaban mersini çukuruna ne kadar torf konur?
+C: Çukurdan çıkan toprağın yaklaşık yarısı kadar ıslatılmış asidik torf konur. 60×60×40 cm'lik 144 litrelik çukurda bu yaklaşık 72 litredir.
+
+S: Yaban mersini kireçli toprağa dikilebilir mi?
+C: Doğrudan dikilmesi önerilmez; kireçli toprakta pH çok yüksektir ve yapraklar sararır. Bu durumda yükseltilmiş yatak ya da büyük bir kap ve asidik karışım kullanılır.
+
+S: Yaban mersininde kaç çeşit dikilmelidir?
+C: Tek çeşit de meyve verir, ama çiçeklenme zamanı yakın iki çeşit dikmek meyve sayısını ve iriliğini artırır. Çeşitler arası tozlaşma verimi destekler.
+
+### YAZI
+slug: pekan-cevizi-yetistirme
+baslik: Pekan Cevizi Yetiştirme: Türkiye'de Hangi Bölgede Olur, Nasıl Dikilir?
+yayin: 2027-03-01 14:30
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: pekan cevizi yetiştirme
+seo_baslik: Pekan Cevizi Yetiştirme: Bölge, Soğuk ve Tozlaşma
+seo_aciklama: Pekan cevizi yetiştirme Türkiye'de hangi bölgede olur? Vejetasyon süresi, soğuklama ihtiyacı, iki tozlaşma tipi, dikim ve kara leke hastalığına karşı bakım.
+ozet: Pekan cevizi her bahçede yetişmez. Vejetasyon süresini, kışın ve ilkbaharda donla ilişkisini, neden en az iki çeşit dikilmesi gerektiğini ve dikim ile ilk yıllarda nelere dikkat edileceğini Alata araştırma enstitüsü yayınlarına dayanarak anlattık.
+etiketler: pekan cevizi, pikan, ceviz yetiştirme, tozlaşma, kara leke, Akdeniz meyve
+gorsel: bekliyor
+gorsel_alt: Uzun yapraklı pekan ağacı dalında yeşil kabuklu, uzun pekan meyveleri
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi
+kisaca: Pekan cevizi yetiştirme, ilkbahar geç donu ile sonbahar erken donu arasında en az 210 gün kalan, ılıman Akdeniz ve Ege kıyılarında en güvenlidir. Ağaç dinlenmedeyken −18 °C'ye dayanır ama yapraklıyken −2 °C'de zarar görür. Tozlaşma için birbirini tamamlayan iki tip çeşit birlikte dikilir. En büyük hastalık sorunu kara lekedir.
+@govde
+Pekan, kuzey Amerika kökenli büyük bir ceviz akrabasıdır. Türkiye'de pikan ya da pekan adıyla anılır ve son yıllarda hobi bahçecilerinin ilgisini çekiyor. Pekan cevizi yetiştirme kararı vermeden önce tek bir soruya cevap aramak gerekir: Bahçenizde yeterince uzun ve don olmayan bir yaz var mı? Cevap hayırsa fidan ilk büyük kışta ya da ilkbahar donunda zarar görür.
+
+## Önce iklim: 210 günlük sınır
+
+Tarım ve Orman Bakanlığı'na bağlı Alata Bahçe Kültürleri Araştırma Enstitüsü'nün pekan broşürü, yetiştiriciliği sınırlayan en önemli etmeni vejetasyon süresinin uzunluğu olarak gösterir. İlkbahar son donu ile sonbahar ilk donu arasında en az 210 gün olması istenir. Aynı yayına göre ağaç dinlenme döneminde −18 °C'ye kadar dayanır, ama vejetasyon dönemindeki bir −2 °C ölümcül olabilir; güvenli yetiştiricilik için kış minimumunun −6 °C'yi geçmemesi istenir. Soğuklama ihtiyacı için 400–750 saat aralığı verilir. Kaynak: [Alata pekan cevizi yetiştiriciliği broşürü](https://arastirma.tarimorman.gov.tr/alata/Belgeler/brosurler/PikanOUysal.pdf).
+
+Bu değerleri kendi bahçenizle karşılaştırın. Bunun için yerel meteoroloji verisinden ya da komşu bahçelerden son 5–10 yılın ilk ve son don tarihlerini öğrenin.
+
+| Ölçüt | Pekan için eşik | Bahçenizde nasıl bakarsınız? |
+|---|---|---|
+| Don arası süre | En az yaklaşık 210 gün | Son 5 yılın son ilkbahar ve ilk sonbahar donu tarihleri |
+| Kış minimumu | −6 °C altına inmemeli | MGM istasyon kayıtları, yerel çiftçi |
+| Soğuklama | 400–750 saat | Kış boyunca 7 °C altı saat sayısı (istasyon verisi) |
+| Yer | Derin, süzek toprak, rüzgâr az | Çukur açıp 1 m'ye kadar bakın |
+
+Eşiklerin hepsine uyan alanlar ağırlıkla Akdeniz ve Ege'nin ılıman kıyı kesimleridir. İç Anadolu ve yüksek kesimlerde sonbahar donu meyvelerin olgunlaşmasını yarım bırakabilir. Türkiye'de pekan denemeleri 1969'da Antalya'da getirilen çeşitlerle başlamıştır. Sınırlı sayıdaki araştırmacı ve deneme nedeniyle bölgeye uygun çeşit bilgisi hâlâ azdır.
+
+## Neden iki çeşit gerekir?
+
+Pekan rüzgârla tozlanır ve her ağaçta erkek ve dişi çiçekler vardır, ama aynı anda olgunlaşmazlar. Kuzey Carolina Eyalet Üniversitesi uzatma servisi, bazı çeşitlerde polenin dişi çiçeklerden önce (tip I), bazılarında sonra (tip II) olgunlaştığını yazar; bu yüzden iki tipten çeşitler birlikte dikilmelidir. Aynı kaynak en az üç çeşit önerir (aralarında hem tip I hem tip II olsun). Daha ayrıntılı bilgi için bkz. [NC State pekan yetiştiriciliği rehberi](https://content.ces.ncsu.edu/growing-pecans-in-north-carolina).
+
+Aralarındaki mesafe polen için çok açılmamalıdır. Küçük bir bahçede iki ağaç bile yetiştirilebilir, ama tozlaşma uygun olmayabilir. Komşu bahçelerdeki pekan ağaçları da polen kaynağıdır. Çiçeklenme döneminde aşırı yağış polenin havada taşınmasını engelleyebilir; polen rüzgârla yayılır.
+
+## Pekan cevizi yetiştirme: dikim
+
+Pekan derin kazık kök yapar. Bu yüzden toprak derin, süzek ve çukur olmayan bir alanda seçilmelidir. Taban suyu yüksek ya da kil altlıklı yerlerde kökler çürür.
+
+::: adimlar
+Dikim zamanını seçin | Yapraksız dönemde, kışın donsuz günlerde (ılık kıyılarda) ya da erken ilkbaharda dikin.
+Geniş ve derin çukur açın | Köklerin kıvrılmayacağı büyüklükte, en az 60–80 cm derinlikte bir çukur hazırlayın.
+Kazık kökü koruyun | Fidan kökünü kesmeyin, kıvırmayın; kuru kökleri dikimden önce birkaç saat suda tutun.
+Toprakla doldurun | Çukur toprağını olgun organik maddeyle karıştırın, fidanı kök boğazı toprak hizasında dikin.
+Can suyu verin | Dikimden hemen sonra bol sulayın, etrafına kazık çakıp bağlayın, malçlayın.
+:::
+
+Dikim çukuru hazırlama ayrıntıları için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısında anlatılan adımlar pekan için de geçerlidir. Genel ceviz akrabası bakım bilgisi için [ceviz yetiştirme](/ceviz-yetistirme) rehberine de göz atabilirsiniz.
+
+[ürün:hg-fidan-topragi]
+
+## İlk yıllarda bakım
+
+Pekan yavaş başlar. İlk yıllarda kök gelişir, gövde ve dallar geç belirir. Genç fidan için dört iş öne çıkar:
+
+- **Sulama:** İlk iki yaz boyunca derin ve seyrek sulayın; kazık kök aşağı insin.
+- **Gübreleme:** İlk yıl hafif tutun. Kış sonu ya da ilkbaharda olgun organik gübre ve solucan gübresi gibi yavaş salınan kaynaklar uygundur.
+- **Malç:** Gövde çevresinde yabani otları temiz tutun. Çim ve ot genç ağacın suyunu paylaşır.
+- **Gövde koruması:** Genç gövde ilk kışlarda güneşten ve dondan korunmalıdır; beyaz badana ve gövde sargısı kullanılır.
+
+Meyve vermeye başlama süresi tohumla, aşılı fidanla ve çeşitle çok değişir; çekirdekten yetişen ağaç yıllar sonra ve çoğu zaman kalitesiz meyve verir. Aşılı fidan almak bu nedenle önemlidir. Aşılama hakkında [ağaç aşılama yöntemleri](/agac-asilama-yontemleri) yazısı fikir verir.
+
+## Kara leke ve diğer sorunlar
+
+Alata broşürü pekanın en önemli sorununu kara leke hastalığına duyarlılık olarak belirtir. Yaprakta ve meyve kabuğunda koyu lekeler, yağışlı ve nemli yıllarda artar. Alınacak önlem, havadar bir taç şekli, düşen yaprak ve meyvelerin temizlenmesi ve çeşit seçimidir. İlaç kullanma kararını ve dozunu il ya da ilçe tarım müdürlüğüne ve ziraat mühendisine danışarak verin; bu yazıda ilaç adı ve dozu verilmez.
+
+Ceviz grubunda görülen benzer hastalıklar için [ceviz hastalıkları](/ceviz-hastaliklari) yazısına göz atabilirsiniz. Pekan kabuğundan çıkan, yağ oranı yüksek meyve doğru koşulda saklanmazsa acılaşabilir; hasat sonrası iyi kurutulmalı ve serin yerde saklanmalıdır.
+
+## Fidan alırken sorulacak sorular
+
+Pekan fidanı tüplü ve açık köklü satılır. Tüplü fidan, kazık kökü tüp içinde kıvrılmışsa dikimden sonra yıllarca gelişimi yavaş kalır; bu yüzden derin tüpte yetiştirilmiş fidanı tercih edin. Satıcıdan şunları öğrenin:
+
+- **Çeşit adı ve tipi:** Tip I mi, tip II mi? İkisini birlikte dikmeyi planlıyorsanız bu bilgi şarttır.
+- **Aşılı mı, çöğür mü?** Aşılı fidan çeşidin özelliğini taşır; çöğürden gelen ağaç çeşit gibi davranmaz.
+- **Hangi bölge için üretildi?** Antalya ya da Mersin'de yetişen fidan ile iç bölgede yetişen fidan aynı soğuk eşiğine sahip değildir.
+- **Kök durumu:** Köklerin beyaz uçlu ve nemli olmasına bakın.
+
+## Hasat ve saklama
+
+Pekan meyvesi sonbaharda yeşil kabuğunu çatlatıp açılır ve kabuklu çekirdek düşer. Kabuk tam açılmış ve çekirdek düşmüş olunca toplayın. Toplanan çekirdekler önce gölgede, havadar yerde birkaç hafta kurutulur; ardından kabuklu hâlde serin ve kuru yerde saklanır. Yağ oranı yüksek olduğu için kabuğu kırılmış içi uzun süre dayanmaz; kabuklu saklamak daha uzun ömür sağlar. Bu bölümde verilen süreler çeşide ve kuruma koşuluna göre değişir.
+
+Bahçede meyve düşmeye başlayınca sincap ve kuşlar da gelir; ağaç altını sık sık toplamak kayıpları azaltır.
+
+## Gerçekçi bir beklenti
+
+Pekan cevizi yetiştirme sabır ister. İklim uygunsa bile ağaç büyür, ağaç yıllarca yalnızca gelişir. Küçük bir bahçede bir ağacı gölge ağacı ve gelecek yatırımı olarak düşünün. Bölgenizde yetişen komşu bahçeler, yerel üreticiler ve il ya da ilçe tarım müdürlüğünün deneme bilgisi, en güvenilir yol göstericidir.
+@sss
+S: Pekan cevizi Türkiye'de yetişir mi?
+C: Evet, ama her bölgede değil. İlkbahar ve sonbahar donu arasında en az 210 gün kalan ılıman Akdeniz ve Ege kıyıları en uygun alanlardır. İç bölgelerde fidan kışın ya da geç donda zarar görebilir.
+
+S: Pekan cevizi için kaç ağaç dikilmeli?
+C: Tozlaşma için birbirini tamamlayan iki tip çeşit gerekir. Küçük bahçede en az iki farklı tipten çeşit, olanak varsa üç çeşit dikilir; komşudaki pekan ağaçları da polen sağlayabilir.
+
+S: Pekan cevizi dona dayanır mı?
+C: Yapraksız dinlenme döneminde −18 °C'ye kadar dayanır, ama vejetasyon döneminde −2 °C ölümcül olabilir. Bu yüzden geç ilkbahar ve erken sonbahar donları asıl risktir.
+
+S: Pekan cevizi ne zaman meyve verir?
+C: Süre çeşide, aşıya ve iklime göre değişir; pekan genellikle ilk yıllarda yalnızca büyür. Çekirdekten yetişen ağaç çok geç ve niteliksiz meyve verir, bu yüzden aşılı fidan tercih edilir.
+
+### YAZI
+slug: yenidunya-yetistirme
+baslik: Yenidünya Yetiştirme (Malta Eriği): Don, Dikim ve Bakım
+yayin: 2027-03-01 16:55
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: yenidünya yetiştirme
+seo_baslik: Yenidünya Yetiştirme: Malta Eriği Dikimi ve Don Riski
+seo_aciklama: Yenidünya yetiştirme için iklim, kışın açan çiçeğin don riski, çeşit seçimi, dikim, meyve seyreltme ve hasat. Malta eriğini bahçede ve kıyıda doğru başlatın.
+ozet: Yenidünya, çiçeğini sonbaharda açan ve meyvesini ilkbaharda veren ender meyvelerden biridir. Bu yüzden asıl risk kış donudur. Çiçeklenme takvimini, don eşiğini, çeşit farkını, dikim ve bakımı, meyve seyreltme ve hasadı anlattık.
+etiketler: yenidünya, malta eriği, yenidünya çeşitleri, kış çiçeklenmesi, don zararı, Akdeniz meyvesi
+gorsel: bekliyor
+gorsel_alt: Parlak, kalın yapraklı yenidünya dalında turuncu sarı meyve salkımı
+urunler: hg-fidan-topragi, leonardit-organik-toprak-duzenleyici
+kisaca: Yenidünya (Malta eriği) ılıman kıyılarda yetişen, ekim-kasımda çiçek açıp nisan-mayısta meyve veren yaprağını dökmeyen bir ağaçtır. Çiçek ve genç meyve yaklaşık −3 °C civarında zarar görür; ağacın kendisi daha dayanıklıdır. Bu yüzden don almayan, korunaklı bir güney yamaç seçilir. Meyve salkımı seyreltilirse iri olur.
+@govde
+Yenidünya, bildiğimiz meyve ağaçlarının takvimini tersine çevirir. Yazın dinlenir, sonbaharda çiçek açar, kışı meyve olgunlaştırarak geçirir ve baharın ilk meyvesi olarak sofraya gelir. Yenidünya yetiştirme bu takvimi bilmeden başlanırsa hayal kırıklığı yaratır; çünkü kışın açan çiçeğin yanında bir de don riski vardır. Bu rehber, yenidünya yetiştirme kararını bölgenize göre vermenize yardımcı olur.
+
+## Yenidünya yetiştirme takvimi: yıllık döngü
+
+Ankara Üniversitesi'nin açık ders materyaline göre çiçeklenme ekim sonu ve kasım başında başlar, ocak, hatta şubat ayına kadar sürer. Meyve bu çiçeklerden ilkbaharda olgunlaşır. Tarım ve Orman Bakanlığı'nın yenidünya yayınları ise Türkiye'de olgunlaşmanın mart-nisanda başlayıp haziranda sona erdiğini gösterir. Kaynaklar: [Ankara Üniversitesi yenidünya ders notu](https://acikders.ankara.edu.tr/mod/resource/view.php?id=24731) ve [Alata yenidünya yetiştiriciliği yayını](https://arastirma.tarimorman.gov.tr/alata/Belgeler/Diger-belgeler/Yenid%C3%BCnyaYeti%C5%9Ftiricili%C4%9FiAUzun.pdf).
+
+Bu tabloya göre yılın üç dönemi birbirinden farklıdır:
+
+| Dönem | Ağaçta ne olur? | Bahçıvanın işi |
+|---|---|---|
+| Haziran–eylül | Vejetatif büyüme, yeni sürgün, yaz kuraklığı | Sulama, gerekirse budama |
+| Ekim–ocak | Çiçeklenme, tozlaşma, meyve tutumu | Don koruması, havalı ortam |
+| Şubat–haziran | Meyve büyümesi ve olgunlaşma | Seyreltme, hasat, kuşlardan koruma |
+
+## Don: asıl sınır
+
+Yenidünya ağacı çiçeksizken ve dinlenmedeyken oldukça dayanıklıdır. Ancak çiçek ve genç meyve soğuğa çok duyarlıdır. Ankara Üniversitesi notunda −3 °C'de çiçek ve meyvenin zarar gördüğü yazılıdır. Amerikan uzatma kaynakları da çiçek ve meyvenin yaklaşık −3 °C (27 °F) altında öldüğünü bildirir; Clemson Üniversitesi'nin kılavuzu ağacı USDA 8b–10 bölgelerine yerleştirir ([Clemson yenidünya (loquat) rehberi](https://hgic.clemson.edu/factsheet/loquat/)). Ağaç tek başına −12 °C civarına kadar dayanabilir ama yaprak zararı görür.
+
+Pratik anlamı şudur: Kış don olayı yaşanan bölgelerde ağaç yaşar, meyve yok olur. Meyve istiyorsanız don almayan alan seçmek zorundasınız. Akdeniz ve Ege kıyıları ile Karadeniz'in en korunaklı kıyı şeritleri uygundur.
+
+Bahçenizde yer seçerken şu sırayla düşünün:
+
+- **Güneye bakan, duvar ya da kayalık önü:** Gün boyu ısı toplar, geceyi daha ılık geçirir.
+- **Soğuk hava çukurundan kaçının:** Soğuk hava aşağı akar; çukurda don daha sert olur.
+- **Ağaç altında örtü:** Hafif don öngörülen gecelerde ağacı tülbent ya da örtüyle sarmak çiçekleri korur. Yöntem için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına bakın.
+
+## Çeşit seçimi
+
+Alata'nın yayınına göre Türkiye'de yetiştirilen çeşitlerin bir kısmı kendine verimli, bir kısmı kendine uyuşmazdır; bahçe kurarken tozlayıcı çeşit bulundurmak önerilir. Hafif Çukurgöbek erkenci, pembe-portakal renkli, kendine verimli ve kara lekeye dayanıklıdır; Tanaka geççi ve iridir. Akko XIII orta mevsimde olgunlaşır. Çeşit seçerken bölgenizdeki bahçelere, yerel fidancıya ve il ya da ilçe tarım müdürlüğüne danışın.
+
+| Çeşit | Olgunlaşma | Bilinen özellik |
+|---|---|---|
+| Hafif Çukurgöbek | Erkenci | Orta iri, tatlı; kendine verimli |
+| Akko XIII | Orta mevsim | Yaygın ticari çeşit |
+| Tanaka | Geççi | İri meyveli, taşınmaya dayanıklı |
+| Çukurgöbek tipleri | Orta mevsim | Yuvarlak ve uzun biçimler |
+
+Çekirdekten yetişen ağaçlar çeşide benzemez ve geç meyve verir. Bahçede tek ağaç istiyorsanız aşılı fidan alın; ağacın hangi çeşit olduğunu ve kendine verimli olup olmadığını satıcıdan öğrenin.
+
+[ürün:hg-fidan-topragi]
+
+## Dikim ve ilk yıl
+
+Yenidünya geniş, parlak, derimsi yaprakları yüzünden sulamaya ihtiyaç duyar; ağır ve su tutan toprağı sevmez. Florida Üniversitesi uzatma servisi de ağacın su basan toprağa dayanmadığını bildirir. Tınlı, süzek toprakta ve güneşli yerde yetişir.
+
+Dikim için ılıman kıyılarda sonbahar sonu ile ilkbahar başı uygundur; çiçeklenme sırasında dikim yapıp kök bozmayın. Dikim adımları:
+
+::: adimlar
+Yeri seçin | Güneşli, soğuk hava çukuru olmayan bir nokta; ağaç büyüyünce geniş bir taç yapar.
+Çukuru açın | Kök topağının iki katı genişlikte çukur açın; dibi gevşetin, su birikmesin.
+Fidanı yerleştirin | Aşı yeri toprak üstünde kalsın; kök topağını bozmadan dikin.
+Doldurun ve sulayın | Çukur toprağını organik maddeyle karıştırıp doldurun, bol su verin.
+Malçlayıp bağlayın | Gövde çevresine malç serin, rüzgârlı yerde kazığa bağlayın.
+:::
+
+İlk iki yıl bahar ve yazın düzenli sulama, kışın hafif don koruması gerekir. Toprak düzenleyici olarak leonardit ya da olgun kompost çukur toprağını gevşetip tutmasını artırabilir; ayrıntı için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısına bakın.
+
+## Seyreltme, budama ve hasat
+
+Yenidünya salkım hâlinde çiçek açar ve salkımda çok meyve tutar. Meyveler küçük kalır. Florida Üniversitesi'nin bir uzatma yazısı salkım başına 4–10 meyve bırakmanın meyve iriliğini önemli ölçüde artırdığını belirtir. Seyreltmeyi meyveler fındık büyüklüğüne geldiğinde, küçük ve deforme olanları keserek yapın.
+
+Budama hasattan hemen sonra, yaz başında yapılır. Ağacın ortasındaki sık dalları seyreltip ışık girmesini sağlayın; kış sonu budama çiçek tomurcuğunu alır. Hasat için meyve renk değiştirip yumuşamaya başlayınca salkım bütün hâlinde kesilir; ağaçta unutulan meyve düşmez, buruşup kurur. Hasadı geciktirmeyin.
+
+Kuşlar ve meyve sineği meyveye zarar verebilir. Küçük bahçede salkımlara ağ ya da kâğıt torba geçirmek yeterli olur; ilaç kararı için il ya da ilçe tarım müdürlüğüne danışın.
+
+## Sulama ve gübreleme
+
+Yenidünya yazın uzun kuru dönemlerde sulama ister; ağaç sürgün verirken ve çiçek tomurcuğu oluştururken su stresi yaşamamalıdır. Toprak yüzeyi kuruduğunda, ağacın taç izdüşümüne derin su vermek, sık ve yüzeysel sulamadan iyidir. Kışın yağış yeterliyse ek sulama yapılmaz; ama kuru geçen mart-nisan döneminde meyve büyümesi için su gerekir.
+
+Gübrelemede ölçülü olmak önemlidir. Aşırı azot yeni sürgünü çoğaltır ve çiçek oluşumunu geciktirir. Olgun organik madde ve solucan gübresi gibi yavaş salınan kaynaklar bahar sonunda yeterli olur. Hasattan sonra, yeni sürgün çıkarken bir hafif besleme daha yapılabilir. Çiçek dönemi sonbaharda olduğu için eylül-ekim aylarında yüksek dozlu azotlu gübre kullanmayın.
+
+## Hangi sorunlarla karşılaşılır?
+
+Yaprakta ve meyvede koyu lekeler (kara leke), özellikle nemli kıyı bölgelerinde görülür; Alata'nın yayınında Hafif Çukurgöbek çeşidi kara lekeye dayanıklı olarak anılır. Bu yüzden nemli yerlerde çeşit seçerken bu özelliğe bakın. Soğuk geceler çiçekleri kurutur; meyve tutmayan yıllar çoğu zaman don ya da yağmurlu çiçeklenme dönemi yüzündendir. Hastalık ve zararlı için ilaç kararı bu yazıda verilmez; belirtiyi fotoğraflayıp il ya da ilçe tarım müdürlüğündeki ziraat mühendisine gösterin.
+
+## Saksıda yetişir mi?
+
+Yenidünya saksıda birkaç yıl yaşar, ama ağacın boyunu ve kök hacmini sınırlar. Don gelen yerde saksıyı kışın ışıklı, serin ve donsuz bir yere almak mümkündür; ancak ağaç çiçeklenme döneminde serin ve ışıklı ortam ister. Bu yüzden saksıda meyve almak ılık kıyılar dışında zordur. Saksı toprağı için [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısındaki karışım önerileri uygulanabilir.
+@sss
+S: Yenidünya hangi bölgelerde yetişir?
+C: Ağırlıkla Akdeniz ve Ege kıyıları ile Karadeniz'in korunaklı kıyı şeridinde yetişir. Çiçek ve meyve yaklaşık −3 °C'de zarar gördüğü için kış donu olan yerlerde ağaç yaşar ama meyve vermez.
+
+S: Yenidünya ne zaman çiçek açar, ne zaman meyve verir?
+C: Çiçekler ekim sonundan ocak ya da şubata kadar açar; meyve mart-nisanda olgunlaşmaya başlar ve haziranda biter. Tam zamanı çeşide ve bölgeye göre değişir.
+
+S: Yenidünya kendi kendine tozlanır mı?
+C: Çeşide bağlıdır. Hafif Çukurgöbek ve Tanaka kendine verimli, bazı çeşitler ise kendine uyuşmazdır. Bahçe kurarken tozlayıcı bir çeşit bulundurmak daha güvenlidir.
+
+S: Yenidünya meyveleri neden küçük kalır?
+C: Salkımda çok meyve tuttuğu için. Meyveler fındık büyüklüğündeyken salkım başına 4–10 meyve bırakmak meyve iriliğini belirgin biçimde artırır.
+
+### YAZI
+slug: feijoa-yetistirme
+baslik: Feijoa Yetiştirme (Kaymak Ağacı): Çeşit, Don ve Tozlaşma
+yayin: 2027-03-01 19:40
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: feijoa yetiştirme
+seo_baslik: Feijoa Yetiştirme: Kaymak Ağacı, Don ve Tozlaşma
+seo_aciklama: Feijoa yetiştirme için iklim, don dayanımı, tozlaşma için iki çeşit gerekliliği, dikim ve bakım. Kaymak ağacının bahçede nasıl yetişeceğini öğrenin.
+ozet: Feijoa (kaymak ağacı) bahçeye hem çiçeği hem meyvesiyle değer katar, ama çoğu çeşit kendi kendini tozlayamaz. Don dayanımını, tozlaşma için neden iki çeşit gerektiğini, dikim, sulama ve budamanın nasıl yapılacağını anlattık.
+etiketler: feijoa, kaymak ağacı, acca sellowiana, feijoa çeşitleri, subtropik meyve, çit bitkisi
+gorsel: bekliyor
+gorsel_alt: Gri yeşil yapraklı feijoa dalında kırmızı fırçalı çiçek ve yeşil yumurta biçimli meyve
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi
+kisaca: Feijoa yetiştirme için ılıman iklim, güneşli yer ve süzek toprak gerekir. Ağaç dinlenmedeyken yaklaşık −10 °C'ye dayanır, ama sonbaharda −1 °C'de zarar görür. Çoğu çeşit kendine uyuşmaz; meyve için iki farklı çeşit ya da kendine verimli bir çeşit dikilir. Kökler yüzeydedir, çevresi çapalanmaz, malçlanır.
+@govde
+Feijoa gri yeşil yapraklı, kırmızı fırça benzeri çiçekleri yenebilen, sonbahar sonunda yumurta biçimli meyve veren bir bitkidir. Türkiye'de adı kaymak ağacı olarak da geçer. Feijoa yetiştirme konusunda en çok merak edilen iki şey şunlardır: Kışı atlatır mı ve meyve verir mi? İkisinin de cevabı çeşide ve komşuya bağlıdır.
+
+## Feijoa yetiştirme: kökeni ve beklentiler
+
+Feijoa (Acca sellowiana), Güney Amerika'nın güneyinden gelir ve subtropik bir çalı ağacıdır. Florida Üniversitesi uzatma yayınlarına göre ağaç yavaş büyür; çalı, çit ya da ağaç biçiminde yetiştirilebilir. Ayrıntılar [UF/IFAS feijoa yetiştirme belgesinde](https://edis.ifas.ufl.edu/publication/HS1424) bulunur. Türkiye'de Yalova'daki Atatürk Bahçe Kültürleri Araştırma Enstitüsü'nde 1980'lerde başlayan denemelerle bilinen feijoa, hâlâ yaygın bir meyve olmaktan çok bahçe bitkisidir.
+
+Bu yüzden ilk soru, meyveden önce bitkiyi ne için istediğinizdir:
+
+| Amaç | Feijoa uygun mu? | Not |
+|---|---|---|
+| Süs çiti ve çiçek | Çok uygun | Çiçek yaprakları yenir; çalı biçimi kolay |
+| Birkaç meyve | Uygun | Kendine verimli çeşit ya da iki ağaç |
+| Ticari bahçe | Sınırlı | Türkiye'de çeşit ve adaptasyon çalışmaları sürüyor |
+| Soğuk iç bölge | Zor | Kışlık koruma ve saksı gerekebilir |
+
+## Don dayanımı
+
+Feijoa, birçok subtropik meyveden daha serttir. FAO'nun EcoCrop veri sayfası, dinlenme döneminde −10 °C'ye kadar dayanabildiğini, ancak sonbaharda −1 °C'de zarar gördüğünü ve −5 °C'de öldüğünü bildirir. Bu bilgi genel bir değerdir, Türkiye'de çeşit bazlı ölçüm sayısı azdır. Kaynak: [FAO EcoCrop feijoa kaydı](https://ecocrop.apps.fao.org/ecocrop/srv/en/cropView?id=1068). Florida Üniversitesi yayını ise ağacı USDA 8A–11 bölgelerine yerleştirir.
+
+Pratikte bu şu demektir: Kış donu hafif ve kısa süren ılıman kıyılarda feijoa dışarıda kışlar; iç bölgelerde ise ilk iki yıl saksıda tutup donsuz bir yerde kışlatmak daha güvenlidir. Genç fidan yetişkin ağaçtan daha hassastır.
+
+## Tozlaşma: neden iki ağaç?
+
+Feijoa çiçeğinin pembe beyaz yaprakları yenir; kırmızı fırça benzeri uzantılar ise erkek organlardır ve polen taşır. Ağacın çoğu çeşidi kendine uyuşmaz. Florida Üniversitesi yayını çeşit tablosunda 'Unique'in kendine verimli tek çeşit olduğunu, diğerlerinin en iyi hâlde kısmen verimli olduğunu ve başka çeşitle tozlaşınca daha çok meyve verdiğini yazar. Kaliforniya Üniversitesi uzatma yazısında 'Coolidge' çeşidi de kendine verimli olarak anılır.
+
+Bu bilgi yola şöyle çevrilir:
+
+1. Tek ağaç alıyorsanız kendine verimli (selfer) olarak etiketlenmiş bir çeşit sorun.
+2. İki ağaç alacaksanız farklı çeşit seçin; aynı çeşitten ikinci ağaç tozlaşmaya yardım etmez.
+3. Komşu bahçedeki feijoa da polen kaynağıdır.
+4. Çiçek döneminde arıları ve kuşları çağıran bir ortam yaratın; çiçekler kuşlar ve arılar tarafından tozlanır.
+
+Tozlaşma sorunu yaşıyorsanız elle tozlaştırma da işe yarar: Bir çiçeğin polenini fırçayla diğer çeşidin çiçeğine sürün. [Arı dostu bitkiler](/ari-dostu-bitkiler) yazısında bahçeye tozlayıcı çekme yolları anlatılıyor.
+
+[ürün:hg-fidan-topragi]
+
+## Çeşit seçimi
+
+Türkçe derlemelerde Apollo, Gemini, Mammoth ve Triumph, standart feijoa çeşitleri arasında sayılır; 'Unique' ve 'Coolidge' ise kendine verimli oldukları için tek ağaç için akla gelen çeşitlerdir. Hangi çeşidin sizde dona ve havaya nasıl cevap vereceğini önceden bilmek zordur; Türkiye'de çeşit bazlı uzun süreli ölçüm azdır. Bu yüzden fidancıdan çeşidin adını mutlaka isteyin ve aynı bölgede yetişen bir bahçe bulabilirseniz meyve verip vermediğini sorun.
+
+## Dikim ve toprak
+
+Feijoa, derin ve tınlı toprakta ve güneşli yerde en iyi gelişir. Ağır ve su tutan toprağı sevmez. Kireçli topraklara kısmen dayanır, ama bol organik madde pH dengesini destekler.
+
+Dikim için en uygun zaman ılık kıyılarda sonbahar ya da erken ilkbahardır; soğuk bölgelerde son donlardan sonra yapılır. Çukuru kök topağının iki katı genişlikte açın, aşı ya da kök boğazını toprak hizasında tutun. Ağaç yavaş ama geniş büyür; çit yapacaksanız fidanları sık, tek ağaç yetiştirecekseniz geniş aralıkla dikin.
+
+Feijoa kökleri yüzeye yakındır. Florida Üniversitesi yayını çevresinde çapa yerine malç ya da çim şeridi önerir. Çapalarken kökleri kesmeyin; bu yüzden çapa yerine el ile ot temizleyin.
+
+## Bakım: sulama, gübre, budama
+
+İlk iki yıl düzenli sulama kök kurulumunu sağlar. Yaz kuraklığında meyve tutumu ve irilik için derin sulama gerekir; yağmursuz dönemde haftada bir kez derin sulamak çoğu zaman yeterli olur.
+
+- **Gübre:** İlkbaharda yavaş salınan organik gübre, olgun kompost ya da solucan gübresi yeterlidir. Aşırı azot yaprak çoğaltır, çiçeği azaltır.
+- **Budama:** Budama meyve sonrası kış başında hafif yapılır. Çit olarak kullanılıyorsa çiçeklenmeden sonra şekillendirin; sert budama meyve sayısını düşürür.
+- **Meyve:** Olgun meyve ağaçtan kendiliğinden düşer; yerden toplanır, ortadan kesilip kaşıkla yenir.
+- **Zararlı ve hastalık:** Feijoa nispeten dayanıklıdır; yaprakta leke ya da meyve sineği sorunlarında il ya da ilçe tarım müdürlüğüne danışın.
+
+Meyve kremsi, ananas ve çilek arası aromalıdır; sofraya kabuğu ayrılarak ya da yarısı kaşıkla yenerek gelir. Ağaç yıl boyunca yeşil yaprak ve ilkbahar sonunda çiçek verir; bu yüzden meyve gelmese bile süs bitkisi olarak değerini korur.
+
+## Sık yapılan hatalar
+
+Feijoa yetiştirmede üç hata tekrarlanır. Birincisi tek ağaç dikip meyve beklemektir; kendine verimli olmayan bir çeşitte yıllarca yalnızca çiçek görürsünüz. İkincisi, kökleri yüzeyde olan ağacın çevresini çapalayıp zedelemektir. Üçüncüsü ise ağacı rüzgârlı, soğuk bir köşeye dikmektir; gri yeşil yapraklar rüzgârda kurur ve çiçekler dökülür.
+
+Dördüncü hata saksıda su yönetimidir. Delik ve çakıl tabaka olmayan saksıda kök çürür; kap seçerken drenaj deliği olmasına dikkat edin. Genel çukur hazırlığı için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısına, soğuk gecelerde örtme yöntemleri için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına bakabilirsiniz.
+
+## Saksıda feijoa
+
+Küçük bahçe ya da balkon için feijoa geniş saksıda yetişebilir. En az 40–50 litrelik bir kap, süzek toprak ve düzenli sulama gerekir. Kışın donsuz ve ışıklı bir yer bulmak şarttır. Saksı toprağının hazırlığı için [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısındaki karışım ilkeleri geçerlidir. Saksıda meyve ağaçtan daha az olur; yine de kendine verimli çeşit tercih edin.
+@sss
+S: Feijoa kendi kendine meyve verir mi?
+C: Çoğu çeşit vermez; başka bir çeşidin poleni gerekir. 'Unique' ve 'Coolidge' gibi kendine verimli çeşitler tek ağaçla da meyve tutabilir. Emin olmak için iki farklı çeşit dikin.
+
+S: Feijoa dona dayanır mı?
+C: Dinlenme döneminde yaklaşık −10 °C'ye kadar dayanabilir. Ancak sonbaharda −1 °C'de zarar görür ve −5 °C'de ölebilir. Genç fidan yetişkin ağaçtan daha hassastır.
+
+S: Feijoa hangi toprağı sever?
+C: Derin, tınlı ve süzek toprağı sever. Su basan ağır topraklarda gelişemez. Kökleri yüzeyde olduğu için çevresi çapalanmaz, malçlanır.
+
+S: Feijoa kaç yılda meyve verir?
+C: Süre çeşide, fidanın kaynağına ve bakıma göre değişir; ağaç yavaş büyür. Tohumdan yetişen fidan geç ve niteliksiz meyve verir, bu yüzden aşılı ya da çelikten çoğaltılmış fidan tercih edilir.
+
+### SORU
+yayin: 2027-03-01 21:05
+kategori: sebze-meyve
+baslik: Mart başında ektiğim kabak tohumlarının yarısı çıkmadı, toprağı mı değiştirmeliyim?
+metin: Bahçeye iki hafta önce kabak tohumu ektim. Yarısı hâlâ çıkmadı, kazınca bazıları yumuşamış. Gece hava hâlâ soğuk. Tekrar mı ekmeliyim, yoksa beklemeli miyim?
+@cevap Halil İbrahim Çelik | 2
+Yumuşayan tohum çürümüştür ve çıkmaz. Kabak 18 °C'nin altındaki soğuk ve ıslak toprakta çimlenemez, bu yüzden çürüme çoğunlukla toprağın soğukluğundan gelir; toprağı değiştirmenize gerek yok. Önce toprağın sabah ısısını ölçün. Üç gün üst üste 18 °C ve üzerini görmeden yeniden ekmeyin. Çürüyen tohumları çıkarıp aynı çukura tekrar ekmek yerine yeni çukur açın. Yeniden ekimi saksıda yapıp fide olarak dikmek de bir çözümdür; bu durumda tohumu tüplü, ılık bir yerde çimlendirip toprak ısındığında dışarı alırsınız. Geceler çok soğuksa tohumu hemen ekmek yerine bir hafta daha bekleyin.
+
+### SORU
+yayin: 2027-03-01 21:40
+kategori: sebze-meyve
+baslik: Yaban mersininin yaprakları sarardı ama damarları yeşil kaldı, ne yapmalıyım?
+metin: Geçen yıl bahçeye bir yaban mersini fidanı diktim. Bu bahar yaprakların damar araları sararıyor, damarlar yeşil kalıyor. Sulama düzenli. Gübre mi eksik?
+@cevap Mikdat Çelik | 2
+Damarlar yeşil kalıp aralar sararıyorsa en olası neden toprak pH'sının yükselmesidir; bu durumda bitki toprakta demir olsa bile alamaz. Gübre eklemeden önce pH'yı ölçün. Yaban mersini için hedef 4,5–5,0 arasıdır. Değer bunun üstündeyse bahçe toprağı kireçli olabilir ya da sulama suyu pH'yı yükseltiyordur. Yağmur suyu kullanmak, asidik torfla malçlamak ve kükürt takviyesini bir laboratuvar ya da ziraat mühendisinin toprak raporuna göre yapmak çözümdür. Kükürdün etkisi haftalar sürer, sabırlı olun. Ölçüm sonucu ve fotoğrafla il ya da ilçe tarım müdürlüğüne danışırsanız daha net yönlendirilirsiniz.

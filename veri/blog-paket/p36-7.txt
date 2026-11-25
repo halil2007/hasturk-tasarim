@@ -1,0 +1,104 @@
+### YAZI
+slug: feslegen-hastaliklari-sararan-yaprak-gri-tuylenme-ve-solgunluk
+baslik: Fesleğen Hastalıkları: Sararan Yaprak, Gri Tüylenme ve Solgunluk
+yayin: 2027-03-12 19:40
+yazar: Muhammed Hamza Çelik
+kategori: gundem
+odak: fesleğen hastalıkları
+seo_baslik: Fesleğen Hastalıkları: Sararma, Gri Tüylenme, Solgunluk
+seo_aciklama: Fesleğen hastalıkları nasıl ayırt edilir? Damar arası sararma, yaprak altında gri tüylenme, gri küf ve solgunluğun nedenleri ve evde yapılacaklar.
+ozet: Fesleğenin damar aralarındaki sararma çoğu zaman gübre eksikliği sanılır ama mildiyö olabilir. Yaprağın altındaki gri tüylenmeyi, gri küfü, solgunluğu ve yaprak lekelerini belirti, neden ve çözüm sırasıyla anlattık; dayanıklı çeşit, havalandırma ve sulama alışkanlığına da değindik.
+etiketler: fesleğen hastalıkları, fesleğen mildiyösü, gri küf, fusarium solgunluğu, fesleğen sararması, mutfak otu
+gorsel: bekliyor
+gorsel_alt: Saksıdaki fesleğen yapraklarında damarlar arasında sarı lekeler ve yaprağın alt yüzeyinde gri tüylenme
+urunler: hg-aromatik-bitkiler-icin-saksi-topragi
+kisaca: Fesleğen hastalıkları arasında en sık görüleni mildiyödür: damarlarla sınırlı sarı alanlar önce gübre eksikliği sanılır, sonra yaprağın altında gri-mor tüylenme belirir. Gri küf, solgunluk ve yaprak lekeleri de görülür. Hasta bitkiyi ayırın, üstten ve geceleyin sulamayı bırakın, bitkileri aralıklı dikin.
+@govde
+Marketten aldığınız fesleğen bir hafta içinde damar aralarından sararmaya başladı. Azot eksikliği olabilir diye gübre verdiniz, sarılık yayıldı. İki gün sonra yaprağı çevirdiğinizde altında gri, tozlu bir tabaka gördünüz. Bu tablo, fesleğen hastalıkları arasında en sık karşılaşılanını, mildiyöyü gösteriyor. Aşağıda belirtiyi nedenle eşleştirip evde neyin işe yaradığını anlatıyoruz.
+
+## Sararan damar arası ve gri tüylenme: fesleğen mildiyösü
+
+Fesleğenin en yıkıcı hastalığı mildiyödür. UMass Amherst'in fesleğen mildiyösü bilgi notu, belirtilerin yapraklarda sararmayla başladığını anlatıyor ([UMass Amherst, fesleğen mildiyösü](https://ag.umass.edu/vegetable/fact-sheets/basil-downy-mildew)). Minnesota ve Maryland üniversiteleri de sararmanın damarlarla sınırlı alanlarda görüldüğünü ve başta besin eksikliği sanılabildiğini yazıyor ([Maryland Extension, ev bahçesinde fesleğen mildiyösü](https://extension.umd.edu/resource/downy-mildew-basil-home-garden)). Yani sarılığa gübre vermek yanlış yönde bir adımdır.
+
+Sonraki evre daha tanınır: Yaprağın alt yüzünde koyu gri ile mor arası, tüylü bir kaplama oluşur. Iowa State Üniversitesi bu aşamadan sonra yaprakların kararıp öldüğünü belirtiyor ([Iowa State Extension, evde fesleğen yetiştirme](https://yardandgarden.extension.iastate.edu/how-to/growing-basil-home-garden)). Hastalık nemli, serin ve sık dikilmiş ortamda hızlı yayılır; fesleğeni mutfak köşesinde çok sık bir saksıda tutuyorsanız risk büyüktür.
+
+Önleme şu üç alışkanlığa dayanıyor. Birincisi aralıklı dikim: yapraklar çabuk kurusun. İkincisi üstten ve geceleyin sulamamak; suyu toprağa, sabahları verin. Üçüncüsü dayanıklı çeşit. Kaynaklar mildiyöye dayanıklı çeşitlerin adında "DMR" ibaresi bulunabildiğini, Cenova (Genovese) tipinin en hassas olduğunu, kırmızı yapraklı çeşitlerde ve kutsal fesleğende (hoary/tulsi) hastalığın daha az görüldüğünü belirtiyor. Hastalık görünen bitkiyi hemen kaldırın; sağlıklı görünen yapraklar ise tüketilebilir, ama alt yüzünü kontrol edin.
+
+## Fesleğen hastalıkları: belirti, neden, çözüm
+
+Aşağıdaki şerit, evde en sık karşılaşılan dört tablonun belirtisini nedeniyle eşleştiriyor:
+
+::: belirti
+Damar aralarında sarı alan, altta gri-mor tüylenme | Mildiyö (mantar benzeri oomisetler) | Bitkiyi ayırın, hasta yaprakları atın, sulamayı sabaha çekin, bitkileri aralıklı dikin
+Yaprakta gri, tozlu kaplama; çiçek ve gövdede çürüme | Gri küf (Botrytis) | Havalandırmayı artırın, nemi azaltın, ölü çiçek ve yaprakları temizleyin
+Bitkinin bir yanı ya da tamamı aniden solar, gövde kesitinde esmerleşme | Fusarium ya da bakteriyel solgunluk | Bitkiyi kökünden sökün, aynı toprağı kullanmayın, dayanıklı çeşit seçin
+Küçük kahverengi ya da siyah lekeler, halkalı yapı | Yaprak lekesi mantarları | Yaprağı ıslatmayın, sabah sulayın, lekeli yaprakları temizleyin
+:::
+
+Fesleğen hastalıkları arasında ayrım yapmak güç olabildiği için bu tabloyu kesin tanı gibi okumayın; çevre koşulları aynı belirtiyi farklı hastalıklara benzetebilir. Emin olamıyorsanız ilçedeki tarım müdürlüğüne ya da bir fidancıya yaprak örneği götürebilirsiniz.
+
+## Gri küf
+
+Clemson Üniversitesi'nin fesleğen notu, fesleğenin gri küfe (Botrytis cinerea) çok yatkın olduğunu belirtiyor ([Clemson HGIC, fesleğen](https://hgic.clemson.edu/factsheet/basil/)). UC IPM'in ev bitkisi rehberi ise gri küf gibi nem sevenlerde havadar ortam sağlanmasını, bitki çevresinin neminin düşürülmesini, yapraklara ve çiçeklere su sıçratılmamasını ve ölü çiçek ile yaprakların alınmasını öneriyor ([UC IPM, ev bitkisi sorunları](https://ipm.ucanr.edu/home-and-landscape/houseplant-problems/)).
+
+Fesleğende çiçek tomurcuğunu almak hem yaprak kalitesini korur hem de gri küf için yem olan solmuş çiçekleri azaltır. Bu konuda uç alma ayrıntıları için [uç alma](/uc-alma) yazısına bakabilirsiniz. Kapalı ve nemli bir mutfak penceresinde fesleğen tutuyorsanız pencereyi günde bir kez havalandırın; fesleğen soğuk hava akımından hoşlanmaz ama durgun nemden de zarar görür.
+
+## Solgunluk: Fusarium ve bakteriyel solgunluk
+
+Fesleğen sağlıklıyken bir anda solarsa bu toprak kaynaklı bir hastalık olabilir. Clemson fusarium solgunluğunu toprakta yıllarca kalabilen bir mantar hastalığı olarak anlatıyor; bu yüzden en önemli korunma, dayanıklı çeşit seçmek. Yayım, 'Newfar', 'Newton', 'Elidia' ve 'Prospera' gibi daha dayanıklı çeşitleri anıyor; Türkiye'de bu çeşitlerin tohumunu bulmak zor olabilir, bu durumda sağlıklı fide almak ve temiz toprakla dikmek en iyi seçenek.
+
+İki uyarı daha var: Fusarium ya da bakteriyel yaprak lekesi görülen bir fesleğenden tohum toplamayın. Domateslerin bakteriyel solgunlukla öldüğü bir bahçe parçasına da fesleğen dikmeyin. Saksıda yetiştiriyorsanız hastalıklı bitkiyi çıkarıp aynı toprağı kullanmayın; eski toprağı yenilemeyi [toprak sterilizasyonu](/toprak-sterilizasyonu) yazısındaki yöntemlerle düşünebilirsiniz.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+Taze toprak ürün bilgisinde şöyle tarif ediliyor: HG Aromatik Bitkiler İçin Saksı Toprağı sphagnum torf, cocopeat, perlit, solucan gübresi ve leonardit içeriyor; fesleğen, nane ve maydanoz gibi mutfak bitkilerinin köklerine havadar, dengeli nemli ve iyi süzen bir ortam sağlamayı hedefliyor. Hastalıktan sonra saksıyı yenilerken fide yeniden dikilecekse hazır, havadar bir toprak kullanmak kök sorunlarını azaltır.
+
+## Yaprak lekeleri
+
+Clemson, fesleğende Cercospora, Alternaria ve Colletotrichum türlerinin yaprak lekesi yaptığını listeliyor. Yaprak lekesi mantarları genel olarak su sıçramasıyla ve uzun süre ıslak kalan yaprakla yayılır. UC IPM, bu hastalıkların çoğunun yaprağa su sıçratmamakla ve sulamayı günün erken saatinde yapıp yaprak yüzeylerinin hızla kurumasını sağlamakla önlenebileceğini belirtiyor.
+
+Evde pratik uygulama: Sulamayı sabah yapın, bitkinin dibine yönlendirin, yaprakları ıslatmayın. Bahçede ya da balkonda aynı saksıda birden fazla fide varsa aralarını açın. Leke yapan yapraklar atılır; atığı kompost yığınına değil çöpe verin. Hasta bitkiyi diğer fesleğenlerden ayırmadan sulama aletlerinizi paylaşmayın.
+
+## Hangi durumda bitkiyi atmak gerekir?
+
+Hastalığın erken evresinde birkaç yaprak lekeliyse yaprakları atıp bitkiyi ayırarak kurtarabilirsiniz. Mildiyöde ise Maryland ve Minnesota yayımları enfekte bitkinin hemen kaldırılmasını öneriyor; hastalık sporlarla hızla yayıldığı için komşu saksıya geçmesi kolaydır. Solgunlukta kök ve gövde etkilenmişse bitkiyi kurtarmak mümkün değildir. Böyle bir durumda saksıyı yıkayıp dezenfekte edin.
+
+Fesleğen hastalıkları toprakta ve tohumda kaldığı için fesleğeni her yıl yeniden ekmek mantıklı bir alışkanlıktır: Temiz tohum, temiz toprak, aralıklı dikim. Çeşit seçimi için [fesleğen çeşitleri](/feslegen-cesitleri) yazısındaki renk ve koku farkları, dayanıklılık seçiminde de yol gösterir.
+
+## Sık yapılan hatalar
+
+- Damar arası sararmayı azot eksikliği sanıp gübre vermek.
+- Yaprakları üstten ve akşam sulamak.
+- Bitkileri çok sık dikmek ve hiç havalandırmamak.
+- Hastalıklı bitkiyi ayırmadan aynı saksıda tutmak.
+- Hasta bitkiden tohum toplamak.
+
+Bir fesleğen saksısının kaderini çoğu zaman ilk iki gün belirler: Sarımsı bir yaprak gördüğünüzde yaprağın altına bakmak, sizi bir hafta sonra o saksıyı çöpe atmaktan kurtarabilir. Mutfak otlarının topraktaki beslenme programı için [aromatik bitki gübreleme](/aromatik-bitki-gubreleme) yazısına, saksıda yetiştirme adımları için [saksıda fesleğen yetiştirme](/saksida-feslegen-yetistirme) yazısına bakabilirsiniz.
+@sss
+S: Fesleğenin yaprakları neden damar aralarından sararır?
+C: En sık neden mildiyödür. Sararma damarlarla sınırlı alanlarda görülür ve ilk başta besin eksikliğine benzer; sonra yaprağın alt yüzünde gri-mor tüylenme belirir. Gübre vermek yerine yaprağın altına bakın.
+
+S: Mildiyöye yakalanan fesleğeni kurtarabilir miyim?
+C: Erken evrede birkaç yaprağı atıp bitkiyi ayırarak şansınız olur. Üniversite yayımları enfekte bitkinin hemen kaldırılmasını öneriyor; hastalık sporlarla komşu bitkilere geçer. Sağlıklı görünen yapraklar yenebilir.
+
+S: Hangi fesleğen çeşidi mildiyöye daha dayanıklı?
+C: Kaynaklara göre Cenova (Genovese) tipi en hassastır; kırmızı yapraklı çeşitlerde hastalık daha az görülür, kutsal fesleğen de dirençli sayılır. Tohum paketinde mildiyöye dayanıklı anlamına gelen DMR ibaresine bakın.
+
+S: Fesleğen birden solarsa ne yapmalıyım?
+C: Toprak kaynaklı fusarium ya da bakteriyel solgunluk olabilir. Bitkiyi kökünden çıkarıp atın, aynı toprağı kullanmayın ve tohumunu toplamayın. Yeniden dikerken temiz toprak ve sağlıklı fide kullanın.
+
+### SORU
+yayin: 2027-03-12 21:30
+kategori: gundem
+baslik: Fesleğenin yapraklarını yıkayıp sulayabilir miyim, hastalık yapar mı?
+metin: Marketten aldığım fesleğeni her gün yapraklarının üstünden sulayıp serpiyorum, yaprak lekesi çıktı. Sebebi bu olabilir mi?
+@cevap Ahmet Sacit Çelik | 2
+Olabilir. Yaprakların uzun süre ıslak kalması yaprak lekesi mantarlarına uygun ortam yaratır. Sulamayı sabahları ve doğrudan toprağa yapın, yaprağı ıslatmayın. Saksıyı daha havadar bir yere alın, lekeli yaprakları kopartıp atın. Lekeler yayılıyorsa bitkiyi diğerlerinden ayırın.
+
+### SORU
+yayin: 2027-03-12 22:10
+kategori: gundem
+baslik: Fesleğenin alt yaprakları sararıyor ama üstü yeşil, hastalık mı?
+metin: Fesleğenimin sadece alt yaprakları sararıyor, üst kısım taze. Mildiyö mü yoksa başka bir şey mi?
+@cevap Hatice Kübra Çelik | 2
+Mildiyöde sarılık damar aralarında ve çoğu zaman yaprağın alt yüzünde gri tüylenmeyle gelir. Sadece alt yaprakların yaşlanıp sararması doğal olabilir ya da aşırı sulama belirtisidir. Önce toprağın ıslak mı kuru mu kaldığına bakın, sonra yaprak altını çevirip kontrol edin.

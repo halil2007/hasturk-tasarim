@@ -1,0 +1,110 @@
+### YAZI
+slug: palet-bahce-paletten-dikey-sebze-yatagi-nasil-yapilir
+baslik: Palet Bahçe: Paletten Dikey Sebze Yatağı Nasıl Yapılır?
+yayin: 2027-02-11 12:10
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: palet bahçe
+seo_baslik: Palet Bahçe: Paletten Dikey Sebze Yatağı Nasıl Yapılır?
+seo_aciklama: Palet bahçe kurmadan önce paletin damgasına bakın: HT güvenli, MB kaçınılacak, damgasız riskli. Seçim, temizlik, astar, toprak, bitki ve sulama adımları.
+ozet: Palet bahçe bedava malzemeyle dikey yatak kurmanın yolu gibi görünür, ama her palet sebze için uygun değildir. Üniversite yayımlarına göre paletin damga kodunu, güvenli ve kaçınılacak paletleri, hazırlık adımlarını, uygun bitkileri ve sulama düzenini anlattık.
+etiketler: palet bahçe, dikey bahçe, palet yatak, HT damgası, balkon, kiracı bahçe
+gorsel: bekliyor
+gorsel_alt: Duvara yaslanmış dikey bir ahşap palet ve boşluklarına dikilmiş marul ile çilek fideleri
+urunler: genel-saksi-topragi-ozel-karisim, bahce-yatagi-ciceklik-no-2v2-110x35x30-cm
+kisaca: Palet bahçe için önce paletin yan tarafındaki damgaya bakın: HT (ısıl işlem) kodlu palet bahçe için en güvenli seçenektir; MB (metil bromür) kodlu ya da damgasız palet sebze bahçesinde kullanılmamalıdır. Güvenli palet temizlenir, arkası astarlanır, hafif saksı toprağıyla doldurulur; marul, roka, çilek ve otlar boşluklara dikilir.
+@govde
+Marketin arkasında bir yığın palet duruyor ve aklınızdan "bu bedava bir dikey bahçe" geçiyor. Haklısınız, ama iki dakika durup paletin kenarına bakın: Orada küçük, kabartma bir damga olacak. Palet bahçe kurarken kararı bu damga verir; çünkü bazı paletler ağaç kurtlarını öldürmek için gaza maruz bırakılmıştır ve gaz, sebze yetiştirdiğiniz toprağa geçebilir. Önce hangisinin güvenli olduğunu, sonra yapımı anlatıyoruz.
+
+## Palet bahçe için damgayı okumak
+
+Uluslararası taşımada kullanılan ahşap paletler, böcek ve hastalık taşımasın diye ya sıcakla ya da gazla işlenir ve üzerine bir damga basılır. Washington Üniversitesi'nin bahçe kütüphanesi yazısı bu damgaların bahçe için ne ifade ettiğini özetliyor ([Washington Üniversitesi, sebze bahçelerinde ahşap palet güvenliği](https://depts.washington.edu/hortlib/pal/safety-of-wooden-pallets-for-vegetable-gardens/)). Yayımlarda geçen kodları şöyle toplayabiliriz:
+
+| Damga | Anlamı | Bahçede kullanım |
+|---|---|---|
+| HT | ısıl işlem (en az 56 °C, en az 30 dakika) | Kaynakların çoğu güvenli sayar; kimyasal kullanılmaz |
+| MB | metil bromürle gazlama | Sebze bahçesinde ve kompostta kullanılmaz |
+| KD | fırında kurutma | Belirsiz; ikinci bir işlem görmüş olabilir |
+| DB | kabuğu soyulmuş | Tek başına işlem bilgisi vermez |
+| Damga yok | işlem bilinmiyor | Kaçınılır |
+
+UC (Kaliforniya Üniversitesi) paletlerin yükseltilmiş yatakta kullanımını anlatan yazısında ısıl işlemde kimyasal kullanılmadığını ve bu yüzden HT paletlerin genelde bahçede güvenli olduğunu belirtiyor ([UC ANR, yükseltilmiş yatak için palet seçmek](https://ucanr.edu/blog/backyard-gardener/article/picking-pallets-raised-beds)). Kentucky Eyalet Üniversitesi'nin ahşap güvenliği belgesi, metil bromürle gazlanmış ahşabı bahçede ya da kompost kutusu olarak kullanım için güvensiz sayıyor ([Kentucky State University, hangi ahşap güvenli](https://www.kysu.edu/documents/college-of-agriculture-communities-the-sciences/what_wood_is_safe_to_use.pdf)). Kuzey Carolina Eyalet Üniversitesi'nin örneğinde ([NC State Extension, palet işaretleri](https://content.ces.ncsu.edu/print_image/4994)) de IPPC logosu taşıyan, ısıl işlem görmüş ve kabuğu soyulmuş palet bahçe için güvenli sayılıyor.
+
+KD kodu konusunda kaynaklar ayrışıyor: Bazıları HT, KD ve DB paletlerin hepsini güvenli sayarken bir diğeri KD odunun ikinci bir işlemden geçmiş olabileceğini ve ısıl işlemli paletlerde bile arsenik gibi maddeler bulunabildiğini hatırlatıyor. Yani en sağlam işaret HT'dir; KD ve damgasız paletler için şans tanımamak daha mantıklıdır.
+
+## Güvenli palet nerede bulunur?
+
+Türkiye'de ihracat için kullanılan paletlerin çoğunda damga bulunur; yerel nakliyede kullanılan ucuz paletlerde ise çoğu zaman yoktur. Damganın yanında şunlara bakın: Palette yağ ya da kimyasal lekesi, kuvvetli koku ya da zemin kirliliği varsa vazgeçin. Kimyasal ya da gübre taşımış bir paletin geçmişini bilemezsiniz. Çürümüş, küf tutmuş ya da çivileri paslanmış paletleri de almayın.
+
+Boyalı paletler de risklidir; eski boyanın içinde ne olduğunu bilemezsiniz. Mümkünse ısıl işlemli, boyasız, düz ve sağlam bir palet seçin. Taşırken eldiven giyin; kıymık ve çivi her palet işinin sorunudur.
+
+## Palet bahçeyi hazırlamak
+
+Palet, dikey yetiştirme için üç kısımdan oluşur: iki yüz, aralardaki boşluk ve alt taban. Bu boşluklar toprak tutmaya uygun değildir; astar ve alt kapağı yapmadan toprağı doldurursanız ilk sulamada toprak dışarı akar.
+
+::: adimlar
+Paleti temizleyin | Sert fırçayla ve suyla yıkayın, güneşte iyice kurutun. Zımpara ile kıymıklı kısımları düzeltin, çıkıntılı çivileri çıkarın ya da çakın.
+Arkayı kapatın | Paletin arka yüzünü ince bir ahşap levha, kalın plastik örtü ya da bahçe kumaşıyla (geotekstil) kapatın; zımbayla sabitleyin.
+Altı ve yanları kapatın | Toprağın döküleceği iki yan ve alt kısmı da aynı malzemeyle sabitleyin; su tahliyesi için alta birkaç delik bırakın.
+Yatık olarak doldurun | Paleti yere yatık koyun, boşluklara hafif saksı toprağı doldurup hafifçe bastırın.
+Bitkileri dikin | Fideleri kök topuyla boşluklara yerleştirin, toprağı sıkıştırıp bol sulayın.
+Bekletin | Paleti yatık hâlde bir iki hafta bekletin ki kökler toprağa tutunsun; sonra dikine kaldırın.
+:::
+
+Toprağı seçerken ağır bahçe toprağı kullanmayın; yatay yatan bir paletin boşluğunda hafif ve su tutan bir karışım daha iyidir. Ürün bilgisine göre HG Genel Saksı Toprağı solucan gübresi, leonardit ve hindistan cevizi torfu içeren, ek gübre ya da karışım gerektirmeden kullanıma hazır bir karışımdır; boşluklar dar olduğu için hazır, dengeli bir toprak işi kolaylaştırır.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+## Paletin boşluğuna ne dikilir?
+
+Palet boşluğu dardır ve kök hacmi azdır; bu yüzden uzun kök yapan bitkiler uygun değildir. Marul, roka, ıspanak, tere, fesleğen, nane, maydanoz ve çilek bu tür boşlukta rahat eder. Domates, kabak ya da havuç gibi derin kök isteyen bitkiler için palet uygun değil; onlar için daha geniş bir kap ya da yatak gerekir. Çilek için ayrıntılı bakım bilgisini [balkonda çilek yetiştirme](/balkonda-cilek-yetistirme) yazısında bulabilirsiniz; dikey yetiştirme mantığını ise [dikey bahçe kulesi ile sebze yetiştirme](/dikey-bahce-kulesi-ile-sebze-yetistirme) yazısı daha geniş bir çerçevede anlatıyor.
+
+Fideleri boşluğa yan yan ya da hafif eğik yerleştirin; dik duruşta yapraklar paletin ahşabına sürtünür. Aynı boşluğa iki farklı bitki dikmeyin, kökler yer kavgası yapar. Sulamadan sonra paleti ilk hafta dik kaldırmayın.
+
+## Sulama, ağırlık ve yer
+
+Dikey palet yataktan çok daha çabuk kurur. Toprak hacmi küçük, yüzey geniştir, rüzgâr ve güneş her yandan vurur. Yazın günde iki kez parmakla toprağı yoklayın; küçük bir damlama hortumunu paletin üst kısmından geçirmek yardımcı olur. Sulama zamanının mantığı için [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısına bakın.
+
+Dolu palet ağırlaşır. Bir palet yatak kabaca 50-80 litre toprak alabilir; ıslak toprak litresi başına yaklaşık bir buçuk kilo çekeceği için toplam ağırlık kolayca yüz kiloya yaklaşır. Duvara yaslayın, üst kısmından bir iki noktada duvara ya da bir çite sabitleyin. Balkonda kullanacaksanız zemin yükünü ve alt kata su damlamasını düşünün; kiracılar için bu konuyu [delmeden balkon bahçesi](/delmeden-balkon-bahcesi-kiraci-icin) yazısı ayrıca ele alıyor.
+
+## Güvenli palet bulamazsanız
+
+Damgasız ya da şüpheli palet dışında seçenek bırakmıyorsa paleti dikey bahçe için bırakın. Dikey ya da yükseltilmiş yatak için hazır modüler bir yapı, malzeme geçmişi konusundaki kaygıyı ortadan kaldırır. Ürün bilgisine göre modüler çiçeklik No:2V2 110×34×30 cm ölçüsünde, dayanıklı plastikten, 10 parçalı ve kolay montajlıdır; ev bahçesinde, balkonda ve terasta çiçek ya da aromatik bitki için kullanılır. Ahşap palet ise çürüme ve yıllık bakım isteyen bir malzeme olarak kalır; ömür sorusunu [bahçe yatağı malzemesi](/bahce-yatagi-malzemesi) yazısındaki karşılaştırmayla tartabilirsiniz.
+
+## Palet bahçede sık yapılan hatalar
+
+- Damgaya bakmadan paleti sebze için kullanmak.
+- Astarsız paleti toprakla doldurup ilk sulamada toprak kaybetmek.
+- Ağır bahçe toprağı kullanmak; boşluklarda su tutar, kök çürür.
+- Domates ya da kabak gibi derin köklü bitkiyi sığ boşluğa dikmek.
+- Paleti sabitlemeden dik bırakmak; rüzgârda devrilir.
+
+Bir palet bahçeyi kurmak bir öğleden sonranızı alır, ama kuruyan bir sabahta paletin toprağına elinizi daldırdığınızda içinin nemli mi kuru mu olduğunu hemen anlarsınız. Bu yüzden kurulumun ilk haftasında her sabah paleti yoklayıp küçük bir not defterinde hangi gün sulandığını yazmak, ilk sezonda en çok işe yarayan alışkanlıktır.
+@sss
+S: Palet bahçede hangi damgalı palet güvenlidir?
+C: Üniversite yayımları HT (ısıl işlem) damgalı paleti genel olarak güvenli sayar; ısıl işlemde kimyasal kullanılmaz. MB (metil bromür) damgalı ya da damgasız paletten sebze bahçesinde kaçınılmalıdır.
+
+S: Paleti sebze bahçesinde kullanmadan önce yıkamak gerekir mi?
+C: Evet. Sert fırça ve suyla yıkayın, güneşte kurutun, kıymıkları zımparalayın ve çivileri çıkarın ya da çakın. Yağ lekeli ya da kokulu paleti kullanmayın.
+
+S: Palet bahçede domates yetişir mi?
+C: Pek uygun değil. Paletin boşlukları dar ve sığdır; marul, roka, otlar ve çilek rahat eder. Domates, kabak ve havuç gibi derin kök isteyen bitkiler için daha geniş bir yatak seçin.
+
+S: Dolu palet bahçe ne kadar ağır olur?
+C: Boşluklara 50-80 litre toprak girerse ıslak hâlde yüz kilo civarına yaklaşabilir. Duvara yaslayıp bir iki noktadan sabitleyin; balkonda zemin yükünü ve alt kata su damlamasını önceden düşünün.
+
+### SORU
+yayin: 2027-02-11 15:20
+kategori: bahce-ipuclari
+baslik: Fabrikadan aldığım paletin üzerinde damga yok, yine de bahçede kullanılır mı?
+metin: Bir ambalaj firmasından birkaç palet aldım ama üzerlerinde HT ya da MB gibi bir damga göremedim. Sebze yetiştirmek için kullanabilir miyim?
+@cevap Rümeysa Altınova | 2
+Üniversite yayımları damgasız paletlerden sebze bahçesi için kaçınmayı öneriyor, çünkü nasıl işlendiği bilinmiyor. Paleti sebze yerine çiçek ya da süs bitkisi için kullanmak daha az risklidir. Sebze istiyorsanız ısıl işlem damgalı bir palet bulun ya da hazır modüler yatak gibi malzeme geçmişi belli bir yapı kullanın.
+
+### SORU
+yayin: 2027-02-11 19:10
+kategori: bahce-ipuclari
+baslik: Palet bahçenin dibinden toprak akıyor, nasıl durdururum?
+metin: Paleti dikey kurdum ama her sulamada altından toprak akıyor. Astar koymamıştım. Şimdi ne yapabilirim?
+@cevap Ahmet Sacit Çelik | 2
+Paleti yatık hâle getirip arka ve alt yüzeyi bahçe kumaşı ya da ince bir levhayla kapatın; zımbayla sabitleyin. Altta birkaç küçük drenaj deliği bırakın, çünkü su kalırsa kökler çürür. Toprağı da daha hafif, süzek bir karışımla yenileyin; ağır bahçe toprağı akıntıyı artırır.

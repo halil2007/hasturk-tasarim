@@ -1,0 +1,360 @@
+### YAZI
+slug: silajlik-misir-yetistirme
+baslik: Silajlık Mısır Yetiştirme: Hayvancılık İçin Yem
+yayin: 2027-03-24 08:45
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: silajlık mısır yetiştirme
+seo_baslik: Silajlık Mısır Yetiştirme: Ekim, Bakım, Hasat
+seo_aciklama: Silajlık mısır yetiştirme nasıl yapılır? Ekim zamanı, çeşit seçimi, gübreleme, sulama, hasat nemi, süt çizgisi ve parçalama boyuyla küçük işletme rehberi.
+ozet: Silajlık mısır yetiştirme, bütün bitkinin hayvan yemi olarak fermente edildiği bir üretimdir. Ekim ve bakımı, hasat nemini, süt çizgisini, parçalama boyunu ve silaj yapımında güvenlik konularını anlattık.
+etiketler: silajlık mısır, silaj, hayvan yemi, mısır hasadı, süt çizgisi, yem bitkisi, büyükbaş yemi
+gorsel: bekliyor
+gorsel_alt: Tarlada yeşil, boylu mısır bitkileri ve hasat makinesinin kenarda beklemesi
+urunler: kati-solucan-gubresi-20-kg, leonardit-organik-toprak-duzenleyici, hasturk-humix-sivi-humik-asit
+kisaca: Silajlık mısır yetiştirme, bütün bitkinin koçan ve gövdesiyle hasat edilip fermente edildiği yem üretimidir. Ekim, toprak ısınınca yapılır; hasat tane süt çizgisi yaklaşık yüzde 20'lik evreye geldiğinde ve bitki nemi silo türüne göre yüzde 60–70 civarındayken yapılır; bitki 1 cm civarı parçalanır ve sıkıştırılarak havasız kapatılır.
+@govde
+Süt ve besi hayvancılığında kış boyunca verilen yeşil yem çoğu zaman mısır silajıdır. Mısırın tanesi, sapı ve yaprağı birlikte parçalanıp havasız ortamda fermente edildiğinde yıl boyu sunulabilen, enerjisi yüksek bir yem elde edilir. Ama silaj yalnızca tarlaya bir şey ekmek değildir; ekimden silo kapatmaya kadar her aşama kaliteyi belirler. Silajlık mısır yetiştirme, tane mısırdan ve tatlı mısırdan ayrı bir planlama ister.
+
+## Silajlık mısır yetiştirme ve çeşit seçimi
+
+Silajlık mısırda hedef tane değil, bütün bitkinin kuru madde verimi ve sindirilebilirliğidir. Bu yüzden silaj için geliştirilmiş, verimli ve hastalığa dayanıklı melez çeşitler seçilir; bitkinin boyu, yaprak yapısı, olgunlaşma süresi bölgeye uyumlu olmalıdır. Çok erkenci çeşit verim kaybettirir; çok geççi çeşit hasat zamanında yeterince kurumaz ve soğuk bastığında olgunlaşmadan kalır. Çeşit seçimi için bölgenizdeki il ya da ilçe tarım müdürlüğüne, tohumu tedarik edilen firmanın bölge deneme sonuçlarına ve yerel çiftçi tecrübesine başvurun. Sertifikalı tohum kullanmak çimlenmeyi ve homojenliği sağlar.
+
+Tatlı mısır ve patlak mısır silaj için uygun değildir; çeşit adı ve kullanım amacı etikette açık yazan tohumu alın. Mısır yetiştirmenin genel esasları (toprak, sulama, ekim derinliği) için [mısır yetiştirme](/misir-yetistirme) yazısına bakabilirsiniz; ama silajlık çeşit seçimi farklıdır.
+
+## Ekim zamanı ve toprak hazırlığı
+
+Mısır sıcak iklim bitkisidir; ekim, son dondan sonra ve toprak yeterince ısındığında yapılır. Çimlenme için toprak sıcaklığının en az yaklaşık 10 °C olması gerekir; soğuk toprakta tohum çürür. Genellikle nisan sonu ile mayıs başı (iç bölgelerde) ve nisan ortası (kıyılarda) ekim zamanıdır; ikinci ürün olarak yaz başı da ekilebilir. Toprak derin sürülür, ince hazırlanır ve gübre ihtiyacı toprak analizine göre belirlenir. Analiz için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısını okuyun.
+
+| Evre | Zaman (yaklaşık) | Yapılacak iş |
+|---|---|---|
+| Toprak hazırlığı | Mart – nisan | Sürüm, ince hazırlık, taban gübresi |
+| Ekim | Nisan sonu – mayıs | Tohum 4–6 cm derine; sıra arası 70 cm civarı |
+| İlk bakım | Mayıs – haziran | Çapa, ot kontrolü, üst gübre |
+| Sulama dönemi | Haziran – ağustos | Püskül ve süt olum döneminde su kıtlığı olmasın |
+| Hasat | Ağustos sonu – eylül | Nem ve süt çizgisine göre |
+
+## Gübreleme ve sulama
+
+Silajlık mısır büyük bir bitki kütlesi oluşturduğu için azot ve diğer besinlere ihtiyaç duyar. Ancak gübre miktarı toprak analizine ve bölgeye göre değişir; belirli bir dozu tüm tarlaya uygulamayın. Taban gübresiyle başlayıp bitki dizi boyuna gelince üst gübre vermek yaygındır. Organik madde ve solucan gübresi toprak yapısını iyileştirir ve su tutmasını artırır; dekara miktar için [solucan gübresi dekara ne kadar atılır](/solucan-gubresi-dekara) yazısına bakın. Mısır gübreleme programı için [mısır gübreleme](/misir-gubreleme) yazısı ekimden püskül dönemine kadar besin takvimini anlatıyor.
+
+Sulama özellikle püskül çıkışı ve süt olum dönemlerinde kritiktir; bu evrelerde su stresi verimi sert düşürür. Damla ya da karık sulama ile toprağı derin ıslatın. Aşırı sulama yatma ve hastalığa yol açabilir; yatan mısır hasatta kayıp yaratır.
+
+## Silajlık mısır hasadı: ne zaman?
+
+Hasat zamanı silaj kalitesinin belirleyicisidir. Çok erken hasat edilen bitki fazla nemlidir; silaj sulu, ekşi ve besin açısından zayıf olur, sızıntı yapar. Çok geç hasat edilen bitki kurur, sıkıştırılması zorlaşır, silajda hava kalır ve küf oluşur.
+
+Ohio Eyalet Üniversitesi'nin [mısır silajı yazısı](https://agcrops.osu.edu/node/4425), süt çizgisi yaklaşık yüzde 20 olduğunda (tane sertleşmeye başladıktan kısa süre sonra) bütün bitki neminin ölçülmesini önerir. Iowa Eyalet Üniversitesi kaynaklarına göre süt çizgisi, mısır silajı neminin yalnızca kaba bir göstergesidir; asıl ölçüt bitki nemidir. Minnesota Üniversitesi'nin [hasat stratejileri belgesi](https://extension.umn.edu/corn-harvest/harvest-strategies-corn-silage) ve diğer yayım kaynakları, hedef nemi silo türüne göre verir: dikey silolarda yaklaşık yüzde 60–65, torba silajda yüzde 60–70, yığın silolarda yüzde 65–70.
+
+Wisconsin Üniversitesi'nin [hasat tarihi tahmini belgesi](https://corn.aae.wisc.edu/WCM/W081.aspx), silaj hasadının genellikle püskül çıkışından yaklaşık 42–47 gün sonra başladığını ve eylülde bitki neminin günde yaklaşık yüzde 0,5 düştüğünü belirtir. Bu rakamlar bölgeye ve çeşide göre değişir; en güvenli yol, bitkiden örnek alıp nemi ölçmek ya da yöredeki tarım teşkilatına numune götürmektir.
+
+## Parçalama boyu ve sıkıştırma
+
+Hasat sırasında bitki parçalanır. Kuzey Dakota Eyalet Üniversitesi (NDSU) ve diğer yayım yayınları, işlenmemiş mısır için teorik kesim uzunluğunun yaklaşık 3/8 inç (yaklaşık 1 cm), tane kırıcıdan geçen mısır için yaklaşık 3/4 inç (yaklaşık 2 cm) olmasını önerir; yüzde 60 ve altı nemde hasat edilen mısır daha ince parçalanmalıdır. Amaç, siloda sıkışıp havayı çıkarmak ve hayvanın taneyi sindirebilmesini sağlamaktır.
+
+::: adimlar
+Nemi kontrol edin | Hasattan önce bitki nemini ölçün; süt çizgisi yalnızca kaba göstergedir.
+Parçalayın | Teorik kesim boyunu ayarlayın; tane kırıcıyı kullanın.
+Siloya doldurun | Katman katman yayıp ağır araçla sıkıştırın; hava boşluğu bırakmayın.
+Hemen kapatın | Silo yüzeyini örtüyle kapatın ve ağırlıkla bastırın; havayı kesin.
+Fermentasyonu bekleyin | Silo birkaç hafta kapalı kalır; açmadan önce kontrol edin.
+:::
+
+## Silaj yapımında güvenlik
+
+Silajlama sırasında oluşan gazlar kapalı alanlarda tehlikeli olabilir; silo ve kuyuda çalışırken havalandırma şarttır. Ağır araçla sıkıştırma ve yığın silolarda çalışma, devrilme ve ezilme tehlikesi taşır. Çocukları silodan uzak tutun. Silaj kalitesi ve hayvan beslemesi (hangi hayvana ne kadar silaj verileceği) için veteriner hekime ve ziraat mühendisine başvurun; küflü, kötü kokulu ya da sulu silajı hayvana vermeyin.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+## Küçük işletme için hesap
+
+Küçük bir hayvancılık işletmesi için önce yıllık silaj ihtiyacını hesaplayın: Hayvan sayısı, günlük silaj miktarı ve besleme süresi toplam silaj hacmini belirler. Dekara verim çeşide, toprağa ve sulamaya göre çok değişir; yerel verim değerlerini il ya da ilçe tarım müdürlüğünden öğrenin. Makine (biçerdöver ya da silaj makinesi) ve silo kapasitesi yoksa kiralama, ortak kullanım ya da hizmet alımı planlayın; küçük ölçekte makine yatırımı çoğu zaman karşılığını vermez. Ekim ve hasat zamanları yoğun işgücü ister; takvimi önceden planlayın.
+
+## Hastalık, zararlı ve yabani ot
+
+Mısırda yabani ot, ilk haftalarda en büyük rakiptir; erken çapa ya da uygun mücadele yöntemi verimi korur. Hastalık ve zararlı sorunlarında (kurt, yaprak biti, mantar) ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne başvurun; ilaç adı ve dozu burada verilmez. Dayanıklı çeşit seçimi ve nöbetleşe ekim hastalık birikimini azaltır. Yatan bitki için sıklıkla sağlam kök sistemi ve dengeli gübre önemlidir.
+
+## Sık yapılan hatalar
+
+Silaj için uygun olmayan çeşit ekmek verimi düşürür. Soğuk toprağa erken ekim çimlenmeyi bozar. Hasadı çok erken ya da çok geç yapmak silaj kalitesini bozar. Nemi ölçmeden yalnızca süt çizgisine güvenmek yanılgıya yol açar. Siloyu gevşek sıkıştırıp geç kapatmak küf ve kayıp getirir. Güvenlik önlemlerini atlamak ise ciddi kaza riskidir. Silajlık mısır yetiştirme, tarladan siloya zamanlamanın doğru yönetilmesiyle kaliteli yem sağlar.
+@sss
+S: Silajlık mısır ne zaman hasat edilir?
+C: Tane süt çizgisi yaklaşık yüzde 20 olduğunda ve bitki nemi silo türüne göre yaklaşık yüzde 60–70 civarındayken hasat edilir. Süt çizgisi kaba göstergedir; asıl ölçüt bitki nemidir.
+
+S: Silajlık mısır parçalama boyu ne olmalı?
+C: Yayım kaynakları işlenmemiş mısırda teorik kesim uzunluğunu yaklaşık 3/8 inç (1 cm), tane kırıcılı mısırda yaklaşık 3/4 inç (2 cm) önerir. Kuru bitkide daha ince parçalamak gerekir.
+
+S: Silajlık mısır ne zaman ekilir?
+C: Son dondan sonra ve toprak ısınınca: kıyılarda nisan ortası, iç bölgelerde nisan sonu ile mayıs başı. Soğuk toprakta tohum çürüdüğü için erken ekimden kaçının.
+
+S: Silajlık mısırı küçük işletmede nasıl yapmalı?
+C: Önce yıllık silaj ihtiyacını hesaplayın, çeşidi bölgenize uygun seçin, hasat nemini ölçün, parçalayıp sıkıştırın ve silo havasız kapatın. Makine yoksa hizmet alımı ya da ortak kullanım düşünün.
+
+### YAZI
+slug: tursuluk-sebze-yetistirme
+baslik: Turşuluk Sebze Yetiştirme: Hıyar, Lahana ve Biber Bahçesi
+yayin: 2027-03-24 10:20
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: turşuluk sebze yetiştirme
+seo_baslik: Turşuluk Sebze Yetiştirme: Hıyar, Lahana, Biber
+seo_aciklama: Turşuluk sebze yetiştirme nasıl yapılır? Kornişon ve hıyar, lahana ve biber çeşidi, ekim zamanı, hasat boyu ve sık toplama ile ev turşusu için bahçe planı.
+ozet: Turşuluk sebze yetiştirme, hıyar, lahana ve biberi turşuya uygun boyda ve olgunlukta toplamayı gerektirir. Çeşit seçimini, ekim zamanını, hasat boyunu ve toplama sıklığını, turşu hijyenini anlattık.
+etiketler: turşuluk hıyar, kornişon, turşuluk lahana, turşuluk biber, ev turşusu, hıyar hasadı, bahçe planı
+gorsel: bekliyor
+gorsel_alt: Bahçede küçük boylu hıyarlar ve yanında sıkı başlı lahana ve yeşil biber
+urunler: arzuman-cengelkoy-hiyar-tohumu-10-gr, beyaz-lahana-fidesi-6-adet, hg-bol-verimli-sebze-topragi
+kisaca: Turşuluk sebze yetiştirme için hıyarın küçük, sert ve dikenli (kornişon tipi) çeşitleri, lahananın sıkı başlı geç çeşitleri ve etli, kalın kabuklu biberler seçilir. Hıyar ve biber küçükken sık toplanır; lahana başı sıkılaşınca kesilir. Hasadı turşu zamanına göre planlayın.
+@govde
+Pazardan alınan sebzeyle turşu kurmak mümkündür; ama kendi bahçesinden toplayan kişi turşuluk için doğru boyda ve doğru olgunlukta ürünü seçme şansı bulur. Küçük, sert hıyar, sıkı lahana başı ve etli biber, turşunun gevrekliğini ve tadını belirler. Turşuluk sebze yetiştirme bu yüzden çeşit seçimi, ekim zamanı ve hasat sıklığıyla ilgilidir.
+
+## Turşuluk sebze yetiştirme: hıyar
+
+Turşuya uygun hıyar, genellikle kısa, sert, küçük tohumlu ve ince kabuklu türlerdir; kornişon (gherkin) ve turşuluk hıyar çeşitleri bu amaçla yetiştirilir. Oregon Eyalet Üniversitesi Yayım Servisi, küçük ve genç sofralık hıyarın da turşuda kullanılabileceğini ama özel turşuluk çeşitlerin en iyi sonucu verdiğini belirtir; ayrıntı için [Oregon Eyalet Üniversitesi hıyar sayfasına](https://extension.oregonstate.edu/node/100976) bakabilirsiniz. Küçük meyveler bütün turşu için, daha büyükleri dilim ya da şerit turşu için uygundur.
+
+Güney Dakota Eyalet Üniversitesi'nin [hıyar hasadı yazısı](https://extension.sdstate.edu/harvesting-cucumbers), hıyar türüne göre en uygun boyun farklı olduğunu belirtir. Sofralık hıyar daha iri, turşuluk hıyar daha küçük hasat edilir. Çeşit etiketinde hasat boyu ve kullanım amacı yazılıdır; ona göre seçin.
+
+Hıyar ekimi ve bakımı için [salatalık yetiştirme](/salatalik-yetistirme) yazısına, hastalıkları için [salatalık hastalıkları](/salatalik-hastaliklari) yazısına bakabilirsiniz. Turşuluk hıyar da aynı bakımı ister: sıcak toprak, düzenli su ve destek.
+
+## Lahana: sıkı başlı ve geç çeşit
+
+Lahana turşusu için baş yapısı sıkı, yaprakları sağlam ve gevrek lahana tercih edilir. Genellikle sonbahar hasadı olan geççi çeşitler daha sağlam baş yapar; erkenci çeşitler çoğu zaman gevşek başlıdır. Kendi bahçenizde yetiştirmek için fide dikimi bölgeye göre yaz sonu ya da ilkbaharda yapılır; sonbahara ulaşan çeşitler turşu için daha uygundur. Lahana hastalıkları ve zararlıları için [lahana hastalıkları](/lahana-hastaliklari) yazısı, sorun ve çözümü anlatıyor.
+
+Lahana ilkbaharda dikilir ve yaz boyunca bakım ister; sıcaklık yükselince baş sıkılaşmayabilir. Turşu için hasatı serin döneme denk getirmek en iyi sonucu verir.
+
+## Biber: etli ve kalın kabuklu
+
+Turşu için biberin etli, kalın kabuklu ve gevrek türleri seçilir. Acı ve tatlı biberler farklı turşu çeşitleri için kullanılır. Biberler yeşil ve olgunlaşmamışken turşuya konabilir ya da kırmızı olgunlukta kullanılabilir; bu çeşide ve tarife göre değişir. Biber çeşitleri hakkında [biber çeşitleri](/biber-cesitleri) yazısına bakabilirsiniz. Fide dikimi son dondan sonra yapılır; biber sıcak sever.
+
+[ürün:arzuman-cengelkoy-hiyar-tohumu-10-gr]
+
+## Ekim ve dikim takvimi
+
+::: takvim
+Hıyar tohumu ekimi (son dondan sonra) | 4-6
+Biber fidesi dikimi | 4-6
+Lahana fidesi dikimi (ilkbahar) | 3-5
+Lahana fidesi dikimi (sonbahar hasadı için) | 7-8
+Hıyar ve biber hasadı | 6-9
+Lahana hasadı | 9-11
+:::
+
+Toprağı organik maddeyle zenginleştirin, derin sulama ve malç kullanın. Fide yetiştirme ve dikim için [nisan ayında bahçede yapılacaklar](/nisan-ayinda-bahcede-yapilacaklar) yazısı toprak sıcaklığı ve sertleştirme bilgisini verir.
+
+## Toprak, destek ve su
+
+Turşuluk hıyar yüzeysel köklüdür ve düzensiz suya çok hassastır. Toprağı organik maddeyle zenginleştirin, yüzeyi malçlayın ve haftada iki üç kez derin sulayın; kuruyup sonra bolca sulamak meyveyi acılaştırır ve şekilsizleştirir. Hıyarı tel ya da file üzerine tırmandırmak, meyveyi topraktan uzak tutar, hasadı kolaylaştırır ve düz, temiz meyve verir. Yer kaplayan sürünücü çeşitlerde ise geniş alan ayırın. Biber için ise bitki başına yaklaşık 40–50 cm aralık bırakın, ağırlaşan dalları kazıkla destekleyin. Lahanada başın sıkılaşma döneminde sulamayı düzenli tutmak, başların çatlamasını önler. Her üç bitkide de sıcak ve nemli havada yaprak ıslatmadan dipten sulama, mantar hastalığı riskini azaltır.
+
+Gübreleme için olgun kompost ya da solucan gübresi kullanın; hıyarda ve lahanada aşırı azot yaprak yapar ama verimi düşürür. Kornişon ve biber ağır yüklü bitkilerdir; ilk meyve tutumundan sonra seyreltik ve dengeli beslemek ürünü uzun süre sürdürür.
+
+## Hasat boyu ve toplama sıklığı
+
+Turşuluk hıyar ve biber, olgunlaşmadan, küçükken toplanır; fazla büyüyen meyve sertleşir, tohumları iriyleşir ve turşuda yumuşar. Oregon Eyalet Üniversitesi, yaşlı meyvenin asmadan sürekli çıkarılması gerektiğini, genç meyvenin gelişebilmesi için asmaların iki günde bir kontrol edilmesini önerir. Bu sık toplama aynı zamanda yeni meyve oluşumunu teşvik eder. Erkenci çeşitlerde olgunlaşma yaklaşık 50 gün, orta çeşitlerde 60 gün, geççilerde 70 gün kadar sürebilir.
+
+Turşu için topladığınız ürünü aynı gün ya da ertesi gün işleyin. Hıyar toplandıktan sonra kısa sürede sertliğini kaybeder; serin yerde bekletmek süreyi uzatır.
+
+## Hasat ve turşu zamanlaması
+
+Turşu için hasat planı yapın: Tüm ürünü bir seferde toplamak yerine hasadı turşu kurma programınıza göre aralıklı yapın. Küçük bir ev için üç dört hıyar ve biber bitkisi birkaç haftada yeterli turşu miktarı verir. Lahana ise tek seferde kesilen büyük baş verir; turşu kapasitenizi önceden belirleyin. Turşu hijyeni önemlidir: Kapları temizleyin, sebzeleri iyice yıkayın, tarifte belirtilen tuz oranına ve sürelere uyun. Güvenli gıda saklama ve fermantasyon için güvenilir gıda güvenliği kaynaklarını ve il ya da ilçe tarım müdürlüğünü takip edin; evde kurulan turşu için tarife uymak şarttır.
+
+## Turşuluk bahçe için yer planı
+
+Küçük bir bahçede bu üç sebzeyi bir arada planlamak mümkündür. Hıyarı güneşli ve rüzgârdan korunmuş bir sıraya, telin ya da kafesin yanına; lahanayı bitişik yatağa, biberi ise sıcak bir köşeye yerleştirin. Hıyar ve lahana aynı yatakta yan yana büyümeyi tolere eder, ama biberle hıyar sıcak ve su isteği bakımından benzerdir. Nöbetleşe ekim için lahanagillerin ve kabakgillerin aynı yatakta üst üste yetişmemesine dikkat edin. Yükseltilmiş yatak, ağır topraklı bahçede drenajı iyileştirir; ayrıntı için [bahçe yatağı dikim planı](/bahce-yatagi-dikim-plani) yazısı yerleşim düzenini gösterir. Sulama düzenini otomatiğe bağlamak için [damla sulama hesabı](/damla-sulama-hesabi) yazısına bakabilirsiniz.
+
+## Sık yapılan hatalar
+
+Sofralık hıyarla turşu kurmak ve yumuşak sonuç almak en yaygın hatadır. Hıyarı çok büyüterek toplamak ikinci hatadır; sık toplamayı unutmak asmayı da yorar. Lahana için erkenci, gevşek baş yapan çeşit seçmek üçüncüsü. Dördüncüsü, hasatı turşu zamanına planlamamak ve ürünü bekletmektir. Beşincisi, düzensiz sulama; hıyar acı ve şekilsiz olur. Turşuluk sebze yetiştirme, bahçeden mutfağa kısa mesafede, planlı yapıldığında hem lezzet hem gevreklik sağlar.
+@sss
+S: Turşuluk hıyar hangi boyda toplanır?
+C: Küçükken, sert ve dolgunken toplanır; bütün turşu için küçük meyveler, şerit ve dilim için biraz daha büyükler uygundur. Fazla büyüyen hıyar sertleşir ve turşuda yumuşar.
+
+S: Hıyar ne sıklıkla toplanmalı?
+C: Oregon Eyalet Üniversitesi iki günde bir kontrol edip yaşlı meyveyi asmadan çıkarmayı önerir. Sık toplama genç meyve oluşumunu teşvik eder ve boyunu kontrol altında tutar.
+
+S: Turşu için hangi lahana uygundur?
+C: Baş yapısı sıkı ve yaprakları gevrek, çoğunlukla geççi çeşitler uygundur. Bu çeşitler sonbaharda hasat edilir ve turşu için daha sağlam yapıdadır.
+
+S: Turşuluk biber nasıl seçilir?
+C: Etli, kalın kabuklu ve gevrek biberler tercih edilir. Yeşil ya da kırmızı olgunlukta kullanılabilir; tarife ve çeşide göre belirlenir. Biber son dondan sonra dikilir.
+
+### YAZI
+slug: yesillik-saklama
+baslik: Yeşillik Saklama: Maydanoz, Dereotu ve Nane Nasıl Saklanır?
+yayin: 2027-03-24 12:10
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: yeşillik saklama
+seo_baslik: Yeşillik Saklama: Maydanoz, Dereotu, Nane Yöntemi
+seo_aciklama: Yeşillik saklama nasıl yapılır? Maydanoz, dereotu ve nanenin buzdolabında bardak ve nemli bezle saklanması, dondurma ve kurutma yöntemleri ile ömür farkları.
+ozet: Yeşillik saklama, maydanoz, dereotu ve nanenin taze kalma süresini uzatır. Buzdolabında bardakla ve nemli bezle saklamayı, dondurmayı, kurutmayı ve hangi yeşilliğin hangi yönteme uyduğunu anlattık.
+etiketler: yeşillik saklama, maydanoz saklama, dereotu saklama, nane saklama, dondurma, kurutma, taze kalma
+gorsel: bekliyor
+gorsel_alt: Bardakta suya konmuş maydanoz ve dereotu demetleri buzdolabı rafında
+urunler: altinvadi-toros-maydanozu-tohumu-10-gr, altinvadi-dereotu-tohumu-10-gr, arzuman-nane-tohumu
+kisaca: Yeşillik saklama için yumuşak yeşillikler (maydanoz, dereotu, nane) saplarıyla bir bardak suya yerleştirilip üstü gevşekçe örtülerek buzdolabında, ya da yıkanıp kurutulmuş hâlde nemli kâğıda sarılarak kapalı kapta saklanır. Uzun saklama için dondurulabilir; dereotu ve maydanoz kurutulunca aromasının büyük kısmını yitirir.
+@govde
+Bahçeden topladığınız bir demet maydanoz üç gün sonra sararıp sarkıyorsa sorun, yeşilliğin kendisinden çok saklama biçimindedir. Yumuşak yeşillikler su kaybına ve nemli ortamda çürümeye aynı anda hassastır; bu yüzden ne çok kuru ne çok ıslak saklanmalıdırlar. Doğru yeşillik saklama yöntemi, türe ve ne kadar süre saklayacağınıza göre seçilir.
+
+## Yeşillik saklama: iki temel kural
+
+Birinci kural nemi dengede tutmaktır: Yaprak kurursa solar, fazla ıslanırsa çürür. İkinci kural soğuk ve hava akışıdır: Buzdolabı serin ortam sağlar, ama kapalı ve ıslak poşet çürümeyi hızlandırır. Oregon Eyalet Üniversitesi Yayım Servisi'nin [yeşillik saklama yazısı](https://extension.oregonstate.edu/node/162231), kesilmiş maydanoz, nane, kekik ve adaçayı gibi yeşilliklerin buzdolabında birkaç haftaya kadar dayanabileceğini belirtir. Kaliforniya Üniversitesi'nin bir yayını ise [taze otları saklama konusunda](https://ucanr.edu/sites/solanomfp/files/386763.pdf) benzer bilgiler verir. Dereotu ise genelde maydanozdan daha kısa ömürlüdür.
+
+Hasatı sabah serinliğinde yapmak, yeşilliğin saklama süresini uzatır; topladıktan sonra beklemeden saklamaya geçin. Hasat için [dereotu yetiştirme](/dereotu-yetistirme) ve [maydanoz yetiştirme](/maydanoz-yetistirme) yazılarına bakabilirsiniz.
+
+## Buzdolabında bardakla saklama
+
+Yumuşak yeşilliklere çiçek gibi davranmak en yaygın ve etkili yöntemdir.
+
+::: adimlar
+Dipleri kesin | Demetin ucundan bir iki santim kesin; temiz ve taze bir kesim su alımını artırır.
+Yıkamadan hazırlayın | Çok kirliyse yıkayıp iyice süzün ve yaprakları kurutun; ıslak yaprak çürür.
+Bardağa koyun | Saplar bir bardak temiz suya girsin; yaprakları suya sokmayın.
+Gevşekçe örtün | Üstüne delikli ya da gevşek bir poşet geçirin; sıkı kapatmayın.
+Suyu değiştirin | Üç dört günde bir suyu yenileyin; sararan yaprakları ayıklayın.
+:::
+
+Bu yöntemle maydanoz, nane ve kişniş birkaç hafta taze kalabilir; dereotu daha kısa ömürlüdür. Sapları kısa olan ya da dalı kesilmiş yeşillik için alternatif yöntem nemli bezdir.
+
+## Nemli bez ve kapalı kapta saklama
+
+Yıkanmış, süzülmüş ve iyice kurutulmuş yeşilliği hafif nemli bir kâğıt havluya ya da temiz bezle sarıp kapalı bir kapta veya poşette buzdolabına koyun. Nem fazlaysa kâğıdı değiştirin. Bu yöntem, sapı olmayan ya da çok az olan yeşillikler (dereotu uçları, kıvırcık, roka, marul yaprağı) için uygundur. Sert dallı yeşillikler (biberiye, kekik, adaçayı) bir poşette, sebze çekmecesinde saklanır. Fesleğen ise soğuğa hassastır; buzdolabında kararır, oda sıcaklığında bardakta saklanması daha iyidir.
+
+## Hangi yeşillik hangi yönteme uyar?
+
+Her yeşillik her yöntemde iyi sonuç vermez. Yumuşak saplı yeşillikler (maydanoz, kişniş, nane, dereotu) bardakta ya da nemli bezde en iyi saklanır. Fesleğen soğuğa karşı hassas olduğundan oda sıcaklığında bir bardak suda ve ışıktan uzak olmayan bir yerde tutulur. Sert dallı otlar (biberiye, kekik, adaçayı) buzdolabında kâğıt sarılmış hâlde kalır; kurutma için de en uygun gruptur. Yaprak yeşillikler (roka, ıspanak, marul) ise kâğıt havlu ile bir kapta, nemden korunarak saklanır. Dereotunda ise çiçek ve tohum başları da kullanılabilir; bu kısımlar turşuda ve kurutmada işe yarar. Yeşillik saklama süresini uzatmak istiyorsanız türünü tanımak yöntemin yarısıdır.
+
+Bahçede çok yeşillik topladığınızda, bir kısmını hemen kullanıp bir kısmını dondurmak ya da kurutmak, ürünün boşa gitmesini önler. Eğer ürün miktarı çok fazlaysa komşu ve akrabayla paylaşmak da bir seçenektir.
+
+## Dondurmak: aylar süren saklama
+
+Maydanoz, dereotu ve nane dondurulduğunda aromasını büyük ölçüde korur; ama yaprağın dokusu yumuşar, bu yüzden dondurulmuş yeşillik pişirmede (çorba, yemek, sos) kullanılır, salatada değil. Yıkayıp iyice kurutun, ince doğrayın, tepsiye ince yayıp ön dondurma yapın, sonra kutuya ya da poşete alın. Buz küpü kalıbına doğranmış yeşillik koyup su ya da yağla doldurmak da pratik bir yoldur. Etiketleyip tarih yazın.
+
+[ürün:altinvadi-toros-maydanozu-tohumu-10-gr]
+
+## Kurutma: her yeşillik için uygun değil
+
+Kurutma çoğu otta aromayı yoğunlaştırır; kekik, nane, biberiye, adaçayı ve fesleğen kurutmaya uygundur. Yayım kaynakları ise dereotu, kişniş ve maydanozun kurutulunca aromalarının daha hafif kaldığını belirtir. Dereotu ve maydanozu kurutmak yerine dondurmayı tercih edin; nane ve kekik için kurutma idealdir. Kuru yeşillik taze yeşillikten daha az miktarda kullanılır. Kurutma ve kurutma tezgâhı için [kurutma tezgahı](/kurutma-tezgahi) yazısına bakabilirsiniz.
+
+Kurutulan otları ışıktan ve nemden uzak, hava geçirmeyen kavanozlarda saklayın; bu şekilde birkaç ay aromalarını korurlar. Küf kokusu ya da nem belirtisi görürseniz atın.
+
+## Yeşilliği bahçede taze tutmak
+
+En uzun taze saklama, yeşilliği hasat edene kadar bahçede bırakmaktır. Kesme-yeniden yetiştirme yaklaşımı ile maydanoz ve nane gibi bitkileri ihtiyaç kadar kesmek, ürünü bitkide taze tutar. Kışın pencere önünde saksıda yetiştirmek de sürekli taze yeşillik sağlar; bu konuda [evde mikro yeşillik yetiştirme](/evde-mikro-yesillik-yetistirme) yazısı da yardımcı olur. Fazla hasadı dondurup bir kısmını taze kullanmak dengeli bir düzendir.
+
+## Yıkamak mı, yıkamamak mı?
+
+Yeşilliği saklamadan önce yıkamak mı gerekir sorusunun iki tarafı vardır. Yıkamak kiri ve zararlıyı temizler, ama nemi artırır; yıkadıysanız iyice süzüp kurutmak şarttır. Bahçeden temiz toplandıysa saklamadan önce yıkamayıp tüketimden hemen önce yıkamak ömrü uzatır. Marketten alınan ve topraklı yeşilliği ise saklamadan önce kontrol edip çürük kısımları ayıklayın. Salata çevirme aleti ya da temiz bir havlu yeşilliği kurutmada işe yarar. Toprağın ve bahçenin hijyeni konusunda şüpheniz varsa yeşilliği tüketmeden önce bol suyla yıkayın.
+
+## Saklama kabı ve buzdolabı yeri
+
+Saklama kabının hava geçirmeyen ama nemli olmayan yapıda olması gerekir. Cam kavanoz ya da kapaklı plastik kutu içine kâğıt havlu koymak fazla nemi emer. Buzdolabında yeşillik çekmecesi genellikle nemi koruyan en uygun yerdir; ama ürünü bir yığın hâlinde sıkıştırmayın, hava dolaşsın. Etin, balığın ve çiğ gıdaların yakınında saklamayın; çapraz bulaşma riski vardır. Dolabın arka duvarına yakın yerlerde donma riski olabilir; yeşillik donunca yaprakları kararır. Her birkaç günde kontrol edip bozulan parçaları ayıklamak, tüm demetin ömrünü uzatır.
+
+## Yeşilliğin ömrünü kısaltan hatalar
+
+Isıtılmış, ıslak ve kapalı bir poşette bırakmak yeşilliği birkaç günde çürütür. Yıkayıp süzmeden saklamak da aynı sonucu verir. Fesleğeni buzdolabına koymak yapraklarını karartır. Sapları bardakta tutarken suyu değiştirmemek suyu bulandırır ve bakteri çoğaltır. Dereotunu uzun süre bekletmek istemek de gerçekçi değildir; kısa sürede kullanılır ya da dondurulur. Sararan yaprakları ayıklamamak diğer yaprakların da bozulmasına yol açar. Doğru yeşillik saklama yöntemi bu hataları ortadan kaldırır.
+@sss
+S: Maydanoz buzdolabında nasıl saklanır?
+C: Saplarını temiz suyla dolu bir bardağa koyun, üstünü gevşekçe örtüp buzdolabına yerleştirin. Suyu üç dört günde bir değiştirin. Bu yöntemle maydanoz birkaç hafta taze kalabilir.
+
+S: Dereotu ne kadar saklanır?
+C: Dereotu maydanozdan daha kısa ömürlüdür. Bardakta ya da nemli bezde birkaç gün taze kalır; uzun saklama için dondurmak daha iyidir.
+
+S: Nane ve maydanoz dondurulur mu?
+C: Evet. Yıkayıp kurutun, doğrayın, tepsiye yayıp ön dondurma yapın, sonra kutuya alın. Dondurulmuş yeşillik pişirmede kullanılır; salatada dokusu yumuşar.
+
+S: Dereotu ve maydanoz kurutulur mu?
+C: Kurutulabilir ama aromaları taze hâline göre daha hafif kalır. Bu iki yeşilliği dondurmak, nane ve kekiği ise kurutmak genellikle daha iyi sonuç verir.
+
+### YAZI
+slug: sebze-hasat-zamani-nasil-anlasilir
+baslik: Sebze Hasat Zamanı Nasıl Anlaşılır? Domatesten Kabağa
+yayin: 2027-03-24 14:30
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: hasat zamanı nasıl anlaşılır
+seo_baslik: Sebze Hasat Zamanı Nasıl Anlaşılır? Rehber Tablo
+seo_aciklama: Sebze hasat zamanı nasıl anlaşılır? Domates, kabak, salatalık, havuç, soğan ve biberde renk, sertlik ve boy işaretleri; sabah hasadı ve paket günü tuzağı.
+ozet: Hasat zamanı nasıl anlaşılır sorusunun cevabı sebzeden sebzeye değişir: Domateste renk, kabakta genç boy, havuçta tat, soğanda yaprak sarılması. Tek tek işaretleri, tablo ve hasat saati ipuçlarını anlattık.
+etiketler: hasat zamanı, sebze olgunluğu, domates hasadı, kabak hasadı, havuç hasadı, soğan hasadı, hasat işaretleri
+gorsel: bekliyor
+gorsel_alt: Sebze bahçesinde elde tutulan olgunlaşmış kırmızı domates ve genç kabak
+urunler: hasturk-kati-solucan-gubresi, hg-bol-verimli-sebze-topragi, moduler-yukseltilmis-bahce-yatagi-108-litre
+kisaca: Hasat zamanı nasıl anlaşılır: Her sebzenin kendine özgü işareti vardır; domateste tam renk, kabakta genç ve sert meyve, havuçta kökün omuz çapı ve tadı, soğanda yaprakların sararıp yatması, kış kabağında kabuk sertleşmesi. Tohum paketindeki gün sayısı yalnızca kaba rehberdir; sabah serinliğinde ve bitki kuruyken hasat edilir.
+@govde
+Domates yeşilken toplanırsa ekşi, çok geç kalırsa yumuşar. Kabak bir hafta unutulursa bir kol kalınlığına ulaşır, içi odunlaşır ve tohum doldurur. Havuç erken sökülürse küçük, geç sökülürse çatlak ve odunsu çıkar. Hasat zamanı nasıl anlaşılır sorusu bu yüzden sebze bahçesinin en pratik sorusudur ve cevabı takvimde değil, bitkinin üzerindeki işaretlerdedir.
+
+## Hasat zamanı nasıl anlaşılır: genel kurallar
+
+Clemson Üniversitesi Yayım Servisi'nin [sebze hasadı belgesi](https://hgic.clemson.edu/factsheet/harvesting-vegetables/), çoğu sebzenin sabah erken saatlerde hasat edilmesini önerir. Illinois Üniversitesi'nin [sebze hasadı yazısı](https://extension.illinois.edu/blogs/good-growing/2024-06-28-harvesting-vegetables-when-and-how-pick-your-vegetables-best-quality), bitkilerin kuru olduğu zaman hasat yapılmasını ve tohum paketindeki "olgunlaşma gün sayısının" yalnızca kaba bir rehber olduğunu hatırlatır; çünkü sebzenin kendi bahçenizde ne zaman olgunlaşacağını gün sayısı kesin söylemez.
+
+Üç ölçütü birlikte kullanın: renk, sertlik ve boy. Bunlara tat ve koku eklenir. Şüphe edince bir tanesini deneyin: Havuçta ve turpta bir tanesini söküp tadına bakmak, en güvenilir testtir.
+
+| Sebze | Hasat işareti | Ne zaman geç kalınır? |
+|---|---|---|
+| Domates | Tam renk, hafif yumuşak; yeşil omuz yok | Çatlama, aşırı yumuşama |
+| Kabak (sakız) | Genç, 15–20 cm, parlak kabuk, tırnak izi kolay | Kol kalınlığı, sert kabuk |
+| Kış kabağı, bal kabağı | Kabuk sert, tırnakla çizilmez, sap kurur | Soğuk gelmesi, donma |
+| Salatalık | Sert, koyu yeşil, parlak; dikenler düzleşmeye başlar | Sararma, şişkin |
+| Havuç | Omuz çapı 2–3 cm, canlı renk, tadı tatlı | Çatlama, odunlaşma |
+| Soğan, sarımsak | Yaprakların sararıp yatması | Yeniden sürme, çürüme |
+| Biber | Çeşide göre tam boy ve parlak; yeşil ya da kırmızı | Buruşma |
+| Marul | Baş sıkı, orta sertlikte | Uzayıp çiçek sapı yapma, acılaşma |
+| Fasulye (taze) | Çıtır, içindeki tane iri değil | Lifli ve tanesi şişkin |
+
+## Meyveli sebzeler: renk ve parlaklık
+
+Domateste ana ölçüt renktir. Çeşide göre kırmızı, pembe, sarı ya da çok renkli olabilir; tam renk, hafif yumuşaklık ve tipik aroma olgunluğu gösterir. Domates kırmızılaşmaya başladığında toplanıp evde olgunlaştırılabilir; ama tam bitkide olgunlaşan, genellikle daha lezzetlidir. Domates kızarmıyorsa [domates neden kızarmaz](/domates-neden-kizarmaz) yazısındaki nedenlere bakın.
+
+Kabak ve salatalıkta kural tam tersidir: Genç ve sert toplanır. Illinois Yayım Servisi, kabağın olgunlaşmadan genç iken toplandığını belirtir. Kış kabağı ise tam gelişmeyi bekler; kabuğu sertleşir, tırnakla çizilmez ve sap kurumaya başlar. Kabak yetiştirme ve hasat için [kabak yetiştirme](/kabak-yetistirme) yazısına bakabilirsiniz.
+
+## Kök sebzeler: tat testi
+
+Havuç, turp ve pancarda olgunluk toprağın altında gizlidir. Omuz kısmı toprağın üstünde görünen kökün çapına bakın; havuçta iki üç santim, turpta iki santim omuz çapı yaygındır. Emin değilseniz bir tanesini sökün, yıkayıp tadına bakın: Olgun havuç çıtır, sulu ve tatlıdır. Fazla bekleyen havuç çatlar ve odunlaşır; turp içi boşalır ve acılaşır. Turp için [turp yetiştirme](/turp-yetistirme) yazısı hasat işaretlerini anlatıyor.
+
+Soğan ve sarımsakta işaret yaprakta görünür: Yaprakların çoğu sarararak yatınca baş olgunlaşmıştır. Sökülünce kurutma (kürleme) gerekir; ayrıntı için [kışlık sebze saklama](/kislik-sebze-saklama) yazısına bakın.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Yapraklı ve baklagil sebzeler
+
+Marul, ıspanak ve roka dıştan yaprak alınarak sürekli hasat edilir; bitki çiçek sapı yapmaya başlarsa (uzar, yaprak acılaşır) hasat zamanı geçmiştir. Fasulye ve bezelye çıtır ve genç toplanır; kabuğu lifli ve içindeki taneler şişkinse geç kalınmıştır. Bu bitkiler sık toplandıkça yeni ürün verir. Taze yeşilliklerin saklanması için [yeşillik saklama](/yesillik-saklama) yazısına göz atın.
+
+## Hasat sonrası kısa saklama
+
+Hasattan sonra sebzenin kalitesi hızla düşer; bu yüzden hasat ve tüketim arasındaki süreyi kısa tutun. Domatesi buzdolabına koymayın; soğukta aromasını kaybeder ve unlulaşır. Oda sıcaklığında, gölgede bekletin. Salatalık ve kabak serin yerde birkaç gün kalır; çok soğuk ortamda zedelenir. Yeşillikleri nemli bezle sarıp dolapta saklayın. Havuç ve turp yapraklarını kesip nemli kâğıda sarılmış hâlde kapalı kapta tutun; yapraklar kökten nem çeker. Soğan ve sarımsak hasat sonrası kurutulur. Uzun süreli saklama için [kışlık sebze saklama](/kislik-sebze-saklama) yazısı sıcaklık ve nem değerlerini sıralıyor.
+
+## Hasat saati ve yöntemi
+
+En iyi hasat zamanı sabahın serinidir: Yapraklar suyla dolu, meyve serindir ve ürün daha uzun taze kalır. Çiğ kuruduktan sonra toplayın; ıslak bitkide mantar hastalığı yayılabilir. Meyveyi çekmek yerine bahçe makasıyla ya da elle bükerek alın; bitkiyi yaralamayın. Hasat edilen ürünü güneşte bırakmayın; gölgeye ve serin yere alın. Mümkünse sebzeyi hasattan sonra aynı gün tüketin ya da saklama yöntemine alın.
+
+## Olgunlaştıktan sonra bitkide bırakılan sebze
+
+Bazı sebzeler olgunlaştıktan sonra bitkide bırakılır: Kuru soğan ve sarımsak yaprakları sararana kadar toprakta kalır; kış kabağı sap kurumaya başlayana kadar asmada olgunlaşır; baklagillerde kuru tane için fasulye ve bezelye kabukları kuruyana kadar beklenir. Taze tüketilecek türlerde ise bitkide beklemek hasat zamanını kaçırmak demektir. Hangi amaçla topladığınızı baştan belirleyin: Taze yeşil fasulye ile kuru fasulye aynı bitkiden gelir ama farklı zamanda toplanır. Bitkide çiçek tomurcuğu belirmesi (marul, ıspanak, roka) çoğu yeşillikte kalitenin düştüğünün işaretidir; bu durumda hasadı hemen yapın.
+
+## Hasat takvimi ve kayıt
+
+Ekim tarihini ve tahmini hasat zamanını bir deftere yazmak, hasat zamanını öngörmenizi kolaylaştırır. Tohum paketinde yazılı gün sayısını ilk yıl kaba rehber olarak kullanın; sonraki yıl kendi bahçenizin gerçek süresini not edin. Aynı çeşit farklı yıllarda hava ve toprağa göre bir iki hafta farklı olgunlaşabilir.
+
+## Sık yapılan hatalar
+
+Domatesi yeşilken ya da kabağı çok büyüyünce toplamak en yaygın hatadır. İkincisi, yalnızca tohum paketindeki gün sayısına güvenmektir. Üçüncüsü, öğle sıcağında hasat edip ürünü güneşte bırakmaktır. Dördüncüsü, kök sebzeyi tadına bakmadan sökmek ya da çok geç bırakmaktır. Beşincisi, hasat sıklığını azaltıp bitkinin yeni ürün vermesini engellemektir. Hasat zamanı nasıl anlaşılır sorusunun en kısa cevabı, her sebzeyi kendi işaretiyle tanımak ve gerekirse bir tanesini deneyip bakmaktır.
+@sss
+S: Sebzenin hasat zamanı nasıl anlaşılır?
+C: Her sebzenin işareti farklıdır: domateste tam renk, kabak ve salatalıkta genç ve sert meyve, havuçta omuz çapı ve tat, soğanda yaprakların sararıp yatması. Tohum paketindeki gün sayısı yalnızca kaba rehberdir.
+
+S: Sebze hangi saatte hasat edilir?
+C: Çoğu sebze sabah serinliğinde ve bitkiler kuruyken hasat edilir. Clemson ve Illinois yayım servisleri sabah erken saatleri önerir; ürün daha uzun taze kalır.
+
+S: Kabak ne zaman toplanır?
+C: Sakız kabağı genç, yaklaşık 15–20 cm boyunda ve parlak kabukluyken toplanır. Kış kabağı ise tam gelişmeyi bekler; kabuğu sertleşir, tırnakla çizilmez ve sap kurur.
+
+S: Havuç olgunlaştı mı nasıl anlaşılır?
+C: Omuz kısmı toprak üstünde görünen kökün çapına bakın; emin değilseniz bir tanesini sökün ve tadına bakın. Olgun havuç çıtır, sulu ve tatlıdır; fazla bekleyen çatlar ve odunlaşır.
+
+### SORU
+yayin: 2027-03-24 09:40
+kategori: bahce-ipuclari
+baslik: Silaj için mısırı yüzde kaç nemde biçmeliyim, süt çizgisine güvenebilir miyim?
+metin: Küçük bir sürümüz var, kendi mısırımızı silaj yapmak istiyoruz. Komşular süt çizgisine bakıp biçiyor ama nemin ne olduğunu bilmiyoruz. Güvenilir mi?
+@cevap Muhammed Hamza Çelik | 5
+Süt çizgisi kaba bir gösterge; asıl ölçüt bitki nemi. Yayım kaynakları silo türüne göre yaklaşık yüzde 60–70 nemi önerir; dikey silolarda biraz daha düşük, yığın silolarda biraz daha yüksek. Çeşit ve yıla göre süt çizgisi ile nem ilişkisi değişir. Bitkiden numune alıp il ya da ilçe tarım müdürlüğünde ya da bir laboratuvarda nemi ölçtürebilirsiniz. Silaj ve hayvan beslemesi için veteriner ve ziraat mühendisine de danışın.

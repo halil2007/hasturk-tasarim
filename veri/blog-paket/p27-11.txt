@@ -1,0 +1,295 @@
+### YAZI
+slug: bahce-toplulugu-kurmak
+baslik: Bahçe Topluluğu Kurmak: Mahallede Bitki ve Bilgi Paylaşımı
+yayin: 2027-01-28 08:45
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: bahçe topluluğu kurmak
+seo_baslik: Bahçe Topluluğu Kurmak: Mahallede Adım Adım Rehber
+seo_aciklama: Bahçe topluluğu kurmak için çekirdek ekip, ortak alan ve izin, toprak testi, kurallar, tohum ve fide takası ile bilgi paylaşımı adımlarını anlattık.
+ozet: Bahçe topluluğu kurmak, mahalledeki bahçıvanları, balkon yetiştiricilerini ve meraklıları bir araya getirip tohum, fide ve bilgi paylaşımına dönüştürmektir. Çekirdek ekibi, ortak alan arayışını ve izni, toprak testini, kuralları ve etkinlik fikirlerini yazdık.
+etiketler: bahçe topluluğu, mahalle bahçesi, tohum takası, ortak bahçe, kent bostanı, bilgi paylaşımı
+gorsel: bekliyor
+gorsel_alt: Mahalle sakinlerinin ortak bir bahçede yükseltilmiş yataklara fide dikip birlikte sulama kabı taşıdığı bir gün
+urunler: moduler-yukseltilmis-bahce-yatagi-217-litre, bahce-topragi-canlandirma-seti
+kisaca: Bahçe topluluğu kurmak için önce 5–10 kişilik bir çekirdek ekip, ortak bir amaç ve basit kurallar belirleyin; ardından bir alan bulup sahibinden yazılı izin alın, toprağı test ettirin ve işleyişi (sulama, tohum takası, sorumluluk) netleştirin. Alan olmasa da tohum takası ve bilgi paylaşımıyla balkon düzeyinde topluluk kurulabilir.
+@govde
+Mahallede bir komşunun balkonunda fazla domates fidesi, bir diğerinin elinde saklanmış ata tohumu, üçüncüsünün bahçesinde kullanılmayan bir köşe vardır. Bu kaynakların çoğu birbirini bulamaz. Bahçe topluluğu kurmak bu kaynakları bir araya getirir: kimi toprak, kimi tohum, kimi bilgi katar ve hepsi karşılığında bir şey alır. Topluluk her zaman bir arsa gerektirmez; bir mesajlaşma grubu ve ayda bir tohum takası günü de bir bahçe topluluğunun başlangıcıdır. Aşağıda küçük ve büyük ölçekte adımları sıralıyoruz.
+
+## Neden topluluk? Ne kazanılır?
+
+Bahçeciliğin zor yanları yalnız yaşanınca ağırlaşır: bir paket tohumun yarısı kullanılmaz, bir yatağın bakımı tatilde aksar, bir hastalığın adı bilinmez. Topluluk bu yükleri paylaşır. Tohum ve fide takası maliyeti düşürür, deneyim paylaşımı hataları azaltır, ortak alan ise şehirde alan bulamayanlara yetiştirme imkânı verir. Georgia Üniversitesi Extension, topluluk bahçelerinin başarısının büyük ölçüde insanları sürece dahil etmekle ilgili olduğunu vurgular ([UGA Extension topluluk bahçesi: insanları katmak](https://fieldreport.caes.uga.edu/publications/B1399/how-to-start-a-community-garden-getting-people-involved/)). Yani sorun çoğu zaman toprak değil, organizasyondur.
+
+## İki ölçek: tohum topluluğundan ortak bahçeye
+
+Başlangıçta iki farklı model arasında seçim yapabilirsiniz.
+
+| Model | Ne gerektirir? | Ne sunar? | Zorluk |
+|---|---|---|---|
+| Paylaşım topluluğu | Mesajlaşma grubu, ayda bir buluşma | Tohum ve fide takası, bilgi paylaşımı, ortak sipariş | Düşük |
+| Balkon ve bahçe ağı | Üyelerin kendi alanları | Çeşit çeşitliliği, ortak etkinlik, birbirinin tatil bakımı | Orta |
+| Ortak bahçe | Arsa ya da bahçe, izin, su, toprak | Ortak yetiştirme, mahalle etkinliği, eğitim | Yüksek |
+
+Çoğu topluluk birinci modelle başlar ve ancak istikrar kazanınca ortak bahçeye geçer. Bu sıra mantıklıdır: önce insanlar birbirini tanır ve işleyiş oturur, sonra toprak ve izin işine girilir.
+
+## Çekirdek ekip ve ortak amaç
+
+İlk adım birkaç kişiyi bir araya getirmektir. Kuzey Karolina A&T Üniversitesi Extension kaynakları, 5–10 kişilik kararlı bir liderlik ekibi oluşturmayı ve herkesin paylaştığı kısa bir amaç cümlesi yazmayı önerir ([NC A&T Extension topluluk bahçesi başlangıcı](https://ncat.edu/caes/cooperative-extension/community-and-rural-development/cgst/growing-garden.php)). Amaç cümlesi basit olmalıdır: "Mahallede sebze ve çiçek yetiştirmeyi, tohum ve bilgiyi paylaşmayı seviyoruz." Bu cümle sonradan kuralları ve etkinlikleri belirlerken pusula olur. Çekirdek ekipte farklı beceriler bulundurun: biri organizasyonu, biri bahçeciliği, biri iletişimi, biri kayıt ve para işlerini üstlensin.
+
+## Duyuru ve ilk buluşma
+
+Ekibi toparladıktan sonra çevreye duyurun. Apartman panosu, muhtarlık, mahalle sosyal medya grupları ve yakın okul ya da kütüphane duyuru için uygundur. İlk buluşmayı kolay tutun: çay, bir masa, her katılımcının getireceği bir paket tohum ya da fide. İlk buluşmada üç soru sorun: Ne yetiştiriyoruz? Neye ihtiyacımız var? Ne paylaşabiliriz? Verilen cevaplar topluluğun ilk görev listesini oluşturur. Gelen herkesin ismini ve iletişimini toplayın; bu liste topluluğun omurgası olur.
+
+## Ortak alan arıyorsanız: yer, izin ve toprak
+
+Ortak bahçe kurmak istiyorsanız en kritik adım alandır. Kuzey Karolina Eyalet Üniversitesi (NC State) Extension, iki üç aday alan belirlenmesini ve her birinin bir kontrol listesiyle değerlendirilmesini önerir; ardından arazinin sahibini bulup yazılı izin ya da kira anlaşması yapmayı ve sorumluluk sigortasını düşünmeyi tavsiye eder ([NC State Extension alan seçimi](https://content.ces.ncsu.edu/site-selection)). Türkiye'de bu, arazinin kime ait olduğunu (özel mülk, belediye, okul, vakıf, hazine) öğrenmek ve ilgili kurumdan yazılı izin almak demektir. Belediyelerin kent bostanı ya da mahalle bahçesi projeleri varsa önce onlarla görüşün; hazır alan ve su bağlantısı sağlayabilirler.
+
+Aday alanda şunlara bakın: günde en az altı saat güneş (güneş ölçümü için [balkonunuz kaç saat güneş alıyor](/balkonunuz-kac-saat-gunes-aliyor) yazısındaki saat saat yöntem alanlar için de geçerlidir), su kaynağı ve bağlantı maliyeti, toprağın durumu, erişim ve güvenlik, çevredeki yapılar. Alabama Extension rehberi, toprağın verimlilik, pH ve ağır metal açısından test edilmesini önerir ([Alabama Extension topluluk bahçesi başlangıç rehberi](https://www.aces.edu/wp-content/uploads/2023/06/UNP-2193-A-Guide-to-Starting-a-Community-Garden.pdf)). Şehir içi boş arsalarda toprak kirliliği ciddi bir engeldir; yükseltilmiş yataklar ve temiz toprak bu durumda çözümdür. Şehirde yetişen sebzenin güvenliği için [şehirde yetişen sebze güvenli mi](/sehirde-yetisen-sebze-guvenli-mi) yazısına bakabilirsiniz.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-217-litre]
+
+## Bahçe topluluğu kurmak için kurallar ve işleyiş
+
+Basit ve yazılı kurallar sorunları baştan önler. Kurallar şunları kapsamalıdır:
+
+1. **Üyelik ve katkı:** Kimler katılır, aidat ya da malzeme katkısı var mı?
+2. **Parsel ve sorumluluk:** Herkese ayrı yatak mı, ortak alan mı? Bakımını kim yapar?
+3. **Sulama düzeni:** Su kaynağı, sulama günleri, hortum ve kovaların yeri.
+4. **Kimyasal kullanımı:** Kimyasal gübre ve ilaç kullanımı konusunda ortak karar (örneğin organik uygulama).
+5. **Terk edilen parsel:** İki ay bakım yapılmayan parselin yeniden dağıtılması.
+6. **Hasat ve paylaşım:** Ortak ekimin hasadı nasıl bölüşülür?
+7. **Atık ve kompost:** Bitki artıkları nereye gider, kompost nasıl yapılır?
+8. **Anlaşmazlık çözümü:** Sorun çıkarsa kime başvurulur?
+
+Kuralları herkesin katıldığı bir toplantıda oylayın ve yazıp panoya asın. Katılımı ödüllendirin; herkes bir sorumluluk almalı ve kimse sürekli aynı işi yapmamalıdır.
+
+## Tohum ve fide takası: en kolay başlangıç
+
+Alan bulunmasa bile tohum takası topluluğun kalbi olabilir. Her üye, ele geçirdiği fazla tohumu ya da fideyi bir araya getirir. Takas günü, sezon başına göre ocak ve şubat aylarında yapılırsa fide ekimi için ideal olur. Tohumları etiketleyin: tür, çeşit, toplama yılı ve yetiştirme notu. Eski ve yerel çeşitleri korumak için [ata tohumu saklama](/ata-tohumu-saklama) yazısındaki tohum toplama bilgilerinden yararlanabilirsiniz. Tohum canlılığı için [tohum çimlenme testi](/tohum-cimlenme-testi) ortak bir deneme olarak yapılabilir. Takas edilen bitkilerde hastalık ve zararlıyı yaymamak için hasta fide ya da şüpheli toprak paylaşılmamalıdır.
+
+## Bilgi paylaşımı: etkinlik fikirleri
+
+Topluluğu canlı tutan şey düzenli etkinliktir. Her ay bir tema seçin:
+
+| Ay | Etkinlik fikri |
+|---|---|
+| Ocak–Şubat | Tohum takası, fide ekim atölyesi, bahçe planı çizme |
+| Mart–Nisan | Fide dikimi, toprak hazırlığı, kompost kurma |
+| Mayıs–Haziran | Sulama düzeni, destek kurma, zararlı gezisi |
+| Temmuz–Ağustos | Ortak hasat, kurutma ve konserve paylaşımı |
+| Eylül–Kasım | Tohum toplama, sonbahar ekimi, kış hazırlığı |
+
+Her buluşmada bir "sorun masası" kurmak da faydalıdır: yaprağı lekeli bir bitkiyi getiren, herkesin görüşünü alır. Hastalık ve zararlı sorularında ilaç adı ve doz konusunda yetkili kaynak ziraat mühendisi ile il ya da ilçe tarım müdürlüğüdür; topluluk bunu bilgi paylaşımının sınırı olarak kabul etmelidir. Çocuklu etkinlikler için [çocuklarla bahçe](/cocuklarla-bahce) yazısındaki fikirler uygundur.
+
+## Bahçe topluluğu kurmak: topluluğu yaşatmak
+
+Toplulukların çoğu ilk heyecandan sonra dağılır. Dayanıklı olmak için işi bir iki kişiye yüklemeyin; görevleri döndürün. Kısa bir toplantı takvimi yapın ve kayıtları (kim ne yaptı, ne harcandı) şeffaf tutun. Başarıyı kutlayın: ilk hasat, ilk tohum takası, ilk çiçek açan yatak küçük bayramlardır. Yeni üyeleri sürekli karşılayın; eski üyelerin sıkılmaması için işleri çeşitlendirin. Topluluk aynı zamanda mahalleye açılabilir: okullarla, yaşlı bakım evleriyle ya da yerel yönetimle ortak proje yapmak toplulukları güçlendirir.
+
+Bahçe topluluğu kurmak bir proje değil, bir süreçtir: ilk yıl denemeyle geçer, ikinci yıl işleyiş oturur, üçüncü yıl topluluk kendi başına yürür. Küçük başlamak ve her yıl bir adım eklemek, büyük bir plan yapıp yarıda bırakmaktan çok daha güvenilirdir.
+
+[ürün:bahce-topragi-canlandirma-seti]
+
+Bahçe topluluğunuz için toprak ve yatak seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Bahçe topluluğu kurmak için nereden başlanır?
+C: 5–10 kişilik bir çekirdek ekip ve kısa bir amaç cümlesiyle başlayın. Mahalleye duyurup tohum ve fide takası gibi kolay bir etkinlik yapın; ortak alan işine istikrar kazandıktan sonra geçin.
+
+S: Ortak bahçe için arsa gerekir mi?
+C: Hayır. Tohum takası ve bilgi paylaşımı için mesajlaşma grubu ve ayda bir buluşma yeterlidir. Ortak bahçe istiyorsanız arazinin sahibinden yazılı izin almanız, toprağı test ettirmeniz ve su kaynağını belirlemeniz gerekir.
+
+S: Bahçe topluluğunda kurallar neden önemlidir?
+C: Sulama, parsel sorumluluğu, kimyasal kullanımı, terk edilen parsel ve anlaşmazlık çözümü gibi konularda yazılı kurallar tartışmaları baştan önler. Kuralları herkesin katıldığı bir toplantıda belirleyip yazılı hâle getirin.
+
+S: Şehir içi arsada sebze yetiştirmek güvenli mi?
+C: Toprak kirliliği riski vardır; toprağı verimlilik, pH ve ağır metal açısından test ettirin. Şüpheli topraklarda yükseltilmiş yatak ve temiz toprak kullanın, sebzeyi yemeden önce iyice yıkayın.
+
+### YAZI
+slug: minyatur-bahce
+baslik: Minyatür Bahçe: Saksıda Küçük Peyzaj ve Peri Bahçesi
+yayin: 2027-01-28 10:20
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: minyatür bahçe
+seo_baslik: Minyatür Bahçe: Saksıda Küçük Peyzaj ve Peri Bahçesi
+seo_aciklama: Minyatür bahçe nasıl yapılır? Kap ve drenaj seçimi, yavaş büyüyen bitkiler, toprak katmanı, taş ve figür yerleşimi ile sulama ve bakım ipuçlarını anlattık.
+ozet: Minyatür bahçe, bir saksıda ya da sığ bir kapta küçük bir peyzaj kurmaktır. Kap ve drenaj seçimini, yavaş büyüyen ve küçük bitkileri, toprak katmanlarını, taş ve yol yerleşimini, sulama ve bakımı yazdık; peri bahçesi için figür ve süs önerilerini ekledik.
+etiketler: minyatür bahçe, peri bahçesi, küçük peyzaj, sukulent bahçe, saksı bahçesi, çocukla bahçe
+gorsel: bekliyor
+gorsel_alt: Geniş sığ bir kapta küçük sukulentler, ince çakıl yol, küçük taşlar ve minik bir ahşap köprüden oluşan minyatür bahçe
+urunler: kaktus-ve-sukulent-topragi, dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm
+kisaca: Minyatür bahçe için drenaj deliği olan sığ ve geniş bir kap seçin, altına drenaj katmanı ve hafif bir toprak koyun; küçük ve yavaş büyüyen bitkileri (sukulentler, mini çimler, yosun) gruplayın. Aynı su isteğindeki bitkileri birlikte kullanın, taş ve çakılla yollar çizin, sulamayı ölçülü yapın; aşırı sulama en sık hatadır.
+@govde
+Bir ayakkabı kutusu büyüklüğünde bir kapta bütün bir bahçe: taş yol, minik bir köprü, yosun tepecik, küçük çam ağacı. Minyatür bahçe hem bir bahçecilik işi hem de bir hikâye anlatma biçimidir. Çocuklar için peri bahçesi, yetişkinler için sakin bir masa süsü ve küçük balkonlar için dekoratif bir köşedir. Ama küçük olması bakımı basit yapmaz: küçük kapta su ve toprak dengesi daha hassastır. Aşağıda kabı, bitkiyi ve düzeni adım adım kuruyoruz.
+
+## Kap ve drenaj: tasarımın temeli
+
+Minyatür bahçenin kabı, bahçenin sahnesidir. Geniş ve sığ kaplar (sofra tepsisi, kayık biçimli saksı, ahşap kasa, eski bir fıçı yarısı) en uygunudur; çünkü yatay yerleşim ve yol çizimi için alan verir. Clemson Üniversitesi Extension, kaplarda drenaj deliğinin vazgeçilmez olduğunu, yeniden kullanılan kaplarda da altına delik açılması gerektiğini anlatır ([Clemson Extension minyatür bahçeler](https://hgic.clemson.edu/factsheet/miniature-gardens-a-story-to-tell/)). Delik açamayacağınız cam ya da porselen bir kap kullanıyorsanız dibine kalın bir drenaj katmanı (iri çakıl, kil bilye) koyun ve sulamayı çok ölçülü yapın; bu durumda sukulentler gibi az su isteyen bitkiler seçin. Drenajsız kapta su birikir, kökler çürür; saksıda dipteki çakılın etkisi konusunda [saksıda drenaj tabakası](/saksida-drenaj-tabakasi) yazısı gerçekçi bilgi verir.
+
+| Kap | Avantaj | Dikkat |
+|---|---|---|
+| Sığ seramik ya da plastik saksı | Drenaj deliği hazır | Seramik ağırdır |
+| Ahşap kasa | Doğal görünüm | İç yüzeyi plastik astarla koruyun, drenajı ihmal etmeyin |
+| Cam ya da porselen (delikli olmayan) | Şeffaf, dekoratif | Su birikir; sukulent seçin, sulamayı kısın |
+| Eski tepsi ya da fıçı | Özgün | Delik açın, kenar keskinliğini giderin |
+
+## Küçük ve yavaş büyüyen bitkiler
+
+Minyatür bahçede bitkinin ölçeği önemlidir. Clemson, "cüce" (dwarf) kelimesinin bitki boyunu, "yavaş büyüyen" kelimesinin ise büyüme hızını anlattığını, bazı cüce bitkilerin hâlâ minyatür bahçeye fazla büyük olabileceğini belirtir. Yosunlar ve cüce çimlerin alçak boylu olduğu için minyatür bahçeye çok uygun olduğunu da ekler. Sukulentler (haworthia, sedum, küçük kaktüsler) yavaş büyüdüğü ve az suya ihtiyaç duyduğu için en pratik seçimdir; ayrıntılar için [sukulent çeşitleri](/sukulent-cesitleri), [haworthia bakımı](/haworthia-bakimi) ve [kaktüs çeşitleri](/kaktus-cesitleri) yazılarına bakabilirsiniz.
+
+| Bitki grubu | Örnek | Nem isteği | Not |
+|---|---|---|---|
+| Sukulentler | Sedum, haworthia, küçük kaktüsler | Az | Kuru ortam, bol ışık |
+| Yosunlar | Yosun yastıkları | Nemli | Gölge, nem ister, sukulentle karıştırmayın |
+| Cüce çim ve otlar | Mini çim, küçük süs çimleri | Orta | Kısaltma gerektirir |
+| Küçük salon bitkileri | Pilea, peperomia, küçük eğrelti | Orta | Aynı nemdeki gruplarla birleştirin |
+| Cüce kozalaklılar | Mini çam ve ardıç | Orta | Dışarıda, serin bölgelerde |
+
+En önemli kural, aynı kapta aynı su ve ışık isteğindeki bitkileri kullanmaktır. Sukulentlerle yosunu aynı kapta bir arada tutmak mümkün değildir: biri kuru, diğeri nemli ister. Yarı gölgede bir kap için küçük salon bitkileri (pilea, peperomia), güneşli köşe için sukulentler seçin. Salon bitkisi toprağı için [pilea toprağı](/pilea-topragi) ve [peperomia bakımı](/peperomia-bakimi) yazıları ayrıntı verir.
+
+## Adım adım minyatür bahçe kurulumu
+
+::: adimlar
+Kabı hazırlayın | Kabı temizleyin, drenaj deliğini kontrol edin; gerekirse altına bir delik açın.
+Drenaj katmanı serin | Tabana 1–2 cm iri çakıl ya da kil bilye koyun; toprağın deliği tıkamaması için üstüne ince bir kumaş serebilirsiniz.
+Toprağı doldurun | Bitki türüne uygun hafif toprağı (sukulent için kaktüs ve sukulent toprağı) kabın yarısından biraz fazlasına kadar doldurun; tepecik ve çukurlarla yüzey şekli verin.
+Yol ve taşları yerleştirin | İnce çakılla yol çizin, taşları ve figürleri bitkilerden önce yerleştirin; böylece bitkileri çevrelerine göre dikersiniz.
+Bitkileri dikin | Büyük bitkileri arkaya, küçükleri öne koyun; köklerin üstünü hafifçe toprakla örtüp bastırın.
+Süsleyin ve sulayın | Üst yüzeyi ince çakıl ya da yosunla örtüp çok az su verin; ilk sulamadan sonra kabı aydınlık bir yere alın.
+:::
+
+## Toprak, taş ve malç
+
+Minyatür bahçede toprağın hafif ve süzek olması gerekir. Sukulent grupları için kaktüs ve sukulent toprağı uygundur; nem seven bitkiler için hafif saksı toprağı ve biraz perlit karışımı işe yarar. Yüzeyi kaplamak için ince çakıl, doğal taş ya da yosun kullanın; bu kaplama hem görsel bir bütünlük sağlar hem de toprağın nemini ve sıcaklığını dengeler. Doğal taş ve podima gibi dekoratif taşlar, saksı yüzeyi ve yollar için kullanılabilir; saksıda taş kullanımı için [podima taşı ile saksı süsleme](/podima-tasi-ile-saksi-susleme) yazısına bakın.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+## Peri bahçesi: figür ve hikâye
+
+Peri bahçesi, minyatür bahçeye hikâye ekler: küçük bir ev, kapı, köprü, bank, minik bir kuyu. Figürleri bitkilere göre ölçeklendirin; büyük bir figür bahçeyi ezer. Figürleri dayanıklı malzemeden (seramik, reçine, taş) seçin; kâğıt ve ince plastik nemden zarar görür. Çocuklarla yapılıyorsa küçük parçaların yutulma riski olduğunu unutmayın; küçük çocuklu evde figürleri büyük ve sağlam seçin. Yapım sürecini çocuğun hikâyesine bırakın: hangi yol nereye gider, kim burada yaşıyor? Bu etkinlik tatilde ya da hafta sonunda ailece yapılacak keyifli bir işe dönüşür. Başka çocuk etkinlikleri için [yarıyıl tatilinde bitki etkinliği](/yariyil-tatilinde-bitki-etkinligi) yazısına bakabilirsiniz.
+
+## Sulama ve bakım
+
+Minyatür bahçenin en büyük düşmanı aşırı sulamadır. Sukulent bahçede toprağın tamamen kurumasını bekleyin ve ayda iki üç kez çok az su verin; Sukulentlerin kökü sığdır ve yaklaşık 10 cm derinlik çoğu minyatür sukulent için yeterlidir. Sulamayı küçük bir şişe ya da pipetle doğrudan toprağa yapın; yaprak ve figürleri ıslatmayın. Yosunlu bahçelerde ise yüzey nemli tutulur. Bahçeyi aydınlık bir pencere önüne koyun; sukulentler güneşli, yosunlar parlak ama dolaylı ışık ister. Büyüyen bitkileri budayın ve sıkışan bitkiyi yeni kaba taşıyın. Dayanıklı kapta bahçeyi yıllarca sürdürebilirsiniz; bir iki yılda bir toprağı tazelemek iyi olur. Aşırı sulama belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına bakın.
+
+## Sık yapılan hatalar
+
+- **Drenajsız kapta sık sulama:** Kök çürür; sukulentler hızla ölür.
+- **Farklı nem isteyen bitkileri karıştırmak:** Biri kururken diğeri çürür.
+- **Büyük figürler ve bitkiler seçmek:** Ölçek bozulur, bahçe kalabalıklaşır.
+- **Çok sık yer değiştirmek:** Sukulentler yer değişiminden zarar görmez ama yosun kurur.
+- **Işıksız köşeye koymak:** Bitkiler uzar ve renk kaybeder.
+
+[ürün:dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm]
+
+Minyatür bahçe toprağı ve süslemesi konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Minyatür bahçe nasıl yapılır?
+C: Drenaj deliği olan sığ ve geniş bir kap seçin, altına çakıl katmanı koyup hafif toprak doldurun, taş ve yolları yerleştirdikten sonra küçük, yavaş büyüyen bitkileri dikin ve ince çakılla yüzeyi kaplayın. Sulamayı ölçülü yapın.
+
+S: Minyatür bahçede hangi bitkiler kullanılır?
+C: Sukulentler, yosunlar, cüce çimler, pilea ve peperomia gibi küçük salon bitkileri ve cüce kozalaklılar kullanılır. Aynı kapta aynı su ve ışık isteğindeki bitkileri birleştirin.
+
+S: Delikli olmayan kapta minyatür bahçe olur mu?
+C: Olur ama risklidir. Dibine kalın bir drenaj katmanı koyun, sulamayı çok az yapın ve az su isteyen sukulentler seçin. Su birikirse kökler çürür; mümkünse delikli kap tercih edin.
+
+S: Peri bahçesi için figürler nasıl seçilir?
+C: Bitkilerin ölçeğine uygun, seramik, reçine ya da taş gibi dayanıklı figürleri seçin; büyük figür bahçeyi ezer. Küçük çocuk varsa yutulabilecek küçük parçalardan kaçının.
+
+### YAZI
+slug: arpada-gubreleme
+baslik: Arpada Gübreleme ve Kardeşlenme Dönemi
+yayin: 2027-01-28 19:40
+yazar: Hatice Kübra Çelik
+kategori: gubreleme
+odak: arpada gübreleme
+seo_baslik: Arpada Gübreleme: Taban, Üst Gübre ve Kardeşlenme
+seo_aciklama: Arpada gübreleme nasıl yapılır? Taban ve üst gübre ayrımı, azotun kardeşlenme dönemindeki yeri, kuru ve sulu koşul farkı ve toprak analizinin önemi.
+ozet: Arpada gübreleme, ekimde taban gübresi ve kardeşlenme döneminde azotlu üst gübre olarak iki aşamada yürür. Azotun nasıl bölüneceğini, kuru ve sulu koşulda farkı, toprak analizinin ve resmî yayınların rolünü, aşırı azotun riskini ve ocak şubat dönemi kontrolünü yazdık.
+etiketler: arpa gübreleme, kardeşlenme, azotlu gübre, taban gübresi, üst gübre, hububat
+gorsel: bekliyor
+gorsel_alt: Kış sonunda yeşeren arpa tarlasında kardeşlenmiş bitkiler ve yanında kardeş sayımı için kazılmış bir bitki
+urunler: leonardit-organik-toprak-duzenleyici
+kisaca: Arpada gübreleme iki aşamalıdır: ekimde fosforlu gübrenin tamamı ve azotun bir bölümü taban gübresi olarak, kalan azot kardeşlenme döneminde üst gübre olarak verilir. Kuru koşulda azot daha az, sulu koşulda daha çok gerekir; doz toprak analizine ve bölgeye göre belirlenir. Kardeşlenme dönemi (kış sonu, erken ilkbahar) üst gübre için kritik zamandır.
+@govde
+Arpa, buğdaya göre daha az besin isteyen, ama gübreyi doğru zamanda verince karşılığını veren bir bitkidir. Arpada gübreleme iki kararın birleşimidir: ne kadar ve ne zaman. Ekimde verilen taban gübresi köklerin ve ilk büyümenin temelini atar; kış sonunda kardeşlenme başlayınca verilen azotlu üst gübre ise başak sayısını belirler. Ocak ayı, tarlada bu ikinci karara hazırlanma zamanıdır. Aşağıda gübre planını, zamanlamayı ve dikkat edilecek noktaları anlatıyoruz. Verilen doz bilgileri örnek niteliğindedir; kesin değer için toprak analizi şarttır.
+
+## Arpada gübreleme: taban ve üst gübre iki aşamalı plan
+
+Hububat gübrelemesinin temel mantığı, besinleri bitkinin ihtiyaç duyduğu dönemde vermektir. Fosfor kök gelişimi ve erken büyüme için ekimde gereklidir; fosforlu gübre bu nedenle taban gübresi olarak verilir. Azot ise bitkinin yaprak, kardeş ve başak üretmesini sağlar ve kışın yıkanmaya yatkındır; bu yüzden bir kısmı ekimde, kalanı ilkbaharda kardeşlenme döneminde verilir. Tarım ve Orman Bakanlığı'nın arpa teknik talimatı ve çiftçi eğitim broşürü ekimle birlikte taban gübrelemesi yapılmasını, azotlu gübrenin ise üst gübre olarak bölünerek uygulanmasını anlatır ([Tarım ve Orman Bakanlığı arpa teknik talimatı](https://www.tarimorman.gov.tr/BUGEM/TTSM/BelgelerArsiv/Belgeler/Tescil/Teknik%20Talimatlar/Serin%20%C4%B0klim%20Tah%C4%B1llar%C4%B1/arpa.pdf), [Bakanlık arpa yetiştiriciliği çiftçi broşürü](https://arastirma.tarimorman.gov.tr/etae/Belgeler/EgitimBrosur/125-ciftcibro.pdf)).
+
+| Dönem | Ne verilir? | Neden? |
+|---|---|---|
+| Ekim (taban) | Fosforlu gübre (örneğin DAP gibi) ve azotun bir kısmı | Kök gelişimi ve çıkış |
+| Kardeşlenme (kış sonu, erken ilkbahar) | Azotlu üst gübre | Kardeş ve başak sayısı |
+| Sulu koşulda ek | Azotun üç aşamaya bölünmesi | Yıkanma kaybını azaltır |
+
+## Kuru ve sulu koşul: azot nasıl bölünür?
+
+Azotun bölünme oranı koşula bağlıdır. Resmî yayınlarda kuru koşullarda azotun bir kısmı ekimde, büyük kısmı kardeşlenme döneminde verilirken, sulu koşullarda azotun üç aşamaya (ekim, kardeşlenme başlangıcı, kardeşlenme sonu) bölünmesi önerilir; kaynaklar bölgeye göre farklı oranlar (yarı yarıya, üçte bir–üçte iki gibi) verir. Bu yüzden tek bir sabit oran vermek doğru olmaz: bölgenizin il tarım müdürlüğünün gübreleme rehberine bakın. Örneğin Tekirdağ gibi illerin müdürlükleri bölgeye özgü gübreleme rehberleri yayımlar ([Tekirdağ İl Tarım ve Orman Müdürlüğü gübreleme rehberi](https://tekirdag.tarimorman.gov.tr/Lists/Duyuru/Attachments/216/TEKI%CC%87RDAG%CC%86_GU%CC%88BRE%20REHBERI%CC%87.pdf)).
+
+Kuru koşulda yağış belirsiz olduğu için aşırı azot bitkiyi erken yorabilir; sulu koşulda su varsa azot daha verimli kullanılır ama yıkanma riski artar. Gübreyi bölmek, hem kaybı azaltır hem de bitkiye ihtiyaç duyduğu zamanda besin sağlar.
+
+## Kardeşlenme dönemi: üst gübrenin zamanı
+
+Arpa ekimden sonra çıkar, kışa girer ve ilkbahara doğru kardeşlenir. Kardeşlenme, bir bitkinin yan sürgünler vererek çoğalmasıdır; her kardeş potansiyel bir başaktır. Azotlu üst gübre, kardeşlenme döneminde verildiğinde başak sayısını artırır. Bir bölgesel broşür, üst gübrenin kardeşlenme döneminde mümkün olan en erken zamanda uygulanmasını önerir. Pratikte bu, kış sonunda zemin çözülüp bitkiler canlanmaya başladığında, ama toprak çamur olmadığında yapılır. Donmuş ya da karla kaplı toprağa gübre atmak, gübrenin yıkanmasına ve boşa gitmesine yol açabilir. Kardeşlenmenin ne olduğunu ve ekim sıklığıyla ilişkisini [tahıllarda kardeşlenme ve ekim sıklığı](/tahillarda-kardeslenme) yazısında anlattık.
+
+::: takvim
+Ekim ve taban gübresi | 10-12
+Kış dinlenmesi | 12-2
+Kardeşlenme ve üst gübre | 2-3
+Sapa kalkma | 4-4
+Başaklanma | 5-5
+Hasat | 6-7
+:::
+
+Takvim ılıman bölgeler için kabadır; Ege, Marmara ve İç Anadolu'da tarihler değişir. Örneğin Ege'de kardeşlenme daha erken, İç Anadolu'da kar örtüsü yüzünden daha geç başlar. Bölgenizdeki kardeşlenme durumunu tarlada bitkiyi sökerek izleyin: bir bitkide üç dört kardeş görüyorsanız kardeşlenme başlamıştır.
+
+## Toprak analizi: dozun temeli
+
+Gübre dozu tahmin değil, ölçüm işidir. Toprak analizi, topraktaki fosfor, potasyum, organik madde, kireç ve pH durumunu gösterir; hangi besinin fazla, hangisinin eksik olduğu bellidir. Örneğin fosforu zaten yeterli bir toprakta fosforlu gübre vermek israftır. Tarım ve Orman Bakanlığı yayınları gübrenin toprak analiz sonuçlarına göre verilmesini önerir; analiz için numune alma ve yorumlama adımlarını [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) ve [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazılarında anlattık. Analiz yapılmamışsa il tarım müdürlüğünün genel bölge önerisini temel alın, ama bunun bir tahmin olduğunu bilin.
+
+## Arpada gübreleme: fazla azot neden risklidir?
+
+Azot arttıkça verim artar gibi görünse de bir sınırı vardır. Fazla azot, bitkiyi yumuşak ve uzun yapar; arpa yatar (devrilir), hastalıklara (pas, külleme) yatkınlık artar, kalite düşer. Arpada özellikle bira ve malt kalitesi için protein oranı önemlidir; fazla azot protein oranını yükseltip kaliteyi bozabilir. Bu yüzden azotu iyi ölçmek ve gereksiz yere artırmamak gerekir. Aşırı azotun çevreye etkisi de vardır: yağışla yıkanan azot yer altı ve yüzey sularına karışır. Gübreyi bölmek ve tarlanın koşullarına uydurmak hem bitkiyi hem çevreyi korur. Gübreleme zamanı için genel çerçeveyi [gübreleme zamanı](/gubreleme-zamani) yazısında bulabilirsiniz.
+
+## Organik madde ve toprak yapısı
+
+Kimyasal gübre tek başına yeterli değildir; toprağın organik madde durumu ve yapısı da verimi etkiler. Organik maddesi düşük, yapısı bozulmuş topraklarda gübre verimi düşer. Toprakta organik maddeyi artırmak uzun vadeli bir yatırımdır: anız kalıntısını toprağa karıştırmak (yakmamak), organik gübre ve toprak düzenleyicileri kullanmak toprağı iyileştirir. Anız yakmanın zararları için [anız yakma zararları](/aniz-yakma-zararlari), organik madde için [toprakta organik madde](/toprakta-organik-madde) yazılarına bakabilirsiniz. Kullanılacak ürünlerin tarla ölçeğinde uygunluğu ve miktarı için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın.
+
+Arpada gübreleme planı yazılı yapılırsa sezon sonunda değerlendirilebilir: hangi parsele ne zaman, ne kadar gübre verildi, bitkinin durumu nasıldı, verim ne oldu? Bu kayıt bir sonraki yıl dozu ve zamanı iyileştirmek için en değerli veridir; toprak analizi sonucuyla birlikte tutulduğunda gübre masrafı da ölçülebilir hâle gelir.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Ocak ve şubatta tarlada ne yapılır?
+
+Kış sonunda yapılacaklar kısadır: tarlayı gözlemleyin, kardeşlenme durumunu bitki sökerek kontrol edin, su birikmesi ve don zararı olup olmadığına bakın, üst gübre için hazırlık yapın (gübreyi temin etme, serpme makinasını kontrol etme) ve toprak çözülüp tarlaya girilebildiğinde üst gübreyi uygulayın. Tarlada su göllenmesi varsa drenaj düzeltilmeli; sürekli ıslak toprakta azot yıkanır ve kökler boğulur. Yabancı ot kontrolü ve hastalık izleme de bu dönemde başlar; yabancı ot yönetimi için [tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi) yazısı yol gösterir. Hububat hastalıkları için [buğday hastalıkları](/bugday-hastaliklari) yazısındaki belirtiler arpa için de büyük ölçüde geçerlidir.
+
+Gübre alım ve uygulama konusunda mevzuat, destek ve kayıt işleri için Tarım ve Orman Bakanlığı ile il ya da ilçe tarım müdürlüğü yetkili kaynaktır. Gübre seçimi ve toprak düzenleyici konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Arpada gübreleme nasıl yapılır?
+C: İki aşamalıdır: ekimde fosforlu gübrenin tamamı ve azotun bir kısmı taban gübresi olarak, kalan azot kardeşlenme döneminde üst gübre olarak verilir. Dozu toprak analizine ve bölgenizin il tarım müdürlüğü önerisine göre belirleyin.
+
+S: Arpada üst gübre ne zaman verilir?
+C: Kardeşlenme döneminde, kış sonunda toprak çözülüp bitkiler canlandığında ve toprak çamur olmadığında verilir. Donmuş ya da karlı toprağa gübre atmak yıkanmaya ve kayba yol açabilir.
+
+S: Arpada fazla azot zarar verir mi?
+C: Evet. Fazla azot bitkiyi uzatıp yumuşatır, yatmasına ve hastalığa yatkınlığa neden olur; arpada protein oranını da yükselterek malt ve kalite sorunu yaratabilir. Azotu analize göre bölerek verin.
+
+S: Arpada gübre dozu nasıl belirlenir?
+C: Doz tahminle değil, toprak analizi ve bölgeye özgü il müdürlüğü önerisiyle belirlenir. Kuru ve sulu koşulda azot miktarı ve bölünme oranı farklıdır; analiz yoksa il tarım müdürlüğünün genel bölge önerisine başvurun.
+
+### SORU
+yayin: 2027-01-28 11:30
+kategori: gubreleme
+baslik: Arpamı kasım başında ektim, şimdi kış sonunda üst gübre atmam gerekir mi, kar varken atılır mı?
+metin: Tarlamda arpa var, kasımda ekilmiş ve iyi çıkmış. Şu an üzeri biraz karlı ve toprak donuk. Üst gübreyi ne zaman atmalıyım? Karlı toprağa atmak sakıncalı mı?
+@cevap Mikdat Çelik | 3
+Üst gübre için kardeşlenme dönemi ve toprağın durumu belirleyicidir. Karlı ve donmuş toprağa gübre atmak önerilmez: gübre yüzeyde kalır, kar erirken yıkanabilir ya da akıp gidebilir ve bitki yararlanamaz. Toprak çözülüp tarlaya girilebildiğinde ve bitkiler canlanmaya başladığında, yani genellikle şubat sonu ile mart arasında, kardeşlenme döneminde azotlu üst gübreyi uygulayın. Resmî yayınlar, kardeşlenme döneminde mümkün olan en erken zamanın seçilmesini önerir; ancak bu "toprak çamur ve donuk olmadığında" koşuluna bağlıdır. Dozu toprak analizine ve bölgenizdeki il tarım müdürlüğünün önerisine göre belirleyin; sulu koşuldaysanız azotu bölerek vermek yıkanma kaybını azaltır. Gübrenin eşit dağıldığından emin olmak için serpme makinasını önceden kontrol edin ve rüzgârsız bir günde atın. Tarlada su göllenmesi varsa önce drenajı düzeltin; ıslak toprakta azot kaybolur.
+
+### SORU
+yayin: 2027-01-28 14:45
+kategori: bahce-ipuclari
+baslik: Mahallemizde tohum takası yapmak istiyoruz, tohumların hastalık taşımaması için neye dikkat etmeliyiz?
+metin: Apartmandaki bahçe meraklıları olarak bir tohum takası günü düzenlemeyi düşünüyoruz. Herkes elindeki tohumları getirecek. Tohumlarla hastalık ya da zararlı bulaşması riski var mı, nasıl önlem alabiliriz?
+@cevap Halil İbrahim Çelik | 2
+Tohum takası harika bir fikir; riskleri azaltmak için birkaç basit kural koyabilirsiniz. Her tohum paketine tür, çeşit ve toplama yılı yazılsın; kaynağı belli olmayan ya da eski tohum alınmasın. Tohum toplanan bitkinin sağlıklı olduğunu belirtin: lekeli, solgun ya da virüs belirtisi gösteren bitkiden toplanan tohum takasa girmesin. Domates, biber ve patlıcan gibi bitkilerde bazı hastalıklar tohumla taşınabildiği için bu uyarı özellikle önemlidir. Tohumlar tamamen kuru olmalı; nemli tohum küf yapar ve diğer tohumları bozar. Kâğıt zarf ya da kâğıt torba kullanın, plastik kapalı poşetten kaçının. Fide ve soğan gibi canlı materyal takas edecekseniz toprak ve kök hastalığı belirtisi olmamalı ve fideleri ayrı tutmalısınız. Takas günü hasta bitki bulunursa ayırıp paylaştırmayın. Yeni gelen tohumu ilk sezon ayrı bir köşeye ekip izlemek, bir sorun varsa diğer bitkilere yayılmasını önler. Şüpheli bir durumda il ya da ilçe tarım müdürlüğüne danışabilirsiniz.

@@ -1,0 +1,956 @@
+### YAZI
+slug: sukulent-neden-curur
+baslik: Sukulent Neden Çürür? Kök ve Gövde Çürüklüğünü Tanıma ve Kurtarma
+yayin: 2026-12-20 07:15
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: sukulent neden çürür
+seo_baslik: Sukulent Neden Çürür? Belirtiler ve Kurtarma Adımları
+seo_aciklama: Sukulent neden çürür? Yumuşayan yaprak, kararan gövde ve kokan toprağın nedenleri; kökü çürüyen sukulenti kurtarma adımları ve kışın doğru sulama.
+ozet: Sukulentlerde çürüme çoğu zaman tek bir hatadan değil; fazla su, ağır toprak, soğuk ve ışıksızlık birleşince başlar. Belirtileri erken tanımayı, çürüyen bitkiyi kurtarmayı ve tekrarını önlemeyi anlatıyoruz.
+etiketler: sukulent çürümesi, sukulent bakımı, kök çürüklüğü, kaktüs ve sukulent, kışın sukulent
+gorsel: p12-sukulent-curuk
+gorsel_alt: Saksıda yetişen, rozet biçimli dolgun yaprakları olan küçük bir echeveria sukulenti
+urunler: kaktus-ve-sukulent-topragi, kalin-tarim-perliti, hg-kil-bilyesi
+kisaca: Sukulentlerin çürümesinin en sık nedeni fazla su ve suyu tutan, havasız topraktır. Kışın ışık azalıp oda serinleyince bitki suyu kullanamaz, kökler bekleyen suda boğulur ve mantarlar devreye girer. Yumuşayan, şeffaflaşan yapraklar ve kararan gövde ilk işaretlerdir. Erken fark edilirse çürük kısım kesilip sağlam parça kurutularak yeniden köklendirilebilir.
+@govde
+Sukulent neden çürür sorusu, bu bitkileri yetiştiren hemen herkesin bir gün sorduğu bir sorudur. Sukulentler kuraklığa dayanıklı oldukları için "zor ölür" diye bilinir; oysa bu bitkiler susuzluktan çok fazla sudan zarar görür. Özellikle kış aylarında, ışık azalıp ev serinlediğinde, yaz alışkanlığıyla sulamaya devam etmek kökleri ve gövdeyi kısa sürede çürütebilir. Bu yazıda çürümenin nedenlerini, belirtilerini, kurtarma adımlarını ve tekrar yaşanmaması için yapılacakları anlatıyoruz.
+
+## Sukulent neden çürür? Temel nedenler
+
+Sukulentlerin yaprakları ve gövdesi su depolamak üzere gelişmiştir. Bu yapı onları kurak dönemlere karşı korur ama sürekli nemli bir ortamda bir dezavantaja dönüşür. Çürümenin arkasında genellikle şu etkenlerden biri ya da birkaçı vardır:
+
+- **Fazla ve sık sulama:** Toprak tamamen kurumadan yeniden su vermek en yaygın nedendir. Kökler sürekli ıslak kaldığında oksijen alamaz ve ölmeye başlar.
+- **Suyu tutan, ağır toprak:** Bahçe toprağı ya da yalnız torf içeren karışımlar suyu uzun süre tutar. Sukulent toprağının hızla süzülmesi gerekir.
+- **Drenaj deliği olmayan saksı:** Dipte biriken su görünmez ama kökleri günlerce bekletir.
+- **Soğuk ve ışıksız ortam:** Kışın bitki yavaşlar, suyu çok az kullanır. Aynı miktarda su verilince toprak haftalarca nemli kalır.
+- **Yaprak rozetinde biriken su:** Echeveria gibi rozet yapan türlerde yaprak aralarında kalan su gövde çürümesini başlatabilir.
+
+Kısacası sukulent neden çürür sorusunun cevabı çoğunlukla "su ile hava arasındaki dengenin bozulması"dır. Aşırı sulamanın genel belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazımıza da göz atabilirsiniz.
+
+## Çürümenin belirtileri
+
+Çürüme genellikle kökte başlar ve gövdeye doğru ilerler. Erken fark etmek, bitkiyi kurtarma şansını büyük ölçüde artırır.
+
+- **Yumuşak, şeffaf ya da sulu görünen yapraklar:** Sağlıklı sukulent yaprağı dolgun ve serttir. Çürüyen yaprak parmakla bastırınca ezilir, rengi camsı bir hal alır.
+- **Siyahlaşan ya da kahverengileşen gövde dibi:** Gövdenin toprağa yakın kısmı koyulaşır ve yumuşar.
+- **Kendiliğinden düşen yapraklar:** Hafif dokunuşla yaprakların toplu halde dökülmesi.
+- **Kötü koku:** Topraktan ya da gövdeden gelen ekşi, küflü koku kök çürüklüğünün güçlü bir işaretidir.
+- **Bitkinin sallanması:** Kökleri çürüyen bitki toprağa tutunamaz, hafifçe itince yerinden oynar.
+
+Susuz kalan sukulent de yaprak dökebilir; ancak bu durumda yapraklar yumuşak ve sulu değil, buruşuk ve incedir. Bu ayrımı yapmak doğru müdahale için önemlidir.
+
+## Çürüyen sukulent nasıl kurtarılır?
+
+Çürümeyi fark ettiğinizde hızlı davranmak gerekir. Aşağıdaki adımlar hem kök hem de gövde çürümesinde işe yarar:
+
+1. **Bitkiyi saksıdan çıkarın.** Toprağı nazikçe dağıtarak kökleri açığa çıkarın.
+2. **Kökleri inceleyin.** Sağlıklı kök açık renkli ve sıkıdır. Kahverengi, siyah, yumuşak ve kolayca kopan kökler çürümüştür.
+3. **Çürük kısımları kesin.** Temiz ve keskin bir makasla çürük kökleri ve gövdedeki koyu dokuyu, sağlam dokuya ulaşana kadar kesin. Kesit yüzeyinde koyu iz kalmamalıdır.
+4. **Kurumaya bırakın.** Kesilen bitkiyi gölge ve havadar bir yerde birkaç gün bekletin. Kesik yüzeyde ince bir kabuk oluşması yeni çürümeyi önler.
+5. **Yeni ve kuru toprağa dikin.** Eski toprağı kullanmayın. Drenajı iyi, hafif bir kaktüs ve sukulent karışımına dikin; ilk sulamayı bir hafta kadar geciktirin.
+
+Gövdenin büyük kısmı çürümüşse bitkinin tamamını kurtarmak mümkün olmayabilir. Bu durumda sağlam kalan yaprakları ya da gövde uçlarını alıp çoğaltabilirsiniz. Bunun için [sukulent çoğaltma](/sukulent-cogaltma-yaprak-ve-celikle) yazımızdaki yöntemleri uygulayabilirsiniz.
+
+## Doğru toprak ve saksı seçimi
+
+Çürümenin tekrar etmemesi için toprağın suyu hızla geçirmesi şarttır. İyi bir sukulent toprağında organik kısım azdır; perlit, kalın taneli mineral malzemeler ya da kil bilyesi gibi bileşenler havalanmayı sağlar. Hazır kaktüs ve sukulent toprağı kullanıyorsanız, kalın perlit ekleyerek drenajı daha da artırabilirsiniz.
+
+[ürün:kaktus-ve-sukulent-topragi,kalin-tarim-perliti]
+
+Saksının mutlaka drenaj deliği olmalıdır. Pişmiş toprak saksılar nemi duvarlarından buharlaştırdığı için plastik saksılara göre daha hızlı kurur ve çürümeye yatkın bitkiler için iyi bir seçimdir. Saksı dibine koyulan çakıl tabakasının sanıldığı kadar işe yaramadığını da bilmek gerekir; konuyu [saksıda drenaj tabakası](/saksida-drenaj-tabakasi) yazımızda ayrıntılı ele aldık.
+
+## Kışın sukulent sulama
+
+Kış, çürümenin en sık yaşandığı dönemdir. Bu aylarda şu kurallara dikkat etmek bitkinizi korur:
+
+- Toprak tamamen kurumadan sulamayın. Parmağınızı ya da tahta bir çubuğu toprağın birkaç santim derinine batırarak kontrol edin.
+- Sıcaklık 15 °C'nin altındaysa sulama aralığını iyice açın; serin bir odada ayda bir sulama bile yetebilir.
+- Suyu yapraklara değil, doğrudan toprağa verin.
+- Saksı tabağında biriken suyu birkaç dakika içinde boşaltın.
+- Bitkiyi evin en aydınlık penceresine alın; ışık arttıkça bitki suyu daha iyi kullanır.
+
+Kaktüslerde benzer bir süreç yaşanır; ayrıntılar için [kaktüs çürümesi](/kaktus-curumesi) yazımıza bakabilirsiniz.
+
+## Çürümeyi önlemek için kısa kontrol listesi
+
+Sukulentinizi her sulamadan önce şu soruları sorun: Toprak tamamen kurudu mu? Saksının dibinde delik var mı ve tabakta su birikiyor mu? Bitki son haftalarda yeterince ışık aldı mı? Oda sıcaklığı düştü mü? Bu sorulardan birine "hayır" ya da "emin değilim" diyorsanız sulamayı birkaç gün erteleyin. Sukulentler birkaç gün geç sulanmaktan zarar görmez ama tek bir fazla sulama, özellikle kışın, çürümeyi başlatabilir. Yeni aldığınız bitkileri de ilk iş saksıdan çıkarıp kontrol edin; satış sırasında kullanılan yoğun torflu toprak çoğu zaman eve uygun değildir ve bitkiyi iyi süzülen bir karışıma almak ilk haftalardaki çürüme riskini azaltır.
+
+## Hangi sukulentler çürümeye daha yatkın?
+
+Rozet yapan echeveria ve graptopetalum türleri, yaprak arasında su biriktirdiği için gövde çürümesine; ince ve yumuşak gövdeli sedum türleri ise fazla neme karşı daha hassastır. Haworthia ve gasteria gibi gölgeye daha dayanıklı türler biraz daha toleranslıdır ama onlar da ıslak toprakta uzun süre kalamaz. Sukulent türlerinin ihtiyaçlarını karşılaştırmak için [sukulent çeşitleri](/sukulent-cesitleri) yazımız yol gösterir.
+
+> Unutmayın: Sukulent neden çürür diye düşünürken önce sulama sıklığınızı ve toprağınızı sorgulayın. Çoğu durumda çözüm daha az su ve daha havadar bir toprak karışımıdır.
+@sss
+S: Çürümeye başlayan sukulent kurtarılabilir mi?
+C: Çürüme yalnız köklerde ya da gövdenin alt kısmındaysa çoğu zaman kurtarılabilir. Çürük kısımlar kesilir, bitki birkaç gün kurutulur ve kuru, iyi süzülen bir toprağa dikilir. Gövdenin tamamı yumuşadıysa sağlam yaprak ya da uç parçalarla bitki çoğaltılır.
+
+S: Sukulent kışın ne sıklıkla sulanmalı?
+C: Sabit bir gün yoktur; toprak tamamen kuruduğunda sulanır. Serin ve az ışıklı bir odada bu süre üç dört haftayı bulabilir. Sıcak ve aydınlık bir ortamda daha sık gerekebilir.
+
+S: Sukulent yaprağının yumuşaması her zaman çürüme mi demektir?
+C: Hayır. Yumuşak ama buruşuk ve ince yapraklar genellikle susuzluğu gösterir. Çürümede yapraklar sulu, şeffaf ve ezilmiş gibi görünür, gövde dibi koyulaşır ve topraktan kötü koku gelebilir.
+
+### YAZI
+slug: cil-hastaligi-coryneum
+baslik: Çil Hastalığı (Coryneum): Sert Çekirdeklilerde Delikli Yaprak
+yayin: 2026-12-20 08:35
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: çil hastalığı
+seo_baslik: Çil Hastalığı: Kayısı, Şeftali ve Kirazda Delikli Yaprak
+seo_aciklama: Çil hastalığı nedir? Kayısı, şeftali, kiraz ve eriklerde yapraklarda delikler açan bu hastalığın belirtileri, kışın yapılacak işler ve kültürel önlemler.
+ozet: Yapraklarında saçma ile delinmiş gibi küçük delikler olan kayısı, şeftali ya da kiraz ağacı çoğu zaman çil hastalığının etkisindedir. Hastalığı tanımayı ve kış döneminden başlayarak alınacak önlemleri anlatıyoruz.
+etiketler: çil hastalığı, coryneum, sert çekirdekli meyveler, kayısı hastalıkları, şeftali hastalıkları
+gorsel: p12-cil
+gorsel_alt: Üzerinde küçük kahverengi lekeler ve yer yer delikler bulunan sert çekirdekli meyve ağacı yaprakları
+urunler: budama-makasi, uzman-16-lt-sarjli-ilaclama-pompasi-usr-403, hasturk-kati-solucan-gubresi
+kisaca: Çil hastalığı kayısı, şeftali, kiraz, vişne, erik ve bademde görülen bir mantar hastalığıdır. Yapraklarda kırmızı halkalı küçük lekeler oluşur, sonra lekelerin ortası düşer ve yaprak saçmayla delinmiş gibi görünür. Mantar kışı tomurcuk ve sürgün yaralarında geçirdiği için kış budaması ve bahçe temizliği en önemli önlemlerdir.
+@govde
+Çil hastalığı, bahçesinde kayısı, şeftali ya da kiraz yetiştirenlerin sıkça karşılaştığı ama çoğu zaman böcek zararı sanılan bir sorundur. Yaprakların üzerinde sanki biri saçma ile ateş etmiş gibi küçük, yuvarlak delikler görürseniz büyük ihtimalle bu hastalıkla karşı karşıyasınız. Halk arasında "delik yaprak" olarak da bilinen hastalığın etkeni bir mantardır ve sert çekirdekli meyve ağaçlarının hemen hepsinde görülebilir. Bu yazıda hastalığın belirtilerini, yayılma koşullarını ve kış döneminden başlayarak alınabilecek önlemleri anlatıyoruz.
+
+## Çil hastalığı nedir?
+
+Çil hastalığı, eski adıyla Coryneum, bugünkü adıyla Wilsonomyces carpophilus adlı bir mantarın neden olduğu bir hastalıktır. Kayısı, şeftali, nektarin, kiraz, vişne, erik ve badem başlıca konukçularıdır. Mantar yaprakları, yeşil sürgünleri, tomurcukları ve meyveleri etkileyebilir.
+
+Hastalığın önemi yalnız yaprakları bozması değildir. Ağır enfeksiyonlarda tomurcuklar ölür, sürgünlerde zamk akıntısı görülür, meyvelerde kabuklu lekeler oluşur ve pazar değeri düşer. Yaprakların erken dökülmesi ise ağacı zayıflatır ve bir sonraki yılın verimini olumsuz etkiler.
+
+## Belirtiler: delikli yaprak nasıl tanınır?
+
+- **Yapraklarda lekeler:** İlkbaharda yapraklarda önce birkaç milimetre çapında, kırmızı-mor renkli halkayla çevrili kahverengi lekeler oluşur.
+- **Delikler:** Bir süre sonra lekenin ortası kuruyup düşer, yaprak delikli bir görünüm alır. Bu delikler yaprak böceklerinin yedikleri düzensiz deliklerden daha yuvarlak ve kenarları daha düzgündür.
+- **Sürgün ve tomurcuklarda:** Bir yaşlı sürgünlerde koyu renkli, çökük lekeler ve zamk akıntısı görülür. Enfekte tomurcuklar kararır ve ilkbaharda açmaz.
+- **Meyvede:** Kayısı ve şeftalide meyve üzerinde küçük, kırmızı halkalı lekeler ve kabuklaşma oluşur.
+
+Benzer belirtiler veren diğer hastalıkları ayırt etmek için kayısıda [kayısı hastalıkları](/kayisi-hastaliklari), şeftalide [şeftali yaprak kıvırcıklığı](/seftali-yaprak-kivircikligi) yazılarımıza da göz atabilirsiniz.
+
+## Çil hastalığı nasıl yayılır?
+
+Mantar kışı enfekte tomurcuklarda ve sürgünlerdeki lekelerde geçirir. Sonbahar ve kış yağmurları ile ilkbaharın serin, yağışlı günleri sporların taşınması için en uygun dönemdir. Sporlar yağmur damlalarının sıçramasıyla yakındaki tomurcuk ve yapraklara ulaşır.
+
+Hastalığın yayılmasını kolaylaştıran koşullar şunlardır:
+
+- Uzun süren yağışlı ve nemli dönemler
+- Sık dikilmiş, budanmamış ve hava almayan ağaçlar
+- Yağmurlama sulama ile yaprakların sürekli ıslanması
+- Önceki yıldan kalan enfekte dalların budanmadan bırakılması
+
+## Kışın yapılacaklar
+
+Kış dönemi, çil hastalığıyla mücadelede en çok iş yapılabilecek zamandır. Ağaç yapraksızken enfekte dallar kolayca görülür ve temizlenebilir.
+
+1. **Budama:** Lekeli, zamk akıtan ve kurumuş sürgünleri sağlam dokuya kadar kesin. Budama ağacın içini açarak hava dolaşımını da artırır. Genel kurallar için [kış budaması](/kis-budamasi) yazımıza bakabilirsiniz.
+2. **Budama artıklarını uzaklaştırın:** Kesilen dalları bahçede bırakmayın; kompost yığınına da atmayın.
+3. **Aletleri temizleyin:** Hastalıklı dalı kestikten sonra makası alkol ya da sabunlu suyla silerek sağlıklı dallara taşımayın.
+4. **Kış ilaçlaması için danışın:** Dökümden sonra ve tomurcuklar kabarmadan önce yapılan koruyucu uygulamalar bu hastalıkta önemlidir. Kullanılacak ürün ve zamanlama için bölgenizdeki il ya da ilçe tarım müdürlüğünün tahmin-uyarı duyurularını takip edin, müşteri hizmetlerimize danışın.
+
+[ürün:budama-makasi,uzman-16-lt-sarjli-ilaclama-pompasi-usr-403]
+
+## İlkbahar ve yaz önlemleri
+
+- Ağaçların altını ve yapraklarını ıslatan yağmurlama sulama yerine damla sulamayı tercih edin.
+- Dökülen hastalıklı yaprakları toplayın.
+- Ağacı dengeli besleyin; aşırı azot yumuşak ve hastalığa açık sürgünlere yol açar. Organik madde ve solucan gübresi gibi toprağı canlandıran uygulamalar ağacın genel direncini destekler.
+- Yeni bahçe kuruyorsanız hava akımı iyi bir yer seçin ve ağaç aralarını sık tutmayın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Yeni bahçe kurarken ve fidan seçerken
+
+Çil hastalığıyla mücadele, bahçe kurulurken başlar. Fidan alırken sertifikalı, sağlıklı fidanlar tercih edin; gövdesinde ve dallarında koyu çökük lekeler ya da zamk akıntısı olan fidanları almayın. Bölgenizde yağışlı ilkbaharlar sık görülüyorsa, ağaçları çukur ve hava akımı olmayan alanlara değil, rüzgâr alan hafif eğimli yerlere dikmek hastalık baskısını azaltır. Ağaçlar arasında yeterli mesafe bırakmak, yıllar sonra taçlar büyüdüğünde de hava dolaşımının sürmesini sağlar.
+
+Bazı kayısı ve şeftali çeşitleri hastalığa diğerlerinden daha duyarlıdır. Bölgenizdeki fidancılardan ve tarım müdürlüklerinden yerel koşullarda daha az sorun çıkaran çeşitler hakkında bilgi almak, uzun vadede emek ve masraftan tasarruf sağlar.
+
+## Hastalıklı bir ağaçta yıllık bakım takvimi
+
+- **Kış (yaprak dökümünden sonra):** Hastalıklı sürgünleri budayın, budama artıklarını bahçeden uzaklaştırın.
+- **Tomurcuk kabarmadan önce:** Koruyucu uygulama gerekip gerekmediğini tarım müdürlüğünün duyurularından takip edin.
+- **İlkbahar:** Yeni yapraklardaki lekeleri gözleyin, yağışlı haftalardan sonra kontrolü sıklaştırın.
+- **Yaz:** Sulamayı damla ile yapın, dökülen lekeli yaprakları toplayın.
+- **Sonbahar:** Yaprak dökümünü izleyin, dökülen yaprakları temizleyin ve kış budaması için hastalıklı dalları işaretleyin.
+
+Bu düzen bir iki yıl uygulandığında, enfeksiyon kaynağı belirgin şekilde azalır ve ağaç toparlanır.
+
+## Çil hastalığı ile karıştırılan sorunlar
+
+Yapraklardaki her delik çil hastalığı değildir. Bakteriyel yaprak lekesi de sert çekirdeklilerde benzer delikler açabilir; ancak bakteriyel lekeler genellikle köşeli, sulu görünümlü başlar ve yaprak damarlarıyla sınırlanır. Bazı tırtıllar ve yaprak böcekleri düzensiz, kenarları yırtık delikler bırakır. Don ve dolu zararı da genç yapraklarda delik ve yırtıklara yol açabilir; bu durumda delikler bir anda, hava olayından hemen sonra ortaya çıkar ve lekelenme görülmez. Emin olamadığınız durumlarda birkaç yaprak örneğini fotoğraflarıyla müşteri hizmetlerimize iletmek, yanlış uygulamaların önüne geçer. Doğru teşhis, gereksiz masrafı ve emeği önlediği gibi gerçek sorunun zamanında çözülmesini de sağlar.
+
+## Kayısı, şeftali ve kirazda çil hastalığı farkları
+
+Kayısıda çil hastalığı yaprak ve meyvede belirgin lekeler yapar; ağır yıllarda meyvelerin büyük kısmı lekelenebilir. Şeftali ve nektarinde tomurcuk ve sürgün enfeksiyonları öne çıkar. Kiraz ve vişnede ise yapraklardaki delikler daha belirgindir. Kirazda görülen diğer sorunlar için [kiraz hastalıkları](/kiraz-hastaliklari) yazımızı inceleyebilirsiniz. Her durumda ortak nokta, enfeksiyon kaynağını kışın azaltmak ve ağacın içini havalandırmaktır.
+@sss
+S: Yapraklardaki delikler böcekten mi yoksa çil hastalığından mı?
+C: Çil hastalığında delikler yuvarlak ve kenarları düzgündür, deliklerden önce kırmızımsı halkalı lekeler görülür. Böcek yeniklerinde delikler düzensizdir ve yaprakta böcek ya da dışkısı bulunabilir.
+
+S: Çil hastalığı için en önemli dönem hangisidir?
+C: Yaprak dökümünden ilkbaharda tomurcukların kabarmasına kadar geçen dönem önemlidir. Bu dönemde hastalıklı dallar budanır, bahçe temizlenir ve gerekiyorsa müşteri hizmetlerimizin önerisiyle koruyucu uygulama yapılır.
+
+S: Çil hastalığı ağacı kurutur mu?
+C: Genellikle ağacı tek başına kurutmaz ama yaprakları erken döktürüp tomurcukları öldürerek ağacı zayıflatır ve verimi düşürür. Birkaç yıl üst üste ağır geçerse ağaç ciddi şekilde zarar görebilir.
+
+### YAZI
+slug: kabak-gubreleme
+baslik: Kabak Gübreleme: Toprak Hazırlığından Hasada Besleme Takvimi
+yayin: 2026-12-20 09:50
+yazar: Mikdat Çelik
+kategori: gubreleme
+odak: kabak gübreleme
+seo_baslik: Kabak Gübreleme: Ne Zaman, Hangi Gübre, Ne Kadar?
+seo_aciklama: Kabak gübreleme nasıl yapılır? Dikim öncesi toprak hazırlığı, fide döneminde ve meyve tutumunda besleme, solucan gübresi kullanımı ve sık yapılan hatalar.
+ozet: Kabak hızlı büyüyen ve bol meyve veren bir sebzedir; doğru beslenmezse çiçek açar ama meyve tutmaz ya da meyveler küçük kalır. Dikimden hasada kabak gübreleme takvimini ve dikkat edilecek noktaları anlatıyoruz.
+etiketler: kabak gübreleme, kabak yetiştirme, sebze gübreleme, solucan gübresi, organik gübre
+gorsel: p12-kabak-gubre
+gorsel_alt: Geniş yeşil yaprakları arasında sarı çiçekleri ve küçük meyveleri olan kabak bitkisi
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi, solucan-gubreli-sebze-topragi
+kisaca: Kabak gübreleme dikimden önce başlar: toprağa iyi yanmış organik madde ve solucan gübresi karıştırılır. Fide döneminde ölçülü azot, çiçeklenme ve meyve tutumunda potasyum ile fosfor ön plana çıkar. Hasat boyunca iki üç haftada bir sıvı organik besinle destek verilir. Fazla azot yaprağı büyütüp meyveyi azaltır; düzenli sulama gübrenin etkisini artırır.
+@govde
+Kabak gübreleme, yazın bol ürün almak isteyenlerin aslında kıştan düşünmeye başlaması gereken bir konudur. Kabak hızlı büyüyen, kısa sürede iri yapraklar ve çok sayıda meyve veren bir bitkidir; bu da topraktan yoğun besin çektiği anlamına gelir. Toprağı önceden hazırlamak, fideyi dikerken doğru beslemek ve meyve döneminde destek vermek, hem verimi hem de meyve kalitesini belirgin şekilde artırır. Bu yazıda sakız kabağı, siyah kabak gibi yazlık kabaklar için uygulanabilecek bir besleme düzenini anlatıyoruz.
+
+## Kabağın besin ihtiyacı
+
+Kabak, organik maddesi bol, gevşek ve suyu iyi tutan ama su birikmeyen toprakları sever. Besin ihtiyacı dönemlere göre değişir:
+
+- **Azot (N):** Büyümenin ilk haftalarında yaprak ve gövde gelişimi için gereklidir. Fazlası yaprağı büyütür, meyveyi azaltır.
+- **Fosfor (P):** Kök gelişimi ve çiçeklenme için önemlidir.
+- **Potasyum (K):** Meyve tutumu, meyve iriliği ve tadı üzerinde etkilidir. Meyve döneminde ihtiyaç artar.
+- **Kalsiyum ve magnezyum:** Kalsiyum eksikliği meyve ucunda çürümelere, magnezyum eksikliği yaşlı yapraklarda damar arası sararmaya yol açabilir.
+
+Besin elementlerinin genel görevleri için [NPK nedir](/npk-nedir-gubre-etiketi) yazımıza bakabilirsiniz.
+
+## Dikim öncesi toprak hazırlığı
+
+Kabak gübreleme işinin en önemli adımı dikimden önce yapılır. Kışın ve erken ilkbaharda toprağı hazırlamak, bitkinin ilk günden güçlü başlamasını sağlar.
+
+1. **Organik madde ekleyin:** Toprağa iyi yanmış ahır gübresi ya da olgun kompost karıştırın. Taze gübre kökleri yakabileceği için en az birkaç ay önceden verilmelidir.
+2. **Solucan gübresi kullanın:** Dikim çukurlarına ya da sıralara katı solucan gübresi karıştırmak, toprağın yapısını iyileştirir ve besinleri yavaş yavaş sunar.
+3. **Toprağı gevşetin:** Kabak kökleri havalı toprakta daha iyi gelişir. Sıkışmış toprakları bel ile derince işleyin.
+
+Bahçe toprağını sezona hazırlama adımlarını [bahçe toprağı hazırlığı](/bahce-topragi-hazirligi) yazımızda ayrıntılı anlattık.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Fide ve büyüme döneminde kabak gübreleme
+
+Fideler toprağa yerleştikten sonraki ilk üç dört hafta, bitkinin yaprak ve kök oluşturduğu dönemdir. Bu evrede:
+
+- Dikimde çukura konan organik gübre çoğu zaman ilk ihtiyacı karşılar.
+- Bitki gelişimi yavaşsa ya da alt yapraklar açık yeşile dönüyorsa sıvı organik bir besinle destek verebilirsiniz.
+- Aşırı azottan kaçının; çok koyu yeşil ve iri yapraklı ama çiçeği az bir bitki, azotun fazla geldiğini gösterir.
+
+## Çiçeklenme ve meyve döneminde besleme
+
+İlk çiçekler göründükten sonra kabağın potasyum ve fosfor ihtiyacı artar. Bu dönemde iki üç haftada bir sıvı solucan gübresi gibi organik bir besini sulama suyuyla vermek, meyve tutumunu ve hasadın sürekliliğini destekler. Bitkinin dibine ince bir tabaka kompost ya da solucan gübresi serip hafifçe toprağa karıştırmak da besin akışını sürdürür.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+Kabakta çiçek açtığı halde meyve tutmaması her zaman gübreyle ilgili değildir; tozlanma eksikliği de sık bir nedendir. Kabak yetiştirmenin diğer ayrıntıları için [kabak yetiştirme](/kabak-yetistirme) yazımıza göz atabilirsiniz.
+
+## Gübre verirken sulama ilişkisi
+
+Gübrenin bitkiye ulaşabilmesi için toprağın nemli olması gerekir. Kabak bol yaprak yüzeyi nedeniyle sıcak günlerde çok su buharlaştırır; bu yüzden yazın toprak çabuk kurur. Gübre uygulamasını sulamadan önce değil, toprak nemliyken ya da hafif bir sulamanın ardından yapmak kök yanığı riskini azaltır. Sıvı gübreleri sabah saatlerinde vermek, bitkinin gün içinde besinleri daha iyi kullanmasını sağlar. Damla sulama kullanıyorsanız sıvı organik besinleri sulama suyuna katarak düzenli ve dengeli bir besleme yapabilirsiniz.
+
+## Saksıda ve yatakta kabak gübreleme
+
+Balkonda büyük saksıda ya da yükseltilmiş yatakta kabak yetiştiriyorsanız, toprak hacmi sınırlı olduğu için besinler daha çabuk tükenir. Başlangıçta besinli bir sebze toprağı kullanmak, ardından meyve döneminde daha sık ama hafif dozlarla sıvı besin vermek gerekir. Saksı en az 40-50 litre olmalıdır; küçük saksıda kabak hem susuz hem aç kalır.
+
+## Kabakta besin eksikliği belirtileri
+
+Kabak, besin sorunlarını yapraklarıyla hızlıca gösterir. Bu işaretleri tanımak, gübrelemeyi doğru zamanda yapmanızı sağlar:
+
+- **Alt yaprakların genel olarak sararması:** Azot eksikliğinin tipik işaretidir. Bitki yeni yapraklarına besin taşırken yaşlı yapraklar açık yeşile, ardından sarıya döner.
+- **Yaşlı yapraklarda damar arası sararma:** Magnezyum eksikliği düşündürür; damarlar yeşil kalır, aralar sararır.
+- **Yaprak kenarlarında kahverengileşme ve kuruma:** Potasyum eksikliğinin belirtisi olabilir; meyveler de küçük ve şekilsiz kalır.
+- **Meyve ucunda siyahlaşan, çöken bölge:** Genellikle kalsiyumun meyveye yeterince taşınamamasından kaynaklanır. Burada asıl neden çoğu zaman düzensiz sulamadır.
+
+Belirtileri gördüğünüzde önce sulama düzenini ve toprak nemini kontrol edin; sonra eksik olduğu düşünülen besine yönelik dengeli bir organik gübreyle destek verin. Yaprak sararmasının diğer nedenleri için [yapraklar neden sararır](/yapraklar-neden-sararir) yazımıza da bakabilirsiniz.
+
+## Organik gübre seçenekleri
+
+Kabak gübreleme için kullanılabilecek başlıca organik kaynaklar şunlardır: iyi yanmış ahır ve tavuk gübresi, olgun kompost, katı ve sıvı solucan gübresi, odun külü (potasyum kaynağı olarak, az miktarda) ve deniz yosunu özleri. Tavuk gübresi azotça zengin olduğu için dikkatli ve az kullanılmalı, mutlaka olgunlaştırılmış olmalıdır. Solucan gübresi ise kökleri yakmadan, toprağın yapısını iyileştirerek besin sağladığı için hem dikimde hem de meyve döneminde gönül rahatlığıyla kullanılabilir.
+
+## Sık yapılan hatalar
+
+- **Taze gübreyi dikimden hemen önce vermek:** Kökleri yakar, bitkiyi strese sokar.
+- **Sadece azotlu gübreye yönelmek:** Yaprak çok, meyve az olur.
+- **Kuru toprağa gübre vermek:** Gübre verilmeden önce ve sonra toprak nemli olmalıdır. Kuru toprakta gübre yanığı riski artar; ayrıntılar için [gübre yakması](/gubre-yakmasi) yazımıza bakabilirsiniz.
+- **Düzensiz sulama:** Besinler ancak suyla köke ulaşır. Düzensiz sulama meyve uçlarında çürüme gibi sorunları da artırır.
+
+Doğru kabak gübreleme, toprağı canlı tutan organik madde ile meyve dönemindeki ölçülü desteğin birleşimidir. Toprağı kıştan hazırlayan, yazın da düzenli sulayan bir bahçıvan genellikle gübre sorunu yaşamaz.
+@sss
+S: Kabağa hangi gübre verilir?
+C: Dikimden önce iyi yanmış ahır gübresi, kompost ya da solucan gübresi gibi organik gübreler toprağa karıştırılır. Meyve döneminde sıvı organik besinlerle iki üç haftada bir destek verilir.
+
+S: Kabak gübreleme ne zaman yapılır?
+C: İlk gübreleme dikimden önce toprak hazırlığında yapılır. Ardından ilk çiçeklerin görülmesiyle birlikte meyve döneminde düzenli aralıklarla hafif besleme sürdürülür.
+
+S: Kabak çok yaprak yapıp az meyve veriyorsa neden olabilir?
+C: En sık neden fazla azottur. Ayrıca tozlanma eksikliği, yetersiz güneş ve düzensiz sulama da meyve tutumunu azaltabilir.
+
+### YAZI
+slug: evde-fide-yetistirme
+baslik: Evde Fide Yetiştirme: Tohumdan Sağlıklı Fideye Adım Adım Rehber
+yayin: 2026-12-20 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: evde fide yetiştirme
+seo_baslik: Evde Fide Yetiştirme: Tohum, Toprak, Işık ve Sulama
+seo_aciklama: Evde fide yetiştirme için doğru zaman, fide toprağı, viyol seçimi, ışık, sıcaklık ve sulama düzeni; domates, biber ve patlıcan fidesi için pratik rehber.
+ozet: Kendi fidenizi evde yetiştirmek hem ekonomik hem de istediğiniz çeşidi seçme özgürlüğü verir. Tohum ekiminden dikime hazır fideye kadar evde fide yetiştirme sürecini adım adım anlatıyoruz.
+etiketler: evde fide yetiştirme, fide yetiştirme, tohum ekimi, fide toprağı, viyol
+gorsel: p12-evde-fide
+gorsel_alt: Kırmızımsı toprakla dolu küçük bir kapta yeni çıkmış genç fide
+urunler: hg-premium-fide-topragi, 45-goz-yuvarlak-fide-viyolu, hg-vermikulit
+kisaca: Evde fide yetiştirme için ince yapılı bir fide toprağı, drenaj delikli viyol, bol ışık ve 20-25 °C sıcaklık gerekir. Tohumlar büyüklüğünün iki üç katı derinliğe ekilir, toprak nemli ama ıslak tutulmaz. Çimlenmeden sonra en önemli etken ışıktır. Dikimden önce fideler birkaç gün dış ortama alıştırılır.
+@govde
+Evde fide yetiştirme, bahçesi ya da balkonu olan herkesin deneyebileceği, keyifli ve öğretici bir iştir. Kendi fidenizi yetiştirdiğinizde hangi çeşidi ekeceğinize siz karar verirsiniz, ata tohumlarınızı yaşatırsınız ve dikim zamanı geldiğinde elinizde sağlıklı, güçlü fideler olur. Domates, biber ve patlıcan gibi sıcak seven sebzelerin fideleri, bölgeye göre kış sonunda evde başlatılır. Bu yazıda tohum seçiminden dikime hazır fideye kadar bilmeniz gerekenleri adım adım anlatıyoruz.
+
+## Evde fide yetiştirme için gerekenler
+
+Başlamadan önce birkaç temel malzemeyi hazırlamak işinizi kolaylaştırır:
+
+- **Tohum:** Güvenilir kaynaktan, ekim tarihi geçmemiş tohum.
+- **Fide toprağı:** İnce yapılı, hafif, steril ve suyu dengeli tutan bir karışım. Bahçe toprağı ağır olduğu ve hastalık taşıyabileceği için uygun değildir.
+- **Viyol ya da küçük kaplar:** Altında drenaj deliği olan, göz başına bir iki tohum alan kaplar.
+- **Işık kaynağı:** Güneye bakan bir pencere ya da gerektiğinde bitki yetiştirme lambası.
+- **Püskürtücü:** Tohumları yerinden oynatmadan nemlendirmek için.
+
+Fide toprağının neden önemli olduğunu ve nasıl olması gerektiğini [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazımızda da ele aldık.
+
+## Ne zaman başlamalı?
+
+Fide ekim zamanı, fideyi dışarı dikeceğiniz tarihe göre geriye doğru hesaplanır. Domates ve biber fidelerinin dikim boyuna gelmesi genellikle 6-8 hafta, patlıcanda 8-10 hafta sürer. Son don tarihinden sonra dikim yapılacağı düşünülürse, ılıman bölgelerde şubat başı, serin bölgelerde mart başı ekim için uygun zamandır. Çok erken ekilen fideler evde fazla bekleyip uzar ve zayıflar; bu yüzden acele etmemek gerekir.
+
+[ürün:hg-premium-fide-topragi,45-goz-yuvarlak-fide-viyolu]
+
+## Tohum ekimi adım adım
+
+1. **Toprağı nemlendirin:** Fide toprağını viyole doldurmadan önce hafifçe nemlendirin; avuçta sıkınca su damlamamalı, dağılmamalıdır.
+2. **Viyolü doldurun:** Toprağı gözlere doldurup hafifçe bastırın, yüzeyi düzleyin.
+3. **Tohumu ekin:** Her göze bir iki tohum koyun. Genel kural, tohumu kendi büyüklüğünün iki üç katı derinliğe ekmektir. Domates ve biber için bu yaklaşık yarım santimetredir.
+4. **Üzerini örtün:** Tohumların üzerini ince bir fide toprağı ya da vermikülit tabakasıyla örtün. Vermikülit nemi korur ve yüzeyde kabuk oluşmasını engeller.
+5. **Nemlendirin ve örtün:** Püskürtücüyle nemlendirip viyolün üzerini şeffaf bir kapak ya da streç filmle örterek nemi koruyun.
+
+[ürün:hg-vermikulit]
+
+## Çimlenme dönemi: sıcaklık ve nem
+
+Sıcak seven sebzelerin tohumları 20-25 °C civarında en iyi çimlenir. Serin bir odada çimlenme haftalarca gecikebilir ya da hiç olmayabilir. Viyolü buzdolabının üstü gibi hafif ılık bir yere ya da kaloriferin yakınına (doğrudan üstüne değil) koyabilirsiniz. Bu dönemde ışık şart değildir ama toprağın kurumamasına dikkat edin.
+
+İlk filizler toprağı deldiği anda örtüyü kaldırın ve viyolü hemen ışığa alın. Çimlenme sorunları yaşıyorsanız [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazımız olası nedenleri açıklar.
+
+## Işık: evde fide yetiştirme işinin anahtarı
+
+Çimlenen fidelerin en çok ihtiyaç duyduğu şey ışıktır. Kış sonunda günler kısa ve güneş zayıf olduğu için pencere önündeki fideler bile ışığa uzanarak boylanabilir. Bunu önlemek için:
+
+- Viyolü evin en aydınlık penceresine, camın hemen önüne yerleştirin.
+- Fidelerin tek tarafa eğilmemesi için viyolü her gün çevirin.
+- Işık yetersizse fidelerin birkaç santim üzerine yerleştirilen bir bitki yetiştirme lambası kullanın. Ayrıntılar için [fide aydınlatması](/fide-aydinlatmasi) yazımıza bakabilirsiniz.
+- Geceleri sıcaklığı biraz düşürmek fidelerin daha kısa ve tıknaz kalmasına yardım eder.
+
+## Sulama ve besleme
+
+Fide toprağı her zaman hafif nemli olmalı, ama asla çamur gibi ıslak kalmamalıdır. Fazla su, fidelerin dipten çürüyüp devrildiği fide çökertmesine yol açabilir. Sulamayı mümkünse alttan, viyolün altındaki tabağa su koyarak yapın; toprak suyu emdikten sonra fazlasını boşaltın. İlk gerçek yapraklar çıkana kadar fide toprağındaki besin yeterlidir. Sonrasında çok seyreltilmiş sıvı organik besinle hafif destek verilebilir.
+
+## Evde fide yetiştirirken sık yapılan hatalar
+
+- **Çok erken ekmek:** Dikim zamanı gelmeden boylanan fideler dışarıda zorlanır. Takvimi dikim tarihine göre geriye doğru hesaplayın.
+- **Bahçe toprağı kullanmak:** Ağır toprak kökleri boğar, hastalık etkenleri fideleri devirebilir.
+- **Tohumu derin ekmek:** Küçük tohumlar derinden çıkamaz; özellikle marul, petunya gibi ince tohumlar neredeyse yüzeye ekilmelidir.
+- **Sürekli ıslak toprak:** Fide çökertmesinin en büyük nedenidir. Toprağı nemli tutun, ıslak bırakmayın. Konuyla ilgili ayrıntılar için [fide çökertmesi](/fide-cokertmesi) yazımıza bakabilirsiniz.
+- **Işığı ihmal etmek:** Çimlenmeden sonra viyolü karanlık köşede bırakmak, birkaç günde ince ve zayıf fidelere yol açar.
+- **Etiket koymamak:** Birden fazla çeşit ekiyorsanız her sırayı etiketleyin; fideler küçükken birbirine çok benzer.
+
+## Hangi sebzeler evde fide olarak başlatılır?
+
+Domates, biber, patlıcan gibi uzun gelişme süresi olan ve soğuğa dayanıksız sebzeler mutlaka fide olarak başlatılır. Lahana, brokoli, marul ve pırasa da fideden yetiştirilebilir. Buna karşılık havuç, turp, fasulye, bezelye ve kabak gibi sebzeler genellikle doğrudan toprağa ekilir; kök sistemleri şaşırtmayı sevmediği için fide olarak yetiştirilecekse büyük gözlü kaplar ya da torf saksılar tercih edilmelidir.
+
+## Fide sağlığını gözlemlemek
+
+Sağlıklı bir fide kısa boğumlu, kalın gövdeli ve koyu yeşil yapraklıdır. Yaprak altlarının morumsu olması genellikle soğuktan, alt yaprakların sararması besin azlığından ya da fazla sudan, gövdenin ince ve uzun olması ise ışık azlığından kaynaklanır. Bu işaretleri her gün kısa bir bakışla takip etmek, sorunları büyümeden düzeltmenizi sağlar.
+
+## Şaşırtma ve dışarıya alıştırma
+
+Fideler iki dört gerçek yaprağa ulaştığında, aynı gözde çıkan fazla fideleri makasla dipten keserek en güçlü olanı bırakın. Viyol gözü küçük geliyorsa fideleri daha büyük kaplara alın; bu işlem için [fide şaşırtma](/fide-sasirtma) yazımızdaki adımları izleyebilirsiniz.
+
+Dikimden bir iki hafta önce fideleri her gün birkaç saat dış ortama çıkarıp süreyi yavaş yavaş artırın. Bu alıştırma, fidelerin rüzgâra, güneşe ve sıcaklık farkına uyum sağlamasını sağlar. Böylece evde fide yetiştirme emeğiniz bahçede de karşılığını verir.
+@sss
+S: Evde fide yetiştirmek için en uygun toprak hangisidir?
+C: İnce yapılı, hafif, steril ve suyu dengeli tutan fide toprakları en uygunudur. Bahçe toprağı ağır olduğu ve hastalık etkeni taşıyabileceği için fide ekiminde kullanılmamalıdır.
+
+S: Fideler neden ince ve uzun oluyor?
+C: En sık neden ışık yetersizliğidir. Fazla sıcaklık ve fidelerin çok sık ekilmesi de boylanmayı artırır. Viyolü daha aydınlık bir yere almak ya da bitki lambası kullanmak sorunu çözer.
+
+S: Domates fidesi kaç haftada dikime hazır olur?
+C: Uygun ışık ve sıcaklıkta domates fidesi genellikle 6-8 haftada, 4-6 gerçek yapraklı ve 15-20 santim boyunda dikime hazır hale gelir.
+
+### YAZI
+slug: kelebek-bahcesi-kelebek-ceken-bitkiler
+baslik: Kelebek Bahçesi: Kelebek Çeken Bitkiler ve Bahçe Düzeni
+yayin: 2026-12-20 12:25
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: kelebek bahçesi
+seo_baslik: Kelebek Bahçesi Nasıl Kurulur? Kelebek Çeken Bitkiler
+seo_aciklama: Kelebek bahçesi kurmak için nektar veren çiçekler, tırtıl besin bitkileri, güneşli yer seçimi ve ilaçsız bakım; balkonda ve bahçede uygulanabilir öneriler.
+ozet: Kelebekler bahçeye renk katar, tozlaşmaya da katkı sağlar. Onları çekmek için doğru çiçekleri, güneşli bir köşeyi ve kimyasaldan uzak bir bakımı bir araya getiren kelebek bahçesi düzenini anlatıyoruz.
+etiketler: kelebek bahçesi, kelebek çeken bitkiler, tozlayıcı bitkiler, doğal bahçe, çiçek bahçesi
+gorsel: p12-kelebek
+gorsel_alt: Mor çiçeklerin üzerinde nektar emen renkli bir kelebek
+urunler: hg-cicek-topragi, arzuman-zinya-kirli-hanim-cicegi-tohumu-30-adet, arzuman-lavanta-tohumu-100-adet
+kisaca: Kelebek bahçesi için günde en az altı saat güneş alan, rüzgârdan korunan bir alan seçilir. Lavanta, zinya, kadife çiçeği, mine, ekinezya ve kelebek çalısı gibi bol nektarlı çiçekler farklı dönemlerde açacak şekilde birlikte dikilir. Tırtılların beslendiği bitkilere de yer verilir, sığ bir su kabı konur ve bahçede kimyasal ilaç kullanılmaz.
+@govde
+Kelebek bahçesi, hem göze hitap eden hem de doğaya katkı sağlayan en keyifli bahçe düzenlerinden biridir. Kelebekler çiçekten çiçeğe uçarken bahçeye renk ve hareket katar, aynı zamanda tozlaşmaya da yardımcı olur. Kış ayları, bahar ve yaz için bahçe planı yapmanın tam zamanıdır; hangi çiçekleri nereye dikeceğinizi şimdiden belirlerseniz ilkbaharda tohum ve fide işini zamanında yaparsınız. Bu yazıda kelebekleri bahçenize çekmek için gereken bitkileri ve düzeni anlatıyoruz.
+
+## Kelebek bahçesi neden önemli?
+
+Kelebekler, arılar gibi tozlayıcı böceklerdir. Şehirleşme, tarım ilaçları ve doğal alanların azalması nedeniyle birçok kelebek türünün sayısı azalıyor. Bahçenizde ya da balkonunuzda ayıracağınız küçük bir alan bile kelebekler için önemli bir beslenme durağı olabilir. Ayrıca kelebekleri çeken çiçekler genellikle arıları ve diğer faydalı böcekleri de çeker; bu da sebze bahçesindeki tozlaşmayı ve doğal dengeyi destekler. Arılar için yapılabilecekleri [arı dostu bitkiler](/ari-dostu-bitkiler) yazımızda ayrıca ele aldık.
+
+## Yer seçimi: güneş ve rüzgâr
+
+Kelebekler soğukkanlı canlılardır; uçabilmek için vücutlarını güneşte ısıtmaları gerekir. Bu yüzden kelebek bahçesi için:
+
+- Günde en az altı saat doğrudan güneş alan bir yer seçin.
+- Rüzgârdan korunan, çit, duvar ya da çalı ile kısmen çevrili köşeler tercih edin.
+- Kelebeklerin güneşlenebileceği birkaç düz taş yerleştirin.
+- Çiçekleri tek tek dağıtmak yerine öbekler halinde dikin; kelebekler renk kümelerini uzaktan daha kolay fark eder.
+
+## Kelebek çeken nektar bitkileri
+
+Yetişkin kelebekler çiçeklerin nektarıyla beslenir. Farklı mevsimlerde açan bitkileri bir arada kullanmak, ilkbahardan sonbahara kesintisiz besin sağlar:
+
+- **Lavanta:** Yazın açan, kokulu ve kuraklığa dayanıklı; kelebekler ve arılar için mükemmel bir bitki.
+- **Zinya:** Uzun süre açan, renkli, tohumdan kolay yetişen tek yıllık bir çiçek.
+- **Kadife çiçeği:** Yazdan sonbahara açar, bakımı kolaydır.
+- **Mine çiçeği:** Küçük çiçek kümeleri kelebeklerin çok sevdiği bir yapıdadır.
+- **Ekinezya:** Çok yıllık, iri çiçekli ve yaz boyu açan bir bitki.
+- **Kelebek çalısı (Buddleja):** Adını kelebekleri çekmesinden alan, salkım çiçekli bir çalı.
+- **Aromatik bitkiler:** Kekik, nane, adaçayı ve biberiye çiçek açtığında kelebeklere nektar sağlar.
+
+Bu bitkilerin yetiştirilmesi için [lavanta yetiştirme](/lavanta-yetistirme) ve [kadife çiçeği](/kadife-cicegi-tohumu-toplama-ve-ekimi) yazılarımıza bakabilirsiniz.
+
+[ürün:arzuman-zinya-kirli-hanim-cicegi-tohumu-30-adet,arzuman-lavanta-tohumu-100-adet]
+
+## Tırtıllar için besin bitkileri
+
+Gerçek bir kelebek bahçesi yalnız yetişkin kelebekleri değil, tırtılları da düşünür. Her kelebek türü yumurtasını belirli bitkilere bırakır. Isırgan otu, rezene, dereotu, maydanoz ve bazı yabani otlar birçok kelebeğin tırtıl besinidir. Bahçenin bir köşesini biraz "dağınık" bırakmak, bu bitkilere yer açar. Tırtılların yedikleri birkaç yaprak, bahçe için büyük bir kayıp değildir.
+
+## Su ve dinlenme alanları
+
+Kelebekler nemli topraktan ve sığ su birikintilerinden su ve mineral alır. Bahçenize içi kum ya da çakılla doldurulmuş, hafif ıslak tutulan sığ bir kap koymak onlar için cazip bir durak olur. Kuşların da su içebileceği bir alan oluşturmak isterseniz [kuş dostu bahçe](/kus-dostu-bahce) yazımızdaki önerilerden yararlanabilirsiniz.
+
+## Balkonda kelebek bahçesi
+
+Bahçeniz yoksa güneşli bir balkon da küçük bir kelebek bahçesine dönüşebilir. Geniş bir balkon çiçekliğine ya da birkaç saksıya lavanta, zinya, kadife çiçeği ve aromatik bitkiler dikebilirsiniz. Saksılarda drenajı iyi, besinli bir çiçek toprağı kullanmak bitkilerin uzun süre çiçek açmasını sağlar.
+
+[ürün:hg-cicek-topragi]
+
+## Mevsimlere göre çiçek takvimi
+
+Kelebeklerin bahçede bütün sezon kalması için çiçeklenmenin kesintisiz sürmesi gerekir. Planlama yaparken bitkileri açtıkları döneme göre gruplamak işinizi kolaylaştırır:
+
+- **İlkbahar:** Hercai menekşe, çuha çiçeği, erken açan aromatik bitkiler ve meyve ağaçlarının çiçekleri ilk kelebeklere besin sağlar.
+- **Yaz başı:** Lavanta, kekik, adaçayı, mine çiçeği ve papatya.
+- **Yaz ortası ve sonu:** Zinya, kadife çiçeği, ekinezya, kozmos ve kelebek çalısı.
+- **Sonbahar:** Kasımpatı, geç açan zinyalar ve sedum türleri, göç eden kelebekler için son durakları oluşturur.
+
+Bu takvime göre her dönemde en az iki üç farklı bitkinin çiçekte olmasını sağlamak, bahçenizi kelebekler için güvenilir bir beslenme alanına dönüştürür.
+
+## Kışın hazırlık
+
+Kış ayları, bahçe planını yapmak ve tohumları temin etmek için en uygun zamandır. Tek yıllık çiçeklerin tohumlarını şubat ve mart aylarında viyollere ekerek ilkbaharda dikime hazır fideler elde edebilirsiniz. Çok yıllık bitkilerin kuru saplarını kışın hemen kesmemek de önemlidir; bazı faydalı böcekler ve kelebek pupaları kışı bu sapların içinde ya da çevresinde geçirir. Sapları ilkbaharda yeni sürgünler görününce temizlemek hem bahçeyi düzenli tutar hem de kışlayan canlılara zarar vermez.
+
+## Bahçede kelebekleri gözlemlemek
+
+Kelebek bahçesi kurduktan sonra hangi kelebeklerin geldiğini gözlemlemek bu işin en keyifli tarafıdır. Sabahın ilerleyen saatlerinden öğleden sonraya kadar, güneşli ve rüzgârsız günlerde kelebekler en hareketli halindedir. Hangi çiçeklerin daha çok ziyaret edildiğini not etmek, bir sonraki yıl ekimlerinizi buna göre artırmanıza yardım eder. Çocuklarla birlikte yapılacak bu gözlemler, onların doğaya ilgisini artıran güzel bir etkinliktir. Kelebeklerin yanında arılar, sinekkuşu güveleri ve uğur böcekleri de bahçeye gelmeye başladığında, bahçenizin canlı bir ekosisteme dönüştüğünü göreceksiniz. Bu canlıların varlığı, sebze bahçenizdeki tozlaşmayı da olumlu etkiler.
+
+## Kimyasalsız bakım
+
+Kelebek bahçesinin en önemli kuralı ilaç kullanmamaktır. Böcek ilaçları kelebekleri ve tırtılları doğrudan öldürür. Zararlılarla karşılaştığınızda önce elle toplama, suyla yıkama gibi yöntemleri deneyin; bahçede doğal düşmanların, yani uğur böcekleri ve kuşların çoğalmasına izin verin. Solmuş çiçekleri düzenli kesmek bitkilerin yeni çiçek açmasını teşvik eder ve kelebek bahçesi sezon boyu canlı kalır.
+
+Unutmayın, kelebek bahçesi bir iki mevsimde olgunlaşır. İlk yıl az sayıda kelebek görseniz bile, çiçekler yerleşip bahçe zenginleştikçe ziyaretçileriniz her yıl artacaktır. Sabırlı olmak ve bahçeyi ilaçsız tutmak, bu sürecin en önemli parçasıdır.
+@sss
+S: Kelebekleri en çok hangi çiçekler çeker?
+C: Lavanta, zinya, mine, kadife çiçeği, ekinezya ve kelebek çalısı en çok tercih edilen çiçekler arasındadır. Kekik ve nane gibi aromatik bitkiler çiçek açtığında da kelebekleri çeker.
+
+S: Balkonda kelebek bahçesi yapılabilir mi?
+C: Evet. Güneş alan bir balkonda saksılara ya da çiçekliklere lavanta, zinya ve aromatik bitkiler dikilerek küçük bir kelebek bahçesi oluşturulabilir.
+
+S: Kelebek bahçesine ne zaman başlanmalı?
+C: Planlama kışın yapılır. Tek yıllık çiçeklerin tohumları kış sonu ve ilkbaharda ekilir, çok yıllık bitkiler ve çalılar ise sonbahar ya da ilkbaharda dikilir.
+
+### YAZI
+slug: ev-bitkisi-secimi
+baslik: Ev Bitkisi Seçimi: İlk Bitkinizi Seçerken Bilmeniz Gerekenler
+yayin: 2026-12-20 13:45
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: ev bitkisi seçimi
+seo_baslik: Ev Bitkisi Seçimi: Işığa ve Yaşam Tarzına Göre Rehber
+seo_aciklama: Ev bitkisi seçimi nasıl yapılır? Pencere yönü, ışık, bakım süresi, evcil hayvan ve çocuk güvenliğine göre ilk bitkinizi seçmek için pratik rehber.
+ozet: İlk ev bitkisini seçerken yapılan en büyük hata, bitkiyi eve göre değil görünüşüne göre almaktır. Işığa, zamana ve yaşam tarzınıza uygun bir ev bitkisi seçimi için dikkat edilecekleri anlatıyoruz.
+etiketler: ev bitkisi seçimi, salon bitkisi, yeni başlayanlar için bitki, kolay bakımlı bitkiler, iç mekân bitkileri
+gorsel: p12-ev-bitkisi
+gorsel_alt: Aydınlık bir pencere önündeki rafta farklı saksılarda duran yeşil ev bitkileri
+urunler: salon-bitkilerine-ozel-toprak-karisimi, pasa-kilici-sansevieria-topragi, hg-salon-sarmasigi-topragi
+kisaca: Ev bitkisi seçimi önce evin ışığına göre yapılır: güney ve batı pencereleri için ışık seven, kuzey cepheler için az ışığa dayanıklı bitkiler seçilir. Ardından bakım süresi, çocuk ve evcil hayvanlar, oda sıcaklığı ve nem düşünülür. Yeni başlayanlar için paşa kılıcı, ZZ bitkisi ve salon sarmaşığı iyi seçeneklerdir.
+@govde
+Ev bitkisi seçimi, çoğu zaman bir çiçekçinin önünden geçerken ya da internette güzel bir fotoğraf görürken anlık bir kararla yapılır. Oysa bitkinin uzun süre sağlıklı kalması, onun ihtiyaçlarının evinizin koşullarıyla uyuşmasına bağlıdır. İlk bitkisi kısa sürede kuruyan pek çok kişi "bende bitki yaşamıyor" diye düşünür; aslında sorun çoğu zaman yanlış yere yanlış bitkinin konmasıdır. Bu yazıda ilk ev bitkinizi seçerken sormanız gereken soruları ve yeni başlayanlara uygun bitkileri anlatıyoruz.
+
+## Ev bitkisi seçimi için ilk soru: Işık
+
+Bir bitkinin evde yaşayıp yaşamayacağını belirleyen en önemli etken ışıktır. Bitkiyi koymayı düşündüğünüz yerin ne kadar ışık aldığını önce gözlemleyin:
+
+- **Güney cephesi:** Gün boyu en çok ışık alan pencerelerdir. Kaktüs, sukulent, kauçuk, cennet kuşu gibi ışık seven bitkiler için uygundur.
+- **Batı cephesi:** Öğleden sonra güçlü güneş alır. Işık seven bitkilerin çoğu burada iyi gelişir; yazın hassas yapraklı bitkiler yanabilir.
+- **Doğu cephesi:** Sabahın yumuşak güneşini alır. Barış çiçeği, dua çiçeği ve calathea gibi doğrudan sert güneşi sevmeyen bitkiler için idealdir.
+- **Kuzey cephesi:** Doğrudan güneş almaz. Paşa kılıcı, ZZ bitkisi, aspidistra ve salon sarmaşığı gibi az ışığa dayanıklı bitkiler tercih edilmelidir.
+
+Pencereden uzaklaştıkça ışık hızla azalır; odanın ortası, pencerenin hemen önüne göre birkaç kat daha karanlıktır. Az ışıklı alanlar için uygun bitkileri [az ışıkta yaşayan salon bitkileri](/az-isikta-yasayan-salon-bitkileri) yazımızda listeledik.
+
+## Bakıma ne kadar zaman ayırabilirsiniz?
+
+Sık seyahat ediyor ya da yoğun çalışıyorsanız, haftalarca susuz kalabilen bitkiler size göredir. Sulamayı sık sık unutanlar için sukulentler, paşa kılıcı ve ZZ bitkisi iyi seçeneklerdir. Buna karşılık eğrelti otu, calathea ve bazı orkideler düzenli nem ve dikkat ister. Bitkilerle ilgilenmeyi seviyor ve her gün göz atabiliyorsanız daha hassas türleri de deneyebilirsiniz.
+
+## Evde çocuk ya da evcil hayvan var mı?
+
+Bazı popüler ev bitkileri yenildiğinde ağızda tahriş, mide bulantısı gibi sorunlara yol açabilir. Difenbahya, kroton ve bazı zambak türleri bunlara örnektir. Evinizde küçük çocuk, kedi ya da köpek varsa ev bitkisi seçimi yaparken bu konuyu mutlaka göz önüne alın. Ayrıntılı liste için [zehirli ev bitkileri](/zehirli-ev-bitkileri) ve [evcil hayvan dostu bitkiler](/evcil-hayvan-dostu-bitkiler) yazılarımıza bakabilirsiniz.
+
+## Oda sıcaklığı ve nem
+
+Çoğu salon bitkisi 18-24 °C arasındaki sıcaklıklardan hoşlanır. Kışın kaloriferin hemen yanı, yazın klimanın önü bitkiler için zorlu yerlerdir. Kaloriferli evlerde hava kuruduğu için yaprak uçları kurur; nem seven bitkiler için bu durumda ek önlem almak gerekir. Banyo ve mutfak gibi nemli alanlarda ise eğrelti ve barış çiçeği gibi nemden hoşlanan bitkiler daha iyi görünür.
+
+## Yeni başlayanlar için uygun bitkiler
+
+İlk bitkinizde başarılı olmak, bitki yetiştirme hevesinizi artırır. Aşağıdaki bitkiler, ev koşullarına uyum sağlama konusunda oldukça başarılıdır:
+
+- **Paşa kılıcı:** Az suyla, az ışıkta yaşayabilir; neredeyse unutulmaya dayanıklıdır.
+- **ZZ bitkisi:** Parlak yaprakları ve kalın kökleri sayesinde susuzluğa dayanıklıdır.
+- **Salon sarmaşığı (pothos):** Hızlı büyür, sarkan ya da tırmanan şekilde yetiştirilebilir; susadığında yapraklarını sarkıtarak haber verir.
+- **Kauçuk ağacı:** Aydınlık bir köşede güçlü ve gösterişli bir bitkiye dönüşür.
+- **Barış çiçeği:** Yarı gölgede yaşar, susadığında yaprakları düşer, suladıktan sonra hızla toparlanır.
+
+[ürün:pasa-kilici-sansevieria-topragi,hg-salon-sarmasigi-topragi]
+
+## Bitki eve gelince ilk haftalar
+
+Yeni bir bitki, seradan ya da çiçekçiden eve geldiğinde ışık, sıcaklık ve nem açısından büyük bir değişim yaşar. Bu yüzden ilk iki üç haftada birkaç yaprak sararması ya da dökülmesi normaldir. Bu dönemde bitkiyi sık sık yer değiştirmeyin, hemen saksı değiştirmeyin ve gübre vermeyin. Sulamayı toprağın üst kısmı kuruduğunda yapın, bitkinin yeni yerine alışmasına izin verin. Uyum dönemi geçtikten sonra yeni yaprak çıkarmaya başlaması, doğru yeri bulduğunuzun en iyi işaretidir.
+
+Bitkinin ihtiyaçlarını öğrenmek için etiketine ya da satıcıya türün tam adını sormak faydalıdır. Aynı adla satılan farklı türlerin bakımı birbirinden ayrılabilir. Türü bildiğinizde ışık, sulama ve toprak tercihini kolayca araştırabilirsiniz.
+
+## Bütçeye ve alana göre seçim
+
+Küçük bir dairede yer kaplamayan masa üstü bitkiler, sarkan türler ya da dikey büyüyen bitkiler daha uygundur; geniş salonlarda ise kauçuk, monstera ve cennet kuşu gibi büyük bitkiler odanın odak noktası olabilir. Bütçe açısından da genç ve küçük boy bitkiler hem daha ucuzdur hem de eve daha kolay uyum sağlar. Büyük ve yaşlı bitkiler taşınma ve ortam değişikliğinden daha fazla etkilenebilir. Büyük boy türler için [büyük salon bitkileri](/buyuk-salon-bitkileri) yazımıza göz atabilirsiniz.
+
+## Saksı ve toprak uyumu
+
+Ev bitkisi seçimi yalnız bitkiyle bitmez; bitkinin yaşayacağı saksı ve toprak da en az bitki kadar önemlidir. Dekoratif saksılar çoğu zaman deliksizdir; bu durumda bitkiyi delikli plastik bir iç saksıda bırakıp dekoratif saksının içine koymak, fazla suyun birikmesini önler. Toprak seçiminde de bitkinin doğal yaşam alanını düşünmek gerekir: sukulentler hızlı süzülen, orkideler kabuklu ve havalı, salon bitkilerinin çoğu ise nemi dengeli tutan gevşek bir karışım ister.
+
+## Satın alırken bitkiyi inceleyin
+
+Seçtiğiniz bitkinin sağlıklı olması da önemlidir. Yaprak altlarını zararlılar açısından kontrol edin, sarı ya da lekeli yaprakları çok olan bitkilerden kaçının. Saksı altından dışarı çıkan kökler bitkinin saksı değişimine ihtiyaç duyduğunu gösterir. Yeni bitkiyi eve getirdikten sonra birkaç hafta diğer bitkilerden uzak tutmak, olası zararlıların yayılmasını önler.
+
+Bitki eve uyum sağladıktan sonra, saksı değişimi gerektiğinde türüne uygun bir toprak kullanmak uzun ömrünü destekler. Doğru ev bitkisi seçimi, doğru toprak ve doğru konumla birleştiğinde, bakım düşündüğünüzden çok daha kolay hale gelir.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+@sss
+S: Yeni başlayanlar için en kolay ev bitkisi hangisidir?
+C: Paşa kılıcı, ZZ bitkisi ve salon sarmaşığı en kolay ev bitkileri arasındadır. Az ışığa ve düzensiz sulamaya dayanıklıdırlar.
+
+S: Ev bitkisi seçimi yaparken neye dikkat edilmeli?
+C: Önce bitkinin konacağı yerin ışığına bakılmalı, ardından bakıma ayrılabilecek zaman, evdeki çocuk ve evcil hayvanlar, oda sıcaklığı ve nem durumu dikkate alınmalıdır.
+
+S: Kuzeye bakan bir eve hangi bitki uygundur?
+C: Paşa kılıcı, ZZ bitkisi, aspidistra ve salon sarmaşığı gibi az ışığa dayanıklı bitkiler kuzey cephesinde de yaşayabilir. Yine de pencereye yakın tutulmaları gerekir.
+
+### YAZI
+slug: barbunya-yetistirme
+baslik: Barbunya Yetiştirme: Oturak ve Sırık Barbunya Ekimi ve Bakımı
+yayin: 2026-12-20 15:10
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: barbunya yetiştirme
+seo_baslik: Barbunya Yetiştirme: Ekim Zamanı, Bakım ve Hasat
+seo_aciklama: Barbunya yetiştirme rehberi: oturak ve sırık çeşitler, ekim zamanı ve derinliği, toprak hazırlığı, sulama, destek kurma, taze ve kuru hasat zamanı.
+ozet: Barbunya, hem taze kabuklu olarak hem de kuru tane olarak tüketilen, bahçede kolay yetişen bir baklagildir. Oturak ve sırık barbunya yetiştirme için toprak hazırlığından hasada kadar bilmeniz gerekenleri anlatıyoruz.
+etiketler: barbunya yetiştirme, barbunya ekimi, sırık barbunya, oturak barbunya, baklagiller
+gorsel: p12-barbunya
+gorsel_alt: Kırmızı benekli kabukları içinde barbunya taneleri
+urunler: arzuman-oturak-barbunya-tohumu-50-gr, arzuman-sirik-barbunya-tohumu-50-gr, solucan-gubreli-sebze-topragi
+kisaca: Barbunya, son donlardan sonra toprak sıcaklığı 12-15 °C'yi geçince doğrudan toprağa, 3-4 cm derinliğe ekilir. Gevşek, organik maddesi bol ve suyu iyi süzen topraklarda iyi gelişir. Çiçek ve bakla döneminde düzenli sulama ister. Taze hasat baklalar dolgunlaşınca, kuru hasat baklalar bitkide kuruyunca yapılır.
+@govde
+Barbunya yetiştirme, sebze bahçesine yeni başlayanların da kolayca başarabileceği keyifli bir iştir. Kırmızı benekli kabuklarıyla göze hoş görünen barbunya, yazın taze olarak zeytinyağlı yemeklerde, kurutulduğunda ise kış boyunca pilaki ve çorbalarda kullanılır. Bir baklagil olduğu için toprağa da katkı sağlar. Kış ayları, ilkbaharda ekilecek tohumları seçmek ve bahçe planını yapmak için iyi bir zamandır. Bu yazıda oturak ve sırık barbunya yetiştirme için gereken her şeyi adım adım anlatıyoruz.
+
+## Barbunya çeşitleri: oturak mı sırık mı?
+
+Barbunya, fasulyenin bir çeşididir ve iki büyüme şekliyle yetiştirilir:
+
+- **Oturak (bodur) barbunya:** 40-60 cm boyunda kalır, destek istemez. Kısa sürede hasada gelir ve küçük bahçeler, yükseltilmiş yataklar ya da büyük saksılar için uygundur.
+- **Sırık barbunya:** 2 metreye kadar tırmanır, mutlaka destek ister. Daha uzun süre ürün verir ve aynı alandan daha fazla hasat alınmasını sağlar.
+
+Hangisini seçeceğiniz bahçenizin büyüklüğüne ve destek kurmaya ayıracağınız zamana bağlıdır. Fasulye yetiştirmenin genel kurallarını [fasulye yetiştirme](/fasulye-yetistirme) yazımızda ayrıntılı anlattık.
+
+## Ekim zamanı
+
+Barbunya soğuğa dayanıksızdır; don olan topraklarda tohumlar çürür, fideler zarar görür. Ekim için toprak sıcaklığının 12-15 °C'nin üzerine çıkmasını beklemek gerekir. Bu genellikle:
+
+- Akdeniz ve Ege kıyılarında nisan başı,
+- Marmara ve iç kesimlerde nisan sonu – mayıs başı,
+- Serin ve yüksek bölgelerde mayıs ortası
+
+gibi tarihlere denk gelir. Hasadı yaza yaymak için iki üç hafta arayla birkaç seferde ekim yapabilirsiniz.
+
+[ürün:arzuman-oturak-barbunya-tohumu-50-gr,arzuman-sirik-barbunya-tohumu-50-gr]
+
+## Toprak hazırlığı
+
+Barbunya yetiştirme için gevşek, organik maddesi bol, suyu iyi süzen bir toprak gerekir. Ağır ve su tutan topraklarda tohumlar çürüyebilir.
+
+1. Ekimden birkaç hafta önce toprağı derince işleyin.
+2. İyi yanmış kompost ya da solucan gübresi karıştırın.
+3. Taze hayvan gübresi kullanmaktan kaçının; aşırı azot yaprağı büyütüp bakla verimini düşürür.
+
+Baklagiller köklerindeki bakteriler sayesinde havanın azotunu kullanabildiği için yüksek azotlu gübreye ihtiyaç duymaz. Toprak hazırlığının ayrıntıları için [bahçe toprağı hazırlığı](/bahce-topragi-hazirligi) yazımıza bakabilirsiniz.
+
+## Ekim nasıl yapılır?
+
+- **Derinlik:** Tohumları 3-4 cm derinliğe ekin.
+- **Oturak çeşitlerde aralık:** Sıra arası 40-50 cm, sıra üzeri 10-15 cm.
+- **Sırık çeşitlerde:** Desteklerin dibine, ocak başına 3-4 tohum.
+- **Ön ıslatma:** Tohumları ekimden önce birkaç saat suda bekletmek çimlenmeyi hızlandırabilir, ama bir geceden fazla bekletmeyin.
+
+Sırık barbunya için ekimden önce destekleri kurmak, sonradan kökleri zedelemeden işi kolaylaştırır. Kamış, ince sırık ya da file kullanılabilir; çadır şeklinde birleştirilen sırıklar rüzgâra karşı daha dayanıklıdır.
+
+## Sulama ve bakım
+
+Barbunya özellikle çiçeklenme ve bakla bağlama döneminde düzenli su ister. Bu dönemde susuz kalan bitkiler çiçek döker, baklalar boş kalır. Toprak yüzeyi kuruduğunda derin sulama yapın; yaprakları ıslatmamaya çalışın. Bitki dibine malç sermek nemi korur ve yabani otları azaltır. Malç seçimi için [malç çeşitleri](/malc-cesitleri) yazımız yol gösterir.
+
+Barbunyada görülebilen hastalıklar fasulyeyle büyük ölçüde aynıdır; yaprakları uzun süre ıslak bırakmamak ve ekim nöbeti uygulamak riski azaltır. Ayrıntılar için [fasulye hastalıkları](/fasulye-hastaliklari) yazımıza göz atabilirsiniz.
+
+## Saksıda barbunya yetiştirme
+
+Oturak barbunya balkonda da yetiştirilebilir. En az 30 cm derinliğinde ve genişliğinde bir saksı ya da balkon sebze yatağı kullanın. Drenajı iyi, besinli bir sebze toprağı tercih edin ve saksının günde en az altı saat güneş almasına dikkat edin.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Barbunya yetiştirme sırasında karşılaşılan sorunlar
+
+- **Tohumların çimlenmemesi:** Soğuk ve ıslak toprakta tohumlar çürür. Ekimi toprak ısınana kadar erteleyin.
+- **Çiçek dökümü:** Aşırı sıcak, kuru rüzgâr ve susuzluk çiçeklerin dökülmesine yol açar. Çiçeklenme döneminde sulamayı düzenli tutun, sabah saatlerinde sulayın.
+- **Yaprak biti:** Genç sürgünlerin ucunda koloniler oluşturabilir. Su püskürterek yıkamak ya da bitki bazlı kovucular ilk adımdır; ayrıntılar için [yaprak biti](/yaprak-biti) yazımıza bakabilirsiniz.
+- **Boş kalan baklalar:** Tozlanma döneminde aşırı sıcak ve susuzluk tanelerin dolmasını engeller.
+
+## Barbunya ve toprak verimliliği
+
+Barbunya, diğer baklagiller gibi köklerinde nodül adı verilen küçük yumrular oluşturur. Bu yumrulardaki bakteriler havadaki azotu bitkinin kullanabileceği hale getirir. Hasattan sonra bitkinin köklerini toprakta bırakmak, bir sonraki sebze için toprağa doğal bir azot katkısı sağlar. Bu yüzden barbunyadan sonra aynı yere lahana, mısır ya da kabak gibi azot seven sebzeler ekmek iyi bir ekim nöbeti uygulamasıdır.
+
+## Ekim nöbeti ve yer seçimi
+
+Barbunyayı her yıl aynı yere ekmek, toprakta fasulye hastalıklarının birikmesine yol açar. En az iki üç yıl arayla aynı parsele baklagil ekmek daha sağlıklıdır. Barbunya için seçilecek yer günde en az altı sekiz saat güneş almalı, kuvvetli rüzgârdan korunmalıdır. Sırık çeşitlerde destekler kuzey tarafa konursa, uzun bitkiler bahçedeki diğer sebzelere gölge yapmaz. Ekim nöbetinin genel mantığını [ekim nöbeti](/ekim-nobeti) yazımızda anlattık. Barbunyanın yanına marul, turp ve havuç gibi kısa boylu sebzeler; uzağına ise soğan ve sarımsak gibi baklagillerle iyi anlaşmadığı bilinen bitkiler yerleştirilebilir.
+
+## Hasat: taze ve kuru barbunya
+
+- **Taze hasat:** Baklalar dolgunlaşıp taneler belirginleştiğinde, kabuk hâlâ canlı renkteyken yapılır. Ekimden yaklaşık 60-80 gün sonra başlar.
+- **Kuru hasat:** Baklalar bitki üzerinde sararıp kuruduğunda toplanır. Taneler iyice kuruduktan sonra ayıklanır ve serin, kuru yerde saklanır.
+
+Kuru tanelerin bir kısmını gelecek yıl için tohumluk olarak ayırabilirsiniz; bunun için en sağlıklı bitkilerin en dolgun baklalarını seçin. Böylece barbunya yetiştirme döngüsünü her yıl kendi tohumunuzla sürdürebilirsiniz.
+
+Barbunya yetiştirme, az emekle bol ürün veren, toprağı da zenginleştiren bir deneyimdir. Toprak ısınana kadar sabırlı olmak, çiçek döneminde suyu eksik etmemek ve hasadı zamanında yapmak, başarı için yeterlidir. Kuruttuğunuz taneler kış boyunca mutfağınızda, ayırdığınız tohumlar ise gelecek yıl bahçenizde yer alır.
+@sss
+S: Barbunya ne zaman ekilir?
+C: Barbunya son donlardan sonra, toprak sıcaklığı 12-15 °C'yi geçtiğinde ekilir. Bu, kıyı bölgelerde nisan başı, iç kesimlerde nisan sonu ve mayıs başına denk gelir.
+
+S: Barbunya saksıda yetişir mi?
+C: Oturak barbunya en az 30 cm derinliğinde bir saksıda ya da balkon sebze yatağında yetiştirilebilir. Günde en az altı saat güneş alması gerekir.
+
+S: Barbunya kaç günde hasat edilir?
+C: Taze barbunya hasadı genellikle ekimden 60-80 gün sonra başlar. Kuru tane hasadı ise baklaların bitki üzerinde tamamen kurumasıyla yapılır.
+
+### YAZI
+slug: podima-tasi-ile-saksi-susleme
+baslik: Podima Taşı ile Saksı Üstü Süsleme ve Malç: Ne İşe Yarar?
+yayin: 2026-12-20 16:35
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: podima taşı
+seo_baslik: Podima Taşı Nedir? Saksıda Süsleme ve Malç Kullanımı
+seo_aciklama: Podima taşı nedir, saksı üstünde nasıl kullanılır? Süs ve malç amaçlı kullanım, sulama ve nem kontrolü, hangi bitkilerde uygun olduğu ve dikkat edilecekler.
+ozet: Saksı üstüne serilen beyaz podima taşı hem bitkiyi daha bakımlı gösterir hem de malç gibi davranarak toprağı korur. Podima taşının ne işe yaradığını, nasıl serileceğini ve dikkat edilmesi gerekenleri anlatıyoruz.
+etiketler: podima taşı, saksı süsleme, dekoratif taş, saksı malçı, kaktüs ve sukulent
+gorsel: p12-podima
+gorsel_alt: Toprak yüzeyi küçük süs taşlarıyla kaplı saksıda turuncu çiçek açmış kaktüs
+urunler: dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm, kaktus-ve-sukulent-topragi
+kisaca: Podima taşı, yuvarlatılmış beyaz doğal taştır; saksı üstünde süs ve malç amacıyla kullanılır. Toprak yüzeyinin çabuk kurumasını ve yabani ot çıkmasını azaltır, sulamada toprağın sıçramasını önler, kaktüs ve sukulentlerde gövde dibini kuru tutmaya yardım eder. İnce bir tabaka yeterlidir; kalın serilirse toprağın kuruyup kurumadığı zor anlaşılır.
+@govde
+Podima taşı, saksı ve bahçe düzenlemelerinde sıkça kullanılan, yuvarlatılmış beyaz doğal bir taştır. Saksı toprağının üzerine serildiğinde bitkiyi daha bakımlı ve düzenli gösterir; ama faydası yalnız görsel değildir. Doğru kullanıldığında toprağı koruyan bir malç gibi davranır, sulamayı kolaylaştırır ve bazı bitkilerde çürüme riskini azaltır. Bu yazıda podima taşının ne işe yaradığını, hangi bitkilerde tercih edildiğini ve kullanırken nelere dikkat etmek gerektiğini anlatıyoruz.
+
+## Podima taşı nedir?
+
+Podima, doğal taşların tamburda döndürülerek kenarlarının yumuşatılmasıyla elde edilen, pürüzsüz ve yuvarlak görünümlü taşlara verilen addır. Saksı süslemede genellikle beyaz renkli ve 15-25 mm boyutundaki taşlar kullanılır. Bu boyut, saksı yüzeyini düzgün kaplayacak kadar küçük, toprağa karışmayacak kadar iridir.
+
+Bu taş toprakla karıştırılan bir bileşen değildir; yalnızca yüzeye serilir. Toprağın içinde havalanmayı artırmak için kullanılan perlit ya da kil bilyesinden bu yönüyle ayrılır. Toprak bileşenlerinin görevleri için [perlit nedir](/perlit-nedir-nasil-kullanilir) ve [kil bilyesi](/kil-bilyesi-nedir-nasil-kullanilir) yazılarımıza bakabilirsiniz.
+
+## Podima taşı ne işe yarar?
+
+- **Görsel düzen:** Toprak yüzeyini kapatarak saksıyı temiz ve bakımlı gösterir. Özellikle ofis ve salon bitkilerinde, dekoratif saksılarda sık tercih edilir.
+- **Nemin korunması:** Toprak yüzeyinin güneş ve kalorifer etkisiyle hızla kurumasını yavaşlatır.
+- **Sulama kolaylığı:** Sulama sırasında suyun toprağı oyması ve toprak sıçraması önlenir.
+- **Yabani ot ve yosun azalması:** Yüzeye ışık ulaşmadığı için yabani ot tohumları ve yosun daha az gelişir.
+- **Gövde dibini kuru tutma:** Kaktüs ve sukulentlerde gövdenin doğrudan nemli toprağa değmesini azaltarak çürüme riskini düşürür.
+- **Evcil hayvanlardan koruma:** Kedilerin saksı toprağını eşelemesini zorlaştırır.
+
+Bahçede kullanılan diğer malç malzemelerini [malç çeşitleri](/malc-cesitleri) yazımızda karşılaştırdık.
+
+[ürün:dogal-tas-podima-beyaz-tamburlu-tas-15-25-mm]
+
+## Podima taşı nasıl serilir?
+
+1. **Bitkiyi dikin ve toprağı yerleştirin:** Toprak yüzeyi saksı ağzından 2-3 cm aşağıda kalmalıdır.
+2. **Taşları yıkayın:** Taşların üzerindeki tozu gidermek için kullanmadan önce suyla durulayın.
+3. **İnce bir tabaka serin:** Bir iki sıra taş, yani yaklaşık 1-2 cm kalınlık çoğu saksı için yeterlidir.
+4. **Gövde dibini açık bırakın:** Taşları gövdeye yaslamayın; birkaç milimetre boşluk hava dolaşımı sağlar.
+5. **Sulama sonrası kontrol edin:** İlk sulamadan sonra taşların arasından suyun rahatça geçtiğinden emin olun.
+
+## Hangi bitkilerde kullanılır?
+
+Podima taşı en çok kaktüs, sukulent, paşa kılıcı, ZZ bitkisi, bonsai ve dekoratif salon bitkilerinde kullanılır. Bu bitkilerde hem görünüm hem de gövde dibini kuru tutma açısından faydalıdır. Kaktüs ve sukulentlerde iyi süzülen bir toprak ile birlikte kullanıldığında en iyi sonucu verir.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+Nem seven ve toprağı sürekli hafif nemli kalması gereken bitkilerde, örneğin eğrelti otu ya da calathea gibi türlerde, kalın taş tabakası toprağın durumunu takip etmeyi zorlaştırabilir. Bu bitkilerde taş kullanacaksanız çok ince bir tabaka yeterlidir.
+
+## Dikkat edilmesi gerekenler
+
+- **Toprağın kuruduğunu anlamak zorlaşır:** Taş tabakası toprağı gizler. Sulamadan önce taşları kenara çekip ya da tahta bir çubuk batırarak toprağın nemini kontrol edin.
+- **Kalın tabaka sermeyin:** Çok kalın tabaka toprağın havalanmasını azaltır ve nemi gereğinden fazla tutabilir.
+- **Gübre uygulaması:** Katı gübre verirken taşları kenara çekip gübreyi toprağa karıştırın, ardından taşları geri yerleştirin.
+- **Saksı değişiminde:** Taşları toprakla karıştırmadan ayırın, yıkayıp tekrar kullanın.
+- **Ağırlık:** Büyük saksılarda taş tabakası saksıyı ağırlaştırır; balkon kenarında ve askıda kullanırken bunu göz önüne alın.
+
+Sulama alışkanlıklarınızı bitkinin ihtiyacına göre ayarlamak için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımıza göz atabilirsiniz. Doğru kullanıldığında podima taşı, saksının hem görünüşünü hem de toprağın sağlığını destekleyen pratik bir yardımcıdır.
+
+## Renk ve boyut seçimi
+
+Saksı süslemede en çok beyaz taş tercih edilir; yeşil yapraklarla güçlü bir kontrast oluşturur ve modern saksılarla uyumludur. Koyu renkli saksılarda beyaz taş bitkiyi öne çıkarırken, açık renkli saksılarda gri ya da doğal tonlu taşlar daha yumuşak bir görünüm sağlar. Boyut olarak küçük ve orta boy saksılarda 15-25 mm taşlar idealdir. Çok küçük taşlar sulama sırasında toprağa karışabilir, çok iri taşlar ise küçük saksılarda dengesiz durur ve yüzeyi tam kapatmaz.
+
+## Taşların temizliği ve yeniden kullanımı
+
+Zamanla taşların üzerinde toz, kireç lekesi ya da yosun izi oluşabilir. Taşları bir kova suya alıp fırçalamak ve iyice durulamak genellikle yeterlidir; inatçı kireç lekeleri için suya biraz sirke eklenebilir, ardından bol suyla durulanmalıdır. Hastalıklı bir bitkinin saksısında kullanılan taşları başka bir bitkiye aktarmadan önce mutlaka yıkayıp kurutun. Doğru temizlendiğinde süs taşları yıllarca yeniden kullanılabilir, bu da onları ekonomik bir süs malzemesi yapar.
+
+Taşların üzerinde sürekli yeşil yosun oluşuyorsa bu, toprağın gereğinden fazla nemli kaldığına işaret edebilir. Sulama aralığını açmak ve saksıyı daha aydınlık bir yere almak hem yosunu hem de kök sorunlarını önler.
+
+## Taş mı, diğer yüzey malzemeleri mi?
+
+Saksı yüzeyinde taş dışında çam kabuğu, hindistan cevizi lifi, dekoratif çakıl ya da yosun da kullanılabilir. Çam kabuğu ve lif gibi organik malzemeler zamanla ayrışır, nemi daha çok tutar ve orkide, eğrelti gibi nem seven bitkilerde daha uygundur. Taş ise ayrışmaz, kalıcıdır ve kuru seven bitkilerde daha iyi sonuç verir. Bitkinizin nem ihtiyacına göre seçim yapmak, hem görünüşü hem de bitki sağlığını korur.
+
+## Bahçede podima taşı
+
+Bu taşlar bahçede yürüyüş yollarında, ağaç diplerinde ve kaya bahçesi düzenlemelerinde de kullanılır. Ağaç diplerinde kullanırken gövdenin hemen dibini açık bırakmak ve altına yabani ot örtüsü sermek, taşların toprağa gömülmesini ve ot çıkmasını azaltır.
+
+## Kısa özet
+
+Saksı yüzeyine serilen beyaz taşlar, doğru seçildiğinde hem görünüşü güzelleştirir hem de bitkinin bakımını kolaylaştırır. İnce bir tabaka, gövde dibinde küçük bir boşluk ve sulamadan önce toprağın kontrolü, bu uygulamadan en iyi sonucu almanın üç temel kuralıdır. Kuru seven bitkilerde gönül rahatlığıyla, nem seven bitkilerde ise ölçülü kullanmak gerekir.
+@sss
+S: Podima taşı saksıda ne işe yarar?
+C: Toprak yüzeyini kaplayarak saksıyı düzenli gösterir, nemin hızla kaybolmasını yavaşlatır, sulamada toprak sıçramasını önler ve kaktüs-sukulentlerde gövde dibini kuru tutmaya yardım eder.
+
+S: Podima taşı toprağa karıştırılır mı?
+C: Hayır. Podima taşı yalnız yüzeye serilir. Toprağın havalanmasını artırmak için perlit, kil bilyesi gibi malzemeler toprağa karıştırılır.
+
+S: Podima taşı ne kadar kalınlıkta serilmeli?
+C: Çoğu saksı için 1-2 cm, yani bir iki sıra taş yeterlidir. Daha kalın tabaka toprağın kontrolünü zorlaştırır ve gereğinden fazla nem tutabilir.
+
+### YAZI
+slug: muz-kabugu-gubresi
+baslik: Muz Kabuğu Gübresi Gerçekten İşe Yarar mı? Doğru Kullanım
+yayin: 2026-12-20 18:15
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: muz kabuğu gübresi
+seo_baslik: Muz Kabuğu Gübresi İşe Yarar mı? Yararları ve Sınırları
+seo_aciklama: Muz kabuğu gübresi ne kadar etkili? İçeriğindeki potasyum, saksıya gömmenin sakıncaları, kompostta kullanımı ve muz kabuğu suyu hakkında doğru bilgiler.
+ozet: Muz kabuğunun bitkilere potasyum sağladığı sık duyulur. Muz kabuğu gübresi gerçekten işe yarıyor mu, nasıl kullanılırsa fayda sağlar, hangi durumlarda zarar verir? Bilinenlerin doğrusunu anlatıyoruz.
+etiketler: muz kabuğu gübresi, ev yapımı gübre, doğal gübre, kompost, potasyum
+gorsel: p12-muz-kabugu
+gorsel_alt: Taş zemin üzerinde duran olgun muz kabukları
+urunler: hasturk-sivi-solucan-gubresi, hasturk-kati-solucan-gubresi
+kisaca: Muz kabuğu potasyum içerir ama tek başına dengeli bir gübre değildir; azot ve fosforu azdır. En doğru kullanım kompostta parçalayarak çürütmektir. Taze kabuğu saksı toprağına gömmek küf, sinek ve koku sorunlarına yol açabilir; çürürken bir süre de topraktaki azotu kullanabilir. Muz kabuğu suyu ise çok az besin taşır, gübre yerine geçmez.
+@govde
+Muz kabuğu gübresi, ev yapımı doğal gübreler arasında en çok konuşulanlardan biridir. Sosyal medyada muz kabuğunu saksıya gömmenin, suda bekletip suyunu bitkilere vermenin çiçekleri patlatacağı söylenir. Muz kabuğu gerçekten bazı besinler içerir; ama nasıl kullanıldığı, faydalı mı zararlı mı olacağını belirler. Bu yazıda muz kabuğunun içeriğini, en doğru kullanım şeklini ve sık yapılan yanlışları anlatıyoruz.
+
+## Muz kabuğunda neler var?
+
+Muz kabuğu, özellikle potasyum açısından zengindir. Bunun yanında az miktarda fosfor, kalsiyum, magnezyum ve kükürt de içerir. Azot miktarı ise oldukça düşüktür. Potasyum, bitkide çiçeklenme, meyve tutumu ve meyve kalitesi için önemli bir besin elementidir; bu yüzden muz kabuğunun çiçekli bitkilere iyi geldiği düşünülür.
+
+Ancak burada bilinmesi gereken önemli bir nokta vardır: Kabuktaki besinler, kabuk çürüyüp mikroorganizmalar tarafından parçalanmadan bitkinin kullanabileceği hale gelmez. Yani muz kabuğu hazır bir gübre değil, zamanla besine dönüşen bir organik atıktır. Bitki besin elementlerinin görevlerini [NPK nedir](/npk-nedir-gubre-etiketi) yazımızda ele aldık.
+
+## Muz kabuğu gübresi gerçekten işe yarar mı?
+
+Kısa cevap: Kompostun bir parçası olarak evet, tek başına bir gübre olarak sınırlı ölçüde. Muz kabuğu gübresi, besin içeriği dengesiz olduğu için bitkinin bütün ihtiyacını karşılamaz. Potasyum eksikliği yaşayan bir toprağa katkı sağlayabilir ama azot ve fosfor eksikliğini gidermez. Ayrıca bir kabuktan gelecek besin miktarı, büyük bir bitki için oldukça azdır.
+
+Bu yüzden muz kabuğunu "mucize gübre" olarak değil, mutfak atıklarını değerlendirmenin faydalı bir yolu olarak görmek daha doğrudur. Benzer ev yapımı gübreler için [yumurta kabuğu gübre](/yumurta-kabugu-gubre) ve [kahve telvesi gübre](/kahve-telvesi-gubre) yazılarımıza da göz atabilirsiniz.
+
+## En doğru kullanım: kompost
+
+Muz kabuğunu değerlendirmenin en etkili yolu kompost yapmaktır. Kompostta kabuk diğer mutfak ve bahçe atıklarıyla birlikte çürür, besinleri dengeli bir organik gübrenin parçası haline gelir.
+
+- Kabukları küçük parçalara kesin; parçalar ne kadar küçükse o kadar hızlı çürür.
+- Yeşil atıklar (sebze artıkları, muz kabuğu) ile kahverengi atıkları (kuru yaprak, karton) dengeli karıştırın.
+- Kompost yığınını nemli ama ıslak olmayacak şekilde tutun.
+
+Evde kompost yapmanın adımlarını [balkonda kompost yapımı](/balkonda-kompost-yapimi) yazımızda anlattık.
+
+## Saksıya taze kabuk gömmek doğru mu?
+
+Taze muz kabuğunu doğrudan saksı toprağına gömmek pek önerilmez:
+
+- **Küf ve koku:** Kapalı saksıda çürüyen kabuk küflenir, kötü koku yapabilir.
+- **Sinek:** Saksı sinekleri ve meyve sinekleri çürüyen organik maddeye çekilir.
+- **Azot kullanımı:** Mikroorganizmalar kabuğu parçalarken bir süre topraktaki azotu kullanır; küçük saksılarda bu durum bitkiyi geçici olarak zayıflatabilir.
+- **Kök çevresinde nem:** Çürüyen kabuk etrafında nemli, havasız bölgeler oluşabilir.
+
+Bahçede ise kabuğu küçük parçalar halinde toprağın üst katmanına karıştırmak saksıya göre daha az sorun yaratır, çünkü toprak hacmi büyüktür ve mikroorganizma faaliyeti daha yoğundur.
+
+## Muz kabuğu suyu ve kurutulmuş kabuk tozu
+
+Muz kabuğunu birkaç gün suda bekletip bu suyla bitki sulamak yaygın bir uygulamadır. Ancak suya geçen besin miktarı çok azdır; bu su gübre yerine geçmez. Uzun süre bekletilen su ise kokuşabilir ve sinek çekebilir.
+
+Kabukları kurutup öğüterek toz haline getirmek daha mantıklı bir yöntemdir; toz hâlindeki kabuk toprakta daha hızlı ayrışır. Yine de bu tozu da az miktarda ve toprağa karıştırarak kullanmak gerekir.
+
+## Muz kabuğu hakkında yaygın inanışlar
+
+- **"Muz kabuğu güllere çiçek açtırır":** Potasyum çiçeklenmeyi destekler ama tek başına çiçek açtırmaz. Gülün çiçek açması için güneş, budama ve dengeli besleme gerekir.
+- **"Muz kabuğu yaprak bitlerini kovar":** Bu konuda güvenilir bir kanıt yoktur. Aksine, saksıda çürüyen kabuk sinekleri ve bazı zararlıları çekebilir.
+- **"Muz kabuğuyla yaprak parlatılır":** Kabuğun iç yüzü yaprakları geçici olarak parlak gösterebilir ama yaprak gözeneklerini tıkayabilir ve toz tutabilir. Yaprak temizliği için nemli bir bez yeterlidir.
+- **"Ne kadar çok, o kadar iyi":** Bir saksıya çok sayıda kabuk eklemek küf, koku ve sinek sorununu artırır, bitkiye fayda sağlamaz.
+
+## Hangi durumlarda dikkatli olunmalı?
+
+Muz kabuklarının bir kısmı ilaçlı tarım ürünlerinden gelebilir. Bu yüzden kompost yapmadan önce kabukları yıkamak faydalıdır. Organik ürün kullanıyorsanız bu endişe azalır. Ayrıca kapalı balkon kompostlarında muz kabuğu fazla miktarda kullanıldığında yığın ekşiyebilir; kuru yaprak ve karton gibi kahverengi malzemeyle dengelemek bu sorunu önler. Kompost kokusuyla ilgili sorunlar için [kompost kokusu](/kompost-kokusu) yazımızdan yararlanabilirsiniz.
+
+## Muz kabuğu gübresi bahçede nasıl kullanılır?
+
+Bahçede muz kabuğunu doğrudan kullanmak isterseniz kabukları küçük parçalara kesip toprağın üst 10-15 santimlik kısmına karıştırabilirsiniz. Bu yöntem özellikle sonbahar ve kış aylarında, toprakta ekili bir bitki yokken yapıldığında daha iyi sonuç verir; ilkbahara kadar kabuklar büyük ölçüde ayrışır. Gül dibine ya da sebze sıralarına gömülecekse, bitki köklerine değmeyecek şekilde biraz uzağa ve az miktarda gömmek gerekir. Yine de bahçede de en dengeli kullanım, kabukları diğer atıklarla birlikte kompost yapıp olgunlaştıktan sonra toprağa vermektir. Böylece hem koku hem de zararlı sorunu yaşanmaz.
+
+## Bitkiler için dengeli besleme
+
+Muz kabuğu gübresi tek başına yeterli olmadığı için bitkilerinizi dengeli bir organik gübreyle beslemek daha sağlıklı sonuç verir. Solucan gübresi, bitkinin ihtiyaç duyduğu besinleri dengeli ve yavaş şekilde sunar, toprağın yapısını da iyileştirir. Saksı bitkilerinde sıvı solucan gübresi, bahçede katı solucan gübresi pratik seçeneklerdir.
+
+[ürün:hasturk-sivi-solucan-gubresi,hasturk-kati-solucan-gubresi]
+
+Kısacası muz kabuğunu çöpe atmak yerine kompostta değerlendirmek hem doğaya hem bahçenize katkı sağlar; ancak bitkinin asıl beslenmesini dengeli bir gübreye bırakmak gerekir.
+
+Özetle muz kabuğu gübresi, doğru kullanıldığında mutfak atığını değerli bir organik maddeye dönüştüren faydalı bir uygulamadır; ama mucize beklemek yerine onu kompostun bir parçası olarak görmek en sağlıklı yaklaşımdır.
+@sss
+S: Muz kabuğu hangi bitkilere iyi gelir?
+C: Potasyum içerdiği için çiçekli bitkilere ve meyve veren sebzelere katkı sağlayabilir. Ancak en iyi sonucu kompostta çürütülüp dengeli bir organik gübre olarak kullanıldığında verir.
+
+S: Muz kabuğu saksıya gömülür mü?
+C: Önerilmez. Taze kabuk saksıda küflenebilir, sinek çekebilir ve çürürken topraktaki azotu bir süre kullanabilir. Kompostta değerlendirmek daha doğrudur.
+
+S: Muz kabuğu suyu gübre yerine geçer mi?
+C: Hayır. Suya geçen besin miktarı çok azdır. Uzun süre bekletilen su kokuşabilir ve sinek çekebilir.
+
+### YAZI
+slug: hobi-bahcesi-nasil-kurulur
+baslik: Hobi Bahçesi Nasıl Kurulur? Arazi Seçiminden İlk Hasada Rehber
+yayin: 2026-12-20 20:20
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: hobi bahçesi
+seo_baslik: Hobi Bahçesi Nasıl Kurulur? Planlama ve İlk Yıl Rehberi
+seo_aciklama: Hobi bahçesi kurmak isteyenler için arazi seçimi, su kaynağı, toprak hazırlığı, ilk yıl için sebze ve meyve planı, alet ihtiyacı ve zaman yönetimi önerileri.
+ozet: Şehirde yaşayıp hafta sonları toprakla uğraşmak isteyenler için hobi bahçesi güzel bir çözümdür. Arazi seçiminden ilk hasada, hobi bahçesi kurarken nelere dikkat etmek gerektiğini adım adım anlatıyoruz.
+etiketler: hobi bahçesi, hobi bahçesi kurmak, sebze bahçesi, hafta sonu bahçesi, organik bahçe
+gorsel: p12-hobi
+gorsel_alt: Küçük parsellere bölünmüş, sebze yatakları ve çitlerle düzenlenmiş hobi bahçeleri
+urunler: moduler-yukseltilmis-bahce-yatagi-281-litre, hasturk-kati-solucan-gubresi, sgs-bahce-seti-3-parca
+kisaca: Hobi bahçesi kurarken önce düzenli gidip gelebileceğiniz mesafede, güneş alan ve su kaynağı olan bir yer seçilir. Kışın toprak işlenip organik gübre verilir, bahçe kâğıt üzerinde planlanır. İlk yıl yönetilebilir büyüklükte başlamak, bakımı kolay sebzelere öncelik vermek ve damla sulama ile malç kullanmak hafta sonu bahçeciliğini kolaylaştırır.
+@govde
+Hobi bahçesi, şehirde yaşayan ama toprakla uğraşmayı, kendi sebzesini yetiştirmeyi özleyen pek çok kişinin hayalidir. Şehir çevresindeki küçük araziler, belediyelerin hobi bahçesi parselleri ya da aile arazileri bu hayali gerçeğe dönüştürmek için fırsat sunar. Ancak iyi planlanmadan başlanan bir bahçe, kısa sürede yabani otlarla kaplanan ve yorgunluk veren bir işe dönüşebilir. Kış ayları, hobi bahçesi kurmak için planlama ve toprak hazırlığı açısından en uygun dönemdir. Bu yazıda arazi seçiminden ilk hasada kadar dikkat edilmesi gerekenleri anlatıyoruz.
+
+## Hobi bahçesi için arazi seçimi
+
+Bahçenin başarısı büyük ölçüde doğru yer seçimine bağlıdır:
+
+- **Mesafe:** Haftada en az bir iki kez rahatça gidebileceğiniz bir uzaklık seçin. Yazın sulama ve hasat sık gitmeyi gerektirir.
+- **Güneş:** Sebzelerin çoğu günde en az altı sekiz saat doğrudan güneş ister. Büyük ağaçların ya da binaların gölgesindeki alanlar verimi düşürür.
+- **Su kaynağı:** Kuyu, şebeke ya da depo gibi güvenilir bir su kaynağı olmalıdır. Yazın susuz kalan bir bahçe, emeği boşa çıkarır.
+- **Toprak:** Taşlı, çok killi ya da uzun süre su tutan alanlar fazladan emek ister. Toprağın genel yapısını önceden incelemek iyi olur.
+- **Erişim ve güvenlik:** Aletleri bırakabileceğiniz küçük bir depo ya da kulübe, bahçeye araçla ulaşılabilmesi işinizi kolaylaştırır.
+
+## Toprak hazırlığı ve analiz
+
+Arazi belirlendikten sonra toprağı tanımak gerekir. Toprak analizi yaptırmak, pH ve besin durumunu öğrenmenizi sağlar; böylece gereksiz gübre harcamazsınız. Kışın toprak derince işlenir, taşlar ve çok yıllık yabani ot kökleri temizlenir, iyi yanmış ahır gübresi ya da kompost gibi organik maddeler eklenir. Toprak hazırlığının ayrıntıları için [bahçe toprağı hazırlığı](/bahce-topragi-hazirligi) ve organik maddenin önemi için [yorgun bahçe toprağı](/yorgun-bahce-topragi-canlandirma) yazılarımıza bakabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Kâğıt üzerinde planlama
+
+Hobi bahçesi kurarken en sık yapılan hata, ilk yıl çok büyük bir alanı ekmeye çalışmaktır. Başlangıçta yönetebileceğiniz kadar, örneğin 50-100 metrekarelik bir alanla başlamak daha akıllıcadır.
+
+Planlama yaparken:
+
+- Bahçeyi yataklara ve yürüme yollarına ayırın.
+- Uzun boylu bitkileri (mısır, sırık fasulye, domates) gölge yapmamaları için kuzey tarafa yerleştirin.
+- Aynı aileden sebzeleri bir sonraki yıl aynı yere ekmemek için ekim nöbeti planı yapın.
+- Birbirini destekleyen bitkileri yan yana getirin.
+
+Plan yaparken [sebze bahçesi planı](/sebze-bahcesi-plani) ve [ekim nöbeti](/ekim-nobeti) yazılarımızdan yararlanabilirsiniz.
+
+## İlk yıl ne ekilmeli?
+
+İlk yıl bakımı kolay, sonuç vermesi kesin sebzelerle başlamak motivasyonu artırır:
+
+- **Kolay sebzeler:** Kabak, fasulye, domates, biber, marul, roka, turp.
+- **Uzun soluklu ürünler:** Çilek, ahududu gibi çok yıllık bitkiler bir kez dikilip yıllarca ürün verir.
+- **Meyve ağaçları:** Bahçenin kenarlarına birkaç meyve fidanı dikmek uzun vadeli bir yatırımdır. Kış ayları fidan dikimi için uygundur.
+
+## Yükseltilmiş yataklar
+
+Toprağı taşlı ya da çok ağır olan arazilerde yükseltilmiş bahçe yatakları büyük kolaylık sağlar. Yataklar toprak kontrolünü kolaylaştırır, erken ısınır, yabani ot mücadelesini azaltır ve eğilmeden çalışmayı sağlar. Kurulum için [yükseltilmiş bahçe yatağı](/yukseltilmis-bahce-yatagi-kurulumu) yazımıza göz atabilirsiniz.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-281-litre]
+
+## Bütçe ve başlangıç masrafları
+
+Bahçenin ilk yılı, sonraki yıllara göre daha fazla masraf gerektirir. Arazi kirası ya da belediye parsel ücreti, su bağlantısı, temel aletler, tohum ve fide, organik gübre ve gerekiyorsa çit ya da küçük bir depo başlıca kalemlerdir. Masrafı azaltmak için tohumdan fide yetiştirmek, aletleri yavaş yavaş tamamlamak ve kompostu kendi bahçe atıklarınızdan yapmak iyi yöntemlerdir. İkinci yıldan itibaren ana gider genellikle su ve tohumla sınırlı kalır.
+
+## Ortak bahçelerde kurallar
+
+Belediye ya da kooperatif bahçelerinde genellikle ortak kurallar bulunur: parsel sınırları, sulama saatleri, kullanılabilecek ilaç ve gübreler, yapı ve çit izinleri gibi. Bu kuralları baştan öğrenmek komşularla uyumu kolaylaştırır. Ortak bahçelerin bir avantajı da deneyim paylaşımıdır; komşu parsellerde neyin iyi yetiştiğini görmek, yerel koşullara uygun çeşitleri seçmenize yardım eder. Tohum ve fide paylaşımı da ortak bahçelerde sık görülen güzel bir dayanışma örneğidir.
+
+## Bahçe defteri tutmak
+
+Hangi sebzeyi ne zaman ektiğinizi, hangi çeşidin iyi verim verdiğini, hangi zararlının ne zaman ortaya çıktığını not etmek, bahçecilikte en hızlı öğrenme yoludur. Basit bir defter ya da telefonunuzdaki notlar bile yeterlidir. Birkaç yıl sonra bu notlar, bölgenize ve arazinize özel bir ekim takvimine dönüşür. Kayıt tutmanın yöntemlerini [bahçe defteri](/bahce-defteri) yazımızda anlattık. Fotoğraf çekmek de iyi bir yöntemdir; aynı yatağın her ay çekilen fotoğrafları gelişimi ve sorunları karşılaştırmanızı kolaylaştırır.
+
+## Hafta sonu bahçeciliği için zaman kazandıran yöntemler
+
+Hobi bahçesine her gün gidemiyorsanız şu yöntemler işinizi büyük ölçüde kolaylaştırır:
+
+- **Damla sulama:** Zamanlayıcılı bir damla sulama sistemi, yaz sıcaklarında bitkilerin susuz kalmasını önler.
+- **Malç:** Bitki diplerine serilen saman, kuru yaprak gibi malzemeler nemi korur ve yabani otları azaltır.
+- **Sık ama kısa ziyaretler:** Küçük işleri biriktirmeden yapmak, büyük temizlik günlerini önler.
+- **Temel aletler:** Kürek, çapa, tırmık, budama makası, el aletleri ve iyi bir hortum ile işlerin çoğu halledilir.
+
+İyi planlanmış bir hobi bahçesi, ilk yıldan itibaren hem taze sebze hem de doğada geçirilen huzurlu saatler kazandırır. Küçük başlayıp her yıl deneyimle büyütmek, hobi bahçesi keyfini uzun yıllar sürdürmenin en iyi yoludur.
+
+## İlk yıldan sonra bahçeyi büyütmek
+
+İlk sezonun sonunda neyin iyi gittiğini, neyin fazla emek istediğini değerlendirin. Çok sevdiğiniz ve iyi yetişen sebzelerin alanını genişletin, bakımı zorlayan ya da verimi düşük olanları azaltın. Toprağı her sonbahar organik maddeyle beslemeye devam ettikçe verim yıldan yıla artar. Zamanla meyve ağaçları, çok yıllık sebzeler ve aromatik bitkilerle bahçe daha az emekle daha çok ürün veren dengeli bir yapıya kavuşur.
+@sss
+S: Hobi bahçesi için ne kadar alan yeterli?
+C: İlk yıl için 50-100 metrekare, bir ailenin yaz sebzesinin önemli bir kısmını karşılamaya yeter. Deneyim kazandıkça alan genişletilebilir.
+
+S: Hobi bahçesi kurmaya ne zaman başlanmalı?
+C: Planlama ve toprak hazırlığı kışın yapılır. Meyve fidanları kışın, sebze ekimleri ve fide dikimleri ise ilkbaharda yapılır.
+
+S: Hobi bahçesine her gün gidemiyorum, ne yapmalıyım?
+C: Zamanlayıcılı damla sulama kurmak, bitki diplerini malçla örtmek ve bakımı kolay sebzeler seçmek, haftada bir iki ziyaretle bahçeyi yönetmeyi mümkün kılar.
+
+### SORU
+yayin: 2026-12-20 10:40
+kategori: bitki-bakimi
+baslik: Kalorifer yanındaki sukulentimin yaprakları buruşuyor, sulamalı mıyım?
+metin: Salonda kaloriferin yanındaki rafta bir echeveria ve iki küçük sukulentim var. Son haftalarda yaprakları biraz buruştu ve inceldi. Kışın az sulanması gerektiğini okudum, o yüzden ayda bir suluyorum. Su mu eksik, yoksa başka bir sorun mu var?
+@cevap Rümeysa Altınova | 4
+Buruşan ve incelen yapraklar çoğu zaman susuzluğa işaret eder, özellikle de bitki kaloriferin yanındaysa. Kışın sukulentlerin az su istemesi doğrudur, ama bu kural serin odalar için geçerlidir. Kalorifer yanındaki raf hem sıcak hem de çok kuru olduğu için toprak beklediğinizden çok daha hızlı kurur. Önce toprağı kontrol edin: parmağınızı ya da tahta bir çubuğu birkaç santim derine batırın, tamamen kuruysa saksıyı iyice sulayın ve fazla suyun dipten akmasını sağlayın. Ardından yaprakların birkaç gün içinde dolgunlaşıp dolgunlaşmadığını izleyin. Yapraklar yumuşak ve camsı değil, buruşuk ve inceyse çürüme değil susuzluk vardır. Bitkileri mümkünse kaloriferden bir iki metre uzaklaştırıp aydınlık bir pencere önüne almanız en iyisi olur; hem sıcaklık dengelenir hem de ışık artar. Sulamayı takvime göre değil, toprağın kuruluğuna göre yapın; sizin koşullarınızda bu iki üç haftada bir olabilir.

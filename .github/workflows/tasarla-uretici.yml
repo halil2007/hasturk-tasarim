@@ -1,0 +1,25 @@
+name: Kendin Tasarla üretici aracı okuma
+
+# Üreticinin (profimod.com) aracını gerçek tarayıcıda açar; kur, sekmeler ve örnek tasarımların fiyatını okur. Yalnız okur.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/tasarla-uretici-canli.mjs', '.github/workflows/tasarla-uretici.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  oku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - run: node scripts/tasarla-uretici-canli.mjs

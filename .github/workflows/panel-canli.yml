@@ -1,0 +1,33 @@
+name: Blog paneli canlı kontrol
+
+# Panel ve blog sürümü yayına çıktı mı, okunma sinyali çalışıyor mu (yalnız okuma; /api/okunma var olmayan yazı kimliğiyle denenir)
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/panel-canli.yml']
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - run: |
+          B=https://blog.hasturkgubre.com.tr
+          for i in $(seq 1 30); do
+            curl -s "$B/panel/giris?r=$RANDOM" > /tmp/g.html
+            grep -q 'panel.css?v=17' /tmp/g.html && { echo "Panel yeni sürümde ($i. deneme)"; break; }
+            echo "bekleniyor"; sleep 20
+          done
+          hata=0
+          grep -q 'panel.css?v=17' /tmp/g.html && echo "✓ panel v17" || { echo "✗ panel eski"; hata=1; }
+          k=$(curl -s -o /dev/null -w '%{http_code}' "$B/blog-statik/panel.css?v=17"); echo "panel.css $k"; [ "$k" = 200 ] || hata=1
+          curl -s "$B/?r=$RANDOM" > /tmp/a.html
+          grep -q 'speculationrules' /tmp/a.html && echo "✓ blog: önceden yükleme kuralı var" || { echo "✗ blog: kural yok"; hata=1; }
+          grep -o 'site.css?v=[0-9]*' /tmp/a.html | head -1
+          y=$B/perlit-nedir-nasil-kullanilir
+          a=$(curl -s -H 'Sec-Purpose: prefetch' "$y" | grep -c 'hb-okunma' || true); echo "önden yüklemede okunma işareti: $a (beklenen 1)"; [ "$a" = 1 ] || hata=1
+          b=$(curl -s "$y" | grep -c 'hb-okunma' || true); echo "normal açılışta okunma işareti: $b (beklenen 0, sunucu sayar)"; [ "$b" = 0 ] || hata=1
+          k=$(curl -s -o /tmp/o.txt -w '%{http_code}' -X POST -H 'Content-Type: application/json' -d '{"id":0}' "$B/api/okunma"); echo "/api/okunma (kimliksiz) $k $(head -c 80 /tmp/o.txt)"
+          for u in "" /yazilar /seo; do k=$(curl -s -o /dev/null -w '%{http_code}' "$B/panel$u"); echo "panel$u (girişsiz) $k"; done
+          exit $hata

@@ -1,0 +1,246 @@
+{
+ "_aciklama": "Bilge Bey inceleme sayfasında cevapsız kalan ya da 'işime yaramadı' denen sorular için elle yazılmış cevaplar (akbilge-havuz.mjs J3). {TEL}: müşteri hizmetleri numarası (config.json > whatsapp), {KOD}/{KOD_NOT}/{KARGO}: config.json > promo. İlaç adı ve dozu verilmez.",
+ "cevaplar": [
+  {
+   "tur": "magaza",
+   "konu": "iletisim",
+   "sorular": [
+    "müşteri hizmetleri numarası",
+    "müşteri hizmetleri telefonu",
+    "iletişim numaranız nedir",
+    "telefon numaranızı verir misiniz",
+    "telefonunuz var mı",
+    "size nasıl ulaşırım",
+    "size ulaşabilir miyim",
+    "whatsapp numaranız",
+    "yetkili biriyle görüşmek istiyorum",
+    "kimden yardım alabilirim",
+    "sizi nasıl arayabilirim",
+    "canlı destek var mı"
+   ],
+   "cevap": "Müşteri hizmetlerimize {TEL} numarasından telefonla ulaşabilir, aynı numaradan WhatsApp ile yazabilirsiniz. Sipariş, kargo, iade ya da ürün seçimi konusunda ekibimiz size yardımcı olur."
+  },
+  {
+   "tur": "magaza",
+   "konu": "siparis-notu",
+   "sorular": [
+    "siparişe açıklama yazmadım sorun olur mu",
+    "sipariş notu yazmayı unuttum",
+    "siparişe not eklemek istiyorum",
+    "siparişime açıklama eklemek istiyorum",
+    "sipariş açıklaması zorunlu mu",
+    "siparişe not yazabilir miyim",
+    "sipariş oluşturdum ama açıklama yazmadım sıkıntı olur mu"
+   ],
+   "cevap": "Sorun olmaz; sipariş açıklaması zorunlu değildir ve siparişiniz normal şekilde hazırlanır. Siparişinizle ilgili özel bir isteğiniz varsa (boy, teslimat, fatura bilgisi gibi) sipariş numaranızla birlikte müşteri hizmetlerimize {TEL} numarasından telefonla ya da WhatsApp'tan iletebilirsiniz."
+  },
+  {
+   "tur": "magaza",
+   "konu": "indirim-uygulanmadi",
+   "sorular": [
+    "indirim uygulanmadı",
+    "indirim kodu çalışmıyor",
+    "yüzde 5 indirim uygulanmadı",
+    "kargo ücretsiz oldu ama indirim uygulanmadı",
+    "alışverişte indirim yansımadı",
+    "kupon kodu olmadı",
+    "indirim kodu geçmiyor",
+    "hoş geldin indirimi uygulanmadı",
+    "indirim kodunu girmeyi unuttum",
+    "alışveriş yaptım kargo ücretsiz oldu ama yüzde 5 indirim uygulanmadı"
+   ],
+   "cevap": "İlk siparişe özel indirim, {KOD} kodunu ödeme adımındaki indirim (kupon) kodu alanına yazdığınızda uygulanır ({KOD_NOT}); kod sepete kendiliğinden eklenmez. Ücretsiz kargo ise koşulu sağlandığında kendiliğinden uygulanır ({KARGO}). Siparişi kodu girmeden tamamladıysanız sipariş numaranızla müşteri hizmetlerimize {TEL} numarasından ulaşın; size yardımcı olalım."
+  },
+  {
+   "tur": "magaza",
+   "konu": "satin-alma",
+   "sorular": [
+    "bu üründen almak istiyorum",
+    "bu ürünü almak istiyorum",
+    "sipariş vermek istiyorum",
+    "nasıl sipariş veririm",
+    "nasıl satın alırım",
+    "sipariş nasıl verilir",
+    "toplu sipariş vermek istiyorum",
+    "toptan almak istiyorum"
+   ],
+   "cevap": "Ürün sayfasında istediğiniz boyu ya da litreyi seçip \"Sepete Ekle\"ye dokunun; ardından sepetinizden siparişi tamamlayabilirsiniz. Toplu alım ya da özel istekleriniz için müşteri hizmetlerimize {TEL} numarasından telefonla ya da WhatsApp'tan ulaşabilirsiniz."
+  },
+  {
+   "tur": "genel",
+   "konu": "tohum-organik",
+   "sorular": [
+    "tohumlarınız organik mi",
+    "organik tohum var mı",
+    "tohumlar organik sertifikalı mı",
+    "organik sertifikalı tohum",
+    "tohumlarınız ilaçlı mı",
+    "tohumlar hibrit mi"
+   ],
+   "cevap": "Organik sertifikası olan tohumlarda bu bilgi ürün sayfasında yer alır. Yerel çeşitlerden üretilen, tohumunu alıp ertesi yıl yeniden ekebileceğiniz ata tohumlarımız da var. Adında F1 yazan tohumlar ise hibrittir; bunlardan alınan tohum bir sonraki yıl aynı özellikte bitki vermez. Belirli bir tohumun durumunu müşteri hizmetlerimize {TEL} numarasından sorabilirsiniz.",
+   "urunler": [
+    "turuncu-salkim-domates-ata-tohumu-50-adet",
+    "ayas-beyaz-bodur-domates-ata-tohumu-50-adet",
+    "arom-dere-otu-ata-tohumu-50-adet"
+   ]
+  },
+  {
+   "tur": "genel",
+   "konu": "cim-tohumu-secimi",
+   "sorular": [
+    "dayanıklı çim tohumu hangisi",
+    "kalın ve dayanıklı çim tohumu önerir misin",
+    "hangi çim tohumunu önerirsin",
+    "en iyi çim tohumu hangisi",
+    "sık ve gür çim tohumu",
+    "hangi çim tohumunu almalıyım",
+    "çim tohumları arasındaki fark",
+    "çim tohumu öner",
+    "çim tohumu dayanıklı kalın hangisi önerirsin",
+    "kalın dayanıklı çim için hangi tohum"
+   ],
+   "cevap": "Mağazamızdaki DSV Lippa çim karışımlarının üçü de yıl boyu yeşil kalan karışımlardır:\n• DSV Lippa Lisuna 6 Mix — yaz-kış yeşil kalan, dayanıklı 6'lı karışım.\n• DSV Lippa Tamu 5 Mix — her daim yeşil, estetik ve dayanıklılığı bir arada sunan 5'li karışım; pürüzsüz bir görünüm için.\n• DSV Lippa Special 4S — toprak seçiciliği olmadan her türlü toprak yapısında yüksek verim sağlayan 4'lü karışım.\n\nKalın ve sık bir çim için ekim de önemlidir: alanı 10–20 cm derinlikte işleyip düzeltin; makineli ekimde metrekareye 50–60 gram, elle serpmede 80–90 gram tohum kullanın ve tohumlar çimlenene kadar toprağı nemli tutun. Tohumların üstünü örtmek için çim kapama toprağı kullanabilirsiniz.",
+   "urunler": [
+    "dsv-lippa-lisuna-6-mix-cim-tohumu",
+    "dsv-lippa-tamu-5-mix-cim-tohumu",
+    "dsv-lippa-special-4s-cim-tohumu"
+   ]
+  },
+  {
+   "tur": "genel",
+   "konu": "blok-kokopit",
+   "sorular": [
+    "blok kokopit var mı",
+    "blok halinde kokopit satıyor musunuz",
+    "blok cocopeat var mı",
+    "sıkıştırılmış kokopit",
+    "kokopit blok",
+    "kokopit bloğu",
+    "sıkıştırılmış cocopeat",
+    "briket kokopit"
+   ],
+   "cevap": "Evet. Sıkıştırılmış Cocopeat (Kokopit) 4–5 kg blok: bloğu en az 70–80 litrelik bir kaba koyup 20–25 litre (tercihen ılık) su eklediğinizde 20–30 dakikada dağılır ve yaklaşık 60–65 litre kullanıma hazır torf elde edersiniz. Küçük ihtiyaçlar ve tohum çimlendirme için 12'li cocopeat tabletlerimiz de var.",
+   "urunler": [
+    "cocopeat-hindistan-cevizi-torfu-5-kg",
+    "hindistan-cevizi-torfu-tablet-cocopeat-12-adet"
+   ]
+  },
+  {
+   "tur": "genel",
+   "konu": "vermikulit-endustriyel",
+   "sorular": [
+    "vermikülit batarya dolgusu",
+    "vermikülit pil ve batarya taşıma dolgusu",
+    "vermikülit ambalaj dolgu malzemesi",
+    "vermikülit yalıtım için",
+    "vermikülit yanmaz mı",
+    "vermikülit sanayi kullanımı",
+    "batarya muhafazası için vermikülit dolgu malzemesi",
+    "vermikülit dolgu malzemesi olarak kullanılır mı"
+   ],
+   "cevap": "HG Vermikülit; doğal, hafif, yanmaz ve sıvıları emen bir mineraldir ve bahçe-tarım kullanımı için paketlenir. Batarya taşıma dolgusu, ambalaj ya da yalıtım gibi endüstriyel kullanımlarda tane boyutunun, miktarın ve gerekli belgelerin işinize uygun olup olmadığını müşteri hizmetlerimize danışmanızı öneririz: {TEL} (telefon ve WhatsApp). Toplu alım için de aynı numaradan bilgi alabilirsiniz.",
+   "urunler": [
+    "hg-vermikulit"
+   ]
+  },
+  {
+   "tur": "genel",
+   "konu": "yapiskan-yaprak",
+   "sorular": [
+    "limon ağacının yaprakları yapışkan",
+    "yapraklar yapış yapış oldu",
+    "yapraklar yapışkan",
+    "bitkinin yaprakları yapışkan",
+    "yapraklarda yapışkan madde var",
+    "yapraklarda siyah is var",
+    "yapraklar kurum gibi siyah",
+    "fumajin",
+    "limon ağacı yapış yapış oldu hasta mı",
+    "ağacım yapış yapış oldu"
+   ],
+   "cevap": "Yaprakların yapış yapış olması çoğunlukla bitkinin özsuyunu emen küçük zararlılardan kaynaklanır: yaprak biti, unlu bit, kabuklu bit ya da beyaz sinek. Bu böcekler emdikleri özsuyun fazlasını ballı bir sıvı olarak bırakır; zamanla bu yüzeyde is gibi siyah bir mantar tabakası (fumajin) oluşabilir.\n\nNe yapmalısınız:\n• Yaprakların altını, genç sürgünleri ve dalları inceleyin: beyaz pamuksu kümeler unlu biti, dallarda kahverengi küçük kabarcıklar kabuklu biti, küçük yeşil ya da siyah böcekler yaprak bitini gösterir.\n• Az sayıdaysa yaprakları ve dalları ılık sabunlu suyla ıslatılmış bir bezle silin; kabuklu bitleri yumuşak bir fırçayla temizleyin.\n• Yoğun bulaşık küçük dalları budayın; karıncaları kontrol edin, karıncalar bu zararlıları korur ve taşır.\n• Birkaç hafta arayla yeniden kontrol edin.\n\nBahçede yaygın bir sorun varsa il ya da ilçe tarım müdürlüğüne veya bir ziraat mühendisine danışın.",
+   "urunler": [
+    "tarm-bioleaf-protector-neem-yagi-500-ml-bocek-kovucu-sprey",
+    "florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi"
+   ]
+  },
+  {
+   "tur": "genel",
+   "konu": "dip-kurdu",
+   "sorular": [
+    "ağaçta dip kurdu",
+    "dip kurdu",
+    "ağaç dibinde kurt",
+    "ağacın dibinde kurt var",
+    "kök kurdu",
+    "kök boğazında kurt",
+    "gövde kurdu"
+   ],
+   "cevap": "Kök boğazında ve köklerde beslenen böcek larvaları (halk arasında dip kurdu) ağaçta yaprak sararması, sürgünlerde zayıflama, kök boğazında talaş, çürüme ya da delikler ile kendini gösterir; ağır durumda ağacı kurutabilir. Doğru mücadele zararlının türüne göre değiştiği için ilaç adı ve dozu vermiyoruz.\n\nNe yapmalısınız:\n• Kök boğazındaki toprağı biraz açıp larva, talaş ve çürük doku olup olmadığına bakın; mümkünse bir larvayı fotoğraflayın.\n• Kurumuş, ağır zarar görmüş dalları ve ağaçları bahçeden uzaklaştırın.\n• Ağacı susuz ve besinsiz bırakmayın; güçlü ağaç zarara daha dayanıklıdır.\n• Teşhis ve uygun mücadele için il ya da ilçe tarım müdürlüğüne veya bir ziraat mühendisine danışın."
+  },
+  {
+   "tur": "genel",
+   "konu": "tahtakurusu",
+   "sorular": [
+    "tahtakurusu",
+    "tahta kurusu nasıl yok edilir",
+    "tahtakurusu hangi ilaçla ölür",
+    "tahtakurusu ilacı",
+    "tahtakurusu kökten nasıl biter",
+    "yatakta tahtakurusu var",
+    "tahtakurusu için ne kullanılır",
+    "tahtakurusu hangi ilaç kökten öldürür",
+    "tahtakurusunu kökünden öldüren ilaç"
+   ],
+   "cevap": "Tahtakurusu yatak, kanepe, döşeme ve duvar aralarında saklanan inatçı bir zararlıdır; çoğu zaman tek bir ürünle, kendi başınıza tamamen yok edilemez. En etkili yol, belediyelerin ya da lisanslı haşere kontrol firmalarının profesyonel uygulamasıdır. Bu sırada yatak örtülerini ve giysileri sıcak suda yıkayıp yüksek ısıda kurutmak, yatak ve kanepe aralarını sık sık süpürmek yayılmayı azaltır. Mağazamızdaki halk sağlığı ürünlerinden hangisinin uygun olduğunu ve nasıl kullanılacağını müşteri hizmetlerimizden öğrenebilirsiniz: {TEL}."
+  },
+  {
+   "tur": "genel",
+   "konu": "topraksiz-tarim",
+   "sorular": [
+    "topraksız tarım sistemi kurmak",
+    "hidroponik sistem kurmak",
+    "topraksız tarım nasıl yapılır",
+    "topraksız tarıma nereden başlanır",
+    "kapalı alanda topraksız üretim",
+    "dükkanda topraksız tarım",
+    "profesyonel topraksız tarım işi kurmak"
+   ],
+   "cevap": "Topraksız tarımda bitkiler toprak yerine kokopit, perlit gibi bir yetiştirme ortamında ya da doğrudan besinli suda yetiştirilir; besin, sulama suyuna eklenen dengeli bir besin çözeltisiyle verilir. Kapalı bir dükkânda profesyonel bir başlangıç için genel sıra şöyledir:\n• Ne yetiştireceğinize karar verin: marul, roka gibi yapraklılar, mutfak otları ve mikro yeşillikler başlangıç için en uygun ürünlerdir.\n• Sistemi seçin: kokopit-perlit dolu torba ya da saksılarda damla sulamalı sistem yönetmesi en kolay olanıdır; besinli su kültürü (NFT, derin su) daha fazla teknik takip ister.\n• Yapay aydınlatma, havalandırma, sıcaklık ve nem kontrolünü, su kaynağını ve su analizini planlayın.\n• Besin çözeltisinin pH ve EC (tuzluluk) değerlerini ölçmek için ölçüm cihazı edinin ve düzenli takip edin.\n• Küçük bir deneme bölümüyle başlayıp sonuçlara göre büyütün.\n\nYetiştirme ortamı malzemeleri (kokopit, perlit, vermikülit, kil bilyesi) mağazamızda var. Sistem seçimi, malzeme ihtiyacı ve toplu alım için müşteri hizmetlerimize danışabilirsiniz: {TEL} (telefon ve WhatsApp).",
+   "urunler": [
+    "cocopeat-hindistan-cevizi-torfu-5-kg",
+    "kalin-tarim-perliti",
+    "hg-kil-bilyesi"
+   ]
+  },
+  {
+   "tur": "genel",
+   "konu": "mantar-toprak",
+   "sorular": [
+    "mantar için toprak karışımı",
+    "mantar için toprak hazırla",
+    "mantar yetiştirmek için toprak",
+    "kültür mantarı toprağı",
+    "istiridye mantarı yetiştirme ortamı",
+    "mantar kompostu var mı"
+   ],
+   "cevap": "Mantar bir bitki değildir ve toprakta yetişmez: kültür mantarı özel olarak hazırlanmış mantar kompostunda, istiridye mantarı ise pastörize edilmiş saman ya da talaşla hazırlanan mantar torbalarında yetiştirilir. Bu yüzden mantar için toprak karışımı hazırlamıyoruz; mağazamızda mantar kompostu ve miseli de bulunmuyor. Kültür mantarında kompostun üstüne serilen ince örtü katmanı için genellikle torf ağırlıklı bir karışım kullanılır."
+  },
+  {
+   "tur": "genel",
+   "konu": "baska-gubre-markasi",
+   "sorular": [
+    "çim gübresi nasıl kullanılır",
+    "npk çim gübresi nasıl kullanılır",
+    "kompoze gübre nasıl kullanılır",
+    "14 14 17 gübre nasıl kullanılır",
+    "15 15 15 gübre nasıl kullanılır"
+   ],
+   "cevap": "Kimyasal (kompoze) gübrelerde kullanım miktarı ve zamanı ürüne göre değişir; ürünün etiketindeki üretici talimatını izleyin. Etiketteki üç rakam (ör. 14-14-17) gübredeki azot, fosfor ve potasyum oranlarını gösterir. Çim için kendi organik seçeneklerimiz: HasTürk Solucan Gübresi çimde dekara 100–125 kg (metrekareye 100–125 g) serpilerek; HasTürk Sıvı Solucan Gübresi her biçimden sonra yağmurlama ile dekara 400–450 ml.",
+   "urunler": [
+    "hasturk-kati-solucan-gubresi",
+    "hasturk-sivi-solucan-gubresi"
+   ]
+  }
+ ]
+}

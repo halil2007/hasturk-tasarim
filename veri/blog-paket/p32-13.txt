@@ -1,0 +1,451 @@
+### YAZI
+slug: traktor-gunluk-bakim-yag-su-hava-filtresi-kontrolu
+baslik: Traktör Günlük Bakım: Yağ, Su ve Hava Filtresi Kontrolü
+yayin: 2027-04-13 09:10
+yazar: Rümeysa Altınova
+kategori: gundem
+odak: traktör günlük bakım
+seo_baslik: Traktör Günlük Bakım: Yağ, Su, Hava Filtresi
+seo_aciklama: Traktör günlük bakım nasıl yapılır? Motor yağı, soğutma suyu, hava filtresi, hidrolik yağ ve lastik kontrolünü sırayla, işe başlamadan önce anlattık.
+ozet: Traktör günlük bakım, motoru çalıştırmadan önce yapılan on dakikalık bir turdur: motor yağı, soğutma suyu, hava filtresi, yakıt, hidrolik yağ, lastikler ve sızıntılar sırayla kontrol edilir.
+etiketler: traktör bakımı, motor yağı, hava filtresi, soğutma suyu, günlük kontrol, çiftlik makinesi
+gorsel: bekliyor
+gorsel_alt: Açık kaputlu bir traktörün yanında motor yağı çubuğuna bakan eldivenli eller, arkada sürülmüş tarla
+urunler: kati-solucan-gubresi-20-kg
+kisaca: Traktör günlük bakım, motor çalışmadan önce yapılan kısa bir kontrol turudur. Sırayla motor yağı seviyesi, soğutma suyu, hava filtresi, yakıt ve su ayırıcı, hidrolik yağ, lastik basıncı, sızıntı ve emniyet donanımına bakılır. Eksik ya da kirli bir kalem varsa traktör o gün işe çıkmaz.
+@govde
+Sabah acelesi en pahalı hatayı doğurur: Traktör çalıştırılır, tarlaya inilir, yarım saat sonra uyarı lambası yanar. Oysa motor yağına, soğutma suyuna ve hava filtresine bakmak traktör başında on dakika alır. Traktör günlük bakım dediğimiz şey tam olarak bu turdur ve her işe başlamadan önce, motor soğukken yapılır. Aşağıda kontrol sırasını, her kalemde neye bakıldığını ve hangi bulgunun traktörü kontağa uzak tutması gerektiğini anlatıyoruz.
+
+## Neden her gün, neden işe başlamadan önce?
+
+Pennsylvania State Üniversitesi'nin yayım servisi, günlük kontrolü olası pahalı arızaları önlemenin yolu olarak anlatıyor ve listeye yakıt, soğutma suyu, motor yağı, hidrolik yağ ve sıvı sızıntılarını koyuyor ([Penn State Extension, traktörler için işe başlamadan önce kontroller](https://extension.psu.edu/pre-operational-checks-for-tractors)). Florida Üniversitesi'nin kısa yayını da günlük kontrolün yalnızca tamirciye değil, traktörü kullanan kişiye ait bir iş olduğunu vurguluyor ([UF/IFAS, traktör bakımı](https://ask.ifas.ufl.edu/publication/AE599)).
+
+Mantık basit: Yağ ve su eksikliği motoru çalışırken yavaş yavaş yer, belirtisi geç gelir. Kontağı çevirmeden önce bakarsanız eksiği ucuza kapatırsınız, çalışırken fark ederseniz motor masrafına dönüşür. Traktör günlük bakım tablosunu bir kez kendi traktörünüze göre yazıp kabin ya da çamurluk yanına asmak, unutmayı da azaltır.
+
+## Kontrol sırası: bir tur, yedi durak
+
+Düz zeminde, motor kapalı ve soğukken başlayın. Kaputu açmadan önce traktörün etrafında yavaşça yürüyün; altındaki toprakta koyu leke, ıslaklık ya da damla izi arayın.
+
+1. **Motor yağı:** Çubuğu çekin, silin, tam sokup tekrar çekin. Seviye alt ve üst çentik arasında olmalı. Yağ süt gibi bulanıksa su karışmış, kıvamı çamur gibi koyuysa değişim gecikmiş olabilir.
+2. **Soğutma suyu:** Seviyeyi genleşme kabından okuyun. Sıcak motorda radyatör kapağını asla açmayın; basınçlı buhar yüze çıkar.
+3. **Hava filtresi:** Tozlu bir işten sonra ya da toz göstergesi uyarıyorsa dış elemanı çıkarıp kontrol edin.
+4. **Yakıt ve su ayırıcı:** Depoyu doldurun, ayırıcı kapta biriken suyu boşaltın.
+5. **Hidrolik yağ:** Seviyeyi kitapçıktaki işarete göre okuyun, hortum bağlantılarında ıslaklığa bakın.
+6. **Lastikler:** Basınca, kesik ve yarığa, somun gevşekliğine bakın.
+7. **Emniyet donanımı:** Kemer, devrilme koruma çerçevesi, mil (PTO) muhafazası ve ışıklar yerinde mi, çalışıyor mu?
+
+| Kalem | Neye bakılır? | Traktörü işe çıkarmama işareti |
+|---|---|---|
+| Motor yağı | Seviye, renk, kıvam | Çubukta yağ yok ya da süt rengi |
+| Soğutma suyu | Genleşme kabı seviyesi, sızıntı | Kap boş, zeminde damla |
+| Hava filtresi | Dış eleman tozu, gösterge | Eleman yağlı ya da yırtık |
+| Yakıt ayırıcı | Kapta su | Suyun boşaltılamaması |
+| Hidrolik yağ | Seviye, hortum ıslaklığı | Seviye çok düşük, damlayan hortum |
+| Lastikler | Basınç, kesik, somun | Yanak şişmesi, gevşek somun |
+
+## Motor yağı seviyesini doğru okumak
+
+En sık yapılan hata sıcak motorda hemen okumaktır. Yağın bir kısmı üst kısımlarda kaldığı için çubuk eksik gösterir; eksik sanıp ekleyen kişi seviyeyi fazlaya taşır. Çoğu kullanım kitapçığı motoru durdurduktan sonra birkaç dakika beklemeyi ister, kendi traktörünüzün kitapçığındaki süreyi uygulayın. Aynı zeminde, aynı açıyla okumak karşılaştırmayı tutarlı yapar.
+
+Yağı tamamlarken kitapçıkta yazan sınıfı ve viskoziteyi kullanın. Farklı sınıfları aynı karterde karıştırmak sorunu gizler. Seviye her gün belirgin biçimde düşüyorsa yağ yanıyor ya da bir yerden sızıyordur; bunu eklemeyle geçiştirmeyin, bir servise gösterin.
+
+## Soğutma suyu: sıcak motorda kapak açılmaz
+
+Soğutma suyu eksikliği, motorda en hızlı hasar yapan kalemdir. Sıvıyı genleşme kabından okuyun; "min" çizgisinin altındaysa kitapçığın istediği karışımla tamamlayın. Radyatör petekleri saman, yaprak ve tozla tıkanabilir; yazın biçme ya da harman işlerinden sonra peteği arkadan basınçlı havayla ya da yumuşak fırçayla temizlemek ısınmayı geciktirir.
+
+İç Anadolu ve Doğu Anadolu'da soğuk sabahlarda sıvının donmaya karşı koruması, Çukurova ve Ege'de ise sıcak yaz aylarında peteklerin temizliği öne çıkar. Bölge fark etmeksizin sıvıyı yalnızca musluk suyuyla tamamlamayın; kireç ve donma riski kitapçıkta tarif edilen karışımla yönetilir.
+
+## Hava filtresi: tozlu işte daha sık bakın
+
+Motor, yakıtın yanması için çok miktarda hava çeker; filtre tıkanırsa motor güç kaybeder, egzozdan koyu duman çıkar. Bazı kitapçıklar kontrol aralığını çalışma saatiyle verir, tozlu tarlada bu aralık kısalır. Penn State'in bahçe ve meyvelik güvenliği yazısı da günlük turu, sezon yoğunluğunda atlanmaması gereken bir alışkanlık olarak anlatıyor ([Penn State Extension, meyvelik güvenliği ve traktör kontrolleri](https://extension.psu.edu/orchard-safety-tractor-pre-operation-checks)).
+
+Dış elemanı çıkarırken iç (yedek) elemanı yerinden oynatmayın; toz motora oradan girer. Dış elemanı hafifçe vurup kuru havayla temizlemek mümkün olabilir, ancak yağa bulanmış, yırtık ya da gözenekleri tıkanmış elemanı temizlemek yerine değiştirin. Elemanı bir ışığa tutup arkasının görünüp görünmediğine bakmak basit bir yoklamadır.
+
+## Hidrolik yağ, lastik ve emniyet turu
+
+Hidrolik sistem, römorku, pulluğu ve yükleyiciyi kaldırır. Seviye düşükse kaldırma yavaşlar, pompa havalanır. Hortum bağlantılarında ıslaklık ve çizilmiş yüzey ararken elinizi ya da bez parçasını hortuma sürmeyin; yüksek basınçlı sızıntı deriye işleyebilir. Bir kâğıt ya da karton parçasını bağlantıya tutmak sızıntıyı güvenle gösterir.
+
+Lastiklerde basınç, römork bağlıyken ve ağır işte farklı olabilir; kitapçıktaki değere göre ayarlayın. Arka tekerlek somunlarını, özellikle yeni bir işe ya da yeni bir lastiğe başlarken yoklayın. Kemer, devrilme koruma çerçevesi ve mil muhafazasının yerinde olması da günlük turun parçasıdır; ayrıntıları [traktör kullanımında güvenlik: devrilme ve mil koruması](/traktor-kullaniminda-guvenlik-devrilme-ve-mil-korumasi) yazımızda anlattık. Toprak işleme tercihlerinin traktör yüküne etkisi için [toprak işleme: bellemek mi, çapalamak mı](/toprak-isleme) yazısına da bakabilirsiniz.
+
+## Sabah turu yedi dakikaya sığar mı?
+
+Düzenli yapıldığında sığar. İlk haftalarda her kalemin yerini ve işaretlerini öğrenmek on beş dakika alabilir; sonra gözünüz ve elleriniz sırayı kendisi izler. Turu geciktiren şey genellikle kontrol değil, eksik malzemedir: Yedek yağ bidonu, temiz bez, huni ve el lambası traktörün yanında hazır duruyorsa tur aksamaz.
+
+Küçük bir kayıt defteri de işinizi kolaylaştırır. Gün sonunda saat sayacını, eklediğiniz yağ ve suyu bir satıra yazın. Üç hafta sonra "ne kadar yağ yiyor?" sorusunun cevabı elinizdedir ve servise giderken "bir şey var ama ne olduğunu bilmiyorum" demek yerine rakam verirsiniz.
+
+## Traktör günlük bakım kartı: kabine asılacak liste
+
+Kendi traktörünüz için bir kart hazırlayın: En üste motor yağı çubuğunun yerini ve çentik işaretini, altına soğutma suyu kabının konumunu ve hava filtresinin kapak kilidini çizin ya da fotoğrafını koyun. Kartın bir tarafına "her gün", diğer tarafına kullanım kitapçığındaki saat aralıklı bakımları yazın. Traktörü birden fazla kişi kullanıyorsa bu kart, kimin neye baktığını tartışma konusu olmaktan çıkarır. Tarlaya giden her sürücü kartı işaretler; bir satır boş kaldıysa ertesi sabah o kalem ilk iş olarak yoklanır.
+
+Çocuk ya da mevsimlik işçiyle çalışılan çiftliklerde kart özellikle işe yarar: Traktörü ilk kez kullanacak biri hangi kalemin ne kadar önemli olduğunu bilmez. Kartta "bunlardan biri kırmızıysa kontak çevrilmez" diye tek bir kural yazmak yeterlidir.
+
+## Sık yapılan hatalar ve düzeltmeleri
+
+| Hata | Sonucu | Düzeltme |
+|---|---|---|
+| Sıcak motorda yağ okumak | Eksik sanıp fazla doldurma | Birkaç dakika bekleyip düz zeminde okuyun |
+| Sıcak radyatör kapağını açmak | Haşlanma | Motor soğuyana kadar bekleyin |
+| Filtre yerine üfleyip geçmek | Toz kaçağı, güç kaybı | Yırtık ve yağlı elemanı değiştirin |
+| Yakıt ayırıcıyı boşaltmamak | Enjektör sorunu | Her tur ayırıcı kabına bakın |
+| Sızıntıyı "az" saymak | Pahalı onarım | Zemindeki lekeyi ilk günden izleyin |
+
+## Mevsime ve işe göre ek kontroller
+
+Sürüm öncesinde pulluğun ya da kültivatörün bağlantı pimlerine, üç nokta bağlantı kollarına ve sürüm derinliği ayar vidalarına bakın; tarla sürümü ve toprak işleme için [sonbaharda tarla sürümü](/sonbaharda-tarla-surumu) yazısındaki iş sırası traktörün yükünü de belirler. Ağır toprak işinde motor uzun süre yüksek yükte çalışır, bu nedenle soğutma suyu ve petek temizliği öne çıkar. Römorkla taşımada fren, bağlantı kancası ve aydınlatma, ilaçlama işinde ise pompa mili ve hortum bağlantıları ayrıca yoklanır.
+
+Hasat ve harman döneminde ortam tozludur; hava filtresi göstergesine her mola sonrasında göz atın. Soğuk bölgelerde sabah ilk çalıştırmadan önce yağın akışkanlığına ve akü bağlantılarına bakmak, marş motorunu zorlamaktan iyidir. Uzun süre durmuş traktörde ise sezon başında ek olarak lastik havasına, akü şarjına ve yakıt deposundaki yoğuşmaya bakılır.
+
+## Ne zaman servise gitmeli?
+
+Günlük tur yalnızca gözlemdir; onarım değildir. Yağ yanması, süt renginde yağ, kendiliğinden azalan soğutma suyu, egzozdan sürekli beyaz ya da mavi duman, hidrolik sistemde kaldırmama gibi bulgular yetkili servise gider. Kendi kendinize pompa ya da enjektör söküp takmaya girişmeyin. Bakım aralıkları, yağ sınıfı ve filtre numaraları traktörün kullanım kitapçığındadır; bu yazıdaki sıra genel bir çerçevedir, kitapçıkla çelişirse kitapçığı izleyin. Mazot ve girdi destekleri için [tarımsal destekler nedir](/tarimsal-destekler-nedir) yazısındaki mantığa, ayrıntılar için il ve ilçe tarım müdürlüğüne bakabilirsiniz.
+@sss
+S: Traktör günlük bakım ne kadar sürer?
+C: Alışınca beş ila on dakika. Motor yağı, soğutma suyu, hava filtresi, yakıt ayırıcı, hidrolik yağ, lastik ve emniyet donanımına sırayla bakmak yeterlidir. Eksik malzemeyi (yağ, huni, bez) yanınızda tutmak turu hızlandırır.
+
+S: Motor yağı sıcakken mi soğukken mi kontrol edilir?
+C: Çoğu kitapçık motoru durdurup birkaç dakika bekledikten sonra, düz zeminde okumayı önerir. Sıcak motorda hemen okursanız yağ yukarıda kaldığı için eksik görünebilir. Kendi traktörünüzün kitapçığındaki süreyi uygulayın.
+
+S: Hava filtresi ne sıklıkla kontrol edilmeli?
+C: Kitapçıktaki aralığa uyun; tozlu tarlada ve harman gibi işlerde daha sık bakın. Eleman yağlı, yırtık ya da gözenekleri tıkalıysa temizlemek yerine değiştirin. İç yedek elemana müdahale etmeyin.
+
+S: Soğutma suyunu musluk suyuyla tamamlayabilir miyim?
+C: Acil durumda kısa süreliğine mümkündür ama kalıcı çözüm değildir. Donma koruması ve kireç yönetimi için kitapçıkta önerilen karışımı kullanın. Sürekli eksilen su varsa sızıntı ya da conta sorunu aranmalıdır.
+
+### YAZI
+slug: evde-pekmez-yapimi-uzum-ve-dut-pekmezi
+baslik: Evde Pekmez Yapımı: Üzüm ve Dut Pekmezi Adım Adım
+yayin: 2027-04-13 11:35
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: pekmez yapımı
+seo_baslik: Evde Pekmez Yapımı: Üzüm ve Dut Pekmezi
+seo_aciklama: Evde pekmez yapımı nasıl olur? Üzüm ve dut şırasının sıkılması, durultulması, kaynatılması ve kavanozlanması; koyuluk, köpük ve saklama ipuçları.
+ozet: Pekmez yapımı, taze meyve şırasının sıkılıp durultulması ve açık kazanda koyulaşana kadar kaynatılmasıdır. Üzüm ve dutta adımlar benzer, durultma ve kıvam kontrolü farklıdır.
+etiketler: pekmez, üzüm pekmezi, dut pekmezi, şıra, meyve işleme, kış hazırlığı
+gorsel: bekliyor
+gorsel_alt: Bakır bir kazanda kaynayan koyu renkli meyve şırası, yanında tahta kepçe ve boş cam kavanozlar
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Pekmez yapımı beş adımdır: meyveyi ezip sıkarak şıra çıkarmak, şırayı durultmak, süzmek, kısık ateşte köpüğünü alarak koyulaşana kadar kaynatmak ve sıcakken temiz kavanoza doldurmak. Üzümde şıra daha asitli, dutta daha tatlıdır; kıvam kaşıkta ince bir iplik gibi akınca tamamdır.
+@govde
+Pekmez, meyvenin şekerini kışa taşıyan en eski yöntemlerden biridir. Evde pekmez yapımı için çok ekipman gerekmez: Bir ezme ve sıkma düzeni, temiz bir kazan, bez ve sabır yeterlidir. Asıl iş, şırayı durultmak ve kaynatma sırasında ocaktan ayrılmamaktır. Aşağıda üzüm ve dut pekmezini adım adım, hangi aşamada ne yanlış gidebilir ve kıvamın nasıl anlaşılacağı ile birlikte anlatıyoruz.
+
+## Pekmez nedir, nasıl tanımlanır?
+
+Pekmez, taze ya da kuru meyvenin suyunun uygun yöntemle kıvam kazanana kadar koyulaştırılmış hâlidir. Anadolu'da en yaygını üzüm pekmezidir; Türk Gıda Kodeksi'nin üzüm pekmezi tebliği ürünü tatlı ve ekşi, sıvı ve katı diye sınıflandırır ([Tarım ve Orman Bakanlığı, Üzüm Pekmezi Tebliği](https://istanbul.tarimorman.gov.tr/Belgeler/SolMenu/RESM%C4%B0%20GAZETE/UzumPekmeziTebligi-30.06.2017.pdf)). Dut, incir, harnup ve elmadan da pekmez yapılır; Vikipedi'nin pekmez maddesi, Türkiye'nin yanı sıra Azerbaycan ve Balkanlar'daki farklı yapılışları anlatıyor ([Vikipedi, Pekmez](https://en.wikipedia.org/wiki/Pekmez)). Geleneksel yapımın binlerce yıllık olduğunu Anadolu'dan bir derleme de belirtiyor ([Ayk, geleneksel Türk tadı pekmez](https://www.ayk.gov.tr/wp-content/uploads/2015/01/U%C3%87AR-Asl%C4%B1-GELENEKSEL-T%C3%9CRK-TADI-PEKMEZ.pdf)).
+
+Evde yapılan pekmez ticari ürünle aynı sofrada durabilir, ama bir fark vardır: Satış için yapılacak pekmez gıda mevzuatına tabidir. Kendi tüketiminiz için yaparken bile hijyen ve saklama kurallarını bilmek gerekir.
+
+## Meyveyi seçmek: üzümde olgunluk, dutta toplama zamanı
+
+Pekmezlik üzüm tam olgun, şekeri yüksek ve çürümemiş olmalı. Çürük taneler şırada kötü tat bırakır, ayıklamayı atlamayın. Salkımları yıkamayın; yıkama hem suyu seyreltir hem tanelerde çatlak açar. Yaprak ve dal parçalarını ayıklamak yeterlidir. Üzüm çeşitleri için [sofralık üzüm çeşitleri](/sofralik-uzum-cesitleri) yazımıza bakabilirsiniz; pekmezde şekeri yüksek, kabuğu ince çeşitler daha az kaynatma gerektirir.
+
+Dutta ise meyve ağaçtan dökülmeden hemen önce, mor ya da beyaz rengini tam almışken toplanır. Dut ağacının yetiştirilmesi ve hasat dönemi için [dut ağacı yetiştirme](/dut-agaci-yetistirme) yazısı yararlı. Dutun şırası üzümden daha az asitlidir; bu yüzden birçok yörede dut pekmezi için ayrıca bir kimyasal ya da toprak katılmaz. Yöreye göre uygulama değiştiğinden yaşadığınız bölgenin geleneğine bakın.
+
+## Pekmez yapımında kullanılacak ekipman
+
+Büyük bir mutfak aleti seti gerekmez ama birkaç kalem işi belirler. Geniş ve alçak bir kazan (bakır, paslanmaz çelik ya da emaye), ezme için temiz bir kasa ve tahta bir tokmak, sıkma için yıkanmış kalın bir bez ya da pamuklu çuval, şırayı bekletmek için paslanmaz ya da cam bir kap, köpük almak için kevgir, karıştırmak için uzun saplı tahta kepçe ve en sonda kavanozlar. Evde ocak yerine bahçede odun ateşi ya da büyük bir tüp ocak kullanıyorsanız ateşi kısmak zorlaşır; ayarlanabilir bir ocak köpürme ve taşma sırasında size zaman kazandırır.
+
+Kazanı doldururken ağzına kadar doldurmayın; şıra ilk kaynama anında köpürüp taşar. Kazanın üçte ikisi dolu olacak kadar şıra koymak güvenlidir. Kaynayan şeker çok sıcaktır ve deriye yapışır; uzun kollu giyin, çocukları ve evcil hayvanları ocaktan uzak tutun.
+
+## Adım adım pekmez yapımı
+
+1. **Ayıklama ve ezme:** Üzümü ya da dutu ayıklayın, geniş bir kapta ezin. Bir bez torbaya doldurup sıkarak şırayı çıkarın.
+2. **Dinlendirme:** Şırayı bir gece serin yerde, kapağı bezle örtülü bırakın; tortu dibe çöker.
+3. **Durultma:** Üzüm şırasını durultmak için kimi yörelerde "pekmez toprağı" denen kalsiyum bakımından zengin toprak kullanılır. Bu toprak şırayı durultur ve asitliğini azaltır. Toprağın yeri ve kullanım miktarını bölgenizdeki yerel üreticiden öğrenin; rastgele kireç ya da inşaat malzemesi kullanmayın.
+4. **Süzme:** Üstteki duru kısmı ince bir bezden süzün. Dibe çökeni dökün.
+5. **Kaynatma:** Şırayı geniş ve alçak bir kazana alın. Geniş yüzey buharlaşmayı hızlandırır. Orta ateşte başlayın, kaynayınca ateşi kısın. Üstte biriken köpüğü kevgirle alın.
+6. **Kıvam kontrolü:** Şıra kabaca dörtte bir ile üçte bir hacmine inene kadar kaynar; kaşığı kaldırınca ince bir iplik gibi akıyor, soğuk tabağa damlatınca yayılmayıp top olarak duruyorsa kıvam tamamdır.
+7. **Kavanozlama:** Sıcakken, kaynar suyla haşlanmış kuru kavanozlara doldurun, ağzını sıkıca kapatın.
+
+Kaynatma süresini saat olarak vermiyoruz çünkü şıranın şeker oranına ve kazanın genişliğine göre saatler değişir. Başlangıçtan sonuna kadar kazanın başında durun; son yirmi dakikada şeker hızla yanar.
+
+## Kıvamı gözle ve soğuk tabakla anlamak
+
+Pekmezin bitip bitmediğini anlamak için üç yol kullanılır. Birincisi kepçeyle: Kepçeyi kaldırıp bırakın, pekmez kepçeden ince ve sürekli bir iplik gibi akıyorsa kıvama yaklaşmıştır. İkincisi soğuk tabakla: Buzdolabında soğutulmuş bir tabağa bir damla damlatın, bir dakika bekleyin; damla yayılmıyor, parmakla itince kıvrım yapıyorsa tamamdır. Üçüncüsü ölçerle: Ticari üreticiler şekeri Brix adı verilen bir ölçüyle denetler; üzüm pekmezi tebliği ürünün kuru madde değerlerini belirtir. Evde bu ölçüye gerek yok, ama tabak yöntemi ev ortamında en güvenilir yoldur.
+
+Kıvam tutturulamadığında iki hata görülür: Çok erken ocaktan almak (pekmez sulu kalır, kavanozda küflenir) ve çok geç almak (soğuyunca taş gibi katılaşır, şeker kristalleşir). Ortası, tabak testinin sonucuna güvenmektir.
+
+## Üzüm ve dut pekmezi arasındaki farklar
+
+| Konu | Üzüm pekmezi | Dut pekmezi |
+|---|---|---|
+| Şıra asitliği | Yüksek; durultma gerekebilir | Düşük; çoğu yörede doğrudan kaynatılır |
+| Köpük | Çok, sürekli alınır | Az ama yapışkan |
+| Kıvam | Sıvı ya da koyu | Genellikle daha koyu ve yapışkan |
+| Renk | Koyu kahve | Koyu mor ya da kahve |
+| Kullanım | Tahin, yoğurt, kahvaltı | Kahvaltı, tatlı, öksürüğe geleneksel ev kullanımı |
+
+Tabloda yazanlar yöresel uygulamalar için genel çerçevedir; "öksürüğe iyi gelir" gibi sağlık iddiaları için bir doktora danışın, gelenekten öte bir bilgi veremeyiz.
+
+## Gerçekte yaşanan hatalar
+
+En sık görülen hata kaynatmayı hızlı yapmaktır. Yüksek ateşte pekmez kenardan yanar, acı bir tat kazanır. Düzeltmesi yoktur; yanan kısmı karıştırmak tadı yaymaktan başka işe yaramaz. İkinci hata kazan seçimidir: Dar ve derin kap buharlaşmayı yavaşlatır, pekmez sulu kalır ve kavanozda küflenir. Bakır, paslanmaz çelik ya da emaye kap kullanın; alüminyum asit ve toprakla tepkimeye girebilir.
+
+Üçüncü hata kavanozu soğuk doldurmak ya da ıslak kavanoz kullanmaktır. Islaklık küf demektir. Kavanozları yıkayıp kaynar suda tutun, fırında ya da kurulama bezinde tamamen kurutun. Dördüncü hata, kıvamı soğuduktan sonra yargılamamaktır: Pekmez sıcakken olduğundan sulu görünür, tabağa bir damla damlatıp soğutmak size gerçek kıvamı gösterir.
+
+## Saklama ve raf ömrü
+
+Doğru koyulukta pekmez serin ve karanlık bir yerde uzun süre saklanır. Kavanozun üzerine yapım tarihi ve cinsini yazın. Açılan kavanozu buzdolabında, temiz kaşıkla kullanın. Üstte beyaz kristal oluşması şekerin çökmesidir; kavanozu ılık suda tutmak kristali eritir. Yüzeyde küf, ekşi koku ya da köpük görürseniz kavanozu atın. Küfü kaşıkla alıp devam etmeyin.
+
+Dut, üzüm ve benzeri şırayı bir günden fazla dinlendirmeyin; sıcak havada şıra mayalanmaya başlar. Dut haziran ve temmuzda, üzüm genellikle eylül ve ekimde olgunlaşır; mutfak bu aylarda sıcaktır, dinlendirmeyi serin bir yerde yapın. Nisan, kazanı, bezleri ve kavanozları hazırlamak ve ağaç ile asmayı bakıma almak için iyi bir aydır.
+
+## Pekmez yapımından artan ürünler
+
+Üzüm ya da dut posası atılmak zorunda değildir. Posa kompost yığınına katılabilir, ama yoğun şeker içerdiği için bol karbonlu malzemeyle (kuru yaprak, saman) karıştırılmalıdır; yoksa yığını çekici hâle getirir. Kompost için [bahçe atıkları](/bahce-atiklari) yazısındaki karışım oranlarına bakabilirsiniz. Mürver ve benzeri yaban meyvelerinden pekmez yapmak isterseniz [mürver yetiştirme](/murver-yetistirme) yazısında meyvenin işlenmesine dair ipuçları var; yaban meyvelerin bazı kısımları ham hâlde zehirli olabileceğinden tarif ve kaynatma süresine dikkat edin.
+
+Kış hazırlığının diğer ayağı reçeldir; şeker ve pektin dengesi pekmezden farklı çalışır, ayrıntı için [evde reçel: meyve, şeker ve pektin dengesi](/evde-recel-meyve-seker-ve-pektin-dengesi) yazısına bakın.
+
+## Pekmezi satmak istiyorsanız
+
+Kendi aileniz için yaptığınız pekmezle satış için yaptığınız pekmez aynı değildir. Satış için işletme kaydı, etiket ve gıda mevzuatı gerekir. Mevzuat ayrıntıları için il ya da ilçe tarım müdürlüğüne başvurun; bu yazıda tarih ya da şart yazmıyoruz.
+@sss
+S: Pekmez yapımı için hangi üzüm kullanılır?
+C: Tam olgun, şekeri yüksek, çürümemiş üzüm. Çürük taneleri ayıklayın, salkımı yıkamayın. Kabuğu ince çeşitler daha az kaynatma ister. Çeşit seçimini bölgenizde yetişen sofralık ve şaraplık çeşitlere göre yapın.
+
+S: Dut pekmezi nasıl koyulaşır?
+C: Dutun şırası sıkılıp süzüldükten sonra geniş bir kazanda kısık ateşte kaynatılır. Koyulaşmayı buharlaşma sağlar, kazan geniş olursa hızlanır. Soğuk tabağa damlatıp yayılmıyorsa tamamdır.
+
+S: Pekmez neden acı olur?
+C: Genellikle yüksek ateşte kaynatılıp dipte yandığı için. Şıra koyulaştıkça yanma riski artar; son yirmi dakika ateşi iyice kısın ve sık karıştırın. Yanmış pekmezin tadı düzeltilemez.
+
+S: Pekmez kavanozda neden küflenir?
+C: Kıvamı yeterince koyulaşmadığında ya da kavanoz ıslak ve soğukken doldurulduğunda. Kavanozu kaynar suyla haşlayıp tamamen kurutun, pekmezi sıcakken doldurun. Küflü pekmezi tüketmeyin.
+
+### YAZI
+slug: agac-dibi-tava-nasil-acilir-cap-ve-derinlik
+baslik: Ağaç Dibi Tava Nasıl Açılır? Sulama Çapı ve Derinliği
+yayin: 2027-04-13 14:05
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: ağaç dibi tava
+seo_baslik: Ağaç Dibi Tava Nasıl Açılır? Çap ve Derinlik
+seo_aciklama: Ağaç dibi tava açmak: sulama suyunu köke yönlendiren çukurun çapı, derinliği ve kenar seti nasıl ayarlanır; genç ve yaşlı ağaçta farklar nelerdir?
+ozet: Ağaç dibi tava, ağacın etrafına açılan sığ ve halka biçimli bir sulama çanağıdır. Genç ağaçta dikim çukurunun biraz dışında, yaşlı ağaçta taç izdüşümünde açılır; su kenarlardan akıp gitmez, köke iner.
+etiketler: ağaç dibi tava, sulama çanağı, fidan sulama, meyve ağacı, taç izdüşümü, malç
+gorsel: bekliyor
+gorsel_alt: Yeni dikilmiş bir meyve fidanının etrafında toprak setle çevrilmiş yuvarlak sulama çanağı, içinde saman malç
+urunler: raco-bahce-el-kuregi, raco-iki-disli-bahce-el-capasi
+kisaca: Ağaç dibi tava, ağacın gövdesinden belli bir uzaklıkta, alçak bir toprak set ile çevrilen halka biçimli sulama çanağıdır. Genç fidanda çap dikim çukurunun biraz dışına, yetişkin ağaçta taç izdüşümüne kadar genişletilir; derinlik sığ tutulur, su gövdeye değil kök bölgesine yönlendirilir.
+@govde
+Bir fidanı diker, hortumu açarsınız; su ağacın dibinde değil, eğime göre yan tarafta birikir ve gider. Köke ulaşan miktar azdır, yüzey çamur olur. Ağaç dibi tava bu sorunu çözen basit bir toprak işidir: Gövdenin etrafına alçak bir set çekip içini çanak hâline getirmek. Aşağıda tavanın çapını, derinliğini, genç ve yaşlı ağaçta nasıl değiştiğini ve yaptığımız yanlışları anlatıyoruz.
+
+## Ağaç dibi tava ne işe yarar?
+
+Tavanın işi suyu tutmaktır. Su, setin içinde birikir ve yavaşça toprağa süzülür; böylece hem sulama süresi uzar hem de kök bölgesi daha derin ıslanır. Kansas State Üniversitesi, yeni dikilmiş ağaçlarda suyu kök çevresinde tutmak için dikim çukurunun hemen dışına alçak bir set yapmayı öneriyor ([K-State, yeni dikilen ağaç ve çalıların sulanması](https://bookstore.ksre.ksu.edu/download/watering-newly-planted-and-young-trees-and-shrubs_MF2800)). Minnesota Üniversitesi'nin yayım servisi de ilk dönemde sulama miktarını gövde kalınlığına göre ayarlamayı anlatıyor ([University of Minnesota Extension, yeni dikilen ağaç ve çalıların sulanması](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs)).
+
+Eğimli arazide tava, suyun kaçmasını engelleyen tek şeydir. Düz ve killi toprakta ise suyun gövde dibinde durmasına, çürüme riskine karşı dikkatli olmak gerekir.
+
+## Çap ve derinlik: kaç santim?
+
+Kaynaklar kesin bir sayı vermiyor, çünkü toprak ve ağaç boyu değişiyor. Illinois Üniversitesi'nin yayım servisi genç ağaç için yaklaşık 1,5 metre çaplı bir çanağı örnek veriyor ([University of Illinois Extension, yeni ağaç bakımı](https://extension.illinois.edu/sites/default/files/new_tree_care_infosheet.pdf)). Pratik kural şudur: Tava, dikim çukurunun biraz dışında başlar ve ağacın taç izdüşümüne doğru yıllar içinde genişler.
+
+| Ağaç durumu | Tava çapı (yaklaşık) | Set yüksekliği | Not |
+|---|---|---|---|
+| Yeni dikilmiş fidan | Dikim çukuru + 20-30 cm | 8-12 cm | Gövdeden yaklaşık 15-20 cm uzak |
+| 2-3 yaşında ağaç | 1,2-1,5 m | 10-15 cm | Her yıl biraz genişletin |
+| Yetişkin ağaç | Taç izdüşümü | 10-15 cm | Birden çok halka açılabilir |
+
+Bu aralıklar genel bahçecilik uygulamasından derlenmiş orta değerlerdir; kendi toprağınızda suyun ne kadar sürede çekildiğine bakarak ayarlayın. Su bir saatten uzun süre çanakta bekliyorsa toprak ağırdır, tavayı sığlaştırın ya da su miktarını azaltın.
+
+## Adım adım ağaç dibi tava açmak
+
+1. Gövdenin etrafındaki yabani otu ve çimi 1 metre çapında soyun.
+2. Tavanın dış sınırını işaretleyin: ip ve çubukla daire çizin.
+3. Dış çizgiden içeri doğru toprağı çapayla çekin, setin üzerine yığın. Seti elinizle hafifçe bastırın, ezecek kadar sıkıştırmayın.
+4. Set yüksekliğini 10 ile 15 santim arasında tutun; çok yüksek set gövdeye su ulaşmasını engeller.
+5. Gövdenin hemen dibini hafif yüksekte bırakın; gövdeye su değmesin.
+6. Çanağı su ile doldurup çekilmesini bekleyin; sızmayan yerleri kontrol edin.
+7. İçine 5-8 cm kalınlıkta malç serin, gövdeden bir el genişliği uzak kalsın.
+
+Malç ayrıntıları için [ağaç dibi malçlama](/agac-dibi-malclama) yazısına, genel malç türleri için [malç çeşitleri](/malc-cesitleri) yazısına bakabilirsiniz. Illinois Üniversitesi'nin yayını da malçı gövdeden en az yaklaşık 10 cm (4 inç) uzak tutmayı öneriyor.
+
+## Tava ne kadar su alır, ne sıklıkla doldurulur?
+
+Tavayı bir kez doldurmak yetmez; ilk yıllarda düzenli aralık gerekir. Minnesota Üniversitesi, her sulamada gövde çapının her 2,5 cm'si (1 inç) için yaklaşık 4-6 litre (1 ila 1,5 galon) su vermeyi öneriyor; bu kaba bir başlangıç sayısıdır, toprağınız hızlı süzülüyorsa artırır, ağırsa azaltırsınız. Illinois Üniversitesi, ağacın tutunmasının ilk iki üç yıl boyunca gösterilen bakıma bağlı olduğunu vurguluyor. Yani tava bir kereye mahsus açılıp unutulan bir şey değil, ilk yıllardaki sulama düzeninin parçasıdır.
+
+Pratikte şöyle yürüyün: Tavayı doldurun, suyun çekilmesini izleyin. İki üç dakikada çekiliyorsa toprak kumludur, aynı turda bir kez daha doldurun. Bir saatte bile çekilmiyorsa toprak ağırdır, bir sonraki sulamayı geciktirin. Yüzeyin kuruması ile kök bölgesinin kuruması aynı şey değildir: Bir tahta çubuk ya da uzun bir tornavidayı tavanın içine sokup nemli toprağa ne kadar derinde ulaştığına bakmak, parmakla yüzeyi yoklamaktan daha güvenilirdir.
+
+## Yıl yıl tavanın büyümesi
+
+| Dikimden sonra | Tava çapı | Yapılacak |
+|---|---|---|
+| İlk sezon | Dikim çukuru + 20-30 cm | Haftalık ya da on günlük sulama, malç yenileme |
+| İkinci sezon | Yaklaşık 1,2 m | Seti yeniden çekin, çapı bir karış artırın |
+| Üçüncü sezon | Yaklaşık 1,5 m | Sulama aralığını açın, kök yayılımını izleyin |
+| Dördüncü sezondan sonra | Taç izdüşümü | Tavayı kaldırıp damla hatla ya da halka sulamayla değiştirin |
+
+Bu tablo ağaç türüne ve toprağa göre kaydırılacak genel bir çerçevedir. Hızlı büyüyen dut ve incir gibi türlerde kök yayılımı daha çabuk, bodur anaç üzerindeki elma ve armutta daha yavaştır. Tavayı genişletirken yeni çapı ağacın yapraklarının uçlarına, yani damlama çizgisine göre değerlendirin.
+
+## Genç ağaç ve yaşlı ağaç: farklı tava, farklı kök
+
+Fidanın kökleri dikim çukurunda toplanıdır; ilk yıllarda suyun bu bölgeye gitmesi gerekir. Bu dönemde dar bir tava işe yarar. Yaşlı ağacın kökleri taç genişliğinin dışına kadar yayılır, gövde dibine su vermek besleyici kökleri ıslatmaz. Yetişkin ağaçta tava gövdeden uzakta, taç izdüşümünün kenarında açılır; kimi bahçıvanlar iç içe iki halka yapar.
+
+Çıplak köklü ya da tüplü fidan dikimi sonrası tava açmayı unutmayın; dikimden hemen sonra verilen ilk su, fidanın etrafındaki toprağı oturtur ve kök çevresindeki hava boşluklarını kapatır. Fidan dikimi adımları için [çıplak köklü fidan dikimi](/ciplak-koklu-fidan-dikimi) yazısına bakın; tüplü fidanın kök topağı sıkıysa çanağın içine su verirken topağın da ıslandığından emin olun.
+
+## Bölgeye göre tava: Ege'den Doğu Anadolu'ya
+
+Kurak Ege ve Akdeniz yazında tava suyu tutmak için şarttır; yağmurun kıt olduğu iç bölgelerde de aynı gerekçeyle işe yarar; kuru yazda hortumla yüzeyden verilen su buharlaşıp gider. Karadeniz'in yağışlı bölgelerinde ise tava, suyun yığılıp gövdeyi çürütmesini önlemek için sığ tutulur ya da yağışlı dönemde kapatılır. İç Anadolu'nun killi topraklarında su yavaş süzülür, tavayı bir kerede değil, iki kez az az doldurmak daha iyi sonuç verir.
+
+## Tavayı hangi ağaçlarda açmayın?
+
+Her ağaç aynı sulamayı sevmez. Zeytin, incir ve badem gibi kuraklığa dayanıklı türlerde sürekli dolu tava kök boğazı çürümesine yol açabilir; bu türlerde tavayı sığ tutup sulamayı seyrek ve derin yapın. Narenciyede gövdeye değen su en büyük risktir, bu yüzden tava gövdeden uzakta açılır ve içine su verilirken gövde hep kuru kalır. Narenciye saksıdaysa tava konusu yoktur; saksıda sulama için [saksıda limon ağacı bakımı](/saksida-limon-agaci-bakimi) yazısına bakın.
+
+Çok eğimli yamaçta tek tava yetmez; set, eğime dik bir basamak şeklinde açılır (teras tava). Böylece su aşağı kaçmadan tutulur. Alt tarafta yüksek set, üst tarafta alçak set bırakmak kuralı basittir.
+
+## Bakım: tavayı temiz ve işlevli tutmak
+
+Tava içinde yabani ot biterse suyu ağaçla paylaşır. Otları kökünden sökün, malçı altına serin. Yağmur ve sulamayla set zamanla alçalır; ilkbahar ve yaz başında kısa bir tur atıp set yüksekliğini kontrol edin. Kemirgen ve karınca yuvası setin içini oyabilir, su bu delikten kaçar; delik görürseniz toprakla kapatın. Sonbaharda yaprak dökümü tavayı doldurur; yaprakları temizleyin, hastalıklı yaprakları kompost yerine bahçeden uzaklaştırın.
+
+## Sık yapılan yanlışlar
+
+- **Gövdeye yakın çanak:** Su gövdede durur, kabuk çürüğü riski artar. Düzeltme: Tavayı gövdeden uzaklaştırın.
+- **Çok derin çukur:** Köke oksijen gitmez. Düzeltme: Derinlik değil genişlik arttırılır.
+- **Setin yıkılması:** Yağmurdan sonra set erir. Düzeltme: Sonbaharda seti yeniden çekin.
+- **Malçsız bırakmak:** Çanak kurur, çatlar. Düzeltme: Malç serin.
+- **Tavayı hiç genişletmemek:** Ağaç büyür, tava aynı kalır. Düzeltme: Her yıl yarım karış genişletin.
+
+[ürün:raco-bahce-el-kuregi,raco-iki-disli-bahce-el-capasi]
+
+Tava için sağlam bir kürek ve çapa yeterlidir; elinizdeki aletle de aynı işi görürsünüz.
+@sss
+S: Ağaç dibi tava ne zaman açılır?
+C: Dikimden hemen sonra ve her sulama sezonu başında. Kış yağışlarında seti yıkılan tavayı ilkbaharda yeniden çekin. Yaz sıcağından önce yapılması, ilk kurak dönemde suyun köke ulaşmasını sağlar.
+
+S: Ağaç dibi tava gövdeye ne kadar yakın olmalı?
+C: Gövdeden en az 15-20 cm uzakta başlamalı; su gövde dibinde durmamalı. Yetişkin ağaçta tava taç izdüşümüne kadar açılır, gövde dibine su verilmez. Kök boğazı kuru kalmalıdır.
+
+S: Tavaya ne kadar su verilir?
+C: Toprağa, ağaca ve havaya göre değişir; kaynaklar gövde çapına göre litre hesabı verir. Su bir saatten uzun çanakta duruyorsa azaltın. Önemli olan yüzeyi ıslatmak değil, kök bölgesine inmesidir.
+
+S: Tava ile damla sulamayı birlikte kullanabilir miyim?
+C: Evet. Damlatıcıları tavanın içine, gövdeden uzak bir halka biçiminde yerleştirebilirsiniz. Tava damla suyunun yanlara kaçmasını azaltır. Damla sulama kurulumu için ayrı bir rehber yazımız var.
+
+### YAZI
+slug: basinc-dusurucu-regulator-sulama-hatti
+baslik: Basınç Düşürücü Regülatör: Sulama Hattında Ne İşe Yarar?
+yayin: 2027-04-13 19:30
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: basınç düşürücü regülatör
+seo_baslik: Basınç Düşürücü Regülatör: Sulamada Ne İşe Yarar?
+seo_aciklama: Basınç düşürücü regülatör sulama hattında ne işe yarar? Damla sulama için doğru basınç, regülatör seçimi, takma sırası ve sık yapılan hatalar.
+ozet: Basınç düşürücü regülatör, şebeke ya da pompa basıncını damla sulama hattının kaldırabileceği değere indirir. Damlatıcı ve bant için doğru basınç, düzgün su dağılımı ve hortum ömrü demektir.
+etiketler: basınç düşürücü regülatör, damla sulama basıncı, sulama regülatörü, damla bant, filtre
+gorsel: bekliyor
+gorsel_alt: Bahçe musluğuna bağlı pirinç regülatör, yanında filtre ve ince siyah damla sulama borusu
+urunler: sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu
+kisaca: Basınç düşürücü regülatör, hatta giren suyun basıncını damla sulamanın istediği değere indirir. Damla bant yaklaşık 10 psi, damlatıcılı boru 20-30 psi civarında çalışır; şebeke ise bunun çok üstündedir. Regülatörsüz hat yırtılır, uç damlatıcılar kopar, su düzgün dağılmaz.
+@govde
+Bahçe musluğunun basıncı bir hortumla kazı yapmaya yeter; damla sulama bandının ise yırtılmasına neden olur. Su aynı sudur ama hat farklı bir basınç ister. Basınç düşürücü regülatör bu farkı kapatan küçük bir parçadır: Musluğun ardına takılır, basıncı hattın kaldırabileceği seviyeye çeker. Aşağıda regülatörün neden gerektiğini, hangi basınca ayarlandığını ve takarken neye dikkat edileceğini anlatıyoruz.
+
+## Basınç düşürücü regülatör ne yapar?
+
+Regülatör, giriş basıncı ne olursa olsun çıkışta sabit ve daha düşük bir basınç verir. Şebeke suyu ya da pompa basıncı çoğu zaman damla sulama sistemlerinin dayanabileceğinden yüksektir; hat bu basıncı taşımak için tasarlanmamıştır. Clemson Üniversitesi'nin yayım servisi, damla boru ve damlatıcılı sistemlerin yaklaşık 30 psi ile iyi çalıştığını, çoğu peyzaj sisteminde 30 psi'lik regülatör kullanılmasını önerdiğini anlatıyor ([Clemson HGIC, sulama ekipmanı: filtre ve regülatörler](https://hgic.clemson.edu/factsheet/landscape-irrigation-equipment-part-5-filters-pressure-regulators/)). Oklahoma State Üniversitesi ise evsel sistemlerde damla hatları için yaklaşık 20 psi, 15 ile 30 psi arası çalışma aralığı veriyor ([Oklahoma State Extension, evsel sulamada basınç yönetimi](https://extension.okstate.edu/fact-sheets/managing-pressure-in-the-home-irrigation-system.html)).
+
+Bir psi yaklaşık 0,07 bar'dır; 30 psi kabaca 2 bar eder, 10 psi ise 0,7 bar civarındadır. Türkiye'de manometreler çoğunlukla bar gösterir, dönüşüm için bu oranı kullanın.
+
+## Hangi basınç, hangi hat?
+
+| Hat türü | Yaklaşık çalışma basıncı | Not |
+|---|---|---|
+| Damla bant (ince cidarlı) | 8-12 psi (yaklaşık 0,6-0,8 bar) | Basınç yükselince bant yırtılır |
+| Damlatıcılı boru | 15-30 psi (yaklaşık 1-2 bar) | Üretici etiketine uyun |
+| Mini yağmurlama | Başlığa göre değişir | Başlık kataloğuna bakın |
+
+California Üniversitesi'nin mikro sulama bakım rehberi, damla bandın 8 ile 12 psi gibi düşük basınçlarda çalıştığını ve yükseklik farkının bile basıncı değiştirdiğini belirtiyor: Yalnızca 5 fitlik (yaklaşık 1,5 metre) yükselti farkı bant basıncını 2 psi kadar değiştirebilir ([UC ANR, mikrosulama sistemlerinin bakımı](https://ucanr.edu/site/maintenance-microirrigation-systems/checking-pressure-regulating-valves)). Eğimli bahçede bu fark önemlidir: Alt uçtaki damlatıcılar daha çok su verir, üst uçtakiler azalır. Bant ve boru ayrımı için [damlama bant ile damla boru arasındaki fark](/damlama-bant-ile-damla-boru-arasindaki-fark) yazısına bakın.
+
+## Regülatörsüz çalıştırmanın bedeli
+
+Yüksek basınçta ilk gördüğünüz şey, hattın bağlantılarından fışkıran sudur. Konnektör sökülür, bant patlar, uçtaki kapak fırlar. Daha sinsi sorun ise gözle görülmeyenidir: Damlatıcılar yüksek basınçta fazla su verir, bitkilerin yarısı boğulur, kalanı kurur. Hatta sular bol diye bir hafta sonra sulama süresini kısarsanız bu kez eşitsizlik büyür.
+
+Hattı çalıştırmadan önce regülatör takmak, bu sorunların çoğunu baştan yok eder. Su tasarrufu da cabasıdır: Gereğinden yüksek basınçta boşa akan su regülatörle düşer.
+
+## Basıncı hesaplamak: bar, psi ve gerçek hat
+
+Bir örnek üzerinden gidelim. Musluk manometresi 4 bar gösteriyorsa bu yaklaşık 58 psi eder. Damla bant 10 psi (yaklaşık 0,7 bar) ister; aradaki fark neredeyse sekiz katıdır. Regülatör olmadan bu basınçla bandı çalıştırmak, bandı birkaç dakikada patlatmak demektir. Damlatıcılı boru için 30 psi'lik (yaklaşık 2 bar) bir regülatör aradaki farkı kapatır.
+
+Önemli bir ayrıntı: Regülatör giriş basıncı çıkışta istenen değerden en az birkaç psi yüksek olduğunda çalışır. Girişte basınç zaten çok düşükse (örneğin yerçekimiyle beslenen bir depo) regülatör işe yaramaz, hat düşük basınçla zaten çalışır. Depodan sulama ayrıntıları için [su deposuyla sulama](/su-deposuyla-sulama) yazısına bakın. Damlatıcı sayısı ve debi hesabı için [damla sulama hesabı](/damla-sulama-hesabi) yazısı yardımcı olur.
+
+## Sıra önemli: filtre, regülatör, hat
+
+Doğru takma sırası şöyledir:
+
+1. Su kaynağı (musluk ya da pompa çıkışı)
+2. Geri tepme (çek) valfi, gerekiyorsa
+3. Filtre
+4. Basınç düşürücü regülatör
+5. Ana boru ve damla hat
+
+Filtreyi regülatörden önce koymak, regülatördeki hassas diyaframı kum ve tortudan korur. Ayrıntı için [damla sulama tıkanması](/damla-sulama-tikanmasi) yazısı filtre bakımını anlatıyor. Kurulum akışının bütününe [damla sulama kurulumu](/damla-sulama-kurulumu) yazısından bakabilirsiniz.
+
+## Regülatör nasıl seçilir?
+
+Seçimde üç soru sorun:
+
+1. **Hangi çıkış basıncı?** Bant için düşük (yaklaşık 10 psi), damlatıcılı boru için 20-30 psi'lik tip arayın. Ayarlanabilir ve sabit modeller vardır.
+2. **Hangi debi?** Hat uzunluğu ve damlatıcı sayısı toplam debiyi belirler. Regülatörün aralığı bunu karşılamalı.
+3. **Hangi bağlantı?** Musluk dişi, boru ya da mikro boru çıkışı uyumlu olmalı.
+
+Sabit regülatör basittir ve sık arızalanmaz; ayarlanabilir olan esnektir ama ayarı yanlışlıkla bozulabilir. UC kaynağı hem ayarlanabilir hem sabit regülatörlerin düzenli olarak yeni ve kaliteli bir manometreyle denetlenmesini öneriyor. Ucuz bir manometreyi regülatörün çıkışına geçici olarak takıp basıncı bir kez ölçmek, yılda bir kontrol için yeterlidir.
+
+## Sık görülen hata: gece basıncı
+
+Sık rastlanan bir senaryo şöyledir: Yeni kurulan sistem ilk gün düzgün çalışır, birkaç hafta sonra bant patlar. Nedeni çoğu zaman regülatörün unutulması ya da gücünü aşan bir giriş basıncıdır. Şebeke basıncı gece, kullanım azalınca yükselebilir; gündüz ölçtüğünüz değer gece geçerli olmaz. Çözüm, basıncı bir hafta boyunca değişik saatlerde ölçmek ve hattın girişine kapasitesi uygun bir regülatör koymaktır. Bina ya da bahçede kat farkı da basıncı değiştirir.
+
+## Regülatör yerine ne kullanılır?
+
+Her hatta ayrı bir regülatör şart değildir. Basınç dengelemeli damlatıcılar, belli bir basınç aralığında aynı debiyi verecek biçimde tasarlanır; ama bunlar da üreticinin belirttiği basınç aralığına ihtiyaç duyar. Uzun ve eğimli hatlarda basınç farkını hem regülatör hem dengelemeli damlatıcı birlikte yönetir. Küçük bir saksı ya da balkon sisteminde ise bir kısma vanasıyla debi ayarlanabilir; ama kısma vanası basıncı ölçmez, yalnızca akışı kısar, bu yüzden bant ya da ince boru için güvenilir bir koruma sayılmaz.
+
+Karar vermek için şu üç soruya bakın: Hat bant mı boru mu? Giriş basıncı bilinen bir değer mi? Hat eğimli mi? Cevaplar "bant, 3 bar üstü, eğimli" ise regülatör şarttır; "boru, düşük basınçlı depo, düz zemin" ise gerekmeyebilir.
+
+## Regülatör arızasını belirtilerinden anlamak
+
+| Belirti | Olası neden | Ne yapılır? |
+|---|---|---|
+| Bant ya da bağlantılar yine patlıyor | Regülatör takılmamış, yanlış psi, diyafram yırtığı | Çıkışa manometre takıp ölçün, değerleri hat etiketiyle karşılaştırın |
+| Hattın sonu hiç su almıyor | Çıkış basıncı fazla düşük, filtre tıkalı | Filtreyi temizleyin, regülatör ayarını kontrol edin |
+| Basınç gün içinde değişiyor | Şebeke dalgalanması, regülatör yaşlanmış | Basıncı farklı saatlerde ölçün, gerekirse değiştirin |
+| Regülatörden su sızıyor | Conta ya da diyafram yıpranmış | Parçayı değiştirin, sızıntıyı onarmaya çalışmayın |
+
+Regülatörün çıkışındaki basınç ayarını değiştirmeden önce hattın en uzak ucundaki damlatıcıya bakın; en uzak damlatıcı yeterince su veriyorsa basınç doğrudur. Eğimli bahçede ayarı en yüksek noktadaki damlatıcıya göre yapıp alçak noktadaki damlatıcıyı denetleyin.
+
+Regülatörü hatta takarken akış yönü okunu gözden kaçırmayın; ters takılan regülatör ne basınç düşürür ne akış verir. Dişli bağlantıları teflon bantla sızdırmaz hâle getirin ama aşırı sıkarak plastik gövdeyi çatlatmayın.
+
+Küçük bahçede tek bir musluğa bağlı iki farklı hat (bir bant, bir mini yağmurlama gibi) varsa her hat için ayrı regülatör gerekebilir. Aynı regülatörden iki farklı basınç isteyen hat beslemeyin.
+
+## Bakım ve kışlatma
+
+Regülatörün içindeki diyafram, tortu ve donla zarar görür. Kışın çıkarıp içindeki suyu boşaltın ve kuru yerde saklayın. Hortum ve sulama bileşenlerinin kışlatılması için [hortum kışlatma](/hortum-kislatma) yazımıza bakın.
+
+[ürün:sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu]
+
+Musluktan hortuma geçiş yapan basit bahçelerde regülatör gerekmeyebilir; ama damla hat kuruyorsanız regülatör maliyeti hattı koruyacak en ucuz parçadır.
+@sss
+S: Damla sulamada regülatör şart mı?
+C: Şebeke ya da pompa basıncı damla hattın çalışma basıncından yüksekse evet. Özellikle damla bant 8-12 psi gibi düşük basınç ister; regülatörsüz yırtılabilir. Düşük basınçlı depodan yerçekimiyle besleyen hatta gerekmeyebilir.
+
+S: Regülatör filtreden önce mi sonra mı takılır?
+C: Filtre regülatörden önce gelir. Böylece tortu regülatörün hassas parçalarına ulaşmaz. Sıralama su kaynağından başlayarak şöyledir: çek valf, filtre, regülatör, ana boru, damla hat.
+
+S: Ayarlanabilir mi sabit regülatör mü daha iyi?
+C: Sabit regülatör basit ve bozulmaz; ayarlanabilir olan farklı hatlar için esnektir ama ayarı kayabilir. Tek tip hatta sabit, karışık sistemde ayarlanabilir seçilir. İkisini de bir manometreyle yılda bir kontrol edin.
+
+S: Hatta basıncı nasıl ölçerim?
+C: Regülatörün çıkışına bir manometre takarak. Damla hat çalışırken ölçün, hat kapalıyken değil. Bar ve psi arasındaki dönüşüm için 1 psi yaklaşık 0,07 bar alın.
+
+### SORU
+yayin: 2027-04-13 10:20
+kategori: gundem
+baslik: Traktörün yağını her gün kontrol etmeli miyim?
+metin: Haftada bir bakıyorum, her gün gerek var mı? Yağ düzenli gidiyor gibi.
+@cevap Rümeysa Altınova | 2
+Yoğun çalıştığınız dönemde işe başlamadan önce bakmak iyi bir alışkanlıktır; yağ eksikliği çalışırken zarar verir. Seviye bir hafta boyunca sabit kalıyorsa sezon dışında aralığı açabilirsiniz ama motor yağı çubuğuna bakmak otuz saniye sürer. Kullanım kitapçığınızdaki aralık da asıl ölçüdür. Yağ seviyesi azalıyorsa sebebini araştırın.
+
+### SORU
+yayin: 2027-04-13 13:00
+kategori: sebze-meyve
+baslik: Pekmezi daha koyu yapmak için ne yapmalıyım?
+metin: Pekmezim kavanozda sulu kaldı, tekrar kaynatsam olur mu?
+@cevap Ahmet Sacit Çelik | 2
+Olur; kavanozdan alıp geniş kazanda yeniden kaynatın. Koyulaşmayı buharlaşma sağlar, kısık ateşte ve sık karıştırarak devam edin. Soğuk tabağa bir damla damlatıp yayılmıyorsa bırakın. Yeni kavanozları kaynar suyla haşlayıp kurutun ve pekmezi sıcakken doldurun. Küflenmiş pekmezi yeniden kaynatmayın, atın.
+

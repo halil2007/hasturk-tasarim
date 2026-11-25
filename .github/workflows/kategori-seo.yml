@@ -1,0 +1,49 @@
+name: Kategori SEO
+
+# HasTürk Gübre kategorilerinin sayfa başlığı, meta açıklaması ve sayfa açıklaması (scripts/kategori-seo.mjs).
+# "oku": kategorileri kategori-seo-veri dalına yazar (mağazaya dokunmaz). "yaz": veri/kategori-seo/hasturk.json'ı yazar;
+# "uygula" işaretlenmezse deneme.
+on:
+  workflow_dispatch:
+    inputs:
+      mod:
+        description: 'oku ya da yaz'
+        default: 'oku'
+      uygula:
+        description: 'Yaz (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/kategori-seo.yml']
+
+permissions:
+  contents: write
+
+concurrency: kategori-seo
+
+jobs:
+  seo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/kategori-seo.mjs
+        env:
+          MOD: ${{ github.event.inputs.mod || 'oku' }}
+          APPLY: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.uygula == 'true' && '1' || '0' }}
+          ICERIK: veri/kategori-seo/hasturk.json
+          CIKTI: cikti
+          STORE: ${{ secrets.IKAS_STORE }}
+          ID: ${{ secrets.IKAS_CLIENT_ID }}
+          SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Okunanları kategori-seo-veri dalına yaz
+        if: github.event.inputs.mod == 'oku' || github.event_name == 'push'
+        run: |
+          cd cikti && git init -q && git checkout -q -b kategori-seo-veri
+          git config user.name "kategori-seo" && git config user.email "actions@users.noreply.github.com"
+          git add . && git commit -qm "Kategori bilgileri" && \
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" kategori-seo-veri

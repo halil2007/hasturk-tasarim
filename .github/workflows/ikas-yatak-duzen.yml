@@ -1,0 +1,38 @@
+name: ikas bahçe yatağı kategorilerini düzenle
+
+# scripts/yatak-duzen/plan-*.json: Bahçe Yatakları ve Kuleleri altında alt kategoriler açar, ürünleri atar, Viyoller ve Dekoratif Saksılar kategorilerini pasife alır.
+# Planlarda "apply": false iken kuru çalıştırmadır (hiçbir şey değişmez). Dala push ile ya da elle çalışır.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/yatak-duzen/**', 'scripts/ikas-yatak-duzen.mjs', '.github/workflows/ikas-yatak-duzen.yml']
+
+permissions:
+  contents: read
+
+concurrency: ikas-yatak-duzen
+
+jobs:
+  duzen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/ikas-yatak-duzen.mjs
+        env:
+          PLAN: scripts/yatak-duzen/plan-hasturk.json
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası
+        run: node scripts/ikas-yatak-duzen.mjs
+        env:
+          PLAN: scripts/yatak-duzen/plan-tarim.json
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

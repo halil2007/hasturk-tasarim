@@ -1,0 +1,25 @@
+name: Ürün sayfası yapısı
+
+# Canlı ürün sayfasının yapısını okur (widget'ın sayfaya kart ekleyeceği yer). Mağazaya dokunmaz.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/sayfa-yapi.mjs', '.github/workflows/sayfa-yapi.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  oku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - run: node scripts/sayfa-yapi.mjs https://hasturkgubre.com.tr/kendi-toprak-karisimini-olustur

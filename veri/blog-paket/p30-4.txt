@@ -1,0 +1,506 @@
+### YAZI
+slug: renkli-misir-yetistirme
+baslik: Renkli Mısır Yetiştirme: Süs ve Patlak Mısır
+yayin: 2027-03-04 08:45
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: renkli mısır yetiştirme
+seo_baslik: Renkli Mısır Yetiştirme: Süs ve Patlak Mısır Rehberi
+seo_aciklama: Renkli mısır yetiştirme için ekim zamanı, toprak sıcaklığı, blok dikim, çapraz tozlanmayı önleme, hasat ve kurutma. Süs ve patlak mısır rehberi.
+ozet: Renkli mısır süs olarak da patlak mısır olarak da yetiştirilir, ama tatlı mısırın yanına dikilirse renk ve tat bozulur. Ekim zamanını, tozlaşmayı, ayrı dikim mesafesini, hasat ve kurutmayı ve süs ile patlak mısırın farkını anlattık.
+etiketler: renkli mısır, süs mısırı, patlak mısır, mısır tohumu, çapraz tozlaşma, mısır kurutma
+gorsel: bekliyor
+gorsel_alt: Kabukları açılmış, sarı, kırmızı, mor ve lacivert taneli renkli mısır koçanları yan yana dizilmiş
+urunler: altinvadi-renkli-misir-tohumu, hg-bol-verimli-sebze-topragi
+kisaca: Renkli mısır yetiştirme, toprak yaklaşık 16 °C'ye ısındığında ekimle başlar; en az dört sıralık blok hâlinde dikilir, çünkü mısır rüzgârla tozlanır. Tatlı mısırdan ve başka mısır tiplerinden uzakta durmak ya da çiçeklenmeyi 2 hafta kaydırmak gerekir. Koçanlar kabukları kuruyunca toplanır ve iki üç hafta kurutulur.
+@govde
+Renkli mısır, sofradan çok bahçenin süsü gibi görünür; ama yeterince kurutulursa patlak mısır, öğütülürse un olur. Renk tanelerin içindedir ve genetiktir: kırmızı, mavi, mor, sarı ve beyaz taneler aynı koçanda yan yana durur. Renkli mısır yetiştirme tatlı mısırdan farklı bir sezon düzeni ister: sabırla kurutulur, başka mısırlardan uzak tutulur.
+
+## Renkli mısır yetiştirme: süs, patlak ve çok renkli tipler
+
+Renkli mısır dediğimizde aslında birkaç grup kastedilir. Süs mısırı, koçan görüntüsü için seçilmiş çeşitlerdir; taneleri sert ve renklidir ve genellikle yenmez. Patlak mısır (popcorn), küçük ve sert taneli, ısıtılınca patlayan çeşittir. "Flint" ya da "indian corn" tipleri ise çok renkli, sert taneli mısırlardır. Bu gruplar birbirine benzer ve aynı yöntemle yetiştirilir; ortak noktaları tatlı mısırdan farklı olarak taneyi sert olgunluğa kadar bitkide bırakmaktır.
+
+Hangisini hedeflediğiniz hasat zamanını belirler. Süs için koçanı kabuğuyla ve sapıyla asılı kurutursunuz; patlak mısır için taneleri sıyırıp kapaklı kavanozda saklarsınız. Tohum paketindeki çeşit tarifini okuyun: Bazı renkli mısırlar yalnızca süs içindir, bazıları ise unlanabilir ya da patlatılabilir.
+
+## Renkli mısır yetiştirme: ekim zamanı ve toprak
+
+Mısır sıcağı sever ve soğuk toprakta çimlenmez. Minnesota Üniversitesi uzatma servisi, işlem görmemiş tohum için toprağın 60 °F'ye (yaklaşık 16 °C) ısınmasını bekler; Kentucky Üniversitesi de 55–60 °F eşiğini verir ve soğuk, ıslak toprakta çimlenme oranının düştüğünü yazar. Bu yüzden ilkbaharda en erken ekim, toprak sıcaklığı üç gün üst üste 16 °C'yi geçince yapılır. Kaynak: [Minnesota Üniversitesi patlak mısır rehberi](https://extension.umn.edu/vegetables/growing-popcorn).
+
+Türkiye'de bu çoğu bölgede nisan sonu ile mayıs arasına denk gelir; ılık kıyılarda mart sonunda başlanabilir. Tohum paketi nisan, mayıs ve haziran aylarını önerebilir; bu pencere sezon uzunluğuna göre uyarlanmalıdır, çünkü sert taneli mısırın olgunlaşması için tatlı mısırdan daha uzun bir yaz gerekir. Toprak derinde gevşek, organik maddece zengin ve süzek olmalıdır. Mısır azotu çok sever; ekimden önce toprağa olgun kompost ya da solucan gübresi karıştırmak yeterli bir başlangıçtır.
+
+Ekimde bitki aralığı önemlidir. Sıra arası 60–80 cm, sıra üzeri 20–25 cm bırakmak köklere ve yapraklara yer açar. Aralık dar olursa bitkiler birbirini gölgeler ve koçanlar küçük kalır. Doğrudan ekimin ayrıntıları için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) ve [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazılarına bakabilirsiniz.
+
+## Blok dikim ve tozlaşma
+
+Mısır rüzgârla tozlanır; polen püskülden dökülüp aşağıdaki koçan ipeklerine konar. Tek sıralı ekimde polen kaybolur, koçanlarda boş taneler oluşur. Iowa Eyalet Üniversitesi uzatma servisi iyi tozlaşma için en az dört sıralık blok dikimi önerir. Küçük bahçede uzun tek sıra yerine 1,5 m × 1,5 m'lik kare blok yapmak aynı alanda daha dolgun koçan verir. Bkz. [Iowa State süs mısırı yetiştirme ve hasat rehberi](https://yardandgarden.extension.iastate.edu/how-to/growing-and-harvesting-ornamental-corn).
+
+Bloğun içinde çiçeklenme döneminde rüzgârsız bir günde püskülü sallamak da tozlaşmayı artırır. Kuraklıkta ve sıcakta (38 °C üstü) polen canlılığı düşer; bu dönemde bol su vermek ve gün ortasında yapraklarla gölgeleme bitkiyi korur.
+
+## Çapraz tozlanma: renk ve tat neden bozulur?
+
+Mısırın en büyük sorunu çapraz tozlaşmadır. Süs ya da patlak mısırın poleni tatlı mısırın koçanına ulaşırsa tatlı mısır nişastalı ve sert olur; tatlı mısırın poleni renkli mısıra gelirse renk ve tat düzeni bozulur. Kentucky Üniversitesi, diğer mısır tiplerinden tam yalıtım için yaklaşık 700 fit (yaklaşık 210 m) mesafe önerir; 250 fit (yaklaşık 75 m) mesafede ise bir miktar karışma olur ama kaliteyi ciddi etkilemez. Kaynak: [Kentucky Üniversitesi mısır yetiştirme yayını](https://publications.ca.uky.edu/sites/publications.ca.uky.edu/files/ho81.pdf).
+
+Küçük bahçede bu mesafe mümkün olmayabilir. İki pratik çözüm vardır: Birincisi, çiçeklenme zamanını kaydırmaktır; Kentucky, tipler arasında en az 14 gün olgunlaşma farkını yeterli bulur. Yani tatlı mısırı mayısın başında, renkli mısırı iki üç hafta sonra ekerseniz çiçeklenmeleri çakışmaz. İkinci çözüm bahçede tek tip mısır yetiştirmektir. Komşunun tatlı mısırı yakınsa o ekimi ya da çiçeklenme zamanını öğrenin.
+
+[ürün:altinvadi-renkli-misir-tohumu]
+
+Tatlı mısır için ayrı rehberimiz var: [mısır yetiştirme](/misir-yetistirme) yazısında tatlı koçanların ekimi, bakımı ve hasadı anlatılıyor. Renkli mısırda amaç tohumu ve kuru koçanı olgunlaştırmaktır; bu fark ekim zamanını ve hasat anını değiştirir.
+
+## Bakım: su, gübre ve destek
+
+Mısır çiçeklenme döneminde en çok suya ihtiyaç duyar. Püskül çıkarken ve koçan oluşurken bitkiyi susuz bırakmayın; haftada bir derin sulama çoğu bahçe için yeterlidir, sıcakta daha sık. Ot, genç mısırın en büyük rakibidir; ilk dört hafta çapalayıp malçlayın.
+
+Besleme için ilkbaharda toprağa olgun organik madde, bitki dizi yüksekliği yaklaşık diz boyunu bulunca hafif azotlu bir ek besleme düşünülebilir. Mısıra özel besleme takvimi [mısır gübreleme](/misir-gubreleme) yazısında yer alıyor. Uzun gövdeler rüzgârda yatabilir; bitkilerin dibine toprak yığmak (yığma) kökleri destekler.
+
+## Yıl boyu takvim ve sık yapılan hatalar
+
+Takvim özetle şöyledir: ilkbaharda toprak ısınınca ekim, yaz başında yığma ve sulama, yaz sonunda kabukların kurumaya başlaması, sonbaharda hasat ve iki üç haftalık kurutma. Renkli mısır yetiştirme sırasında yeni başlayanların sık yaptığı hatalar şunlardır:
+
+| Hata | Sonucu | Çözüm |
+|---|---|---|
+| Tek sıra ekim | Boş taneli koçan | En az dört sıralık blok dikim |
+| Tatlı mısırın yanına dikim | Tat ve renk bozulması | 14 gün aralık ya da uzak mesafe |
+| Erken hasat | Taneler yumuşak, kurutulunca buruşur | Kabuklar kuruyana kadar bekleyin |
+| Güneşte kurutma | Renkler solar | Gölge, havadar ortam |
+| Nemli saklama | Küf ve bozulma | Kuru kavanoz, serin yer |
+
+Bu tablo bahçede en çok zaman kaybettiren hataları gösterir; hepsi ekimden önce planlanarak önlenebilir. Özellikle blok dikim ile ekim tarihi planı sezonun geri kalanını kolaylaştırır.
+
+## Hasat ve kurutma
+
+Süs ve patlak mısırı geç toplayın. Kabuklar kuruyup kağıt gibi olunca, taneler sertleşince hasat zamanıdır. Koçanları kabuğuyla birlikte çekip sıyırın. Süs olarak kullanacaksanız kabuğu tamamen soymadan geriye katlayıp koçanları havadar, kuru ve gölge bir yerde asarak iki üç hafta kurutun; güneş renkleri soldurur. Kurutma sırasında nemden küf oluşmaması için koçanlar birbirine değmemeli.
+
+Patlak mısır için taneler tamamen kuruduktan sonra koçandan sıyrılır ve kapaklı kavanozda saklanır. Taneler çok nemli saklanırsa patlamaz ya da küflenir; çok kuru saklanırsa sert patlar. Önce küçük bir deneme patlatması yapın. Tohum için ayırdığınız koçanları sağlıklı, dolgun ve renkleri istediğiniz gibi olan bitkilerden seçin; ilkbahara kadar serin ve kuru yerde saklayın.
+@sss
+S: Renkli mısır ne zaman ekilir?
+C: Toprak sıcaklığı üç gün üst üste yaklaşık 16 °C'ye ulaşınca ekilir. Çoğu bölgede bu nisan sonu ile mayıs arasıdır; ılık kıyıda mart sonunda başlanabilir.
+
+S: Renkli mısır tatlı mısırın yanına dikilir mi?
+C: Önerilmez, çünkü polenler karışır ve tatlı mısır nişastalı olur. Uzak durmak mümkün değilse çiçeklenme zamanını en az 14 gün kaydırın ya da bahçede tek tür yetiştirin.
+
+S: Renkli mısır tek sıra mı, blok mu dikilir?
+C: En az dört sıralık blok dikin. Mısır rüzgârla tozlanır; tek sıra ekimde polen dağılır ve koçanlarda eksik taneler oluşur.
+
+S: Renkli mısır nasıl kurutulur?
+C: Kabuklar kuruyunca koçanları toplayıp havadar, gölge ve kuru bir yerde iki üç hafta kurutun. Doğrudan güneş renkleri soldurur; koçanların birbirine değmemesi küf riskini azaltır.
+
+### YAZI
+slug: kavak-yetistiriciligi
+baslik: Kavak Yetiştiriciliği: Tarla Kenarında Odun ve Gelir
+yayin: 2027-03-04 10:20
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: kavak yetiştiriciliği
+seo_baslik: Kavak Yetiştiriciliği: Dikim, Aralık ve Bakım Rehberi
+seo_aciklama: Kavak yetiştiriciliği için dikim zamanı, sıra aralığı, sulama, budama ve tarla kenarına dikimde dikkat edilecekler. Başlamadan önce neye bakılır?
+ozet: Kavak, nemli ve derin toprakta hızlı büyüyen bir ağaçtır. Kavak yetiştiriciliğinde dikim zamanını, sıra aralıklarını, sulama ve budama programını, tarla kenarı ve derede komşu parseller açısından dikkat edilecekleri ve hangi kurumlara danışılacağını anlattık.
+etiketler: kavak, kavak yetiştiriciliği, hızlı büyüyen ağaç, tarla kenarı, ağaçlandırma, odun üretimi
+gorsel: bekliyor
+gorsel_alt: Sulak tarla kenarında düz sıra hâlinde yetişen uzun gövdeli genç kavak ağaçları
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi
+kisaca: Kavak yetiştiriciliği için derin, nemli ve süzek toprak, bol su ve dormant dönemde dikilen sağlıklı fidan gerekir. Melez kavaklarda yaygın aralıklar 6×6, 5×7 ve 5×5 m; ince odun için 2×4 m gibi sık dikimler uygulanır. Dikim kasım sonundan mart ortasına kadar yapılır. Dikimden önce il müdürlüğüne ve kavak araştırma enstitüsüne danışın.
+@govde
+Kavak, tarla kenarına, dere boyuna ve su kaynağı olan düz arazilere uygun görülen hızlı gelişen bir ağaçtır. Pek çok kişi onu odun ya da gelir için düşünür; ancak kavak yetiştiriciliği yanlış toprağa, yanlış aralıkla ve susuz kalırsa hayal kırıklığıyla biter. Bu yazıda sayılardan çok koşulları anlatıyoruz: toprak, su, dikim zamanı ve komşu arazilere etkisi.
+
+## Kavak neden hızlı büyür, ne ister?
+
+Kavaklar kıyı ormanlarının ağaçlarıdır; doğal ortamı derin, nemli, aluvyal topraktır. Bu yüzden kökleri suya ve havaya aynı anda ihtiyaç duyar. Kavak yetiştiriciliğinin ilk kuralı, ağacı doğal koşuluna yakın bir toprağa dikmektir: taban suyu çok derin olmayan, havalı ve organik maddesi yeterli toprak. Kurak ve taşlı, çok kireçli ya da su tutmayan topraklarda büyüme yavaşlar, ağaç hastalıklara açılır.
+
+Türkiye'de melez kavak üretimi için araştırma ve teknik bilgi İzmit'teki Kavak ve Hızlı Gelişen Orman Ağaçları Araştırma Enstitüsü ve Orman Genel Müdürlüğü yayınlarında toplanır. Bu yayınlardan biri melez kavak ağaçlandırma tekniğini ayrıntılandırır: [OGM melez kavak ağaçlandırma tekniği](https://www.ogm.gov.tr/kavakcilik/e-kutuphane-sitesi/Dokumanlar/Melez%20Kavak%20A%C4%9Fa%C3%A7land%C4%B1rma%20Tekni%C4%9Fi.pdf). Belge eski olabilir; güncel klon ve öneriler için enstitüye başvurun.
+
+## Kavak yetiştiriciliği: dikim zamanı ve aralık
+
+OGM yayınına göre dikim, kasım sonundan mart ayının ilk yarısına kadar, tomurcuklar uykudayken ve toprak donmamışken yapılır. Samsun klonu (77/51) için şubat ayı önerilir. Yani mart başındaki bu yazı, kavak dikim penceresinin sonuna denk gelir; fidanı acele edip toprağın uygun olduğu bir günde dikin, mart ortasını geçirmeyin.
+
+Aralık, ürün amacına göre değişir. I-214 melez kavak için normal ağaçlandırmada 6×6, 5×7 ya da 5×5 metre aralık önerilir; ince çaplı odun üretimi hedefleniyorsa 2×4, 1,5×4 ya da 2,5×4 metre gibi sık dikim kullanılır. Kaynak aynı OGM yayınıdır. Tarla kenarında bir sıra dikiyorsanız ağaç aralığı 4–5 metreden başlayabilir, ama taç büyüdükçe gölge ve kök alanı komşu ürüne etki eder.
+
+| Amaç | Yaygın aralık | Not |
+|---|---|---|
+| Normal ağaçlandırma, iri çaplı odun | 6×6, 5×7, 5×5 m | I-214 melez kavak için OGM önerisi |
+| İnce çaplı odun | 2×4, 1,5×4, 2,5×4 m | Sık dikim, kısa dönem |
+| Tarla kenarı tek sıra | 4–6 m (taca göre) | Komşu parsele mesafeye dikkat |
+
+## Fidan seçimi ve dikim
+
+Kavak çelikle ya da genç fidanla çoğaltılır. Fidan satın alırken klon adını, yaşını ve sağlık durumunu sorun. Gövdesi düz, tomurcukları sağlam, kökü kuru olmayan fidan seçin. Klon seçimi bölgeye bağlıdır; bir klon Marmara'da iyi gelişirken Güneydoğu'da zorlanabilir.
+
+Dikim çukuru kök sistemine yetecek genişlikte ve derinlikte açılır. Çukur toprağına olgun organik madde karıştırmak ilk köklenmeyi destekler. Dikimden sonra bol su verin ve fidanın çevresini otsuz tutun. Çukur hazırlığı için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısı yol gösterir; fidan seçiminde nelere bakılacağı [fidan seçimi nasıl yapılır](/fidan-secimi-nasil-yapilir) yazısında anlatılıyor.
+
+[ürün:hg-fidan-topragi]
+
+## Sulama ve bakım
+
+Kavak çok su içen bir ağaçtır. OGM yayını yağış ve taban suyunun ihtiyacı karşılamadığı yerlerde sulama önerir; ağır killi topraklarda seyrek ama bol, kumlu ve çakıllı topraklarda sık ve az sulama yapılır. Sulamadan sonra toprağın çalışabilir hâle gelmesiyle çapa ya da kültivatörle yüzeyin gevşetilmesi de tavsiye edilir. İlk iki yıl otların bastırılması ağacın büyümesini hızlandırır.
+
+Besleme için olgun organik madde ve yavaş çözünen gübreler uygundur; aşırı azot sürgünü yumuşatır. Ağacı rüzgâr alan yerlerde kazığa bağlamak ilk yılda gövdenin eğilmesini önler. Gübreleme programını arazi analizine göre kurmak için il tarım müdürlüğünün toprak analizi hizmeti kullanılabilir; ayrıntı için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın.
+
+## Budama
+
+OGM yayını budama zamanını ağustosun ilk yarısı ya da şubat ayı olarak verir. Amaç düz, çatalsız ve budaksız bir gövde elde etmektir; bu yüzden yan dalları gövdeye yakın keserek zamanla yukarı doğru temizlersiniz. Aynı anda çok fazla yaprak almayın; ağacın büyümesi yapraklarla gelir. Budama sırasında temiz ve keskin bir budama aleti kullanmak yaranın çabuk kapanmasını sağlar.
+
+## Kavak çeşitleri ve klon seçimi
+
+Kavak türünde çeşit yerine klon kavramı kullanılır. Klon, tek bir ağacın çelikle çoğaltılmış nesilleridir; hepsi genetik olarak aynıdır. Bu yüzden klon bilgisi çok önemlidir: Kimi klon hızlı büyür ama belli hastalıklara duyarlıdır, kimi daha yavaş ama dayanıklıdır. OGM yayınında I-214 melez kavak klonu için aralık ve bakım önerileri verilir; Samsun klonu (77/51) için ise dikim zamanı farklıdır. Yani aynı arazide iki ayrı klon aynı takvimle yönetilemez.
+
+Tek klon dikmek tehlikelidir. Bir hastalık ya da zararlı patlarsa bütün parseli etkiler. Büyük alanlarda birden çok klonu karıştırmak bu riski dağıtır. Küçük bir tarla kenarı sırasında bile iki üç klon dönüşümlü dikmek mantıklıdır.
+
+Fidan alırken klon belgesi isteyin ve ağaçların nereden geldiğini sorun. Yerli fidanlık ve ruhsatlı üretici güvenlidir. Çelik köklenme oranı yüksek olsa da yaşlı ve kuru çelikler kök tutmaz.
+
+## Dikmeden önce düşünülmesi gerekenler
+
+Kavak yetiştiriciliği bir tarla ürünü gibi her yıl hasat vermez; yıllarca beklemeyi gerektirir. Başlamadan önce şunları netleştirin: Arazinizin su kaynağı var mı? Ağaçlar komşu arazilere, kanallara, borulara ya da yapılara yakın mı? Kökler yüzeyde yayılır ve yapılara zarar verebilir. Gölge, komşunun ürününü etkileyebilir. Ağaç kesimi ve satışı konusunda ilgili mevzuat ve izin süreçlerini il tarım ve orman müdürlüğünden öğrenin; bu yazıda mevzuat bilgisi ya da gelir hesabı verilmez.
+
+Kavak ağacının odunu hafif ve yumuşaktır; tarım ve ambalaj gibi kullanım alanları vardır. Satış koşulları bölgeye ve yıla göre değişir. Yatırımı büyütmeden önce küçük bir parselde denemek ve yerel üreticilerle konuşmak güvenli yoldur.
+@sss
+S: Kavak ne zaman dikilir?
+C: Tomurcuklar uykudayken, kasım sonundan mart ayının ilk yarısına kadar ve toprak donmamışken dikilir. Samsun klonu gibi bazı klonlar için şubat önerilir.
+
+S: Kavak ağaçları arası kaç metre olmalı?
+C: Melez kavakta normal ağaçlandırmada 6×6, 5×7 ya da 5×5 metre kullanılır. İnce çaplı odun için 2×4 ya da 1,5×4 metre gibi sık dikim yapılır.
+
+S: Kavak çok su içer mi?
+C: Evet, kavak nemli ve derin toprakta gelişir. Yağış ve taban suyu yetmiyorsa sulama gerekir; ağır topraklarda seyrek ve bol, hafif topraklarda sık ve az su verilir.
+
+S: Kavak ne zaman budanır?
+C: OGM yayınına göre ağustosun ilk yarısı ya da şubat ayında budanır. Amaç düz ve budaksız bir gövde elde etmek için yan dalları gövdeye yakın kesmektir.
+
+### YAZI
+slug: paulownia-yetistirme
+baslik: Paulownia Yetiştirme: Ağaç Gerçekten Çok Hızlı mı Büyür?
+yayin: 2027-03-04 12:10
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: paulownia yetiştirme
+seo_baslik: Paulownia Yetiştirme: Hızlı Büyüme Efsanesi mi?
+seo_aciklama: Paulownia yetiştirme öncesi gerçekler: büyüme hızı, soğuk dayanımı, çiçek tomurcuğu donu, istilacılık ve pazarlama vaatlerinin nasıl sorgulanacağı.
+ozet: Paulownia için "yılda üç metre" gibi vaatler sık duyulur. Büyüme hızının doğru ve yanıltıcı yanlarını, soğuğa dayanımı, çiçek tomurcuğu donunu, istilacılık ve sürgün riskini ve ağaç almadan önce sorulacak soruları üniversite kaynaklarıyla anlattık.
+etiketler: paulownia, kiri ağacı, prenses ağacı, hızlı büyüyen ağaç, istilacı bitki, gölge ağacı
+gorsel: bekliyor
+gorsel_alt: Geniş kalp biçimli yapraklı genç paulownia ağacı ve baharda mor çiçek salkımları
+urunler: hg-fidan-topragi, leonardit-organik-toprak-duzenleyici
+kisaca: Paulownia yetiştirme öncesi bilinmesi gereken: ağaç gerçekten hızlı büyür (Arkansas Üniversitesi yılda 2,5–3 metre sürgün verdiğini bildirir), ama Florida Üniversitesi onu istilacı sayar; kökten sürgün verir, odunu zayıf, çiçek tomurcukları don alır. USDA 5b–9b bölgelerinde yaşar. "Mucize ağaç" vaatlerini ve garantili gelir sözlerini sorgulayın.
+@govde
+Paulownia, geniş yapraklı, baharda mor çiçek açan, genç dönemde çok hızlı uzayan bir ağaçtır. Reklam dilinde "yılda üç metre", "beş yılda hasat", "bin ağaç, büyük gelir" gibi sözler dolaşır. Paulownia yetiştirme kararı vermeden önce bu vaatlerin hangisinin ölçülebilir, hangisinin pazarlama olduğunu ayırmak gerekir. Bu yazıda yalnızca üniversite ve uzatma kaynaklarının söylediklerini aktarıyoruz.
+
+## Paulownia yetiştirme ve büyüme hızı: gerçek mi, abartı mı?
+
+Büyüme hızı bu ağacın gerçek özelliğidir. Arkansas Üniversitesi uzatma servisi, iyi yerleşmiş bir fidanın yılda 8–10 fit (yaklaşık 2,5–3 metre) sürgün yapabildiğini bildirir. Florida Üniversitesi (UF/IFAS), açık alanda ağacın 50 fit (yaklaşık 15 metre) boya ulaşabildiğini belirtir. Yani "çok hızlı" iddiası yanlış değildir. Kaynak: [UF/IFAS paulownia bitki bilgi belgesi](https://edis.ifas.ufl.edu/publication/ST433) ve [Arkansas Üniversitesi uzatma notu](https://uaex.uada.edu/yard-garden/resource-library/plant-week/empress-11-6-09.aspx).
+
+Asıl soru hızın neye dönüştüğüdür. Hızlı büyüme, odun kalitesi ve ağacın uzun ömrü anlamına gelmez. Kuzey Carolina Eyalet Üniversitesi uzatma servisi paulowniayı dağınık, dalları zayıf ve istilacı bir ağaç olarak tarif eder. Hızlı büyüyen ağaçlar çoğunlukla yumuşak odun yapar; kış fırtınasında ve karda dal kırılabilir.
+
+## Soğuk dayanımı ve çiçek donu
+
+UF/IFAS paulownia için USDA 5b–9b bölgelerini verir. Ancak çiçek tomurcuklarının sonbaharın başında oluştuğu, kış boyunca ağaçta kaldığı ve erken ilkbaharda açtığı belirtilir; çok soğuk havalarda bu tomurcuklar donabilir ve dökülür. Kuzey Carolina Eyalet Üniversitesi de çiçek tomurcuklarının ilkbahar erken donundan zarar görebileceğini yazar. Bu, ağacın kendisinin yaşayıp çiçeğin gelmediği durum demektir.
+
+Genç fidan ise ağaçtan daha hassastır; ilk kışlarda gövde ve sürgün uçları donabilir. Don alan genç ağaç dipten yeniden sürgün verebilir; bu ağacın sağlam yeniden başlaması anlamına gelir, ama ilk yıllardaki büyüme hızı bozulur. Soğuk yerlerde fidanı ilk iki kış korumak gerekir; yöntemler için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına bakın.
+
+## İstilacılık ve sürgün sorunu
+
+Paulownia'nın en az konuşulan yönü yayılma eğilimidir. Florida Üniversitesi onu Florida'da önerilmeyen istilacı bir tür olarak listeler. Maryland Üniversitesi uzatma servisi kökten ya da kesilen kütükten sürgün verebildiğini, bu sürgünlerin çok hızlı büyüdüğünü ve ağacı sökmenin zor olduğunu yazar. Yani bir kez dikilen ağaç, yıllar sonra kesilse bile bahçeden kolay çıkmayabilir. Binlerce ufak tohum rüzgârla yayılır ve yabani ortamlara kaçabilir.
+
+Türkiye'de bu konuda tek bir resmî görüş yoktur; ancak yurt dışında istilacı ilan edilen bir ağacın tohumuyla orman, dere ve tarla kenarına yayılma riski ciddiye alınmalıdır. Büyük ölçekli dikim planlıyorsanız il tarım ve orman müdürlüğüne, ziraat odasına ve bölgenizin orman müdürlüğüne danışın.
+
+## Satıcıya ve vaade sorulacak sorular
+
+Paulownia yetiştirme kararından önce şu soruları yazıp cevap isteyin:
+
+- Fidanın türü ve klon adı nedir (Paulownia tomentosa, P. elongata, melez klonlar)? Soğuğa dayanımı ölçüldü mü?
+- "Yılda şu kadar büyür" iddiası hangi toprak, sulama ve iklimde, kaç yıllık bir denemeye dayanıyor?
+- Odun için alıcı kim? Yazılı sözleşme var mı? Alım garantisi ve fiyat yazılı değilse gelir varsayımı güvenilmezdir.
+- Fidan yerli üretim mi, ithal mi; sağlık belgeli mi?
+- Ağacı kestiğimde kütükten sürgün çıkarsa kim sorumlu?
+
+Bu soruların hiçbirine somut cevap alamıyorsanız vaadi ciddiye almayın. Aşağıdaki tablo, sık duyulan vaatleri üniversite kaynaklarındaki bilgilerle yan yana koyar. Garantili kazanç iddiaları, "yatırım" dilinde satılan fidanlar tarım dolandırıcılığına açık alanlardır.
+
+| Duyulan vaat | Kaynaklardaki durum |
+|---|---|
+| "Yılda 3 metre büyür" | Arkansas: iyi yerleşmiş fidan yılda 2,5–3 metre sürgün yapabilir |
+| "Her iklimde yetişir" | UF/IFAS: USDA 5b–9b; çiçek tomurcukları soğukta donabilir |
+| "Çevreye zararsız" | UF/IFAS: Florida'da önerilmeyen istilacı tür; Maryland: kütükten sürgün verir |
+| "Kaliteli, sağlam odun" | NC State: odun zayıf, dallar kırılgan, ağaç dağınık |
+| "Kesinlikle kazandırır" | Hiçbir üniversite kaynağında gelir garantisi yoktur |
+
+Bu karşılaştırma ağacı karalamak için değil, kararı bilgiyle vermek için yapılır. Paulownia belirli koşullarda hızlı gölge ve odun verebilir; ama bu, her bahçede ve her sözleşmede doğru bir yatırım olduğu anlamına gelmez.
+
+[ürün:hg-fidan-topragi]
+
+## Bahçe ağacı olarak: kime uygun?
+
+Bahçeye bir gölge ağacı arayanlar için paulownia hızlı gölge verir; geniş yaprakları yazın serinlik sağlar. Ancak yaprakları büyük ve çok miktarda olduğu için sonbaharda temizlik ister; çiçek ve tohum kapsülleri de zemini kirletir. Küçük bahçelerde ağaç çabuk büyüyüp bina ve çite yaklaşır; kökler yüzeyde yayılır. Yapıdan ve altyapıdan yeterli mesafe bırakın.
+
+Paulownia yetiştirme kararını verirseniz, ağacı en azından bina, kablo ve su borularından uzağa, tarla sınırından yeterli mesafeye dikin; çünkü kökler ve sürgünler zamanla geniş bir alana yayılır. Dikmeye karar verirseniz fidanı derin, süzek toprağa dikin; ağır killi ve su tutan topraklarda köklenme sorunludur. Sulamayı ilk iki yıl düzenli yapın. Fidan seçimi ve dikimle ilgili genel bilgiler için [fidan seçimi nasıl yapılır](/fidan-secimi-nasil-yapilir) ve [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazıları geçerlidir. Tohumlarının yayılmasını önlemek için çiçek ve kapsül dönemini izleyip kapsülleri olgunlaşmadan toplamak gerekir.
+
+## Fidan dikmeden önce bir deneme ve bir soru
+
+Büyük bir dikimden önce iki üç ağaçla bir sezon denemek ve yerel koşulda nasıl davrandığını görmek akıllıcadır. İlk kış, ilk yaz kuraklığı ve ilk tohum kapsülü dönemi size ağacın bölgenizdeki gerçek yüzünü gösterir. Denemede bulunmayan bir ağaçtan hemen yüzlercesini dikmek, geri dönüşü zor bir karardır; çünkü kütükten sürgün verdiği için sökmek de zor ve masraflıdır. Bir sorunuz kalırsa il tarım ve orman müdürlüğündeki ziraat ya da orman mühendisine bu yazıyı gösterip görüşünü alın.
+
+## Alternatifler
+
+Hızlı gölge ya da odun arayanlar için yerel ve ekolojik açıdan daha güvenli seçenekler vardır. Kavak, söğüt ve bölgeye uygun diğer yerli türler nemli topraklarda hızlı büyür; yerel orman müdürlükleri bölgeye uygun türleri önerebilir. Meyve ağacı isteyenler için [meyve fidanı dikimi](/meyve-fidani-dikimi) yazısında kış dikim önerileri vardır. Hız tek ölçüt olmamalı; ağaç bahçenizde onlarca yıl kalacaktır.
+@sss
+S: Paulownia gerçekten çok hızlı büyür mü?
+C: Evet. Arkansas Üniversitesi uzatma servisi iyi yerleşmiş fidanın yılda 2,5–3 metre sürgün yapabildiğini yazar. Ancak hızlı büyüme odun kalitesi ya da gelir garantisi anlamına gelmez.
+
+S: Paulownia istilacı mıdır?
+C: Florida Üniversitesi onu Florida'da önerilmeyen istilacı tür olarak listeler. Kökten ve kütükten sürgün verir, çok sayıda tohum üretir; bu yüzden dikmeden önce yayılma riskini bölgenizdeki kurumlara sormak gerekir.
+
+S: Paulownia dona dayanır mı?
+C: Ağaç USDA 5b–9b bölgelerinde yaşar, ama çiçek tomurcukları sonbaharda oluşup kışı ağaçta geçirdiği için sert soğukta donabilir. Genç fidanlar ilk kışlarda daha hassastır.
+
+S: Paulownia için "garantili gelir" vaadine güvenilir mi?
+C: Hayır. Alım garantisi, fiyat ve alıcı yazılı değilse gelir güvenilir değildir. Satıcıdan klon adı, deneme verisi ve yazılı sözleşme isteyin; il tarım müdürlüğüne danışın.
+
+### YAZI
+slug: saksida-tarhun
+baslik: Saksıda Tarhun Yetiştirme ve Hasat
+yayin: 2027-03-04 14:30
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: saksıda tarhun
+seo_baslik: Saksıda Tarhun Yetiştirme: Çeşit, Toprak ve Hasat
+seo_aciklama: Saksıda tarhun yetiştirme için Rus ve Fransız tarhun farkı, saksı boyu, toprak, sulama, hasat ve kurutma. Mutfak otunu balkonda yetiştirin.
+ozet: Tarhun anasonumsu aromasıyla salatalara ve et yemeklerine kendine özgü bir lezzet katar. Saksıda tarhun yetiştirmek için tohumla çıkan Rus tarhunu ile çelikle çoğalan Fransız tarhunu arasındaki farkı, saksı boyunu, toprağı, sulamayı ve hasat ile kurutmayı anlattık.
+etiketler: tarhun, saksıda tarhun, mutfak otu, Fransız tarhunu, Rus tarhunu, aromatik bitki
+gorsel: bekliyor
+gorsel_alt: Balkon saksısında ince, parlak yeşil, uzun yapraklı taze tarhun sürgünleri
+urunler: altinvadi-tarhun-otu-tohumu-50-adet, hg-aromatik-bitkiler-icin-saksi-topragi
+kisaca: Saksıda tarhun yetiştirmek için en az 20 cm genişlik ve derinlikte, delikli bir saksı ve süzek toprak yeterlidir. Tohumdan çıkan tarhun Rus tarhunudur; Fransız tarhunu tohum vermez, bölme ya da çelikle çoğalır ve aroması daha güçlüdür. Sürgünler yazın boyunca kesilerek hasat edilir, kurutma gölgede yapılır.
+@govde
+Tarhun (Artemisia dracunculus), ince uzun yapraklı, anasonumsu kokulu bir mutfak otudur. Salataya, yoğurda ve tavuk yemeklerine kısa bir dokunuşla fark katar. Saksıda tarhun yetiştirmek kolaydır; ama tohum paketinden çıkan tarhun ile fidancıda satılan Fransız tarhunu aynı bitki değildir ve bu fark balkon bahçesindeki tat beklentisini belirler.
+
+## İki tarhun: Rus ve Fransız
+
+Tarhunun iki ana tipi vardır. Rus tarhunu tohumla çoğalır; paketlerde "tarhun tohumu" yazanlar çoğunlukla bu tiptir. Fransız tarhunu ise çiçeği kısır olduğu için tohum vermez; yalnızca bölme ya da çelikle çoğaltılır. Illinois Üniversitesi uzatma servisi bu farkı açıkça yazar: Fransız tarhunun çiçekleri kısırdır ve tohumla yetişmez; tohum rafında görülen tarhun Rus tarhunudur. UC Master Gardeners da satılan tohumun çoğunun Rus tarhunu olduğunu, bu yüzden fide almanın ya da bir dostun kök bölünmesini istemenin daha doğru olduğunu söyler. Kaynak: [Illinois Üniversitesi Fransız tarhun rehberi](https://extension.illinois.edu/herbs/tarragon-french).
+
+Aroma farkı belirgindir. Fransız tarhun daha yoğun ve anasonumsu bir tat verir; Rus tarhun daha hafif ve biraz acımsıdır. Yine de Rus tarhun tohumdan kolay çıkar, daha dayanıklıdır ve mutfakta tarhunun genel lezzetini verir. İkisi için de saksı bakımı benzerdir; kritik fark çoğaltmadadır.
+
+| Tip | Çoğaltma | Aroma | Not |
+|---|---|---|---|
+| Rus tarhunu | Tohum | Hafif, biraz acımsı | Tohumdan kolay; daha dayanıklı |
+| Fransız tarhunu | Bölme ya da çelik | Yoğun, anasonumsu | Tohum vermez; fide ya da bölünme gerekir |
+
+## Saksıda tarhun için kap ve toprak
+
+RHS tek bir tarhun bitkisi için en az 20 cm genişlik ve derinlikte bir kap önerir. Harvest to Table kaynağı ise 15–30 cm'lik bir kabı yeterli bulur. Tarhun orta boyda bir saksıda iyi gelişir; ancak kökler bir sezon sonra saksıyı doldurur ve bitki lezzet kaybedebilir. Bu yüzden yılda bir bölmek ya da saksı değiştirmek gerekir. Kap tabanında mutlaka delik olmalı; tarhun su durmasına dayanmaz.
+
+Toprak olarak hafif, süzek ve orta derecede besleyici bir karışım seçin. Hazır aromatik bitki toprağı bu iş için uygundur; ya da genel saksı toprağına perlit katıp süzülmesini artırabilirsiniz. Karışım mantığı [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısında anlatılıyor; aromatik otlar için özel karışım [aromatik bitki toprağı](/aromatik-bitki-topragi) yazısında yer alıyor.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## Ekim, dikim ve yer
+
+Tohum ekecekseniz ilkbaharda hafif nemli toprağa yüzeysel ekin; tohum çok küçüktür ve üstünü hafifçe örtmek yeter. Tohumun sıcak (yaklaşık 18–20 °C) ve ışıklı ortamda çimlenmesi iyi olur. Çıkan fideleri seyrelterek saksıya iki üç bitki bırakın. Fide ya da bölünme ile başlayacaksanız bitkiyi saksı derinliğinde dikin, kök boğazını gömmeyin.
+
+Işık için tarhun günde altı saat güneşi sever; öğle sıcağının çok bastığı yerlerde öğleden sonra hafif gölge yaprakların yanmasını önler. Balkonda güney ya da batı korkuluğunda yetişir. Saksıyı rüzgârdan koruyun; ince gövdeler kırılabilir.
+
+## Sulama, besleme ve bakım
+
+Tarhun aşırı sulamadan hoşlanmaz. Toprağın üst iki üç santimi kuruyunca sulayın; yazın sıcağında haftada iki üç kez, serin dönemde daha seyrek. Kök çürümesi çoğu zaman sulama hatasından gelir. Aşırı sulama belirtilerini tanımak için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına bakabilirsiniz.
+
+Besleme azdır: ilkbaharda ve yazın başında olgun organik madde ya da seyreltilmiş sıvı solucan gübresi yeterlidir. Çok gübre aromayı zayıflatır ve bitkiyi uzatır. Bitki boy atınca uçlarını almak dallanmayı artırır ve yaprakları çoğaltır. Çiçek tomurcuğu çıkınca koparın; çiçeklenme yaprak lezzetini düşürür.
+
+## Hasat ve kurutma
+
+Tarhunun hasat dönemi yaz boyudur. Sürgünleri bitkinin üçte birini geçmeyecek şekilde kesin; bitki yeniden sürer. Sabahın serinliğinde, çiy kuruduktan sonra kesilen yaprak aromasını en iyi korur. Taze kullanımda yapraklar ince doğranır; tarhun uzun pişmeyi sevmez, yemeğin sonuna eklenir.
+
+Kurutma için demetleri gölgede, havadar bir yerde asın; doğrudan güneş yağları uçurur ve aromayı yok eder. Tarhun kurutulunca aroması azalır; bu yüzden taze kullanımı tercih edilir. Kurutulmuş yaprakları kapaklı bir kavanozda karanlıkta saklayın. Alternatif olarak yapraklar zeytinyağıyla dondurulabilir. Saksıda tarhun yetiştirenler için en pratik saklama, bir bölüm yaprağı taze tüketmek, fazlasını sirkeye ya da yağa katmaktır; ama kurutma dışındaki yöntemlerde gıda güvenliği kurallarına uyun ve yağlı karışımları buzdolabında kısa süre saklayın.
+
+## Saksıda tarhun yetiştirme takvimi
+
+Takvim kabaca şöyle işler: Mart-nisan aylarında fide dikimi ya da bölme; nisan-mayısta tohum ekimi; yaz boyunca hasat ve uç alma; ağustos sonunda çiçek tomurcuklarını koparıp bitkiyi dinlendirme; sonbaharda saksıyı korunaklı yere alma. Saksıda tarhun yetiştirme bu takvimin dışına pek çıkmaz; çünkü bitki ılık mevsimde yaprak yapar, kışın dinlenir.
+
+::: takvim
+Tohum ekimi ya da fide dikimi | 3-5
+Yoğun hasat | 6-9
+Çiçek tomurcuğu koparma | 7-9
+Saksıyı korunaklı yere alma | 10-11
+Kışın dinlenme | 12-2
+:::
+
+Çok yıllık bir otta en sık yapılan hata, yıllarca aynı saksıda aynı toprakta bırakmaktır. Kökler sıkışır, toprak yorulur ve aroma düşer. Her ilkbaharda bitkiyi saksıdan çıkarıp kök topağını iki parçaya bölmek ve bir parçayı yeni toprakla dikmek bitkiyi yeniler; fazla parçayı komşuya vermek ya da ikinci saksıya dikmek mümkündür.
+
+## Kışlatma ve yenileme
+
+Tarhun çok yıllık bir bitkidir ve soğuk iklimlerde yazın büyüyüp kışın toprak üstünü kaybeder. RHS, Fransız tarhunun don dayanımının sınırlı olduğunu ve saksıda tutulup don olan kış aylarında korunaklı bir yere alınmasının uygun olduğunu söyler. Saksıdaki bitkiyi sonbaharda budayıp serin ve donsuz bir yere almak, ilkbaharda yeni sürgün için yeterli olur. Üç dört yılda bir bölmek bitkiyi gençleştirir. Aynı saksıda biberiye ve kekik gibi Akdeniz otlarıyla birlikte yetiştirme için [saksıda biberiye ve kekik yetiştirme](/saksida-biberiye-ve-kekik-yetistirme) yazısına bakabilirsiniz.
+@sss
+S: Tarhun tohumla yetişir mi?
+C: Rus tarhunu tohumla yetişir ve tohum paketlerindeki tarhun çoğunlukla odur. Fransız tarhunu kısır çiçeklidir ve tohum vermez; bölme ya da çelikle çoğaltılır.
+
+S: Tarhun için saksı ne kadar büyük olmalı?
+C: Tek bitki için en az 20 cm genişlik ve derinlikte, tabanı delikli bir saksı yeterlidir. Kökler bir sezonda saksıyı doldurur; yılda bir bölmek ya da büyük saksıya geçmek gerekir.
+
+S: Tarhun kaç günde hasat edilir?
+C: Süre koşullara göre değişir; bitki saksıda iyice köklenip dalları 15–20 cm olunca ilk hasat yapılabilir. Hasat yaz boyunca sürgünlerin üçte biri kesilerek devam eder.
+
+S: Tarhun nasıl kurutulur?
+C: Demetler gölgede, havadar bir yerde asılarak kurutulur. Doğrudan güneş aromayı uçurur. Kurutulunca aroması azaldığı için tarhun çoğunlukla taze kullanılır.
+
+### YAZI
+slug: safran-yetistiriciligi
+baslik: Safran Yetiştiriciliği: Soğandan Hasada Rehber
+yayin: 2027-03-04 16:55
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: safran yetiştiriciliği
+seo_baslik: Safran Yetiştiriciliği: Soğan, Dikim ve Hasat Rehberi
+seo_aciklama: Safran yetiştiriciliği için soğan seçimi, dikim zamanı ve derinliği, toprak, çiçeklenme, tepecik (stigma) hasadı ve kurutma. Safranbolu geleneğinden bahçeye.
+ozet: Safran, bir mor çiğdemin üç kırmızı tepeciğidir ve yetiştiriciliği emek ister. Soğan seçimini, dikim zamanını ve derinliğini, toprağı, sonbahardaki çiçeklenmeyi, sabah hasadını ve gölgede kurutmayı anlattık.
+etiketler: safran, safran soğanı, Crocus sativus, Safranbolu, baharat bitkisi, sonbahar çiçeği
+gorsel: bekliyor
+gorsel_alt: Toprakta açmış mor safran çiçeği ve ortasındaki üç koyu kırmızı tepecik
+urunler: hg-cicek-topragi, hasturk-kati-solucan-gubresi
+kisaca: Safran yetiştiriciliği, Crocus sativus soğanlarının yazın sonu ve sonbahar başında süzek toprağa dikilmesiyle başlar; çiçekler ekim ve kasımda açar. Baharat, çiçeğin üç kırmızı tepeciğidir; sabah erken toplanıp gölgede kurutulur. Bir kilogram safran için on binlerce çiçek gerekir. Soğan boyutu ve toprak drenajı verimi belirler.
+@govde
+Safran, bir mor çiğdemin içinden çıkan üç ince kırmızı telden ibarettir. Aynı bitki yıllarca aynı soğandan çiçek açar ve her sonbahar yeni çiçekler verir. Safran yetiştiriciliği, büyük ölçekte emek isteyen, bahçede ise küçük bir alanla başlanabilen bir iştir. Karabük Safranbolu'nun adını bu bitkiden aldığı bilinir; bugün Türkiye'de üretim Safranbolu ve çevresinde yeniden canlandırılmıştır.
+
+## Safran ne zaman büyür, ne zaman uyur?
+
+Safran bitkisinin yıllık döngüsü çoğu bahçe bitkisinden farklıdır. Soğanlar yazın uyur, sonbaharda çiçek açar, kışın ve ilkbaharda yaprak yapar. Mart ayında bu yazıyı okuyanlar için bu dönem, yaprakların büyüdüğü, soğanın beslendiği zamandır. Yaprakları bu aşamada kesmeyin: Soğan o yapraklardan topladığı besinle gelecek sonbaharın çiçeğini hazırlar. Yapraklar mayıs-haziranda kendiliğinden sararıp kurur; sonra soğanlar dinlenme dönemine girer.
+
+Çiçekler ekim ve kasım aylarında açar; yeni dikilmiş soğanlar da aynı dönemde çiçeklenir. Dikim zamanı ise yazın sonu ve sonbahar başıdır; yerel kaynaklar ağustos ve eylül aylarını verir. Bölgenize özgü kesin tarih için Karabük Safranbolu çevresindeki üreticiler ya da Tarım ve Orman Bakanlığı Karadeniz Tarımsal Araştırma Enstitüsü yayınları esas alınmalıdır: [Safran yetiştiriciliği bilgi notu (KTAE)](https://arastirma.tarimorman.gov.tr/ktae/Belgeler/BGT/bgt_2025_2_Safran_Yetistiriciligi.pdf).
+
+::: takvim
+Soğan dikimi | 8-9
+Çiçeklenme ve hasat | 10-11
+Yaprak gelişimi (kesmeyin) | 12-5
+Yaprak sararır, soğan uyur | 6-7
+:::
+
+## Safran yetiştiriciliği için soğan seçimi
+
+Safranda soğan boyutu verimi doğrudan belirler. Bir ana soğandan her yıl yeni küçük soğancıklar oluşur; büyük soğanlar daha çok çiçek verir. Kaynaklarda ilk yıl çiçek almak için çevresi yeterince büyük olan soğanlar önerilir; küçük soğancıklar ise birkaç yıl sonra çiçek açar. Safranbolu genotipleri üzerinde yapılan bir araştırma farklı dikim derinliklerini ve soğan boyutlarını karşılaştırmıştır. Soğanları sağlıklı üreticilerden alın; yumuşak, kalıplı ya da lekeli soğan almayın. Çeşit ve sağlık durumu bilinen soğan, ilk yıldan güven verir.
+
+## Toprak ve yer
+
+Safran, süzek ve hafif topraktan hoşlanır. Kumlu-tınlı, su tutmayan topraklar idealdir; ağır ve su tutan killi toprakta soğan çürür. Güneşli bir yer seçin; gölgede çiçek azalır. Yaz boyu soğanlar toprakta yağmurdan ve sulamadan uzak, kuru kalmalıdır; yaz sulaması çürümeyi çağırır. Hobi bahçesinde yükseltilmiş bir yatak ya da süzek saksı bu yüzden çok işe yarar.
+
+Toprağa dikimden önce olgun kompost ya da solucan gübresi karıştırmak soğanın beslenmesini destekler. Taze hayvan gübresi soğanı çürütebilir. Toprağı 25–30 cm derinlikte gevşetin, taşları ayıklayın. Süzek karışım için [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısındaki perlit-kum oranları kullanılabilir.
+
+[ürün:hg-cicek-topragi]
+
+## Dikim: derinlik ve aralık
+
+Soğanlar sivri ucu yukarı bakacak şekilde, bir soğan boyunun birkaç katı derinliğe dikilir. Yaygın uygulamada derinlik 10–15 cm, soğanlar arası aralık yaklaşık 10–15 cm olur; yerel bir üretici soğanları 15 cm aralıkla diktiğini anlatır. Derinlik soğanın büyüklüğüne ve toprağa göre ayarlanır; bu yüzden Safranbolu araştırmasının 5 ve 10 cm derinlikleri karşılaştırdığını unutmayın ve soğanı aldığınız yerden öneri isteyin.
+
+::: adimlar
+Alanı hazırlayın | Süzek, güneşli bir yatak seçin; taş ve otları temizleyin.
+Çukurları açın | Soğanın büyüklüğüne göre 10–15 cm derinlikte çukurlar açın.
+Soğanı yerleştirin | Sivri ucu yukarı, 10–15 cm aralıkla yerleştirin.
+Kapatın | Toprakla örtün, hafifçe bastırın; ilk sulamayı hafif yapın.
+Kuruyla koruyun | Yağmur fazla ise örtü ya da kaldırılmış yatak kullanın.
+:::
+
+## Çiçeklenme ve hasat
+
+Çiçekler dikimden birkaç hafta sonra, ekim ve kasımda açılır. Çiçekler kısa ömürlüdür; baharat çiçeğin içindeki üç kırmızı tepecik (stigma) hasat edilir. Yerel üreticiler çiçekleri sabah erken, açılmadan toplar ve tepecikleri hemen ayırır. Safran hasadı elle yapılır ve çok sayıda çiçek gerektirir; yarım kilo safran için onbinlerce çiçek toplanması gerektiği yerel üretici haberlerinde sık anlatılır. Bu yüzden hobi bahçesinde birkaç düzine soğandan elde edilen miktar birkaç gram olur.
+
+Tepecikleri hemen gölgede, havadar bir yerde, ince bir tabaka hâlinde serin; güneşte kurutmayın. Kuruyan safranı kapaklı, koyu cam bir kavanozda serin ve karanlıkta saklayın. Hasat sırasında temiz, kuru eller ve ince cımbız kullanın; çiçekler çok nemliyse tepecikler çabuk küflenir.
+
+## Soğan bakımı ve çoğalma
+
+Çiçeklenme bitince yapraklar çıkar; yaprakları kesmeyin. Bu dönemde kış yağışı yeterlidir, ek sulamaya gerek yoktur; yağışsız ve sıcak dönemde hafif nem verilebilir. Yaprak sararınca soğan dinlenmeye geçer. Soğanlar üç dört yılda bir kazılıp bölünür; fazla soğancık verimi düşürür. Bölünen soğanlar yazın sonunda yeniden dikilir. Soğanlı çiçeklerin genel dikim ve bakım düzeni için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazısı, safranın dışındaki mor çiğdemler için de yol gösterir. Fare ve kemirgenler soğanları yer; kafes ya da derin sepet önlemi gerekebilir. Kemirgenlere karşı önlemler için [bahçede fare](/bahcede-fare) yazısına bakabilirsiniz.
+
+Küçük bir deneme için on beş yirmi soğanla başlamak, safran bitkisinin yıllık ritmini öğrenmek için yeterlidir. İlk sonbaharda açan birkaç çiçek, ilk yılın en değerli kazanımıdır. İkinci yıldan sonra soğan sayısı artar ve her çiçekten üç tepecik alırsınız. Dikim alanını fare ve kuşlardan korumak, sulamadan çok yağmuru izlemek ve yaprakları kesmemek, safran bahçesinin üç temel kuralıdır.
+
+Safran yetiştiriciliği, aynı soğanla yıllarca çiçek alınabilen ve çoğaltılabilen bir iştir. İlk yıl çiçek sayısı az olsa da soğanlar çoğaldıkça üretim artar. Yine de abartılı kazanç anlatılarına güvenmeyin; hobi ölçeğinde birkaç gram ürün alınır ve emek büyüktür. Bu yüzden safranı bahçe zevki ve mutfak merakı olarak görüp küçük başlamak en güvenli yoldur. Toprak ve süzek karışım ayrıntıları için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısındaki analiz yöntemi, toprağın pH'sını ve bünyesini öğrenmek için de kullanılabilir. Safran soğanını nereden alacağınızı ve nasıl saklayacağınızı ayrı bir yazıda ele alacağız.
+@sss
+S: Safran ne zaman çiçek açar?
+C: Safran ekim ve kasım aylarında çiçek açar. Yeni dikilmiş soğanlar da dikimden birkaç hafta sonra aynı dönemde çiçeklenir.
+
+S: Safranın hangi kısmı baharat olarak kullanılır?
+C: Çiçeğin içindeki üç koyu kırmızı tepecik (stigma) baharattır. Çiçekler sabah erken toplanır, tepecikler ayrılır ve gölgede kurutulur.
+
+S: Safran soğanı ne zaman dikilir?
+C: Yerel kaynaklar dikim için ağustos ve eylül aylarını verir. Soğanlar sivri ucu yukarı, süzek ve güneşli toprağa, yaklaşık 10–15 cm derinliğe dikilir.
+
+S: Safran bahçede kaç soğanla başlanır?
+C: Hobi için birkaç düzine soğan yeterlidir; ürün çok az olur. Büyük soğanlar daha çok çiçek verir, bu yüzden soğan büyüklüğüne ve sağlığına bakın.
+
+### SORU
+yayin: 2027-03-04 21:10
+kategori: sebze-meyve
+baslik: "Fransız tarhun tohumu" diye aldığım tohumlardan hiçbiri çıkmadı, ne yanlış yaptım?
+metin: Bir internet satıcısından Fransız tarhun tohumu diye aldım, iki hafta önce saksıya ektim. Hiçbiri çıkmadı. Toprağı ılık ve nemli tutuyorum. Tohum mu bozuk, yoksa ben mi yanlış yapıyorum?
+@cevap Halil İbrahim Çelik | 2
+Büyük olasılıkla ikisi de değil: Fransız tarhunun çiçekleri kısırdır ve tohum üretmez; Fransız tarhun yalnızca bölme ya da çelikle çoğaltılır. Tohum olarak satılan tarhun genellikle Rus tarhunudur. Illinois Üniversitesi uzatma servisi de tohum rafındaki tarhunun Rus tarhunu olduğunu yazar. Eğer satıcı gerçekten tohumun Fransız olduğunu söylediyse yanlış tanımlanmış olabilir. Tohum çimlenmesi için toprak 18–20 °C civarında olmalı, tohum ise yüzeye yakın ekilmeli; küçük tohumu derine gömmeyin. İki üç hafta daha bekleyebilir, ardından fide ya da kök bölünmesiyle Fransız tarhun almayı düşünebilirsiniz.
+
+### SORU
+yayin: 2027-03-04 21:45
+kategori: bahce-ipuclari
+baslik: Fıçıdaki suyum yeşile döndü ve nilüferim çiçek açmıyor, ne yapmalıyım?
+metin: Geçen yaz balkona bir fıçı koyup nilüfer diktim. Su birkaç haftada yeşile döndü, nilüfer yaprak yapıyor ama çiçek yok. Balkon doğuya bakıyor ve sabah güneşi alıyor. Neden olabilir?
+@cevap Mikdat Çelik | 2
+Yeşil su çoğunlukla yosun patlamasıdır; ışık ve besin fazlalığında artar. Yüzeyin yarısından fazlasını nilüfer yaprağıyla örtmek yosunu azaltır; bitki henüz küçükse yüzen bir bitki de ekleyebilirsiniz. Suyun tamamını değiştirmek yerine her hafta üçte birini yenileyin. Çiçek açmaması ise genellikle güneş eksikliğinden olur: nilüfer günde yaklaşık altı saat doğrudan güneş ister, bazı çeşitler dört saatle yetinir. Yalnız sabah güneşi alan balkonda çiçek zor gelir; kabı gün boyu güneş alan bir yere taşımayı deneyin. Bitkiyi sepetinde bölüp yenilemek ve yeterli ağır toprakla beslemek de çiçeklenmeye yardım eder.
+
+### YAZI
+slug: cim-bicme-makinesi-secimi
+baslik: Çim Biçme Makinesi Seçimi: Akülü, Elektrikli ve Benzinli
+yayin: 2027-03-04 19:40
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: çim biçme makinesi seçimi
+seo_baslik: Çim Biçme Makinesi Seçimi: Akülü, Elektrikli, Benzinli
+seo_aciklama: Çim biçme makinesi seçimi için çim alanı, arazi, gürültü ve bakım ölçütleri; akülü, kablolu elektrikli, benzinli ve el biçerin avantaj ve sınırları.
+ozet: Çim biçme makinesi seçimi, çim alanının büyüklüğüne, arazinin düzgünlüğüne ve bakım tercihine bağlıdır. Çim biçme makinesi seçimini akülü, kablolu elektrikli, benzinli ve el biçer arasındaki farklarla, üniversite ve EPA kaynaklarına dayanarak karşılaştırdık; fiyat ve marka vermedik.
+etiketler: çim biçme makinesi seçimi, akülü çim biçme, elektrikli çim biçme, benzinli çim biçme, el biçer, çim alanı
+gorsel: bekliyor
+gorsel_alt: Küçük bir bahçede yan yana duran akülü, kablolu ve benzinli çim biçme makineleri
+urunler: cim-kapama-topragi-leonarditli-formul
+kisaca: Çim biçme makinesi seçimi önce çim alanına bakar. Oregon State ve Illinois kaynakları akülü makinelerin orta boyutlu çimlere yettiğini, sınırın pil süresi olduğunu, kablolu elektriklinin kablo yönetimi istediğini, benzinlinin her boyutta çalıştığını ama gürültülü ve egzozlu olduğunu belirtir. El biçer düz ve ince çimde işe yarar.
+@govde
+Çim sezonu başlarken ilk soru çoğu zaman şudur: Hangi biçme makinesini almalıyım? Cevap, markadan önce üç şeye bağlıdır: Çim alanınızın büyüklüğü, arazinin düzgünlüğü ve bakıma ayıracağınız zaman. Bu yazı çim biçme makinesi seçimini fiyat ya da marka vermeden, üniversite uzatma servislerinin ve EPA'nın bilgilerine dayanarak anlatıyor.
+
+## Çim biçme makinesi seçimi: önce alanı ölçün
+
+Kaliforniya Üniversitesi bahçe rehberi, benzinli makinelerin her büyüklükteki çim alanında kullanılabileceğini, akülü makinelerin ise bugün yaklaşık çeyrek dönümlük kentsel bir parseli (orta boy çim) idare edebildiğini, küçük çim için ise itme tipi makinenin uygun olduğunu yazar. Illinois uzatma servisi, büyük ya da uzak arazilerde benzinli aletlerin hâlâ daha iyi seçenek olabileceğini belirtir. Önce alanınızı ölçün: Çim kaç metrekare, düz mü eğimli mi, çalışma yeri ve elektrik prizinden uzaklık ne? Bu üç cevap seçimi daraltır. Kaynaklar: [Oregon State, yardınıza uygun biçme makinesi](https://extension.oregonstate.edu/news/choose-right-lawn-mower-your-yard) ve [Illinois Üniversitesi, benzinli mi elektrikli mi](https://extension.illinois.edu/blogs/good-growing/2022-11-24-whats-better-gas-or-electric-powered-lawn-and-garden-tools).
+
+| Tür | Ne zaman uygun | Sınırı |
+|---|---|---|
+| El biçer (silindirli) | Küçük, düz, ince dokulu çim | Uzun ya da engebeli çimde zorlanır |
+| Kablolu elektrikli | Küçük ve orta çim, priz yakınsa | Kablo yönetimi gerektirir |
+| Akülü | Küçük ve orta boy çim | Pil süresi sınırlıdır; pil pahalı olabilir |
+| Benzinli | Büyük ya da uzak alan | Gürültü, egzoz, yakıt ve bakım |
+
+## El biçer: sessiz ve basit ama kuralı var
+
+UC IPM'in silindirli biçme sayfası, bu makinelerin düz ve düzgün zeminde, ince dokulu çimde en iyi çalıştığını ve uzun ya da engebeli çimde zayıf kaldığını belirtir. Küçük, düz bir bahçeniz ve düzenli biçme alışkanlığınız varsa el biçer hem sessiz hem emisyonsuzdur. Çim sıklıkla biçilmediğinde uzayıp seyrek yapılırsa makine zorlanır. Bahçeniz engebeli, çimleriniz kaba dokuluysa bu seçeneği değerlendirmeyin.
+
+## Kablolu elektrikli ve akülü
+
+Oregon State uzatma servisi, akülü modellerin başlıca sınırının çalışma süresi olduğunu, kablolu modellerin bu sınırı aşıp kablo yönetimi gerektirdiğini yazar. Küçük ya da orta boy, prize yakın bir bahçede kablolu elektrikli makine basit ve düşük bakımlıdır. Akülü makine kablo derdini ortadan kaldırır ama pil, hem maliyet hem de çalışma süresi açısından belirleyicidir; Illinois uzatma servisi pillerin pahalı olduğunu uyarır. Alanınızı tek şarjla biçip biçemeyeceğinizi satın almadan önce hesaplayın ve üreticinin verdiği çalışma süresiyle metrekareyi karşılaştırın.
+
+[ürün:cim-kapama-topragi-leonarditli-formul]
+
+## Benzinli: güçlü ama gürültülü
+
+Benzinli makine her boyutta çalışır ve en büyük özgürlüğü verir. Karşılığında gürültülüdür ve egzoz üretir. ABD Çevre Koruma Ajansı (EPA), benzinli motorların önemli miktarda kirletici saldığını belirtir ve daha sessiz ve temiz çalışma için elektrikli ya da akülü makineleri önerir. Büyük ya da uzak arazide başka bir seçenek yoksa benzinli makine mantıklı olabilir; bu durumda yakıt saklama, yağ ve bakım düzenini baştan planlayın.
+
+## Güvenlik ve depolama
+
+Hangi türü seçerseniz seçin güvenlik önemlidir. Çim biçmeden önce zemini kontrol edin: Taş, dal, oyuncak ve kablo gibi cisimler bıçağa çarpıp fırlayabilir. Gözlük ve kapalı ayakkabı kullanın; eğimli zeminde yukarı aşağı değil yana doğru biçmek kaymayı azaltır. Kablolu makinede kabloyu her zaman biçilmiş alanda tutun ve bıçağın uzağına alın. Benzinli makinede yakıtı açık havada ve motor soğukken doldurun. Akülü makinede pili serin ve kuru yerde saklayın; kışın tam boşalmış ya da çok sıcak ortamda bırakmayın. Makine kullanılmadığında çocukların erişemeyeceği yerde durmalı.
+
+## Maliyet ve çevre: tek bir doğru yok
+
+Illinois uzatma servisinin bir yazısı, elektrikli çim biçme makinelerinin ortalama yaşam boyu maliyetinin benzinlilerden yüksek çıkabildiğini ve kablolu elektrikli makinelerin çevresel açıdan akülülerden biraz daha iyi puan aldığını bildirir. Bu bulgular ABD koşullarına aittir ve zamanla değişebilir; elektrik ve yakıt fiyatları, pil teknolojisi ve makine ömrü ülkeden ülkeye farklıdır; bu yüzden hesabı kendi yerel fiyat, elektrik ve yakıt koşullarınıza göre yapın. Satın alma kararı için toplam kullanım maliyeti, yalnızca etiket fiyatı değil, pil değişimi, yakıt, bakım ve ömrü kapsar.
+
+## Biçme sıklığı ve makine seçimi ilişkisi
+
+Makine seçimi, çimi ne sıklıkla biçeceğinizle de ilgilidir. Sık ve kısa biçilen çimde küçük bir makine yeterlidir; çim uzadığında, aynı küçük makine yükü kaldırmakta zorlanır ve bıçak, motor ya da pil aşırı yorulur. Bu yüzden hafta sonları uzayan çimi toparlamak zorunda kalacaksanız, biraz daha güçlü bir makine ya da geniş bir kesim genişliği düşünün. Kesim genişliği arttıkça aynı alanı daha az turda biçersiniz; ama dar geçitlerde ve ağaç aralarında manevra zorlaşır. Biçme yüksekliği ayarının geniş bir aralıkta olması da çimin mevsime göre farklı yükseklikte tutulabilmesini sağlar.
+
+## Satın almadan önce kontrol listesi
+
+Çim alanını metrekare olarak yazın. Arazinin eğimini ve engellerini (ağaç, saksı, taş) not edin. Prize uzaklığı ve depolama yerini düşünün. Gürültü hassasiyetinizi, komşuluk koşullarını ve bakım zamanınızı değerlendirin. Biçme yüksekliği ayarının, toplama torbasının ve malç özelliğinin ihtiyacınıza uygun olup olmadığına bakın; bu özellikler çim sağlığı için önemlidir. Çimi sağlıklı tutmanın temelleri için [çim havalandırma](/cim-havalandirma) ve [sonbaharda çim bakımı](/sonbaharda-cim-bakimi) yazıları, yeni çim için [çim tohumu nasıl ekilir](/cim-tohumu-nasil-ekilir) yazısı faydalıdır. Akülü alet mantığını daha geniş çerçevede [ilaçlama pompası seçimi](/ilaclama-pompasi-secimi-akulu-mu-manuel-mi) yazısında akülü ve manuel karşılaştırması olarak da okuyabilirsiniz.
+
+Sonuç olarak çim biçme makinesi seçimi tek bir en iyi cevap barındırmaz. Küçük ve düz çimde el biçer ya da kablolu elektrikli, orta çimde akülü, büyük ya da uzak alanda benzinli çoğu kez makul bir başlangıç noktasıdır; ama kararı kendi alanınızın ölçüsüne göre verin.
+@sss
+S: Çim biçme makinesi seçimi nasıl yapılır?
+C: Önce çim alanını, arazinin düzgünlüğünü, prize uzaklığı ve gürültü tercihinizi belirleyin. Küçük düz çimde el biçer ya da kablolu elektrikli, orta çimde akülü, büyük ya da uzak alanda benzinli makine çoğunlukla uygun olur.
+
+S: Akülü çim biçme makinesi yeter mi?
+C: Kaliforniya Üniversitesi rehberine göre akülü makineler bugün yaklaşık çeyrek dönümlük orta boy bir çimi idare edebilir. Başlıca sınır pil süresidir; alanınızı tek şarjla biçip biçemeyeceğinizi satın almadan hesaplayın.
+
+S: Benzinli çim biçme makinesinin dezavantajı nedir?
+C: Gürültülü olması ve egzoz üretmesi. EPA, benzinli motorların önemli miktarda kirletici saldığını belirtir ve daha temiz ve sessiz çalışma için elektrikli ya da akülü makineleri önerir.
+
+S: El biçer hangi çimde işe yarar?
+C: UC IPM'e göre silindirli (el) biçerler düz ve düzgün zeminde, ince dokulu çimde en iyi çalışır; uzun ya da engebeli çimde zayıf kalır.

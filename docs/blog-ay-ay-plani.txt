@@ -1,0 +1,105 @@
+# HasTürk Blog: Ay Ay Bahçe Takvimi yazı planı (Kasım 2026 – Eylül 2027) — Bahçe Takvimi sayfalarını (/bahce-takvimi/<ay>) besleyen aylık yazılar
+# Kullanıcı isteği (4 Kasım 2026): her ay için ayrı ayrı "hangi sebzeler ekilir", "hangi fideler dikilir", "hangi meyve fidanları dikilir" + bahçe işleri + çiçekler.
+# Meyve fidanı yalnız dikime uygun aylarda (Ekim–Nisan; Kasım zaten yayında); yaz aylarında fidan dikimi önerilmediği için o aylara yazı yok. Fide yazıları Şubat–Kasım.
+# Zaten yayında olanlar plana alınmadı: Ekim/Kasım/Aralık/Ocak ne ekilir, Kasım/Aralık yapılacaklar, Ocak bahçe işleri, Şubatta balkonda ne ekilir, Kasımda fidan dikimi.
+# Yayın: ayın aramaları ay başlamadan 3–4 hafta önce yükseldiği için yazılar ay başından önce çıkar. Gün 1 = 5 Kasım 2026.
+# Bahçe yatağı ve kule satışını destekleyen 4 yazı dahil (CLAUDE.md). Ürün bilgisi yalnız docs/bilgi/urunler-hasturk.json; ilaç adı/dozu yok.
+# Biçim: aile | kategori | odak kelime | çalışma başlığı | gün   (tarih yorum satırında)
+# 2026-11-07
+T|et|kasım ayında hangi fideler dikilir|Kasım Ayında Hangi Fideler Dikilir? Lahana, Marul, Brokoli ve Çilek Fidesi|3
+# 2026-11-07
+T|ci|kasım ayında hangi çiçekler ekilir|Kasım Ayında Hangi Çiçekler Ekilir? Balkon ve Bahçe İçin Kış Çiçekleri|3
+# 2026-11-09
+T|et|aralık ayında hangi meyve fidanları dikilir|Aralık Ayında Hangi Meyve Fidanları Dikilir? Çıplak Köklü Fidan ve Don Arası Günler|5
+# 2026-11-20
+T|ci|aralık ayında hangi çiçekler ekilir|Aralık Ayında Hangi Çiçekler Ekilir? Kışın Çiçek Açan Bitkiler ve Bakım|16
+# 2026-12-10
+T|et|ocak ayında hangi meyve fidanları dikilir|Ocak Ayında Hangi Meyve Fidanları Dikilir? Kış Ortasında Fidan Dikimi Mümkün mü?|36
+# 2026-12-21
+T|ci|ocak ayında hangi çiçekler ekilir|Ocak Ayında Hangi Çiçekler Ekilir? Kışın Açan Çiçekler ve İç Mekân Bakımı|47
+# 2027-01-08
+T|et|şubat ayında hangi sebzeler ekilir|Şubat Ayında Hangi Sebzeler Ekilir? İçeride Tohum, Ilık Kıyılarda Açık Alan Ekimi|65
+# 2027-01-10
+T|et|şubat ayında hangi meyve fidanları dikilir|Şubat Ayında Hangi Meyve Fidanları Dikilir? Toprak Tava Gelince Elma, Armut, Erik ve Kiraz|67
+# 2027-01-12
+T|et|şubat ayında hangi fideler dikilir|Şubat Ayında Hangi Fideler Dikilir? Serada ve Ilık Kıyılarda Marul, Lahana ve Soğan Fidesi|69
+# 2027-01-15
+T|sm|bahçe yatağında 12 ay hasat|Bahçe Yatağında 12 Ay Hasat: Ay Ay Ne Ekilir, Ne Toplanır?|72
+# 2027-01-15
+T|et|şubat ayında bahçe işleri|Şubat Ayında Bahçe İşleri: Budama, Fide ve Toprak Hazırlığı|72
+# 2027-01-21
+T|ci|şubat ayında hangi çiçekler ekilir|Şubat Ayında Hangi Çiçekler Ekilir? Tohum Ekimi ve Kış Sonu Çiçekleri|78
+# 2027-02-05
+T|sm|bahçe yatağı bahar hazırlığı|Bahçe Yatağını Bahara Hazırlama: Şubat–Mart Toprak, Kompost ve Ekim Düzeni|93
+# 2027-02-05
+T|et|mart ayında hangi sebzeler ekilir|Mart Ayında Hangi Sebzeler Ekilir? Bahar Ekiminin Başladığı Ayda Tohum Takvimi|93
+# 2027-02-07
+T|et|mart ayında hangi meyve fidanları dikilir|Mart Ayında Hangi Meyve Fidanları Dikilir? Son Fidan Dikimi ve Aşı Zamanı|95
+# 2027-02-09
+T|et|mart ayında hangi fideler dikilir|Mart Ayında Hangi Fideler Dikilir? Marul, Lahana ve Çilek Fidesi; Domates İçin Hazırlık|97
+# 2027-02-12
+T|et|mart ayında bahçe işleri|Mart Ayında Bahçe İşleri: Bahar Uyanışında Bahçe Takvimi|100
+# 2027-02-18
+T|ci|mart ayında hangi çiçekler ekilir|Mart Ayında Hangi Çiçekler Ekilir? Bahar Çiçekleri İçin Ekim ve Dikim|106
+# 2027-03-08
+T|et|nisan ayında hangi sebzeler ekilir|Nisan Ayında Hangi Sebzeler Ekilir? Doğrudan Tohumla Ekilen Sebzeler|124
+# 2027-03-10
+T|et|nisan ayında hangi meyve fidanları dikilir|Nisan Ayında Hangi Meyve Fidanları Dikilir? Tüplü Fidanla Bahar Dikimi ve Narenciye|126
+# 2027-03-12
+T|et|nisan ayında hangi fideler dikilir|Nisan Ayında Hangi Fideler Dikilir? Domates, Biber ve Patlıcan Fidesinde Doğru Zaman|128
+# 2027-03-15
+T|et|nisan ayında bahçe işleri|Nisan Ayında Bahçe İşleri: Ekim Mevsiminin Kalbinde Yapılacaklar|131
+# 2027-03-21
+T|ci|nisan ayında hangi çiçekler ekilir|Nisan Ayında Hangi Çiçekler Ekilir? Yaz Çiçeklerinin Dikim Zamanı|137
+# 2027-03-25
+T|sm|bahçe kulesi ilkbahar ekimi|Bahçe Kulesinde İlkbahar Ekimi: Nisan–Mayıs Ayında Kat Kat Ne Dikilir?|141
+# 2027-04-07
+T|et|mayıs ayında hangi sebzeler ekilir|Mayıs Ayında Hangi Sebzeler Ekilir? Sıcak Seven Sebzelerin Tohum Ayı|154
+# 2027-04-11
+T|et|mayıs ayında hangi fideler dikilir|Mayıs Ayında Hangi Fideler Dikilir? Domates, Biber, Patlıcan, Kabak ve Salatalık Fidesi|158
+# 2027-04-14
+T|et|mayıs ayında bahçe işleri|Mayıs Ayında Bahçe İşleri: Dikim Ayında Bahçe Takvimi|161
+# 2027-04-20
+T|ci|mayıs ayında hangi çiçekler ekilir|Mayıs Ayında Hangi Çiçekler Ekilir? Balkon ve Bahçe İçin Yaz Çiçekleri|167
+# 2027-05-08
+T|et|haziran ayında hangi sebzeler ekilir|Haziran Ayında Hangi Sebzeler Ekilir? Yaz Ekimi ve Ardışık Hasat İçin Sebzeler|185
+# 2027-05-12
+T|et|haziran ayında hangi fideler dikilir|Haziran Ayında Hangi Fideler Dikilir? Geç Dikim İçin Fide Seçimi ve Sıcakta Dikim|189
+# 2027-05-15
+T|et|haziran ayında bahçe işleri|Haziran Ayında Bahçe İşleri: Yaz Başında Sulama, Bakım ve Hasat|192
+# 2027-05-21
+T|ci|haziran ayında hangi çiçekler ekilir|Haziran Ayında Hangi Çiçekler Ekilir? Sıcağa Dayanıklı Çiçekler ve Bakım|198
+# 2027-06-07
+T|et|temmuz ayında hangi sebzeler ekilir|Temmuz Ayında Hangi Sebzeler Ekilir? Kışlık Sebze Tohumu ve Yaz Sonu Ekimi|215
+# 2027-06-10
+T|sm|bahçe kulesi yaz bakımı|Bahçe Kulesinde Yaz Bakımı: Sıcakta Sulama, Gölgeleme ve Hasat|218
+# 2027-06-11
+T|et|temmuz ayında hangi fideler dikilir|Temmuz Ayında Hangi Fideler Dikilir? Kışlık Lahana, Karnabahar ve Brokoli Fidesi|219
+# 2027-06-14
+T|et|temmuz ayında bahçe işleri|Temmuz Ayında Bahçe İşleri: Sıcağın Zirvesinde Bahçe Bakımı|222
+# 2027-06-20
+T|ci|temmuz ayında hangi çiçekler ekilir|Temmuz Ayında Hangi Çiçekler Ekilir? Yaz Ortasında Çiçek Ekimi ve Bakımı|228
+# 2027-07-08
+T|et|ağustos ayında hangi sebzeler ekilir|Ağustos Ayında Hangi Sebzeler Ekilir? Sonbahar Hasadı İçin Tohum Ekimi|246
+# 2027-07-12
+T|et|ağustos ayında hangi fideler dikilir|Ağustos Ayında Hangi Fideler Dikilir? Kışlık Sebze Fidelerinin Bahçeye Dikimi|250
+# 2027-07-15
+T|et|ağustos ayında bahçe işleri|Ağustos Ayında Bahçe İşleri: Yaz Sonunda Hasat, Tohum ve Hazırlık|253
+# 2027-07-21
+T|ci|ağustos ayında hangi çiçekler ekilir|Ağustos Ayında Hangi Çiçekler Ekilir? Sonbahar ve Kış Çiçekleri İçin Hazırlık|259
+# 2027-08-08
+T|et|eylül ayında hangi sebzeler ekilir|Eylül Ayında Hangi Sebzeler Ekilir? Kışlık Sebze Tohumları ve Sonbahar Ekimi|277
+# 2027-08-12
+T|et|eylül ayında hangi fideler dikilir|Eylül Ayında Hangi Fideler Dikilir? Lahana, Brokoli, Marul ve Çilek Fidesi|281
+# 2027-08-15
+T|et|eylül ayında bahçe işleri|Eylül Ayında Bahçe İşleri: Sonbahar Başında Dikim ve Bakım|284
+# 2027-08-21
+T|ci|eylül ayında hangi çiçekler ekilir|Eylül Ayında Hangi Çiçekler Ekilir? Soğanlı Çiçekler ve Kış Çiçekleri|290
+# 2027-09-09
+T|et|ekim ayında hangi meyve fidanları dikilir|Ekim Ayında Hangi Meyve Fidanları Dikilir? Sonbahar Dikimine Hazırlık ve Tüplü Fidanlar|309
+# 2027-09-11
+T|et|ekim ayında hangi fideler dikilir|Ekim Ayında Hangi Fideler Dikilir? Kışlık Marul, Lahana ve Çilek Fidesi|311
+# 2027-09-14
+T|et|ekim ayında bahçe işleri|Ekim Ayında Bahçe İşleri: Bahçeyi Kışa Hazırlama Takvimi|314
+# 2027-09-20
+T|ci|ekim ayında hangi çiçekler ekilir|Ekim Ayında Hangi Çiçekler Ekilir? Soğan Dikimi ve Kışlık Çiçekler|320

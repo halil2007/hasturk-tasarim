@@ -1,0 +1,25 @@
+name: Alt bilgi yapısı
+
+# Canlı sitenin alt bilgi (footer) yapısını okur (scripts/footer-yapi.mjs). Mağazaya dokunmaz.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/footer-yapi.mjs', '.github/workflows/footer-yapi.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  oku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - run: node scripts/footer-yapi.mjs https://hasturkgubre.com.tr/

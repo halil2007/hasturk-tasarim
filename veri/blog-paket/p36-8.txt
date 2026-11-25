@@ -1,0 +1,458 @@
+### YAZI
+slug: yaprak-odemi-yaprak-altindaki-kabarciklar-neden-olusur
+baslik: Yaprak Ödemi: Yaprak Altındaki Kabarcıklar Neden Oluşur?
+yayin: 2027-03-13 09:10
+yazar: Halil İbrahim Çelik
+kategori: gundem
+odak: yaprak ödemi
+seo_baslik: Yaprak Ödemi: Yaprak Altındaki Kabarcıklar Neden Oluşur?
+seo_aciklama: Yaprak ödemi (edema) nedir? Yaprağın altındaki kabarcıklar hastalık ya da zararlı değildir; nedenleri, ayırt etme ve sulamayı ayarlama yolları.
+ozet: Yaprak ödemi, kökün kullanılandan fazla su alması yüzünden yaprağın altında oluşan kabarcık ve mantarsı lekelerdir. Hastalık ya da böcek değildir; serin, bulutlu ve nemli havada sulamayı azaltmak ve havalandırmak yeter. Belirtileri, nedenlerini ve benzer sorunlardan ayrılışını anlattık.
+etiketler: yaprak ödemi, edema, yaprak altı kabarcık, aşırı sulama, sardunya, sera, ev bitkisi
+gorsel: bekliyor
+gorsel_alt: Bir sardunya yaprağının alt yüzünde küçük, kabarık, açık kahverengi mantarsı lekeler
+urunler: tarim-perliti
+kisaca: Yaprak ödemi, kökün kullanılandan fazla su alması sonucu yaprak altında oluşan küçük kabarcıkların sonradan kahverengi ve mantarsı lekelere dönüşmesidir. Hastalık ya da zararlı değildir. Sıcak ve ıslak toprak, serin ve nemli hava bir araya gelince görülür; çözüm, bulutlu ve serin günlerde sulamayı azaltmak ve havalandırmayı artırmaktır.
+@govde
+Sardunyanızın alt yaprakları bir sabah ters çevrildiğinde küçük, kabarık, sonradan mantar gibi kuruyan lekelerle dolu çıkıyor. Akla ilk gelen kırmızı örümcek, ardından pas ve unlu bit; yarım saat internette gezip ilaç siparişi vermeden önce bir ihtimali daha eleyin: yaprak ödemi. Bu sorun bir hastalık ya da zararlı değil, bitkinin fazla su alıp atamamasıdır. Çözümü ise çoğu zaman bir ilaç değil, sulamayı bir iki gün geciktirmektir.
+
+## Yaprak ödemi neye benzer?
+
+Yaprak ödemi, bitkide görülen mantarsı ya da kabarık lekelerin su dengesinden kaynaklanan türüdür (İngilizcede edema, oedema). Maryland Üniversitesi'nin sebze yaprağındaki küçük kabarcıklar yazısı, ödemin önce yaprak altlarında küçük kabarcıklar olarak göründüğünü, sonradan kahverengileşip mantarsı bir doku oluşturduğunu anlatıyor ([Maryland Extension, sebze yapraklarında küçük kabarcıklar](https://extension.umd.edu/resource/small-blisters-or-edema-vegetable-leaves)). Penn State'in sardunya ödemi notu da aynı tabloyu gösteriyor ([Penn State Extension, sardunya ödemi](https://extension.psu.edu/edema-of-geranium)).
+
+Belirti genelde alt ve yaşlı yapraklarda başlar. Önce yaprak altında çok küçük, su dolu gibi görünen şişlikler çıkar. Birkaç gün içinde bunlar kuruyup kahverengi ya da bej, kabuk gibi sert lekelere dönüşür. Yaprağın üst yüzünde aynı yerde sararma ya da küçük çukurlar görülebilir. Ağır etkilenen yapraklar sararıp dökülür.
+
+Ödem birçok bitkide görülür; Iowa State ve Penn State yayımları özellikle sardunya ve sarkan sardunya (ivy geranium) üzerinde durur, Maryland yayımı ise sebze yapraklarında aynı tabloyu anlatır. Mekanizma ortaktır: su alımı terlemeyi aşar.
+
+## Neden olur?
+
+Ödemin nedeni su dengesizliğidir: Kök, yaprağın terleyip atabileceğinden fazla su alır. Yaprağın içindeki hücreler şişer ve patlar, patlayan hücreler kabarcıkları, sonra mantarsı izleri bırakır. UMass Amherst'in sera için yazdığı ödem notu, durumun toprak ılık ve çok ıslakken, hava serin ve nemliyken görüldüğünü anlatıyor ([UMass Amherst, ödem ve intumesans](https://ag.umass.edu/greenhouse-floriculture/fact-sheets/edema-intumescence)). Bulutlu, durgun ve serin günler tabloyu ağırlaştırır; çünkü bitki terlemez, kök ise su almayı sürdürür.
+
+Evde bu koşulların bir araya gelmesi şöyle olur: Kışın sonunda toprağı ılık tutan bir pencere önü, dışarıda serin ve bulutlu bir hafta, aynı sıklıkta sulama. Mart ayı bunun için tipik bir dönemdir; güneşin gücü artarken hava hâlâ serindir ve bitki yeni büyüme sezonuna girmiştir.
+
+## Hastalık, zararlı ya da ödem mi?
+
+Ödemi zararlıyla karıştırmak kolaydır. Yayımlar bazı ödem lekelerinin kırmızı örümcek ya da trips zararına benzeyebildiğini hatırlatıyor. Bu yüzden yaprağın altına bakın:
+
+| Belirti | Ödem | Başka olasılık |
+|---|---|---|
+| Küçük kabarcıklar, sonra kabuk gibi kahverengi leke | Ev, sera, serin ve nemli hava | Kabuklu bit: hareketsiz, kahverengi kabuklar; [kabuklu bit](/kabuklu-bit) yazısına bakın |
+| Turuncu, tozlu kabarcıklar | Yok | Pas hastalığı: sürülünce turuncu toz çıkar; [pas hastalığı](/pas-hastaligi) |
+| İnce ağ, sararan yaprak | Yok | Kırmızı örümcek: [kırmızı örümcek](/kirmizi-orumcek) |
+| Gümüşi parlak lekeler | Yok | Trips: [trips zararlısı](/trips-zararlisi) |
+
+Basit bir test: Lekeyi tırnağınızla ya da bir kürdanla kazıyın. Ödemde lekeler sert, kuru ve dokunun parçasıdır; kabuklu bitte kabuk yerinden oynar ve altı yumuşaktır. Pas lekesi parmakta turuncu toz bırakır. Hareket eden küçük böcek ya da ağ görmüyorsanız ödemi düşünün.
+
+## Ödemi önlemek: sulamayı ve havayı ayarlamak
+
+Kaynaklar benzer öneri veriyor: Serin ve bulutlu dönemde daha az sulayın, sulamalar arasında toprağın üst iki üç santimini kurutun ve bitki çevresindeki hava dolaşımını artırın. Maryland ve UMass bu önlemlerin sorunu durdurduğunu, ancak oluşmuş lekelerin yapraktan gitmediğini belirtiyor.
+
+::: adimlar
+Toprağı yoklayın | Parmağınızı iki üç santim batırın; hâlâ nemliyse sulamayı erteleyin.
+Sabah sulayın | Su alınmasını artıracak serin geceden uzak durun; sulamayı sabaha çekin ve suyu çok soğuk vermeyin.
+Havayı dolaştırın | Pencereyi kısa süre açın, bitkileri birbirine yaslamayın, serada küçük bir fan ya da havalandırma kullanın.
+Işığı artırın | Bitkiyi daha aydınlık bir yere alın; terleme artar, su dengesi düzelir.
+Lekeli yaprağı temizleyin | Çok bozuk yaprakları kesip atın; sağlam yapraklara dokunmayın.
+:::
+
+Kök bölgesinde su tutan bir toprak da sorunu artırır. Ürün bilgisine göre HG Tarım Perliti, sıkışan toprağı hafifleten ve havalanmasını artıran steril bir inorganik malzemedir; fazla suyu bünyesinde tutup bitki ihtiyaç duydukça geri verdiği için su dengesini korumaya yardım eder. Ağır, killi ya da sıkışmış saksı toprağını perlitle gevşetmek, ödem riskli bitkilerde kök bölgesindeki ıslaklığı azaltır.
+
+[ürün:tarim-perliti]
+
+## Ödem sera ve bahçede de görülür
+
+Ödem yalnızca pencere önündeki sardunyaya özgü değildir. Mart ve nisanda serada, gün boyu ısınan ama geceleri hâlâ serin kalan havada domates ve lahana fidelerinde de aynı kabarcıklar görülür. Mantık aynıdır: Gün içinde ısınan toprak suyu çabuk aldırır, gece yaprak terleyemez. Seranız varsa sulamayı sabah erken saatte yapın, kapıları ve havalandırma pencerelerini bulutlu günde bile kısa süre açın. Bahçede saksı ya da yatak toprağının üstünü malçlamak nemi dengeler ama bulutlu haftalarda malç altında su kalmasın diye toprağın içine parmakla bakın.
+
+## Ödem bitkiye zarar verir mi?
+
+Genel olarak hayır, ama sevimsiz görünür. Maryland yayımı, ödemin bitkiye ciddi bir zarar vermediğini, ağır olanların yaprak dökümüne yol açabildiğini belirtiyor. Hava koşulları değişince ödem gelişmeyi durdurur; mevcut lekeler ise yaprakta kalır. Yani lekeli bir yaprağı iyileştirmeyeceksiniz; yapacağınız şey yeni yaprakların temiz çıkmasını sağlamaktır.
+
+Ödemin aşırı sulamayla ilişkisini tartıyorsanız, aşırı sulamanın diğer belirtilerine ([aşırı sulama belirtileri](/asiri-sulama-belirtileri)) bakmak yararlı olur. Sardunya gibi sık ödem gören bitkiler için [sardunya bakımı](/sardunya-bakimi) yazısındaki sulama aralığı ve ışık bilgisi sorunu azaltır.
+
+## Sık yapılan hatalar
+
+- Ödemi zararlı sanıp bitkiye ilaç ya da sabun püskürtmek.
+- Serin ve bulutlu haftada da aynı sulama düzenini sürdürmek.
+- Bitkiyi sıkış tıkış, havasız bir yerde tutmak.
+- Lekeleri iyileştirmeye çalışıp yapraktan lekeyi silmek ya da kazımak.
+- Ağır, su tutan toprakta sık sulamak.
+
+Mart ayında sardunyanızın alt yapraklarında kabarcık gördüğünüzde, lekeleri silmeye çalışmadan bir sonraki sulamayı iki gün erteleyin, saksıyı biraz daha aydınlık bir pencereye alın. Bir hafta sonra yeni yapraklar düzgün çıkıyorsa teşhisiniz doğruydu; çıkmıyorsa ve ağ ya da böcek görüyorsanız yukarıdaki tablodan diğer ihtimallere geçin.
+@sss
+S: Yaprak ödemi hastalık mıdır, bulaşır mı?
+C: Hayır. Yaprak ödemi, fazla su alınması sonucu oluşan fizyolojik bir bozukluktur; bir mantar ya da böcek değildir ve komşu bitkiye bulaşmaz. Koşullar düzelince yeni yaprakta görülmez.
+
+S: Yaprak altındaki kabarcıklar nasıl geçer?
+C: Oluşmuş lekeler yapraktan gitmez; ama sulamayı azaltıp toprağın üst iki üç santimini kuruttuktan ve havalandırmayı artırdıktan sonra yeni yapraklar temiz çıkar. Çok bozuk yaprağı kesip atabilirsiniz.
+
+S: Yaprak ödemi ile pas hastalığı nasıl ayrılır?
+C: Pas lekesine dokununca parmakta turuncu toz kalır ve genelde yaprağın alt yüzünde halkalı yığınlar görülür. Ödem lekeleri sert, kuru, kahverengi kabuk gibidir ve toz bırakmaz.
+
+S: Yaprak ödemi hangi bitkilerde sık olur?
+C: Sardunya başta olmak üzere begonya, sukulent, domates, lahana ve duvar sarmaşığında görülebilir. Serin, bulutlu, nemli havada ve toprak ılık ve ıslakken risk artar.
+
+### YAZI
+slug: nane-hastaliklari-pas-yaprak-lekesi-ve-solgunluk
+baslik: Nane Hastalıkları: Pas, Yaprak Lekesi ve Solgunluk
+yayin: 2027-03-13 11:35
+yazar: Mehmet Fatih Çelik
+kategori: gundem
+odak: nane hastalıkları
+seo_baslik: Nane Hastalıkları: Pas, Yaprak Lekesi ve Solgunluk
+seo_aciklama: Nane hastalıkları nelerdir? Yaprak altında turuncu pas, solgunluk ve külleme belirtileri, yabani nane ve anızın rolü, saksıda ve bahçede alınacak önlemler.
+ozet: Nane hastalıkları arasında en çok pas, verticillium solgunluğu ve külleme anılır. Üniversite yayımlarına göre pas anızda ve yabani nanede kışı geçirir; solgunluğu temiz kökle önlersiniz. Belirtileri, nedenlerini ve saksıda ve bahçede yapılacakları anlattık.
+etiketler: nane hastalıkları, nane pası, nane solgunluğu, külleme, mutfak otu, saksıda nane
+gorsel: bekliyor
+gorsel_alt: Nane yaprağının alt yüzünde dizilmiş turuncu pas kabarcıkları
+urunler: hg-aromatik-bitkiler-icin-saksi-topragi
+kisaca: Nane hastalıkları içinde en sık pas (yaprak altında turuncu kabarcıklar), solgunluk ve külleme görülür. Pas mantarı kışı anızda ve yabani nanede geçirir: sonbaharda anızı kesip temizleyin, yabani nanelerden kurtulun, ıslak ilkbaharda gübre vermeyin. Solgunlukta temiz kök ve temiz toprak esastır.
+@govde
+Bahçenin köşesinde yıllardır kendi kendine büyüyen naneniz bu bahar yapraklarının altında turuncu toz gibi bir şey çıkardı. Çay demlerken yaprakları yıkıyorsunuz ama içiniz rahat değil. Nane hastalıkları çoğu hobi bahçıvanının aklına bu noktada gelir: Pas mı, külleme mi, yoksa bitkinin sonu mu? Önce hangi belirtinin hangi hastalığa ait olduğuna, sonra bahçede ya da saksıda ne yapılacağına bakalım.
+
+## Nane hastalıkları arasında en sık: pas
+
+Oregon Eyalet Üniversitesi'nin nane zararlı yönetimi planı, nane pasının etkeni Puccinia menthae mantarının kışı nane anızında, yabani ve kaçak nane bitkilerinde geçirdiğini anlatıyor ([Oregon State Extension, nane için entegre zararlı yönetimi planı](https://extension.oregonstate.edu/sites/extd8/files/documents/em9299.pdf)). Aynı plan, pasın bazı bölgelerde sık görüldüğünü, bazı bölgelerde ise hiç görülmediğini not ediyor; hastalığın görülme sıklığı iklime göre değişiyor.
+
+Belirti şu: Yaprağın alt yüzünde turuncu, sonra kahverengileşen küçük, toz gibi kabarcıklar çıkar. Üst yüzde sararma olur. Ağır enfeksiyonda yapraklar kurur ve döker. Bu kabarcıklara dokunduğunuzda parmağınızda turuncu bir toz kalır; yaprak ödemiyle fark budur ([yaprak ödemi](/yaprak-odemi-yaprak-altindaki-kabarciklar-neden-olusur) yazısını okuyun).
+
+Ask Extension'daki bir cevap, ev bahçesinde pas konusunda üç şey öneriyor: mülkteki yabani naneleri kaldırmak (sporlar rüzgârla savrulur), hastalıklı bitkilerin etrafındaki malçı kaldırmak ve ıslak havada erken ilkbaharda gübre vermemek ([Ask Extension, nane pası](https://ask.extension.org/kb/faq.php?id=331371)). Aynı yazı, kimyasal olmayan seçeneklerden kükürdün pasta bir miktar denetim sağladığını belirtiyor; kimyasal tercih edecekseniz ürünün etiketini ve bölgenizin tarım müdürlüğünün önerisini esas alın.
+
+## Solgunluk: bitkinin bir anda çökmesi
+
+Nanede verticillium solgunluğu Oregon planında "kritik" bir hastalık olarak geçiyor ve nane hastalık yönetiminin ana belirleyicisi sayılıyor. Bitki bir anda solar, yapraklar kıvrılır, gövde ve sürgünler yönünü şaşırır. Kök bölgesindeki toprak kaynaklı bir mantarın etkisidir. Tavsiye, hastalıksız kök (mümkünse solgunluktan arınmış belgeli) kullanmak ve solgunluk bulunmayan topraklara dikmektir.
+
+Evde uygulama şöyle özetlenebilir: Komşunun ya da pazardaki satıcının size verdiği kök sürgününü hemen ana saksınıza koymayın; önce ayrı bir kapta bir iki hafta gözlemleyin. Solgunluk gösteren bir nane saksısının toprağını başka bitkilerde kullanmayın. Saksıyı yıkayıp yeni toprakla başlayın. Kök bölgesinden gelen hastalıklar için [toprak sterilizasyonu](/toprak-sterilizasyonu) yazısı, saksı toprağını temizleme yöntemlerini anlatıyor.
+
+## Küllemeyi unutmayın
+
+Oregon'un planı, külleme (powdery mildew) ile solgunluk ve pası nane hastalıkları arasında birlikte anıyor. Külleme yaprakların üstünde beyaz unumsu bir tabaka olarak görülür; sıcak gündüz, serin gece ve havasız ortamda artar. Bu hastalık için evde uygulanabilir somut yönetim adımlarını kaynak bulamadık; genel kural (havalandırma, aralıklı dikim, yaprak ıslatmama) geçerlidir. Benzer belirtiler [kurşuni küf](/kursuni-kuf) gibi başka hastalıklarla da karışabilir; emin olamazsanız yapraktan örnek alıp bölgenizdeki tarım müdürlüğüne ya da fidancıya gösterin.
+
+## Belirti, neden, çözüm
+
+::: belirti
+Yaprağın altında turuncu toz gibi kabarcıklar, üstte sararma | Pas mantarı (Puccinia menthae); anızda, yabani nanede kışlar | Hastalıklı yaprakları toplayın, yabani nane ve anızı temizleyin, malçı kaldırın, ıslak havada gübre vermeyin
+Bitki bir anda solar, yaprak kıvrılır, gövdede yön kaybı | Toprak kaynaklı verticillium solgunluğu | Bitkiyi kökünden sökün, aynı toprağı kullanmayın, hastalıksız kökle yeniden başlayın
+Yaprak üstünde beyaz unumsu tabaka | Külleme | Aralıklı dikim, havalandırma; yaprağı ıslatmadan sabah sulama
+Küçük kahverengi lekeler, yaprak dökülmesi | Yaprak lekesi mantarları; fazla nem | Lekeli yaprakları kesin, sabah sulayın, bitkiyi seyreltin
+:::
+
+## Eski nane kümesini yenilemek
+
+Üç dört yıldır aynı yerde duran nane kümesinin altında hastalık sporları, ölü saplar ve sıkışmış kök yumağı birikir. Erken ilkbaharda, yeni sürgünler 5-8 cm olduğunda kümenin kenarından sağlıklı, beyaz köklü sürgünleri ayırın. Hasta ve eski merkezi atın, sağlam sürgünleri taze toprağa ya da başka bir köşeye dikin. Dikerken kökleri su dolu bir kovada yıkayıp varsa lekeli yaprakları ayıklayın. Bu işlem hem hastalıksız kök kuralını uygular hem de kümenin gücünü tazeler. Hasat için yaprak toplarken de bitkinin yalnız üçte birini alın; yaprağı hasat edilmiş, havadar bir bitki hastalığa daha az yakalanır.
+
+## Saksıda ve bahçede nane için önlem
+
+Nane yayılmacıdır; bahçede kontrolsüz büyüdüğünde hastalık için en iyi konaktır. Saksıda tutmak hem yayılmayı hem hastalığın bulaşmasını sınırlar. Sonbaharda anızı yere yakın kesip atmak, pasın kışlamasını engeller. Hasta ve sağlıklı bitkilerin yaprağını aynı makasla kesmeyin; makası dezenfekte edin. Budama aletlerinin hastalık taşıma riski [budama aletleri nasıl dezenfekte edilir](/budama-aletleri-nasil-dezenfekte-edilir) yazısında anlatılıyor.
+
+Nane toprak ister mi? Ürün bilgisine göre HG Aromatik Bitkiler İçin Saksı Toprağı fesleğen, nane ve maydanoz gibi bitkiler için sphagnum torf, cocopeat, perlit, solucan gübresi ve leonardit içeren bir karışımdır; sıkışmayan ve suyu rahat atan bir yapı hedefler. Nane saksısını yenilerken havadar bir toprak seçmek, solgunluk ve kök sorunları açısından yararlıdır.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+Nane hastalıklarının çoğu nem ve havasızlıkla bağlantılıdır; bu yüzden pencere önündeki saksıda bile yaprakları birbirine değdirmeden, sabahları hafifçe aralayarak büyütmek işe yarar. Sulamayı sabaha çekmek, saksıları birbirine yapıştırmamak ve ölü sapları temizlemek, ilaçsız ilk önlemlerdir. Nane yetiştirme, çelik alma ve tohum konusunda ayrıntı için [nane yetiştirme](/saksida-nane-yetistirme) yazısına bakabilirsiniz.
+
+## Sık yapılan hatalar
+
+- Pas görünen bitkinin yapraklarını kompost yığınına atmak.
+- Bahçede yabani ya da terk edilmiş nane kümesini bırakmak.
+- Hastalıklı bitkiyi bölüp yeni saksılara dağıtmak.
+- Erken ilkbaharda, yağışlı havada azotlu gübre vermek.
+- Solan bitkinin toprağını başka otlarda kullanmak.
+
+Nane, bahçenin en yaşlı ve en dirençli sakinlerinden biri gibi görünür; yine de turuncu bir tozla başlayan sorun, bir sezon içinde bütün kümeyi yok edebilir. Sonbaharda anıza makas atıp, ilkbaharda yaprağın altına bakmak, çayınızın kokusunu korumak için yapacağınız iki küçük kontrol.
+@sss
+S: Nane yaprağının altındaki turuncu kabarcıklar nedir?
+C: Büyük olasılıkla nane pasıdır (Puccinia menthae). Mantar kışı anızda ve yabani nanede geçirir. Hasta yaprakları toplayın, yabani nane ve anızı temizleyin, malçı kaldırın ve ıslak havada erken ilkbaharda gübre vermeyin.
+
+S: Nane aniden solarsa ne yapmalıyım?
+C: Toprak kaynaklı verticillium solgunluğu olabilir. Bitkiyi kökünden sökün, aynı toprağı kullanmayın ve yeniden hastalıksız kökle başlayın. Oregon yayımı hastalıksız kök kullanmayı temel önlem olarak gösterir.
+
+S: Pasa yakalanmış nane yenilir mi?
+C: Hasta yaprakları toplayıp atmak, kalan yaprakları iyice yıkamak makuldür. Ağır enfeksiyonlu bitkiyi tüketmeyin. Kimyasal kullanacaksanız etiketteki bekleme süresine ve bölgenizin tarım müdürlüğünün önerisine uyun.
+
+S: Saksıda nane hastalıklara daha az mı yakalanır?
+C: Saksıda nane yayılmaz ve yabani nane kümesinden bulaşma riski azalır, ama pas ve solgunluk yine görülebilir. Sonbaharda anızı kesin, toprağı yenileyin, saksıları birbirine yapıştırmayın.
+
+### YAZI
+slug: alttan-sulama-ev-bitkisini-tabaktan-doyurmak
+baslik: Alttan Sulama: Ev Bitkisini Tabaktan Doyurmak
+yayin: 2027-03-13 14:05
+yazar: Mikdat Çelik
+kategori: gundem
+odak: alttan sulama
+seo_baslik: Alttan Sulama: Ev Bitkisini Tabaktan Doyurmak
+seo_aciklama: Alttan sulama nasıl yapılır? Saksıyı suda tutma süresi, tuz birikmesini önleme, ne zaman uygun olup ne zaman riskli olduğu; ev bitkisi için adımlar.
+ozet: Alttan sulama, saksının tabanından suyu çektirerek toprağı baştan aşağı ıslatmanın yoludur. Missouri ve Mississippi State yayımlarına göre yaklaşık on dakika yeterlidir; ama tuz birikmesi ve suda bekleyen kök riski vardır. Yöntemi, süreyi ve üstten sulamayla değişimli kullanmayı anlattık.
+etiketler: alttan sulama, dip sulama, ev bitkisi, tuz birikmesi, afrika menekşesi, sulama yöntemi
+gorsel: bekliyor
+gorsel_alt: Plastik bir saksıyı su dolu geniş bir tabağın içinde duran, toprağı nemlenen ev bitkisi
+urunler: salon-bitkilerine-ozel-toprak-karisimi
+kisaca: Alttan sulama, saksıyı suyla dolu bir kaba koyup toprağın suyu delikten çekmesini beklemektir. Mississippi State yayımına göre toprak havası kabarcık yapıp yüzeye çıkana kadar, yaklaşık on dakika beklemek yeter. Sonra saksıyı kaldırıp süzdürün; yüzeyde beyaz tuz görürseniz arada üstten bol su verin.
+@govde
+Afrika menekşenizin yaprağını ıslatmadan sulamak, üstten verdiğiniz suyun toprağın yarısına ulaşıp kenardan akıp gittiğini düşünürseniz akıllıca bir fikir gibi duruyor. Saksıyı lavabodaki suyun içine koyuyorsunuz, birkaç dakika sonra yüzey nemleniyor. Bu alttan sulamadır. Doğru uygulanırsa toprağı eşit ıslatır; yanlış uygulanırsa tuz biriktirir ve kökleri suda bırakır. Neleri nasıl yapacağınıza bakalım.
+
+## Alttan sulama nedir, ne zaman işe yarar?
+
+Bu yöntemde su, saksının drenaj deliklerinden içeri çekilir. Üstten sulamada su toprağın içinde aşağı süzülürken kuru bir bölgeden kenara kaçabilir; özellikle çok kurumuş, suyu emmeyen torflu toprakta üstten verilen su kenardan akıp gider. Missouri Üniversitesi'nin ev bitkisi yayını, bitkinin alttan sulanmasının toprak kütlesinin tamamının ıslanmasını sağladığını belirtiyor ([Missouri Extension, ev bitkilerine bakım](https://extension.missouri.edu/publications/g6510)).
+
+Özellikle yaprağı ıslatılmak istenmeyen bitkilerde (Afrika menekşesi, siklamen, begonya) ve kuruyup sertleşmiş torf topraklarda işe yarar. Mississippi State Üniversitesi'nin yayını da kabın tepsiden dönen suyun ek nem sağlayabileceğini not ediyor ([Mississippi State Extension, alttan sulamalı kaplar](https://extension.msstate.edu/publications/subirrigated-containers-for-the-mississippi-gardener)).
+
+## Alttan sulama nasıl yapılır?
+
+Adımlar kolay ama süre ve boşaltma önemlidir.
+
+::: adimlar
+Kabı seçin | Saksının çapından geniş, saksının yarısı kadar yüksek bir kap, lavabo ya da leğen alın.
+Suyu doldurun | Kaba, saksının kenarına kadar su dolduracak kadar su koyun; suyun saksının içine taşmaması gerekir.
+Saksıyı yerleştirin | Saksıyı suyun içine dikkatle yerleştirin. Mississippi State, suyun saksı kenarına gelip toprağa girmemesini ister.
+Bekleyin | Toprak havasının kabarcıklar hâlinde yüzeye çıkıp bitmesini bekleyin; yaklaşık on dakika.
+Süzdürün | Saksıyı kaldırın, kaba koyup fazla suyun akmasını bekleyin.
+Altlığı boşaltın | Süzülen su altlıkta kalmasın; saksıyı yerine koymadan önce kaba ya da lavaboya boşaltın.
+:::
+
+Toprağın yüzeyi ıslandığında içi de ıslanmış olduğundan Missouri yayını, üstü nemli göründüğünde toprak kütlesinin tamamının ıslak olduğunu söylüyor. Büyük ve ağır saksıları kaldırmak zordur; onlar için alttan sulama pratik değildir.
+
+## Riski: tuz birikmesi
+
+En önemli dezavantaj, suyla gelen ve gübreden kalan tuzların toprağın üst yüzeyine çıkmasıdır. Missouri yayını, bitkiler düzenli olarak alttan sulanırsa toprak yüzeyinde beyaz bir birikim oluşabileceğini söylüyor ve zaman zaman üstten sulamanın tuzu yıkamaya yardımcı olacağını belirtiyor. Birikim fazla sertleşirse yüzey toprağını kazıyıp taze toprakla değiştirmeyi öneriyor. Oregon Eyalet Üniversitesi ise tuz konusunda şu pratik yöntemi veriyor: Dört altı ayda bir bitkiyi bol sulayın, beş dakika bekleyin, tekrar sulayın; ikinci sulama tuzu drenaj deliğinden atar ([Oregon State Extension, ev bitkisinde çözünür tuzlar](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)).
+
+Aynı yayın, altlığa süzülen suyun toprak tarafından yeniden emilip tuzu geri taşıyabileceğini hatırlatıyor; bu yüzden alttan sulamadan sonra altlığın boşaltılması şart. Tuz birikmesinin belirtisi ve çözümü için [saksıda tuz birikmesi](/saksida-tuz-birikmesi) yazısına bakabilirsiniz.
+
+## Ne zaman uygun değildir?
+
+Her bitki ve her durum için değil. Birincisi, suyun içinde bekleyen saksı. Mississippi State, saksının dibinin suda kalmasının toprağı su basmış hâle getirebileceğini ve kök hasarına, hatta bitkinin ölümüne yol açabileceğini belirtiyor. Bu yüzden on dakikadan fazla suda bırakmayın. İkincisi, sukulent ve kaktüs: Bu bitkiler az sulanır, uzun süre suda tutmak kök çürüme riskini artırır. Üçüncüsü, gübre eriyiği: Mississippi State, suda çözünen gübrenin altlığa ya da su haznesine eklenmesini önermiyor, çünkü çözünür tuz seviyesi artar ve kökleri yakar.
+
+Dördüncüsü, çok ağır bir toprak: Sıkışmış ve killi karışım suyu yavaş çeker, bu yüzden on dakika yetmeyebilir; ama uzun bekletmek de çözüm olmaz. Böyle bir saksıda toprağı yenilemek daha iyidir. Ürün bilgisine göre HG Salon Bitkilerine Özel Toprak Karışımı torf, cocopeat, perlit, pomza ve solucan gübresinden oluşan kullanıma hazır bir toprak; nemi tutarken hava dolaşımını ve drenajı desteklediği belirtiliyor. Alttan sulama yapılacak saksılarda hafif ve havadar bir karışım, suyun eşit çekilmesine yardımcı olur.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+
+## Saksının susayıp susamadığını nasıl anlarsınız?
+
+Bu yöntemden önce saksının gerçekten susamış olması gerekir. Üç basit işaret var: Toprağın üstüne parmağınızı iki üç santim batırdığınızda kuru geliyor; saksıyı elinize aldığınızda sulanmış hâline göre belirgin hafif; ve toprak saksının kenarından hafifçe çekilmiş. Bu üçüncü işaret en çok kurumuş torfta görülür; böyle bir saksıya üstten su vermek, suyun kenardan akıp gitmesine yol açar. Kuruyup kenardan ayrılmış saksıyı dipten sulamak, suyun toprağa yeniden girmesini sağlayan en etkili yoldur. Saksı çok kuruduysa birkaç gün üst üste on dakikalık kısa turlar yapmak, tek seferde uzun bekletmekten daha güvenlidir.
+
+## Üstten ve alttan sulamayı dönüşümlü kullanmak
+
+En pratik çözüm ikisini birlikte kullanmaktır. Alttan sulamayı toprağı derinlemesine nemlendirmek için, üstten sulamayı da tuzu yıkamak için tutun. Örneğin dört beş sulamanın üçünü alttan, birini üstten yapın; üstten sulamada suyu drenaj deliğinden akana kadar verin. Ev bitkilerinde sulama zamanını anlamak için toprak nem ölçerler de yardımcı olabilir; ayrıntılar [toprak nem ölçer](/toprak-nem-olcer) yazısında.
+
+Suyun kendisi de önemlidir. Çok kireçli musluk suyunda tuz birikimi daha hızlı olur; [musluk suyu bitkilere zararlı mı](/musluk-suyu-bitkilere-zararli-mi) yazısı sulama suyu seçimini anlatıyor. Yeni dönen sorulardan biri de bitkiyi ne kadar sulayacağınız; [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısı susuz ile boğulmuş bitkiyi ayırmanıza yardım eder.
+
+## Sık yapılan hatalar
+
+- Saksıyı suda yarım saat ya da bir gece bırakmak.
+- Süzülen su altlıkta kaldığı hâlde saksıyı yerine koymak.
+- Suya çözünür gübre eklemek.
+- Yalnızca alttan sulayıp hiç üstten yıkama yapmamak.
+- Sukulent ve kaktüsü düzenli alttan sulamak.
+
+Bu yöntemin büyüsü, toprağın üstünün kuru göründüğü ama içinin gerçekten kuru olduğu saksıda ortaya çıkar. Saksıyı suyun içine bıraktığınızda yüzeye kabarcıklar yükseliyorsa toprağın susuz olduğunu görürsünüz; kabarcıklar bittiğinde bitirirsiniz. Bir iki denemeden sonra hangi saksının ne kadar su çektiğini ezbere bilirsiniz.
+@sss
+S: Alttan sulama kaç dakika sürmeli?
+C: Mississippi State yayımına göre toprak havası kabarcık yapıp yüzeye çıkıncaya kadar, yaklaşık on dakika. Daha uzun bekletmek kökleri suda bırakır ve çürüme riskini artırır.
+
+S: Alttan sulama tuz birikmesine yol açar mı?
+C: Evet, düzenli alttan sulanan saksıda yüzeyde beyaz birikim oluşabilir. Missouri Üniversitesi arada üstten sulamayı önerir; Oregon Eyalet Üniversitesi dört altı ayda bir bol su verip beş dakika sonra tekrar sulamayı tavsiye eder.
+
+S: Alttan sulama her bitkiye uygun mu?
+C: Hayır. Yaprağın ıslanmasından hoşlanmayan bitkilerde (menekşe, siklamen) ve kurumuş torfta işe yarar. Sukulent ve kaktüste uzun bekletme çürüme riski taşır; çok ağır saksılar da pratik değildir.
+
+S: Alttan sulamada gübre kullanabilir miyim?
+C: Suya çözünür gübre eklemeyin. Mississippi State bunun çözünür tuz düzeyini artırıp kökleri yakabileceğini belirtir. Gübreyi üstten ve kullanım talimatındaki miktarda verin.
+
+### YAZI
+slug: gutasyon-yaprak-ucunda-su-damlasi-neden-olusur
+baslik: Gutasyon: Yaprak Ucunda Su Damlası Neden Oluşur?
+yayin: 2027-03-13 16:40
+yazar: Rümeysa Altınova
+kategori: gundem
+odak: gutasyon
+seo_baslik: Gutasyon: Yaprak Ucunda Su Damlası Neden Oluşur?
+seo_aciklama: Gutasyon nedir? Monstera ve ev bitkilerinin yaprak ucunda biriken damlalar kök basıncından gelir, hastalık değildir. Nedenleri ve ne zaman sorun sayılacağı.
+ozet: Gutasyon, bitkinin yaprak uçlarından sabaha doğru su damlatmasıdır. Toprak nemliyken gece kök basıncıyla su dışarı itilir; çoğunlukla zararsızdır. Çiğden ve hastalık lekesinden ayrımını, hangi bitkilerde görüldüğünü ve ne zaman sulamayı gözden geçirmek gerektiğini anlattık.
+etiketler: gutasyon, yaprak ucu damla, monstera, kök basıncı, ev bitkisi, sulama
+gorsel: bekliyor
+gorsel_alt: Monstera yaprağının sivri ucunda sabah ışığında parlayan tek bir su damlası
+urunler: genel-saksi-topragi-ozel-karisim
+kisaca: Gutasyon, bitkinin gece ve sabaha karşı yaprak ucu ve kenarlarından su damlatmasıdır. Toprak nemliyken kökler suyu itmeye devam eder, yaprak gözenekleri kapalıyken su özel su gözeneklerinden dışarı çıkar. Genellikle zararsızdır; ama sürekli ve bol damlıyorsa sulama sıklığını ve toprağın kuruma süresini kontrol edin.
+@govde
+Sabah salona girdiğinizde monsteranın yaprak ucunda tek bir damla asılı duruyor, altındaki zemin ıslak. Önce çatı sızıntısı, sonra böcek tuzağı olabileceğini düşünürsünüz. Çoğunlukla ikisi de değildir. Gutasyon dediğimiz bu olay, bitkinin gece kök basıncıyla su dışarı vermesidir ve çoğu zaman bir hastalık değil, nemli toprağın belirtisidir. Ne olduğunu, ne zaman endişelenilmesi gerektiğini ve neden çiğle karıştırılmaması gerektiğini anlatalım.
+
+## Gutasyon tam olarak nedir?
+
+Gutasyon, bitkinin yaprak uçlarından ya da kenarlarından, hidatot adı verilen özel yapılar aracılığıyla su (ve içinde çözünmüş az miktarda madde) vermesidir. Vikipedi'nin gutasyon maddesi bunu geceleyin, yaprak gözenekleri (stomalar) kapalıyken ve toprakta nem fazlayken gerçekleşen bir süreç olarak anlatıyor ([Vikipedi, gutasyon](https://en.wikipedia.org/wiki/Guttation)). Toprak neme doygun olduğunda kökler suyu almayı sürdürür, bitkinin içinde hafif bir kök basıncı oluşur ve bu basınç suyu yaprak ucundaki yapılardan dışarı iter.
+
+Bu damlacıklar çiğ değildir. Çiğ, havadaki nemin soğuk yaprak yüzeyinde yoğunlaşmasıdır ve yaprağın her yerinde görülür. Gutasyon damlaları ise yaprağın ucu ve kenarında, damar uçlarında durur. Sabah erken saatte, pencereyi açmadan önce yaprağa bakarsanız fark edersiniz.
+
+## Hangi bitkilerde görülür?
+
+Gutasyon birçok bitkide görülür: monstera, kaladyum, fil kulağı (alokazya), filodendron, çim ve domates fideleri başta. Evde özellikle tropik yaprak bitkilerinde, nemli ve ılık odalarda sık gözlenir; geniş yapraklı ve hızlı büyüyen bitkilerde damlalar daha dikkat çeker. Bu bitkileri tanımak için [monstera bakımı](/monstera-deve-tabani-bakimi) yazısındaki sulama ve nem bilgisi işinize yarar.
+
+Bitkinin yaprağındaki damla yoğunluğu, bitkinin sağlıklı olduğunu da gösterebilir: Bitkinin kökleri aktif ve su alıyor demektir. Fakat bu, bitkinin sağlıklı olduğunun kanıtı değil; yalnızca kök basıncının yüksek olduğunu söyler.
+
+## Gutasyon zararsız mı, ne zaman sorun?
+
+Tek başına gutasyon genellikle zararsızdır. Ancak damlayı sürekli ve bol görüyorsanız toprağın uzun süre ıslak kaldığını, sulamanın gereğinden sık yapıldığını düşünün. Kaynak olarak doğrudan "gutasyon aşırı sulama göstergesidir" diyen bir yayım bulamadık; bu bir çıkarımdır. Ancak UC IPM'in ev bitkisi rehberi, kahverengi ya da yanık yaprak uçlarının nedenleri arasında aşırı sulamayı, sulamalar arasında aşırı kuruluğu ve toprak ya da sudaki tuzları saydığını belirtiyor ([UC IPM, ev bitkisi sorunları](https://ipm.ucanr.edu/home-and-landscape/houseplant-problems/)). Damlayan ucun kuruyup kahverengileşmesi gutasyonun sorunu değil, tuzun kuruyan damladan yaprak ucunda birikmesinin sonucu olabilir.
+
+Bir tablo okuyarak ayırt edin:
+
+| Gözlem | Olası anlam | Ne yapılır |
+|---|---|---|
+| Sabah yaprak ucunda şeffaf damla, gün içinde kayboluyor | Gutasyon | Toprağın ne kadar nemli kaldığını kontrol edin |
+| Damla bıraktığı yerde beyaz kalıntı | Tuz birikimi | Saksıyı bol suyla yıkayın, tuz için [saksıda tuz birikmesi](/saksida-tuz-birikmesi) yazısına bakın |
+| Yaprak ucu kahverengi ve kuru | Kuru hava, fazla gübre ya da sulama sorunu | [yaprak uçları neden kurur](/yaprak-uclari-neden-kurur) yazısındaki nedenleri eleyin |
+| Su damlası yapışkan ve tatlı | Böcek (bit, unlu bit) salgısı | Yaprak altını inceleyin |
+| Lekelerin etrafında sarı halka, sulu görünüm | Bakteriyel yaprak lekesi | Ayrıntılı kontrol, hasta yaprağı ayırın |
+
+## Gutasyonu azaltmak için ne yapılır?
+
+Gutasyonu tamamen önlemeniz gerekmez. Yine de damlayı azaltmak, yani toprağı gerektiğinden daha ıslak tutmamak istiyorsanız birkaç adım var:
+
+::: adimlar
+Toprağı yoklayın | Sulamadan önce parmağınızı iki üç santim batırın; hâlâ nemliyse sulamayı erteleyin.
+Akşam sulamayı bırakın | Gece su alımı kök basıncını artırır; sulamayı sabaha çekin.
+Drenajı kontrol edin | Altlıktaki suyu boşaltın, saksı deliğinin tıkanmadığına bakın.
+Havayı dolaştırın | Odayı havalandırın, bitkiyi sıkışık yerde tutmayın.
+Zemini koruyun | Damlayan yaprağın altına bir tabak ya da emici bez koyun.
+:::
+
+Sulamaya dair bir başka kontrol listesi [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısında bulunur. Toprağınız sıkışıp suyu geç boşaltıyorsa kök bölgesini hafifletmek gerekir. Ürün bilgisine göre HG Genel Saksı Toprağı solucan gübresi, leonardit ve hindistan cevizi torfu içeren, hazır kullanıma uygun bir karışım; süzek bir toprak seçimi, ıslak kalma süresini kısaltır.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+## Sabah rutininde neye bakılır?
+
+Damlanın ne zaman çıktığı kadar nerede çıktığı da bilgi verir. Tek bir yaprağın ucunda çıkan damla, bitkinin o bölgesindeki kök basıncını gösterir; tüm yaprakların ucunda ve her sabah çıkan bol damla ise toprağın günlerce ıslak kaldığına işaret eder. Bunu bir hafta not defterine yazmak işe yarar: Hangi sabah damla vardı, bir gün önce ne kadar sulandı, oda sıcaklığı nasıldı? İki hafta sonra sulama aralığınızın ne kadar fazla olduğunu kendi verinizle görürsünüz. Damla zemine düşüp parkeyi lekeliyorsa yaprağın altına küçük bir tabak koyun, ama tabağı her sabah kurulayın; tabakta bekleyen su tatsız koku ve mantar sineği çeker. Evde çocuk ya da evcil hayvan varsa damlayı içilebilir bir su saymayın; monstera ve filodendron gibi bitkilerin özsuyu ve yaprağı zararlı olabilir, bu yüzden damlaları dilleri ulaşmayacak yere taşıyın.
+
+## Çiğ, gutasyon ve terleme: karıştırılan üç şey
+
+Bitkilerde su üç yoldan dışarı çıkar. Terleme gündüz, yaprak gözeneklerinden buhar olarak olur; gözle görülmez. Çiğ, soğuk yüzeyde havadaki nemin yoğunlaşmasıdır; yaprağın her yerinde ince damlalar hâlinde görülür. Gutasyon ise gece, kök basıncıyla, yaprak ucu ve kenarlarındaki özel yapılardan damla damla çıkan sudur. Bu ayrımı yapabilmek, gereksiz endişe ve gereksiz ilaç alımından kurtarır.
+
+## Sık yapılan hatalar
+
+- Yaprak ucundaki damlayı böcek salgısı ya da hastalık sanıp ilaçlamak.
+- Gutasyon gördüğü için bitkiyi daha çok sulamak.
+- Damlayan yaprak ucunu silerken yaprağa zarar vermek.
+- Damla sonrası kahverengileşen uçları kesip atmak; uç kurumasının nedenini araştırmak daha iyi.
+- Geceleri sulamak.
+
+Sabah ilk iş bitkinin yaprak ucuna bakma alışkanlığı edinirseniz, bir damla size saksının ne kadar ıslak kaldığını gösteren küçük bir göstergeye dönüşür. Damla günlerce her sabah belirmiyor, toprağın üstü hâlâ kuruyorsa durum normaldir; her gün damlıyor ve toprak haftalarca ıslak kalıyorsa sulama aralığını açmak gerekir.
+@sss
+S: Gutasyon nedir?
+C: Bitkinin gece kök basıncıyla yaprak uçlarındaki özel yapılardan su damlatmasıdır. Toprak nemli, hava durgun olduğunda görülür. Çiğden farklı olarak damlalar yaprağın ucunda ve kenarında toplanır.
+
+S: Gutasyon aşırı sulamanın belirtisi midir?
+C: Tek başına değil. Toprak sürekli ıslak kalıyorsa damlayı daha çok görürsünüz ama bunu doğrudan aşırı sulama diye adlandıran bir kaynak bulamadık. Toprağın kuruma süresine bakın, gerekirse sulamayı seyrekleştirin.
+
+S: Yaprak ucundaki damla bitkiye zarar verir mi?
+C: Genellikle vermez. Ancak damla kuruyup tuz bırakıyorsa ya da uç kahverengileşiyorsa tuz birikimi, kuru hava ya da gübre sorunu olabilir. Saksıyı bol suyla yıkayıp uç kurumasının nedenini eleyin.
+
+S: Gutasyon hangi bitkilerde sık görülür?
+C: Monstera, kaladyum, fil kulağı, filodendron gibi geniş yapraklı tropik ev bitkilerinde ve nemli, ılık ortamda sık görülür. Hızlı büyüyen bitkiler daha çok damlatabilir.
+
+### YAZI
+slug: erisilebilir-bahce-yukseltilmis-yatak-yuksekligi-ve-yol-genisligi
+baslik: Erişilebilir Bahçe: Yükseltilmiş Yatak Yüksekliği ve Yol Genişliği
+yayin: 2027-03-13 19:30
+yazar: Ahmet Sacit Çelik
+kategori: gundem
+odak: erişilebilir bahçe
+seo_baslik: Erişilebilir Bahçe: Yatak Yüksekliği ve Yol Genişliği
+seo_aciklama: Erişilebilir bahçe nasıl kurulur? Tekerlekli sandalye, baston ya da bel ağrısı için yatak yüksekliği, genişlik ve yol ölçüleri; ölçü tablolarıyla.
+ozet: Erişilebilir bahçe, tekerlekli sandalyeyle, bastonla ya da bel ve dizini yormadan çalışabilmek için yatağın yüksekliğini, genişliğini ve yol aralığını ayarlamaktır. Üniversite yayımlarının verdiği rakamları, ayakta ve oturarak çalışma ölçülerini ve pratik sorunları anlattık.
+etiketler: erişilebilir bahçe, yükseltilmiş yatak, tekerlekli sandalye, yatak yüksekliği, yol genişliği, bel hizası yatak
+gorsel: bekliyor
+gorsel_alt: Bel hizasında yükseltilmiş sebze yatağının yanında geniş bir bahçe yolu ve tekerlekli sandalyede oturan kişi
+urunler: sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak
+kisaca: Erişilebilir bahçe için yatak yüksekliği tekerlekli sandalyeli kullanıcıda yaklaşık 24-34 inç (60-86 cm) arasındadır; kaynaklar çoğunlukla 28-34 inci (71-86 cm) önerir. Yatak tek taraftan ulaşılıyorsa 60-90 cm, iki taraftan ulaşılıyorsa en çok 120 cm genişliğinde olmalı; yol en az 90 cm, dönüş için 120-150 cm olmalıdır.
+@govde
+Annenizin elleri artık yere eğilmeye izin vermiyor, ama sebze bahçesinden vazgeçmek istemiyor. Ya da bir sandalye ve bastonla çalışmak zorunda kalan bir komşunuz var. Ya da kendinize hazırlık yapıyorsunuz: ilerleyen yıllarda belinizin kolay sızlayacağını biliyorsunuz. Erişilebilir bahçe tam bunun için; yataklar belirli bir yükseklikte, genişlikte ve aralıkta kurulduğunda bahçe çalışması yük olmaktan çıkar. Ölçüleri sırayla verelim.
+
+## Erişilebilir bahçe için yatak yüksekliği
+
+Yükseklik, kime ve nasıl çalışmaya göre değişir. Ayakta duran ve eğilmek istemeyen biri için bel hizası (yaklaşık 70-90 cm) rahat gelir; oturan ya da tekerlekli sandalyedeki biri için biraz daha alçak. Üniversite yayımları arasında rakamlar birbirinden ayrılıyor:
+
+| Kaynak | Önerilen yükseklik |
+|---|---|
+| Bir extension kılavuzu | 24 inç (yaklaşık 60 cm), tekerlekli sandalye erişimi için |
+| Minnesota Üniversitesi | 27 inç (yaklaşık 69 cm) tekerlekli sandalye kullanıcısı için rahat |
+| Oregon Eyalet Üniversitesi | 28-34 inç (yaklaşık 71-86 cm) |
+| UC Master Gardener sayfası | 28-34 inç (yaklaşık 71-86 cm) |
+
+Minnesota Üniversitesi'nin yükseltilmiş yatak rehberi ve Oregon Eyalet Üniversitesi'nin herkesin kullanabileceği bahçe yazısı bu aralıkları destekliyor ([Minnesota Extension, yükseltilmiş yatak bahçeleri](https://extension.umn.edu/planting-and-growing-guides/raised-bed-gardens), [Oregon State Extension, herkesin keyif alacağı bahçe tasarımı](https://extension.oregonstate.edu/news/gardening-can-be-accessible-all-some-adjustments)). Kaynaklar arasındaki ayrım, bir yandan kişinin boyuna ve koluna, bir yandan sandalyenin yüksekliğine bağlı. Kendi ölçünüzü bulmak için yatağın hedef yüksekliğinde bir sehpa ya da masa üzerinde elinizi uzatıp toprağın içine dalmayı deneyin; dirsek hizasından biraz aşağıda kalan yükseklik uygundur.
+
+Yatağın alt kısmını açık bırakmak da önemli. Tekerlekli sandalye kullanıcısının dizi yatağın altına girebilirse yatağa daha yakın oturur; bunun için sehpalı ya da ayaklı yatakları ölçüyle denemek gerekir.
+
+## Yatak genişliği: kolun erişebildiği kadar
+
+Yatağın genişliği, kullanıcının kol uzunluğuyla sınırlıdır. UC kaynakları, yatağa yalnızca bir taraftan ulaşılabiliyorsa en fazla 3 feet (yaklaşık 90 cm), iki taraftan ulaşılabiliyorsa 4 feet'e (yaklaşık 120 cm) kadar genişliği öneriyor. Minnesota Üniversitesi bunu biraz daha sıkı tutuyor: Yalnız bir taraftan ulaşılıyorsa genişlik en çok 2,5 feet (yaklaşık 75 cm). Duvar ya da çit dibindeki yatak ise 2 feet'ten (60 cm) geniş olmamalı.
+
+Pratik kural: Yatağın orta çizgisine uzanabildiğiniz mesafeyi yatağın yarısı sayın. Oturduğunuz yerden kolunuzu uzatıp tebeşirle ulaşabildiğiniz noktayı işaretleyin; o nokta yatağın en uzak kenarı olur. Ürün bilgisine göre sehpalı balkon sebze yatağı 60×112×30 cm yatağı galvaniz sehpanın üstünde bel hizasında tutar; toplam yükseklik 80 cm, yatak genişliği 60 cm'dir. 80 cm, Oregon ve UC'nin 71-86 cm aralığının içinde kalır; 60 cm genişlik de tek taraftan erişim için uygun aralıktadır.
+
+[ürün:sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak]
+
+Ürün bilgisinde diz ve bel yorulmadan bel hizasında ekim ve hasat anlatılıyor. Ayakta çalışanlar için bu yükseklik eğilme ihtiyacını azaltır. Tekerlekli sandalye kullanıcısı için sehpanın altına dizin girip girmediğini satın almadan önce kendi ölçünüzle (sehpa yüksekliği 49 cm) denemek gerekir. Balkonunuza sığıp sığmadığı için yatak ölçüsünü balkon genişliğiyle karşılaştırın.
+
+## Yol genişliği ve dönüş alanı
+
+Yatak ne kadar rahat olursa olsun, yol dar kalırsa bahçe erişilemez olur. Kaynaklar yolun yeterli genişlikte olması konusunda hemfikir: Tek bir tekerlekli sandalye için en az 3 feet (yaklaşık 90 cm), doksan derece dönüş için 4 feet (120 cm), yarım dönüş için 5 feet (150 cm). Georgia Üniversitesi, el arabası ve tekerlekli sandalye birlikte kullanılıyorsa yataklar arasında 4 feet bırakmayı öneriyor ([Georgia Extension, yükseltilmiş bahçe yatağı ölçüleri](https://extension.uga.edu/publications/detail.html?number=C1027-4&title=raised-garden-bed-dimensions)).
+
+| Amaç | Yol genişliği |
+|---|---|
+| Tek tekerlekli sandalye | en az 90 cm |
+| 90 derece dönüş | yaklaşık 120 cm |
+| 180 derece dönüş | yaklaşık 150 cm |
+| El arabası ile birlikte | yaklaşık 120 cm |
+
+Yol yüzeyi de önemli: Düz, sert ve kaymayan olmalı. Gevşek çakıl tekerlekler için zordur; sıkıştırılmış kum, beton, kaldırım taşı ya da geniş ahşap kaplama daha uygun. Eğimli yollarda yumuşak bir eğim ve kenar korkuluğu düşünün. Kulpların (musluk, sulama vanası) bahçenin her köşesine yakın olması da erişilebilirliğin parçasıdır; sulama düzeni için [bahçe yatağı sulama](/bahce-yatagi-sulama) yazısını okuyun.
+
+## Eğilmeden ve çömelmeden çalışmak için pratik düzenlemeler
+
+Her erişilebilirlik ihtiyacı tekerlekli sandalye değildir. Bel, diz ve el eklemleri sorunlu kişiler için şunlar işe yarar:
+
+- Yatağın kenarını oturulabilecek genişlikte yapın (yaklaşık 30 cm), böylece yatağın kenarına oturarak çalışabilirsiniz.
+- Uzun saplı aletler seçin; eğilmeden toprağı karıştırır.
+- Sulamayı hortum yerine hafif, kolay kavranır bir sulama tabancası ya da damla sulamaya bırakın.
+- Ağır torba ve toprak taşımayı azaltmak için topraklı yatağı bir kez hazırlayıp yıllarca kullanın.
+- Çalışma saatlerini kısa ve sık tutun.
+
+Bahçedeki eğimi, yatak yönünü ve güneşi dikkate almak için [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazısına, yükseltilmiş yatağın kurulumu için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazısına bakın.
+
+## Erişilebilir bahçe için oturma ve alet düzeni
+
+Yatak ve yol ölçüsü kadar, çalışma düzeni de erişilebilir bahçe sayılır. Yatağın bir ucuna oturulabilecek kadar geniş bir kenar bırakın; yaklaşık 30 cm genişliğindeki ahşap ya da sert plastik bir kenar, yorulunca dinlenme yeri olur. El aletlerini yatağın kenarındaki bir kutuda ya da kancalı bir tahtada tutun; her seferinde depoya yürümek, çoğu kişide bahçe işinin ilk elenen kısmıdır. Güneşten korunmak için yatağın üstüne açılır kapanır bir gölgelik ya da şapka düşünün; böyle bir bahçede gölge, ölçü kadar önemlidir. Su kaynağının yatağa en çok on beş yirmi adım uzaklıkta olması, hortumu sürüklemek zorunda kalanlar için büyük fark yaratır.
+
+## Sık yapılan hatalar
+
+- Yatak yüksekliğini kullanıcıyla denemeden belirlemek.
+- Yatağı çok geniş yapıp ortasına ulaşamamak.
+- Yolu dar bırakıp tekerlekli sandalyenin dönüş alanını unutmak.
+- Gevşek çakıl döşemek.
+- Musluğu bahçenin en uzak köşesine koymak.
+
+Erişilebilir bir bahçe tasarlarken en güvenilir ölçü, kullanıcının kendisidir. Tebeşir ve bir sehpa ile yatağın yerini ve yüksekliğini önceden deneyin; kuracağınız ilk yatak, sizin elinize ve gözünüze göre olan yatak olsun.
+@sss
+S: Tekerlekli sandalye için yatak yüksekliği kaç cm olmalı?
+C: Üniversite yayımları yaklaşık 60-86 cm arasında değişen rakamlar verir. Minnesota 27 inç (yaklaşık 69 cm), Oregon ve UC 28-34 inç (yaklaşık 71-86 cm) der. En doğrusu kullanıcıyla bir sehpada denemektir.
+
+S: Erişilebilir yatak ne kadar geniş olmalı?
+C: Yalnız bir taraftan ulaşılıyorsa yaklaşık 60-90 cm, iki taraftan ulaşılıyorsa en çok 120 cm. Minnesota yalnız tek taraftan ulaşılan yatak için 75 cm sınırı koyar. Duvar dibindeki yatak 60 cm'den geniş olmamalı.
+
+S: Bahçe yolu ne kadar geniş olmalı?
+C: Tek tekerlekli sandalye için en az 90 cm, 90 derece dönüş için 120 cm, yarım dönüş için 150 cm gerekir. Georgia Üniversitesi el arabası ve sandalye birlikte kullanılıyorsa yataklar arasında 120 cm önerir.
+
+S: Eğilmeden bahçe işi yapmak için ne yapılabilir?
+C: Bel hizasında yükseltilmiş yatak, oturulacak kenar, uzun saplı alet, kolay kavranan sulama ekipmanı ve damla sulama işi kolaylaştırır. Toprağı bir kez hazırlayıp yıllarca kullanmak, ağır kaldırma ihtiyacını azaltır.
+
+### SORU
+yayin: 2027-03-13 12:40
+kategori: gundem
+baslik: Yaprak altında kabarcık çıkan sardunyayı atmalı mıyım?
+metin: Sardunyamın alt yapraklarında kahverengi, kabarık lekeler var. Hastalık olabilir mi, bitkiyi atmalı mıyım?
+@cevap Muhammed Hamza Çelik | 2
+Atmayın. Bu büyük olasılıkla yaprak ödemidir; fazla suyun sonucu. Sulamayı azaltın, toprağın üst iki üç santimini kurutun, saksıyı daha havadar ve aydınlık bir yere alın. Çok bozuk yaprakları kesin. Ağ ya da böcek de görüyorsanız yaprak altını büyüteçle inceleyin.
+
+### SORU
+yayin: 2027-03-13 18:10
+kategori: gundem
+baslik: Bahçe yatağını bastonla çalışan babam için kaç cm yükseklikte yapmalıyım?
+metin: Babam bastonla yürüyor, eğilmekte zorlanıyor. Sebze yatağını ayakta çalışabileceği şekilde yapmak istiyorum. Yükseklik ne olmalı?
+@cevap Hatice Kübra Çelik | 2
+Ayakta çalışacaksa bel hizası ya da biraz altı, yaklaşık 70-90 cm iyi bir hedeftir. Önce babanızın dirsek yüksekliğini ölçün; yatak yüzeyi dirseğin biraz altında kalsın. Yatak genişliği 60-75 cm olsun ki ortaya uzanabilsin. Yatağın yanında oturabileceği bir tabure ya da yatak kenarı da bırakın.

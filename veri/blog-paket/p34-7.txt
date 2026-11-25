@@ -1,0 +1,118 @@
+### YAZI
+slug: ilaclamada-koruyucu-ekipman-maske-eldiven-ve-tulum-secimi
+baslik: İlaçlamada Koruyucu Ekipman: Maske, Eldiven ve Tulum Seçimi
+yayin: 2027-04-10 11:35
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: ilaçlamada koruyucu ekipman
+seo_baslik: İlaçlamada Koruyucu Ekipman: Maske, Eldiven, Tulum
+seo_aciklama: İlaçlamada koruyucu ekipman nasıl seçilir? Maske filtresi, eldiven, tulum, gözlük ve çizme seçimi, etiket uyarısı, temizlik, saklama ve yönetmelik çerçevesi.
+ozet: Zirai ilaçlamada maske, eldiven, tulum, gözlük ve çizme etiketteki uyarıya göre seçilir. Her parçanın işini, doğru filtreyi, giyme ve çıkarma sırasını ve temizlik kuralını yönetmelik ve Bakanlık kaynaklarına dayanarak anlattık.
+etiketler: koruyucu ekipman, ilaçlama güvenliği, maske filtresi, eldiven, koruyucu tulum, KKD
+gorsel: bekliyor
+gorsel_alt: Tarlada tek kullanımlık beyaz koruyucu tulum, lastik çizme ve eldiven yan yana duran ilaçlama hazırlığı
+urunler: guno-16-lt-akulu-sirt-ilaclama-pompasi, uzman-16-lt-manuel-ilaclama-pompasi-k-103, delta-20-lt-manuel-ilaclama-pompasi-k-205, ilposan-16-lt-akulu-sarjli-sirt-pulverizatoru-ilaclama-pompasi
+kisaca: İlaçlamada koruyucu ekipman, ürün etiketindeki uyarıya göre seçilir: kimyasal koruyucu tulum, eldiven, çizme, gözlük ve uygun filtreli maske. Toz maskesi buhar ve gazdan korumaz; yüze tam oturan, etikette belirtilen tipte filtre gerekir. Ekipman her iş sonunda temizlenir, hasarlıysa değiştirilir.
+@govde
+İlaçlamada koruyucu ekipman, ilaç zehirlenmelerinin çoğunu önleyen en ucuz tedbirdir. Pompayı sırtlanıp sıkıştırdığınız andan itibaren deriden, soluktan ve gözden ilaç bulaşır. Eldiven, maske ve tulum yalnızca kural olduğu için değil, kimyasalın vücuda giriş yollarını kapattığı için giyilir. Bu yazı ilaç adı ya da doz vermez; ürün etiketini okumayı, ekipmanı seçmeyi ve temizlemeyi anlatır. Hangi ilacın hangi bitkiye uygulanacağı için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın.
+
+## İlaçlamada koruyucu ekipmanı kim belirler?
+
+Tek ölçüt etikettir. Her bitki koruma ürününün etiketinde ve güvenlik bilgi formunda, o ürünle çalışırken hangi koruyucunun kullanılacağı yazar. Eldiven malzemesi, maske tipi ve gözlük gereği ürüne göre değişir. Etikette istenmeyen ekipmanı eksiksiz giymek de, istenen parçayı atlamak da hatadır. Bu nedenle ilaç almadan önce etiketi sonuna kadar okuyun ve ruhsat bilgisinin üzerinde yazılı olduğunu kontrol edin.
+
+Mevzuat tarafı resmî kaynaklarda toplanır. Tarım ve Orman Bakanlığı'nın bitki koruma ürünlerinin uygulanması ve denetimi yönetmeliği, uygulayıcıların koruyucu giysi, eldiven ve maske gibi ekipmanı talimata uygun kullanmasını ve hazırlama ile uygulama sırasında yeme, içme ve sigara kullanmama gibi kuralları düzenler ([Resmî Gazete, bitki koruma ürünlerinin uygulanması ve denetimi yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2025/12/20251213-5.htm)). Şart ve istisnalar zamanla değişebildiği için güncel metne bakın. İşçi çalıştıran işletmelerde işverenin koruyucu donanımı ücretsiz sağlama, bakımını yapma ve çalışana eğitim verme yükümlülüğü ise iş sağlığı ve güvenliği mevzuatındaki KKD yönetmeliğinde yer alır ([Resmî Gazete, KKD yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2013/07/20130702-2.htm)).
+
+## Hangi parça hangi yoldan korur?
+
+| Parça | Neyi önler | Seçerken dikkat |
+|---|---|---|
+| Maske | Soluma yoluyla giren sis, buhar ve toz | Yüze tam oturmalı; filtre etikete uygun olmalı |
+| Gözlük | Göze sıçrama ve sis | Yanlardan kapalı, buğulanmayan model |
+| Eldiven | Elin ve bileğin teması | Kimyasala dayanıklı; bileği örtmeli |
+| Tulum | Gövde ve kol temasi | Kimyasal koruyucu tip; kapüşonlu ya da tam örtücü |
+| Çizme | Ayak ve ayak bileği | Su geçirmez; paçanın dışında kalmamalı |
+| Şapka / başlık | Saç ve baş teması | Boyun ve yüz çevresini örten |
+
+Bakanlığa bağlı bir güvenli kullanım belgesi, hazırlama ve uygulama sırasında kimyasal koruyucu tulum, eldiven, çizme, koruyucu gözlük ve uygun filtreli maske kullanılmasını istiyor ve koruyucu ekipmanın CE işaretli ve Türkçe kullanım kılavuzlu olmasını vurguluyor ([Bitki koruma ürünlerinin güvenli kullanımı](https://projematik.ikg.gov.tr/upload/2022-07/58541a61-a138-4c8f-b389-2f71d5c7dfe9.pdf)). Satın alırken CE işareti ve kılavuz var mı bakın; markadan çok standarda uyan ürünü seçin.
+
+[ürün:guno-16-lt-akulu-sirt-ilaclama-pompasi]
+
+## Maske: toz maskesi yetmez
+
+En sık yapılan hata, ince toz maskesini ilaçlamada yeterli sanmaktır. Parçacık filtreli bir yüz maskesi kimyasal buhar ve gazdan korumaz. Buhara ve gaza karşı etikette belirtilen sınıfta filtre kartuşu olan yarım ya da tam yüz maske gerekir; sprey sisi için de filtrenin parçacık sınıfı etikete uygun olmalıdır. Maske yüze tam oturmalıdır: sakal ya da yanlarda bırakılan boşluk, filtrenin değerini sıfırlar. Giymeden önce maskeyi yüze oturtup soluğun kenarlardan kaçmadığını kontrol edin.
+
+Filtrelerin ömrü sınırlıdır. Kokuyu hissetmeye başladıysanız, soluk almak zorlaşıyorsa ya da kartuş etiketi ömrünü bildiriyorsa değiştirin. Kullanım süresini ve değişim kararını üretici kılavuzu verir; tahminle uzatmayın. Maskeyi ve filtreyi temiz, kapalı bir kutuda ilaçlardan uzak saklayın.
+
+## Eldiven, tulum ve çizme
+
+Eldiven kimyasala dayanıklı malzemeden olmalıdır; pamuk ya da deri eldiven ilacı emer ve eli uzun süre ilaçla temas ettirir. Eldivenin bileği örtmesi, tulumun kolunun eldivenin dışında kalması gerekir; böylece ilaç sıvısı kolu takip edip eldivenin içine akmaz. Çizmeyi tulumun paçasının dışına değil içine, ya da paçayı çizmenin üstüne alın; her iki durumda da sıvının girişini engellemek esastır.
+
+Tek kullanımlık tulumlar yıkanmaz ve tekrar giyilmez; belge, bu tip tulumların değiştirilmesi gerektiğini belirtiyor. Yıkanabilir tulumu ilaçlı olmayan diğer giysilerden ayrı ve ilaçlı kısım dışta kalacak biçimde yıkayın. Eldivenleri ve çizmeleri deterjansız, akan suyla yıkayın; belge deterjanın geçirimsizliği bozabileceğini söylüyor. Ev çamaşırlarıyla karıştırmayın.
+
+::: adimlar
+Giyinin | Önce tulum, sonra çizme, maske, gözlük ve en son eldiven; tulum kolu eldivenin üstünde kalsın.
+Hazırlığı yapın | İlacı rüzgârsız bir yerde, etiketteki ölçüyle hazırlayın; yemeyin, içmeyin, sigara kullanmayın.
+Uygulayın | Rüzgârı arkanıza alın, püskürtmeyi rüzgâr yönünde yapın, yüze dokunmayın.
+Çıkarın | Önce eldivenle dışarıdan tulumu açıp çıkarın, ardından gözlük ve maske, en son eldiveni; ellerinizi yıkayın.
+Temizleyin | Ekipmanı iş sonunda yıkayın, kurutun ve ilaçlardan ayrı bir yerde saklayın.
+:::
+
+## Seralarda ve küçük bahçelerde ilaçlamada koruyucu ekipman
+
+Kapalı ortam, açık tarladan farklıdır: sera içinde ilaç sisi havada kalır, rüzgâr onu dağıtmaz ve sıcak nedeniyle koruyucu giysi daha zor tolere edilir. Seranın kapı ve havalandırmaları, etikette belirtilen girmeme süresine uyularak açık tutulur; bu süre dolmadan seraya girmeyin. Çok sıcak saatlerde uygulama yapmayın; sabahın serin saatinde çalışmak hem bitkiye hem uygulayıcıya zarar vermez. Hobi bahçesinde birkaç bitkiyi ilaçlarken de ilaçlamada koruyucu ekipman gerekir: küçük alan, küçük risk demek değildir, çünkü az miktarda konsantre ilaç hazırlamak bile ele ve yüze sıçrama yapabilir.
+
+Kendi bahçenizde ilaçlamayı komşuların oturduğu saatte, çocukların ve evcil hayvanların oynadığı yerde yapmayın. İlacın bekleme ve girmeme süresi etikette yazar; bu süreler hem sizin hem ürünü yiyecek kişilerin korunması içindir.
+
+## Pompa ile ilaçlamada ek tedbirler
+
+Pompanın kendisi de güvenlik parçasıdır. Sırt pompasındaki sızıntı, sırta ve belden aşağıya ilaç akıtır; bu yüzden pompayı önceden suyla deneyip sızıntı yoksa kullanın. Memenin tıkanıklığını ağızla üflemeyle açmayın. Sırt pompası kullanımı için [sırt pulverizatörü kullanımı](/sirt-pulverizatoru-kullanimi) yazısına, kalibrasyon için [ilaçlama pompası kalibrasyonu](/ilaclama-pompasi-kalibrasyonu) yazısına bakın. Aküsüz manuel pompada kolun yükünü paylaştırmak için dinlenme aralıkları verin.
+
+Ürün bilgisine göre Guno 16 Litre Akülü Sırt İlaçlama Pompası, 16 litre depo, şeffaf sıvı göstergesi ve ilaç karıştırma motoru ile tarif edilir; seviye göstergesi, ilaç miktarını görmeyi kolaylaştırır. Pompa seçimi için [ilaçlama pompası seçimi](/ilaclama-pompasi-secimi-akulu-mu-manuel-mi) yazısı karşılaştırma yapar.
+
+[ürün:uzman-16-lt-manuel-ilaclama-pompasi-k-103]
+
+## Ekipman alırken kısa kontrol listesi
+
+Sezon başında elinizdeki ekipmanı gözden geçirin: tulumda yırtık, eldivende delik, çizmede çatlak, maskede kuru ve sert lastik varsa değiştirin. Filtrenin son kullanma tarihine bakın. Bedenin üzerinize uyduğundan emin olun; bol tulum hareketi zorlaştırır, dar olan dikişten yırtılır. Her şey tamamsa ilaç satın alın; sıra tersine olmamalıdır.
+
+## Temizlik, saklama ve sonrası
+
+Belge, her iş gününün sonunda koruyucu ekipmanın temizlenmesini, hasarlı parçaların değiştirilmesini ve boş ilaç kaplarının temiz suyla en az üç kere çalkalanmasını öneriyor. Çalkantı suyunu dere ya da kuyu çevresine dökmeyin; tarlada uygulama yapılmış sıraya püskürtün. İlaçları ve koruyucu ekipmanı çocukların ve hayvanların ulaşamayacağı, kilitli bir dolapta saklayın. Ekipmanın üzerine ilaç bulaşmışsa, cildin açıkta kalan kısmını bol su ve sabunla yıkayın ve giysileri çıkarın.
+
+Uygulama sırasında baş dönmesi, bulantı ya da gözün kararması gibi belirtiler çıkarsa işi bırakın, temiz havaya çıkın ve ilaç etiketini yanınıza alarak sağlık kuruluşuna başvurun. Zehirlenme şüphesinde ilaç ambalajını ve etiketi doktora gösterin. Kimin ilaçlama yapabileceği ve profesyonel uygulayıcı yetkisi konusunda ilgili yönetmeliğe ve il ya da ilçe tarım müdürlüğüne başvurun.
+@sss
+S: İlaçlama yaparken sıradan toz maskesi yeterli olur mu?
+C: Hayır. Toz maskesi parçacığı tutar ama kimyasal buhar ve gazdan korumaz. Etiketin istediği sınıfta filtre kartuşlu, yüze tam oturan yarım ya da tam yüz maske kullanın ve filtreyi üreticinin süresine göre değiştirin.
+
+S: İlaçlama eldiveni ne malzemeden olmalı?
+C: Kimyasala dayanıklı malzemeden olmalıdır; pamuk ya da deri eldiven ilacı emer. Hangi malzemenin uygun olduğu ürün etiketinde ve güvenlik bilgi formunda yazar. Eldivenin bileği örtmesine dikkat edin ve deterjansız, akan suyla yıkayın.
+
+S: Tek kullanımlık koruyucu tulum yıkanıp tekrar giyilir mi?
+C: Hayır. Tek kullanımlık tulumlar yıkanmaz, kirlenince ya da hasar görünce değiştirilir. Yıkanabilir tulumu ise diğer çamaşırlardan ayrı yıkayın ve iş sonunda temizleyip kurutun.
+
+S: İlaçlamadan sonra ekipmanı nasıl temizlerim?
+C: İş sonunda eldiven ve çizmeyi deterjansız, akan suyla yıkayın, maskeyi ve gözlüğü temizleyin, hasarlı parçaları değiştirin. Ekipmanı ilaçlardan ayrı, kapalı ve kilitli bir yerde saklayın, ellerinizi sabunla yıkayın.
+
+### SORU
+yayin: 2027-04-10 10:05
+kategori: bahce-ipuclari
+baslik: İlaçlama yaparken sıradan lastik bulaşık eldiveni kullanabilir miyim?
+metin: Bahçede birkaç gül ve domatesi ilaçlayacağım. Evdeki ince lastik bulaşık eldiveni işimi görür mü, yoksa ayrıca eldiven mi almalıyım?
+@cevap Rümeysa Altınova | 2
+Hangi eldivenin yeteceğini ilacın etiketi ve güvenlik bilgi formu söyler; her ilaç aynı malzemeyi istemez. Ince bulaşık eldiveni kolayca yırtılır ve bileği örtmez, bu yüzden sıçrayan sıvı içeri akabilir. Kimyasala dayanıklı, bileği örten bir eldiven kullanın, tulum kolunu eldivenin üstünde bırakın ve iş sonunda deterjansız akan suyla yıkayın. Pamuk ya da deri eldiven ilacı emer, bunlardan kaçının. Seçemiyorsanız ziraat mühendisine danışın.
+
+### SORU
+yayin: 2027-04-10 13:50
+kategori: sebze-meyve
+baslik: Bahçe ilaçlamasından sonra kaç gün beklemeden hasat edebilirim?
+metin: Domateslere ilaçladım. Kırmızılaşanları yemek için kaç gün beklemem gerek, nereden bakarım?
+@cevap Mikdat Çelik | 3
+Bekleme süresi ürüne göre değişir ve ilacın etiketinde yazar. Süre dolmadan hasat edip yemeyin. Etiketi bulamıyorsanız ambalajı ya da ruhsat bilgisini il ya da ilçe tarım müdürlüğüne götürün ve sorun. Süre geçse bile meyveyi yıkamak iyi bir alışkanlıktır. Bir sonraki ilaçlamada etiketi okuyup tarihi bir deftere yazın; böylece hasat tarihini hesaplamak kolay olur.
+
+### SORU
+yayin: 2027-04-10 17:10
+kategori: toprak-rehberi
+baslik: Kullanılmayan ilacı ve çalkantı suyunu nereye dökmeliyim?
+metin: Pompada kalan ilaçlı suyu ve boş kutuları ne yapacağım? Kanalizasyona ya da toprağa dökmek zararlı mı?
+@cevap Halil İbrahim Çelik | 2
+Pompada kalan ilaçlı suyu kanalizasyona, dere ve kuyu kenarına dökmeyin. Mümkünse hazırlığı tam gerektiği kadar yapın ki artık kalmasın. Kalan çalkantı suyu için etiketteki imha talimatına uyun; talimat yoksa il ya da ilçe tarım müdürlüğüne sorun. Boş kapları temiz suyla üç kere çalkalayıp il ya da ilçe tarım müdürlüğünün gösterdiği toplama noktalarına verin; çöpe ya da yakmayın.

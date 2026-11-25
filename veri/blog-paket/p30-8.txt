@@ -1,0 +1,445 @@
+### YAZI
+slug: gec-don-meyve-agaci
+baslik: Geç Don Meyve Ağacı İçin Ne Anlama Gelir? Çiçek İçinden Zararı Anlama
+yayin: 2027-03-08 08:45
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: geç don meyve ağacı
+seo_baslik: Geç Don Meyve Ağacı Zararı: Çiçeği Kesip Anlama
+seo_aciklama: Geç don meyve ağacı çiçeğine zarar verdi mi? Çiçeği jiletle kesip pistile bakma, evreye göre kritik sıcaklıklar, ne zaman karar verilir ve dondan sonra bakım.
+ozet: Geç ilkbahar donu meyve ağacının çiçeğini görünüşte etkilemeden öldürebilir. Geç don meyve ağacı için zararı çiçeği kesip pistile bakarak anlamayı, çiçek evresine göre kritik sıcaklıkları, kontrol zamanını, dondan sonra bakımı ve gelecek yıl için önlemleri anlattık.
+etiketler: geç don, çiçek donu, meyve ağacı, pistil kararması, don zararı, ilkbahar donu
+gorsel: bekliyor
+gorsel_alt: Elma çiçeğinin enine kesilmiş yüzü, ortada kararmış pistil ve yanında sağlam yeşil pistil
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Geç don meyve ağacı çiçeğini öldürmüşse çiçeğin içi kararır. Açmış çiçeği jiletle kesip pistile (ortadaki dişi organa) bakın: koyu kahverengi ya da siyahsa çiçek ölmüştür, yeşil ve parlaksa canlıdır. Tam çiçekte yaklaşık −2,8 °C'de yüzde 10 kayıp görülür. Kontrol dondan 1–3 gün sonra yapılır.
+@govde
+Mart sonunda sıcak birkaç gün gelir, ağaçlar çiçeğe durur, sonra bir gece sıcaklık sıfırın altına iner. Sabah bahçeye çıktığınızda çiçekler yerinde duruyor, belki biraz solgun. Ama içi ölmüş olabilir. Geç don meyve ağacı bahçelerinde bu görünmeyen kayıp, yazın "ağaç neden meyve vermedi" sorusunun en yaygın cevabıdır. Bu yazı, çiçeğin canlı olup olmadığını dışarıdan değil içinden anlamanın yolunu gösteriyor.
+
+## Geç don meyve ağacı için neden bu kadar tehlikeli?
+
+Meyve ağaçları kışın uykudadır ve çok soğuğa dayanır. Çiçek tomurcukları şişip açıldıkça dayanıklılık hızla düşer. Aynı ağaç ocakta −20 °C'yi taşırken nisanda −2 °C'de çiçeğini kaybedebilir. Bu yüzden asıl tehlike kış donu değil, ilkbaharın erken sıcağından sonra gelen geç dondur.
+
+Pennsylvania Eyalet Üniversitesi uzatma servisinin meyve bahçeleri için yayımladığı kritik sıcaklık tablosu bunu açıkça gösterir. Tabloya göre çiçek tomurcuğu henüz açılmamışken yaklaşık 20 °F'de (−6,7 °C) yüzde 10 zarar görürken, tam çiçekte bu eşik yaklaşık 27 °F'ye (−2,8 °C) çıkar. Yani çiçek açtıkça tolerans düşer. Kaynak: [Penn State meyve bahçelerinde kritik don sıcaklıkları](https://extension.psu.edu/orchard-frost-critical-temperatures-for-various-fruits). Rutgers Üniversitesi'nin kılavuzu ise elmada 24 °F'de ilk pembe tomurcuk evresinde yüzde 90'a varan kayıp, yeşil uç evresinde yalnızca yüzde 10 kayıp beklendiğini, eşiğin önceki günlerin havasına göre 4–5 °F oynayabildiğini yazar.
+
+Bu tablolar Amerikan koşullarında ve ticari bahçeler için hazırlanmıştır. Türkiye'de çeşit, anaç ve bölge farkı vardır; ama genel ilke aynıdır: Evre ilerledikçe don riski artar.
+
+## Evreyi tanımak: tomurcuktan çiçeğe
+
+Hangi evrede olduğunuzu bilmek, olası zararı tahmin etmenin ilk adımıdır. Elmada ve kirazda evreler kabaca şöyle sıralanır: uykuda tomurcuk, tomurcuk kabarması, yeşil uç, ilk pembe (tomurcuk renk göstermeye başlar), balon evresi, tam çiçek ve taç yaprak dökümü. Evre ilerledikçe don toleransı düşer; en hassas dönem tam çiçek ile hemen sonrasıdır.
+
+| Evre | Görünüm | Don duyarlılığı |
+|---|---|---|
+| Kabarma, yeşil uç | Tomurcuk pulları aralanır | Görece dayanıklı |
+| İlk pembe | Çiçek tomurcuğu renk verir | Orta |
+| Tam çiçek | Taç yapraklar açık | Yüksek |
+| Taç yaprak dökümü, küçük meyve | Yeni meyve tutmuş | Çok yüksek |
+
+## Çiçeği kesip içine bakmak
+
+Don gecesinin ertesinde çiçek yerinde durur. Zararı görmek için çiçeği dışarıdan değil, içinden incelemek gerekir. New Mexico Eyalet Üniversitesi, zararın boyutunu anlamak için jilet ve büyüteç kullanılmasını önerir; Michigan Eyalet Üniversitesi ise ölü bir kiraz pistilinin kısa sürede büzülüp siyaha döndüğünü yazar. Arizona Üniversitesi uzatma servisi de açılmamış çiçek tomurcuklarının kesilip bakılabileceğini belirtir. Kaynaklar: [Michigan Eyalet Üniversitesi çiçek ve tomurcuk zararı rehberi](https://www.canr.msu.edu/news/assessing_frost_and_freeze_damage_to_flowers_and_buds_of_fruit_trees) ve [New Mexico Eyalet Üniversitesi don zararı yayını](https://pubs.nmsu.edu/_circulars/CR701/index.html).
+
+::: adimlar
+Zamanlayın | Dondan 24–72 saat sonra bakın; zarar ilk gün her zaman belirmez.
+Örnek toplayın | Ağacın farklı yüksekliklerinden ve yönlerinden en az 10–20 çiçek toplayın; zarar ağaçta eşit dağılmaz.
+Enine kesin | Temiz, keskin bir jilet ya da bıçakla çiçeği boydan ya da enine kesin.
+Pistile bakın | Ortadaki dişi organın (pistil) rengine bakın: Yeşil ve parlaksa canlıdır, kahverengi, siyah ya da sulu ise ölmüştür.
+Oranı hesaplayın | Kaç çiçekten kaçının zarar gördüğünü sayın; bir ağacın meyve vermesi için tüm çiçeklerin canlı kalması gerekmez.
+:::
+
+Elmada bir salkımda "kral çiçek" denen merkezdeki çiçek genellikle ilk ölen çiçektir; Michigan Eyalet Üniversitesi bu yüzden kral çiçek ve yan çiçeklerin ayrı ayrı kontrol edilmesini önerir. Şeftalide pistil tüylü olduğu için kararmayı görmek zordur; orada büyüteç daha da gerekir. Çekirdeksi kayısı ve şeftali çiçeklerinde zararı çiçekten çok, daha sonra meyve tutumunun gerçekleşip gerçekleşmediğine bakarak anlarsınız.
+
+## Her çiçeğin kurtulması gerekmez
+
+Meyve ağaçları gereğinden çok çiçek açar. Elma ve armutta açan çiçeklerin yalnızca küçük bir bölümünün meyveye dönüşmesi çoğu zaman bir mahsul için yeterlidir; fazla meyve zaten seyreltilir. Bu nedenle çiçeklerin bir kısmının donla ölmesi çoğu yıl sorun çıkarmaz, hatta seyreltme işini azaltır. Sorun, çiçeklerin büyük çoğunluğunun ölmesidir.
+
+Kontrol sonucunda çiçeklerin yarısından fazlası canlıysa mahsul büyük olasılıkla alınır; çoğu kararmışsa meyve beklentisini düşürün, ama panik yapmayın. Ağaç genelde bir iki hafta içinde ikinci bir çiçek dalgası vermez; fakat kalan canlı çiçekler meyve tutabilir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Geç don meyve ağacı çiçeğini vurduktan sonra neler yapılır?
+
+Zarar kesinleştikten sonra bahçede yapılacak şeyler sınırlıdır ama anlamlıdır.
+
+- **Ağacı yormayın:** Meyve yükü azaldıysa aşırı azotlu besleme vermeyin; ağaç sürgün atıp gelecek yılın çiçek tomurcuğunu zayıflatır.
+- **Sulamayı sürdürün:** Kuruyan toprak ağaca ek stres verir. İlkbahar yağmuru yetersizse derin sulama yapın.
+- **Kurumuş dalları hemen kesmeyin:** Dondan zarar gören sürgünler birkaç hafta sonra net görünür; yeni sürgün çıkışını bekleyip ölü kısmı sonra alın. Genel dondan sonra bakım için [don zararı belirtileri](/don-zarari-belirtileri) yazısına bakabilirsiniz.
+- **Meyve tutan çiçekleri koruyun:** Kalan canlı çiçeklerde hastalık baskısını azaltın; havalanma için gereksiz sık dalları yaz başında ayıklayın.
+- **Kayıt tutun:** Dona yakalanan tarihi, evreyi ve gecenin sıcaklığını not edin; ertesi yıl karar için işe yarar.
+
+Çiçeklenme sonrası meyve seyreltme ve besleme için ağaca özel rehberlere bakın: [elma ağacı gübreleme](/elma-agaci-gubreleme), [kiraz ağacı gübreleme](/kiraz-agaci-gubreleme) ve [kayısı ağacı gübreleme](/kayisi-agaci-gubreleme) bu dönemin besin ihtiyacını ayrıntılı anlatır. Çiçeklenme dönemi yağan yağmurla çiçek dökümünü karıştırmamak için [meyve ağacı neden meyve vermez](/meyve-agaci-neden-meyve-vermez) yazısı da yararlıdır.
+
+## Don gecesi neler yapılabilir?
+
+Önceden haber alırsanız küçük bahçede bazı önlemler almak mümkündür. Hava tahmininde gece sıcaklığının sıfırın altına ineceği öngörülüyorsa genç ve küçük ağaçları örtü ile sarın; örtü yaprağa ve çiçeğe değmesin, yere kadar uzansın. Isıyı tutmak için gün batmadan önce toprağı sulamak da yardımcı olur; ıslak toprak gün boyu topladığı ısıyı geceye daha çok verir. Rüzgârsız, açık gecelerde soğuk hava aşağı akıp çukurlarda birikir; bu yüzden bahçenin en alçak köşesi en çok zarar görür.
+
+Büyük bahçelerde rüzgâr makineleri, ısıtıcılar ve don savar sulama kullanılır; bunlar ticari ölçek ve yatırım gerektirir. Hobi bahçesi için ise çiçeklenmeyi geciktiren önlemler (kireç badanası gibi) ve doğru yer seçimi daha gerçekçi çözümlerdir. Dondan koruma yöntemlerinin genel listesi için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) ve bölgenize özgü son don tarihini bulmak için [son don tarihi nedir](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazılarına bakın. Ağaç gövdesindeki kış güneşi ve don çatlaklarını önlemek için [ağaç gövdesine kireç badanası](/agac-govdesine-kirec-badanasi) yazısı yararlıdır.
+
+## Gelecek yıl için kalıcı önlemler
+
+Geç don meyve ağacı bahçelerinde bir yıl yaşandıysa tekrar etme olasılığı yüksektir. Geç don riski bir kez yaşandıysa tekrarlanma olasılığı yüksektir. Kalıcı çözümler arasında şunlar vardır:
+
+1. **Geç çiçek açan çeşit seçmek:** Aynı türün farklı çeşitleri farklı tarihlerde çiçek açar. Yeni dikim yapacaksanız çiçeklenme zamanı geç olan çeşidi fidancıdan sorun.
+2. **Doğru yer seçmek:** Soğuk havanın biriktiği çukurlardan kaçının; hafif eğimli ve hava akışı olan yamaçlar donu daha az yaşar.
+3. **Kuzey yamaç ya da gölge:** Güneş sabahtan vuran yerde çiçekler erken açar; kuzeye bakan yamaçlarda çiçeklenme birkaç gün gecikir.
+4. **Birden çok çeşit:** Bahçede farklı zamanda çiçek açan çeşitler bulunması, tek bir donun tüm mahsulü yok etmesi riskini azaltır.
+
+Bu önlemlerin hiçbiri donu tamamen engellemez, ama kayıp olasılığını düşürür. Bahçenizin hangi gecelerde ne kadar soğuduğunu bir min-maks termometreyle takip etmek, yıllar içinde yerel donun kalıbını görmenizi sağlar.
+@sss
+S: Geç don meyve ağacı çiçeklerine zarar verdi mi, nasıl anlarım?
+C: Çiçeği jiletle kesip ortadaki pistile bakın. Pistil koyu kahverengi ya da siyahsa çiçek ölmüştür, yeşil ve parlaksa canlıdır. Dondan 1–3 gün sonra, ağacın farklı yerlerinden örnek alarak bakın.
+
+S: Meyve ağacı çiçeği hangi sıcaklıkta zarar görür?
+C: Evreye göre değişir. Penn State tablosuna göre çiçek tomurcuğu açılmadan yaklaşık −6,7 °C'de, tam çiçekte yaklaşık −2,8 °C'de yüzde 10 zarar görür. Evre ilerledikçe dayanıklılık düşer.
+
+S: Çiçeklerin hepsi donarsa ağaç ölür mü?
+C: Hayır; çiçek kaybı ağacı öldürmez, yalnızca o yılın meyvesini azaltır. Yine de ağacı sulayın, aşırı azot vermeyin ve kuruyan dalları birkaç hafta sonra net görününce temizleyin.
+
+S: Dondan sonra çiçekler yerinde duruyor, yine de zarar olabilir mi?
+C: Evet. Çiçek dışarıdan sağlam görünse de içindeki pistil ölmüş olabilir. Zarar bazen birkaç gün sonra çiçeğin solmasıyla belirir, bu yüzden kesip bakmak daha güvenilirdir.
+
+### YAZI
+slug: yonca-tarlasi-bakimi
+baslik: Yonca Tarlası Bakımı: Bahar Bakımı ve İlk Biçim
+yayin: 2027-03-08 10:20
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: yonca tarlası bakımı
+seo_baslik: Yonca Tarlası Bakımı: Bahar Kontrolü ve İlk Biçim
+seo_aciklama: Yonca tarlası bakımı baharda nasıl yapılır? Kışlama zararı kontrolü, bitki sayımı, ot, gübreleme ve ilk biçimin tomurcuk ve çiçek evresine göre zamanı.
+ozet: Yonca tarlasında ilkbaharda ilk iş, kışı nasıl geçirdiğini kontrol etmektir. Yonca tarlası bakımı için bitki ve tomurcuk sayımı, kışlama zararına göre ilk biçim zamanı, ot ve zararlı kontrolü, gübreleme ve sulamayı üniversite uzatma yayınlarına dayanarak anlattık.
+etiketler: yonca, yonca bakımı, ilk biçim, kışlama zararı, yem bitkisi, çok yıllık yem bitkisi
+gorsel: bekliyor
+gorsel_alt: Erken ilkbaharda yeşermeye başlayan yonca tarlasında dipten çıkan genç sürgünler ve çiy damlaları
+urunler: kati-solucan-gubresi-20-kg, 1-ton-solucan-gubresi-fiyati
+kisaca: Yonca tarlası bakımı, bahar uyanırken bitki sayımı ve tomurcuk kontrolüyle başlar; kışlama zararı yoksa ilk biçim geç tomurcuk ile ilk çiçek evresi arasında yapılır. Zarar görmüş tarlada ilk biçim yüzde 20 çiçek evresine ya da daha geç bırakılır, kesim yüksekliği artırılır. Yeni sürgünlere zarar verilmez; ot, zararlı ve kök sağlığı izlenir.
+@govde
+Yonca, bir kez ekildiğinde yıllarca biçilebilen çok yıllık bir yem bitkisidir. Ama her yıl kışı aynı sağlamlıkta geçirmez. Bahar uyanışı, tarlanın bir sonraki sezon boyunca ne vereceğini belirleyen kritik dönemdir. Yonca tarlası bakımı bu yüzden takvimden önce gözleme dayanır: Bitkiler yaşıyor mu, kaç tane, nasıl sürüyor? Bu yazıda ilkbahar kontrolünü, ilk biçimin zamanını ve ardından gelen bakımı anlatıyoruz.
+
+## Yonca tarlası bakımı: bahar uyanışında önce tarlayı okuyun
+
+Yonca ilkbaharda tacından yeni sürgün çıkararak uyanır. Pennsylvania Eyalet Üniversitesi uzatma servisi, büyüme başlarken tarlanın taranmasını, kışlama zararının değerlendirilmesini ve tarlanın bu yıl için korunup korunmayacağına ya da bozulup bir ekim nöbeti bitkisiyle değiştirilip değiştirilmeyeceğine karar verilmesini önerir. Wisconsin Üniversitesi uzatma servisi de sonbaharda oluşan tomurcukları ilkbahardaki tomurcuklarla karşılaştırarak kışlama zararını anlamayı önerir ve yaşlı tarlaların genç tarlalara göre daha çok zarar gördüğünü belirtir. Bkz. [Penn State yonca kışlama zararı ve ilkbahar değerlendirmesi](https://extension.psu.edu/winter-injury-and-spring-assessment-of-alfalfa).
+
+Bu yüzden ilk iş tarlaya çıkıp bitkilere bakmaktır. Aynı kontrol sırasında üç soruya cevap arayın: Taçlarda canlı tomurcuk var mı? Yeni sürgünler dipten mi çıkıyor, yoksa yalnızca gövde üstünden mi? Tarlanın hangi bölümlerinde bitki seyrek ya da hiç yok?
+
+::: adimlar
+Tarlayı gezin | Zikzak çizerek tarlayı dolaşın; çukur, taban suyunun yakın olduğu ve ağır toprak bölgelerine ayrıca bakın.
+Bitki sayın | Birkaç yerde bir metrekare alanda canlı bitki ve sürgün sayısını kaydedin.
+Tacı kontrol edin | Birkaç bitkiyi kazıp taç ve kökü kesin; sağlam kök beyaz ve diridir, ölü kök kahverengi ve sulu ya da çürüktür.
+Sürgünleri sayın | Bitki başına çıkan sürgün sayısına bakın; seyrek ve cılız sürgün zarar belirtisidir.
+Kararı verin | Sağlam tarlayı sürdürün, ağır zarar görmüş bölümleri yeniden ekin ya da tarlayı bozmayı düşünün.
+:::
+
+Bu kontrol sırasında kök taçlarının hasarlı olup olmadığını erkenden anlamak, hem biçim zamanını hem gübre ve sulama planını belirler. Yonca ekimi ve ilk kuruluş için [yonca ekimi](/yonca-ekimi) yazısını okuyabilirsiniz; bu yazı ise kurulmuş tarlanın bahar bakımıdır.
+
+## İlk biçim ne zaman yapılır?
+
+İlk biçim zamanı yoncanın evresine ve kışlama zararına bağlıdır. Iowa Eyalet Üniversitesi, sağlıklı tarlada ilk biçimin geç tomurcuk ile ilk çiçek evresi arasında yapılabileceğini ve bunun kalite ile verim arasında iyi bir denge sağladığını belirtir. Aynı kaynak evreleri tarif eder: Erken tomurcuk evresinde tomurcuk gözle görülmez ama sap ucunda elle hissedilir; geç tomurcukta ise açık çiçeğe hemen önce, büyük ve görünür bir tomurcuk vardır. Kaynak: [Iowa State ilk bahar biçimi yazısı](https://crops.extension.iastate.edu/cropnews/2010/05/when-make-first-spring-cut-alfalfa-and-mixed-alfalfagrass).
+
+Kışlama zararı görmüş tarlada ise biçimi geciktirmek gerekir. Penn State, tutmayı düşündüğünüz zarar görmüş bir tarlada ilk biçimin erken tomurcuk evresi yerine yüzde 20 çiçek evresine kadar ertelenmesini önerir. South Dakota Eyalet Üniversitesi daha da temkinlidir: Zarar derecesine göre yarı çiçeklenmeye ya da daha sonrasına kadar ilk biçim yapılmamalıdır. Wisconsin ağır zarar gören tarlalarda ilk biçimin tam çiçeğe yakın, sonraki biçimlerin ise erken çiçekte yapılmasını önerir. Bu farklı öneriler, doğru zamanın zarar şiddetine bağlı olduğunu gösterir.
+
+| Tarla durumu | İlk biçim önerisi |
+|---|---|
+| Sağlıklı, kışı sorunsuz geçirmiş | Geç tomurcuk – ilk çiçek |
+| Hafif zarar, bitki sayısı yeterli | Yüzde 10–20 çiçek |
+| Ağır zarar, koruma kararı verildi | Yarı çiçek ya da daha geç; kesim yüksekliğini artırın |
+| Çok seyrek, ölü bitki çok | Yeniden ekim ya da bozma |
+
+Neden bu fark? Çünkü yonca köklerinde biriktirdiği besini ilk sürgünü çıkarmak için harcar. Manitoba tarım kaynağı, bitkiyi tomurcuk öncesi ya da tomurcuk evresinde biçmenin kök yedeklerini daha hızlı tükettiğini yazar. Zarar görmüş tarla zaten zayıf olduğu için erken biçim onu daha da yorar; geç biçim bitkiye yenilenme için zaman verir. Ayrıca dipten çıkan yeni sürgünleri biçerken koparmamaya dikkat edin; Wisconsin bunun bitkiyi daha da zayıflattığını belirtir.
+
+## Biçim yüksekliği ve sonraki biçimler
+
+Biçim yüksekliği tacın korunması için önemlidir. Çok alçak biçmek taçtaki yeni tomurcukları keser ve yeniden sürgün gücünü azaltır. Zarar görmüş tarlada Wisconsin, biçim yüksekliğini artırmayı önerir. İlk biçimden sonra yonca yaklaşık 30–35 gün içinde yeniden biçilecek yüksekliğe gelir; bu süre sıcaklığa, neme ve bölgeye göre değişir. Sonraki biçimlerin erken çiçek ya da geç tomurcuk evresinde yapılması, hem kaliteyi hem tarlanın ömrünü dengeler.
+
+Sonbahara doğru son biçimi çok geç yapmamak da önemlidir. Soğuktan önce bitkinin köke besin depolayacağı bir süre bırakmak, kışlama dayanıklılığını artırır. Bu süreyi bölgenizdeki ilk don tarihine göre ayarlayın.
+
+## Ot ve zararlı kontrolü
+
+İlkbaharda yoncayla birlikte kış otları da uyanır. Tarlada ot yoğunsa yoncayı bastırır ve ürün kalitesini düşürür. Yabancı ot kontrolünde ilk adım, tarlanın sık ve sağlıklı olmasıdır; sık yonca ot çıkışını bastırır. Ot yoğunluğu çok yüksekse biçim zamanını yoncaya göre değil, otlara göre ayarlamak dönüşümü bozar; genel çözüm zamanında biçim ve düzenli bakımdır. Kimyasal mücadele gerekliyse ilaç adı ve dozu için il ya da ilçe tarım müdürlüğüne ve ziraat mühendisine başvurun; bu yazıda ilaç önerisi verilmez. Ot yönetimi için [tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi) yazısı genel çerçeveyi çizer.
+
+Yonca zararlıları da ilkbaharda belirir: yaprak bitleri, yonca tırtılları, yonca tohum kurdu ve yonca böceği başlıcalarıdır. Bahçede küçük bir alanda gözle izleyin; ilk belirtilerde örnek toplayıp ilçe müdürlüğüne gösterin. Zararlı yoğunluğu eşiği aşmamışsa müdahale çoğu zaman gereksizdir ve faydalı böcekleri korur.
+
+## Gübreleme ve sulama
+
+Yonca baklagildir ve havadaki azotu kökündeki bakterilerle bağlar; bu yüzden azotlu gübre gerektirmez. Bunun yerine fosfor, potasyum ve kükürt gibi besinlerin toprakta yeterli olup olmadığı önemlidir. Bu bilgiyi toprak analizinden öğrenin; analiz için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın. Gübre ihtiyacı belirlenmeden gelişigüzel gübre atmak hem pahalıdır hem tarlayı gereksiz tuzlandırır. Tarla ölçeğinde organik gübre kullanımı için [solucan gübresi dekara ne kadar atılır](/solucan-gubresi-dekara) yazısındaki hesaplar yol gösterir.
+
+Sulama, ilk biçimden sonra yeniden sürgün çıkarken önemlidir. Kurak yıllarda biçimden hemen sonra yapılan sulama yeni sürgünü hızlandırır. Yonca kökü derine indiği için kuraklığa nispeten dayanıklıdır, ama su eksikliği verimi belirgin düşürür. Taban suyunun yüksek, su durduğu çukur kısımlarda yonca çürür; bu bölgelerde drenaj önlemi ya da farklı bitki düşünün.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+## Her yıl tekrarlanacak bir bahar rutini
+
+İyi bir yonca tarlası bakımı, çoğu zaman bir kez ekilip yıllarca kendi hâline bırakılmış gibi düşünülür. Aslında yıllık bir takvim vardır: Erken ilkbaharda kontrol ve sayım, ilk biçim zamanının belirlenmesi, biçim sonrası sulama ve gözlem, yaz boyunca biçimler, sonbaharda son biçim ve kış öncesi dinlenme. Bu rutini bir deftere yazmak ve tarladan notlar almak, yıllar sonra tarlanın neden zayıfladığını anlamanıza yardım eder. Tarla ömrü genellikle birkaç yıldır; verimi düşmeye başlayan tarlayı ekim nöbeti ile değiştirmek ve başka bir bitki yetiştirmek toprağı da dinlendirir.
+@sss
+S: Yonca tarlasında ilk biçim ne zaman yapılır?
+C: Sağlıklı tarlada geç tomurcuk ile ilk çiçek evresi arasında yapılır. Kışlama zararı görmüş tarlada biçim yüzde 20 çiçek evresine ya da daha geç bırakılır, kesim yüksekliği artırılır.
+
+S: Yonca tarlasında kışlama zararı nasıl anlaşılır?
+C: Bahar uyanışında bitki sayısı ve sürgünler sayılır, birkaç bitki kazılıp tacı ve kökü kesilir. Sağlam kök beyaz ve diridir, ölü kök kahverengi ve çürüktür; sonbahar ve ilkbahar tomurcukları karşılaştırılır.
+
+S: Yoncaya azotlu gübre verilir mi?
+C: Genellikle gerekmez; yonca baklagil olduğu için havadaki azotu bağlar. Fosfor, potasyum ve kükürt ihtiyacı için toprak analizi yaptırın.
+
+S: Yonca ne kadar sürede yeniden biçilir?
+C: Biçimler arası süre sıcaklık, nem ve bölgeye göre değişir; yaklaşık 30–35 gündür. Son biçimi çok geç yapmayıp bitkinin kış öncesi köke besin depolamasına zaman bırakın.
+
+### YAZI
+slug: ayas-domatesi
+baslik: Ayaş Domatesi: Ata Tohumu Özellikleri ve Yetiştirme
+yayin: 2027-03-08 12:10
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: ayaş domatesi
+seo_baslik: Ayaş Domatesi: Ata Tohumu, Tescil ve Yetiştirme
+seo_aciklama: Ayaş domatesi nedir? Ankara Ayaş'ın coğrafi işaretli ata tohumu domatesi, tescili, tohum saklama, fide, dikim ve bahçede yetiştirme önerileri.
+ozet: Ayaş domatesi, Ankara'nın Ayaş ilçesinde nesiller boyu ata tohumuyla yetiştirilen, coğrafi işaretli bir yerel çeşittir. Çeşidin tescilini, görünümünü, ata tohumu olmasının anlamını, tohumunu saklamayı, fide hazırlığını, dikimi, sulamayı ve bahçede bu çeşitle karşılaşabilecekleriniz sorunları anlattık.
+etiketler: Ayaş domatesi, ata tohumu, yerel domates, coğrafi işaret, Ankara, domates fidesi
+gorsel: bekliyor
+gorsel_alt: Ankara Ayaş'ta bahçede olgunlaşmış oluklu, kırmızı iri domatesler asma üstünde
+urunler: ayas-beyaz-bodur-domates-ata-tohumu-50-adet, hg-premium-fide-topragi, hg-bol-verimli-sebze-topragi
+kisaca: Ayaş domatesi, Ankara'nın Ayaş ilçesine özgü, ata tohumuyla yetiştirilen yerel bir domates çeşididir; 5 Ekim 2022'de menşe adı olarak coğrafi işaret tescili almış, sonradan AB koruması da kazanmıştır. Dış görünüşünde belirgin oluklar vardır. Tohumu saklanıp ekilebilir; yetiştirme fide, güneş, destek ve düzenli sulama ister.
+@govde
+Bazı sebzeler yalnızca bir tür değildir; bir bölgenin hafızasıdır. Ankara'nın Ayaş ilçesinde nesiller boyu aile tohumlarından yetiştirilen domates onlardan biri. Ayaş domatesi bugün hem Türkiye'de hem de Avrupa Birliği'nde coğrafi işaretle korunuyor. Bu yazıda çeşidin ne olduğunu, tohumunun neden "ata tohumu" sayıldığını ve bahçede nasıl yetiştirilebileceğini anlatıyoruz.
+
+## Ayaş domatesi nedir?
+
+Ayaş domatesi, Ankara ilinin Ayaş ilçesinde yetişen yerel bir domates çeşididir. TÜRKPATENT kayıtlarına göre ürün 5 Ekim 2022'de menşe adı olarak coğrafi işaret tescili almıştır; tescil ettiren kuruluş Ayaş Ziraat Odası, coğrafi sınır ise Ayaş ilçesidir. Daha sonra Avrupa Birliği düzeyinde de korumalı menşe adı olarak tescil edilmiş ve bu gelişme TÜRKPATENT tarafından duyurulmuştur. Ayrıntılar için [TÜRKPATENT Ayaş domatesi AB tescili haberine](https://www.turkpatent.gov.tr/en/news/eu-registration-for-ayas-domatesi) bakabilirsiniz.
+
+Dış görünüşünde belirgin oluklar vardır; bu özellik bazı eski domates çeşitlerinde de görülür. Kaynaklarda koku, tat ve dayanıklılığıyla öne çıktığı yazılır; biz tat için bir iddiada bulunmuyoruz. Çeşidin boyu, rengi ve şekli konusunda tescil belgesinin "ürünün tanımı" bölümüne bakmanızı öneririz; bu bilgiyi bu yazıda doğrulayamadık.
+
+## Neden ata tohumu?
+
+Ayaş domatesinin hikâyesi tohumuyla başlar. Avrupa Birliği Türkiye Delegasyonu'nun yayımladığı bir yazı, bu tohumların yıllar boyunca ailelerin çeyiz sandıklarında saklanarak kuşaktan kuşağa aktarıldığını anlatır. Yani bu çeşit, bir şirketin ıslah ettiği hibrit değil, çiftçilerin her yıl seçip sakladığı serbest tozlaşan bir popülasyondur. Kaynak: [AB Türkiye Delegasyonu'nun Ayaş domatesi yazısı](https://www.eeas.europa.eu/delegations/t%C3%BCrkiye/heirlooms-kept-dowry-chests-how-women-preserved-legacy-%E2%80%9Caya%C5%9F-domatesi%E2%80%9D_en).
+
+Ata tohumunun pratik anlamı şudur: Meyveden aldığınız tohumu ertesi yıl ekerseniz aynı özellikte bitki bekleyebilirsiniz; hibritte ise bu garanti yoktur. Ata tohumunun ne olduğunu ve hibritten farkını [ata tohumu nedir](/ata-tohumu-nedir) ve [hibrit tohum nedir](/hibrit-tohum-nedir) yazılarında anlattık. Tohum saklama adımları için [domates tohumu alma](/domates-tohumu-alma) ve [ata tohumu saklama](/ata-tohumu-saklama) yazıları kullanılabilir.
+
+Bir uyarı: Her "Ayaş domatesi" etiketi taşıyan tohum ya da fide orijinal olmayabilir. Coğrafi işaretli ürün için tescil bölgesi önemlidir; tohum ve fide aldığınız kaynağa, yerel üreticiye ve belgeye sorun. Bölge dışında yetiştirdiğiniz domates tescilli ürün sayılmaz, ama aynı tohumla kendi bahçenizde yetiştirmeniz yerel mirası yaşatmanın bir yoludur.
+
+## Bahçede yetiştirmek: genel çerçeve
+
+Ayaş domatesi için özel bir yetiştirme tarifi bulamadık; bu yüzden çeşidin kendine özgü ölçülerini verecek yerde, domatesin ortak ihtiyaçlarını anlatıyoruz. Bunlar her domates için geçerlidir ve çoğu yerel çeşitte işe yarar.
+
+**Işık ve sıcaklık:** Domates sıcak seven bir bitkidir ve gün boyu güneşte en iyi verimi verir. Ankara gibi iç bölge koşullarında yaz sıcak ve kuru, gece serindir; bu, tat ve kök gelişimi için iyidir.
+
+**Toprak:** Derin, süzek ve organik maddece zengin toprak seçin. Dikimden önce olgun kompost ya da solucan gübresi karıştırın. Dikim çukurunda gübre kullanımı için [domates fidesine solucan gübresi](/domates-fidesine-solucan-gubresi) yazısına bakın.
+
+**Destek:** Yerel ve eski çeşitler çoğunlukla uzun boylu, destek isteyen bitkilerdir. Sırık, ip ya da kafes planlayın. Yükselen domatesi bağlamak yaprak hastalığı riskini de azaltır. Yatak kenarındaki hazır destek çerçeveleri bu iş için pratiktir.
+
+[ürün:ayas-beyaz-bodur-domates-ata-tohumu-50-adet]
+
+## Fide hazırlığı ve dikim
+
+Domates tohumu dikimden altı sekiz hafta önce ısıtılmış, ışıklı bir ortamda ekilir. Fide yetiştirme ayrıntıları için [domates fidesi yetiştirme](/domates-fidesi-yetistirme) yazısındaki program bu çeşit için de geçerlidir. Fideleri boylanmadan, ışık yetersizliği yaşamadan büyütün; ayrıntı için [fide neden boylanır](/fide-neden-boylanir) yazısına bakın.
+
+Dikim zamanı son donlardan sonra, toprağın yaklaşık 16 °C'yi geçtiği dönemdir. Eşik değerleri için [fide dikim zamanı](/fide-dikim-zamani) yazısını inceleyin. Domatesi gövdesinden de kök yapabildiği için fideyi saksıdakinden biraz daha derin dikmek mümkündür. Dikimden sonra bol su verin, gerekirse gece örtüsü kullanın.
+
+::: takvim
+Fide için tohum ekimi | 2-3
+Fide dikimi (soğuk bölge) | 5-6
+Çiçeklenme ve meyve tutumu | 6-7
+Hasat | 7-10
+Tohumluk meyve ayırma | 8-9
+:::
+
+## Sulama, besleme ve bakım
+
+Domates düzenli ve derin sulamayı sever. Dalgalı sulama (kuru, sonra bol su) çiçek burnu çürüklüğü ve meyve çatlamasına yol açar. Sulama sıklığı için [domates sulama](/domates-sulama) yazısına bakabilirsiniz. Besleme için dikimde toprağa karışan organik madde ilk haftalara yeter; çiçek ve meyve döneminde dengeli bir sebze besini kullanılır. Ayrıntılı takvim için [domates gübreleme](/domates-gubreleme) yazısını izleyin.
+
+Koltuk alma, yani yaprak koltuğundan çıkan yan sürgünleri temizleme, uzun boylu çeşitlerde bitkiyi toparlar. Bunun nasıl ve ne zaman yapıldığı [domates koltuk alma](/domates-koltuk-alma) yazısında anlatılıyor. Hastalıklara (mildiyö, yaprak küfü) karşı havalandırmayı sağlamak ve yaprağı ıslatmamak önlemlerin başındadır; belirtiler için [domates hastalıkları](/domates-hastaliklari) yazısına bakın.
+
+## Tohum saklamak: çeşidi yaşatmanın yolu
+
+Ata tohumunun asıl değeri, her yıl kendi bahçenizden tohum seçip saklayabilmenizdir. Sağlıklı, erken olgunlaşan ve çeşit özelliğini taşıyan birkaç bitkiyi işaretleyin; bu bitkilerin tam olgun meyvelerini tohumluk olarak ayırın. Tohumu meyveden çıkarın, jelatinimsi kılıfı fermantasyonla ya da yıkamayla uzaklaştırın, kurutun ve serin, kuru, karanlık bir yerde saklayın. Ayrıntılı adımlar için [domates tohumu alma](/domates-tohumu-alma) yazısını izleyin.
+
+Domates büyük ölçüde kendi kendini tozlar, ama farklı çeşitler yan yana ekilirse bir miktar çapraz tozlaşma olabilir. Çeşidin saflığını korumak istiyorsanız farklı çeşitleri birbirinden uzak ya da arada uzun bitkilerle ayırın. Tohum paylaşmak için [tohum takası](/tohum-takasi) yazısı yerel çeşitleri paylaşmanın bir yoludur.
+
+## Gerçekçi beklentiler
+
+Ayaş domatesini bahçenizde yetiştirdiğinizde Ayaş'ta yetişen domatesin tadını birebir elde edeceğinizi düşünmeyin. Tat, toprağa, iklime, sulamaya ve hasat zamanına bağlıdır; çeşidin kimliği bu faktörlerin birlikteliğidir. Ama aynı tohumdan yetişen bitki, yerel mirasın bir parçasıdır ve her yıl daha uyumlu hâle gelir. Bu yüzden bir iki sezon denemek, her bitkinin verimini, hastalığa dayanıklılığını ve meyve özelliğini deftere yazmak, çeşidi tanımak ve tohumunu saklamak, bu yerel çeşidi yaşatmak için yeterli bir başlangıçtır.
+@sss
+S: Ayaş domatesi nedir?
+C: Ankara'nın Ayaş ilçesinde ata tohumuyla yetiştirilen yerel bir domates çeşididir. 5 Ekim 2022'de menşe adı olarak coğrafi işaret tescili almıştır; sonradan AB'de de korunmuştur.
+
+S: Ayaş domatesinin tohumu saklanabilir mi?
+C: Evet; ata tohumu olduğu için sağlıklı, tam olgun meyveden alınan tohum ertesi yıl ekilebilir. Tohum çıkarıp kurutun, serin, kuru ve karanlık yerde saklayın.
+
+S: Ayaş domatesi her yerde yetişir mi?
+C: Domates sıcak seven bir bitkidir; güneş, süzek toprak, destek ve düzenli sulama ile birçok bölgede yetişir. Ama coğrafi işaretli ürün yalnızca Ayaş'ta yetişen domatestir, başka yerde yetişen tescilli sayılmaz.
+
+S: Ayaş domatesi neden oluklu görünür?
+C: Dış görünüşünde belirgin oluklar olduğu kaynaklarda belirtilir. Oluklu meyve eski yerel domates çeşitlerinde sık görülür; tescil belgesindeki tanım bölümü ayrıntı verir.
+
+### YAZI
+slug: marmande-domates
+baslik: Marmande Domates Çeşidi: Dilimli İri Domates
+yayin: 2027-03-08 14:30
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: marmande domates
+seo_baslik: Marmande Domates: Dilimli İri Fransız Çeşidi
+seo_aciklama: Marmande domates çeşidi nedir? Fransız kökenli iri, oluklu ve etli domatesin özellikleri, büyüme tipi, destek, budama ve tohum saklama.
+ozet: Marmande, güneybatı Fransa'dan gelen, iri, oluklu ve etli bir ata domatesidir. Marmande domates çeşidinin özelliklerini, büyüme alışkanlığı konusundaki farkları, destek ve budama ihtiyacını, tohum saklamayı ve satılan tohumlarda dikkat edilecekleri anlattık.
+etiketler: Marmande, Marmande domates, iri domates, dilimlik domates, ata tohumu, domates çeşidi
+gorsel: bekliyor
+gorsel_alt: Dalda olgunlaşmış, dilimlere ayrılmış gibi görünen iri, oluklu kırmızı Marmande domatesleri
+urunler: arzuman-marmande-domates-tohumu, hg-fide-topragi, hg-bol-verimli-sebze-topragi
+kisaca: Marmande domates çeşidi, güneybatı Fransa kökenli, iri, hafif oluklu, etli ve az tohumlu bir ata domatesidir. Büyüme alışkanlığı kaynaklara göre yarı belirsiz ya da belirsiz olarak tarif edilir; bu yüzden destek ve koltuk almaya ihtiyaç duyar. Dilimlik ve salatalık kullanımı için uygundur. Tohumu serbest tozlaşır, saklanabilir.
+@govde
+Bazı domatesler tek bir lezzeti ya da dokuyu simgeler. Marmande, kalın etli, hafif oluklu ve dilimlenmeye çok uygun iri domates denince akla gelen çeşitlerden biridir. Adını Fransa'nın güneybatısındaki Marmande kasabasından alır ve oradan dünyaya yayılmıştır. Marmande domates bahçesi kuracaksanız çeşidin hangi özellikleri kesin, hangileri kaynaktan kaynağa değişiyor, bunu bilmek yanlış beklentiyi önler.
+
+## Marmande domates nedir?
+
+Marmande, güneybatı Fransa kökenli ve 19. yüzyıl sonlarına tarihlenen bir ata (heirloom) domatesi olarak anlatılır. Kaynaklar meyvesini iri, hafif oluklu, basık yuvarlak ve etli olarak tarif eder; tohum sayısı azdır. Kabuğu ince ve yumuşaktır; tam olgunlaşınca kolay ezilir. Tadı tatlı-ekşi dengeli olarak anılır. Kraliyet Bahçecilik Derneği (RHS), Marmande'ı serada ya da açıkta yetiştirilen bir kordon (tek gövde) iri domates olarak listeler. Bkz. [RHS Marmande domates kaydı](https://www.rhs.org.uk/plants/293906/solanum-lycopersicum-marmande/details).
+
+Meyve ağırlığı konusunda kaynaklar uyuşmaz; bazıları 500 grama kadar çıkabildiğini yazar, bazıları 60–120 gram arasında tarif eder. Bu fark çeşidin farklı soylarından ve yetiştirme koşullarından gelir. Türkiye'de de "Marmande" adıyla satılan tohumlar tek tip olmayabilir. Kendi bahçenizde meyve boyunu görmeden önce kesin ağırlık beklemeyin.
+
+## Büyüme alışkanlığı: kaynaklar birbirini tutmuyor
+
+Marmande konusunda en büyük belirsizlik bitkinin büyüme tipidir. Bazı tohum üreticileri onu yarı belirli (semi-determinate) ve destek ile uç alma isteyen bir bitki olarak tarif eder. Bazı bahçecilik kaynakları ise belirsiz (indeterminate), yani uzamaya devam eden ve yaklaşık 160 cm'ye ulaşabilen bir bitki olarak yazar. RHS onu kordon biçiminde yetiştirilecek iri domates olarak anar. Bu farklı tarifler, çeşidin birden çok soyu olduğunu ve her satıcının farklı bir soyu sattığını düşündürür.
+
+Pratik sonuç şudur: Marmande dikerken bitkiyi destekli yetiştirin. Orta boyda kalsa bile iri meyveler dalları ağırlaştırır. Sırık, ip ya da kafes hazır olsun. Tohum paketindeki tarifi esas alın; yarı belirli ise yan sürgünleri daha az, belirsiz ise sık sık alın.
+
+| Özellik | Marmande'da bilinen | Belirsizlik |
+|---|---|---|
+| Köken | Güneybatı Fransa, ata çeşit | Kesin tarih kaynağa göre değişir |
+| Meyve | İri, oluklu, etli, az tohumlu | 60–500 g aralığında tarifler var |
+| Kabuk | İnce, yumuşak | Tam olgunlukta kolay ezilir |
+| Bitki tipi | Destek ister | Yarı belirli mi, belirsiz mi: soyuna göre |
+
+## Marmande domates yetiştirme: ekim ve dikim
+
+Marmande diğer domatesler gibi fideyle başlanır. Tohum dikimden altı sekiz hafta önce ısıtılmış ve ışıklı bir ortamda ekilir; çimlenme için toprak sıcaklığı yaklaşık 21–25 °C olmalıdır. Fide yetiştirme ve şaşırtma adımları için [domates fidesi yetiştirme](/domates-fidesi-yetistirme) ve [fide şaşırtma](/fide-sasirtma) yazılarına bakabilirsiniz. Fideyi dikmeden önce dışarıya alıştırmak şarttır: [fide sertleştirme](/fide-sertlestirme).
+
+Dikim, son donlardan sonra toprak yaklaşık 16 °C'yi geçince yapılır; eşik değerleri için [fide dikim zamanı](/fide-dikim-zamani) yazısını inceleyin. Bitkileri 50–60 cm aralıkla dikin; iri meyveli çeşitte havalanma ve ışık önemlidir. Domatesin gövdesinden kök çıkarabildiği için fideyi biraz derin dikmek bitkiyi güçlendirir. Dikim çukuruna olgun organik madde karıştırmak için [domates fidesine solucan gübresi](/domates-fidesine-solucan-gubresi) yazısındaki oranları kullanabilirsiniz.
+
+[ürün:arzuman-marmande-domates-tohumu]
+
+## Budama, destek ve sulama
+
+İri meyveli çeşitlerin çoğunda koltuk almak ve meyve sayısını sınırlamak, meyve boyunu korur. Marmande için de benzer bir yaklaşım yaygındır: Ana gövdeyi desteğe bağlayın, güçlü bir iki yan sürgün bırakın, kalanları küçükken alın. Ayrıntılı yöntem için [domates koltuk alma](/domates-koltuk-alma) yazısına bakın. Çok fazla meyve tutarsa küçük ve eksik gelişmiş meyveleri erken ayıklamak, kalan meyvelerin büyümesine yardım eder.
+
+Sulama düzenli olmalıdır; iri ve etli meyve tutan çeşitlerde dalgalı sulama çatlamaya ve çiçek burnu çürüklüğüne yol açar. Çiçek burnu çürüklüğünün nedeni çoğu zaman kalsiyum eksikliği değil, düzensiz sudur; ayrıntı için [domateste çiçek burnu çürüklüğü](/cicek-burnu-curuklugu-domates) yazısına bakın. Sulama sıklığı için [domates sulama](/domates-sulama) yazısı kullanışlıdır. Çatlama riskini azaltmak için meyve olgunlaşırken toprağı ne çok kurutun, ne de aşırı sulayın.
+
+## Hasat ve mutfak
+
+Marmande, meyvelerin rengi tam kırmızıya döndüğünde ve hafif yumuşadığında hasat edilir. Kaynaklarda kabuğunun ince ve yumuşak olduğu için tam olgunlukta kolay ezildiği belirtilir; bu yüzden toplarken yumuşak davranın ve fazla bekletmeyin. Etli, az tohumlu yapısı dilimleme, dolma ve sos yapımı için sevilir. Tadı ve dokusu için en güvenilir ölçü, kendi bahçenizde yetişmiş bir meyveyi tatmanızdır.
+
+Meyveleri buzdolabına koymak aromayı kapatır; hasat ettiğiniz meyveleri soğuk zincirde değil, oda sıcaklığında ve gölgede bekletmek, tadı ve dokuyu korur. Çok olgun meyveler çabuk bozulduğu için hasadı sık yapın ve gerektiğinde yarı olgun toplanan domatesi evde olgunlaştırın.
+
+## Tohum saklama ve tohum güvenilirliği
+
+Marmande açık tozlaşan (serbest tozlaşan) bir ata çeşit olduğu için kendi meyvenizden tohum alıp ertesi yıl ekebilirsiniz. Sağlıklı, çeşit özelliğini taşıyan ve tam olgun meyveyi tohumluk olarak ayırın; tohum çıkarma ve saklama adımları için [domates tohumu alma](/domates-tohumu-alma) ve [ata tohumu saklama](/ata-tohumu-saklama) yazılarını izleyin.
+
+Tohum alırken tek bir dikkat noktası vardır: "Marmande" adıyla satılan her tohum ata çeşit olmayabilir. Kaynaklar, Super Marmande ve Tomande gibi hibrit ya da ıslah edilmiş çeşitlerin de bu ada yakın isimlerle satıldığını gösterir. Hibritin tohumunu saklarsanız ertesi yıl özellikler ayrışır. Tohum paketinde "açık tozlanan" ya da "ata tohumu" yazıp yazmadığına bakın. Hibrit ve ata tohumu farkını [hibrit tohum nedir](/hibrit-tohum-nedir) yazısında anlattık.
+
+## Marmande'ı hangi bahçe için seçmeli?
+
+Marmande, domatesi tek başına sofrada gösteren dilimlik, etli bir çeşit isteyenler için uygundur. İri meyve beklentisi taşıyan ama kafes ve destek kurmaya hazır olmayanlar için başka çeşitler düşünülebilir. Çeşitler arasında karar vermek için [domates çeşitleri](/domates-cesitleri) yazısındaki gruplara bakabilirsiniz. Yerel bir çeşitle başka bir ata çeşidi karşılaştırmak isterseniz [Ayaş domatesi](/ayas-domatesi) yazısı Türkiye'nin yerel mirasına dair bir örnek sunar.
+@sss
+S: Marmande domates nasıl bir çeşittir?
+C: Güneybatı Fransa kökenli, iri, hafif oluklu, etli ve az tohumlu bir ata domatesidir. Kabuğu ince ve yumuşaktır; tadı tatlı-ekşi dengeli olarak tarif edilir. Dilimlik ve salatalık için uygundur.
+
+S: Marmande destek ister mi?
+C: Evet. Kaynaklar yarı belirli ya da belirsiz olarak tarif eder, ama iri meyveler dalları ağırlaştırdığı için her iki durumda da sırık, ip ya da kafes ve düzenli koltuk alma gerekir.
+
+S: Marmande tohumu saklanabilir mi?
+C: Ata çeşit olduğu için tohumu saklanabilir. Ancak "Marmande" adıyla hibrit çeşitler de satılır; hibritin tohumu ertesi yıl aynı özellikte bitki vermez, paketteki "açık tozlanan" ibaresine bakın.
+
+S: Marmande domateste çatlama neden olur?
+C: Çoğunlukla düzensiz sulamadan olur: toprak kuruyup sonra bol su verilince iri ve ince kabuklu meyve çatlar. Toprağı düzenli ve ölçülü nemli tutun.
+
+### YAZI
+slug: yerli-kabak-cesitleri
+baslik: Yerli Kabak Çeşitleri ve Tohum Saklama
+yayin: 2027-03-08 19:40
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: yerli kabak çeşitleri
+seo_baslik: Yerli Kabak Çeşitleri: Tür Farkı ve Tohum Saklama
+seo_aciklama: Yerli kabak çeşitleri hangi türlere ait? Bal, helvacı, sakız ve siyah kabak, tür farkı, çapraz tozlaşma riski ve tohumu karışmadan saklama.
+ozet: Türkiye'de yetişen yerli kabakların çoğu üç beş türe dağılır ve çeşit adı çoğu zaman yöreye göre değişir. Yerli kabak çeşitlerini türlerine göre tanımanın yolunu, hangilerinin birbirini tozlayabileceğini, elle tozlaştırmayı ve tohumu temiz saklamayı, kabuk ve sap ipuçlarını anlattık.
+etiketler: yerli kabak, bal kabağı, helvacı kabağı, sakız kabağı, kabak tohumu saklama, çapraz tozlaşma
+gorsel: bekliyor
+gorsel_alt: Sıra sıra dizilmiş farklı biçim ve renkte yerli kabaklar: yeşil, sarı, bej ve koyu renkli
+urunler: arzuman-bal-kabagi-tohumu-10-gr, arzuman-siyah-kabak-tohumu, arzuman-beyaz-sakiz-kabak-tohumu-10-gr
+kisaca: Yerli kabak çeşitleri birkaç türe ayrılır: yaygın sakız kabağı çoğunlukla Cucurbita pepo, bal kabağı çoğunlukla Cucurbita moschata, helvacı tipi iri kabaklar ise çoğunlukla Cucurbita maxima'dır. Aynı türün çeşitleri kolayca çapraz tozlaşır; tohum saklamak için bahçede tek çeşit yetiştirin, elle tozlaştırın ya da yalıtın.
+@govde
+Pazarda bal kabağı, helvacı kabağı, sakız kabağı, siyah kabak, çalı kabağı diye anılan kabakların hepsi bahçıvanlar için "kabak"tır. Oysa botanik açıdan birkaç farklı türe aittirler ve bu fark tohum saklamak isteyen için çok önemlidir. Yerli kabak çeşitleri bölgeden bölgeye farklı adlarla anılır; aynı ad iki yerde iki farklı kabağı, iki ad ise aynı kabağı gösterebilir. Bu yazı, adlara değil türlere bakmayı öğretiyor.
+
+## Yerli kabak çeşitleri kaç türe ayrılır?
+
+Cucurbita cinsi içinde evcilleştirilmiş beş tür vardır: C. argyrosperma, C. ficifolia, C. maxima, C. moschata ve C. pepo. Wikipedia'nın cinse ayrılan maddesi bu beş türü sayar ve olgun meyveleri aylarca saklanabildiği için hepsinin kış kabağı sayılabileceğini belirtir. Bkz. [Wikipedia Cucurbita maddesi](https://en.wikipedia.org/wiki/Cucurbita).
+
+Türkiye'de bahçelerde ve pazarda en çok üç tür karşımıza çıkar. C. pepo grubu sakız kabağı, çalı kabağı, bazı süs kabakları ve bazı bal kabağı benzeri tipleri içerir. C. moschata grubu açık bej-turuncu kabuklu, uzun boyunlu bal kabağı tiplerini kapsar. C. maxima grubu ise iri, genellikle yassı ve yuvarlak, yumuşak sapı mantarlaşan kabakları (ör. çok iri helvacı tipi kabaklar) barındırır. Bu sınıflama genel bir çerçevedir; her yerel çeşidin hangi türe girdiğini anlamak için sap ve yaprak biçimine bakmak gerekir.
+
+## Türü nasıl anlarız?
+
+Yerli çeşidin türünü anlamanın en pratik yolu meyvenin sapına ve yaprağa bakmaktır. Kaynaklar C. maxima'nın böbrek biçimli yapraklarla ve olgunlukta mantarlaşan, yuvarlak ve yumuşak sapla ayırt edildiğini yazar; C. moschata çeşitleri çoğunlukla bej ya da soluk turuncu kabukludur; çoğu diğer pasta kabağı ve cadılar bayramı kabağı C. pepo'ya aittir.
+
+| Tür | Tipik tanıma ipuçları | Yaygın örnekler |
+|---|---|---|
+| Cucurbita pepo | Köşeli, sert, kıllı sap; dilimli yaprak | Sakız kabağı, çalı kabağı, bazı süs kabakları |
+| Cucurbita moschata | Bej ya da turuncu, ince kabuk; yumuşak yapraklar; geniş, beşgen sap | Bal kabağı tipleri |
+| Cucurbita maxima | Yuvarlak yumuşak sap (olgunlukta mantarlaşır); böbrek biçimli yaprak | İri, yassı kabaklar, bazı helvacı tipleri |
+
+Bu ayrım kabaktan kabağa değişen istisnalar taşır; tek bir işarete güvenmeyin. Emin değilseniz bölgenizdeki tarım müdürlüğüne ya da üniversite bahçecilik bölümüne meyve ve yaprak örneği götürün. Türkiye'de Batı Anadolu'da C. maxima ve C. moschata genotiplerinin toplandığı bir çalışmada yüzü aşkın yerel genotip incelenmiştir; bu da yerel çeşitlerin sayısının ne kadar fazla olduğunu gösterir.
+
+## Çapraz tozlaşma: kabağın tohum sorunu
+
+Kabaklar böcek tarafından tozlanan ve erkek-dişi çiçekleri ayrı olan bitkilerdir. Aynı türün farklı çeşitleri yan yana büyürse arılar polenleri karıştırır ve ertesi yıl ektiğiniz tohumdan ne annesine ne babasına benzeyen kabaklar çıkar. Bu durum tatsız sürprizlere yol açar: Tatlı bir bal kabağından alınan tohum çok sulu ve acı bir meyve verebilir.
+
+Farklı türler arasında çapraz tozlaşma ise daha zordur. Kaynaklar türler arası engellerin (uyuşmazlık, melez canlı kalmama, kısırlık) gerçek olduğunu bildirir; yine de hangi türlerin birbirini tozlayabildiği konusunda yazılı kaynaklar tam olarak aynı fikirde değildir. Bu yüzden tür dışı karışma riskini sıfır saymayın; tohum saklamak için hangi çiftlerin güvenli olduğunu özel bir uzatma kılavuzundan ya da yerel tohum örgütünden öğrenin.
+
+## Tohumu temiz tutmanın üç yolu
+
+Tohumunuzu saklamayı düşünüyorsanız şu üç yoldan biri uygulanabilir:
+
+1. **Bahçede tek çeşit:** Aynı türden yalnızca bir çeşit yetiştirin. Komşunun kabağı yakınsa riski hesaba katın.
+2. **Elle tozlaştırma:** Sabah erken, çiçek açmadan önceki akşam kapanmış dişi ve erkek çiçekleri bir ip ya da bantla kapatın; sabah erkek çiçeği alıp dişiye sürün ve dişiyi yeniden kapatıp işaretleyin. Bu yöntem, yalıtım mesafesi olmayan küçük bahçelerde işe yarar. Tozlaşma bilgisi için [serada tozlaşma](/serada-tozlasma) yazısındaki kabakgil bölümüne bakın.
+3. **Ekim zamanını kaydırmak:** İki çeşidi birkaç hafta arayla ekin ki çiçekleri çakışmasın.
+
+Her yöntemde tohumluk meyveyi bitkide tam olgunlaşmaya bırakın. Kabak tohumu, meyve olgun ve kabuğu sertleşmiş olduğunda en iyi çimlenmeyi verir.
+
+[ürün:arzuman-bal-kabagi-tohumu-10-gr]
+
+## Tohumu çıkarmak ve saklamak
+
+Yerli kabak çeşitlerinin tohumunu alırken tohumluk kabağı hasat edip birkaç hafta bekletmek, tohumların olgunlaşmasını tamamlar. Kabağı açın, tohumları lifli içten ayırıp yıkayın, ince tabaka hâlinde kâğıt üzerinde gölgede ve havadar yerde tamamen kuruyana kadar bekletin. Nemli tohum küflenir ve çimlenme gücünü kaybeder. Kuruyan tohumu kâğıt zarfa ya da cam kavanoza koyup etiketleyin: çeşit adı, tür, yıl ve yer. Serin, kuru ve karanlık bir yerde saklanan kabak tohumu birkaç yıl çimlenme gücünü korur. Genel tohum saklama ilkeleri için [ata tohumu saklama](/ata-tohumu-saklama) ve tohum paylaşımı için [tohum takası](/tohum-takasi) yazılarına bakabilirsiniz.
+
+Etiketlemek çok önemlidir; yerli kabak çeşitlerinin adı çoğu zaman yalnızca sizin hafızanızda yaşar. Meyvenin fotoğrafını çekip tohum zarfına eklemek, yıllar sonra çeşidi tanımanızı sağlar.
+
+## Yerli kabakları mutfakta ve bahçede ayırmak
+
+Bahçıvan olarak bir kabağı tanımanın üç pratik yolu vardır. Birincisi büyüme tipidir: Çalı gibi sıkı büyüyen sakız ve çalı kabakları küçük bahçeye sığar; bal kabağı ve iri kış kabakları metrelerce uzayan asma yapar ve ayrı bir köşe ister. İkincisi hasat zamanıdır: Sakız kabağı genç ve yumuşakken, bal ve helvacı kabakları ise kabuğu sertleşip sap kuruyunca toplanır. Üçüncüsü saklama süresidir: Genç kabak birkaç gün, olgun kış kabağı serin ve kuru yerde aylarca dayanır. Bu üç ölçüt, aldığınız tohumun amacınıza uyup uymadığını ekmeden önce görmenizi sağlar. Pazardan ya da komşudan aldığınız bir kabağın tohumunu ekmeden önce o kabağın tadına bakmak ve türünü tahmin etmek de iyi bir alışkanlıktır.
+
+## Yerli kabak çeşitleri neden değerli?
+
+Yerli kabak çeşitleri yöresel iklime, toprağa ve hastalıklara uyum sağlamış popülasyonlardır; ticari hibritlere göre daha çeşitlidir. Bu çeşitlilik, tek tip çeşitlerin ortadan kalktığı bir dönemde güvence sağlar. Bahçenize yerli çeşit almak isterseniz tohumu bölgenizdeki üreticilerden, tohum takası etkinliklerinden ya da güvenilir yerel kaynaklardan sağlayın; tohumun türünü ve yılını sorun. Kabak yetiştirme adımları için [kabak yetiştirme](/kabak-yetistirme) ve [kabak tohumu ekimi](/kabak-tohumu-ekimi) yazıları, bal kabağı ve diğer kış kabakları için ise [kışlık sebze saklama](/kislik-sebze-saklama) yazısı faydalıdır. Siyah (dolmalık) kabak için ayrı rehberimiz var: [siyah kabak yetiştirme](/kabak-yetistirme).
+@sss
+S: Yerli kabak çeşitleri hangi türlere ayrılır?
+C: Çoğu sakız ve çalı kabağı Cucurbita pepo, bal kabağı tipleri Cucurbita moschata, iri ve yassı helvacı tipi kabaklar ise çoğunlukla Cucurbita maxima'dır. Çeşit adı yöreye göre değişir, türü sap ve yaprağa bakarak anlayın.
+
+S: Kabak tohumu saklarken en büyük sorun nedir?
+C: Çapraz tozlaşmadır. Aynı türün çeşitleri birbirini tozlar ve ertesi yıl tohumdan farklı meyveler çıkar; bahçede tek çeşit yetiştirin ya da çiçekleri elle tozlaştırıp kapatın.
+
+S: Kabak çiçeği elle nasıl tozlaştırılır?
+C: Çiçek açılmadan önceki akşam dişi ve erkek çiçeği bantlayın, sabah erkek çiçeği alıp polenini dişi çiçeğe sürün, dişiyi tekrar kapatıp işaretleyin. Bu meyveden tohum saklayın.
+
+S: Kabak tohumu nasıl kurutulup saklanır?
+C: Tohumları meyveden çıkarıp yıkayın, kâğıt üzerinde gölgede tamamen kuruyana kadar bekletin, zarf ya da cam kavanozda serin ve karanlık yerde saklayın. Üzerine çeşit adını ve yılı yazın.
+
+### SORU
+yayin: 2027-03-08 21:10
+kategori: sebze-meyve
+baslik: Kiraz çiçekleri dondan sonra yerinde duruyor, hepsinin içi mi ölmüş, nasıl bakacağım?
+metin: Dün gece hava eksi 2'ye düştü, kiraz ağacımın çiçekleri tam açmıştı. Sabah çiçekler yerinde ama biraz solgun. Zarar olup olmadığını nasıl anlarım?
+@cevap Hatice Kübra Çelik | 1
+Bir iki gün bekleyin, sonra ağacın farklı yerlerinden 15–20 çiçek toplayıp temiz bir jiletle enine kesin. Ortadaki dişi organ (pistil) yeşil ve parlaksa çiçek canlıdır; kahverengi ya da siyahsa ölmüştür. Üniversite kaynakları tam çiçek evresinde yaklaşık −2,8 °C'de çiçeklerin bir bölümünün zarar görebileceğini bildirir; bu nedenle sonucu sayıp oranı görmek en doğrusudur. Çiçeklerin yarısından fazlası canlıysa mahsul alınır. Ağacı sulayın, azotlu gübre vermeyin ve kuruyan dalları birkaç hafta sonra net görününce temizleyin.
+
+### SORU
+yayin: 2027-03-08 21:45
+kategori: sebze-meyve
+baslik: Komşumun bal kabağı ile benim sakız kabağım birbirini tozlar mı, tohum alabilir miyim?
+metin: Bahçemin yanında komşunun bal kabağı var, ben de sakız kabağı yetiştiriyorum. Arılar ikisi arasında gidip geliyor. Sakız kabağından tohum alsam ertesi yıl karışık mı çıkar?
+@cevap Rümeysa Altınova | 2
+Sakız kabağı çoğunlukla Cucurbita pepo, bal kabağı ise çoğunlukla Cucurbita moschata türündendir. Farklı türler arasında çapraz tozlaşma aynı türdeki çeşitlere göre çok daha zordur; kaynaklar türler arası engeller olduğunu söylese de hangi çiftlerin tozlaşabildiği konusunda hepsi aynı görüşte değildir. Garanti için tohum alacağınız çiçekleri elle tozlaştırın: Çiçek açılmadan önceki akşam dişi ve erkek çiçeği bantlayın, sabah polen aktarın, dişiyi tekrar kapatıp işaretleyin. O meyveyi tohumluk olarak olgunlaşmaya bırakın. Eğer sakız kabağı olarak genç yiyecekseniz tohum için ayrı bitki seçin; aynı bitkideki meyvelerin hepsi tohumluk bırakılmaz.

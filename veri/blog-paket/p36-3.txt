@@ -1,0 +1,112 @@
+### YAZI
+slug: dal-egme-genc-meyve-agacinda-dal-acisini-genisletmek
+baslik: Dal Eğme: Genç Meyve Ağacında Dal Açısını Genişletmek
+yayin: 2027-01-30 16:40
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: dal eğme
+seo_baslik: Dal Eğme: Genç Meyve Ağacında Dal Açısını Genişletme
+seo_aciklama: Dal eğme nasıl yapılır? Elma, armut ve kirazda dal açısı kaç derece olmalı, mandal, kürdan ve ağırlıkla ne zaman açılır, ne zaman çıkarılır; adım adım rehber.
+ozet: Dik çıkan dal ilk meyve yükünde gövdeden kopabilir; dal eğme bu riski dal daha incecikken ortadan kaldırır. Üniversite yayım servislerinin önerdiği açıları, zamanlamayı, mandal, kürdan ve ağırlık yöntemlerini ve ne zaman çıkarılacağını karşılaştırdık.
+etiketler: dal eğme, dal açısı, genç meyve ağacı, elma, armut, kiraz, ağaç terbiyesi
+gorsel: bekliyor
+gorsel_alt: Genç bir elma ağacının gövdesinden çıkan ince bir yan dalın mandalla dışarı doğru açılmış hali
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Dal eğme, gövdeye dik açıyla çıkan genç dalları mandal, kürdan, çıta ya da ağırlıkla yatıklaştırma işidir. Hedef gövdeye göre yaklaşık 45-60 derecelik açıdır. En kolay zaman dalın henüz 8-10 cm uzunlukta ve yeşil olduğu ilkbahardır; mandal çoğu yayımda altı hafta ile sezon sonu arasında takılı bırakılır.
+@govde
+Üç yıl önce diktiğiniz elma fidanı sonunda dallandı, ama dallar gövdeden "V" harfi gibi dikine çıkıyor. Böyle bir açı, ilk bol meyve yılında bir dalın gövdeden yırtılarak kopmasıyla sonuçlanabilir. Dal eğme, bu kırılmayı yaşamadan önce dalı gövdeden uzağa yatıklaştırmanın basit yoludur. Aşağıda hangi açının hedeflendiğini, ne zaman ve hangi malzemeyle yapılacağını üniversite yayımlarına bakarak karşılaştırıyoruz.
+
+## Dal eğme neden gerekir?
+
+Gövdeye dar açıyla bağlanan dalın dibinde kabuk, iki dalın arasına sıkışır; ağaç buraya sağlam odun örmeye vakit bulamaz. Minnesota Üniversitesi'nin elma budama yazısı daha dikine büyüyen dalların meyve ağırlığı altında ağaçtan koptuğunu belirtiyor ([Minnesota Extension, elma budama ve terbiyesi](https://extension.umn.edu/growing-apples/pruning-and-training-apple-trees)). Utah Eyalet Üniversitesi'nin yayımı da gövdeye geniş açıyla bağlanan ana dalların dar açılılardan çok daha sağlam olduğunu söylüyor ([Utah State Extension, elma ağacı terbiyesi ve budaması](https://extension.usu.edu/yardandgarden/research/training-and-pruning-apple-trees)).
+
+İkinci bir sebep daha var: Geniş açılı dal ışığı yayar. Dikey dalların arasında gölge oluşur, meyve renk almaz, bakım zorlaşır. Küçük bahçede ve saksıda ağacı kısa tutmak isteyenler için dal eğme, budamaya oranla dalı kesmeden yönlendirmenin kolay yoludur. Ağacınız bodur anaçlı bir meyveyse [bodur meyve ağaçları](/bodur-meyve-agaclari) yazısındaki boy ve form bilgisiyle birlikte düşünün.
+
+## Dal açısı kaç derece olmalı?
+
+Kaynaklar açı rakamlarında birbirinden biraz ayrılır, çünkü kimi gövdeden, kimi yataydan ölçer. Aşağıdaki tabloyu okurken hangi referansa göre konuşulduğuna bakın:
+
+| Kaynak | Önerilen açı | Not |
+|---|---|---|
+| Oregon Eyalet Üniversitesi | gövdeye göre 45-60 derece | en sağlam bağlantı açısı; kirazda dallar özellikle dar açı yapar ([PNW 400](https://extension.oregonstate.edu/catalog/pnw-400-training-pruning-your-home-orchard)) |
+| Utah Eyalet Üniversitesi | yataydan 30-45 derece yukarıda | ağırlık, çubuk ve iple açma örnekleri verir |
+| Purdue Üniversitesi | ana gövde ile yan dal arasında 60-70 derece | [Purdue, meyve ağacı terbiyesi ve budama](https://extension.purdue.edu/county/vigo/_docs/Training-and-Pruning-Fruit-Trees.pdf) |
+| Missouri Üniversitesi | 60 dereceden dar tüm yan dallar 60 dereceye açılır | [Missouri Extension, meyve yetiştirme](https://extension.missouri.edu/publications/mg6) |
+
+Çok açmayın. Georgia Üniversitesi, 60 dereceden fazla açılan dalların üst yüzünde güçlü sürgünler (kollar) çıkardığını belirtiyor ([Georgia Extension, ev bahçesi meyve ağacı budama teknikleri](https://extension.uga.edu/publications/detail.html?number=C1087&title=home-fruit-orchard-pruning-techniques)). Yani dalı yere yatırmak, dalı değil sürgünü büyütür. Pratikte dalı gövdeden iki el eni kadar uzaklaştırıp yatay ile dik arasında, dik tarafa yakın tutmak makul bir hedeftir.
+
+## Dal eğme ne zaman yapılır?
+
+Yayımlar zamanlamada da farklı pencereler verir, ama hepsi dalın genç ve esnek olması konusunda birleşir:
+
+| Kaynak | Zaman |
+|---|---|
+| Oregon | gövdeden çıkan sürgün 3-4 inç (8-10 cm) olduğunda kürdan |
+| Utah | tomurcuk patlamasından hemen sonra; odun en esnek dönemde |
+| Georgia | yeni sürgün 2-3 inç (5-8 cm) olunca |
+| Illinois | ilkbaharın erken döneminde, budamadan sonra; ama her zaman yapılabilir |
+| Missouri | mayıs-temmuz başı; dar açılı dalların hepsi |
+
+Türkiye'de tomurcuk patlaması bölgeye göre mart ortasından nisan sonuna kadar yayılır. Ege ve Marmara'da mart sonu, İç Anadolu'da nisan ortası dal eğme için iyi bir başlangıçtır. Ocak sonunda yapabileceğiniz iş, ağaçların tek tek dolaşıp hangi dalın dar açılı olduğunu not etmek ve malzemeyi hazırlamaktır. Kışın dalları zorlamayın: odun serttir ve donmuş kabuk çatlar.
+
+## Mandal, kürdan, ağırlık ve çıta
+
+Dalın uzunluğuna ve kalınlığına göre yöntem değişir. Küçük ve yeşil dallara mandal ya da kürdan, biraz sertleşmiş dallara ağırlık ve çıta, kalınlaşmış dallara ip uygundur.
+
+::: adimlar
+Dalı seçin | Gövdeyle dik açı yapan, en çok 10 cm boyunda yeşil sürgünleri belirleyin; en alttaki dört beş dalı öncelikli tutun.
+Mandalı takın | Çamaşır mandalının bir ağzını gövdeye, diğerini dalın dibine geçirin; dal 45-60 dereceye açılıncaya kadar sıkıştırın.
+Daha sert dalda çıta kullanın | Gövde ile dal arasına yaklaşık 30-40 cm boyunda bir çıta ya da çubuk sıkıştırın; çıtanın uçlarını sivriltmeyin.
+Ağırlıkla indirin | Daha uzun dalın ucuna küçük bir ağırlık ya da iple bağlı bir su dolu şişe asıp dalı kademeli olarak aşağı çekin.
+Takip edin | Birkaç günde bir bakın; ağırlık ya da çıta kabuğu ezmemeli. Dal eski yerine dönüyorsa açıyı yeniden verin.
+:::
+
+Oregon Eyalet Üniversitesi, yeni sürgün ile gövde arasına kürdan koymayı öneriyor; ama nemli iklimlerde kürdanın bakteriyel kanser riskini artırabileceğini söylüyor, bu yüzden mandalı daha güvenli buluyor. Karadeniz ve Marmara gibi yağışlı bölgelerde mandal tercih edin. Utah yayımı, küçük ağırlıkların dalı aşağı çekmek için, çubukların ve ipin de açıyı tutmak için kullanılabileceğini gösteriyor. Dalı çok sıkı bağlarsanız kabukta iz kalır; ip kullanıyorsanız dalla temas noktasına bez ya da eski bir hortum parçası sarın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Eğme işi ağaca vurulan bir yük değil, yönlendirmedir; ağacın geri kalan ihtiyacı toprakta çözülür. Genç ağacın dibine ilkbahar başında organik madde vermek istiyorsanız ürün bilgisine göre katı solucan gübresi meyveden süs bitkisine kadar geniş kullanım alanı olan ve besini yavaş salan bir organik kaynaktır. Ağacın dibine serip toprağa karıştırmak, kök bölgesini beslemenin sade yoludur.
+
+## Eğilmiş dal ne zaman serbest bırakılır?
+
+Mandalı ne kadar bekletmek gerektiği konusunda yayımlar farklı düşünür. Georgia mandalların yaklaşık altı hafta takılı kalmasını öneriyor. Missouri ağırlık ve mandalın bir ay sonra alınabileceğini ya da kış dinlenmesine kadar bırakılabileceğini söylüyor. Purdue ise ilk sezonun sonunda çıkarılmasını istiyor. En güvenli yol, dalı altı haftanın sonunda yoklamak: Mandalı çıkardığınızda dal yerinde kalıyorsa iş bitmiştir. Yerine dönüyorsa mandalı geri takın ve sezon sonuna kadar bırakın.
+
+Kalınlaşmış, odunlaşmış dallarda mandal ya da kürdan yetmez. Missouri bu durumda odun çubuklarla açmayı, Utah ise iple aşağı bağlamayı anlatıyor. Kalın dalı bir seferde zorlamayın, haftada bir iki santim açın. Kırılmaya yakın "çıt" sesi duyarsanız hemen gevşetin; yarılmış dalı kurtarmak zordur.
+
+## Sık yapılan hatalar
+
+- Çok geç başlamak: dal parmak kalınlığına geldiğinde eğmek, kırma riskini artırır.
+- Aşırı açmak: yatay yatan dalda üst yüzde sert sürgünler çıkar.
+- Mandalı hiç yoklamamak ve kabukta sıkışma izi bırakmak.
+- Ana lideri (tepe dalı) eğmek; yalnızca yan dallar açılır, gövdenin ucu dik kalır.
+- Bütün dalları aynı açıya getirmek; üstteki dallar alttakilerden biraz daha dik, alttakiler daha yatay olabilir.
+
+Ağacınızı yılda iki kez, bahar başında ve temmuzda dolaşıp dalların açısına bakmak yeter. Bir dalı eğmeniz iki dakikanızı alır; o dalın on yıl sonra bir tepsi dolusu elmayı taşıması, mandaldan çok bu iki dakikaya bağlıdır. Genç ağaca yapılan ilk kesimlerin düzenini görmek için [fidan şekil budaması](/fidan-sekil-budamasi) yazısına, kış kesimleri için [elma ağacı budama](/elma-agaci-budama) yazısına bakın; fidanın dikim sonrası desteği için de [fidan kazığı](/fidan-kazigi) yazısı yardımcı olur.
+@sss
+S: Dal eğme ne zaman yapılır?
+C: En kolay zaman, dalın henüz yeşil ve esnek olduğu ilkbahardır. Oregon yayımı 3-4 inçlik (8-10 cm) sürgünde kürdan ya da mandal önerir; Utah ise tomurcuk patlamasından hemen sonrayı en esnek dönem sayar.
+
+S: Dal açısı kaç derece olmalı?
+C: Yayımlar gövdeye göre yaklaşık 45-60 derece verir; Purdue 60-70 dereceye kadar çıkar. Çok açılan, yani yatıklaşan dalın üst yüzünde sert sürgünler çıkar; bu yüzden dalı yere yatırmaktan kaçının.
+
+S: Mandal ya da kürdan dalda ne kadar kalmalı?
+C: Georgia yaklaşık altı hafta, Missouri bir ay ile kış dinlenmesi arası, Purdue ilk sezon sonu der. En iyisi altı haftada yoklamak; dal yerinde kalıyorsa mandalı çıkarın.
+
+S: Kalınlaşmış dalı eğebilir miyim?
+C: Çok dikkatli olmak gerekir. Çıta ya da çubukla ve iple kademeli açın, haftada birkaç santimden fazla zorlamayın. Çıt sesi duyarsanız gevşetin; yarılan dalı kurtarmak zordur.
+
+### SORU
+yayin: 2027-01-30 18:50
+kategori: sebze-meyve
+baslik: Kiraz fidanımın dalları gövdeden dik çıkıyor, mandal işe yarar mı?
+metin: İki yıllık kiraz fidanında alt dallar gövdeye neredeyse paralel çıkmış. Hepsini kesmek istemiyorum. Mandal ya da başka bir şeyle açabilir miyim?
+@cevap Halil İbrahim Çelik | 2
+Kirazda dar açı yaygın; Oregon yayımı kirazın özellikle dar açılı dal yaptığını belirtir. Dallar hâlâ yeşil ve ince ise mandal ya da kürdan çözebilir. Biraz odunlaşmışsa çıta ya da ağırlıkla yavaşça açın. Çok kalın ve kırılgansa o dalı kesip sonraki sezon yeni sürgün üzerinde çalışmak daha güvenli olabilir.
+
+### SORU
+yayin: 2027-01-30 21:20
+kategori: sebze-meyve
+baslik: Dalı eğdim ama mandalı çıkarınca eski yerine döndü, ne yapmalıyım?
+metin: Elma dalına mandal taktım, altı hafta sonra çıkardım ve dal eski dik hâline döndü. Ne yanlış yaptım?
+@cevap Mikdat Çelik | 2
+Büyük olasılıkla dal altı haftada yeterince sertleşmemiştir. Mandalı geri takın ve sezon sonuna kadar bırakın; Purdue yayımı ilk sezon sonunda çıkarmayı önerir. Dal çok kalınsa çıta ve iple kademeli açmaya geçin. Kabuğu sıkıp sıkmadığını da kontrol edin.

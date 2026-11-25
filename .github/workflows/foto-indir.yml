@@ -1,0 +1,30 @@
+name: Blog fotoğrafları indir
+# Telifsiz fotoğrafları indirip aynı dala ekler (scripts/foto-indir.mjs)
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/foto-liste.json', 'scripts/foto-red.json', 'scripts/foto-indir.mjs']
+
+permissions:
+  contents: write
+
+jobs:
+  indir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-save --no-package-lock sharp@0.33.5
+      - run: node scripts/foto-indir.mjs
+      - name: Dala ekle
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/blog-statik/foto src/blog/fotolar.js
+          git diff --cached --quiet && { echo "yeni fotoğraf yok"; exit 0; }
+          git commit -m "Blog: telifsiz fotoğraflar"
+          for i in 1 2 3; do git pull --rebase -q origin ${GITHUB_REF_NAME} && git push origin HEAD:${GITHUB_REF_NAME} && break; sleep 5; done

@@ -1,0 +1,191 @@
+### YAZI
+slug: tavsan-gubresi
+baslik: Tavşan Gübresi Bitkiye Nasıl Verilir?
+yayin: 2027-03-22 14:30
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: tavşan gübresi
+seo_baslik: Tavşan Gübresi Bitkiye Nasıl Verilir? Kullanım Rehberi
+seo_aciklama: Tavşan gübresi bitkiye nasıl verilir? Taze mi kompostlanmış mı kullanılır, sebzede güvenli bekleme süresi, miktar, saksıda ve yatakta uygulama adımları.
+ozet: Tavşan gübresi tavuk gübresine göre daha az yakıcı kabul edilir ama yenen sebzede yine dikkat ister. Taze ve kompostlanmış kullanımı, besin içeriğini, güvenli bekleme süresini ve uygulama adımlarını anlattık.
+etiketler: tavşan gübresi, tavşan pisliği, organik gübre, kompost, soğuk gübre, sebze bahçesi, saksı gübresi
+gorsel: bekliyor
+gorsel_alt: Bahçe küreğinde duran kuru tavşan gübresi topakları ve yanında sebze fidesi
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, solucan-gubreli-sebze-topragi
+kisaca: Tavşan gübresi bitkiye ince bir tabaka hâlinde, gövdeye değdirmeden, kök bölgesinin çevresine serilerek ya da toprağa hafifçe karıştırılarak verilir. Tavuk gübresi kadar yakıcı değildir ama taze hâlde bitkiye yığılmaz. Çiğ yenen sebzelerde önce kompostlamak ya da hasattan haftalar önce uygulamak daha güvenlidir.
+@govde
+Küçük bir tavşan bahçeye atılabilecek hayli gübre üretir ve bu gübre çoğu bahçıvanın dilinde "soğuk gübre" diye anılır. Ama soğuk olması, her koşulda taze taze toprağa yığılabileceği anlamına gelmez. Tavşan gübresi bitkiye nasıl verilir sorusunun cevabı, bitkinin ne olduğuna, gübrenin ne kadar eski olduğuna ve ürünün çiğ yenip yenmediğine bağlıdır. Aşağıda içeriğini, kullanım biçimlerini ve güvenlik kurallarını sırayla anlattık.
+
+## Tavşan gübresinin içeriği
+
+Colorado Eyalet Üniversitesi Yayım Servisi'nin [bahçede gübre kullanımı rehberi](https://extension.colostate.edu/resource/using-manure-in-colorado-gardens/), tavşan gübresini yaklaşık yüzde 2,0 azot, yüzde 1,3 fosfat ve yüzde 1,2 potasyum olarak listeler. Başka kaynaklarda bu değerler biraz farklı çıkar; örneğin bir çiftlik takvimi taze tavşan pisliği için yaklaşık yüzde 2,4 azot, yüzde 1,4 fosfor ve yüzde 0,6 potasyum verir. Yani tavşan gübresi, genel anlamda azotça orta, fosfor ve potasyumca dengeli bir organik gübredir. Rakamlar tavşanın yediği yeme, altlık malzemesine ve gübrenin ne kadar bekletildiğine göre değişir.
+
+Bu içerik, kendi başına bir mineral gübre gibi ölçülü dozlanamaz. Bu yüzden gübrenin yanında toprağın organik madde ve yapı ihtiyacını da hesaba katın; gübre toprağı besler, kompost ise toprağı iyileştirir.
+
+## Neden "soğuk gübre" denir?
+
+Soğuk gübre, taze hâlde bile bitkiyi kolay yakmayan gübreler için kullanılan halk deyimidir. Tavşan pisliği kurudur, topak hâlindedir ve içindeki amonyak, tavuk ya da güvercin gübresine göre daha azdır. Bu yüzden birçok bahçıvan onu bitkilerin arasına ve dibine, ama gövdeye değdirmeden taze olarak serer.
+
+Ama aynı zamanda ihtiyatlı kaynaklar vardır: Bazı yayım kaynakları, taze gübrenin yüksek azot ve amonyak içeriği nedeniyle bitkiyi yakabileceğini ve bitkiye doğrudan, yan gübre olarak yığılmaması gerektiğini söyler. Yine de en güvenli yöntem, miktarı ve yeri kontrol etmektir.
+
+| Kullanım | Taze tavşan gübresi | Kompostlanmış |
+|---|---|---|
+| Çiçek, çalı, ağaç dibi | Ince tabaka, gövdeden uzak | Uygun, bol miktarda kullanılabilir |
+| Meyve veren sebze (domates, biber) | Ekimden birkaç hafta önce toprağa karıştırın | Uygun |
+| Çiğ yenen yeşillik ve kök sebze | Önerilmez | Tercih edilir |
+| Saksı | Dikkatli; yüzeye az miktarda | Toprak karışımına katın |
+| Fide ve yeni ekim | Doğrudan konmaz | Çok az ve iyi karışmış |
+
+## Güvenlik: çiğ yenen sebzede bekleme süresi
+
+Hayvan gübresi, hayvanın dışkısında bulunan bakterileri taşıyabilir. Bu yüzden çiğ yenen sebzelerde gübrenin kompostlanmış olması ve hasattan yeterince önce verilmesi tavsiye edilir. Idaho Üniversitesi'nin yayımladığı [sebze bahçesinde gübre kullanım rehberi](https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/Extension/county/Kootenai/gardening/guidelines-for-using-manure-on-vegetable-gardens.pdf) gibi belgeler, kompostlanmış gübrenin çiğ yenen sebzelerin hasadından en az yaklaşık 60 gün önce uygulanmasını önerir. Bu süre kaynağa göre değişebilir; hayvan gübresi için en tutucu yol, onu çiğ yenen bitkiden uzak tutmak ve el ile temas sonrası elleri yıkamaktır.
+
+Tavşan hasta, ishalli ya da antibiyotik tedavisi görüyorsa gübresini bahçeye karıştırmayın. Hayvan sağlığı konusunda veterinere başvurun. Hamile kişiler ve bağışıklığı düşük kişiler gübreyi elle tutmadan eldiven kullanmalı, sonra elleri sabunla yıkamalıdır.
+
+## Nasıl kompostlanır?
+
+Bu gübreyi tek başına kompostlamak mümkündür; üstelik ayrışması çabuk olur. Yine de hızı ve kalitesi için kuru karbonlu malzemelerle (kuru yaprak, saman, karton, talaş) karıştırmak iyi sonuç verir. Tavşan altlığı zaten saman, talaş ya da kuru ot olduğundan çoğu zaman karışım hazır gelir.
+
+::: adimlar
+Yığın yeri seçin | Gölgeli, süzek ve hayvanların ulaşamayacağı bir köşe.
+Katmanları serin | Tavşan gübresi ve altlığını kuru yaprak ve saman ile katman katman yığın.
+Nemlendirin | Sıkılmış sünger kadar nemli tutun; çok ıslak yığın kokar, kuru yığın bekler.
+Karıştırın | Üç dört haftada bir çevirerek havalandırın.
+Olgunlaşmasını bekleyin | Koyu, topraksı kokulu ve dağılgan olunca kullanıma hazırdır.
+:::
+
+Olgunluk işaretleri için [kompost ne zaman hazır olur](/kompost-ne-zaman-hazir-olur) yazısı testleri sıralıyor. Kokulu yığın sorununu [kompost kokusu](/kompost-kokusu) yazısında ele aldık. Bahçede yığın kurmak için [bahçede kompost yığını](/bahcede-kompost-yigini) rehberi yol gösterir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Bahçede ve saksıda uygulama
+
+Yatakta ilkbaharda toprağı hazırlarken, kompostlanmış gübreyi yüzeye ince bir tabaka olarak serip toprağın üst birkaç santimine karıştırın. Taze gübre kullanacaksanız bunu dikimden birkaç hafta önce yapın ki yakıcı potansiyeli azalsın. Meyve ağaçlarında ve çalılarda gövdeye bitişik değil, taç izdüşümü çevresine yayın. Gül ve çiçeklerde bitkinin dibine, gövdeye değmeden bir avuç kompostlanmış gübre koymak ilkbahar beslemesi için yeterlidir.
+
+Saksıda tavşan gübresi çok az kullanılmalıdır; saksının toprak hacmi küçüktür ve tuz birikimi hızlı olur. Kompostlanmış gübreyi toprağa yaklaşık bir iki ölçekte karıştırın ya da yüzeye ince serip sulayın. Saksı toprağı hazırlarken oranları [kendi toprak karışımınızı oluşturma](/kendi-toprak-karisimini-olusturma) yazısından kontrol edin.
+
+## Gübre çayı ve sıvı kullanım
+
+Gübreyi suya bekletip sıvı gübre yapmak yaygın bir yoldur, ama dikkat ister. Gübreyi bir kovada suda birkaç gün bekletip süzmek, hafif bir besin çözeltisi verir; bu çözelti sulama suyuyla seyreltilerek toprağa verilir, yaprağa püskürtülmez. Çiğ yenen yeşilliklere uygulanmaz. Bu tür gübre çayı kokusu ve bakteri riski nedeniyle yalnız süs bitkilerinde ve meyve ağaçlarında tercih edilmelidir. Daha güvenli bir organik sıvı gübre arıyorsanız [kompost çayı](/kompost-cayi) yazısındaki hazırlık ve hijyen kurallarına bakın.
+
+## Tavşan gübresi ve tavuk gübresi farkı
+
+Tavuk gübresi ("sıcak gübre") azot ve amonyakça çok zengindir; taze hâlde bitkiyi yakar. Tavşanınki ise daha dengeli olup tek başına daha az yakıcıdır. Tavuk gübresinin yakma riski ve kompostlama kuralları için [tavuk gübresi nasıl kullanılır](/tavuk-gubresi-nasil-kullanilir) yazısına bakabilirsiniz. İki gübre türü de kompostlandığında güvenli ve değerli bir toprak düzenleyicidir.
+
+## Hangi bitkiler tavşan gübresini sever?
+
+Domates, biber, patlıcan, kabak ve mısır gibi besin isteyen meyveli sebzeler, kompostlanmış tavşan gübresinden kolayca yararlanır; ama bu bitkilerde de gübreyi dikimden haftalar önce toprağa karıştırmak ve meyve oluşunca yeniden yığmamak gerekir. Gül, çalılar ve meyve ağaçları ilkbaharda yüzey beslemesi olarak iyi karşılar. Çim için ince serpilmiş, iyice kurumuş ve ufalanmış gübre uygundur, ama kokusu ve kümelenmesi nedeniyle çok az tercih edilir. Asit seven bitkilerde (açelya, yaban mersini) hayvan gübresi toprağın pH'ını biraz değiştirebileceğinden dikkatli olun. Tuza hassas fidelerde ve yeni çimlenmiş tohumlarda gübre kullanmayın; önce bitki yerleşsin.
+
+Bir tavşanın yıllık gübresi küçük bir sebze yatağını beslemeye yeter; ama tek bir kaynakla bütün bahçeyi beslemeyi planlamak gerçekçi değildir. Kompost ve solucan gübresiyle birlikte kullanmak, hem toprak yapısını hem de besin dengesini korur.
+
+## Sık yapılan hatalar
+
+En yaygın hata, taze gübreyi çiğ yenen yeşilliğin üstüne yığmaktır. İkincisi, gübreyi sınırsız miktarda ve her yıl aynı yere vermektir; fosfor ve tuz birikir. Üçüncüsü, gübreyi gövdeye bitişik koymaktır. Dördüncüsü, hasta hayvanın gübresini kullanmaktır. Beşincisi, gübreyi elle tuttuktan sonra yıkanmamaktır. Altıncısı, gübre vermeden önce toprak analizi yapmamaktır; analiz sonuçlarının yorumu için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın. Doğru kullanıldığında tavşan gübresi bahçede ucuz ve değerli bir besin kaynağıdır.
+@sss
+S: Tavşan gübresi taze kullanılır mı?
+C: Çiçek, çalı ve ağaç diplerinde ince tabaka hâlinde, gövdeye değdirmeden kullanılabilir. Çiğ yenen sebzelerde önce kompostlamak veya hasattan haftalar önce toprağa karıştırmak daha güvenlidir.
+
+S: Tavşan gübresi bitkiyi yakar mı?
+C: Tavuk gübresine göre daha az yakar ve "soğuk gübre" diye anılır; ama yüksek azot ve amonyak içeriği nedeniyle yan gübre olarak bitkiye yığılmamalıdır. Gövdeye değdirmeyin.
+
+S: Sebzeye ne kadar bekleyerek tavşan gübresi verilir?
+C: Yayım rehberleri kompostlanmış hayvan gübresinin çiğ yenen sebzelerin hasadından en az yaklaşık 60 gün önce uygulanmasını önerir. Çiğ yenen bitkiden uzak tutmak en güvenli yoldur.
+
+S: Tavşan gübresi saksıya uygun mu?
+C: Kompostlanmış hâliyle çok az miktarda saksı toprağına karıştırılabilir. Saksının toprak hacmi küçük olduğundan fazla kullanım tuz birikimine yol açar; yüzeye ince serip sulayın.
+
+### YAZI
+slug: bildircin-yetistirme
+baslik: Hobi Bıldırcın Yetiştirme: Küçük Bahçe İçin Kuluçkadan Yumurtaya
+yayin: 2027-03-22 19:40
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: bıldırcın yetiştirme
+seo_baslik: Hobi Bıldırcın Yetiştirme: Yer, Isı, Yem, Bakım
+seo_aciklama: Hobi bıldırcın yetiştirme nasıl yapılır? Kafes alanı, civciv ısısı, yem, yumurta başlangıç yaşı, hijyen, gübre değeri ve veteriner kontrolüyle rehber.
+ozet: Bıldırcın yetiştirme küçük alanda yumurta almak isteyen hobi bahçıvanı için uygun bir uğraştır. Barınak alanını, civciv ısısını, yumurta başlangıç yaşını, hijyeni, gübre kullanımını ve sağlık kurallarını anlattık.
+etiketler: bıldırcın, hobi hayvancılık, bıldırcın yumurtası, civciv bakımı, kafes, küçük kümes, bahçe gübresi
+gorsel: bekliyor
+gorsel_alt: Bahçede kurulu geniş telli bıldırcın kafesi içinde yürüyen kahverengi benekli bıldırcınlar
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, hg-bol-verimli-sebze-topragi
+kisaca: Bıldırcın yetiştirme küçük bir kafes ya da koşuyla başlar. Civciv ilk hafta yaklaşık 35–36 °C sıcaklık ister ve ısı her hafta kademeli düşürülür; yetişkin bıldırcın genellikle 6–8 haftalıkken yumurtlamaya başlar. Barınak kuru, havadar, yırtıcıdan korunmuş ve temiz tutulmalı; hastalıkta veteriner çağrılmalıdır.
+@govde
+Bir bıldırcın bir avuç büyüklüğündedir, sessizdir ve küçük bir alanda yaşayabilir. Bu yüzden hobi bahçesi, kentsel bahçe ve çiftlik evi için en uygun küçük kanatlılardan biri sayılır. Ama küçük olması bakımı da küçük yapmaz: Civciv döneminde sıcaklık, kafes alanı, yem ve hijyen doğru olmazsa kayıplar hızla artar. Bıldırcın yetiştirme kararı vermeden önce neye hazır olmanız gerektiğini bilmek faydalıdır.
+
+## Bıldırcın yetiştirmeye başlamadan önce
+
+Önce kanuni ve pratik koşulları netleştirin. Küçük sayıda hobi hayvanı bile olsa hayvan hareketleri, kayıt ve hastalık bildirimi konusunda il ya da ilçe tarım müdürlüğüne danışmak gerekir; kuş gribi gibi bildirimi zorunlu hastalıkların bulunduğu dönemlerde kısıtlamalar olabilir. Apartman ve site yönetmeliklerini, belediye ve komşu kurallarını da kontrol edin. Bıldırcınlar sessizdir ama dışkı kokusu ve toz komşu şikâyetine yol açabilir.
+
+Zaman ayırın: Her gün yem ve su, her hafta temizlik gerekir. Kafes alanı ve yerleşimi baştan doğru planlanırsa günlük iş yirmi dakikayı geçmez.
+
+## Barınak ve kafes alanı
+
+Bıldırcınlar yerde yaşar, uçmaz gibi görünür ama korktuklarında ani dikey fırlarlar. Bu yüzden barınağın tavanı alçak ya da yumuşak (file) olmalıdır; sert tavanda kafatasını çarparlar. Zemin için ince gözlü tel ya da altlıklı kafes kullanılır; kuru ve temiz kalması şarttır. Yırtıcılardan (kedi, köpek, sıçan, yılan, atmaca) korunmak için kafesin tüm yüzeyi tel örgüyle kapatılmalı, gece sağlam kapanmalıdır.
+
+Birey başına alan konusunda kaynaklar farklı değerler verir. Texas A&M Üniversitesi'nin [ev tüketimi için bıldırcın yetiştirme belgesi](https://texaslocalproduce.tamu.edu/files/2018/11/Quail-Production-for-Home-Consumption.pdf), civcivlerde ilk iki hafta kare ayak başına en fazla altı, altıncı haftaya kadar dört, sonrasında üç civciv öngörür. Yetişkinler için çiftlik kaynakları kuş başına yaklaşık yarım ila bir kare ayak (yaklaşık 0,05–0,1 m²) arası önerir; sıkışık kafeste kuşlar birbirini gagalar. Konfor için fazla yer vermek her zaman daha güvenlidir.
+
+## Civciv ve ısı: ilk haftalar
+
+Bıldırcın civcivi ilk haftalarda kendi ısısını koruyamaz. Texas A&M belgesi, civciv seviyesindeki sıcaklığın ilk hafta 95–97 °F (yaklaşık 35–36 °C) olmasını, sonra her hafta yaklaşık 5 °F (yaklaşık 3 °C) düşürülerek tüyleri tamamen çıkana kadar yaklaşık 75 °F'ye (yaklaşık 24 °C) inilmesini önerir. Isı kaynağı ve termometreyi kontrol altında tutun. Civcivler ısı lambasının altında toplanıyorsa üşüyor, kenarlara kaçıyorsa fazla sıcak demektir.
+
+| Yaş | Hedef sıcaklık (yaklaşık) | Not |
+|---|---|---|
+| 1. hafta | 35–36 °C | Hava akımı olmayan kapalı kutu |
+| 2. hafta | 32–33 °C | Yem ve su her an hazır |
+| 3. hafta | 29–30 °C | Tüylenme başlar |
+| 4. hafta | 26–27 °C | Dışarıya kademeli alıştırma |
+| 5. hafta ve sonrası | 24 °C civarı | Sıcak mevsimde dışarı koşu |
+
+Civcivlerde kaygan zeminden kaçının; zemin yumuşak ve pürüzlü olmalı ve su kapları, boğulmayı önlemek için sığ olmalı ya da çakılla doldurulmalıdır.
+
+## Yem ve su
+
+Bıldırcına, yüksek proteinli bir yem gerekir: Civciv döneminde yüksek proteinli başlangıç yemi, büyüme ve yumurta dönemlerinde ihtiyaca uygun bıldırcın ya da yumurta yemi kullanılır. Mutfak artığıyla ve tahılla tek başına beslemeyin. Temiz su, her zaman ulaşabilecekleri sığ bir suluktan sunulur. Yem ve su kapları dışkıdan korunmalı; yem kapları ıslanmamalıdır, çünkü ıslak yem küflenir. Yeşil yem tamamlayıcı olabilir, ama yemin yerini tutmaz. Yem ve katkı programı konusunda veteriner hekime danışın.
+
+## Yumurta: ne zaman ve kimler verir?
+
+Dişi bıldırcınlar çiftlik kaynaklarına göre genellikle yaklaşık 6–8 haftalıkken yumurtlamaya başlar; yumurta sayısı ışığa, beslenmeye ve strese bağlıdır. Erkek ve dişi sayısı üreme amacıyla farklıdır; yalnız yumurta için erkek gerekmez. Bıldırcınlar genelde kuluçkaya yatmaz; yumurtadan civciv elde etmek isterseniz kuluçka makinesi gerekir. Kuluçka süresi, nem ve sıcaklık ayarı için üretici kılavuzuna ve bir veterinere ya da tarım müdürlüğüne danışın.
+
+Yumurtaları günlük toplayın, kirliyse nemli bezle silin, serin yerde saklayın; çatlak ya da kirli yumurtayı tüketmeyin. Yumurtalarla temastan sonra elleri sabunla yıkayın.
+
+## Küçük bir koşu ve bahçe düzeni
+
+Bıldırcınları kafesin yanında sınırlı bir gün ışığı alanına almak, D vitamini ve doğal ortam açısından değerlidir; ama yalnızca korunmuş, tavanı kapalı bir koşuda ve gözetim altında yapın. Kafesi bahçede sebze yatağından ve yemek alanından uzağa kurmak, kokuyu ve fare sorununu azaltır; yemi kapalı kapta saklayın. Kafes zeminini her gün kürekleyip temizlemek, kompost yığınına katılacak düzenli bir altlık akışı sağlar. Kümes hayvanı barınağı planı için [küçük kümes kurmak](/kucuk-kumes-kurmak) yazısındaki yer, havalandırma ve yırtıcı koruma ilkeleri bıldırcın için de uyarlanabilir.
+
+## Hijyen ve sağlık
+
+Kuru ve temiz altlık, havalandırma ve düzenli temizlik hastalığı önleyen üç unsurdur. Islak altlık amonyak üretir ve solunum sorununa yol açar. Hastalık belirtileri: iştahsızlık, tüylerde dökülme, solunum sesi, sulu dışkı ve ani ölümler. Böyle durumlarda hasta kuşu ayırın ve veteriner hekime başvurun; kendi başınıza antibiyotik ya da ilaç vermeyin. Ani ve toplu ölümlerde il ya da ilçe tarım müdürlüğüne bildirim gerekebilir. Yeni kuşları sürüye katmadan önce iki üç hafta karantinada tutun.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Bıldırcın gübresi: bahçeye değeri
+
+Bıldırcın dışkısı azotça zengindir ve bahçe için değerli bir organik gübre olabilir; ama taze hâlde bitkiyi yakar. Altlık ve dışkıyı komposta alıp olgunlaştırın. Kompostlama ve kullanım kuralları için [tavuk gübresi nasıl kullanılır](/tavuk-gubresi-nasil-kullanilir) yazısı, benzer kümes gübrelerinin yakma riskini ve miktarını anlatır. Olgunluk için [kompost ne zaman hazır olur](/kompost-ne-zaman-hazir-olur) yazısına bakın. Çiğ yenen sebzelerde taze gübre kullanmayın.
+
+## Hobi bıldırcın yetiştirme maliyeti ve emek
+
+Kafes, ısı lambası, yemlik, suluk ve başlangıç yemi ilk yatırımı oluşturur; sonraki giderler yem ve altlıktır. Yumurta üretimi küçüktür: Bıldırcın yumurtası küçüktür ve bir dişi yılda çok sayıda verir ama ev tüketimi için birkaç kuş yeterlidir. Küçük bir ailenin tüketimine yetecek birkaç kuşla başlamak, öğrenme dönemini kolaylaştırır. Büyük bir kümes hayvanı işletmesi gibi düşünmeyin; hobi bıldırcın yetiştirme sabır, hijyen ve gözlem ister.
+
+## Sık yapılan hatalar
+
+Civciv ısısını tutarsız bırakmak en yaygın hatadır. Sıkışık kafes ikinci hatadır. Sert ve yüksek tavan baş yaralanmasına yol açar. Islak altlık hastalık ve koku getirir. Yırtıcıya karşı korumasız bırakmak da bir günde sürünün yok olmasına neden olabilir. Hasta kuşu ayırmamak ve ilaç denemek de sürüyü riske atar. Tarım müdürlüğü ve veteriner ile baştan iletişim kurmak, hobi bıldırcın yetiştirme işini sağlam temele oturtur.
+@sss
+S: Bıldırcın yetiştirme için ne kadar alan gerekir?
+C: Yetişkin bıldırcın başına çiftlik kaynakları yaklaşık yarım ila bir kare ayak (0,05–0,1 m²) önerir. Civciv döneminde Texas A&M belgesi ilk iki hafta kare ayak başına altıya kadar civciv öngörür. Sıkışık kafes gagalaşmaya yol açar.
+
+S: Bıldırcın civcivi hangi sıcaklıkta tutulur?
+C: İlk hafta yaklaşık 35–36 °C, ardından her hafta yaklaşık 3 °C düşürülerek tüylenme tamamlanınca 24 °C civarına inilir. Civcivlerin davranışı ısıyı gösterir: toplanıyorsa üşür, kaçıyorsa terler.
+
+S: Bıldırcın kaç haftalıkken yumurtlar?
+C: Çiftlik kaynaklarına göre genellikle yaklaşık 6–8 haftalıkken yumurtlamaya başlar. Yumurta verimi ışık, yem ve stres durumuna göre değişir.
+
+S: Bıldırcın dışkısı bahçede gübre olarak kullanılır mı?
+C: Evet ama taze hâlde yakıcıdır. Komposta alıp olgunlaştırdıktan sonra kullanın ve çiğ yenen sebzelerde taze gübre kullanmayın.
+
+### SORU
+yayin: 2027-03-22 10:30
+kategori: bahce-ipuclari
+baslik: Tavşan gübresini fide dikmeden önce yatağa serebilir miyim?
+metin: Evde iki tavşanımız var. Kuru gübrelerini bir torbada biriktiriyorum. Domates ve biber fideleri dikmeden önce yatağa serip karıştırmayı düşünüyorum. Bir sakınca var mı?
+@cevap Ahmet Sacit Çelik | 4
+Dikimden birkaç hafta önce serip toprağın üst birkaç santimine karıştırmak iyi bir yöntem; bu sürede yakıcı potansiyel azalır. İnce tabaka kullanın, yatağın tamamını gübreyle örtmeyin. Domates ve biber meyve verdikten sonra çiğ yenebilir; bu yüzden gübreyi hasattan çok önce uygulamış olmanız önemli. Bir miktar kompostlayıp karıştırırsanız daha da güvenli olur. Tavşanlarınız hasta değilse sorun yok.

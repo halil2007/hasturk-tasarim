@@ -1,0 +1,171 @@
+### YAZI
+slug: tahilda-tohum-ilaclama
+baslik: Tahılda Tohum İlaçlama: Ekim Öncesi Hangi Hastalıklara Karşı, Nasıl Yapılır?
+yayin: 2027-01-24 16:40
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: tahılda tohum ilaçlama
+seo_baslik: Tahılda Tohum İlaçlama: Ne Zaman ve Nasıl Yapılır?
+seo_aciklama: Tahılda tohum ilaçlama sürme, rastık ve kök çürüklüğüne karşı ekimden önce yapılır. Zamanı, ruhsatlı ürün ve etiket kontrolü, güvenlik kurallarını anlattık.
+ozet: Tahılda tohum ilaçlama, buğday ve arpada tohumla ve toprakla taşınan hastalıklara karşı ekimden önce tohuma uygulanan koruyucu işlemdir. Hangi hastalıkları hedeflediğini, zamanlamayı, ruhsatlı ürün ve etiket kontrolünü, güvenlik kurallarını ve ekim nöbeti gibi tamamlayıcı önlemleri Bakanlık yayınlarına dayanarak yazdık.
+etiketler: tohum ilaçlama, buğday hastalıkları, arpa, sürme, kök çürüklüğü, ruhsatlı ürün, hububat
+gorsel: bekliyor
+gorsel_alt: Ekim öncesi tohumluk buğday çuvalları ve yanında tohum karıştırma kabı
+urunler: leonardit-organik-toprak-duzenleyici
+kisaca: Tahılda tohum ilaçlama, buğday ve arpada sürme, rastık ve kök çürüklüğü gibi hastalıklara karşı ekimden önce tohuma bir kez uygulanan işlemdir. Yalnız Bakanlıkça ruhsatlı ürün ve etiketteki doz kullanılır; ruhsat durumu zamanla değiştiği için güncel listeyi Bakanlığın Bitki Koruma Ürünleri sisteminden kontrol edin.
+@govde
+Hububat tarlasında bir hastalığın ilk belirtisi çoğu zaman sonbaharda çıkan bodur ve sararmış sıra parçalarıdır; ama o hastalığın başlangıcı ekimden önce, tohumun üstünde ya da toprağın içindedir. Tohum ilaçlama bu başlangıca müdahale eden ilk basamaktır. Tahılda tohum ilaçlama, ucuz görünse de yanlış yapıldığında hem zayıf sonuç hem de sağlık ve çevre riski doğurur. Bu yazı ürün tavsiye etmez: hangi hastalıklara karşı, ne zaman ve hangi kurallarla yapıldığını anlatır; doz ve ürün için yalnız ruhsatlı ürünün etiketi esastır.
+
+## Tahılda tohum ilaçlama neyi hedefler?
+
+Tohum ilaçlaması, hastalık etmenlerinin tohumla ya da toprakla taşındığı hastalıklara karşı uygulanır. Bunlar arasında sürme ve rastık gibi tohumla taşınan hastalıklar ile kök ve kök boğazı çürüklükleri vardır. Tarım ve Orman Bakanlığı araştırma enstitüsünün çiftçi bülteni, hububat kök çürüklüğü hastalıklarına karşı kimyasal mücadelenin ekimden önce tohum ilaçlaması biçiminde uygulandığını, hastalığın şiddetli ve zararın yoğun olduğu alanlarda ise yeşil aksam ilaçlamasının ayrıca yapıldığını belirtir ([Bakanlık çiftçi bülteni: hububatta kök çürüklüğü hastalıkları](https://arastirma.tarimorman.gov.tr/zmmae/Belgeler/Kutu%20Menü/çiftçi%20bülteni/Hububatta%20kök%20çürüklüğü%20hastalıkları.pdf)). Hastalıkların tanınması için [buğday hastalıkları](/bugday-hastaliklari) yazısına bakabilirsiniz.
+
+| Hastalık grubu | Kaynağı | Tohum ilaçlaması rolü |
+|---|---|---|
+| Sürme, rastık | Tohum yüzeyi ve toprak | Ana koruma yöntemlerinden biri |
+| Kök ve kök boğazı çürüklüğü | Toprak ve bitki artığı | Başlangıç korumasını sağlar; ekim nöbeti ve toprak hazırlığı da gerekir |
+| Yaprak hastalıkları (pas, septorya) | Yeşil aksam, hava | Tohum ilaçlamasıyla önlenmez; ayrı mücadele ve çeşit seçimi gerekir |
+
+Tohum ilaçlaması her hastalığı çözmez. Yaprak hastalıkları ve havadan gelen sporlarla oluşan sorunlar başka yöntemlerle yönetilir; bu yüzden ilaçlamayı tek başına bir garanti olarak görmeyin.
+
+## Tahılda tohum ilaçlama ne zaman yapılır?
+
+Zamanlama basit bir kurala dayanır: ekimden önce, bir kez. Bakanlığın hububat hastalıkları standart ilaç deneme yöntemleri belgesi, ilaçlamanın ekimden önce tohum ilaçlaması olarak bir defa yapıldığını ve ekimin toprak sıcaklığı 10 derecenin altına indiğinde yapılmasının daha uygun olduğunu kaydeder ([TAGEM hububat hastalıkları standart ilaç deneme metotları](https://www.tarimorman.gov.tr/TAGEM/Belgeler/BitkiSagligi/Hububat%20Hastalıkları%20Standart%20İlaç%20Deneme%20Metotları.pdf)). Ekim tarihini bölgenize göre belirlemek için [buğday ekim zamanı ve tohum miktarı](/bugday-ekim-zamani) ve [arpa ekimi](/arpa-ekimi) yazılarına bakın. İlaçlı tohumu ekimden çok önce hazırlayıp bekletmeyin; ekim planlandıktan sonra, ekimden kısa süre önce hazırlamak daha güvenlidir.
+
+## Tohum ilaçlamayı kimler düşünmeli?
+
+Her tarlada aynı baskı yoktur. Tahılda tohum ilaçlama, önceki yıllarda sürme, rastık ya da kök çürüklüğü görülen tarlalarda, aynı parsele art arda hububat ekilen yerlerde ve ekim dönemi soğuk ve ıslak geçen bölgelerde daha anlamlıdır. Sertifikalı tohumluk bazı durumlarda zaten ilaçlı satılır; çuvalın üzerindeki etiket bunu belirtir ve çift ilaçlama gereksiz olur. Kendi tohumluğunu ayırıp saklayan çiftçi için ise tohumun temizliği, kırık ve hastalıklı daneleri ayıklaması ve ekime kadar kuru saklanması da ilaçlama kadar önemlidir. Tahılda tohum ilaçlama kararını vermeden önce tarlanın geçmişini, tohumun kaynağını ve bölgenin tarım müdürlüğünün önerisini birlikte değerlendirin.
+
+## Ruhsatlı ürün ve etiket: iki vazgeçilmez kural
+
+Bitki koruma ürünleri Bakanlık ruhsatıyla satılır ve her ürünün etiketinde hangi bitkide, hangi zararlı ya da hastalığa karşı, hangi dozda ve nasıl kullanılacağı yazar. Ruhsat durumu zamanla değiştiği için hangi ürünün güncel olarak ruhsatlı olduğunu yazılı bir listeden değil, Bakanlığın Bitki Koruma Ürünleri Bilgi sisteminden kontrol edin ([Bakanlık BKÜ sistemi](https://bku.tarimorman.gov.tr/)). Burada "hububat" ve hedef hastalık adıyla arama yapabilirsiniz.
+
+Etiket kuralları şunlardır:
+
+- Ürün hububat tohumu için ruhsatlıysa kullanın; ruhsatsız ya da başka bitki için ruhsatlı ürünü tohumda denemeyin.
+- Dozu etikete göre ayarlayın; fazlası tohumun çimlenmesini bozabilir ve riski artırır.
+- Etiketteki koruyucu ekipman ve uygulama koşullarına uyun.
+- İlaçlı tohumu gıda ya da yem olarak kullanmayın, artığı etikete uygun biçimde bertaraf edin.
+
+Alınan ürün için fatura ve etiket bilgisini saklayın; ihtiyaç hâlinde il ya da ilçe tarım müdürlüğünden teknik görüş alabilirsiniz.
+
+## Uygulama: tohumu ilaçlarken nelere dikkat edilir?
+
+Uygulamanın ayrıntısı ürüne göre değişir; genel ilkeler ise ortaktır. Tohumun ilaçla eşit kaplanması gerekir; bu yüzden uygun bir karıştırma düzeneği (tohum ilaçlama makinesi, uygun karıştırıcı) kullanılır ve el ile yapılacaksa kapalı bir alanda, koruyucu eldiven, maske ve gözlükle çalışılır. Rüzgârlı ve çocukların, hayvanların bulunduğu alanlardan uzak bir yer seçin. Tohum ve ilaç miktarını tartarak ayarlayın; göz kararı doz sapma yaratır. İşlem sonrası tohumu etikette belirtilen koşullarda bekletin ve ekimde ekim makinesinin tohum dağılımını doğru yaptığından emin olun.
+
+::: adimlar
+Hedef hastalığı belirleyin | Geçmiş yıldaki sürme, rastık ya da kök çürüklüğü sorununu not edin.
+Ruhsatlı ürünü kontrol edin | Bakanlığın BKÜ sisteminde hububat için ruhsatlı ürünü bulun ve etiketini okuyun.
+Dozu hesaplayın | Tohum miktarını tartın ve etikete göre ürün miktarını belirleyin.
+Güvenli ortamda uygulayın | Koruyucu ekipmanla, rüzgârsız ve kapalı bir alanda, eşit kaplamayla işlemi yapın.
+Ekin ve kayıt tutun | Tohumu ekime yakın zamanda ekin; ürün adı, tarih ve dozu kayda geçirin.
+:::
+
+## İlaçsız tamamlayıcı önlemler
+
+Tohum ilaçlama tek başına yeterli değildir; hastalık baskısını azaltan yöntemlerle birlikte kullanıldığında anlam kazanır. Sertifikalı tohum kullanmak hastalıklı ve karışık tohum riskini azaltır ([sertifikalı tohum nedir](/sertifikali-tohum-nedir)). Ekim nöbeti hastalık etmenlerinin toprakta birikmesini kırar; aynı tarlaya her yıl buğday ekmek kök çürüklüklerini artırır. Ekimi toprak yeterince soğuyunca yapmak ve aşırı derin ya da sıkışık ekimden kaçınmak çıkışı güçlendirir; ayrıca ıslak, drenajı kötü tarlada kök hastalıkları artar ([tarlada su göllenmesi](/tarlada-su-gollenmesi)). Yabancı ot ve bitki artığı yönetimi de önemlidir; ayrıntılar için [tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi) yazısına bakın. Toprağın organik maddesini artırmak da kök sağlığını destekler.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+Hastalık ya da çimlenme sorunu yaşıyorsanız ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın; doz ve ürün kararı için yalnız ruhsatlı ürünün etiketi esastır. Toprak düzenleyici ve gübre konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Tahılda tohum ilaçlama ne zaman yapılır?
+C: Ekimden önce, bir kez yapılır. Bakanlığın hububat hastalıkları deneme yöntemi, ekimin toprak sıcaklığı 10 derecenin altında yapılmasını daha uygun bulur. İlaçlı tohumu ekime yakın hazırlayın.
+
+S: Tohum ilaçlama hangi hastalıklara karşıdır?
+C: Sürme ve rastık gibi tohumla taşınan hastalıklara ve kök ve kök boğazı çürüklüklerine karşı koruma sağlamak için uygulanır. Yaprak hastalıklarını (pas, septorya) önlemez; onlar için ayrı yöntemler gerekir.
+
+S: Hangi tohum ilacını kullanmalıyım?
+C: Bakanlığın Bitki Koruma Ürünleri sisteminde hububat için ruhsatlı ürünlere bakın; ruhsat zamanla değişir. Dozu ve uygulamayı ürünün etiketine göre yapın, ziraat mühendisine danışın.
+
+S: İlaçlı tohum artarsa ne yapılır?
+C: İlaçlı tohum gıda ya da yem olarak kullanılmaz. Artığı etikette yazan bertaraf kurallarına göre elden çıkarın ve çocuk ve hayvanlardan uzak, kapalı bir yerde saklayın.
+
+### YAZI
+slug: tarlada-patates-yetistirme
+baslik: Tarlada Patates Yetiştirme: Ekimden Söküme Dekar Planı
+yayin: 2027-01-24 19:30
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: tarlada patates yetiştirme
+seo_baslik: Tarlada Patates Yetiştirme: Ekimden Söküme Plan
+seo_aciklama: Tarlada patates yetiştirme: tohumluk, toprak ısısı, sıra arası, derinlik, boğaz doldurma, gübre ve söküm için dekar planı, il tarım müdürlüğü kaynaklarıyla.
+ozet: Tarlada patates yetiştirme, sertifikalı tohumluk ve ısınmış toprakla başlar; sıra arası 70–75 cm, sıra üzeri 20–40 cm, boğaz doldurma düzenli çapalarla yapılır. Dekar için tohumluk ve yumru hesabını, dikim derinliği ve sırtı, gübre ve sulama zamanını, sökümü il tarım müdürlüğü yayınlarına dayanarak yazdık.
+etiketler: patates yetiştirme, tarla patatesi, boğaz doldurma, tohumluk patates, sıra arası, söküm
+gorsel: bekliyor
+gorsel_alt: Sıra sıra boğazı doldurulmuş patates tarlası ve yanında filizlenmiş tohumluk yumrular
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Tarlada patates yetiştirme, toprağın 8–10 derece ısındığı ve geç donların bittiği dönemde sertifikalı, filizlenmiş tohumlukla başlar. İl müdürlüğü yayınlarında sıra arası 70–75 cm, sıra üzeri 20–40 cm verilir; bitkiler yaklaşık 10 cm boylanınca her çapayla boğaz doldurulur. Bir dekarlık alan için tohumluk ve yumru sayısını önceden hesaplayın.
+@govde
+Patates saksıda eğlence, tarlada ise bir planlama işidir: yumru sayısı, sıra aralığı, dikim derinliği ve boğaz doldurma zamanı verimi belirler. Tarlada patates yetiştirme, sofralık yumruyu bol miktarda ve düzenli veren; ama tohumluk, toprak ve sulama dengesini isteyen bir üretimdir. Aşağıda ekimden söküme kadar bir dekarlık plan veriyoruz; sayılar Tarım ve Orman Bakanlığı il müdürlüklerinin yayınlarından alınmıştır ve bölgeye göre değişebilir. Kendi ilinizin müdürlüğüyle teyit edin. Balkon ve kova ölçeği için [saksıda patates yetiştirme](/saksida-patates-yetistirme) yazısına bakabilirsiniz.
+
+## Tarlada patates yetiştirme: tohumluk seçimi ve hazırlığı
+
+İl tarım müdürlüğü yayınları sertifikalı tohumluk kullanılmasını önerir; ekim sırasında tohumluk yumruların gözlerinin uyanmış olması ve yaklaşık 1 santim boyunda yeşil filizlerinin bulunması beklenir ([Ardahan İl Tarım Müdürlüğü patates yetiştiriciliği](https://ardahan.tarimorman.gov.tr/BelgelerArsiv/PATATES%20YETİŞTİRİCİLİĞİ%20(1)%20(1).docx)). Sertifikalı tohumluk, hastalıklı ve karışık yumru riskini azaltır; ayrıntı için [sertifikalı tohum nedir](/sertifikali-tohum-nedir) yazısına bakın. Tohumluğu ekimden önce ışıklı, serin bir yerde filiz vermesi için bekletmek yaygın bir uygulamadır. Patates hastalıkları ve zararlıları için [patates hastalıkları](/patates-hastaliklari) ve [patates böceği](/patates-bocegi) yazılarına göz atın.
+
+## Tarla seçimi ve ekim nöbeti
+
+Tarlada patates yetiştirme planı, ekimden bir yıl önce başlar: önceki ürün hangisiydi? Patatesi arka arkaya aynı tarlaya ekmek toprak kaynaklı hastalık ve zararlıları biriktirir; domates, biber ve patlıcan gibi aynı ailedeki bitkilerin ardından patates ekmek de aynı riski taşır. Tahıl ya da baklagil sonrası gevşek bir parsel daha uygun bir başlangıçtır; ekim nöbeti ilkeleri için [ekim nöbeti](/ekim-nobeti) yazısına bakın. Taşlı, ağır ya da su toplayan parsellerde yumrular şekilsizleşir ve çürür; sulama suyuna erişimi olan, rüzgâr ve don çukuruna düşmeyen bir parsel seçin. Tarlada patates yetiştirme, tohum parası ve emek açısından küçümsenmeyecek bir yatırım olduğu için bu seçim üretimin yarısını belirler.
+
+## Toprak ve dikim zamanı
+
+Patates gevşek, derin, iyi süzülen ve çok taşlı olmayan toprağı sever. Il müdürlüğü yayınları patatesin ilkbaharda toprak sıcaklığının 8–10 dereceye ulaştığı ve geç donların sona erdiği zaman dikilmesini önerir ([Şırnak İl Tarım Müdürlüğü patates yetiştiriciliği](https://sirnak.tarimorman.gov.tr/BelgelerArsiv/Yayınlar/Patates%20Yetiştiriciliği.pdf)); dikim tarihi bölgeye göre farklı aylara denk gelir, bu yüzden takvimden çok toprak ısısına bakın. Su göllenen, ağır ve drenajı kötü tarlada yumru çürür ([tarlada su göllenmesi](/tarlada-su-gollenmesi)). Tarlaya girmeden önce toprak analizi yaptırmak gübre kararını kolaylaştırır; numune alma için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın.
+
+## Dikim aralığı, derinlik ve sırt
+
+İl müdürlüğü yayınlarında yaygın değerler sıra arası 70–75 cm, sıra üzeri 20–40 cm şeklindedir; tohumluk üretiminde yumrular daha sık, sofralık üretimde daha seyrek dikilir. Dikim derinliği yüzlek dikimde yaklaşık 2 cm, derin dikimde yaklaşık 5 cm olarak verilir; dikimden sonra yüzlek dikilenlerin üzerine en az 15 cm, derin dikilenlerin üzerine yaklaşık 10 cm toprak çekilerek sırt yapılır ([Antalya İl Tarım Müdürlüğü patates yetiştiriciliği](https://antalya.tarimorman.gov.tr/Belgeler/Yetiştirici%20Bilgileri/Patates%20Yetiştiriciliği.pdf)). Kaynaklar yükseklik ve tarihlerde birbirinden az farklı değerler verdiği için kendi ilinizin önerisine bakın.
+
+| Bir dekarlık (1000 m²) alan için hesap örneği | Değer | Nasıl hesaplanır? |
+|---|---|---|
+| Sıra arası | 75 cm | Yayınlardaki 70–75 cm aralığı |
+| Sıra üzeri | 30 cm | 20–40 cm aralığının ortası |
+| Toplam sıra uzunluğu | yaklaşık 1330 m | 1000 m² ÷ 0,75 m |
+| Yumru sayısı | yaklaşık 4400 | 1330 m ÷ 0,30 m |
+| Tohumluk ağırlığı | yaklaşık 200–250 kg | Antalya yayınında sulu koşulda verilen ortalama |
+
+Hesap örneği kaba bir yöndür: yumru boyutuna ve sıra üzeri mesafeye göre tohumluk miktarı değişir; kuru koşulda Antalya yayını dekara yaklaşık 150 kg tohumluğu yeterli bulur.
+
+## Boğaz doldurma, sulama ve gübre
+
+Çıkıştan sonra bitkiler yaklaşık 10 cm boya ulaşınca her çapayla birlikte boğaz doldurma yapılır; yayınlarda bu işlem yaklaşık 20 gün arayla ve gerektiğinde üç dört kez önerilir. Boğaz doldurma yumruları ışıktan korur (yeşillenmeyi önler), sırtı yükseltir ve yabancı otu da bastırır. Yabancı ot mücadelesi için [tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi) yazısına bakabilirsiniz.
+
+Gübrelemede azotlu gübrenin bir kısmı dikimde, kalanı boğaz doldurmayla ve ilk sulamadan önce verilir; tam doz toprak analizine göre belirlenir. Besin dengesi için [patates gübreleme](/patates-gubreleme) yazısı ayrıntı verir. Organik madde katkısı yumru kalitesini de destekler.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Sulama düzenli ve dengeli olmalıdır: yumru oluşumunda ve irileşmede su stresi verimi ve kaliteyi düşürür, fazla ve düzensiz su ise çürüme ve çatlama yapar. Sulama zamanlaması için toprak nemini elle ya da ölçerle kontrol edin ([toprak nem ölçer](/toprak-nem-olcer)).
+
+## Söküm ve saklama
+
+Yaprak ve saplar sararıp kurumaya başladığında ve yumru kabuğu sertleşince söküm zamanıdır. Sökümü kuru bir günde yapın, yumruları yaralamadan çıkarın ve tarlada kısa süre kurutun. Yaralı, çürük ve yeşillenmiş yumruları ayırın. Sökümden sonra yumruları güneşte uzun süre bırakmayın; ışık yumruyu yeşillendirir ve yeşil kısımlar yenmez. Torba ya da kasaya doldurmadan önce toprağı kabaca silkeleyin, yıkamayın ve serin, karanlık bir yere alın. Tohumluk ayıracaksanız sağlıklı, orta boy yumruları ayırın. Saklama koşulları için [patates depolama](/patates-depolama) yazısına bakın.
+
+::: adimlar
+Tohumluğu hazırlayın | Sertifikalı yumruları ışıklı serin yerde filizlendirin.
+Toprağı hazırlayın | Analizle gübreyi belirleyin, tarlayı gevşetin ve toprak 8–10 dereceyi bulunca dikin.
+Dikin ve sırt çekin | Sıra arası 70–75 cm, sıra üzeri 20–40 cm; üzerine sırt yapın.
+Boğaz doldurun | Bitki 10 cm olunca her çapayla yapın; gübrenin kalanını verin.
+Sulayın ve izleyin | Düzenli ve dengeli sulayın; hastalık ve zararlıları takip edin.
+Sökün ve ayırın | Yapraklar kuruyunca kuru günde sökün, yaralı ve yeşil yumruları ayırın.
+:::
+
+Yetiştiricilik ayrıntıları ilden ile değiştiği için bulunduğunuz ilin tarım müdürlüğü ve ziraat mühendisinden bölgesel öneri alın. Toprak ve gübre konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Tarlada patates yetiştirme için sıra arası ve sıra üzeri kaç santim olmalı?
+C: İl tarım müdürlüğü yayınlarında sıra arası 70–75 cm, sıra üzeri 20–40 cm verilir. Tohumluk üretiminde yumrular daha sık, sofralık üretimde daha seyrek dikilir; ilinizin önerisini teyit edin.
+
+S: Patates ne zaman dikilir?
+C: Toprak sıcaklığı 8–10 dereceyi bulduğunda ve geç donlar bittiğinde dikilir. Tarih bölgeye göre değişir; takvimden çok toprak ısısına ve don riskine bakın.
+
+S: Boğaz doldurma nedir, ne zaman yapılır?
+C: Bitkinin dibine toprak çekmektir. Bitkiler yaklaşık 10 cm boya ulaşınca her çapayla birlikte yapılır; yayınlarda 20 gün arayla ve gerektiğinde üç dört kez önerilir. Yumruları yeşillenmeden korur.
+
+S: Bir dekara kaç kilo tohumluk patates gerekir?
+C: Antalya İl Müdürlüğü yayınında sulu koşulda dekara yaklaşık 200–250 kg, kuru koşulda yaklaşık 150 kg tohumluk yeterli görülür. Yumru boyutu ve sıra üzeri mesafeye göre değişir.
+
+### SORU
+yayin: 2027-01-24 18:05
+kategori: sebze-meyve
+baslik: Tohum ilaçlama yaptırmadan buğday ekersem ne olur, zorunlu mu?
+metin: İki dekar buğday ekeceğim, sertifikalı tohumluk aldım. Tohumluğu ayrıca ilaçlamam gerekiyor mu, ilaçlamazsam verim düşer mi?
+@cevap Mehmet Fatih Çelik | 2
+Tohum ilaçlama sürme, rastık ve kök çürüklüğü gibi hastalıklara karşı ekim öncesi alınan koruyucu bir önlemdir; ne zorunlu olduğuna ne de her tarlada gerekli olduğuna tek bir cevap vermek doğru olmaz. Sertifikalı tohumluk bazen ilaçlı satılır; paketin etiketini kontrol edin. Önceki yıllarda tarlada sürme ya da kök çürüklüğü gördüyseniz ilaçlama daha anlamlıdır. İlaçlayacaksanız Bakanlığın Bitki Koruma Ürünleri sisteminde hububat için ruhsatlı ürünü bulun ve etikete göre doz ve koruyucu ekipmanla uygulayın. İlaçsız tamamlayıcı önlemler de önemlidir: ekim nöbeti, uygun ekim tarihi ve drenajı iyi tarla. Kesin karar için il ya da ilçe tarım müdürlüğüne danışın.

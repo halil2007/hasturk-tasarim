@@ -1,0 +1,531 @@
+### YAZI
+slug: ceviz-gubreleme-ceviz-agaci
+baslik: Ceviz Gübreleme: Ceviz Ağacı Ne Zaman ve Neyle Beslenir?
+yayin: 2027-02-09 19:40
+yazar: Rümeysa Altınova
+kategori: gubreleme
+odak: ceviz gübreleme
+seo_baslik: Ceviz Gübreleme: Ağaç Ne Zaman ve Neyle Beslenir?
+seo_aciklama: Ceviz gübreleme zamanı ve yöntemi: azotu bölme, temmuz yaprak analizi, çinko eksikliği belirtisi, taç izdüşümüne uygulama ve genç ağaçla yetişkin ağaç farkı.
+ozet: Ceviz ağacı azota ve çinkoya duyarlıdır; gübre ihtiyacı en güvenilir şekilde temmuzda alınan yaprak analiziyle ve toprak analiziyle belirlenir. Azotun mart–haziran arasında bölünerek verilmesini, çinko eksikliği belirtisini ve genç ağaçla yetişkin ağaç farkını anlattık.
+etiketler: ceviz gübreleme, ceviz ağacı, azot, çinko, yaprak analizi, taç izdüşümü, meyve bahçesi
+gorsel: bekliyor
+gorsel_alt: Ceviz ağacı altında taç izdüşümü hattında toprağa serpilmiş organik gübre ve yanında yaprak örneği torbası
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, kati-solucan-gubresi-20-kg
+kisaca: Ceviz gübreleme, yaprak ve toprak analizine göre planlanır: En güvenilir yaprak örneği temmuzda alınır. Azotun büyük kısmı mart ile haziran arasında, bölünerek ve taç izdüşümüne verilir; sonbahar ve kışta verilmez. Çinko eksikliği yaprakta erken sezonda görülür ve çoğunlukla kumlu topraklarda ortaya çıkar.
+@govde
+Ceviz, bahçedeki en uzun ömürlü ve en büyük ağaçlardan biridir. Bu da gübre kararlarını zorlaştırır: Yirmi yaşındaki bir cevizin yıllık besin ihtiyacı, üç yaşındaki bir fidanınkine hiç benzemez. Ceviz gübreleme için bahçıvanların en çok sorduğu sorular ne zaman, ne kadar ve neyle olduğudur. Bu yazı, elimizdeki sınırlı ve çoğu Kaliforniya kaynaklı veriyi bölgenize uyarlama uyarısıyla birlikte, ölçülü bir çerçeve olarak sunuyor.
+
+## Ceviz gübreleme ne zaman başlar?
+
+Kaliforniya Üniversitesi'nin yayınlarına göre olgun cevizde azotun büyük bölümü mart ile haziran–temmuz arasında verilir; genç ağaçlarda ilkbahar ortası ve yaz başı önerilir ve ağustostan sonraki geç uygulamalardan kaçınılır. UC IPM, sonbahar ve kış gübrelemesine karşı uyarıyor ([UC IPM gübre zamanlaması sayfası](https://ipm.ucanr.edu/PMG/C881/m881bcferttime.html)). Gerekçesi şudur: Sonbaharda verilen azot yumuşak ve geç sürgünü teşvik eder; bu sürgün kışın donla zarar görür. Ceviz de erken açan çiçeklenme ve geç donlara hassas bir türdür.
+
+Bu zamanlama Kaliforniya iklimi için verilmiştir. Türkiye'de ceviz yetiştirilen bölgeler (iç ve kuzey kesimler, serin yüksek yerler) bu ritme yakın gider, ama ilkbahar başlangıcı bir iki hafta kayar. Kış sonunda toprak ısınıp ağaç uyanırken başlayıp temmuz başına kadar bölünmüş uygulama planlamak, ana çerçeve olarak yeterlidir.
+
+::: takvim
+İlk azot uygulaması (ağaç uyanırken) | 3-4
+İkinci azot uygulaması | 5-6
+Yaprak örneği alma | 7-7
+Sonbahar ve kış (azot verilmez) | 10-2
+:::
+
+## Gübreyi analiz belirler: yaprak ve toprak
+
+Çok yıllık ağaçta yalnızca toprak analizi yeterli değildir; yaprak, ağacın o yılki gerçek beslenmesini yansıtır. California Gübre Araştırma Programı ve UC danışmanları, ceviz yaprak örneğinin temmuzda alınmasını öneriyor; çünkü yapraktaki besin düzeyi bu dönemde dengelenir. Yayınlarda temmuz yaprağında azot oranının yüzde 2,1'in altında olması azot yetersizliğine, yüzde 2,3–2,8 arası yeterli düzeye, yüzde 3,2'nin üstü ise aşırı azota işaret ediyor. Bu eşikler Kaliforniya'daki Fars cevizi için verilmiştir; Türkiye'deki çeşitler ve laboratuvar yöntemleri için kendi laboratuvarınızın referans aralığına bakın.
+
+Yani yaprak analizi hem eksiği hem fazlalığı gösterir. Aşırı azot, "ağaç iyi görünüyor" izlenimi verse de verimi ve meyve kalitesini düşürebilir. Yaprak ve toprak örneğinin nasıl alınacağı için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına, sonuçların okunması için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısına bakabilirsiniz.
+
+## Azot, fosfor, potasyum: ceviz ne ister?
+
+Ceviz, azota en çok tepki veren meyve ağaçlarındandır. Azot sürgün gelişimini, yaprak büyümesini ve dolayısıyla verimi belirler. Fosfor ve potasyum çoğu toprakta yeterli olabilir; yalnızca analiz düşük gösterdiğinde verilir. Potasyum, meyve dolumu ve kabuk kalitesi açısından önemlidir; fosfor kök gelişimi ve çiçeklenme içindir. Hepsini birden vermek yerine analizin gösterdiği eksik besini tamamlayın.
+
+| Besin | Ağaçtaki görevi | Ne zaman verilir? |
+|---|---|---|
+| Azot | Sürgün, yaprak, verim | Mart–haziran, bölünerek |
+| Fosfor | Kök, çiçeklenme | Analiz düşükse, ilkbahar |
+| Potasyum | Meyve dolumu, kabuk | Analiz düşükse, meyve dolumuna kadar |
+| Çinko | Yaprak ve sürgün normal gelişimi | Eksikse, erken sezon |
+
+## Çinko eksikliği: yapraktan tanımak
+
+Ceviz çinko eksikliğine duyarlıdır. UC Butte County danışmanları çinko eksikliğinin kumlu topraklarda ve eski hayvan ağılı yerlerinde yaygın olduğunu, sezonun başında yaprak belirtilerinden kolayca tanınabildiğini yazıyor. Belirti, genç yapraklarda küçülme, sararma ve sürgün ucunda kümelenme biçiminde görülür. ABD Orman Servisi'nin bir çalışması, yapraktan çinko uygulamasının yaprak çinko düzeyini artırdığını ama ceviz üretimini etkilemediğini bildirmiştir ([USDA Orman Servisi çinko çalışması](https://research.fs.usda.gov/treesearch/43805)); aynı çalışma çinko aralığını 25–100 ppm olarak veriyor. Kaynaklar arasında eşik farkları olduğundan, laboratuvarınızın referansına bakın.
+
+Çinko uygulamasını kendiniz tahmin etmeyin. Belirti çinkoya benzese de aslında su stresi ya da başka eksiklikler de yapraklarda benzer görünüm yaratabilir. Önce yaprak analizi yaptırın; sonuca göre il ya da ilçe tarım müdürlüğünden ya da bir ziraat mühendisinden öneri alın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Nasıl uygulanır? Taç izdüşümü ve toprağa karıştırma
+
+Ceviz gübreleme için gübre, ağacın taç izdüşümüne serilir ve hafifçe toprağa karıştırılır. Ceviz kökü derin ve geniş yayılır; ince besin kökleri taç hattının çevresindedir. Gübreyi gövdeye yığmayın. Uygulamadan sonra sulama ya da yağış gübrenin kök bölgesine inmesini sağlar. Genç ağaçlarda taç dar olduğundan gübre gövdeden bir miktar uzağa, çevre boyunca verilir ve her yıl ağaç büyüdükçe daire genişler. Ayrıntı için [meyve ağacına solucan gübresi](/meyve-agacina-solucan-gubresi-tac-izdusumu) yazısına bakın; uygulama mantığı cevizde de aynıdır.
+
+HasTürk katı solucan gübresi ürün açıklamasında ceviz de uygun meyve ağaçları arasında sayılıyor; yazılı ölçü yalnızca fidan dikimi için verilmiş (fidan çukuruna fidan başına 1,5–2 kg). Yetişkin ceviz için yazılı bir doz yoktur ve yukarıdaki analiz yaklaşımı geçerlidir. Organik gübre azot ihtiyacını yavaş ve düzenli karşılar, ama hızlı bir azot eksikliğini tek başına gidermeyebilir; bu durumda analiz sonucuna göre ek tedbir gerekir.
+
+## Genç ağaç, yetişkin ağaç
+
+Genç cevizin ilk yılları kök kurma ve gövde şekillendirme dönemidir. Bu dönemde aşırı azot kökleri değil sürgünü büyütür ve ağacı zayıf bırakabilir. Dikimde çukura karıştırılan olgun organik madde ve ilkbaharda ölçülü bir takviye yeterlidir; fidan beslenmesi için [fidan gübreleme](/fidan-gubreleme) yazısı yol gösterir. Ceviz fidanı dikimi ve ilk yıllar için [ceviz yetiştirme](/ceviz-yetistirme) yazısına bakın.
+
+Yetişkin ağaç meyve verirken, yılda bir yaprak analiziyle izlenir. Aşırı bol ürün veren yılın ardından ağaç yorgun olabilir; bu durumda dengeli besin ve su desteği gerekir. Budamanın gübrelemeyle ilişkisi için [ceviz budama](/ceviz-budama) yazısına göz atabilirsiniz; aşırı budama güçlü sürgün ve düşük verim üretebilir.
+
+## Gübre ile ceviz hastalıkları
+
+Fazla azot yumuşak yaprak ve sürgün üretir; bu doku hastalıklara daha açıktır. Ceviz yaprak ve kabuk lekelerini [ceviz hastalıkları](/ceviz-hastaliklari) yazısında anlattık. Dengeli beslenme bu hastalıkların seyrini hafifletir ama yerini tutmaz.
+
+## Küçük bir plan
+
+Ceviz ağacınız yoksa, yeni fidan dikmeden önce toprak analizi yaptırın. Mevcut ağacınız varsa ilkbaharda ilk gübreyi ağaç uyanırken verin, mayıs–haziranda ikinci bir ölçülü uygulama yapın, temmuzda yaprak örneği alıp laboratuvara gönderin ve sonucu bir deftere kaydedin. Ertesi yıl gübre miktarını bu sonuca göre ayarlayın. Üç yıl sonra ağacınızın ihtiyacı bir tahmin değil, kayıtlı bir veri olur.
+@sss
+S: Ceviz gübreleme ne zaman yapılır?
+C: Olgun cevizde azotun büyük bölümü mart ile haziran–temmuz arasında, bölünerek verilir. Kaliforniya Üniversitesi sonbahar ve kış uygulamasına karşı uyarıyor; geç azot yumuşak sürgünü teşvik eder ve donda zarar görür.
+
+S: Ceviz yaprak analizi ne zaman yapılır?
+C: Kaliforniya kaynakları örneği temmuzda almayı öneriyor; çünkü yapraktaki besin düzeyi bu dönemde dengelenir. Sonuçlar ağacın gerçek beslenmesini gösterir. Kendi laboratuvarınızın referans değerlerine bakın.
+
+S: Cevizde çinko eksikliği nasıl anlaşılır?
+C: Genç yapraklar küçük ve sarımsı kalır, sürgün ucunda kümelenme görülür. Kumlu topraklarda ve eski ağıl yerlerinde sık olur. Su stresi benzer görünebilir; analiz yaptırmadan çinko uygulamayın.
+
+S: Cevize kaç kilo gübre verilir?
+C: Ağaç başına tek bir doz yoktur; yaşa, toprağa ve yaprak analizine göre değişir. Ürün açıklamasındaki yazılı ölçü yalnızca fidan dikimi içindir: çukura fidan başına 1,5–2 kg. Yetişkin ağaç için analizle planlayın.
+
+### YAZI
+slug: topraksiz-cilek-uretimi-oluk-torba
+baslik: Topraksız Çilek Üretimi: Oluk ve Torba Sistemi
+yayin: 2027-02-09 08:45
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: topraksız çilek üretimi
+seo_baslik: Topraksız Çilek Üretimi: Oluk ve Torba Sistemi
+seo_aciklama: Topraksız çilek üretimi nasıl kurulur? Yükseltilmiş oluk ve torba sistemleri, kokopit-torf-perlit ortamı, damla besleme ve gün nötr çeşit seçimi.
+ozet: Topraksız çilek üretimi, çilek fidelerini toprak yerine torba ya da oluk içindeki kokopit, torf ve perlit karışımında, damla sulamayla yetiştirir. Oluk ve torba sistemlerinin farkını, ortam seçimini, sık besleme gereğini, gün nötr çeşitleri ve sistemin maliyet ile zahmet dengesini anlattık.
+etiketler: topraksız çilek, çilek oluk sistemi, torba kültürü, kokopit, gün nötr çilek, yükseltilmiş çilek, damla sulama
+gorsel: bekliyor
+gorsel_alt: Yükseltilmiş beyaz olukta sıra sıra dizilmiş çilek bitkileri, sarkan kırmızı meyveler ve damla sulama hattı
+urunler: albion-cilek-fidesi-6-adet, hg-cilek-topragi, hindistan-cevizi-torfu-tablet-cocopeat-12-adet
+kisaca: Topraksız çilek üretimi, çileği torba ya da yükseltilmiş oluk içindeki kokopit, torf ve perlit ortamında damla sulamayla yetiştirmektir. Kök hacmi sınırlı olduğu için düzenli ve sık besleme gerekir; yükseltilmiş sistemler hasadı ve hijyeni kolaylaştırır. Gün nötr çeşitler (örneğin Albion) uzun süre meyve verir. Su kültürü sistemlerinde verim düşük kalır.
+@govde
+Çilek, topraksız yetiştirmenin en çok denenen meyvelerinden biridir. Bitki küçük, kökü yüzeyseldir, meyvesi yerden uzak tutulunca temiz ve sağlıklı kalır. Üstelik çilek toprağı hastalıklarla ve ot sorunlarıyla bir ömür uğraştırır. Topraksız çilek üretimi bu sorunları ortadan kaldırmayı vaat eder; ama kökler az hacimde çalıştığı için hata payı da azdır. Aşağıda iki yaygın sistemi, oluk ve torbayı, nasıl kurulduklarını ve nelere dikkat edileceğini anlatıyoruz.
+
+## Topraksız çilek üretimi nasıl yapılır?
+
+Topraksız çilek üretiminde fideler, toprak yerine bir yetiştirme ortamında durur: torf, kokopit, perlit ya da bunların karışımları. Ortam bir torbada ya da bir olukta tutulur; bu kaplar çoğu zaman yerden yükseltilir. Besin ve su, damla sulama hatlarıyla her bitkiye ölçülü verilir. Fazla çözelti kaptan süzülür. Florida Üniversitesi'nin yıllar süren denemelerinde "oluk üzerinde torba" ve "polikarbonat oluk" sistemleri karşılaştırılmış; torf karışımı ya da perlitli torbalarda pazarlanabilir verim daha yüksek çıkmıştır (Florida Eyalet Bahçe Bitkileri Derneği bildirileri).
+
+Yani kavram basittir: Çilek, ortamın içinde değil üstündeki bir hazneden beslenir. Başarı, dengeyi kurmaktadır: Ortam çok kuru kalmamalı, çok ıslak da olmamalı.
+
+## Oluk mu, torba mı?
+
+İki sistem de yükseltilmiş kurulabilir ve ikisinin de avantajı farklıdır.
+
+| Özellik | Torba sistemi | Oluk sistemi |
+|---|---|---|
+| Kap | Kapalı torba ya da saksı | Açık ya da yarı açık oluk |
+| Ortam hacmi | Bitki başına daha belirgin | Sıralı, paylaşımlı |
+| Kurulum | Torbayı oluk üzerine asmak ya da yere dizmek | Direkler üzerine oluk monte etmek |
+| Hijyen | Torba tek kullanımlık olabilir | Olukların temizlenmesi gerekir |
+| Hasat | Yükseltilmişse rahat | Yükseltilmişse rahat |
+
+Ohio Eyalet Üniversitesi'nin yayını, yükseltilmiş "masa üstü" sistemin bir ayaklar yapısı üzerine oturan oluğun içindeki kap ya da torbalarda ortam tutmasını anlatıyor; bu sistemin Kuzey Amerika'da küçük, Japonya ve diğer Asya ülkelerinde ise büyük bir sistem olduğunu belirtiyor ([Ohio State üretim sistemleri sayfası](https://ohceac.osu.edu/CEBPI-Production-Systems-Structures)). Aynı kaynak, su kültürü tabanlı sistemlerde (NFT, derin su kültürü) verimin sınırlı kaldığını bildiriyor; bu yüzden çilekte katı ortam (torba ya da oluk içi) tercih edilir. Su kültürü sistemlerinin kendi mantığı için [NFT sistemi](/nft-sistemi-nedir) ve [derin su kültürü](/derin-su-kulturu-dwc-sebze) yazılarına bakabilirsiniz.
+
+## Ortam seçimi: kokopit, torf, perlit
+
+Ortamın üç özelliği önemlidir: su tutma, hava ve düşük tuz. Ontario'daki üreticilerin çilekte kokopit, torf ve perlit kullandığı bildiriliyor. Kaliforniya Çilek Komisyonu'nun bir denemesinde yüzde 100 kokopit, torfla karıştırılana göre daha zayıf sonuç vermiş; nedeni net değil. Bu yüzden tek malzemeyle değil, karışımla çalışmak güvenlidir: Kokopit su tutar, perlit hava getirir, torf ya da fide toprağı tamponu artırır.
+
+Kokopitin ilk kullanımdan önce yıkanması gerektiğini [cocopeat yıkama](/cocopeat-yikama) yazısında anlattık; kokopit ve perlit karışımlarının oranları için [kokopit perlit karışımı](/kokopit-perlit-karisimi) yazısına bakın. Çilek toprağı olarak hazırlanmış ürünler de balkon saksı uygulaması için pratiktir; ürün açıklaması suyu iyi süzen, organik maddeli ve pH'ı 5,5–6,5 arasında bir ortamı tarif ediyor.
+
+[ürün:hg-cilek-topragi]
+
+## Sınırlı kök, sık besleme
+
+Topraksız sistemde kök hacmi sınırlıdır. Minnesota Üniversitesi'nin masa üstü çilek denemesi, bitkilerin olukta sınırlı bir kök sistemi olduğunu ve bu yüzden düzenli gübrelenmesi gerektiğini not ediyor ([Minnesota Üniversitesi masa üstü çilek yayını](https://fruit.umn.edu/tabletop-strawberries)). Yani toprakta haftalarca idare eden bir çilek, torbada birkaç gün aç kalınca hemen tepki verir.
+
+Besin çözeltisi her sulamada ya da günde birkaç kez damlatılır. Çözelti ayarı için hedef EC ve pH aralıklarını [hidroponik besin çözeltisi](/hidroponik-besin-cozeltisi-ec-ph) yazısında verdik; çilek yaprak sebzelerine göre daha düşük EC'yi sever (çoğu kaynak 1,0–1,5 mS/cm bandını anar; kendi çeşidiniz için üretici önerisine bakın). Cihazı kullanmak için [EC metre kullanımı](/ec-metre-kullanimi-besin-cozeltisi-sulama-suyu) yazısına başvurun.
+
+::: adimlar
+Sistemi seçin | Torba mı oluk mu karar verin; masa yüksekliğinde bir iskelet kurun.
+Ortamı hazırlayın | Kokopit-perlit karışımını yıkayıp torbalara ya da olukları doldurun.
+Damla sulama hattını döşeyin | Her bitkiye bir damlatıcı verin; torbaya drenaj yarığı açın.
+Fideleri dikin | Taç kısmı ortam seviyesinde kalsın; gömmeyin.
+Çözeltiyi ölçün | pH ve EC'yi haftalık kontrol edin; süzüntü ölçümü tuz birikimini gösterir.
+Stolonları alın | Yediveren çeşitlerde stolonları koparıp bitkinin meyveye enerji ayırmasını sağlayın.
+:::
+
+## Hangi çeşit? Gün nötr çilekler
+
+Ontario'daki topraksız çilek üreticilerinin çoğu gün nötr çeşitleri, özellikle 'Albion' ve 'San Andreas'ı yetiştiriyor. Gün nötr (yediveren) çilekler gün uzunluğundan bağımsız çiçeklendiği için dikimden sonbahar donlarına kadar meyve verir. HG Albion çilek fidesi ürün açıklamasında erkenci, yediveren ve gün nötr bir çeşit olarak tanımlanıyor; fideler tüplü, kök topaklı geliyor, dikim aralığı bitkiler arası 30–35 cm ve sulama haftada yaklaşık 2,5 cm su (metrekareye yaklaşık 25 litre) olarak veriliyor; ayrıca yükseltilmiş yatak ve balkon saksıları uygun ortamlar arasında sayılıyor. Torbada aralığı torba hacmine göre bir iki bitkiyle sınırlayın.
+
+[ürün:albion-cilek-fidesi-6-adet]
+
+## Maliyet ve zahmet: dürüst bakış
+
+Topraksız çilek üretimi ucuz ve kolay bir yöntem değildir. Ohio State, masa üstü sistemin pahalı ve işçilik gerektiren bir yöntem olduğunu belirtiyor; bu yüzden Belçika'da yükseltilmiş ortam yatağı alternatifi geliştirilmiş. Florida denemeleri çam kabuğu gibi ortamların torf ve perlite göre masrafı belirgin biçimde düşürdüğünü bulmuş. Hobi ölçeğinde birkaç saksı ya da bir torba çilek sistemi, büyük bir sera düzeninden çok daha makul bir başlangıçtır. Küçük balkonda çilek için [balkonda çilek yetiştirme](/balkonda-cilek-yetistirme) ve [çilek toprağı](/cilek-topragi) yazıları, daha basit saksı seçeneklerini anlatıyor.
+
+Yükseltilmiş sistemlerin bir avantajı, çalışanın bel ve diz yükünü azaltmasıdır. Bahçede de benzer bir mantıkla, bel hizasında bir yetiştirme alanı kurmak için [balkon sebze yatağı](/balkon-sebze-yatagi) yazısına bakabilirsiniz.
+
+## Hastalık ve hijyen
+
+Topraksız ortam toprak kaynaklı hastalıkları azaltır ama sıfırlamaz. Torbadaki ortamda fazla nem kök çürüklüğünü, yoğun yaprak ve sık nem kurşuni küfü çağırır. Fidelerin sağlıklı ve hastalıksız olması, torba ve olukların temiz olması, bitki artıklarının temizlenmesi ve sulamanın yaprak yerine ortama yapılması önemlidir. Kullanılmış ortamın ikinci sezon kullanılabilirliği için [kokopit tekrar kullanılır mı](/kokopit-tekrar-kullanilir-mi) yazısına bakın.
+
+## Sezonu uzatmak
+
+Yükseltilmiş çilek sistemleri çoğu zaman koruyucu bir yapı altında kurulur: Alçak tünel, yüksek tünel ya da sera. Bu yapılar meyve sezonunu uzatır ve yağmurdan korur; Florida çalışmaları da bu yaklaşımı, açık tarlada kimyasal gazlaştırmaya dayanan üretime pratik bir ticari alternatif olarak sunmuştur. Hobi ölçeğinde bir saksı ya da torbayı soğuk günlerde içeri almak ya da agril örtüyle korumak yeterlidir.
+@sss
+S: Topraksız çilek üretimi nasıl yapılır?
+C: Çilek fideleri torba ya da oluk içindeki kokopit, torf, perlit karışımına dikilir; besin ve su damla sulamayla verilir. Sistemler genellikle yerden yükseltilir. Kök hacmi sınırlı olduğu için düzenli besleme gerekir.
+
+S: Çilek için torba mı oluk mu daha iyi?
+C: İkisi de çalışır. Torba kurulumu ve hijyeni kolaylaştırır; oluk sıralı dizilimi ve yükseltilmiş hasadı sağlar. Florida denemelerinde oluk üzerinde torba sistemi yüksek verim vermiş. Su kültürü sistemlerinde verim sınırlı kalıyor.
+
+S: Topraksız çilekte hangi çeşit yetiştirilir?
+C: Yediveren gün nötr çeşitler tercih edilir; Ontario'da çoğunlukla Albion ve San Andreas yetiştiriliyor. Bu çeşitler gün uzunluğundan bağımsız çiçek açar ve uzun süre meyve verir.
+
+S: Topraksız çilekte neden sık besleme gerekir?
+C: Torba ya da olukta kök hacmi sınırlıdır; Minnesota Üniversitesi denemesi bitkilerin düzenli gübrelenmesi gerektiğini not ediyor. Besin damla sulamayla düzenli verilir, EC ve pH haftalık ölçülür.
+
+### YAZI
+slug: kara-asker-sinegi-larvasi-ile-kompost
+baslik: Kara Asker Sineği Larvası ile Kompost
+yayin: 2027-02-09 10:20
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: kara asker sineği larvası ile kompost
+seo_baslik: Kara Asker Sineği Larvası ile Kompost Nasıl Yapılır?
+seo_aciklama: Kara asker sineği larvası ile kompost nasıl yapılır? Larva kutusu, uygun ve uygunsuz atıklar, sıcaklık sınırı, kaçış önlemi ve frass kullanımı.
+ozet: Kara asker sineği larvaları nemli mutfak ve bahçe artıklarını birkaç haftada işleyip bitkiye uygun bir kalıntıya (frass) çevirir. Larva kutusunu, hangi atıkların uygun olduğunu, sıcaklık sınırını, kaçış ve koku önlemini, frass kullanımını ve sınırları anlattık.
+etiketler: kara asker sineği, larva kompostu, frass, mutfak atığı, kompost kutusu, sıfır atık, solucan kompostu
+gorsel: bekliyor
+gorsel_alt: Kapaklı plastik kutuda mutfak artıklarını yiyen krem renkli kara asker sineği larvaları ve yanında elek
+urunler: hasturk-kati-solucan-gubresi, hg-fide-topragi, leonardit-organik-toprak-duzenleyici
+kisaca: Kara asker sineği larvası ile kompost, larvaların nemli mutfak artığını birkaç haftada yiyip bitkiye uygun kalıntıya (frass) dönüştürmesidir. Kapaklı, süzmeli bir kutu gerekir; larvalar çok iyi tırmandığı için kapak şarttır. Sıcaklık yaklaşık 13 °C altına düşerse larvalar ölür. Et, yağ ve çok sert atıklar önceden ezilmeli ya da kutuya girmemelidir.
+@govde
+Mutfak atığını işlemenin geleneksel yolları kompost yığını ve solucan kutusudur. Üçüncü bir yol, çok daha hızlı ama çok daha dikkat isteyen bir yol, kara asker sineği larvalarıdır. Bir kutuya bırakılan larvalar günler içinde bir kovanın dolusu artığı yer, geriye koyu renkli, bitkilere uygun bir kalıntı bırakır. Kara asker sineği larvası ile kompost heyecanlı ama herkes için doğru bir seçenek değil. Bu yazı yöntemi, avantajlarını ve sınırlarını dürüstçe anlatıyor.
+
+## Kara asker sineği larvası ile kompost nasıl çalışır?
+
+Kara asker sineği (Hermetia illucens), mutfak artığını yiyen bir sinek türüdür; yetişkin sinek yemek yemez ve evlere ya da insana zarar vermez, larva ise büyüme döneminde çok iştahlıdır. Kuzey Karolina Eyalet Üniversitesi'nin yayım servisi larvaların yemek artıklarını hızla işlediğini ve bu yöntemin atık azaltma için kullanıldığını anlatıyor ([NC State kara asker sineği yayını](https://mecklenburg.ces.ncsu.edu/news/reducing-food-waste-with-black-soldier-flies/)). Purdue Üniversitesi'nin bir panosu olgun kompostun 21 gün gibi kısa bir sürede elde edilebildiğini, yaklaşık 1 gram yumurtanın 5 kg'a kadar yemek atığını işleyebildiğini bildiriyor; ancak bu işleme kapasitesi çevre koşullarına bağlıdır ([Purdue kara asker sineği panosu](https://extension.purdue.edu/county/spencer/_docs/swinhc/bradshawburks_bsf-recruitment-poster.pdf)).
+
+Yani larva kompostu, solucan kutusundan hızlıdır ama aynı zamanda daha dar bir sıcaklık ve atık aralığında çalışır. Ortaya çıkan "frass" (larva dışkısı ve kalıntı) besin bakımından zengin bir materyal olarak tanımlanıyor.
+
+## Hangi atıklar uygun?
+
+Larvalar nemli, yumuşak mutfak artıklarını sever. Delaware Üniversitesi'nin yayını, larvaların meyve ve sebze gibi nemli atıkları işlediğini, ama yumurta kabuğu, avokado kabuğu ve tavuk kemiği gibi çok kuru ve sert atıkları işleyemediğini yazıyor. Et ve sert gıdalar önceden ezilir ya da ıslatılırsa daha iyi işlenir. Öte yandan Florida Üniversitesi, et ve hayvansal atığın ev kompostunda önerilmediğini belirtiyor; bu yüzden et ve yağlı yemek artıklarını larva kutusuna atmak koku ve kemirgen riski doğurur.
+
+| Atık | Larva kutusu | Not |
+|---|---|---|
+| Sebze ve meyve artıkları | Uygun | Küçük doğrayın |
+| Pişmiş pilav, makarna, ekmek (az) | Uygun | Fazla yağlı olmasın |
+| Et, balık | Önerilmez | Koku ve haşere çeker |
+| Yumurta kabuğu, avokado çekirdeği, kemik | Uygun değil | Sert ve kuru; larvaların işleyemediği atık |
+| Yağ, sıvı yağ | Uygun değil | Koku ve kayganlık |
+| Çok kuru atık (kuru ekmek, kuru yaprak) | Önce nemlendirin | Larvalar nemli ortamı sever |
+
+## Kutu nasıl kurulur?
+
+Larva kutusu basit bir yapıdır: Kapaklı, derin bir plastik kutu ya da kova, alt kısımda sıvı süzülmesi için delik ya da küçük bir musluk, içinde larvaların tırmanıp çıkabileceği bir eğim. South Dakota Eyalet Üniversitesi'nin yapım rehberi, kara asker sineği larvalarının çok iyi tırmandığını ve kutudan kaçabileceğini bildiriyor; bu yüzden kapak şart. Aynı kaynak kutunun tabanına sıvı tahliyesi için bir vana önerir ([SDSU larva kompostu yayını](https://extension.sdstate.edu/insect-bioconversion-how-compost-black-soldier-flies)).
+
+::: adimlar
+Kutuyu hazırlayın | Derin kapaklı kutuya havalandırma deliği açın ve tabana süzme ya da tahliye deliği ekleyin.
+Tabana kuru ortam koyun | Birkaç santim kuru yaprak, talaş ya da kokopit atık sıvıyı emer.
+Larvaları ekleyin | Güvenilir bir kaynaktan larva ya da yumurta temin edin; doğadan toplamayın.
+Atığı ekleyin | Doğranmış, nemli mutfak artıklarını az az ve düzenli verin.
+Kapağı kapatıp izleyin | Nemi ve kokuyu izleyin; aşırı ıslak ya da kokulu olursa kuru malzeme ekleyin.
+Frass'i toplayın | Larvalar büyüyüp çıkınca kalan koyu kalıntıyı eleyin.
+:::
+
+## Sıcaklık ve mevsim
+
+Larvalar sıcağı sever ve soğukta ölür. Purdue panosu, sineğin yaklaşık 13 °C (55 °F) altındaki sıcaklıklarda ölümler yaşadığını bildiriyor; bu yüzden yöntem kıyı bölgelerinde ya da korumalı balkonda yaz aylarında çalışır, iç bölgelerin kışında ise ısıtılmış bir alan ya da kapalı mekân gerekir. Purdue ve Ohio State kışa dayanıklı bir kutu üzerinde çalışıyor; bu henüz ev ölçeğinde yaygın bir çözüm değil. Şubatta dışarıda larva kutusu kurmak çoğu bölgede erken; yazın başında başlamak daha güvenli.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Solucan kutusu, kompost yığını ve larva: hangisi?
+
+Kısa bir karşılaştırma yapalım:
+
+| Yöntem | Hız | Atık çeşidi | Sıcaklık | Zahmet |
+|---|---|---|---|---|
+| Kompost yığını | Aylar | Bahçe ve mutfak (etsiz) | Geniş | Düşük |
+| Solucan kutusu | Haftalar–aylar | Sebze, meyve, kahve telvesi | Orta (serin) | Orta |
+| Kara asker sineği | Günler–haftalar | Nemli mutfak artığı, bazı etli atık | Sıcak | Yüksek |
+
+Hız avantajı gerçektir ama kutuyu kapalı tutma, koku ve sıcaklık yönetimi ek iş getirir. Kompost yığınının kuruluşu için [bahçede kompost yığını](/bahcede-kompost-yigini), balkon için [balkonda kompost yapımı](/balkonda-kompost-yapimi), solucan kutusu için [evde solucan kutusu](/evde-solucan-kutusu) yazılarına bakın. Mutfak atığını daha geniş bir bakışla değerlendirmek için [sıfır atık bahçecilik](/sifir-atik-bahcecilik-evdeki-atiklar) yazısını okuyabilirsiniz.
+
+## Frass nasıl kullanılır?
+
+Larvalardan geriye kalan frass, Purdue'nun tanımıyla besin bakımından zengin bir kalıntıdır. Doğrudan yoğun uygulanmadan önce bir süre olgunlaştırmak ve toprağa karıştırmak güvenlidir; taze frass tuz ve amonyak yüksek olabilir. Küçük miktarda saksı toprağına ya da bahçe toprağına karıştırın, bitkinin yanına yığmayın. Yeni dikilen fide ve fide ortamında kullanmayın. Kullanım miktarı için ürün analizi yoksa az başlamak ve bitki tepkisine bakmak en doğrusudur. Kompostun ne zaman hazır olduğunu anlamanın yolları için [kompost ne zaman hazır olur](/kompost-ne-zaman-hazir-olur) yazısına bakabilirsiniz.
+
+## Kara asker sineği larvası ile kompost: kimler için uygun?
+
+Larva kompostu, çok mutfak atığı çıkaran, kapalı ve sıcak bir köşesi olan ve düzenli ilgilenebilecek kişiler için anlamlıdır. Ev ya da bahçesi küçük, atığı az olan biri için kompost kutusu ya da solucan kutusu daha az zahmetlidir. Yöntemi yaz başında küçük bir kutuyla denemek, koku, sinek ve larva davranışını görmenin en güvenli yoludur. Larva kompostu tek başına bir "çöp çözümü" değil, mutfak atığını azaltan ek bir seçenektir; frass bahçeye dönerken geri kalan atık için yine kompost yığınına ya da belediye yeşil atık sistemine ihtiyaç duyabilirsiniz.
+
+Kara asker sineği larvası ile kompost yapan biri için en önemli alışkanlıklar, atığı az az ve düzenli vermek, kutunun nemini her gün kontrol etmek ve kapağı daima kapalı tutmaktır. Kutu koku yapıyorsa ya da sinekler çoğalıyorsa atığı azaltıp kuru malzeme ekleyin.
+
+## Riskler ve sınırlar
+
+Larva kutusunun riskleri vardır. Fazla ıslak ve kokulu bir kutu sinek ve haşere çeker. Kutu açıkta kalırsa larvalar kaçar. Hastalık riski konusunda kaynaklar ayrılıyor: Purdue ile ilişkili bir yazı larvaların atığı o kadar hızlı işlediğini, patojenlerin yerleşmeye fırsat bulamadığını savunurken Delaware'deki araştırmacı larvaların büyük ölçekte gıda atığına yetişemediğini belirtiyor. Bu yüzden et ve sütlü atıkları kutuya almak için kesin bir güvenlik garantisi yok. Çocuk ve evcil hayvanların kutuya ulaşmaması ve kutunun kapalı tutulması şart. Larva ya da yumurta temini ve doğaya salma konusunda yerel kurallara bakın; yetişkin sinekleri bahçeye bırakmayın.
+@sss
+S: Kara asker sineği larvası ile kompost nedir?
+C: Larvaların nemli mutfak artığını hızla yiyip bitkiye uygun kalıntıya (frass) dönüştürdüğü yöntemdir. Purdue panosu olgun kompostun yaklaşık 21 günde elde edilebildiğini bildiriyor. Kapaklı bir kutu ve sıcak ortam gerekir.
+
+S: Kara asker sineği larvası hangi atıkları yer?
+C: Meyve ve sebze gibi nemli ve yumuşak atıkları sever. Yumurta kabuğu, avokado çekirdeği ve kemik gibi çok kuru ve sert atıkları işleyemez. Et ve yağlı atık ev kompostunda önerilmez; larva kutusunda da koku ve haşere riski vardır.
+
+S: Larva kutusu kışın çalışır mı?
+C: Zor çalışır. Purdue panosuna göre sinek yaklaşık 13 °C altında ölür. Kış için ısıtılmış ya da kapalı bir alan gerekir; çoğu bölgede yaz başında başlamak daha güvenli.
+
+S: Larvalar kutudan kaçar mı?
+C: Evet. South Dakota Eyalet Üniversitesi, larvaların çok iyi tırmanıcı olduğunu ve kapaksız kutudan kaçabileceğini belirtiyor. Kapaklı kutu kullanın ve tabana sıvı tahliyesi için bir çıkış ekleyin.
+
+### YAZI
+slug: mikro-yesillik-satmak-kucuk-olcek
+baslik: Mikro Yeşillik Satmak: Küçük Ölçekli Üretim Rehberi
+yayin: 2027-02-09 12:10
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: mikro yeşillik satmak
+seo_baslik: Mikro Yeşillik Satmak: Küçük Ölçekli Üretim Rehberi
+seo_aciklama: Mikro yeşillik satmak için ne gerekir? Yerel restoran pazarı, gıda güvenliği, tohum ve ortam hijyeni, kayıt ve belgeler, küçük üretim planı.
+ozet: Mikro yeşillik satmak, hızlı döngüsü ve küçük alanı nedeniyle cazip görünür; ama bir gıda ürünüdür ve gıda güvenliği kurallarına bağlıdır. Pazar yapısını, tohum ve ortam hijyenini, kaydı, ambalaj ve soğuk zinciri ve evde üretimden satışa geçişte gereken izin sorularını anlattık.
+etiketler: mikro yeşillik, küçük ölçekli üretim, gıda güvenliği, restoran pazarı, ev girişimciliği, hijyen
+gorsel: bekliyor
+gorsel_alt: Kesilmeye hazır tepsilerde bezelye ve turp mikro yeşillikleri ve yanında temiz makas ve kapaklı kutu
+urunler: hg-fide-topragi, hindistan-cevizi-torfu-tablet-cocopeat-12-adet, tarim-perliti
+kisaca: Mikro yeşillik satmak, küçük alanda hızlı hasat veren ama gıda güvenliği kuralları olan bir iştir. Pazar çoğunlukla yakın restoran ve kafelerdir; üretim temiz tohum, ortam, su ve soğuk zincirle yapılmalıdır. Satıştan önce yerel tarım müdürlüğünden kayıt ve izin şartlarını öğrenin.
+@govde
+Mikro yeşillik yetiştirmek evde bir tepsiyle başlar; mikro yeşillik satmak ise ayrı bir iştir. Çoğu insan "bunu satabilir miyim?" sorusuna on gün içinde varır. Cevap evet olabilir; ama aradaki fark bir hobiyi bir gıda üretimine çevirmektir. Mikro yeşillik satmak, bahçecilik bilgisinin yanında gıda güvenliği, hijyen ve belge bilgisi ister. Aşağıda bu yolculuğu üniversite yayımlarının ortak çizgisiyle sırayla anlatıyoruz.
+
+## Mikro yeşillik satmak: pazar nerede?
+
+Kentucky Üniversitesi'nin yayını, restoranların mikro yeşillikleri genellikle küçük miktarlarda aldığını ve hızlı üretim döngüsünün çok küçük üreticiler için yerel, üst segment özel pazarlara uygun olduğunu söylüyor ([Kentucky Üniversitesi mikro yeşillik yayını](https://publications.ca.uky.edu/sites/publications.ca.uky.edu/files/microgreens.pdf)). Yani gerçekçi pazar, geniş bir kitle değil; yakındaki restoran, kafe, otel mutfağı, özel gıda dükkânları ve doğrudan müşteridir. Çoğu zaman küçük ve düzenli sipariş vardır, büyük ve tek seferlik değil.
+
+Bu pazar yapısı bir sınırdır da: Birkaç müşteriyi kaybetmek, geliri ciddi etkiler. Bu yüzden önce küçük ölçekte denemek, müşteri bulmak ve güvenilir tedarik düzeni kurmak mantıklıdır. Fiyat konusunu bu yazıda tartışmıyoruz; bölgenizdeki pazarı gözleyerek ve ürününüzü tanıtarak kendi hesabınızı yapın.
+
+## Gıda güvenliği: sprout değil, microgreen
+
+Mikro yeşillik, filizden (sprout) farklıdır: Filizde tohum ve filiz tamamen suda büyür ve yenir; mikro yeşillikte ise tohum ortamda ya da tepside büyür ve yalnızca üst kısım kesilip tüketilir. Tennessee Üniversitesi'nin yayını, filizlerin mikro yeşilliklerden daha yüksek gıda güvenliği riski taşıdığını, çünkü tohumların tamamen suya batırılmış olduğunu belirtiyor ([Tennessee Üniversitesi mikro yeşillik ve filiz düzenlemeleri yayını](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2024/11/W1261.pdf)). Bu ayrım önemli: Kavanozda filiz yetiştirme konusundaki riskleri [kavanozda filiz yetiştirme](/kavanozda-filiz-yetistirme-mercimek-mung-yonca) yazısında anlattık; mikro yeşillik daha düşük riskli ama risksiz değildir.
+
+Penn State Üniversitesi'nin yayını da mikro yeşillik üretiminde gıda güvenliğinin sağlanmasına odaklanıyor ([Penn State mikro yeşillik güvenliği yayını](https://extension.psu.edu/ensuring-food-safety-in-microgreens-production)). Kuzey Karolina'nın üretici güvenliği bilgi notu, yazılı temizlik prosedürleri ve alet ile gıda ile temas eden yüzeylerin temizliğini öneriyor. Yani küçük üretici de olsanız, hijyen bir kural değil bir üretim süreci olmalı.
+
+## Hijyen zinciri: tohum, ortam, su
+
+Gıda güvenliği tohumla başlar. Tohumun gıda amaçlı ve güvenilir bir kaynaktan olması şarttır; bahçe tohumu ya da işlenmiş (ilaçlı) tohum mikro yeşillik için kullanılmaz. Ortam temiz olmalı: Yeni, temiz kokopit ya da torf, her partide tazelenmiş. Su içilebilir kalitede olmalı. Tepsiler, makas ve çalışma yüzeyleri her partide yıkanmalı. El hijyeni, önlük, eldiven ve kapalı saç düzeni gibi basit önlemler uygulanmalı.
+
+Ortam konusunda temiz ve düşük tuzlu seçenekleri [kokopit nedir](/kokopit-nedir-nasil-kullanilir) ve [torf tablet kullanımı](/torf-tablet-kullanimi) yazılarında anlattık. Tohum hasta ya da kirli ise hiçbir temizlik yeterli olmaz; bu yüzden tedarikçiyi dikkatle seçin ve tohum partisi bilgilerini kaydedin.
+
+::: adimlar
+Tohumu seçin | Gıda amaçlı, güvenilir tedarikçiden; parti numarasını kaydedin.
+Tepsiyi ve ortamı hazırlayın | Temiz, yeni ortam; tepsileri yıkayıp dezenfekte edin.
+Ekin ve takip edin | Sulama içilebilir su ile; yoğun nem ve küf için havalandırma.
+Hasat edin | Temiz makas, eldiven; kök ve ortam kısmını kesmeyin.
+Paketleyin ve soğuk tutun | Temiz kaba koyun, tarih etiketi ekleyin, buzdolabında muhafaza edin.
+Kayıt tutun | Tohum partisi, tarih, temizlik ve müşteri bilgisini yazın.
+:::
+
+## Kayıt ve izin: nereye başvurulur?
+
+Evde ya da küçük işletmede yetiştirdiğiniz mikro yeşilliği satmak, bir gıda ürünü satmaktır ve Türkiye'de gıda işletmeciliği kayıt ve belgeye bağlıdır. Kapsamı, hangi izinlerin ve hangi sınırların uygulanacağını, işletme türünüze göre il ya da ilçe tarım ve orman müdürlüğü belirler. Güncel şartlar için [Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr) sayfalarına ve yerel müdürlüğe başvurun; bu yazıda tutar, şart ya da süre vermiyoruz çünkü mevzuat değişir. Alberta'nın rehberi de ticari üreticinin boyuta bakmaksızın hükümet ve sektör kurallarına uyması gerektiğini ve güvenli uygulamaların yeni pazarlara girmeyi kolaylaştırdığını vurguluyor. Evde üretim yapıyorsanız belediye ve apartman yönetimiyle ilgili kuralları da gözden geçirin.
+
+[ürün:hg-fide-topragi]
+
+## Üretim planı: küçük ve düzenli
+
+Ticari düşünmenin ilk kuralı düzenliliktir. Müşteri her hafta aynı gün aynı miktarı bekler. Bu yüzden bir üretim takvimi kurun: Tepsileri farklı günlerde ekip hasat tarihlerini yaymak, sürekli teslim sağlar. Mikro yeşillik döngüsü kısa olduğundan (türe göre bir iki hafta), kayıp da hızlı görülür; küf, kötü çimlenme ve su stresi bir partiyi tamamen bozabilir. Evde mikro yeşillik yetiştirme yöntemi için [evde mikro yeşillik yetiştirme](/evde-mikro-yesillik-yetistirme) yazısına, ışık ve alan için [bitki yetiştirme çadırı](/bitki-yetistirme-cadiri-grow-tent-nedir) yazısına bakabilirsiniz.
+
+Başlangıç için üç dört tür seçin: bezelye, turp, ayçiçeği, tere gibi hızlı ve güvenilir türler. Her tür için çimlenme oranını ve hasat zamanını deneyerek öğrenin. Hasat sonrası dayanma süresini ölçün; müşteriye teslim süresini ona göre planlayın.
+
+## Mikro yeşillik satmak: ambalaj, etiket ve teslimat
+
+Ürünü müşteriye ulaştırma biçimi, gıda güvenliğinin son halkasıdır. Hasattan sonra mikro yeşilliği hemen soğuk tutun; ısınan ürün çabuk bozulur. Temiz, kapaklı, gıdaya uygun kaplar kullanın; kabın içine kâğıt havlu koymak fazla nemi alır. Her kaba hasat tarihi ve ürün adı etiketi koyun; müşteri ve siz, ürünün ne zaman hasat edildiğini bilmeli. Teslimat sırasında ürünü sıcak arabada bırakmayın; soğutucu çanta kullanın.
+
+Müşteriyle kısa ve açık bir düzen kurun: Hangi gün, kaç kutu, hangi tür, hangi saat. Restoranlar düzenli ve aynı kalitede teslimat ister; bir hafta gecikme ya da zayıf kalite müşteriyi kaybettirebilir. Mikro yeşillik satmak, ürün kadar güven ve düzenliliktir. İlk müşteriye ücretsiz küçük bir numune göstermek ve geri bildirim almak, ürünü geliştirmenin yoludur.
+
+## Gerçekçi beklentiler
+
+Mikro yeşillik küçük alanda üretilebilir ama zahmetsiz değildir: Her gün sulama, ekim, hasat, paketleme, temizlik ve teslimat vardır. Pazar küçüktür; müşteri sayısını artırmak zaman alır. Kâr hesabını yaparken tohum, ortam, tepsi, ışık, elektrik, paketleme, ulaşım ve zamanı da maliyete katın. Bu hesabı küçük bir pilot üretimle çıkarın; abartılı gelir vaatleri veren kaynaklara kuşkuyla yaklaşın. Üretimi bir gelir kaynağından önce bir beceri ve deneyim olarak görmek, yeni başlayan için sağlıklı bir bakıştır.
+@sss
+S: Mikro yeşillik satmak için ne gerekir?
+C: Güvenilir gıda amaçlı tohum, temiz ortam ve su, hijyen düzeni, yakın bir pazar (restoran, kafe) ve yerel mevzuata uygun kayıt gerekir. İzinler işletme türüne göre değiştiği için il ya da ilçe tarım müdürlüğüne danışın.
+
+S: Mikro yeşillik filizden daha mı güvenli?
+C: Tennessee Üniversitesi filizlerin daha yüksek gıda güvenliği riski taşıdığını yazıyor; çünkü tohum tamamen suda büyür. Mikro yeşillik ortamda yetişir ve yalnızca üst kısmı kesilir. Yine de tohum ve ortam hijyeni şarttır.
+
+S: Mikro yeşilliği kime satabilirim?
+C: Kentucky Üniversitesi restoranların küçük miktarlarda aldığını ve hızlı üretim döngüsünün çok küçük üreticiler için yerel, özel pazarlara uygun olduğunu belirtiyor. Kafeler, oteller ve özel gıda dükkânları da olası alıcılardır.
+
+S: Evde yetiştirdiğim mikro yeşilliği satabilir miyim?
+C: Bu bir gıda satışıdır ve kayıt ya da belge gerektirebilir. Kapsam işletme türüne ve mevzuata göre değişir. Satmadan önce il ya da ilçe tarım ve orman müdürlüğünden güncel şartları öğrenin.
+
+### YAZI
+slug: kuskonmaz-tohumdan-nasil-yetistirilir
+baslik: Kuşkonmaz Tohumdan Nasıl Yetiştirilir? Sabır İsteyen Çok Yıllık Sebze
+yayin: 2027-02-09 14:30
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: kuşkonmaz tohumdan nasıl yetiştirilir
+seo_baslik: Kuşkonmaz Tohumdan Nasıl Yetiştirilir? Adım Adım
+seo_aciklama: Kuşkonmaz tohumdan nasıl yetiştirilir? Tohumu ıslatma, ilkbahar başında fide ekimi, hafif kumlu toprak, dikim, ilk yıl bakımı ve ikinci üçüncü yıl hasat.
+ozet: Kuşkonmaz tohumdan yetişir, ama çok yıllıktır ve hasat için sabır ister. Tohumu 12–24 saat ıslatıp ilkbahar başında fide olarak ekmeyi, hafif kumlu organik madde zengin toprağı, ilk yıl köklenmeyi ve ikinci üçüncü yıl hasat başlangıcını anlattık.
+etiketler: kuşkonmaz, tohumdan yetiştirme, çok yıllık sebze, fide ekimi, sebze yatağı, ilk hasat
+gorsel: bekliyor
+gorsel_alt: Küçük saksılarda çimlenmiş ince, ipliksi kuşkonmaz fideleri ve yanında tohum paketi
+urunler: altinvadi-kuskonmaz-tohumu, hg-premium-fide-topragi, hindistan-cevizi-torfu-tablet-cocopeat-12-adet
+kisaca: Kuşkonmaz tohumdan yetiştirmek için tohumu ekimden önce 12–24 saat oda sıcaklığındaki suda bekletin, ilkbahar başında fide olarak ekin ve fideleri hafif, kumlu, organik madde zengin ve iyi süzen toprağa dikin. İlk yıl kök gelişimine bırakılır; en dolgun hasat bitki yerleştikten sonra, ikinci ya da üçüncü yıl başlar.
+@govde
+Kuşkonmaz, bahçedeki en sabır isteyen sebzedir: Bir kez dikilir, yıllarca hasat verir, ama ilk sürgünler kolay gelmez. Tohumdan yetiştirmek hazır fide ya da kök almaktan daha ucuz ve daha yavaştır. Kuşkonmaz tohumdan nasıl yetiştirilir sorusunun cevabı üç parçadır: tohumu hazırlamak, fideyi büyütmek ve bitkiyi kalıcı yerine yerleştirip beklemek. Aşağıda bunları sırayla anlatıyoruz.
+
+## Kuşkonmaz tohumdan nasıl yetiştirilir? Tohumu hazırlama
+
+Kuşkonmaz tohumu kabuğu sert ve yavaş çimlenen bir tohumdur. Üreticinin ürün açıklamasında çimlenme hızını artırmak için ekimden önce tohumun 12–24 saat oda sıcaklığındaki suda bekletilmesi tavsiye ediliyor. Bu işlem kabuğu yumuşatır ve çimlenmeyi hızlandırır. Islatmayı çok uzatmayın; tohum suda uzun süre kalırsa havasız kalır.
+
+Tohum seçerken çok yıllık bir bitki ekeceğinizi unutmayın: Aldığınız tohumun tazeliği ve güvenilirliği önemli, çünkü bir hata iki üç yıl sonra anlaşılır. Üreticinin açıklamasında 12 tohum bulunan bir paket tarif ediliyor; bu küçük miktar bir bahçe için yeter, çünkü kuşkonmaz bitkileri geniş aralıkla dikilir. Bazı bitkiler erkek, bazıları dişi olur; erkek bitkiler genellikle daha verimlidir, bu yüzden fazladan fide yetiştirmek ve zayıfları ayıklamak mantıklıdır.
+
+## Fide ekimi: zaman ve ortam
+
+Ürün açıklamasına göre fide yetiştirmek için en ideal dönem ilkbahar başıdır. Yani şubat sonu ile mart, bölgenize göre kayar; ilk don tarihinden önce fideyi içeride yetiştirip sonra dışarı çıkarırsınız. Son don tarihini bulmak için [son don tarihi](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısına bakabilirsiniz.
+
+::: adimlar
+Tohumu ıslatın | 12–24 saat oda sıcaklığındaki suda bekletin.
+Küçük kaplara ekin | Her kaba bir ya da iki tohum, fide toprağında yaklaşık 1–1,5 cm derine.
+Nemli ve ılık tutun | Çimlenme yavaştır; toprak kurumasın, kap ılık bir yerde dursun.
+Işığa alın | Çimlenince aydınlık pencere ya da bitki lambası; ince sürgünler uzamasın.
+Güçlü fideleri seçin | Zayıf ve cılız olanları ayıklayın.
+Sertleştirin ve dikin | Don bittikten sonra bir iki hafta dışarı alıştırıp kalıcı yerine dikin.
+:::
+
+Derinlik ve yöntem konusunda sabit bir üniversite verisi bulamadık; yaklaşık 1–1,5 cm derinlik, ince tohumlar için genel uygulamadır. Fide ortamı için ince, süzek ve düşük tuzlu bir karışım seçin; tohum çimlendirme konusunda [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) ve [torf tablet kullanımı](/torf-tablet-kullanimi) yazıları ek ayrıntı veriyor. Çimlenmeyen tohum için [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazısına bakın.
+
+[ürün:altinvadi-kuskonmaz-tohumu]
+
+## Toprak ve yer seçimi
+
+Kuşkonmaz yıllarca aynı yerde kalacağı için yer ve toprak hazırlığı önemlidir. Ürün açıklaması kuşkonmazın köklerinin rahat gelişmesi için hafif, kumlu, organik maddece zengin ve iyi drene edilmiş toprakları sevdiğini yazıyor. Ağır ve su tutan killi toprakta kök çürür; bu durumda yükseltilmiş yatak ya da sırt yapmak daha doğrudur. Güneşli, rüzgârdan korunaklı ve yabani otsuz bir yer seçin; çok yıllık yabani otları (ayrık otu gibi) dikimden önce temizleyin, çünkü kuşkonmaz yatağında ot ayıklamak yıllarca sürer.
+
+Yer seçimi için [sebze bahçesi yer seçimi](/sebze-bahcesi-yer-secimi) yazısına, kuşkonmazın genel tanıtımı ve dikim için [kuşkonmaz yetiştirme](/kuskonmaz-yetistirme) yazısına bakabilirsiniz. Toprağın organik maddesini yükseltmek için olgun kompost ya da solucan gübresi karıştırın; ayrıntı [toprakta organik madde](/toprakta-organik-madde) yazısında.
+
+## Dikim ve ilk yıllar
+
+Fideler dışarı çıkınca kalıcı yataklara 30–40 cm aralıkla dikilir; dikimden sonra bol sulanıp malçlanır. Kök sistemi (taç) zamanla yatay yayılır. İlk yıl hiç sürgün toplamayın: Ürün açıklamasında ilk yılın kök gelişimine odaklandığı, en verimli ve dolgun hasatların bitki toprağa tam yerleştikten sonra, ikinci ya da üçüncü yıl başladığı belirtiliyor. İlk yıllarda sürgünler incedir ve yeşil dallanmaya bırakılır; bu dallar fotosentez yapıp köke enerji depolar.
+
+Sonbaharda yeşil dallar sararıp kuruyunca yere yakın kesilir ve üzerine kompost serilir. Kışın bahçe kuşkonmazı için ek bakım gerekmez. Bahar gelince yeni sürgünler çıkar; ikinci yılda birkaç sürgün, üçüncü yılda daha çok sürgün toplanır. Bu zaman çizelgesi, kuşkonmaz yetiştirmenin en büyük karakteridir: Sabır, bitkinin kök sistemini kurması için gereken yatırımdır.
+
+## Bakım: sulama, gübre, ot
+
+Kuşkonmaz yatağında düzenli ve derin sulama, özellikle ilk yılda önemlidir; kök sistemi yeni kuruluyordur. Yabani otlar fideyle rekabet eder; erken dönemde elle ayıklayın. Gübre olarak ilkbaharda yatağa olgun kompost ya da solucan gübresi serin; fazla azot yumuşak ve zayıf sürgün üretir. Yatağı malçlamak nemi ve ot kontrolünü kolaylaştırır; malç için [ağaç dibi malçlama](/agac-dibi-malclama) yazısındaki mantığı kullanabilirsiniz. Genel bahçe yetiştirme rehberi için Kraliyet Bahçıvanlık Derneği'nin kuşkonmaz sayfası da yararlı bir kaynaktır ([RHS kuşkonmaz rehberi](https://www.rhs.org.uk/vegetables/asparagus)).
+
+## Kuşkonmaz tohumdan nasıl yetiştirilir: yıllık takvim
+
+::: takvim
+Tohum ıslatma ve fide ekimi | 2-3
+Fideyi dışarı alıştırma | 4-5
+Kalıcı yere dikim | 4-5
+Yeşil dallanma, köke enerji | 6-9
+Kuruyan dalları kesme | 11-12
+:::
+
+İlk sezonun sonunda fideler ince, ipliksi ve zayıf görünür; bu normaldir. Bitkiyi sökmeyin ya da gübreyi artırmayın. İkinci yıl daha kalın sürgünler çıkar. Üçüncü yılda hasat aşaması gerçekten başlar. Yatakta bu yılları beklemek, kuşkonmazın dayanıklılığını ve uzun ömrünü görmek demektir; yıllar boyunca aynı bitki hasat verebilir. Kuşkonmaz tohumdan nasıl yetiştirilir sorusunun en kısa özeti de budur: iki üç yıllık sabır, ardından uzun bir hasat dönemi.
+
+Fideleri dikerken kökleri incitmemeye özen gösterin; çok yıllık bir yatağa dikilen bitki, yeniden dikmeyi sevmez. Fide kabından çıkarırken toprağı bozmadan taşıyın. Dikimden sonra fide çevresini malçlayıp toprak sıcaklığını ve nemini dengede tutun.
+
+## Fide mi, tohum mu, kök mü?
+
+Tohumdan yetiştirmek en ucuz yoldur ama en yavaş olanıdır. Hazır fide ya da yıllık kök (taç) alırsanız hasat bir yıl kadar öne gelebilir. Ürün seçeneklerinde tüplü kuşkonmaz fidesi de bulunuyor; hızlı sonuç isteyenler için daha pratiktir. Tohumdan yetiştirmek, bitkiyi baştan izlemek ve çok sayıda fide elde etmek isteyenler için anlamlıdır. Hangi yolu seçerseniz seçin, kuşkonmaz yatağı bir sezonluk değil, uzun vadeli bir bahçe yatırımıdır; yer seçimini ona göre yapın.
+@sss
+S: Kuşkonmaz tohumdan nasıl yetiştirilir?
+C: Tohum ekimden önce 12–24 saat oda sıcaklığındaki suda bekletilir, ilkbahar başında fide olarak ekilir, güçlü fideler don bittikten sonra hafif, kumlu ve organik madde zengin toprağa dikilir. İlk yıl kök gelişimi için hasat yapılmaz.
+
+S: Kuşkonmaz tohumu ne zaman ekilir?
+C: Ürün açıklamasına göre fide yetiştirmek için en ideal dönem ilkbahar başıdır. Çoğu bölgede şubat sonu–mart; ilk don tarihine ve fidenin dışarı çıkış zamanına göre ayarlanır.
+
+S: Tohumdan kuşkonmaz ne zaman hasat edilir?
+C: Ürün açıklamasına göre ilk yıl kök gelişimine odaklanılır; en dolgun hasatlar genellikle ikinci ya da üçüncü yıl başlar. Bu yüzden kuşkonmaz sabır isteyen çok yıllık bir sebzedir.
+
+S: Kuşkonmaz hangi toprağı sever?
+C: Hafif, kumlu, organik madde bakımından zengin ve iyi süzen toprağı sever. Ağır killi toprakta kökler çürür; yükseltilmiş yatak ya da sırt daha uygundur. Dikimden önce yabani otları temizleyin.
+
+### YAZI
+slug: ilaclama-pompasi-kontrol-listesi
+baslik: Sezona Başlamadan İlaçlama Pompası Kontrol Listesi
+yayin: 2027-02-09 16:55
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: ilaçlama pompası kontrol listesi
+seo_baslik: İlaçlama Pompası Kontrol Listesi: Sezon Öncesi
+seo_aciklama: İlaçlama pompası kontrol listesi: sezon öncesi sızıntı, hortum, tetik, meme, filtre ve conta kontrolü, suyla deneme püskürtmesi ve güvenli saklama.
+ozet: İlaçlama pompasını sezona başlamadan kontrol etmek, tarlada yarı yolda kalmayı ve eşitsiz püskürtmeyi önler. Görsel muayene, yıkama, meme ve filtre temizliği, sızıntı ve conta kontrolü, suyla deneme, kalibrasyon ve güvenli saklama adımlarını liste hâlinde anlattık.
+etiketler: ilaçlama pompası, sırt pulverizatörü, meme, conta, kalibrasyon, sezon öncesi bakım, ekipman
+gorsel: bekliyor
+gorsel_alt: Masa üzerinde sökülmüş sırt ilaçlama pompası, yedek conta, meme ve temiz hortum parçaları
+urunler: uzman-20-lt-manuel-ilaclama-pompasi-k-105, uzman-2-lt-basincli-el-puskurtucu, delta-16-lt-manuel-ilaclama-pompasi-k-203
+kisaca: İlaçlama pompası kontrol listesi sezon başlamadan şu sırayla yapılır: görsel muayene, temiz suyla yıkama, meme ve filtre temizliği, sızıntı ve conta kontrolü, saf suyla deneme püskürtmesi ve püskürtme düzeninin kontrolü. Bu iş ilaçsız, yalnızca suyla yapılır; ilaç türü ve dozu için etiket ve ziraat mühendisi esastır.
+@govde
+İlaçlama zamanı geldiğinde çalışmayan bir pompa en kötü sürprizdir. Fıskiye tıkanmış, hortum sızıntı yapıyor, conta kurumuş. Bu sorunların tamamı, sezon başlamadan bir akşam yapılacak bir kontrolle yakalanır. İlaçlama pompası kontrol listesi, bahçıvanın ve çiftçinin sezon öncesi yapması gereken en ucuz yatırımdır; bu ilaçlama pompası kontrol listesi bir akşamda tamamlanır. Aşağıda adım adım bir liste veriyoruz; hepsi yalnızca suyla yapılır, ilaç kullanılmaz.
+
+## İlaçlama pompası kontrol listesi: neden ve ne zaman?
+
+Pompalar sezon sonunda çoğu zaman temizlenmeden kaldırılır. Purdue Üniversitesi'nin yayını, artıkların sonbaharda temizlenmesini, bekletilirse kuruyup sertleştiğini ve çıkarılmasının zorlaştığını belirtiyor ([Purdue sprey ekipmanı yayını](https://ag.purdue.edu/department/extension/ppp/ppp-publications/ppp-121.pdf)). Ohio Eyalet Üniversitesi ise pompayı donmadan önce korumamanın pompanın çatlamasına ya da kapasitesini kaybetmesine yol açabileceğini yazıyor ([Ohio State sprey bakımı yazısı](https://agcrops.osu.edu/newsletter/corn-newsletter/2022-36/fall-sprayer-maintenance)). Bu yüzden ilkbahar kontrolü, ihmal edilmiş bir sonbahar bakımının telafisi olabilir.
+
+Kontrol için en uygun zaman, sezondan önce birkaç gün ayırabileceğiniz bir dönemdir; ilaçlama gününe kalmasın. Bu liste el pompası, sırt pulverizatörü ve akülü modeller için ortaktır; modelinizin kılavuzu her zaman listenin önüne geçer.
+
+## Önce güvenlik
+
+Kontrolden önce pompanın tamamen boş ve basınçsız olduğundan emin olun. Eski bir ilaç artığı varsa eldiven ve gözlük takın; artığı su kaynaklarına, bahçeye ya da drene dökmeyin. Artık ilaç için ürün etiketindeki imha talimatına ve yerel kurallara bakın. Akülü pompalarda şarj ve pil kontrolü yapın; kablo ve bağlantılarda çatlak olup olmadığına bakın. Çocuklardan ve evcil hayvanlardan uzak, havadar bir yerde çalışın.
+
+## Adım adım kontrol
+
+::: adimlar
+Görsel muayene yapın | Depo, kapak, hortum, tetik, kayışlar ve uç çatlak, deformasyon, kırık var mı bakın.
+Temiz suyla yıkayın | Depoyu temiz suyla doldurup birkaç dakika çalkalayın, pompalayıp hortum ve tetikten akıtın.
+Filtreleri temizleyin | Depo ağzı, pompa ve tetik filtrelerini çıkarıp fırçalayın; hasarlıysa değiştirin.
+Memeyi kontrol edin | Memeyi sökün, tıkalı mı bakın, yumuşak fırça ve suyla temizleyin; sivri aletle kurcalamayın.
+Sızıntıları arayın | Bağlantılar, tetik, kapak ve hortum birleşimleri damlatıyor mu bakın.
+Contaları kontrol edin | Kapak contası ve piston contası kurumuş ya da çatlaksa değiştirin.
+Deneme püskürtmesi yapın | Suyla çalıştırıp basıncı ve püskürtme desenini kontrol edin.
+:::
+
+Iowa Eyalet Üniversitesi sezondan önce pompayı suyla çalıştırıp meme performansını değerlendirmeyi en iyi uygulama olarak öneriyor ([Iowa State ilkbahar bakım ipuçları](https://crops.extension.iastate.edu/cropnews/2020/02/sprayer-maintenance-tips-spring)). Ayrıca yıkamadan sonra filtrelerin yeniden temizlenmesi, çünkü filtrelerin yıkama sırasında kir tuttuğu da bir tavsiyedir.
+
+## Meme ve püskürtme deseni
+
+Meme, ilaçlamanın kalitesini en çok etkileyen parçadır. Aşınmış ya da tıkalı meme düzensiz desen verir: Bir bölgeye fazla, diğerine az sıvı gider. Bu hem ot ya da zararlıyı kaçırır hem de bitkiye zarar verebilir. Deneme püskürtmesinde duvara ya da büyük bir karton parçasına suyla püskürtün; desen simetrik, ince ve eşit olmalı. Şüpheli bir desen görürseniz memeyi değiştirin; yedek meme bulundurmak iyi bir alışkanlıktır.
+
+Püskürtme basıncı ve yürüme hızı da hesaba girer: Kalibrasyon, belirli bir alanı belirli bir miktar sıvıyla örtmenin ayarıdır. Kalibrasyonu yapmadan ilaçlama yapmak, doz tutarsızlığına yol açar. Doz ve ürün bilgisi etikette yazılıdır; bu yazıda ürün adı ya da doz verilmez.
+
+[ürün:uzman-20-lt-manuel-ilaclama-pompasi-k-105]
+
+## Sızıntı, conta ve hortum
+
+Sızıntı hem israf hem güvenlik sorunudur. Tetik, hortum bağlantıları ve kapak sızdırıyorsa ilk bakılacak yer contalardır. Kauçuk contalar zamanla kurur, ezilir ya da çatlar; kapağı sıkıştırarak sorun çözülmez. Aşınmış contayı aynı ölçüde yenisiyle değiştirin. Hortum çatlak, kıvrık ya da sertleşmişse yenileyin. Yedek parça ve ekipman uyumu için pompanızın modeline uygun yedek parçalara bakın; piyasada pompa ve tetik uyumlu parçalar bulunur.
+
+## Pompa türüne göre kısa notlar
+
+| Pompa | Özel kontrol |
+|---|---|
+| Manuel (kollu) sırt pompası | Kol ve piston contası, kayış, hava odası |
+| Basınçlı el püskürtücü | Basınç valfi, kapak contası, memeyi temizleme |
+| Akülü sırt pompası | Pil, şarj, motor sesi, kablo ve bağlantılar |
+
+Pompayı kullandığınız her ilaçtan sonra temizleyin; bir ilaç artığı sonraki ürünle karışırsa bitkiye zarar verebilir. Birden fazla işte (örneğin ot ilacı ve böcek ilacı) farklı pompa kullanmak ya da çok iyi temizlemek önemlidir. Ev ve balkon bitkileri için küçük basınçlı püskürtücülerin doğru kullanımını [basınçlı püskürtücü](/basincli-puskurtucu) yazısında anlattık; ilaçlama pompası seçimi için [ilaçlama pompası seçimi](/ilaclama-pompasi-secimi-akulu-mu-manuel-mi) yazısına bakabilirsiniz.
+
+## Kayıt tutun: pompa defteri
+
+Sezon başında yaptığınız kontrolü, değiştirdiğiniz parçaları ve pompanın ne zaman en son temizlendiğini bir deftere yazın. İlaçlama kayıtları da (hangi gün, hangi alan, hangi ürün) ayrıca tutulmalıdır; bu hem güvenlik hem de ürün etiketindeki bekleme sürelerini izlemek içindir. Bir pompaya her ilaçlamadan sonra aynı üç şeyi yapın: Boşaltın, temiz suyla yıkayın, filtre ve memeyi kontrol edin. Böylece ilaçlama pompası kontrol listesi sezon boyu kısa bir alışkanlığa dönüşür ve sezon öncesi büyük kontrol yalnızca özetlenir.
+
+Çok sayıda pompa ya da paylaşılan ekipman varsa her pompaya bir etiket yapıştırıp kimin ne zaman kullandığını ve en son nasıl temizlendiğini yazmak, karışıklığı önler. Ortak kullanılan pompada bir önceki kullanıcıdan kalan ilaç artığı bitkiye zarar verebilir.
+
+## Saklama
+
+Kontrol bittikten sonra pompayı tamamen boşaltıp iyice kurutarak saklayın. Donma riski olan yerde su bırakmayın; Ohio State bunun pompaya zarar verdiğini belirtiyor. Tetik ve hortumu kıvırmadan asın, memeyi ayrı bir kapta tutun. Sezon sonunda aynı kontrol listesinin kısaltılmış hâlini tekrar etmek, ilkbaharda sürprizi azaltır. Bahçe aletlerinin genel kış bakımı için [bahçe aletleri kış bakımı](/bahce-aletleri-kis-bakimi) yazısına bakın.
+
+## İlaçlama kararı: ayrı bir konu
+
+Bu liste yalnızca ekipmanla ilgilidir. İlaçlamanın gerekli olup olmadığı, hangi üründen hangi dozda ve ne zaman kullanılacağı bitkiye ve soruna göre değişir; bu karar için etiket bilgisine uyun ve il ya da ilçe tarım müdürlüğünden ya da bir ziraat mühendisinden destek alın. Kimyasala başvurmadan önce önleme yöntemlerini ve mekanik çözümleri düşünmek her zaman iyi bir sıradır.
+@sss
+S: Sezon öncesi ilaçlama pompasında neler kontrol edilir?
+C: Depo, hortum, tetik ve kapakta görsel muayene; temiz suyla yıkama; filtre ve meme temizliği; sızıntı ve conta kontrolü; suyla deneme püskürtmesi ve püskürtme deseni. Hepsi yalnızca suyla yapılır, ilaç kullanılmaz.
+
+S: İlaçlama pompasının memesi tıkanırsa ne yapılır?
+C: Memeyi sökün, temiz suyla ve yumuşak fırçayla temizleyin; sivri aletle kurcalamayın, çünkü delik büyür ve desen bozulur. Aşınmışsa yenisiyle değiştirin.
+
+S: İlaçlama pompası neden sızdırır?
+C: En sık neden kurumuş, ezilmiş ya da çatlamış contalar ve gevşek bağlantılardır. Kapağı sıkıştırmak yerine contayı aynı ölçüde yenisiyle değiştirin. Çatlak hortumu da yenileyin.
+
+S: İlaçlama pompası kışın nasıl saklanır?
+C: Tamamen boşaltılıp temiz suyla yıkanır, iyice kurutulur ve donma riski olmayan bir yerde saklanır. Ohio State Üniversitesi koruma yapılmamış pompanın donmada çatlayabileceğini belirtiyor.
+

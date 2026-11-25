@@ -1,0 +1,167 @@
+### YAZI
+slug: fosfor-tutulumu
+baslik: Fosfor Tutulumu: Kireçli Toprakta DAP Neden Etki Etmez?
+yayin: 2027-01-30 09:10
+yazar: Hatice Kübra Çelik
+kategori: gubreleme
+odak: fosfor tutulumu
+seo_baslik: Fosfor Tutulumu: Kireçli Toprakta DAP Neden Etki Etmez?
+seo_aciklama: Fosfor tutulumu kireçli toprakta fosforun kalsiyumla bağlanması demektir. DAP neden yetmez, pH ve organik madde ne yapar, gübre nasıl verilir? Anlattık.
+ozet: Fosfor tutulumu, toprağa verilen fosforun bir bölümünün kalsiyum, demir ve alüminyumla bağlanıp bitkiye yarayışlı olmaktan çıkmasıdır. Kireçli ve yüksek pH'lı Anadolu topraklarında DAP'ın neden beklenen etkiyi vermediğini, tutulumu azaltan yöntemleri ve organik maddenin rolünü üniversite kaynaklarına dayanarak yazdık.
+etiketler: fosfor tutulumu, kireçli toprak, DAP, fosfor yarayışlılığı, fosfor fiksasyonu, taban gübresi
+gorsel: bekliyor
+gorsel_alt: Kireçli beyaz topraklı tarlada fide diplerinde morumsu yapraklar ve yanında toprak numunesi kabı
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Fosfor tutulumu, verilen fosforun toprakta kalsiyum, demir ve alüminyumla bağlanıp bitkiye yarayışlı olmaktan çıkmasıdır. Kireçli ve pH'ı yüksek topraklarda fosfor kalsiyum fosfat olarak tutulur; bu yüzden DAP verilse bile bitki fosfor eksikliği gösterebilir. Gübreyi köke yakın vermek ve organik madde eklemek tutulumu azaltır.
+@govde
+Tarlaya DAP verdiniz, ama bitkinin yaprakları yine morumsu ve büyüme yavaş. Analizde fosfor "düşük" çıkıyor ya da "yeterli" çıkıyor ama bitki yine de aç görünüyor. Bu çelişkinin arkasında genellikle fosfor tutulumu vardır: fosfor toprakta var ya da toprağa verilmiştir, ama bitkinin alabileceği biçimde kalmamıştır. Özellikle Anadolu'nun kireçli ve yüksek pH'lı topraklarında bu durum tarla bitkilerinin ve bahçe ağaçlarının en sık sorunlarından biridir. Aşağıda tutulumun nedenini, hangi toprakta nasıl göründüğünü ve yapılabilecekleri anlatıyoruz. DAP ve diğer gübrelerin farkları için [üre DAP amonyum nitrat farkı](/ure-dap-amonyum-nitrat-farki) yazısına bakabilirsiniz.
+
+## Fosfor tutulumu nedir?
+
+Bitki fosforu toprak çözeltisinde çözünmüş biçimde alır. Toprağa verilen ya da topraktaki fosforun önemli bir kısmı ise toprak minerallerine bağlanır ve çözeltiye çok yavaş geçer. Buna fosfor tutulumu (fiksasyon) denir. Ondokuz Mayıs Üniversitesi ders notları, topraktaki fosfor ve potasyum elementlerinin bulunma ve alınma biçimlerini ayrıntılı anlatır ([OMÜ, topraktaki fosfor ve potasyum](https://avys.omu.edu.tr/storage/app/public/eryalcin/139122/9.%20Topraktaki%20Fosfor%20ve%20Potasyum%20Elementlerinin%20Bulunma%20ve%20Al%C4%B1nma.pdf)). Üniversite ders kaynaklarında verilen bir değere göre uygulanan fosforun büyük kısmı (yüzde 70–90 aralığı anılır) fiksasyona uğrar ve bitkiye yarayışlı fosfor miktarı azalır; bu oran toprağa göre değişir. Bu yüzden toprağa verilen fosforun hepsini bitkinin kullanması beklenmez.
+
+## Kireçli toprakta ne olur?
+
+Fosforun toprakta nasıl bağlandığı pH'a ve toprağın yapısına bağlıdır. Ders kaynaklarına göre pH'ı 7'nin üzerindeki kireçli topraklarda fosfor çoğunlukla kalsiyum fosfatlar biçiminde bulunur; asit topraklarda ise demir ve alüminyum fosfatlar baskındır. Alkali (pH'ı 7,5'in üzerinde) kireçli topraklarda dikalsiyum fosfat ve trikalsiyum fosfat daha çok oluşur ve bu bileşiklerin çözünürlüğü kalsiyumun fosfata oranı büyüdükçe azalır. Kireçli topraklar üzerindeki çalışmalarda fosforun davranışının, az miktarda bulunan demir ve alüminyum oksitlerle de kontrol edildiği bildirilir. Sonuç şudur: kireçli toprakta DAP gibi suda çözünür bir fosfor gübresi verdiğinizde fosfor kısa sürede kalsiyumla birleşip daha az çözünen biçimlere dönüşür.
+
+| Toprak durumu | Fosforun baskın biçimi | Yarayışlılık |
+|---|---|---|
+| Kireçli, pH 7 üstü | Kalsiyum fosfatlar (apatit gibi) | Sınırlı; çözünürlük pH ve kalsiyumla düşer |
+| Asit, pH 7 altı | Demir ve alüminyum fosfatlar | Sınırlı; kireçleme ve organik madde fark yaratır |
+| Nötre yakın | Daha çözünür biçimler | Genellikle en yüksek yarayışlılık |
+
+Türkiye topraklarının kireç, pH ve organik madde özellikleri fosfor yarayışlılığını sınırlar; bu yüzden analizde "yeterli" çıkan fosfor da bitkiye tamamen ulaşmayabilir. Toprak analizi sonuçlarını doğru okumak için [toprak analizi sonuçları nasıl okunur](/toprak-analizi-sonuclari) yazısına, numune alma için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın.
+
+## Bitki ne gösterir? Belirtiler
+
+Fosfor eksikliği, yaşlı yapraklarda morumsu ya da koyu yeşil renk ve yavaş büyüme olarak görülür. Soğuk toprakta fosfor alımı da zayıf olduğu için fide döneminde benzer belirtiler çıkabilir ([domates fidesinde mor yaprak](/domates-fidesinde-mor-yaprak)). Belirtiler ayrıntılı anlatımıyla [fosfor eksikliği](/fosfor-eksikligi) yazısında. Ancak yalnız belirtiyle karar vermeyin: aynı belirti soğuk, kök hasarı, su stresi ve başka eksikliklerle de oluşur; analiz esastır.
+
+## Tutulumu azaltmak için ne yapılır?
+
+Kesin çözüm yoktur ama tutulumu azaltan alışkanlıklar vardır. Bunların bir kısmı fosforu toprağa daha az yaymak, bir kısmı toprağı fosfor için daha elverişli yapmaktır.
+
+::: adimlar
+Önce analiz yaptırın | Toprağın fosfor, pH ve kireç durumunu bilmeden gübre dozunu artırmayın.
+Fosforu köke yakın verin | Taban gübresini yüzeye serpmek yerine toprağa karıştırarak ya da ekimle birlikte sıra altına verin.
+Organik madde ekleyin | Yanmış çiftlik gübresi, kompost ya da solucan gübresi toprağın yapısını ve fosfor yarayışlılığını destekler.
+Dozu bölmeyin, ama aşırıya kaçmayın | Çok yüksek tek doz tutulumun payını büyütür; analiz ve öneriyle dengeli verin.
+Sonucu izleyin | Bitki tepkisini ve sonraki yılın analizini kaydedin.
+:::
+
+Fosforlu gübreyi toprağa karıştırarak ya da köke ve tohuma yakın yerleştirerek vermek yaygın bir öneridir; gerekçe, gübrenin toprakla temas yüzeyini azaltıp bitkinin köklerine yakın tutmaktır. Ders kaynaklarında DAP'ı kireçli toprakta yüzeye serpmek yerine toprağa karıştırmak ya da ekimle birlikte vermek önerilir. Serpme ile verilen fosfor, yüzeyde kalır ve bitkinin köklerine ulaşmadan tutulabilir. Gübreleme zamanı için [gübreleme zamanı](/gubreleme-zamani) yazısına bakabilirsiniz.
+
+## Organik madde: yardımcı ama mucize değil
+
+Bir çalışma, çiftlik gübresi ve vermikompostun fosforun yarayışlılığında önemli bir artış sağladığını gösterir; ders notları ise organik maddenin fosfor adsorpsiyonunu doğrudan ve dolaylı olarak etkilediğini belirtir. Pratikte organik madde, fosforu bağlayan yüzeylerin bir kısmını örter, toprak yapısını gevşetir ve kök gelişimini destekler. Bu yüzden kireçli toprakta organik madde artırmak, sadece fosfor için değil toprak sağlığı için de kazançtır; ayrıntı için [toprakta organik madde](/toprakta-organik-madde) yazısına bakın. Ancak organik madde fosfor tutulumunu tamamen ortadan kaldırmaz; aşırı beklenti yaratmayın. Kemik unu gibi yavaş etkili organik fosfor kaynakları ise asit ya da nötre yakın toprakta daha iyi çalışır ([kemik unu](/kemik-unu)).
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Yaygın hatalar
+
+- **Fosforu "bir de DAP daha" diye artırmak:** Bitki alamıyorsa fazla doz toprakta birikir ve tutulur; para ve toprak kaybıdır.
+- **Analiz yapmadan gübre almak:** Fosfor yeterli olan toprağa fosfor atmak gereksizdir; analiz yoksa tahmin etmeyin.
+- **Yüzeye serpip bırakmak:** Fosfor yüzeyde kalır, köke ulaşmaz ve tutulur.
+- **Soğuk toprakta ekim yapıp fosfor eksikliği sanmak:** Soğuk toprakta fosfor alımı zayıftır; hava ısınınca belirtiler düzelebilir.
+- **Kireçli toprağı hiç düzeltmemek:** Organik madde ve uygun gübreleme dışında pH'yı değiştirmek çoğu zaman pratik değildir; gerçekçi hedef koyun.
+
+Fosfor tutulumu her toprakta farklı ölçüde yaşandığı için kendi tarlanızın analizini ve geçmiş verimini kayıt altına alın; üç dört yıllık kayıt, hangi uygulamanın işe yaradığını gösterir. Dozlar ve ürün seçimi için ilinizin tarım müdürlüğünden ve ziraat mühendisinden öneri alın. Toprak düzenleyici ve organik gübre konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Fosfor tutulumu nedir?
+C: Toprağa verilen ya da topraktaki fosforun, kalsiyum, demir ve alüminyumla bağlanarak bitkiye yarayışlı olmaktan çıkmasıdır. Kireçli ve pH'ı yüksek topraklarda fosfor çoğunlukla kalsiyum fosfat biçiminde tutulur.
+
+S: Kireçli toprakta DAP neden etki etmez?
+C: DAP'taki fosfor kireçli toprakta kalsiyumla birleşip az çözünen biçimlere dönüşür. Gübreyi yüzeye serpmek yerine toprağa karıştırmak ya da köke yakın vermek ve organik madde eklemek etkiyi artırmaya yardım eder.
+
+S: Fosfor tutulumunu tamamen önleyebilir miyim?
+C: Hayır, ama azaltabilirsiniz. Fosforu köke yakın vermek, organik madde eklemek, gereğinden fazla doz vermemek ve analiz yapmak tutulumun payını düşürür. Kireçli toprakta bir miktar tutulum kaçınılmazdır.
+
+S: Fosfor eksikliğini nasıl anlarım?
+C: Yaşlı yapraklarda morumsu ya da koyu yeşil renk ve yavaş büyüme görülür. Soğuk, kök hasarı ve başka eksiklikler de benzer belirti verdiği için kesin teşhis için toprak ve yaprak analizi yaptırın.
+
+### YAZI
+slug: yaban-domuzu-zarari
+baslik: Yaban Domuzu Zararı ve Tavşan: Bahçe ve Tarlayı Korumanın Yolları
+yayin: 2027-01-30 19:30
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: yaban domuzu zararı
+seo_baslik: Yaban Domuzu Zararı ve Tavşan: Korunma Yolları
+seo_aciklama: Yaban domuzu zararı nasıl anlaşılır, tarlada ve bahçede hangi önlemler alınır, zarar hâlinde kime bildirilir? Tavşan zararı ve korunma yollarını anlattık.
+ozet: Yaban domuzu zararı, tarlada ve bahçede eşelenmiş toprak, devrilmiş bitki ve yenmiş ürün olarak görülür. Zararı tanımanın ipuçlarını, çit ve caydırıcı önlemleri, zarar hâlinde il ya da ilçe tarım müdürlüğüne zamanında bildirimi, avlanmanın yasal çerçevesini ve tavşan zararından korunmayı yazdık.
+etiketler: yaban domuzu, tavşan zararı, bahçe koruma, tarla koruma, zarar tespiti, TARSİM
+gorsel: bekliyor
+gorsel_alt: Sebze tarlasında eşelenmiş toprak ve devrilmiş bitkiler ve kenarda tel çit
+urunler: moduler-yukseltilmis-bahce-yatagi-198-litre
+kisaca: Yaban domuzu zararı, toprağın eşelenmesi, yumrulu bitkilerin sökülmesi ve mısır ve buğdayın yatırılmasıyla anlaşılır. Önlem olarak sağlam çit ve caydırıcılar kullanılır; zarar olunca vakit kaybetmeden il ya da ilçe tarım ve orman müdürlüğüne bildirin. Avlanma mevzuata bağlıdır, kendiniz avlanmayın; TARSİM kapsamını kontrol edin.
+@govde
+Sabah tarlaya gittiğinizde toprağın yarı yarıya eşelendiğini, mısırın yatırılmış olduğunu ya da soğanların sökülmüş olduğunu görürseniz, ilk akla gelen yaban domuzudur. Köy ve orman kenarındaki bahçelerde ve tarlalarda yaban domuzu zararı yıllardır süren bir sorundur; bahçede ise tavşan benzer sıkıntılar çıkarır. Bu yazı zararı nasıl tanıyacağınızı, hangi önlemlerin işe yaradığını ve zarar olduğunda hangi adımların izleneceğini anlatıyor. Hukuki süreçler değiştiği için burada süre, tutar ve şart vermiyoruz; yetkili kurumlardan güncel bilgi alın. Bu yazı bir hukuk görüşü değildir; kendiniz avlanmak ya da hayvana zarar vermek yasal sorumluluk doğurabilir.
+
+## Yaban domuzu zararını nasıl tanırsınız?
+
+Yaban domuzu zararı, diğer hayvanların zararından kolay ayırt edilir: toprak büyük parçalar hâlinde, sığ ve geniş biçimde eşelenmiş olur; bitkiler kökünden sökülür ya da yatırılır; mısır, buğday, patates, soğan, yer elması gibi yumrulu ve tahıllı ürünler tercih edilir; sulak ve yumuşak toprakta tırnak izleri görülür. Zarar genellikle geceleri olur. Küçük kemirgenler ve köstebek zararı ise çok daha küçük ölçeklidir; onlar için [bahçede fare](/bahcede-fare) yazısına bakabilirsiniz.
+
+| Belirti | Olası neden | Ayırt edici ipucu |
+|---|---|---|
+| Geniş, kaba eşelenmiş toprak, devrilmiş bitki | Yaban domuzu | Tırnak izi ve çok sayıda iz |
+| Yumrunun ya da soğanın yenmiş, delik açılmış | Kemirgen ya da yaban domuzu | Delik boyu ve çapı |
+| Fide yaprağı ve gövdesi kırpılmış | Tavşan | Temiz, eğik kesim; yer seviyesinde yenmiş fide |
+| Tünel ve yükselti | Köstebek | Toprak yığınları, bitkiye zarar dolaylı |
+
+## Önlem: çit ve caydırıcılar
+
+Yaban domuzuna karşı en etkili önlem, fiziksel engeldir. Sağlam ve yere gömülen ya da altı sabitlenmiş bir çit, domuzun alttan eşelenip geçmesini zorlaştırır; telin yere yakın kısmının güçlü olması gerekir. Elektrikli çit de yaygın bir seçenektir, ancak kurulum ve güvenlik için doğru tasarım gerekir; çocukların ve evcil hayvanların erişeceği yerlerde risk yaratır ve yerel kurallara uygun olmalıdır. Ses, koku ve ışık caydırıcıları geçici etki yapar çünkü hayvan zamanla alışır; bu yüzden farklı yöntemleri dönüşümlü kullanmak gerekir. Canlı çit bitkileri için [çit bitkileri](/cit-bitkileri) yazısına bakabilirsiniz; ancak canlı çit tek başına yaban domuzunu durdurmaz, kalıcı koruma için sağlam tel çit gerekir.
+
+Ürün seçimi ve ekim zamanı da etkilidir: domuzların en çok sevdiği ürünlere (mısır, yumrulu bitkiler, olgunlaşan meyveler) yakın zamanda ve orman kenarında dikkat edin; tarla kenarını açık tutmak, çalılık ve saklanma alanını azaltır. Tarlanın yakınında yem bırakmayın; hasat artığını bırakmayın ve sulama sızıntısı gibi cazip su kaynaklarını yönetin.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-198-litre]
+
+## Tavşan zararı: bahçede küçük ölçekli koruma
+
+Bahçede tavşan fidelerin gövdesini ve genç yaprakları kemirir. En kesin yol, bitkinin çevresini hayvanın geçemeyeceği bir engelle sarmaktır: yere yakın sık gözlü bir tel ya da file, yatağın etrafına yerleştirilebilir. Yükseltilmiş sebze yatağı yerdeki erişimi azaltır ama tek başına yetmez; yatağın üstünü tavşanın zıplayıp ulaşmayacağı yükseklikte kapatmak ya da yatağın çevresine file takmak gerekir. Genç ağaç gövdelerini koruyucu bir boruyla sarmak da kış aylarında tavşan ve fare zararını azaltır. Yeni ekilen yataklarda ağ ve örtü kullanımı için [agril örtü kullanımı](/agril-ortu-kullanimi) yazısına bakabilirsiniz.
+
+## Zarar olduğunda: ne yapılır?
+
+Tarla ve bahçe sahibi için en önemli kural, zararı geciktirmeden bildirmektir. Av ve yaban hayvanlarının korunmasına ilişkin düzenleme çerçevesinde yaban domuzu zararlarının tespiti, Tarım ve Orman Bakanlığı il ya da ilçe müdürlüğünce yapılan bir rapora bağlanır ve bu raporun zarardan sonra kısa bir süre içinde hazırlanması öngörülür; sürenin ve şartların güncel hâli için müdürlüğe başvurun. Bildirimde şu adımlar izlenir:
+
+::: adimlar
+Zararı fotoğraflayın | Tarihli ve geniş açılı fotoğraf çekin; iz, eşelenmiş alan ve zarar gören ürünü gösterin.
+Hemen bildirin | Zararı öğrendiğiniz anda il ya da ilçe tarım ve orman müdürlüğüne yazılı ya da yüz yüze bildirin.
+Tespiti bekleyin | Müdürlük tespit raporunu hazırlayana kadar zarar gören alanı mümkünse bozmayın.
+Sigorta kapsamını kontrol edin | TARSİM poliçeniz varsa zararın teminat kapsamında olup olmadığını öğrenin.
+Kayıt tutun | Rapor, fotoğraf ve yazışmaları saklayın.
+:::
+
+Tarım sigortası kapsamları ve koşulları için [TARSİM](https://www.tarsim.gov.tr) resmî sayfasına bakın. Kurum, yaban hayvanı zararı için teminat kapsamını ve başvuru koşullarını ürün ve poliçeye göre belirler.
+
+## Avlanma: kimler, ne zaman yapabilir?
+
+Yaban domuzu avlanma düzenlemelerine tabidir; kendi başınıza tüfekle ya da tuzakla avlanmak yasal sorumluluk doğurabilir. Tarım ve Orman Bakanlığı il müdürlükleri, tarıma zarar veren yaban domuzları için yetkili komisyonlarla koordinasyon sağlar ve gerektiğinde kontrollü av organizasyonları düzenleyebilir. Bu yüzden zarar sizin tarlanızda sürüyorsa ilk iş müdürlüğe bildirmektir; avlanma yetkisi ve zamanını kurum belirler. Evcil hayvanlara zarar verebilecek tuzak ve zehir kullanmayın; ikisi de hem yasaktır hem tehlikelidir. Bu yazıda avlanma yöntemleri anlatılmaz.
+
+## Tarla düzeniyle zararı azaltmak
+
+Çit ve caydırıcıların yanında tarla düzeni de yaban domuzu zararını etkiler. Orman, dere ve çalılık kenarındaki parseller en çok ziyaret edilen yerlerdir; bu şeritte tahıl ya da mısır yerine hayvanın daha az ilgi gösterdiği ürünü ekmek, riskli kenarı sık gözlü bir çitle ayırmak yardımcı olabilir. Hasat sonrası tarlada kalan koçan, yumru ve meyve artığını toplayın; bu artıklar hayvanı çeker. Olgunlaşma dönemi en riskli zamandır; bu dönemde tarlayı sık kontrol edip ilk zarar izinde müdürlüğe bildirin. Yaban domuzu zararı bir kez başlayınca tekrar etme eğilimindedir; erken müdahale çoğu zaman en ucuz çözümdür.
+
+## Önlem planı: küçük bahçeden tarlaya
+
+Küçük bir bahçede, tavşan için yatağı file ile çevirmek ve ağaç gövdelerini koruyucuyla sarmak çoğu zaman yeterlidir. Yaban domuzu riski olan tarlada ise kalıcı çit, caydırıcı yöntemlerin dönüşümü, ürün planı ve düzenli bildirim birlikte uygulanır. Tek bir yöntemi mucize olarak görmeyin; birkaç yöntemi birlikte kullanmak başarıyı artırır. Ekim planı için [ekim nöbeti](/ekim-nobeti) yazısına, genel tarla koruma için [iyi tarım uygulamaları](/iyi-tarim-uygulamalari) yazısına bakabilirsiniz. Bahçe yatağı ve toprak konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Yaban domuzu zararı nasıl anlaşılır?
+C: Geniş ve kaba eşelenmiş toprak, kökünden sökülmüş ya da yatırılmış bitki, yenmiş mısır, patates ve soğan ile tırnak izleri en tipik belirtilerdir. Zarar genellikle geceleri olur; fotoğraf çekin ve izleri koruyun.
+
+S: Yaban domuzu zararı olursa kime bildirilir?
+C: Zararı öğrendiğiniz anda il ya da ilçe tarım ve orman müdürlüğüne bildirin. Müdürlük tespit raporu hazırlar; raporun hazırlanma süresi ve şartları değişebildiği için kurumdan güncel bilgi alın.
+
+S: Yaban domuzunu kendim avlayabilir miyim?
+C: Hayır, avlanma mevzuata ve yetkiye tabidir; izinsiz avlanma ve tuzak kullanımı yasal sorumluluk doğurabilir. Zarar için müdürlüğe bildirin; tarıma zarar veren domuzlar için yetkili komisyonlar kontrollü uygulama yapabilir.
+
+S: Tavşandan sebze yatağını nasıl korurum?
+C: Yatağın çevresini yere yakın sık gözlü tel ya da fileyle çevirin; üstünü de kapatın. Genç ağaç gövdelerini koruyucu boruyla sarın. Tek başına yükseltilmiş yatak yetmez, erişimi engelleyen bir örtü gerekir.
+
+### SORU
+yayin: 2027-01-30 12:15
+kategori: gubreleme
+baslik: Kireçli tarlama her yıl DAP veriyorum ama mısır hâlâ mor kalıyor, ne yapmalıyım?
+metin: Tarlamın toprağı beyazımsı ve kireçli. Her ekimde DAP serpiyorum ama fide döneminde yapraklar morumsu oluyor ve büyüme yavaş. Fosfor yetmiyor mu, nasıl yapmalıyım?
+@cevap Hatice Kübra Çelik | 2
+Kireçli toprakta fosfor kalsiyumla bağlanabilir (fosfor tutulumu); özellikle DAP'ı yüzeye serpip bıraktığınızda fosfor köke ulaşmadan tutulabilir. Ders kaynakları kireçli toprakta DAP'ı yüzeye serpmek yerine toprağa karıştırmayı ya da ekimle birlikte sıra altına vermeyi önerir. Öncelikle toprak analizi yaptırın; fosforun, pH'ın ve organik maddenin durumunu görün. İlkbahar soğuğunda fosfor alımı zaten zayıftır, bu yüzden fide döneminde mor yaprak, hava ısınınca düzelebilir. Organik madde (yanmış çiftlik gübresi, kompost) fosfor yarayışlılığını destekler. Aynı dozu artırmak yerine uygulama biçimini değiştirin; dozu analiz ve il tarım müdürlüğünün önerisine göre ayarlayın.
+

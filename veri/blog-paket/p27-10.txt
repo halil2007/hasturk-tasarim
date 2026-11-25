@@ -1,0 +1,119 @@
+### YAZI
+slug: bitkilerden-dogal-boya
+baslik: Bitkilerden Doğal Boya: Ceviz, Soğan Kabuğu ve Kökboya ile Boyamak
+yayin: 2027-01-27 10:20
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: bitkilerden doğal boya
+seo_baslik: Bitkilerden Doğal Boya: Ceviz, Soğan, Kökboya
+seo_aciklama: Bitkilerden doğal boya nasıl elde edilir? Ceviz kabuğu, soğan kabuğu ve kökboya ile yünü şap mordanıyla boyama, renk ve haslık beklentisi, güvenlik.
+ozet: Bitkilerden doğal boya, ceviz, soğan kabuğu ve kökboya gibi bitkilerle yünü ve pamuğu kahverengi, sarı ve kırmızı tonlarda boyamaktır. Elyafın hazırlanmasını, şap mordanını, boyama adımlarını, renk ve haslık beklentisini, boya atığını ve güvenlik kurallarını yazdık.
+etiketler: doğal boya, ceviz kabuğu, soğan kabuğu, kökboya, şap mordan, bitkisel boyama
+gorsel: bekliyor
+gorsel_alt: Soğan kabuğu ve ceviz kabuğu dolu boya kazanı, yanında ipe asılmış sarı, kahverengi ve kırmızı boyanmış yün çileler
+urunler: hg-fidan-topragi, arzuman-papatya-tohumu-100-adet
+kisaca: Bitkilerden doğal boya için temiz yün ya da pamuk önce şap mordanıyla hazırlanır, sonra ceviz kabuğu (kahverengi), soğan kabuğu (sarı–turuncu) ya da kökboya (kırmızı) kaynatılarak elde edilen boya banyosunda ısıtılır. Yalnızca şap kullanın, boya kapları yemek için kullanılmasın, eldiven takın; soğan kabuğunun ışık haslığı düşüktür.
+@govde
+Bahçede yere düşen ceviz kabuğu, mutfakta biriken soğan kabuğu ya da kökboya bitkisinin kurutulmuş kökü; üçü de yüzyıllardır Anadolu'da yün ve ipliği renklendirmek için kullanılan boya kaynaklarıdır. Bitkilerden doğal boya, bahçeciliğin ve el sanatlarının kesiştiği bir uğraştır: bahçede ya da mutfakta çıkan atığı renge çevirirsiniz. Ama kimya ve güvenlik tarafı vardır; renk de her zaman beklediğiniz gibi çıkmaz. Aşağıda adım adım ve dürüstçe anlatıyoruz.
+
+## Geleneksel Anadolu'da boya bitkileri
+
+Türkiye'de halı ve kilim dokumacılığı doğal boyaya dayanır. Milli Eğitim Bakanlığı'nın halı modülü, kök boyalı ipliklerle dokunan halıların daha parlak ve kaliteli olduğunu, ceviz kabuğundan koyu kahve, krem ve bej tonlarının, soğan kabuğundan koyu sarının elde edilebildiğini belirtir ([MEB halı dokumaya hazırlık modülü](https://megep.meb.gov.tr/mte_program_modul/moduller_pdf/G%C3%B6rdes%20Hal%C4%B1s%C4%B1%20Dokumaya%20Haz%C4%B1rl%C4%B1k.pdf)). Süleyman Demirel Üniversitesi'nin halı dersi sayfasında da ceviz kabuğu, soğan kabuğu, kökboya ve papatya gibi bitkilerin boyama reçeteleri anılır ve soğan kabuğunun ışık haslığının düşük olduğu belirtilir ([SDÜ HAL-314 ders sayfası](https://obs.sdu.edu.tr/Public/EctsCourseDetails.aspx?DersNo=190600314120&BolumNo=1906&BirimNo=19&DersBolumKod=HAL-314)). Yani aşağıdaki bitkiler uydurma değil, geleneksel ve akademik kaynaklarda yer alan boya bitkileridir.
+
+| Bitki | Kullanılan kısım | Elde edilen renk | Not |
+|---|---|---|---|
+| Ceviz | Yeşil ya da kuru dış kabuk | Kahverengi tonları, krem, bej | Tanen içerir; mordansız da tutar, eldiven şart |
+| Soğan | Kuru dış kabuk | Sarı, altın, turuncu | Mutfak atığıyla kolay; ışık haslığı düşük |
+| Kökboya (Rubia) | Kuru kök | Kırmızı, pembe, turuncu | Klasik kırmızı; mordana ihtiyaç duyar |
+| Papatya | Çiçek | Açık sarı | Kısa ömürlü renk |
+
+## Hangi elyaf boyanır?
+
+Doğal boyalar en iyi hayvansal liflere, yani yüne ve ipeğe tutunur. Pamuk ve keten gibi bitkisel lifler ise mordanlama ve ön işlem ister; renk genelde daha açık çıkar. Sentetik elyaf (polyester, naylon) doğal boyayı neredeyse hiç tutmaz. Başlangıç için beyaz ya da doğal renkli, işlem görmemiş yün iplik ya da pamuk bez en iyi sonuç verir. Elyaf koyu ya da renkliyse boya tonu bundan etkilenir. Küçük bir deneme parçasıyla (örneğin 50 gram iplik) başlamak, büyük işe girişmeden önce rengi görmenizi sağlar.
+
+## Bitkilerden doğal boya: önce temizlik, sonra mordan
+
+Doğal boyada iki ön adım vardır. İlki elyafın temizliğidir: yağ, kir ve apre boyanın tutunmasını engeller; ılık sabunlu suda yıkayıp durulayın. İkincisi mordanlamadır. Mordan, boyayı elyafa bağlayan bir metal tuzudur; mordansız boyanan elyaf rengi çabuk bırakır. Ceviz gibi tanenli bitkiler mordansız da bir ölçüde tutunur, ama soğan kabuğu ve kökboyada mordan beklenir. Akademik çalışmalar şapın birçok bitkiyle iyi sonuç veren yaygın bir mordan olduğunu bildirir ve araştırmalarda bakır, demir, kalay tuzları ve dikromat gibi başka metal tuzları da karşılaştırılmıştır. Evde yalnızca şap kullanın: diğer metal tuzları (özellikle bakır, krom ve kalay bileşikleri) zehirlidir ve atığı çevreye zarar verir.
+
+Şap miktarı için kullandığınız tarifi izleyin; yaygın tariflerde elyaf ağırlığının yaklaşık onda biri ile beşte biri arası şap kullanılır. Şap eczane ve baharat satan yerlerde bulunur; bir kaba sıcak suda eritilir ve elyaf bu çözeltide yaklaşık bir saat, kaynatmadan ısıtılır. Ardından elyaf çıkarılır, hafifçe sıkılır ve boya banyosuna doğrudan konur ya da kurutup bekletilir.
+
+## Güvenlik: bu işte nelere dikkat edilmeli?
+
+Doğal boya "doğal" olduğu için zararsız değildir.
+
+- **Ayrı kap kullanın.** Boya ve mordan kazanları yemek pişirmek için kullanılmaz; eski ve paslanmaz bir tencere ya da yalnızca bu iş için ayrılmış bir kap seçin.
+- **Eldiven takın.** Ceviz kabuğu ellerinizi kalıcı kahverengiye boyar; mordan ve boya banyosu da cildi tahriş edebilir.
+- **Havalandırın.** Boya banyosu kaynarken buhar ve koku çıkar; pencere açık, çocuk ve evcil hayvanlar uzakta olsun.
+- **Mordan kimyasallarını güvenli saklayın.** Şapı etiketli ve çocuğun erişemeyeceği yerde tutun.
+- **Boya atığını bahçeye dökmeyin.** Kullanılmış mordan çözeltisi ve boya banyosu toprağa ve bitkilere zarar verebilir; bol suyla seyreltip gider yerine dökün. Bahçeye yalnızca soğuyan, saf bitki posasını kompostlayın.
+- **Metal kaplarla denemeyin.** Bakır ve demir kaplar rengi değiştirir ve boya banyosuna metal salar.
+
+## Soğan kabuğu ile sarı ve turuncu
+
+Soğan kabuğu en kolay başlangıçtır; çünkü mutfakta birikir ve ücretsizdir. Kırmızı soğan kabuğu daha koyu, sarı soğan kabuğu daha altın tonlar verir. Birkaç haftalık kabuk biriktirin.
+
+::: adimlar
+Elyafı mordanlayın | Temiz yünü şap çözeltisinde yaklaşık bir saat, kaynatmadan ısıtın; sonra durulayın.
+Boya banyosunu hazırlayın | Soğan kabuğunu su ile bir kazana koyup yaklaşık yarım ile bir saat hafifçe kaynatın; kabukları süzün.
+Elyafı boyayın | Islak elyafı sıvıya batırıp kısık ateşte yarım ile bir saat ısıtın; ara sıra çevirin.
+Soğumasını bekleyin | Elyafı banyoda soğumaya bırakın; renk soğurken biraz daha derinleşir.
+Durulayın ve kurutun | Ilık suyla durulayıp nötr sabunla hafifçe yıkayın ve gölgede kurutun.
+:::
+
+Sonuç sarıdan turuncuya kadar değişir. Soğan kabuğuyla elde edilen renklerin ışık haslığı düşüktür; güneş görünen yerde zamanla solarlar. Bu yüzden duvar süsü ya da pencere önünde asılacak boyalı kumaşta renk soluklaşabilir; yastık içi ve çanta gibi sürekli güneş almayan ürünlerde daha dayanıklı görünür.
+
+[ürün:arzuman-papatya-tohumu-100-adet]
+
+## Ceviz kabuğu ile kahverengi
+
+Ceviz toplarken dış yeşil kabuğu ellerinizi boyar; aynı madde (tanen) elyafı da boyar. Ceviz kabuğu boyasının güzelliği, mordan olmadan bile bir renk bırakmasıdır; ama şaplı mordan rengi daha sağlam yapar. Ocak ayında yeşil kabuk yoktur; kurumuş dış kabuk ya da toplanıp saklanmış kuru kabuk kullanılır. Kabukları bir gece suda bekletin, ertesi gün bir saat kadar kaynatıp süzün. Elyafı bu banyoda yaklaşık bir saat ısıtın. Renk, kabuk miktarına göre açık bej ile koyu çikolata kahverengisi arasında değişir. Ceviz ağacını bahçede yetiştirmek ve kabuğunu toplamak için [ceviz yetiştirme](/ceviz-yetistirme) yazısı yol gösterir. Boyama sırasında ceviz kabuğu suyunu kaplardan ve zeminden hemen silin; kalıcı leke bırakır.
+
+## Kökboya ile kırmızı
+
+Kökboya (Rubia tinctorum) kırmızı verir; Anadolu halı geleneğinin klasik rengidir. Kuru kök toz ya da parça hâlinde bulunur. Kırmızı için boyama sırasında suyun aşırı kaynatılmaması birçok tarifte önerilir; yoksa renk kahverengiye kayar. Kökü bir gece suda bekletip ısıtın, elyafı şapla mordanlanmış hâlde banyoya koyun ve düşük ısıda bir saat tutun. Sonuç pembeden kırmızıya, turuncuya kadar değişebilir. Kökboya diğer iki bitkiye göre daha zor bulunur ve işlemi daha dikkatli ister; ilk denemeyi soğan kabuğu ile yapmak yerinde olur.
+
+## Bitkilerden doğal boya: renk ve haslık beklentisi
+
+Doğal boyayla endüstriyel ürünlerin parlak ve sabit renklerini yakalayamazsınız. Renk, bitkinin cinsine, yetiştiği toprağa, hasat zamanına, suyun sertliğine ve mordana göre değişir. Aynı tarif iki seferde farklı ton verebilir; bu doğal boyanın karakteridir. Haslık, yani rengin yıkamaya ve ışığa dayanıklılığı, bitkiye göre farklıdır. Soğan kabuğu ışık haslığı bakımından zayıftır; kökboya ve ceviz genelde daha dayanıklıdır. Boyalı ürünü ayrı ve soğuk suda, nötr sabunla elde yıkayın; sert deterjan ve güneşte kurutma rengi soldurur. Bunun yerine renkleri bir "mevsim hatırası" gibi görmek, doğal boyanın tadını artırır.
+
+## Bahçeden boyaya: hangi bitkiler yetiştirilir?
+
+Doğal boya için bahçede yetiştirilecek bitkiler de vardır: papatya ve ceviz örneğin; ayrıca soğan, sarımsak ve diğer soğanlı sebzeleri zaten mutfak için yetiştirirsiniz ve kabukları boya olur. Papatya tohumu ekimi için [papatya ve yabani çiçek tohumu bilgileri](/tohum-ekim-derinligi-tablosu) yardımcı olur; soğan yetiştirmek için [sarımsak ve soğan dikimi](/sarimsak-ve-sogan-dikimi) yazısına bakabilirsiniz. Mutfak atığını boyaya çevirmek hem israfı azaltır hem de bahçecilikle el sanatını birleştirir.
+
+## Çocuklarla boyama
+
+Çocuklarla yapılacak güvenli bir etkinlik de vardır: şapsız, yalnızca soğan kabuğu ile beyaz pamuk bez ya da yumurta kabuğu boyamak. Ancak kaynayan sıvı çocuk için tehlikelidir; kaynatma ve ısıtma yetişkinin işidir, çocuk soğuyan boyayı karıştırıp kumaşı batırabilir. Şap kullanılacaksa çocuğun ağzına ve cildine temasına izin vermeyin; mordan çözeltisini çocukla birlikte hazırlamayın. Soğan kabuğuyla boyanan yumurtalar (yenmeyecekse) ve beyaz kumaş parçaları güzel ve güvenli bir başlangıçtır.
+
+Bitkilerden doğal boya bir kez denendiğinde bir bahçe alışkanlığına dönüşür: sonbaharda ceviz kabuğunu, yıl boyu soğan kabuğunu, yaz sonunda kuru çiçekleri biriktirir ve kışın boyama gününe çevirirsiniz. Boyadığınız ipliklerin her birine bitki adı, tarih ve şap oranını yazan bir etiket takarsanız, ertesi yıl aynı rengi yeniden üretmek mümkün olur.
+
+[ürün:hg-fidan-topragi]
+
+Bahçe bitkisi ve toprak seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz. Boya kimyasalları ve atık yönetimi konusunda yerel belediye ve çevre birimlerinin kuralları geçerlidir.
+@sss
+S: Bitkilerden doğal boya nasıl yapılır?
+C: Temiz yün ya da pamuğu şap çözeltisinde mordanlayın, soğan kabuğu, ceviz kabuğu ya da kökboya gibi bitkiyi suda kaynatıp süzün ve elyafı bu banyoda ısıtın. Soğuyunca durulayıp gölgede kurutun.
+
+S: Doğal boya için hangi mordan kullanılır?
+C: Evde en güvenli ve yaygın seçenek şaptır. Bakır, krom, kalay ve demir tuzları gibi diğer metal mordanlar zehirlidir ve çevreye zarar verir; evde kullanmayın.
+
+S: Soğan kabuğu boyası güneşte solar mı?
+C: Evet, soğan kabuğuyla elde edilen sarı ve turuncu tonların ışık haslığı düşüktür. Doğrudan güneş alan yerde zamanla solar; sürekli güneş görmeyen ürünlerde daha dayanıklı görünür.
+
+S: Ceviz kabuğu boyası elyafa ve ele nasıl tutunur?
+C: Ceviz kabuğu tanen içerir; mordansız bile elyafa kahverengi bir renk bırakır, eldivensiz tutulursa elleri de kalıcı boyar. Şaplı mordan rengi daha sağlam yapar; çalışırken eldiven takın.
+
+### SORU
+yayin: 2027-01-27 15:30
+kategori: bahce-ipuclari
+baslik: Soğan kabuğuyla boyadığım yün ipliğin rengi ilk yıkamada soldu, nasıl daha kalıcı yaparım?
+metin: Güzel altın sarısı bir renk elde etmiştim ama elde yıkayınca renk soldu ve iplik donuklaştı. Mordan kullanmadım. Rengi kalıcı hâle getirmek için ne yapabilirim, ya da bu bitkide solma normal mi?
+@cevap Rümeysa Altınova | 2
+Soğan kabuğuyla elde edilen sarı ve turuncu tonların ışık ve yıkama haslığı zaten düşüktür; üniversite ders kaynaklarında da bu not edilir. Yine de mordansız boyamak solmayı artırır. Bir sonraki denemede iplikleri önce şapla mordanlayın: temiz yünü şap çözeltisinde yaklaşık bir saat, kaynatmadan ısıtın, durulayın ve boyama banyosuna ıslak hâlde atın. Boyadıktan sonra ipliği soğuyana kadar banyoda bırakın; böylece renk daha iyi tutunur. İlk yıkamada soğuk ya da ılık suda, nötr bir sabunla hafifçe yıkayıp çok sürtmeyin ve gölgede kurutun; sıcak su ve sert deterjan rengi hızla çıkarır. Koyu renk istiyorsanız daha fazla soğan kabuğu kullanın ve elyafı banyoda daha uzun bekletin. Kalıcılığı en yüksek kahverengi için ceviz kabuğu ve kökboya gibi bitkiler daha uygundur. Soğan kabuğuyla boyanan ipliği güneş görmeyecek ürünlerde (örgü çanta içi, yastık) kullanmak da rengin uzun ömürlü görünmesini sağlar.
+
+### SORU
+yayin: 2027-01-27 17:45
+kategori: bahce-ipuclari
+baslik: Doğal boya yaparken kullandığım tencereyi sonra yemek için kullanabilir miyim?
+metin: Soğan kabuğu ve şap kullanarak iplik boyadım. Annemin eski bir paslanmaz tenceresini kullandım. Tencereyi iyice yıkarsam sonra yemek yapmak için kullanabilir miyim, sakıncası var mı?
+@cevap Muhammed Hamza Çelik | 2
+Güvenli olan, boya ve mordan için ayırdığınız kabı yemek için kullanmamaktır. Şap ve bitki tanenleri yüzeyde ve çizik yerlerde kalabilir, kap tamamen temizlenmiş görünse bile ağızdan alınması istenmeyen kalıntılar bırakabilir. Bu yüzden boyama için ayrı bir tencere, kepçe ve kâse edinin; ikinci el ya da eski kapları seçebilirsiniz, ama yalnızca bu iş için kullanın ve üzerine "boya" yazın. Çalışırken eldiven takın, ocak başında çocuk ve evcil hayvan bulundurmayın, mutfağı havalandırın. Boya banyosunu ve şap çözeltisini yemek yapılan lavaboya dökmeden önce bol suyla seyreltin; bahçeye dökmeyin. Kaplarınızı boya sonrası ılık sabunlu suyla yıkayıp kuruyun ve çocukların ulaşamayacağı bir yerde saklayın. Yemeği başka bir tencerede pişirin.

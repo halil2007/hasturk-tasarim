@@ -1,0 +1,351 @@
+### YAZI
+slug: akvaryum-bitki-topragi-ve-kum-secimi
+baslik: Akvaryum Bitki Toprağı ve Kum Seçimi
+yayin: 2027-02-14 09:10
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: akvaryum bitki toprağı
+seo_baslik: Akvaryum Bitki Toprağı ve Kum Seçimi
+seo_aciklama: Akvaryum bitki toprağı mı kum mu? Besin tutan toprak, inert kum ve çakılın farkı, köklü bitkiler için katmanlama, zemin derinliği ve kök tableti.
+ozet: Akvaryum bitki toprağı, kök yoluyla beslenen bitkiler için besin tutan zemindir; kum ve çakıl ise besin tutmaz. Hangi bitkinin hangi zemini istediğini, tane büyüklüğünü, zemin derinliğini, katmanlamayı, kök tabletiyle takviyeyi ve bahçe toprağını neden kullanmamak gerektiğini anlattık.
+etiketler: akvaryum, akvaryum toprağı, akvaryum kumu, su bitkisi, kök tableti, zemin derinliği, kılıç bitkisi, kriptokorin
+gorsel: bekliyor
+gorsel_alt: Yarısı kesit görünümlü akvaryumda alt katmanda koyu besin toprağı, üstünde ince kum ve kökleri zemine inen su bitkileri
+urunler: genel-saksi-topragi-ozel-karisim
+kisaca: Akvaryum bitki toprağı (killi, besin tutan aktif zemin), kök yoluyla beslenen bitkilere (kılıç bitkisi, kriptokorin, vallisneria) uygundur; düz kum ve çakıl ise besin tutmaz, gövde ve rizomla beslenen bitkiler ile sıvı gübrede yeterli olur. Yaygın öneri 5–10 cm zemin derinliğidir; bahçe toprağı kullanılmaz.
+@govde
+Akvaryuma bitki koyduğunuzda ilk sorulan soru çoğu zaman ışıktır, ama bitkinin durumunu ilk üç ayda belirleyen şey ışıktan çok zemindir. Kökleri sudan değil zeminden besleniyorsa, çakıl yatağında bitki sarıya döner; rizomu zemine gömülürse çürür. Akvaryum bitki toprağı bu nedenle hobinin en çok tartışılan konularından biridir: Besinli toprak mı, düz kum mu, ikisi birden mi? Bu yazı bir satıcı kataloğu değil; karşılaştırma ve karar adımlarıdır. Başlamadan bir uyarı: Bu konuda üniversite çalışması azdır; bilgiler akvaryum hobi yayınlarında ve satıcı rehberlerinde dağılmıştır, bu yüzden kesin değil yaygın uygulamadır.
+
+## Akvaryum bitki toprağı, kum ve çakıl: üç zemin türü
+
+Akvaryum bitki toprağı seçmeden önce seçeneklerin ne yaptığını bilmek gerekir. Akvaryum zemini temelde üç gruba ayrılır. Wikipedia'nın akvaryum zemini maddesi de benzer bir çerçeveyle çakıl, kum ve özel zemin ürünlerini ele alıyor ([Wikipedia: Substrate (aquarium)](https://en.wikipedia.org/wiki/Substrate_(aquarium))). Aşağıdaki tablo hobi yayınlarında ortak anılan farkları özetliyor.
+
+| Zemin | Besin tutar mı? | Kime uygun? | Dikkat |
+|---|---|---|---|
+| Akvaryum bitki toprağı (aktif zemin) | Evet, kil bazlı yapı besini tutar | Kök yoluyla beslenen bitkiler | Zamanla tükenir; yeni kurulumda suyu bulandırabilir |
+| Kum | Hayır (inert) | Gövde ve yaprakla beslenen bitkiler, ince zemin sevenler | Çok ince kum sıkışabilir |
+| Çakıl | Hayır (inert) | Genel kullanım, sıvı gübre veren tanklar | Çok iri çakılda yem ve atık aralara kaçar |
+
+İnert kelimesi, zeminin su ve bitkiye madde vermediği anlamına gelir. Bu kötü değildir: Yüzlerce bitkili akvaryum, düz çakıl ya da kumla ve suya verilen sıvı gübreyle başarıyla yürür. Sorun, ihtiyacı olandan farklı bir zemin seçmektir.
+
+## Hangi bitki hangi zemini ister?
+
+Bitkilerin besini alma yolu seçimi belirler. Kılıç bitkisi (Echinodorus), kriptokorin ve vallisneria gibi türler besinin önemli bir bölümünü kökleriyle alır; bu bitkiler besin tutan bir zeminde daha iyi gelişir. Anubias, java eğreltisi ve java yosunu ise rizomla taşa ya da odunun üzerine bağlanır ve zemine ihtiyaç duymaz; bu türlerin besini sudan alması yeterlidir. Daha önce yazdığımız [akvaryum bitkileri: başlangıç için kolay türler](/akvaryum-bitkileri-kolay-turler) yazısında bu ayrımı ve zemine gömülmemesi gereken rizomlu bitkileri anlattık.
+
+Kural basit: Akvaryumunuzda ağırlıkla köklü bitki varsa besin tutan zemin ya da kök tableti gerekir; ağırlıkla bağlanan bitki varsa düz kum ya da çakıl yeter. Karışık kurulumlarda zemini katmanlamak ortak çözümdür.
+
+## Katmanlama: besini köke yaklaştırmak
+
+Köklü bitkiler için sık anılan yöntem, besin katmanını altta, süs katmanını üstte kurmaktır. Alta ince bir tabaka besin toprağı (ya da laterit gibi demir açısından zengin kil) serilir, üstüne kum ya da ince çakıl gelir. Bu düzenle besin köklerin bulunduğu bölgede yoğunlaşır, yüzey ise sade görünür. Üst katmanın görevi, alttaki toprağın suya karışmasını engellemektir; bu yüzden yeterince kalın serilmelidir.
+
+::: adimlar
+Tankı planlayın | Köklü bitki mi, bağlanan bitki mi baskın olacak karar verin.
+Alt katmanı serin | Besin toprağı ya da laterit tabakası; ince ve eşit yayın.
+Üst katmanı örtün | Kum ya da ince çakılı alt katmanı tamamen örtecek kalınlıkta serin.
+Yavaş doldurun | Suyu tabağa ya da elinize doğru dökün; zemini açmamak için güçlü akış vermeyin.
+İlk haftalarda su değiştirin | Yeni kurulumda su bulanabilir; kısmi değişim yapın.
+Zemin derinliğini kontrol edin | Kök boyuna göre yeterli derinlik bırakın.
+:::
+
+## Zemin derinliği ne kadar olmalı?
+
+Hobi yayınlarında en sık anılan derinlik 2–4 inç, yani yaklaşık 5–10 cm'dir. Uzun kökler daha derin zemin ister; kısa köklü bitkiler ve ön plandaki yer örtücüler için daha az yeterli olur. Bazı satıcılar köklenme için en az yaklaşık 4 cm önerir. Bu rakamlar kaynaktan kaynağa kayar, bu yüzden bir aralık olarak okuyun: Zemin çok ince ise kökler tutunamaz, çok kalın ve sıkışık ise oksijenden yoksun bölgeler oluşabilir. Genel hedef, ön tarafta daha ince, arkada kademeli kalınlaşan bir zemindir; bu aynı zamanda derinlik hissi verir.
+
+## Tane büyüklüğü: ne ince ne çok iri
+
+Çok ince kum sıkışabilir; atığı yüzeyde tutar, alt katmanda su dolaşımı azalır. Çok iri çakıl ise yem artıkları ve atığın aralara kaçmasına yol açar, temizlik zorlaşır. İyi seçim, ince çakıl ya da orta taneli kumdur. Birçok hobiyist zemin yüzeyini ayda bir hafif karıştırmayı ve süpürge ile temizlemeyi önerir; sıkışmış zemin, bataklık gibi çürük kokulu bölgeler yaratabilir.
+
+Zeminin su kimyasına etkisi de unutulmamalıdır. Kireç içeren çakıl ve kumlar suyun sertliğini ve pH'ını artırabilir; yumuşak su isteyen balık ve bitkilerde bu sorun olur. Yeni zemini akvaryuma koymadan önce temiz suda ve gerekirse küçük bir testte kontrol etmek mantıklıdır; su testi için basit damla testleri yeterlidir.
+
+## Bahçe toprağı ve saksı toprağı neden kullanılmaz?
+
+Sık yapılan hata, bahçeden ya da saksı toprağından zemin yapmaktır. Bahçe toprağı su altında dağılır, suyu bulandırır, çürüyen organik madde nedeniyle amonyak ve yosun artışı yaratabilir. Gübre katkılı saksı toprakları ise suya hızla besin salar; balık ve yosun dengesi bozulur. Akvaryum zemini olarak tasarlanmış ürünler, suda dağılmayacak ve suya kontrolsüz madde vermeyecek şekilde hazırlanır. Saksı bitkileriniz için toprak seçimini [hangi bitki hangi toprağı sever](/hangi-bitki-hangi-topragi-sever) ve [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazılarında bulabilirsiniz; ama akvaryumda ayrı bir zemin kullanın. Saksı bitkileri için genel amaçlı karışımın ürün açıklamasında solucan gübreli özel karışım olarak tanımlanması da onun akvaryum değil saksı kullanımına göre hazırlandığını gösterir.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+Bu bölümdeki uyarı kesin bir yasak değil, güvenli bir varsayılandır: Deneyimli akvaristlerin bazıları ince bir bahçe toprağı tabakasını bir kum örtüsüyle birlikte kullanır; ancak bu yöntem dikkatli hazırlık, çürüme riskini bilmeyi ve yosun yönetimini gerektirir. Yeni başlayanlar için hazır akvaryum zemini ya da düz kum ve çakıl daha güvenlidir.
+
+## Zamanla besin tükenir: kök tableti
+
+Besin tutan zemin sonsuza kadar besin vermez. Hobi kaynakları aktif zeminlerin birkaç yıl içinde tükendiğini, kök tabletiyle takviye ya da yenilemeyle sürdürüldüğünü yazar. Kök tabletleri zemine, bitkinin köklerinin yakınına bastırılan küçük besin parçalarıdır. İnert zeminde kök tableti, besin tutan zemini tamamen yerine geçirmez; tabletler besinin suya sızmasına da izin verir. Bu nedenle kök tableti koyarken bitki sayısına göre ölçülü olun ve su değişim sıklığınızı artırın.
+
+Su sütununa verilen sıvı gübre ise yaprak ve gövde yoluyla beslenen bitkiler için işe yarar. Gübre ve ışığın dengesi bozulursa yosun patlar; bu yüzden gübreyi azla başlatın ve bitki tepkisine göre ayarlayın. Akvaryum ışığı ve gübre ilişkisi için [akvaryum bitkileri](/akvaryum-bitkileri-kolay-turler) yazısındaki ışık ve gübre bölümlerine bakın.
+
+## Karar tablosu
+
+Akvaryum bitki toprağı kararı üç soruya iner.
+
+Karar vermek için üç soruyu cevaplayın. Bitkilerin çoğu köklü mü? Evetse besin tutan zemin ya da katmanlama düşünün. Bütçe ve bakım kolaylığı ağırlıkta mı? O zaman düz kum ya da ince çakıl ve sıvı gübre yeterlidir. Tankta kazıcı balık (bazı dip balıkları) var mı? Kazıcılar zemini karıştırır; yumuşak, yuvarlak taneli zemin tercih edilir ve besin katmanı üste çıkmasın diye daha kalın bir kapak katmanı gerekir.
+
+Karışık tanklarda (bir kısım köklü, bir kısım bağlanan bitki) katmanlama iyi bir orta yoldur: Besin alt katmanda kalır, bağlanan bitkiler zemine bağlı olmaz. Bu yaklaşımı ilk kurulumda yapmak, sonradan zemini değiştirmekten çok daha kolaydır; çünkü kurulu bir akvaryumda zemini kaldırmak balığı ve bitkiyi strese sokar.
+
+## İlk haftalar ve yeni kurulum
+
+Yeni kurulan akvaryumda besin toprağı suya amonyak ve besin salabilir; bu ilk haftalarda yosunu ve su bulanıklığını artırır. Zemini suya koymadan önce üreticinin talimatına göre yıkamak ya da ıslatmak, kurulumdan sonra kısmi su değişimleri yapmak ve ışık süresini kısa tutmak ilk dönemin riskini azaltır. Balık eklemeden önce suyu birkaç gün döngüye bırakmak da iyi bir pratiktir. Bu aşamada acele, çoğu başlangıç akvaryumunun sorunlarının kaynağıdır.
+@sss
+S: Akvaryum bitki toprağı mı kum mu seçmeliyim?
+C: Köklü bitkiler (kılıç bitkisi, kriptokorin, vallisneria) için besin tutan akvaryum toprağı ya da katmanlama daha uygundur. Anubias, java eğreltisi ve java yosunu gibi bağlanan bitkiler için düz kum ya da ince çakıl ve sıvı gübre yeterlidir.
+
+S: Akvaryum zemini ne kadar kalın olmalı?
+C: Hobi yayınlarında en sık 5–10 cm (2–4 inç) anılır; uzun köklü bitkiler daha derin zemin ister. Çok ince zeminde kök tutunamaz, çok kalın ve sıkışık zeminde çürük bölgeler oluşabilir.
+
+S: Akvaryumda bahçe toprağı kullanılır mı?
+C: Önerilmez. Bahçe toprağı suyu bulandırır, çürüyen organik madde amonyak ve yosun artışına yol açabilir. Gübre katkılı saksı toprakları da suya kontrolsüz besin salar. Akvaryum için hazırlanmış zemin kullanın.
+
+S: Akvaryum toprağının besini bitince ne yapılır?
+C: Hobi kaynaklarına göre aktif zeminler birkaç yıl içinde tükenir; kök tableti ile takviye edilir ya da zemin yenilenir. İnert zeminde kök tableti ve sıvı gübre dengesi gerekir.
+
+### YAZI
+slug: yaban-turpu-yetistirme-kokten-cogaltma
+baslik: Yaban Turpu Yetiştirme: Kökten Çoğaltma ve Hasat
+yayin: 2027-02-14 16:40
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: yaban turpu yetiştirme
+seo_baslik: Yaban Turpu Yetiştirme: Kökten Çoğaltma ve Hasat
+seo_aciklama: Yaban turpu yetiştirme nasıl yapılır? Kök parçasıyla çoğaltma, erken ilkbahar dikimi, aralık ve derinlik, sonbahar hasadı ve yayılmayı sınırlama.
+ozet: Yaban turpu yetiştirme tohumla değil kök parçalarıyla yapılır. Erken ilkbaharda 20–23 cm kök parçası dikilir, sonbaharda don sonrası hasat edilir. Dikim aralığı ve derinliği, yan köklerin yeniden dikimi, nemli kumda saklama ve toprakta kalan parçadan yayılmayı sınırlama yöntemleri anlatıldı.
+etiketler: yaban turpu, horseradish, kök parçası, kök çoğaltma, hasat, saklama, işgalci bitki
+gorsel: bekliyor
+gorsel_alt: Toprağa eğik dikilmiş yaban turpu kök parçaları ve yanında sökülmüş kalın beyaz-kahverengi kök
+urunler: hg-bol-verimli-sebze-topragi
+kisaca: Yaban turpu yetiştirme kök parçasıyla (set) yapılır: Erken ilkbaharda toprak işlenebilir olunca yaklaşık 20–23 cm kök parçaları 30 cm aralıkla dikey ya da 45 derece eğik dikilir, kökün üst ucu toprak seviyesinde ya da hemen altında olur. Don sonrası sonbaharda hasat edilir. Toprakta kalan küçük parça yeniden sürdüğü için yayılma kontrol edilmelidir.
+@govde
+Yaban turpu bahçede tek bir sebzeden fazlasıdır: Bir yandan mutfağın en keskin köklerinden biri, öbür yandan bir kez ektiğinizde yıllarca peşinizi bırakmayabilecek bir bitki. Yaban turpu yetiştirme işi kolaydır; zor olan, onu istediğiniz yerde tutmaktır. Aşağıda kök parçasıyla çoğaltmayı, dikim ve hasat zamanını, saklamayı ve yayılmayı sınırlamanın yollarını üniversite yayım servislerinin ortak tavsiyelerine dayanarak anlatıyoruz. Önce bir karışıklığı giderelim: Yaban turpu (Armoracia rusticana, İngilizce horseradish) sofralık turp ya da kara turptan ayrı bir bitkidir; sofralık turp için [turp yetiştirme](/turp-yetistirme) ve [kara turp yetiştirme](/kara-turp-yetistirme) yazılarına bakabilirsiniz.
+
+## Yaban turpu yetiştirme: nedir, nasıl çoğalır?
+
+Yaban turpu yetiştirme işine başlamadan önce bitkiyi tanıyın. Yaban turpu, çok yıllık bir kök sebzedir. Yapraklar geniş ve uzundur, kök ise rendelenip sofra sosu ve baharat olarak kullanılan keskin kokulu bölümdür. Wikipedia'nın bitki maddesi ve Wisconsin Üniversitesi Uzantı Servisi'nin bitki yazısı, yaban turpunun yer altı sürgünleriyle yayıldığını ve toprakta kalan küçük bir kök parçasından bile yeniden büyüyebildiğini belirtiyor ([Wisconsin Üniversitesi: yaban turpu](https://hort.extension.wisc.edu/articles/horseradish-armoracia-rusticana/)). Bu nedenle yaban turpu tohumla değil, kök parçalarıyla (İngilizce "set" ya da "crown") çoğaltılır ve bahçeye kök parçası olarak girer.
+
+Bu özelliğin iki yüzü vardır. İyi taraf: Birkaç kök parçasından yıllarca hasat edilir ve ek maliyet yoktur. Kötü taraf: Yanlış yere dikildiğinde söküp kurtulmak zordur.
+
+## Ne zaman ve nasıl dikilir?
+
+Minnesota Üniversitesi'nin ev bahçesi rehberi, yaban turpunun erken ilkbaharda toprak işlenebilir hâle gelir gelmez dikilmesini öneriyor ([UMN: evde yaban turpu yetiştirme](https://extension.umn.edu/vegetables/growing-horseradish)). Utah Eyalet Üniversitesi de benzer biçimde erken ilkbahar dikimini anlatıyor ([USU: bahçede yaban turpu](https://extension.usu.edu/yardandgarden/research/horseradish-in-the-garden)). Missouri Üniversitesi'nin yayını, her biri bir büyüme noktası taşıyan 8–9 inçlik (yaklaşık 20–23 cm) kök parçalarının sığ bir hendeğe dikilmesini öneriyor ([Missouri: yaban turpu](https://extension.missouri.edu/news/spice-up-your-meals-with-horseradish)).
+
+Kaynaklarda ortak noktalar şunlardır: Kök parçaları yaklaşık bir fit (30 cm) aralıkla dikilir, dikey ya da 45 derece eğimle yerleştirilir, parçanın üst ucu toprak seviyesinde ya da hemen altında kalır. Hangi ucun üst olduğunu karıştırmamak için kökün kalın ucunu üstte, ince ucunu altta tutun; kök parçasını alırken üst ucu düz, alt ucu eğik keserseniz dikimde şaşırmazsınız.
+
+::: adimlar
+Toprağı hazırlayın | İlkbaharda toprak işlenebilir olunca gevşetin, taş ve kesekleri alın.
+Kök parçalarını hazırlayın | Büyüme noktası taşıyan 20–23 cm'lik parçalar; üst ucu düz, alt ucu eğik kesin.
+Dikin | Dikey ya da yaklaşık 45 derece eğimli; üst uç toprak seviyesinde ya da hemen altında.
+Aralık bırakın | Parçalar arasında yaklaşık 30 cm; sıra arası daha geniş olsun.
+Sulayın | İlk haftalarda toprak nemli kalsın; sonra düzenli ama ölçülü sulama.
+Yabani otu kontrol edin | Genç yapraklar gelişene kadar ot ayıklayın.
+:::
+
+## Yayılmayı sınırlamak
+
+Yaban turpunu kontrol altında tutmak için kaynaklarda anılan yöntem, bitkiyi derin bir kapta ya da gömülü bir boruda yetiştirmektir. Minnesota ve Utah yayınları saksı ya da PVC boru gömerek kök gelişimini sınırlamayı anlatıyor. Mantık basittir: Kökün yan sürgünlerini toprakta serbest bırakmayın, kapalı bir hacme alın. Ancak kapalı kapta yetişen kök, açık toprakta olduğu kadar uzun ve kalın olmayabilir; bu bir takastır.
+
+Daha kolay çözüm, bahçenin bir köşesini yaban turpuna ayırmak ve etrafında çim şeridi ya da yürüme yolu bırakmaktır; yayılan sürgünleri düzenli biçerek ya da sökerek kontrol edersiniz. Bu yaklaşım köklerin sınırlı genişlemesi ve düzenli bakım gerektirir. Wisconsin yayını ve Wikipedia'daki tür maddesi, 'Variegata' adlı alacalı yapraklı seçeneğin daha az yayılmacı olduğunu belirtiyor; yayılmayı kaygı edenler bu çeşidi aramak isteyebilir. Başka bitkilere yakın dikmeyin ve çok yıllık sebze yataklarının ortasına koymayın.
+
+## Toprak ve yer
+
+Yaban turpu derin ve gevşek toprakta uzun düz kök yapar; taşlı ve sıkışık toprakta kök dallanır ve kullanışsız hâle gelir. Güneşli ya da hafif gölgeli yeri sever. Saksı ya da dipli kapta yetiştirecekseniz derin bir kap seçin ve hazır sebze yetiştirme toprağı kullanın; dolgu, ürün açıklamasına göre sebzeler için organik madde içeren bir karışımdır. Sulama düzenli olsun; kuru kök acılaşır ve odunlaşır.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Hasat: sonbaharda don sonrası
+
+Kaynaklar çoğunlukla sonbaharda, ilk hafif donlardan sonra hasadı tercih ediyor; soğuk köke keskin tadını verir. Bölgeye göre bu dönem sonbahar sonu olur. Bazı kaynaklar ilkbaharda, yeni sürgün başlarken de kökün sökülebileceğini belirtiyor. Hasat için bitkinin dibini çatalla gevşetip kökü yan köklerle birlikte çıkarın; ana köğü yemek için ayırın, kalem kalınlığındaki yan kökleri gelecek yıl için ayırıp yeniden dikin. Bu yeniden dikim kuralı kaynaklarda ortaktır ve bahçeyi sürekli yenilemenin yoludur.
+
+Hasatta kökün tamamını çıkarmak önemlidir. Toprakta kalan her parça yeni bir bitki verebilir; yani ertesi yıl istemediğiniz yerde yaban turpu çıkması muhtemeldir. Hasat sonrası toprağı taramak ve küçük kök parçalarını toplamak gerekir.
+
+## Kök iki sezondan fazla toprakta kalırsa
+
+Minnesota ve diğer yayınlar, toprakta iki sezondan uzun kalan köklerin odunsu ve kullanışsız hâle geldiğini anlatıyor. Bu nedenle yaban turpunu her yıl ya da iki yılda bir sökmek, yan köklerle yeniden dikmek ve ana kökü hasat etmek, kalitenin anahtarıdır. Eski bitkiyi bırakmak, bahçeyi sarıp işgalci bir kökler ağına yol açar.
+
+## Saklama
+
+Yaban turpu yetiştirme emeğinin karşılığı, hasat sonrası doğru saklamayla korunur.
+
+Hasat edilen kökler nemli kum içinde serin ve karanlık bir yerde saklanabilir. Kaynaklarda bu yöntem öneriliyor. Kökleri yıkamadan önce topraklı bırakmak, kökün kurumasını yavaşlatır. Kullanmadan önce kökü yıkayın, kabuğunu soyun ve rendeleyin; ilk dakikada keskin aroma açığa çıkar ve zamanla azalır; bu yüzden rendelenmiş yaban turpunu hemen kullanın ya da sirkle saklayın. Rendelerken gözlerin ve burnun yanmasını beklemeniz gerekir; iyi havalandırılan bir yerde çalışın.
+
+## Diğer kök sebzelerle karşılaştırma
+
+Yaban turpu, havuç ve pancar gibi bir sezonluk kök sebzelerden çok farklı davranır: Çok yıllıktır, yayılır, bir defa kuruldu mu yıllarca verir. Bu nedenle ekim nöbeti ve ardışık ekim düzeniyle uyumsuzdur; yaban turpunu sebze yatağının dışında, ayrı bir köşede tutmak bahçe planını kolaylaştırır. Kök sebzelerin genel yetiştirme ilkeleri için [kara turp yetiştirme](/kara-turp-yetistirme) ve [Çin turpu yetiştirme (daikon)](/cin-turpu-yetistirme-daikon) yazılarına göz atabilirsiniz; bunlar sofralık turp gruplarıdır ve yaban turpu gibi yayılmaz.
+
+## Hangi durumda yetiştirmeye değer?
+
+Yaban turpunu mutfakta sık kullanıyorsanız, taze rendeleme eşsiz bir aroma verir ve bir iki bitki ailenin yıllık ihtiyacına yeter. Çok küçük bir bahçeniz varsa ve yayılma riskini yönetmek istemiyorsanız derin bir saksı iyi bir seçimdir. Bahçesi geniş ve köşesi boş olanlar için kenar köşe yetiştirme kolaydır. Yetiştirmeden kaçınmanız gereken tek durum, yayılan kökün başka bitkilerin arasına girip temizlenemeyecek hâle geleceği sık dikilmiş bir yatak ya da komşu bahçeyle sınırı belirsiz bir alandır. Bölgede iklim ve toprağın uygunluğunu denemek için bir iki kök parçasıyla küçük başlayın; zaten çoğalacaktır.
+@sss
+S: Yaban turpu yetiştirme nasıl yapılır?
+C: Tohumla değil, yaklaşık 20–23 cm'lik kök parçalarıyla. Erken ilkbaharda toprak işlenebilir olunca parçaları yaklaşık 30 cm aralıkla dikey ya da 45 derece eğik dikin; üst uç toprak seviyesinde ya da hemen altında kalsın.
+
+S: Yaban turpu ne zaman hasat edilir?
+C: Üniversite yayınlarının çoğu sonbaharda, ilk donlardan sonra hasadı öneriyor; ilkbaharda yeni sürgün çıkarken de sökülebilir. Ana kökü kullanıp yan kökleri yeniden dikin.
+
+S: Yaban turpu bahçeye yayılır mı?
+C: Evet. Toprakta kalan küçük bir kök parçası yeniden sürebilir. Derin saksı ya da gömülü boru gibi bir kapta yetiştirmek, hasatta kökün tamamını çıkarmak ve düzenli sökmek yayılmayı sınırlar.
+
+S: Yaban turpu nasıl saklanır?
+C: Kaynaklar nemli kum içinde serin ve karanlık yerde saklamayı öneriyor. Kullanmadan önce yıkayıp soyun ve rendeleyin; rendelenmiş turp aromasını hızla kaybeder, hemen kullanın ya da sirkle saklayın.
+
+### YAZI
+slug: mantar-kompostu-bahcede-nasil-kullanilir
+baslik: Kullanılmış Mantar Kompostu Bahçede Nasıl Kullanılır?
+yayin: 2027-02-14 19:30
+yazar: Rümeysa Altınova
+kategori: toprak-rehberi
+odak: mantar kompostu
+seo_baslik: Kullanılmış Mantar Kompostu Bahçede Nasıl Kullanılır?
+seo_aciklama: Mantar kompostu bahçede nasıl kullanılır? Tuz ve pH riski, 6 ay dinlendirme, asit seven bitkilerden uzak tutma, toprak testi ve alternatif kompostlar.
+ozet: Kullanılmış mantar kompostu organik madde sağlar ama taze hâlinde çözünür tuz içerebilir ve toprağı alkalileştirebilir. Penn State en az altı ay dinlendirmeyi, RHS ölçülü kullanımı ve asit seven bitkilerden uzak tutmayı öneriyor. Toprak testi, kullanım yerleri ve dikkat edilecekler anlatıldı.
+etiketler: mantar kompostu, kullanılmış mantar substratı, toprak düzenleyici, organik madde, tuzluluk, pH, malç, kompost
+gorsel: bekliyor
+gorsel_alt: Elle tutulan koyu renkli, nemli ve ufalanan kullanılmış mantar kompostu ile arkasında sebze tarhı
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Mantar kompostu (kullanılmış mantar substratı) organik madde kazandırır, ama taze hâlinde çözünür tuz taşıyabilir. Penn State tuza duyarlı bitkilerde taze kullanımdan kaçınmayı ve çoğu bahçe için en az altı ay dinlendirilmiş materyali öneriyor; RHS sık ve ağır kullanımın toprağı alkalileştirebileceğini, asit seven bitkilerden uzak tutulmasını söylüyor.
+@govde
+Mantar çiftliğinden çıkan koyu, nemli, hafif toprak kokulu karışım, bahçıvana bedava ya da çok ucuz bir iyileştirici gibi görünür. Büyük ölçüde öyledir de: Kullanılmış mantar kompostu organik madde ile doludur. Ama "bedava gübre" düşüncesiyle toprağa yığmak, bazı bitkiler için sorun çıkarır. Aşağıda mantar kompostunun ne olduğunu, hangi riskleri taşıdığını, üniversite yayınlarının ne önerdiğini ve bahçede güvenle nasıl kullanılacağını anlatıyoruz. Önce bir not: Kaynaklarda uygulama miktarı için uzantı servislerinin verdiği bir rakam bulamadık; bu nedenle miktar yerine yöntem ve test öneriyoruz.
+
+## Mantar kompostu nedir?
+
+Mantar yetiştiriciliğinde mantarlar, saman, at gübresi, talaş, kepek gibi maddelerden hazırlanan bir ortamda yetişir. Hasat bittiğinde geriye kalan kullanılmış ortama kullanılmış mantar substratı (İngilizce spent mushroom substrate), halk arasında "mantar kompostu" denir. İçinde parçalanmış organik madde ve çoğu durumda alçı taşı ve kireç gibi katkılar bulunabilir. Evde mantar yetiştirenlerin kendi ortamı için [mantar yetiştirme ortamı](/mantar-yetistirme-ortami) ve [istiridye mantarı yetiştirme](/istiridye-mantari-yetistirme) yazılarına bakabilirsiniz; bu yazı hasat sonrası ortamın bahçede kullanımıyla ilgilidir.
+
+Bu madde bahçeye iki işle girer: toprak düzenleyici (organik madde, su tutma) ve malç. Ama sıradan olgun komposttan farklıdır; çünkü katkı maddeleri nedeniyle tuz ve pH tarafında farklı davranır.
+
+## Riskler: tuz ve pH
+
+Penn State Üniversitesi Uzantı Servisi, kullanılmış mantar substratının çözünür tuz düzeyinin diğer organik toprak düzenleyicilerden yüksek olabildiğini belirtiyor ve emin değilseniz toprak analiz laboratuvarında ürünün analiz edilmesini öneriyor ([Penn State: kullanılmış mantar substratı](https://extension.psu.edu/spent-mushroom-substrate)). Aynı yayın, taze substratın tuza duyarlı bitkilerin yakınında sorun olabileceğini ve çoğu bahçe için altı aydan uzun süre havada bekletilmiş (dinlendirilmiş) materyalin kullanılmasını söylüyor.
+
+pH tarafında Penn State, çoğu toprağın hızlı pH değişimine direnç gösterdiğini ama önlem olarak pH'ı 6,0 ile 8,0 arasında olan ürünlerin tercih edilmesini öneriyor. Kraliyet Bahçıvanlık Derneği (RHS) ise mantar kompostunun sık ve ağır kullanımında toprakta kireç birikip alkaliliğin artabileceğini, bu yüzden ölçülü kullanılmasını ve başka kompostlarla dönüşümlü uygulanmasını öneriyor; rododendron ve açelya gibi asit seven bitkilerin yanında kullanılmamasını da belirtiyor ([RHS: mantar kompostu](https://www.rhs.org.uk/advice/profile?PID=294)).
+
+| Risk | Neden? | Önlem |
+|---|---|---|
+| Çözünür tuz | Katkı maddeleri ve ortam içeriği | Dinlendirme (en az 6 ay), toprak/ürün analizi |
+| Alkalilik artışı | Kireç içeriği | Ölçülü kullanım, dönüşümlü kompost |
+| Asit seven bitkilere zarar | pH yükselmesi | Rododendron, açelya, yaban mersini gibi bitkilerde kullanmayın |
+| Tuza duyarlı fideler | Taze ortamdaki tuz | Tohum ve fide yatağında kullanmayın |
+
+## Bahçede nerede kullanılır?
+
+Bu risk tablosu şunu söyler: Mantar kompostu, toprağı kireçli ve organik maddesi düşük olan, tuza dayanıklı bitkilerin yetiştiği yerlerde en çok işe yarar. Ağır ve killi toprağı gevşetmek, kumlu toprağın su tutmasını artırmak, ağaç dibi malcı olarak kullanmak tipik uygulamalardır. Dinlenmiş ve nemli mantar kompostu, ağaç dibine ince bir tabaka olarak serilebilir; gövdeye değmeyecek şekilde bırakın. Malç genel ilkeleri için [ağaç dibi malçlama](/agac-dibi-malclama) yazısına bakın.
+
+Bu madde fide yatağına ve tohum ekimine uygun değildir; genç fideler tuzdan etkilenir. Asit seven bitkilerin (ortanca, yaban mersini, açelya, aronya) yanında hiç kullanmayın; bu bitkilerin toprağını asit tutma mantığı için [toprak nasıl asitlendirilir](/toprak-nasil-asitlendirilir) yazısına bakabilirsiniz. Alkali ve kireçli topraklarda ise uzun vadeli kullanımın pH'ı daha da yükseltebileceğini aklınızda tutun; kireçli toprakta yetişen bitkiler için [kireçli toprakta yetişen bitkiler](/kirecli-toprakta-yetisen-bitkiler) yazısına göz atın.
+
+::: adimlar
+Kaynağı sorun | Mantar işletmesinden hangi ortamla çalıştıklarını ve ne kadar süredir dinlendiğini öğrenin.
+Dinlendirin | Taze materyali yağmura açık bir yığında en az altı ay bekletin; tuz yıkanır.
+Testi yaptırın | Emin değilseniz toprak analiz laboratuvarında tuz ve pH ölçtürün.
+Yerini seçin | Asit sevenlerden ve fide yataklarından uzak, tuza dayanıklı bitkilerin olduğu yerde kullanın.
+İnce uygulayın | Tek seferde kalın tabaka yerine ince serip toprağa karıştırın.
+Dönüşümlü kullanın | Başka kompostlarla dönüşümlü uygulayın; her yıl aynı ağırlıkla yüklemeyin.
+:::
+
+## Doğrulanmayan miktarlar
+
+Kaynaklarda dekara ya da metrekareye uygulama miktarı için üniversite yayını bulamadık; internetteki bazı yazılar "6 inç toprağa 3 inç karıştırın" gibi rakamlar veriyor, ama bu rakamlar uzantı servislerinden gelmiyor ve ürünün tuz ve pH düzeyine göre değişmesi gerekir. Bu yüzden rakam vermiyoruz. Güvenli yol: Küçük bir deneme alanında ölçülü kullanın, bitki tepkisini izleyin, toprak testi yaptırın ve yerel tarım ve orman müdürlüğüne danışın. Toprak analiz sonuçlarını yorumlamak için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısı yardımcı olur.
+
+## Alternatifler: ne zaman başka kompost seçmeli?
+
+Mantar kompostunun tuz ve pH belirsizliği sizi rahatsız ediyorsa daha öngörülebilir organik düzenleyiciler vardır. Yaprak kompostu ve mutfak-bahçe atığı kompostu tuz sorunu yaratmaz ve asit seven bitkilerle de uyumludur; yapılışları için [yaprak kompostu](/yaprak-kompostu) ve [bahçede kompost yığını](/bahcede-kompost-yigini) yazılarına bakın. Solucan gübresi de organik madde ve besin kaynağıdır; HasTürk Katı Solucan Gübresi ürün açıklamasında kırmızı Kaliforniya solucanlarının sindirim sürecinden elde edilen organik bir toprak düzenleyici olarak tanımlanıyor ve içeriğinde kimyasal katkı bulunmadığı belirtiliyor. Tavuk gübresi gibi sıcak gübreler için ise kompostlama ve yakma riski ayrıca düşünülmelidir; [tavuk gübresi nasıl kullanılır](/tavuk-gubresi-nasil-kullanilir) yazısına bakın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Evde mantar yetiştirenler için
+
+Küçük ölçekli evde mantar yetiştirenlerde hasat sonrası ortam miktarı azdır; bu ortamı kompost yığınına katmak, doğrudan toprağa karıştırmaktan daha güvenlidir. Yığına karışan ortam başka atıklarla dengelenir, tuz seyrelir ve olgunlaşır. İstiridye mantarı ortamları saman ve talaş gibi lifli maddelerden yapıldığı için kompost yığınında iyi parçalanır; kahve telvesi ve karton gibi başka maddelerle birlikte kullanılırsa denge kolaylaşır. Doğrudan saksıya koymak ise riskli: saksı toprağı küçük hacimlidir, tuz birikimi hızla etkiler.
+@sss
+S: Kullanılmış mantar kompostu bahçede nasıl kullanılır?
+C: Dinlendirilmiş (en az altı ay) materyali ince tabaka olarak, tuza dayanıklı bitkilerin yanında ve toprak düzenleyici ya da ağaç dibi malcı olarak kullanın. Fide yatağında ve asit seven bitkilerin yanında kullanmayın.
+
+S: Mantar kompostu toprağa zarar verir mi?
+C: Aşırı ve taze kullanımda zarar verebilir. Penn State çözünür tuzun diğer organik düzenleyicilerden yüksek olabileceğini, RHS ise sık ve ağır kullanımın toprağı alkalileştirebileceğini belirtiyor. Ölçülü ve dinlendirilmiş kullanım ve toprak testi risk azaltır.
+
+S: Mantar kompostu asit seven bitkilere uygun mu?
+C: Hayır. RHS, rododendron ve açelya gibi asit seven bitkilerin yakınında kullanılmamasını öneriyor. Mantar kompostu toprağın kireç ve pH düzeyini yükseltebilir.
+
+S: Mantar kompostundan ne kadar kullanılır?
+C: Üniversite uzantı yayınlarında net bir miktar bulamadık. Ürünün tuz ve pH düzeyine ve toprağınıza göre değişir; toprak analizi yaptırın, küçük alanda deneyin ve yerel tarım müdürlüğüne danışın.
+
+### YAZI
+slug: kimyasal-gubre-depolama-nem-isi-yanicilik
+baslik: Kimyasal Gübre Depolama: Nem, Isı ve Yanıcılık Güvenliği
+yayin: 2027-02-14 14:05
+yazar: Mehmet Fatih Çelik
+kategori: gubreleme
+odak: kimyasal gübre depolama
+seo_baslik: Kimyasal Gübre Depolama: Nem, Isı ve Yanıcılık
+seo_aciklama: Kimyasal gübre depolama nasıl yapılır? Kuru ve havadar yer, yerden yükseltme, yanıcı maddelerden ayırma, topaklanma, yangın riski ve etiket bilgisi.
+ozet: Kimyasal gübre depolama üç risk etrafında kurulur: nem (topaklanma ve bozulma), ısı ve yanıcı maddeyle temas (yangın) ile kirlenme. Gübreleri kuru, havadar bir yerde yerden yükseltilmiş olarak, yanıcı malzemelerden ayrı saklamak gerekir. Missouri Üniversitesi amonyum nitrat yangınlarında köpük ve kuru kimyasalın etkisiz kaldığını belirtiyor.
+etiketler: gübre depolama, kimyasal gübre, topaklanma, yangın güvenliği, nem, depo, güvenlik bilgi formu
+gorsel: bekliyor
+gorsel_alt: Kuru ve havadar depoda yerden yükseltilmiş raflarda sıralanmış etiketli gübre çuvalları
+urunler: galvaniz-depo-rafi-iskeleti-4-katli-191x66x213-cm
+kisaca: Kimyasal gübre depolamada üç risk vardır: nem (topaklanma), ısı ve yanıcı maddeyle temas (yangın), kirlenme. Gübreyi kuru, havadar bir yerde, yerden yükseltilmiş ve ağzı kapalı saklayın; yakıt ve organik malzemeden ayırın, farklı gübreleri karıştırmayın. Amonyum nitrat yangınlarında köpük ve kuru kimyasal etkisizdir.
+@govde
+Gübre çuvalı evin garajında, tarlanın kenarındaki depoda, hatta balkonda bir köşede uzun süre bekler. Çoğu kişi bunu bir güvenlik konusu olarak düşünmez; oysa gübre, doğru saklanmadığında bozulur, topaklaşır, bitkiye zarar veren bir hâle gelir ve bazı türlerinde yangın riski taşır. Kimyasal gübre depolama bu yüzden hem tasarruf hem güvenlik konusudur: Nemlenmiş gübrenin yarısı çöpe gider, kontrolsüz depolanan bir gübre ise bir yangında ciddi sorun yaratır. Bu yazı depolamanın üç temel riskini, ev ve küçük çiftlik ölçeğinde alınacak önlemleri ve kaynaklarda bulduğumuz bilgileri anlatıyor. Önemli uyarı: Bu yazı genel güvenlik ilkelerini anlatır; belirli gübrelerin (özellikle amonyum nitrat gibi riskli türlerin) satışı, taşınması ve depolanması ülkemizde ayrıca düzenlenmiş olabilir. Bu düzenlemeleri satıcıdan, il ya da ilçe tarım ve orman müdürlüğünden ve itfaiyeden öğrenin; biz tarih, miktar ya da mesafe sınırı vermiyoruz.
+
+## Kimyasal gübre depolama: üç risk
+
+Gübre depolamasında üç risk öne çıkar: nem, ısı ve yanıcı maddeyle temas, kirlenme. Hepsi birbirine bağlıdır. Nem gübreyi topaklar; topaklanmış, sıkışmış gübre kullanışsız olur ve bazı türlerde kapalı alanda yangın riskini artırır. Isı ve sıcak ortam bozulmayı hızlandırır. Yanıcı maddeyle (yakıt, saman, kuru ot, talaş, yağlı bez) birlikte depolanan bazı gübreler yangını şiddetlendirir. Son olarak, başka kimyasalla (zirai ilaç, yakıt, asit) ya da organik atıkla temas eden gübre kirlenir ve tehlikeli hâle gelebilir.
+
+| Risk | Sonuç | Önlem |
+|---|---|---|
+| Nem | Topaklanma, bozulma, kullanım zorluğu | Kuru depo, ağzı kapalı çuval, yerden yükseltme |
+| Isı | Hızlı bozulma, riskli türlerde tehlike | Serin, gölgeli, havadar yer |
+| Yanıcı madde | Yangın şiddetlenir | Yakıt ve organik malzemeden ayrı saklama |
+| Kirlenme | Kimyasal tepki, kalite kaybı | Ayrı bölme, etiket, karıştırmama |
+
+## Yangın: neden ciddiye alınmalı?
+
+Gübrelerin çoğu yanmaz, ama bazı türler yangında yanıcı maddeyi ve yangını güçlendirebilir. Missouri Üniversitesi Uzantı Servisi'nin tarım kimyasallarındaki yangınlar yayını, bu tür yangınlarda dikkat edilmesi gerekenleri anlatıyor ve amonyum nitrat yangınlarında köpük ya da kuru kimyasal gibi boğucu söndürücülerin etkisiz kaldığını belirtiyor ([Missouri Extension: tarım kimyasallarında yangınlar](https://extension.missouri.edu/publications/g1908)). Aynı yayın, ABD'de amonyum nitrat depolanmasına ilişkin bina yapımı, yığın boyutu, aralık ve gübrenin duyarlılığını artırabilecek kirleticilerden ayrılması gibi konuların bir standartla ele alındığını söylüyor.
+
+Bu bilgiden çıkarılacak ders şudur: Gübre deposu, bir yangında müdahalenin zor olacağı bir yerdir. Bu nedenle deponun konumu, yanıcı maddelerden ayrılması ve yangın söndürme planı önceden düşünülmelidir. Evin ya da samanlığın yanına, yakıt deposuna yakın bir yere gübre koymayın. Bir yangın çıktığında kendiniz müdahale etmeye çalışmayın; itfaiyeyi arayın ve depodaki gübre türlerini söyleyin. Amonyum nitrat gibi riskli gübreler için ülkemizdeki düzenlemeleri kontrol edin.
+
+## Nem ve topaklanma
+
+Kimyasal gübre depolama kararlarının çoğu nemle ilgilidir; çünkü nem hem kaliteyi hem güvenliği bozar.
+
+Nem, depolama kalitesinin başlıca düşmanıdır. Bazı gübreler havadaki nemi çeker; çuval açık bırakıldığında ya da nemli zeminde durduğunda gübre topaklanır ve sertleşir. Kaynakların ortak mesajı, nemden korumak ve gübreyi kuru ortamda saklamaktır. Pratik önlemler şunlardır:
+
+::: adimlar
+Kuru bir yer seçin | Sel, sızıntı ve yoğuşma almayan; çatısı sağlam bir depo.
+Yerden yükseltin | Çuvalları doğrudan betona ya da toprağa değil, palet ya da raf üzerine koyun.
+Ağızları kapalı tutun | Açılan çuvalın ağzını sıkı kapatın; mümkünse hava almayan kapta saklayın.
+Duvardan ayırın | Çuvalları duvara dayamayın; hava dolaşımı için boşluk bırakın.
+Yığın yapmayın | Çok yüksek yığınlar altındaki gübreyi sıkıştırıp topaklar; makul yükseklikte saklayın.
+Sızıntıyı kontrol edin | Çatı ve zemin sızıntısını periyodik gözden geçirin.
+:::
+
+Çuvalları yerden kaldırmak için sağlam raflar işe yarar. Galvaniz Depo Rafı İskeleti (191 × 66 × 213 cm) ürün açıklamasına göre 4 katlı, 3 bölümlü; depo ve dükkân stoğu, garaj ve bahçe ekipmanı gibi alanlarda eşyaları yerden kaldırmak için tasarlanmış; galvaniz kaplaması nemli ortamda paslanmaya karşı dayanıklı. Raf tablaları pakete dahil değil ve OSB, kontrplak ya da MDF'den kestirilerek tamamlanıyor; açıklama serada, balkonda ve banyoda suya dayanıklı tabla öneriyor. Rafın yük kapasitesi ürün açıklamasında verilmediği için ağır gübre çuvallarını rafa koymadan önce kapasiteyi üreticiden öğrenin; ağır çuvalları alt kata, hafifleri üst kata yerleştirin.
+
+[ürün:galvaniz-depo-rafi-iskeleti-4-katli-191x66x213-cm]
+
+## Isı ve konum
+
+Gübre deposunu doğrudan güneş alan, çatısı ısınan ve havalanmayan yerlerde tutmak bozulmayı hızlandırır. Serin, gölgeli ve havadar bir yer seçin. Kapalı ve çok sıcak bir depoda yoğuşma da artar: Gün içinde ısınan hava geceleyin soğuyup duvar ve çuval yüzeyinde nem bırakır. Havalandırma açıklıkları, yoğuşmayı azaltır. Seranın yanına gübre koymak da iyi bir fikir değildir: Serada ısı ve nem dalgalanması yüksektir. Seranın içindeki sera temizliği ve hazırlık için [sera temizliği](/sera-temizligi-sezon-basi-dezenfeksiyon) yazısına bakın.
+
+## Ayırma: gübreyi ne ile saklamayın?
+
+Gübreyi şunlarla aynı yerde saklamayın: yakıt (benzin, mazot), yağ, boya ve çözücüler, zirai ilaçlar, saman, kuru ot ve talaş gibi yanıcı organik madde, asitler. Farklı gübre türlerini de karıştırmayın; bazı karışımlar tehlikeli tepkimeye girebilir ya da bir türün kalıntısı diğerini kirletebilir. Ayrıca gübrelerle gıda, yem ve tohumu aynı yerde saklamayın. Çocuk ve hayvanların ulaşamayacağı, kilitli bir bölüm tercih edin.
+
+Organik ve kimyasal gübre ayrı mantıkla saklanır: Solucan gübresi gibi organik düzenleyicilerin depolanması için [solucan gübresi saklama](/solucan-gubresi-saklama) yazısına bakın. Gübrelerin çeşitlerini ve etiket okumayı [NPK nedir? gübre etiketi nasıl okunur](/npk-nedir-gubre-etiketi) yazısında, sıvı ve katı gübre farkını [sıvı gübre mi katı gübre mi](/sivi-gubre-mi-kati-gubre-mi) yazısında anlattık.
+
+## Etiket, kayıt ve güvenlik bilgi formu
+
+Kimyasal gübre depolama düzeninin son parçası kayıt ve etikettir.
+
+Her gübrenin etiketinde içerik, kullanım ve saklama bilgileri bulunur; etiketi ve güvenlik bilgi formunu (GBF) saklayın. Gübreyi başka kaba aktarmayın; aktarırsanız yeni kabı etiketleyin. Hangi gübrenin ne zaman alındığını kaydedin; eski stoku önce kullanın (ilk giren ilk çıkar). Son kullanma tarihi olan ya da nemlenmiş çuvalı ayrı tutun. Gübre ürünlerinin ambalaj bilgileri ve içerikleri değişebilir; etikette yazan saklama koşulu her zaman bu yazıdan önceliklidir.
+
+## Küçük ölçekte: balkon ve garaj
+
+Balkonda ya da garajda birkaç kilo gübre saklayanlar için de aynı ilkeler geçerlidir, ölçek küçüktür. Gübreyi kapalı, sızdırmaz kapta, yakıt ve boyadan uzak, serin bir köşede saklayın; çocuk ve evcil hayvanların ulaşamayacağı yere koyun; açık balkonda yağmura ve güneşe maruz bırakmayın. Evcil hayvanlı evde gübre ve saksı güvenliği için [evcil hayvanlı evde gübre ve saksı güvenliği](/evcil-hayvanli-evde-gubre-guvenligi) yazısına bakın. Gübre dozları ve uygulamaları için [saksı bitkileri gübreleme takvimi](/saksi-bitkileri-gubreleme-takvimi) yazısındaki ölçülü yaklaşım, stoku da gereğinden büyük tutmama anlamına gelir: Çok gübre stoklamak, nem ve süre riskini artırır.
+
+## Atık ve kalıntı
+
+Kullanılmayan, nemlenmiş ya da süresi geçmiş gübreyi doğaya, kanala ya da su kaynaklarının yakınına dökmeyin. Çevre ve su kirliliği riski taşır. Gübre ambalajlarını yerel atık düzenlemesine göre ayırın. Kalıntıyı süpürüp uygun kapta toplayın. Büyük miktarda atık ya da sızıntı durumunda yerel çevre ve tarım müdürlüğüne haber verin.
+@sss
+S: Kimyasal gübre depolama nasıl yapılmalı?
+C: Kuru, havadar, serin ve çatısı sağlam bir yerde, çuvallar yerden yükseltilmiş, ağzı kapalı ve duvardan ayrık olarak; yakıt, saman, kuru ot ve zirai ilaçlardan ayrı. Farklı gübreleri karıştırmayın, etiketi ve güvenlik bilgi formunu saklayın.
+
+S: Gübre neden topaklanır?
+C: Nem yüzünden. Bazı gübreler havadaki nemi çeker; açık çuval ya da nemli zemin gübreyi topaklar ve sertleştirir. Kuru depo, ağzı kapalı çuval ve yerden yükseltme topaklanmayı azaltır.
+
+S: Gübre deposunda yangın çıkarsa ne yapılır?
+C: Kendiniz müdahale etmeye çalışmayın, itfaiyeyi arayın ve depodaki gübre türlerini bildirin. Missouri Üniversitesi amonyum nitrat yangınlarında köpük ve kuru kimyasalın etkisiz olduğunu belirtiyor.
+
+S: Amonyum nitrat gibi riskli gübreler için özel kural var mı?
+C: Bazı gübrelerin satışı, taşınması ve depolaması ayrıca düzenlenmiş olabilir. Güncel kuralları satıcıdan, il ya da ilçe tarım ve orman müdürlüğünden ve itfaiyeden öğrenin; bu yazı tarih, miktar ya da mesafe vermez.

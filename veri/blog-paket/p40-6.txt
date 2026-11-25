@@ -1,0 +1,705 @@
+### YAZI
+slug: balkon-bahcesi-aydinlatma
+baslik: Balkon Bahçesi Aydınlatma: Akşam Işığı Bitkiyi Uyutmaz mı?
+yayin: 2027-05-12 08:45
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: balkon bahçesi aydınlatma
+seo_baslik: Balkon Bahçesi Aydınlatma: Işık Bitkiye Zarar Verir mi?
+seo_aciklama: Balkon bahçesi aydınlatma akşam keyfi için kurulur ama gece ışığı kısa gün bitkilerinin çiçeklenmesini bozabilir. Hangi ışık, nereye ve kaça kadar yakılır?
+ozet: Balkona ışık dizisi asmak akşamları güzel görünür; peki bitkiler ne düşünür? Gece ışığının çiçeklenme ve dinlenme üzerindeki etkisini, hangi bitkilerin duyarlı olduğunu, ışık rengi, yönü ve zamanlamasıyla nasıl dengeleneceğini kaynaklarla anlattık.
+etiketler: balkon aydınlatma, gece ışığı, kısa gün bitkileri, çiçeklenme, led, balkon bahçesi
+gorsel: bekliyor
+gorsel_alt: Akşam alacakaranlığında yumuşak sıcak ışık dizisiyle aydınlatılmış bitkili bir balkon
+urunler: tekerlekli-sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak, moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60
+kisaca: Çoğu sebze ve süs bitkisi için balkonda akşam saatlerinde yanan hafif aydınlatma sorun çıkarmaz. Sorun, gece boyu yanan ya da bitkiye yakın güçlü ışıktır: kısa gün bitkilerinin çiçeklenmesini bozar, ağaçlarda dinlenmeyi geciktirir. Işığı kısın, aşağı yönlendirin ve zamanlayıcıyla kapatın.
+@govde
+Balkonu akşamları da kullanmak için bir ışık dizisi astınız. Çay içerken domatesin gölgesi duvara düşüyor, güzel görünüyor. Ama aklınızda bir soru var: bitki gece karanlığa ihtiyaç duyar mı, ışık onu uyutmaz mı, çiçeğini bozmaz mı? Balkon bahçesi aydınlatma konusunda cevap, bitkiye ve ışığın ne kadar süre, ne şiddette yandığına bağlı. Bu yazıda duyarlı bitkileri ve basit ayarları bulacaksınız.
+
+## Bitkiler karanlığı neden önemser?
+
+Bitkiler uyumaz ama gecenin uzunluğunu ölçerler. Pek çok bitki mevsimi gün ve gece süresinden anlar: kimi çiçeğini kısa günlerde, kimi uzun günlerde açar. Bu duyarlılığa fotoperiyodizm denir. Gecenin kısa bir ışıkla bölünmesi, bu ölçümü şaşırtabilir. [Michigan Eyalet Üniversitesi Extension](https://www.canr.msu.edu/resources/providing_long_days) bazı kısa gün bitkilerinin çok düşük şiddetteki ışığa bile tepki verebildiğini, yetiştiricilerin ise uzun gün bitkilerinin çiçeklenmesini tetiklemek için geceyi bilinçli olarak bölen aydınlatma kullandığını anlatır.
+
+Ağaçlarda etki başka biçimde görülür. [Washington Eyalet Üniversitesi'nin gece ışığı ve bitki büyümesi sayfası](https://depts.washington.edu/hortlib/pal/night-light-and-plant-growth/) uzun süre ışığa maruz kalan ağaçların büyümeyi mevsimin geç dönemine kadar sürdürdüğünü, yaprak dökümünün ve dinlenme döneminin gecikebildiğini belirtir. Bu etki, gece boyu sürekli yanan lambalarda kesintili aydınlatmaya göre daha belirgindir.
+
+## Hangi bitkiler gece ışığına duyarlı?
+
+Duyarlılık türe göre değişir. Balkonda yetiştirilen sebzelerin çoğu (domates, biber, salatalık, kabak) günün uzunluğuna bağımlı değildir; bunlara balkon ışığı genellikle sorun yaratmaz. Çiçeklenmesi kısa günlere bağlı birkaç süs bitkisi ise daha hassastır.
+
+| Bitki grubu | Örnek | Gece ışığına duyarlılık |
+|---|---|---|
+| Kısa gün bitkileri | Kasımpatı, Noel yıldızı, kalanşo, yılbaşı kaktüsü | Yüksek; çiçeklenme gecikebilir ya da bozulabilir |
+| Uzun gün bitkileri | Bazı çok yıllıklar, yazlık çiçekler | Orta; çiçeklenme erkene kayabilir |
+| Gün nötr bitkiler | Domates, biber, salatalık, çoğu aromatik | Düşük |
+| Yaprak döken ağaç ve çalılar | Ortanca, erguvan, akçaağaç | Ağaçta dinlenme gecikebilir; balkonda sınırlı |
+| Yaprak sebzeleri | Marul, ıspanak | Uzun günde çiçeğe kalkarlar; ışığın etkisi türe göre değişir |
+
+Bu tablo genel eğilimi gösterir; kesin ölçümler türe ve çeşide göre farklıdır. Kaynaklar da etkinin türe, ışık tipine ve ışığın gece boyu yanıp yanmamasına göre değiştiğini söyler. Kendi bitkinizin davranışını gözlemlemek en güvenilir yoldur.
+
+## Balkon bahçesi aydınlatma için basit kurallar
+
+Işığı tamamen kapatmak zorunda değilsiniz; sadece dozunu ve yönünü ayarlayın.
+
+::: adimlar
+Işığı zamanlayın | Aydınlatmayı akşam keyif saatlerinde yakıp gece yarısından önce kapatan bir zamanlayıcı kullanın.
+Şiddeti düşürün | Okuma değil, ortam ışığı gerekiyorsa kısık ve sıcak tonlu bir lamba seçin.
+Aşağı yönlendirin | Işığı bitkinin yapraklarına değil, zemine ya da duvara yöneltin.
+Duyarlı bitkiyi uzaklaştırın | Kasımpatı gibi kısa gün bitkisini lambadan uzak, karanlık bir köşeye alın.
+Hareket sensörü deneyin | Sürekli yanmak yerine yalnızca gerektiğinde açılan lamba gece süresini korur.
+:::
+
+Bu kurallar, ışığı hem insan hem bitki için dengeli kılar. Gece boyu yanan güçlü bir ışık dizisi yerine, akşam birkaç saat yanan hafif ışık hem keyif hem bitki sağlığı için yeterlidir.
+
+## Işık rengi, ısı ve böcekler
+
+LED ışık az ısı yaydığı için yaprağa yakın tutulduğunda bile yakma riski düşüktür; ama güneş ışığı gibi bitkiyi besleyecek bir spektrum da sunmaz. Balkon aydınlatması bitkiyi büyütmek için değil, ortam için düşünülmelidir. Bitkiyi ışıkla büyütmek istiyorsanız o ayrı bir konudur ve fide aydınlatması için [fide aydınlatması](/fide-aydinlatmasi) yazısında anlatıldı.
+
+Işık rengi böceği de etkiler. Genel olarak soğuk beyaz ve mavimsi ışık geceleri daha çok böcek çeker; sıcak sarı tonlar daha az çeker. Balkonda oturup bitkilerle yaşamak istiyorsanız sıcak tonlu bir ışık hem daha huzurlu görünür hem sinek ve güve sayısını azaltır. Bu bilgi genel bir gözleme dayanır; bahçenizdeki farkı kendi gözleminizle doğrulayın.
+
+## Güvenlik: su, elektrik ve sulama
+
+Balkonda sulama ve yağmur olduğu için elektrikli aydınlatmada güvenlik önemlidir. Dış mekân kullanımına uygun, su geçirmezlik sınıfı belirtilmiş ürünler seçin. Kabloları sulama alanından ve su tahliyesinden uzak tutun, bağlantıları bitki kabının altından ya da su toplanan zeminden geçirmeyin. Priz yakınındaki bir sulama kazası tehlikelidir. Kurulumda şüpheniz varsa elektrik işlerinden anlayan bir teknisyene danışın. Güneş enerjili lambalar kablo riskini ortadan kaldırır, ama çoğu zayıf ışık verir; keyif aydınlatması için yeterlidir.
+
+## Tekerlekli yatak: bitkiyi ışıktan uzaklaştırmak
+
+Bitkileri ışığa göre yerleştirmek bu işin en pratik yoludur. Balkonda kısa gün bitkileri varsa ışık dizisinden ve komşu pencere ışığından uzak bir köşeye taşıyın. Tekerlekli bitki kasaları bu hareketi kolaylaştırır. Ürün açıklamasına göre 6 frenli tekerlekli sehpalı bir balkon sebze yatağı, balkonda güneşe ya da gölgeye kaydırılıp frenle sabitlenebilir; 16 tekerlekli No:4 yatak ise toprakla dolu ve sulanmış haldeyken bile yerinden kolayca hareket ettirilebilir. Aynı hareket kabiliyeti, ışığa duyarlı bitkiyi geceleri karanlık köşeye çekmek için de işe yarar. Balkonun genel düzeni için [küçük balkon düzenleme](/kucuk-balkon-duzenleme) yazısına göz atabilirsiniz.
+
+[ürün:tekerlekli-sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak]
+
+## Gece bahçesi: bitkilerle ışık yaratmak
+
+Aydınlatmayı lambasız tamamlamak da mümkün. Beyaz çiçekli bitkiler ve gece kokulu türler, ay ışığında ya da zayıf bir ışıkta öne çıkar. Bu yaklaşım ışığa duyarlı bitkiyi rahatsız etmez. Beyaz çiçekli ve kokulu bitkilerin ayrıntılı listesi için [gece bahçesi](/bahce-aydinlatma-bitkiler) yazısına göz atabilirsiniz.
+
+## Balkon aydınlatması için yaz ve kış farkı
+
+Yazın akşamlar uzun olduğu için balkon ışığına ihtiyaç azdır; kısa süreli yakmak yeterlidir. Kışa doğru günler kısalınca balkon ışığı daha uzun süre yanar. Bu dönemde kasımpatı gibi kısa gün bitkilerinin çiçek tomurcuğu oluşturma dönemi denk gelir; ışığı ayarlı tutmanız, çiçeklenmenin düzenli olmasına yardımcı olur. Sonbahar-kış aydınlatma kararını bitkilerin durumuna göre verin.
+
+## Küçük bir deneme: ışıksız bir hafta
+
+Aydınlatmanın bitkinize etkisinden emin değilseniz küçük bir deneme yapabilirsiniz. Aynı türden iki saksıdan birini ışığa yakın, diğerini karanlık bir köşeye koyun. Birkaç hafta boyunca çiçeklenme zamanını ve büyümeyi karşılaştırın. Fark görmüyorsanız ışığınız bitkiye zarar vermiyor demektir. Fark varsa lambayı kısmak ya da bitkiyi taşımak yeterlidir.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60]
+
+Balkon bahçesi aydınlatma, bitkiye göre dozlanırsa güzelliğe de, çiçeğe de engel olmaz: ışığı kısın, yönlendirin, zamanlayın ve duyarlı bitkiyi karanlıkta tutun.
+
+## Hangi aydınlatma tipi balkona uygun?
+
+Balkonda kullanılan ışık türlerinin her biri bitkiye ayrı etki eder. Işık dizileri (peri ışıkları) düşük şiddetlidir ve çoğu zaman yalnızca süs içindir; korkuluğa ya da tavana asılabilir. Duvar lambaları ve spotlar daha güçlüdür; bitkilerin üstüne düşerse etkisi artar. Güneş enerjili fenerler zayıf ışık verir, ama kablo istemez. Masa lambaları ve fenerler kısa süreli, oturma alanını aydınlatmak içindir.
+
+| Işık tipi | Şiddet | Bitkiye etkisi | Not |
+|---|---|---|---|
+| Peri ışığı dizisi | Çok düşük | Küçük | Gece boyu yakmayın |
+| Güneş enerjili fener | Düşük | Çok küçük | Kısa süre yanar, güvenli |
+| Duvar lambası | Orta | Orta | Yönünü bitkiden uzağa çevirin |
+| Spot ve projektör | Yüksek | Yüksek | Bitkiye doğrultmayın |
+| Mum ve fener | Çok düşük | Yok denecek kadar az | Yangın dikkati gerekir |
+
+Elinizdeki ışığın şiddetini tahmin edemiyorsanız bir deneme yapın: akşam bitkinin yapraklarına bakın, ışık yaprak yüzeyini belirgin biçimde aydınlatıyorsa fazla yakındır.
+
+## Sebze ve çiçek ayrı ayrı: örnek senaryolar
+
+Birinci senaryo: balkonunuzda domates, biber ve fesleğen var. Bu bitkiler çoğunlukla günün uzunluğuna bağımlı değildir; akşamları birkaç saat yanan hafif bir ışık dizisi onları rahatsız etmez. İkinci senaryo: balkonda sonbaharda çiçek açması beklenen kasımpatılar ya da kış başı için hazırlanan kalanşo var. Bu bitkiler kısa günlerde çiçek tomurcuğu oluşturur; akşam saatlerinde geç saate kadar yanan lamba tomurcuğu geciktirebilir. Bu durumda onları lambadan uzak, karanlık bir köşeye alın ve lambayı erken kapatın. Üçüncü senaryo: balkonda bodur bir ağaç ya da çalı var. Sonbaharda dinlenmeye geçmesi gereken bitkinin ışığa yakın olması bunu geciktirebilir; yine de saksıdaki bitkiyi yerinden oynatmak çok kolaydır.
+
+## Komşu ve sokak ışığı
+
+Balkon aydınlatmasını yalnızca kendi lambanızla sınırlı düşünmeyin. Sokak lambası, komşunun güvenlik ışığı ve pencere ışıkları da geceyi böler. Bu ışıkları kontrol edemezsiniz ama bitkiyi yerleştirirken hesaba katabilirsiniz: duyarlı bitkiyi doğrudan ışık gelmeyen bir köşeye koymak, iç mekânda ise geceleri perde çekmek yeterlidir. Bazı bitkilerin sokak lambasına yakın olması çiçeklenmeyi bozmuyorsa o bitkiyi olduğu yerde bırakın; her tepkiyi bir sorun saymayın.
+
+@sss
+S: Balkon ışığı bitkilere zarar verir mi?
+C: Çoğu sebze ve süs bitkisi için akşam birkaç saat yanan hafif ışık zarar vermez. Gece boyu yanan güçlü ışık kısa gün bitkilerinin çiçeklenmesini bozabilir ve ağaçlarda dinlenmeyi geciktirebilir.
+
+S: Hangi bitkiler gece ışığına duyarlı?
+C: Kasımpatı, Noel yıldızı, kalanşo ve yılbaşı kaktüsü gibi kısa gün bitkileri. Domates, biber ve salatalık gibi gün nötr sebzeler daha az etkilenir.
+
+S: Balkon aydınlatmasında hangi ışık rengi iyidir?
+C: Sıcak tonlu, kısık ışık hem ortamı güzelleştirir hem böcekleri daha az çeker. Işığı bitkiye değil, zemine ya da duvara yöneltin ve gece yarısından önce kapatın.
+
+S: Balkonda güneş enerjili lamba bitkilere uygun mu?
+C: Genelde evet. Zayıf ve kısa süreli ışık verdikleri için bitki üzerindeki etkisi azdır, kablo riski de yoktur. Duyarlı bitkiyi lambadan uzak tutmak yine de iyi bir alışkanlıktır.
+
+### YAZI
+slug: leylak-budama
+baslik: Leylak Budama: Yanlış Ayda Budarsanız Gelecek Yıl Çiçek Açmaz mı?
+yayin: 2027-05-12 10:20
+yazar: Halil İbrahim Çelik
+kategori: cicekler
+odak: leylak budama
+seo_baslik: Leylak Budama: Çiçekten Hemen Sonra, Doğru Kesim
+seo_aciklama: Leylak budama çiçekler solar solmaz yapılır; geç budamak gelecek yılın tomurcuğunu keser. Solan salkım, gençleştirme ve kök sürgünü adımları burada.
+ozet: Leylak, gelecek yılın çiçeğini bu yılın sonunda hazırlar. Bu yüzden yanlış ayda budama bir sonraki baharı çiçeksiz bırakabilir. Doğru zamanı, solan salkım kesimini, üç yılda gençleştirmeyi, kök sürgünü temizliğini ve aşılı bitkide dikkat edilecekleri anlattık.
+etiketler: leylak, budama, çiçek sonrası, gençleştirme, kök sürgünü, süs çalısı
+gorsel: bekliyor
+gorsel_alt: Solmuş mor salkımları budama makasıyla kesilen leylak çalısı
+urunler: budama-makasi, hasturk-kati-solucan-gubresi
+kisaca: Leylak budama çiçekler solar solmaz, yeni tomurcuklar oluşmadan yapılır. Gelecek yılın çiçekleri eski dallarda oluşur; kış ya da yaz sonu budamak çiçeği alır. Solan salkımları alın, yaşlı dalları üç yılda yenileyin, kök sürgünlerini temizleyin.
+@govde
+Bahçenin köşesindeki leylak mayısta mor kokulu salkımlarıyla herkesi durdurur. Çiçekler solunca ise geriye dağınık dallar ve kahverengi başaklar kalır. Elinizi makasa götürmeden önce şunu bilin: leylak, gelecek yılın çiçeğini bu yılın içinde hazırlar. Yanlış zamanda kesmek, bir sonraki baharı çiçeksiz bırakabilir. Leylak budama bu yüzden zamanlamayla yönetilir. Bu yazıda doğru ayı, kesim noktasını ve gençleştirme planını bulacaksınız.
+
+## Leylak budama neden zamanlamaya bağlı?
+
+Leylak eski odunda çiçek tomurcuğu taşır. Çiçekler solduktan sonra bitki yeni sürgün üretir ve yaz içinde gelecek yılın tomurcuklarını bu sürgünlerin uçlarında ve eski dallarda oluşturur. [Purdue Üniversitesi'nin çiçekten sonra budanacak çalılar yazısı](https://www.purdue.edu/hla/sites/yardandgarden/some-shrubs-best-pruned-after-flowering/) erken ilkbaharda açan çalıların (leylak, ayva çiçeği, spirea, forsitya) çiçek tomurcuklarını önceki sonbaharda oluşturduğunu, bu yüzden kış sonu budamasının bir sonraki sezonun çiçeğinin bir kısmını ya da tamamını keseceğini belirtir.
+
+Bu yüzden altın kural, çiçekten hemen sonra budamaktır. [Oregon Eyalet Üniversitesi Extension](https://extension.oregonstate.edu/news/keep-lilacs-healthy-blooming-regular-pruning) da düzenli budamanın çiçeklenmeden hemen sonra yapılmasını önerir. Mayıs ayı çoğu bölgede leylağın çiçek bitirdiği dönemdir; bu yüzden leylak budama mayıs ve haziran işidir.
+
+## Hangi ay ne olur? Tarih tablosu
+
+| Zaman | Kesim | Sonuç |
+|---|---|---|
+| Çiçek solar solmaz (mayıs-haziran başı) | Doğru zaman | Yeni sürgün tomurcuk oluşturur |
+| Temmuz-ağustos | Kaçının | Oluşan tomurcuklar kesilir |
+| Sonbahar | Kaçının | Gelecek yılın çiçeği kesilir |
+| Kış sonu, ilkbahar başı | Yalnızca ölü, kırık dal | Sağlam dalı kesmek çiçeği azaltır |
+| Gençleştirme (ağır) | Çiçekten hemen sonra, üç yıla yayarak | Her yıl biraz çiçek korunur |
+
+[Maryland Üniversitesi Extension](https://extension.umd.edu/resource/pruning-shrubs-and-hedges) gençleştirme budamasını geç kış ya da erken ilkbahara önerir; ama bunun o yılın çiçeğinden vazgeçmek demek olduğunu da belirtir. Çiçek korumak istiyorsanız çiçek sonrası zamanlamayı seçin.
+
+## Adım adım leylak budama
+
+Önce çalının çevresine bakın: kuru dal var mı, çaprazlayan dallar var mı, kök sürgünü çıkmış mı? Sonra aşağıdaki sırayı izleyin.
+
+::: adimlar
+Solan salkımları alın | Çiçek başını, altındaki ilk sağlıklı yaprak çiftinin hemen üstünden kesin.
+Ölü ve kırık dalları kesin | Kuru ve kahverengi dalı sağlam doku başlayana kadar alın.
+İçeriyi seyreltin | Çaprazlayan ve içe doğru büyüyen dalları dipten kesin; hava ve ışık girsin.
+Yaşlı dalları belirleyin | En kalın ve en yaşlı birkaç dalı işaretleyin; yılda en çok üçte birini alın.
+Kök sürgünlerini temizleyin | Gövde dibinden çıkan ince sürgünleri toprak seviyesinden kesin.
+Geri çekilip bakın | Çalının şeklini kontrol edin; dengeli bırakın.
+:::
+
+Her kesimde dalın dışa bakan bir gözünün hemen üstünden kesin, çaprazlama açı verin. Büyük dalları kesmeden önce makasın uygun kalınlıkta olduğundan emin olun. Ürün açıklamasına göre budama makası maksimum 25 mm çapındaki dalları kesecek biçimde tasarlanmıştır; daha kalın dallar için testere gerekir.
+
+[ürün:budama-makasi]
+
+## Üç yılda gençleştirme: yaşlı leylağı yenilemek
+
+Bakımsız, yaşlı leylak boy atar, alt kısmı çıplak kalır, çiçekler ulaşılamayacak yükseklikte açar. Böyle bir çalıyı tek seferde yere kadar kesmek çiçeksiz bir iki yıla yol açar. Daha güvenli yol, yaşlı dalları üç yıla yayarak yenilemektir. Oregon Extension eski dalların iki üç sezon boyunca, her sezonda çiçekten hemen sonra çıkarılmasını önerir.
+
+Pratik plan: birinci yıl en yaşlı ve kalın dalların üçte birini dipten kesin. İkinci yıl kalan yaşlı dalların yarısını alın. Üçüncü yıl geriye kalan yaşlıları temizleyin. Bu sürede bitki yeni, gür sürgün üretir ve her yıl çiçek verir. Genç sürgünleri koruyun; çiçek taşıyacak olanlar bunlardır.
+
+## Aşılı leylakta dikkat: aşı noktasının altına inmeyin
+
+Bazı leylaklar aşılı olarak satılır. Böyle bir bitkide aşı noktasının altından çıkan sürgünler aşı altlığından gelir ve ana bitkinin özelliğini taşımaz. Bu sürgünleri kök sürgünü gibi temizleyin; ama aşı noktasının altına kesim yapmayın. Aşı noktasını gövde dibindeki şişkinlikten tanırsınız. Fidanınızın aşılı olup olmadığını satıcıdan sorun. Kök sürgünlerinin diğer budama konularındaki rolü için [su sürgünü nedir](/su-surgunu-nedir) yazısına bakabilirsiniz.
+
+## Kesimden sonra bakım
+
+Budamadan sonra leylak yeni sürgün için su ve besin ister. Toprağı derin sulayın, ince bir kat olgun kompost ya da solucan gübresi serin. Ürün açıklamasına göre katı solucan gübresi organik bir toprak düzenleyicidir ve besinleri yavaş salınımla sağlar. Azotu aşırıya kaçırmayın; fazla azot yaprağı çoğaltır, çiçek tomurcuğunu azaltır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Leylak güneş sever; en az altı saat doğrudan güneş alan, süzek ve hafif alkali ya da nötr topraklı yerde iyi çiçek açar. Leylak bakımını ayrıntılı anlattığımız [leylak bakımı](/leylak-bakimi) yazısında toprak ve sulama bilgisi var. Alet temizliği için [budama aletleri nasıl dezenfekte edilir](/budama-aletleri-nasil-dezenfekte-edilir) yazısına bakabilirsiniz.
+
+## Budama yapmasanız da olur mu? Cüce türler
+
+Bazı cüce leylaklar (örneğin Meyer ve Mançurya türleri) düzenli budama gerektirmez. Kaynaklarda bu türlerin kendi şekillerini koruduğu belirtilir. Böyle bir bitkide yalnızca solan salkımları almak ve ölü dalları temizlemek yeterlidir. Çalınızın türünü bilmiyorsanız önce gözleyin: yılda 30-50 cm uzuyorsa düzenli hafif budama gerekir; yavaş büyüyorsa dokunmayın.
+
+## Leylak ve öteki çiçekten sonra budanan çalılar
+
+Aynı kural ortanca (bazı türlerinde), morsalkım ve spirea gibi başka çalılar için de geçerlidir: çiçek açtıktan sonra, yeni tomurcuk oluşmadan budayın. Bu çalıların budama zamanlarını karıştırmamak için bir takvim yazın. Ortancada tür farkı için [ortanca budama](/ortanca-budama), morsalkım için [morsalkım budama](/morsalkim-budama) yazılarına göz atabilirsiniz.
+
+## Sık yapılan hatalar
+
+İlk hata, kış sonunda diğer ağaçlarla birlikte leylağı da budamaktır; bu, çiçeği alır. İkinci hata, bütün çalıyı aynı yüksekliğe "tıraşlamaktır"; çiçek tomurcukları kesilir ve çalı doğal şeklini kaybeder. Üçüncü hata, bütün yaşlı dalları bir anda yere kadar kesmektir. Dördüncü hata, kök sürgünlerini bırakmaktır; çalıyı yorar ve çalı çok sıklaşır. Beşinci hata, solan salkımı hiç almamaktır; tohum oluşumu enerjiyi harcar. Bu hataların çoğu zamanlamayla ilgilidir: çiçekten hemen sonra, hafif ve planlı kesin.
+
+Leylak budama, doğru günde atılan birkaç adımdan ibarettir. Çiçek bittiğinde kesin, yaşlıyı üç yıla yayarak yenileyin, kök sürgünlerini temizleyin ve gelecek mayısta çalıyı yine mor bulutla görün.
+
+## Leylak çiçek açmıyor: her zaman budama değil
+
+Budama zamanlaması tek neden değildir. Leylak çiçek açmıyorsa aşağıdaki belirtilere de bakın.
+
+::: belirti
+Yaprak çok, çiçek yok | Gölge ya da fazla azot | Daha güneşli yere taşıyın, azotlu gübreyi bırakın
+Genç leylak çiçek açmıyor | Henüz olgunlaşmadı | Sabırla bekleyin; bazı fidanlar birkaç yıl sonra çiçek açar
+Çiçek geçen yıl vardı, bu yıl yok | Geç budama ya da dona yakalanan tomurcuk | Kesim zamanını ve geç donları gözden geçirin
+Yapraklarda beyaz toz | Külleme; nemli, havasız ortam | Dalları seyreltin, yaprağı ıslatmadan sulayın
+Çalı dipten dağınık, çiçek yükseklerde | Yaşlanmış, sıklaşmış | Üç yılda gençleştirin
+:::
+
+Genç fidanlarda sabır şarttır; leylak bazen dikimden üç dört yıl sonra düzenli çiçek açar. Toprağın nötr ya da hafif alkali olması da çiçeklenmeye yardımcıdır.
+
+## Kesilen dalları vazoda değerlendirmek
+
+Çiçek sonrası budamada çiçekli dalları vazoya almak mümkündür; ama bunu çiçek tamamen açmadan, yarı açıkken yapmak gerekir. Dalın alt kısmını keskin bir bıçakla çapraz kesin, alt yaprakları ayıklayın ve serin suya koyun. Leylak vazoda kısa sürer; bu yüzden büyük budamayı çiçek sonrasına bırakıp vazo için yalnızca birkaç dal almak iyi bir dengedir.
+
+## Saksıda leylak ve budama
+
+Saksıda leylak yetiştirenler için de zamanlama aynıdır: çiçekten hemen sonra hafif şekil kesimi. Saksıda köklerin sınırlı olması nedeniyle bitki daha yavaş büyür ve bu yüzden gençleştirme gerekmeyebilir. Büyük bir kap (en az 40-50 litre), güneşli bir konum ve yeterli sulama gereklidir. Kışın saksıdaki bitkinin köklerini dondan korumak için kabı sarın ya da korunaklı yere alın.
+
+@sss
+S: Leylak ne zaman budanır?
+C: Çiçekler solar solmaz, mayıs sonu ya da haziran başında. Gelecek yılın tomurcukları yazın oluşur; kış sonu ya da yaz sonu budamak çiçeği keser.
+
+S: Yaşlı leylak nasıl gençleştirilir?
+C: Tek seferde kesmek yerine üç yıla yayın: her yıl çiçekten sonra en yaşlı dalların üçte birini dipten kesin. Böylece her yıl çiçek korunur ve yeni sürgün gelişir.
+
+S: Leylakta kök sürgünü kesilmeli mi?
+C: Evet, gövde dibinden çıkan ince sürgünleri toprak seviyesinden kesin; çalıyı yorarlar. Aşılı leylakta aşı noktasının altına inmeyin.
+
+S: Solan leylak çiçekleri kesilmeli mi?
+C: Evet, tohum oluşmadan, çiçek başının altındaki ilk sağlıklı yaprak çiftinin üstünden kesin. Böylece bitki enerjisini yeni sürgünlere harcar.
+
+### YAZI
+slug: difenbahya-cogaltma
+baslik: Difenbahya Çoğaltma: Uzamış Gövdeyi Kesince İki Bitki Elde Edilir mi?
+yayin: 2027-05-12 12:10
+yazar: Mehmet Fatih Çelik
+kategori: bitki-bakimi
+odak: difenbahya çoğaltma
+seo_baslik: Difenbahya Çoğaltma: Tepe Çeliği ve Gövde Parçası
+seo_aciklama: Difenbahya çoğaltma uzamış gövdeyi tepe çeliği ve gövde parçalarına ayırarak yapılır. Suda ve toprakta köklendirme ile özsuya karşı önlemleri öğrenin.
+ozet: Difenbahyanın alt yaprakları dökülüp gövdesi uzadıysa bitki gençleştirilebilir: tepeyi keser, köklendirir, gövde dibinden yeni sürgün alırsınız. Çeliği suda ve toprakta köklendirmeyi, hava daldırmayı ve tahriş edici özsuya karşı önlemleri anlattık.
+etiketler: difenbahya, çelik, hava daldırma, kök salma, ev bitkisi, çoğaltma
+gorsel: bekliyor
+gorsel_alt: Uzamış difenbahya gövdesinden kesilmiş tepe çeliği ve gövde parçaları yan yana
+urunler: hg-difenbahya-saksi-topragi, hg-vermikulit
+kisaca: Difenbahya çoğaltma, uzamış gövdenin tepe çeliği ve gövde parçalarına ayrılıp köklendirilmesiyle yapılır; ana bitkinin dibi yeniden sürer, böylece iki bitki elde edilir. Köklenme birkaç hafta sürer. Özsuyu cildi tahriş eder; eldiven takın ve ağıza götürmeyin.
+@govde
+Difenbahyanız uzadı, alt yaprakları döküldü, bir palmiye gibi tepede yaprak taşıyan çıplak bir gövde kaldı. Atmak aklınıza geliyor; hâlbuki bu tam çoğaltma zamanıdır. Uzamış gövdeyi keserseniz tepeyi köklendirip yeni bir bitki, geri kalan gövdeden de yeni sürgün alırsınız. Difenbahya çoğaltma ilk bakışta cesaret ister ama basittir. Önce bitkinin tahriş edici özsuyuna karşı önlem alın, sonra adımları izleyin.
+
+## Difenbahya çoğaltma yöntemleri
+
+Difenbahya kolay çoğalan bir ev bitkisidir. [Connecticut Üniversitesi'nin difenbahya bilgi notu](https://homegarden.cahnr.uconn.edu/wp-content/uploads/sites/3479/2022/08/Dieffenbachia.pdf) gövde çeliğini standart yöntem olarak anlatır; tepe çelikleri torf, kum, perlit ya da vermikülit gibi bir ortamda köklenir ve sphagnum yosunu köklenmeyi hızlandırır. Suda köklendirme de yaygındır. [Illinois Üniversitesi Extension](https://extension.illinois.edu/houseplants/air-layering) ise gövde çeliğinin sonuç vermediği durumlarda işe yarayan hava daldırmayı difenbahya için de tarif eder.
+
+| Yöntem | Ne zaman | Süre | Not |
+|---|---|---|---|
+| Tepe çeliği | Gövde uzayıp çıplaklaştığında | Birkaç hafta | En kolay, en hızlı |
+| Gövde parçası çeliği | Kalın, sağlıklı gövdede | Haftalardan aylara | Parça başına bir göz |
+| Hava daldırma | Çelik kesmek istemediğinizde | Üç dört ay | Gövdeye bağlı, daha yavaş |
+| Yavru ayırma | Dipten yavru çıkarsa | Hemen | Kökü olan yavruyu ayırın |
+
+## Önce güvenlik: tahriş edici özsuyu
+
+Difenbahyanın gövdesinde ve yapraklarında kalsiyum oksalat kristalleri içeren özsu bulunur. Bu özsu cildi tahriş edebilir; ağıza geçerse ağız ve boğazda şişmeye yol açabilir. Connecticut notu özellikle gözle temasın çok acı verdiğini belirtir. Bu yüzden çoğaltmaya başlamadan önce önlem alın: eldiven ve uzun kollu giysi kullanın, göze dokunmayın, işi bitirince ellerinizi ve aletleri yıkayın. Çocukları ve evcil hayvanları kesim alanından uzak tutun, kesilen parçaları ulaşabilecekleri yerde bırakmayın. Kaza durumunda sağlık kuruluşuna başvurun. Zehirli ev bitkileri için [zehirli ev bitkileri](/zehirli-ev-bitkileri) yazısına bakabilirsiniz.
+
+## Tepe çeliği ile çoğaltma: adım adım
+
+En kolay ve en hızlı yöntem tepe çeliğidir. Bitkinin yaprak taşıyan üst kısmını keser, köklendirir ve yeni bir bitki elde edersiniz.
+
+::: adimlar
+Aletleri hazırlayın | Keskin bir bıçak ya da makası alkolle silin; eldiven takın.
+Kesim noktasını seçin | Yaprakların altında, gövdede 10-15 cm kalacak şekilde, bir boğumun hemen altından kesin.
+Alt yaprakları ayıklayın | Kesimin alt tarafındaki 1-2 yaprağı çıkarın; açılan kısım köklenecek.
+Özsuyu akmasını bekleyin | Kesim yüzeyini temiz bir kâğıtla silin ve birkaç saat kurumaya bırakın.
+Köklendirin | Suya ya da nemli perlit-torf karışımına yerleştirin; aydınlık ama doğrudan güneş almayan yere koyun.
+Bekleyin | Birkaç hafta içinde kök çıkışını izleyin.
+:::
+
+Suda köklendirirken suyun bitkinin sadece alt boğumunu örtmesi yeterlidir; yapraklar suya değmesin. Suyu birkaç günde bir değiştirin. Kökler birkaç santim olunca toprağa alın. Toprakta köklendirme için nemli, havadar bir karışım hazırlayın; Connecticut notuna göre perlit ve vermikülit bu iş için uygun ortamlardır. Üretici açıklamasına göre vermikülit suyu sünger gibi emip yavaş yavaş geri verir ve tohum çimlendirme ile fide yetiştirmede kullanılır.
+
+[ürün:hg-vermikulit]
+
+## Gövde parçasından çoğaltma: çıplak gövdeyi değerlendirmek
+
+Tepeyi kestikten sonra geride kalan çıplak gövde atılmaz. Bu gövde parçalarına ayrılıp yeni bitki verir. Gövdeyi 5-10 cm'lik parçalara kesin; her parçada en az bir göz (halka şeklinde görülen boğum) bulunsun. Parçaları yatay olarak nemli perlit ya da kum karışımının üstüne yerleştirin, göz yukarı bakacak şekilde yarı gömün. Üzerini örtüyle kapatıp nemli tutun; haftalar sonra gözlerden sürgün çıkar.
+
+Ana gövdenin dibi de yeniden sürer. Kesilen gövdenin kalan 10-15 cm'lik kütüğünü saksıda bırakıp sulamaya devam edin; boğumlardan yeni sürgün çıkacaktır. Böylece tek bir bitkiden en az iki, bazen üç dört yeni bitki elde edersiniz.
+
+## Hava daldırma: gövdeyi kesmeden köklendirmek
+
+Gövdeyi hiç kesmek istemezseniz hava daldırma yapabilirsiniz. Illinois Extension'ın anlatımına göre gövdenin bir noktasında, yukarı eğimli ve gövdenin üçte biri ile yarısı kadar derinlikte sığ bir kesim yapılır; kesime nemli sphagnum yosunu sarılıp plastikle örtülür. Köklenme genellikle üç dört ay sürer; kökler yosunda görününce yeni bitki ana gövdeden ayrılır. Bu yöntem yavaştır ama gövdeyi yaralamadan çalışır, özellikle kalın gövdede çelik tutmadığında işe yarar.
+
+## Çeliği köklendirdikten sonra: toprak ve bakım
+
+Kök 3-5 cm olunca çeliği saksıya alın. Difenbahya nemli ama sulu olmayan, hafif ve havadar bir toprak ister. Ürün açıklamasına göre difenbahya saksı toprağı sphagnum torf ve cocopeat ile nemi dengeler, perlitle fazla suyu tahliye eder; leonardit ve solucan gübresi besin sağlar. Yeni dikilen çeliği ilk haftalarda doğrudan güneşten uzak, ışıklı ve sıcak bir yerde tutun.
+
+[ürün:hg-difenbahya-saksi-topragi]
+
+İlk iki üç ay gübre vermeyin; kökler yerleşsin. Yaprak çıkışı yeni bir bitkinin tuttuğunun en iyi işaretidir. Difenbahya bakımı (ışık, sulama, güvenlik) için [difenbahya bakımı](/difenbahya-bakimi), toprak seçimi için [difenbahya toprağı](/difenbahya-topragi) yazılarına bakabilirsiniz. Suda köklendirmenin genel püf noktaları için [pothos çoğaltma](/pothos-cogaltma-suda-koklendirme) yazısı da yararlı bir karşılaştırma sunar.
+
+## Zamanlama: ne zaman çoğaltmalı?
+
+Bitkinin büyüme döneminde (ilkbahar ve yaz) çoğaltmak, köklenmeyi hızlandırır. Kışın serin ve az ışıklı koşulda köklenme yavaşlar ve çürüme riski artar. Mayıs, bu yüzden çoğaltma için uygun bir aydır. Ayrıca sıcak bir oda ve nemli bir ortam köklenmeyi destekler.
+
+## Sık yapılan hatalar
+
+İlk hata, eldivensiz çalışmaktır; özsu tahrişi tehlikelidir. İkinci hata, çeliği çok derin ya da yaprağıyla birlikte suya gömmektir; yapraklar çürür. Üçüncü hata, çeliği güneşe koymaktır; yaprak yanar. Dördüncü hata, kesim yüzeyini kurumaya bırakmadan nemli ortama atmaktır; çürüme başlar. Beşinci hata, çok erken gübre vermektir; yeni kökler yanar. Bunları önlediğinizde difenbahya çoğaltma neredeyse her seferinde başarıyla sonuçlanır.
+
+Uzamış difenbahya çıplak bir gövde değil, yeni bitkilerin başlangıcıdır. Eldivenle, temiz makasla ve sabırla tepeyi köklendirin, gövdeyi parçalayın, dibi sulamaya devam edin; birkaç ay sonra evde birkaç yeni difenbahya bulabilirsiniz.
+
+## Köklendirme ortamı karşılaştırması
+
+| Ortam | Avantaj | Dezavantaj |
+|---|---|---|
+| Su | Kök çıkışını gözle görürsünüz, kolay | Su kökleri toprağa geçişte uyum ister |
+| Perlit + torf | Havadar, çürümeye az eğilimli | Nemini düzenli kontrol etmek gerekir |
+| Vermikülit | Suyu tutar, tohum ve çelik için steril | Çok ıslak tutulursa çürüme |
+| Sphagnum yosunu | Köklenmeyi hızlandırdığı belirtilir | Fazla ıslak olmamalı, hava almalı |
+
+Hangi ortamı seçerseniz seçin, ortamın her zaman nemli ama sulu olmamasına dikkat edin. Çürüyen çeliği bir kez bile atmadan önce kesimin üst kısmında sağlıklı doku olup olmadığına bakın; çoğu zaman üstteki kısım yeniden kesilip yeniden köklendirilebilir.
+
+## Mini sera: plastik torba ile nem
+
+Nemi artırmak için çeliğin saksısını delikli bir plastik torbayla ya da şeffaf bir kapakla örtmek yaygın bir yöntemdir. Torbayı yaprağa değmeyecek şekilde bir çubukla ayakta tutun. Her birkaç günde bir kısaca havalandırın; kapalı kalan ortamda küf ve çürüme riski artar. Torbanın içindeki yoğuşma azsa yeterli nem vardır; çok fazla damlama varsa havalandırın. Kökler çıkıp yeni yaprak görünce torbayı kademeli kaldırın.
+
+## Yeni bitkinin ilk ayı
+
+Köklenmiş çeliği saksıya aldıktan sonra ilk ay sakin tutun. Bitkiyi sık yer değiştirmeyin, doğrudan güneşe çıkarmayın ve toprağı nemli ama sulu olmayacak şekilde sulayın. İlk gübre için iki üç ay bekleyin. Yeni yaprak çıktıkça bitkiyi parlak, dolaylı ışığa taşıyın. İlk ay sonunda büyüme belirtisi yoksa kökleri nazikçe kontrol edin; kökler çürümüşse çeliği yeniden kesip başlayın.
+
+## Çeliğin yaprakları sararırsa
+
+Köklenme döneminde çeliğin alt yapraklarının sararıp dökülmesi normal olabilir; bitki enerjisini kök yapmaya yönlendirir. Yaprak kıvrılıyor ve gövde yumuşuyorsa çürüme vardır: çeliği çıkarıp kesim yüzeyini temiz bir noktaya kadar yeniden kesin, kurutun ve yeniden köklendirin. Yeni yaprak çıkışı, çeliğin tuttuğunun en güvenilir işaretidir.
+
+@sss
+S: Difenbahya çoğaltma nasıl yapılır?
+C: Uzamış gövdenin tepesini 10-15 cm gövdesiyle keserek suda ya da nemli perlit-torf karışımında köklendirin. Kalan gövdeyi parçalara ayırıp yatay köklendirin; ana bitkinin dibi de yeniden sürer.
+
+S: Difenbahya çeliği kaç haftada köklenir?
+C: Genellikle birkaç hafta içinde kök çıkarır; ısı, ışık ve nem bunu etkiler. Kökler birkaç santim olunca toprağa alın. Hava daldırma yöntemi ise üç dört ay sürebilir.
+
+S: Difenbahyanın özsuyu zararlı mı?
+C: Evet, kalsiyum oksalat kristalleri içerir; cildi tahriş eder, ağıza geçerse ağız ve boğazda şişmeye yol açabilir, gözle teması çok acıdır. Eldiven takın, çocuk ve evcil hayvanlardan uzak çalışın, işten sonra ellerinizi yıkayın.
+
+S: Difenbahyanın kesilen gövdesi yeniden sürer mi?
+C: Evet. Kalan kütükteki boğumlardan yeni sürgün çıkar. Kütüğü sulamaya devam edin; böylece tek bitkiden birden çok yeni bitki elde edersiniz.
+
+### YAZI
+slug: yenilebilir-yabani-otlar
+baslik: Yenilebilir Yabani Otlar: Bahçedeki Hangi Ot Sofraya Girer, Hangisine Dokunulmaz?
+yayin: 2027-05-12 14:30
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: yenilebilir yabani otlar
+seo_baslik: Yenilebilir Yabani Otlar: Tanıma ve Güvenlik Kuralları
+seo_aciklama: Yenilebilir yabani otlar arasında semizotu, karahindiba, ısırgan var; ama zehirli benzerleri de. Emin olmadan yemeyin: tanıma kuralları ve güvenli yol.
+ozet: Bahçedeki bazı otlar yüzyıllardır sofraya girer, bazıları ise ciddi zehirlenmeye yol açabilir. Yenilebilir yabani otları tanıma kurallarını, zehirli benzerlerini, toplamadan önce kontrol edilecekleri ve en güvenli yol olan bilinçli yetiştirmeyi üniversite kaynaklarıyla anlattık.
+etiketler: yenilebilir ot, yabani ot, semizotu, karahindiba, ısırgan, zehirli bitki
+gorsel: bekliyor
+gorsel_alt: Bahçe kenarında yetişen yabani otlar arasında semizotu ve karahindiba yaprakları
+urunler: altinvadi-semizotu-tohumu-10-gr, raco-yabani-ot-sokme-aleti
+kisaca: Semizotu, karahindiba, ısırgan, ebegümeci ve labada gibi bazı yabani otlar yenir; ancak zehirli benzerleri vardır ve yanlış tanıma ciddi zehirlenmeye yol açar. Kesin olarak tanımadığınız hiçbir otu yemeyin. En güvenli yol, tanıdığınız yenilebilir otu bilinçli olarak kendiniz yetiştirmektir.
+@govde
+Bahçenin köşesinde kendiliğinden bitmiş bir semizotu kümesi görüyorsunuz. Büyükannenizin salatasında yerdi; nasıl tarif edilir akla geliyor. Ama yanında benzer yeşil bir ot daha var ve emin değilsiniz. Yenilebilir yabani otlar bu yüzden hem cazip hem tehlikelidir: yanlış bir ot, güzel bir salatayı ciddi bir zehirlenmeye çevirebilir. Bu yazıda tanıma kurallarını, karışabilen zehirlileri ve güvenli yolu anlatıyoruz. Temel kural tek: emin değilseniz yemeyin.
+
+## Yenilebilir yabani otlar neden cazip, neden riskli?
+
+Yabani otlar bahçede kendiliğinden yetişir, bakım istemez ve mevsiminde yaprağı lezzetlidir. Karahindiba, semizotu, ısırgan, ebegümeci, labada ve yabani hardal gibi türler yöresel mutfaklarda yıllardır kullanılır. Yenilebilir yabani otlar bu yüzden hem bahçıvana hem mutfağa ilgi çekici gelir.
+
+Risk, tanımadan geliyor. [Mississippi Eyalet Üniversitesi Extension'ın unutulmuş besinler yayını](https://extension.msstate.edu/publications/forgotten-foods-introduction-wild-edible-plants) yabani bir bitkiyi yemeden önce tanımadan tamamen emin olunmasını ve en az üç bitki rehberinden doğrulanmasını önerir. Aynı kaynak, bazı yenilebilir otların zehirli benzerlerinin olduğunu, örneğin semizotunun yanında zehirli bir benzeri olan yer sütleğeninin sıkça bulunduğunu, kuşku varsa bitkiye dokunmamayı belirtir.
+
+## Güvenlik kuralları: yemeden önce beş soru
+
+Yabani bir otu mutfağa taşımadan önce şu soruları cevaplayın. Biri bile "hayır" ya da "emin değilim" ise otu bırakın.
+
+::: adimlar
+Kesin tanıyor muyum? | Bitkinin her özelliği (yaprak, sap, çiçek, koku, süt, büyüme biçimi) tarife uyuyor mu?
+Üç kaynakla doğruladım mı? | En az üç farklı güvenilir bitki rehberinde ya da botanik kaynakta aynı türü kontrol edin.
+Zehirli benzeri var mı? | Karışabilecek zehirli bitkileri öğrenin ve ayırt edici farkı gözle teyit edin.
+Temiz yerde mi yetişiyor? | Yol kenarı, ilaçlanmış alan, hayvan dışkısı ve kirli su kenarı güvenilir değildir.
+İlk kez mi yiyorum? | Çok az miktarla başlayın; yan etki görürseniz bırakın.
+:::
+
+[Kaliforniya Üniversitesi'nin gıda toplama konulu sayfası](https://ucanr.edu/node/165630) sosyal medyadaki fotoğraflara ve yapay zekâ üretimi bilgilere güvenmemeyi, tanımayı bölgenizdeki deneyimli biriyle, bir bitki rehberiyle ya da yerel bir bitki topluluğuyla doğrulamayı ve yeni bir yabani besini bile eminseniz yavaş denemeyi öğütler. Tat da güvenilir bir ölçü değildir: bazı zehirli bitkiler güzel tadabilir.
+
+## Tanınması görece kolay, yaygın yenilen otlar
+
+Aşağıdaki tablo yaygın kullanılan bazı yabani otları, ayırt edici özelliklerini ve dikkat edilecek noktaları özetler. Bu bir tanıma kılavuzu değildir; yalnızca bilgi içindir. Her otu mutlaka bir bitki rehberinden doğrulayın.
+
+| Ot | Genel görünüm | Dikkat |
+|---|---|---|
+| Semizotu | Yere yatık, etli, kırmızımsı gövde; kalın, yuvarlak yaprak | Zehirli yer sütleğeniyle karışabilir; sütleğenin gövdesi kırılınca beyaz süt akar |
+| Karahindiba | Rozet yaprak, tek çiçek sapı, sarı çiçek | Çiçek sapı içi boş; benzer yapraklı bitkilerle karışabilir |
+| Isırgan | Karşılıklı, tırtıklı, yakıcı tüylü yaprak | Eldivenle toplayın, pişirerek tüketin |
+| Ebegümeci | Yuvarlak, hafif dişli, tüylü yaprak; pembe-mor çiçek | Yaşlı yaprak lifli olur |
+| Labada, kuzukulağı | Mızrak biçimli yaprak, ekşi tat | Çok miktarda yememek önerilir |
+| Yabani hardal | Dilimli yaprak, sarı çiçek | Tohuma kalkınca acılaşır |
+
+## Zehirli benzerler: neden tehlikeli?
+
+Yenilebilir otların bazıları, ölümcül sayılabilecek zehirli bitkilere benzer. Mississippi Extension ve UC kaynakları, baldıranı özellikle uyarı örneği olarak anar: baldıran, havuç, maydanoz ve yabani havuç gibi bitkilere benzer ve yendiğinde ciddi zarar ya da ölüme yol açabilir. Bu yüzden maydanoza ya da havuç yaprağına benzeyen, kokusu ya da kılları farklı olan bir otu hiçbir koşulda denemeyin.
+
+Zehirli benzer sorununun bir diğer örneği semizotudur. Yer sütleğeni de yere yatık büyür ve küçük yapraklıdır; ama kırıldığında beyaz, süt gibi bir sıvı akar ve tahriş edicidir. Semizotunda böyle bir süt yoktur; yine de benzerlik yüzünden "kırıp süt var mı bakmak" tek başına yeterli kabul edilmemeli, diğer özellikler de kontrol edilmelidir. Kuşkunuz varsa bitkiyi bırakın.
+
+## Zehirlenme belirtisi görürseniz ne yapmalı?
+
+Yabani bir ot yedikten sonra bulantı, kusma, karın ağrısı, ağız ve boğazda yanma ya da şişme, baş dönmesi veya halsizlik görürseniz hemen yemeyi bırakın ve en yakın sağlık kuruluşuna başvurun. Yediğiniz bitkiden bir parça (ya da fotoğraf) saklayın; teşhise yardım eder. Ulusal zehir danışma hattı gibi kuruluşlara da başvurabilirsiniz. Bu yazı yalnızca bilgilendirme amaçlıdır; tıbbi tavsiye değildir.
+
+## Yenilebilir yabani otları bilinçli yetiştirmek: en güvenli yol
+
+Tanımadığınız ota güvenmektense, bildiğiniz yenilebilir otu kendiniz yetiştirin. Böylece hangi bitkiyi yediğinizden eminsiniz, bitki temiz toprakta yetişir ve kontrol sizdedir. Semizotu bu iş için güzel bir örnektir. Ürün açıklamasına göre yetiştirmeye uygun semizotu tohumu, yabani türlerin aksine iri, etli ve sulu yapraklar verir.
+
+[ürün:altinvadi-semizotu-tohumu-10-gr]
+
+Isırgan, karahindiba gibi bitkiler de bahçede tanıdığınız bir köşede yetişebilir. Isırgan bahçede kimi zaman gübre olarak da değerlendirilir; bu kullanım için [ısırgan gübresi](/isirgan-gubresi) yazısına bakabilirsiniz.
+
+## İstenmeyen otlar ve bahçe düzeni
+
+Bahçede yetişen bütün otlar yenilebilir değildir; çoğu yalnızca istenmeyen yabani ottur. Yenilebilir bir ot bile bahçede çok yayıldığında kontrol altına alınmalıdır. Bu otları köklerinden sökmek, yayılmasını sınırlamanın en iyi yoludur. Yabani otun köküne göre mücadelesi için [yabani ot tanıma ve mücadele](/yabani-ot-tanima-12-ot-koke-gore-mucadele) ve [yabani otla doğal mücadele](/yabani-otla-dogal-mucadele) yazılarına göz atın. Köklü otları sökmek için küçük bir el aleti işinizi kolaylaştırır; ürün açıklamasına göre yabani ot sökme aleti balkon saksılarında ve bahçelerde istenmeyen otların sökülmesi için tasarlanmış, 350 mm uzunluğunda hafif bir el aletidir.
+
+[ürün:raco-yabani-ot-sokme-aleti]
+
+## Yabani otlar ve çim
+
+Çimde yetişen yabani otları da yenilebilir diye düşünmeyin. Çim alanları ilaçlanmış, gübrelenmiş ya da köpek idrarıyla kirlenmiş olabilir. Çim yabani otlarının tanınması ve mücadelesi için [çimde yabani ot](/cimde-yabani-ot) yazısına bakabilirsiniz. Yemek için seçeceğiniz ot, temiz ve bilinen bir yerden, doğru tanındığından emin olarak alınmalıdır.
+
+## Kısa karar rehberi
+
+Yabani bir otu yemeden önce üç şeyi bir arada düşünün: kesin tanıma, güvenli yer ve küçük miktar. Birini bile atlarsanız otu bırakın. Yenilebilir yabani otlar bahçenin hoş bir sürprizi olabilir; ama emin olmak yerine tahmin etmek, tadını bir zehirlenme riskiyle değiştirmek demektir. En iyi yol, tanıdığınız otları yetiştirmek ve diğerlerine dokunmamaktır. Zehirli bitki konusundaki ev bitkisi örnekleri için [zehirli ev bitkileri](/zehirli-ev-bitkileri) yazısına göz atabilirsiniz.
+
+## Mevsim ve bölge: ne zaman, nerede?
+
+Yabani otların çoğu ilkbaharda genç ve körpe dönemlerinde lezzetlidir; yaşlandıkça lifli ve acı olur. Bu yüzden toplama düşünenler ilkbaharda ilk yaprakları tanımakla başlar. Ancak bölgeniz de önemlidir: aynı bitkinin zehirli bir akrabası başka bir bölgede çok yaygın olabilir. Yerel bitki rehberleri ve bölgede yaşayan deneyimli kişiler bu yüzden değerlidir. Kendi bahçenizde, tanıdığınız ve temiz olduğundan emin olduğunuz bir köşede yetişen otu seçin; yol kenarı ve çevre ilaçlama alanından uzak durun.
+
+## Çocuklarla ve evcil hayvanlarla önlem
+
+Bahçede çocuk ve evcil hayvan varsa yabani otlara karşı ekstra dikkat gerekir. Çocuklara "bahçede gördüğün hiçbir otu yeme" kuralını öğretin; yenilebilir olanı da yalnızca bir yetişkinle birlikte toplayın. Köpek ve kedilerin bazı otları yemesi de sorun olabilir; bahçede zehirli bitkileri kök bölgesinden söküp kenara atmak güvenlidir. Hayvan zehirlenmesinden şüphelenirseniz hemen bir veterinere başvurun.
+
+## Pişirme ve hazırlık notu
+
+Tanıdığınız ve güvenli bulduğunuz bir otu bile ilk kez kullanırken bol suda iyice yıkayın; toprak, böcek ve kalıntıları uzaklaştırın. Isırgan gibi yakıcı tüylü otlar pişirilince ya da kaynar suda haşlanınca yakıcılığını yitirir. Labada gibi ekşi otları çok miktarda yemeyin. Yeni bir otu bir seferde küçük porsiyonla deneyin ve bir gün bekleyin; vücudunuzun tepkisini görmeden miktarı artırmayın.
+
+@sss
+S: Bahçedeki hangi yabani otlar yenir?
+C: Semizotu, karahindiba, ısırgan, ebegümeci, labada ve yabani hardal yaygın kullanılır. Ancak yanlış tanıma ciddi zehirlenmeye yol açar; kesin tanımadan, en az üç kaynakla doğrulamadan yemeyin.
+
+S: Semizotu ile karışan zehirli bitki hangisi?
+C: Yere yatık büyüyen yer sütleğeni semizotuna benzer ve kırıldığında beyaz süt akar, tahriş edicidir. Yine de tek bir özelliğe değil, bitkinin tüm özelliklerine bakın; emin değilseniz yemeyin.
+
+S: Yabani otu tanımak için fotoğraf yeterli mi?
+C: Hayır. Sosyal medya fotoğrafları ve yapay zekâ üretimi bilgiler yanıltabilir. Bitki rehberleri ve bölgenizdeki deneyimli biriyle doğrulayın, ilk denemede çok az yiyin.
+
+S: Yabani ot yedikten sonra rahatsızlandım, ne yapmalıyım?
+C: Yemeyi bırakıp hemen sağlık kuruluşuna başvurun. Yediğiniz bitkiden bir parça ya da fotoğraf saklayın. Bulantı, kusma, ağızda yanma ya da baş dönmesi ciddiye alınmalıdır.
+
+### YAZI
+slug: kavun-hastaliklari
+baslik: Kavun Hastalıkları: Yapraktaki Beyaz Toz mu, Sararma mı? Belirtiye Göre Teşhis
+yayin: 2027-05-12 16:55
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: kavun hastalıkları
+seo_baslik: Kavun Hastalıkları: Külleme, Mildiyö, Gövde Yanıklığı
+seo_aciklama: Kavun hastalıkları yapraktaki beyaz toz, sarı lekeler ve gövdedeki yapışkan sızıntıyla anlaşılır. Külleme, mildiyö ve gövde yanıklığını belirtiye göre ayırın.
+ozet: Kavunun yaprağı ya beyaz tozla kaplı ya sarı lekeli ya da gövdesinden yapışkan sıvı sızıyor. Hangi belirtinin külleme, mildiyö ya da gövde yanıklığı olduğunu, hastalıklara karşı dönüşüm, sulama, çeşit ve hijyen önlemlerini üniversite kaynaklarıyla anlattık.
+etiketler: kavun hastalıkları, külleme, mildiyö, gövde yanıklığı, yaprak lekesi, kavun
+gorsel: bekliyor
+gorsel_alt: Beyaz tozla kaplanmış ve sarı lekeli kavun yaprakları yaz bahçesinde
+urunler: hg-bol-verimli-sebze-topragi, hasturk-kati-solucan-gubresi
+kisaca: Kavunda yaprak üstünde beyaz toz külleme, açısal sarı lekeler ve altta gri küf mildiyö, gövdede kırmızı-kahverengi leke ve yapışkan sızıntı gövde yanıklığıdır. Çoğu hastalıkta önlem aynıdır: yaprağı ıslatmadan sulamak, aralık bırakmak, artıkları temizlemek ve dayanıklı çeşit seçmek.
+@govde
+Kavun bahçede iyi gidiyordu; sonra bir sabah yaprakların yüzünde beyaz bir toz, birkaç gün sonra sarı lekeler ve gövdenin dibinde yapışkan bir sızıntı fark ettiniz. Kavun hastalıkları üç beş farklı etmenden gelir ve belirtiler karışabilir. Bu yazıda yaprağın ve gövdenin görünümüne göre hastalığı ayıracak, sonra hangi önlemlerin hepsinde işe yaradığını anlatacağız.
+
+## Kavun hastalıkları: önce belirtiye bakın
+
+Hastalığı tanımanın en kolay yolu, belirtinin nerede ve nasıl göründüğüne bakmaktır. Aşağıdaki tablo üç yaygın hastalığı ve ayrımlarını gösterir.
+
+| Belirti | Hastalık | Ayırıcı özellik |
+|---|---|---|
+| Yaprak üstünde beyaz, unumsu toz | Külleme | Yaşlı yapraklarda başlar, yayılır |
+| Yaprak üstünde açık yeşil-sarı, açısal lekeler; altta gri-mor küf | Mildiyö | Lekeler yaprak damarlarıyla sınırlanır |
+| Gövdede kırmızı, kahverengi ya da siyah leke; yapışkan, kehribar sızıntı | Gövde yanıklığı | Meyvede toprağa değen yanda çürüme |
+| Fidelerde su emmiş, koyu lekeler | Gövde yanıklığı (erken) | Fide dönemi |
+| Yaprakta sararma, solgunluk, bitki bütün solar | Kök ya da damar hastalığı | Gövde kesilince kahverengi damar |
+
+Tabloyu belirtiyle eşleştirdikten sonra aşağıdaki bölümlerde her hastalığın ayrıntısına bakın. [Kentucky Üniversitesi'nin kavun hastalıkları bülteni](https://plantpathology.ca.uky.edu/sites/plantpathology.ca.uky.edu/files/PPFS-VG-49.pdf) ve [Minnesota Üniversitesi Extension'ın kavun yaprak lekeleri sayfası](https://apps.extension.umn.edu/garden/diagnose/plant/vegetable/melons/leavesspots.html) belirtileri ayrıntılı anlatır.
+
+## Külleme: yaprakta beyaz toz
+
+Külleme, yaprağın üstünde beyaz, unumsu bir örtü olarak görülür. Kaynaklara göre belirti çoğunlukla en yaşlı yapraklarda açık sarı lekelerle başlar; sonra beyaz toz yayılır ve yaprak kurur. Meyve genellikle doğrudan etkilenmez ama yaprak kaybı yüzünden güneş yanığına maruz kalıp lekeli ve tatsız olabilir. Külleme, kuru ama nemli geceli havalarda yaygındır; diğer mantar hastalıklarının aksine yaprak ıslaklığına çok bağımlı değildir. [Illinois Üniversitesi Extension'ın külleme sayfası](https://extension.illinois.edu/plant-problems/powdery-mildew) genel bilgi verir.
+
+Bazı kavun çeşitlerinin külleme dayanıklılığı vardır. Tohum paketinde ya da fide etiketinde dayanıklılık yazıyorsa o çeşidi tercih etmek en güçlü önlemdir. Ayrıca yaprakları sık dikimle birbirine yaklaştırmamak ve hava akışını artırmak yardımcı olur.
+
+## Mildiyö: sarı lekeler ve yaprak altında küf
+
+Mildiyö (aşağı küllemesi), yaprağın üst yüzünde açık yeşilden sarıya giden, damarlarla sınırlanmış açısal lekeler olarak başlar. Lekeler zamanla kahverengiye döner. Yaprağın alt yüzünde nemli havada gri-mor bir küf tabakası oluşur. Minnesota kaynağı salatalık ve kavunun mildiyöye en duyarlı bitkiler arasında olduğunu belirtir. Purdue Extension'ın kavun hastalıkları yayını, dönüşümlü ekim ve sonbahar toprak işlemenin mildiyö üzerinde etkisi olmadığını da not eder; yani bu hastalıkta artık temizliğine ek olarak nem ve hava akışı önlemleri öne çıkar.
+
+Mildiyöyü yalnızca bir bitkiye özel görmek yanlıştır; salatalık ve kabakta da görülür. Genel mildiyö tanımı için [mildiyö nedir](/mildiyo-nedir) ve [salatalık hastalıkları](/salatalik-hastaliklari) yazılarına bakabilirsiniz.
+
+## Gövde yanıklığı: gövdede sızıntı ve meyvede çürüme
+
+Gövde yanıklığı (gummy stem blight), fidelerde su emmiş, koyu lekelerle başlar. Büyümüş bitkide gövdede kırmızı, kahverengi ya da siyah lekeler oluşur ve bu bölgeden kırmızıdan kehribara kadar yapışkan bir sıvı sızabilir. Meyvede enfeksiyon çoğu zaman toprağa değen yandan başlar; Kentucky kaynağı buna "siyah çürüklük" denildiğini belirtir. Hastalık fide döneminden hasada kadar görülebilir.
+
+Bu hastalıkta toprak ve artıklar önemlidir. Purdue kaynağı, bitkilerin üç yıl en az dönüşümlü ekilmesini ve sonbaharda toprağın sürülmesini önerir; böylece topraktaki hastalık artıkları azalır. Meyveyi toprağa değdirmemek için malç, ip ya da destek de kullanılır.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Sulama ve hava akışı: tüm hastalıklarda ortak önlem
+
+Üç hastalığın ortak noktası nem ve havasız ortamdır. Bu yüzden bahçıvanın elindeki en güçlü araçlar basittir.
+
+::: adimlar
+Köke sulayın | Sabah erken, yaprağı ıslatmadan doğrudan kök bölgesine su verin.
+Aralık bırakın | Fideleri sıkıştırmayın; bitkiler arasında hava dolaşsın.
+Malç serin | Toprağın üstüne malç koyarak meyve ve yaprağı topraktan ayırın.
+Destekleyin | Kavun sarmaşığını ip ya da ağ üzerinde yönlendirin; meyve yerden yükselsin.
+Hasta kısmı alın | Lekeli yaprağı ya da çürüyen meyveyi temiz makasla alıp bahçeden uzaklaştırın.
+Aletleri temizleyin | Makas ve eldiveni bitkiler arasında silin.
+:::
+
+Sulama düzenini ayrıntılı bilmek için [kavun yetiştirme](/kavun-yetistirme) yazısına bakabilirsiniz. Besleme dengesi de hastalığa duyarlılığı etkiler; aşırı azot yumuşak ve hastalığa açık sürgün üretir. Besin programı için [kavun gübreleme](/kavun-gubreleme) yazısı yararlıdır. Organik madde açısından toprak yapısını iyileştirmek için olgun kompost ya da solucan gübresi kullanılabilir; ürün açıklamasına göre katı solucan gübresi organik bir toprak düzenleyici ve besin kaynağıdır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Dönüşümlü ekim ve bahçe hijyeni
+
+Kavun ve diğer kabakgiller (salatalık, kabak, karpuz) aynı hastalıkların bir kısmını paylaşır. Bu yüzden kavunu her yıl aynı yere dikmek, hastalık etmenlerinin toprakta birikmesine yol açar. Kaynaklar en az üç yıllık dönüşümü önerir. Sezon sonunda bitki artıklarını toplayıp bahçeden uzaklaştırın; hastalıklı bitkiyi komposta atmayın. Yeni sezonda eski yerine kabakgil dikmeyin; baklagil ya da yaprak sebzesi gibi farklı ailelerden bitkileri seçin.
+
+## Dayanıklı çeşit ve sağlıklı fide
+
+Hastalığa dayanıklılık, bahçıvanın tohum paketinde okuyacağı bir bilgidir. Bazı kavun çeşitleri külleme ve diğer hastalıklara dayanıklı olarak geliştirilmiştir. Fide alıyorsanız yapraklarında leke, sarılık ya da gövdesinde çürük olmayan, sağlam fideyi seçin. Hastalıklı fideyi bahçeye getirmek, bir sezonluk emeği baştan tehlikeye atar. Karpuz ve kavun fidesinde doğru zamanı [karpuz fidesi yetiştirme](/karpuz-fidesi) yazısında anlattık.
+
+## Kimyasal mücadele ve danışma
+
+Önlemler yetmediğinde ilçe tarım müdürlüğüne ya da bir ziraat mühendisine danışın; hangi hastalığa karşı hangi ürün ve ne zaman uygulanacağı onların işidir. Bu yazıda ilaç adı ve doz verilmez. Kentucky kaynağı, koruyucu uygulamaların hastalık başlamadan önce yapıldığında daha etkili olduğunu belirtir; bu da zamanlamanın ve erken tanımanın önemini gösterir. Bu yüzden kavunu haftada bir gözden geçirmek, hastalığı küçükken yakalamanın en iyi yoludur.
+
+## Kısa özet
+
+Yaprakta beyaz toz külleme, sarı açısal lekeler ve alt yüzde küf mildiyö, gövdede sızıntılı leke gövde yanıklığıdır. Üçünde de köke sulama, aralık, malç, destek, hijyen ve dönüşüm temel önlemlerdir. Kavun hastalıkları, bitkiyi haftalık gözlemle ve zamanında müdahaleyle büyük ölçüde kontrol altında tutulur.
+
+## Sera ve tünelde kavun hastalıkları
+
+Kavun serada ya da alçak tünelde yetişiyorsa nem ve sıcaklık dalgalanması hastalık riskini artırır. Sabah erken havalandırmayı açmak, yoğuşan damlaların yapraklara düşmesini önlemek için damla sulama kullanmak ve fideleri geniş aralıkla dikmek bu ortam için en etkili önlemlerdir. Sera içinde küllemeye eğilimli yaprakları sık kontrol edin; hasta yaprak hızla yayılır. Serada sıcaklık ve nem dengesi için [sera havalandırması ve nem kontrolü](/sera-havalandirmasi-nem-kontrolu) yazısına bakabilirsiniz.
+
+## Hasat ve depolamada hastalık
+
+Hastalıktan zarar görmüş meyveyi sağlam olandan ayırın. Çürük başlamış ya da yumuşamış kavunu saklamaya çalışmayın; diğer meyvelere bulaştırır. Hasadı kurak bir günde yapın ve meyveyi nemli yerde bekletmeyin. Olgunluk ölçütleri için [karpuz olgunluğu](/karpuz-olgunlugu) yazısındaki ipuçları kavun için de bazı fikirler verir.
+
+## Haftalık gözlem listesi
+
+Kavun sezonu boyunca haftada bir şu kontrolü yapın: alt ve yaşlı yapraklarda beyaz toz ya da sarı leke var mı, yaprak altında küf var mı, gövdenin dibinde leke ya da sızıntı var mı, meyvenin toprağa değen yanında yumuşama var mı? Dört sorunun cevabını bir deftere yazın. İlk belirtide hasta yaprağı alıp önlemleri sıkılaştırmak, hastalığın yayılmasını belirgin biçimde yavaşlatır.
+
+@sss
+S: Kavun yaprağındaki beyaz toz nedir?
+C: Büyük olasılıkla küllemedir. Çoğunlukla yaşlı yapraklarda açık sarı lekelerle başlar, sonra beyaz, unumsu örtü yayılır. Dayanıklı çeşit, hava akışı ve hasta yaprakların temizliği önlem olarak işe yarar.
+
+S: Kavunda mildiyö nasıl anlaşılır?
+C: Yaprağın üst yüzünde damarlarla sınırlı, açık yeşil-sarı açısal lekeler; alt yüzde nemli havada gri-mor küf görülür. Salatalık ve kavun mildiyöye en duyarlı bitkilerdendir.
+
+S: Kavun gövdesinden yapışkan sıvı çıkması ne demek?
+C: Gövde yanıklığı olabilir. Gövdede kırmızı-kahverengi ya da siyah leke ve kehribar renkli sızıntı görülür; meyvede toprağa değen yandan çürüme başlar. Dönüşümlü ekim ve sonbahar toprak işleme önlem olarak önerilir.
+
+S: Kavun hastalıklarını önlemek için ne yapmalıyım?
+C: Yaprağı ıslatmadan köke sulayın, bitkilere aralık bırakın, toprağı malçlayın, meyveyi yerden kaldırın, hasta kısımları ve artıkları uzaklaştırın ve en az üç yıl aynı yere kabakgil ekmeyin.
+
+### YAZI
+slug: 12-ay-cicek-acan-bahce-plani
+baslik: 12 Ay Çiçek Açan Bahçe Planı: Her Ay Hangi Çiçek Sahneye Çıkar?
+yayin: 2027-05-12 19:40
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: 12 ay çiçek açan bahçe planı
+seo_baslik: 12 Ay Çiçek Açan Bahçe Planı: Aylık Çiçek Takvimi
+seo_aciklama: 12 ay çiçek açan bahçe planı için ay ay çiçek takvimi: kardelenden gülden kasımpatıya sıraya giren tablo, boşluk kontrolü ve bölgeye göre ayarlar.
+ozet: Bahçeniz mayısta şölen, ocakta ise bomboş mu? Her ay bir çiçeğin sahneye çıkması için ay ay çiçek takvimini, boşluk kontrolünü, uzun çiçek açan bitkileri, ağaç ve çalı iskeletini ve ılıman ile soğuk bölge farkını anlattık.
+etiketler: bahçe planı, çiçek takvimi, 12 ay çiçek, çok yıllık çiçek, soğanlı çiçek, bahçe tasarımı
+gorsel: bekliyor
+gorsel_alt: Mevsimlere göre farklı çiçeklerin sıralandığı renkli bir bahçe tarhı
+urunler: arzuman-hercai-menekse-tohumu, arzuman-zinya-kirli-hanim-cicegi-tohumu-30-adet, bahce-yatagi-ciceklik-140x35x30cm-140-litre
+kisaca: Yıl boyu çiçek için her aya en az bir bitki seçin: kışın kış yasemini ve Noel gülü, erken baharda soğanlılar, mayısta gül ve leylak, yazın lavanta, zinya ve sardunya, sonbaharda kasımpatı. Ay ay listeleyin, boşlukları uzun çiçek açanlarla doldurun. Takvim iklime göre bir iki hafta kayar.
+@govde
+Mayısta bahçeniz çiçek denizi. Haziranda ilk gül, temmuzda lavanta, sonra ağustos... ve kasımda tarhlar kahverengi, aralıkta çıplak. Her bahçıvan bir noktada aynı hayali kurar: ocaktan aralığa her ay bir çiçeğin açtığı bahçe. 12 ay çiçek açan bahçe planı bu hayali bir takvim işine çevirir: ay ay hangi bitkinin sahneye çıkacağını yazar, boşlukları doldurursunuz. Aşağıda yöntemi ve ılıman iklim için bir örnek takvimi bulacaksınız.
+
+## 12 ay çiçek açan bahçe planı nasıl yapılır?
+
+Yıl boyu çiçek tek bir "mucize bitki"den gelmez; her ayı farklı bitkilerin üstlenmesiyle olur. [RHS'nin çok yıllık tarh bitkileri sayfası](https://www.rhs.org.uk/plants/types/perennials/for-borders) bitkileri çiçek açtıkları aya göre gruplar ve çiçeklenme zamanının iklime, mevsime ve yere göre değişebileceğini, bazı bitkilerin belirtilen aydan daha erken açabileceğini söyler. Planlama yöntemi basit: bir takvim açın, her aya bir satır yazın ve o ayda çiçek açan bitkileri listeleyin.
+
+Mississippi Eyalet Üniversitesi'nin [bitki çizelgesi hazırlama yayını](https://extension.msstate.edu/lawn-and-garden/landscape-architecture/landscape-design-and-management/landscape-and-garden-design/developing-plant-schedule-for-your-landscape) da peyzajda bitki listesi ve takvimi hazırlamanın tasarımın temeli olduğunu anlatır. Önce mevcut bahçenizdeki bitkileri yazın, hangi ayların boş kaldığını görün, sonra boşlukları doldurun.
+
+::: adimlar
+Ay ay bir tablo çizin | Ocak'tan aralığa 12 satır; her satıra o ayda çiçek açan bitkileri yazın.
+Mevcut bitkileri işleyin | Bahçenizde zaten olan bitkilerin çiçek aylarını girin.
+Boş ayları bulun | Hiçbir bitkinin çiçek açmadığı ayları işaretleyin.
+Boşlukları doldurun | Her boş aya en az iki bitki seçin; biri uzun çiçek açan, biri aromalı olsun.
+İskelet ekleyin | Yaprağı yıl boyu yeşil kalan bitkilerle çiçeksiz dönemi tamamlayın.
+Yıl yıl güncelleyin | Not tutun; bitkiler gerçekte hangi ayda çiçek açıyor yazın.
+:::
+
+## Ay ay çiçek takvimi: ılıman iklim örneği
+
+Aşağıdaki takvim, ılıman iklimli bölgeler (Ege, Akdeniz, Marmara kıyısı) için bir örnektir. İç bölgelerde çiçekler bir iki ay kayabilir; ayrıntı için bölüm sonundaki ayarlara bakın.
+
+::: takvim
+Kış yasemini, Noel gülü, sıklamen | 12,1,2
+Kardelen, çiğdem | 1-3
+Nergis, sümbül, hercai menekşe | 2-4
+Lale, anemon, erguvan | 3-5
+Gül, leylak, şakayık, süsen | 4-6
+Lavanta, civanperçemi, oya ağacı | 6-9
+Ortanca, begonvil, sardunya | 5-10
+Zinya, kadife çiçeği, petunya | 6-10
+Kasımpatı | 9-11
+Süs lahanası, hercai menekşe (sonbahar ekimi) | 10-12
+:::
+
+| Ay | Çiçek açanlar | Not |
+|---|---|---|
+| Ocak | Kış yasemini, Noel gülü, sıklamen | Ilık kışlı bölgede açar |
+| Şubat | Kardelen, çiğdem, kamelya | Soğanlılar erken başlar |
+| Mart | Nergis, sümbül, hercai menekşe | Baharın ilk sahnesi |
+| Nisan | Lale, anemon, erguvan | Soğanlılar zirvede |
+| Mayıs | Gül, leylak, şakayık, süsen | Büyük çiçek şöleni |
+| Haziran | Lavanta, gül, civanperçemi | Çok yıllıklar |
+| Temmuz | Oya ağacı, ortanca, zinya | Yaz çiçekleri |
+| Ağustos | Zinya, kadife çiçeği, begonvil, sardunya | Sıcağa dayananlar |
+| Eylül | Sardunya, begonvil, zinya | Yazın son renkleri |
+| Ekim | Kasımpatı, hercai menekşe | Sonbahar renkleri |
+| Kasım | Kasımpatı, sıklamen, süs lahanası | Çiçek dönemi uzar |
+| Aralık | Sıklamen, Noel gülü, kış yasemini | Kış çiçekleri |
+
+Bu bitkilerin her biri için ayrı yazılarımız var: [kış yasemini](/kis-yasemini), [Noel gülü](/noel-gulu), [kardelen yetiştirme](/kardelen-yetistirme), [çiğdem yetiştirme](/cigdem-yetistirme), [nergis yetiştirme](/nergis-yetistirme), [lale soğanı dikimi](/lale-sogani-dikimi), [erguvan yetiştirme](/erguvan-yetistirme), [şakayık yetiştirme](/sakayik-yetistirme), [süsen yetiştirme](/susen-yetistirme), [lavanta yetiştirme](/lavanta-yetistirme), [oya ağacı yetiştirme](/oya-agaci-yetistirme), [zinya yetiştirme](/zinya-yetistirme), [kasımpatı bakımı](/kasimpati-bakimi) ve [sıklamen bakımı](/siklamen-bakimi).
+
+## Boşluk kontrolü: aylar arasında uçurum olmasın
+
+Planı bitirdikten sonra tabloya bakın: hangi ayda yalnızca bir bitki var? Hangi iki ay arasında çiçek açmayan bir boşluk var? Boşlukları ikiye ayırın: kış boşluğu (aralık-şubat) ve yaz sonu boşluğu (eylül-ekim). Bu iki dönem en sık boş kalır. Kış boşluğunu kış yasemini, Noel gülü ve sıklamen kapatır. Yaz sonu boşluğunu sardunya, zinya, kasımpatı ve begonvil doldurur.
+
+Bir de çiçeklenme süresine bakın. Bazı bitkiler günlerce, bazıları aylarca çiçek açar. Uzun çiçek açanlar (zinya, kadife çiçeği, sardunya, petunya) boşlukları kapatmada çok değerlidir; kısa çiçek açanlar (lale, şakayık) ise kısa ama etkili bir sahne sağlar. Zinya ve kadife çiçeği gibi tek yıllıklar tohumla kolayca eklenir.
+
+Ürün açıklamasına göre zinya, havaların ısınmasıyla birlikte gelişimini hızlandırır ve yaz boyu aralıksız çiçek açar; hercai menekşe ise çiçeklerini ilkbahardan başlayarak yaz boyunca açan, çok yıllık sayılan bir süs bitkisi olarak tanıtılır. Bu iki bitki, yılın iki ucunu tutmak için kullanışlıdır.
+
+[ürün:arzuman-zinya-kirli-hanim-cicegi-tohumu-30-adet]
+
+## Yaprak ve yapı: çiçeksiz ayları örtmek
+
+Hiçbir bahçede her ay bol çiçek olmaz; asıl hedef, çiçek olmayan ayda bile bahçenin güzel görünmesidir. Bunun için yapraklı ve yıl boyu yeşil bitkiler iskelet görevi görür. Biberiye, lavanta, şimşir, süs otları ve çam gibi bitkiler çiçek olmadığı zamanlarda doku ve renk taşır. Çiçeklerin boşluk bıraktığı aylarda bunlar bahçeyi canlı gösterir. Bahçe tasarımına yapı eklemek için bahçe kemerleri ve sütunlar da kullanılabilir.
+
+Bahçeyi kategorilere ayırmak da işe yarar: bir kenar, bir köşe, bir tarh, bir saksı grubu. Her bölümü farklı mevsime göre planlamak, çiçek sahnesini bahçe boyunca dağıtır. Çiçeklik yataklar da bu işe uygundur: ürün açıklamasına göre çiçeklik serisi yataklar çiçek, aromatik bitki ve dekoratif süs bitkileri için düzenli ve estetik bir yetiştirme alanı sunar. Çiçeklik yatağın kullanımı için [bahçe yatağı çiçeklik](/bahce-yatagi-ciceklik) yazısına bakabilirsiniz.
+
+[ürün:bahce-yatagi-ciceklik-140x35x30cm-140-litre]
+
+## Soğanlılar, çok yıllıklar ve tek yıllıklar: üç katman
+
+Yıl boyu çiçek için üç tür bitkiyi birlikte kullanmak dengeli bir plan sağlar. Soğanlılar (kardelen, çiğdem, nergis, lale) sonbaharda dikilip ilkbaharda çiçek verir; bahçeyi kış sonunda uyandırırlar. Çok yıllıklar (lavanta, civanperçemi, şakayık, süsen) bir kez dikilir, yıllarca çiçek açar ve düzenin omurgasını oluşturur. Tek yıllıklar (zinya, kadife çiçeği, petunya, hercai menekşe) her yıl yeniden ekilir ve uzun süre çiçek verir; boşlukları kapatmak için en esnek araçtır. Soğanlı çiçek dikimi için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazısına bakabilirsiniz.
+
+[ürün:arzuman-hercai-menekse-tohumu]
+
+## İklime göre takvimi kaydırmak
+
+Yukarıdaki takvim ılıman iklim için örnektir. Sert kışlı iç bölgelerde kış çiçekleri (kış yasemini, Noel gülü, kamelya) açamayabilir ya da çok geç açar; bu bölgede soğanlılar ve çok yıllıklar mart sonunda başlar, çiçek sahnesi mayıs-eylül arasına yoğunlaşır. Kış boşluğunu kapalı mekânda saksı bitkileriyle (sıklamen, kalanşo, orkide) kapatmak mümkündür. Kıyıda ise çiçekler bir iki ay erken başlar ve daha uzun sürer. RHS de çiçeklenme zamanının iklime ve yere göre kaydığını anlatır.
+
+Bu yüzden ilk yılın sonunda planı kendi bahçenizin gerçeğine göre düzeltin. Hangi bitkinin kaç ayında açtığını yazın, bir sonraki yıl takvimi buna göre güncelleyin. Üç yıl içinde bahçenize özel bir çiçek takvimi çıkarırsınız.
+
+## Başlangıç için basit bir plan
+
+Hepsini bir anda kurmak zorunda değilsiniz. İlk sezon, her mevsim için bir çiçek seçin: kış için sıklamen ya da kış yasemini, bahar için nergis ve lale, yaz için zinya ve lavanta, sonbahar için kasımpatı. İkinci sezon her aya ikinci bir çiçek ekleyin. Üçüncü sezon boşlukları doldurun ve çiçek sahnesini uzatın. 12 ay çiçek açan bahçe planı bir günde değil, her sezon bir parça tamamlanan bir yapboz gibi kurulur ve her yıl biraz daha güzelleşir.
+
+## Her ay kontrol: bahçe turu ve not
+
+Planı yaşatan şey, aylık kısa bir bahçe turudur. Ayın ilk haftasında bahçeyi dolaşın, o ay çiçek açması gereken bitkilere bakın, açmayanı ve boş kalan alanı not edin. Fotoğraf çekmek de işe yarar: bir yıl sonra bahçenizin her ayki halini karşılaştırabilirsiniz. Bu notlar bir sonraki sezon dikim kararlarınızı belirler ve boşlukların nerede olduğunu hatırlatır.
+
+@sss
+S: Bahçede yıl boyu çiçek nasıl sağlanır?
+C: Her aya en az bir bitki seçip ay ay bir tablo yapın. Kışın kış yasemini ve Noel gülü, ilkbaharda soğanlılar, yazın lavanta ve zinya, sonbaharda kasımpatı. Boş ayları uzun çiçek açan bitkilerle doldurun.
+
+S: Hangi çiçekler en uzun süre açar?
+C: Zinya, kadife çiçeği, sardunya ve petunya gibi tek yıllık ve mevsimlik çiçekler aylarca açar. Çok yıllıklardan lavanta ve civanperçemi de uzun bir dönem çiçekli kalır.
+
+S: Kışın bahçede hangi çiçekler açar?
+C: Ilıman bölgelerde kış yasemini, Noel gülü, sıklamen, kamelya, kardelen ve çiğdem. Sert kışlı iç bölgelerde bu bitkiler geç açar ya da açmaz; kış boşluğunu iç mekânda saksı bitkileriyle doldurun.
+
+S: Çiçek takvimi bölgeden bölgeye değişir mi?
+C: Evet. RHS de çiçeklenme zamanının iklime, mevsime ve yere göre kayabileceğini belirtir. Kıyıda çiçekler daha erken başlar, iç bölgede bir iki ay geç. İlk yıl gözlem yapıp takvimi kendi bahçenize göre düzeltin.
+
+### SORU
+yayin: 2027-05-12 21:05
+kategori: cicekler
+baslik: Leylağı unuttum, temmuz ortasında budarsam gelecek yıl yine çiçek açar mı?
+metin: Bahçedeki leylağım mayısta güzel açtı ama ben budamayı unuttum. Çiçekler kurumuş halde duruyor. Temmuz ortasında kesersem gelecek yıl çiçek açmaz mı? Kesmeyeyim mi?
+@cevap Halil İbrahim Çelik | 2
+Temmuz ortası biraz geç kalmış sayılır, çünkü gelecek yılın tomurcukları yazın oluşur. Bu yıl yalnızca kurumuş salkımları, altındaki ilk yaprak çiftinin üstünden alın; dallara dokunmayın. Ağır budamayı gelecek yıl çiçekten hemen sonra yapın. Gelecek yıl çiçek tamamen yok olmaz ama biraz azalabilir; sabırla izleyin.
+
+### SORU
+yayin: 2027-05-12 21:40
+kategori: sebze-meyve
+baslik: Kavun yapraklarımın üstü beyaz tozlu, kavunları yine de yiyebilir miyim?
+metin: Balkon kenarındaki bahçede kavun yetiştiriyorum. Yaprakların üzerinde beyaz toz var ama meyveler normal görünüyor. Meyveyi yersem bir sorun olur mu? Hastalık ne kadar kötü?
+@cevap Rümeysa Altınova | 2
+Beyaz toz çoğunlukla külleme belirtisidir ve yaprağı hedef alır; meyve genellikle doğrudan etkilenmez. Ancak yaprak kaybı meyveyi güneş yanığına ve tatsızlığa açar. Meyveyi yıkayıp yiyebilirsiniz; çürük ya da lekeli kısmı ayıklayın. Hasta yaprakları temiz makasla alın, sıkı bitkileri seyreltin ve yaprağı ıslatmadan sulayın. Hastalık hızla yayılırsa ilçe tarım müdürlüğüne danışın.
+

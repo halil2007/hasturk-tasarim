@@ -1,0 +1,28 @@
+name: Yayın anı erişim izleme
+
+# Kullanıcı şüphesi (4 Kasım 2026): site güncellenirken anlık "siteye ulaşılamıyor" oluyor mu?
+# main'e her gönderimde (Cloudflare yeni sürümü yayına alırken) 6 dakika boyunca 2 sn'de bir blog, Worker ve Pages adresine
+# istek atılır; her başarısız ya da 3 sn'den yavaş istek zamanıyla yazılır. Yalnız okuma.
+# main'e her gönderimde 6 dakika sürüp Actions kotasını dolduruyordu (Kasım 2026): yalnız elle çalıştırılır.
+on:
+  workflow_dispatch:
+
+jobs:
+  izle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 6 dakika izle
+        run: |
+          : > /tmp/log.tsv
+          bitis=$(( $(date +%s) + 360 ))
+          while [ $(date +%s) -lt $bitis ]; do
+            for u in https://blog.hasturkgubre.com.tr/ https://hasturk-blog.pages.dev/ https://hasturk-arama.halilc2007.workers.dev/blog; do
+              out=$(curl -s -o /dev/null --max-time 15 -w '%{http_code}\t%{time_connect}\t%{time_total}\t%{remote_ip}' "$u?r=$RANDOM" 2>&1) ; rc=$?
+              printf '%s\t%s\t%s\t%s\n' "$(date -u +%H:%M:%S)" "$u" "$rc" "$out" >> /tmp/log.tsv
+            done
+            sleep 2
+          done
+          echo "== Özet: adres, curl kodu, HTTP kodu, adet"; awk -F'\t' '{print $2, $3, $4}' /tmp/log.tsv | sort | uniq -c
+          echo "== Sorunlu istekler (bağlantı hatası, 200 dışı ya da 3 sn üstü)"; awk -F'\t' '$3!=0 || $4!=200 || $6>3 {print}' /tmp/log.tsv | head -80
+          echo "== En yavaş 10"; sort -t$'\t' -k6 -rn /tmp/log.tsv | head -10

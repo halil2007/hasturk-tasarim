@@ -1,0 +1,320 @@
+### YAZI
+slug: sukulent-topragi-karisim-oranlari-ve-hazir-toprak-secimi
+baslik: Sukulent Toprağı: Karışım Oranları ve Hazır Toprak Seçimi
+yayin: 2027-04-17 11:35
+yazar: Rümeysa Altınova
+kategori: toprak-rehberi
+odak: sukulent toprağı
+seo_baslik: Sukulent Toprağı: Karışım Oranları ve Seçim
+seo_aciklama: Sukulent toprağı nasıl olmalı? Torf, perlit, pomza ve kum ile karışım oranları, hazır toprak seçerken bakılacak noktalar ve saksıda drenaj ipuçları.
+ozet: Sukulent toprağı, suyu hızlı süzen ve köklerin nefes aldığı mineral ağırlıklı bir karışımdır. Yaklaşık yarı yarıya organik madde ve gözenekli inorganik malzeme, genel bir başlangıçtır; oran bitki türüne göre değişir.
+etiketler: sukulent toprağı, kaktüs toprağı, perlit, pomza, drenaj, saksı karışımı
+gorsel: bekliyor
+gorsel_alt: Beyaz bir kapta yan yana duran perlit, pomza taşı, torf ve kum karışımı ile küçük sukulent saksıları
+urunler: kaktus-ve-sukulent-topragi, kalin-tarim-perliti
+kisaca: Sukulent toprağı suyu hızla süzmeli ve köklere hava vermelidir. Genel başlangıç, yaklaşık yarı yarıya saksı toprağı ya da torf gibi organik taban ile perlit, pomza ya da iri kum gibi gözenekli mineral malzemedir. Düz bahçe toprağı ve nem tutan torf tek başına kök çürümesine yol açar.
+@govde
+Sukulentlerin ölüm sebebi çoğu zaman susuzluk değil, kök çürümesidir; çürümenin ardında ise genellikle suyu tutan toprak yatar. Sukulent toprağı bitkinin doğal çöl ve kayalık ortamını taklit eder: Su saniyeler içinde süzülür, kökler bir sonraki sulamaya kadar kurur. Aşağıda iyi bir karışımın bileşenlerini, farklı oranları, hazır toprak seçerken nelere bakılacağını ve ev yapımı karışımı nasıl deneyeceğinizi anlatıyoruz.
+
+## Sukulent toprağı neden farklı olmalı?
+
+Sukulentler yapraklarında ve gövdelerinde su depolar; kökleri ince ve yüzeye yakındır. Sürekli nemli toprakta kök boğulur, kök çürümesi başlar ve çürüme gövdeye yayılır. Kök ve gövde çürüklüğünün işaretleri için [sukulent neden çürür](/sukulent-neden-curur) yazısına bakabilirsiniz. Bu yüzden toprağın üç özelliği önemlidir: Hızlı süzülmeli, hava boşluğu içermeli ve besin açısından fakir ya da orta düzeyde olmalı.
+
+Torf tabanlı genel saksı toprağı bu üç ölçütten ikisinde yetersiz kalır: Suyu uzun süre tutar ve zamanla sıkışır. Bu yüzden sukulentlere genel saksı toprağı tek başına önerilmez; üzerine drenaj malzemesi eklenir.
+
+## Karışımın bileşenleri
+
+| Bileşen | Görevi | Not |
+|---|---|---|
+| Saksı toprağı ya da torf | Kökleri tutar, az nem ve besin verir | Karışımın organik tabanı |
+| Perlit | Hafifletir, hava boşluğu açar | Hafif, saksıda üste çıkabilir ([perlit nedir](/perlit-nedir-nasil-kullanilir)) |
+| Pomza (ponza) | Ağırdır, yüzmez, suyu süzer | İri taneli seçilirse drenaj artar |
+| Kaba kum | Süzülmeyi artırır | İnce, kil içeren kumdan kaçının |
+| Kokopit | Nem dengesi, torfa alternatif | Az oranda ([kokopit perlit karışımı](/kokopit-perlit-karisimi)) |
+
+Kum konusunda bir uyarı: Bir üniversite yayım servisi cevabı, plaj, bahçe ya da çocuk kum havuzundan gelen kumun kullanılmamasını öneriyor ([Extension, sukulent toprağı için kum seçimi](https://ask.extension.org/kb/faq.php?id=781789)). İnce kum, saksıda sıkışır ve drenajı kötüleştirir. İri taneli, yıkanmış ve tuzsuz kum, ya da perlit ve pomza daha güvenlidir. Kum ile perlit arasındaki seçim için [kum mu perlit mi](/kum-mu-perlit-mi) yazısı karşılaştırma yapıyor.
+
+## Karışım oranları: başlangıç tarifleri
+
+Kaynaklar arasında tek bir tarif yoktur; oranlar bitkiye, saksıya, iklime ve sulama alışkanlığına göre değişir. Yaygın olarak görülen başlangıç noktası yaklaşık yarı yarıya organik taban ve mineral drenaj malzemesidir. Aşağıdaki tablo bu çerçevede genel örnekler verir; bunlar kesin reçete değil, deneyip uyarlayacağınız başlangıçlardır.
+
+| Karışım | Organik taban | Mineral kısım | Kime uygun? |
+|---|---|---|---|
+| Dengeli | 2 ölçü saksı toprağı | 1 ölçü perlit + 1 ölçü iri kum | Echeveria, haworthia, çoğu rozet sukulent |
+| Hızlı süzen | 1 ölçü saksı toprağı | 1 ölçü perlit + 1 ölçü pomza | Kaktüs, lithops, nemden kaçınan türler |
+| Hafif organik | 1 ölçü kokopit | 1 ölçü pomza + 1 ölçü perlit | Torf istemeyenler |
+
+Karışımı bir kapta kuru malzemeyle kabaca ölçülerle yapın, elinize alıp sıkın: Topak bırakmadan dağılıyorsa uygun, çamur gibi yapışıyorsa mineral kısmı artırın. Sulayıp süzülme hızına bakın: Su on saniyeler içinde tabandan çıkmıyorsa karışım çok ağırdır.
+
+## Hazır sukulent toprağı seçerken bakılacaklar
+
+Hazır toprak pratik bir seçimdir; ama etiket her zaman karışımı anlatmaz. Seçerken şu soruları sorun: İçinde perlit, pomza ya da iri kum gibi mineral malzeme var mı? Karışım elinize alınca gevşek ve gözenekli mi, yoksa torf gibi sıkı ve nemli mi? Etikette "kaktüs ve sukulent için" yazması drenaj konusunda yeterli garanti değildir; torf ağırlıklı bir "kaktüs toprağı" yine de fazla nem tutabilir.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+Ürün açıklamasına göre HG Kaktüs ve Sukulent Toprağı pomza taşı (4-8 mm), perlit (1-3 mm), torf ve orman toprağı, leonardit ve solucan gübresi içeren, yüksek drenaj hedefleyen bir karışımdır. Hazır karışımı, saksıdaki drenaj deliğiyle birlikte kullanmak çürüme riskini azaltır.
+
+## Saksı ve drenaj: toprak kadar önemli
+
+Doğru toprak yanlış saksıda iş görmez. Sukulent saksısında drenaj deliği şarttır; deliksiz süs saksısı su biriktirir. Saksının boyutu da önemlidir: Büyük saksı, çok miktarda toprak tutar ve uzun süre nemli kalır; bitkinin köküne göre bir iki boy büyük saksı yeterlidir. Pişmiş toprak saksı nemi dışarı verdiği için sukulent için plastikten daha güvenlidir. Saksı tabanına çakıl serip üstüne toprak koymak drenajı iyileştirmez; su toprak ile çakıl sınırında birikir. Tabanda delik ve iyi karışım yeterlidir.
+
+Sulama düzeni karışımla birlikte çalışır: Toprak tamamen kuruyunca derin sulayın, fazla suyu saksı altından boşaltın. Sulama ve ışık için [kaktüs bakımı: sulama, ışık ve toprak](/kaktus-bakimi-sulama-isik-ve-toprak) yazısına bakın.
+
+## Karışımı adım adım hazırlamak
+
+1. Temiz bir kova ya da geniş bir kap alın ve ölçü olarak bir bardak ya da küçük bir kepçe belirleyin; aynı ölçüyle tüm bileşenleri ölçün.
+2. Önce organik tabanı (saksı toprağı, kokopit) kaba boşaltın ve topakları elinizle ufalayın.
+3. Mineral bileşenleri (perlit, pomza, iri kum) ekleyin ve karıştırın; perlit tozunu solumamak için malzemeyi hafifçe nemlendirin.
+4. Karışımı elinize alıp sıkın: Topak oluşturmadan dağılıyorsa kıvam uygundur.
+5. Bir deneme saksısına doldurup bol suyla sulayın; su hızla (saniyeler içinde) tabandan çıkmalı.
+6. Su yavaş süzülüyorsa mineral kısmı artırın; çok hızlı süzülüp toprak çabuk kuruyorsa organik kısmı biraz yükseltin.
+
+Aynı karışımı büyük miktarda yapmadan önce küçük bir parti deneyin; tek bir bitkiye ve tek bir saksıya göre uyarlamak kolaydır. Karışımı hazırlarken kullandığınız oranları bir deftere yazın: Üç ay sonra bitkinin nasıl tepki verdiğini bu kayıtla karşılaştırırsınız; küçük bir not bile ileride büyük zaman kazandırır. Yeni karışımı çok bitkiye birden uygulamadan önce bir iki bitkide deneyin. Hazır karışım ile kendi karışımınızı yan yana denemek de öğretici olur; ikisini benzer iki bitkiye verip aynı sulama düzeniyle izleyin.
+
+## Karışımı sterilize etmek ve saklamak
+
+Hazır karışım bile bazen böcek ya da mantar tohumu taşır. Evde hazırladığınız karışımı kullanmadan önce sterilize etmek isterseniz [toprak sterilizasyonu: evde saksı toprağı nasıl temizlenir](/toprak-sterilizasyonu) yazısındaki yöntemlere bakın. Kullanılmayan toprağı kapalı bir kapta, kuru yerde saklayın; nem küfe yol açar. Kullandığınız saksı toprağını bir yıl sonra yenileyin; zamanla organik kısım ayrışır, karışım sıkışır ve drenaj kötüleşir.
+
+## Hangi sukulent hangi karışımı sever?
+
+Hepsi aynı karışıma ihtiyaç duymaz. Kaktüs ve lithops gibi türler hızlı süzen, çok mineralli bir karışım ister. Echeveria, haworthia ve sedum biraz daha organik madde kaldırır. Aloe ve agave kaba ve dengeli bir karışımı sever. Tropik orman sukulentleri (yılbaşı kaktüsü gibi) ise daha fazla organik madde ve nem ister; bunlar için çöl karışımı çok hızlı kurur. Türüne göre toprak seçimi için [sukulent çeşitleri](/sukulent-cesitleri) yazısına bakabilirsiniz.
+
+## Dikim ve ilk sulama
+
+Sukulenti yeni toprağa alırken eski toprağı köklerden hafifçe silkeleyin, çürük ya da kurumuş kökleri temiz makasla kesin. Yeni saksıya önce karışımın bir kısmını koyun, bitkiyi yerleştirin, kenarlardan karışımı doldurun ve hafifçe bastırın. Köklerin yeni toprağa alışması için bitkiyi bir iki gün sulamadan bekletmek, kesik köklerin kurumasına ve kök çürümesi riskinin azalmasına yardım eder. Sonra yavaşça ve ölçülü sulayın. Çoğaltma sırasında köklenme ortamı olarak da aynı hafif karışım kullanılabilir; ayrıntı için [sukulent çoğaltma: yaprak ve çelikle kolay yöntemler](/sukulent-cogaltma-yaprak-ve-celikle) yazısına bakın.
+
+## Sık yapılan hatalar
+
+- **Bahçe toprağı kullanmak:** Hastalık ve tohum taşır, sıkışır. Düzeltme: Saksı toprağı ve drenaj malzemesi.
+- **İnce plaj kumu eklemek:** Drenajı kötüleştirir. Düzeltme: İri, yıkanmış kum ya da perlit.
+- **Deliksiz saksı kullanmak:** Su birikir. Düzeltme: Delikli saksı.
+- **Tabana çakıl koymak:** Drenaj iyileşmez. Düzeltme: Karışımın kendisini hızlı süzen yapın.
+- **Büyük saksıya küçük bitki dikmek:** Toprak uzun nemli kalır. Düzeltme: Köke yakın boyda saksı.
+@sss
+S: Sukulent toprağı nasıl hazırlanır?
+C: Genel başlangıç, yaklaşık yarı yarıya saksı toprağı ya da torf ile perlit, pomza ve iri kum gibi mineral malzemeden oluşur. Kaktüs ve lithops için mineral kısmı artırın. Karışımı sulayıp süzülme hızını deneyin; su hızla süzülmelidir.
+
+S: Sukulentlere normal saksı toprağı konur mu?
+C: Tek başına önerilmez; torf tabanlı genel toprak suyu fazla tutar ve sıkışır, kök çürümesine yol açar. Üzerine perlit, pomza ya da iri kum ekleyerek drenajı artırın ya da hazır sukulent toprağı kullanın.
+
+S: Sukulent için kum mu perlit mi daha iyi?
+C: İkisi de işe yarar, ama kum iri ve yıkanmış olmalı; ince plaj ya da çocuk kumu saksıda sıkışır. Perlit hafiftir ve üste çıkabilir, pomza ağırdır ve yüzmez. Karışımda birkaçını birlikte kullanmak yaygındır.
+
+S: Hazır sukulent toprağı yeterli mi?
+C: Etikette mineral malzeme (perlit, pomza) var ve elinize alınca gevşekse çoğu sukulent için yeterlidir. Torf ağırlıklı ve sıkı karışımlara bir miktar perlit ya da pomza katın. Saksının delikli olması da şarttır.
+
+### YAZI
+slug: motopomp-secimi-debi-basinc-ve-cekis-derinligi
+baslik: Motopomp Seçimi: Debi, Basınç ve Çekiş Derinliği
+yayin: 2027-04-17 14:05
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: motopomp seçimi
+seo_baslik: Motopomp Seçimi: Debi, Basınç ve Çekiş Derinliği
+seo_aciklama: Motopomp seçimi nasıl yapılır? Sulama için gereken debi, toplam basınç yüksekliği, çekiş derinliği ve boru kayıpları; santrifüj pompa seçim ilkeleri.
+ozet: Motopomp seçimi, gereken debi ile toplam basınç yüksekliğini bilerek başlar. Çekiş derinliği pratikte yaklaşık 4,5 metreyle sınırlıdır; boru boyu, çap ve sürtünme kaybı pompanın gerçek performansını belirler.
+etiketler: motopomp, sulama pompası, debi, basınç, çekiş derinliği, santrifüj pompa
+gorsel: bekliyor
+gorsel_alt: Dere kenarında su çeken küçük benzinli motopomp, ucunda süzgeç, arkasında sulanan bahçe
+urunler: sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu, sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu
+kisaca: Motopomp seçimi iki sayıyla başlar: Gereken debi (dakikada litre) ve toplam basınç yüksekliği (suyu kaldırma, boru sürtünmesi ve çıkış basıncı). Çekiş derinliği pratikte yaklaşık 4,5 metreyi geçmez. Pompanın verim eğrisi bu iki değerle karşılaştırılır; boru çapı ve boyu da seçimi etkiler.
+@govde
+Motopomp almaya gittiğinizde satıcı size "kaç inç" diye sorar ve çoğu çiftçi sadece boru çapını söyler. Oysa pompanın işi çapla değil, debi ve basınçla ölçülür: Dakikada ne kadar su vermesi gerektiği ve o suyu ne kadar yukarı ve uzağa taşıması gerektiği. Motopomp seçimi bu iki soruya verilen cevapla başlar; ardından suyun kaynağı, çekiş derinliği ve boru hattı da hesaba girer. Aşağıda sulama için pompa seçiminin mantığını, hesabın nasıl yapılacağını ve sık yapılan hataları anlatıyoruz.
+
+## Motopomp seçimi: iki temel sayı
+
+Kuzey Dakota Eyalet Üniversitesi'nin sulama pompaları yayını, bir pompa seçmeden önce sulama sisteminin gerektirdiği debi (akış hızı) ve toplam basınç yüksekliğinin belirlenmesi gerektiğini anlatıyor ([NDSU Extension, sulama suyu pompaları](https://www.ndsu.edu/agriculture/ag-hub/publications/irrigation-water-pumps)). Motopomp seçimi bu yüzden debi hesabıyla başlar. Debi, sulanacak alana ve bitkinin su ihtiyacına bağlıdır; toplam basınç yüksekliği (TDH) ise suyun kaynak seviyesinden çıkış noktasına kadar yükselme yüksekliği, boru ve bağlantı sürtünme kayıpları ve sistemin çalışma basıncının toplamıdır.
+
+Bu iki sayıyı bilmeden alınan pompa ya zayıf kalır ya da fazla güçlü olur. Zayıf pompa suyu yeterince götüremez, güçlü pompa yakıt ve basınç israf eder, boruyu ve damlatıcıyı zorlar.
+
+## Debi nasıl hesaplanır?
+
+Debi, bir saatte sulamanız gereken su miktarının saat başına düşen kısmıdır. Basit bir hesap şöyledir:
+
+1. Sulanacak alanı (dekar) ve bitkinin günlük su ihtiyacını belirleyin. Su ihtiyacı için damla sulama bilgisine [damla sulama hesabı](/damla-sulama-hesabi) yazısından bakabilirsiniz.
+2. Hangi günlerde ve günde kaç saat sulayacağınızı seçin.
+3. Toplam su miktarını (litre) bu saate bölün; sonuç gereken debidir (litre/saat ya da litre/dakika).
+4. Tek vanayla tüm alanı mı yoksa bölüm bölüm mü sulayacağınıza göre debiyi bölüme göre hesaplayın.
+
+Birden fazla bölümü sırayla sulamak, daha küçük bir pompa ile işi yapmaya imkân verir. Bu yüzden bölüm sayısını artırarak pompa gücü ve maliyeti düşürebilirsiniz.
+
+## Toplam basınç yüksekliği: kaldırma, sürtünme ve çıkış basıncı
+
+Toplam basınç yüksekliği üç parçadır: Suyun yükselmesi gereken yükseklik (kaynaktan tarlanın en yüksek noktasına), borulardaki ve bağlantı parçalarındaki sürtünme kayıpları ve hat sonunda istenen basınç (damla için düşük, yağmurlama için daha yüksek). NDSU yayını boru çapı, bağlantı parçaları ve kaynaktan uzaklığın toplam basınç yüksekliğini etkilediğini belirtiyor.
+
+Küçük çaplı ve uzun boru, sürtünmeyi artırır; çapı büyütmek sürtünmeyi düşürür. Dirsek ve vana sayısı da kayıp ekler. Hat boyunca basıncı yönetmek ve sistem girişini korumak için [basınç düşürücü regülatör](/basinc-dusurucu-regulator-sulama-hatti) yazısındaki mantık da önemlidir. Boru seçimi için [PVC PE boru farkı](/pvc-pe-boru-farki-sulama-hatti-icin-secim-rehberi) yazısına bakın.
+
+## Çekiş derinliği: pompa suyu ne kadar aşağıdan çeker?
+
+Santrifüj pompalar suyu aşağıdan emerek çeker; bu emme yüksekliğinin fiziksel bir sınırı vardır. Eyalet üniversitesi yayınları, verimli çalışma için yaklaşık 15 fit (yaklaşık 4,5 metre) dikey emme yüksekliğinin pratik üst sınır olduğunu belirtiyor. Teorik sınır deniz seviyesinde yaklaşık 10 metredir ve pompanın gerekli emme basıncı (NPSH) değeri bu sınırdan düşülür; yani pratikte pompa teorik sınırın çok altında çalışır. Emme hattındaki sürtünme de çekebileceği yüksekliği azaltır: Maksimum 13 fit çekiş derinliği olan bir pompa, hat kaybıyla birlikte yalnızca yaklaşık 10 fit çekebilir.
+
+Bu yüzden derin bir kuyudan ya da çukur bir dere yatağından su çekecekseniz yüzeye monte motopomp yetmeyebilir; dalgıç pompa ya da kuyu tipi pompa gerekir. Kuyudan su çekmenin debi ve verimli kullanım ayrıntıları [tarımsal sulama kuyusu](/tarimsal-sulama-kuyusu) yazısında anlatıldı. Depodan ya da küçük bir havuzdan su alıyorsanız [su deposuyla sulama](/su-deposuyla-sulama) yazısı ek bilgi verir.
+
+| Durum | Pratik not |
+|---|---|
+| Su seviyesi pompadan 2-3 m aşağıda | Yüzeye monte motopomp çoğu zaman yeter |
+| Su seviyesi 4,5 m civarı ve altı | Emme sınırına yaklaşıldı; daha dikkatli seçim |
+| Daha derin | Dalgıç ya da kuyu pompası |
+| Uzun ve ince emme hattı | Sürtünme kaybı çekişi düşürür; çapı büyütün |
+
+## Pompa eğrisini okumak
+
+Pompa üreticileri pompanın debi ve basınç ilişkisini gösteren bir eğri (performans eğrisi) yayımlar. Eğri, belirli bir debide pompanın verebileceği basınç yüksekliğini gösterir; aranan debi ve toplam basınç yüksekliği eğri üzerinde pompanın çalışma noktasını bulmanızı sağlar. NDSU yayını, çalışma noktasındaki verimin kontrol edilmesi gerektiğini belirtiyor çünkü aynı pompanın farklı noktalarda farklı verimi vardır. Yani pompayı eğrisinin verimli olan bölgesinde çalıştırmak yakıttan tasarruf sağlar.
+
+Alırken satıcıdan pompanın performans eğrisini ya da en azından belirli bir basınçta verdiği debiyi isteyin. "Güçlü" ya da "yüksek devirli" gibi tanımlar tek başına ölçü değildir. Motor gücü ile pompa performansı aynı şey değildir; aynı motorla farklı pompa gövdeleri farklı debi verir.
+
+## Motor tipi, yakıt ve bakım
+
+Motopomp benzinli ya da dizel motorla çalışır; elektrik olmayan yerlerde pratiktir. Benzinli motorlar hafif ve ucuz, ama uzun süreli çalışmada dizel kadar dayanıklı olmayabilir. Güneş enerjili sulama için [tarımsal GES: güneş enerjili sulama pompası](/tarimsal-ges) yazısına bakabilirsiniz. Motorun yağ, yakıt ve hava filtresi bakımı traktör gibi düzenli olmalıdır; yağ seviyesi ve temiz yakıt kontrolü için [traktör günlük bakım](/traktor-gunluk-bakim-yag-su-hava-filtresi-kontrolu) yazısındaki mantık motopomp için de geçerlidir.
+
+Pompa ilk kez çalıştırılırken kovanın içini suyla doldurmak (mastarlama) gerekir; kuru çalışan pompa conta ve rotoru yakar. Emme hortumunun hava almadığından emin olun; en küçük hava kaçağı pompanın su çekmesini engeller. Emme ucuna süzgeç takın ve süzgeci tabandan yüksekte tutun; çamur ve yaprak girişini önler.
+
+Pompa seçiminde son bir ölçüt de taşınabilirliktir: Tarlada her gün yer değiştirecekse hafif ve saplı bir gövde, sabit bir su kenarında kullanılacaksa daha ağır ve dayanıklı bir model uygundur. Pompanın ağırlığını ve taşıma koşulunu da düşünün; el arabasına ya da traktör kasasına rahat yüklenmesi önemlidir.
+
+## Satın almadan önce bayiye soracaklarınız
+
+1. Pompanın en yüksek debisi ve bu debide verdiği basınç yüksekliği nedir; performans eğrisi var mı?
+2. Emme ve basma ağız çapı kaç, hangi hortum ya da boruyla kullanılıyor?
+3. Maksimum çekiş derinliği kaç metre ve bu değer hangi koşulda ölçülmüş?
+4. Motor benzinli mi dizel mi, yakıt tüketimi ve yağ kapasitesi nedir?
+5. Yedek parça (conta, mil keçesi, rotor) bulunur mu, servis var mı?
+6. Temiz su mu yoksa hafif çamurlu su mu çekilecek; pompa buna uygun mu?
+
+Bayinin söylediği değerleri yazılı alın. Kuyu ya da dereden çamurlu su çekecekseniz çamurlu su pompası mı yoksa temiz su pompası mı gerektiğini ayrıca sorun; temiz su pompasının rotoru kumdan çabuk aşınır.
+
+## Güvenlik ve çevre
+
+Motorlu pompa gürültülü ve egzozludur; kapalı yerde çalıştırmayın (karbonmonoksit). Yakıtı motor soğukken doldurun, yedek bidonu pompadan uzak tutun. Kulak koruyucu ve eldiven kullanın. Doğal bir su kaynağından (dere, gölet) su çekiyorsanız aşağıdaki komşuların ve hayvanların suyunu da düşünün; pompayı hasat sonrası, dere yatağını kuruturcasına değil, aralıklarla çalıştırın.
+
+## Sık yapılan hatalar
+
+- **Sadece boru çapına bakarak pompa seçmek:** Debi ve basınç yetmez. Düzeltme: Debi ve toplam basınç yüksekliğini hesaplayın.
+- **Çekiş derinliğini abartmak:** Pompa su çekemez. Düzeltme: Pratik sınır yaklaşık 4,5 m.
+- **Emme hattını ince ve uzun yapmak:** Sürtünme çekişi azaltır. Düzeltme: Hattı kısa ve geniş tutun.
+- **Pompayı kuru çalıştırmak:** Conta ve rotor yanar. Düzeltme: İlk önce suyla doldurun.
+- **Gereğinden güçlü pompa almak:** Yakıt israfı, hat zorlanması. Düzeltme: Debiye uygun seçin.
+@sss
+S: Motopomp seçimi nasıl yapılır?
+C: Önce sulama için gereken debiyi (litre/dakika) ve toplam basınç yüksekliğini (kaldırma, boru sürtünmesi ve çıkış basıncı) hesaplayın. Sonra pompanın performans eğrisinde bu çalışma noktasını bulun. Çekiş derinliği ve boru hattı da seçimi etkiler.
+
+S: Motopomp suyu kaç metreden çeker?
+C: Pratikte yüzeye monte santrifüj pompa yaklaşık 4,5 metre emme yüksekliğine kadar verimli çalışır; teorik sınır deniz seviyesinde yaklaşık 10 metredir ama emme hattı kayıpları bunu düşürür. Daha derin su için dalgıç ya da kuyu pompası gerekir.
+
+S: Motopomp için boru çapı neden önemli?
+C: Küçük çaplı ve uzun boru sürtünmeyi artırır, debi düşer ve pompa çekişi azalır. Emme ve basma hattını yeterli çapta ve mümkün olduğunca kısa tutmak performansı korur. Dirsek ve vana sayısını da azaltın.
+
+S: Motopomp ilk çalıştırmada neden suyla doldurulur?
+C: Pompa gövdesi boş olduğunda su çekemez ve kuru çalışan conta ve rotor ısınıp zarar görür. Çalıştırmadan önce pompa gövdesini ve emme hortumunu suyla doldurun (mastarlama), emme hattının hava almadığından emin olun.
+
+### YAZI
+slug: gubreleme-hatalari-doz-zaman-ve-yontemde-8-yanlis
+baslik: Gübreleme Hataları: Doz, Zaman ve Yöntemde Yapılan 8 Yanlış
+yayin: 2027-04-17 16:40
+yazar: Hatice Kübra Çelik
+kategori: gubreleme
+odak: gübreleme hataları
+seo_baslik: Gübreleme Hataları: Doz, Zaman ve Yöntem
+seo_aciklama: Gübreleme hataları nelerdir? Analiz yapmadan gübre atmak, fazla doz, yanlış zaman, yanlış yöntem ve etiket okumamak gibi sekiz yaygın yanlış ve düzeltmesi.
+ozet: En yaygın gübreleme hatası fazla gübre vermektir; kök yanar, bitki hastalığa açık kalır. Diğer hatalar toprak analizi yapmamak, yanlış zamanda atmak, yanlış yöntem, tek tip gübre ve etiketi okumamaktır.
+etiketler: gübreleme hataları, fazla gübre, gübre zamanı, toprak analizi, gübre dozu, yanlış gübreleme
+gorsel: bekliyor
+gorsel_alt: Toprağa serpilmiş gübre taneleri ve yanmış kahverengi yaprak kenarı olan bir bitki, yanında toprak kürekçiği
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Gübreleme hataları genellikle dozda, zamanda ve yöntemde yapılır. En sık görülen hata gereğinden fazla gübre vermektir; kökleri yakar ve bitkiyi hastalığa açık bırakır. Toprak analizi yapmadan gübre atmak, yanlış mevsimde uygulamak ve etiketi okumamak diğer yaygın hatalardır.
+@govde
+Bitki sararır, çiftçi gübre atar; bitki daha çok sararır, bu kez daha çok gübre atılır. Gübreleme hataları çoğu zaman iyi niyetle yapılır ve "fazla olsun, zararı olmaz" düşüncesinden doğar. Oysa Missouri Üniversitesi'nin yayım servisi, en yaygın hatanın aşırı gübre vermek olduğunu ve fazla gübrenin kökleri yakabileceğini, bitkiyi böcek ve hastalığa daha açık bıraktığını anlatıyor. Aşağıda sekiz yaygın gübreleme hatasını, her birinin belirtisini ve düzeltmesini sırayla anlatıyoruz.
+
+## Gübreleme hataları: önce toprağı tanımak
+
+Gübre, toprakta eksik olan besini tamamlar; toprakta ne eksik olduğunu bilmeden gübre atmak, tahminle ilaç vermeye benzer. Missouri Üniversitesi'nin "bahçe gübresinde tahmin yürütmeyin" yazısı toprak analiziyle başlamayı öneriyor ([University of Missouri Extension, bahçe gübresinde tahmin yürütmeyin](https://extension.missouri.edu/news/dont-guess-on-garden-fertilizer)). Aynı üniversitenin başka bir yazısı, sevgiyle yapılan aşırı bakımın bedelini anlatıyor ([University of Missouri Extension, bahçenizi çok sevmenin bedeli](https://extension.missouri.edu/news/the-cost-of-loving-your-garden-too-much)). West Virginia Üniversitesi'nin bahçe gübreleme önerileri de aynı çerçeveyi destekliyor ([WVU Extension, bahçe gübreleme ipuçları](https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/garden-fertilization-tips)).
+
+Toprak analizi sonuçlarını okumak için [toprak analizi sonuçları nasıl okunur](/toprak-analizi-sonuclari) yazısına bakın. Aşağıdaki sekiz hata analizle ilişkilidir.
+
+| No | Hata | Sonuç | Düzeltme |
+|---|---|---|---|
+| 1 | Toprak analizi yapmamak | Gereksiz ya da yanlış besin | Analiz yaptırın |
+| 2 | Fazla doz | Kök yanığı, hastalığa açıklık | Etiket dozunu aşmayın |
+| 3 | Yanlış zaman | Besin boşa gider ya da bitki zarar görür | Büyüme dönemine göre |
+| 4 | Yanlış yöntem | Yaprak ve gövde yanığı | Köke yayarak ve sulayarak |
+| 5 | Her bitkiye aynı gübre | Eksik ya da fazla besin | Bitkiye göre seçin |
+| 6 | Azotu fazla vermek | Yaprak çok, meyve az | Dengeli besleyin |
+| 7 | Etiketi okumamak | Yanlış oran, yanlış ürün | Etiketi okuyun |
+| 8 | Sulamayı unutmak | Gübre bitkiye ulaşmaz | Gübreden sonra sulayın |
+
+## 1. Toprak analizi yapmadan gübre atmak
+
+Temel bir toprak analizi pH, organik madde ve ana besin düzeylerini gösterir; hazır test kitleri çoğu zaman yalnızca azot, fosfor ve potasyuma bakar ve daha az bilgi verir. Missouri kaynağı analizin iki üç yılda bir yenilenmesini öneriyor. Analiz yapmamak, hem eksik besini fark edememek hem de zaten yeterli olan besini fazla vermek anlamına gelir. Fosfor ve potasyum toprakta birikebilir; yıllarca düzenli verilen fosforlu gübre, ihtiyaç olmasa da toprakta fazlalık yaratır.
+
+## 2. Fazla gübre vermek: gübre yakması
+
+En yaygın hata budur. Fazla gübre toprak çözeltisindeki tuz oranını artırır, kökler su alamaz ve yanar; yapraklarda kenar yanığı, solgunluk ve bitkinin duraklaması görülür. Belirtiler ve kurtarma için [gübre yakması: belirtileri, nedenleri ve bitkiyi kurtarmanın yolları](/gubre-yakmasi) yazısına bakın. Doz için etikete uyun; "yarısı iyiyse tamamı çok iyi" düşüncesi yanlıştır. Organik gübre bile fazlasında zarar verir: Çiğ ve taze gübre kökleri yakar, tuz birikimine yol açar.
+
+## 3. Yanlış zamanda gübrelemek
+
+Bitki büyüme dönemindeyken besini alır; dinlenme döneminde verilen gübre boşa gider ya da zarar verir. Sonbaharın sonlarında azot vermek yeni sürgünü zorlar ve don zararı riskini artırır. Çok erken ilkbahar gübrelemesi ise toprak hâlâ soğukken kökün besini alamamasına yol açar. Meyve ağaçlarında zamanlama için [meyve ağaçlarında sonbahar gübrelemesi](/meyve-agaclarinda-sonbahar-gubrelemesi) ve kış için [kış gübrelemesi](/kis-gubrelemesi) yazılarına bakın. Saksı bitkilerinde mevsim ve sıklık için [saksı bitkileri gübreleme takvimi](/saksi-bitkileri-gubreleme-takvimi) yazısı yol gösterir.
+
+## 4. Yanlış yöntemle gübre uygulamak
+
+Katı gübre yaprağa ve gövdeye değerse yakar; granül gübreyi bitkinin gövdesinden uzağa, damlama çizgisine doğru yayın. Sıvı gübreyi etiketteki seyreltmeyle, nemli toprağa verin; kuru ve susuz toprağa yoğun sıvı gübre vermek köke şok yapar. Yapraktan gübrelemede güneşli ve sıcak saatten kaçının; yanık oluşturur. Gübreyi yüzeyde bırakıp sulamamak da gübrenin bitkiye ulaşmasını engeller; uygulamadan sonra sulayın.
+
+## 5. Her bitkiye aynı gübreyi vermek
+
+Çim, domates, sukulent ve gül aynı besini aynı oranda istemez. Yaprak sebzeler azotu, meyve veren bitkiler potasyum ve fosforu daha çok ister; sukulent ve kaktüs çok az gübre ister. Dengeli ve genel amaçlı bir gübre tüm bitkilere "idare" eder ama hiçbirine ideal değildir. Bitkiye göre seçmek için [gübre etiketi okuma](/gubre-etiketi-okuma) ve [NPK nedir](/npk-nedir-gubre-etiketi) yazıları besin oranlarını açıklıyor.
+
+## 6. Azotu fazla vermek
+
+Fazla azot bitkiyi yeşil ve gür yapar ama meyve ve çiçeği azaltır; domateste çok yaprak, az meyve görülür. Hastalığa yatkınlığı artırır, bitki dokusu yumuşar ve zararlıları çeker. Azot yönetimi için gübre dengesi, bitkinin gelişme evresine göre ayarlanmalıdır; meyve tutumundan sonra potasyum payı artırılır. Dengesiz beslenmenin çiçek ve meyveye etkisi için [meyve ağacı neden meyve vermez](/meyve-agaci-neden-meyve-vermez) yazısına bakabilirsiniz.
+
+## 7. Etiketi okumamak ve ürünleri karıştırmak
+
+Etiket, besin oranını ve doz aralığını söyler. Farklı gübreleri bir arada karıştırmak ya da kimyasal gübre ile organik gübreyi doz hesaplamadan üst üste vermek tuz birikimine yol açar. Etiketteki "tarla için" ve "saksı için" ayrımına dikkat edin; saksıya tarla dozu vermek ağır zarar verir. Etikette besin oranının yanında kullanım alanının ve doz aralığının yazılı olup olmadığına bakın; bilgisi eksik ürünü almak yerine etiketi tam olanı seçin.
+
+## 8. Gübre sonrası sulamayı unutmak ya da fazla sulamak
+
+Gübre suyla çözünür ve köke ulaşır; sulanmayan gübre yüzeyde kalır, yakar ya da uçar. Öte yandan aşırı sulama gübreyi yıkar ve derine kaçırır; kuyu suyunu kirletme riski bile taşır. Gübrelemeden sonra orta düzeyde sulayın ve yağışlı dönemde gübreyi bölerek verin.
+
+## Gübreleme hataları sonrası: ne yapılır?
+
+Fazla gübre verdiğinizi fark ederseniz saksıda bol suyla toprağı yıkayıp (drenajdan fazla suyun çıkmasını sağlayarak) tuzu uzaklaştırabilir ve bir süre gübre vermeyi bırakabilirsiniz. Tarlada ve bahçede bol sulama ile aynı mantık uygulanır, ama yıkama suyunun yer altı suyuna karışması riski vardır. Yanmış yaprakları kesmek yerine yeni sürgünü bekleyin. Toprak analizi ile durumu doğrulayın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Ürün açıklamasına göre katı solucan gübresi organik madde artırıcıdır ve kötü koku yapmaz, yabancı ot tohumu içermez; ama organik de olsa dozu bitkiye ve toprağa göre ayarlamak gerekir.
+
+## Bitki türüne göre en sık hata
+
+Domates ve biberde en sık hata, çiçeklenme döneminde fazla azot vermektir; bitki yaprak üretir, meyve tutmaz. Çimde yazın sıcakta gübre atıp sulamamak çimi yakar. Meyve ağaçlarında hasat sonrası gübreyi geciktirmek ya da sonbaharda azotlu gübre vermek yaygındır. Saksı bitkilerinde ise sürekli aynı dozla besin vermek ve kış dinlenme döneminde gübrelemeye devam etmek hatadır. Sukulent ve kaktüs çok az besin ister; fazlası gövdeyi şişirir ve çürütür. Bu hataların hepsinde ortak payda, bitkinin o anki ihtiyacını gözlemlemeden takvime ya da alışkanlığa göre gübre vermektir.
+
+## Organik gübrede de hata olur
+
+"Organik" gübreyi güvenli sanıp sınırsız vermek yaygın bir yanlıştır. Çiğ ve taze hayvan gübresi kökleri yakar, tuz ve amonyak taşır; iyice yanmış ve olgunlaşmış olmalıdır. Kompost ve solucan gübresi toprağı yumuşatır, ama aşırı miktarda verildiğinde saksıda tuzluluk ve sıkışma yapabilir. Organik gübrelerin besin oranı genellikle düşük ve yavaş etkilidir; bu yüzden etkisi geç görülür ve bu da fazla vermeye iter. Dozu bitkiye ve toprağa göre ayarlamak, etki görmek için birkaç hafta beklemek ve tekrar vermeden önce toprağı gözlemlemek en güvenli yoldur.
+
+**Hatalardan çıkış planı.** Bir sezon boyunca gübreleme defteri tutun: Hangi tarihte, hangi gübreyi, ne kadar verdiniz, bitki nasıl tepki verdi? Sonraki sezon bu kayıt sizi tahminden kurtarır. Toprağınızı iki üç yılda bir analiz ettirin, sonucu defterinize ekleyin. Gübreyi azaltıp yeniden denemek, fazlasından her zaman güvenlidir.
+@sss
+S: En sık yapılan gübreleme hatası nedir?
+C: Gereğinden fazla gübre vermektir. Fazla gübre kökleri yakar, yaprak kenarlarında kurumaya yol açar ve bitkiyi hastalığa açık bırakır. Etiketteki dozu aşmayın ve toprak analiziyle gerçek ihtiyacı belirleyin.
+
+S: Toprak analizi yapmadan gübre atılır mı?
+C: Atılır ama tahmine dayanır. Analiz pH, organik madde ve ana besin düzeylerini gösterir; fazla olan besini tekrar vermekten sizi korur. İki üç yılda bir analiz yaptırmak iyi bir alışkanlıktır.
+
+S: Gübrelemeden sonra sulama gerekir mi?
+C: Evet, orta düzeyde sulama gübrenin köke ulaşmasını sağlar ve yüzeyde yakmasını önler. Aşırı sulama ise gübreyi yıkar. Yağışlı dönemde gübreyi bölerek vermek daha güvenlidir.
+
+S: Fazla gübre vermişsem bitkiyi nasıl kurtarırım?
+C: Saksıda bol suyla toprağı yıkayıp tuzun drenajdan çıkmasını sağlayın ve bir süre gübre vermeyin. Yanmış yaprakları hemen kesmeyin, yeni sürgünü bekleyin. Tarlada büyük miktarda yıkamanın çevreye etkisini hesaba katın.
+
+### SORU
+yayin: 2027-04-17 13:00
+kategori: toprak-rehberi
+baslik: Sukulent topraklarına bahçe toprağı karıştırabilir miyim?
+metin: Elimde bahçe toprağı var. Sukulent karışımına eklesem olur mu?
+@cevap Rümeysa Altınova | 2
+Önermiyorum; bahçe toprağı sıkışır, suyu tutar ve hastalık ya da tohum taşıyabilir. Sukulent için saksı toprağı ya da torf tabanına perlit, pomza ve iri kum karıştırın. Bahçe toprağı kullanmanız şartsa mineral kısmı artırıp küçük bir miktarla başlayın ve sulayıp süzülme hızını deneyin.
+
+### SORU
+yayin: 2027-04-17 17:30
+kategori: gubreleme
+baslik: Fidelerim gübre sonrası kenardan kurudu, ne yaptım?
+metin: Gübre verdikten iki gün sonra fidelerin yaprak kenarları kahverengileşti. Ne oldu?
+@cevap Hatice Kübra Çelik | 2
+Büyük olasılıkla gübre yakması; doz fazla ya da gübre yaprağa değmiş olabilir. Saksı ya da toprak yüzeyini bol suyla yıkayın, gübreyi bir süre kesin ve yanmış yaprakları hemen koparmayın. Sonraki seferde etiket dozunun yarısıyla başlayın ve gübreyi nemli toprağa, yapraktan uzak verin.

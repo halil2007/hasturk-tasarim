@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "not": "Yorum metinleri değiştirilmez. Ad: ilk ad + soyadın baş harfi; il yok. sayfalar: yorumların altında gösterileceği kategori sayfası adresleri (dört yorum yan yana).",
+  "sayfalar": [
+    "sera-iskeletleri",
+    "arac-garaj-golgelikleri"
+  ],
+  "yorumlar": [
+    {
+      "ad": "Furkan T.",
+      "yildiz": 5,
+      "urun": "Likya Sera (iki kapılı)",
+      "foto": "gorsel/yorum-likya-sera.webp",
+      "alt": "Çim zeminde beton ayaklı galvaniz Likya sera iskeleti, arkada yeşil çit",
+      "yorum": "Bahçemize daha önce internetten Çin malı bir sera almıştık ama en fazla bir ay dayanabildi, çok kalitesizdi. Daha sonra Instagram'da firmayı gördük. Likya serisi bir sera modeline iki kapı eklettik; firmalarından kendimiz gidip aldık, seramızı 2 saatte hazırladılar. 2 kişi 45 dakikada kurduk. Beklediğimizden çok daha kaliteli, çok teşekkür ederiz."
+    },
+    {
+      "ad": "Yalçın O.",
+      "yildiz": 5,
+      "urun": "Olimpos Sera 1,58 × 2,35 m",
+      "foto": "gorsel/yorum-olimpos-sera.webp",
+      "alt": "Bahçede kurulu galvaniz Olimpos sera iskeleti, gün batımı ışığında",
+      "yorum": "Bahçede kullanmak için Olimpos serisi bir sera siparişi verdik. Göründüğünden daha büyükmüş, tam istediğim gibi oldu. Kalitesinden biraz şüpheliydim ama beklentimin çok üstünde çıktı."
+    },
+    {
+      "ad": "Taner K.",
+      "yildiz": 5,
+      "urun": "Özel tasarım araç gölgeliği",
+      "foto": "gorsel/yorum-arac-golgeligi.webp",
+      "alt": "Evin önünde kurulu galvaniz araç gölgeliği iskeletinin altında park etmiş araç",
+      "yorum": "Firmadan evimin önüne aracım için bir gölgelik garaj istedim. Özel tasarım olarak hemen ilgilendiler, aynı gün kargolayıp gönderdiler. Gayet sağlam geldi, 2 kişi yarım saatte kurduk. Çok teşekkür ederiz."
+    },
+    {
+      "ad": "Kemal A.",
+      "yildiz": 5,
+      "urun": "Aspendos Sera",
+      "foto": "gorsel/yorum-aspendos-sera.webp",
+      "alt": "Bahçede zemine serilmiş örtünün üzerinde kurulu galvaniz Aspendos sera iskeleti",
+      "yorum": "Bahçeme Aspendos sera aldım. Zemine ekstra 2 kayıt daha eklettirdim; sağ olsunlar, ücret almadan ekleyip aynı gün kargoladılar. İçine bir de sera masası aldım, onu kurduktan sonra fotoğrafını eklerim."
+    }
+  ]
+}

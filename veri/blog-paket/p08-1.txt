@@ -1,0 +1,981 @@
+### YAZI
+slug: antraknoz
+baslik: Antraknoz: Yapraklarda Çöken Lekeler, Meyvelerde Kararan Çukurlar
+yayin: 2026-11-30 07:15
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: antraknoz
+seo_baslik: Antraknoz Nedir? Belirtileri, Yayılması ve Korunma Yolları
+seo_aciklama: Antraknoz nedir? Fasulye, domates, biber, ceviz ve süs bitkilerinde çöken lekelerin nedeni, yağmurla yayılması ve kimyasal öncesi bahçe önlemleri.
+ozet: Yaprakta kenarı koyu, ortası çökmüş lekeler; meyvede yumuşayıp kararan çukurlar... Bu tablo çoğu zaman antraknoz adı verilen mantar hastalığına işaret eder. Hangi bitkilerde görüldüğünü, nasıl yayıldığını ve bahçede nasıl önlenebileceğini anlatıyoruz.
+etiketler: antraknoz, mantar hastalıkları, yaprak lekesi, meyve çürüklüğü, bahçe hastalıkları
+gorsel: p8-antraknoz
+gorsel_alt: Antraknoz nedeniyle yaprak üzerinde oluşmuş koyu kenarlı lekeler
+urunler: hasturk-kati-solucan-gubresi, budama-makasi, hg-fide-topragi
+kisaca: Antraknoz, yapraklarda, gövdede ve meyvelerde koyu kenarlı, ortası çökük lekeler oluşturan bir grup mantar hastalığının ortak adıdır. Fasulye, domates, biber, kabakgiller, ceviz, çınar ve pek çok süs bitkisinde görülür. Yağmur damlası ve yağmurlama sulamayla yayılır; hastalıklı artıkların temizlenmesi, dipten sulama ve temiz tohum en etkili önlemlerdir.
+@govde
+Antraknoz, bahçelerde en sık karşılaşılan ama adı en az bilinen hastalıklardan biridir. Yaz sonunda fasulye baklalarında beliren kahverengi çukurlar, olgunlaşan domateslerde içe çöken yuvarlak lekeler, ilkbaharda yaprakları vaktinden önce dökülen bir çınar ya da cevizin kararan yaprakları... Bunların hepsi, farklı bitkilerde aynı ada sahip bir hastalık grubunun belirtileri olabilir. Bu yazıda antraknozun ne olduğunu, hangi bitkilerde nasıl göründüğünü, neden bazı yıllar çok yaygınlaştığını ve bahçede kimyasala başvurmadan önce alınabilecek önlemleri anlatıyoruz.
+
+## Antraknoz nedir?
+
+Antraknoz, tek bir hastalığın değil, benzer belirtiler oluşturan bir grup mantar hastalığının ortak adıdır. Kelime, Yunanca "kömür" anlamına gelen bir kökten gelir ve hastalığın oluşturduğu koyu, yanık görünümlü lekeleri anlatır. Bu hastalıkların çoğuna aynı mantar cinsine ait türler neden olur; ceviz ve çınar gibi ağaçlarda ise başka mantarlar benzer tablolar oluşturur.
+
+Antraknozun tipik özelliği, lekelerin dokunun içine doğru çökmesidir. Lekeler genellikle yuvarlak ya da düzensizdir, kenarları koyu kahverengi ya da siyahtır. Nemli havalarda lekelerin ortasında pembe, turuncu ya da somon renginde küçük, yapışkan kümeler görülebilir. Bu kümeler, mantarın yağmur damlalarıyla yayılan sporlarıdır.
+
+## Hangi bitkilerde görülür?
+
+**Fasulye:** Baklalarda kenarı koyu, ortası çökük kahverengi lekeler ve yaprak damarlarında koyulaşma görülür. Hastalıklı baklalardaki tohumlar da bulaşık olur ve hastalığı bir sonraki yıla taşır.
+
+**Domates ve biber:** Hastalık genellikle olgunlaşan meyvelerde ortaya çıkar. Önce küçük, su emmiş gibi görünen yuvarlak lekeler oluşur; bunlar büyüdükçe içe çöker ve ortası koyulaşır. Yeşil meyvelerde belirti vermeyip olgunlaşmada ortaya çıkması, hasat dönemini riskli hâle getirir. Domatesin diğer sorunları için [domates hastalıkları](/domates-hastaliklari), biber için ise [biber hastalıkları](/biber-hastaliklari) yazımıza göz atabilirsiniz.
+
+**Kabakgiller:** Salatalık, kavun ve karpuzda yapraklarda açık kahverengi, zamanla ortası dökülerek delinen lekeler; meyvelerde ise çökük, koyu çukurlar oluşur. [Salatalık hastalıkları](/salatalik-hastaliklari) yazımızda bu grubun diğer hastalıklarını da ele aldık.
+
+**Ağaçlar:** Ceviz, çınar, dişbudak ve meşe gibi ağaçlarda yaprak antraknozu ilkbaharın serin ve yağışlı geçtiği yıllarda yaygınlaşır. Yapraklarda damarlar boyunca kahverengi lekeler oluşur, yapraklar kıvrılır ve erken dökülür. Genç sürgünler kuruyabilir.
+
+**Süs bitkileri:** Ortanca, kamelya ve bazı salon bitkilerinde de yapraklarda koyu, kenarları belirgin lekeler şeklinde görülebilir.
+
+## Antraknoz nasıl yayılır?
+
+Antraknoza neden olan mantarlar, hastalıklı bitki artıklarında, dökülen yapraklarda, mumyalaşmış meyvelerde, dal yaralarında ve bulaşık tohumlarda kışı geçirir. İlkbaharda ya da yaz yağmurlarında, sporlar yağmur damlalarının sıçramasıyla yakındaki yaprak ve meyvelere taşınır. Islak yüzeyde çimlenen sporlar dokuya girer ve birkaç gün içinde yeni lekeler oluşur.
+
+Hastalığın yayılması için iki koşul belirleyicidir:
+
+- **Islaklık süresi:** Yaprak ve meyvelerin uzun süre ıslak kalması. Yağmurlu dönemler, sisli sabahlar ve akşam yapılan yağmurlama sulama bu süreyi uzatır.
+- **Ilık sıcaklık:** Pek çok antraknoz türü ılık ve nemli havada en hızlı gelişir. Ağaç antraknozları ise daha serin ilkbahar yağmurlarını sever.
+
+Bu nedenle antraknoz, kurak yıllarda neredeyse hiç görülmezken yağışlı bir yazda ya da sık sulanan bir sebze bahçesinde birden yaygınlaşabilir.
+
+## Benzer hastalıklardan nasıl ayırt edilir?
+
+Antraknoz lekeleri, diğer yaprak lekesi hastalıklarıyla karıştırılabilir. Ayırt edici işaretler şunlardır:
+
+- Lekelerin dokunun içine çökmesi, özellikle meyvelerde belirgin çukurlar oluşması,
+- Nemli havada lekelerin ortasında pembe-turuncu, yapışkan spor kümeleri görülmesi,
+- Ağaçlarda lekelerin yaprak damarlarını izlemesi.
+
+Yaprağın alt yüzünde gri-mor küf varsa mildiyö, turuncu kabarcıklar varsa pas hastalığı daha olasıdır. Bu hastalıkların belirtilerini [mildiyö nedir](/mildiyo-nedir) ve [pas hastalığı](/pas-hastaligi) yazılarımızda anlattık.
+
+## Antraknoza karşı bahçe önlemleri
+
+Antraknozla mücadelenin temeli, mantarın kışı geçirdiği kaynakları azaltmak ve yaprakların ıslak kalma süresini kısaltmaktır.
+
+**Bahçe temizliği:** Sonbaharda dökülen hastalıklı yaprakları, mumyalaşmış meyveleri ve sebze artıklarını toplayıp bahçeden uzaklaştırın. Bu artıkları kompost yığınına atmayın; ev kompostu çoğu zaman mantarları öldürecek kadar ısınmaz.
+
+**Budama:** Ağaçlarda ve çalılarda kurumuş, lekeli dalları kış budamasında kesin. Tacı seyreltmek, yağmurdan sonra yaprakların daha çabuk kurumasını sağlar. Kesimden sonra makasın ağzını silmek hastalığın taşınmasını önler.
+
+[ürün:budama-makasi]
+
+Budamanın zamanı ve tekniği için [kış budaması](/kis-budamasi) yazımıza göz atabilirsiniz.
+
+**Sulama:** Sebze bahçesinde yağmurlama yerine damla sulama ya da dipten sulama yapın. Sulamayı sabah saatlerinde yapmak, yaprakların gün içinde kurumasını sağlar.
+
+**Temiz tohum ve fide:** Fasulye gibi tohumla taşınan antraknozlarda, hastalıklı bitkilerden tohum saklamayın. Fide yetiştirirken temiz, hastalık etmeninden arındırılmış fide toprağı kullanın.
+
+[ürün:hg-fide-topragi]
+
+**Ekim nöbeti:** Aynı bitki ailesini aynı yere üst üste ekmemek, topraktaki ve artıklardaki mantar yükünü azaltır.
+
+**Malç:** Bitkilerin dibine serilen malç, yağmur damlalarının topraktan yapraklara sıçramasını azaltır. Özellikle domates ve kabakgillerde meyvelerin toprağa değmemesi de önemlidir.
+
+## Sağlıklı toprak, dirençli bitki
+
+İyi beslenmiş, stressiz bitkiler hastalıklara karşı daha dirençlidir. Aşırı azotlu gübreleme ise yumuşak, sulu dokular oluşturarak mantarların işini kolaylaştırır. Toprağın organik maddece zengin tutulması, kök gelişimini ve bitkinin genel direncini destekler.
+
+## Kimyasal mücadele ne zaman düşünülmeli?
+
+Bahçede antraknoz bazı yıllar o kadar yaygınlaşabilir ki kültürel önlemler yetersiz kalabilir. Böyle durumlarda kullanılacak bitki koruma ürününün türü, zamanı ve dozu bitkiye, bölgeye ve hasat zamanına göre değişir. Doğru teşhis ve uygulama planı için müşteri hizmetlerimize danışmanızı öneririz. Bahçede yapılacak her uygulamada ürün etiketindeki talimatlara ve hasat öncesi bekleme sürelerine mutlaka uyulmalıdır.
+
+## Mevsim mevsim antraknoz takvimi
+
+- **Kış:** Hastalıklı dalları budayın, dökülen yaprakları ve mumyalaşmış meyveleri temizleyin.
+- **İlkbahar:** Ağaç yapraklarını yağışlı dönemlerden sonra kontrol edin. Sebze ekiminde temiz tohum kullanın.
+- **Yaz:** Dipten sulayın, malç serin, olgun meyveleri zamanında toplayın.
+- **Sonbahar:** Hasat sonrası bitki artıklarını bahçeden uzaklaştırın.
+
+Antraknoz, nemli yılların hastalığıdır ve çoğu zaman bahçedeki küçük alışkanlıklarla kontrol altına alınabilir. Temiz bir bahçe, havadar bitkiler ve kuru yapraklar, bu hastalığa karşı en güçlü savunmanızdır.
+@sss
+S: Antraknoz nasıl anlaşılır?
+C: Yaprak, gövde ve meyvelerde kenarı koyu, ortası çökük lekeler oluşur. Nemli havada lekelerin ortasında pembe-turuncu, yapışkan spor kümeleri görülebilir. Meyvelerde içe çöken koyu çukurlar tipiktir.
+
+S: Antraknoz hangi bitkilerde görülür?
+C: Fasulye, domates, biber, salatalık, kavun ve karpuz gibi sebzelerde; ceviz, çınar ve dişbudak gibi ağaçlarda; ortanca ve kamelya gibi süs bitkilerinde görülür.
+
+S: Antraknozdan korunmak için ne yapılmalı?
+C: Hastalıklı yaprak ve meyveleri bahçeden uzaklaştırmak, yağmurlama yerine dipten sulamak, temiz tohum kullanmak, ekim nöbeti uygulamak ve ağaçlarda tacı seyreltmek en etkili önlemlerdir.
+
+### YAZI
+slug: bahce-defteri
+baslik: Bahçe Defteri: Her Yıl Daha İyi Bir Hasat İçin Not Tutmanın Gücü
+yayin: 2026-11-30 08:35
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: bahçe defteri
+seo_baslik: Bahçe Defteri Nasıl Tutulur? Ekim, Hasat ve Hata Kayıtları
+seo_aciklama: Bahçe defteri nasıl tutulur? Ekim tarihleri, çeşitler, hava, gübre, hastalık ve hasat kayıtları; bahçe krokisi, ekim nöbeti ve kışın plan yapma.
+ozet: Hangi domatesi nereye ektiğinizi, gübreyi ne zaman verdiğinizi ya da ilk donun hangi gün geldiğini bir yıl sonra hatırlamak zordur. Kışın başlamak için ideal olan bahçe defterinin nasıl tutulacağını ve hangi kayıtların gerçekten işe yaradığını anlatıyoruz.
+etiketler: bahçe defteri, bahçe planı, ekim takvimi, ekim nöbeti, bahçe kayıtları
+gorsel: p8-bahce-defteri
+gorsel_alt: Bahçe yataklarının planı çizilmiş açık bir defter, kalem ve tohum paketleri (çizim)
+urunler: organik-toprak, altinvadi-arapsaci-marul-tohumu-kivircik
+kisaca: Bahçe defteri, ekim ve dikim tarihlerini, kullanılan çeşitleri, gübreleme ve sulamayı, hava olaylarını, hastalıkları ve hasat miktarlarını kaydettiğiniz kişisel bir rehberdir. Her yıl tekrarlanan hataları önler, ekim nöbetini kolaylaştırır ve bölgenize özgü bir takvim oluşturur. En uygun başlangıç zamanı, bahçenin dinlendiği kış aylarıdır.
+@govde
+Her bahçe sahibinin en az bir kez yaşadığı bir an vardır: İlkbaharda tohum paketlerinin başında durup "Geçen yıl hangi domates çok güzel olmuştu?" ya da "Marulu ne zaman ekmiştim de hemen tohuma kaçmıştı?" diye düşünmek. Bahçe defteri, bu soruların cevabını hafızaya değil kâğıda emanet etmenin en basit yoludur. Birkaç yıl düzenli tutulan bir defter, hiçbir kitabın veremeyeceği bir bilgi sunar: kendi bahçenizin, kendi toprağınızın ve kendi iklim koşullarınızın hikâyesini. Bu yazıda bir bahçe defterinin nasıl tutulacağını, neleri kaydetmeniz gerektiğini ve bu kayıtları bir sonraki yılın planına nasıl dönüştüreceğinizi anlatıyoruz.
+
+## Bahçe defteri neden işe yarar?
+
+Bahçecilik, deneme ve gözlemle öğrenilen bir iştir. Ancak gözlemlerin değeri, hatırlanabildikleri sürecedir. Bir bahçe defteri:
+
+- Hangi çeşitlerin bahçenizde iyi sonuç verdiğini, hangilerinin hayal kırıklığı yarattığını gösterir.
+- Bölgenizdeki son ve ilk don tarihlerini, yağışlı ve kurak dönemleri kayıt altına alır.
+- Ekim nöbetini planlamayı kolaylaştırır; hangi bitkinin geçen yıl hangi yatakta olduğunu unutmazsınız.
+- Hastalık ve zararlıların hangi dönemlerde ortaya çıktığını gösterir, böylece bir sonraki yıl önceden hazırlıklı olursunuz.
+- Gübre ve malzeme harcamalarını takip etmenizi sağlar.
+
+Birkaç yıl sonra defteriniz, bölgenize özgü kişisel bir ekim takvimine dönüşür.
+
+## Bahçe defteri için neler gerekir?
+
+Bahçe defteri için pahalı bir malzeme gerekmez. Basit, dayanıklı kapaklı bir defter yeterlidir. Bazı bahçeciler her yıl için ayrı bir defter tutar, bazıları ise yıllar boyunca aynı deftere devam eder. Kareli sayfalar bahçe krokisi çizmeyi kolaylaştırır. Defterin yanına bir kalem, birkaç renkli kalem ve tohum paketlerini saklamak için bir zarf eklemek işinizi kolaylaştırır.
+
+Defteri telefonda ya da bilgisayarda tutmayı tercih edenler de olabilir. Önemli olan biçim değil, düzenli tutmaktır. Ancak bahçede eliniz topraklıyken hızlıca not almak için kâğıt defter çoğu zaman daha pratiktir.
+
+## Bahçe krokisi: ilk sayfa
+
+Defterin ilk sayfalarına bahçenizin basit bir krokisini çizin. Yatakları, ağaçları, saksı gruplarını, su musluğunu ve gölgede kalan alanları işaretleyin. Her yatağa bir numara ya da harf verin. Her yıl bu krokinin bir kopyasına, hangi yatakta neyin yetiştiğini yazın. Birkaç yıl sonra bu krokiler, ekim nöbeti planlamanın en kolay aracı olur.
+
+Ekim nöbetinin mantığını [ekim nöbeti](/ekim-nobeti) yazımızda, bahçe yataklarının yerleşimini ise [sebze bahçesi planı](/sebze-bahcesi-plani) yazımızda anlattık.
+
+## Bahçe defterine neler yazılır?
+
+**Ekim ve dikim kayıtları:** Tohumun ya da fidenin adı, çeşidi, nereden alındığı, ekim tarihi, ekim yeri ve derinliği. Tohumların ne zaman çimlendiğini de not edin. Ekim derinlikleri için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazımız yardımcı olabilir.
+
+**Hava kayıtları:** İlk ve son don tarihleri, uzun süren yağışlar, sıcak dalgaları, dolu ve sert rüzgârlar. Bu kayıtlar birkaç yıl içinde bölgenizin gerçek ekim takvimini ortaya çıkarır.
+
+**Gübreleme ve toprak işleri:** Ne zaman, hangi gübre, ne kadar verildi? Toprağa kompost ya da organik madde eklendi mi? Toprak analizi yapıldıysa sonuçları da deftere ekleyin.
+
+[ürün:organik-toprak]
+
+**Sulama:** Özellikle kurak yazlarda sulama sıklığını ve bitkilerin tepkisini not etmek, bir sonraki yaz sulama düzenini kurmayı kolaylaştırır.
+
+**Hastalık ve zararlılar:** Hangi bitkide, hangi tarihte, hangi belirti görüldü? Ne yapıldı ve sonuç ne oldu?
+
+**Hasat:** İlk ve son hasat tarihleri, hasat miktarı ve lezzet hakkında kısa bir not. "Çok verimli ama tatsız" ya da "az verdi ama çok lezzetli" gibi notlar, bir sonraki yıl çeşit seçerken çok işe yarar.
+
+**Başarılar ve hatalar:** Bahçe defterinin belki de en değerli kısmı budur. "Marulu nisanın sonunda ekmek geç oldu, hemen tohuma kaçtı" gibi kısa bir not, bir sonraki yıl aynı hatanın tekrarlanmasını önler.
+
+## Tohum paketlerini saklayın
+
+Kullandığınız tohum paketlerini defterin arkasındaki bir zarfta saklayın ya da paketin bir fotoğrafını çekip ilgili sayfaya not edin. Paketin üzerindeki çeşit adı, ekim zamanı ve olgunlaşma süresi gibi bilgiler, bir sonraki yıl aynı çeşidi bulmanızı kolaylaştırır. Kendi tohumunuzu saklıyorsanız, hangi bitkiden ve hangi yıl toplandığını mutlaka yazın. Tohum saklamanın inceliklerini [ata tohumu saklama](/ata-tohumu-saklama) yazımızda anlattık.
+
+## Kış: defterle plan yapma zamanı
+
+Kasım ve aralık ayları, bahçe defterini açıp geçen yılı değerlendirmek için en uygun zamandır. Bahçe dinlenirken şu soruları sorun:
+
+1. Hangi çeşitler iyi sonuç verdi, hangilerini bir daha ekmeyeceğim?
+2. Hangi bitkiler çok erken ya da çok geç ekildi?
+3. Hangi yatak geçen yıl hangi bitki ailesine aitti; bu yıl oraya ne ekmeliyim?
+4. Hangi hastalık ve zararlılar sorun oldu; bu yıl ne yapabilirim?
+5. Hangi tohum ve malzemeleri şimdiden temin etmeliyim?
+
+Bu soruların cevapları, ilkbahar için net bir ekim listesine ve takvimine dönüşür. Örneğin geçen yıl erken ekildiği için tohuma kaçan marulu bu yıl biraz daha erken, serin dönemde ekmeyi planlayabilirsiniz.
+
+[ürün:altinvadi-arapsaci-marul-tohumu-kivircik]
+
+Kış aylarında bahçede yapılacak işlerin listesi için [aralık ayında bahçede yapılacaklar](/aralik-ayinda-bahcede-yapilacaklar) yazımıza göz atabilirsiniz.
+
+## Defteri sürdürülebilir kılmak için ipuçları
+
+- **Kısa yazın.** Uzun cümleler yerine tarih ve birkaç kelimelik notlar yeterlidir.
+- **Düzenli yazın.** Haftada bir, örneğin her pazar akşamı, beş dakikalık bir not alışkanlığı edinin.
+- **Fotoğraf ekleyin.** Telefonla çektiğiniz fotoğrafların tarihlerini deftere not etmek, görsel bir kayıt oluşturur.
+- **Çocukları dahil edin.** Çocuklar için bahçe defteri, gözlem ve yazma alışkanlığı kazandıran eğlenceli bir etkinliktir.
+
+## Defterin size kazandıracakları
+
+Düzenli tutulan bir bahçe defteri, ilk yıl küçük bir alışkanlık gibi görünür. İkinci yıl, geçen yılın notlarına bakarak daha doğru kararlar verdiğinizi fark edersiniz. Üçüncü yıl ise defteriniz, bahçenizi en iyi tanıyan rehbere dönüşür. Gereksiz tohum ve gübre alımları azalır, tekrarlanan hatalar ortadan kalkar ve her yıl biraz daha bereketli bir hasat alırsınız.
+
+Bahçe defteri, toprağa harcadığınız emeğin hafızasıdır. Bu kış bir defter açın, geçen yılın hatırladıklarınızı yazın ve ilkbahara bir planla girin.
+@sss
+S: Bahçe defterine neler yazılır?
+C: Ekim ve dikim tarihleri, kullanılan çeşitler, gübreleme ve sulama, hava olayları, hastalık ve zararlılar, hasat tarihleri ve miktarları ile başarılı ve başarısız denemeler yazılır.
+
+S: Bahçe defteri tutmaya ne zaman başlanır?
+C: En uygun zaman bahçenin dinlendiği kış aylarıdır. Bu dönemde geçen yılı değerlendirip ilkbahar için ekim listesi ve takvimi hazırlanabilir.
+
+S: Bahçe krokisi neden önemlidir?
+C: Krokiye her yıl hangi yatakta neyin yetiştiğini yazmak, ekim nöbetini planlamayı kolaylaştırır ve aynı bitki ailesinin aynı yere üst üste ekilmesini önler.
+
+### YAZI
+slug: kaktus-cesitleri
+baslik: Kaktüs Çeşitleri: Evde Kolayca Yetişen 12 Kaktüs ve Bakım Farkları
+yayin: 2026-11-30 09:50
+yazar: Hatice Kübra Çelik
+kategori: bitki-bakimi
+odak: kaktüs çeşitleri
+seo_baslik: Kaktüs Çeşitleri: Evde Yetişen 12 Tür ve Bakım İpuçları
+seo_aciklama: Kaktüs çeşitleri nelerdir? Mammillaria, Echinocactus, Opuntia, Cereus, Gymnocalycium, Noel kaktüsü ve diğer türlerin özellikleri, ışık ve sulama farkları.
+ozet: Kaktüsler yalnızca dikenli yeşil sütunlardan ibaret değildir; minik toplardan dev sütunlara, çiçek açan türlerden ormanda yaşayan sarkan kaktüslere kadar çok geniş bir aileye sahiptir. Evde kolayca yetişen kaktüs çeşitlerini ve bakım farklarını anlatıyoruz.
+etiketler: kaktüs çeşitleri, kaktüs türleri, mammillaria, noel kaktüsü, saksı kaktüsleri
+gorsel: p8-kaktus-cesit
+gorsel_alt: Küçük saksılarda farklı biçimlerde kaktüslerden oluşan bir koleksiyon
+urunler: kaktus-ve-sukulent-topragi, kaktus-sukulent-3lu-dikim-bakim-seti, kaktus-kozalak-yuvarlak-saksi-015l
+kisaca: Kaktüs çeşitleri, çöl kaktüsleri ve orman kaktüsleri olarak iki ana gruba ayrılır. Mammillaria, Echinocactus, Opuntia, Cereus, Gymnocalycium ve Astrophytum gibi çöl kaktüsleri bol ışık ve çok az su ister. Noel kaktüsü gibi orman kaktüsleri ise dolaylı ışık, daha sık sulama ve hafif nemli toprak sever. Tür seçimi bakımı belirler.
+@govde
+Kaktüsler, çoğumuzun ilk bitkisidir. Bir masa köşesinde, bir pencere önünde ya da bir hediye paketinin içinde evimize giren bu dayanıklı bitkiler, az bakımla yıllarca yaşayabilir. Ancak kaktüs çeşitleri sanıldığından çok daha fazladır ve her biri birbirinden farklı ihtiyaçlara sahiptir. Bir çöl kaktüsüyle tropik ormanda ağaçların üzerinde yaşayan bir kaktüsü aynı şekilde bakmak, bitkilerden birinin mutlaka zarar görmesi demektir. Bu yazıda evde kolayca yetişen kaktüs çeşitlerini, nasıl tanınacaklarını ve bakımlarındaki önemli farkları anlatıyoruz.
+
+## Kaktüsleri sukulentlerden ayıran nedir?
+
+Tüm kaktüsler sukulenttir, yani gövde ya da yapraklarında su depolar; ancak tüm sukulentler kaktüs değildir. Kaktüsleri diğer sukulentlerden ayıran en önemli özellik, "areol" adı verilen küçük, yastık gibi yapılardır. Dikenler, tüyler, çiçekler ve yeni dallar bu areollerden çıkar. Aloe, eçeverya ve paşa kılıcı gibi sukulentlerde areol bulunmaz. Kaktüs dışındaki sukulentler için [sukulent çeşitleri](/sukulent-cesitleri) yazımıza göz atabilirsiniz.
+
+## İki büyük grup: çöl kaktüsleri ve orman kaktüsleri
+
+**Çöl kaktüsleri,** Amerika kıtasının kurak bölgelerinden gelir. Bol güneş, çok iyi süzülen toprak ve seyrek sulama isterler. Evlerimizdeki kaktüslerin büyük çoğunluğu bu gruptadır.
+
+**Orman kaktüsleri** ise tropik ormanlarda, ağaç dallarının üzerinde ya da kayalıklarda yaşar. Doğrudan güneşi sevmez, daha sık sulama ve nemli bir ortam ister. Noel kaktüsü ve benzerleri bu gruptadır.
+
+## Evde yetişen başlıca kaktüs çeşitleri
+
+**1. Mammillaria:** Belki de en sevilen kaktüs cinsidir. Küçük, yuvarlak ya da silindirik gövdeleri ve gövdenin tepesinde taç gibi dizilen pembe, beyaz ya da sarı çiçekleriyle tanınır. Yüzlerce türü vardır; pek çoğu küçük saksılarda kolayca çiçek açar.
+
+**2. Echinocactus (altın top kaktüsü):** İri, yuvarlak gövdesi ve altın sarısı dikenleriyle gösterişli bir kaktüstür. Çok yavaş büyür ve bol güneş ister.
+
+**3. Opuntia (kulak kaktüsü):** Yassı, kulak şeklindeki gövde parçalarıyla tanınır. Bazı türlerinde ince, tüy gibi dikencikler bulunur; bunlar cilde kolayca batar, dokunurken dikkatli olun. Ülkemizde kıyı bölgelerinde bahçelerde de yetişen türleri vardır.
+
+**4. Cereus (sütun kaktüsü):** Dik, sütun gibi uzayan gövdeleriyle salonlara heykel gibi bir görünüm kazandırır. Hızlı büyür ve yıllar içinde tavana kadar uzanabilir.
+
+**5. Gymnocalycium:** Küçük, yuvarlak gövdeli, kolay çiçek açan kaktüslerdir. Diğer çöl kaktüslerine göre biraz daha az ışıkta yaşayabilir. Renkli tepeli aşılı kaktüslerin üst kısmı da çoğunlukla bu cinsten gelir.
+
+**6. Astrophytum (yıldız kaktüsü):** Dikensiz ya da az dikenli, beyaz beneklerle süslü, yıldız ya da piskopos şapkası biçimli gövdeleriyle koleksiyonların gözdesidir. Sulamaya karşı hassastır.
+
+**7. Echinopsis:** Küçük, yuvarlak gövdelerine göre çok büyük, borazan biçimli çiçekler açar. Çiçekler genellikle yalnızca bir iki gün açık kalır ama çok etkileyicidir.
+
+**8. Rebutia:** Minik gövdelerinin dibinden turuncu, kırmızı ya da sarı çiçekler açan, kolay yetişen bir kaktüstür. Çiçeklenmesi için kışın serin bir dinlenme dönemi ister.
+
+**9. Ferocactus:** Kalın, kancalı ve renkli dikenleriyle dikkat çeken, yuvarlak gövdeli bir çöl kaktüsüdür.
+
+**10. Cleistocactus:** İnce, beyaz tüylü sütunlarıyla yumuşak bir görünüme sahiptir; tüylerin altında yine dikenler bulunur.
+
+**11. Noel kaktüsü (Schlumbergera):** Yassı, eklemli dalları ve kış başında açan pembe, kırmızı ya da beyaz çiçekleriyle bir orman kaktüsüdür. Kısa gün ve serin gecelerle tomurcuk bağlar.
+
+**12. Rhipsalis:** İnce, sarkan dallarıyla askılı saksılar için ideal bir orman kaktüsüdür. Çoğu türü dikensizdir.
+
+## Kaktüs çeşitleri arasındaki bakım farkları
+
+| Özellik | Çöl kaktüsleri | Orman kaktüsleri |
+| --- | --- | --- |
+| Işık | Bol, doğrudan güneş | Parlak ama dolaylı ışık |
+| Sulama (yaz) | Toprak tamamen kuruyunca | Toprağın üstü kuruyunca |
+| Sulama (kış) | Çok seyrek ya da hiç | Azaltılmış ama düzenli |
+| Toprak | Çok süzek, kumlu-mineralli | Süzek ama organik maddeli |
+| Kış sıcaklığı | Serin dinlenme (5-12 °C) | Oda sıcaklığı, serin geceler |
+
+## Toprak ve saksı
+
+Çöl kaktüsleri için toprağın en önemli özelliği hızla süzülmesidir. Kaktüs ve sukulentler için hazırlanmış karışımlar, perlit, pomza ya da iri kum gibi mineral katkılar sayesinde suyu tutmaz ve köklerin çürümesini önler.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+Saksı seçiminde drenaj deliği şarttır. Küçük kaktüsler için kök kütlesine uygun küçük saksılar yeterlidir; çok büyük saksıdaki fazla toprak uzun süre ıslak kalır.
+
+[ürün:kaktus-kozalak-yuvarlak-saksi-015l]
+
+Yeni başlayanlar için toprak, saksı ve besinin bir arada sunulduğu setler pratik bir başlangıç sağlar.
+
+## Kaktüslerin çiçek açması
+
+Pek çok çöl kaktüsü, ilkbaharda çiçek açabilmek için kışın serin, kuru ve aydınlık bir dinlenme dönemine ihtiyaç duyar. Kışı sıcak bir salonda ve düzenli sulanarak geçiren kaktüsler genellikle çiçek açmaz. Kaktüsleri çiçeklendirmenin inceliklerini [kaktüs çiçek açtırma](/kaktus-cicek-actirma) yazımızda, genel bakım kurallarını ise [kaktüs bakımı](/kaktus-bakimi-sulama-isik-ve-toprak) yazımızda anlattık.
+
+## Kaktüslerde sık yapılan bakım hataları
+
+Kaktüslerin dayanıklı olduğu doğrudur, ama bu ün çoğu zaman yanlış bakıma yol açar. En sık yapılan hata, kaktüsü "hiç su istemez" düşüncesiyle aylarca susuz bırakmak ya da tam tersine diğer salon bitkileriyle birlikte her hafta sulamaktır. Çöl kaktüsleri yaz aylarında toprak tamamen kuruduğunda bol su ister, kışın ise neredeyse hiç sulanmaz. İkinci yaygın hata, kaktüsü ışıksız bir masa köşesine koymaktır; ışık alamayan kaktüs incelir, solgunlaşır ve ışığa doğru eğilerek biçimini kaybeder. Üçüncü hata ise saksı değişimini yıllarca ertelemektir. Toprak zamanla yorulur, sıkışır ve su geçirgenliğini kaybeder; iki üç yılda bir taze kaktüs toprağına almak kökleri sağlıklı tutar. Saksı değişimi sırasında kalın bir eldiven ya da katlanmış bir gazete şeridi, dikenlerden korunmanın en kolay yoludur.
+
+## Kaktüs seçerken dikkat edilecekler
+
+- **Işık koşulunuza uygun tür seçin.** Güneş almayan bir köşe için çöl kaktüsü yerine Rhipsalis ya da Noel kaktüsü gibi orman kaktüsleri daha uygundur.
+- **Sağlıklı bitki seçin.** Gövdesinde yumuşak, kararmış ya da çökmüş alanlar olan kaktüsleri almayın; bunlar çürümenin işareti olabilir.
+- **Evcil hayvan ve çocukları düşünün.** Sert ve ince dikenli türleri, ulaşılamayacak yüksekliklere koyun.
+- **Boyalı kaktüslerden kaçının.** Bazı satış noktalarında kaktüsler renkli boyalarla ya da yapıştırılmış yapay çiçeklerle süslenir; bu uygulamalar bitkiye zarar verir.
+
+Kaktüs çeşitleri, küçük bir pencere önünü bile birbirinden farklı biçim ve renklerle dolu bir koleksiyona dönüştürebilir. Türünüzü tanıyın, ışığına ve sulamasına göre bakın; kaktüsünüz size yıllarca eşlik etsin.
+@sss
+S: Evde en kolay yetişen kaktüs hangisi?
+C: Mammillaria, Gymnocalycium ve Rebutia küçük boyutları ve kolay çiçeklenmeleriyle yeni başlayanlar için uygundur. Az ışıklı ortamlar için orman kaktüsleri olan Rhipsalis ve Noel kaktüsü daha iyi bir seçimdir.
+
+S: Çöl kaktüsü ile orman kaktüsü arasındaki fark nedir?
+C: Çöl kaktüsleri bol güneş, çok süzek toprak ve seyrek sulama ister. Orman kaktüsleri ise dolaylı ışık, organik maddeli toprak ve daha düzenli sulama sever.
+
+S: Kaktüs ile sukulent arasındaki fark nedir?
+C: Tüm kaktüsler sukulenttir ama tüm sukulentler kaktüs değildir. Kaktüslerde diken, çiçek ve dalların çıktığı areol adı verilen küçük yastıkçıklar bulunur.
+
+### YAZI
+slug: domates-cesitleri
+baslik: Domates Çeşitleri: Pembe, Kiraz, Sırık ve Yer Domatesini Tanımak
+yayin: 2026-11-30 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: domates çeşitleri
+seo_baslik: Domates Çeşitleri: Hangi Domates Nerede ve Neden Yetişir?
+seo_aciklama: Domates çeşitleri nelerdir? Pembe, köy tipi, kiraz, salçalık, sırık ve yer domatesleri; ata tohumu ile hibrit farkı, balkon ve bahçe için çeşit seçimi.
+ozet: Tohum paketlerinin başında hangi domatesi seçeceğinize karar vermek, hasadın kaderini belirler. Büyüme şekline, meyve tipine ve kullanım amacına göre domates çeşitlerini, ata tohumu ile hibrit farkını ve bahçenize uygun seçimi anlatıyoruz.
+etiketler: domates çeşitleri, pembe domates, ata tohumu, sırık domates, kiraz domates
+gorsel: p8-domates-cesit
+gorsel_alt: Farklı renk ve biçimlerde bir araya getirilmiş domates çeşitleri
+urunler: altinvadi-pembe-domates-tohumu-5-gr, arzuman-koy-tipi-domates-tohumu, altinvadi-sirik-domates-tohumu-5-gr, arzuman-msc-50-yer-domatesi-tohumu-5-gr, ayas-beyaz-bodur-domates-ata-tohumu-50-adet
+kisaca: Domates çeşitleri büyüme şekline göre sırık (sürekli uzayan) ve yer (bodur) domatesleri; meyve tipine göre iri sofralık, pembe, köy tipi, salçalık, kiraz ve kokteyl domatesleri olarak ayrılır. Ata tohumları yeniden tohum verirken hibrit tohumlar her yıl yeniden alınmalıdır. Seçimi yetiştirme alanı, iklim ve kullanım amacı belirler.
+@govde
+Kış ayları, ilkbaharın en heyecanlı kararlarından birini vermek için ideal bir zamandır: Bu yıl hangi domatesi yetiştireceğim? Pazarda gördüğümüz iri pembe domatesler, sofraların vazgeçilmezi köy domatesleri, balkonda minik salkımlar hâlinde olgunlaşan kiraz domatesleri ve kışlık salçanın vazgeçilmezi etli domatesler... Domates çeşitleri o kadar çeşitlidir ki doğru seçim, hem bahçenizin koşullarına hem de mutfaktaki ihtiyaçlarınıza bağlıdır. Bu yazıda domates çeşitlerini büyüme şekline, meyve tipine ve tohum türüne göre tanıtıyor, bahçeniz için doğru seçimi yapmanıza yardımcı oluyoruz.
+
+## Büyüme şekline göre domates çeşitleri
+
+Tohum paketinde ilk bakmanız gereken bilgi, domatesin nasıl büyüdüğüdür. Bu özellik, bitkinin ne kadar yer kaplayacağını, nasıl destekleneceğini ve ne kadar süre ürün vereceğini belirler.
+
+**Sırık domatesleri:** Bu çeşitler büyümeyi durdurmaz; gövde uzadıkça yeni çiçek salkımları oluşturur ve sezon boyunca ürün verir. Boyları iki metreyi aşabilir, bu yüzden mutlaka bir sırığa, tele ya da ağa bağlanarak desteklenmeleri gerekir. Düzenli olarak koltuk alınması, yani yaprak koltuklarından çıkan yan sürgünlerin kırılması, bitkinin dengeli büyümesini sağlar. Geniş bahçeler ve uzun hasat dönemi isteyenler için idealdir.
+
+**Yer (bodur) domatesleri:** Belirli bir boya ulaştıktan sonra uçta bir çiçek salkımı oluşturup büyümeyi durdururlar. Daha kompakt kalır, meyvelerini daha kısa bir sürede olgunlaştırır ve genellikle destek gerektirmez ya da az destekle yetinir. Tarlada yetiştiricilik, salçalık üretim ve balkon saksıları için çok uygundur.
+
+[ürün:arzuman-msc-50-yer-domatesi-tohumu-5-gr]
+
+## Meyve tipine göre domates çeşitleri
+
+**Pembe domatesler:** İnce kabuklu, sulu, etli ve tatlı meyveleriyle sofralık domateslerin en sevilenlerindendir. Kabuk ince olduğu için taşımaya ve uzun süre bekletmeye pek dayanmaz; bu yüzden kendi bahçenizde yetiştirmeye en çok değen domateslerdir.
+
+[ürün:altinvadi-pembe-domates-tohumu-5-gr]
+
+**Köy tipi domatesler:** Genellikle dilimli, düzensiz biçimli, iri ve aromatik meyvelere sahiptir. Annelerimizin bahçelerinden hatırladığımız o yoğun domates kokusunu taşırlar.
+
+**Sofralık iri domatesler:** Düzgün yuvarlak, orta ya da iri meyveli, dayanıklı kabuklu çeşitlerdir. Salata ve yemeklik kullanım için çok yönlüdür.
+
+**Salçalık domatesler:** Etli, az çekirdekli ve suyu az olan, genellikle oval ya da uzun meyveli çeşitlerdir. Salça, kurutmalık ve konserve için idealdir; çoğu yer domatesi tipindedir ve ürünlerini kısa sürede topluca olgunlaştırır.
+
+**Kiraz ve kokteyl domatesler:** Küçük, tatlı ve salkım hâlinde meyveler verir. Çok verimli olmaları, kolay yetişmeleri ve saksıya uyum sağlamaları nedeniyle balkon bahçelerinin ve çocukların favorisidir.
+
+**Renkli domatesler:** Sarı, turuncu, mor-siyah ve hatta yeşil olgunlaşan çeşitler, hem görsel hem de lezzet açısından bahçeye çeşitlilik katar.
+
+## Ata tohumu mu, hibrit mi?
+
+Domates çeşitleri tohum türüne göre de ikiye ayrılır ve bu fark, özellikle kendi tohumunu saklamak isteyenler için önemlidir.
+
+**Ata (yerel) tohumları:** Nesiller boyunca seçilerek korunan, açık tozlanan çeşitlerdir. En büyük avantajları, meyvelerinden alınan tohumların bir sonraki yıl aynı özellikte bitkiler vermesidir. Genellikle lezzet ve aroma açısından çok zengindirler; ancak verim ve hastalık dayanıklılığı bakımından hibritler kadar istikrarlı olmayabilirler.
+
+**Hibrit (F1) tohumlar:** İki farklı ebeveynin kontrollü olarak melezlenmesiyle elde edilir. Yüksek verim, düzgün meyve ve bazı hastalıklara dayanıklılık sağlar. Ancak hibrit domatesten alınan tohumlar ana bitkinin özelliklerini korumaz; bu yüzden her yıl yeniden tohum alınması gerekir.
+
+Ata tohumlarının değerini ve korunmasını [ata tohumu nedir](/ata-tohumu-nedir) yazımızda anlattık.
+
+## Domates çeşitleri nasıl seçilir?
+
+**Yetiştirme alanına göre:** Geniş bir bahçeniz varsa sırık domatesleriyle uzun bir hasat dönemi yakalayabilirsiniz. Balkon ve küçük alanlar için yer domatesleri ve kiraz domatesleri daha uygundur. Balkonda domates yetiştirmenin ayrıntıları için [balkonda domates yetiştirme](/balkonda-domates-yetistirme) yazımıza göz atabilirsiniz.
+
+**İklime göre:** Yazları kısa ve serin geçen yüksek rakımlı bölgelerde erken olgunlaşan, kısa sürede hasada gelen çeşitler seçin. Çok sıcak bölgelerde ise sıcakta da meyve bağlayabilen çeşitler daha başarılıdır.
+
+**Kullanım amacına göre:** Taze tüketim için pembe ve köy tipi domatesler, salça ve konserve için salçalık çeşitler, çocuklar ve atıştırmalık için kiraz domatesler idealdir.
+
+**Hastalık geçmişine göre:** Bahçenizde daha önce solgunluk ya da benzeri toprak kaynaklı hastalıklar görüldüyse, bu hastalıklara dayanıklı çeşitleri tercih edin. Domatesin yaygın hastalıklarını [domates hastalıkları](/domates-hastaliklari) yazımızda ele aldık.
+
+## Karışık ekim: risk dağıtmak
+
+Tek bir çeşide bağlı kalmak yerine iki üç farklı domates çeşidi yetiştirmek hem mutfakta çeşitlilik sağlar hem de riski dağıtır. Bir çeşit o yılın koşullarında zorlanırsa diğeri hasadı kurtarabilir. Örneğin bir sırık pembe domates, bir salçalık yer domatesi ve birkaç kiraz domatesi bitkisi, küçük bir aile bahçesi için dengeli bir başlangıçtır.
+
+## Çeşit adı nasıl okunur?
+
+Tohum paketlerinde çeşit adının yanında küçük kısaltmalar ve semboller görürsünüz. "F1" ifadesi tohumun hibrit olduğunu gösterir. Bazı paketlerde harflerle gösterilen dayanıklılık kodları, çeşidin hangi hastalıklara karşı dirençli olduğunu belirtir; özellikle daha önce solgunluk görülen bahçelerde bu kodlara dikkat etmek faydalıdır. Paket üzerindeki "dikimden hasada gün sayısı" bilgisi ise çeşidin ne kadar erken ürün vereceğini gösterir: Kısa süreli çeşitler serin ve yüksek bölgeler için, uzun süreli çeşitler ise sıcak ve uzun yazlı bölgeler için uygundur. Paketin arkasındaki ekim zamanı, bitki aralığı ve büyüme tipi bilgilerini bahçe defterinize not etmek, bir sonraki yıl doğru çeşidi yeniden bulmanızı kolaylaştırır.
+
+## Tohumdan fideye
+
+Seçiminizi yaptıktan sonra domates tohumlarını bahçeye dikimden 6-8 hafta önce evde ekebilirsiniz. Kış aylarında tohumlarınızı temin edip ekim takviminizi planlamak, ilkbaharda zaman kaybetmemenizi sağlar. Ekimden dikime kadar tüm adımları [domates fidesi yetiştirme](/domates-fidesi-yetistirme) yazımızda anlattık. Fidelerinizi bahçeye diktikten sonraki besleme programı için ise [domates gübreleme](/domates-gubreleme) yazımıza göz atabilirsiniz.
+
+Domates çeşitleri arasında doğru seçimi yapmak, iyi bir hasadın ilk adımıdır. Bahçenizin büyüklüğünü, iklimini ve sofranızın ihtiyacını düşünerek seçin; belki de bu yıl, yıllardır aradığınız o eski köy domatesinin tadını yeniden yakalarsınız.
+@sss
+S: Sırık domates ile yer domatesi arasındaki fark nedir?
+C: Sırık domatesler büyümeyi durdurmadan uzar, desteklenmesi gerekir ve sezon boyunca ürün verir. Yer domatesleri belli bir boyda durur, daha kompakt kalır ve ürününü daha kısa sürede topluca olgunlaştırır.
+
+S: Balkonda hangi domates çeşidi yetişir?
+C: Kiraz ve kokteyl domatesleri ile kompakt kalan yer domatesleri balkon saksıları için en uygun çeşitlerdir. Geniş saksı ve bol güneş en önemli koşullardır.
+
+S: Hibrit domatesin tohumu tekrar ekilir mi?
+C: Ekilebilir ama çıkan bitkiler ana bitkinin özelliklerini korumaz. Kendi tohumunu saklamak isteyenler ata tohumu ve açık tozlanan çeşitleri tercih etmelidir.
+
+### YAZI
+slug: bitkilerin-isik-ihtiyaci
+baslik: Bitkilerin Işık İhtiyacı: Az, Orta ve Bol Işığı Evde Doğru Okumak
+yayin: 2026-11-30 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: bitkilerin ışık ihtiyacı
+seo_baslik: Bitkilerin Işık İhtiyacı: Pencere Yönü ve Doğru Yerleşim
+seo_aciklama: Bitkilerin ışık ihtiyacı nasıl anlaşılır? Az, orta ve bol ışık ne demek, pencere yönleri, kış ışığı, ışık eksikliği ve fazlalığının belirtileri.
+ozet: Bitki etiketlerinde yazan "orta ışık" ya da "parlak dolaylı ışık" ifadeleri evimizde tam olarak neye karşılık gelir? Işık türlerini, pencere yönlerine göre yerleşimi, kış aylarında ışığın azalmasını ve ışık sorunlarının belirtilerini anlatıyoruz.
+etiketler: bitkilerin ışık ihtiyacı, salon bitkileri, pencere yönü, az ışık bitkileri, bitki yerleşimi
+gorsel: p8-isik
+gorsel_alt: Pencere kenarında gün ışığı alan saksı bitkileri
+urunler: salon-bitkilerine-ozel-toprak-karisimi, tarm-evergreen-pro-salon-bitkisi-besini-500-ml
+kisaca: Bitkilerin ışık ihtiyacı türden türe değişir ve evdeki ışık, pencereden uzaklaştıkça hızla azalır. Bol ışık doğrudan güneşi, orta ışık parlak ama dolaylı ışığı, az ışık ise pencereden uzak, gölgeli alanları anlatır. Işık azlığı uzama ve solgunlukla, fazlalığı ise yanık lekeleriyle kendini gösterir. Kışın bitkiler pencereye yaklaştırılmalıdır.
+@govde
+Bir salon bitkisinin sağlıklı yaşaması için gereken her şeyin başında ışık gelir. Su, toprak ve gübre ne kadar doğru olursa olsun, yeterli ışık alamayan bir bitki besin üretemez, zayıflar ve zamanla yaprak döker. Ancak bitkilerin ışık ihtiyacı, etiketlerde yazan "orta ışık", "parlak dolaylı ışık" gibi ifadelerle anlatıldığında, bunların evimizde hangi köşeye karşılık geldiğini kestirmek zordur. Bu yazıda ışık türlerini, pencere yönlerine göre bitki yerleşimini, kış aylarında ışığın nasıl değiştiğini ve bitkinin ışıkla ilgili sorunlarını nasıl anlayacağınızı anlatıyoruz.
+
+## Bitkiler ışığı nasıl kullanır?
+
+Bitkiler, yapraklarındaki yeşil pigment sayesinde ışık enerjisini kullanarak havadaki karbondioksit ve topraktaki sudan şeker üretir. Bu sürece fotosentez denir ve bitkinin büyümesi, çiçeklenmesi ve kendini onarması için gereken enerjinin kaynağıdır. Işık azaldığında üretilen enerji de azalır; bitki önce büyümesini yavaşlatır, ardından yaşlı yapraklarını dökerek kendini korumaya çalışır.
+
+İnsan gözü ışık miktarındaki farkları iyi algılayamaz. Pencere önünden odanın ortasına doğru birkaç metre ilerlediğinizde oda size hâlâ aydınlık görünür; ancak bitkinin aldığı ışık bu birkaç metrede onda birine, hatta daha azına düşebilir. Bu nedenle bitkiler için "aydınlık bir oda" ile "aydınlık bir pencere önü" arasında çok büyük fark vardır.
+
+## Işık türleri: etiketler ne anlatıyor?
+
+**Bol ışık (doğrudan güneş):** Günde birkaç saat güneşin doğrudan bitkinin üzerine düştüğü yerler. Güney ve batı pencerelerinin hemen önü bu gruptadır. Kaktüsler, çoğu sukulent, biberiye ve sardunya gibi bitkiler bu ışığı sever.
+
+**Orta ışık (parlak dolaylı ışık):** Gün boyu aydınlık olan ama güneşin doğrudan bitkiye vurmadığı yerler. Tül perde arkası, güney penceresinden bir iki metre uzaklık ya da doğu penceresinin önü bu tanıma uyar. Salon bitkilerinin büyük çoğunluğu, örneğin monstera, kauçuk, barış çiçeği ve dua çiçeği, bu ışıkta en iyi gelişir.
+
+**Az ışık:** Pencereden uzak köşeler, kuzey cepheli odalar ya da gün boyu perdesi kapalı alanlar. Az ışık, ışıksızlık demek değildir; bu alanlarda yalnızca paşa kılıcı, para ağacı ve salon sarmaşığı gibi dayanıklı bitkiler yaşayabilir. Bu bitkilerin listesi için [az ışıkta yaşayan salon bitkileri](/az-isikta-yasayan-salon-bitkileri) yazımıza göz atabilirsiniz.
+
+## Pencere yönlerine göre bitkilerin ışık ihtiyacı
+
+- **Güney cephesi:** Gün boyu en fazla ışığı alır. Yazın öğle güneşi hassas bitkilerin yapraklarını yakabilir; tül perde iyi bir koruma sağlar. Kışın ise evin en değerli köşesidir.
+- **Batı cephesi:** Öğleden sonra sıcak ve güçlü güneş alır. Güneş seven bitkiler için uygundur; hassas türler için hafif perde gerekir.
+- **Doğu cephesi:** Yumuşak sabah güneşi alır. Çoğu salon bitkisi için idealdir.
+- **Kuzey cephesi:** Doğrudan güneş almaz, ışık az ve düzenlidir. Az ışığa dayanıklı bitkiler ve eğrelti otları için uygundur.
+
+Bu yönlerin yanında, pencerenin önündeki binalar, ağaçlar ve balkon çatıları da ışık miktarını önemli ölçüde değiştirir. Aynı yöne bakan iki pencere, çevresine bağlı olarak çok farklı ışık alabilir.
+
+## Işık yetersizliğinin belirtileri
+
+- **Uzama:** Gövde ışığa doğru uzar, boğum araları açılır, bitki seyrek ve cılız görünür.
+- **Işığa doğru eğilme:** Bitki pencere tarafına doğru yatar.
+- **Küçük ve soluk yeni yapraklar:** Yeni yapraklar eskilerden küçük ve açık renkli çıkar.
+- **Alacalılığın kaybolması:** Alacalı yapraklı bitkiler, daha fazla klorofil üretmek için yeşilleşir.
+- **Çiçek açmama:** Çiçekli bitkiler tomurcuk oluşturmaz.
+- **Alt yaprakların dökülmesi:** Bitki, besleyemediği yaşlı yapraklardan kurtulur.
+
+Az ışıkta bitki az su tükettiği için toprak uzun süre ıslak kalır; bu da kök çürüklüğü riskini artırır. Işık yetersizliğinde sulamayı da azaltmak gerekir.
+
+## Işık fazlalığının belirtileri
+
+- Yapraklarda beyazımsı, kahverengi ya da kurumuş yanık lekeleri,
+- Yaprakların solgun, sarımsı ya da bronzlaşmış görünmesi,
+- Yaprak kenarlarının kıvrılması.
+
+Gölgede büyümüş bir bitkiyi birden doğrudan güneşe çıkarmak en sık yanık nedenidir. Bitkileri yeni ışık koşullarına birkaç gün içinde, yavaş yavaş alıştırmak gerekir.
+
+## Kışın ışık nasıl değişir?
+
+Kış aylarında günler kısalır, güneş daha alçaktan gelir ve bulutlu günler artar. Yazın orta ışık alan bir köşe, kışın az ışık alan bir köşeye dönüşebilir. Bu dönemde bitkileri pencereye biraz daha yaklaştırmak, camları temiz tutmak ve yaprakların tozunu silmek önemlidir. Kış aylarında salon bitkilerinin genel bakımı için [kışın salon bitkisi bakımı](/kisin-salon-bitkisi-bakimi) yazımıza göz atabilirsiniz.
+
+Kışın büyümesi yavaşlayan bitkiler daha az besine ve suya ihtiyaç duyar. İlkbaharda ışık arttığında ise beslemeye yeniden başlamak, yeni büyümeyi destekler.
+
+[ürün:tarm-evergreen-pro-salon-bitkisi-besini-500-ml]
+
+## Doğru yerleşim için pratik ipuçları
+
+1. **Yeni bitkinin etiketine bakın.** Işık ihtiyacını not edin ve evinizde buna uygun köşeyi seçin.
+2. **Gölge testi yapın.** Öğle saatlerinde elinizi bitkinin üzerine tutun. Keskin ve net bir gölge oluşuyorsa bol ışık, yumuşak kenarlı bir gölge orta ışık, belli belirsiz bir gölge ise az ışık demektir.
+3. **Saksıyı döndürün.** Birkaç haftada bir saksıyı çeyrek tur döndürmek, bitkinin dengeli büyümesini sağlar.
+4. **Ayna ve açık renkli duvarlardan yararlanın.** Açık renkli yüzeyler ışığı yansıtarak odanın derinliklerine taşır.
+5. **Gerekirse yapay ışık kullanın.** Pencere ışığı yetersizse bitki lambaları iyi bir destek olabilir.
+
+## Toprak ve ışık dengesi
+
+Işık az olduğunda bitkinin su tüketimi azalır; bu yüzden az ışıklı köşelerdeki bitkiler için havadar ve suyu iyi süzen bir toprak seçmek özellikle önemlidir.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+
+Bitkilerin ışık ihtiyacını doğru okumak, salon bitkisi bakımının belki de en önemli adımıdır. Evinizin ışığını tanıyın, bitkinizi ona göre yerleştirin; doğru köşede duran bir bitki, sulama hatalarını bile daha kolay tolere eder. Farklı odalar için bitki önerilerine [yatak odası bitkileri](/yatak-odasi-bitkileri) ve [büyük salon bitkileri](/buyuk-salon-bitkileri) yazılarımızda da göz atabilirsiniz.
+@sss
+S: Orta ışık ne demektir?
+C: Gün boyu aydınlık olan ama güneşin doğrudan bitkiye vurmadığı yerlerdir. Tül perde arkası, doğu penceresinin önü ya da güney penceresinden bir iki metre uzaklık orta ışık sayılır.
+
+S: Bitki ışık almıyorsa nasıl anlaşılır?
+C: Gövde uzar ve incelir, bitki ışığa doğru eğilir, yeni yapraklar küçük ve soluk çıkar, alacalı yapraklar yeşilleşir ve alt yapraklar dökülmeye başlar.
+
+S: Kışın salon bitkileri pencereye yaklaştırılmalı mı?
+C: Evet. Kışın günler kısalır ve ışık azalır; bitkileri pencereye biraz yaklaştırmak faydalıdır. Ancak soğuk cama değmemelerine ve kaloriferin hemen önünde durmamalarına dikkat edilmelidir.
+
+### YAZI
+slug: dua-cicegi-topragi
+baslik: Dua Çiçeği Toprağı: Hep Nemli, Asla Islak Olmayan Bir Karışımın Sırrı
+yayin: 2026-11-30 13:45
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: dua çiçeği toprağı
+seo_baslik: Dua Çiçeği Toprağı: Maranta ve Kalatya İçin Doğru Karışım
+seo_aciklama: Dua çiçeği toprağı nasıl olmalı? Maranta ve kalatyalar için nem tutan ama havadar karışım, pH, saksı seçimi, sulama suyu ve toprak kaynaklı yaprak sorunları.
+ozet: Dua çiçeği, akşamları yapraklarını kaldıran ilginç hareketleri ve desenli yapraklarıyla sevilen ama köklerine hassas bir bitkidir. Bu bitki için toprağın nasıl olması gerektiğini, saksı değişimini ve topraktan kaynaklanan sorunları anlatıyoruz.
+etiketler: dua çiçeği toprağı, maranta, kalatya, salon bitkisi toprağı, saksı değişimi
+gorsel: p8-dua-cicegi
+gorsel_alt: Desenli yapraklarıyla saksıda büyüyen bir dua çiçeği
+urunler: hg-dua-cicegi-saksi-topragi, tarim-perliti, hg-asidik-torf
+kisaca: Dua çiçeği toprağı, köklerini sürekli hafif nemli tutabilecek kadar organik, ama su birikmesini önleyecek kadar havadar olmalıdır. Torf ya da kokopit tabanına perlit ve az miktarda kabuk eklenmiş, hafif asidik bir karışım idealdir. Kireçli musluk suyu toprağı zamanla bozar; saksı değişimi ilkbaharda ve bir boy büyük saksıyla yapılmalıdır.
+@govde
+Dua çiçeği toprağı, bu hassas bitkinin sağlığını belirleyen en önemli etkendir. Dua çiçeği, gün boyu yatay açık duran yapraklarını akşam olunca dua eden eller gibi yukarı kaldırmasıyla tanınır. Desenli, kadife gibi yaprakları ve bu ilginç hareketi, onu salon bitkileri arasında ayrıcalıklı kılar. Ancak dua çiçeği ve yakın akrabası kalatyalar, bakımda en çok zorlanılan bitkiler arasında da yer alır. Yaprak uçlarının kuruması, yaprakların kıvrılması ve sararması gibi sorunların önemli bir kısmının arkasında yanlış toprak ve sulama vardır. Bu yazıda doğru bir dua çiçeği toprağının nasıl olması gerektiğini, saksı seçimini ve topraktan kaynaklanan sorunları anlatıyoruz.
+
+Işık, nem ve genel bakım için [dua çiçeği bakımı](/dua-cicegi-maranta-bakimi) yazımıza göz atabilirsiniz.
+
+## Dua çiçeğinin kökleri neye ihtiyaç duyar?
+
+Dua çiçeği, Güney Amerika'nın tropik ormanlarında, büyük ağaçların gölgesinde, sürekli nemli ama suyu hızla süzen bir orman zemininde yetişir. Kökleri ince ve narindir; ne kurumaya ne de suyun içinde kalmaya dayanabilir. Toprak tamamen kuruduğunda yapraklar kıvrılır ve uçlardan kurur; toprak uzun süre ıslak kaldığında ise kökler çürür, yapraklar sararır ve bitki çöker.
+
+Bu yüzden dua çiçeği toprağı, iki zıt ihtiyacı birlikte karşılamalıdır: köklerin etrafında sürekli hafif bir nem tutmak ve fazla suyu hızla uzaklaştırmak.
+
+## İyi bir dua çiçeği toprağının özellikleri
+
+- **Nem tutma:** Torf ya da kokopit gibi lifli malzemeler, suyu sünger gibi tutarak kökleri nemli tutar.
+- **Havalandırma:** Perlit ve ince kabuk parçaları, toprakta hava boşlukları oluşturur ve sıkışmayı önler.
+- **Hafif asidik yapı:** Dua çiçeği, yaklaşık pH 5,5 ile 6,5 arasındaki topraklarda besinleri en iyi şekilde alır.
+- **Organik madde:** Olgun organik gübre, besinleri yavaş ve dengeli şekilde sunar.
+- **Hafiflik:** İnce kökler, ağır ve sıkışık topraklarda gelişemez.
+
+Bu dengeyi kendiniz kurabileceğiniz gibi, dua çiçeği için hazırlanmış karışımlar da doğru oranlarla işinizi kolaylaştırır.
+
+[ürün:hg-dua-cicegi-saksi-topragi]
+
+## Kendi karışımınızı iyileştirmek
+
+Elinizdeki bir saksı toprağını dua çiçeğine uygun hâle getirmek isterseniz, karışıma perlit ekleyerek havalandırmayı artırabilirsiniz.
+
+[ürün:tarim-perliti]
+
+Toprağın pH değeri yüksekse ya da karışım çok hızlı kuruyorsa, bir miktar asidik torf eklemek hem nem tutmayı hem de asitliği dengeler.
+
+Toprak pH'ının bitkiler üzerindeki etkisini [toprak pH nedir](/toprak-ph-nedir) yazımızda, perlit tane boyutlarının farkını ise [ince ve kalın perlit](/ince-ve-kalin-perlit) yazımızda anlattık.
+
+## Saksı seçimi
+
+Dua çiçeği sığ köklü bir bitkidir ve genişliğine yayılır. Bu yüzden derin saksılar yerine geniş ve sığ saksılar daha uygundur. Derin saksının dibinde kalan toprak, köklerin ulaşamadığı bir su deposuna dönüşür ve çürümeye yol açabilir.
+
+Plastik ve sırlı seramik saksılar nemi daha uzun tutar; dua çiçeği için genellikle pişmiş toprak saksılardan daha uygundur. Ancak hangi saksı kullanılırsa kullanılsın, dibinde drenaj deliği olması şarttır.
+
+## Saksı değişimi
+
+Dua çiçeğinin saksısı genellikle bir iki yılda bir, ilkbaharda değiştirilir. Kökler saksının dibinden çıkmaya başladığında, su toprağa işlemeden akıp gittiğinde ya da toprak sertleşip kabuk bağladığında saksı değişimi zamanı gelmiştir.
+
+1. Yeni saksıyı eskisinden yalnızca bir boy geniş seçin.
+2. Bitkiyi saksıdan dikkatle çıkarın, eski toprağın gevşek kısmını köklerden nazikçe ayırın.
+3. Kahverengi, yumuşak ve kötü kokan kökleri temiz bir makasla kesin.
+4. Bitkiyi eski toprak seviyesinde kalacak şekilde yerleştirin ve etrafını taze toprakla doldurun.
+5. Toprağı bastırmadan hafifçe yerleştirin ve ılık suyla sulayın.
+
+Dua çiçeği, saksı değişimi sırasında kolayca bölünerek çoğaltılabilir; birkaç gövde ve yeterli kök içeren her parça ayrı bir saksıya dikilebilir. Genel kurallar için [saksı değiştirme rehberi](/saksi-degistirme-rehberi) yazımıza göz atabilirsiniz.
+
+## Sulama suyu ve toprak sağlığı
+
+Dua çiçeği ve kalatyalar, sulama suyundaki kireç, klor ve tuzlara karşı oldukça hassastır. Kireçli musluk suyu, zamanla toprağın pH değerini yükseltir ve yaprak uçlarında kahverengi kurumalara yol açar. Bu sorunu azaltmak için:
+
+- Musluk suyunu bir gece bekletip kullanın.
+- Mümkünse yağmur suyu ya da arıtılmış su tercih edin.
+- Birkaç ayda bir saksıyı bol suyla yıkayarak topraktaki tuzları uzaklaştırın.
+- Gübreyi önerilenden daha seyreltik kullanın.
+
+Sulamayı takvime göre değil, toprağın üst bir iki santimetresi kuruduğunda yapın. Toprağın tamamen kurumasına izin vermeyin, ama saksı altında su da biriktirmeyin.
+
+## Kışın dua çiçeği toprağı
+
+Kış aylarında kalorifer havası ortamı kurutur, ışık azalır ve bitkinin büyümesi yavaşlar. Bu dönemde toprak yazın olduğundan daha yavaş kurur; ancak kuru oda havası yaprakları hızla susatır. Sulamayı hafifçe azaltırken ortam nemini artırmak, kış aylarının en doğru dengesidir. Saksıyı nemli çakıl dolu bir tabağın üzerine koymak ya da bitkiyi diğer bitkilerle gruplamak nemi artırır. Bu konuyu [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımızda ayrıntılı anlattık.
+
+## Topraktan kaynaklanan sorunlar
+
+- **Yaprak uçlarında kahverengi kuruma:** Kireçli su, tuz birikimi ya da toprağın tamamen kuruması.
+- **Yaprakların kıvrılması:** Susuzluk ya da çok kuru hava.
+- **Alt yaprakların sararması ve gövde dibinde yumuşama:** Aşırı sulama ve havasız toprak.
+- **Yeni yaprakların küçük ve soluk çıkması:** Toprağın besince tükenmesi ya da pH dengesizliği.
+
+## Kalatya ve diğer akrabalar için de geçerli mi?
+
+Dua çiçeği ile aynı aileden gelen kalatya, ktenanthe ve stromanthe gibi bitkiler de benzer toprak ve sulama ihtiyaçlarına sahiptir. Bu bitkilerin hepsi tropik orman zemininden gelir, ince köklüdür ve kireçli suya hassastır. Bu nedenle burada anlatılan karışım ve sulama kuralları, bu akrabalar için de büyük ölçüde geçerlidir. Kalatyalar dua çiçeğine göre biraz daha nem ister ve kuru havaya daha çabuk tepki verir; yaprak kenarlarının kıvrılması ya da kahverengileşmesi, çoğu zaman topraktan çok havanın kuruluğunu gösterir. Bu bitkileri bir arada gruplamak, hem ortak bir nem alanı oluşturur hem de bakım rutininizi kolaylaştırır.
+
+## Besleme
+
+Dua çiçeği, büyüme dönemi olan ilkbahar ve yaz aylarında ayda bir iki kez, önerilen dozun yarısı kadar seyreltilmiş sıvı besinle beslenebilir. Kışın gübrelemeye ara verin. Fazla gübre, tuz birikimine yol açarak yaprak uçlarının kurumasını hızlandırır.
+
+Doğru dua çiçeği toprağı, bu hassas bitkinin hem köklerini hem de yapraklarını sağlıklı tutar. Hafif, nemli ama havadar bir karışım, yumuşak sulama suyu ve geniş, sığ bir saksıyla dua çiçeğiniz her akşam yapraklarını kaldırarak size teşekkür edecektir.
+@sss
+S: Dua çiçeği için hangi toprak kullanılır?
+C: Nem tutan ama havadar, hafif asidik bir karışım gerekir. Torf ya da kokopit tabanına perlit ve az miktarda kabuk eklenmiş karışımlar dua çiçeği ve kalatyalar için idealdir.
+
+S: Dua çiçeğinin yaprak uçları neden kurur?
+C: En sık nedenler kireçli musluk suyu, topraktaki tuz birikimi, toprağın tamamen kuruması ve kuru oda havasıdır. Yumuşak su kullanmak ve ortam nemini artırmak sorunu azaltır.
+
+S: Dua çiçeği için nasıl saksı seçilmeli?
+C: Dua çiçeği sığ köklüdür; derin yerine geniş ve sığ, drenaj delikli bir saksı uygundur. Plastik veya sırlı saksılar nemi daha uzun korur.
+
+### YAZI
+slug: tohum-islatma
+baslik: Tohum Islatma: Hangi Tohumlar Suda Bekletilir, Ne Kadar Süre?
+yayin: 2026-11-30 15:10
+yazar: Mehmet Fatih Çelik
+kategori: ekim-takvimi
+odak: tohum ıslatma
+seo_baslik: Tohum Islatma: Süreler, Uygun Tohumlar ve Sık Hatalar
+seo_aciklama: Tohum ıslatma çimlenmeyi hızlandırır mı? Fasulye, bezelye, mısır, maydanoz ve sert kabuklu tohumlarda ıslatma süreleri, çentme yöntemi ve sık yapılan hatalar.
+ozet: Bazı tohumlar ekimden önce birkaç saat suda bekletildiğinde günler önce çimlenir; bazıları ise ıslatıldığında çürür. Hangi tohumların ıslatılması gerektiğini, ne kadar bekletileceğini, sert kabuklu tohumlar için çentme yöntemini ve sık yapılan hataları anlatıyoruz.
+etiketler: tohum ıslatma, çimlenme, tohum ekimi, sert kabuklu tohumlar, ekim hazırlığı
+gorsel: p8-tohum-islatma
+gorsel_alt: Ekimden önce su dolu kapta bekletilen tohumlar
+urunler: altinvadi-bezelye-tohumu-25-gr, arzuman-oz-ayse-fasulye-tohumu-50-gr, hg-fide-topragi
+kisaca: Tohum ıslatma, iri ve sert kabuklu tohumların ekimden önce ılık suda bekletilerek su almasını ve çimlenmenin hızlanmasını sağlar. Fasulye, bezelye ve mısır 8-12 saat, maydanoz ve havuç gibi yavaş çimlenen tohumlar bir gece, çok sert kabuklu tohumlar ise çentildikten sonra ıslatılır. 24 saati aşan ıslatma tohumu boğabilir.
+@govde
+Bahçecilikte kuşaktan kuşağa aktarılan küçük ama işe yarayan alışkanlıklardan biri de tohumları ekimden önce suda bekletmektir. Annelerimizin fasulye tohumlarını bir gece önceden bir kâseye koyması, aslında çimlenmeyi hızlandıran bilinçli bir uygulamadır. Ancak tohum ıslatma her tohum için uygun değildir; yanlış tohumda ya da yanlış sürede yapıldığında tohumun çürümesine bile yol açabilir. Bu yazıda tohum ıslatmanın ne işe yaradığını, hangi tohumlarda ve ne kadar süreyle yapılması gerektiğini, sert kabuklu tohumlar için ek yöntemleri ve sık yapılan hataları anlatıyoruz.
+
+## Tohum ıslatma ne işe yarar?
+
+Kuru bir tohum, uyku hâlindeki bir bitkidir. Çimlenmenin başlaması için tohumun önce su alması gerekir. Tohum su aldıkça şişer, kabuğu yumuşar ve içindeki embriyo uyanarak büyümeye başlar. Toprağa ekilen tohum bu suyu topraktan yavaş yavaş alır; özellikle iri ve kalın kabuklu tohumlarda bu süreç birkaç gün sürebilir.
+
+Tohumu ekimden önce suda bekletmek, bu ilk su alma aşamasını hızlandırır. Böylece:
+
+- Çimlenme birkaç gün erken başlar,
+- Tohumların daha düzenli ve aynı anda çıkması sağlanır,
+- Kuru toprakta tohumun su alamadan beklemesi önlenir,
+- Kabuk yumuşadığı için filizin kabuğu kırması kolaylaşır.
+
+## Hangi tohumlar ıslatılır?
+
+**İri baklagil tohumları:** Fasulye, barbunya, bezelye, nohut ve bakla tohumları ıslatmadan en çok fayda gören tohumlardır. 8-12 saatlik bir ıslatma yeterlidir.
+
+[ürün:altinvadi-bezelye-tohumu-25-gr]
+
+[ürün:arzuman-oz-ayse-fasulye-tohumu-50-gr]
+
+**Mısır ve ayçiçeği:** İri ve kalın kabuklu bu tohumlar da bir gecelik ıslatmayla daha hızlı çimlenir.
+
+**Kabakgiller:** Kabak, kavun, karpuz ve salatalık tohumları birkaç saatlik ıslatmadan fayda görür, ancak uzun bekletmeye gerek yoktur.
+
+**Yavaş çimlenen tohumlar:** Maydanoz, havuç, dereotu ve kereviz gibi tohumlar doğal olarak yavaş çimlenir. Bir gece ılık suda bekletmek, çimlenme süresini birkaç gün kısaltabilir.
+
+**Sert kabuklu tohumlar:** Bazı çiçek ve ağaç tohumları, örneğin ıtır, lupen, kudret narı ve bazı baklagil süs bitkileri, çok sert bir kabuğa sahiptir. Bu tohumlar ıslatmadan önce çentilmelidir.
+
+## Hangi tohumlar ıslatılmaz?
+
+**Çok küçük tohumlar:** Marul, roka, fesleğen, kekik, petunya ve lobelya gibi toz kadar küçük tohumlar ıslatılmaz. Islatıldıklarında birbirine yapışır, ekimi zorlaşır ve kolayca çürüyebilir.
+
+**Islandığında jöleleşen tohumlar:** Fesleğen, keten ve chia gibi tohumlar su alınca yüzeylerinde jöle gibi bir tabaka oluşturur. Bu tohumları ıslatarak ekmek pratik değildir.
+
+**Kaplı (draje) tohumlar:** Ekimi kolaylaştırmak için bir kaplama ile kaplanmış tohumlar ıslatılmamalıdır; kaplama çözülür.
+
+## Ne kadar süre ıslatılır?
+
+| Tohum | Islatma süresi |
+| --- | --- |
+| Fasulye, barbunya, bezelye, nohut | 8-12 saat |
+| Mısır, ayçiçeği | 8-12 saat |
+| Kabak, kavun, karpuz, salatalık | 2-4 saat |
+| Maydanoz, havuç, dereotu | 12-24 saat |
+| Pancar, ıspanak | 12-24 saat |
+| Sert kabuklu çiçek tohumları (çentildikten sonra) | 12-24 saat |
+
+Genel kural olarak tohumlar 24 saatten fazla suda bırakılmamalıdır. Su içinde oksijen sınırlıdır; çok uzun bekleyen tohum boğulur ve çürür.
+
+## Tohum ıslatma nasıl yapılır?
+
+1. Tohumları temiz bir kaba koyun ve üzerine oda sıcaklığında ya da hafif ılık su ekleyin. Kaynar ya da çok sıcak su tohumun içindeki embriyoyu öldürür.
+2. Su miktarı, tohumların şişmesine yetecek kadar, yani tohum hacminin birkaç katı olsun.
+3. Kabı ılık ve karanlık bir yerde tutun.
+4. Belirtilen süre sonunda tohumları süzün. Şişmiş ve dolgunlaşmış tohumlar ekime hazırdır.
+5. Islatılmış tohumları bekletmeden, aynı gün içinde nemli toprağa ekin. Kuruyan ıslak tohum zarar görebilir.
+
+Islatılmış tohumları kuru toprağa ekmek, ıslatmanın faydasını ortadan kaldırır. Toprak ekimden önce hafif nemli olmalıdır.
+
+## Sert kabuklu tohumlarda çentme
+
+Çok sert kabuklu tohumlar, suda günlerce beklese bile su almayabilir. Bu tohumlarda kabuğu hafifçe aşındırmak ya da küçük bir çentik açmak gerekir. Tohumu bir zımpara kâğıdına birkaç kez sürtebilir ya da tırnak makasıyla kabuğun embriyodan uzak kenarında küçük bir çentik açabilirsiniz. Ardından tohumu ılık suda bekletin. Çentik açarken tohumun gözünü, yani filizin çıkacağı noktayı zedelememeye dikkat edin.
+
+Bazı tohumlar ise ıslatmadan çok, soğuk bir dönem geçirmeye ihtiyaç duyar. Bu tohumlar için [tohum soğuklama](/tohum-soguklama-stratifikasyon) yazımıza göz atabilirsiniz.
+
+## Islatma ile ön çimlendirme arasındaki fark
+
+Tohum ıslatma ile ön çimlendirme sık karıştırılır. Islatmada tohum yalnızca birkaç saat suda bekletilir ve kök çıkmadan ekilir. Ön çimlendirmede ise tohum nemli bir kâğıt havlu arasında birkaç gün bekletilir ve küçük kökçük göründüğünde toprağa aktarılır. Ön çimlendirme, özellikle pahalı ya da az sayıda tohumu olanlar için güvenli bir yöntemdir; çünkü yalnızca çimlenen tohumlar ekilir ve viyolde boş göz kalmaz. Ancak kökçük çok narindir; çimlenmiş tohumları bir kürdan ya da cımbızla, köke dokunmadan taşımak ve kökçük aşağı bakacak şekilde yerleştirmek gerekir. Kökçük birkaç milimetreyi geçmeden ekmek, kökün kırılma riskini azaltır. İri baklagil tohumlarında basit bir ıslatma çoğu zaman yeterliyken, biber ve patlıcan gibi yavaş ve düzensiz çimlenen tohumlarda ön çimlendirme daha iyi sonuç verebilir.
+
+## Sık yapılan hatalar
+
+- **Çok uzun ıslatmak:** Tohum boğulur ve çürür.
+- **Sıcak su kullanmak:** Embriyo zarar görür.
+- **Küçük tohumları ıslatmak:** Tohumlar yapışır ve ekim zorlaşır.
+- **Islak tohumu bekletmek:** Kuruyan tohum zarar görebilir; ıslatılan tohum hemen ekilmelidir.
+- **Soğuk toprağa ekmek:** Islatma çimlenmeyi hızlandırsa da soğuk toprakta tohum yine bekler ve çürüyebilir. Toprak sıcaklığının etkisini [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazımızda anlattık.
+
+## Islatmadan önce çimlenme testi
+
+Uzun süre saklanmış tohumların hâlâ canlı olup olmadığından emin değilseniz, ıslatmadan önce küçük bir çimlenme testi yapabilirsiniz. Bu basit yöntemi [tohum çimlenme testi](/tohum-cimlenme-testi) yazımızda anlattık. Testte iyi sonuç veren tohumlar, ıslatma ile birlikte çok daha hızlı ve düzenli çimlenecektir.
+
+Tohum ıslatma, doğru tohumda ve doğru sürede yapıldığında ilkbahar ekimlerinize birkaç günlük avantaj kazandıran basit bir yöntemdir. Kış aylarında tohumlarınızı gözden geçirirken hangilerini ıslatacağınızı not etmek, ekim gününde işinizi kolaylaştırır.
+@sss
+S: Fasulye tohumu kaç saat ıslatılır?
+C: Fasulye tohumları ekimden önce 8-12 saat oda sıcaklığındaki suda bekletilebilir. 24 saati aşan ıslatma tohumun boğulmasına ve çürümesine yol açabilir.
+
+S: Hangi tohumlar ıslatılmamalıdır?
+C: Marul, roka, fesleğen ve petunya gibi çok küçük tohumlar, ıslanınca jöleleşen tohumlar ve kaplı (draje) tohumlar ıslatılmadan ekilmelidir.
+
+S: Islatılmış tohum ne zaman ekilir?
+C: Islatılan tohumlar süzüldükten sonra aynı gün içinde hafif nemli toprağa ekilmelidir. Islak tohumun kuruması zarar görmesine yol açabilir.
+
+### YAZI
+slug: armut-agaci-gubreleme
+baslik: Armut Ağacı Gübreleme: Dengeli Beslemeyle Sağlam Dal, Lezzetli Meyve
+yayin: 2026-11-30 16:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: armut ağacı gübreleme
+seo_baslik: Armut Ağacı Gübreleme: Ne Zaman, Hangi Gübre, Ne Kadar?
+seo_aciklama: Armut ağacı gübreleme nasıl yapılır? Kış ve ilkbahar beslemesi, azot dengesi, kireçli toprakta demir, bor ve kalsiyum, genç ve verimli ağaç farkı.
+ozet: Armut ağacı, iyi beslendiğinde onlarca yıl bereketli meyve verir; ancak fazla azot hem hastalıkları hem de meyve kalitesizliğini davet eder. Armutta besin ihtiyacını, gübreleme zamanlarını ve kireçli topraklarda sık görülen sorunları anlatıyoruz.
+etiketler: armut ağacı gübreleme, meyve ağacı gübreleme, armut bakımı, demir eksikliği, organik gübre
+gorsel: p8-armut
+gorsel_alt: Dallarında olgunlaşmış meyveler bulunan bir armut ağacı
+urunler: kati-solucan-gubresi-20-kg, leonardit-organik-toprak-duzenleyici, guanokalong-extract-sivi-guano-gubresi
+kisaca: Armut ağacı gübreleme, kış sonunda organik gübre ve toprak düzenleyicilerle başlar, ilkbaharda azot ve potasyumla dengeli şekilde sürdürülür. Fazla azot ateş yanıklığı riskini ve meyve bozukluklarını artırır. Kireçli topraklarda demir eksikliği, çiçeklenme döneminde bor ve meyve kalitesi için kalsiyum önemlidir. Programı toprak analizi belirlemelidir.
+@govde
+Armut ağacı gübreleme, bahçede en çok dengeye dikkat edilmesi gereken işlerden biridir. Armut, bahçelerimizin en uzun ömürlü meyve ağaçlarından biridir. Doğru bakıldığında onlarca yıl boyunca her sonbahar sulu ve aromatik meyvelerle sofraları süsler. Ancak armut, besleme konusunda dengeye çok önem veren bir ağaçtır. Az beslenen bir armut zayıf sürgünler ve küçük meyveler verirken, aşırı beslenen, özellikle fazla azot alan bir armut hastalıklara açık hâle gelir ve meyve kalitesi düşer. Bu yazıda armut ağacı gübreleme konusunda bilmeniz gerekenleri, gübreleme takvimini ve sık yapılan hataları anlatıyoruz.
+
+Armutta görülen hastalıkları [armut hastalıkları](/armut-hastaliklari) yazımızda ayrıntılı ele aldık.
+
+## Armut ağacının besin ihtiyacı
+
+Armut, diğer meyve ağaçları gibi azot, fosfor ve potasyumun yanı sıra kalsiyum, magnezyum, demir, bor ve çinko gibi besinlere ihtiyaç duyar. Ancak bu besinlerin dengesi, miktarından daha önemlidir.
+
+- **Azot:** Sürgün ve yaprak gelişimini sağlar. Eksikliğinde yapraklar soluk ve küçük kalır, sürgünler kısa olur. Fazlalığında ise uzun, yumuşak ve sulu sürgünler oluşur; bu sürgünler hastalıklara, özellikle ateş yanıklığına çok açıktır.
+- **Fosfor:** Kök gelişimi ve çiçek tomurcuğu oluşumu için önemlidir.
+- **Potasyum:** Meyve iriliği, şeker birikimi, renk ve ağacın kışa dayanıklılığı üzerinde etkilidir.
+- **Kalsiyum:** Meyve dokusunun sağlamlığını ve depolama ömrünü belirler.
+- **Bor:** Çiçeklenme ve meyve tutumu için gereklidir.
+- **Demir:** Kireçli topraklarda en sık görülen eksikliktir.
+
+## Armut ağacı gübreleme takvimi
+
+**Kış sonu (şubat – mart):** Organik gübre ve toprak düzenleyicilerin verilmesi için en uygun dönemdir. Olgun ahır gübresi ya da solucan gübresi, ağacın taç izdüşümüne, yani dalların gölgesinin düştüğü alana serpilir ve toprağa hafifçe karıştırılır. Bu organik maddeler kış yağışlarıyla birlikte toprağa karışır ve ilkbaharda köklerin kullanımına hazır hâle gelir.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+**İlkbahar (uyanma ve çiçeklenme):** Tomurcukların kabarmaya başladığı dönemde azotlu gübrenin büyük kısmı verilir. Azotu tek seferde vermek yerine ikiye bölmek, ağacın daha dengeli büyümesini sağlar. Çiçeklenme döneminde bor eksikliği bilinen bahçelerde yapraktan bor uygulaması meyve tutumunu destekler.
+
+**Meyve büyüme dönemi (mayıs – temmuz):** Potasyum ve kalsiyum ihtiyacı artar. Sıvı organik gübreler bu dönemde hızlı bir destek sağlayabilir.
+
+[ürün:guanokalong-extract-sivi-guano-gubresi]
+
+**Yaz ortasından sonra:** Azotlu gübreleme yapılmamalıdır. Geç dönemde verilen azot, sürgünlerin kışa olgunlaşmadan girmesine ve don zararına yol açar.
+
+**Sonbahar (hasattan sonra):** Yapraklar dökülmeden önce ağacın besin depolarını yenilemek için hafif bir besleme yapılabilir. Meyve ağaçlarında sonbahar beslemesinin ayrıntılarını [meyve ağaçlarında sonbahar gübrelemesi](/meyve-agaclarinda-sonbahar-gubrelemesi) yazımızda anlattık.
+
+## Genç ve verimli ağaç farkı
+
+**Genç ağaçlar (ilk 3-4 yıl):** Bu dönemde amaç, güçlü bir kök sistemi ve sağlam bir iskelet oluşturmaktır. Organik madde ve dengeli, ılımlı bir azot desteği yeterlidir. Genç ağaca fazla gübre vermek, kökleri yakabilir ve aşırı sürgün oluşturur.
+
+**Verim çağındaki ağaçlar:** Meyveyle birlikte topraktan önemli miktarda besin kaldırılır. Bu ağaçlarda potasyum ve kalsiyum ihtiyacı artar. Gübre miktarı, ağacın yaşına, büyüklüğüne, verimine ve toprak analizine göre belirlenmelidir.
+
+## Kireçli topraklarda demir eksikliği
+
+Ülkemizin pek çok bölgesinde armut bahçeleri kireçli topraklardadır. Armut, bu topraklarda demir eksikliğine en duyarlı meyve ağaçlarından biridir. Genç yapraklarda damarlar yeşil kalırken damar arasının sararması, ileri durumlarda yaprakların neredeyse beyaza dönmesi tipik belirtidir. Toprakta demir bulunsa bile yüksek pH nedeniyle ağaç bu demiri alamaz.
+
+Organik maddece zengin bir toprak, demirin alınabilirliğini artırır. Hümik madde içeren toprak düzenleyiciler, kireçli topraklarda köklerin besin alımını destekler.
+
+Kireçli toprakların özelliklerini [toprak pH nedir](/toprak-ph-nedir) yazımızda, mikro element eksikliklerinin belirtilerini ise [mikro element eksikliği](/mikro-element-eksikligi) yazımızda bulabilirsiniz.
+
+## Fazla azotun bedeli
+
+Armutta en sık yapılan gübreleme hatası, "ne kadar çok, o kadar iyi" düşüncesiyle bol azot vermektir. Bunun sonuçları şunlardır:
+
+- Uzun, yumuşak ve sulu sürgünler oluşur; bu sürgünler ateş yanıklığına çok açıktır.
+- Yaprak bitleri ve armut psillidi gibi zararlılar yumuşak sürgünleri tercih eder.
+- Ağaç enerjisini sürgüne verir, çiçek tomurcuğu oluşumu azalır.
+- Meyveler iri ama gevşek dokulu olur, depolama ömrü kısalır.
+
+Dengeli beslenen bir armut ağacı, orta uzunlukta, sağlam sürgünler verir ve her yıl düzenli çiçek tomurcuğu oluşturur.
+
+## Gübre nasıl ve nereye verilir?
+
+Armut ağacının besin alan ince kökleri, gövdenin dibinde değil, taç izdüşümünün çevresinde yoğunlaşır. Bu yüzden gübre gövdenin dibine yığılmamalı, taç izdüşümü boyunca bir halka şeklinde serpilmeli ve toprağa hafifçe karıştırılmalıdır. Gübrelemeden sonra sulama yapılması, besinlerin köklere ulaşmasını kolaylaştırır. Gübrenin köklere ve gövdeye doğrudan teması, özellikle genç ağaçlarda yanıklara yol açabilir; bu konuyu [gübre yakması](/gubre-yakmasi) yazımızda anlattık.
+
+## Sulama ile gübre arasındaki bağ
+
+Gübrenin etkili olabilmesi için toprakta yeterli nem bulunması gerekir. Kuru toprağa verilen gübre köklere ulaşamaz; tam tersine, kurak dönemde köklerin çevresinde biriken tuzlar ağacı strese sokar. Bu yüzden ilkbahar ve yaz gübrelemelerini yağmurdan önce ya da sulamayla birlikte planlamak gerekir. Armut, meyve büyüme döneminde düzenli nem ister; bu dönemde yaşanan su sıkıntısı, verilen potasyum ve kalsiyumun meyveye ulaşmasını engeller ve meyvelerin küçük kalmasına yol açar. Damla sulama sistemi kurulu bahçelerde sıvı gübreler sulama suyuyla birlikte verilebilir. Ağacın dibine serilen organik malç ise hem nemi korur hem de zamanla ayrışarak toprağa organik madde kazandırır.
+
+## Toprak analizi: en doğru rehber
+
+Her bahçenin toprağı farklıdır. Bir bahçede bol bulunan bir besin, diğerinde eksik olabilir. Bu yüzden armut ağacı gübreleme programının temeli, birkaç yılda bir yapılan toprak analizidir. Analiz, hangi besinin gerçekten eksik olduğunu gösterir; gereksiz gübre masrafını ve aşırı gübrelemenin zararlarını önler. Benzer bir program için [elma ağacı gübreleme](/elma-agaci-gubreleme) yazımız da yol gösterici olabilir.
+
+Doğru planlanmış bir armut ağacı gübreleme programı, ağacın hem bu yılki hasadını hem de gelecek yıllardaki verimini korur. Azotu ölçülü, organik maddeyi bol, mikro besinleri ise analize göre vermek, armutta sağlıklı ve lezzetli meyvenin anahtarıdır.
+@sss
+S: Armut ağacına ne zaman gübre verilir?
+C: Organik gübre kış sonunda, azotlu gübre ilkbaharda tomurcuk kabarmasıyla birlikte ve tercihen ikiye bölünerek verilir. Yaz ortasından sonra azotlu gübreleme yapılmamalıdır.
+
+S: Armut yaprakları neden sararır?
+C: Kireçli topraklarda genç yapraklarda damar arası sararma demir eksikliğine işaret eder. Genel solgunluk azot eksikliğini, yaygın sararma ise su birikmesi ve kök sorunlarını gösterebilir.
+
+S: Armuda fazla azot verilirse ne olur?
+C: Uzun ve yumuşak sürgünler oluşur, ateş yanıklığı ve zararlı riski artar, çiçek tomurcuğu azalır ve meyvelerin depolama ömrü kısalır.
+
+### YAZI
+slug: karin-bitkilere-etkisi
+baslik: Karın Bitkilere Etkisi: Kar Bahçeyi Korur mu, Zarar mı Verir?
+yayin: 2026-11-30 18:15
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: karın bitkilere etkisi
+seo_baslik: Karın Bitkilere Etkisi: Koruyucu Örtü mü, Dal Kırıcı Yük mü?
+seo_aciklama: Karın bitkilere etkisi nedir? Karın yalıtım sağlayan faydaları, dal kırılması, ağır ıslak kar, tuz zararı, kar sonrası yapılacaklar ve bahçeyi hazırlama.
+ozet: Kar yağdığında bahçedeki bitkiler için endişelenmek doğaldır; oysa kar çoğu zaman bitkilerin dostudur. Karın toprağı ve kökleri nasıl koruduğunu, hangi durumlarda zarar verdiğini ve kar yağışından önce ve sonra neler yapılması gerektiğini anlatıyoruz.
+etiketler: karın bitkilere etkisi, kar ve bitkiler, kış bahçesi, don koruması, dal kırılması
+gorsel: p8-kar
+gorsel_alt: Kar örtüsü altında kalmış bahçe bitkileri
+urunler: budama-makasi, hasturk-kati-solucan-gubresi
+kisaca: Karın bitkilere etkisi çoğunlukla olumludur: Kar, toprağın üzerinde yalıtkan bir örtü oluşturarak kökleri sert ayazdan korur ve eridikçe toprağa nem kazandırır. Zarar ise ağır ve ıslak karın dalları kırması, yaprak dökmeyen bitkilerin ezilmesi ve yollara dökülen tuzun bitkilere ulaşmasıyla ortaya çıkar. Ağır kar dallardan nazikçe silkelenmelidir.
+@govde
+Kış sabahı perdeyi açtığınızda bahçenin bembeyaz bir örtüyle kaplandığını görmek, hem büyüleyici hem de biraz endişe verici bir andır. Gül fidanları, genç ağaçlar, kışlık sebzeler ve yaprak dökmeyen çalılar bu karın altında ne durumda? Karın bitkilere etkisi, çoğumuzun sandığından çok daha olumludur; kar, doğanın kendi yorganıdır. Ancak bazı durumlarda, özellikle ağır ve ıslak kar yağışlarında, bahçeye ciddi zararlar da verebilir. Bu yazıda karın bitkiler için hangi durumlarda koruyucu, hangi durumlarda zarar verici olduğunu ve kar öncesi ve sonrası yapılması gerekenleri anlatıyoruz.
+
+## Kar neden bitkilerin dostudur?
+
+**Yalıtım:** Taze kar, içinde çok miktarda hava hapseder ve bu sayede iyi bir yalıtkan olarak çalışır. Kar örtüsünün altındaki toprak sıcaklığı, hava sıcaklığından çok daha yüksek ve dengeli kalır. Hava eksi on beş dereceye düştüğünde bile kalın bir kar örtüsünün altındaki toprak sıfır derece civarında kalabilir. Bu yalıtım, çok yıllık bitkilerin köklerini, soğanları ve kışlık sebzeleri sert ayazdan korur.
+
+**Rüzgâr ve kuruma koruması:** Kar, alçak bitkileri soğuk ve kurutucu kış rüzgârlarından korur. Kışın bitkilere en çok zarar veren etkenlerden biri, donmuş topraktan su alamayan bitkilerin rüzgârla su kaybetmesidir; kar bu kaybı azaltır.
+
+**Nem kaynağı:** Kar eridikçe suyu yavaş yavaş toprağa bırakır. Hızlı yağan yağmurun aksine, eriyen kar suyu toprağa daha iyi işler ve ilkbahar için toprakta nem depolar.
+
+**Don-çözülme döngüsünü azaltma:** Karsız kışlarda toprak gündüz çözülüp gece donar. Bu tekrarlayan döngü, yeni dikilen bitkileri ve soğanları topraktan dışarı itebilir. Kar örtüsü toprağı dengeli tuttuğu için bu sorunu önler.
+
+## Karın bitkilere etkisi ne zaman olumsuzdur?
+
+**Ağır ve ıslak kar:** Sıfır dereceye yakın sıcaklıklarda yağan ıslak kar, kuru kara göre çok daha ağırdır. Dallar üzerinde biriken bu yük, özellikle yaprak dökmeyen ağaç ve çalılarda dalların eğilmesine, yarılmasına ve kırılmasına yol açar. Servi, mazı, ardıç ve şimşir gibi bitkiler en çok risk altındadır.
+
+**Buzlanma:** Kar eriyip yeniden donduğunda dallar buz tabakasıyla kaplanabilir. Buzlu dallar kırılgan hâle gelir ve rüzgârla kolayca kırılır.
+
+**Çatıdan düşen kar:** Çatı kenarlarına yakın dikilmiş bitkiler, çatıdan kayan kar kütlesi altında ezilebilir.
+
+**Kar yığınları:** Yol ve kaldırımlardan küreklenen karın bitkilerin üzerine yığılması, aşırı yük ve ezilmeye neden olur. Bu karın içinde yol tuzu da varsa zarar ikiye katlanır.
+
+**Uzun süreli kar altında kalma:** Çim alanlarda karın aylarca erimeden kalması, nemli ve havasız ortamda bazı mantar hastalıklarının ortaya çıkmasına yol açabilir. Kış aylarında çim bakımı için [kışın çim bakımı](/kisin-cim-bakimi) yazımıza göz atabilirsiniz.
+
+## Yol tuzu: karın gizli tehlikesi
+
+Kaldırım ve yollara dökülen tuz, eriyen karla birlikte bahçe toprağına karışır. Tuz, toprağın yapısını bozar ve bitkilerin su almasını zorlaştırır. Yol kenarındaki bitkilerde ilkbaharda yaprak kenarlarında kuruma, sürgün uçlarında ölüm ve genel bir zayıflama görülebilir. Bahçenizin yürüme yollarında tuz yerine kum ya da ince çakıl kullanmak, bitkileriniz için çok daha güvenlidir. Tuzun toprağa etkilerini [toprak tuzluluğu](/toprak-tuzlulugu) yazımızda anlattık.
+
+## Kar yağmadan önce yapılacaklar
+
+- **Dik ve dar yapılı bitkileri bağlayın:** Servi ve mazı gibi bitkilerin dallarını yumuşak bir iple gevşekçe sararak bir arada tutmak, karın dalları açıp kırmasını önler.
+- **Genç ağaçlara destek verin:** Yeni dikilmiş fidanları kazıkla destekleyin.
+- **Zayıf dalları budayın:** Çatlak, kurumuş ve zayıf dallar, kar yükü altında ilk kırılan dallardır. Bu dalları sonbaharda ya da kış başında kesmek, kırılmanın ağaca vereceği zararı önler.
+- **Malç serin:** Karsız soğuk günler için kökleri koruyan bir malç tabakası, kar gelene kadar köklerin yorganı olur. Bu konuyu [kış öncesi bahçe temizliği ve malçlama](/kis-oncesi-bahce-temizligi-ve-malclama) yazımızda anlattık.
+
+## Kar yağışından sonra yapılacaklar
+
+**Ağır karı nazikçe silkeleyin:** Yaprak dökmeyen bitkilerin dallarında biriken ağır karı, bir süpürgeyle dalı aşağıdan yukarıya doğru hafifçe iterek dökün. Dalı yukarıdan aşağı vurmak, zaten yük altında olan dalı kırabilir.
+
+**Buzlu dallara dokunmayın:** Dallar buzla kaplıysa onları silkelemeye ya da buzu kırmaya çalışmayın; donmuş dallar çok kırılgandır. Buzun kendiliğinden erimesini bekleyin.
+
+**Hafif karı yerinde bırakın:** Alçak bitkilerin ve çiçek tarhlarının üzerindeki hafif kar, koruyucu bir örtüdür; onu temizlemeyin.
+
+**Kırılan dalları temiz kesin:** Kar yükü altında kırılan dalları, hava açıldıktan sonra keskin bir makasla kırık noktanın altından temiz bir kesimle düzeltin. Yırtılmış ve sarkan kabuk parçaları hastalıklara kapı açar.
+
+[ürün:budama-makasi]
+
+**Seralar ve örtüler:** Plastik seralar ve tünellerin üzerindeki karı düzenli olarak temizleyin; ağır kar örtüyü yırtabilir ya da iskeleti çökertebilir.
+
+## Kışlık sebzeler ve kar
+
+Lahana, karalahana, pırasa, ıspanak ve kışlık soğan gibi sebzeler kar altında rahatlıkla kışı geçirebilir. Hatta bazıları, örneğin karalahana ve pırasa, soğuktan sonra daha tatlı bir lezzet kazanır. Kar altındaki sebzeleri hasat etmek için karın erimesini beklemek ve donmuş yaprakları çözülmeden koparmamak gerekir. Donmuş yaprak, çözülmeden ellendiğinde zedelenir.
+
+## Don zararı mı, kar zararı mı?
+
+İlkbaharda bitkilerde görülen kahverengileşme ve kurumalar her zaman kardan kaynaklanmaz. Çoğu zaman asıl sorun, karsız geçen sert ayazlar, ani sıcaklık düşüşleri ya da kurutucu rüzgârlardır. Don zararının belirtilerini [don zararı belirtileri](/don-zarari-belirtileri) yazımızda, bitkileri soğuktan korumanın yollarını ise [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazımızda anlattık. Ağaç gövdelerinde kışın oluşan çatlaklar için de [ağaç kabuğu çatlaması](/agac-kabugu-catlamasi) yazımıza göz atabilirsiniz.
+
+## İlkbahara hazırlık
+
+Kar eridikten sonra toprak uzun süre ıslak kalır. Bu dönemde ıslak toprağın üzerinde yürümek ya da toprağı işlemek, toprak yapısını bozar ve sıkıştırır. Toprağın tavına gelmesini bekleyin; ardından ilkbahar beslemesi için olgun organik gübreyi toprağa karıştırabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Karın bitkilere etkisi, doğru önlemlerle büyük ölçüde olumlu tarafta kalır. Ağır karı dallardan nazikçe silkeleyin, tuzu bahçeden uzak tutun ve geri kalanını karın kendisine bırakın; bahçeniz bu beyaz yorganın altında ilkbahara güçlü bir şekilde hazırlanacaktır.
+@sss
+S: Kar bitkilere zarar verir mi?
+C: Çoğunlukla hayır; kar toprağı ve kökleri sert ayazdan koruyan yalıtkan bir örtü oluşturur. Ancak ağır ve ıslak kar dalları kırabilir, yol tuzu karışmış kar ise bitkilere zarar verir.
+
+S: Ağaç dallarındaki kar silkelenmeli mi?
+C: Ağır ve ıslak kar, dalı aşağıdan yukarıya doğru hafifçe iterek silkelenmelidir. Dallar buzla kaplıysa dokunulmamalı, buzun kendiliğinden erimesi beklenmelidir.
+
+S: Kar altında kalan sebzeler ölür mü?
+C: Lahana, karalahana, pırasa, ıspanak ve kışlık soğan gibi sebzeler kar altında kışı rahatlıkla geçirir. Donmuş yaprakları çözülmeden ellememek gerekir.
+
+### YAZI
+slug: lahana-kurdu
+baslik: Lahana Kurdu: Delik Delik Yapraklar ve Yeşil Tırtılların Hikâyesi
+yayin: 2026-11-30 20:20
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: lahana kurdu
+seo_baslik: Lahana Kurdu: Belirtiler, Yaşam Döngüsü ve Doğal Mücadele
+seo_aciklama: Lahana kurdu nasıl tanınır? Lahana kelebeği tırtılları, yumurta kümeleri, yaprak delikleri, elle toplama, böcek tülü, faydalı canlılar ve doğal önlemler.
+ozet: Lahana, karnabahar ve brokolinin yapraklarını kısa sürede delik deşik eden yeşil tırtıllar, çoğu zaman lahana kelebeğinin larvalarıdır. Lahana kurdunu nasıl tanıyacağınızı, yaşam döngüsünü ve bahçede kimyasal kullanmadan nasıl kontrol altına alabileceğinizi anlatıyoruz.
+etiketler: lahana kurdu, lahana kelebeği, tırtıl, lahana zararlıları, doğal mücadele
+gorsel: p8-lahana-kurdu
+gorsel_alt: Lahana yaprağı üzerinde beslenen yeşil ve sarı desenli tırtıllar
+urunler: beyaz-lahana-fidesi-6-adet, kirmizi-lahana-fidesi-6-adet, jersey-lahana-fidesi-6-adet, altinvadi-beyaz-lahana-tohumu, arzuman-yaprak-karalahana-tohumu-10-gr, hasturk-kati-solucan-gubresi
+kisaca: Lahana kurdu, lahana kelebeği ve benzer güvelerin yaprakları kemiren tırtıllarına verilen addır. Lahana, karnabahar, brokoli, karalahana ve turpta görülür. Yaprak altındaki sarı yumurta kümelerini ve tırtılları elle toplamak, ince gözenekli böcek tülüyle örtmek ve faydalı canlıları korumak en etkili doğal yöntemlerdir.
+@govde
+Sonbaharda özenle dikilen lahana fidelerinin yapraklarında bir sabah küçük delikler görürsünüz. Birkaç gün içinde bu delikler büyür, yapraklar dantel gibi delik deşik olur ve yaprakların arasında yeşil, tıknaz tırtıllar ortaya çıkar. Bahçecilerin lahana kurdu dediği bu zararlı, lahanagiller ailesinin en yaygın düşmanıdır. Bu yazıda lahana kurdunu nasıl tanıyacağınızı, hangi dönemlerde ortaya çıktığını ve bahçenizde kimyasal kullanmadan nasıl kontrol altına alabileceğinizi anlatıyoruz.
+
+## Lahana kurdu nedir?
+
+Lahana kurdu aslında bir solucan değil, kelebek ve güvelerin tırtıllarıdır. Bahçelerimizde en sık görülen tür, beyaz kanatları üzerinde siyah benekler bulunan büyük lahana kelebeğidir. Bu kelebeğin tırtılları yeşilimsi-sarı renkte, siyah beneklidir ve gruplar hâlinde beslenir. Daha küçük olan küçük lahana kelebeğinin tırtılları ise kadife gibi yeşil, tek tek beslenen ve yaprakların renginde oldukları için zor fark edilen tırtıllardır. Bunların yanında bazı güvelerin tırtılları da lahana yapraklarına zarar verir.
+
+Bu tırtıllar, lahanagillerin yapraklarındaki kendine özgü kükürtlü bileşiklere yönelir. Bu yüzden lahana, karnabahar, brokoli, karalahana, Brüksel lahanası, şalgam ve turp gibi bitkilerin hepsi risk altındadır. Bu sebzelerin yetiştirilmesi için [lahana ve karalahana yetiştirme](/lahana-ve-karalahana-yetistirme) yazımıza göz atabilirsiniz.
+
+## Lahana kurdunun belirtileri
+
+- **Yapraklarda düzensiz delikler:** Genç tırtıllar önce yaprak altını kazıyarak pencere gibi ince zarlar bırakır, büyüdükçe yaprakları delip geçer.
+- **Dantel gibi yapraklar:** Yoğun beslenmede yalnızca damarlar kalır.
+- **Yeşil dışkı taneleri:** Yaprak koltuklarında ve baş lahananın içinde koyu yeşil, küçük tanecikler görülür. Bu dışkılar, tırtılların varlığının en kesin işaretidir.
+- **Baş içine giren tırtıllar:** Lahana ve karnabahar başlarının içine giren tırtıllar, hem hasadı bozar hem de fark edilmesi en zor olanlardır.
+
+## Lahana kurdu ne zaman görülür?
+
+Lahana kelebekleri ilkbaharın ortasından sonbahar sonuna kadar aktiftir ve yılda birkaç döl verir. Yazın sonu ve sonbahar başı, tırtıl yoğunluğunun en yüksek olduğu dönemdir; bu yüzden sonbaharda dikilen kışlık lahanalar sıklıkla zarar görür. Havalar soğuyup ilk donlar başladığında kelebek uçuşları ve tırtıl beslenmesi büyük ölçüde durur. Kış ortasında lahana yapraklarında görülen delikler genellikle sonbahardan kalma eski zararlardır ya da salyangoz ve sümüklü böceklerin işidir. Bu canlılar için [salyangoz ve sümüklü böcek](/salyangoz-ve-sumuklu-bocek) yazımıza göz atabilirsiniz.
+
+## Yaşam döngüsünü tanımak
+
+Lahana kelebeği yumurtalarını yaprakların alt yüzüne bırakır. Büyük lahana kelebeğinin yumurtaları, sarı-turuncu renkte, mısır koçanı gibi dik duran küçük kümeler hâlindedir. Küçük lahana kelebeği ise yumurtalarını tek tek bırakır. Yumurtalar birkaç gün içinde açılır ve tırtıllar hemen beslenmeye başlar. Tırtıllar iki üç hafta beslendikten sonra çevredeki duvar, çit ya da destek çubukları üzerinde krizalite geçer ve bir süre sonra yeni kelebekler çıkar.
+
+Bu döngüyü tanımak, mücadelede büyük avantaj sağlar: Yumurta kümelerini erken bulmak, yüzlerce tırtılın ortaya çıkmasını önlemek demektir.
+
+## Lahana kurdu ile doğal mücadele
+
+**Düzenli kontrol ve elle toplama:** Küçük bahçelerde en etkili yöntem, haftada iki kez yaprakların alt yüzünü kontrol etmek, yumurta kümelerini parmakla ezmek ve tırtılları toplamaktır. Sabah erken saatler kontrol için idealdir.
+
+**Böcek tülü:** Fideler dikildikten hemen sonra bitkileri ince gözenekli bir böcek tülü ya da file ile örtmek, kelebeklerin yumurta bırakmasını tamamen engeller. Tülün kenarları toprağa iyice gömülmeli, aralık bırakılmamalıdır. Bu yöntem, kelebeklerin en aktif olduğu yaz sonu ve sonbahar dikimlerinde çok etkilidir.
+
+**Faydalı canlıları koruyun:** Küçük asalak arılar, tırtılların içine yumurta bırakarak onları yok eder. Kuşlar, yer böcekleri ve örümcekler de tırtılları avlar. Bahçede geniş etkili ilaçlardan kaçınmak, bu doğal düşmanların çoğalmasına olanak tanır. Sarı, kumaş gibi küçük kozaların içinde ölmüş tırtıllar görürseniz, bunlar asalak arıların işidir; onları bahçede bırakın.
+
+**Çiçekli kenarlar:** Sebze sıralarının kenarına dereotu, kişniş ve kadife çiçeği gibi bitkiler ekmek, faydalı asalak arıları ve diğer avcı böcekleri bahçeye çeker. Bu konuyu [arı dostu bitkiler](/ari-dostu-bitkiler) yazımızda da ele aldık.
+
+**Ekim nöbeti ve temizlik:** Hasattan sonra lahana artıklarını bahçeden uzaklaştırın ve lahanagilleri her yıl aynı yere ekmeyin. Bu uygulama, hem zararlıların hem de lahanagillerde görülen hastalıkların birikmesini azaltır. Bu hastalıklar için [lahana hastalıkları](/lahana-hastaliklari) yazımıza göz atabilirsiniz.
+
+## Hasatta tırtıl kalmaması için
+
+Hasat ettiğiniz lahana, karnabahar ya da brokolinin içinde gizlenmiş tırtıllar olabilir. Özellikle küçük lahana kelebeğinin yeşil tırtılları, karnabahar ve brokoli başlarının arasına saklandığında rengi nedeniyle zor fark edilir. Bu sebzeleri mutfakta kullanmadan önce birkaç dakika tuzlu ya da sirkeli soğuk suda bekletmek, saklanan tırtılların yüzeye çıkmasını sağlar. Baş lahananın dış yapraklarını ayırıp iç kısmı kontrol etmek de iyi bir alışkanlıktır. Tırtıl zararı yalnızca dış yapraklarda kalmışsa, lahananın içi rahatlıkla kullanılabilir; dış yaprakları kompost yığınına atabilirsiniz. Hasat sonrası bahçede kalan kökleri ve sapları da toplamak, krizalitlerin ve geç kalan tırtılların kışı bahçede geçirmesini zorlaştırır.
+
+## Sağlıklı bitki, daha az zarar
+
+Güçlü ve iyi beslenmiş lahana bitkileri, tırtıl zararını çok daha iyi tolere eder ve kaybettikleri yaprakları hızla yeniler. Ancak aşırı azotlu gübreleme, yumuşak ve sulu yapraklar oluşturarak tırtılları daha da çeker. Dengeli bir besleme için organik gübreyle zenginleştirilmiş bir toprak idealdir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Kimyasal mücadele hakkında
+
+Tırtıl yoğunluğu çok yüksek olduğunda bitki koruma ürünlerine başvurulabilir. Ancak bu ürünlerin türü, dozu ve hasat öncesi bekleme süresi bitkiye ve bölgeye göre değişir. Doğru seçim ve uygulama için müşteri hizmetlerimize danışmanızı öneririz. Lahana gibi yaprağı doğrudan tüketilen sebzelerde etiket talimatlarına ve bekleme sürelerine uymak özellikle önemlidir.
+
+## Gelecek sezona hazırlık
+
+Kış ayları, bir sonraki yılın lahana ekimini planlamak için iyi bir zamandır. Kelebeklerin en yoğun olduğu dönemden kaçınmak için erken ilkbahar ekimlerini öne almak, sonbahar dikimlerini ise baştan böcek tülüyle korumak, zararı büyük ölçüde azaltır. Tohumlarınızı şimdiden hazırlayabilirsiniz.
+
+[ürün:altinvadi-beyaz-lahana-tohumu]
+
+Lahana kurdu, bahçede sık görülen ama kontrol altına alınması mümkün bir zararlıdır. Düzenli kontrol, erken müdahale ve böcek tülüyle lahanalarınızı bu yeşil misafirlerden koruyabilirsiniz.
+@sss
+S: Lahana kurdu nasıl anlaşılır?
+C: Yapraklarda düzensiz delikler, yalnızca damarları kalan dantel gibi yapraklar ve yaprak koltuklarında koyu yeşil dışkı taneleri lahana kurdunun belirtileridir. Yaprak altında sarı yumurta kümeleri de görülebilir.
+
+S: Lahana kurdu ile doğal yolla nasıl mücadele edilir?
+C: Yaprak altlarını düzenli kontrol edip yumurta ve tırtılları elle toplamak, bitkileri ince gözenekli böcek tülüyle örtmek ve faydalı asalak arıları korumak en etkili doğal yöntemlerdir.
+
+S: Lahana kurdu kışın da görülür mü?
+C: Havalar soğuyup donlar başladığında kelebek uçuşları ve tırtıl beslenmesi büyük ölçüde durur. Kışın görülen delikler genellikle sonbahardan kalma eski zararlar ya da salyangoz kaynaklıdır.
+
+### SORU
+yayin: 2026-11-30 10:30
+kategori: bitki-bakimi
+baslik: Atatürk çiçeğim eve geldikten bir hafta sonra yapraklarını dökmeye başladı, neden?
+metin: Geçen hafta kırmızı yapraklı bir Atatürk çiçeği aldım. Salonda pencerenin yanına koydum, iki günde bir suluyorum. Alttaki yeşil yapraklar sararıp dökülmeye başladı, kırmızı yapraklar da sarkıyor.
+@cevap Rümeysa Altınova | 4
+Atatürk çiçeği, sıcaklık değişimine ve hava akımına çok hassas bir bitkidir; mağazadan eve taşınırken yaşadığı kısa süreli soğuk bile yaprak dökümüne yol açabilir. Pencerenin yanı kışın soğuk cam ve aralanan pencerelerden gelen hava akımı nedeniyle riskli bir yerdir. Bitkiyi aydınlık ama camdan bir iki adım uzak, 18-22 derece arası sabit sıcaklıkta, kaloriferin ve kapı ağzının önünde olmayan bir yere taşıyın. İki günde bir sulamak çoğu zaman fazladır: Toprağın üstü parmakla dokunduğunuzda kuru geldiğinde sulayın ve saksı altında ya da süslü sargı kâğıdının içinde biriken suyu mutlaka boşaltın. Sargı kâğıdı varsa çıkarın ya da altını açın. Dökülen birkaç alt yaprak bitkinin yeni ortamına uyum sağlama tepkisidir; doğru yerde ve doğru sulamayla renkli yapraklar haftalarca canlı kalacaktır.

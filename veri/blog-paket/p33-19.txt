@@ -1,0 +1,440 @@
+### YAZI
+slug: gul-topragi-saksi-ve-bahce-gulu-icin-karisim
+baslik: Gül Toprağı: Saksı ve Bahçe Gülü İçin Karışım
+yayin: 2027-04-19 09:10
+yazar: Hatice Kübra Çelik
+kategori: toprak-rehberi
+odak: gül toprağı
+seo_baslik: Gül Toprağı: Saksı ve Bahçe Gülü Karışımı
+seo_aciklama: Gül toprağı nasıl olmalı? Bahçe ve saksı gülü için pH, süzek yapı, organik madde ve karışım oranları; kil ile kumlu toprağı gül için düzeltme adımları.
+ozet: Gül toprağı hem nemi tutan hem suyu fazla bekletmeyen, organik maddece zengin ve hafif asidik bir ortamdır. Bahçede toprağı derin işleyip olgun organik madde katmak, saksıda ise bahçe toprağı yerine havadar bir karışım kullanmak gerekir.
+etiketler: gül toprağı, gül saksı toprağı, bahçe gülü toprağı, gül toprağı karışımı, toprak pH
+gorsel: bekliyor
+gorsel_alt: Bahçede yeni dikilmiş gül fidanının dibinde koyu renkli, gevşek ve nemli toprak
+urunler: hg-gul-topragi-gullere-ozel-toprak-karisimi, tarim-perliti, hasturk-kati-solucan-gubresi
+kisaca: Gül toprağı nemli ama süzek, organik maddece zengin, hafif asidik (yaklaşık pH 6,0-6,5) bir ortam olmalıdır. Bahçede toprağı 20-30 cm derinde işleyip olgun organik madde karıştırın; saksıda bahçe toprağı yerine torf, perlit ve olgun kompost içeren havadar bir karışım kullanın.
+@govde
+Gül, kökünü suyun içinde bırakmayı da, kuru bir toprakta susuz kalmayı da sevmez. Bu yüzden gül toprağı denince akla önce "ağır mı hafif mi" sorusu gelmeli. Hedef, kökün hem su hem hava bulabildiği, organik maddece doyurulmuş ve hafif asidik bir ortamdır. Bahçede bunu toprağı işleyerek, saksıda ise doğru karışımla sağlarsınız. Aşağıda iki durumu ayrı ayrı, ölçüleriyle anlatıyoruz.
+
+## Gül toprağı nasıl olmalı?
+
+Royal Horticultural Society, gülün zengin, nemli ama iyi süzen bir toprakta en rahat büyüdüğünü yazıyor ([RHS, gül dikimi](https://www.rhs.org.uk/plants/roses/planting)). Mississippi State Üniversitesi yayım servisi, gül için ideal pH aralığını 6,0-6,5 olarak veriyor ([MSU Extension, gül yetiştirmenin püf noktaları](https://extension.msstate.edu/lawn-and-garden/flower-gardens/techniques-and-tips-for-growing-good-roses)); Illinois Üniversitesi ise 6,0-7,0 arasını kabul edilebilir sayıyor ([Illinois Extension, gül yatağı hazırlığı](https://extension.illinois.edu/roses/preparation)). Yani nötre yakın, hafif asidik bir toprak aranıyor. Kireçli ve alkali topraklarda sararan yapraklar bu yüzden sık görülür.
+
+| Özellik | Hedef | Neden önemli |
+|---|---|---|
+| Süzek yapı | Su dibinde bekleyip durmamalı | Kök çürümesini önler |
+| Organik madde | Bol, olgun ve kokusuz | Nem ve besin deposu olur |
+| pH | Yaklaşık 6,0-6,5 (7,0'a kadar) | Demir ve fosfor alımı bu aralıkta rahat |
+| Derinlik | En az 30 cm gevşek toprak | Gül kökü derine iner |
+| Doku | Tınlı | Kil nem boğar, kum suyu kaçırır |
+
+## Bahçe gülü için toprak hazırlığı
+
+RHS, dikimden önce metrekareye en az bir kova olgun organik madde karıştırmayı ve bunu toprağın üst 20-30 cm'sine çatalla işlemeyi öneriyor. Aynı kaynak, yere dikilmiş gülün toprak sağlıklıysa ek besleme gerektirmediğini de not ediyor. Hazırlığı sonbaharda ya da erken ilkbaharda yapmak, toprağın dikimden önce oturmasını sağlar.
+
+İç Anadolu'daki gibi killi ve kışın soğuk topraklarda sorun suyun durmasıdır. Dikim çukurunu geniş açın, dibini çatalla gevşetin; kil için [killi toprağı iyileştirme](/killi-toprak-nasil-iyilestirilir) yazısındaki yöntemler gül yatağında da işe yarar. Ege ve Akdeniz kıyısında ise sorun çoğu kez tersidir: Kumlu toprak suyu da besini de çabuk kaçırır. Orada olgun kompost miktarını artırmak ve çukurun dibine kalın bir organik yatak koymak gerekir; ayrıntı için [kumlu toprak ıslahı](/kumlu-toprak-islahi) yazısına bakabilirsiniz.
+
+Önemli bir ayrıntı daha var: Eski gül yerine yeni gül dikecekseniz aynı çukuru kullanmayın. Eski kökün çevresindeki toprağı bir kürek derinliğinde değiştirmek, yeni fidanın zayıf başlamasını önler.
+
+## Saksı gülü için karışım
+
+Saksıda gül toprağı bahçeden farklı düşünülmelidir. Bahçe toprağı kapta çabuk sıkışır, drenajı bozar ve kök hava bulamaz. Saksı gülünde derin, en az 30-40 cm yüksekliğinde ve dibinde yeterli delik olan bir kap seçin. Delik ne kadar fazlaysa o kadar iyi; bir delik yetmiyorsa üç dört delik açın.
+
+Genel karışım mantığı, iki parça kaliteli torflu saksı toprağına bir parça olgun kompost katmak ve drenajı artırmak için bir miktar perlit eklemektir. Genel saksı toprağı hazırlığını [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısında adım adım bulabilirsiniz; perlit oranı için [perlit nedir ve nasıl kullanılır](/perlit-nedir-nasil-kullanilir) yazısı yol gösterir.
+
+[ürün:hg-gul-topragi-gullere-ozel-toprak-karisimi]
+
+Hazır karışım isteyenler için seçenek var. Ürün açıklamasına göre HG Gül Toprağı, torf, cocopeat, perlit, solucan gübresi ve toz leonarditi belirli oranlarda içeriyor (yüzde 35 torf, 20 cocopeat, 20 perlit, 15 solucan gübresi, 10 leonardit) ve saksı ile bahçe güllerinde dikim ya da saksı değişiminde kullanılabiliyor.
+
+::: karisim
+Torflu saksı toprağı | 50
+Olgun kompost ya da solucan gübresi | 25
+Perlit | 20
+Kaba kum ya da ince çakıl | 5
+:::
+
+## Dikimden önce süzek testi
+
+Toprağın suyu nasıl çektiğini tahmin etmek yerine ölçün. Dikim yerinde bir çukur açıp tamamen suyla doldurun, çekilmesini bekleyin, sonra ikinci kez doldurup su seviyesinin ne kadar sürede indiğini izleyin. Birkaç saat içinde çekiliyorsa toprak gül için uygundur. Ertesi güne kadar çukurda su duruyorsa yatağı yükseltin ya da çukurun dibini derin kazıp kaba malzemeyle gevşetin. Yağışlı Karadeniz ve Marmara'da bu test, özellikle ilkbahar yağmurlarından sonra yapıldığında gerçeği gösterir.
+
+## Hangi organik madde, ne kadar
+
+Olgun ahır gübresi, yaprak kompostu ve ev kompostu gül toprağına katılabilir. Ortak şart "olgun" olmasıdır: Kokusu toprak gibi, rengi koyu, ısınmayan malzeme. Taze gübre köklere zarar verir. Torf asidik olduğu için kireçli bahçede pH'ı bir miktar aşağı çekmeye yardım eder, ama tek başına tutulursa kuruyunca suyu geri almaz. Bu yüzden torfu kompostla ve mineral bir malzemeyle (perlit, iri kum) birlikte kullanın. Kompostun hazır olup olmadığını anlamak için [kompost ne zaman hazır olur](/kompost-ne-zaman-hazir-olur) yazısındaki olgunluk testine bakabilirsiniz.
+
+## Karışımı bozan yaygın hatalar
+
+Yeni gül sahipleri çoğunlukla aynı üç hatayı yapar. Birincisi, saksıya bahçeden kazılmış kil ağırlıklı toprak doldurmak. İkincisi, çiğ ya da taze gübreyi dikim çukuruna doğrudan koymak; kök yanar. Üçüncüsü ise saksının altına çanak koyup suyu orada bırakmaktır.
+
+::: belirti
+Yapraklar damar arası sararıyor | Toprak fazla alkali ya da kireçli, demir alımı zayıf | pH'ı ölçün, asidik torf ya da demirli besin eklemeyi düşünün
+Alt yapraklar sararıp dökülüyor, toprak ıslak | Süzek olmayan toprak, kök boğuluyor | Saksıyı kaldırıp delikleri açın, karışıma perlit ekleyin
+Büyüme durgun, toprak sert ve çatlak | Toprak sıkışmış, organik madde az | Üst katmanı gevşetip olgun kompost serin
+:::
+
+Toprağın pH değerini ölçmek için ucuz ölçüm şeritleri yeterli olabilir; yöntem ve düzeltme için [toprak pH değeri nedir](/toprak-ph-nedir) yazısına bakın.
+
+## Gül toprağını değiştirme adımları
+
+Saksıdaki gül iki üç yılda bir toprağını yenilemeyi ister. Toprak sıkışır, tuz birikir, kökler saksıyı doldurur.
+
+1. Sulamayı bir gün önce yapın; kök topağı dağılmasın.
+2. Gülü saksıdan çıkarın, kökleri inceleyin; kararmış ya da yumuşamış kökleri temiz bir makasla kesin.
+3. Eski topraktan yaklaşık üçte birini silkeleyin.
+4. Yeni karışımı saksının dibine ve yanlara doldurun; kök boğazı toprak seviyesinde kalsın.
+5. Derin sulayın, ilk iki hafta öğle güneşinden koruyun.
+
+Dikim çukuruna gelince, çıplak köklü mü saksılı mı fidan alacağınız toprak hazırlığını da etkiler; [gül fidanı dikimi](/gul-fidani-dikimi-ciplak-kokulu-mu-saksili-mi) yazısı bunu ayrıca anlatıyor. Dikimden sonra beslenme düzeni için [gül gübreleme](/gul-gubreleme) yazısı uygundur.
+
+## Mevsime göre toprak bakımı
+
+Bahçede ilkbahar başında gülün dibindeki toprağı hafifçe çapalayıp üzerine bir avuç olgun kompost yaymak yeter. Yazın sıcak bölgelerde 5 cm kalınlığında organik malç, nemi tutar ve toprağı sıcaktan korur; gövdeye değdirmeyin. Saksıda yaz sulamasını sabahları yapın, çünkü küçük kapların toprağı öğleden sonra çabuk kurur. Kışın saksıyı dondan koruyun; ıslak ve donan toprak kökleri zedeler.
+
+## Sık sorulan karışım sorunları
+
+Toprağın yüzeyinde beyaz tuz tabakası görürseniz, sulama suyu sert ya da besin fazla verilmiştir. Üst birkaç santimi alıp yenisiyle değiştirin ve saksıyı bol su ile yıkayın. Yosun ya da küf, toprağın çok nemli ve havasız kaldığını gösterir; sulamayı azaltıp havalandırın.
+
+@sss
+S: Gül toprağı pH'ı kaç olmalı?
+C: Mississippi State Extension ideal aralığı 6,0-6,5 olarak veriyor; Illinois Extension 6,0-7,0'a kadar kabul ediyor. Yani hafif asidik ile nötr arası uygundur. Çok kireçli topraklarda yapraklar sararabilir.
+
+S: Gül için saksıya bahçe toprağı doldurabilir miyim?
+C: Tek başına doldurmayın. Bahçe toprağı kapta sıkışır ve drenajı bozar. Torflu bir saksı toprağını olgun kompost ve perlitle karıştırarak havadar bir ortam hazırlayın.
+
+S: Gülün toprağı ne kadar derin hazırlanmalı?
+C: Bahçede toprağın üst 20-30 cm'sini gevşetip olgun organik madde karıştırmak önerilir (RHS). Saksıda ise en az 30-40 cm yükseklikte, drenaj delikli bir kap yeterlidir.
+
+S: Eski gül yerine yeni gül dikilir mi?
+C: Aynı çukura doğrudan dikmek önerilmez; yeni fidan zayıf başlayabilir. Eski çukurdaki toprağı bir kürek derinliğinde değiştirin ya da fidanı birkaç adım ötesine dikin.
+### YAZI
+slug: su-sayaci-sulama-hesabi-sulama-suyu-nasil-olculur
+baslik: Su Sayacı Sulama Hesabı: Sulama Suyu Nasıl Ölçülür?
+yayin: 2027-04-19 11:35
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: su sayacı sulama
+seo_baslik: Su Sayacı Sulama Hesabı: Suyu Litreyle Ölçmek
+seo_aciklama: Su sayacı sulama için nasıl okunur? Sayaç, kova testi ve kavanoz yöntemiyle bahçeye verdiğiniz suyu litre ve milimetre olarak hesaplamanın adımları.
+ozet: Bahçeye ne kadar su verdiğinizi ölçmenin üç yolu var: su sayacı, kova testi ve kavanoz (catch can) testi. Sayaçtaki metreküpü litreye, litreyi metrekare başına milimetreye çevirdiğinizde sulama tahminden hesaba döner.
+etiketler: su sayacı, sulama hesabı, litre hesabı, kova testi, sulama suyu ölçümü, milimetre
+gorsel: bekliyor
+gorsel_alt: Bahçe musluğuna takılmış küçük su sayacı ve yanında on litrelik kova
+urunler: sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu, sgs-3-fonksiyonlu-sulama-tabancasi, hg-bol-verimli-sebze-topragi
+kisaca: Su sayacı sulama hesabında iki okuma arasındaki farktır: sulamadan önceki ve sonraki rakamı yazın, farkı litreye çevirin (1 m³ = 1000 litre). Bu litreyi sulanan alana bölerseniz metrekareye düşen suyu bulursunuz; 1 litre/m² = 1 mm sudur. Sayaç yoksa kova testi aynı işi görür.
+@govde
+Bahçeye ne kadar su verdiğinizi çoğu kişi "yeterince uzun tuttum" diye bilir. Oysa aynı hortum, musluğun ne kadar açık olduğuna ve hattın basıncına göre iki kat farklı debi verebilir. Su sayacı sulama miktarını tahminden çıkarıp sayıya çevirir; sayaç yoksa kova ve kavanozla da aynı sonuca ulaşılır. Aşağıda üç yöntemi, litre-milimetre dönüşümünü ve küçük bir bahçeden dekarlık araziye uzanan hesap tablosunu veriyoruz.
+
+## Su sayacı sulama için nasıl okunur?
+
+Mekanik sayaçlarda çoğunlukla siyah rakamlar tam metreküpü, kırmızı rakamlar ve kadran ibreleri metreküpün binde birlerini yani litreyi gösterir. Sayacın üzerindeki yazı birimi söyler; emin değilseniz üretici etiketine ya da su idaresine sorun. Okuma basit: Sulamaya başlamadan önceki rakamı not alın, sulamayı bitirince yeniden okuyun, farkı bulun. Aynı anda evde başka musluk, sifon, çamaşır makinesi çalışıyorsa fark yanıltır; sulama sırasında diğerlerini kapalı tutun.
+
+Bahçe için ayrı alt sayaç (ikinci sayaç) taktırabilirsiniz; bu durumda sayaç yalnız bahçe hattını ölçer ve ev tüketiminden ayrışır. Yetki ve kurallar belediyenin ya da su idaresinin kararıdır; bahçe sulaması için ayrı abonelik veya alt sayaç uygulaması yerelde farklı olabilir, başvurmadan önce sorun.
+
+## Litre ve milimetre dönüşümü
+
+Sulama hesabında işleri kolaylaştıran tek bilgi şudur: 1 metrekareye 1 litre su, 1 milimetre derinlikte su demektir. Yani 10 mm sulama, her metrekareye 10 litre verilmesi anlamına gelir. 1 metreküp 1000 litredir. Türkiye'de dekar (halk arasında dönüm) 1000 metrekaredir; 10 mm sulama 1 dekarda 10 metreküp eder.
+
+| Alan | 5 mm | 10 mm | 20 mm |
+|---|---|---|---|
+| 10 m² balkon/yatak | 50 litre | 100 litre | 200 litre |
+| 50 m² ev bahçesi | 250 litre | 500 litre | 1000 litre (1 m³) |
+| 1 dekar (1000 m²) | 5 m³ | 10 m³ | 20 m³ |
+
+Bu tablo "ne kadar verdim" sorusunun cevabıdır; "ne kadar vermeliyim" sorusu toprağa, bitkiye ve havaya bağlıdır. Kök bölgesinin ne kadar nemlendiğini anlamak için [toprak nemi nasıl ölçülür](/toprak-nemi-olcme) yazısını, günün hangi saatinde sulamanın daha verimli olduğu için [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısını okuyabilirsiniz.
+
+## Kova testi: sayaç yoksa debiyi ölçmek
+
+Hortum ya da boru ucundan akan suyu ölçmek için 10 litrelik bir kova yeterlidir. Hortumu normal sulama açıklığında kovaya doğrultun, kovanın dolma süresini saniye cinsinden not edin ve şu formülü uygulayın: Debi (litre/dakika) = 10 ÷ süre (saniye) × 60. Kova 40 saniyede doluyorsa debi 15 litre/dakikadır. Bahçede 150 litre su vermek istiyorsanız 10 dakika sulamak gerekir.
+
+[ürün:sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu]
+
+Hortum değiştirmeyi düşünüyorsanız ürün adı olarak SGS Premium Flex 1/2 inç, 20 metre, üç katlı örgülü bahçe hortumunu listeden görebilirsiniz; ürün sayfasında teknik açıklama bulunmadığı için burada ölçü bilgisinin ötesine geçmiyoruz. Hangi hortumu kullanırsanız kullanın debiyi yeniden ölçün, çünkü uzunluk ve çap akışı değiştirir.
+
+## Kavanoz (catch can) testi: yağmurlama ve el sulaması
+
+Yağmurlama başlığı ya da sulama tabancasıyla verilen suyu ölçmek için aynı boyda, düz kenarlı kaplar kullanılır. Utah State Üniversitesi yayım servisi ve Minnesota Üniversitesi yayım servisi bu yöntemi yaygın önermektedir: kaplar alana eşit aralıkla dizilir, sistem belli süre çalıştırılır ve her kaptaki su derinliği ölçülür ([USU Extension, basit yağmurlama testi](https://extension.usu.edu/cwel/research/simple-sprinkler-performance-testing-for-cache-county); [Minnesota Extension, bahçe sulama sistemi denetimi](https://extension.umn.edu/lawn-care/auditing-home-lawn-irrigation-systems)). USU'nun formülü şöyle: sulama hızı (inç/saat) = [kaplardaki ortalama derinlik ÷ süre (dakika)] × 60. Milimetreyle çalışırsanız aynı mantık geçerli: ortalama derinlik mm, süre dakikaysa sonuç mm/saat olur.
+
+Kaplar eşit dolmuyorsa bazı yerler fazla, bazıları az sulanıyordur. Minnesota yayım servisi, dağılım düzgünlüğü yüzde 60'ın altındaki sistemlerin ayarlanması gerektiğini belirtiyor. Evde bunun karşılığı şudur: En az dolan kaplar ortalamanın çok altındaysa başlıkları sıklaştırın ya da yerini değiştirin.
+
+::: adimlar
+Aynı boyda 8-12 kap alın | Tuna kutusu, bardak ya da kesilmiş şişe olabilir; kenarlar düz olsun.
+Kapları eşit aralıkla dizin | Sulanan alana ızgara düzeninde yayın.
+Sistemi sabit sürede çalıştırın | Örneğin 30 dakika; süreyi not edin.
+Su derinliklerini cetvelle ölçün | Her kabın değerini yazıp ortalamasını alın.
+Hızı hesaplayın | Ortalama derinlik ÷ süre × 60 = mm/saat.
+Hedef süreyi bulun | İstediğiniz mm'yi hıza bölüp 60 ile çarpın, dakika bulursunuz.
+:::
+
+## Damla sulamada hesap
+
+Damla hattında sayaç, katalogdaki debiyi doğrulamak için de işe yarar. Damlatıcı sayısı çarpı damlatıcı debisi, hattın saatlik debisini verir; ölçüm ve süre ayarı için [damla sulama hesabı](/damla-sulama-hesabi) yazısı ayrıntılı. Sayaçla yapılan kontrolde sonuç hesaptan düşük çıkıyorsa filtre tıkalı olabilir, yüksek çıkıyorsa bir yerde kaçak vardır. Şebeke suyu yoksa depodan sulama yapıyorsanız litre ölçümü daha da önemlidir; [su deposuyla sulama](/su-deposuyla-sulama) yazısında depo hacminin nasıl kullanılacağı anlatılıyor.
+
+## Sayaçla bahçe planı yapmak
+
+Su sayacı sulama kayıtlarıyla bir sezon boyunca not tutulursa planlama aracı olur. Her sulamadan sonra tarih, süre, litre ve hava durumunu bir deftere yazın. Birkaç hafta sonra hangi bitkinin hangi haftalarda ne kadar su istediği görünür. Aynı alana yağmur yağdığında verdiğiniz suyun azaltıldığını da bu kayıtla fark edersiniz. Kuyu suyuyla sulayanlar için kaynağın kapasitesi ve izin konuları ayrı bir başlıktır; [tarımsal sulama kuyusu](/tarimsal-sulama-kuyusu) yazısı onu ele alıyor.
+
+## Kaçak kontrolü için sayaç
+
+Sayacın en az bilinen işlevi kaçak bulmaktır. Bahçe dahil bütün muslukları kapatın ve sayacın üzerindeki küçük dönen çarka (bazı modellerde yıldız ya da çark işareti) bakın. Hâlâ dönüyorsa hat boyunca bir yerde su akıyor demektir. Bu kontrolü sulama sezonunun başında, hortumları ve damla hatlarını bağlamadan önce yapın; sonra bağlantıları bağlayıp bir kez daha bakın. İki kontrol arasındaki fark, hattın sızdırdığı yeri daraltır. Bu yöntem, su sayacı sulama düzenindeki gizli kayıpları hızlıca ortaya çıkarır.
+
+## Yağmurla birlikte hesap
+
+Yağmur yağdıysa sulama hesabı değişir. Yağmur ölçer ile yağışı milimetre olarak ölçebilir, bahçeye düşen suyu sayaçla verdiğiniz suya ekleyebilirsiniz. Örneğin hafta hedefiniz 25 mm ise ve yağmur 10 mm bıraktıysa sayaçla yalnızca 15 mm vermeniz yeter; bu da 50 m²'lik alan için 750 litre eder. Küçük bir kova ya da düz kenarlı bir kap bile yağmur ölçer olarak kullanılabilir; kabı açık alana, ağaç altından uzak yere koyun ve her yağıştan sonra cetvelle ölçün.
+
+## Sık yapılan ölçüm hataları
+
+- Sayacı sulama sırasında okuyup bitişte okumamak: İki okuma arasındaki fark gerekir.
+- Evdeki diğer musluklar açıkken ölçüm almak.
+- Kovanın doldurulduğu süreyi kısa tutup yuvarlamak; en az 3 ölçüm alıp ortalayın.
+- Kavanoz testini rüzgârlı günde yapmak: Su savrulur, sonuç yanıltır.
+- Litreyi metrekareye bölmeyi unutmak; 100 litre, 10 m²'ye 10 mm eder, 100 m²'ye 1 mm.
+
+## Hızlı örnek
+
+Sayaç sabah 482,314 m³, sulamadan sonra 482,414 m³ gösteriyor. Fark 0,100 m³, yani 100 litre. Bu su 20 m²'lik sebze alanına verildiyse 5 litre/m², yani 5 mm sulamadır. Hedefiniz 10 mm ise aynı süreyi ikiye katlamanız gerekir.
+
+@sss
+S: Su sayacı sulama miktarını nasıl gösterir?
+C: Sulamadan önce ve sonra sayacı okuyup farkı alırsınız. Fark metreküp ise 1000 ile çarpıp litreye çevirirsiniz. Litreyi sulanan metrekareye bölerseniz bulduğunuz değer milimetre cinsinden sulama derinliğidir.
+
+S: 1 mm sulama kaç litre eder?
+C: Her metrekare için 1 litredir. 10 mm sulama 1 m²'ye 10 litre, 1 dekara (1000 m²) 10 metreküp su demektir. Bu dönüşüm bütün sulama hesaplarının temelidir.
+
+S: Sayacım yoksa hortumdan akan suyu nasıl ölçerim?
+C: 10 litrelik bir kovayı hortumdan doldurup süreyi saniye olarak tutun. Debi (litre/dakika) = 10 ÷ süre × 60. Üç kez ölçüp ortalayın; ardından sulama süresini hedef litreye göre ayarlayın.
+
+S: Kavanoz testi için kaç kap gerekir?
+C: Üniversite yayım servisleri en az 10-12 aynı boyda kap önerir. Kapları ızgara düzeninde dizip sistemi 30-60 dakika çalıştırın, derinlikleri ölçüp ortalamasını alın.
+### YAZI
+slug: tohum-yapisi-kabuk-besin-deposu-ve-embriyo
+baslik: Tohum Yapısı: Kabuk, Besin Deposu ve Embriyo Nasıl Çalışır?
+yayin: 2027-04-19 14:05
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: tohum yapısı
+seo_baslik: Tohum Yapısı: Kabuk, Besin Deposu ve Embriyo
+seo_aciklama: Tohum yapısı nasıldır? Tohum kabuğu, endosperm ya da çenek yaprağı ve embriyonun görevleri; fasulye ile mısır tohumunun farkı ve ekime yansıması.
+ozet: Bir tohum üç parçadan oluşur: koruyan kabuk, besin deposu ve minik bir bitki olan embriyo. Parçaların görevini bilmek ekim derinliğini, ıslatma ihtiyacını ve tohumun neden bazen çimlenmediğini açıklar.
+etiketler: tohum yapısı, tohum kabuğu, embriyo, endosperm, çenek yaprağı, çimlenme
+gorsel: bekliyor
+gorsel_alt: Ortadan ikiye açılmış ıslak fasulye tohumunda çenek yaprakları ve küçük embriyo
+urunler: hg-fide-topragi, hindistan-cevizi-torfu-tablet-cocopeat-12-adet, arzuman-oturak-barbunya-tohumu-50-gr
+kisaca: Tohum yapısı üç parçaya ayrılır: embriyo (minik bitki), besin deposu (endosperm ya da çenek yaprakları) ve koruyucu tohum kabuğu. Çimlenme, kabuğun su alıp çatlamasıyla başlar; önce kökçük çıkar, sonra sürgün yukarı yönelir ve depodaki besin tükenene kadar fideyi besler.
+@govde
+Bir fasulyeyi ıslatıp ikiye ayırdığınızda içinde yeşil, ufak bir bitkinin hazır beklediğini görürsünüz. Her tohum, tek hücreden çok az ilerlemiş bir bitki, yanında azıcık yiyecek ve üzerinde bir zırh taşır. Tohum yapısını tanımak ekimde hangi hatanın neden zarar verdiğini açıklar: Derin ekilen küçük tohum neden çıkamaz, sert kabuklu tohum neden bekler, eski tohum neden çimlenmez. Parçalara tek tek bakalım.
+
+## Tohum yapısı: üç temel parça
+
+Çiçekli bitkilerin tohumu genellikle üç ayrı bölümden oluşur: embriyo, depo dokusu ve tohum kabuğu. Vikipedi'nin tohum maddesi bu üç parçayı tanımlar; embriyonun döllenmiş yumurta hücresinden, kabuğun ise ana bitkinin dokusundan geldiğini belirtir ([Vikipedi, Seed](https://en.wikipedia.org/wiki/Seed)). Minnesota Üniversitesi'nin açık bahçecilik ders kitabında tohum morfolojisi ayrı bir bölüm olarak işlenir ([UMN, tohum morfolojisi](https://open.lib.umn.edu/horticulture/chapter/9-1-seed-morphology/)).
+
+| Parça | Ne işe yarar | Bahçedeki karşılığı |
+|---|---|---|
+| Tohum kabuğu (testa) | Embriyoyu korur, suyun girişini ve çimlenme zamanını denetler | Sert kabuklu tohumun ıslatma ya da çizme ihtiyacı |
+| Depo dokusu (endosperm ya da çenek) | İlk günlerin besinini taşır | Büyük tohumun güçlü, küçük tohumun zayıf başlangıcı |
+| Embriyo | Kök, gövde ve ilk yapraklara dönüşecek minik bitki | Çimlenme canlılığı, tohum ömrü |
+
+## Tohum kabuğu: koruyan ve bekleten zırh
+
+Tohum kabuğu çiçekteki tohum taslağının dış zarlarından oluşur; Ankara Üniversitesi açık ders notları, kabuğun yalnız korumakla kalmayıp çimlenmeyi de denetlediğini yazar ([Ankara Üniversitesi, tohum gelişimi ve oluşumu](https://acikders.ankara.edu.tr/mod/resource/view.php?id=175010)). Kabuk ince ve geçirgen olabilir (marul, fasulye) ya da sert ve su geçirmez (bamya ve bazı baklagillerde olduğu gibi). Sert kabuğun görevi tohumu uygun mevsim gelene kadar uykuda tutmaktır; bu yüzden ekimden önce ıslatma ya da soğuğa yatırma gibi yöntemler uygulanır. Hangi tohum için hangi işlemin işe yaradığını [tohum ıslatma](/tohum-islatma) ve [tohum soğuklama](/tohum-soguklama-stratifikasyon) yazılarında ayrı ayrı anlattık.
+
+Kabuğa dair pratik bir uyarı: Tohumu ovmak, çatlatmak ya da zımparalamak sert kabuklarda işe yarasa da ince kabuklu tohumda embriyoyu bozar. İşlemi tohumun türüne göre yapın.
+
+## Besin deposu: endosperm ve çenek yaprakları
+
+Embriyonun ilk günlerde yiyeceği tohumun içindedir. İki ana düzen vardır. Mısır, buğday ve soğan gibi tek çenekli bitkilerde besin çoğunlukla endospermde durur; çenek yaprağı bir tanedir ve besini embriyoya aktarmaya yardım eder. Fasulye, bezelye, kabak ve ayçiçeği gibi çift çenekli bitkilerin birçoğunda ise besin kalın çenek yapraklarında depolanır. Farkı kendiniz de görebilirsiniz: Islatılmış fasulyede kalın çenek yaprakları, mısır tanesinde ise beyaz, unsu endosperm öne çıkar.
+
+Bahçıvan açısından anlamı şudur: Depo ne kadar büyükse fide o kadar uzun süre toprağın altından ışığa ulaşabilir. Bu yüzden fasulye 3-4 cm derine ekilirken marul, havuç ve roka gibi küçük tohumlar neredeyse yüzeye serpilir. Gerçek derinlik değerleri için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazısına bakın. Genel kural, tohum küçüldükçe ekim derinliğinin de azalmasıdır.
+
+## Fasulye ile mısırı karşılaştırın
+
+| | Fasulye (çift çenekli) | Mısır (tek çenekli) |
+|---|---|---|
+| Çenek sayısı | İki, kalın ve etli | Bir, ince |
+| Besin nerede | Çenek yapraklarında | Endospermde (unsu beyaz doku) |
+| Çimlenme sonrası | Çenekler toprak üstüne çıkıp yeşillenebilir | Çenek toprak altında kalır, yaprak kını çıkar |
+| Pratik sonuç | Çimlenen fideyi tutarken çenekleri koparmayın | İnce sürgün ucu toprak kabuğunu zor deler |
+
+Bu fark, aynı sulama ve ekim düzeninin neden her tohumda aynı sonucu vermediğini açıklar. Fasulyede çenek yapraklarını koparan ya da kemirgen tarafından yenen fide güçsüz kalır; mısırda ise ince sürgüğün sıkı toprak kabuğunu delmesi güçleşir, bu yüzden ekimden sonra yüzeyi hafif nemli ve gevşek tutmak gerekir.
+
+## Embriyo: kök, gövde ve ilk yapraklar
+
+Embriyo, tohumun yaşayan kısmıdır. Üç parçası öne çıkar: Kökçük (radikül) ilk çıkan organdır, toprağa tutunur ve su arar; hipokotil kökçükle çenek yaprakları arasındaki gövde parçasıdır; epikotil ya da plümül ise çenekten yukarıdaki sürgün ucudur ve ilk gerçek yaprakları verir. Fide çıktıktan sonra çenek yaprakları yeşile dönüp bir süre yaprak gibi çalışabilir; fasulyede iki kalın yaprak olarak görünürler. Fide dikerken çenek yapraklarını zedelememek bu yüzden önemlidir.
+
+## Çimlenme adım adım
+
+::: adimlar
+Su alma | Kuru tohum suyu emerek şişer; kabuk yumuşar ve çatlar.
+Uyanma | Hücreler canlanır, depodaki besin parçalanıp embriyoya taşınır.
+Kökçük çıkışı | İlk dışarı çıkan organ kökçüktür; toprağa yönelir.
+Sürgün yükselişi | Gövde ve çenek yaprakları toprak yüzüne doğru uzar.
+Işığa çıkış | Yaprak yeşillenir, fide kendi fotosentezine geçer.
+:::
+
+University of Florida'nın yayılım rehberi, çimlenmenin su alımıyla başladığını ve kökçüğün çıkışıyla ilerlediğini anlatır ([UF/IFAS, tohum çimlenmesi](https://propg.ifas.ufl.edu/04-seeds/03-germination/04-seedsgermination-germination.html)). Bu süreçte iki şey olmazsa çimlenme olmaz: Tohumun suya ve havaya (oksijene) ulaşması. Bu yüzden suya gömülü tohum çürür, kuru kalan ise hiç uyanmaz.
+
+[ürün:hg-fide-topragi]
+
+Çimlenme ortamı olarak hafif ve nemi dengeli tutan bir karışım gerekir. HG Fide Toprağı ürün açıklamasında tohum çimlendirme ve genç fidelerin erken gelişimi için hazırlanmış bir karışım olarak tanıtılıyor; bahçe toprağı kaba ve ağır olduğunda bu tür hazır ortamlar tercih edilebilir.
+
+## Evde yapılacak küçük deney
+
+Tohum yapısını kendi gözünüzle görmenin kolay bir yolu var. Büyük bir fasulyeyi gece boyu suda bekletin, sabah kabuğunu soyun ve ikiye ayırın.
+
+1. Bir kuru fasulye tanesini bir bardak suya bırakın, ertesi güne kadar bekletin.
+2. Şişmiş tohumun kabuğunu tırnağınızla soyun.
+3. Tohumu ortasından ikiye ayırın; iki kalın çenek yaprağı görürsünüz.
+4. Kıvrık kenarın yakınında küçük bir uç göreceksiniz: Bu, kökçük ve sürgün taslağıdır.
+5. Aynı işi mısır tanesiyle yapın; çenek ince, besin dokusu ise beyaz ve unsu olacaktır.
+
+Çocuklarla yapılan çimlenme deneyi için [pamukta fasulye çimlendirme](/pamukta-fasulye-cimlendirme) yazısı da faydalıdır.
+
+## Bahçede tohum yapısından çıkan kurallar
+
+- Küçük tohum az besin taşır: Yüzeye yakın ekin, toprağı ince eleyin.
+- Sert kabuklu tohum su geçirmez: Ekimden önce ıslatma ya da soğuk uygulaması gerekir.
+- Embriyo canlı bir dokudur ve zamanla ölür; eski tohumda çimlenme düşer. Ekimden önce canlılığı [tohum çimlenme testi](/tohum-cimlenme-testi) ile ölçün; tohum ömürleri için [tohumlar kaç yıl saklanır](/tohumlar-kac-yil-saklanir) yazısına bakın.
+- Kaplı tohumda kabuğun dışına ek bir tabaka sarılır; ayrıntısı [kaplı tohum nedir](/kapli-tohum-nedir) yazısında.
+- Toprağın üstü sıkı kabuk bağlarsa sürgün yüzeye çıkamaz; ekimden sonra hafif sulayın ve kabuğu kırmayın.
+
+## Sık yapılan hatalar
+
+Tohumu derine gömmek en yaygın hatadır. Kökçük çıkar ama besin tükenmeden yüzeye ulaşamaz. Bir diğer hata, tohumu suda uzun bekletmektir; oksijensiz kalan embriyo boğulur. Tohumu sıcak ve nemli saklamak da embriyoyu erken uyandırıp tüketir. Üçüncü hata, her tohumu aynı şekilde işlemektir: Marul, domates ve havuç gibi ince kabuklu tohuma sert kabuk işlemi uygulanmaz.
+
+## Ev ve bahçe için özet
+
+Tohum, korumalı bir paket içinde bekleyen küçük bir bitkidir. Kabuk, depo ve embriyo birlikte çalışır; birini bozarsanız çimlenme bozulur. Ekim derinliğini tohumun büyüklüğüne, ön işlemi kabuğun sertliğine, saklama koşullarını embriyonun canlılığına göre ayarlayın.
+
+@sss
+S: Tohum yapısı hangi parçalardan oluşur?
+C: Üç parçadan: tohum kabuğu (koruma ve zamanlama), besin deposu (endosperm ya da çenek yaprakları) ve embriyo (kök, gövde ve ilk yapraklara dönüşecek minik bitki). Çimlenmede üçü birlikte çalışır.
+
+S: Endosperm ile çenek yaprağı aynı şey mi?
+C: Değil. Endosperm tohumun içindeki ayrı bir besin dokusudur (mısır, buğday). Çenek yaprağı ise embriyonun parçasıdır; fasulye ve bezelyede besini kendi içinde depolar.
+
+S: Tohum neden derin ekilince çıkmaz?
+C: Fide toprak yüzüne ulaşmadan tohum içindeki besin tükenir. Küçük tohumların deposu küçüktür; bu yüzden küçük tohumlar yüzeye yakın, büyük tohumlar daha derine ekilir.
+
+S: Çimlenme tohumun neresinden başlar?
+C: Tohum suyu emip şişer, kabuk çatlar ve ilk olarak kökçük çıkar. Kökçük toprağa tutunduktan sonra sürgün ve çenek yaprakları yüzeye yönelir.
+### YAZI
+slug: bal-hasat-zamani-petek-doluluk-ve-nem-olcutleri
+baslik: Bal Hasat Zamanı: Petek Doluluk ve Nem Ölçütleri
+yayin: 2027-04-19 19:30
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: bal hasat zamanı
+seo_baslik: Bal Hasat Zamanı: Petek Doluluk ve Nem Ölçütleri
+seo_aciklama: Bal hasat zamanı nasıl anlaşılır? Petekte mum kapak oranı, sallama testi ve refraktometre ile nem ölçümü; olgunlaşmamış balı almamanın nedenleri.
+ozet: Bal, petek gözlerinin büyük bölümü mumla kapatıldığında ve nem oranı yaklaşık yüzde 18 civarına indiğinde hasat edilir. Kapalı petek oranı, sallama testi ve refraktometre birlikte kullanılırsa olgunlaşmamış bal tavandan ayrılır.
+etiketler: bal hasat zamanı, petek, kapalı petek, bal nemi, refraktometre, arıcılık
+gorsel: bekliyor
+gorsel_alt: Üstü mumla kapanmış doluluğa yakın bir bal peteği çerçevede tutuluyor
+urunler: galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm, galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm
+kisaca: Bal hasat zamanı, petek gözlerinin yaklaşık yüzde 80'inin arılar tarafından mumla kapatıldığı ve çerçeve sallandığında gözlerden bal damlamadığı andır. Nem, refraktometreyle ölçülür; yaklaşık yüzde 18,6 ve altı güvenli kabul edilir. Daha ıslak balı almak mayalanma riski doğurur.
+@govde
+Arı kovanında çerçeveyi kaldırdığınızda göz önünde dolu görünen petek her zaman hasada hazır değildir. Arı, nektarı baldan çok suya yakın bir hâlde getirir ve kanat çırparak suyunu uçurur; su yeterince çekilince göz mumla kapatılır. Bal hasat zamanını belirleyen şey takvim değil, bu kapatma ve nem durumudur. Aşağıda üç ölçütü, mevsim ve bölge farkını, adım adım hasat işlemini ve en yaygın hataları anlatıyoruz.
+
+## Bal hasat zamanı nasıl anlaşılır?
+
+Üç sinyal birlikte aranır: kapalı petek oranı, sallama testi ve nem ölçümü.
+
+| Ölçüt | Hasada hazır işareti | Hazır olmayan işareti |
+|---|---|---|
+| Mum kapak | Gözlerin yaklaşık yüzde 80'i kapalı | Çoğu göz açık, parlak ve ıslak |
+| Sallama testi | Çerçeve sallanınca bal fırlamaz | Gözlerden bal sıçrar ya da damlar |
+| Nem (refraktometre) | Yaklaşık yüzde 18,6 ve altı | Yüzde 20'nin üzeri |
+
+Oklahoma State Üniversitesi yayım servisi, bir çerçevenin yaklaşık yüzde 80 gözü mumla kapandığında hasada hazır sayılabileceğini yazar ve çerçeveyi hafifçe sallamayı önerir: Gözlerden bal sızıyorsa bal olgunlaşmamıştır ve çerçeve kovanda bırakılmalıdır ([OSU Extension, bal hasat yöntemleri](https://extension.okstate.edu/fact-sheets/beekeeping-honey-harvest-methods-costs-and-breakeven-calculations)). Hawaii Üniversitesi'nin arıcılık kitapçığı ([Hawaii Üniversitesi Hilo, arıcılık kitapçığı](https://hilo.hawaii.edu/academics/cafnrm/faculty/documents/BeekeepingInHawaiiBooklet.pdf)) ise daha sıkı bir ölçüt kullanır ve yaklaşık yüzde 75 kapalı göz yeterli sayılır; yani kaynaklar yüzde 75-80 arasında değişir ve ne kadar tam kapalı olursa o kadar güvenlidir.
+
+## Kapalı petek ne anlatır?
+
+Arı, nektarın suyunu yeterince çekince gözü ince bir mum kapakla kapatır. UC Davis Gıda Güvenliği yayını, arıların balı yaklaşık yüzde 18,6 nemde mumla kapatarak olgunlaştırdığını ve bu seviyenin güvenli hasat eşiği olarak kabul edildiğini belirtir ([UC Davis, bal hakkında her şey](https://ucfoodsafety.ucdavis.edu/sites/g/files/dgvnsk7366/files/inline-files/279185.pdf)). Nebraska Üniversitesi'nin arıcılık rehberi, yüzde 18'in altındaki nemin balın mayalanmasını önlediğini söyler ([Nebraska Extension, NebGuide](https://extensionpubs.unl.edu/publication/g2362/2025/pdf/view/g2362-2025.pdf)). Rakamlar kaynaktan kaynağa küçük farklar gösterir; kural basit: Ne kadar düşükse o kadar güvenli.
+
+Kapalı petek yeterli bir ipucu olsa da tek başına kesin değildir. Oklahoma State kaynağı, olgun hasadın nem hedefini geniş bir aralıkla (yüzde 17-21) verir; nemli bölgelerde mumla kapanmış balın bile istenenden ıslak olabileceği bilinir. Bu yüzden bir refraktometre almak ve numuneyi ölçmek en emin yoldur.
+
+## Sallama testi
+
+::: adimlar
+Çerçeveyi dikkatle çıkarın | Arıları sakin tutun, dumanı az kullanın.
+Yatay tutun | Petek yüzü yere paralel olsun.
+Bir iki kez hafif silkeleyin | Çerçeveyi tek elle, kısa hareketle sallayın.
+Gözlere bakın | Bal sıçrıyor ya da akıyorsa olgun değildir.
+Karar verin | Sızıntı varsa çerçeveyi kovana geri koyun, birkaç gün bekleyin.
+:::
+
+## Refraktometre ile nem ölçümü
+
+Bal refraktometresi, bir damla balın ışığı kırma açısından su oranını okur. Kullanmadan önce cihazı kalibre edin (üreticinin yönergesi), balı oda sıcaklığında ölçün ve birkaç farklı çerçeveden numune alın. Ölçüm yüzde 18-18,6 civarındaysa balı almakta sakınca yoktur. Yüzde 20'nin üstünü almadan önce çerçeveleri kovanda biraz daha bekletin ya da kuru ve havadar bir odada nemini düşürün. Satışa sunulan balın nem ve diğer ölçütleri Türk Gıda Kodeksi Bal Tebliği'yle belirlenir; arıcılar için hazırlanan resmî çiftçi broşürü tebliğin ana başlıklarını özetler ([Tarım ve Orman Bakanlığı, Bal Tebliği çiftçi broşürü](https://arastirma.tarimorman.gov.tr/etae/Belgeler/EgitimBrosur/119-ciftcibro.pdf)). Güncel nem sınırı için tebliğin yürürlükteki metnine bakın.
+
+[ürün:galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm]
+
+Hasat sırasında çerçeveleri kaldırmak bel ve dizi yorar. Galvaniz arı kovanı sehpası ürün açıklamasına göre kovanı yerden yaklaşık 50 cm yükseğe kaldırır, kovan tabanını nemden ve kemirgenden uzak tutar ve eğilmeden çalışmaya izin verir. Sehpa yalnız iskeleti içerir; kovan ve arıcılık ekipmanı pakete dahil değildir.
+
+## Mevsim ve bölge etkisi
+
+Bal hasat zamanı bölgeye ve çiçek akımına göre değişir. Akdeniz kıyısında ilkbaharda narenciye çiçek akımı erken başlar; iç Anadolu'da hasat çoğunlukla yaz aylarına denk gelir; yayla ve orman bölgelerinde geç akımlar yaz sonuna uzayabilir. Oregon State Üniversitesi yayım servisinin arıcılık podcast'inde temmuzda alınan balın nem oranının haziranda alınandan genellikle daha düşük olduğu belirtilir ([OSU Extension, arıcılık görüşmesi](https://extension.oregonstate.edu/podcast/pollination-podcast/56-dr-ramesh-sagili-how-make-lot-honey-year)). Yağışlı ve nemli yıllarda akım uzar, bal geç olgunlaşır. Yerel arıcılar ve il ya da ilçe tarım müdürlüğü, bölgenizin akım takvimi için en iyi kaynaktır. Çevrenizdeki çiçek çeşitliliği de akımı etkiler; bal arısının yanında çalışan diğer tozlayıcıları [yabani arılar ve tozlaşma](/yabani-arilar) yazısında anlattık.
+
+İlk yıl yeni kovan açan biri için "ilk hasat" beklentisi de gerçekçi olmalıdır. İlk sezon koloni petek ve kışlık stok yapmakla meşguldür; kovanın hazırlığı için [ilk arı kovanı hazırlığı](/ilk-ari-kovani-hazirligi-nisanda-yapilacaklar) yazısına, kovanın yerleşimi için [arı kovanı yerleşimi](/ari-kovani-yerlesimi) yazısına bakabilirsiniz.
+
+## Çerçeveler aynı anda olgunlaşmaz
+
+Aynı kovanda bile çerçeveler farklı hızda dolar. Kovanın ortasındaki, yavru bölgesine yakın çerçeveler daha önce dolar; kenardaki çerçeveler geç kapanır. Bu yüzden hasatta tek tek bakın: Hazır çerçeveyi alın, hazır olmayanı yerinde bırakın. Hepsini aynı gün alma alışkanlığı, ıslak balın karışımına yol açar. Karışan bal tek bir ıslak çerçeve yüzünden bütün partinin nemini yukarı çeker. Küçük ölçekte çalışan arıcı çerçeveleri ayrı kaplarda toplayıp her birinin nemini ölçebilir; böyle yaptığınızda yalnızca hazır balı süzmüş olursunuz ve kayıt tutarak hangi bölgeden ne zaman bal geldiğini sonraki yıl için kayda geçirirsiniz.
+
+## Hasat adımları
+
+1. Havanın açık ve arıların uçuşta olduğu bir gün seçin.
+2. Koruyucu giysi ve duman aletini hazırlayın; kovanı sakin açın.
+3. Bal katında kapalı oranı yüksek çerçeveleri sallama testiyle ayıklayın.
+4. Seçilen çerçeveleri arılardan fırçayla ya da sallayarak ayırıp kapalı bir kutuya koyun.
+5. Çerçeveleri kapalı, nemsiz ve temiz bir odada süzme işlemine alın.
+6. Kovanın kışlık stokunu bırakın; bütün balı almayın.
+7. Balı süzdükten sonra nemini bir kez daha ölçüp kapaklı, temiz kavanozlara doldurun.
+
+## Hasattan sonra: nemi korumak
+
+Bal nem çeker. Süzülmüş bal açık havada bırakılırsa havadaki nemi alır ve mayalanma riski artar. Bu yüzden hasat edilen çerçeveleri ve süzülen balı açık bırakmayın; süzme odasını kuru tutun, balı temiz ve kapaklı kaplarda saklayın. Mayalanan balın üzerinde köpük ve ekşi koku olur; bunu fark ederseniz satışa ya da hediyeye koymayın.
+
+## Sık yapılan hatalar
+
+- Takvime bakıp çerçeveleri açık gözlerle hasat etmek.
+- Sallama testini atlamak.
+- Bütün balı almak ve kovana kışlık stok bırakmamak.
+- Refraktometreyi kalibre etmeden okuma yapmak.
+- Balı nemli odada süzmek.
+- Arı sağlığı ve hastalıkları için tek başına karar vermek: Şüphe varsa veteriner hekime ya da il müdürlüğündeki arıcılık birimine danışın.
+
+@sss
+S: Bal hasat zamanı için petek yüzde kaç kapalı olmalı?
+C: Oklahoma State yayım servisi yaklaşık yüzde 80'i, Hawaii Üniversitesi yaklaşık yüzde 75'i yeterli sayar. Ne kadar çok göz kapalıysa bal o kadar olgundur; yine de nem ölçümüyle doğrulayın.
+
+S: Balın nemi kaç olmalı?
+C: UC Davis yayını arıların balı yaklaşık yüzde 18,6 nemde kapattığını belirtir. Nebraska Extension yüzde 18'in altını mayalanma için güvenli sayar. Ölçüm için refraktometre kullanın; yüzde 20'nin üstünü almayın.
+
+S: Sallama testi nasıl yapılır?
+C: Çerçeveyi yatay tutup hafifçe silkeleyin. Gözlerden bal sıçrıyor ya da damlıyorsa bal olgun değildir; çerçeveyi kovana geri koyun ve birkaç gün sonra yeniden deneyin.
+
+S: Kapalı petek mutlaka olgun bal demek mi?
+C: Çoğunlukla evet ama garanti değil. Nemli bölgelerde kapalı gözlerdeki bal da istenenden ıslak çıkabilir. Bu yüzden kapalı oranına nem ölçümünü de ekleyin.
+
+### SORU
+yayin: 2027-04-19 13:10
+kategori: toprak-rehberi
+baslik: Saksıdaki gülün yaprakları sarardı, toprağı mı değiştirmeliyim?
+metin: İki yıldır aynı saksıda duran gülümün alt yaprakları sararıp dökülüyor. Toprağın kokusu da değişti. Toprağı yenilemem gerekir mi?
+@cevap Hatice Kübra Çelik | 2
+Önce suyun nasıl çekildiğine bakın. Saksının altından su hızlı akmıyorsa, toprak sıkışmış ve havasız kalmıştır. İki üç yıllık saksı toprağını yenilemek mantıklıdır. Gülü saksıdan çıkarın, köklerde kararmış ya da yumuşamış kısım varsa temiz makasla kesin, eski toprağın üçte birini silkeleyin ve yeni, havadar bir karışımla doldurun. Sararma yalnız üst yapraklarda ve damar arasındaysa pH yüksek olabilir; o zaman toprağı ölçmek gerekir.
+
+### SORU
+yayin: 2027-04-19 15:45
+kategori: bahce-ipuclari
+baslik: Hortumla sulayınca bahçeye kaç litre veriyorum, nasıl anlarım?
+metin: Bahçemi hortumla sulayıp bırakıyorum. Ne kadar su verdiğimi bilmiyorum. Sayaç da yok, nasıl ölçebilirim?
+@cevap Muhammed Hamza Çelik | 2
+Sayaç yoksa kova testi yeterli. Hortumu normal açıklıkta 10 litrelik bir kovaya tutup dolma süresini saniye olarak ölçün. Debi litre/dakika olarak 10 bölü süre çarpı 60'tır. Kova 40 saniyede doluyorsa dakikada 15 litre akıyor demektir. Süreyi bununla çarpıp verdiğiniz litreyi bulun, sulanan metrekareye bölün: 1 litre/m² 1 mm sudur. Üç kez ölçüp ortalama alın.
+
+### SORU
+yayin: 2027-04-19 20:40
+kategori: sebze-meyve
+baslik: Petekler yarısı kapalı, balı almak için bekleyeyim mi?
+metin: Kovanımda süperdeki petek çerçevelerinin yaklaşık yarısı mumla kapalı. Balı almak için daha beklemem gerekir mi?
+@cevap Mikdat Çelik | 2
+Bekleyin. Yaygın kaynaklar çerçevenin yaklaşık yüzde 75-80'inin kapalı olmasını ister. Çerçeveyi yatay tutup hafifçe sallayın: Gözlerden bal sıçrıyorsa henüz olgun değildir. Birkaç gün sonra tekrar bakın. Hasat öncesi nemi refraktometreyle ölçerseniz güvende olursunuz; yüzde 20'nin üstündeki bal mayalanabilir. Kovanın kışlık stokunu da bırakmayı unutmayın.

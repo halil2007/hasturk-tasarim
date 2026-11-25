@@ -1,0 +1,58 @@
+name: ikas yeni ürün ekle
+
+# veri/yeni-urunler/cikti/*.json dosyalarındaki kategori ve ürünleri HasTürk ve Tarım Dünyası mağazalarına ekler.
+# Elle başlatılır. "uygula" işaretlenmezse kuru çalıştırmadır: hiçbir şey değişmez, ne yapılacağı özet sayfasına yazılır.
+on:
+  workflow_dispatch:
+    inputs:
+      uygula:
+        description: 'Ekle (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+      dosya:
+        description: 'HasTürk için ürün dosyası (veri/yeni-urunler/cikti/ altında); hasturk.json dışındaysa Tarım adımı atlanır'
+        default: 'hasturk.json'
+      tarim_dosya:
+        description: 'Tarım Dünyası için ürün dosyası (boşsa: HasTürk dosyası hasturk.json ise tarim.json, değilse Tarım adımı atlanır)'
+        default: ''
+      stok_takibi:
+        description: 'Stok takibi açık (işaretsizse stok bitse de satış açık)'
+        type: boolean
+        default: true
+  push:
+    branches: ['claude/**']
+    paths: ['veri/yeni-urunler/cikti/**', 'scripts/ikas-urun-ekle.mjs', '.github/workflows/ikas-urun-ekle.yml']
+
+permissions:
+  contents: read
+
+concurrency: ikas-urun-ekle
+
+jobs:
+  ekle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/ikas-urun-ekle.mjs
+        env:
+          URUN_FILE: veri/yeni-urunler/cikti/${{ github.event.inputs.dosya || 'hasturk.json' }}
+          APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+          STOK_TAKIBI: ${{ github.event.inputs.stok_takibi == 'false' && '0' || '1' }}
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası
+        if: github.event.inputs.tarim_dosya != '' || (github.event.inputs.dosya || 'hasturk.json') == 'hasturk.json'
+        run: node scripts/ikas-urun-ekle.mjs
+        env:
+          URUN_FILE: veri/yeni-urunler/cikti/${{ github.event.inputs.tarim_dosya || 'tarim.json' }}
+          APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+          STOK_TAKIBI: ${{ github.event.inputs.stok_takibi == 'false' && '0' || '1' }}
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

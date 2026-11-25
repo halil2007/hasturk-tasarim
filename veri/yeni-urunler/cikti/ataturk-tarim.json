@@ -1,0 +1,75 @@
+{
+ "site": "tarim",
+ "kategoriler": [
+  {
+   "name": "Topraklar",
+   "slug": "topraklar",
+   "pageTitle": "Topraklar",
+   "description": "Topraklar",
+   "children": [
+    {
+     "name": "Özel Bitki Toprakları",
+     "slug": "ozel-bitki-topraklari",
+     "pageTitle": "Özel Bitki Toprakları",
+     "description": "Özel bitki toprakları"
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "HG Atatürk Çiçeği Toprağı",
+   "marka": "HG",
+   "sku": "HG-ATA-05L",
+   "kategoriler": [
+    "Özel Bitki Toprakları"
+   ],
+   "fiyat": 249,
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-ataturk-cicegi-topragi.webp"
+   ],
+   "metaData": {
+    "slug": "hg-ataturk-cicegi-topragi",
+    "pageTitle": "HG Atatürk Çiçeği Toprağı | Tarım Dünyası",
+    "description": "Atatürk çiçeği kök çürümesine karşı hafif ve süzek hazır toprak. Folyo ve tabak suyundan korunma, saksı değişimi adımları ve bayram sonrası bakım."
+   },
+   "aciklama": "<p>Atatürk çiçeğini kasımda alırsınız, ocakta yaprakları dökülür; çoğu zaman suçlu toprak ve sulamadır. HG Atatürk Çiçeği Toprağı, bu bitkinin ince köklerinin sevdiği hafif, havadar ve suyu iyi süzen yapıda hazırlanmış kullanıma hazır saksı toprağıdır. Karıştırma, eleme ya da oran hesabı gerektirmez: açın, saksıya doldurun.</p>\n<h2>Kök Çürümesi Neden Bu Kadar Sık?</h2>\n<p>Atatürk çiçeği (Euphorbia pulcherrima) Meksika'nın sıcak ve kuru yamaçlarından gelir. Kökleri ince olduğu için sürekli ıslak kalan toprağı sevmez. Süslü folyo, dekoratif kap ya da saksı tabağında biriken su, bitkiyi yıllardır en çok bu yüzden kaybettirir. Toprak fazla suyu tutmadan bırakabildiğinde çürüme riski belirgin biçimde azalır.</p>\n<h2>Karışımın İçinde Ne Var?</h2>\n<ul>\n<li><strong>Sphagnum ham torf:</strong> %40, hafif ve kabarık taban</li>\n<li><strong>Cocopeat torfu:</strong> %20, dengeli nem ve havalanma</li>\n<li><strong>Kalın tarım perliti:</strong> %20, fazla suyun hızla akması</li>\n<li><strong>Solucan gübresi:</strong> %10, organik besin</li>\n<li><strong>Leonardit:</strong> %10, organik madde ve besin tutma desteği</li>\n</ul>\n<h2>Seçerken Neye Bakmalı?</h2>\n<ul>\n<li><strong>Doku:</strong> hafif, gevşek, sıkışıp topaklanmayan</li>\n<li><strong>Su davranışı:</strong> nemi bir süre tutar, fazlasını hızla bırakır</li>\n<li><strong>pH:</strong> hafif asidik, yaklaşık 5,5–6,5</li>\n<li><strong>Besin:</strong> orta düzey; organik madde içerir</li>\n</ul>\n<h2>Dikim ve Saksı Değişimi: 4 Adım</h2>\n<ol>\n<li>Bitki geçici folyodaysa hemen açın, saksının dibinde su kalmadığından emin olun.</li>\n<li>Drenaj delikli, mevcut saksıdan bir boy büyük bir saksı seçin.</li>\n<li>Taze toprağı doldurun, bitkiyi aynı derinlikte yerleştirin ve bol su verin.</li>\n<li>Fazla su tamamen aktıktan sonra bitkiyi tabağına koyun; sonraki sulamayı toprağın üstü kuruyunca yapın.</li>\n</ol>\n<h2>Bayramdan Sonra Ne Yapılır?</h2>\n<p>Renkli yapraklar solup döküldükten sonra (mart–nisan) gövdeleri yaklaşık 15–20 cm'ye budayıp bitkiyi taze toprağa aktarmak, gelecek yıl yeniden renklenmesi için iyi bir başlangıçtır. Budarken sütlü beyaz özsu akar; cildi tahriş edebileceği için eldiven giyin.</p>\n<h2>Paket Boyları</h2>\n<p>5 litre: bir iki saksı için. 10 ve 20 litre: birkaç saksı ya da bayram sonrası toplu saksı değişimi için. 40 litre: çok sayıda saksı ve geniş koleksiyonlar için.</p>\n<h2>Kısa Cevaplar</h2>\n<p><strong>Atatürk çiçeği sık sulanır mı?</strong> Hayır; toprağın üst birkaç santimetresi kuruyunca sulanır, fazla su boşaltılır.<br><strong>Toprak ne zaman yenilenir?</strong> Budama sonrası ilkbaharda ya da toprak sıkışıp suyu geç bırakıyorsa.<br><strong>Başka bitkilere de olur mu?</strong> Benzer isteği olan saksı bitkilerinde kullanılabilir; ürün Atatürk çiçeği için hazırlanmıştır.</p>",
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "20 Lt",
+     "40 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 249,
+     "sku": "HG-ATA-05L",
+     "stok": 1000
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 349,
+     "sku": "HG-ATA-10L",
+     "stok": 1000
+    },
+    {
+     "deger": "20 Lt",
+     "fiyat": 549,
+     "sku": "HG-ATA-20L",
+     "stok": 1000
+    },
+    {
+     "deger": "40 Lt",
+     "fiyat": 1075,
+     "sku": "HG-ATA-40L",
+     "stok": 1000
+    }
+   ],
+   "stoksuzSat": false
+  }
+ ]
+}

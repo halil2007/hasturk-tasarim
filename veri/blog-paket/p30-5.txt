@@ -1,0 +1,492 @@
+### YAZI
+slug: fide-dikim-zamani
+baslik: Fide Dikim Zamanı: Fideyi Toprağa Ne Zaman Dikmeli?
+yayin: 2027-03-05 08:45
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: fide dikim zamanı
+seo_baslik: Fide Dikim Zamanı: Toprak Sıcaklığı Nasıl Ölçülür?
+seo_aciklama: Fide dikim zamanı takvimle değil toprak sıcaklığıyla belirlenir. Domates, biber ve kabakgil için eşik sıcaklıklar, ölçüm yöntemi ve soğuk gece önlemi.
+ozet: Fideyi erken dikmek, geç dikmekten çok daha pahalıya patlar. Fide dikim zamanını toprak sıcaklığına göre nasıl belirleyeceğinizi, domates, biber, patlıcan ve kabakgiller için eşik değerleri, soğuk geceyi atlatma yollarını ve dikimden sonra ilk haftayı anlattık.
+etiketler: fide dikim zamanı, toprak sıcaklığı, fide dikimi, domates fidesi, biber fidesi, son don
+gorsel: bekliyor
+gorsel_alt: Toprağa batırılmış küçük bahçe termometresi ve yanında sıra bekleyen genç domates fideleri
+urunler: hg-fide-topragi, raco-fide-dikme-aleti, hg-bol-verimli-sebze-topragi
+kisaca: Fide dikim zamanı, son don bittikten sonra toprak sıcaklığı sebzenin eşiğine ulaşınca gelir: domates ve salatalık için yaklaşık 16 °C, biber, karpuz ve kabak için yaklaşık 21 °C. Eşiğin altında dikilen fide durur, biberde bütün sezonu geride kalabilir. Sabah 8–10 cm derinlikte ölçüm yapın, gece 10 °C'nin altına düşecekse fideyi örtün.
+@govde
+Takvimdeki "mayıs başı" ya da "nisan ortası" tavsiyeleri bahçenizin sıcaklığını bilmez. Aynı gün kıyıda yaz, yaylada kış olabilir. Fide dikim zamanını belirlemenin güvenilir yolu, toprağın kendisine sormaktır. Bu yazıda eşik değerleri sebzelere göre ayırıyor, ölçümün nasıl yapılacağını gösteriyor ve soğuk bir gecede fideyi nasıl koruyacağınızı anlatıyoruz.
+
+## Neden erken dikmek pahalıya patlar?
+
+Fide serada ya da evde sabit ve ılık bir ortamda büyür. Toprağa geçtiği gün kökleri yeni bir ortama uzanmak zorundadır. Toprak soğuksa kökler suyu ve besini alamaz, yapraklar su kaybetmeye devam eder ve bitki durur. Delaware Üniversitesi uzatma servisi, dikimden sonra toprağın ılık olmasının kökün yatağa hızla yayılması için kritik olduğunu yazar. Aynı yayın domatesin soğuk toprağa biberden, biberin ise patlıcandan daha dayanıklı olduğunu belirtir; kabakgillerde sıralama salatalık, sakız kabağı, karpuz ve kavun biçimindedir. Bkz. [Delaware Üniversitesi soğuk toprakta fide köklenmesi notu](https://sites.udel.edu/weeklycropupdate/?p=22111).
+
+Georgia Üniversitesi uzatma servisi bu konuda daha da net konuşur: Biber fidesini toprak 21 °C'ye (70 °F) ulaşmadan dikmek, bitkinin bütün sezon boyunca bodur kalmasına yol açabilir. Erken dikim ile geç dikim arasındaki fark çoğu zaman birkaç haftalık gecikmedir; ama durmuş ve stres görmüş bir fidenin toparlanması bundan uzun sürer. Yani sabırsızlığın bedeli, kazandığınız haftadan fazladır.
+
+## Fide dikim zamanı için eşik sıcaklıklar
+
+Georgia Üniversitesi'nin yayımladığı sebze dikim sıcaklıkları, fide dikim zamanı için kullanabileceğiniz en yararlı çerçevedir. Fahrenheit değerleri Celsius'a çevrilmiş hâliyle şöyledir. Rakamlar kaynaktan gelir; kendi bölgenizdeki ıslah edilmiş çeşit ve mikroklima bir iki derece oynatabilir. Ayrıntı: [Georgia Üniversitesi toprak sıcaklığı yazısı](https://fieldreport.caes.uga.edu/?p=21436).
+
+| Sebze | En düşük toprak sıcaklığı | Not |
+|---|---|---|
+| Domates, salatalık, taze fasulye | yaklaşık 16 °C (60 °F) | Soğuğa görece dayanıklı grup |
+| Tatlı mısır, kırmızı mercimek, hardal | yaklaşık 18 °C (65 °F) | Doğrudan ekim için de eşik |
+| Biber, karpuz, kabak | yaklaşık 21 °C (70 °F) | Erken dikim bodurlaştırabilir |
+| Bamya, kavun, tatlı patates | yaklaşık 24 °C (75 °F) | En sıcak seven grup |
+
+Maryland Üniversitesi uzatma servisi bir başka pratik eşik verir: Sıcak mevsim sebzeleri (domates, biber) gece sıcaklığının 10 °C'nin (50 °F) altına düşmesi bekleniyorsa geceleri içeri alınmalıdır. Toprak 16 °C'nin üstündeyse ve don riski geçtiyse bu fideler çok fazla sertleştirmeye ihtiyaç duymaz; ama yine de bir iki gün dışarıda bekletmek zarar vermez. Kaynak: [Maryland Üniversitesi sebze fidesi dikimi](https://extension.umd.edu/resource/planting-vegetable-transplants).
+
+## Toprak sıcaklığını doğru ölçmek
+
+Sıcaklık ölçümü basittir ama yanlış yapılırsa yanıltır. Ucuz bir toprak termometresi ya da çiftlik termometresi yeterlidir; derinliği 8–10 cm olan bir çukura batırın. Ölçümü sabah, güneş doğduktan hemen sonra yapın; çünkü gün içinde yüzey ısınır ama köklerin yaşadığı derinlik gecenin soğuğunu taşır. Üç gün üst üste sabah okumasında eşik değeri görüyorsanız dikim zamanı gelmiştir. Aynı yatakta farklı noktalarda ölçüm yapmak da iyi fikirdir; gölgede kalan köşe daha geç ısınır.
+
+::: adimlar
+Termometreyi hazırlayın | Toprak termometresini ya da uzun saplı bir bahçe termometresini bahçeye getirin.
+Sabah ölçün | Güneş doğduktan sonraki ilk bir saatte, 8–10 cm derinlikte okuyun.
+Üç gün izleyin | Eşik değerini üç gün üst üste gördüğünüzde dikimi planlayın.
+Hava tahminine bakın | Önümüzdeki on günde 10 °C altı gece ya da don görünüyorsa dikimi erteleyin.
+Dikimi akşama alın | Hava serin ve bulutluyken, tercihen akşama doğru dikin; ilk gün güneş stresi azalır.
+:::
+
+Toprak sıcaklığı ve tohum ekimi arasındaki ilişkiyi [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısında ayrıntılandırdık. Fide ile doğrudan ekim arasındaki seçim için [tohumdan mı fideden mi başlamalı](/tohumdan-mi-fideden-mi) yazısına bakabilirsiniz.
+
+[ürün:hg-fide-topragi]
+
+## Fideyi dışarıya hazırlamak
+
+Fideyi doğrudan seradan ya da evden bahçeye taşımak, deriyi ilk kez güneşe çıkaran birinin yanması gibi yaprak yanığına yol açar. Dikimden bir hafta önce fideleri gün içinde birkaç saat dışarı çıkarın, her gün süreyi uzatın. Bu sertleştirme işlemi hem rüzgâra hem güneşe karşı yaprağı hazırlar. Programın adımları [fide sertleştirme](/fide-sertlestirme) yazısında anlatılıyor.
+
+Dikimden önce fideyi iyice sulayın; kök topağı kuruysa toprak suyu geri vermez. Dikim sırasında fideyi saksıdaki seviyesinde ya da domateste biraz derin dikin. Fideyi bir yağmurdan sonraki ya da bulutlu bir günün akşamında dikmek, ilk haftanın stresini azaltır. Kabakgillerde kök sarsıntısı hassas olduğu için kök topağını bozmadan ve biyobozunur saksıdan çıkarmadan dikin; ayrıntı için [kabak tohumu ekimi](/kabak-tohumu-ekimi) yazısına bakın.
+
+## Soğuk gece bastırırsa ne yapılır?
+
+Dikimden sonra bile soğuk gece riski sürer. Geçici örtü fidenin gece ısı kaybını azaltır. Plastik şeffaf bidon kesip fidenin üstüne geçirmek, gece örtü, gündüz havalandırmak işe yarar. Tülbent ya da tarım örtüsü hafif donu engeller. Büyük yataklarda alçak tünel yapıp üstünü örtmek tüm sırayı korur. Gün içinde örtüyü açmayı unutmayın; kapalı örtü altında fide ısınıp yanar.
+
+Soğuk geceyi önceden tahmin etmek için yerel hava tahminine bakın; gece sıcaklığı 10 °C altına düşecekse biber ve patlıcanı, 5 °C altına düşecekse domatesi örtün. Toprak sıcaklığını yükseltmek için siyah malç filmi dikimden bir iki hafta önce serilebilir; film güneş enerjisini toplayıp toprağa verir. Çok gerekli olmadıkça fidenin dikimini ertelemek, örtüyle korumaktan daha az iş ve daha az risk getirir.
+
+## Bölgeye göre kaba bir çerçeve
+
+Takvim bir kılavuz olabilir, ama karar olmasın. Ilık kıyı kesimlerinde domates ve biber fidesi martın sonundan nisan başına kadar, iç bölgelerde ise nisan sonundan mayısın ilk haftasına kadar dikilir; yüksek yaylalarda bu pencere mayıs sonuna kayar. Bir yerde bile don ihtimali varsa bu tarihlerden sonra dikmek daha güvenlidir. Her yıl son don tarihi değişir; son beş yılın verisini komşu bahçelerden ve yerel meteoroloji kayıtlarından öğrenin.
+
+Fide yetiştirme tarafı için [fide takvimi](/fide-takvimi) yazısı hangi sebzenin dikimden kaç hafta önce ekileceğini gösterir. Böylece ekim ve dikim tarihlerini birbirine bağlayabilir, fideyi çok erken hazırlayıp bekletmekten kaçınırsınız.
+@sss
+S: Fide dikim zamanı nasıl belirlenir?
+C: Son don bittikten sonra toprak sıcaklığı sebzenin eşiğine ulaşınca dikilir: domates ve salatalık için yaklaşık 16 °C, biber, karpuz ve kabak için yaklaşık 21 °C. Sabah, 8–10 cm derinlikte, üç gün üst üste ölçün.
+
+S: Biber fidesi toprak soğukken dikilirse ne olur?
+C: Georgia Üniversitesi uzatma servisi, toprak 21 °C'ye ulaşmadan dikilen biber fidesinin sezon boyunca bodur kalabileceğini belirtir. Fide büyümeyi durdurur, kök gelişmez ve verim düşer.
+
+S: Dikimden sonra gece soğursa fideyi nasıl korurum?
+C: Gece sıcaklığı biber ve patlıcan için 10 °C altına, domates için 5 °C altına düşecekse fideyi tülbent, şeffaf bidon ya da tarım örtüsüyle örtün. Gün içinde örtüyü açın, yoksa fide ısınıp yanar.
+
+S: Fideyi dikmeden önce sertleştirmek şart mı?
+C: Çoğu fide için önerilir; seradan ya da evden doğrudan çıkan fide güneşte yanabilir. Dikimden bir hafta önce her gün birkaç saat dışarı çıkarmak yeterlidir.
+
+### YAZI
+slug: balkon-cicek-kombinasyonu
+baslik: Balkon Çiçek Kombinasyonu: Saksıda Dik, Dolgu ve Sarkan Çiçekler
+yayin: 2027-03-05 10:20
+yazar: Ahmet Sacit Çelik
+kategori: cicekler
+odak: balkon çiçek kombinasyonu
+seo_baslik: Balkon Çiçek Kombinasyonu: Dik, Dolgu, Sarkan Üçlüsü
+seo_aciklama: Balkon çiçek kombinasyonu nasıl kurulur? Dik, dolgu ve sarkan bitki seçimi, güneşli ve gölge balkon için örnek karışımlar, saksı boyu ve sulama.
+ozet: Kalabalık bir saksı bilinçli seçimle şık, rastgele seçimle karışık görünür. Dik, dolgu ve sarkan çiçeklerden oluşan balkon çiçek kombinasyonunun mantığını, güneşli ve gölgeli balkon için örnek karışımları, saksı boyunu ve ortak sulama kuralını anlattık.
+etiketler: balkon çiçek kombinasyonu, saksıda çiçek düzeni, sarkan çiçek, sardunya, petunya, balkon çiçekleri
+gorsel: bekliyor
+gorsel_alt: Balkon korkuluğunda uzun kırmızı sardunyalar, orta kısımda kadife çiçekleri ve kenardan sarkan pembe petunyalar
+urunler: hg-cicek-topragi, bahce-yatagi-ciceklik-no-1v2-85x35x30-cm, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini
+kisaca: Balkon çiçek kombinasyonu kurmak için saksıya üç katman bitki konur: ortada ya da arkada boyu uzayan dik bitki, ortasında dolgu, kenarda sarkan. Bitkilerin güneş ve su ihtiyacı aynı olmalıdır; güneş seven ve gölge seven bitkiyi aynı saksıya koymayın. Geniş ve derin saksıda üç beş bitki yeter.
+@govde
+Bahçıvanlar kalabalık saksıları üç sözcükle tarif eder: dik, dolgu, sarkan. İngilizce literatürde bu üçlü "thriller, filler, spiller" diye bilinir. Mantık basittir ve her balkona uyar. Balkon çiçek kombinasyonu denince kimi saksıların neden güzel, kimilerinin neden karışık göründüğü sorusunun cevabı bu üçlüdedir. Aşağıda formülü, bitki seçimini ve en sık yapılan hataları sırasıyla anlatıyoruz.
+
+## Balkon çiçek kombinasyonu: dik, dolgu, sarkan
+
+Pennsylvania Eyalet Üniversitesi uzatma servisinin saksı bahçeciliği rehberi, saksı tasarımını bu üç role ayırır: Dik bitki saksının merkez noktasını ve yüksekliğini sağlar, dolgu bitkisi araya hacim verir, sarkan bitki kenardan akarak çerçeveyi tamamlar. Daha ayrıntılı bilgi için [Penn State saksı bahçeciliği yazısı](https://extension.psu.edu/the-art-of-container-gardening) okunabilir. Rolleri tek tek düşünmek, çiçek sepetine bakıp rastgele alışveriş yapmayı önler.
+
+Dik bitki seçerken boyunu ve tek başına durabilme gücünü önemseyin. Sardunya, salvia, kordilin gibi dik duran bitkiler bu iş içindir. Dolgu bitkisi dik bitkinin eteğini örten orta boylu çiçeklerdir; kadife çiçeği, begonya, zinya ve kısa boylu petunyalar örnektir. Sarkan bitki ise kenardan sarkıp saksının kenarını yumuşatır; surfinya, sarkan begonya, lobelya ve sarkan sardunya bu gruptadır. Üçünün de çiçek ya da yaprak dokusu birbirinden farklı olmalı; hepsi aynı doku ve renkteyse saksı düz görünür.
+
+| Katman | Rolü | Balkon için örnek bitkiler |
+|---|---|---|
+| Dik | Yükseklik ve odak noktası | Sardunya, salvia, kordilin |
+| Dolgu | Hacim, kenar dolgusu | Kadife çiçeği, zinya, begonya |
+| Sarkan | Kenarı yumuşatma, çerçeve | Surfinya, lobelya, sarkan begonya |
+
+## Önce ışık ve su: ortak ihtiyaç kuralı
+
+Kombinasyonun en önemli kuralı güzelliğin değil ihtiyaçların uyumudur. Illinois Üniversitesi uzatma servisi, bitkilerin yetişme koşullarının saksının yerine uyması gerektiğini söyler. Tam güneş bitkileri günde altı saat ya da daha fazla doğrudan ışık ister; yarı gölge bitkileri üç ila altı saatle yetinir. Aynı saksıda güneş seven bir sardunyayla gölge seven bir begonya birlikte yetiştirilirse biri yanar ya da diğeri solgunlaşır. Sulama için de aynı kural geçerlidir: Kurağa dayanıklı bir bitkiyle su seven bitkiyi aynı kaba koymayın.
+
+Bu yüzden balkonun ışığını önce ölçün. Gün boyu güneş alan güney ve batı balkonlarda sıcağa dayanıklı bitkiler seçin; kuzey ve doğu balkonlarda yarı gölgede sevilen bitkiler kullanın. Bir günlük gözlemle her saat güneşin saksıya düşüp düşmediğini not edin. Işık bilgisi, bitki etiketindeki "tam güneş", "yarı gölge" yazılarıyla karşılaştırılır.
+
+## Üç örnek kombinasyon
+
+Yeni başlayanlar için üç basit reçete yeterlidir. Hepsi mevsimlik bitkilere dayanır ve nisan-mayıs dikimine uygundur.
+
+**Güneşli ve sıcak balkon:** Arkada ya da ortada kırmızı ya da pembe sardunya, onun etrafında turuncu kadife çiçeği, kenarda mor ya da beyaz surfinya. Üçü de sıcağa ve güneşe dayanıklıdır. Sardunya bakımı için [sardunya bakımı](/sardunya-bakimi) yazısındaki sulama ve budama programı geçerlidir; sarkan petunya olarak surfinya için [petunya yetiştirme](/petunya-yetistirme) yazısına bakın.
+
+**Yarı gölge balkon:** Ortada tek renkli begonya ya da kordilin, çevresinde sürekli çiçek veren begonyalar, kenarda sarkan lobelya ya da sarkan begonya. Yarı gölgede yaprak dokusu çiçekten daha önemlidir; renkli yapraklı bitkileri tercih edin.
+
+**Serin mevsim saksısı:** İlkbahar başında hercai menekşe ya da viyola dolgu, süs lahanası ya da çuha çiçeği merkez, kenarda sarkan sarmaşık. Bu karışım soğuğa dayanır ve ilkbahar sıcağına kadar çiçek verir; yaz için bitkilerin değişmesi gerekir. Mevsimlik takvim için [şubatta balkonda ne ekilir](/subatta-balkonda-ne-ekilir) yazısına bakabilirsiniz.
+
+[ürün:hg-cicek-topragi]
+
+## Saksı boyu ve bitki sayısı
+
+Kombinasyonda en sık yapılan hata, saksıyı aşırı sıkıştırmaktır. Her bitki kök ve gövde için alan ister. Yetişkin bir sardunya için en az 3–4 litre toprak hacmi düşünün; üç bitkili bir kombinasyon için en az 12–15 litre, yani çapı 30 cm ve derinliği 25 cm olan bir saksı yeterli olur. Küçük ve sığ saksı hızla kurur, kök yarışı çiçeği azaltır. Balkon korkuluğuna asılacak çiçekliklerde dar ve uzun formlar çok işe yarar; ağırlık ve yer açısından balkon kısıtlarına dikkat edin.
+
+Çiçeklik gibi geniş ve uzun formlar, birden çok bitkiyi yan yana sıralamayı kolaylaştırır. Yükseltilmiş, modüler çiçeklikler dolu bir sıra çiçek için net bir çerçeve oluşturur. Balkon ya da teras için uygun bir model seçerken toprağın suyunun fazlasını boşaltabildiğinden emin olun.
+
+## Toprak ve besleme
+
+Saksıda iyi çiçek verimi için hafif ve süzek bir çiçek toprağı kullanın; bahçe toprağı saksıda sıkışır. Dikimde toprağa yavaş çözünen organik besin ya da olgun kompost eklemek ilk sezon besleme ihtiyacının bir kısmını karşılar. Çiçek açmaya başladıktan sonra iki üç haftada bir çiçekli bitkilere uygun sıvı besin verin. Çiçeği azaltan aşırı azottan kaçının. Saksı toprağı seçimi için [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısına bakabilirsiniz.
+
+## Bakım: sulama, temizlik, yenileme
+
+Balkon çiçek kombinasyonu bir kez kurulup bırakılan bir iş değildir; haftalık küçük müdahalelerle canlı kalır. Kombinasyonda sulama her gün kontrol edilmelidir; yazın sıcağında bazen günde iki kez gerekir. Solmuş çiçekleri temizlemek yeni çiçeklenmeyi destekler. Yaz ortasında dik bitki büyür, sarkan bitki uzar; hafif budama ve kısaltma dengeyi korur. Sezon sonunda bitkileri yenilemek, toprağı yenilemek ya da kombinasyonu bir sonraki mevsime göre değiştirmek saksıyı canlı tutar.
+
+## Renk ve doku seçimi
+
+Renk seçimi kombinasyonun ruhunu belirler. Üç basit yol vardır: tek renk ailesi (örneğin pembe ve mor tonları), zıt renk çifti (mor ve sarı) ya da canlı, çok renkli karışım. Yeni başlayanlar için tek renk ailesi en güvenlisidir; hatta saksının rengini bile belirler. Yaprak dokusu da önemlidir: kadife çiçeğinin ince dilimli yaprağı sardunyanın yuvarlak, tüylü yaprağıyla zıtlık yaratır; surfinyanın küçük yaprakları ise kenarı yumuşatır. Üç bitkinin de yaprağı aynı boyda ve dokuda ise saksı ayırt edici bir karakter taşımaz.
+
+Balkon çiçek kombinasyonu planlarken korkuluğun dışına bakan yüzü de düşünün: Sokaktan ya da komşu balkondan görülen taraf, sarkan bitkilerin aşağı akacağı kenar olmalıdır. İç tarafta ise dik bitkileri kullanın.
+@sss
+S: Balkon çiçek kombinasyonu nasıl yapılır?
+C: Saksıya üç katman bitki koyun: ortada ya da arkada dik bitki, çevresinde dolgu, kenarda sarkan. Hepsinin güneş ve su ihtiyacı aynı olmalıdır; farklı ihtiyaçlı bitkileri ayrı saksılara koyun.
+
+S: Güneşli balkon için hangi çiçekler uygundur?
+C: Sardunya, kadife çiçeği, zinya ve surfinya sıcağa ve güneşe dayanıklıdır. Bir sardunya dik, kadife çiçeği dolgu, surfinya sarkan olarak kullanılabilir.
+
+S: Aynı saksıya kaç bitki konur?
+C: 30 cm çapında ve 25 cm derinlikte bir saksıda üç beş bitki yeterlidir. Her yetişkin bitki için en az 3–4 litre toprak düşünün; sıkışık saksıda kök yarışı çiçeği azaltır.
+
+S: Gölge balkon için kombinasyon olur mu?
+C: Evet. Begonya, kordilin, lobelya ve sarkan begonya yarı gölgede iyi gider. Gölgede yaprak dokusu çiçekten önemlidir; renkli yapraklı bitkileri tercih edin.
+
+### YAZI
+slug: safran-sogani
+baslik: Safran Soğanı Nereden Bulunur, Nasıl Saklanır?
+yayin: 2027-03-05 12:10
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: safran soğanı
+seo_baslik: Safran Soğanı: Nasıl Seçilir, Nasıl Saklanır?
+seo_aciklama: Safran soğanı alırken nelere bakılır, güvenilir kaynak nasıl bulunur, boyut neden önemli, yaz uykusunda nasıl saklanır, Colchicum ile karışmasın.
+ozet: Safran soğanı aslında soğan değil yumrudur ve doğru boyutta, doğru kaynaktan alınmazsa ilk sonbaharda çiçek vermez. Güvenilir kaynak bulmanın yollarını, soğan boyutunu, yaz uykusunda saklamayı, benzeyen zehirli türle karışıklığı ve soğan bölmeyi anlattık.
+etiketler: safran soğanı, Crocus sativus, safran yumrusu, soğan saklama, safran dikimi, sonbahar çiğdemi
+gorsel: bekliyor
+gorsel_alt: Kuru kahverengi kabuklu safran yumruları kasada yan yana, yanında küçük bir terazi
+urunler: hg-cicek-topragi, hg-vermikulit
+kisaca: Safran soğanı (Crocus sativus yumrusu) çiçek vermek için yeterince büyük olmalıdır; 2 cm'den küçük yumrular ilk yıl çiçek açmayabilir. Güvenilir üreticiden, bitki adı ve sağlık durumu bilinen yumru alın; benzer görünen zehirli Colchicum ile karıştırmayın. Yaz uykusunda kuru, havadar ve serin saklayın; nemde çürür.
+@govde
+Safran bitkisinin "soğanı" aslında bir yumrudur (cormdur); ama bahçıvanlar ona soğan der. Safran soğanı dikimden önce nasıl seçilir, nereden alınır ve yaz uykusu boyunca nerede saklanır sorusu, çiçek alıp almayacağınızı doğrudan belirler. Bu yazı soğanın kendisine odaklanıyor; dikim ve hasadı [safran yetiştiriciliği](/safran-yetistiriciligi) yazısında anlattık.
+
+## Safran soğanı nedir, neye benzer?
+
+Safran (Crocus sativus), mor çiğdem akrabasıdır. Kahverengi, lifli kabuklu bir yumru oluşturur. Bu yumru her yıl yeni yavru yumrular verir; ana yumru büyüdükçe daha çok çiçek açar. Vermont Üniversitesi'nin safran araştırma sayfaları, yumru boyutunun çiçek sayısı üzerinde çok etkili olduğunu gösterir. Ayrıntılar [Vermont Üniversitesi safran dikim bilgi notunda](https://www.uvm.edu/~saffron/pages/factsheets/SaffronplantingSept2021.pdf) yer alır.
+
+Bu nedenle yumru boyutu pazarlıkta kritik ölçüttür. Ticari bahçecilik kaynaklarında çapı 2 cm'den küçük yumruların ilk sezon çiçek vermeyebileceği, 1–2 yıl içinde çiçek boyutuna ulaşacağı belirtilir. Başka bir rehber, yeniden dikim için en büyük ve en sağlıklı yumruların seçilmesini, yaklaşık 25 gram ve üzeri ağırlıktakilerin tercih edilmesini önerir. Bu sayılar ticari rehberlerdendir; bölgesel üretici bilgisi ve yerel deneyim de gerekir. Büyük yumru daha çok çiçek verir, ama çiçek başına tepecik sayısı değişmez.
+
+## Safran soğanı nereden bulunur?
+
+Bu bölümde bir alıcı ya da marka önermiyoruz; yalnızca güvenilir kaynağı nasıl ayıracağınızı anlatıyoruz. Güvenilir bir kaynak şu üç soruya net cevap verir: Bu hangi tür? Hangi bölgeden geldi? Yumru çapı nedir? Safran soğanı Karabük Safranbolu çevresindeki üreticilerden, yerel tarım müdürlüklerinin yönlendirdiği üretici örgütlerinden, sertifikalı fidancılardan ve ziraat odalarının bilgi verdiği kaynaklardan sağlanır. Üretici sertifikasını ve alım koşullarını yazılı isteyin.
+
+Alırken şu ölçütlere bakın:
+
+- **Tür adı:** Ambalajda ya da satış kaydında "Crocus sativus" yazmalıdır. "Sonbahar çiğdemi" adıyla satılan yumru Colchicum olabilir; bu zehirlidir.
+- **Boyut:** Yumru çapı ya da ağırlığı belirtilmeli; küçük yumrular ilk yıl çiçek vermeyebilir.
+- **Sertlik:** Yumru elde sert olmalı; yumuşak, buruşuk, kalıplı ya da kokulu yumru almayın.
+- **Kabuk:** Kabuk sağlam, kuru ve lifli olmalıdır; kabuk zarar görmüş yumru kolay çürür.
+- **Zamanı:** Yumru, uykudan çıkıp dikim zamanına yakın bir dönemde alınmalıdır; yaz boyu sıcak depoda bekleyen yumru zayıflar.
+- **Garanti ve kayıt:** Satıcının adresi, yazılı faturası ve alım koşulları olmalıdır.
+
+"Çok kazandıran safran" anlatan, tür adı vermeyen ve sertifikasız satıcılardan uzak durun. Bu bitkiyle ilgili abartılı gelir anlatıları sık dolaşır; yumru satın alıp hayal kırıklığı yaşayanlar azımsanmaz. Kararı vermeden önce il tarım müdürlüğü ile bölgenizin uygunluğunu konuşun.
+
+## Colchicum ile karışmasın
+
+Safranla en çok karıştırılan bitki sonbahar çiğdemi (Colchicum) olabilir. İkisi de sonbaharda çiçek açar ve ikisinin de çiçeği mora yakındır; ancak Colchicum zehirlidir ve yutulursa ağır zehirlenme yapabilir. Safran çiçeğinin altı yaprağı ve ortasında üç kırmızı tepecik vardır; Colchicum'da ise altı etek ve altı sarı erkek organ görülür. Emin olmadığınız bir bitkiyi baharat olarak kullanmayın. Yumruyu satıcıdan tür adıyla alın, çiçeği açınca kırmızı üç tepeciği kontrol edin.
+
+## Yaz uykusunda safran soğanı saklamak
+
+Safran soğanı yazın dinlenir. Yaprakları mayıs-haziranda sararıp kuruyunca yumrular dinlenmeye geçer. Soğanları bahçede bırakacaksanız toprağın yaz boyu kuru kalması gerekir; sulama ve yağış çürümeyi getirir. Vermont ve ticari rehberler yaz uykusunda aşırı suyun yumru çürümesinin en sık nedeni olduğunu belirtir. Yumruları kazarak saklayacaksanız yaprak tamamen kuruduktan sonra çıkarın.
+
+::: adimlar
+Yaprak kurusun | Yaprakların tamamen sararıp kurumasını bekleyin; erken kazarsanız yumru beslenemez.
+Dikkatle kazın | Çatalla, yumruları yaralamadan kaldırın; çok kuru toprağı silkeleyin.
+Temizleyin ve ayıklayın | Kök kalıntılarını ve gevşek kabuğu ayırın; yumuşak ve lekeli yumruları atın.
+Havada kurutun | Gölgede, havadar bir yerde birkaç gün serin.
+Delikli kapta saklayın | Ağzı açık kasa, file ya da kâğıt torbada serin, kuru ve havadar bir yerde tutun.
+Boyuta göre ayırın | Büyük yumruları dikim için ayırın; küçükleri ayrı saklayın.
+:::
+
+Plastik torba ve kapalı kavanoz nemi hapseder ve küf yapar. Kemirgenler yumruları sever; kapaklı ama havalandırmalı bir kap tercih edin. Ticari rehberlerde saklanan yumruların 2–3 yıl canlı kalabildiği, ama çiçeklenmenin ilk yıldan sonra azaldığı yazılıdır; bu yüzden her yıl yenilemek ya da bölmek önerilir.
+
+[ürün:hg-cicek-topragi]
+
+## Bölme ve çoğaltma
+
+Safran soğanı kendiliğinden çoğalır, ama bu işi doğru zamanda yapmak gerekir. Ana yumrunun yanında oluşan küçük yavru yumrular birkaç yıl içinde çiçek boyutuna gelir. Üç dört yılda bir kümeyi kazıp bölmek, yoğunlaşan yumrulara yer açar ve çiçek sayısını yeniden artırır. Yalnızca en büyük ve sağlıklı yumruları yeniden dikin; küçükleri ayrı bir yatakta büyütün. Soğanlı çiçeklerin genel bölme ve saklama düzeni için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazısına bakabilirsiniz.
+
+Yumruları dikim yeri ve toprakla ilgili ayrıntılar için [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısındaki süzek karışım mantığına göre planlayın; ağır ve nemli toprak safran soğanını çürütür. Soğanları bahçede bırakacaksanız yaz boyunca üzerini örtüp yağmurdan koruyun, kuru kalmaları için dikim alanını hafif eğimli ve yüksek seçin. Dikim zamanı geldiğinde yumruları hazır tutun; yazın sonunda toprağı hazırlayıp yumruyu dikmeye hazır olmak, çiçeklenmeyi aksatmaz. Dikimden önce yumruyu birkaç saat suda bekletmeye gerek yoktur; kuru ve sert yumru doğrudan dikilebilir. Dikim öncesi son kontrolde yumruları tek tek elinize alın: parmakla bastığınızda sert kalan, kabuğu sağlam, dibinde çürük ya da küf izi olmayan yumrular dikilir. Şüpheli olanları ayrı bir kapta bekletin; birkaç gün sonra yumuşadıysa atın. Bu küçük ayıklama, bahçede sonradan yer açılan boşlukların önüne geçer ve ilk sonbaharda kaç çiçek bekleyeceğinizi gerçekçi hesaplamanızı sağlar.
+@sss
+S: Safran soğanı nereden alınır?
+C: Güvenilir üreticiden, tür adı (Crocus sativus), boyutu ve sağlık durumu bilinen yumru alın. Safranbolu çevresindeki üreticiler, tarım müdürlüğünün yönlendirdiği örgütler ve sertifikalı fidancılar seçenektir; yazılı fatura isteyin.
+
+S: Safran soğanı ne kadar büyük olmalı?
+C: Çapı 2 cm'den küçük yumrular ilk sezon çiçek vermeyebilir; ticari rehberler yeniden dikim için yaklaşık 25 gram ve üzerindeki yumruları önerir. Büyük yumru daha çok çiçek verir.
+
+S: Safran soğanı yaz boyunca nasıl saklanır?
+C: Yapraklar tamamen kuruyunca kazılıp temizlenir, gölgede kurutulur ve havadar, serin, kuru bir yerde ağzı açık kasada ya da kâğıt torbada saklanır. Plastik torba nemi hapseder ve küf yapar.
+
+S: Safranla sonbahar çiğdemi karıştırılır mı?
+C: Karıştırılabilir; Colchicum zehirlidir. Safran çiçeğinde üç kırmızı tepecik bulunur, Colchicum'da altı sarı erkek organ vardır. Yumruyu tür adı yazılı satıcıdan alın, emin olmadığınız bitkiyi baharat olarak kullanmayın.
+
+### YAZI
+slug: isirgan-yetistirme
+baslik: Isırgan Yetiştirme: Isırgan Otu Bahçede Yetiştirilir mi?
+yayin: 2027-03-05 14:30
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: ısırgan yetiştirme
+seo_baslik: Isırgan Yetiştirme: Bahçede Kontrollü Dikim Rehberi
+seo_aciklama: Isırgan yetiştirme bahçede mümkün mü? Köksapla yayılmayı kontrol etme, toprak ve nem isteği, ilkbahar hasadı, eldiven ve güvenlik, tohum önleme ve kullanım.
+ozet: Isırgan kendiliğinden yayılan, bu yüzden bahçede kontrolü zor bir bitkidir. Isırgan yetiştirmenin kuralını, kapta ya da bariyerle sınırlamayı, toprak ve nem isteğini, ilkbahar hasadını, eldivenle güvenliğini ve tohumu önlemeyi anlattık.
+etiketler: ısırgan, ısırgan otu, Urtica dioica, yabani yeşillik, bahçede ısırgan, köksap
+gorsel: bekliyor
+gorsel_alt: Bahçe köşesinde genç, tırtıklı yapraklı ısırgan fideleri ve yanında kalın bahçe eldivenleri
+urunler: solucan-gubreli-sebze-topragi, hasturk-kati-solucan-gubresi
+kisaca: Isırgan yetiştirme mümkündür, ama bitki köksap ve tohumla yayılır ve yoğun koloniler kurar; bu yüzden büyük saksıda ya da bariyerle sınırlı bir köşede yetiştirilir. Derin, zengin ve nemli toprağı sever, kuraklıktan hoşlanmaz. Genç yapraklar erken ilkbaharda eldivenle toplanır. Çiçeklenmeden önce kesmek tohum yayılmasını önler.
+@govde
+Isırgan, çoğu bahçede ayıklamak istediğimiz bir ottur. Yemeklik yaprak, sıvı bitki gübresi ya da yaban hayatı için istiyorsanız, onu bilerek ve kontrollü yetiştirmek gerekir. Isırgan yetiştirme kararı iki soruya dayanır: Yayılmayı nasıl sınırlayacaksınız ve ne zaman, hangi eldivenle hasat edeceksiniz? Cevaplar belliyse bitki bahçede işe yarayan, bakımı az bir sakinidir.
+
+## Isırgan yetiştirme: nasıl yayılır?
+
+Isırgan (Urtica dioica), çok yıllık bir bitkidir. Kuzey Carolina Eyalet Üniversitesi uzatma servisi, bitkinin köksap (rizom) ve tohumla çoğaldığını, bir dönümü bulan yoğun koloniler oluşturabildiğini yazar. Bu özellik bahçede iki sonuç doğurur: Bir kez yerleşen ısırgan çok zor temizlenir ve komşu parsele geçebilir. Bkz. [NC State ısırgan bitki bilgi sayfası](https://plants.ces.ncsu.edu/plants/all/urtica-dioica/).
+
+Yayılma yeraltında köksaplarla olur; köksaplar yaklaşık 15 cm derinlikte iki katman hâlinde bulunur ve tek bir parça bile yeni bitki verebilir. Bu yüzden toprağa serbest dikilen ısırgan yıllar içinde yatağı ele geçirir. Önlem baştan alınmalıdır: bariyer, kap ya da ayrılmış bir köşe. Ayrıca bitki iki evcikli olabilir; erkek ve dişi bitkiler ayrıdır ve dişi bitkiler çok sayıda tohum üretir. Tohum yayılması da kontrol edilmelidir.
+
+## Sınırlandırma yöntemleri
+
+Kontrollü ısırgan yetiştirme için üç yöntem uygundur. En kolay yol büyük bir saksı ya da kasadır: En az 40–50 litrelik, delikli, derin bir kap. Köksaplar kabın içinde kalır, dışarı çıkamaz. İkinci yol, dipsiz plastik bir kovayı ya da boruyu toprağa 30–40 cm gömmektir; köksaplar bariyeri geçemez, üst kenarı toprağın birkaç cm üstünde kalmalıdır. Üçüncü yol, bahçenin kenarında, çevresi beton ya da taşla çevrili ayrı bir köşedir.
+
+| Yöntem | Avantaj | Dikkat |
+|---|---|---|
+| Büyük saksı (40–50 litre) | Taşınabilir, kolay kontrol | Delik tabanı kullanın; yer zeminine temas etmesin |
+| Toprağa gömülü dipsiz kova | Doğal toprakta büyür | Kenar toprağın üstünde kalmalı |
+| Beton/taş çevrili köşe | Kalıcı | Tohum yayılmasını yine kontrol edin |
+
+Yöntem ne olursa olsun, çevreden gelen sürgünleri her hafta kontrol edin. Köksap dışarı çıktıysa o parçayı kazarak çıkarın; bırakırsanız yeni bir koloni oluşur. Ayrıca bitkiyi çevreden izole edin: yürüyüş yolu, çocuk oyun alanı ya da evcil hayvan yakını ısırgan için uygun değildir.
+
+## Toprak ve yer isteği
+
+Isırgan derin, zengin ve nemli toprağı sever. NC State, bitkinin kuraklıkta zorlandığını belirtir. Güneşli ya da yarı gölge yerde yetişir; gölgede yaprakları daha ince ve yumuşak olur. Azotça zengin toprakta güçlü büyür; çürümüş organik madde ve kompost bu iş için yeterlidir. Toprağı bol organik maddeyle zenginleştirdiğinizde bitki hızla gelişir.
+
+Isırgan genellikle fidancıda satılmaz; tohumla ya da bir yabani bitki parçasından başlatılır. Tohumları ilkbaharda doğrudan ekmek mümkündür; çimlenme için toprak ılık ve nemli olmalıdır. Çok küçük tohumları derine gömmeyin. Fideleri çıktıktan sonra saksıda yetiştirmek kontrolü kolaylaştırır.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Isırgan yetiştirme için neden uğraşılır?
+
+Bu kadar sorunlu bir bitkiyi bilerek yetiştirmenin gerekçeleri vardır. Birincisi mutfaktır: Genç ısırgan yaprağı ilkbaharın ilk yeşilliklerinden biridir ve Anadolu mutfağında çorba, börek ve pilav içinde geleneksel olarak kullanılır. İkincisi bahçedir: Isırgan azotça zengin yaprak verir ve kompost yığınına eklenince çürümeyi hızlandırır. Üçüncüsü yaban hayatıdır: Kelebek tırtılları ve birçok böcek için barınak ve besindir. Isırgan yetiştirme planında hangi amaç için yetiştirdiğinizi baştan belirleyin; mutfak için genç sürgün, gübre için bol yaprak, yaban hayatı için çiçekli sap isteyeceksiniz. Kompost için [bahçede kompost yığını](/bahcede-kompost-yigini) ve [kompost çayı](/kompost-cayi) yazılarına bakabilirsiniz.
+
+## Hasat: ne zaman, nasıl?
+
+Isırganın hasadı erken ilkbaharda, bitki genç ve yumuşakken yapılır. Kansas Eyalet Üniversitesi'nin hazırladığı ısırgan bilgi notuna göre yapraklar ilkbaharda küçük ve körpe iken toplanır ve bitki yaklaşık 80–90 günlük mevsimlik büyümeden sonra hasada hazırdır. Sap ve yaprakların uç kısımlarını, yeni çıkan sürgünlerle birlikte kesmek en lezzetli ve yumuşak malzemeyi verir. Çiçeklenme başlayınca yapraklar sertleşir ve lezzeti azalır.
+
+Hasatta kalın eldiven ve uzun kollu giysi kullanın; ısırganın yüzeyindeki iğne gibi kıllar cilde batıp yakıcı bir his bırakır. Eldiveni suya sokmadan önce silin. Yemek için toplanan yapraklar haşlanınca ya da pişince kılları zararsız hâle gelir; ama çiğ tüketilmez. Sağlık amacıyla bitkisel kullanım önerileri bu yazıda verilmez; bitkisel ürün ve sağlık sorularında doktora ya da eczacıya danışın.
+
+## Isırgan gübresi ve yaban hayatı
+
+Isırgan, bahçıvanlar arasında sıvı bitki gübresi malzemesi olarak da bilinir. Isırgan suyu uygulamasıyla ilgili ayrıntıları [ısırgan gübresi](/isirgan-gubresi) yazımızda anlattık. Kontrollü köşede yetiştirdiğiniz bitki, bu amaç için de düzenli bir kaynak sağlar. Ayrıca ısırgan, birçok kelebek türünün tırtılı için yiyecek bitkisidir; yabani hayata destek isteyen bahçıvanlar bahçenin uzak bir köşesine küçük bir ısırgan parçası ayırır.
+
+## Tohum yayılmasını önlemek
+
+Çiçeklenme döneminde bitkinin çiçek saplarını olgunlaşmadan kesmek tohum yayılmasını önler. Birkaç kez kesim hem yaprağı taze tutar hem tohumu engeller. Kesim sırasında da eldiven kullanın; kesilen sap parçalarının kılları günlerce batma ve yanma hissi verebilir. Kesilen yaprakları çuvala koyup kompost yığınına götürürken yol boyunca tohum ya da köksap parçası düşürmemeye dikkat edin. Kesilen malzemeyi kompostlarken tohum olgunlaşmadan işlem yapın; olgun tohumlu parçalar kompostla bahçeye geri taşınabilir. Bahçenin bir köşesinde zorunlu olarak bırakacağınız ısırgan için ise haftalık kesim ve ayıklama düzeni kurun.
+
+Bahçenizde zaten ısırgan varsa onu yok etmek yerine kontrol altına almayı düşünebilirsiniz. Yabani otlarla ilgili genel bir bakış için [yabani otla doğal mücadele](/yabani-otla-dogal-mucadele) yazısı yararlıdır, ısırgan gibi köksaplı otlarda malç tek başına yetmez. Toprağın yüzeyini ısırganın üstünü kalın malçla örtmek ve çevresini kazmak, yayılmayı zayıflatır. İlk yıl köksapları temizlemek, gelecek yıl sorun yaşamamak için en iyi yatırımdır.
+@sss
+S: Isırgan bahçede yetiştirilir mi?
+C: Yetiştirilir, ama köksap ve tohumla yayılarak yoğun koloniler kurduğu için kapta ya da bariyerle sınırlı bir köşede yetiştirilmelidir. Derin, zengin ve nemli toprağı sever.
+
+S: Isırgan ne zaman toplanır?
+C: Erken ilkbaharda, yapraklar küçük ve körpe iken toplanır. Çiçeklenmeden sonra yapraklar sertleşir ve lezzeti azalır. Hasatta kalın eldiven ve uzun kollu giysi kullanın.
+
+S: Isırgan yayılmasını nasıl önlerim?
+C: Büyük bir saksıda ya da 30–40 cm gömülü dipsiz kovada yetiştirin, çevreden gelen sürgünleri her hafta kontrol edin ve çiçeklenmeden önce kesin. Köksap dışarı çıktıysa o parçayı kazarak çıkarın.
+
+S: Isırgan çiğ yenir mi?
+C: Hayır. Yüzeyindeki kıllar cilde ve ağza batar; yapraklar haşlanınca ya da pişince kılları zararsız hâle gelir. Sağlık amacıyla kullanım için doktora ya da eczacıya danışın.
+
+### YAZI
+slug: yag-gulu-yetistirme
+baslik: Yağ Gülü Yetiştirme (Isparta Gülü): Dikim, Budama ve Hasat
+yayin: 2027-03-05 16:55
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: yağ gülü yetiştirme
+seo_baslik: Yağ Gülü Yetiştirme: Isparta Gülü Dikim ve Hasat
+seo_aciklama: Yağ gülü yetiştirme için iklim ve toprak, dikim, kış budaması, sulamanın verime etkisi ve sabah hasadı. Isparta gülünü bahçede yetiştirmenin rehberi.
+ozet: Yağ gülü (Rosa damascena), Isparta'nın simgesi olan kokulu bir gül çeşididir. Yağ gülü yetiştirme için toprak ve iklim isteğini, dikim ve çırpma budamasını, sulamanın verime etkisini, hasat zamanını ve küçük bahçede nasıl yetiştirileceğini anlattık.
+etiketler: yağ gülü, Isparta gülü, Rosa damascena, gül yetiştiriciliği, gül hasadı, kokulu gül
+gorsel: bekliyor
+gorsel_alt: Sabah ışığında açmış pembe katmerli yağ gülü çiçekleri ve ön plandaki sepet
+urunler: hg-gul-topragi-gullere-ozel-toprak-karisimi, hasturk-kati-solucan-gubresi
+kisaca: Yağ gülü yetiştirme için tam güneş, derin ve süzek toprak ve kış sonuna kadar yapılan budama gerekir. Isparta'da çiçekler mayıs-haziranda sabah erken toplanır. Araştırma yayınlarına göre sulama verimi belirgin artırır: susuz koşulda 350–500 kg/da, sulu koşulda 900–1000 kg/da. Bahçede üç beş çalıyla başlamak mümkündür.
+@govde
+Yağ gülü, Rosa damascena türünün Isparta'da yetiştirilen kokulu formudur. Çiçeği ağır, tatlı bir koku taşır; gül yağı, gül suyu ve reçel gibi ürünlerin hammaddesi bu çiçektir. Yağ gülü yetiştirme, süs gülü bakımından farklı bir zihniyet ister: Amaç tek bir mükemmel çiçek değil, kısa bir sezonda çok sayıda ve kokusu yoğun çiçek almaktır.
+
+## Isparta'nın gülü: neden orada?
+
+Tarım ve Orman Bakanlığı araştırma yayınlarına göre Isparta ili, yağ gülü üretiminin büyük bölümünü karşılar. Bölgenin yüksek rakımı, kışın soğuk ve yazın ılık geçmesi ve toprak yapısı çiçeklenme ve koku oluşumu için uygundur. Çiçeklenme rakım, sıcaklık ve yağışa bağlı olarak değişir; hasat dönemi bölge ve yıla göre birkaç haftayı bulabilir. Ayrıntılı yetiştiricilik bilgisi için [Tarım ve Orman Bakanlığı yağ gülü yetiştiriciliği belgesine](https://arastirma.tarimorman.gov.tr/marem/Belgeler/2022/Yeti%C5%9Ftiricilik%20Bilgileri/Ya%C4%9F%20G%C3%BCl%C3%BC%20Yeti%C5%9Ftiricili%C4%9Fi.pdf) bakılabilir.
+
+Yağ gülü yetiştirme, hobi bahçesinde de kısa bir yıllık takvimle yürür:
+
+::: takvim
+Budama (çırpma) | 11-3
+Dikim | 12-3
+Tomurcuk ve sulama dönemi | 4-5
+Çiçeklenme ve hasat | 5-6
+Hasat sonrası bakım ve besleme | 6-8
+:::
+
+Bu bilgi bahçıvan için şu anlama gelir: Yağ gülü ılıman ve serin kışı olan, yazı sıcak ama bunaltıcı olmayan yerlerde en iyi sonucu verir. Çok sıcak ve nemli kıyılarda hastalık baskısı artar; çok soğuk yüksek yerlerde ise sürgün don alabilir. Bölgenizde yetişip yetişmeyeceğini yerel tarım müdürlüğüne ve gül yetiştirenlere sorun.
+
+## Yağ gülü yetiştirme: toprak, güneş ve dikim
+
+Gül tam güneş ister; gün boyu en az altı saat. Toprak derin, süzek, organik maddeli ve hafif asidik ile nötr arasında olmalıdır. Su durması kökleri çürütür; ağır killi toprakta çalı gelişemez. Dikimden önce toprağı derin işleyin ve olgun organik madde karıştırın. Gül için hazırlanmış toprak karışımları saksı ve yatakta kolay bir başlangıç sağlar.
+
+Dikim zamanı kışın donsuz günleri ya da erken ilkbahardır. Çıplak köklü gül fidanını dikmeden önce kökleri birkaç saat suda bekletin, kırık kökleri kesin. Fidanı aşı yeri toprak hizasına ya da biraz altına gelecek şekilde dikin; soğuk iklimde aşı yerinin biraz altta olması korur. Dikimden sonra bol su verin ve toprağı hafifçe bastırın. Genel gül bakımı için [gül bakımı: daha bol çiçek için öneriler](/gul-bakimi-bol-cicek-icin-oneriler) ve gübreleme takvimi için [gül gübreleme](/gul-gubreleme) yazılarına bakabilirsiniz.
+
+[ürün:hg-gul-topragi-gullere-ozel-toprak-karisimi]
+
+## Budama: kışın çırpma budama
+
+Isparta'daki yerel yöntem "çırpma budama" olarak anılır. Araştırma yayınına göre kasım ile mart arasında yapılır; ağır, sık bir kesim yerine çalı kısaltılır ve ölü ile zayıf dallar çıkarılır. Hedef, çiçek verecek yeni sürgünlerin güçlü ve düzenli çıkmasıdır. Evde birkaç çalı için de aynı mantık işler: Kış sonu, tomurcuklar şişmeden önce, kuru ve çapraz dalları alın, kalan ana dalları kısaltın. Sert don tehlikesi bittikten sonra budama daha güvenlidir.
+
+Kesimlerde temiz, keskin bir budama makası kullanın; kesikleri hafif eğimli yapın ki su birikmesin. Budama konusunda genel ilkeler için [gül budama](/gul-budama) yazısı yol gösterir. Yağ gülü çalısının her yıl yenilenen genç sürgünlerle çiçek verdiğini unutmayın; yaşlı dalların bir kısmını dipten kesip yeni sürgünlere yer açmak verimi yüksek tutar.
+
+## Sulama verimi nasıl etkiler?
+
+Araştırma yayınlarında yağ gülünde verimin sulamaya çok bağlı olduğu bildirilir: Susuz koşullarda dekar başına 350–500 kg, sulu koşullarda 900–1000 kg çiçek verimi gösterilir. Bu endüstriyel tarla ölçeğinde bir rakamdır ve bahçeniz için doğrudan karşılığı yoktur. Ama sonuç, çiçeklenme ve çiçek büyümesi döneminde su stresinin verimi düşürdüğünü gösterir.
+
+Evde bunun karşılığı şudur: Tomurcuk oluşumundan hasada kadar çalıyı susuz bırakmayın. Haftada bir derin sulama çoğu bahçede yeterlidir; sıcak ve rüzgârlı havada daha sık. Aşırı sulamadan da kaçının; yaprak ıslaklığı mantar hastalıklarını artırır. Sulamayı sabah yapıp yaprakları ıslatmamak, kara leke ve külleme riskini azaltır; hastalıklar için [gül hastalıkları](/gul-hastaliklari) yazısına bakabilirsiniz.
+
+## Hasat: sabah erken, kısa sezon
+
+Yağ gülü mayıs sonu ile haziran başında, kısa bir dönemde çiçek açar. Çiçekler sabahın erken saatlerinde, güneş yükselip kokunun uçmasını önlemek için, tam açılmadan ya da yeni açılmışken toplanır. Bu bilgi genel gül yağı uygulamasından gelir; çiçeğin yağı sabah serinliğinde en yüksektir. Toplanan çiçekler hemen işlenir; bekletilen çiçek kokusunu ve kalitesini kaybeder. Evde toplanan çiçeklerle gül suyu, reçel ya da kurutulmuş taç yaprağı hazırlayabilirsiniz. Isparta'da hasat birkaç hafta sürer ve her gün sabah yeni çiçek açar; bu yüzden toplayıcı aynı çalıya günler boyunca döner. Bahçede de aynı düzeni kurabilirsiniz: Her sabah serinlikte çalıyı dolaşıp açmış çiçekleri sapsız koparın, sepete hafifçe koyun ve ezmeyin, çünkü ezilen taç yapraklar hemen kokusunu kaybeder.
+
+Hasat ve işleme için yetişkin bir çalıdan çok çiçek alınır; ancak ilk yıllarda çalı henüz küçüktür. İlk iki yıl bitkiyi güçlendirmek için çiçeklenmeyi sınırlı tutmak ve besleme ile bakımı düzenli yapmak gerekir.
+
+## Yağ gülü yetiştirme: hastalık ve zararlıya bakış
+
+Gül çalısı yağışlı ve nemli yılda kara leke, külleme ve pas gibi mantar hastalıklarına yakalanabilir. Havadar budama, yaprak ıslatmadan sabah sulama, dökülen yaprakların temizlenmesi ve çalının dibini otsuz tutmak önleyici adımlardır. Zararlı ve hastalık belirtilerini tanımak için [gül hastalıkları](/gul-hastaliklari) yazısı yol gösterir. İlaç adı ve dozu bu yazıda verilmez; ticari ölçekte üretiyorsanız il ya da ilçe tarım müdürlüğündeki ziraat mühendisine danışın.
+
+## Küçük bahçe için pratik başlangıç
+
+Yağ gülünü ticari ölçekte yetiştirmek ayrı bir iştir; makine, işçilik ve işleme tesisi gerektirir. Bahçede üç beş çalı ise kokulu bir köşe ve ev yapımı gül suyu için yeterlidir. Çalıyı çit olarak kullanmak, yan yana 1 metre aralıkla dikmek de mümkündür. Fidan seçerken yağ gülü olduğunu doğrulayın; başka süs gülleri aynı kokuyu vermez. Fidanı sertifikalı bir fidancıdan alın ve çeşit adı yazılı olsun. Saksıda yetiştirmek de mümkündür; ama saksıda verim bahçedekinden düşüktür.
+@sss
+S: Yağ gülü nerede yetişir?
+C: Üretimin büyük bölümü Isparta'da yapılır; serin kışı ve ılık yazı olan, güneşli ve süzek topraklı yerlerde yetişir. Bahçede denemek için bölgenizdeki tarım müdürlüğüne ve gül yetiştirenlere danışın.
+
+S: Yağ gülü ne zaman budanır?
+C: Kasım ile mart arasında, çırpma budama olarak anılan yöntemle budanır. Evde, don tehlikesi geçtikten sonra tomurcuklar şişmeden önce kuru ve zayıf dalları alıp ana dalları kısaltmak yeterlidir.
+
+S: Yağ gülü ne zaman toplanır?
+C: Mayıs sonu ile haziran başında, sabahın erken saatlerinde, çiçekler tam açılmadan ya da yeni açılmışken toplanır. Toplanan çiçek hemen işlenmelidir.
+
+S: Yağ gülü sulanmalı mı?
+C: Araştırma yayınları sulamanın verimi belirgin artırdığını gösterir: susuz koşullarda 350–500 kg/da, sulu koşullarda 900–1000 kg/da. Evde tomurcuk dönemi ile hasat arasında çalıyı susuz bırakmamak yeterlidir.
+
+### YAZI
+slug: kekik-tarimi
+baslik: Kekik Tarımı: Tarla Kurulumu ve Hasat
+yayin: 2027-03-05 19:40
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: kekik tarımı
+seo_baslik: Kekik Tarımı: Tarla Kurulumu, Dikim ve Hasat
+seo_aciklama: Kekik tarımı için fide yastığı, tarlaya dikim zamanı, dikim sıklığı, yabancı ot mücadelesi, sulama ve çiçeklenmede hasat. Tarla kurulum rehberi.
+ozet: Kekik tarımı, fide hazırlığı ile başlar ve çiçeklenme döneminde yapılan hasatla biter. Fide yastığına ekimi, mart-nisanda tarlaya dikimi, dikim sıklığını, ot kontrolünü, sulamayı, hasat zamanını ve gölgede kurutmayı Tarım ve Orman Bakanlığı ve üniversite çalışmalarına dayanarak anlattık.
+etiketler: kekik tarımı, Origanum onites, İzmir kekiği, kekik fidesi, kekik hasadı, aromatik bitki tarlası
+gorsel: bekliyor
+gorsel_alt: Düz tarlada sıra sıra dizilmiş mor çiçek açmış kekik bitkileri
+urunler: arzuman-kekik-zahter-tohumu-5-gr, hg-aromatik-bitkiler-icin-saksi-topragi
+kisaca: Kekik tarımı için tohum, ekim-aralıkta fide yastığına ekilir; fideler 10 cm olunca mart başı ile nisan ortası arasında tarlaya dikilir. Bursa'da 45×15 cm sıklık yüksek verim için uygun bulunmuştur. Hasat çiçeklenmenin başladığı ya da yarıya ulaştığı dönemde, bitki yerden 10–15 cm yükseklikten biçilerek yapılır. Yabancı ot en büyük sorundur.
+@govde
+Kekik, Türkiye'nin kıyı ve kıraç dağ yamaçlarından toplanan, ama giderek üretimi yapılan bir aromatik bitkidir. Kekik tarımı yabani toplayıcılıktan farklıdır: Fide hazırlanır, sıra sıra dikilir, ot ve su yönetilir ve hasat zamanı doğru seçilir. Bu yazıda Tarım ve Orman Bakanlığı ile üniversite çalışmalarında yer alan bilgilerle bir tarla kurulumunu adım adım izliyoruz.
+
+## Kekik tarımı için fide yastığı
+
+Kekik tohumu çok küçüktür; doğrudan tarlaya ekilirse çıkış düzensiz olur ve fidelerin kuruması riski artar. Yalova Atatürk Bahçe Kültürleri Merkez Araştırma Enstitüsü'nün kekik broşürüne göre tohumlar fide yastığına ekim-aralık arasında ekilir. Fideler yaklaşık 10 cm boya ulaştığında tarlaya dikim yapılır. Ayrıntı: [Yalova enstitüsü kekik broşürü](https://arastirma.tarimorman.gov.tr/yalovabahce/Belgeler/brosurler/Kekik.pdf).
+
+Bu takvim kıyıdaki ılıman iklim koşullarına göredir. İç bölgelerde ve yüksek yerlerde ekim zamanı daha geçtir; fideleri serada ya da çerçevede kışlatmak gerekir. Fide yastığında toprak ince, hafif, süzek ve ot tohumundan arınmış olmalıdır. Tohumlar yüzeye serpilir, hafifçe örtülür ve nemli tutulur; sıkı sulama çökertme hastalığına yol açar. Fide yetiştirme ve şaşırtma için [fide yetiştirme](/evde-fide-yetistirme) yazısındaki mantık geçerlidir.
+
+## Tarlaya dikim: zaman ve sıklık
+
+Aynı yayın, tarlaya dikim zamanını mart başı ile nisan ortası arası olarak verir. Dikimi geciktirmek fidenin tutma oranını düşürür; çünkü sıcak yaz yaklaştıkça genç fide kurur. Dikimden önce tarla işlenir, taşlar ve otlar temizlenir ve dikim sırası belirlenir.
+
+Dikim sıklığı verim için kritiktir. Bursa ve benzeri ekolojilerde yapılan bir çalışmada, yüksek drog (kuru yaprak) ve uçucu yağ verimi için 45×15 cm sıklıkta dikim uygun bulunmuştur. Yani sıra arası 45 cm, sıra üzeri 15 cm bırakılır. Bu bir bölgedeki sonuçtur; kendi bölgenizdeki öneriyi ilçe tarım müdürlüğünden öğrenin.
+
+::: adimlar
+Tarlayı hazırlayın | Toprağı işleyin, taşları ve çok yıllık otları ayıklayın; süzek, güneşli bir parsel seçin.
+Sıraları açın | Sıra arası yaklaşık 45 cm olacak şekilde dikim şeritleri belirleyin.
+Fideleri dikin | 10 cm boya ulaşmış fideyi sıra üzerinde yaklaşık 15 cm aralıkla, kök boğazı toprak hizasında dikin.
+Can suyu verin | Dikimden hemen sonra hafif sulayın; fazla sudan kaçının.
+Otları kontrol edin | İlk aylarda sık sık ot alın; kekik yavaş başlar ve otlar bastırır.
+:::
+
+## Toprak, güneş ve sulama
+
+Kekik güneşli, kıraç ve süzek toprakta en yüksek aroma oluşturur. Su tutan ağır toprak köklerini çürütür. Hafif kumlu ya da kireçli, taşlı bir toprak ideal sayılır. Toprağın su tutmasını artırmak amacıyla aşırı organik madde katmak gerekmez; çok azotlu toprakta bitki yaprak çoğaltır, aroma düşer.
+
+Sulama konusunda araştırmalarda salma ve yağmurlama sulama uygulandığı belirtilir. Fide tutunma döneminde düzenli sulama gerekir; bitki yerleştikten sonra kuraklığa dayanır. Kekik fazla suyu sevmez; yaprak ıslaklığı ve hastalık riski için sulamayı sabah yapın. Çukurova'da yapılan bir çalışmada solucan gübresi ve tavuk gübresi gibi organik gübrelerin yüksek verim için yararlı olduğu bildirilmiştir; besleme konusunda ayrıntılar için [aromatik bitki gübreleme](/aromatik-bitki-gubreleme) yazısına bakabilirsiniz.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## Yabancı otla mücadele
+
+Kekik tarımında yabancı ot, karşılaşılan en büyük sorunlardan biridir. Fideler küçük ve yavaş büyür; otlar hızla bastırır. İlk bir iki ay çapalama ya da elle ot almak şarttır. Sıra aralarında mekanik çapa ve siyah malç filmi bazı üreticiler tarafından kullanılır. Herbisit konusunda bu yazı bilgi vermez; ilaç ve doz kararı için ilçe tarım müdürlüğüne ve ziraat mühendisine başvurun.
+
+Sıralar arasında çapa yapmak toprağı havalandırır ve ot rekabetini azaltır; ayrıca fide dikim sırasında sık dikim, otun yayılmasını azaltır. Bir parselde otsuz başlamak için dikimden önce toprağı birkaç hafta sulayıp çimlenen otları çapalamak etkili bir hazırlıktır.
+
+## Hasat zamanı ve yöntemi
+
+Kekik hasat zamanı verimi ve kaliteyi belirler. Eskişehir koşullarında yapılan bir çalışmada uçucu yağ oranı ve bileşenleri açısından en uygun hasat zamanı bitkilerin yüzde 50 çiçeklendiği dönem bulunmuştur. Başka bir kaynak çiçeklenme başlangıcını optimum biçim zamanı olarak verir; bu, Denizli'de temmuz ortasına denk gelir. Uşak'ta yapılan çalışma ise öğle saatlerinde hasat önermiştir. Çalışmalar arasında fark vardır; bu nedenle bölgenizde ilk yıl küçük bir parselde deneme yapmak uygundur.
+
+Bitki yerden 10–15 cm yükseklikten biçilir. Bu yükseklikte kesmek, bitkinin yeniden sürmesini sağlar. Hasat sonrası bitkiyi sulayıp hafif besleme yapmak ikinci biçime hazırlar. Kekik üretimi ağırlıklı olarak Denizli ve İzmir'de yapılır.
+
+## Kekik tarımı ölçeği: bahçeden tarlaya
+
+Küçük bir bahçede birkaç düzine fide yeterlidir; mutfak için bir sıra kekik bir aile için fazlasıyla yeter. Tarla ölçeğine geçmeden önce küçük bir parselde bir sezon denemek, hem bölgeye uyumu hem hasat zamanını anlamak için gereklidir. Biberiye ve kekik gibi Akdeniz otlarının saksı kültürü için [saksıda biberiye ve kekik yetiştirme](/saksida-biberiye-ve-kekik-yetistirme), tarla ölçeğinde benzer bir aromatik bitki için [lavanta tarlası kurmak](/lavanta-tarlasi) yazıları fikir verir. Kekik tarımı ürünü sürekli aynı parselde yıllarca yetişmez; birkaç yıl sonra bitkiler yaşlanır ve verim düşer, bu yüzden parselin yenilenmesini planlayın.
+
+Bahçe ölçeğinde kekik tarımı başlangıçta küçük görünse de ilk iki yıl düzenli ot almak, kuraklıkta can suyu vermek ve her biçimden sonra bitkiyi dinlendirmek gerekir. Kekik tarımına başlarken toprak analizi yaptırmak da yararlıdır; pH ve kireç bilgisi gübre ve fide seçimini belirler. Toprak analizi için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakabilirsiniz.
+
+## Kurutma ve saklama
+
+Biçilen kekik demetlenir ve gölgede, havadar bir yerde kurutulur. Doğrudan güneşte kurutma aromayı uçurur. Kuruyan bitkiler yapraklı sürgün hâlinde ayıklanır, tozdan ve çöpten temizlenir ve kapaklı kavanozda serin ve karanlıkta saklanır. Tarım ürünü olarak satış, kalite standartları ve mevzuat için ilgili il müdürlüğünden bilgi alın; bu yazıda satış ve gelir bilgisi verilmez.
+@sss
+S: Kekik tarlaya ne zaman dikilir?
+C: Yalova enstitüsünün kekik broşürüne göre mart başı ile nisan ortası arasında, fideler yaklaşık 10 cm olunca dikilir. Dikimi geciktirmek fidenin tutma oranını düşürür.
+
+S: Kekik tarımında dikim sıklığı nedir?
+C: Bursa'da yapılan bir çalışmada 45×15 cm dikim sıklığı yüksek drog ve uçucu yağ verimi için uygun bulunmuştur. Kendi bölgenizdeki öneriyi ilçe tarım müdürlüğünden doğrulayın.
+
+S: Kekik ne zaman hasat edilir?
+C: Çalışmalar çiçeklenmenin başladığı ya da yarıya ulaştığı dönemi uygun bulur; bitki yerden 10–15 cm yükseklikten biçilir. Denizli'de bu temmuz ortasına denk gelir.
+
+S: Kekik tarımında en büyük sorun nedir?
+C: Yabancı ottur. Fideler yavaş büyüdüğü için ilk aylarda çapa ya da elle ot alma şarttır; sıra aralarında düzenli çapa ot rekabetini azaltır.
+
+### SORU
+yayin: 2027-03-05 21:10
+kategori: sebze-meyve
+baslik: Dikimden iki gün sonra gece 4 dereceye düştü, biber fidelerim yaprak döküyor, kurtarılır mı?
+metin: Nisan ortasında on biber fidesi diktim. Hava tahmini yanlış çıktı, iki gece 4 dereceye düştü. Yapraklar kıvrıldı, birkaç tanesi döküldü. Fideleri söküp yeniden mi dikmeliyim?
+@cevap Rümeysa Altınova | 1
+Sökmenize gerek yok; kök topağını bozmak fideleri bir kat daha yorar. Gece 10 °C'nin altındaki soğuk biber fidesini durdurur; yapraklar dökülse de gövde ve büyüme ucu yeşilse bitki toparlanır. Önümüzdeki günlerde geceleri tülbent ya da şeffaf bidonla örtün, gündüz açın. Toprak çok ıslaksa sulamayı kısın, soğuk toprakta fazla su kökü çürütür. Sabah toprak sıcaklığı 21 °C'ye ulaşana kadar bitkilerden hızlı gelişme beklemeyin, ek gübre de vermeyin. Gövde yumuşayıp siyahlaşırsa o fide kaybedilmiştir; yedek fide bulundurmak bu yüzden iyi bir alışkanlıktır.
+
+### SORU
+yayin: 2027-03-05 21:45
+kategori: sebze-meyve
+baslik: Bahçemde kendiliğinden bitmiş ısırganları kökünden söktüm ama yine çıkıyor, nasıl kurtulurum?
+metin: Bahçemin köşesinde ısırgan çıktı. Her baharda söküyorum ama bir ay sonra tekrar çıkıyor, her yıl daha da yayılıyor. Kimyasal kullanmadan nasıl kontrol altına alırım?
+@cevap Muhammed Hamza Çelik | 2
+Isırgan köksapla yayıldığı için üstten sökmek yetmez; yeraltındaki köksap parçalarından yeniden sürer. Üniversite uzatma kaynakları köksapların yaklaşık 15 cm derinlikte olduğunu ve bir parçadan bile yeni bitki çıkabildiğini yazar. Etkili yol, çatalla toprağı derinden kaldırıp köksapları elle toplamak ve kompostlamayıp atmaktır. Bunu birkaç yıl art arda, toprak yumuşakken yapın. Çiçek ve tohum oluşmadan sapları keserek tohum yayılımını önleyin. Alan boşalınca üstünü kalın malçla örtmek yeniden çıkışı azaltır. Isırgan istemiyorsanız bunun sabır isteyen bir iş olduğunu bilin; kontrolsüz bırakmayın.

@@ -1,0 +1,96 @@
+### YAZI
+slug: fide-dikim-derinligi
+baslik: Fide Dikim Derinliği: Domates Derin, Biber Sığ Neden?
+yayin: 2027-03-26 14:05
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: fide dikim derinliği
+seo_baslik: Fide Dikim Derinliği: Domates Derin, Biber Sığ
+seo_aciklama: Fide dikim derinliği her sebzede aynı değil. Domates gövdesi neden gömülür, biber ve patlıcan neden saksı seviyesinde, marul ve lahanada derinlik nasıl?
+ozet: Fide dikim derinliği, sebzenin gövdesinden kök atıp atmamasına göre belirlenir. Domates gövdesini gömerek, biber ise saksıdaki seviyede dikilir. Tür tür derinliği, sık hataları ve uzamış fide için çözümü anlattık.
+etiketler: fide dikimi, dikim derinliği, domates fidesi, biber fidesi, gövdeden kök, fide bakımı, sebze fidesi
+gorsel: bekliyor
+gorsel_alt: Toprağa gövdesinin yarısına kadar gömülerek dikilen uzamış bir domates fidesi
+urunler: raco-fide-dikme-aleti, hg-fide-topragi, hasturk-kati-solucan-gubresi
+kisaca: Fide dikim derinliği türe göre değişir: Domates gövdesinden kök attığı için ilk yapraklara kadar derin gömülür; biber, patlıcan, kabak, marul ve çilek ise saksıdaki kök topağı seviyesinde dikilir, gövde ve taç gömülmez. Brokoli ve lahana gibi bazı türler biraz daha derine gömülebilir.
+@govde
+Aynı bahçede iki fideyi aynı derinliğe diktiğiniz için biri ikincisinden çok daha kötü yaşayabilir. Domates fidesi dikimde gövdesinin büyük kısmını toprağa gömdüğünüzde sevinir; aynı şeyi marula ya da çileğe yaparsanız çürür. Fide dikim derinliği, bitkinin gövdesinden ne kadar kolay kök attığına, tacının nerede olduğuna ve toprağın ne kadar nemli kaldığına bağlıdır. Aşağıda tür tür derinliği ve nedenlerini sıraladık.
+
+## Domates neden derin dikilir?
+
+Domates gövdesi toprağa temas ettiği yerde kök yapabilir; bu köklere sonradan oluşan (adventif) kök denir. Gövdenin gömülen kısmı yeni kök üretir ve bitkinin kök sistemi genişler. Bu yüzden uzamış, zayıf, uzun saplı bir domates fidesi için en iyi çözüm, ilk gerçek yapraklara kadar gövdeyi toprağa gömmek ya da fideyi yan yatırarak dikmektir. Üst kısım toprak yüzeyinden başlayıp dikleşir.
+
+Florida Üniversitesi'nin bir [domates dikim derinliği denemesi](https://swfrec.ifas.ufl.edu/docs/pdf/veg-hort/transplant/t_trans.pdf), daha derin dikilen domateslerin ilk hasatta daha yüksek verim verdiğini ve daha çok iri meyve ürettiğini bildirir; ancak bu bir deneme sonucudur, tüm koşullarda geçerli bir kural değildir. Purdue Üniversitesi'nin [uzamış domates fidesi yazısı](https://www.purdue.edu/hla/sites/yardandgarden/?p=3517) de uzamış fideler için derin dikimi anlatır. Soğuk toprakta çok derine gömmek kök gelişimini yavaşlatabilir; toprağın üst katmanı alt katmandan daha sıcak olduğu için derin çukur yerine yan yatırma tercih edilir.
+
+## Biber ve patlıcan: saksı seviyesinde
+
+Ask Extension kaynağındaki bir yayım yanıtı, biberin mevcut kök topağıyla aynı derinlikte dikilmesinin önerildiğini ve derin gömülen biberin domates gibi gövdesinden kolayca kök salmadığını belirtir; ayrıntı için [Ask Extension yanıtına](https://ask.extension.org/kb/faq.php?id=184719) bakabilirsiniz. Başka kaynaklar biberi biraz daha derine gömmenin işe yarayabileceğini söyler, ama bu konudaki kanıtlar zayıftır. Biber ve patlıcanda derin gömmenin asıl riski, nemli toprakta gövde çürümesidir. Bu yüzden saksıdaki seviyeyi korumak, çoğu bahçe için en güvenli kuraldır.
+
+Biber ve patlıcan toprağı seven ama kök boğazı nemden zarar gören bitkilerdir. Dikimde kök topağının üst yüzeyi toprak seviyesiyle aynı hizada, hatta bir iki santim yukarıda bırakılabilir; sulama sırasında oluşan toprak çökmesi dengelenir.
+
+## Fide dikim derinliği tablosu: tür tür
+
+| Sebze | Derinlik | Neden? |
+|---|---|---|
+| Domates | İlk yapraklara kadar, uzamışsa yatırarak | Gövdeden kök atar |
+| Biber, patlıcan | Kök topağı seviyesinde | Gövde çürümesi riski, az adventif kök |
+| Salatalık, kabak, kavun | Kök topağı seviyesinde | Gövde nemli toprakta çürür; fide dikim şokuna hassas |
+| Marul, roka | Taç toprak seviyesinde | Taç gömülürse çürür |
+| Lahana, brokoli, karnabahar | Kök topağı ya da biraz daha derin | Rüzgârda devrilmeyi azaltır |
+| Çilek | Taç toprak seviyesinde | Taç gömülürse çürür, yüksekse kurur |
+| Soğan, pırasa fidesi | Kök ve gövde birkaç santim | Pırasada beyaz kısmı uzatmak için derin |
+
+Bu tablo genel bir rehberdir; fide etiketini ve kendi bölgenizdeki toprak koşullarını gözden geçirin.
+
+## Adım adım doğru dikim
+
+::: adimlar
+Fideyi sulayın | Dikimden bir iki saat önce kök topağını nemlendirin; kuru topak suyu geri çekmez.
+Çukuru açın | Kök topağı yüksekliği kadar, genişliği iki katı bir çukur kazın; domates için derin ya da yatay oluk.
+Saksıdan çıkarın | Fideyi sapından değil, topağından tutarak çıkarın; sarmal kökleri nazikçe açın.
+Derinliği ayarlayın | Türe göre gövdeyi gömün ya da kök topağı seviyesini koruyun.
+Doldurun ve bastırın | Toprağı kenarlardan doldurup hafifçe bastırın; hava boşluğu bırakmayın.
+Can suyu verin | Bol su verin; toprak çökerse üstünü tamamlayın.
+:::
+
+Dikim aleti kullanmak, düzgün ve aynı derinlikte çukur açmayı kolaylaştırır. Çukurun dibine bir avuç olgun kompost ya da solucan gübresi karıştırabilirsiniz; ama kök bölgesine doğrudan yoğun gübre koymayın.
+
+[ürün:raco-fide-dikme-aleti]
+
+## Uzamış fideyi kurtarmak
+
+Işık yetersizliğinden uzamış, ince ve zayıf bir domates fidesi çöpe gitmeyecek kadar değerlidir. Fideyi yan yatırarak dikin: Kök topağı için yatay bir oluk açın, gövdeyi oluğa yerleştirin ve yalnızca yaprakların olduğu üst 10–15 cm'yi toprağın dışında bırakın. Gövde birkaç gün içinde dikleşir. Gömülü gövde zamanla kök yapar. Aşırı uzun fideler için kök topağının üstünü saksı içinde tutmak ve gövdeyi dikim anında bükülmeden yerleştirmek önemlidir; gövdeyi sertçe bükmeyin, çatlar.
+
+Biber ve patlıcanın uzamış fidesini ise gövdesini tam gömmeden, saksıdaki seviyeden bir iki santim daha derin dikmek yeterlidir. Biberde uzamışlık sorun olursa ışık bol bir ortamda yeni fide yetiştirmek daha iyi sonuç verir. Fide uzaması için [domates fidesi yetiştirme](/domates-fidesi-yetistirme) ve [biber fidesi yetiştirme](/biber-fidesi-yetistirme) yazıları nedenleri anlatıyor.
+
+## Toprağın ısısı ve nemi fide dikim derinliğini etkiler
+
+Derin gömülen kök topağı toprağın alt katmanındaki soğukla karşılaşır. İlkbahar başında soğuk bir toprakta çok derin dikilen fide köklenmekte zorlanır. Sıcaklığı fazla olmayan bahar dönemlerinde derin dikim yerine yatay dikim (domateste) daha uygundur; çünkü toprağın üst katmanı daha hızlı ısınır. Kıyı bölgelerde yaz sıcağı sırasında ise yüzeyin fazla kuruması riski vardır; derin ve sık malçlı dikim tutuculuğu artırır. Toprak sıcaklığı ve sertleştirme için [nisan ayında bahçede yapılacaklar](/nisan-ayinda-bahcede-yapilacaklar) yazısına bakın.
+
+## Dikimden sonra gövde çevresi
+
+Dikimden sonra gövdenin dibinde bir sulama çanağı açın ama çanağın gövdeye bitişik yerini hafif yüksek bırakın. Sürekli ıslak gövde çürür. Malçı gövdeden iki üç santim uzak serin. Kabakgiller ve biberde bu uzaklık özellikle önemlidir. Yeni dikilen fidenin rüzgâr ya da güneşten yanmaması için ilk günler bulutlu havada dikim yapın, gerekirse hafif gölgeleyin.
+
+## Sık yapılan hatalar
+
+Marul ve çileği domates gibi derine gömmek en yaygın hatadır; taç çürür. Biber ve kabak gövdesini gömüp gövde çürümesine yol açmak ikinci hatadır. Domatesi saksı seviyesinde dikip uzamış gövdeyi açıkta bırakmak üçüncüsüdür; bitki rüzgârda devrilir. Dördüncüsü, fideyi sapından tutup çekmek ve gövdeyi ezmektir. Beşincisi, çukurda hava boşluğu bırakmaktır. Fide dikim derinliği konusunda "hepsini aynı derinliğe" kuralı yoktur; türün gövdesinden kök atıp atmamasına bakın.
+@sss
+S: Fide dikim derinliği ne kadar olmalı?
+C: Türe göre değişir. Domates ilk yapraklara kadar derin ya da yan yatırılarak dikilir; biber, patlıcan, kabak, marul ve çilek ise saksıdaki kök topağı seviyesinde dikilir.
+
+S: Biber fidesi domates gibi derin dikilir mi?
+C: Genellikle hayır. Biber gövdesinden domates kadar kolay kök atmaz ve nemli toprakta gövde çürümesi riski vardır. Saksıdaki seviyede, en fazla bir iki santim daha derin dikmek güvenlidir.
+
+S: Uzamış domates fidesi nasıl dikilir?
+C: Yan yatırarak dikin. Kök topağı için yatay bir oluk açın, gövdeyi oluğa yerleştirin ve yalnızca üst yaprakları toprak dışında bırakın. Gömülü gövde yeni kök yapar.
+
+S: Marul ve çilek neden derin dikilmez?
+C: İkisinin de büyüme noktası (taç) toprak seviyesindedir. Taç toprağa gömülürse çürür; fazla yüksekte kalırsa kurur. Bu yüzden taç toprak yüzeyiyle aynı hizada olmalıdır.
+
+### SORU
+yayin: 2027-03-26 08:20
+kategori: sebze-meyve
+baslik: Uzamış biber fidesini domates gibi gömsem olur mu?
+metin: Penceredeki biber fidelerim ışık yetmediği için çok uzadı. Domatesler gibi yatırıp gövdelerini gömmeyi düşünüyorum, doğru mu?
+@cevap Muhammed Hamza Çelik | 4
+Biberde domates kadar güvenilir değil. Biber gövdesinden domates gibi bol kök atmaz ve nemli toprakta gövde çürüyebilir. Fideyi saksıdaki seviyeden bir iki santim daha derine dikmek yeterli. Çok uzamış fidelerde, bitkiyi dikimde rüzgârdan koruyun ve destek verin. Gelecek sefer fideleri daha aydınlık ve serin bir yerde büyütün; uzamanın asıl nedeni ışık eksikliği.

@@ -1,0 +1,40 @@
+name: Ürün sil
+
+# Verilen kimliklerdeki ürünleri siler (scripts/urun-sil.mjs). Adres öneki tutmayan ürün silinmez; "uygula" işaretsizse deneme.
+on:
+  workflow_dispatch:
+    inputs:
+      idler:
+        description: 'Ürün kimlikleri (virgülle)'
+        required: true
+      adres_onek:
+        description: 'Silinecek ürünlerin adresi bununla başlamalı'
+        required: true
+      uygula:
+        description: 'Sil (işaretsizse deneme)'
+        type: boolean
+        default: false
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/urun-sil.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  sil:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/urun-sil.mjs
+        env:
+          IDLER: ${{ github.event.inputs.idler }}
+          ADRES_ONEK: ${{ github.event.inputs.adres_onek }}
+          APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+          STORE: ${{ secrets.IKAS_STORE }}
+          ID: ${{ secrets.IKAS_CLIENT_ID }}
+          SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}

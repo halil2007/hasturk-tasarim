@@ -1,0 +1,242 @@
+### YAZI
+slug: bitki-etiketi-okuma-gunes-su-ve-dayaniklilik-simgeleri
+baslik: Bitki Etiketi Okuma: Güneş, Su ve Dayanıklılık Simgeleri Ne Anlatır?
+yayin: 2027-04-14 11:35
+yazar: Mikdat Çelik
+kategori: gundem
+odak: bitki etiketi okuma
+seo_baslik: Bitki Etiketi Okuma: Simgeler Ne Anlatır?
+seo_aciklama: Bitki etiketi okuma rehberi: güneş, su ve soğuk dayanıklılığı simgeleri, Latince ad, boy ve yayılma bilgisi. Fidanlıkta alıştan önce neye bakılır, adım adım.
+ozet: Fidanlık tezgâhındaki küçük plastik etiket, bitkinin nereye uyacağını söyleyen en ucuz danışmandır. Etiketteki güneş, su ve soğuk simgelerini, bitki adını ve boy bilgisini nasıl okuyacağınızı anlattık.
+etiketler: bitki etiketi, fidanlık, bitki seçimi, dayanıklılık, güneş simgesi, çok yıllık
+gorsel: bekliyor
+gorsel_alt: Fidanlık tezgâhında renkli çiçekli saksıların içine saplanmış küçük plastik bitki etiketleri
+urunler: hg-cicek-topragi, hg-gul-topragi-gullere-ozel-toprak-karisimi
+kisaca: Bitki etiketi okuma dört bilgiyle başlar: Latince ad, ışık simgesi, su ihtiyacı ve soğuğa dayanıklılık. Güneş dolu ya da yarım çizilir, damla sulamayı, H harfli kod ya da derece ise en düşük kış sıcaklığını gösterir. Balkonunuzun ışığı ve kışı etikete uymuyorsa bitki ne kadar güzel olursa olsun bırakın.
+@govde
+Hafta sonu fidanlıkta bir sedefli sardunya, bir de adı bile okunmayan mor çiçekli bir çok yıllık gördünüz. İkisini de sepete atıp balkona taşıdınız. Üç hafta sonra biri sararıyor, diğeri çiçek bırakıp küsüyor. Çoğu zaman bitkiyi seçtiğiniz anda ona bir şey sormadınız: Sen nerede yaşarsın? Yanıt, saksıya saplanmış küçük etikette yazıyordu. Bitki etiketi okuma, bahçeciliğin en ucuz ve en çok atlanan becerisidir. Aşağıda etiketteki her bilginin ne anlama geldiğini, hangisinin kritik olduğunu ve hangisinin bölgenizde farklı çalışabileceğini anlattık.
+
+## Bitki etiketi okuma: etikette hangi bilgi var?
+
+Her etiket aynı bilgiyi içermez; küçük bir sebze fidesi etiketi iki satırdan ibaretken, bir çok yıllık ya da gül etiketi dört beş bilgi taşır. İyi bir etikette şunlar bulunur:
+
+| Bilgi | Ne anlatır? | Neden önemli? |
+|---|---|---|
+| Latince ad | Bitkinin evrensel adı (ör. *Lavandula angustifolia*) | Aynı Türkçe ada sahip farklı bitkileri ayırır |
+| Çeşit adı | Seçilmiş çeşit | Boy, renk ve dayanıklılık çeşide göre değişir |
+| Tek ya da çok yıllık | Ömür | Bir sezon mu, yıllarca mı kullanacağınızı belirler |
+| Boy ve yayılma | Olgun ölçü | Aralığı ve saksı boyunu belirler |
+| Işık simgesi | Güneş ihtiyacı | En sık hata buradadır |
+| Su simgesi | Sulama düzeyi | Kuruya mı, nemliye mi uygun? |
+| Soğuk dayanıklılığı | En düşük kış sıcaklığı | Kışı dışarıda geçirir mi? |
+| Çiçek zamanı ve rengi | Gösteri ayları | Bahçe planı için |
+
+Etikette olmayan bilgiyi sormaktan çekinmeyin. Zehirlilik, uyarı ve özel toprak isteği çoğunlukla etikete sığmaz.
+
+## Işık simgeleri nasıl okunur?
+
+En yaygın üç sembol vardır. Dolu bir güneş, tam güneşi; yarısı dolu bir güneş ya da bulutlu güneş, yarı gölgeyi; boş ya da gölgeli bir daire, gölgeyi gösterir. Bazı etiketlerde yalnızca yazı bulunur: "güneşi sever", "yarı gölge".
+
+Burada dikkat edilecek bir şey var: Tam güneş, genellikle günde altı saat ve üzeri doğrudan ışık demektir. Yarı gölge ise iki ile dört saat arası doğrudan ışık ya da gün boyu süzülmüş ışık. Balkonunuzun kaç saat güneş aldığını bilmiyorsanız önce bunu ölçün; yöntemi [balkonunuz kaç saat güneş alıyor](/balkonunuz-kac-saat-gunes-aliyor) yazısında anlattık. Işığın evdeki karşılığı için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazısına da bakabilirsiniz.
+
+## Su simgeleri
+
+Su damlası sayısı, sulama sıklığını anlatır. Bir damla az su (kuruyu sever), iki damla orta, üç damla bol su (nemli ve sulak toprak) anlamına gelir. Sayısal düzen markaya göre farklı olabilir; ama yaygın mantık aynıdır.
+
+Etiketteki su simgesini tek başına yorumlamayın. Aynı üç damla bitki, kumlu ve rüzgârlı bir balkonda günde iki kez su isteyip, ağır killi toprakta haftada bir yeter. Etiket yönü gösterir, ayarı bitki ve toprak yapar.
+
+## Soğuk dayanıklılığı: H harfli kod
+
+Dayanıklılık, bahçıvanın pahalı hatasını önleyen bilgidir. İki yaygın gösterim vardır: doğrudan en düşük sıcaklık (ör. "−15 °C") ya da bir kod.
+
+Royal Horticultural Society, 2012'den beri bitkileri H1a'dan H7'ye kadar bir ölçekle derecelendiriyor; ölçek, bitkinin dayanabileceği en düşük sıcaklığa göre beşer derecelik adımlarla ilerliyor ve H1a ısıtılmış serada yaşayan tropik bitkiyi, H7 ise −20 °C'nin altına dayanan en sert bitkiyi anlatıyor ([RHS, dayanıklılık derecesi](https://www.rhs.org.uk/advice/rhs-hardiness-rating)). Aynı ölçekte H3 yarı dayanıklı, H4 ve üstü tam dayanıklı kabul ediliyor.
+
+| Kod | Yaklaşık en düşük sıcaklık | Anlamı |
+|---|---|---|
+| H1a-H1c | 5 °C üstü | Isıtılmış mekân; Türkiye'de ev bitkisi |
+| H2 | 1 ile 5 °C | Don görmeyen mekân; donda ölür |
+| H3 | −5 ile 1 °C | Yarı dayanıklı; hafif donu atlatır |
+| H4 | −10 ile −5 °C | Dayanıklı; çoğu bahçe bitkisi |
+| H5 | −15 ile −10 °C | İç bölgenin soğuğuna kadar |
+| H6 | −20 ile −15 °C | Çok sert kışlara dayanıklı |
+| H7 | −20 °C altı | En sert kışlara dayanıklı |
+
+Bu kodlar Britanya için hazırlanmış; kışları nemli ve ılımandır. Türkiye'de kıyıda H3 bir bitki rahatça kışlar, Doğu Anadolu'da ise −25 °C'yi gören bir bahçe için H7 bile sınırda kalabilir. Bu yüzden etiketteki sayıyı kendi bölgenizin en düşük kış sıcaklığıyla kıyaslayın. Kendi balkonunuzun gerçek soğuğunu bilmek için [son don tarihi](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısına ve [min-maks termometre](/min-maks-termometre-bahcede-gece-sicakligini-olcmek) kayıt yöntemine göz atın.
+
+## Yerli etiketlerde ne yazar?
+
+Türkiye'deki birçok fidanlıkta etiket basit bir yazıdan ibarettir: bitki adı, "güneşi sever", "dona dayanıklı" ya da "içeride kışlar". Bu ibareleri de yorumlamak gerekir. "Dona dayanıklı" hangi dona? Eksi beş mi, eksi yirmi mi? Bilgi yoksa fidancıya sormak en doğrusudur. Şu üç soru çoğu belirsizliği çözer: En düşük kaç dereceye dayanır? Günde kaç saat güneş ister? Saksıda mı yetişir, toprağa mı dikilir?
+
+Etiketsiz bitki alacaksanız, bitkinin adını öğrenip kendi araştırmanızı yapın. Fotoğraftan bitki tanımak için [bitki tanıma](/bitki-tanima) yazısındaki yöntemler yardımcı olur.
+
+## Etiketi okuduktan sonra: üç adımlı karar
+
+Etiketi okumak yeter değil; kendi bahçenizle eşleştirmeniz gerekir. Şu sıra hızlı bir filtre oluşturur.
+
+::: adimlar
+Işığı eşleştirin | Etiketteki güneş simgesini, köşenizin güneş saatiyle karşılaştırın.
+Kışı eşleştirin | Dayanıklılık değerini bölgenizin en düşük kış sıcaklığıyla kıyaslayın.
+Boyu hesaplayın | Olgun boy ve yayılmayı, ayıracağınız yerle ölçün; küçük fide büyüyünce kalabalıklaşır.
+Suyu planlayın | Su simgesini kendi sulama alışkanlığınızla uyuşturun; haftada bir sulayacaksanız kuruyu sevenleri seçin.
+:::
+
+Dört şart uyuşuyorsa bitki büyük olasılıkla mutlu olur. Bir tanesi uyuşmuyorsa, nedenini ve çözümünü düşünün: Taşınabilir bir saksıyla ışığı ayarlayabilirsiniz, ama kışı değiştiremezsiniz.
+
+## Etiket yalan söylemese de eksik söyleyebilir
+
+Marketlerde ve büyük satış noktalarında bir başka sorun daha var: Etiket ile bitki birbirine karışmış olabilir. Aynı tezgâhta sıra sıra duran saksılarda etiketler yer değiştirir, bir müşteri bakarken çeker, bir çalışan geri koyarken yanlış saksıya sokar. Etiketteki fotoğraf mor çiçekli bir bitkiyi gösterirken, saksıdaki bitki henüz çiçeksiz olduğu için doğrulamak zordur. Böyle durumlarda yaprak biçimine bakın: Etiketteki Latince adı kısaca arayıp yaprağın aynı olup olmadığını kontrol edin.
+
+İkinci tuzak, ürün kategorisidir. "Bahçe bitkisi" diye satılan bir bitki, aslında yalnızca yazın dışarıda duran yarı hassas bir türden olabilir. "Çok yıllık" yazması, sizin bölgenizde çok yıllık kalacağı anlamına gelmez; bitki Akdeniz kıyısında yıllarca yaşarken İç Anadolu'da ilk kışta ölebilir. Bu yüzden bitki etiketi okuma işinde ömür bilgisini her zaman dayanıklılıkla birlikte okuyun.
+
+Üçüncüsü ise boydur. "60 cm" yazan bir çalı, etikette yazan boya birkaç yılda ulaşır; önce küçücük bir fide gibi görünür. Aralığı bugünkü ölçüye göre değil, olgun ölçüye göre ayarlayın.
+
+## Etiketin söylemedikleri
+
+Etiketler genellikle sadece alıcıyı ilgilendiren bilgiyi verir. Bazı şeyler yazmaz:
+
+- Bitkinin zehirli olup olmadığı; çocuk ve evcil hayvan varsa [bahçede zehirli bitkiler](/bahcede-zehirli-bitkiler) yazısına bakın.
+- Toprak pH ihtiyacı; kireçli toprağa uygun olmayan bitkiler vardır, ayrıntı için [kireçli toprakta yetişen bitkiler](/kirecli-toprakta-yetisen-bitkiler) yazısı yol gösterir.
+- Bitkinin istilacı olup olmadığı; bazı yer örtücüler birkaç yılda bütün yatağı kaplar.
+- Kök yapısı; derin ve geniş kök salan bir bitkiyi küçük saksıya koymanız sorun çıkarır.
+
+Etikette olmayan bilgiyi kendi kaynağınızdan bulmak, uzun vadede çok hayal kırıklığı önler.
+
+[ürün:hg-cicek-topragi,hg-gul-topragi-gullere-ozel-toprak-karisimi]
+
+## Kendi etiketinizi tutun
+
+Fidanlıktan çıkardığınız bitkinin etiketini atmayın. Saksının kenarına ya da bir yere iliştirip saklayın; ileride bakım sorusu çıktığında en güvenilir kaynak odur. Etiketi kaybettiyseniz bile fotoğrafını çekmeniz yeter. Bahçe defterinize bitki adı, alış tarihi ve etiket bilgisini yazmak, birkaç yıl sonra neyin nerede olduğunu hatırlamak için paha biçilmezdir. Tohum ve fide etiketlemesini [bitki etiketleme](/bitki-etiketleme) yazısında ayrıca anlattık.
+
+Bir dahaki sefere tezgâhın önünde durduğunuzda önce bitkiye değil, etikete bakın. Bitki size güzel görünmek için orada duruyor; etiket ise size doğruyu söylemek için.
+@sss
+S: Bitki etiketindeki dolu güneş simgesi ne demek?
+C: Dolu güneş, bitkinin tam güneşi sevdiğini, yani günde yaklaşık altı saat ve üstü doğrudan ışığa ihtiyaç duyduğunu gösterir. Yarım ya da bulutlu güneş yarı gölgeyi anlatır. Simgeler markaya göre değişebilir.
+
+S: Etiketteki H4 ya da H5 ne anlama gelir?
+C: RHS dayanıklılık ölçeğine göre H4, yaklaşık eksi on ile eksi beş derece arasına, H5 eksi on beş ile eksi on derece arasına dayanır. Kodlar Britanya iklimine göre hazırlanmıştır; bölgenizin en düşük kış sıcaklığıyla karşılaştırın.
+
+S: Etikette soğuk dayanıklılığı yazmıyorsa ne yapmalıyım?
+C: Fidancıya en düşük kaç dereceye dayandığını sorun ve bitkinin Latince adını not edin. Dayanıklılığı bilinmeyen bitkiyi ilk kışta saksıda tutup donlu gecelerde içeri alabilirsiniz.
+
+S: Etiket bitkinin zehirli olduğunu gösterir mi?
+C: Çoğu etiket göstermez. Çocuk ve evcil hayvan varsa bitkinin Latince adıyla zehirlilik bilgisini ayrıca araştırın; emin olamadığınız bitkileri erişilemeyecek bir yerde tutun.
+
+### YAZI
+slug: dolu-sonrasi-bahce-ilk-gun-ne-yapilir-neye-dokunulmaz
+baslik: Dolu Sonrası Bahçe: İlk Gün Ne Yapılır, Neye Dokunulmaz?
+yayin: 2027-04-14 19:30
+yazar: Hatice Kübra Çelik
+kategori: gundem
+odak: dolu sonrası bahçe
+seo_baslik: Dolu Sonrası Bahçe: İlk Gün Ne Yapılır?
+seo_aciklama: Dolu sonrası bahçe nasıl toparlanır? Yırtık yaprakları hemen kesmeyin; ilk günde yapılacaklar, sebze ve çiçekte kurtarma kararı, gübre ve hastalık takibi.
+ozet: Beş dakikalık bir dolu, bahçedeki bir sezonluk emeği yırtık yapraklara çevirebilir. Dolu sonrası ilk gün neyin yapılacağını, neye dokunulmaması gerektiğini ve hangi bitkinin kurtarılabileceğini sırayla anlattık.
+etiketler: dolu, fırtına, bahçe kurtarma, yırtık yaprak, nisan, sebze
+gorsel: bekliyor
+gorsel_alt: Dolu sonrası yaprakları delik deşik olmuş marul ve fasulye sıraları
+urunler: dev-kivircik-marul-fidesi-12-adet, hasturk-sivi-solucan-gubresi
+kisaca: Dolu sonrası bahçede ilk kural acele etmemektir. Yatmış bitkileri kaldırıp destekleyin, yalnızca tamamen kırılmış ya da ezilmiş kısımları kesin, yırtık yaprakları sökmeyin; yaprak, bitkinin yeniden toparlanma gücüdür. Toprağı nemli tutun, yeni sürgün çıkana kadar gübre vermeyin ve bir ay boyunca hastalık belirtilerini izleyin.
+@govde
+Nisan öğleden sonrası, gökyüzü bir anda kararır ve beş dakika boyunca buz taneleri balkonu döver. Rüzgâr dinince dışarı çıkıyorsunuz: Marul yaprakları delik deşik, fideler yatmış, saksılardan bazıları devrilmiş. İlk içgüdünüz hemen temizlemek, yaprakları sökmek, her şeyi toparlamak olabilir. Bu içgüdü çoğu zaman hasarı büyütür. Dolu sonrası bahçe, ilk gün sakin kalmayı gerektirir. Aşağıda ilk günde, ilk haftada ve ilk ayda yapılacakları, hangi bitkinin kurtarılabileceğini ve yenisini ne zaman dikmeniz gerektiğini anlattık.
+
+## İlk saatte: sakin kalın, saymayın
+
+Hasar, dolu bittiği anda en kötü görünür. Yaprakların delinmiş, gövdelerin ezilmiş hali, aslında bitkinin tamamen kaybedildiği anlamına gelmez. Bahçıvanlar bunu sık yaşar ve sonradan "çok acele etmişim" der.
+
+Önce ne olduğunu görün. Fotoğraf çekin: Hasar gören yatakları, devrilmiş saksıları, kırık dalları. Bu fotoğraflar hem durumu kayda alır hem de birkaç hafta sonra toparlanmayı değerlendirmenizi sağlar. Daha sonra benzer sorunlar yaşarsanız karşılaştırma yapmak için de işe yarar.
+
+Gerekirse ayakkabı giyip yağmur çizmesiyle bahçeye çıkın; ıslak toprağa çok basmak toprağı sıkıştırır. Yatak ve saksı bahçeciliğinde toprağın üstüne basmadan, kenardan işlem yapmak her zaman daha iyidir.
+
+## Dolu sonrası bahçe: ilk gün yapılacaklar
+
+Üniversite yayım servisleri aynı noktada birleşiyor: Önce bekleyin, sonra yalnızca ciddi hasarlı kısımları temizleyin. South Dakota State University Extension, tüm yırtık yaprakları temizlemenin bitkinin yeniden büyümek için ihtiyaç duyduğu fotosentez kapasitesini azalttığını belirtiyor ([SDSU Extension, dolu hasarı](https://extension.sdstate.edu/preventing-and-dealing-hail-damage-garden)). Maryland Üniversitesi'nin yayını da yatan bitkilerin kısa sürede kaldırılıp desteklenmesini, aksi halde eğri büyüyeceklerini anlatıyor ([University of Maryland Extension](https://marylandgrows.umd.edu/2019/06/07/hail-damage-in-vegetable-and-other-gardens/)).
+
+::: adimlar
+Fotoğraf çekin | Hasarı kaydedin; sonraki haftalarda toparlanmayı bununla kıyaslayın.
+Devrilenleri kaldırın | Yatan fide ve saksıları dikkatle doğrultun, gerekirse çubukla destekleyin.
+Kırık ve ezilmişi kesin | Tamamen kopmuş sap ve dalları temiz bir makasla kesin; yırtık yaprakları sökmeyin.
+Fazla suyu boşaltın | Saksı altlığında ve yatak köşelerinde biriken suyu temizleyin.
+Dokunmayın | Gübre, ilaç ve sert budamayı en az bir hafta erteleyin.
+:::
+
+Yırtık yaprağı bırakmak ilk bakışta kötü görünür; ama yaprak yüzeyi hâlâ ışığı tutuyor ve bitki toparlanmak için ona ihtiyaç duyuyor.
+
+## Hangi bitki kurtarılır?
+
+Her bitki dolu hasarına aynı şekilde yanıt vermez. Genel çerçeve şu:
+
+| Bitki | Durum | Ne yapılır? |
+|---|---|---|
+| Marul, ıspanak, roka | Yırtık ama büyüme noktası sağlam | Tabana yakın kesip yeniden sürmesini bekleyin |
+| Domates, biber fidesi | Gövde ezilmedi, yaprak yırtıldı | Destekleyin, bekleyin; yeni yaprak çıkar |
+| Fasulye, bezelye | Genç sürgünler kırıldı | Büyüme ucu sağlamsa bekleyin, değilse yeniden ekin |
+| Soğan, sarımsak | Yaprak yırtıldı | Çoğu toparlanır; çürüme için izleyin |
+| Brokoli, karnabahar | Baş kısmı buz darbesi aldı | Baş çürüyebilir; gözleyin, gerekirse sökün |
+| Çiçekli yıllıklar | Petal yırtıldı | Kesip yeniden çiçek vermesini bekleyin |
+| Çok yıllıklar, çalılar | Yaprak ve filiz hasarlı | Genellikle toparlanır, dallar sağlamsa sorun yok |
+
+Marul örneği dikkat çekici: Dolu sonrası erken kesilen marul yeniden büyüyüp kullanılabilir ikinci bir baş verebiliyor; üniversite yayımları yıllık sebzelerin genel olarak dolu hasarına en dayanıklı bitkiler olduğunu da belirtiyor. Büyüme noktası, yani bitkinin merkezi, sağlam ise çoğu zaman umut vardır.
+
+Bitkinin büyüme noktası parçalanmışsa ya da gövde kopmuşsa yenisini dikmeyi düşünün. Yeniden ekmek için hangi fideyi seçeceğinizi [fide alırken kontrol listesi](/saglikli-fide-nasil-secilir-fide-alirken-kontrol-listesi) yazısında anlattık.
+
+## Balkon ve saksı bahçesinde dolu
+
+Balkonda dolu hasarı çoğu zaman yatak bahçesinden farklı çıkar. Saksılar rüzgârla devrilir, çatlar ve içindeki toprak dağılır; ince saplı fideler gövdelerinden kırılır. Yüksek katlarda dolu açık balkonlara eğik düşer, korkuluk dibindeki saksılar daha çok zarar görür.
+
+Saksıları dolu bittikten sonra hemen yerine alın, fakat önce toprağın yerini kontrol edin. Dökülen toprağı toplayıp saksıya geri koyun, kök açıkta kalmışsa nemli toprakla örtün. Çatlayan plastik ya da terakota saksıyı kullanmaya devam edeceksiniz, ama kökleri sıkıştırmadan başka bir saksıya aktarmayı düşünün.
+
+Dolu uyarısı varsa saksıları duvar dibine ya da çatılı kısma çekmek, hasarın çoğunu önler. Dolu hasarını en aza indirmek için dolu uyarısı veren hava durumu bildirimlerini açık tutun; birkaç dakikalık hazırlık, bir sezonluk emeği kurtarabilir. Tekerlekli bir yatak ya da saksı arabası kullanıyorsanız hepsini güvenli köşeye çekmek bir dakikadır.
+
+## Sulama, gübre ve malç
+
+Toprağı nemli ama su basmış halde tutmayın. Hasarlı yaprak daha az su buharlaştırır; bu yüzden normalden az su gerekir. Çamurlaşmış bir yüzeyi gevşetmek isterseniz kuruyana kadar bekleyin. Yağmurdan sonra kabuk bağlayan toprak için [toprak kabuklanması](/toprak-kabuklanmasi) yazısındaki ipuçları yardımcı olur.
+
+Gübre için acele etmeyin. Dolu bitkiyi stres altına sokar; stresli bitkiye gübre vermek köklerde tuz yükü yaratabilir. Nebraska Üniversitesi'nin yayını, toprağı nemli ama sulu olmayacak şekilde tutmayı ve yeni sağlıklı büyüme görülene kadar gübrelemeyi beklemeyi öneriyor ([University of Nebraska-Lincoln Extension](https://extension.unl.edu/statewide/buffalo/articles-elizabeth-exstrom-unl-extension-horticulturist/hail-damage-landscape/)). Yeni yaprak çıktığında hafif bir sıvı besin ya da solucan gübresi yeterlidir.
+
+Çıplak kalan toprağı malçla kaplamak, hem nemi korur hem yağmurun çamur sıçratmasını azaltır. [Malç çeşitleri](/malc-cesitleri) yazısından saman ya da kuru yaprak gibi hafif bir malç seçebilirsiniz.
+
+## Hastalık riskini izleyin
+
+Dolu, bitkide yüzlerce küçük yara bırakır. Mantar ve bakteriler bu yaralardan kolayca girer. İlk hafta sonunda ve birkaç hafta sonra yapraklarda yeni lekeler, çürüyen sap tabanları ve kahverengileşen meyve uçları arayın.
+
+Havalandırma çok işe yarar. Yatan bitkiyi destekleyerek yapraklarını topraktan uzak tutmak, hava dolaşımını artırmak ve sabah erken sulamak, hastalık riskini düşürür. Mantar hastalığı belirtisi görürseniz [kurşuni küf](/kursuni-kuf) ve [külleme hastalığı](/kulleme-hastaligi) yazılarında tanıma ipuçları var. İlaç kullanımı gerekiyorsa etiketi okuyun ve ziraat mühendisine ya da il/ilçe tarım müdürlüğüne danışın.
+
+## Yeniden dikmek ne zaman mantıklı?
+
+Hasar yüzde ellinin üzerindeyse ve bitkinin büyüme noktası sağlam değilse yeniden dikim düşünülür. Nisanda, marul, roka ve turp gibi hızlı bitkiler birkaç haftada hasat verir; domates ve biber için ise sezon henüz uzun. Dikimi, bir sonraki dolu tehlikesi geçmişse ya da koruma yapabiliyorsanız yapın.
+
+Sonraki dolu için hazırlık da planın bir parçasıdır. Dolu için ince bir tül ya da opak bir örtüyü bir iskeletle bitkilerin üstüne kurmak koruma sağlar; bu yaklaşım küçük yataklarda kolaydır. Meyve bahçeleri için ayrıntı [dolu filesi](/dolu-filesi) yazısında. Hava tahminini izlemek için ise [son don tarihi](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısındaki gibi bölgesel takvimi bilmek gerekir.
+
+[ürün:dev-kivircik-marul-fidesi-12-adet,hasturk-sivi-solucan-gubresi]
+
+## Bir ay sonra yeniden bakın
+
+Dolunun bir ay sonrasına denk gelen bir kontrol çok işe yarar. Sürgünler toparlanmış mı, yeni yapraklar sağlıklı mı, çürüyen bir sap var mı? Kayıt tuttuğunuz ilk günkü fotoğraflarla karşılaştırın. Çoğu zaman o bir aylık sakinlik, beklediğinizden güzel bir toparlanma getirir. Dolu sonrası bahçe, ilk bakışta felaket gibi görünür ama sandığınızdan sağlamdır. Yeter ki ilk gün sökmek yerine beklemeyi, her hafta aynı noktadan fotoğraf çekip gerçek toparlanmayı ölçmeyi seçin. Bu küçük kayıt, bir sonraki fırtınada neyin korunması gerektiğini de açıkça gösterir.
+@sss
+S: Dolu sonrası bahçe için ilk ne yapılır?
+C: Hasarı fotoğraflayın, yatan bitkileri kaldırıp destekleyin ve yalnızca tamamen kopmuş ya da ezilmiş kısımları kesin. Yırtık yaprakları sökmeyin; bitki bunlarla fotosentez yapıp toparlanır. Gübre ve ilacı bir hafta erteleyin.
+
+S: Dolu yemiş marul kurtarılır mı?
+C: Büyüme noktası, yani bitkinin merkezi sağlamsa çoğu zaman evet. Tabana yakın kesip sulayın; yeni yapraklar çıkar ve ikinci bir hasat verebilir. Merkezi çürümüşse yeniden ekin.
+
+S: Dolu sonrası gübre ne zaman verilir?
+C: Yeni sağlıklı büyüme görülene kadar beklemek daha güvenlidir. Stresli bitkiye hemen gübre vermek tuz yükünü artırabilir. Yeni yapraklar çıkınca hafif bir sıvı besin ya da solucan gübresi yeterlidir.
+
+S: Dolu yarası hastalık getirir mi?
+C: Yaprak ve gövdedeki yaralar mantar ve bakterilerin girişine açıktır. Havalandırmayı artırın, sabah erken sulayın ve bir ay boyunca leke, çürüme ve kararma izleyin; belirti görürseniz fotoğrafla ziraat mühendisine danışın.
+
+### SORU
+yayin: 2027-04-14 13:20
+kategori: bahce-ipuclari
+baslik: Fidanlıktan aldığım çiçeğin etiketi kayboldu, adını nasıl öğrenirim?
+metin: Geçen hafta bir çok yıllık çiçek aldım ama saksıdan etiket düştü. Hangi ışıkta ve ne kadar suda bakacağımı bilmiyorum. Nasıl öğrenebilirim?
+@cevap Hatice Kübra Çelik | 2
+Bitkinin yaprak ve çiçeğini net fotoğraflayıp bitki tanıma uygulamalarında sonuçları karşılaştırın; tek bir uygulamaya güvenmeyin. Emin olana kadar bitkiyi yarı gölgeli bir yere koyun, toprağı hafif nemli tutun. İlk haftalar yapraklarının tepkisine bakın: sararma fazla suyu, solma susuzluğu, yanıklar fazla güneşi gösterir. Aldığınız fidanlığa fotoğrafla sormak da hızlı bir yoldur.
+
+### SORU
+yayin: 2027-04-14 16:50
+kategori: sebze-meyve
+baslik: Dolu domates fidelerimin yapraklarını parçaladı, hepsini sökmeli miyim?
+metin: Balkonda 25 cm boyundaki domates fidelerinin yaprakları dolu yüzünden yırtık, gövdeler sağlam. Yeniden mi ekeyim, beklemeli miyim?
+@cevap Muhammed Hamza Çelik | 3
+Gövde ve ucu sağlamsa sökmeyin. Fideleri destekleyin, yırtık yaprakları olduğu gibi bırakın; yeni yapraklar birkaç gün içinde çıkacaktır. Kökler hazır olduğu için yeniden ekmekten daha hızlı toparlarlar. İki hafta bekleyip yeni sürgün görmezseniz o zaman yeni fide düşünün. Bu süre içinde gübre vermeyin, yalnızca toprağı nemli tutun.

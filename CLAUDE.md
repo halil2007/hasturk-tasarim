@@ -1,0 +1,12 @@
+# HasTürk: çalışma notları
+
+## Blog yazı planları
+
+- Blogun hedefi (kullanıcı isteği, 4 Kasım 2026): tarımın bilgi merkezi ve kütüphanesi olmak. Çiftçi, seracı, hobi bahçecisi, balkon ve evde çiçek yetiştiren herkes aradığı bilgiyi doğru ve net biçimde burada bulmalı. Her yazı planı bu hedefe göre yapılır: konular kitle kitle (çiftçi/tarla, sera, bahçe ve hobi, balkon, ev bitkileri) ve konu konu (bitki, toprak, gübre, sulama, hastalık ve zararlı belirtileri, takvim, alet ve ekipman, mevzuat ve destekler) eksiksiz kapsanır; boşluklar plan hazırlanırken denetlenir.
+- Her yeni yazı planına, az da olsa, bahçe yatakları (modüler yükseltilmiş yatak, çiçeklik, şekilli seri, balkon/teras sebze yatağı No:4) ve bahçe kuleleri (Yediveren, Yonca, kat ilavesi, tekerlek seti) satışını destekleyen yazılar eklenir. Talep gören ama az satılan ürünler bunlar; satış hedefi kullanıcı isteğidir (Ekim 2026).
+- Bu yazılar mevcut seriyle aynı arama niyetini tekrar etmez. Planı `scripts/blog-plan-kontrol.mjs` ile denetle; yatak ve kule konuları için önce `veri/blog-paket/p20-*.txt` serisine ve yayındaki yatak/kule yazılarına bak. Ev ve hobi yetiştiricilerine yönelik açılar (balkon, pencere önü, kiracı, emekli) da bu kapsama girer.
+- Ürün bilgisi yalnız `docs/bilgi/urunler-hasturk.json` açıklamalarından alınır.
+- Yamyamlık yasak (kullanıcı isteği, 5 Kasım 2026): aynı arama niyetine ikinci yazı yazılmaz (ör. "Nane Yetiştirme" varken "Saksıda Nane Yetiştirme"). Aynı bitkinin ayrı niyetleri (bakım, toprak, gübreleme, budama, hastalık) ayrı yazı olabilir. Her paket ve plan `node scripts/blog-kopya-kontrol.mjs` ile denetlenir; çıkan çift ya düzeltilir ya incelenip `docs/blog-kopya-izin.txt` dosyasına eklenir. Bahçe Takvimi sayfaları "takvim" başlığı taşır; "X ayında ne ekilir / bahçede yapılacaklar" aramaları aylık yazılarındır.
+- Budama makası mağazada az: yalnız başlığı/odağı budama olan yazılarda önerilir (`src/blog/urun.js` > AZ_STOK).
+- SEO ve içerik kalitesi en sert biçimde uygulanır (kullanıcı isteği, 4 Kasım 2026): önce bilgi, sonra ürün; satış dili, fiyat ve abartı yok; doğrudan cevap, özgün yapı (tablo/adım/bilgi görseli), kaynaklı iddia. Kurallar `docs/blog-kalite-kurallari.md`, denetim `src/blog/kalite.js` (blog-paket --kontrol içinde); kapıdan geçmeyen yazı günlük sayıyı doldurmak için çıkarılmaz.
+- Kapak görselleri fotoğraftır (telifsiz, foto-aday → foto-liste akışı). Kendi çizdiğimiz kapaklar kullanılmaz: kullanıcı beğenmedi (5 Kasım 2026), denenip geri alındı.

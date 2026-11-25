@@ -1,0 +1,182 @@
+### YAZI
+slug: yatak-gunes-yonu
+baslik: Yatak Güneş Yönü: Yatağı Hangi Yöne Koymalı?
+yayin: 2027-03-29 11:35
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: yatak güneş yönü
+seo_baslik: Yatak Güneş Yönü: Yatağı Hangi Yöne Koymalı?
+seo_aciklama: Yatak güneş yönü nasıl seçilir? Kuzey–güney ve doğu–batı yerleşimin farkı, uzun bitkinin yeri, gölge hesabı, balkon yatağı ve duvar dibi için güneş saati.
+ozet: Yatak güneş yönü, sebzenin aldığı ışık miktarını ve gölge düşmesini belirler. Kuzey–güney ve doğu–batı yerleşimi, uzun bitkilerin yeri, gölge hesabı, balkon ve duvar dibi için güneş saati ölçümünü anlattık.
+etiketler: yatak yönü, güneş saati, kuzey güney, yükseltilmiş yatak, gölge, uzun bitki, balkon yatağı
+gorsel: bekliyor
+gorsel_alt: Bahçede kuzey–güney doğrultusunda uzanan iki yükseltilmiş yatak ve aralarındaki yol
+urunler: moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-34-190x60, moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60, hg-bol-verimli-sebze-topragi
+kisaca: Yatak güneş yönü seçerken uzun kenarı kuzey–güney doğrultusunda yerleştirmek, gün boyu iki yanı da güneş almasını sağlar. Uzun bitkiler kuzey ucuna ya da kuzey kenarına alınır ki alçak bitkileri gölgelemesin. Çoğu sebze günde en az altı saat doğrudan güneş ister; yeri belirlemeden önce güneş saatlerini gün içinde izleyin.
+@govde
+Yükseltilmiş yatağı kurduktan sonra yerini değiştirmek zordur; toprak dolu ve ağırdır. Bu yüzden yönü baştan doğru seçmek gerekir. Kimi bahçıvan "güneye baksın yeter" der, kimi "doğu–batı" ister, kimi duvarın dibine yaslar. Aslında çözüm, güneşin gün içindeki yolunu ve bitkilerin boylarını bilmekten geçer. Yatak güneş yönü, hem verimi hem bitki seçimini etkileyen en az maliyetli karardır.
+
+## Yatak güneş yönü: temel kural
+
+Türkiye gibi kuzey yarıkürede güneş gün boyu güney gökyüzünde yol alır: Sabah doğudan doğar, öğleyin güneyde yükselir, akşam batıda batar. Gölge de buna göre düşer: Bir bitkinin ya da yapının gölgesi her zaman kuzey tarafına düşer. Sebzelerin çoğu için yaygın kural, günde en az altı saat doğrudan güneştir; yaprağı yenen bitkiler (marul, ıspanak, roka) biraz daha az güneşle yetinirken, meyve veren bitkiler (domates, biber, kabak) daha çok ister.
+
+Yatağı koyacağınız yerde güneş saatini ölçün: Sabah, öğle ve öğleden sonra aynı noktaya bakıp gölge düşüp düşmediğini not edin. Bina, çit, ağaç ve komşu duvarının gölgeleri mevsimle de değişir; ilkbaharda ağaç yaprağı yokken güneşli görünen yer, yazın gölgelenebilir. Mümkünse planlamayı iki mevsimde kontrol edin.
+
+## Kuzey–güney mi, doğu–batı mı?
+
+İki yerleştirmenin de avantajı vardır.
+
+| Yön | Avantaj | Dikkat |
+|---|---|---|
+| Kuzey–güney (uzun kenar K–G) | Sabah yatağın doğu yüzü, öğleden sonra batı yüzü güneş alır; ışık yatağa daha eşit dağılır | Uzun bitkiyi kuzey ucuna koyun |
+| Doğu–batı (uzun kenar D–B) | Güney yüz tam güneş alır, uzun bitkiler kuzey kenarda desteklenebilir | Kuzey kenarı gölge yapabilir; ön sıra alçak bitki olmalı |
+| Çapraz (köşegen) | Özel bahçe sınırlarına uyum | Gölge hesabı karmaşıklaşır |
+
+Oregon Eyalet Üniversitesi Yayım Servisi'nin bir soru–cevap sayfası, sıraların doğu–batı gittiği durumda uzun bitkilerin kuzeyindekini gölgeleyeceğini belirtir; ayrıntı için [Oregon Eyalet Üniversitesi yanıtına](https://extension.oregonstate.edu/es/node/230061/printable/print) bakabilirsiniz. Kaynaklar, uzun bitkilerin doğu–batı bir yatakta kuzey ya da güney kenarına konulması konusunda farklı görüşler verir; ama gölge kuralı bellidir: Uzun bitki kendisinin kuzeyini gölgeler. Bu yüzden uzun bitkileri güneşi kesmeyeceği yere, yani yatağın kuzey kenarına ya da ucuna yerleştirmek daha güvenlidir.
+
+## Uzun, orta ve kısa bitki: sırayı güneşe göre dizin
+
+Yatağın güneş yönüne göre bitkiyi dizin: Güney yüz kısa, kuzey yüz uzun. Salata ve soğan gibi kısa bitkiler güneye, domates, fasulye ve mısır gibi uzun bitkiler kuzeye gider. Kuzey–güney bir yatakta uzun bitkileri yatağın kuzey ucuna toplayabilirsiniz. Sırık fasulye ve domates için destek yapısını da kuzey kenara kurmak, gölgeyi yatağa vermez. Hangi sebzenin nereye dikileceği için [bahçe yatağı dikim planı](/bahce-yatagi-dikim-plani) yazısına bakabilirsiniz.
+
+::: adimlar
+Güneş haritası çıkarın | Sabah, öğle ve öğleden sonra aynı yerde gölge düşüyor mu, not edin.
+Yönü seçin | Mümkünse uzun kenarı kuzey–güney yerleştirin.
+Yatak genişliğini belirleyin | Her iki yandan ortasına uzanılabilecek genişlik seçin.
+Bitkileri boya göre dizin | Uzun bitkiler kuzeye, kısa bitkiler güneye.
+Gölge yapan unsuru kontrol edin | Çit, ağaç ve bina gölgesini iki mevsimde yeniden kontrol edin.
+:::
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-34-190x60]
+
+Yatak kurulumunun diğer adımları (zemin, toprak miktarı, drenaj) için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazısına, yatak ile doğrudan toprak arasındaki farka [bahçe yatağı mı toprağa ekim mi](/bahce-yatagi-mi-topraga-ekim-mi) yazısına bakabilirsiniz. Taşınabilir ve kiracı dostu seçenekler için [taşınabilir bahçe](/tasinabilir-bahce) yazısı yararlı olur.
+
+## Gün boyu gölge takibi
+
+Yatağı koyacağınız bölgeyi bir günlüğüne gözleyin: Sabah 9, öğlen 12, öğleden sonra 3 ve akşam 6'da güneşin düştüğü alanı bir kâğıda çizin ya da fotoğraflayın. Bu kayıttan yatağın gerçekten kaç saat güneş aldığını görürsünüz. Altı saatten az güneş alan yer, yaprak sebzeler için kabul edilebilir; domates ve biber için yetersizdir. İlkbaharın erken döneminde güneş alçaktır ve gölgeler uzundur; yaz ortasında güneş yükselir ve gölgeler kısalır. Bu yüzden nisanda gölgeli görünen yer yazın yeterli güneş alabilir; ama tam tersi de olabilir.
+
+Bir de rüzgâr var: Rüzgâr alan açık bir yerde yatak çabuk kurur ve uzun bitkiler yatar. Güneşli ama rüzgârsız bir köşe bulmak idealdir. Çit ve duvar önü rüzgâr korumasını sağlar ama gölge düşürebilir.
+
+## Duvar dibi ve çit önü
+
+Güneye bakan duvar ya da çit önünde yatak, yansıyan ısıdan yararlanır; erken ilkbaharda toprağı ısıtır, domates ve biber için avantajlı olur. Ama yazın aşırı ısınabilir; sulama sıklığı artar ve yaprak yanığı görülebilir. Kuzeye bakan duvar dibi gün boyu gölgededir; yalnız yaprak sebzeler ya da gölgeyi seven bitkiler için uygundur. Doğu duvarı sabah güneşi alır, öğleden sonra gölgededir; batı duvarı ise öğleden sonra yoğun güneş alır ve yazın en sıcak yerdir. Duvar yaklaştıkça havalanma azalır; yatağı duvardan en az bir karış uzağa koymak, nem ve hastalık riskini azaltır.
+
+## Balkon yatağı: yön ve taşınabilirlik
+
+Balkonda seçeneğiniz sınırlıdır; yönünüz zaten bellidir. Yüksek katlarda rüzgâr da yön kadar belirleyicidir; rüzgâr için [rüzgarlı balkon bitkileri](/ruzgarli-balkon-bitkileri) yazısına bakın. Güney balkon en çok güneşi alır, batı balkon öğleden sonra yoğun ve sıcak, doğu balkon sabah güneşli ve serin, kuzey balkon çoğu zaman yetersiz ışıklıdır. Güney ve batı balkonda domates, biber, patlıcan ve fesleğen yetişir; doğu balkonda yaprak sebzeler ve aromatik bitkiler iyi gelişir; kuzey balkonda ise yalnızca gölgeye dayanan yeşillikler uygundur.
+
+Balkon yatağı tekerlekliyse mevsimle güneşe göre taşınabilir: İlkbaharda güneşe yaklaştırıp, yaz sıcağında öğleden sonra gölgeye çekmek mümkündür. Bu esneklik özellikle dar ve gölgeli balkonlarda işe yarar. Taşınabilir yatak seçerken toprak dolu ağırlığını ve balkon taşıma sınırını da düşünün.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60]
+
+## Yönü değiştirmeden güneşi artırmak
+
+Yatağın yeri değişmiyorsa güneşi artırmanın yolları vardır: Gölge yapan alt dalları budamak, çiti seyreltmek, yansıtıcı açık renkli bir duvar ya da panel koymak, uzun bitkiyi yatağın gölge düşürmeyen ucuna taşımak. Yarı gölge durumunda ise bitki seçimini değiştirin: Marul, ıspanak, roka, maydanoz ve nane yarı gölgeyi tolere eder. Domates, biber ve kabak ise gölgede bol yaprak yapıp az meyve verir. Yeri baştan doğru seçmek en kolay çözümdür; kurulu yatak için de bitkileri güneşe göre yeniden dağıtın.
+
+## Sık yapılan hatalar
+
+Yatağı gölge ölçmeden "güzel görünüyor" diye yerleştirmek en yaygın hatadır. İkincisi, uzun bitkiyi yatağın güney kenarına koyup kısa bitkileri gölgelemektir. Üçüncüsü, yalnızca bir mevsimde ölçüm yapıp yazın büyüyen ağaç gölgesini hesaba katmamaktır. Dördüncüsü, rüzgârlı bir köşeye yatak kurmaktır. Beşincisi, kuzeye bakan duvara domates dikmektir. Yatak güneş yönü ilk ay doğru seçildiğinde yıllarca verim sağlar; yanlış seçildiğinde her yıl gölgeyle mücadele edersiniz.
+@sss
+S: Yükseltilmiş yatak hangi yöne bakmalı?
+C: Mümkünse uzun kenarı kuzey–güney doğrultusunda yerleştirin; sabah doğu, öğleden sonra batı yüzü güneş alır. Uzun bitkiler kuzey uca ya da kuzey kenara konur ki alçak bitkileri gölgelemesin.
+
+S: Sebze yatağı günde kaç saat güneş almalı?
+C: Çoğu sebze için yaygın kural günde en az altı saat doğrudan güneştir. Yaprak sebzeler biraz daha az, domates ve biber gibi meyveliler daha fazla güneş ister.
+
+S: Gölge hangi yöne düşer?
+C: Kuzey yarıkürede, yani Türkiye'de, güneş güneyde yol aldığı için bir bitkinin ya da yapının gölgesi kuzey tarafına düşer. Bu yüzden uzun bitkiyi kuzeye, kısa bitkiyi güneye yerleştirin.
+
+S: Balkon yatağı hangi yöne konur?
+C: Güney ve batı balkon domates ve biber için en uygunudur; doğu balkon yaprak sebzeler için iyidir. Kuzey balkonda yalnız gölgeye dayanan yeşillikler yetişir. Tekerlekli yatak mevsime göre güneşe taşınabilir.
+
+### YAZI
+slug: siklamen-yazlama
+baslik: Siklamen Yazlama: Çiçek Sonrası Dinlendirme ve Yeniden Çiçeklendirme
+yayin: 2027-03-29 19:30
+yazar: Mikdat Çelik
+kategori: bitki-bakimi
+odak: siklamen yazlama
+seo_baslik: Siklamen Yazlama: Çiçek Sonrası Dinlendirme Rehberi
+seo_aciklama: Siklamen yazlama nasıl yapılır? Çiçek bitince suyu azaltma, serin ve gölgede dinlenme, yumru çürümesinden kaçınma, eylülde yeni toprak ve yeniden çiçeklenme.
+ozet: Siklamen yazlama, çiçeği biten yumrunun yaz boyu kuru ve serin dinlendirilip sonbaharda yeniden uyandırılmasıdır. Suyu azaltmayı, dinlenme yerini, çürüme riskini, yeni toprağa alma zamanını ve yeniden çiçeklendirmeyi anlattık.
+etiketler: siklamen, sıklamen yazlama, yumru dinlenmesi, çiçek sonrası bakım, saksı çiçeği, yeniden çiçeklenme
+gorsel: bekliyor
+gorsel_alt: Yaprakları sararmış siklamen saksısı ve toprak yüzeyinde görünen yumru
+urunler: hg-menekse-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini, hg-cicek-topragi
+kisaca: Siklamen yazlama, çiçek bitip yapraklar sararınca suyu kademeli azaltmak, saksıyı serin ve gölgeli bir yerde kuru tutmak ve yumruyu ağustos sonu ile eylülde yeni toprakta yeniden uyandırmaktır. Dinlenme sırasında sulamak yumruyu çürütür; yeni yapraklar belirince hafif sulamaya başlanır.
+@govde
+Mart sonunda siklamenin son çiçekleri solar, yaprakları sararır ve çoğu kişi bitkinin öldüğünü sanıp atar. Oysa siklamen kış çiçeği olmasının yanında, yazın dinlenmeye çekilen bir yumru bitkisidir. Sıcakta yaprağını döker, yumrusunda enerji biriktirir ve sonbahar serinliğiyle yeniden uyanır. Siklamen yazlama, bu doğal döngüyü evde taklit ederek bitkiyi bir sonraki kış yeniden çiçek açtırmaya yarar.
+
+## Siklamen yazlama neden gerekir?
+
+Siklamen, doğada kurak ve sıcak yaz mevsimini yumru hâlinde geçirir. Evde ise dükkândan alınan saksılı siklamen çoğu kişi için tek kullanımlık bir çiçektir; ama doğru yazlatılırsa yıllarca yaşayabilir. İyi yazlatılmış yumru her yıl daha büyür ve daha çok çiçek açar. Yazlama başarısız olursa yumru çürür ya da yeterince dinlenmeden zayıf çiçek verir.
+
+Siklamen bakımının genel esasları (kış serinliği, sulama, ışık) için [sıklamen bakımı](/siklamen-bakimi) yazısına bakabilirsiniz; bu yazı yalnızca çiçek sonrası dinlenmeyi ele alıyor.
+
+## Siklamen yazlama ne zaman başlar?
+
+Iowa Eyalet Üniversitesi Yayım Servisi'nin [siklamen rehberi](https://yardandgarden.extension.iastate.edu/how-to/all-about-cyclamen) ve Wisconsin Üniversitesi'nin [siklamen yazısı](https://hort.extension.wisc.edu/articles/cyclamen), çiçekler bittiğinde sulamanın kademeli azaltılmasını ve yazın kurak dönemin taklit edilmesini önerir. Yaprak sararması bu geçişin işaretidir. Dinlenme genellikle mayıs ya da haziran gibi başlar ve kaynaklara göre altı sekiz hafta sürer. Türkiye'de yazlar sıcak olduğundan bu süre uzayabilir; ekim ile ağustos arasında sulamayı tamamen kesmek de yaygın uygulamadır.
+
+Takvimden çok bitkiyi izleyin. Çiçek sapları ve yapraklar sarardıkça sulamayı azaltın; yaprağın tamamı döküldüğünde yazlatma başlamıştır.
+
+## Yazlatma adım adım
+
+::: adimlar
+Solan çiçekleri alın | Çiçek sapını yumruya yakın yerden çekerek çıkarın; kırık sap çürüme yapabilir.
+Sulamayı azaltın | Sararan yaprakla birlikte sulama aralığını gittikçe açın.
+Dinlenme yerine taşıyın | Serin, gölgeli, doğrudan güneş görmeyen bir yere alın.
+Kuru tutun | Yapraklar tamamen döküldüğünde toprağı kuru bırakın; tabakta su olmasın.
+Kontrol edin | Ayda bir yumruyu kontrol edin; yumuşama ya da küf varsa ayırın.
+Yeni sezon hazırlığı | Ağustos sonu – eylülde yeni yaprak belirmesini bekleyin.
+:::
+
+Aynı kaynaklar dinlenme döneminde yumruyu serin ve gölgede tutmayı önerir; 7–10 °C civarı serinlik tavsiye edilir. Yazın sıcak evlerde bu mümkün olmayabilir; en serin ve karanlık odayı, bodrum ya da kuzey cepheli bir odayı tercih edin. Balkon yazın çok sıcaksa saksıyı balkona koymayın.
+
+## Yumru çürümesi: en büyük risk
+
+Dinlenme sırasında sulamak yumruyu çürütür. Yaprak yokken yumru suyu kullanamaz; nemli toprakta mantar ve bakteri yumruya yayılır. Bu nedenle yazlama sırasında sulama tamamen bırakılır. Saksıyı yağmurdan ve yağmur alan balkondan uzak tutun. Saksı tabağında su varsa boşaltın. Yumru yumuşuyor, kötü kokuyor ya da kararıyorsa çürük başlamıştır; bu durumda keskin ve temiz bir bıçakla çürük kısmı kesip kuruyun, sağlam kalan kısım varsa yeni toprağa dikin. Tamamen çürümüş yumru kurtarılamaz.
+
+[ürün:hg-menekse-topragi]
+
+## Dinlenme döneminde saksı nerede durmalı?
+
+Dinlenme yeri üç şartı sağlamalıdır: serin, gölgeli ve yağmurdan uzak. Balkonda yazın doğrudan güneş alan köşe saksıyı kurutur ve sıcaktan yumruyu zedeler. Evin kuzey cephesindeki bir oda, bodrum, merdiven altı ya da gölgeli bir sundurma uygundur. Saksıyı yan yatırmak, yağmurun içine dolmasını engelleyen bir yöntem olarak bazen önerilir; ama bu yöntemde yumru havasız kalmamalıdır. Karıncaların ve zararlıların saksıya girmesini önlemek için zaman zaman kontrol edin. Aşırı sıcak yaz günlerinde yumru kurumasın diye toprağı tamamen çıplak bırakmak yerine saksının üstüne ince bir tabaka kuru malç koymak kabul edilebilir; ama nemlendirmeyin.
+
+Yaşlı yumrularda dinlenme süresi daha uzun, genç yumrularda daha kısa olabilir. Yeni sezonda çiçek sayısını görmek için yumrunun büyüklüğünü kontrol edin; her yıl biraz büyümesi gerekir. Küçülen ve buruşan yumru, yazlama koşullarının uygun olmadığına işarettir.
+
+## Eylülde yeni toprak ve ilk sulama
+
+Yeni yapraklar yumrunun üzerinde filizlenmeye başladığında bitki uyanmıştır; bu genellikle ağustos sonu ile eylül arasındadır. Bu aşamada yumruyu eski topraktan çıkarın, kuru kökleri temizleyin ve süzek, hafif bir çiçek toprağına dikin. Kaynaklar yumrunun üst yarısının toprak yüzeyinin dışında kalmasını önerir; gömülü yumru çürür. Saksıyı bir önceki boyutta ya da biraz daha büyük seçin; çok büyük saksı toprağı gereğinden fazla ıslak tutar.
+
+İlk sulamayı hafif yapın ve yeni yapraklar çıkmaya başlayınca düzenli sulamaya geçin. Siklamen alttan sulamayı sever; saksı tabağına su koyun ve yumruyu ıslatmayın. Bitkiyi serin ve aydınlık bir yere koyun; sıcak odada siklamen uzar ve zayıf çiçek verir. Çiçek açmaya başlayınca iki üç haftada bir seyreltik çiçek besini verin.
+
+## Yazlatmayı atlamak mı?
+
+Yazlama zahmetli gelirse siklameni bir yıllık çiçek gibi görmek de mümkündür; birçok kişi çiçek bittiğinde bitkiyi ayırıp yeni sezon yeni siklamen alır. Ama yazlama, doğru yapıldığında daha büyük yumru ve daha bol çiçek getirir; üstelik her yıl yeni siklamen almak zorunda kalmazsınız. Küçük bir uğraşla hem çevreyi hem bütçeyi korursunuz. Yazın sıcağı çok yüksek bölgelerde yazlatma güç olabilir; bu durumda en serin köşeyi bulmak ve kesinlikle sulamamak yeter. Evde uygun bir yer yoksa yumruyu kuru torfta saklamak de bir seçenektir; ama kuruma riski vardır.
+
+## Sonbaharda uyanan siklamenin ilk ayı
+
+Yeni yapraklar çıktıktan sonra bitkiyi serin ve aydınlık bir yere alın. Kış çiçeklerinin çoğu gibi siklamen de 10–18 °C arasındaki serinliği sever; kalorifer yanında kurur. Saksı tabağında su bırakmayın; aşırı sulamanın belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına bakabilirsiniz. Saksı değişimi gerekiyorsa [saksı değiştirme rehberi](/saksi-degistirme-rehberi) adımları anlatıyor. Kışın açan çiçekleri bir arada kullanmak için [kışın çiçek açan bitkiler](/kisin-cicek-acan-bitkiler) yazısı seçenekleri sıralıyor. Çiçek tomurcukları belirince saksıyı yerinden oynatmayın ve çok sıcak odaya almayın; tomurcuk dökülebilir.
+
+## Siklamen yazlamayı bozan hatalar
+
+Dinlenme sırasında sulamak yumruyu çürütür; en yaygın hata budur. İkincisi, yazlayan saksıyı sıcak ve güneşli bir yerde bırakmaktır; yumru kurur ya da çürür. Üçüncüsü, sararan yaprakları hemen koparmaktır; yapraklar enerjiyi yumruya aktarırken bırakın, kendiliğinden sararıp dökülsün. Dördüncüsü, yeni toprağa dikerken yumruyu tamamen gömmektir. Beşincisi, uyanan bitkiyi fazla sulayıp sıcak ortamda tutmaktır. Altıncısı, çiçek açmadan önce yoğun besleme yapmaktır. Siklamen yazlama sabır isteyen bir uğraştır; ödülü, bir sonraki kışın ilk çiçekleridir.
+@sss
+S: Siklamen çiçeği bitince atılır mı?
+C: Hayır. Siklamen yaz boyu dinlenen bir yumru bitkisidir. Çiçek bitince sulama azaltılır, yazın serin ve kuru bir yerde dinlendirilir, sonbaharda yeni toprağa alınarak yeniden çiçek açtırılır.
+
+S: Siklamen yazın sulanır mı?
+C: Dinlenme sırasında sulanmaz; yaprak yokken yumru suyu kullanamaz ve çürür. Yeni yapraklar belirince ağustos sonu ile eylülde hafif sulamaya başlanır.
+
+S: Siklamen yumrusu yeni toprağa ne zaman alınır?
+C: Yeni yapraklar yumrunun üzerinde belirmeye başladığında, genellikle ağustos sonu ile eylül arasında. Yumrunun üst yarısı toprak yüzeyinin dışında kalacak şekilde dikilir.
+
+S: Siklamen dinlenme sırasında nerede tutulur?
+C: Serin, gölgeli ve kuru bir yerde; doğrudan güneşten ve yağmurdan uzak. Kaynaklar yaklaşık 7–10 °C civarı serinliği tavsiye eder; sıcak yazlarda evin en serin odası seçilmelidir.
+
+### SORU
+yayin: 2027-03-29 09:15
+kategori: bahce-ipuclari
+baslik: Balkonum kuzeye bakıyor, domates ve biber yetişir mi, yatak koymalı mıyım?
+metin: Balkonumuz kuzeye bakıyor, sabah ve akşam çok az güneş görüyor. Kendi domatesimi yetiştirmek istiyorum. Yükseltilmiş yatak koysam işe yarar mı?
+@cevap Muhammed Hamza Çelik | 5
+Domates ve biber için kuzey balkon yetersiz kalır; bu bitkiler günde en az altı saat doğrudan güneş ister. Yatak ışığı artırmaz, yalnızca düzen ve drenaj sağlar. Kuzey balkonda marul, ıspanak, roka, maydanoz ve nane gibi az güneşle yetinen yeşilliklere yönelin. Önce balkonun gün boyu gerçekte kaç saat güneş aldığını ölçün; güneş altı saatin altındaysa meyveli sebze beklemeyin. Tekerlekli bir yatakla güneşli bir noktaya taşıma da bir seçenek olabilir.

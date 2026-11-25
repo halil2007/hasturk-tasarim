@@ -1,0 +1,172 @@
+### YAZI
+slug: siyah-naylon-malc
+baslik: Siyah Naylon Malç: Sebze Tarlasında Kullanımı ve Damla ile Birlikte Serim
+yayin: 2027-02-16 08:45
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: siyah naylon malç
+seo_baslik: Siyah Naylon Malç: Tarlada Kullanım ve Damla ile Serim
+seo_aciklama: Siyah naylon malç sebze tarlasında nasıl serilir? Toprak ısısı, ot kontrolü, damla borusu, delik açma, sökme ve atık sorunu ile vazgeçme ölçüsü.
+ozet: Siyah naylon malç, sebze sırasının üstüne serilen ve damla borusuyla birlikte çalışan bir örtüdür. Toprağı ısıtır, otu bastırır, nemi korur; karşılığında sezon sonunda sökülmesi ve atık olarak yönetilmesi gerekir. Serim sırasını, delik aralıklarını ve vazgeçme ölçüsünü anlattık.
+etiketler: siyah naylon malç, plastik malç, damla sulama, sebze tarlası, yabani ot, toprak ısısı
+gorsel: bekliyor
+gorsel_alt: Sebze tarlasında bombeli tarhın üstüne gerilmiş siyah naylon ve içinden çıkan domates fideleri
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Siyah naylon malç, sebze tarhının üstüne gerilen siyah plastik örtüdür; toprağı birkaç derece ısıtır, ot çıkışını büyük ölçüde keser ve nemi korur. Damla borusunun naylonun altına, fide delikleriyle aynı hatta döşenmesi gerekir, çünkü naylon yağmuru geçirmez. Sezon sonunda tamamen sökülür; toprağa karıştırılmaz.
+@govde
+Domates, biber, patlıcan, kabak ve karpuz gibi sıcak seven sebzelerde tarla ölçeğinde en çok sorulan sorulardan biri, tarhın üstüne ne serileceğidir. Siyah naylon malç bu soruya en yaygın yanıttır: Bitki sırası bombeli bir tarh olarak hazırlanır, üstüne siyah polietilen film gerilir ve fideler filmdeki deliklere dikilir. Aşağıda bu uygulamanın ne sağladığını, damla borusuyla nasıl eşleştiğini, serim adımlarını ve en az konuşulan tarafını, yani sezon sonu atık sorununu ele alıyoruz. Bahçenin genel malç seçenekleri için önce [malç çeşitleri](/malc-cesitleri) yazısına bakabilirsiniz.
+
+## Siyah naylon malç ne işe yarar?
+
+Siyah naylon malç üç işi aynı anda görür: toprağı ısıtmak, otu bastırmak ve nemi korumak. Üniversite uzantı yayınları bu üç etkiyi tutarlı biçimde anlatır, ama sayılar kaynağa göre değişir. North Carolina State uzantısı siyah malçın altında 2 inç derinlikte toprağın 4-9 °F (yaklaşık 2-5 °C) daha sıcak olduğunu yazar ([NC State Extension: plastik malç ve damla sulama](https://content.ces.ncsu.edu/using-plastic-mulches-and-drip-irrigation-for-vegetables)). Alabama uzantısı siyah malçta toprak sıcaklığındaki artışı 3-5 °F (yaklaşık 2-3 °C) olarak verir ([Alabama Extension: sebzede plastik malç](https://www.aces.edu/blog/topics/crop-production/plastic-mulch-for-vegetable-production-2/)). Farklı rakamlar şaşırtıcı değildir; fark malçın rengine, toprağın nemine ve naylonun toprağa ne kadar sıkı oturduğuna bağlıdır.
+
+Isınmanın pratik karşılığı erkencilik ve düzgün çıkıştır. Colorado State'in bahçe notları, plastik malçla ürünün ortalama iki üç hafta erken geldiğini ve veriminin yükseldiğini belirtir ([Colorado State Extension: sebze bahçesinde malç](https://cmg.extension.colostate.edu/Gardennotes/715.pdf)). Soğuk geçen ilkbaharda fidenin kök bölgesinin birkaç derece sıcak olması, dikim sonrası şoku azaltır.
+
+Ot kontrolünde siyah film etkilidir, çünkü ışığı geçirmez. Uzantı kaynakları, siyah plastik filmin çoğu yabani otu etkili biçimde bastırdığını, bunun iş gücünü ve maliyeti düşürdüğünü yazar; ama tarh aralarındaki yürüme yollarında ot yönetimi ayrıca gerekir ([eXtension: sentetik malç ve yabani ot yönetimi](https://articles.extension.org/pages/65191/synthetic-mulching-materials-for-weed-management)). Yani siyah naylon malç ot sorununu bitirmez, sorunu tarhın üstünden yollara taşır. Tarlada ot yönetiminin genel çerçevesi için [tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi) yazısı yararlıdır.
+
+## Naylon yağmuru geçirmez: damla boru şart
+
+Siyah naylon malçın en çok atlanan kuralı budur. Film nefes almaz ve yağmuru toprağa geçirmez; bu yüzden sulama ve gübre suyu filmin altından verilmelidir. Alabama uzantısı, plastik malçın yağışı dışarıda bıraktığını ve yeterli nemi garanti etmek için damla sulama gerektirdiğini açıkça yazar. Damla boru ya da bant, film serilmeden önce tarhın ortasına, fide sırasının hizasına döşenir; fideler sonra damlatıcıların yanına dikilir.
+
+Bu birleşimin getirdiği bir fayda daha vardır: Gübre de aynı hattan verilebilir. Alabama kaynağı, ikinci ürün için gübrelemenin damla sistemi üzerinden yapılmasını önerir. Kök bölgesine su ve besin yüzeyden akıp gitmeden ulaştığı için, sulama sıklığı ve miktarı ölçülebilir hâle gelir. Damla sistemini baştan kurmak için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısındaki adımlar tarhın boyuna göre uyarlanabilir. Sulama zamanını ölçmek için [toprak nemi ölçme](/toprak-nemi-olcme) yazısına bakın; naylonun altındaki toprak yüzeyden bakınca kuru ya da ıslak görünebilir ve yanıltabilir.
+
+## Serim adımları
+
+Serim, bombeli tarhın hazırlanmasıyla başlar. Tarh ince hazırlanmış, kesek ve taştan arındırılmış olmalıdır; çünkü film toprağa ne kadar sıkı oturursa ısınma o kadar iyi olur ve rüzgâr o kadar az kaldırır. Taban gübresi ve organik madde filmden önce toprağa karıştırılır, çünkü sonradan tarhın içine ulaşmak zordur.
+
+::: adimlar
+Tarhı hazırlayın | Toprağı işleyin, taban gübresini karıştırın, tarhı hafif bombeli ve düz yüzeyli yapın.
+Damla boruyu döşeyin | Boruyu tarhın ortasına, filmin altında kalacak biçimde serin ve ucunu bağlantıya getirin.
+Filmi gerin | Filmi iki kenardan toprağa gömerek sıkı gerin; gevşek film rüzgârda kalkar.
+Kenarları toprakla kapatın | Film kenarlarını bir bel genişliğinde toprakla örtün; rüzgâr altına girmesin.
+Delikleri açın | Fide aralığına göre, damlatıcının yanına yuvarlak delik açın.
+Fideyi dikin | Dikimden sonra deliğin kenarını toprakla kapatın ki sıcak film fideye değmesin.
+Sulamayı başlatın | Damla sistemini çalıştırın; naylonun altında nemin yayıldığını kontrol edin.
+:::
+
+Delik boyutu önemlidir. Çok büyük açılan delikten ot ve rüzgâr girer; çok küçükse fide sıkışır ve filmle teması yanık yapabilir. Fide aralıkları bitkiye göre değişir; ekim ve dikim aralığı için [sebze ekim aralıkları](/sebze-ekim-araliklari) yazısındaki tablo bir başlangıç noktasıdır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Tarla tarafında dikkat edilecekler
+
+Siyah film sıcak bölgelerde yazın filmin dibindeki toprağı fazla ısıtabilir. Kaynaklar özellikle sıcak iklimlerde beyaz ya da gümüş yüzeyli filmlerin yaz dikimlerinde tercih edildiğini anlatır; çünkü siyah yüzey güneşi emerek tarh sıcaklığını daha da yükseltir. Erken ilkbahar dikiminde siyah ise ısıtma amacıyla doğru seçimdir. Aynı sezonda ikinci ürün düşünüyorsanız, filmi yerinde bırakıp ikinci fideyi aynı deliklere dikmek mümkündür; uzantı kaynakları böyle ikinci ürünü örnek olarak anlatır.
+
+Naylon altında kök hastalığı ve nematod baskısı da izlenmelidir. Film altında toprak ısındığında ve nemli kaldığında bazı toprak kaynaklı sorunlar hızlanabilir; ayrıntı için [kök ur nematodu](/kok-ur-nematodu) yazısına bakabilirsiniz. Hasat bahçesinde fide tutunmasını artırmak için [fide sertleştirme](/fide-sertlestirme) adımını atlamayın.
+
+## Asıl bedel: sökme ve atık
+
+Siyah naylon malçın kötü tarafı sezon sonunda ortaya çıkar. Uzantı kaynakları standart polietilen malçın her sezon sökülüp atık olarak yönetilmesi gerektiğini birbirinin aynısı cümlelerle yazar: Sökme zaman alır ve masraflıdır, film toprakta parçalanmaz ve toprağa karıştırılmamalıdır; sertifikalı organik üreticiler sezon sonunda filmi tarladan kaldırmak zorundadır ([Kansas State: sebzede plastik malç](https://bookstore.ksre.ksu.edu/download/plastic-mulches-for-vegetables_MF1091)). California uzantısının plasticulture yayını da atık yönetimini bu teknolojinin başlıca zorluğu olarak anlatır ([UC ANR: California sebze üretiminde plasticulture](https://anrcatalog.ucanr.edu/pdf/8016.pdf)).
+
+Bu yüzden karar şöyle özetlenebilir: Birkaç yüz metrekarelik bahçe tarhında ya da küçük tarlada, sökme işini yapabilecek ve atığı doğru yere verebilecek durumdaysanız siyah naylon malç mantıklıdır. Atığı yakmak ya da gömmek seçenek değildir; çevre açısından yasaktır ve toprağı kirletir. Sökmek istemiyorsanız saman, çim kırpıntısı gibi organik malçlara bakın. Kağıt ve biyobozunur filmler uzantı kaynaklarında alternatif olarak anılır, ama onların da kendi sınırları (dayanım, maliyet) vardır.
+
+## Ne zaman vazgeçmeli?
+
+Üç durumda siyah naylon malç iyi bir seçim olmaz: Toprak çok sıcak ve kurak bölgede yaz dikimi yapıyorsanız, damla sistemi kuramıyorsanız ve sezon sonunda filmi sökecek iş gücünüz yoksa. Dördüncü bir durum, yoğun yağış alan yerlerde film kenarında su birikmesi ve çürüme riskidir; bu yerlerde tarh drenajı önceden düşünülmelidir. Çilek gibi çok yıllık sıralarda malç farklı bir mantıkla kullanılır; ayrıntı için [çilek tarlası kurmak](/cilek-tarlasi-kurmak) yazısına bakın.
+@sss
+S: Siyah naylon malç altına damla boru döşenir mi?
+C: Evet, döşenmesi gerekir. Siyah naylon yağmuru geçirmez ve nefes almaz; bu yüzden sulama ve gübre suyu filmin altındaki damla borudan verilir. Boru, film serilmeden önce tarhın ortasına döşenir ve fideler damlatıcıların yanına dikilir.
+
+S: Siyah naylon malç toprağı ne kadar ısıtır?
+C: Kaynaklara göre değişir; NC State 2 inç derinlikte yaklaşık 2-5 °C, Alabama yaklaşık 2-3 °C artış bildirir. Sonuç toprak neminden ve filmin toprağa sıkı oturmasından etkilenir. Isınma erken ilkbaharda fayda, sıcak yazda risk olabilir.
+
+S: Siyah naylon malç sezon sonunda toprağa karıştırılır mı?
+C: Hayır. Standart polietilen film toprakta parçalanmaz; sezon sonunda tamamen sökülüp atık olarak yönetilmelidir. Sertifikalı organik üretimde de film tarladan kaldırılır. Sökmek istemiyorsanız organik malç ya da biyobozunur filmleri değerlendirin.
+
+S: Siyah naylon malç otu tamamen bitirir mi?
+C: Hayır, tarhın üstündeki otu büyük ölçüde bastırır. Fide deliklerinde ve tarhlar arasındaki yollarda ot çıkabilir; bu alanlar ayrıca yönetilmelidir. Yürüme yollarına saman ya da ince malç serilebilir.
+
+### YAZI
+slug: tarla-kapasitesi
+baslik: Tarla Kapasitesi ve Solma Noktası: Toprak Ne Kadar Su Tutar?
+yayin: 2027-02-16 16:55
+yazar: Halil İbrahim Çelik
+kategori: toprak-rehberi
+odak: tarla kapasitesi
+seo_baslik: Tarla Kapasitesi ve Solma Noktası: Toprak Su Tutumu
+seo_aciklama: Tarla kapasitesi nedir? Solma noktası, faydalanılabilir su, kum, tın ve kil toprağın su tutumu, kök derinliğiyle hesap ve sulama kararına uygulanışı.
+ozet: Tarla kapasitesi, toprağın yerçekimiyle süzülen fazla su gittikten sonra tuttuğu su düzeyidir; solma noktası ise bitkinin artık su alamadığı alt sınırdır. İkisi arasındaki fark bitkiye yarayan sudur. Toprak bünyesine göre değişimi, hesabı ve sulama kararına etkisini anlattık.
+etiketler: tarla kapasitesi, solma noktası, faydalanılabilir su, toprak bünyesi, sulama planı, kök derinliği
+gorsel: bekliyor
+gorsel_alt: Üç kapta kum, tın ve kil toprak ve her birinden süzülen su miktarını gösteren kavramsal çizim
+urunler: leonardit-organik-toprak-duzenleyici
+kisaca: Tarla kapasitesi, fazla su süzüldükten sonra toprağın tuttuğu en yüksek su düzeyidir; kalıcı solma noktası ise bitkinin artık su alamadığı alt sınırdır. İkisi arasındaki fark bitkiye yarayan sudur. Kumlu toprakta bu aralık dar, tınlı toprakta geniştir; sulama, aralığın alt yarısına inmeden yapılır.
+@govde
+Aynı miktarda su verilen iki tarlanın biri üç gün sonra kurur, öbürü bir hafta dayanır. Fark toprağın su tutma biçimindedir ve bu biçim iki kavramla anlatılır: tarla kapasitesi ve solma noktası. Tarla kapasitesi, sulama ya da yağıştan sonra fazla suyun süzülmesi bittiğinde toprağın tutmaya devam ettiği su miktarıdır. Solma noktası ise bitkinin köklerle artık su alamadığı sınırdır. Sulama planı yapan herkes bu iki sayıyı, ya da en azından aralarındaki farkı bilmelidir. Aşağıda kavramları, toprak türüne göre farkı, basit bir hesabı ve sulama kararına etkisini anlatıyoruz. Toprak bünyesinin kendisi için [kumlu toprak ıslahı](/kumlu-toprak-islahi) ve [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazılarına da bakabilirsiniz.
+
+## Tarla kapasitesi ve solma noktası ne demek?
+
+Toprak bir süngere benzer: Islatıldığında önce tüm gözenekler dolar; kaba gözeneklerdeki su yerçekimiyle iki üç gün içinde aşağı süzülür. Süzülme durduktan sonra toprakta kalan su, ince gözeneklerde ve parçacık yüzeylerinde tutulan sudur. South Dakota State Üniversitesi uzantısı bu durumu şöyle tanımlar: Tarla kapasitesi, yerçekimiyle artık süzülmeyen suyun toprakta kalan miktarıdır; kalıcı solma noktası ise bitkinin toprakta su alamadığı su içeriğidir ([SDSU Extension: toprak suyu nasıl tutar](https://extension.sdstate.edu/how-soil-holds-water)).
+
+İki sınırın arası bitkiye yarayan sudur. Michigan State uzantısı bunu faydalanılabilir su kapasitesi olarak adlandırır: Tarla kapasitesi ile kalıcı solma noktası arasında tutulan su ([MSU Extension: suyu doğru zamanda ve doğru miktarda vermek](https://www.canr.msu.edu/news/applying-water-at-the-right-time-and-in-the-right-amount)). Tarla kapasitesinin üstündeki su kökler için bol ama geçicidir ve süzülüp gider; solma noktasının altındaki su ise toprakta kalır ama bitki onu alamaz.
+
+Bu yüzden bitkinin solması her zaman toprağın tamamen kuru olduğu anlamına gelmez. Toprakta hâlâ su vardır, ama bitkinin emebileceğinden sıkı tutulmaktadır. Sulamanın amacı toprağı tarla kapasitesine geri getirmek, zamanlaması ise solma noktasına çok yaklaşmadan önce yapmaktır.
+
+## Toprak türüne göre fark
+
+Faydalanılabilir su, toprak bünyesine büyük ölçüde bağlıdır. Kumlu toprak az su tutar; kil çok su tutar ama bu suyun önemli bölümünü bitkiye vermez. Kaynaklar orta bünyeli toprakların en fazla faydalanılabilir suyu tuttuğunu belirtir.
+
+| Toprak | Su tutumu | Sulama için anlamı |
+|---|---|---|
+| Kum | Çok düşük | Sık ve az su; hızla kurur |
+| Kumlu tın | Düşük-orta | Orta sıklıkta sulama |
+| Tın, siltli tın | En yüksek | Seyrek ve derin sulama |
+| Kil | Toplam yüksek, faydalanılabilir orta | Su yavaş girer, yavaş çıkar; boğulma riski |
+
+Rakam vermek gerekirse, Oregon State uzantısı gibi kaynaklar toprak derinliğinin her ayağı için kaba kumda 0,25-0,75 inç, ince kumda 0,75-1 inç, siltli tında 2-2,5 inç, kilde ise 1,2-1,5 inç faydalanılabilir su verir ([OSU Extension: toprak-bitki-su ilişkileri](https://extension.oregonstate.edu/catalog/em-9544-soil-plant-water-relationships)). Burada ilginç olan, kilin siltli tından daha az faydalanılabilir su vermesidir; çünkü kilde su çok sıkı tutulur ve solma noktası yüksektir. Bu sayılar bölgeye ve ölçüm yöntemine göre değişir; kendi toprağınız için yerel tablolara bakın.
+
+Toprağınızın hangi sınıfta olduğunu bilmiyorsanız basit bir bünye testi yeterli olur; yöntem için [kum mil kil oranı](/kum-mil-kil-orani) yazısına başvurun.
+
+## Köke göre hesap: toprakta ne kadar su var?
+
+Faydalanılabilir su, derinlik başına verildiği için kök derinliğiyle çarpılır. Michigan State'in örneğinde kumlu tın toprakta faydalanılabilir su yaklaşık yüzde 9,8'dir ve üç ayak (yaklaşık 90 cm) kök derinliğine sahip mısır için bu, kök bölgesinde yaklaşık 3,5 inç (yaklaşık 9 cm) su demektir. Basit mantık budur: Su tutumu × kök derinliği = kök bölgesinde kullanılabilir su.
+
+::: adimlar
+Toprak bünyesini belirleyin | Elinizle ya da laboratuvarla toprağın kum-mil-kil oranına bakın.
+Kök derinliğini öğrenin | Bitkinin etkin köklerinin ulaştığı derinliği not edin; sebzede genellikle ilk 30-60 cm olur.
+Faydalanılabilir suyu hesaplayın | Bünyeye uygun su tutumunu kök derinliğiyle çarpın.
+İzin verilen tüketimi belirleyin | Kullanılabilir suyun yaklaşık yarısı tükenince sulama yapılması yaygın bir kuraldır.
+Sulama miktarını belirleyin | Tükenen miktarı geri verin; fazlası süzülür ve boşa gider.
+:::
+
+Dördüncü adımdaki "yarısı" bir kesinlik değil, genel bir ölçüdür; bitki türüne ve gelişme dönemine göre değişir. Bunu kendi tarlanızda toprak nem ölçerle ya da elle kontrol ederek ayarlayın; yöntemler için [toprak nemi ölçme](/toprak-nemi-olcme) yazısına bakabilirsiniz.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Sulama kararına etkisi
+
+Tarla kapasitesi, sulama miktarının üst sınırını belirler. Toprağı tarla kapasitesinin üstüne çıkaracak kadar su vermek, fazlasını kök bölgesinin altına süzdürmek ve besin kaybı yaratmak demektir. Kumlu toprakta bu hızla olur; bu yüzden kumlu topraklarda az ve sık sulama, killi topraklarda seyrek ve yavaş sulama önerilir. Aşırı sulamanın belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına bakabilirsiniz.
+
+Organik madde, su tutumunu artıran en kalıcı yoldur. Ürün bilgisinde leonarditin toprağın su tutma kapasitesini artırdığı ve sulama maliyetini düşürdüğü belirtilir; organik madde ve humuslu malzemeler genel olarak kumlu toprakta su tutumunu iyileştirir. Bu etki miktarına ve toprağa göre değişir ve kısa sürede mucize beklenmemelidir. Toprakta organik madde artışının genel mantığı için [toprakta organik madde](/toprakta-organik-madde) yazısı yararlıdır.
+
+Tarlada pratik bir kontrol için sulamadan bir gün sonra küreği 20-30 santim batırıp toprağın elde nasıl durduğuna bakın. Sıkınca topak yapıp dağılıyorsa toprak tarla kapasitesine yakındır; su sızıyorsa fazla ıslanmıştır; hiç topak tutmuyorsa solma noktasına yaklaşıyordur. Bu yöntem laboratuvar ölçümü kadar kesin değildir, ama düzenli tekrarlandığında kendi tarlanızın tarla kapasitesi davranışını size öğretir ve bitki solgunluk göstermeden sulama kararı vermenizi sağlar.
+
+Son olarak, sulama zamanı ölçütüdür: Sabahın erken saatinde ya da akşam serinliğinde sulamak buharlaşma kaybını azaltır ve toprağın tarla kapasitesine ulaşmasını kolaylaştırır; ayrıntılar için [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısına bakabilirsiniz.
+@sss
+S: Tarla kapasitesi nedir?
+C: Sulama ya da yağıştan sonra fazla suyun yerçekimiyle süzülmesi bittiğinde toprağın tutmaya devam ettiği su miktarıdır. Bu su bitkiye yarar. Toprağı bu düzeyin üstüne çıkaracak kadar su vermek, fazlasını süzdürüp boşa harcamak demektir.
+
+S: Solma noktası nedir?
+C: Bitkinin köklerle toprakta artık su alamadığı su içeriğidir. Toprakta su kalmış olabilir, ama bitkinin emebileceğinden daha sıkı tutulur. Bu noktaya inen bitki kalıcı olarak solar; sulama bundan çok önce yapılmalıdır.
+
+S: Faydalanılabilir su nasıl hesaplanır?
+C: Tarla kapasitesi ile solma noktası arasındaki fark faydalanılabilir sudur. Bunu kök derinliğiyle çarpıp kök bölgesindeki kullanılabilir su miktarını bulursunuz. Değerler toprak bünyesine ve bölgeye göre değişir; yerel tablolara bakın.
+
+S: Killi toprak neden en çok suyu tutmasına rağmen bitkiye en çok su veren değildir?
+C: Çünkü kilde su çok sıkı tutulur ve solma noktası yüksektir; toplam su fazladır ama bitkinin alabileceği kısım sınırlıdır. Tın ve siltli tın genellikle en fazla faydalanılabilir suyu tutar. Kil ayrıca yavaş süzüldüğü için boğulma riski taşır.
+
+### SORU
+yayin: 2027-02-16 11:10
+kategori: bahce-ipuclari
+baslik: Siyah naylon malç serdim ama yağmur yağınca fideler kurudu, neden?
+metin: Domates tarhına siyah naylon serip fideleri diktim. Yağmur yağdı ama fideler solmaya başladı. Naylonun altına su girmiyor mu? Ne yapmalıyım?
+@cevap Rümeysa Altınova | 2
+Siyah naylon yağmuru geçirmez; yağan suyun büyük kısmı filmin üstünden akıp gider ve fide kök bölgesine ulaşmaz. Bu yüzden naylon malç damla sulamayla birlikte kullanılır. Damla boru yoksa filmin altına boru ya da bant döşemeniz gerekir; film delikleri etrafında az miktarda su içeri sızabilir ama bu yeterli ve düzenli değildir. Hızlı çözüm için fidelerin dibine delikten elle su verin ve filmi kaldırıp altındaki nemi kontrol edin. Sonraki adımda tarhın ortasına damla hattı döşeyin. Naylonun altındaki toprak yüzeyden bakınca nemli görünse bile kök bölgesi kuru kalabilir; bir parmak derinlikte kontrol edin.
+
+### SORU
+yayin: 2027-02-16 14:20
+kategori: toprak-rehberi
+baslik: Kumlu bahçede sulamaya başlar başlamaz su süzülüp gidiyor, nasıl sulayayım?
+metin: Bahçem kumlu. Ne kadar sulasam su aşağı süzülüp gidiyor ve bitkiler yine kuruyor. Daha çok su mu vermeliyim?
+@cevap Halil İbrahim Çelik | 3
+Hayır, daha çok değil daha sık ve az su vermek gerekir. Kumlu toprak az su tutar; tarla kapasitesi ile solma noktası arasındaki faydalanılabilir su dardır. Fazla su vermek kök bölgesinin altına süzülüp gider ve besini de götürür. Sulamayı kısa aralıklarla ve küçük miktarlarda yapın, damla sulama kullanın ve toprağa olgun organik madde ya da kompost karıştırarak su tutumunu artırın. Yüzeyi malçla örtmek buharlaşmayı da azaltır. Toprak nemini bir parmak derinlikte kontrol edin; yüzeydeki görüntü yanıltabilir.

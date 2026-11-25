@@ -1,0 +1,783 @@
+### YAZI
+slug: tezgah-ustu-akilli-bahce-cihazlari
+baslik: Tezgâh Üstü Akıllı Bahçe Cihazları: Gerçekten İşe Yarar mı?
+yayin: 2027-01-19 08:30
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: tezgâh üstü akıllı bahçe
+seo_baslik: Tezgâh Üstü Akıllı Bahçe Cihazları İşe Yarar mı?
+seo_aciklama: Tezgâh üstü akıllı bahçe cihazları ne sunar, ne sunamaz? Işık gücü, hazne, elektrik tüketimi ve hangi bitkilerin yetiştiğini kontrol listesiyle anlattık.
+ozet: Tezgâh üstü akıllı bahçe cihazları, ışık, su ve zamanlayıcıyı tek kutuda toplayan küçük hidroponik düzenlerdir. Fesleğen ve salata için işe yararlar; domates ve biberde ışık yetmez. Almadan önce bakılacak noktaları ve elektrik hesabını yazdık.
+etiketler: akıllı bahçe, tezgâh üstü bahçe, hidroponik cihaz, bitki lambası, mutfakta yeşillik, evde hidroponik
+gorsel: bekliyor
+gorsel_alt: Mutfak tezgâhında LED ışık altında sıra sıra küçük yeşillik fideleri olan kompakt bahçe cihazı
+urunler: hindistan-cevizi-torfu-tablet-cocopeat-12-adet, tarim-perliti, hg-kil-bilyesi
+kisaca: Tezgâh üstü akıllı bahçe cihazları fesleğen, marul, roka ve nane gibi yeşilliklerde gerçekten işe yarar; çünkü bu bitkiler az ışıkla yetişir. Domates, biber ve çilek gibi meyve veren bitkilerde küçük lamba yetmez. Cihazın faydası ışığın gücüne, hazne hacmine ve kullandığınız ortamın ya da kapsülün değiştirilebilir olmasına bağlıdır.
+@govde
+Bir tezgâh üstü akıllı bahçe cihazı, aslında üç şeyin kutuya konmuş hâlidir: bir bitki lambası, bir su haznesi ve bir zamanlayıcı. Bazılarında küçük bir pompa, bazılarında su seviyesi göstergesi ya da telefon bağlantısı da bulunur. Kutunun içinde yetişen bitki ise bildiğiniz hidroponik fesleğen ya da marulla aynıdır. Yani soru "cihaz sihirli mi?" değil, "bu üç parça benim bitkime yetiyor mu?" sorusudur.
+
+## Cihaz ne yapar, ne yapamaz?
+
+Cihazın yaptığı iş düzendir. Lambayı her gün aynı saatte açıp kapatır, hazne seviyesini görünür kılar ve çoğu modelde besin çözeltisini kök bölgesine taşır. Bu düzen, kışın pencere kenarında ışığı yetmeyen yeşilliklere en çok yardım eden şeydir. Yapamadığı iş ise fiziktir: küçük bir lamba, güneşin verdiği ışığın yanına bile yaklaşamaz.
+
+Florida Üniversitesi'nin ev içi marul yetiştirme çalışması, kırmızı yapraklı marul için günlük ışık integralinin (DLI) en az 6,5–9,7 mol/m² civarında olması gerektiğini bulmuş; ticari önerilerin ev ortamının asgari ihtiyacından yüksek olduğunu da not etmiştir ([UF/IFAS ev içi bahçecilikte marul ışık gereksinimi](https://hort.ifas.ufl.edu/media/hortifasufledu/rpp/rpp-publications/rpp-publications-pdfs/Minimum_Light_Requirements_Indoor_Gardening_Lettuce.pdf)). Purdue Üniversitesi ise ticari marul üretiminde 15–20 mol/m² hedefinden söz eder ([Purdue CEA ışık stratejileri](https://www.purdue.edu/hla/sites/cea/energy-efficient-lighting-strategies-for-vertical-or-indoor-farms/)). Küçük cihazın lambası bu iki rakam arasında bir yerde kalır: yeşillik için yeterli, meyve veren bitki için yetersizdir.
+
+## Hangi bitkiler cihazda yetişir?
+
+| Bitki | Tezgâh cihazında | Gerekçe |
+|---|---|---|
+| Fesleğen, nane, maydanoz, dereotu | Çok uygun | Düşük ışıkla yaprak üretir, boyu kısadır |
+| Marul, roka, tere, pazı (bebek yaprak) | Uygun | Serin ve az ışık sever, 3–5 haftada hasat |
+| Mikro yeşillik (turp, brokoli filizi) | Uygun | Birkaç günde hasat, ışık ihtiyacı düşük |
+| Çilek | Sınırlı | Çiçeklenme için güçlü ışık ve tozlaşma ister |
+| Domates, biber, patlıcan | Uygun değil | Büyük bitki, güçlü ışık, geniş kök hacmi ister |
+
+Bu tablo cihazın markasından bağımsızdır; sınırı bitkinin ışık ihtiyacı çizer. Mutfak otlarının hidroponik düzende nasıl yetiştiğini [hidroponik fesleğen ve mutfak otları](/hidroponik-feslegen) yazısında adım adım anlattık.
+
+## Satın almadan önce kontrol listesi
+
+Aynı görünen cihazlar arasında fark yaratan beş noktaya bakın:
+
+1. **Işığın gücü ve mesafesi:** Lamba bitkiye ne kadar yakın duruyor, yüksekliği ayarlanıyor mu? Sabit ve çok uzak lamba, boyu uzayan sarkık fide demektir.
+2. **Zamanlayıcı:** Günde 12–16 saat ışık için otomatik açma-kapama olmalı. Elle açılıp kapanan lamba bir hafta içinde unutulur.
+3. **Hazne hacmi:** Küçük hazne sık dolum ister, sıcakta çabuk ısınır. Işık geçirmeyen hazne yosunu azaltır.
+4. **Ortam ve kapsül:** Yalnızca üreticinin kapsülünü kabul eden cihazlar, her ekimde aynı kapsülü almanızı şart koşar. Standart küp ve tablet kabul eden cihazlar bu bağımlılığı ortadan kaldırır.
+5. **Temizlenebilirlik:** Haznenin ve boruların sökülüp fırçalanabilmesi gerekir; temizlenemeyen parçada biyofilm birikir. Bakım adımları için [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısına bakın.
+
+## Elektrik tüketimi: kendi hesabınızı yapın
+
+Cihazın katalogdaki güç değeri (watt) ile günlük çalışma saati çarpılır, 1000'e bölünür; çıkan sonuç günlük kilowatt-saat (kWh) tüketimidir. 20 watt'lık bir lamba günde 14 saat yanarsa 0,28 kWh, ayda yaklaşık 8,4 kWh eder. Pompa ve ekran varsa onlar da eklenir ama küçük cihazlarda lamba tüketimin büyük bölümünü oluşturur. Kendi tarifenizdeki birim bedelle çarptığınızda aylık gideri görürsünüz; hesabı yapmadan "ucuz" ya da "pahalı" demek mümkün değildir.
+
+Işık giderinin ticari ölçekte bile ağır olduğu bilinir: Purdue Üniversitesi, aydınlatma enerjisinin marul satışından elde edilen gelirin yüzde 40–50'sine ulaşabildiğini belirtir ([Purdue CEA ışık stratejileri](https://www.purdue.edu/hla/sites/cea/energy-efficient-lighting-strategies-for-vertical-or-indoor-farms/)). Ev ölçeğinde bu bir kâr hesabı değil, bir tutku maliyetidir; beklentinizi buna göre ayarlayın.
+
+[ürün:hindistan-cevizi-torfu-tablet-cocopeat-12-adet]
+
+## Cihaz mı, kendi düzeneğiniz mi?
+
+Kendi düzeneğinizi kurmak ucuz ve öğreticidir. Işık geçirmeyen bir kap, bir ağ saksı ve bir bitki lambası yeterlidir; pompasız seçenekler için [Kratky yöntemi](/kratky-yontemi) ve [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) rehberleri bunun nasıl yapıldığını gösterir. Cihaz ise kurulum zahmetini, zamanlayıcıyı ve görünümü hazır sunar. Tezgâhta görünür bir yerde duracaksa estetik de gerçek bir ölçüttür; yalnız bunun için ödeme yaptığınızı bilin.
+
+Karar vermenin kolay yolu şudur: Tek amacınız kışın mutfakta taze otsa, basit bir kendin-yap düzenek yeter. Birkaç çeşit yeşilliği düzenli ve birkaç raf hâlinde yetiştirmek istiyorsanız cihazın zamanlayıcısı ve standart ölçüleri size zaman kazandırır.
+
+## En sık yaşanan hayal kırıklıkları
+
+- **Bitki uzuyor, yaprak küçük kalıyor:** Işık zayıf ya da fazla uzak. Lambayı yaklaştırın.
+- **Kapsüller bitiyor, devamı pahalı geliyor:** Standart kokopit küp ve tohumla kapsülü kendiniz doldurabilirsiniz.
+- **Hazne yeşillendi:** Işık sızıyor; haznenin dışını kaplayın ve çözeltiyi yenileyin.
+- **Fesleğen çiçek açtı:** Uç alınmamış. [Uç alma](/uc-alma) yazısındaki kesim noktası burada da geçerlidir.
+
+## Tezgâh üstü akıllı bahçe nereye konur?
+
+Cihazı yerleştirirken üç şeye bakın: priz, ısı ve su sıçraması. Lamba ve pompa elektrikle çalıştığı için prize yakın, ama evye ve ocaktan uzak bir köşe seçin. Evyenin yanı su ikmalini kolaylaştırır; fakat sıçrayan su ve deterjan hazneye karışırsa çözelti bozulur. Ocağın yanı hem ısı hem yağ buharı demektir: yağ yaprakları kaplar, ısı hazneyi ısıtır. Buzdolabının üstü de ılık bir yüzey olduğundan çoğunlukla uygun değildir.
+
+Pencereye yaslamak zorunda değilsiniz. Cihazın lambası zaten ışık veriyorsa güneşli bir pencere önü, yazın hazneyi gereksiz yere ısıtır. Önemli olan lambanın bitkiden 15–30 cm yukarıda durması ve yüksekliğin ayarlanabilmesidir; çünkü ışık mesafeyle hızla zayıflar. Fesleğen boy attıkça lambayı yukarı almak gerekir.
+
+## İlk hasada kadar: ne bekleyin?
+
+Cihazın ilk haftalarda "boş" görünmesi normaldir. Bekleyeceğiniz süreler bitkiye göre şöyledir:
+
+| Bitki | Tohumdan ilk hasada | Hasat biçimi |
+|---|---|---|
+| Mikro yeşillik (turp, brokoli filizi) | 1–2 hafta | Kökün hemen üstünden kesilir |
+| Bebek roka ve marul | 3–5 hafta | Dış yapraklar alınır, orta büyümeye devam eder |
+| Fesleğen | 6–8 hafta | Uç alınır, yan dallar çıkar |
+| Nane | 6–8 hafta | Dallar yarıya kadar kesilir |
+
+Beklentiyi doğru kurun: bu cihazlar haftada bir salata kâsesini doldurmaz; yemeklere taze ot ve tabağa birkaç yaprak yeşillik katar. "Bahçe" demek yerine "mutfak otluğu" demek, hayal kırıklığını önler.
+
+## Uygulama ve sensör gerçekten gerekli mi?
+
+"Akıllı" etiketinin arkasında çoğu zaman bir su seviyesi sensörü ve telefon bildirimi bulunur. Su seviyesi uyarısı gerçekten değerlidir; çünkü hazne boşaldığında küçük bitki birkaç saatte susuz kalır. Lambanın telefondan zamanlanması ise düz bir priz zamanlayıcısıyla da sağlanır. Bir özelliğin değerini şu soruyla ölçün: Bu özellik benim bakım yükümü azaltıyor mu? Azaltıyorsa değerlidir; yalnızca ekranı süslüyorsa gereksizdir. İnternet bağlantısı koptuğunda lambanın çalışmaya devam edip etmediğine de bakın; bağlantıya bağımlı bir lamba, modem arızasında bitkiyi karanlıkta bırakır.
+
+## Kısa hüküm
+
+Tezgâh üstü akıllı bahçe cihazları, yeşillik ve mutfak otları için işe yarar; meyve veren bitkiler için yaramaz. Başarının üç şartı vardır: lambanın bitkiye yakın ve zamanlayıcılı olması, haznenin ışık geçirmemesi ve ortamı kendiniz seçebilmeniz. Bu üçü varsa cihaz, kendin-yap düzeneğin düzenli ve düzgün görünen hâlidir; yoksa pahalı bir süstür.
+
+[ürün:hg-kil-bilyesi]
+
+Hidroponiğin genel çerçevesi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ortam seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Tezgâh üstü akıllı bahçe cihazında domates yetişir mi?
+C: Pek yetişmez. Domates büyük bir bitkidir ve güçlü ışık ister; küçük cihaz lambası yalnız yeşillik ve mutfak otlarına yeter. Domates için pencere önü ya da seralı ortam gerekir.
+
+S: Akıllı bahçe cihazı ayda ne kadar elektrik harcar?
+C: Lambanın gücünü (watt) günlük ışık saatiyle çarpıp 1000'e bölerek günlük kWh bulunur. 20 watt'lık lamba günde 14 saat yanarsa ayda yaklaşık 8,4 kWh tüketir.
+
+S: Akıllı bahçe cihazında kendi tohumumu kullanabilir miyim?
+C: Standart küp ya da tablet kabul eden cihazlarda evet. Yalnızca üreticinin kapsülüne uyan modellerde kendi tohumunuzu kullanmak zordur; satın almadan önce bunu kontrol edin.
+
+S: Cihazdaki bitkiler pencere ışığı olmadan yetişir mi?
+C: Cihazın lambası yeterli güçteyse yetişir. Yeşillikler günde 12–16 saat lamba ışığıyla gelişir; ancak çok zayıf lambada bitki uzar ve soluk kalır.
+
+### YAZI
+slug: evde-hidroponik-ne-kadara-mal-olur
+baslik: Evde Hidroponik Ne Kadara Mal Olur? Kurulum ve Aylık Gider Hesabı
+yayin: 2027-01-19 09:55
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: evde hidroponik ne kadara mal olur
+seo_baslik: Evde Hidroponik Ne Kadara Mal Olur? Gider Hesabı
+seo_aciklama: Evde hidroponik ne kadara mal olur? Kratky, fitilli ve gelgit sistemlerinin kurulum kalemlerini, elektrik ve besin giderini hesaplamanın yolu.
+ozet: Evde hidroponik maliyeti sisteme göre çok değişir: pompasız Kratky bir bardak kadar ucuz, ışıklı gelgit masası ise çok daha pahalıdır. Kurulum kalemlerini, aylık elektrik ve besin giderini ve nerede tasarruf edileceğini hesap tablosuyla verdik.
+etiketler: hidroponik maliyeti, evde hidroponik, kurulum gideri, elektrik tüketimi, kratky, topraksız tarım
+gorsel: bekliyor
+gorsel_alt: Masaya dizilmiş plastik kap, ağ saksı, su pompası ve küçük bitki lambası gibi hidroponik kurulum malzemeleri
+urunler: kullanima-hazir-cocopeat-torfu, tarim-perliti, hg-kil-bilyesi
+kisaca: Evde hidroponik ne kadara mal olur sorusunun cevabı sisteme bağlıdır: Kratky ve fitilli sistem birkaç kap, ağ saksı ve besin çözeltisiyle kurulur ve elektrik harcamaz. Gelgit gibi pompalı ve ışıklı sistemlerde asıl gider kurulumdan çok aylık elektriktir. Hesabı kalem kalem kendi tarifenizle yapmak gerekir.
+@govde
+Hidroponik hakkında en çok sorulan soru, en az net cevaplanan sorudur: Evde hidroponik ne kadara mal olur? Çünkü fiyatlar değişir ve cevap, "hangi sistem, kaç bitki, ışık var mı" sorularına bağlıdır. Bu yazı bir fiyat listesi vermiyor; gideri kalemlere ayırıp her kalemi kendi koşullarınızla hesaplamanız için bir yöntem sunuyor.
+
+## Önce üç sistemin yapısı: neyin parasını ödüyorsunuz?
+
+Maliyet, sistemin kaç parçadan oluştuğuyla başlar. Parça azaldıkça hem ilk gider hem hata ihtimali düşer.
+
+| Gider kalemi | Kratky (pompasız) | Fitilli sistem | Gelgit sistemi |
+|---|---|---|---|
+| Kap ve kapak | Var | Var (hazne + üst saksı) | Var (tabla + depo) |
+| Ağ saksı ya da fitil | Ağ saksı | Fitil | Ağ saksı |
+| Ortam (kokopit, perlit, kil bilye) | İsteğe bağlı | Gerekli | Gerekli |
+| Pompa ve zamanlayıcı | Yok | Yok | Var |
+| Bitki lambası | Pencere yoksa | Pencere yoksa | Çoğunlukla gerekir |
+| Aylık elektrik | Yok | Yok | Pompa ve lamba |
+| Besin çözeltisi | Var | Var | Var |
+
+Pompasız sistemlerin ayrıntısı için [Kratky yöntemi](/kratky-yontemi) ve [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) yazılarına, pompalı masa düzeni için [gelgit sistemi](/gelgit-sistemi-topraksiz-yetistirme) yazısına bakın.
+
+## Tek seferlik kurulum kalemleri
+
+Kurulumda üç ayrı şey satın alırsınız: bir kap, bir ortam ve (gerekiyorsa) bir ışık. Kap olarak ışık geçirmeyen gıda kabı ya da boyalı bir kova işinizi görür; yeni kap almak zorunda değilsiniz. Ortam tarafında kokopit, perlit ve kil bilye arasında seçim yaparsınız; kokopit ucuz ve yaygındır, perlit ve kil bilye ise yıkanarak yeniden kullanıldığı için uzun vadede tasarruf sağlar. Hangisinin ne işe yaradığını [hidroponik ortamlar](/hidroponik-ortamlar) yazısında karşılaştırdık.
+
+Bitki lambası kurulumun en değişken kalemidir. Güneş alan bir pencereniz varsa yeşillikler için ilk yıl lamba almadan başlayabilirsiniz; pencere kışın yetmezse bu kalem eklenir. Lambanın hangi bitkiye yettiğini [fide aydınlatması](/fide-aydinlatmasi) yazısındaki mesafe ve süre ilkeleriyle birlikte düşünün.
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+## Aylık sürekli giderler
+
+Kurulumdan sonra üç gider kalır: elektrik, besin ve su. Besin çözeltisi çoğu hobi ölçeğinde küçük bir kalemdir; etiketteki oranda çok az çözelti bile birkaç haftalık haznenin besinini karşılar. Su gideri ihmal edilebilir. Asıl değişken, elektriktir.
+
+Elektrik hesabı basittir: cihazın gücü (watt) × günlük çalışma saati ÷ 1000 = günlük kWh. Sonra bunu 30 ile ve kendi faturanızdaki birim bedelle çarparsınız.
+
+| Cihaz | Güç (örnek) | Günlük süre | Günlük kWh | Aylık kWh |
+|---|---|---|---|---|
+| Küçük daldırma pompası, zamanlayıcılı | 5 W | 1 saat | 0,005 | 0,15 |
+| Hava pompası (sürekli) | 4 W | 24 saat | 0,096 | 2,9 |
+| Küçük bitki lambası | 20 W | 14 saat | 0,28 | 8,4 |
+| Büyük bitki lambası | 60 W | 14 saat | 0,84 | 25,2 |
+
+Gördüğünüz gibi pompa, lambaya göre hemen hemen ihmal edilebilir. Gerçek gider ışıktır. Purdue Üniversitesi'nin ticari marul üretimi için verdiği tahmine göre aydınlatma enerjisi satış gelirinin yüzde 40–50'sine kadar çıkabilir ([Purdue CEA ışık stratejileri](https://www.purdue.edu/hla/sites/cea/energy-efficient-lighting-strategies-for-vertical-or-indoor-farms/)). Evde bu oran kâr hesabına girmez ama lambanın en büyük sürekli gider olduğunu doğrular.
+
+## Üç örnek senaryo
+
+**Pencere önü, iki Kratky kabı:** Kap geri dönüşümden, ağ saksı ve besin çözeltisi dışında alınacak şey neredeyse yok. Elektrik sıfır. Birkaç fesleğen ya da marul için en düşük giderli yol budur.
+
+**Dört saksılık fitilli düzen:** Hazne, üst saksı, fitil, kokopit-perlit karışımı ve besin çözeltisi. Elektrik yok. Mutfak otları için yeter; ortamı yıkayıp yeniden kullandıkça tek seferlik gider tekrar etmez.
+
+**Işıklı gelgit masası:** Tabla, depo, pompa, zamanlayıcı, ortam ve lamba. Kurulum gideri belirgin biçimde yüksektir ve her ay lamba ile pompa elektriği ekler. Çok sayıda yeşilliği düzenli yetiştirmek istiyorsanız anlamlıdır.
+
+## Nerede tasarruf edilir?
+
+- **Kapları geri dönüştürün:** Işık geçirmeyen herhangi bir kap yeter; ışık geçiriyorsa dışını kaplayın.
+- **Ortamı yıkayıp yeniden kullanın:** Perlit ve kil bilye yıkanarak tekrar kullanılır; adımlar [perlit tekrar kullanılır mı](/perlit-tekrar-kullanilir-mi) yazısında.
+- **Pencere ışığını kullanın:** Güney ya da doğu cephesi yeşillik için çoğu zaman yeterlidir; lambayı yalnızca ışık yetmediğinde açın.
+- **Tohumdan başlayın:** Fide satın almak her ekimde gideri artırır; küp ve tohumla başlamak ucuzdur. Bkz. [hidroponik fide küpü](/hidroponik-fide-kupu).
+
+## Evde hidroponik ne kadara mal olur? Hesap tablosu
+
+Fiyatlar zamanla ve yerle değiştiği için size hazır bir toplam vermek yanıltıcı olur. Bunun yerine aşağıdaki boş tabloyu mağaza ya da çevrimiçi fiyatlarla doldurun. Evde hidroponik ne kadara mal olur sorusunun cevabı, bu satırların toplamıdır.
+
+| Kalem | Tek seferlik mi, sürekli mi? | Nasıl hesaplanır? |
+|---|---|---|
+| Kap, ağ saksı, hortum | Tek seferlik | Adet × birim bedel |
+| Ortam (kokopit, perlit, kil bilye) | Tek seferlik / yılda bir | Litre × birim bedel |
+| Pompa, hava taşı, zamanlayıcı | Tek seferlik | Adet × birim bedel |
+| Bitki lambası | Tek seferlik | Adet × birim bedel |
+| Besin çözeltisi | Sürekli | Ayda kullanılan litre × etiket oranı |
+| Elektrik | Sürekli | Watt × saat ÷ 1000 × 30 × birim bedel |
+| Tohum ve fide küpü | Sürekli | Ekim sayısı × birim bedel |
+| Ölçü aletleri (pH şeridi, termometre) | Tek seferlik / yılda bir | Adet × birim bedel |
+
+Tablonun en kısa sürede değişen satırı elektriktir; geri kalanı bir kez ödenir. İlk ayda yaptığınız hesabı üçüncü ayda tekrarlayın: kendi tüketiminizi görünce tahmininizin ne kadar sapmış olduğunu fark edersiniz.
+
+## Gözden kaçan küçük giderler
+
+Hesapta çoğunlukla unutulan kalemler şunlardır: çözelti hazırlamak için saf su ya da musluk suyunun pH'ını ayarlama ihtiyacı, ölçü aletleri, hava taşı ve hortumun yıllık yenilenmesi, ortamın bitince yenilenmesi ve tasarım hatasıyla bozulan ilk denemeler. İlk ay genellikle deneme ayıdır; bir iki fide kaybetmeyi hesaba katın.
+
+Ölçü aletleri tasarruf edilecek kalem değildir. pH şeridi ucuzdur ve çözeltideki sorunun büyük bölümünü önceden gösterir; elde ölçü olmadan çözelti yönetmek, kör uçuşa benzer. Çözelti yoğunluğunu ölçen EC aleti ise başlangıçta zorunlu değildir; etiketteki oranı izlemek ve çözeltiyi düzenli yenilemek yeşilliklerde yeterlidir.
+
+## Pahalıya başlamadan ucuz başlamak
+
+Sırayla ilerleyin: önce pompasız tek bir kapla bir fesleğen deneyin. İki ay sonunda hasat düzeninizi, ışık ihtiyacınızı ve sabrınızı tanırsınız. Bu aşamada yaptığınız gider, tek bir kap ve besin çözeltisidir. Memnun kalırsanız bir fitilli sistem ekleyin; pompalı ve ışıklı sisteme geçişi, ışığa gerçekten ihtiyaç duyduğunuzda yapın. Bu sıralama, atıl duran bir lamba ya da pompaya para bağlamanızı önler.
+
+Pahalı sistemin daha çok ürün vereceğini düşünmek de yanlıştır. Verimi belirleyen ışık, sıcaklık ve çözelti yönetimidir; sistem ne kadar karmaşık olursa o kadar çok ayar yapılacak şey çıkar. Sorun çıktığında nedenini bulmak da zorlaşır. Hobi ölçeğinde basit sistem, çoğu zaman aynı yeşilliği aynı sürede verir.
+
+[ürün:hg-kil-bilyesi]
+
+## Kendi toprak alternatifiyle karşılaştırma
+
+Aynı otları saksıda toprakla yetiştirmek ilk bakışta daha ucuzdur; toprak, saksı ve tohum yeter. Hidroponiğin avantajı ucuzluk değil; toprak sineği ve mantar gibi toprak sorunlarının azalması, besin ve suyun kontrol edilebilmesi ve hızlı büyümedir. Maliyet hesabını bunlarla birlikte değerlendirin: amacınız yalnızca tasarruf ise toprak yönteminden vazgeçmeniz gerekmez.
+
+Hidroponiğin genel tanımı için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ekipman ve ortam seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Evde hidroponik ne kadara mal olur?
+C: Sisteme bağlıdır. Pompasız Kratky ve fitilli sistemler birkaç kap, ağ saksı ve besin çözeltisiyle kurulur ve elektrik harcamaz. Işıklı, pompalı gelgit sistemlerinde ilk gider ve aylık elektrik belirgin biçimde artar.
+
+S: Hidroponikte en büyük aylık gider nedir?
+C: Bitki lambasının elektriği. Küçük bir daldırma pompası ayda 1 kWh'nin altında tüketirken, 20 watt'lık bir lamba günde 14 saat yanınca ayda yaklaşık 8,4 kWh harcar.
+
+S: Hidroponik toprakta yetiştirmeden daha ucuz mu?
+C: Genellikle hayır. Toprak, saksı ve tohum daha az gider ister. Hidroponiğin avantajı ucuzluk değil; hızlı büyüme, toprak zararlılarının azalması ve besin kontrolüdür.
+
+S: Hidroponikte elektrik kullanmadan bitki yetişir mi?
+C: Evet. Kratky ve fitilli sistemler pompa ve elektrik istemez. Işığı pencereden aldığı sürece fesleğen, marul ve nane gibi yeşillikler bu sistemlerde yetişir.
+
+### YAZI
+slug: topraksiz-tarim-hatalari
+baslik: Topraksız Tarım Hataları: Yeni Başlayanların Yaptığı 10 Hata
+yayin: 2027-01-19 11:25
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: topraksız tarım hataları
+seo_baslik: Topraksız Tarım Hataları: Yeni Başlayanlar İçin 10 Uyarı
+seo_aciklama: Topraksız tarım hataları çoğu zaman pH, sıcaklık, ışık ve temizlikte başlar. Yeni başlayanların yaptığı 10 hatayı ve düzeltme yollarını anlattık.
+ozet: Topraksız tarımda yeni başlayanlar çoğunlukla aynı on hatayı yapar: pH ölçmemek, çözeltiyi çok yoğun hazırlamak, hazneyi ışığa açık bırakmak, yanlış bitki seçmek gibi. Her hatanın belirtisini ve düzeltmesini yazdık.
+etiketler: topraksız tarım hataları, hidroponik hatalar, pH ölçümü, çözelti sıcaklığı, yeni başlayanlar, hidroponik sorunlar
+gorsel: bekliyor
+gorsel_alt: Hidroponik kapta solgun yapraklı marul fideleri ve yanında pH ölçüm çubuğu
+urunler: tarim-perliti, hg-kil-bilyesi
+kisaca: Topraksız tarım hataları çoğunlukla on başlıkta toplanır: pH ve çözelti yoğunluğunu ölçmemek, çözeltiyi sıcak ve ışığa açık bırakmak, yetersiz ışık vermek, ortamı sıkıştırmak, tohumu doğrudan sisteme ekmek, sistemi temizlememek ve bitkiyi sisteme uygun seçmemek. Her hata erken fark edilirse kolay düzelir.
+@govde
+Hidroponik sistemlerde toprak tamponu yoktur. Toprakta bir hata çoğu zaman sessizce emilir; suda hata birkaç gün içinde yaprakta görünür. Bu yüzden topraksız tarım hataları pahalıya değil, hızlı tepkiye mal olur. Aşağıdaki on hatayı, sık görüldükleri sıraya göre ve her birinin düzeltmesiyle yazdık.
+
+## 1. pH'ı hiç ölçmemek
+
+Çözelti asitliği bitkinin besini alıp alamayacağını belirler. Missouri Üniversitesi Extension rehberi, çoğu hidroponik bitki için pH 5,5–6,5 aralığını önerir ([Missouri Extension hidroponik rehberi](https://extension.missouri.edu/publications/g6984)). Aralığın dışında besin çözeltide durur ama bitki alamaz; yapraklar besin eksikliği belirtisi verir. Çözümü basittir: ucuz bir pH şeridi ya da ölçer alın, çözeltiyi her yenilediğinizde ve haftada bir ölçün. Asitlik kavramı için [toprak pH değeri](/toprak-ph-nedir) yazısına bakın.
+
+## 2. Besin çözeltisini "daha fazla daha iyi" diye koyu yapmak
+
+Etiketteki orandan fazlasını kullanmak yaprak uçlarını yakar. Yanık kenarlar ve kıvrılan yapraklar koyu çözeltinin belirtisidir. Yeşillikte etiketin en düşük oranı genelde yeter. Tuzluluğu ölçen EC değeri hakkında [EC nedir](/ec-nedir-toprak-tuzlulugu-olcumu) yazısı temel bilgiyi verir.
+
+## 3. Çözeltiyi sıcak bırakmak
+
+Kentucky Üniversitesi'nin sera hidroponik rehberi, çözeltide yüksek oksijenin ve yaklaşık 20–22 derece sıcaklığın kök çürüklüğü etmeni Pythium'u yavaşlattığını bildirir ([Kentucky Üniversitesi sera hidroponik rehberi](https://greenhousehort.ca.uky.edu/sites/greenhousehort.ca.uky.edu/files/E706.pdf)). Haznenin güneş alan pencerede durması ve lambanın ısısı çözeltiyi kolayca 25 dereceye çıkarır. Hazneyi gölgeye alın, kapağını kapatın. Çözelti sıcaklığının oksijenle ilişkisi başlı başına bir konudur; tek başına bile çürümeyi başlatabilir.
+
+## 4. Işık geçiren hazne kullanmak
+
+Şeffaf şişe ya da kavanoz çözeltiyi yosunla doldurur. Yosun hem besini tüketir hem borulara yapışır. Kabın dışını kaplayın ya da koyu renkli kap seçin. Temizlik düzeni için [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısına bakın.
+
+## 5. Işığı az vermek
+
+Pencere kenarındaki bitki kışın uzar, yaprak küçük kalır. Fide aşamasında bu hata en sık görülendir. Işığı yaklaştırın, süreyi 12–14 saate çıkarın. Fide ışığı için [fide aydınlatması](/fide-aydinlatmasi) yazısı yol gösterir.
+
+## 6. Ortamı sıkıştırmak
+
+Kokopit ya da perliti saksıya bastırarak doldurmak köklerin havasız kalmasına yol açar. Ortam gevşek doldurulur; üstüne bastırılmaz. Perlit ve kil bilyenin hava boşluğu için [hidroponik ortamlar](/hidroponik-ortamlar) yazısına bakın.
+
+[ürün:tarim-perliti]
+
+## 7. Tohumu doğrudan sisteme ekmek
+
+Çözelti tohumu boğar, küçük tohum akıp gider. Tohumu çimlendirme küpünde başlatın, fideyi küpüyle sisteme taşıyın. Adımlar [hidroponik fide küpü](/hidroponik-fide-kupu) yazısında.
+
+## 8. Sisteme uymayan bitki seçmek
+
+Fitilli sistemde domates, Kratky kabında büyük meyveli bitki yetiştirmeye çalışmak başarısızlıkla biter. Yeşilliklerle başlayın.
+
+| Sistem | Uygun | Uygun değil |
+|---|---|---|
+| Kratky | Marul, roka, fesleğen | Domates, salatalık |
+| Fitilli sistem | Fesleğen, nane, maydanoz | Su tüketimi yüksek bitkiler |
+| Gelgit | Yeşillik, çilek, biber | Aynı tablada farklı su ihtiyaçlı bitkiler |
+
+## 9. Yalnızca su eklemek, çözeltiyi yenilememek
+
+Bitki suyu ve besini aynı hızla tüketmez. Sadece su eklerseniz çözelti zamanla dengesiz kalır; bazı tuzlar birikir, bazıları biter. Seviye düştükçe su ekleyin ama iki üç haftada bir çözeltiyi tamamen yenileyin.
+
+## 10. İlk belirtide sorunu bitkide aramak
+
+Sararan yaprağa besin eklemek, kök çürüyorsa sorunu büyütür. Önce kökleri, sonra pH'ı, sonra çözelti yoğunluğunu kontrol edin. Cornell Üniversitesi, demir eksikliğinin hidroponikte çoğu zaman yüksek pH ya da kök hastalığıyla ilişkili olduğunu bildirir ([Cornell CEA demir eksikliği notu](https://cea.cals.cornell.edu/files/2019/06/Fe-Def-Spr2016.pdf)). Kök sorunu için [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısına bakın.
+
+## Başlangıç için güvenli kural
+
+On hatanın yedisi, üç ölçümle önlenir: pH, çözelti sıcaklığı ve ışık süresi. Bunları defterine yazan başlangıç yetiştiricisi sorunların büyük bölümünü bir hafta önceden fark eder. Başlangıç için en az hata yaptıran yol, bir fesleğen ve bir pompasız kapla başlayıp yalnızca bir şeyi (ışık ya da çözelti) değiştirerek tepkiyi izlemektir.
+
+## Topraksız tarım hataları nasıl önlenir? Haftalık kontrol listesi
+
+Hataların çoğu bir kez yapıldığında değil, kontrol edilmediğinde büyür. Aşağıdaki rutin, haftada on beş dakikayı geçmez ve topraksız tarım hataları listesinin büyük bölümünü önceden yakalar.
+
+| Ne zaman | Ne kontrol edilir? | Neden? |
+|---|---|---|
+| Her gün | Hazne seviyesi, yaprak duruşu | Susuz kalma ve solma hemen görülür |
+| Haftada bir | pH, çözelti sıcaklığı, kök rengi | Besin alımı ve çürüme erken fark edilir |
+| İki üç haftada bir | Çözeltinin tamamen yenilenmesi | Tuz ve dengesizlik birikmesini keser |
+| Ayda bir | Pompa girişi, boru ve hazne temizliği | Tıkanma ve biyofilm önlenir |
+| Her ekimde | Ortamın yıkanması ya da yenilenmesi | Eski kök ve tuz kalıntısı temizlenir |
+
+## Belirtiden hataya: hızlı çeviri
+
+Yaprağın verdiği işaret çoğu zaman hangi hatayı yaptığınızı gösterir:
+
+- **Yaprak kenarları yanık ve kıvrık:** Çözelti fazla yoğun ya da lamba çok yakın.
+- **Alt yapraklar sarı, bitki bodur:** Besin eksik, çözelti eski ya da pH aralığın dışında.
+- **Bitki uzun ve sarkık, yapraklar küçük:** Işık yetersiz.
+- **Kökler kahverengi ve yapışkan:** Çözelti sıcak ve havasız.
+- **Hazne yeşil:** Işık sızıyor.
+- **Ortam yüzeyinde beyaz kabuk:** Tuz birikimi; ortamı saf suyla yıkayın.
+
+## Hangi ölçü aleti ne zaman gerekli?
+
+Başlangıçta üç alet yeter: pH şeridi ya da küçük bir pH ölçer, çözelti termometresi ve priz zamanlayıcısı. pH aleti çözeltinin besini taşıyıp taşımadığını, termometre kökün boğulma riskini, zamanlayıcı ise ışık düzenini kontrol eder. EC ölçeri, yoğunluğu rakamla görmek istediğinizde ve birden fazla sisteminiz olduğunda anlamlıdır. Bu aletlerin hiçbiri pahalı sayılmaz; yaprak yanığı ya da kök çürümesi sonrası kaybedilen bitkiler genellikle bundan daha fazlasına mal olur.
+
+Şehir suyu bölgeye göre sert ya da yumuşak olabilir. Sert su pH'ı yükseltir ve çözeltiye beklenmedik mineraller ekler. Yeni başlıyorsanız ilk çözeltiyi hazırladıktan sonra pH'ı ölçün; sonuç şaşırtıcıysa suyu bir gün dinlendirmek ya da saf su kullanmak basit çözümlerdir.
+
+[ürün:hg-kil-bilyesi]
+
+Genel bilgi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Topraksız tarımda en sık yapılan hata nedir?
+C: pH'ı ölçmemek ve çözeltiyi gereğinden koyu hazırlamaktır. Bu iki hata yaprakta sararma, kenar yanması ve büyüme duraklaması olarak görülür. Ucuz bir pH şeridi sorunun büyük kısmını önler.
+
+S: Hidroponikte bitki neden sararır?
+C: Nedenler kök çürümesi, yanlış pH, besin eksikliği ya da çok yoğun çözeltidir. Önce kökleri ve pH'ı kontrol edin; besin eklemek ancak bu ikisi düzgünse çözüm olur.
+
+S: Topraksız tarıma hangi bitkiyle başlanır?
+C: Fesleğen, marul, roka ve nane gibi yeşilliklerle başlanır. Bunlar az ışıkla yetişir ve hızlı büyür; domates ve salatalık daha güçlü ışık ve daha büyük sistem ister.
+
+S: Hidroponik çözeltisi ne sıklıkla yenilenir?
+C: Çözelti iki üç haftada bir tamamen yenilenir. Arada seviye düştükçe saf su eklenir; bulanıklık, yosun ya da koku görülürse daha erken değiştirilir.
+
+### YAZI
+slug: hidroponikte-su-sicakligi-ve-oksijen
+baslik: Hidroponikte Su Sıcaklığı ve Oksijen: Köklerin Görünmeyen İhtiyacı
+yayin: 2027-01-19 13:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: hidroponikte su sıcaklığı
+seo_baslik: Hidroponikte Su Sıcaklığı ve Oksijen: Doğru Aralık
+seo_aciklama: Hidroponikte su sıcaklığı kaç derece olmalı? Oksijenin sıcaklıkla ilişkisini, hava taşı ve gölgeleme gibi serinletme yollarını ve kışın ısıtmayı anlattık.
+ozet: Hidroponikte su sıcaklığı yükseldikçe çözeltideki oksijen azalır ve kök çürümesi riski artar. Hedef aralığı, haznenin ısınma kaynaklarını, hava taşı ve yalıtımla serinletmeyi ve kışın soğuk suyun etkisini anlattık.
+etiketler: hidroponikte su sıcaklığı, çözünmüş oksijen, hava taşı, kök çürümesi, çözelti sıcaklığı, topraksız tarım
+gorsel: bekliyor
+gorsel_alt: Gölgede duran hidroponik haznesinde çözelti içine batırılmış hava taşı ve yükselen hava kabarcıkları
+urunler: hg-kil-bilyesi, tarim-perliti
+kisaca: Hidroponikte su sıcaklığı çoğu yeşillik için yaklaşık 20–22 derece olmalıdır; 24 dereceyi aşan çözeltide çözünmüş oksijen azalır ve kök çürümesine yol açan organizmalar çoğalır. Hazneyi gölgede tutmak, hava taşı kullanmak ve kapağı kapatmak sıcaklığı ve oksijeni dengeler.
+@govde
+Kökler nefes alır. Toprakta oksijen, gözeneklerdeki havadan gelir; hidroponikte ise çözeltinin içinde çözünmüş hâlde bulunur ve miktarı sıcaklığa bağlıdır. Hidroponikte su sıcaklığı, bu yüzden besin kadar önemli bir değerdir: Aynı çözelti, 20 derecede bitkiyi besler, 28 derecede boğar.
+
+## Sıcaklık ve oksijen neden ters orantılıdır?
+
+Gazlar soğuk suda daha iyi çözünür; su ısındıkça çözebildiği oksijen miktarı azalır. Üstelik ısınan bitki köklerinin oksijen tüketimi artar. Yani sıcak çözeltide arz azalır, talep yükselir. Kentucky Üniversitesi'nin sera hidroponik rehberi, çözeltide yaklaşık 8 ppm doygun oksijenin ve 20–22 derece (68–72 °F) arası serin suyun marul ve ıspanak için uygun olduğunu, aynı koşulların Pythium'un canlı kalmasını ve bulaşmasını yavaşlattığını yazar. Düşük oksijen ve ısınmış kök bölgesi ise sorunu büyütür ([Kentucky Üniversitesi sera hidroponik rehberi](https://greenhousehort.ca.uky.edu/sites/greenhousehort.ca.uky.edu/files/E706.pdf)).
+
+## Hedef sıcaklık aralığı
+
+| Çözelti sıcaklığı | Ne olur? | Ne yapılır? |
+|---|---|---|
+| 15 derecenin altı | Kök faaliyeti yavaşlar, büyüme durur | Haznenin altına yalıtım, gerekirse ısıtıcı |
+| 18–22 derece | Yeşillikler için ideal aralık | Koruyun |
+| 22–24 derece | Kabul edilebilir, izlenmeli | Gölgeleyin, hava taşı ekleyin |
+| 24 derecenin üstü | Oksijen düşer, çürüme riski artar | Hazneyi serinletin, çözeltiyi yenileyin |
+
+Bu aralıklar yeşillik ve mutfak otları içindir. Meyve veren bitkiler biraz daha sıcak kök bölgesini kabul eder; ama 24 derecenin üzerinde her bitkide risk artar.
+
+## Haznenin ısınma kaynakları
+
+Çözeltiyi ısıtan şeyler çoğu zaman gözden kaçar. Güneş alan pencere kenarı en bariz olanıdır; cam, ışığı yoğunlaştırır ve hazne öğleden sonra ısınır. Bitki lambasının yaydığı ısı, kapalı bir çadırda ya da küçük bir kutuda çözeltiyi birkaç derece artırır. Pompa da çalışırken ısı üretir; sürekli çalışan bir daldırma pompası küçük bir hazneyi gözle görülür biçimde ısıtır. Kaloriferin ya da sobanın yanında durması da aynı etkiyi yapar.
+
+Küçük hacimli kaplar hızlı ısınır ve hızlı soğur. Çözelti hacmi büyüdükçe sıcaklık dengeli kalır. Bu yüzden tek bir fesleğen için litrelerce çözeltinin gereksiz göründüğü yerde, aslında sıcaklık dengesi için faydalıdır.
+
+## Serinletme ve oksijenlendirme yolları
+
+::: adimlar
+Hazneyi gölgeye alın | Doğrudan güneş almayan, serin bir köşeye taşıyın; kapağı ışık geçirmeyecek biçimde kapatın.
+Dışını yalıtın | Haznenin dışını yansıtıcı folyo ya da köpük levhayla sarın; bu hem ısıyı hem ışığı keser.
+Hava taşı ekleyin | Küçük bir akvaryum hava pompası ve hava taşı, çözeltiye sürekli oksijen verir.
+Lambayı uzaklaştırın | Lamba hazneye yakınsa ısıtır; ışığı bitkiye doğru ama hazneden uzak tutun.
+Çözeltiyi yenileyin | Isınmış çözeltiyi boşaltıp serin suyla yeniden hazırlamak en hızlı serinletme yoludur.
+:::
+
+Hava taşı, Kratky gibi pompasız kaplarda uygulanmaz; bu sistemde kökün üst yarısının havada kalması oksijeni sağlar ([Kratky yöntemi](/kratky-yontemi)). Gelgit sistemi ise dolum-boşalma döngüsüyle köke hava verir; ayrıntılar [gelgit sistemi](/gelgit-sistemi-topraksiz-yetistirme) yazısında.
+
+[ürün:hg-kil-bilyesi]
+
+## Kışın soğuk su da sorundur
+
+Ocak ayında pencere önünde ya da balkonda duran hazne 12–14 dereceye inebilir. Soğuk suda oksijen boldur ama kök kendisi yavaşlar; büyüme durur, besin alımı azalır. Soğuk kökün sarı yaprak ve cılız büyüme olarak görünmesi, besin eksikliğiyle karıştırılır. Hazneyi soğuk cam ya da soğuk zeminden ayırın, altına mantar ya da köpük altlık koyun. Küçük akvaryum ısıtıcıları da kullanılabilir; ama hobi düzeneğinde çoğu zaman altlık yeterlidir.
+
+## Hidroponikte su sıcaklığı nasıl ölçülür ve kaydedilir?
+
+Hidroponikte su sıcaklığı için bir akvaryum ya da çözelti termometresi yeterlidir. Ölçümü sabah ve öğleden sonra olmak üzere günde iki kez yapın; çünkü gün içindeki dalgalanma asıl bilgiyi verir. Sabah 19, öğleden sonra 26 derece okuyorsanız hazne güneşten ısınıyor demektir. Değerleri deftere yazın; yaz gelmeden kışın verisi, çözüm planı için yol gösterir.
+
+## Sıcaklık, kök çürümesi ve temizlik arasındaki bağ
+
+Sıcak çözelti yosunu, biyofilmi ve kök çürümesini aynı anda kolaylaştırır. Bu yüzden sıcaklığı kontrol altında tutmak, temizlik ve çürüme önlemlerinin parçasıdır. Belirtiler ve ilk müdahale için [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu), düzenli bakım için [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazılarına bakabilirsiniz.
+
+## Sistem türüne göre sıcaklık davranışı
+
+Aynı oda sıcaklığında farklı sistemlerin çözeltisi farklı ısınır:
+
+| Sistem | Çözelti hacmi | Isınma eğilimi | Önlem |
+|---|---|---|---|
+| Kratky | Orta–büyük, tek kap | Yavaş ısınır, yavaş soğur | Kabı gölgeleyin, kapağı kapalı tutun |
+| Fitilli sistem | Küçük hazne | Çabuk ısınır | Haznenin dışını yansıtıcı malzemeyle sarın |
+| Gelgit sistemi | Depo büyük, tabla ince | Pompa ve lamba ısıtır | Pompayı gölgeli tutun, depoyu serinde bırakın |
+
+Hazne büyüdükçe sıcaklık değişimi yumuşar. Küçük kaplarda sıcaklık gün içinde 5–6 derece oynayabilir; büyük hazne aynı değişimi birkaç dereceye indirir. Bu yüzden tek bir fesleğen için bile 3–5 litrelik bir kap, 1 litrelik bir kaptan daha güvenlidir.
+
+## Sıcak dalgasında acil plan
+
+Yaz sıcağında ya da balkonda öğle güneşinde çözelti bir saat içinde ısınabilir. Bunun için hazırlıklı olun: hazneyi gölgeye alın, kapağını kapatın, dışına ıslak bir bez sarın (buharlaşma serinletir) ve hava taşını açın. Soğuk su ile kısmen yenileme de işe yarar; çözeltinin üçte birini boşaltıp serin suyla tamamlayın. Buz eklemek hızlı bir çözümdür ama çözeltiyi seyreltir; bunu ancak acil durumda ve temiz buzla yapın, sonra yoğunluğu kontrol edin.
+
+Solgun bitkiyi görünce hemen çözeltiye besin eklemeyin. Sıcak çözeltide kökler besini alamaz; önce sıcaklığı düşürün ve birkaç saat sonra bitkinin toparlanıp toparlanmadığına bakın. Toparlanma olmazsa kökleri kontrol edin; belirtiler için [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısı kök ayrımı yapar.
+
+## Hava taşı gerekli mi?
+
+Pompasız Kratky düzeninde hava taşı şart değildir; köklerin üst yarısı havada kaldığı için oksijen oradan gelir. Köklerin tamamen suya gömüldüğü derin su kültürü benzeri düzenlerde ve küçük kaplarda hava taşı güvence sağlar. Hava taşı çözeltiyi hareket ettirir, oksijeni artırır ve durgunluğu azaltır. Ancak çözeltiyi ısıtmadığından ve su sıçratmadığından emin olun; çok güçlü bir hava pompası, küçük bir hazneyi yosun için taşıyıcı hâle getirir.
+
+[ürün:tarim-perliti]
+
+Hidroponiğin genel çerçevesi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Hidroponikte su sıcaklığı kaç derece olmalı?
+C: Yeşillikler için 18–22 derece idealdir. 24 dereceyi aşan çözeltide çözünmüş oksijen azalır ve kök çürümesi riski artar; 15 derecenin altında ise büyüme yavaşlar.
+
+S: Hidroponikte oksijen nasıl artırılır?
+C: Küçük bir akvaryum hava pompası ve hava taşı çözeltiye sürekli oksijen verir. Çözeltiyi serin tutmak da oksijeni artırır; Kratky gibi pompasız kaplarda ise köklerin üst yarısı havada bırakılır.
+
+S: Sıcak çözelti bitkiye zarar verir mi?
+C: Evet. Sıcak çözeltide oksijen azalır, kök çürümesine yol açan organizmalar çoğalır. Yapraklar öğle sıcağında solar ve sulandıktan sonra toparlanmaz; kökler kahverengileşir.
+
+S: Soğuk su hidroponik bitkiye zarar verir mi?
+C: 15 derecenin altındaki çözeltide kök faaliyeti yavaşlar ve büyüme durur; yapraklar sararabilir. Hazneyi soğuk camdan ve zeminden altlıkla ayırmak çoğu zaman yeterlidir.
+
+### YAZI
+slug: hidroponikte-besin-eksikligi-belirtileri
+baslik: Hidroponikte Besin Eksikliği Belirtileri: Yaprağa Bakarak Teşhis
+yayin: 2027-01-19 15:05
+yazar: Ahmet Sacit Çelik
+kategori: bitki-bakimi
+odak: hidroponikte besin eksikliği
+seo_baslik: Hidroponikte Besin Eksikliği Belirtileri ve Teşhis
+seo_aciklama: Hidroponikte besin eksikliği yaprakta nasıl görünür? Azot, demir, kalsiyum ve magnezyum eksikliğini eski ve yeni yapraktaki belirtilerle ayırmayı anlattık.
+ozet: Hidroponikte besin eksikliği belirtileri, yaprağın yaşına göre ayrılır: azot ve magnezyum eksikliği eski yapraklarda, demir ve kalsiyum eksikliği yeni yapraklarda görülür. Teşhis tablosunu, önce kontrol edilecekleri ve çözümü yazdık.
+etiketler: hidroponikte besin eksikliği, azot eksikliği, demir eksikliği, kalsiyum eksikliği, yaprak sararması, hidroponik teşhis
+gorsel: bekliyor
+gorsel_alt: Hidroponikte yetişen marulda alt yaprakların sararması ve yeni yapraklarda damar arası açık renk
+urunler: hg-kil-bilyesi, tarim-perliti
+kisaca: Hidroponikte besin eksikliği, yaprağın yaşına göre teşhis edilir: eski yapraklar sararıyorsa azot ya da magnezyum, yeni yapraklar damar arası sararıyorsa demir, yeni yaprak uçları yanıyorsa kalsiyum eksiktir. Besin eklemeden önce pH, kök durumu ve çözelti yoğunluğu kontrol edilir; çünkü çoğu eksiklik aslında alım sorunudur.
+@govde
+Hidroponik çözeltide bitkinin ihtiyaç duyduğu her besin vardır; yine de yapraklar sararabilir. Hidroponikte besin eksikliği çoğu zaman çözeltide besin olmadığından değil, bitkinin onu alamadığından doğar. Bu yüzden teşhis, besin eklemekle değil, doğru yere bakmakla başlar: yaprağın yaşı, rengi ve sararmanın biçimi.
+
+## Hidroponikte besin eksikliği nasıl okunur?
+
+Bitkide iki tür besin vardır. Hareketli besinler (azot, fosfor, potasyum, magnezyum) bitki içinde taşınabilir; eksiklik olduğunda bitki bunları eski yapraklardan alıp yenilere gönderir ve belirti alt, yaşlı yapraklarda başlar. Hareketsiz besinler (kalsiyum, demir, bor) taşınamaz; belirti yeni, genç yapraklarda çıkar. Bu tek kural, teşhisin yarısını çözer.
+
+Penn State Extension'ın hidroponik besin rehberi, azot eksikliğinin ilk belirtisinin açık yeşil yapraklar ve genel bir bodurluk olduğunu; kalsiyum eksikliğinin ise yeni büyüyen dokuda kahverengi yaprak kenarı olarak (marulda uç yanığı, domates ve biberde çiçek burnu çürüklüğü) görüldüğünü anlatır ([Penn State Extension hidroponik bitki besleme rehberi](https://extension.psu.edu/hydroponics-systems-and-principles-of-plant-nutrition-essential-nutrients-function-deficiency-and-excess)).
+
+## Belirti → neden → ne yapılır tablosu
+
+| Belirti | Yaprak | Olası eksiklik | Ne yapılır? |
+|---|---|---|---|
+| Alt yapraklar açık yeşilden sarıya döner, bitki bodur | Eski | Azot | Çözeltiyi yenileyin, yoğunluğu etikete göre kontrol edin |
+| Eski yapraklarda damar arası sarı, damarlar yeşil | Eski | Magnezyum | Çözelti dengesini ve pH'ı gözden geçirin |
+| Yeni yapraklarda damar arası sarı, damarlar yeşil | Yeni | Demir | pH'ı düşürün, kök sağlığını kontrol edin |
+| Yeni yaprak ucu ve kenarı kahverengi, kıvrık | Yeni | Kalsiyum | Hava akışını artırın, nemi ve sıcaklığı dengeleyin |
+| Yaprak koyu yeşil, morumsu | Eski | Fosfor | Çözelti sıcaklığını ve besin dengesini kontrol edin |
+| Yaprak kenarı yanık, sararmış | Eski | Potasyum | Çözelti yoğunluğunu ve dengesini kontrol edin |
+
+Tablo, teşhis için yönlendiricidir. Kesin tanı için yaprak analizi gerekir; ev ölçeğinde bu çoğu zaman gereksizdir.
+
+## Önce bunları kontrol edin
+
+Belirti gördüğünüzde çözeltiye besin eklemek en sık yapılan hatadır. Üç şeyi sırayla kontrol edin:
+
+1. **Kökler:** Beyaz ve sert mi, kahverengi ve yumuşak mı? Çürüyen kök besin alamaz. Cornell Üniversitesi, demir eksikliğinin hidroponikte çoğu zaman kök hastalığının bir göstergesi olduğunu ve yüksek pH'ın demiri bitkiye alınamaz hâle getirdiğini bildirir ([Cornell CEA demir eksikliği notu](https://cea.cals.cornell.edu/files/2019/06/Fe-Def-Spr2016.pdf)). Kök kontrolü için [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısına bakın.
+2. **pH:** 5,5–6,5 aralığının dışındaysa besinler kilitlenir. Çoğu hidroponik bitki için bu aralık Missouri Üniversitesi Extension rehberinde önerilir ([Missouri Extension hidroponik rehberi](https://extension.missouri.edu/publications/g6984)).
+3. **Çözelti yoğunluğu ve yaşı:** Haznede tuz birikmiş, çözelti eski ya da su ile aşırı seyrelmiş olabilir. Tuzluluk ölçümü için [EC nedir](/ec-nedir-toprak-tuzlulugu-olcumu) yazısı yardımcı olur.
+
+[ürün:hg-kil-bilyesi]
+
+## Kalsiyum eksikliği: yalnızca besin meselesi değil
+
+Kalsiyum, bitki içinde terlemeyle taşınır. Nem yüksek, hava durgunsa terleme azalır ve çözeltide bol kalsiyum olsa bile genç yapraklara ulaşmaz. Marulda uç yanığı, domateste çiçek burnu çürüklüğü bu yüzden besin değil iklim yönetimi sorunu olabilir. Önce hava akışı ve sıcaklık düzeltilir. Toprakta yetişen domateste aynı sorunun anlatımı için [domateste çiçek burnu çürüklüğü](/cicek-burnu-curuklugu-domates) ve [kalsiyum eksikliği](/kalsiyum-eksikligi) yazılarına bakabilirsiniz.
+
+## Çözümü uygularken sabırlı olun
+
+Çözelti düzeldiğinde mevcut sararmış yapraklar yeşile dönmez; düzelme yeni yapraklarda görülür. Birkaç günde bir yeni çıkan yaprağın rengine bakın. Sorun çözülmüşse yeni yapraklar sağlıklı çıkar. Her gün çözeltiyi değiştirmek ise bitkiyi stres altında bırakır. Bir değişiklik yapın, iki üç gün bekleyin, sonuca bakın.
+
+## Eksiklik mi, fazlalık mı?
+
+Aşırı yoğun çözelti de sararma ve kenar yanığı yapar; belirtiler eksiklikle karışır. Yaprak kenarları kıvrılıp yanıyor, koyu yeşil ve sert yapraklar görülüyorsa sorun fazlalıktır. Çözeltiyi saf suyla seyreltmek ve oranı etikete göre ayarlamak gerekir. Eksiklik ve fazlalığı ayırmak için bitkinin genel görünümüne bakın: eksiklikte bitki soluk ve cılız, fazlalıkta koyu ve gergindir.
+
+## Bitkiye göre en sık görülen eksiklikler
+
+Aynı çözeltiyi alan farklı bitkiler farklı yerde zorlanır:
+
+| Bitki | Sık görülen belirti | Genelde neden? |
+|---|---|---|
+| Marul | Yeni iç yapraklarda uç yanığı | Kalsiyumun taşınamaması; nem yüksek, hava durgun |
+| Fesleğen | Yeni yapraklarda sararma | Yüksek pH ya da kök sorunu nedeniyle demir alınamaması |
+| Roka | Yeni yapraklarda damar arası sarı | Demir alım sorunu |
+| Domates | Meyve ucunda çürük | Kalsiyumun meyveye ulaşamaması, düzensiz su |
+| Çilek | Yaprak kenarında yanma | Çözeltinin fazla yoğun olması ya da potasyum dengesizliği |
+
+Cornell Üniversitesi'nden Neil Mattson, demir eksikliğinin arugulada ve fesleğende marula göre daha sık görüldüğünü ve çoğu zaman kök hastalığının bir göstergesi olduğunu belirtir ([Cornell CEA demir eksikliği notu](https://cea.cals.cornell.edu/files/2019/06/Fe-Def-Spr2016.pdf)). Bu yüzden fesleğende yeni yaprakların sararması, demir eklemeden önce kök kontrolü gerektirir.
+
+## Hidroponikte besin eksikliği kaydı nasıl tutulur?
+
+Belirti geç fark edilirse nedeni geriye doğru bulmak zorlaşır. Küçük bir not defteri bu işi çözer. Her hafta şu bilgileri yazın: tarih, pH, çözelti sıcaklığı, çözeltinin yenilendiği gün, bitkinin genel görünümü ve yeni yaprakların rengi. Sararma görüldüğünde defteri geriye doğru okuyun: pH iki hafta önce yükselmişse ya da çözelti üç haftadır değişmemişse nedeni bulursunuz.
+
+Fotoğraf da yararlı bir kayıttır. Haftada bir aynı açıdan çekilen bitki fotoğrafları, yavaş sararmayı ve düzelmeyi gözle görülür kılar. Çünkü değişim günlük bakışta fark edilmez; yan yana konan fotoğrafta belirginleşir.
+
+## Çözeltiyi ne zaman tamamen yenilersiniz?
+
+Besin eklemek yerine çözeltiyi yenilemek çoğu eksikliğin en güvenli çözümüdür. Şu durumlarda çözeltiyi tamamen boşaltın: iki üç haftadan fazla süre geçtiyse, çözelti bulanık ya da yosunluysa, pH defalarca düzeltilmesine rağmen kayıyorsa ya da birden fazla bitkide aynı belirti görülüyorsa. Yeni çözeltiyi etiketteki oranla hazırlayın ve pH'ı ayarlayın. Yenilemeden önce hazneyi durulamak yosun ve biyofilm tohumlarını ortadan kaldırır; adımlar [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısında.
+
+[ürün:tarim-perliti]
+
+Besin eksikliği konusunda genel bilgi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ortam ve ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Hidroponikte bitkinin yaprakları neden sararır?
+C: Kök çürümesi, yanlış pH, azot ya da magnezyum eksikliği ve aşırı yoğun çözelti en sık nedenlerdir. Eski yapraklar sararıyorsa azot ya da magnezyumdan, yeni yapraklar sararıyorsa demirden şüphelenilir.
+
+S: Hidroponikte demir eksikliği nasıl anlaşılır?
+C: Yeni yapraklarda damar arası sararır, damarlar yeşil kalır. Çoğu zaman yüksek pH ya da kök hastalığından kaynaklanır; çözeltiye demir eklemeden önce pH ve kökler kontrol edilmelidir.
+
+S: Hidroponik marulda yaprak ucu neden yanar?
+C: Çoğu zaman kalsiyum eksikliği belirtisidir; kalsiyum yeni yapraklara terlemeyle taşınır. Nem yüksek ve hava durgunsa çözeltide kalsiyum olsa da yaprak ucuna ulaşmaz; hava akışını artırmak gerekir.
+
+S: Sararan yapraklar besin eklenince yeşile döner mi?
+C: Hayır. Sararmış yaprak genellikle toparlanmaz; düzelme yeni çıkan yapraklarda görülür. Sorun giderildikten birkaç gün sonra yeni yaprağın rengine bakarak sonucu değerlendirin.
+
+### YAZI
+slug: balkonda-hidroponik
+baslik: Balkonda Hidroponik: Güneş, Rüzgâr ve Sıcaklıkla Başa Çıkmak
+yayin: 2027-01-19 17:20
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: balkonda hidroponik
+seo_baslik: Balkonda Hidroponik: Güneş, Rüzgâr ve Sıcaklık Rehberi
+seo_aciklama: Balkonda hidroponik için güneş cephesi, rüzgâr koruması, sıcak ve soğuk günlerde çözelti yönetimi, ağırlık ve taşma önlemlerini mevsime göre anlattık.
+ozet: Balkonda hidroponik, pencere önünden daha çok ışık verir ama rüzgâr, ısı ve soğuk gibi dış etkenleri de getirir. Cephe seçimini, rüzgâr ve gölge çözümlerini, yaz ve kışta çözelti sıcaklığını ve su ağırlığını yazdık.
+etiketler: balkonda hidroponik, balkon bahçesi, topraksız tarım, rüzgâr koruması, çözelti sıcaklığı, balkon güneşi
+gorsel: bekliyor
+gorsel_alt: Güneşli balkon korkuluğunun yanında rüzgâr perdesi arkasında duran hidroponik kaplar ve yeşillikler
+urunler: hg-kil-bilyesi, kullanima-hazir-cocopeat-torfu
+kisaca: Balkonda hidroponik yetiştirmenin üç düşmanı rüzgâr, öğle güneşi ve donudur. Güney ve doğu cepheli balkon yeşillik için yeterlidir; kapları rüzgârdan koruyup sabitleyin, yazın hazneyi gölgeleyin, kışın donma riski varsa sistemi içeri alın. Işık geçirmeyen, kapaklı ve hafif ama sabitlenmiş kaplar balkonda en az sorun çıkarır.
+@govde
+Balkon, pencere önüne göre çok daha fazla ışık sunar; ama bu ışığın bedeli rüzgâr, sıcak ve soğuktur. Balkonda hidroponik bu yüzden iki yönlü bir uyum işidir: bitkiyi balkona uydurmak yerine balkonu bitkiye hazırlamak gerekir. Aşağıda cephelere, mevsimlere ve sık yaşanan sorunlara göre düzeni anlatıyoruz.
+
+## Cepheye göre balkonda hidroponik
+
+Balkonun kaç saat doğrudan güneş aldığı hangi bitkiyi yetiştireceğinizi belirler. Güneşi saat saat ölçmek en doğrusudur; bunu yapana kadar tabloyu kaba bir rehber olarak kullanın.
+
+| Cephe | Doğrudan güneş | Balkonda hidroponik için uygunluk |
+|---|---|---|
+| Güney | Gün boyu, yazın çok güçlü | Yeşillik uygun; yaz öğleninde gölge şart |
+| Doğu | Sabah güneşi | En dengeli cephe; yeşillik ve otlar rahat yetişir |
+| Batı | Öğleden sonra, sıcak | Çözelti ısınır; gölge ve yalıtım şart |
+| Kuzey | Neredeyse yok | Yalnız gölge sever yeşilliklerle sınırlı; ışık gerekir |
+
+Doğu ve güney cepheli balkonlar fesleğen, marul ve nane için çoğu zaman yeterlidir. Kuzey cephede ek ışık olmadan hidroponik yapmak zordur.
+
+## Rüzgâr: görünmeyen sorun
+
+Rüzgâr balkonda iki şey yapar: hafif kapları devirir ve yaprağın suyunu çabuk kurutur. Boş ya da yarı dolu bir hazne, sert bir rüzgârda uçar. Kaplara zemin ağırlığı verin: haznenin yarısı dolu olmalı ve kap bir çerçeveye ya da korkuluğa sabitlenmelidir. Rüzgâr geçirgen bir perde ya da bambu çit, yaprak kurumasını azaltır; tamamen kapalı bir panel ise rüzgârı yukarı sıçratır ve girdap yapar.
+
+## Yazın: çözeltiyi serin tutmak
+
+Balkon güneşi, haznenin yüzeyini ısıtır. Isınan çözeltide oksijen azalır ve kök çürümesi riski artar; sıcaklığın etkisini [hidroponikte su sıcaklığı ve oksijen](/hidroponikte-su-sicakligi-ve-oksijen) yazısında ayrıntılı anlattık. Üç basit önlem işe yarar:
+
+- Hazneyi bitki yapraklarının ya da gölge bezinin altına yerleştirin.
+- Haznenin dışını yansıtıcı folyo ya da açık renkli bantla sarın.
+- Hazne hacmini büyük tutun; litre sayısı arttıkça ısınma yavaşlar.
+
+## Kışın: dona karşı
+
+Hidroponik çözelti 0 derecede donar ve kap çatlar. Ocak ve şubat aylarında iç bölgelerde balkon geceleri sıfırın altına iner; Akdeniz ve Ege kıyılarında ise donsuz geçen geceler çoktur. Balkon donuyorsa sistemi geceleri içeri alın ya da cam balkonda çalıştırın. Çözelti sıcaklığı 15 derecenin altına düşerse kök faaliyeti yavaşlar ve bitki büyümez; haznenin altına köpük ya da mantar altlık koyun. Cam balkonlarda sıcaklık, havalandırma ve ışık dengesi için [kışın pencere önündeki bitkiler](/kisin-pencere-onundeki-bitkiler) yazısı yol gösterir.
+
+[ürün:hg-kil-bilyesi]
+
+## Ağırlık ve taşma: komşuluk hesabı
+
+Bir litre su bir kilogramdır. Beş litrelik çözeltili bir hazne, ortamı ve bitkisiyle yedi sekiz kilograma ulaşır; dört kapla bu otuz kilogramı geçer. Balkon zeminin taşıma gücünü ve korkuluğun dayanımını göz önünde bulundurun; ağır kapları duvara yakın, zemine oturan yerde tutun. Taşan çözelti alt kata damlar. Haznelerin altına tepsi koymak ve doldururken seviyeyi göstergeyle izlemek taşmayı engeller.
+
+## Zararlı ve kirlilik
+
+Balkondaki açık hazne sivrisinek için yumurtlama yeri olabilir. Kapağı kapalı tutmak hem yosunu hem sivrisineği engeller. Toz ve yaprak düşmesi çözeltiyi kirletir; haznenin üstü kapalı olmalıdır. Şehir balkonunda yetişen yeşilliği, toz ve kirlilik nedeniyle yemeden önce iyice yıkamak yeterli önlemdir.
+
+## Hangi sistem balkona uyar?
+
+Pompasız Kratky ve fitilli sistemler, elektrik gerektirmedikleri için balkonda en pratik seçeneklerdir; [Kratky yöntemi](/kratky-yontemi) ve [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) yazılarında ayrıntıları var. Gelgit gibi pompalı sistemler için dış mekân prizi ve su geçirmezlik gerekir; bu yüzden hobi düzeneğinde çoğu zaman kapalı balkon ya da içeride kurulur.
+
+## Mevsime göre balkon takvimi
+
+Balkonda hidroponik yıl boyu mümkündür; yalnız her mevsimin ayrı bir işi vardır. Bölge farkı büyüktür: Akdeniz ve Ege kıyılarında kış ılık geçtiği için balkon neredeyse yıl boyu açık kullanılabilir; İç Anadolu, Doğu Anadolu ve Karadeniz'in yüksek kesimlerinde donlu aylarda sistem içeri girer.
+
+| Dönem | Balkonda durum | Yapılacaklar |
+|---|---|---|
+| Aralık–Şubat | Soğuk, bazı bölgelerde don | Sistemi içeri alın ya da cam balkonda çalıştırın; kıyıda marul ve roka |
+| Mart–Mayıs | Hafif sıcak, rüzgârlı | Dışarı çıkış dönemi; rüzgâr perdesi ve sabitleme |
+| Haziran–Ağustos | Sıcak, güçlü güneş | Gölge bezi, haznenin yalıtımı, sık kontrol |
+| Eylül–Kasım | Serin, kararlı | En rahat dönem; yeşillik ve otlar bol verir |
+
+## Küçük başlayın: iki kaplık deneme
+
+Balkonda ilk denemeyi iki kapla yapın: biri güneşe daha açık, diğeri daha gölgeli bir köşede dursun. İkisine de aynı fide ve aynı çözeltiyi koyun. İki hafta sonunda hangi köşenin daha iyi sonuç verdiğini görürsünüz. Balkonun mikro iklimi (rüzgâr, yansıyan ısı, gölge) tahmin edilemeyecek kadar değişkendir; deneme, kitaplardan daha güvenilir bir cevap verir.
+
+## Işık yetersizse ek lamba
+
+Kuzey cepheli ya da gölgeli bir balkonda ve kış aylarında ışık, bitkinin büyümesine yetmez. Cam balkona ya da balkon kapısının yanına zamanlayıcılı bir bitki lambası koymak mümkündür; ancak lamba ve prizin su sıçramasından korunması şarttır. Kapalı ve nemli ortamda elektrikli aletlerle çalışırken kaçak akım rölesi bulunan prizleri tercih edin. Işık süreleri için [fide aydınlatması](/fide-aydinlatmasi) yazısı, yeşillik için de aynı ilkelerin geçerli olduğunu gösterir.
+
+## Balkonda hidroponik için bakım sırası
+
+Balkon kurulumunu şu sırayla yapmak, sonradan söküp yeniden kurmayı önler. Önce güneşi ve rüzgârı gözlemleyin; üç gün boyunca sabah, öğle ve akşam balkonun hangi köşesinin ne kadar güneş aldığını not edin. Sonra kapların yerini ve sabitleme noktalarını belirleyin. Ardından çözeltiyi hazırlayıp bitkileri yerleştirin. Son olarak taşma ve damlama kontrolü yapın: kapların altına tepsi koyun ve doldururken seviye çizgisini geçmeyin.
+
+Günlük bakım iki dakikadır: hazne seviyesine bakın, yapraklar dik mi diye kontrol edin ve rüzgârın bir şeyi devirip devirmediğine göz atın. Haftalık bakım pH ve sıcaklık ölçümünü içerir; iki üç haftada bir çözelti yenilenir. Sert rüzgâr ya da yağmur beklenen günlerde kapakları kapatın ve hafif kapları içeri alın.
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+Genel bilgi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Balkonda hidroponik yetişir mi?
+C: Evet. Doğu ve güney cepheli balkonlar fesleğen, marul ve nane gibi yeşillikler için yeterli ışık sağlar. Kapları rüzgârdan korumak, yazın gölgelemek ve kışın donmaya karşı içeri almak gerekir.
+
+S: Balkonda hidroponik çözelti donar mı?
+C: Evet, 0 derecede donar ve kap çatlayabilir. Balkon geceleri sıfırın altına iniyorsa sistemi içeri alın ya da cam balkonda çalıştırın; 15 derecenin altında kök faaliyeti de yavaşlar.
+
+S: Balkonda hidroponik kaplar rüzgârda devrilir mi?
+C: Hafif ve boş kaplar devrilir. Haznenin yarısını dolu tutun, kapları korkuluğa ya da bir çerçeveye sabitleyin ve rüzgâr geçirgen bir perde kullanın.
+
+S: Balkonda hidroponik için elektrik gerekir mi?
+C: Hayır. Kratky ve fitilli sistemler elektrik istemez. Pompalı sistemler için balkonda su geçirmez priz gerekir; bu yüzden pompasız düzen çoğu balkona daha uygundur.
+
+### YAZI
+slug: pamukta-fasulye-cimlendirme
+baslik: Pamukta Fasulye Çimlendirme: Çocuklar İçin Deney
+yayin: 2027-01-19 19:50
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: pamukta fasulye çimlendirme
+seo_baslik: Pamukta Fasulye Çimlendirme: Çocuklar İçin Deney
+seo_aciklama: Pamukta fasulye çimlendirme nasıl yapılır? Kavanoz, pamuk ve fasulyeyle günlük gözlem tablosu, ışık ve su karşılaştırması, fidenin toprağa dikilmesi.
+ozet: Pamukta fasulye çimlendirme, çocukların tohumun kök ve gövde çıkışını gözle izleyebildiği en kolay deneydir. Malzemeyi, günlük gözlem tablosunu, ışık ve su ile yapılan karşılaştırmaları ve fidenin toprağa taşınmasını anlattık.
+etiketler: fasulye çimlendirme, çocuk deneyi, pamuk, çimlenme gözlemi, tohum deneyi, bahçe etkinliği
+gorsel: bekliyor
+gorsel_alt: Şeffaf kavanozda nemli pamuk içinde çimlenen fasulye, cama yakın görünen beyaz kök ve yeşil filiz
+urunler: arzuman-simbo-oturak-fasulye-tohumu-50-gr, hg-premium-fide-topragi
+kisaca: Pamukta fasulye çimlendirme için şeffaf bir kavanoza nemli pamuk doldurulur, cam ile pamuk arasına fasulye tanesi yerleştirilir ve kavanoz aydınlık bir yere konur. Pamuk nemli kaldıkça kök 2–4 günde, gövde bir haftada belirir. Çocuk kökün aşağı, gövdenin yukarı yöneldiğini cam üzerinden günlük izleyebilir.
+@govde
+Bir fasulye tanesi kuru ve ölü gibi görünür; nemli pamuğa konduğunda üç gün içinde içinden bir kök çıkar. Çocuklara tohumun canlı olduğunu anlatmanın en inandırıcı yolu bunu gösterip bir cümleye bile gerek bırakmamaktır. Pamukta fasulye çimlendirme birkaç malzemeyle yapılır, sonucu cam duvardan izlenir ve çocuğa gözlem, ölçme ve sabır öğretir.
+
+Kraliyet Bahçecilik Derneği'nin (RHS) okul bahçeciliği materyalleri de çimlenme basamaklarını görmek için tohumu cam kavanozda cama yaslayarak yetiştirmeyi önerir; yapılan bu düzende köklerin mi, sürgünlerin mi önce çıktığı net izlenir ([RHS tohumlar etkinliği](https://www.rhs.org.uk/education-learning/school-gardening/resources/curriculum-linked/all-about-seeds)).
+
+## Malzeme listesi
+
+Her şey mutfakta bulunur:
+
+- Şeffaf bir kavanoz ya da plastik bardak
+- Pamuk (ya da kâğıt havlu)
+- 3–4 adet kuru fasulye tanesi
+- Su ve küçük bir püskürtücü ya da kaşık
+- Gözlem defteri ve kalem
+
+Tohum olarak mutfaktaki kuru fasulye de kullanılabilir. Çimlendirme oranı yüksek tohum istiyorsanız bahçe tohumu seçin; yaşlı tohum geç çimlenir ya da hiç çimlenmez. Canlılık testi için [tohum çimlenme testi](/tohum-cimlenme-testi) yazısındaki ıslak havlu yöntemi aynı düzeneğin bir uyarlamasıdır.
+
+## Adım adım deney
+
+::: adimlar
+Fasulyeleri ıslatın | Tohumları bir gece boyunca ılık suda bekletin; şişmiş tohum daha çabuk çimlenir.
+Pamuğu yerleştirin | Kavanozun içini nemli pamukla doldurun; pamuk ıslak değil, sıkılınca damlamayacak kadar nemli olsun.
+Tohumu cama yaslayın | Fasulyeleri cam ile pamuk arasına, cama yakın yerleştirin ki büyüme dışarıdan görünsün.
+Aydınlık bir yere koyun | Kavanozu doğrudan güneş almayan aydınlık bir pencere kenarına koyun.
+Her gün nem kontrolü yapın | Pamuğu nemli tutun; kurursa birkaç damla su verin, su birikmesine izin vermeyin.
+:::
+
+Kapağı kapatmayın; tohumun hava alması gerekir. Kavanozu sabit bir yerde tutun; yerini sık değiştirmek ışık yönünü bozar ve bitkinin eğilmesine yol açar.
+
+## Günlük gözlem tablosu
+
+Her gün aynı saatte bakıp deftere yazdırın. Küçük çocuk çizer, büyük çocuk santimetre cinsinden ölçer.
+
+| Gün | Neler görülür? | Çocuğa sorulacak soru |
+|---|---|---|
+| 1 | Tohum su emer, şişer, kabuğu yumuşar | Tohum nasıl değişti? |
+| 2–3 | Kabuk yarılır, beyaz kök ucu görünür | Kök hangi yöne gidiyor? |
+| 4–5 | Kök uzar, yan kökçükler çıkar | Kök ne kadar uzadı? |
+| 5–7 | Gövde kökün karşı yönünde yukarı çıkar | Gövde kökün tersine mi gidiyor? |
+| 7–10 | İlk yapraklar açılır | Yaprakların rengi nedir? |
+
+Çimlenme süresi, ısıya ve tohumun yaşına göre birkaç gün oynar. Oda soğuksa her şey yavaşlar; sıcak ve aydınlık bir pencere süreyi kısaltır.
+
+[ürün:arzuman-simbo-oturak-fasulye-tohumu-50-gr]
+
+## Deneyi karşılaştırmaya çevirin
+
+Bir kavanozla başlayan deney, birkaç kavanozla bilimsel bir karşılaştırmaya dönüşür. RHS'nin "mutfak dolabı bilim insanı" etkinliği, tek bir bakla türü üzerinde ışık, su miktarı, ekim derinliği ve iç-dış ortam gibi değişkenleri karşılaştırmayı önerir ([RHS store cupboard scientist etkinliği](https://www.rhs.org.uk/education-learning/school-gardening/resources/curriculum-linked/store-cupboard-scientist)). Evde şu üç karşılaştırmayı deneyebilirsiniz:
+
+- **Işıklı ve karanlık:** Bir kavanozu pencereye, birini kapalı bir dolaba koyun. Hangisinin boyu daha uzun, hangisinin rengi daha soluk?
+- **Susuz ve sulu:** Biri her gün nemlendirilsin, diğeri kurumaya bırakılsın. Çimlenme olup olmayacağını önceden tahmin ettirin.
+- **Soğuk ve ılık:** Biri buzdolabının dışında, diğeri serin bir odada dursun; çimlenme hızını karşılaştırın.
+
+Her karşılaştırmada yalnızca bir şeyi değiştirin; ışık ve su aynı kalmazsa sonucun nedenini bilemezsiniz. Çocuğa önce "sence ne olacak?" diye sorup tahmini deftere yazdırmak, deneyi bir bilim çalışmasına çevirir. Daha uzun tatil etkinlikleri için [yarıyıl tatilinde bitki etkinliği](/yariyil-tatilinde-bitki-etkinligi) yazısındaki diğer deneylere bakabilirsiniz.
+
+## Çimlenen fasulyeyi toprağa dikmek
+
+Kök 3–4 cm olunca ve gövde belirince fasulyeyi küçük bir saksıya dikebilirsiniz. Toprağı hafif ve nemli tutun; kökü pamuktan nazikçe ayırın ve gövdeyi toprak üstünde bırakacak biçimde yerleştirin. Soğuk havada dışarıya dikmeyin; ilkbahara kadar pencere önünde büyütün. Fidenin saksıya taşınması için [fide şaşırtma](/fide-sasirtma) yazısındaki adımlar işe yarar, fasulyenin devamındaki bakım için [fasulye yetiştirme](/fasulye-yetistirme) rehberine bakabilirsiniz.
+
+## Pamukta fasulye çimlendirme neden işe yarar?
+
+Kuru bir fasulye tanesinin içinde minik bir bitki ve onu besleyecek bir yiyecek deposu vardır. Tane su emince şişer, kabuğu çatlar ve içindeki bitkinin kökü ilk iş olarak aşağı yönde uzanır. Kök sudan ve topraktan su ve besin almaya başlar; ardından gövde yukarı çıkar. Pamuk, bu süreci görünür kılan nemli bir yataktır: tohumu ıslak tutar ama boğmaz, kökün büyümesine yer bırakır.
+
+Pamukta fasulye çimlendirme deneyinde çocuklar için en çarpıcı gözlem yönlerdir. Kavanozu yan yatırıp bir kaç gün sonra baktığınızda kökün yine aşağı, gövdenin yine yukarı döndüğünü görürsünüz. Bu, bitkinin yerçekimini algıladığının işaretidir. Çocuğa bunu "bitki nerede yukarı, nerede aşağı olduğunu biliyor" diye anlatın; bilimsel terimlere gerek yoktur.
+
+## Sorun giderme
+
+Her deney sorunsuz gitmez. Aşağıdaki tablo, en sık karşılaşılan durumları gösterir:
+
+| Durum | Olası neden | Ne yapılır? |
+|---|---|---|
+| Fasulye çimlenmedi | Tohum eski ya da oda soğuk | Yeni tohum deneyin, kavanozu ılık bir yere alın |
+| Pamukta beyaz ya da yeşil küf | Fazla nem, hava yok | Pamuğu değiştirin, kapağı açık tutun, daha az su verin |
+| Kök çıktı, gövde bodur | Işık yetersiz | Kavanozu daha aydınlık bir pencereye koyun |
+| Kök kahverengi ve yumuşak | Fazla su, çürüme | Suyu azaltın, tohumu yenileyin |
+| Fasulye çürüdü | Su birikmiş | Pamuğu sıkın, su dolu bırakmayın |
+
+Küf çıktıysa deneyi bozmaya gerek yok; bunu da bir gözlem sayın. Çocuğa "neden küf çıktı?" diye sorun ve nemin aşırı olmasının tohum için zararlı olduğunu anlatın. Yeni bir kavanozla deneyi tekrarlamak, bilimsel yöntemin parçası olan tekrarı da öğretir.
+
+## Gözlem defteri nasıl tutulur?
+
+Küçük çocuklar için bir sayfaya üç kutu çizin: "gün 1", "gün 3", "gün 7". Her kutuya o günkü görünümü çizsinler. Büyük çocuklar için cetvelle kök ve gövde boyunu ölçüp tabloya yazmak yeterlidir. Hafta sonunda çizimleri yan yana koymak, çocuğun gelişimi bir film şeridi gibi görmesini sağlar. Defterin üstüne deneyin başlığını ve tahmini yazmak, sonunda tahminle sonucu karşılaştırmaya yardım eder.
+
+[ürün:hg-premium-fide-topragi]
+
+## Güvenlik notu
+
+Çocuklar tohumları ağzına götürebilir; küçük çocuklarla deneyi yetişkin gözetiminde yapın. Deneyde kullanılan fasulyeler yenmez: çiğ fasulye mide rahatsızlığına yol açar. Çimlenen filiz yemek isterseniz hijyen ve pişirme için [evde filiz çimlendirme](/evde-filiz-cimlendirme) yazısındaki kurallara uyun.
+
+Genel çimlenme bilgisi için [Vikipedi çimlenme maddesine](https://tr.wikipedia.org/wiki/%C3%87imlenme) bakabilirsiniz. Tohum ve fide seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Pamukta fasulye çimlendirme kaç günde sonuç verir?
+C: Nemli pamukta fasulyenin kökü genellikle 2–4 günde, gövdesi 5–7 günde görünür. Ortam soğuksa süre uzar; sıcak ve aydınlık bir pencere kenarı süreyi kısaltır.
+
+S: Fasulye çimlendirmek için pamuk neden kullanılır?
+C: Pamuk nemi tutar ve tohumu cama yaslayarak kökün büyümesini dışarıdan izlemeyi sağlar. Kâğıt havlu ya da toprak da kullanılabilir, ama toprakta kök dışarıdan görünmez.
+
+S: Çimlenen fasulyeler yenir mi?
+C: Deneyde kullanılan fasulyeler yenmez; çiğ fasulye mide rahatsızlığına yol açabilir. Çimlenmiş filiz yemek istiyorsanız pişirme ve hijyen kurallarını uygulamak gerekir.
+
+S: Fasulyeyi çimlendirdikten sonra toprağa dikebilir miyim?
+C: Evet. Kök 3–4 cm olunca küçük bir saksıya dikebilirsiniz. Soğuk havada dışarıya dikmeyin; ilkbahara kadar pencere önünde büyütün.
+
+### SORU
+yayin: 2027-01-19 10:40
+kategori: bahce-ipuclari
+baslik: Musluk suyunun pH'ı hidroponik için yüksek çıktı, çözeltiyi nasıl düzeltirim?
+metin: Evde fesleğen için küçük bir hidroponik kap kurdum. pH şeridiyle musluk suyunu ölçünce rengi 7,5–8 civarı gösterdi. Besini ekleyince de pek düşmedi. Bitki yeni sararmaya başladı. Suyu mu değiştirmeliyim, pH'ı nasıl düşürürüm?
+@cevap Rümeysa Altınova | 3
+Ölçümünüz doğruysa sorun büyük olasılıkla suyun kireçliliğidir. Kireçli (sert) suyun bikarbonatı pH'ı yukarıda tutar ve çözeltiye bir miktar asit eklemeniz bile kısa sürede eski değerine döner. Çoğu yeşillik için hedef 5,5–6,5 aralığıdır; bu aralığın üstünde demir gibi bazı besinler bitkiye alınamaz hâle gelir ve yeni yapraklarda sararma görülür. Çözümü üç adımda uygulayın. Önce suyu doldurup bir gün açıkta bekletin; klor uçar ve ölçüm daha kararlı olur. Sonra hidroponik için üretilmiş pH düşürücü bir ürünü etiketteki oranın çok altında, damla damla ekleyip karıştırın ve birkaç dakika sonra yeniden ölçün; amaç tek seferde hedefe inmek değil, adım adım yaklaşmaktır. Son olarak çözeltiyi ancak pH'ı ayarladıktan sonra besinle birlikte kullanın ve birkaç gün sonra tekrar ölçün, çünkü bitki ve çözelti pH'ı zamanla kaydırır. Suyunuz çok sertse bir kısmını saf suyla karıştırmak (örneğin yarı yarıya) tamponu azaltır ve ayarı kolaylaştırır. Mutfak sirkesi ya da limon suyu geçici çözüm gibi görünse de dozu tutturmak zordur; ölçüsüz eklemek pH'ı birden düşürüp bitkiye zarar verebilir. Ayarlamadan sonra yeni çıkan yapraklara bakın; sararan eski yapraklar düzelmez, düzelmeyi yeni yaprakta görürsünüz.
+
+### SORU
+yayin: 2027-01-19 14:15
+kategori: bahce-ipuclari
+baslik: Çocuğumla kavanozda fasulye çimlendirdik ama pamukta küf oluştu, deneyi yeniden mi başlatmalıyız?
+metin: Kızımla pencere önünde kavanozda fasulye çimlendiriyoruz. Dördüncü günde pamuğun bir yerinde beyaz tüycükler çıktı, fasulyelerden biri de yumuşadı. Küf mü bu? Deneyi tamamen bozmalı mıyız, yoksa devam edebilir miyiz?
+@cevap Muhammed Hamza Çelik | 2
+Beyaz ve tüylü görünüm büyük olasılıkla küftür; pamukta fazla nem ve havasız ortam küf için uygun zemindir. Yumuşayan fasulyeyi çıkarın, çünkü çürüyen tohum diğerlerine de küf bulaştırır. Sağlam görünen fasulyeler varsa onları temiz bir kavanoza taşıyıp yeni, nemli ama sıkılınca damlamayan pamukla devam edebilirsiniz. Eski pamuğu değiştirin, kavanozu sıcak su ve sabunla yıkayıp iyice durulayın. Bundan sonra kapağı kapatmayın; tohumun hava alması gerekir. Pamuğu her gün ıslatmak yerine kuruduğunda birkaç damla su verin; su birikmesine izin vermeyin. Küf çıkması deneyin bozulduğu anlamına gelmez; çocuğunuzla nemin neden tohum için zararlı olabildiğini konuşmak, deneyin bir parçası olur. İsterseniz yeni bir kavanozla ikinci bir deney başlatıp iki kavanozu karşılaştırın: biri daha ıslak, biri daha az nemli. Küflü pamuğu ya da tohumu koklamayın ve çocukların elleriyle ağzına götürmesine izin vermeyin; işlem bittiğinde elleri sabunla yıkayın.

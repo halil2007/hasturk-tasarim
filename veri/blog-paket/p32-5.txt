@@ -1,0 +1,520 @@
+### YAZI
+slug: yatak-icin-kac-metrekup-toprak-gerekir-hacim-hesabi
+baslik: Yatak İçin Kaç Metreküp Toprak Gerekir? Hacim Hesabı
+yayin: 2027-04-05 09:10
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: kaç metreküp toprak gerekir
+seo_baslik: Yatak İçin Kaç Metreküp Toprak Gerekir? Hacim Hesabı
+seo_aciklama: Yatak için kaç metreküp toprak gerekir? En × boy × yükseklik formülü, litre-metreküp çevirisi, birden çok yatak için toplam ve oturma payı örnekleriyle.
+ozet: Yatak için gereken toprak, en, boy ve derinliğin çarpımıdır; sonucu metreküp ya da litre olarak yazarsınız. Birden çok yatak, oturma payı ve dolgu katmanı için örnek hesaplar ve ürün ölçüleriyle çapraz kontrol tablosu verdik.
+etiketler: yatak toprağı, metreküp hesabı, toprak hacmi, yükseltilmiş yatak, toprak miktarı, litre
+gorsel: bekliyor
+gorsel_alt: Yatak çerçevesinin içine kürekle dökülen kahverengi bahçe toprağı ve yanında şerit metre
+urunler: moduler-yukseltilmis-bahce-yatagi-545-litre, moduler-yukseltilmis-bahce-yatagi-363-litre, solucan-gubreli-sebze-topragi, hg-bol-verimli-sebze-topragi
+kisaca: Yatak için gereken toprak hacmi en × boy × yükseklik (metre cinsinden) ile bulunur; sonuç metreküptür ve 1 m³ = 1000 litredir. 110 × 60 cm tabanlı, 30 cm derinliğinde bir yatak 0,198 m³, yani yaklaşık 198 litre toprak ister. Oturma ve üst boşluk için sonucu yüzde 10–15 artırın.
+@govde
+Yatağı kurdunuz, şimdi sıra toprağa geldi; kamyon mu çağıracaksınız, torba mı alacaksınız? İkisinin de başlangıç noktası aynı hesap. Yatak için kaç metreküp toprak gerekir sorusu, ilkokul hacim formülüyle çözülür; ama sonucu doğru okumak, birim çevirmek ve oturma payını eklemek gerekir. Aşağıda adım adım hesap, birkaç yatak için örnek ve ürün ölçüleriyle karşılaştırma var. Karışımın içeriğini ve litre bazlı daha ayrıntılı kullanımı [bahçe yatağı toprağı](/bahce-yatagi-topragi) yazısı anlatıyor; burada yalnızca miktar hesabı üzerinde duruyoruz.
+
+## Yatak için kaç metreküp toprak gerekir: temel formül
+
+Dikdörtgen bir yatağın hacmi en × boy × toprak derinliğidir. Tüm ölçüleri aynı birimde, tercihen metre olarak alın. Örnek: 2 m uzunluğunda, 1 m genişliğinde, 0,3 m (30 cm) derinliğinde bir yatak: 2 × 1 × 0,3 = 0,6 m³. Bu 600 litre eder; çünkü 1 m³, 1000 litredir (Vikipedi'de litre maddesi 1 litrenin 1 dm³ olduğunu, yani 1000 litrenin 1 m³ ettiğini veriyor: [Vikipedi, litre](https://tr.wikipedia.org/wiki/Litre)).
+
+Santimetre ile çalışmak isterseniz sonucu bölerek çevirin: cm³ değerini 1000'e bölerseniz litre, 1.000.000'a bölerseniz m³ bulursunuz. 200 × 100 × 30 cm = 600.000 cm³ = 600 litre = 0,6 m³.
+
+Yatak için kaç metreküp toprak gerekir sorusunda en sık yanlış, derinlik ölçüsüdür: yatağın iç yüksekliğini değil, toprağın dolacağı seviyeyi alın. Yatak ölçüsünü seçerken derinliğin sebze köküne uygunluğu için [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazısına bakın. Üst kenardan 2–3 cm aşağıda bırakmak sulama payı sağlar; yani 30 cm'lik bir yatağa pratikte 27–28 cm toprak dolar.
+
+## Hazır yatak ölçüleriyle çapraz kontrol
+
+Ürün bilgilerinde yatak ölçüleri ve hacimleri verilmiştir. Hesabın doğru çalışıp çalışmadığını bu rakamlarla sınayabilirsiniz:
+
+| Ölçü (cm) | Hesap | Hacim |
+|---|---|---|
+| 60 × 60 × 30 | 0,6 × 0,6 × 0,3 | 0,108 m³ = 108 L |
+| 110 × 60 × 30 | 1,1 × 0,6 × 0,3 | 0,198 m³ = 198 L |
+| 110 × 110 × 30 | 1,1 × 1,1 × 0,3 | 0,363 m³ = 363 L |
+| 165 × 110 × 30 | 1,65 × 1,1 × 0,3 | 0,5445 m³ = 545 L |
+
+Hesap, ürün sayfalarındaki litre değerleriyle birebir örtüşüyor; yani dolum için bu hacimleri güvenle kullanabilirsiniz. Üreticinin hacmi, yatağın tamamen dolu olduğu durumdur; sulama payı bırakacaksanız yüzde 5–10 düşün.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-545-litre,moduler-yukseltilmis-bahce-yatagi-363-litre]
+
+## Oturma payı: neden yüzde 10–15 fazla?
+
+Taze doldurulan toprak sulandıktan sonra çöker; kabarık organik madde (kompost, torf) birkaç hafta içinde sıkışır. Yatağı sınırına kadar doldurursanız bir ay sonra 3–5 cm boşluk oluşur. Bunu önlemek için hesapladığınız miktara yüzde 10–15 ekleyin. Örnekte 0,6 m³ için 0,66–0,69 m³ planlayın. Bir ay sonra eksik kalan kısmı üstten tamamlamak da mümkündür; ama ilk dolumda yeterli miktar almak daha az uğraştırır.
+
+Birden fazla yatak dolduracaksanız toplam hacmi her yatak için ayrı hesaplayıp toplayın, sonra payı sonuçta bir kez ekleyin. Bir kâğıda yatak adı, ölçüsü, hacmi yazmak karışıklığı önler.
+
+## Birden çok yatak için örnek
+
+Yatak için kaç metreküp toprak gerekir sorusunu üç yataklı bir bahçede deneyelim: iki adet 110 × 60 cm'lik (198 L), bir adet 165 × 110 cm'lik (545 L).
+
+::: adimlar
+Her yatağın hacmini bulun | İkisi 198 L, biri 545 L.
+Toplayın | 198 + 198 + 545 = 941 L = 0,941 m³.
+Oturma payını ekleyin | 941 × 1,12 ≈ 1054 L, yani yaklaşık 1,05 m³.
+Torba ya da dökme alım seçin | 20 litrelik torbalarla 53 torba, ya da yaklaşık 1,1 m³ dökme toprak.
+Dolgu katmanı varsa düşün | Alt katmana dal ve odun parçası ya da kaba malzeme koyacaksanız o kadar hacmi toplamdan çıkarın.
+:::
+
+Bu rakam kâğıt üzerinde bir plandır. Alım sırasında toprağın cinsini (torfa bağlı hafif karışım mı, ağır bahçe toprağı mı) ve nasıl satıldığını (litre mi, metreküp mü, ton mu) bilmek gerekir; çünkü aynı hacimde farklı ağırlık çıkar.
+
+## Litre mi, metreküp mü, ton mu?
+
+Hazır torbalar litreyle satılır; dökme toprak ise genellikle metreküp ya da kamyon (damper) dolusu birimiyle. Kimi tedarikçiler ağırlıkla (ton) hesaplar; bu durumda ıslak ve kuru toprak arasındaki ağırlık farkı önemlidir. Hacimle çalışıyorsanız tedarikçiye "bu kadar metreküp" diye söyleyin, "kaç ton" diye sormayın; toprağın nemi ve cinsi ağırlığı belirler.
+
+| Birim | Ne zaman? | Not |
+|---|---|---|
+| Litre | Hazır torba, küçük yatak | Etikette yazar |
+| m³ | Dökme toprak, çok yatak | 1 m³ = 1000 L |
+| Ton | Bazı dökme toprak satışları | Nem ve cinse göre değişir |
+
+## Karışım oranları ve alt katman
+
+Yatağı yalnızca bahçe toprağıyla doldurmak çoğu zaman en iyisi değildir; hafif bir karışım sebzeye iyi gelir. Karışımın bileşenlerini hacimle bölüştürürseniz hesap kolaylaşır. Örneğin 1,05 m³'lük bir plan için %60 toprak, %30 olgun kompost, %10 havalandırıcı malzeme (perlit ya da kokopit) alırsanız 0,63 m³ toprak, 0,315 m³ kompost, 0,105 m³ havalandırıcı gerekir. Oranlar bitkiye ve topraktaki kil-kum dengesine göre değişir; karışım ayrıntıları için [bahçe yatağı toprağı](/bahce-yatagi-topragi) yazısına bakın.
+
+Derin yataklarda (50 cm ve üzeri) alt katmana kalın dal ya da odun parçası koymak, toprak hacmini azaltır ve zamanla ayrışarak besin kaynağı olur. Bu uygulamanın kuramı [hügelkultur](/yukseltilmis-bahce-yatagi-kurulumu) benzeri düzenlerde de görülür; yatak kurulumu için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazısı adım adım anlatıyor.
+
+## Hesabı etkileyen üç ayrıntı
+
+Köşegen ve eğimli kenar: Kenarları dik olmayan şekilli yataklar için alanı ayrı bir şekil gibi (üçgen, trapez) hesaplayın, sonra derinlikle çarpın. Şekilli yataklarda hazır ürün bilgisi genelde alanı vermez, ama ölçüleri verir.
+
+Yükseklik farkı: Zemin düz değilse yatağın bir tarafı daha derin olabilir; ortalama derinliği kullanın.
+
+Taşıma: 1 m³ toprağı taşıyıp yatağa taşımak ciddi iştir. Büyük hacimler için el arabası ve birkaç kişi gerekir; yatağı yerinde doldurmak, taşımayı ve oturma kontrolünü kolaylaştırır.
+
+## Sık yapılan hatalar
+
+- Birimleri karıştırmak (cm ile m'yi aynı çarpımda kullanmak).
+- Dış ölçüyü almak: Yatak çeperinin kalınlığı iç hacmi küçültür.
+- Oturma payını unutmak: Üç hafta sonra yatak yarım kalır.
+- Alt katmana koyulan hacmi toplamdan çıkarmamak.
+@sss
+S: 1 metreküp kaç litre toprak eder?
+C: 1 metreküp tam olarak 1000 litredir. Yani 0,6 m³'lük bir yatak 600 litre, 0,198 m³'lük bir yatak ise 198 litre toprak alır. Birimi çevirirken m³ değerini 1000 ile çarpın.
+
+S: 110 × 60 × 30 cm yatağa kaç litre toprak gerekir?
+C: 1,1 × 0,6 × 0,3 = 0,198 m³, yani yaklaşık 198 litre. Oturma ve üst boşluk için bu rakamı yüzde 10–15 artırıp yaklaşık 220–230 litre hesaplamak daha güvenlidir.
+
+S: Yatağa neden hesaptan fazla toprak alınır?
+C: Taze toprak ve kompost sulandıktan sonra çöker. Yüzde 10–15 fazla alıp ilk dolumda yatağı biraz tepeleme doldurursanız birkaç hafta sonra boşluk oluşmaz, üst tamamlama ihtiyacı azalır.
+
+S: Dolgu katmanı toprak miktarını nasıl etkiler?
+C: Alt katmana dal ya da odun parçası koyarsanız o hacmi toplam toprak ihtiyacından çıkarırsınız. Örneğin 40 cm'lik yatakta alt 10 cm'yi dolgu yaparsanız toprak derinliği 30 cm'ye iner.
+
+### YAZI
+slug: filodendron-bakimi-tirmanici-ve-kendiliginden-tur-farki
+baslik: Filodendron Bakımı: Tırmanıcı ve Kendiliğinden Tür Farkı
+yayin: 2027-04-05 11:35
+yazar: Muhammed Hamza Çelik
+kategori: bitki-bakimi
+odak: filodendron bakımı
+seo_baslik: Filodendron Bakımı: Tırmanıcı ve Kendiliğinden Tür
+seo_aciklama: Filodendron bakımı tür farkına göre değişir. Tırmanıcı türlere destek, kendiliğinden (self-heading) türlere geniş saksı gerekir; ışık, sulama ve nem ayarı.
+ozet: Filodendron bakımında önce türün tırmanıcı mı, kendiliğinden (dik büyüyen) mi olduğuna bakılır. İkisinin destek, saksı, ışık ve budama farklarını, ortak sulama ve nem kurallarını ve sararma, uzama gibi sorunları anlattık.
+etiketler: filodendron, tırmanıcı filodendron, kendiliğinden filodendron, salon bitkisi, destek çubuğu, yaprak sararması
+gorsel: bekliyor
+gorsel_alt: Yosunlu destek çubuğuna tırmanan kalp yapraklı filodendron ve yanında büyük yapraklı dik filodendron
+urunler: salon-bitkilerine-ozel-toprak-karisimi, florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini, hg-monstera-deve-tabani-topragi
+kisaca: Filodendron bakımı, türün büyüme alışkanlığına göre ikiye ayrılır: tırmanıcı türler (kalp yapraklı filodendron gibi) destek çubuğu ya da asılı saksı ister; kendiliğinden türler (hibrit, self-heading) dik büyür ve geniş, ağır saksı ister. İkisi de parlak dolaylı ışık sever, üst toprak kuruyunca sulanır.
+@govde
+Filodendron adıyla satılan bitkiler birbirine hiç benzemeyebilir: biri duvarda tırmanan kalp yapraklı bir sarmaşık, diğeri yapraklarını bir kök merkezinden yelpaze gibi açan dik bir bitki. Filodendron bakımı bu yüzden önce türü tanımakla başlar. İki grubun ışık, sulama ve sıcaklık ihtiyacı büyük ölçüde ortak; destek, saksı, budama ve boy gelişimi ise farklı. Monstera ile karıştırılan bu bitkilerin ayrımı ve monstera bakımı için [monstera bakımı](/monstera-deve-tabani-bakimi) yazısı var.
+
+## Tırmanıcı mı, kendiliğinden mi?
+
+Filodendronlar Araceae (kuzukulağıgiller) ailesindendir. Evde yetiştirilenler büyüme biçimine göre iki gruba ayrılır:
+
+| | Tırmanıcı (vining) | Kendiliğinden (self-heading) |
+|---|---|---|
+| Tipik örnek | Kalp yapraklı filodendron (P. hederaceum) | Hibrit filodendronlar (ör. 'Birkin', 'Congo' tipi) |
+| Büyüme | Uzayan sürgün, boğumlardan hava kökü | Dik, kısa gövde, rozet yaprak |
+| Destek ihtiyacı | Yosunlu çubuk, ip, asılı saksı | Genellikle gerekmez; devrilirse sağlam saksı |
+| Boy | Uzar (metrelerce olabilir) | Yaprak büyür, gövde yavaş uzar |
+| Budama | Uçtan kesip dallandırır | Gerekirse alt yaprak temizlenir |
+
+University of Florida'nın hibrit filodendron sayfası, bu bitkilerin dik, geniş kürek şeklinde yapraklarla büyüdüğünü ve büyüdükçe devrilmemeleri için sağlam kaplar gerektiğini belirtiyor ([UF/IFAS Gardening Solutions, hibrit filodendronlar](https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/hybrid-philodendrons/)). Royal Horticultural Society ise tırmanıcı türleri nemli bir yosun çubuğa bağlamayı öneriyor; hava kökleri zamanla çubuğa tutunur ([RHS, filodendron yetiştirme rehberi](https://www.rhs.org.uk/plants/philodendron/growing-guide)).
+
+## Filodendron bakımı: ışık
+
+Her iki grup da parlak dolaylı ışığı sever. UF/IFAS, hibritlerde orta ile parlak dolaylı ışığı ideal bulurken, renkli yapraklı olanların rengini korumak için daha yüksek ışık gerektiğini söylüyor. Kalp yapraklı filodendron ise gölgeden yayık ışığa kadar geniş bir aralığı kaldırır; doğrudan güneş yapraklarını yakar ([UF/IFAS, kalp yapraklı filodendron](https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/heartleaf-philodendron/)). Pratikte pencere önünde, doğrudan öğle güneşinden bir metre uzakta, doğu ya da tül perdeli güney penceresi uygundur.
+
+Işık azaldığında tırmanıcı türde boğum aralıkları uzar, yapraklar küçülür ve bitki ışığa doğru uzanır. Kendiliğinden türlerde yeni yapraklar küçük çıkar. Önce ışığı artırın; gübreyle düzeltmeye çalışmayın.
+
+## Sulama ve toprak
+
+Filodendron suyu çabuk kullanmaz; üst 2–3 cm toprak kuruyunca sulayın. UF/IFAS, hafif, iyi süzen bir karışım kullanıp üst toprak (yaklaşık 2,5 cm) kuruyunca sulamayı öneriyor; aşırı su ya da çok az ışık yaprak sararmasına yol açar. Kış aylarında sulama aralığı uzar. Saksı dibinde su kalmamalı.
+
+Tırmanıcı bitkide su ihtiyacı hızla yapraklar çoğaldıkça artar. Kendiliğinden türde büyük yapraklar toz tutar; bir nemli bezle silmek ışık emilimini artırır. Toprak seçimi ve içindeki hava için [salon bitkisi toprağı](/saksi-topragi-nasil-hazirlanir) yazısındaki karışım ölçütleri yol gösterir.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi,hg-monstera-deve-tabani-topragi]
+
+## Yaygın filodendron türleri
+
+Evlerde en sık görülen filodendronlar iki grupta toplanabilir. Aşağıdaki tablo, filodendron bakımı kararlarını türe göre vermenize yardımcı olur.
+
+| Tür | Grup | Dikkat edilecek |
+|---|---|---|
+| Kalp yapraklı (P. hederaceum) | Tırmanıcı | Gölgeye dayanıklı, asılı saksıda güzel |
+| Brasil (alacalı kalp yaprak) | Tırmanıcı | Alacası için daha çok ışık ister |
+| Xanadu, Congo, Birkin tipi | Kendiliğinden | Geniş saksı, yaprak silme |
+| Gloriosum, Melanochrysum tipi | Tırmanıcı/yer yüzeyi | Yüksek nem, yosunlu destek |
+
+Tür adı bilinmiyorsa bitkinin büyümesine bakın: Sürgünü uzayıp boğumlardan kök salıyorsa tırmanıcı, yapraklar toprak seviyesinden rozet gibi çıkıyorsa kendiliğinden gruptadır.
+
+## Saksı değişimi ve en iyi zaman
+
+Filodendron kökü saksıya doldukça büyümesi yavaşlar. Yılda ya da iki yılda bir, ilkbaharda bir boy büyük saksıya geçmek en uygun zamandır. Drenaj deliğinden kök çıkması, suyun hemen akıp saksıdan geçmesi ve toprak yüzeyinde köklerin görünmesi saksı değişimi işaretidir. Kendiliğinden türde bir sonraki saksıyı bir ya da iki parmak büyük seçin; çok büyük saksı toprağı geç kurutur. Filodendron bakımı kapsamında saksı değişimi, yıllık bir alışkanlık olabilir; toprak yenileme için [eski saksı toprağı nasıl yenilenir](/eski-saksi-topragi-nasil-yenilenir) yazısına bakın.
+
+## Destek ve saksı: farkın en çok göründüğü yer
+
+Tırmanıcı filodendronu üç şekilde yetiştirebilirsiniz: yosunlu ya da kokopitli destek çubuğuna sarıp tırmandırmak, asılı saksıda sarkıtmak ya da duvara ip, tel veya özel kancayla yönlendirmek. Çubuk kullanıyorsanız çubuğu nemli tutun; hava kökleri nemi bulunca çubuğa tutunur. Sürgün ucunu 15–20 cm aralıkla yumuşak bağla çubuğa sabitleyin.
+
+Kendiliğinden türde destek şart değildir; ağır, geniş tabanlı saksı seçmek yeter. Yapraklar büyüdükçe bitki öne ya da yana devrilebilir; saksı ağırlığı ve yeri dengelemelidir. Saksı seçimi için [doğru saksı seçimi](/saksi-secimi-rehberi) yazısına bakın.
+
+## Nem ve sıcaklık
+
+Filodendronlar tipik ev nemini genellikle tolere eder, ama daha yüksek nemi sever. RHS, 15 °C üzerinde bir sıcaklık ve ortalama nem önerir. Kaloriferin yanına koymayın; yaprak kenarları kurur. Nemi artırmak için grup halinde yerleştirme ya da çakıl tepsi uygulanabilir. Kış gecelerinde cam kenarından soğuk gelir; bitkiyi camdan uzak tutun.
+
+## Budama ve çoğaltma
+
+Tırmanıcı filodendronda boğum üstünden kesmek yeni dallanma sağlar. Kestiğiniz sürgün parçasını bir iki boğumlu çelik olarak suda ya da nemli kokopitte köklendirebilirsiniz. Kendiliğinden filodendronda budama gerekmez; alt sararmış yapraklar sapı gövdeye yakın yerden kesilir. Çoğaltma için yeni bitki oluşturan yan sürgünler (yavrular) varsa saksı değişiminde ayrılır.
+
+## Sorun giderme tablosu
+
+| Belirti | Neden | Çözüm |
+|---|---|---|
+| Alt yapraklar sarı | Aşırı sulama ya da yaşlanma | Sulamayı azaltın, tek tek sararan yaprak normal |
+| Yapraklar küçük, boğum arası uzun | Işık az | Daha aydınlık yere taşıyın |
+| Yaprak kenarı kahverengi | Kuru hava, soğuk akımı | Nem artırın, camdan ve kaloriferden uzaklaştırın |
+| Yaprakta kahverengi yanık | Doğrudan güneş | Perde ile süzün |
+| Yaprak solgun, toprak ıslak | Kök çürümesi | Saksıdan çıkarıp kökleri kontrol edin |
+
+## Evcil hayvan ve çocuk uyarısı
+
+Filodendron türleri, kuzukulağıgillerin çoğu gibi, ağza alındığında tahriş yapabilen kalsiyum oksalat kristalleri içerir. Kedi, köpek ya da küçük çocuğun ulaşabileceği yerlere koymayın. Hayvan yerse veterinere başvurun.
+
+## Beslenme
+
+İlkbahardan sonbahara kadar iki üç haftada bir yarım dozla besleyin; kışın vermeyin. Gübreye ne zaman başlanacağı için [saksı bitkileri gübreleme takvimi](/saksi-bitkileri-gubreleme-takvimi) yazısına bakabilirsiniz.
+
+[ürün:florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini]
+@sss
+S: Tırmanıcı ve kendiliğinden filodendron arasındaki fark nedir?
+C: Tırmanıcı türler (ör. kalp yapraklı) uzayan sürgün verir, destek çubuğu ya da asılı saksı ister. Kendiliğinden türler dik, kısa gövdeli büyür, destek istemez ama ağır ve geniş saksı gerektirir.
+
+S: Filodendron ne kadar ışık ister?
+C: Parlak ama dolaylı ışık en iyisidir. Kalp yapraklı tür gölgeye daha dayanıklıdır; renkli yapraklı hibritler daha çok ışık ister. Doğrudan güneş yaprağı yakar.
+
+S: Filodendron ne zaman sulanır?
+C: Üst 2–3 cm toprak kuruyunca sulanır. Aşırı su yapraklarda sararmaya yol açar; saksının dibinde su kalmamalıdır. Kışın sulama aralığı uzar.
+
+S: Filodendronun yaprakları neden sararır?
+C: En sık neden aşırı sulamadır; yetersiz ışık da sararma yapar. Alttaki tek tük yaprak yaşlanma belirtisi olabilir. Toprağı kontrol edin, sulamayı toprağı yoklayarak ayarlayın.
+
+### YAZI
+slug: seramik-saksi-terakota-ve-plastik-hangi-bitkiye-hangisi
+baslik: Terakota, Plastik ve Seramik Saksı: Hangi Bitkiye Hangisi Uygun?
+yayin: 2027-04-05 14:05
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: seramik saksı
+seo_baslik: Terakota, Plastik ve Seramik Saksı: Hangisi Uygun?
+seo_aciklama: Terakota, plastik ve seramik saksı karşılaştırması: su kaybı, ağırlık, ömür ve drenaj farkı. Sukulent, orkide, domates ve fesleğen için hangi saksı?
+ozet: Terakota gözenekli olduğu için çabuk kurur, plastik ve sırlı seramik suyu uzun tutar. Bitkinin su ihtiyacına, bakıcının alışkanlığına ve yere göre saksı malzemesi seçimini; üç malzemenin ağırlık, ömür ve drenaj farklarını tabloyla anlattık.
+etiketler: terakota saksı, plastik saksı, seramik saksı, saksı seçimi, drenaj, sukulent saksısı
+gorsel: bekliyor
+gorsel_alt: Yan yana duran kiremit rengi terakota, beyaz sırlı seramik ve siyah plastik saksılar
+urunler: yuvarlak-vakum-saksi-13-x-10-5-cm, kaktus-ve-sukulent-topragi, hg-cicek-topragi
+kisaca: Terakota gözenekli olduğu için suyu çabuk bırakır; fazla sulayanlara ve sukulentlere uygundur. Plastik ve sırlı seramik saksı suyu uzun tutar, sulamayı unutanlara, domates ve fesleğen gibi su seven bitkilere uygundur. Hangi malzemeyi seçerseniz seçin, dibinde drenaj deliği olması, malzemeden daha önemlidir.
+@govde
+Saksı sadece bitkinin durduğu bir kap değildir; toprağın ne kadar hızlı kuruyacağını belirleyen bir parçadır. Terakota, plastik ve seramik saksı aynı toprakla aynı bitkiye farklı sulama ihtiyacı yaratır. Aynı fesleğen, terakotada günde iki kez, plastikte günde bir sulama isteyebilir. Aşağıda üç malzemeyi su kaybı, ağırlık, ömür ve bitki uyumu açısından karşılaştırdık. Boyut, drenaj ve toprak seçimi gibi genel konular için [doğru saksı seçimi](/saksi-secimi-rehberi) yazısı daha geniş bir çerçeve çiziyor.
+
+## Gözenek meselesi: terakota neden çabuk kurur?
+
+Terakota (pişmiş kil) gözenekli bir malzemedir; saksının duvarından su buharlaşır. Colorado State University'nin yayını, gözenekli malzemelerin (beton, terakota, kumaş, sırsız seramik) toprak neminin daha çok kaybedilmesine izin verdiğini; plastik, strafor, metal ve sırlı seramiğin ise nem kaybını azalttığını söylüyor ([Colorado State Extension, kap bahçeleri](https://extension.colostate.edu/resource/container-gardens/)). Yani sırlı seramik saksı, davranış olarak terakotadan çok plastiğe benzer.
+
+Pratik sonuç: Fazla sulama yapan biri için terakota güvenlik payı sağlar; kuruma sıklığı arttığı için unutkan biri için ise bir risktir.
+
+## Üç malzeme yan yana
+
+| Özellik | Terakota | Plastik | Sırlı seramik |
+|---|---|---|---|
+| Su kaybı | Hızlı (duvardan da buharlaşır) | Yavaş | Yavaş |
+| Ağırlık | Ağır | Hafif | Çok ağır |
+| Ömür | Kırılgan, don çatlatır | Güneşte gevrekleşebilir (UV'siz) | Uzun, ama kırılır |
+| Drenaj deliği | Genelde var | Genelde var | Çoğu dekoratif model deliksiz |
+| Isı | Kök bölgesini yazın serin tutar | Güneşte ısınır | Orta |
+| Dekor | Doğal, ilkel | Çok çeşit | Süs, parlak |
+
+University of Illinois, terakotanın çabuk kuruyup kolay kırıldığını, plastiğin dış mekâna uygun olmadığında zamanla kırılgan hale gelebileceğini ve sırlı çömleğin ömrünün uzun ama çoğunlukla pahalı olduğunu belirtiyor ([Illinois Extension, kap malzemesi seçenekleri](https://web.extension.illinois.edu/containergardening/choosing_material.cfm)). Plastik, reçine ve fiberglas kaplar hafiftir; büyük ve üst ağır bitkilerde devrilme riski taşır.
+
+## Bitkiye göre seçim
+
+Saksı malzemesini bitkinin su ihtiyacına göre seçin:
+
+| Bitki | Önerilen malzeme | Neden? |
+|---|---|---|
+| Kaktüs, sukulent, lavanta, biberiye | Terakota | Fazla suyu alır, kök çürümesini azaltır |
+| Orkide (şeffaf kap), menekşe | Plastik ya da terakota | Orkidede ışık ve kök görünürlüğü; menekşede nem dengesi |
+| Domates, biber, salatalık | Plastik ya da sırlı seramik (büyük) | Yazın çok su ister; terakota çabuk kurur |
+| Fesleğen, nane, maydanoz | Plastik | Sürekli nem; terakotada günde iki kez sulama gerekebilir |
+| Büyük yaprak bitkileri (monstera, filodendron) | Ağır seramik ya da sağlam plastik | Devrilmemesi için ağırlık gerekir |
+| Çiçekli mevsimlik (petunya, sardunya) | Plastik veya terakota | Terakotada yazın çok sık sulama |
+
+University of Illinois'un kap bahçeleri rehberi, kendi eğilimlerinize göre seçmeyi öneriyor: fazla sulama alışkanlığı olanlara terakota, sulamayı sık unutanlara ise plastik ya da sırlı seramik uygun.
+
+[ürün:yuvarlak-vakum-saksi-13-x-10-5-cm,kaktus-ve-sukulent-topragi]
+
+## Drenaj deliği: malzemeden önemli
+
+Colorado State ve Illinois yayımları, hangi malzeme olursa olsun drenaj deliğinin en önemli ölçüt olduğunu vurguluyor. Gözeneksiz kaplar suyu uzun tutar ve havayı kısıtlar; bu yüzden drenaj delikleri onlarda daha da kritiktir. Sırlı seramik süs saksıların çoğunda delik yoktur. Çözüm, bitkiyi delikli plastik bir iç saksıda yetiştirip bu saksıyı dekoratif kabın içine koymaktır; sulamadan sonra iç saksı çıkarılıp suyu süzülür, sonra yerine konur. Bu yöntemle tabanda su biriken saksı sorunu da çözülür. Saksı dibine taş koymak gerçek bir çözüm değildir; ayrıntı için [saksı dibine taş koymak gerekir mi](/saksi-dibine-tas-koymak) yazısına bakabilirsiniz.
+
+## Terakota nasıl kullanılır?
+
+Yeni terakota saksıyı kullanmadan önce bir süre suda bekletin; kuru gözenekler topraktan suyu çekerek kök bölgesini susuz bırakabilir. Dışında beyaz tuz tabakası (kireç ve gübre tuzu) oluşabilir; ıslak bir fırçayla silin. Kışın dışarıda bıraktığınız terakota, içine giren suyun donmasıyla çatlayabilir; boş saksıyı kapalı bir yere alın.
+
+## Plastik saksıda dikkat
+
+Plastik saksı seçerken kalın ve UV dayanımlı olmasına bakın; ince plastik güneşte birkaç sezonda kırılganlaşır. Siyah plastik güneşte ısınır ve kökleri ısıtabilir; yaz güneşinde açık renkli saksı ya da gölge sağlayın. Plastik saksının hafifliği taşıma açısından avantajdır; balkonda ağırlık sınırı olduğunda tercih edilir.
+
+## Seramik saksıda dikkat
+
+Seramik saksı ağır ve estetiktir. Deliksiz olanı iç saksı yöntemiyle kullanın; deliksiz kapta toprağı doğrudan kullanmayın. Sırlı seramik kış donunda çatlayabilir; dışarıda bırakılacaksa don dayanımı belirtilmiş olanı seçin. Bağımsız olarak büyük ve ağır saksıya bitki dikilmeden önce yerini belirleyin; dolu seramik saksı taşınamaz.
+
+## Balkonda ve rüzgârda saksı malzemesi
+
+Balkonda saksının ağırlığı ve rüzgâra dayanıklılığı da önemlidir. Hafif plastik saksı rüzgârda devrilebilir; boş saksıyı yere sabitlemek ya da dibine ağırlık koymak gerekir. Terakota ve seramik ağırlığı sayesinde dengelidir, ama dolu halde taşınamaz. Korkuluğa asılan saksıda hafiflik önemlidir; plastik ya da fiberglas daha uygundur. Balkon için kap ölçüsü ve çiçeklik tipi hakkında [balkon çiçekliği seçimi](/balkon-cicekligi-secimi) yazısı yararlı.
+
+## Su dengesi: malzemeyi sulamayla birleştirin
+
+Malzeme seçimi, sulama sıklığınızı belirler. Terakota saksıda toprağı haftada üç dört kez yoklamak gerekebilir; aynı bitki plastik saksıda haftada iki kez sulanabilir. Terakotada fazla sulama riski düşer, ama sıcak yaz günlerinde bitki susuz kalabilir. Saksı dibine çakıl koymak bu dengeyi çözmez; drenaj tabakası hakkında doğru bilgi için [saksıda drenaj tabakası](/saksida-drenaj-tabakasi) yazısına bakın. Kısaca: Bakım alışkanlığınıza uygun malzemeyi seçin, bitkiyi saksıya göre değil, saksıyı bitkiye göre seçin.
+
+## Seramik saksı ve iç saksı sistemi: pratik ipuçları
+
+İç saksı yöntemini kullanırken seramik saksının dibine küçük ayaklar ya da bir parça mantar tabanlık koyarsanız su, iç saksının altından rahat süzülür. Sulamadan sonra on beş dakika bekleyip dekoratif kabın dibinde biriken suyu boşaltın; seramik saksının içinde su bekletmek kök çürümesine yol açar. Seramik saksının iç yüzü sırlıysa terakotanın nem alıcı etkisi yoktur; bu yüzden aynı bitkiyi terakotadan seramiğe aldığınızda sulama aralığını uzatın.
+
+## Seçim özeti
+
+Bitkinin su ihtiyacına göre malzeme, bakıcının alışkanlığına göre düzeltme yapın. Sukulent koleksiyonu için terakota, yazlık sebze için büyük plastik, salon yaprak bitkisi için süslü seramik iyi bir başlangıçtır.
+@sss
+S: Terakota saksı neden çabuk kurur?
+C: Terakota gözenekli olduğu için su saksının duvarından da buharlaşır. Bu yüzden terakotadaki toprak, plastik ya da sırlı seramik saksıdan daha çabuk kurur ve daha sık sulama ister.
+
+S: Sukulent için hangi saksı daha uygundur?
+C: Terakota. Fazla suyu duvardan atar, köklerin ıslak kalma süresini kısaltır ve çürüme riskini azaltır. Dibinde drenaj deliği olmasına ve kaktüs toprağı kullanmaya dikkat edin.
+
+S: Seramik saksıda drenaj deliği yoksa ne yapılır?
+C: Bitkiyi delikli plastik bir iç saksıda yetiştirip dekoratif seramik kabın içine koyun. Sulamadan sonra iç saksıyı çıkarıp suyu süzün, yerine geri koyun. Deliksiz kapta doğrudan toprak kullanmayın.
+
+S: Domates için plastik mi terakota mı?
+C: Büyük hacimli plastik ya da sırlı seramik daha uygundur. Domates yazın çok su tüketir; terakota çabuk kuruduğu için günde iki kez sulama gerektirebilir ve sulama programını zorlaştırır.
+
+### YAZI
+slug: tohum-paketi-nasil-okunur-ekim-derinligi-cimlenme-suresi-isik
+baslik: Tohum Paketi Nasıl Okunur? Ekim Derinliği, Çimlenme Süresi ve Işık Bilgisi
+yayin: 2027-04-05 16:40
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: tohum paketi nasıl okunur
+seo_baslik: Tohum Paketi Nasıl Okunur? Derinlik, Süre, Işık
+seo_aciklama: Tohum paketi nasıl okunur? Ekim derinliği, çimlenme süresi, hasada gün, aralık, ışık ihtiyacı, çimlenme oranı ve paketleme tarihi anlamları.
+ozet: Tohum paketinin arkası, minik bir ekim rehberidir. Ekim derinliği, çimlenme süresi, hasada kalan gün, aralık, ışık ve çimlenme oranı bilgilerinin ne anlama geldiğini, bölgenize göre nasıl uyarlayacağınızı ve paketsiz tohumda ne yapacağınızı anlattık.
+etiketler: tohum paketi, ekim derinliği, çimlenme süresi, paket etiketi, çimlenme oranı, ekim zamanı
+gorsel: bekliyor
+gorsel_alt: Arka yüzü açık, ekim bilgileri yazılı tohum paketi ve avuçta birkaç sebze tohumu
+urunler: arzuman-nantes-havuc-tohumu-10-gr, altinvadi-roka-tohumu-toros-iri-yaprak, hg-fide-topragi
+kisaca: Tohum paketini okurken beş bilgiye bakın: ekim derinliği, çimlenme süresi, bitkiler arası aralık, ışık ihtiyacı ve hasada kalan gün. Paketteki çimlenme oranı ideal koşullardaki beklentidir; paketleme tarihi tohumun tazeliğini gösterir. Ekim zamanını paketteki iklime değil, kendi bölgenizin son don tarihine göre ayarlayın.
+@govde
+Paketin ön yüzü fotoğraf ve ad taşır; asıl bilgi arka yüzdedir. Küçük puntolu satırlar çoğu zaman okunmadan geçilir, ama yanlış derinlikte ekilen tohum çıkmaz, yanlış zamanda ekilen tohum donar. Tohum paketi nasıl okunur sorusunun cevabı sekiz satırdır: derinlik, süre, aralık, ışık, ekim zamanı, hasada gün, oran ve tarih. Aşağıda her birinin ne dediğini ve nasıl uyarlanacağını anlatıyoruz. Genel derinlik tablosu için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazısı var; burada paketin kendisiyle ilgileniyoruz.
+
+## Tohum paketi nasıl okunur? Sekiz satır, sekiz bilgi
+
+Oregon State University'nin yayım servisi tohum paketlerini küçük başvuru kılavuzları olarak tanımlıyor; çimlenme için gereken gün, bitki aralığı ve hasada kadar geçecek süre gibi bilgiler paketin üstünde bulunur ([Oregon State Extension, tohum paketlerini başvuru rehberi olarak kullanın](https://extension.oregonstate.edu/news/use-seed-packets-miniature-reference-guides)).
+
+| Paketteki bilgi | Ne anlama gelir? | Nasıl uyarlanır? |
+|---|---|---|
+| Ekim derinliği | Tohumun topraktaki gömülme derinliği | Hafif ve kumlu toprakta biraz derin, ağır kilde biraz sığ |
+| Çimlenme süresi (gün) | Filiz görünene kadarki beklenen süre | Soğuk toprakta uzar; 2 hafta geçmeden vazgeçmeyin |
+| Bitki aralığı | Seyreltme sonrası bitkiler arası mesafe | Yoğun ekip sonra seyreltin |
+| Işık ihtiyacı | Tam güneş, yarı gölge | Paket dış mekân için yazar; lamba altında farklıdır |
+| Ekim zamanı | Önerilen dönem | Kendi bölgenizin son don tarihine göre kaydırın |
+| Hasada gün | Ekimden hasada beklenen süre | Fide dikiminde dikimden sayılır; hava ile değişir |
+| Çimlenme oranı | Ideal koşullarda çimlenecek tohum yüzdesi | Gerçekte biraz düşük olabilir |
+| Paketleme/son kullanma tarihi | Tohumun tazeliği | Eski tohumda oran düşer |
+
+## Ekim derinliği: iki kat kuralı
+
+Birçok yayım kaynağı tohumu kendi çapının yaklaşık iki katı derinliğe ekmeyi öneriyor. Paketteki derinlik bu kuralın yerine geçer; çünkü üretici türü tanıyor. Derinlik tohum çimlenmesi için kritiktir: Çok derin ekilen küçük tohumun filizi toprak yüzüne çıkacak gücü bulamaz. Çok sığ ekilen tohum kurur. Havuç, marul ve roka gibi çok küçük tohumlar neredeyse yüzeye serpilir, üstü ince toprakla örtülür. Fasulye, bakla ve mısır gibi iri tohumlar 3–5 cm derine gider.
+
+## Çimlenme süresi: ne kadar beklenir?
+
+Paketteki gün sayısı ideal toprak sıcaklığındaki süredir. Toprak soğuksa ya da kuruysa bu süre uzar. Çoğu sebzede yedi ile on dört gün yaygındır; havuç gibi yavaş çimlenenlerde üç hafta sürebilir. Bu süre dolmadan toprağı eşelemek ya da yeniden ekmek yerine nemini koruyup bekleyin. Sürenin bir hafta fazla geçtiği durumlarda toprağın nemini ve sıcaklığını kontrol edin. Tohumun canlılığından şüpheleniyorsanız [tohum çimlenme testi](/tohum-cimlenme-testi) ekim öncesi güvence verir.
+
+[ürün:arzuman-nantes-havuc-tohumu-10-gr,altinvadi-roka-tohumu-toros-iri-yaprak]
+
+## Aralık ve seyreltme
+
+Paket, bitkilerin yetişkin halinde birbirinden ne kadar uzak durması gerektiğini söyler. Tohumları paket aralığında ekmek yerine sık ekip sonra seyreltmek yaygındır; çünkü her tohum çimlenmeyebilir. Seyreltme, bitkileri hava ve ışık için yarıştırmamak içindir. Seyreltirken fazla fideyi sökmek yerine makasla dibinden kesin; kalan fidenin köklerine zarar vermezsiniz.
+
+## Işık bilgisi: dış mekâna göre
+
+Paketteki "tam güneş" ya da "yarı gölge" notu dış mekân koşulları içindir. Evde ışık çok daha azdır; pencere önünde çimlenen tohum ışık yetersizliğinden uzar. Bu yüzden fide yetiştirirken pencere ışığı yetersizse bitki lambası düşünün. Bazı tohumlar (marul, çiçek tohumlarının bir kısmı) çimlenmek için ışığa ihtiyaç duyar ve üstü örtülmez; paketteki "ışıkta çimlenir" notuna bakın.
+
+## Ekim zamanı: kendi bölgenize uyarlayın
+
+Paketin üzerindeki "ilkbaharda ekin" notu geniş bir iklim aralığı içindir. Akdeniz kıyısında mart, İç Anadolu'da mayıs olabilir. Kendi bölgenizin son don tarihini bulun, soğuğa hassas sebzeleri (domates, biber, fasulye, salatalık) donsuz günlere göre ekin. Soğuğa dayanıklı olanlar (marul, ıspanak, bezelye, turp) donun bitmesini beklemeden erken ekilebilir. Bölgenizdeki donsuz günler için il tarım müdürlüğünün ya da meteoroloji tahminlerinin takvimlerine bakın.
+
+## Hasada gün: ekimden mi, dikimden mi?
+
+"Hasada 60 gün" yazıyorsa bu rakam çoğu zaman ideal koşullarda geçerlidir. University of Florida'nın tohum yayını, olgunlaşma süresinin hava ve toprak sıcaklığı, mevsim, toprağın verimliliği, nem ve güneşe göre değiştiğini belirtiyor. Fide dikiliyorsa gün sayımı dikimden itibaren başlar. Takvim kurarken paket sürelerini birkaç gün esnek düşünün.
+
+## Çimlenme oranı ve tarih
+
+Paketteki yüzde 85 gibi bir değer, ideal koşullarda 100 tohumdan 85'inin çimleneceğini gösterir. Gerçek ekimde bu oran düşebilir. Paketleme ya da son kullanım tarihi geçmiş tohumda oran daha da düşer; tohum fazla ekmek bu yüzden mantıklıdır. Açılmış paketi serin, kuru ve karanlık bir yerde, kapalı kavanozda saklayın.
+
+## Tohum paketi nasıl okunur: ekimden önce kontrol listesi
+
+Paketi okuduktan sonra ekime geçmeden dört şeyi doğrulayın. Birincisi tohumun ekim zamanı: bölgenizin son donu geçti mi? İkincisi toprak sıcaklığı: soğuk toprakta çimlenme süresi uzar. Üçüncüsü derinlik: paket derinliğini bir cetvelle ya da parmağınızla ölçün. Dördüncüsü aralık: paket aralığını kâğıda yazıp sıra aralığını belirleyin. Bu dört kontrol, tohum paketi nasıl okunur sorusunun uygulamalı cevabıdır. Fide yetiştireceksiniz paketteki ışık ve ısı bilgisini kuluçka tepsisi için de kullanın; tohumların fide viyolünde başlatılması için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazısı adımları veriyor.
+
+Tohumları ıslatmak gerekip gerekmediğini de paket söyler; kabuğu sert türlerde bekletme önerilirse [tohum ıslatma](/tohum-islatma) rehberine bakın.
+
+## Pelet, kaplamalı ve F1 tohum ne demek?
+
+Bazı paketlerde "kaplamalı" ya da "pelet" yazar: Küçük tohum, kolay ekilmesi için killi bir kaplamayla büyütülmüştür. Bu tohumları bekletmeyin, nemli toprağa bırakıp üstünü örtün ve kaplamanın çözülmesi için toprağı kuru bırakmayın. "F1" yazan paketler, iki ebeveynin melezlenmesiyle elde edilen tohumdur; bu bitkilerin kendi tohumundan yetiştirilen sonraki nesil aynı özellikleri taşımaz. Aynı tür ata tohumu (açık döllenmiş) yazan paketlerde ise kendi tohumunuzu toplayıp ertesi yıl ekmek mümkündür. Bu ayrımı bilmek, tohum paketi nasıl okunur sorusunun gizli satırıdır.
+
+## Paketsiz tohum için ne yapılır?
+
+Komşudan alınan ya da kendi topladığınız tohumda paket bilgisi yoktur. Bu durumda tür adını öğrenin ve bu türün ekim derinliği ve zamanı için güvenilir bir kaynağa (üniversite yayımları, ziraat fakültesi) bakın, bir not defterinde kaydedin.
+@sss
+S: Tohum paketinde çimlenme oranı ne demek?
+C: İdeal koşullarda çimlenmesi beklenen tohum yüzdesidir. Yüzde 85, 100 tohumdan yaklaşık 85'inin çıkacağı anlamına gelir. Gerçekte biraz düşük olabilir, bu yüzden paket aralığından biraz fazla tohum ekilir.
+
+S: Paketteki "hasada gün" ekimden mi sayılır?
+C: Tohum doğrudan ekiliyorsa ekimden, fide dikiliyorsa dikimden sayılır. Süre, hava ve toprak sıcaklığına göre birkaç gün oynar. Takvim kurarken esnek düşünün.
+
+S: Tohum paketindeki ekim zamanına aynen uymalı mıyım?
+C: Hayır. Paketteki dönem geniş bir iklim aralığına yazılır. Kendi bölgenizin son don tarihine göre kaydırın: soğuğa hassas sebzeler donsuz günlere, soğuğa dayanıklılar erken dönemlere göre ekilir.
+
+S: Tohum paketini açtıktan sonra nasıl saklanır?
+C: Serin, kuru ve karanlık bir yerde, ağzı kapalı bir kavanoz ya da zarfta saklayın. Neme ve sıcağa maruz kalan tohumun çimlenme gücü düşer. Paketleme tarihini not edin.
+
+### YAZI
+slug: donume-kac-kilo-gubre-saf-besin-hesabi-nasil-yapilir
+baslik: Dönüme Kaç Kilo Gübre? Saf Besin Hesabı Nasıl Yapılır?
+yayin: 2027-04-05 19:30
+yazar: Mikdat Çelik
+kategori: gubreleme
+odak: dönüme kaç kilo gübre
+seo_baslik: Dönüme Kaç Kilo Gübre? Saf Besin Hesabı Nasıl Yapılır?
+seo_aciklama: Dönüme kaç kilo gübre atılır? Toprak analizinden gelen saf besin ihtiyacını torba oranına çeviren formül, 20-20-20, üre ve DAP için örnek hesaplar.
+ozet: Dönüme kaç kilo gübre atılacağı, toprak analizinin verdiği saf besin ihtiyacını gübre torbasındaki yüzdeye bölerek bulunur. Formülü, 20-20-20, üre ve DAP için örnek hesapları ve P2O5, K2O dönüşümünü anlattık.
+etiketler: dönüme kaç kilo gübre, saf besin, gübre hesabı, dekar, 20-20-20, toprak analizi
+gorsel: bekliyor
+gorsel_alt: Tarla kenarında açık duran gübre çuvalları ve etiket üzerinde yazan besin yüzdeleri
+urunler: 1-ton-solucan-gubresi-fiyati, kati-solucan-gubresi-20-kg, leonardit-organik-toprak-duzenleyici
+kisaca: Dönüme kaç kilo gübre atılacağı iki adımda bulunur: önce toprak analizinden dönüm başına gereken saf besini (azot, P2O5, K2O) öğrenin, sonra bunu 100'e bölüp gübre torbasındaki yüzdeyle bölün. Örneğin dönüme 5 kg saf azot gerekiyorsa yüzde 20 azotlu gübrede 5 × (100 ÷ 20) = 25 kg gerekir.
+@govde
+Gübre torbasındaki üç rakam (20-20-20, 15-15-15, 46-0-0) gübrenin kaç kilosunun besin olduğunu söyler; kalanı taşıyıcı maddedir. Bu yüzden "dönüme kaç kilo gübre" sorusunun cevabı tek bir sayı değildir. Bitkinin ihtiyacı saf besin cinsinden verilir; sizin torbanızdaki yüzdeye göre o saf besine karşılık gelen gübre miktarı ayrıca hesaplanır. Bu yazıda formülü ve üç örnek hesabı veriyoruz. Gübre etiketini okumak için [gübre torbası etiketi nasıl okunur](/gubre-etiketi-okuma) yazısı, NPK mantığı için [NPK nedir](/npk-nedir-gubre-etiketi) yazısı yardımcı olur. Not: Aşağıdaki sayılar hesap örneğidir, tavsiye değildir; gerçek ihtiyaç toprak analizi ve bitkiye göre belirlenir.
+
+## Dönüme kaç kilo gübre sorusunda ilk soru: neyi hesaplıyoruz?
+
+Dönüme kaç kilo gübre sorusunun cevabı üç bilgiye bağlıdır: bitkinin dekar başına saf besin ihtiyacı, toprağın mevcut besin durumu ve elinizdeki gübrenin yüzdesi. İlk ikisi toprak analiziyle ve bitkiye özgü tavsiyelerle belirlenir; üçüncüsü torbada yazar. Bu yazıdaki hesap yalnızca ilk iki bilgi elinizdeyken üçüncüsünü kilograma çevirir. Organik madde ve solucan gübresi gibi düşük yüzdeli ürünlerde dekara düşen miktar yüksek çıkar; bunun için [solucan gübresi dekara ne kadar atılır](/solucan-gubresi-dekara) yazısı ayrı bir çerçeve sunar.
+
+## Dönüme kaç kilo gübre atılacağını bulmak için dört bilgi
+
+Hesabı yapmadan önce şu dört bilgiyi toplayın: tarlanın dekar cinsinden alanı, toprak analiz raporundaki besin durumu, ekilecek bitki ve gübrenin besin yüzdeleri. Bu dört bilgi olmadan verilen rakamlar tahmindir.
+
+## Dönüm ve dekar
+
+Hesapta alan birimi önemlidir. Resmî ölçü birimi dekardır ve 1 dekar = 1000 m²'dir; halk arasında "dönüm" çoğu yerde dekar ile aynı anlamda kullanılır. Tarihi dönüm ise bölgeye göre yaklaşık 919 m² ile 2500 m² arasında değişmiştir ([Vikipedi, dönüm](https://tr.wikipedia.org/wiki/D%C3%B6n%C3%BCm)). Gübre tavsiyeleri dekar başına verildiği için, tapunuzdaki alanı dekar olarak yazın ve hesabı buna göre yapın.
+
+## Saf besin nedir?
+
+Toprak analiz raporları ve gübre tavsiyeleri besinleri saf madde olarak verir: azot (N), fosfor (P₂O₅) ve potasyum (K₂O). Tarım ve Orman Bakanlığı'nın gübre tavsiyeleri yayınında da saf madde ve gübre miktarı arasındaki ilişki bu şekilde kurulur ([TAGEM, gübre tavsiyeleri](https://www.tarimorman.gov.tr/TAGEM/Belgeler/yayin/TOPRAKSU%20G%C3%9CBRE%20TAVS%C4%B0YE%20%20Verileri.pdf)). Torbadaki rakamlar da bu saf madde yüzdelerini yazar: 20-20-20 gübrenin %20'si azot, %20'si P₂O₅, %20'si K₂O'dur.
+
+Fosfor ve potasyumun etikette elementin kendisi (P, K) değil oksit formu (P₂O₅, K₂O) olarak yazıldığına dikkat edin; kimyevi gübrelerde bu geleneksel gösterimdir. Dönüşümleri yapmanız gerekmez; etiketteki ve raporlardaki P₂O₅ ve K₂O değerlerini doğrudan kullanın.
+
+## Formül: D = S × (100 ÷ yüzde)
+
+Dekara verilecek gübre miktarı (D), dekara gereken saf besin (S) ile gübredeki besin yüzdesinin tersinin (100 ÷ yüzde) çarpımıdır. Bakanlık ve Milli Eğitim Bakanlığı materyalleri bu çarpanı kullanır ([MEB, kimyasal gübreleme](https://megep.meb.gov.tr/mte_program_modul/moduller_pdf/Kimyasal%20G%C3%BCbreleme%201.pdf)).
+
+::: adimlar
+Saf besin ihtiyacını öğrenin | Toprak analizi ve bitki türüne göre dekara kaç kg N, P₂O₅, K₂O gerektiğini ziraat mühendisinden ya da il/ilçe tarım müdürlüğünden alın.
+Gübre yüzdesine bakın | Torbadaki oranı bulun (ör. 20-20-20, %46 N).
+Çarpanı bulun | 100 ÷ besin yüzdesi (%20 için 5, %46 için 2,17).
+Çarpın | Saf besin ihtiyacını çarpanla çarpın; sonuç dekara düşen gübre kg'ıdır.
+Alanla çarpın | Dekar sayınızla çarpıp toplam torba sayısını bulun.
+:::
+
+## Örnek 1: 20-20-20 gübre
+
+Dekara 5 kg saf azot (N) isteyen bir bitki düşünelim. 20-20-20 gübrede çarpan 100 ÷ 20 = 5'tir. 5 × 5 = 25 kg 20-20-20 gerekir. Bu 25 kg gübre aynı zamanda 5 kg P₂O₅ ve 5 kg K₂O da verir; yani fosfor ve potasyum ihtiyacınız farklıysa fazla ya da eksik kalabilir. Çok elementli gübrelerde miktar en çok ihtiyaç duyulan elemente göre belirlenir; kalan eksikleri tek elementli gübreyle tamamlarsınız.
+
+## Örnek 2: üre (%46 azot)
+
+Aynı 5 kg saf azot için %46'lık üre kullanacaksanız çarpan 100 ÷ 46 = 2,17'dir. 5 × 2,17 ≈ 10,9 kg üre gerekir. Üre yalnızca azot verir; fosfor ve potasyum için ayrı gübre gerekir. Üre azotu hızlı verir ve yanma riski taşır; bu yüzden bölünmüş uygulama genellikle tercih edilir.
+
+## Örnek 3: DAP (18-46-0)
+
+Dekara 8 kg P₂O₅ gerekiyorsa DAP'ta (%46 P₂O₅) çarpan 2,17'dir: 8 × 2,17 ≈ 17,4 kg DAP. DAP aynı zamanda %18 azot içerir; yani 17,4 kg DAP yaklaşık 3,1 kg saf azot da verir (17,4 × 0,18). Bu azotu toplam azot ihtiyacından düşebilirsiniz. Yani fosforu DAP'la verirken azotun bir bölümünü de karşılamış olursunuz.
+
+| Gübre | Besin | Çarpan (100 ÷ %) | 5 kg saf besin için gübre |
+|---|---|---|---|
+| 20-20-20 | %20 N | 5 | 25 kg |
+| Üre | %46 N | 2,17 | 10,9 kg |
+| DAP | %46 P₂O₅ | 2,17 | 10,9 kg (8 kg P₂O₅ için 17,4 kg) |
+| Amonyum sülfat | %21 N | 4,76 | 23,8 kg |
+
+## Toplam alana çevirme
+
+Dekara düşen miktarı toplam alanla çarpın. 12 dekarlık tarlada dekara 25 kg gübre gerekiyorsa 300 kg gübre, 20 kg'lık torbayla 15 torba demektir. Torba sayısını bir iki torba fazlaya yuvarlayın; düzensiz serpmeden dolayı payı olsun.
+
+## Toprak analizi olmadan olmaz
+
+Bu hesap yalnızca ikinci adımdır; ilk adım ihtiyacı bilmektir. Toprak analizi ne eksik, ne fazla olduğunu söyler. Analiz sonucu olmadan verilen gübre israf olabilir, hatta zarar verebilir. Toprak örneği alma ve analiz için il ve ilçe tarım müdürlüklerine başvurabilirsiniz; gübre dozu konusunda ziraat mühendisine danışın. Organik gübre kullanıyorsanız (solucan gübresi, kompost) besin yüzdeleri düşüktür; ambalaj analizine göre aynı hesabı yapabilirsiniz, ama toprağa organik madde katkısını da düşünün.
+
+[ürün:kati-solucan-gubresi-20-kg,1-ton-solucan-gubresi-fiyati]
+
+## Sık yapılan hatalar
+
+- **Torba kilosunu saf besin sanmak:** 25 kg 20-20-20 gübre 25 kg azot değildir; 5 kg saf azottur.
+- **Çarpanı unutmak:** Saf besin ihtiyacını doğrudan gübre miktarı sanmak.
+- **Çok elementli gübreyi tek element için hesaplamak:** Diğer elementler fazla verilir.
+- **Dekar ve dönümü karıştırmak:** Alan hatası doğrudan doz hatasına dönüşür.
+- **Tek seferde vermek:** Azotu bölmek, kayıpları azaltır.
+@sss
+S: Dönüme kaç kilo gübre atılır?
+C: Tek bir cevap yoktur. Önce toprak analizi ve bitkiye göre dekara gereken saf besini öğrenin, sonra bunu 100 ÷ gübre yüzdesiyle çarpın. Örneğin 5 kg saf azot için %20 azotlu gübreden 25 kg gerekir.
+
+S: Saf besin ne demek?
+C: Gübrenin içindeki gerçek besin elementi miktarıdır: azot (N), fosfor (P₂O₅) ve potasyum (K₂O). 25 kg'lık 20-20-20 torbasında 5 kg saf azot, 5 kg P₂O₅ ve 5 kg K₂O bulunur.
+
+S: Üre ile 20-20-20 arasında miktar farkı neden var?
+C: Üre %46 azot içerir, 20-20-20 ise %20. Aynı miktar saf azot için üreden yaklaşık 2,2 kat daha az gübre gerekir; ama 20-20-20 fosfor ve potasyum da verir, üre vermez.
+
+S: Dönüm ile dekar aynı mı?
+C: Resmî birim dekardır (1000 m²). Halk arasında dönüm çoğu yerde dekar yerine kullanılır, ama tarihî dönüm bölgeye göre farklıdır. Gübre tavsiyeleri dekar başına verildiği için alanınızı dekar olarak hesaplayın.
+
+### SORU
+yayin: 2027-04-05 12:20
+kategori: bahce-ipuclari
+baslik: Yatağıma kaç torba toprak almalıyım, 120x80x30 cm?
+metin: 120 cm uzunluğunda, 80 cm genişliğinde, 30 cm derinliğinde bir sebze yatağım var. 20 litrelik torbalardan kaç tane almam gerekir?
+@cevap Hatice Kübra Çelik | 2
+Hesap: 1,2 × 0,8 × 0,3 = 0,288 m³, yani 288 litre. Oturma ve üst boşluk için yüzde 10-15 ekleyin: yaklaşık 320-330 litre. 20 litrelik torbayla bu 16-17 torba eder. İlk dolumda 17 torba alın, bir ay sonra çöken toprağı bir iki torbayla tamamlayabilirsiniz. Toprağın tamamı torbalı karışım olmak zorunda değil; alt kısma bahçe toprağı ya da olgun kompost koyup üst 15 cm'yi hazır karışımla doldurmak da mümkündür, ama bu durumda hacimleri ayrı hesaplayın.
+
+### SORU
+yayin: 2027-04-05 15:10
+kategori: bitki-bakimi
+baslik: Filodendron yapraklarım küçülüyor ve boğum araları uzuyor, nedeni nedir?
+metin: Kalp yapraklı filodendronumda yeni çıkan yapraklar eskilere göre çok küçük, sürgün boyu da uzuyor. Düzenli sulayıp ayda bir gübre veriyorum.
+@cevap Muhammed Hamza Çelik | 2
+Küçülen yapraklar ve uzayan boğum araları ışık yetersizliğinin tipik belirtisidir. Bitki ışığa uzanıyor. Saksıyı daha aydınlık bir pencereye alın; doğrudan güneş olmasın ama parlak dolaylı ışık alsın. Gübreyi artırmak sorunu çözmez; ışık düzelince yeni yapraklar büyür. Uzamış sürgünleri bir boğum üstünden kesip dallandırabilir, kestiğiniz parçaları suda köklendirip aynı saksıya dikebilirsiniz.
+
+### SORU
+yayin: 2027-04-05 18:30
+kategori: gubreleme
+baslik: Tarlada 20-20-20 yerine üre kullanırsam miktar aynı mı olur?
+metin: Dönüme 25 kg 20-20-20 atacaktım ama elimde üre var. Aynı miktarda atabilir miyim?
+@cevap Mikdat Çelik | 2
+Hayır, miktarlar aynı olmaz. 25 kg 20-20-20, 5 kg saf azot verir. Aynı 5 kg saf azot için %46'lık üreden yaklaşık 10,9 kg gerekir. Ama 20-20-20 fosfor ve potasyum da veriyordu; üre vermez. İhtiyacınız yalnızca azotsa ürenin 10-11 kg'ı yeter; fosfor ve potasyum ihtiyacı da varsa onları ayrı gübreyle karşılamanız gerekir. Doz için toprak analizi sonucuna bakın ve ziraat mühendisine ya da il/ilçe tarım müdürlüğüne danışın.

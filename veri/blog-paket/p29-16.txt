@@ -1,0 +1,181 @@
+### YAZI
+slug: dekara-fidan-sayisi
+baslik: Dekara Fidan Sayısı: Meyve Ağacında Sıra ve Dikim Mesafeleri Tablosu
+yayin: 2027-02-18 10:20
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: dekara fidan sayısı
+seo_baslik: Dekara Fidan Sayısı: Meyve Ağacı Dikim Mesafeleri
+seo_aciklama: Dekara fidan sayısı nasıl hesaplanır? Sıra arası ve sıra üzeri mesafeden formül, elma, şeftali ve kiraz için örnek tablo ve sık dikim farkı.
+ozet: Dekara fidan sayısı, 1000 metrekareyi bir ağacın kapladığı alana bölerek bulunur. Sıra arası ve sıra üzeri mesafeden formülü, klasik ve sık dikimde elma, şeftali ve kirazın örnek rakamlarını, tabloyu ve hesabı bozan hataları anlattık.
+etiketler: dekara fidan sayısı, dikim mesafesi, meyve bahçesi, sıra arası, sık dikim, fidan hesabı
+gorsel: bekliyor
+gorsel_alt: Meyve bahçesinde ip ve kazıkla işaretlenmiş dikim sıraları ve yan yana duran fidanlar
+urunler: hg-fidan-topragi
+kisaca: Dekara fidan sayısı, 1000 m² değerini sıra arası ile sıra üzeri mesafenin çarpımına bölerek bulunur; 5x5 m dikimde dekara 40 fidan düşer. Kuvvetli anaçlı klasik elma bahçesinde dekara yaklaşık 30-35, sık dikimde 80-100 ve üzeri ağaç sayılır. Mesafe, anaç, çeşit ve toprağa göre değişir.
+@govde
+Fidan siparişi vermeden önce bir sayıya ihtiyacınız vardır: Arazime kaç fidan girer? Cevap, ağacın ulaşacağı boyuta bağlıdır; çünkü fidanlar bugünkü küçük halleriyle değil, yirmi yıl sonraki taç genişlikleriyle dizilmelidir. Dekara fidan sayısı hesabı basit bir bölme işlemidir, ama dikim mesafesi seçimi bahçenin gelecek yıllarını belirler. Aşağıda formülü, farklı meyvelerin örnek mesafelerini, bir tabloyu ve hesabı bozan yaygın hataları anlatıyoruz. Dikim öncesi çukur hazırlığı için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısına da bakabilirsiniz.
+
+## Dekara fidan sayısı formülü
+
+Bir dekar 1000 metrekaredir. Her ağaç, sıra arası ile sıra üzeri mesafenin çarpımı kadar alan kaplar. Bu yüzden:
+
+**Dekara fidan sayısı = 1000 ÷ (sıra arası × sıra üzeri)** (mesafeler metre cinsinden)
+
+Örnek: Sıra arası 5 m, sıra üzeri 4 m ise bir ağaç 20 m² alan kaplar; 1000 ÷ 20 = 50 fidan. Sıra arası ve sıra üzeri 6 m ise 1000 ÷ 36 ≈ 28 fidan eder. Arazinin kenarlarında ve yol payında kayıp olacağı için gerçek sayı biraz daha düşük çıkar; arazinizi ölçüp fidan sıralarını planlayarak gerçek rakamı bulun.
+
+Michigan State Üniversitesi uzantısı aynı mantığı akre üzerinden gösterir: 43.560 ayak kareyi bir ağacın kapladığı alana bölmek ve 40x40 ayak (yaklaşık 12x12 m) dikimin akrede yaklaşık 28 ağaç ettiğini hesaplamak ([MSU Extension: meyve bahçesini planlamak ve dikmek](https://archive.lib.msu.edu/DMC/extension_publications/F123/F123.pdf)). Akreyi dekara çevirmek için 4,05'e bölebilirsiniz.
+
+## Dikim mesafesini ne belirler?
+
+Aynı meyvede bile mesafe büyük değişir, çünkü belirleyici olan tür kadar anaçtır. University of Maine uzantısı, en uygun mesafenin ağacın olgunlaştığında ulaşacağı boyuta ve bölgeye bağlı olduğunu yazar ([University of Maine Extension: bahçede ağaç aralığı](https://extension.umaine.edu/fruit/growing-fruit-trees-in-maine/spacing/)). Dört şey mesafeyi etkiler:
+
+- **Anaç:** Kuvvetli anaçlı ağaç büyük taç yapar ve geniş alan ister; cüce anaç sık dikilebilir.
+- **Çeşit:** Dik büyüyen çeşit sıkışık dikime, yayılan çeşit geniş mesafeye uygundur.
+- **Toprak:** Derin ve verimli toprakta ağaç büyür, mesafe artar; zayıf toprakta küçük kalır.
+- **Terbiye şekli:** Vazo, merkezi lider ya da kordon, taç genişliğini belirler.
+
+## Örnek mesafeler ve dekar hesabı
+
+Aşağıdaki tablo uzantı kaynaklarındaki örnek rakamları metreye ve dekara çevirir; sizin çeşit ve anacınız için üreticinin tavsiyesine bakın.
+
+| Meyve ve dikim biçimi | Mesafe (yaklaşık) | Dekara fidan |
+|---|---|---|
+| Elma, klasik kuvvetli anaç | 6,7 x 4,9 m | yaklaşık 33 |
+| Elma, sık dikim (cüce anaç) | 4,9 x 2,4 m | yaklaşık 82 |
+| Elma, çok sık dikim | 4,6 x 2,1 m | yaklaşık 100 |
+| Şeftali, kayısı, erik (vazo, küçük alan) | 3 x 4,6 m | yaklaşık 72 |
+| Vişne | 4,3 - 6,1 m (her iki yönde) | yaklaşık 27-54 |
+| Kiraz | 6,1 - 10,7 m (her iki yönde) | yaklaşık 9-27 |
+
+Elma rakamları Virginia Tech uzantısından gelir: Yoğun bahçeler genellikle 16x8 ayak (akrede 332 ağaç) ya da 15x7 ayak (akrede 405 ağaç) dikilir ([Virginia Tech Extension: yoğun bahçelerde elma terbiyesi](https://www.pubs.ext.vt.edu/422/422-024/422-024.html)). Klasik, kuvvetli anaçlı bahçe için Montana State yaklaşık 50 ağaç/akre ile, yüksek yoğunluklu uzun iğ sisteminde 1000'in üzerinde ağaç/akre arasındaki farkı gösterir ([Montana State: bahçe tasarımı](https://agresearch.montana.edu/warc/guides/Orchard_Design.html)). Şeftali ve benzeri için MSU, küçük alanlarda vazo biçiminde 10x15 ayak mesafeyi önerir; vişne için Oregon State yaklaşık 14-20 ayak, kiraz için 20-35 ayak aralığını verir ([Oregon State Extension: evde meyve ve kuruyemiş ağaçları](https://extension.oregonstate.edu/catalog/ec-819-growing-tree-fruits-nuts-home)).
+
+Tabloya zeytin, badem ve nar gibi Akdeniz türlerini koymadık; çünkü verdiğimiz kaynaklar bu türler için mesafe vermiyor. Bu türlerin mesafeleri için kendi yazılarına bakın: [zeytin fidanı dikimi](/zeytin-fidani-dikimi) ve [badem bahçesi kurmak](/badem-bahcesi-kurmak).
+
+## Hesap adım adım
+
+::: adimlar
+Arazi ölçüsünü yazın | Net dikim alanını metrekare olarak ölçün; yol ve kenar payını çıkarın.
+Meyve, çeşit ve anacı belirleyin | Fidanın anacını fidancıdan öğrenin; mesafeyi anaç belirler.
+Sıra arası ve sıra üzeri seçin | Makine geçişini ve taç genişliğini düşünerek iki mesafeyi seçin.
+Formülü uygulayın | 1000 ÷ (sıra arası × sıra üzeri) ile dekara fidan sayısını bulun.
+Toplam fidan sayısını hesaplayın | Dekar sayısıyla çarpın ve eksik kalacak yerlere yüzde 3-5 yedek ekleyin.
+Dikim yerlerini işaretleyin | İp ve kazıkla sıraları işaretleyin, sonra çukurları açın.
+:::
+
+Yüzde 3-5 yedek, bir genel pratik sayısıdır, kaynaklı bir değer değildir; tutmayan fidan için küçük bir pay bırakmanın mantığını anlatır. Dikim planının toplam maliyeti için [fidan çukuru](/fidan-cukuru-nasil-hazirlanir) ve fidanın kendisi hesaba girer.
+
+[ürün:hg-fidan-topragi]
+
+## Hesabı bozan hatalar
+
+Dekara fidan sayısı hesabında bir de zaman boyutu vardır: Sık dikilen bahçe ilk yıllarda birim alandan daha çok ürün verir, ama aradan on beş yıl geçince ağaçlar birbirine girer ve seyreltmek gerekir. Seyreltme kararını baştan planlayan üretici, geçici ağaçları (dolgu ağaçları) belirli bir yaşta kaldırır. Bu planı yapmayan bahçede ise ağaçlar yarışır, taç içi gölgelenir ve meyve kalitesi düşer; yani tabloda gördüğünüz sayı bir ömür boyu değil, bir dönem için geçerlidir.
+
+İlk hata, bugünkü fidan boyuna göre dikmektir. Elinizdeki fidan bir metrelik bir çubuktur ama yirmi yıl sonra yedi metrelik bir taç olacaktır. İkinci hata, sıra arasını makineye göre değil gözle seçmektir: Traktör ya da ilaçlama makinesi sıradan geçemiyorsa bahçe ilk yıllardan sonra işlenemez; bu yüzden makine genişliğini önceden ölçün ([bahçe traktörü seçimi](/bahce-traktoru-secimi) yazısında bu hesabın makine tarafı var). Üçüncü hata, sık dikimin getirdiği ek gereksinimleri atlamaktır: Sık dikimde destek teli, daha yoğun sulama ve budama gerekir; ilk yıllarda hızlı verim sağlar ama yatırım ve işçilik artar.
+
+Meyve ağaçlarının kök ve çukur bakımının ardından, dikim sonrası sulama ve gübreleme için [meyve fidanı dikimi](/meyve-fidani-dikimi) yazısı sıralı adımları gösterir. Ürün bilgisinde meyve fidanı dikiminde çukura fidan başına 1,5-2 kg solucan gübresi önerilir; miktarı toprak analizine göre ayarlayın.
+@sss
+S: Dekara kaç fidan dikilir?
+C: Sıra arası ile sıra üzeri mesafenin çarpımına 1000'i bölerek bulunur; 5x5 m dikimde dekara 40 fidan düşer. Klasik elma bahçesinde yaklaşık 30-35, sık dikimde 80-100 ve üzeri ağaç sayılır. Mesafe anaca, çeşide ve toprağa göre değişir.
+
+S: Fidan sıra arası kaç metre olmalı?
+C: Meyvenin türüne ve anacına bağlıdır; cüce anaçlı elmada 4-5 m, kuvvetli anaçta 6-7 m ve kirazda daha geniş mesafe verilir. Makine geçişi için sıra arası traktörün genişliğine göre ayarlanmalıdır. Üreticiden ve fidancıdan anaç bilgisini alın.
+
+S: Sık dikim neden tercih edilir?
+C: Sık dikimde ağaç küçük kalır ve daha erken verime geçer, birim alandan ilk yıllarda daha fazla ürün alınır. Karşılığında destek, budama, sulama ve fidan maliyeti artar. Bu yüzden sık dikim, bilinçli yönetim gerektirir.
+
+S: Ağaçlar çok sık dikilirse ne olur?
+C: Taçlar birbirini gölgeler, hava dolaşımı azalır ve hastalık baskısı artar; meyve kalitesi ve renk düşer. Budama ve ilaçlama zorlaşır. Düzeltmek için ağaç seyreltme gerekir, bu da gelir kaybı demektir.
+
+### YAZI
+slug: gubre-serpme-makinesi
+baslik: Gübre Serpme Makinesi: Seçimi ve Kalibrasyonu (Tarla ve Çim İçin)
+yayin: 2027-02-18 12:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: gübre serpme makinesi
+seo_baslik: Gübre Serpme Makinesi: Seçimi ve Kalibrasyonu
+seo_aciklama: Gübre serpme makinesi nasıl seçilir ve ayarlanır? Savurmalı ve damlamalı tip farkı, çalışma genişliği, kalibrasyon adımları ve pas aralığı.
+ozet: Gübre serpme makinesi, granül gübrenin eşit dağılmasını sağlar; ama etiket ayarına güvenmek yetmez, kalibrasyon gerekir. Savurmalı ve damlamalı tipin farkını, çalışma genişliğini, toplama tepsisiyle ayar adımlarını ve pas aralığını anlattık.
+etiketler: gübre serpme makinesi, kalibrasyon, savurmalı serpici, damlamalı serpici, çim gübreleme, tarla gübreleme
+gorsel: bekliyor
+gorsel_alt: Çimde yürürken önde bir gübre serpme makinesini iten kişi ve yerdeki şeritler
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Gübre serpme makinesi iki ana tiptir: Savurmalı tip hızlıdır ama dağılımı kenarlarda zayıflar; damlamalı tip daha düzgün serer ama dar şeritle çalışır. Etiketteki ayar yalnız başlangıçtır; makineyi bilinen alanda, tepsili toplama testiyle kalibre edin, pasları etkili çalışma genişliğine göre geçin.
+@govde
+Çimde ya da tarlada gübreyi elle serpmek ilk iki üç metrede kolay görünür; sonra bir yerde kalın, bir yerde seyrek kaldığı fark edilir. Sararmış çim bantları, yanık izleri ve tarlada düzensiz gelişen bitki, çoğu zaman eşit olmayan gübre dağılımının sonucudur. Gübre serpme makinesi bu sorunu çözer; ama doğru tipi seçmek ve kalibre etmek şarttır, çünkü aynı ayar farklı gübrede, farklı yürüme hızında farklı miktar verir. Aşağıda tipleri, çalışma genişliğini ve kalibrasyon adımlarını anlatıyoruz. Gübre türü konusunda önce [sıvı gübre mi katı gübre mi](/sivi-gubre-mi-kati-gubre-mi) yazısına bakabilirsiniz.
+
+## Gübre serpme makinesi tipleri
+
+Çimde ve küçük alanda iki tip yaygındır. Savurmalı (rotary, döner) serpicide gübre bir döner diske düşer ve çevreye savrulur. Damlamalı (drop) serpicide gübre makinenin genişliği boyunca dizili deliklerden yere bırakılır. Missouri Üniversitesi uzantısı damlamalı serpicilerin genellikle daha hassas olduğunu, ama direksiyon hatalarında atlanan ya da çift gübrelenen şeritler bırakabildiğini; savurmalıların ise daha hızlı ama kalibrasyonu zor ve dağılımı daha düzensiz olduğunu yazar ([Missouri Extension: bahçe ekipmanını kalibre etmek](https://extension.missouri.edu/wq551)).
+
+| Tip | Güçlü yanı | Zayıf yanı | Uygun yer |
+|---|---|---|---|
+| Savurmalı (döner) | Hızlı, geniş alan | Dağılım merkezde yoğun, kenarlara azalır | Orta ve büyük çim, tarla |
+| Damlamalı | Düzgün, kenarı net | Dar şerit, yavaş, pas atlama riski | Küçük çim, kenar, hassas iş |
+| El tipi (omuz askılı) | Ucuz, taşınabilir | Yorucu, düzensiz | Çok küçük alan, kenarlar |
+| Traktör arkası (tarla) | Büyük alan | Yatırım ve hazırlık | Tarla |
+
+Tarla için ise büyük alanlarda traktöre takılan savurmalı ya da pnömatik serpiciler kullanılır; tarla ölçeğinde güç ve çalışma genişliği bahçe tipinden farklı hesaplanır, bunun için makine kataloğu ve ilgili yöntem rehberi gerekir.
+
+## Etkili çalışma genişliği ve pas aralığı
+
+Savurmalı serpicide gübrenin saçıldığı toplam mesafe, etkili çalışma genişliğinden büyüktür. Clemson Üniversitesi, savurmalı serpicinin materyali en çok önüne bıraktığını ve kenarlara doğru azalttığını, bu yüzden etkili çalışma genişliğinin atış mesafesinden dar olduğunu belirtir ([Clemson HGIC: serpicileri kalibre etmek](https://hgic.clemson.edu/factsheet/calibrating-spreaders/)). Penn State ve Arizona uzantıları etkili genişliği bulmak için yere dizilen sığ tepsilerle birkaç geçiş yapılmasını ve merkezdeki tepsiye göre yarıya düşen yere kadar olan mesafenin alınmasını önerir ([Penn State Extension: gübre serpicisini kalibre etmek](https://extension.psu.edu/calibrating-your-fertilizer-spreader)).
+
+Pas aralığı, etkili genişliğe eşit olmalıdır; bir geçişin dış kenarı bir önceki geçişin çizgisine ulaşmalıdır. UMass, gübre için tipik pas aralığının yaklaşık 8-10 ayak (2,4-3 m) olduğunu belirtir; tohum için daha dar aralık önerilir. Damlamalı serpicide etkili genişlik hazne genişliğine eşittir; UMass bunun 22-42 inç (yaklaşık 55-107 cm) aralığında olduğunu yazar ([UMass: damlamalı serpici kalibrasyonu](https://www.umass.edu/agriculture-food-environment/home-lawn-garden/fact-sheets/drop-spreader-calibration-procedures)).
+
+## Kalibrasyon: adım adım
+
+Etiketteki ayar bir başlangıç noktasıdır. Clemson, her ürün ve her kullanıcı için ayrıca kalibre etmeyi önerir; çünkü yürüme hızı ve granül yapısı çıkışı değiştirir. Kalibrasyonun temel mantığı, bilinen alana ne kadar gübre düştüğünü ölçmek ve hedef dozla karşılaştırmaktır.
+
+::: adimlar
+Hedef dozu belirleyin | Gübrenin etiketindeki ya da analize göre belirlenen miktarı bin metrekareye ya da dekara çevirin.
+Test şeridini ölçün | Örnek: 3 m çalışma genişliği ve 30 m uzunluk, yani 90 m² alan.
+Hazneye tartılı gübre koyun | Tartılı bir miktar koyun ve ayarı bir başlangıç değerine getirin.
+Test şeridini geçin | Normal hızla yürüyüp şeridi geçin; savurmalıda tepsi ya da toplama bezi kullanın.
+Düşen gübreyi tartın | Toplanan ya da hazneden eksilen miktarı tartın.
+Ayarı düzeltin | Düşen miktar hedefin üstündeyse ayarı kısın, altındaysa açın; testi tekrarlayın.
+Ayarı kaydedin | Gübre türü, ayar ve yürüme hızını bir deftere yazın; bir sonraki kullanımda işe yarar.
+:::
+
+Penn State'in çalışılmış örneği hedefi 1.000 ayak karede 1,6 lb, çalışma genişliğini 3 ayak ve test şeridini 100 ayak alarak, test için yaklaşık 0,5 lb ürünün gerektiğini hesaplar; mantık metrik sisteme aynen taşınır: Test alanını (genişlik × uzunluk) hedef dozla çarpın, ne kadar gübre düşmesi gerektiğini bulun.
+
+Hesabı kolaylaştırmak için: Dekara hedef gübre kg ise ve test alanı 90 m² ise, düşmesi gereken miktar = hedef kg/dekar × 0,09 olur. Örnek olarak ürün bilgisinde çim için katı solucan gübresinin dekara 100-125 kg önerildiği yazar; bu miktar bahçe ölçeğinde elle ya da serpiciyle çok geniş bir alana yayılır. Bu önerilen miktarla 90 m²'lik test şeridine yaklaşık 9-11 kg gübre düşmesi gerekir; serpicinin ayarı bu kadar çıkış verecek biçimde açık olmalıdır. Bu tür organik, nemli ya da kümelenmiş gübrelerde serpici ağzı tıkanabilir; gübre kuru ve ufalanmış olmalıdır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Çim ve tarla için pratik ipuçları
+
+Gübre serpme makinesi kullanırken en güvenli alışkanlık, yarım dozla iki yönde geçmektir: Önce hedef dozun yarısını uzunlamasına, ikinci yarısını enlemesine serpersiniz. Böylece bir geçişteki küçük kaçıklar ikinci geçişte kapanır ve şerit izi kalmaz. Haznedeki gübrenin nemli ya da topaklı olması çıkışı bozar; hazneyi her kullanımdan önce kontrol edin, topakları ezin ve makineyi yamaçta ya da dönüşlerde açık bırakmayın; çünkü dönüş sırasında ayarı açık bırakılan makine aynı noktaya fazla gübre bırakır.
+
+Çimde, kenarlardan başlayıp ortaya doğru ya da dikey iki yönde (çapraz) pas atmak kaçıkları azaltır. Kenarda savurmalı serpici gübreyi yola ya da çiçek yatağına atabilir; bu yüzden kenarı damlamalı ya da elle yapın. Çim gübrelemesinin zamanı ve miktarı için [sonbahar çim gübresi](/sonbahar-cim-gubresi) yazısına, çim ekimi için [çim tohumu nasıl ekilir](/cim-tohumu-nasil-ekilir) yazısına bakabilirsiniz. Gübre etiketini okumak için [NPK nedir](/npk-nedir-gubre-etiketi) yazısı yararlıdır.
+
+Tarlada serpici seçerken çalışma genişliği ve hacim, işlenen alana göre belirlenir. Rüzgârlı günde serpmek dağılımı bozar; sakin havada çalışın. Yağmur beklenmeden hemen önce ya da sulamadan hemen önce serpilen gübre yıkanır; zamanlama için [gübreleme zamanı](/gubreleme-zamani) yazısına bakın. Makineyi her kullanımdan sonra yıkayıp kurutun; gübre tuzları metali aşındırır.
+@sss
+S: Gübre serpme makinesi nasıl kalibre edilir?
+C: Bilinen bir şeridi (örneğin 3 m x 30 m) tartılı gübreyle geçin, düşen ya da hazneden eksilen gübreyi tartın ve hedef dozla karşılaştırın; çıkış fazlaysa ayarı kısın, azsa açın ve testi tekrarlayın. Etiket ayarı yalnız başlangıçtır.
+
+S: Savurmalı mı damlamalı mı serpme makinesi?
+C: Savurmalı hızlıdır ama kalibrasyonu zor ve dağılımı daha düzensizdir; damlamalı daha düzgündür ve kenarı nettir ama dar şeritle çalışır. Orta ve büyük çimde savurmalı, küçük ve hassas alanda damlamalı seçilir.
+
+S: Gübre serpme makinesinde pas aralığı ne olmalı?
+C: Etkili çalışma genişliğine eşit olmalıdır; bir geçişin dış kenarı öncekinin çizgisine ulaşmalıdır. Savurmalıda etkili genişlik atış mesafesinden dardır ve tepsili testle bulunur. UMass tipik gübre pas aralığını yaklaşık 2,4-3 m olarak verir.
+
+S: Rüzgârlı günde gübre serpilebilir mi?
+C: Önerilmez; rüzgâr savurmalı serpicinin dağılımını bozar ve gübre hedef dışına taşınır. Sakin havada serpin. Yağmur ya da sulamadan hemen önce serpmek de gübrenin yıkanıp gitmesine yol açabilir.
+
+### SORU
+yayin: 2027-02-18 15:15
+kategori: sebze-meyve
+baslik: Dekara fidan sayısı hesabında kenarlardan pay bırakmak gerekir mi?
+metin: 5 dekarlık arazimde 5x4 m dikim yapacağım. Formülle hesapladığımda 250 fidan çıktı. Kenarları ve yolu düşünmem gerekir mi?
+@cevap Mikdat Çelik | 2
+Evet. Formül yalnız net dikim alanı için geçerlidir; yol, kenar payı, sulama kanalı ve makine dönüş yeri hesabın dışında kalır. Arazinizi ölçüp bu alanları çıkardıktan sonra net alan üzerinden hesaplayın. Örnek: 5x4 m dikimde dekara 50 fidan düşer; 5 dekar net alan varsa 250 fidan eder, ama kenar ve yol payından sonra net alan 4,5 dekara inerse yaklaşık 225 fidan gerekir. İp ve kazıkla sıraları işaretleyip gerçek yerleşimi sayın; tutmayan fidanlar için küçük bir yedek bırakmak yerindedir.
+
+### SORU
+yayin: 2027-02-18 17:30
+kategori: bahce-ipuclari
+baslik: Çimde serpme makinesiyle gübre attım, şerit şerit sarardı, neden?
+metin: Savurmalı serpiciyle çim gübreledim. İki hafta sonra bazı şeritler koyu yeşil, bazıları sarı. Makine arızalı mı?
+@cevap Rümeysa Altınova | 3
+Büyük olasılıkla arıza değil, pas aralığı ve kalibrasyon sorunudur. Savurmalı serpicide gübre merkezde yoğun, kenarlarda seyrek düşer; paslar etkili genişliğe göre değil atış mesafesine göre geçilirse bazı şeritler çift, bazıları eksik gübrelenir. Koyu şeritler çift gübreleme, sarı şeritler eksik gübrelemedir. Önlem için makineyi tepsili testle kalibre edin, pas aralığını etkili genişliğe göre ayarlayın ve gübreyi iki yönde, yarım dozla uygulayın. Mevcut durumda çimi bol suyla sulayıp sarı şeritlere hafifçe ek gübre verebilirsiniz; koyu şeritlerde yanık varsa bol su verin.

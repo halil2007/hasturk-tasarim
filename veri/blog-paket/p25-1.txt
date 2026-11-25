@@ -1,0 +1,595 @@
+### YAZI
+slug: toprak-numunesi-nasil-alinir
+baslik: Toprak Numunesi Nasıl Alınır? Bahçe, Tarla ve Meyve Bahçesinde Doğru Yöntem
+yayin: 2026-11-13 08:35
+yazar: Mikdat Çelik
+kategori: toprak-rehberi
+odak: toprak numunesi
+seo_baslik: Toprak Numunesi Nasıl Alınır? Adım Adım Doğru Yöntem
+seo_aciklama: Toprak numunesi nasıl alınır? Tarla, bahçe ve meyve bahçesinde derinlik, nokta sayısı, zaman, paketleme ve laboratuvara gönderme adım adım.
+ozet: Toprak analizinin doğru sonuç vermesi laboratuvardan önce tarlada başlar. Yanlış yerden, yanlış derinlikten ya da kirli bir kovayla alınan numune, gübre planını baştan yanıltır. Tarla, bahçe ve meyve bahçesi için doğru numune alma yöntemini adım adım anlattık.
+etiketler: toprak numunesi, toprak analizi, numune alma, toprak testi, gübre planı, çiftçi rehberi
+gorsel: p25-toprak-numunesi
+gorsel_alt: Tarlada toprak sondasıyla alınan toprağın avuçta incelenmesi
+urunler: leonardit-organik-toprak-duzenleyici, kati-solucan-gubresi-20-kg, bahce-topragi-canlandirma-seti
+kisaca: Toprak numunesi hasattan sonra ve gübrelemeden önce, toprak tava kıvamındayken alınır. Tarla ve sebze bahçesinde 0–20 cm, meyve bahçesinde 0–30 ve 30–60 cm derinlikten; her parselde zikzak çizerek 15–20 noktadan alınan toprak temiz bir kovada karıştırılır, yaklaşık 1 kg'ı etiketli torbayla laboratuvara gönderilir.
+@govde
+Toprak analizi, gübreyi tahminle değil ölçüyle vermenin en güvenilir yoludur. Ama analiz sonucu, laboratuvara giden toprak kadar doğrudur. Tarlanın tek bir köşesinden alınan bir avuç toprak ya da gübre çuvalının dibinden kalan kovayla taşınan bir toprak numunesi, bütün araziyi temsil etmez ve yanlış bir gübre planına yol açar. Bu yazıda toprak numunesi almanın zamanını, derinliğini, nokta sayısını ve paketlemesini tarla, sebze bahçesi ve meyve bahçesi için ayrı ayrı anlattık.
+
+## Toprak numunesi ne zaman alınır?
+
+En uygun zaman, hasattan sonra ve yeni gübrelemeden önceki dönemdir. Sonbahar bu yüzden pek çok çiftçi için idealdir: ürün kaldırılmıştır, toprak henüz donmamıştır ve sonuçlar kış boyunca gelir, ilkbahar gübrelemesi buna göre planlanır. Kış sonu ve erken ilkbahar da uygundur.
+
+Dikkat edilecek birkaç kural vardır:
+
+- **Gübreden hemen sonra almayın.** Gübre ya da kireç verildiyse en az 6–8 hafta bekleyin; aksi halde sonuç gerçek durumu değil, yeni atılan gübreyi gösterir.
+- **Toprak tava kıvamında olsun.** Çamur halindeki toprak burguya yapışır ve karıştırılamaz; taş gibi kuru toprak ise derinliğe inmeyi zorlaştırır.
+- **Her yıl aynı dönemde alın.** Yıllar arasında karşılaştırma yapacaksanız numuneyi hep aynı mevsimde almak sonuçları anlamlı kılar.
+
+## Hangi derinlikten alınır?
+
+Derinlik, bitkinin köklerinin çalıştığı bölgeye göre seçilir:
+
+- **Tarla bitkileri ve sebze bahçesi:** 0–20 cm. Buğday, arpa, nohut, mısır ve sebzelerin besin aldığı katman burasıdır.
+- **Meyve bahçesi ve bağ:** İki ayrı numune alınır: 0–30 cm ve 30–60 cm. Ağaç kökleri derine indiği için alt katmanın durumu da önemlidir. İki derinlik ayrı torbalara konur, birbirine karıştırılmaz.
+- **Çim alanı:** 0–10 cm yeterlidir; çim kökleri yüzeye yakındır.
+- **Saksı ve yükseltilmiş yatak:** Kabın tamamını temsil edecek şekilde birkaç noktadan, toprak yüksekliğinin yarısına kadar alınır.
+
+Derinlik her noktada aynı olmalıdır. Bir noktada 10, diğerinde 25 cm inerseniz, karışık numune ne üst ne alt katmanı doğru gösterir.
+
+## Kaç noktadan, nasıl alınır?
+
+Tek noktadan alınan toprak, tarlanın tamamını değil yalnız o noktayı anlatır. Doğru toprak numunesi birçok noktadan alınıp karıştırılan "karma numune"dir.
+
+1. **Araziyi parsellere ayırın.** Toprak rengi, eğimi, geçmiş ürünü ya da verimi belirgin şekilde farklı olan bölümler ayrı parsel sayılır ve ayrı numune alınır. Düzgün bir tarlada genellikle 20–30 dekar için bir karma numune yeterlidir.
+2. **Zikzak çizerek yürüyün.** Parselin içinde "Z" ya da "W" şeklinde yürüyüp eşit aralıklarla 15–20 noktadan toprak alın.
+3. **Kaçınılacak yerler:** Tarla kenarları, yol ve kanal kenarı, eski gübre yığını, hayvan barınağı yeri, ağaç dibi, sap yakılmış ve su birikmiş noktalar numuneye katılmaz.
+4. **Yüzeyi temizleyin.** Her noktada üstteki ot, sap ve taşı kenara itin.
+5. **Toprağı alın.** Burgu, toprak sondası ya da bel küreği kullanılabilir. Kürekle alıyorsanız önce "V" şeklinde bir çukur açın, çukurun bir yüzünden 2–3 cm kalınlığında bir dilim kesin ve dilimin ortasındaki şeridi alın.
+6. **Temiz bir kovada karıştırın.** Bütün noktalardan gelen toprağı kovada iyice ufalayıp karıştırın; taş ve kök parçalarını ayıklayın.
+7. **Yaklaşık 1 kg ayırın.** Karışımdan yaklaşık 1 kilogramı temiz bir naylon ya da bez torbaya koyun.
+
+Mikro element (çinko, demir, mangan) analizi de istenecekse galvanizli kova ve paslı alet kullanmayın; çinko ve demir bulaşması sonucu bozar. Plastik kova ve paslanmaz alet en güvenlisidir.
+
+## Torbalama, etiket ve laboratuvara gönderme
+
+Numunenin üzerine şu bilgileri yazın ya da torbaya etiket koyun:
+
+- Ad soyad, telefon
+- Parsel adı ya da ada–parsel numarası
+- Numune derinliği (örneğin 0–20 cm)
+- Önceki ürün ve ekilecek ürün
+- Sulu mu kuru tarım mı olduğu
+
+Islak numuneyi gölgede, temiz bir kâğıdın üstüne serip kurutarak gönderin; güneşte ya da sobanın yanında kurutmayın. Numuneyi birkaç gün içinde laboratuvara ulaştırın.
+
+Toprak analizi için Tarım ve Orman Bakanlığı tarafından yetkilendirilmiş laboratuvarlara, bazı ziraat odalarına ve üniversitelerin laboratuvarlarına başvurulabilir. [Çiftçi Kayıt Sistemi](/ciftci-kayit-sistemi)'ne kayıtlı üreticiler için toprak analizine yönelik destekler zaman zaman uygulanır; koşullar her yıl yayımlanan kararla belirlendiği için güncel bilgiyi il ya da ilçe tarım müdürlüğünden alın.
+
+## Hangi analizleri istemelisiniz?
+
+Temel bir analiz paketi çoğu üretici için yeterlidir:
+
+- **pH (asitlik–bazlık):** Besinlerin alınabilirliğini belirler. Ayrıntısı için [toprak pH değeri](/toprak-ph-nedir) yazımıza bakabilirsiniz.
+- **Kireç:** Kireçli topraklarda demir ve fosfor alımı zorlaşır. [Kireçli toprakta yetişen bitkiler](/kirecli-toprakta-yetisen-bitkiler) yazısı bu durumu anlatır.
+- **Organik madde:** Toprağın canlılığını ve su tutmasını gösterir. Neden önemli olduğunu [toprakta organik madde](/toprakta-organik-madde) yazımızda anlattık.
+- **Tuzluluk (EC):** Sulanan ve drenajı zayıf arazilerde mutlaka bakılmalıdır. Belirtiler için [toprak tuzluluğu](/toprak-tuzlulugu) yazısına göz atın.
+- **Fosfor ve potasyum:** Gübre miktarını en çok belirleyen değerlerdir.
+- **Bünye (kum, kil, mil oranı):** Bir kez yaptırmanız yeterlidir; toprağın su tutma ve işlenme özelliğini gösterir.
+
+Meyve bahçeleri ve yoğun sebze üretimi için mikro element analizi de istenebilir.
+
+## Ne sıklıkla tekrarlanmalı?
+
+Tarla ve bahçede her 3–4 yılda bir analiz yaptırmak genellikle yeterlidir. Yoğun gübre kullanılan seralarda ve sebze tarlalarında bu süre 1–2 yıla iner. Yeni arazi aldığınızda, ürün deseninizi değiştirdiğinizde ya da verimde açıklanamayan bir düşüş gördüğünüzde beklemeden analiz yaptırın.
+
+Sonuçlar geldiğinde değerleri tek tek okumak kadar parseller arasındaki farka da bakın. Aynı tarlanın iki ucu birbirinden çok farklı çıkıyorsa, gübrelemeyi de iki ayrı parsel gibi yapmak hem tasarruf sağlar hem verimi dengeler. Toprak yapısı ağır ve sıkışıksa [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazısındaki yöntemler, analizle birlikte uygulanacak işleri gösterir.
+
+## Sık yapılan hatalar
+
+- Tek noktadan avuçla toprak almak
+- Gübre ya da kireç verildikten hemen sonra numune almak
+- Farklı derinlikleri aynı torbaya koymak
+- Numuneyi günlerce kapalı ve ıslak torbada bekletmek
+- Etiketsiz göndermek, sonra hangi sonucun hangi parsele ait olduğunu karıştırmak
+
+Doğru alınmış bir toprak numunesi, birkaç saatlik emekle bütün yılın gübre parasını doğru yere harcamanızı sağlar. Gübre seçimiyle ilgili sorularınız için müşteri hizmetlerimize +90 553 727 2929 numarasından ulaşabilirsiniz.
+@sss
+S: Toprak numunesi kaç cm derinden alınır?
+C: Tarla bitkileri ve sebze bahçesinde 0–20 cm, meyve bahçesi ve bağda 0–30 cm ve 30–60 cm olmak üzere iki ayrı derinlikten, çim alanında ise 0–10 cm'den alınır. Derinlik bütün noktalarda aynı olmalıdır.
+
+S: Bir tarladan kaç noktadan numune alınmalı?
+C: Her parselde zikzak çizerek 15–20 noktadan toprak alınır, temiz bir kovada karıştırılır ve karışımdan yaklaşık 1 kg laboratuvara gönderilir. Toprağı ya da geçmiş ürünü farklı olan bölümler için ayrı numune alınmalıdır.
+
+S: Gübreden sonra toprak numunesi alınır mı?
+C: Gübre ya da kireç verildikten sonra en az 6–8 hafta beklemek gerekir. Aksi halde analiz yeni atılan gübreyi ölçer ve toprağın gerçek durumunu yansıtmaz.
+
+S: Toprak numunesi ıslak gönderilir mi?
+C: Islak numune gölgede, temiz bir kâğıt üzerinde serilerek kurutulur ve birkaç gün içinde laboratuvara ulaştırılır. Güneşte ya da soba yanında kurutmak bazı değerleri değiştirebilir.
+
+### YAZI
+slug: kisin-bahce-sulamasi
+baslik: Kışın Bahçe Sulaması: Ağaç, Çalı ve Her Dem Yeşillere Su Gerekir mi?
+yayin: 2026-11-13 20:20
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: kışın bahçe sulaması
+seo_baslik: Kışın Bahçe Sulaması: Ağaç ve Çalılara Su Gerekir mi?
+seo_aciklama: Kışın bahçe sulaması gerekir mi? Kurak kışta her dem yeşil, yeni dikilen fidan ve saksı bitkileri için ne zaman, ne kadar ve hangi saatte su verilir?
+ozet: Bitkiler kışın dinlenir ama tamamen susuz kalmaz. Özellikle kar ve yağmurun az olduğu kışlarda her dem yeşil çalılar, yeni dikilen fidanlar ve dışarıdaki saksılar kuraklıktan zarar görebilir. Kışın ne zaman ve nasıl sulama yapılacağını anlattık.
+etiketler: kışın bahçe sulaması, kış kuraklığı, her dem yeşil bitkiler, fidan sulama, kışın saksı sulama, bahçe bakımı
+gorsel: p25-kis-sulama
+gorsel_alt: Sulama kabıyla bahçedeki bitkilerin dibine su verilmesi
+urunler: sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu, hg-kil-bilyesi, hg-fidan-topragi
+kisaca: Yağışlı kışlarda bahçe sulamaya gerek duymaz. Kar ve yağmurun az olduğu kurak kışlarda ise toprak donmamışken, hava 5 °C'nin üstündeyken ve öğle saatlerinde ayda bir ya da iki kez derin sulama yapılır. En çok ihtiyaç duyanlar her dem yeşil çalılar, ilk kışını geçiren fidanlar ve dışarıdaki saksılardır.
+@govde
+Kış gelince hortumlar toplanır, damla sulama boşaltılır ve bahçe kendi haline bırakılır. Çoğu yıl bu doğrudur, çünkü yağmur ve kar toprağın nemini korur. Ama bazı kışlar beklenenden kurak geçer ve bitkiler bahara kahverengileşmiş yapraklarla, kurumuş dal uçlarıyla çıkar. Bunun sebebi çoğu zaman soğuk değil, kışın susuz kalmaktır. Bu yazıda kışın bahçe sulaması gerekip gerekmediğini, hangi bitkilerin ihtiyaç duyduğunu ve sulamanın ne zaman yapılacağını anlattık.
+
+## Bitkiler kışın neden su kaybeder?
+
+Yaprağını döken ağaçlar kışın büyük ölçüde dinlenir ve çok az su harcar. Ama her dem yeşil bitkiler, yani defne, şimşir, leylandi, mazı, çam ve zakkum gibi yaprağını dökmeyenler, kışın da yapraklarından su buharlaştırmaya devam eder. Güneşli ve rüzgârlı kış günlerinde bu kayıp artar.
+
+Toprak kuruysa ya da donmuşsa kökler kaybedilen suyu yerine koyamaz. Sonuç "kış kuraklığı" denen durumdur: yaprak uçları ve kenarları kahverengileşir, iğne yapraklılarda rüzgâr alan yüz kızarıp kurur. Bu zarar çoğu zaman ilkbaharda fark edilir ve dondan sanılır. Leylandi gibi çit bitkilerinde görülen kahverengileşmenin sebeplerini [leylandi bakımı](/leylandi-bakimi) yazımızda ayrıca anlattık.
+
+## Kışın sulama hangi bitkilere gerekir?
+
+Kışın bahçe sulaması her bitki için aynı önemde değildir. Öncelik sırası şöyledir:
+
+1. **İlk kışını geçiren fidan ve çalılar:** Kökleri henüz geniş bir alana yayılmamıştır. Sonbaharda dikilen meyve fidanları ve çit bitkileri kurak kışta en çok zarar görenlerdir. Dikim sonrası bakım için [meyve fidanı dikimi](/meyve-fidani-dikimi) yazımıza bakabilirsiniz.
+2. **Her dem yeşil çalı ve ağaçlar:** Defne, şimşir, leylandi, mazı, taflan, çamlar ve zeytin.
+3. **Dışarıdaki saksılar ve yükseltilmiş yataklar:** Saksı toprağı az olduğu için çabuk kurur; üstelik yağmur saksıya beklendiği kadar ulaşmaz.
+4. **Duvar dibi ve saçak altındaki bitkiler:** Yağmur ve kar bu noktalara çoğu zaman düşmez.
+5. **Kumlu ve süzek topraktaki bitkiler:** Su tutma kapasitesi düşük topraklar kışın da çabuk kurur.
+
+Yaprağını dökmüş yetişkin meyve ağaçları ve derin köklü ağaçlar, normal yağış alan bir kışta genellikle ek suya ihtiyaç duymaz.
+
+## Kışın bahçe sulaması ne zaman yapılır?
+
+Doğru zamanı bulmak, sulamanın kendisi kadar önemlidir:
+
+- **Toprak donmamış olmalı.** Donmuş toprağa verilen su içeri işlemez, yüzeyde buz tutar.
+- **Hava 5 °C'nin üstünde olmalı.** Kışın ılık geçen, güneşli günleri seçin.
+- **Öğle saatlerini tercih edin.** Su gece soğuğundan önce toprağa işler; akşam verilen su yüzeyde donabilir.
+- **Ayda bir ya da iki kez yeterlidir.** Kışın sık ve az sulama değil, seyrek ve derin sulama yapılır.
+- **Yağıştan sonra ara verin.** Son iki üç haftada yeterli yağmur ya da kar yağdıysa sulamaya gerek yoktur.
+
+Toprağın durumunu anlamak için bir mala ya da küreğin ucuyla 10–15 cm derine bakın. Toprak bu derinlikte de kuru ve tozluysa sulama zamanı gelmiştir; nemli ve soğuksa beklemek daha doğrudur.
+
+## Ne kadar su verilmeli?
+
+Kışın amaç toprağı ıslak tutmak değil, kök bölgesini nemlendirmektir:
+
+- **Genç fidan ve çalılar:** Her sulamada bitki başına 10–20 litre, yavaş yavaş, suyun akıp gitmesine izin vermeden.
+- **Yetişkin her dem yeşil ağaçlar:** Taç izdüşümü boyunca halka şeklinde, toprak 20–30 cm derinliğe kadar nemlenecek kadar.
+- **Saksılar:** Saksı altındaki delikten su çıkana kadar; ardından tabakta kalan suyu dökün. Kışın tabakta bekleyen su donar ve kökleri çürütür.
+
+Hortumu tam açıp kısa süre tutmak yerine düşük basınçla uzun süre vermek, suyun toprağa işlemesini sağlar. Kış sezonu boyunca hortumu her kullanımdan sonra boşaltıp içeride saklayın; [hortum kışlatma](/hortum-kislatma) yazımızda bunun nasıl yapılacağını anlattık. Kireçli musluk suyunun saksılara etkisini merak ediyorsanız [musluk suyu bitkilere zararlı mı](/musluk-suyu-bitkilere-zararli-mi) yazısına da göz atabilirsiniz.
+
+## Malç ve rüzgâr kesici: suyu tutmanın yolu
+
+Kışın verilen suyun boşa gitmemesi için toprağı örtmek en etkili yöntemdir. Ağaç ve çalıların dibine 5–10 cm kalınlığında yaprak, saman ya da odun yongası sermek nem kaybını azaltır ve toprak sıcaklığını dengeler. Malçın gövdeye değmemesine dikkat edin. Adım adım uygulama için [ağaç dibi malçlama](/agac-dibi-malclama) yazımıza bakabilirsiniz.
+
+Sürekli rüzgâr alan genç her dem yeşillerin rüzgâr gelen yönüne çuval bezi ya da file gererek su kaybını önemli ölçüde azaltabilirsiniz. Saksılarda toprak yüzeyine bir kat kil bilyesi sermek de buharlaşmayı yavaşlatır.
+
+## Bölgelere göre kışın sulama
+
+Türkiye'nin kışı bölgeden bölgeye çok farklı geçer, sulama ihtiyacı da buna göre değişir:
+
+- **Akdeniz ve Ege kıyıları:** Kış ılık ve genellikle yağışlıdır, ama yağmursuz geçen iki üç haftalık dönemler olur. Bu dönemlerde narenciye, zeytin ve yeni dikilen fidanlar kontrol edilmelidir.
+- **Marmara ve Karadeniz:** Yağış çoğu zaman yeterlidir. Saçak altı, duvar dibi ve dışarıdaki saksılar dışında ek sulama nadiren gerekir.
+- **İç Anadolu ve Doğu:** Toprak uzun süre donuk kalır; sulama ancak çözülmenin olduğu ılık günlerde yapılabilir. Kar örtüsü az olan kışlarda her dem yeşillerin kış kuraklığına en açık olduğu bölgelerdir.
+
+Kar, toprağa yavaş yavaş işleyen en iyi kış suyudur. Kar yağdığında çalı ve ağaç diplerine biriken karı dağıtmayın; eridikçe kök bölgesini nemlendirir.
+
+## Aşırı sulamaya dikkat
+
+Kışın en sık yapılan hata, yaz alışkanlığıyla sık sulamaktır. Soğuk ve ıslak toprak kökleri havasız bırakır, kök çürüklüğüne yol açar. Özellikle killi topraklarda ve drenajı zayıf saksılarda kışın verilen su uzun süre çekilmez. Sulamadan önce her seferinde toprağı kontrol edin; nemliyse bekleyin.
+
+Kısacası kışın bahçe sulaması bir rutin değil, kurak geçen kışlara karşı alınan bir önlemdir. Doğru bitkiye, doğru günde ve derin verilen birkaç sulama, bahara sağlıklı yapraklarla çıkmanızı sağlar.
+@sss
+S: Kışın bahçe sulanır mı?
+C: Yağışlı kışlarda gerek yoktur. Kar ve yağmurun az olduğu kurak kışlarda ise toprak donmamışken, hava 5 °C'nin üstündeyken ve öğle saatlerinde ayda bir ya da iki kez derin sulama yapılır.
+
+S: Her dem yeşil bitkiler kışın neden kahverengileşir?
+C: Yaprağını dökmeyen bitkiler kışın da yapraklarından su kaybeder. Toprak kuru ya da donmuşsa kökler bu suyu karşılayamaz ve yaprak uçları kurur. Buna kış kuraklığı denir ve çoğu zaman dondan sanılır.
+
+S: Kışın saksılar ne sıklıkla sulanır?
+C: Dışarıdaki saksılar toprağın 3–4 cm derinliği kuruduğunda, ılık bir günün öğle saatlerinde sulanır. Tabakta kalan su mutlaka dökülmelidir; donan su kökleri çürütür.
+
+S: Donmuş toprak sulanır mı?
+C: Hayır. Donmuş toprağa verilen su içeri işlemez, yüzeyde buz tutar. Toprak çözüldükten sonra ılık bir günde sulama yapılır.
+
+### YAZI
+slug: tarlada-su-gollenmesi
+baslik: Tarlada Su Göllenmesi: Kış Yağmurlarında Drenaj ve Toprağı Kurtarmak
+yayin: 2026-12-05 12:25
+yazar: Ahmet Sacit Çelik
+kategori: toprak-rehberi
+odak: tarlada su göllenmesi
+seo_baslik: Tarlada Su Göllenmesi: Nedenleri ve Drenaj Çözümleri
+seo_aciklama: Tarlada su göllenmesi neden olur, ekine nasıl zarar verir? Kış yağmurlarında acil önlemler, sıkışmış toprağı açma ve drenajla kalıcı çözüm yolları.
+ozet: Kış yağmurlarından sonra tarlanın bazı bölümlerinde günlerce çekilmeyen su, buğdayı sarartır, kökleri havasız bırakır ve gübreyi boşa çıkarır. Su göllenmesinin nedenlerini, ekine etkisini, hemen yapılabilecekleri ve kalıcı drenaj çözümlerini anlattık.
+etiketler: tarlada su göllenmesi, drenaj, toprak sıkışması, pulluk tabanı, kışlık ekin, çiftçi rehberi
+gorsel: p25-tarla-gollenme
+gorsel_alt: Sürülmüş tarlada çekilmeyen yağmur suyu ve suya yansıyan gökyüzü
+urunler: leonardit-organik-toprak-duzenleyici, 1-ton-solucan-gubresi-fiyati, kati-solucan-gubresi-20-kg
+kisaca: Tarlada su göllenmesi çoğunlukla sıkışmış pulluk tabanı, killi toprak, çukur arazi ve yüksek taban suyundan kaynaklanır. Su 2–3 günden uzun kalırsa kökler havasız kalır, ekin sararır, azot kaybolur. Kısa vadede yüzey arkıyla su tahliye edilir; kalıcı çözüm dip kazan, organik madde, tesviye ve gerekirse kapalı drenajdır.
+@govde
+Kış yağmurlarının ardından tarlanın bazı bölümlerinde su günlerce çekilmez. Yağmur durur, güneş açar ama o çukur yerlerde, tarla kenarlarında ya da traktörün sık geçtiği izlerde su birikintisi kalır. Birkaç hafta sonra o bölümlerdeki buğday sararır, seyrekleşir ya da tamamen kaybolur. Tarlada su göllenmesi, Türkiye'nin pek çok bölgesinde kışlık ekinlerde verim kaybının sessiz sebeplerinden biridir. Bu yazıda göllenmenin nedenlerini, ekine etkisini ve kısa ve uzun vadeli çözümleri anlattık.
+
+## Tarlada su göllenmesi neden olur?
+
+Su, toprağa giriş hızından daha hızlı geliyorsa ya da toprak içinde aşağı inemiyorsa yüzeyde birikir. Bunun başlıca sebepleri şunlardır:
+
+- **Pulluk tabanı ve sıkışma:** Yıllarca aynı derinlikte sürüm yapılan tarlalarda 20–30 cm derinlikte sert, geçirimsiz bir katman oluşur. Su bu katmanda durur. Islak toprağa giren ağır makineler de sıkışmayı artırır.
+- **Ağır ve killi toprak:** Kil oranı yüksek topraklar suyu yavaş geçirir. Bu toprakların özelliklerini [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazımızda ayrıntılı anlattık.
+- **Arazinin yapısı:** Düz ya da çukur alanlar ve çevresinden su toplayan tarlalar daha çabuk göllenir.
+- **Yüksek taban suyu:** Dere yatağı, ova tabanı ve göl çevresindeki arazilerde taban suyu kışın yükselir ve su aşağı inecek yer bulamaz.
+- **Azalan organik madde:** Organik maddesi düşük topraklarda gözenekler kapanır, yüzeyde kaymak tabakası oluşur ve yağmur suyu içeri giremez.
+
+## Ekine ne zarar verir?
+
+Toprak gözenekleri suyla dolduğunda kökler oksijensiz kalır. Su yüzeyde 2–3 günden uzun süre kalırsa zarar başlar; bir haftayı aşarsa genç bitkiler kaybedilebilir. Belirtiler şöyledir:
+
+- Yapraklarda sararma, özellikle alt yapraklardan başlayarak
+- Kardeşlenmenin zayıflaması ve seyrek bitki
+- Kök çürüklüğü ve bitki ölümleri
+- Su çekildikten sonra toprak yüzeyinde sertleşen kabuk
+
+Göllenen toprakta azot da kaybolur: oksijensiz ortamda toprak bakterileri nitratı gaza çevirir ve verdiğiniz gübrenin bir kısmı havaya uçar. Kışlık tahıllarda kardeşlenmenin verim için önemini [tahıllarda kardeşlenme](/tahillarda-kardeslenme) yazısı anlatıyor; göllenme tam bu dönemde kardeş sayısını düşürür. Kışın don ve suyun birlikte yarattığı stres için [kışlık tahıllarda don](/kislik-tahillarda-don) yazımıza da bakabilirsiniz.
+
+## Kış yağmurlarında hemen yapılabilecekler
+
+Su birikmişken yapılacak işler sınırlıdır, ama doğru adımlar zararı azaltır:
+
+1. **Suya yol açın.** Su biriken çukurdan tarlanın eğim yönüne doğru sığ bir yüzey arkı açarak suyu tarla dışına ya da bir kanala yönlendirin. Arkı kürekle ya da küçük bir makineyle, toprak taşıyabildiği ölçüde açın.
+2. **Islak tarlaya makine sokmayın.** Çamur haldeki toprağa giren traktör sıkışmayı derinleştirir ve sorunu gelecek yıllara taşır.
+3. **Göllenen alanları işaretleyin.** Bir haritaya ya da telefon fotoğrafına not alın. Kalıcı çözümü yaz kuraklığında, toprak kuruyken uygulayacaksınız.
+4. **Gübrelemeyi zamanlayın.** Su çekilmeden üst gübre vermeyin; gübre yıkanır ya da gaz olarak kaybolur. Toprak tava gelince ve bitki toparlanmaya başlayınca gübreleme planı yapılır.
+5. **Sigorta poliçenizi kontrol edin.** Ürününüz [TARSİM](/tarsim-nedir) ile sigortalıysa, poliçenizde sel ve su baskını kapsamına ve hasar bildirim süresine bakın.
+
+## Kalıcı çözüm: suyu toprağa ve tarla dışına yönlendirmek
+
+Göllenme her yıl aynı yerlerde tekrarlanıyorsa kalıcı önlem gerekir:
+
+- **Dip kazan (derin gevşetme):** Pulluk tabanını kırmak için yazın, toprak kuruyken dip kazan çekilir. Islak toprakta yapılan derin gevşetme işe yaramaz, aksine toprağı hamurlaştırır. Sürüm zamanlamasıyla ilgili ayrıntılar [sonbaharda tarla sürümü](/sonbaharda-tarla-surumu) yazımızda.
+- **Organik madde:** Hayvan gübresi, kompost, sap ve anızın toprağa karıştırılması gözenekliliği artırır ve suyun toprağa girmesini kolaylaştırır. Neden önemli olduğunu [toprakta organik madde](/toprakta-organik-madde) yazısında anlattık. Leonardit ve solucan gübresi gibi organik kaynaklar da toprak yapısına katkı sağlar.
+- **Tesviye:** Tarladaki çukurluklar düzeltilir ve araziye hafif bir eğim verilir. Büyük tarlalarda lazerli tesviye en düzgün sonucu verir.
+- **Sırt ve tava düzeni:** Su tutan tarlalarda ekim sırtlar üzerine yapıldığında kökler su birikintisinin üstünde kalır.
+- **Kapalı (borulu) drenaj:** Taban suyu yüksek arazilerde toprağın altına delikli borular döşenerek fazla su tahliye edilir. Bu yatırım teknik proje gerektirir; il ve ilçe tarım müdürlükleri ile Devlet Su İşleri bu konuda bilgi verir.
+- **Ekim nöbeti:** Kazık köklü bitkilerin (yonca, ayçiçeği) zaman zaman ekilmesi toprak derinliklerinde doğal kanallar açar.
+
+## Göllenmeyi önceden fark etmenin yolları
+
+Su birikintisi görünmeden de toprağın drenaj sorunu olduğunu gösteren işaretler vardır:
+
+- Yağmurdan sonra bazı bölümlerin diğerlerinden günlerce daha koyu ve ıslak görünmesi
+- Toprak yüzeyinde yeşil yosun tabakası oluşması
+- O bölümlerde her yıl daha seyrek ve daha kısa bitki yetişmesi
+- Kürekle açılan çukurda 20–30 cm derinlikte gri, mavimsi ya da pas lekeli toprak görülmesi; bu renkler toprağın uzun süre havasız kaldığını gösterir
+- Çukura dökülen suyun bir günde çekilmemesi
+
+Basit bir sızma testi için tarlada 30 cm derinliğinde bir çukur açıp suyla doldurun, su çekildikten sonra yeniden doldurun ve ikinci suyun ne kadar sürede çekildiğini not edin. Su bir günden uzun süre duruyorsa o bölümün drenaj iyileştirmesine ihtiyacı vardır.
+
+## Hangi bölümlere öncelik vermeli?
+
+Her yıl göllenen ve verimi en düşük olan bölümler ilk sırada gelir. Bu alanlar için yapılacak drenaj harcamasını, kaybedilen ürünle karşılaştırmak karar vermeyi kolaylaştırır; hesaplama yöntemi için [dekar başına maliyet](/dekar-basina-maliyet) yazımızdan yararlanabilirsiniz.
+
+Tarlada su göllenmesi tek bir yağmurla gelmez, yıllarca biriken sıkışma ve azalan organik maddenin sonucudur. Kışın gördüğünüz her su birikintisi, yazın yapılacak işlerin haritasıdır. Toprak yapısını iyileştirecek organik ürünler hakkında bilgi almak için müşteri hizmetlerimize +90 553 727 2929 numarasından ulaşabilirsiniz.
+@sss
+S: Tarlada su neden birikir?
+C: En sık sebepler 20–30 cm derinlikte oluşan sıkışmış pulluk tabanı, ağır ve killi toprak, düz ya da çukur arazi, yüksek taban suyu ve azalmış organik maddedir. Su toprağa giremediği ya da aşağı inemediği için yüzeyde kalır.
+
+S: Su birikmesi buğdaya zarar verir mi?
+C: Su 2–3 günden uzun kalırsa kökler oksijensiz kalır, yapraklar sararır, kardeşlenme zayıflar ve azot kaybolur. Bir haftayı aşan göllenmede genç bitkiler tamamen kaybedilebilir.
+
+S: Göllenen tarlaya ne zaman gübre verilir?
+C: Su çekilip toprak tava kıvamına gelince ve bitki toparlanmaya başlayınca verilir. Su varken verilen gübre yıkanır ya da gaz halinde kaybolur.
+
+S: Pulluk tabanı nasıl kırılır?
+C: Yazın, toprak kuruyken dip kazan ile derin gevşetme yapılır. Islak toprakta yapılan gevşetme işe yaramaz; düzenli organik madde katkısı ve farklı derinlikte toprak işleme sıkışmanın geri gelmesini önler.
+
+### YAZI
+slug: bahce-yatagina-mini-tunel
+baslik: Bahçe Yatağına Mini Tünel: Kemer ve Örtüyle Kış Boyu Hasat
+yayin: 2026-12-23 11:05
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: mini tünel
+seo_baslik: Bahçe Yatağına Mini Tünel: Kış Boyu Hasat Rehberi
+seo_aciklama: Yükseltilmiş bahçe yatağına mini tünel nasıl kurulur? Kemer aralığı, örtü seçimi, havalandırma, sulama ve kışın mini tünelde yetişen sebzeler.
+ozet: Yükseltilmiş bahçe yatağının üstüne kurulan alçak bir mini tünel, kışın da marul, roka, ıspanak ve tere toplamanızı sağlar. Kemer seçimi, örtü çeşitleri, havalandırma, sulama ve tünelde yetişen sebzeleri adım adım anlattık.
+etiketler: mini tünel, bahçe yatağı, yükseltilmiş yatak, kış sebzesi, agril örtü, kış bahçesi
+gorsel: p4-roka
+gorsel_alt: Yükseltilmiş sebze kabında sık büyümüş genç roka bitkileri
+urunler: moduler-yukseltilmis-bahce-yatagi-108-litre, hg-bol-verimli-sebze-topragi, altinvadi-arapsaci-marul-tohumu-kivircik, altinvadi-roka-tohumu-toros-iri-yaprak
+kisaca: Mini tünel, bahçe yatağının üstüne 60–90 cm arayla dikilen kemerler ve üzerine gerilen örtüden oluşur. Örtü olarak hafif soğukta agril, sert kışta UV katkılı naylon kullanılır. Güneşli günlerde uçları açılarak havalandırılır. Tünelde kış boyunca marul, roka, ıspanak, tere ve yeşil soğan yetiştirilebilir.
+@govde
+Yükseltilmiş bahçe yatağı ilkbaharda erken ısınır, yazın bol ürün verir. Ama asıl sürprizi kışta yaşatır: üstüne kurulacak alçak bir mini tünel, yatağı küçük bir seraya çevirir ve soğuk aylarda da taze yeşillik toplamanızı sağlar. Bu yazıda bahçe yatağına mini tünel kurmayı, doğru örtüyü seçmeyi ve kışın tünelde neler yetiştirebileceğinizi adım adım anlattık.
+
+## Mini tünel nedir, ne işe yarar?
+
+Mini tünel, toprağın ya da yatağın üzerine kemerlerle kurulan ve üstü örtüyle kapatılan alçak bir korumadır. Yüksekliği genellikle 40–60 cm'dir; içine girilmez, yandan açılarak bakım yapılır.
+
+Mini tünelin sağladıkları:
+
+- Gece donlarında içerisi dışarıdan birkaç derece daha sıcak kalır.
+- Rüzgârın kurutucu etkisini keser.
+- Yağmur ve dolu yaprakları ezmez.
+- Kar yükü doğrudan bitkiye binmez.
+- Gündüz güneşle ısınan toprak büyümeyi sürdürür.
+
+Yükseltilmiş yatak bu iş için idealdir: kenarları kemerleri sabitlemeye uygundur, toprağı süzektir ve kışın göllenmez. Yatağı henüz kurmadıysanız [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazımızla başlayabilirsiniz.
+
+## Kemer seçimi ve kurulum
+
+Kemer olarak 20–25 mm çapında PVC sulama borusu, kalın galvaniz tel ya da hazır tünel kemeri kullanılabilir.
+
+1. **Aralığı belirleyin.** Kemerleri 60–90 cm arayla yerleştirin. Kar yağışı olan bölgelerde aralığı 60 cm'ye indirin.
+2. **Yüksekliği ayarlayın.** Yatağın genişliğine göre kemerin tepesi topraktan 40–60 cm yukarıda olsun. Marul ve ıspanak için bu yükseklik yeterlidir.
+3. **Sabitleyin.** Kemerin iki ucunu yatağın iç kenarına kelepçe ya da vida ile tutturun veya toprağa 20 cm kadar gömün.
+4. **Uzunlamasına bağlayın.** Kemerlerin tepesinden boydan boya bir çıta ya da ip geçirmek tüneli sağlamlaştırır ve kar altında çökmesini önler.
+
+## Hangi örtü kullanılmalı?
+
+Örtü seçimi bölgenizin kışına göre değişir:
+
+- **Agril (tela):** Beyaz, nefes alan, hafif bir örtüdür. Hafif donlarda yeterli koruma sağlar, ışık ve hava geçirir, içeride terleme yapmaz. Akdeniz, Ege ve Marmara kıyıları için çoğu zaman yeterlidir.
+- **UV katkılı naylon:** Daha çok ısı tutar ve sert soğuklarda koruma sağlar. Ama güneşli günlerde içerisi hızla ısınır; düzenli havalandırma gerektirir. İç bölgeler için uygundur.
+- **Çift kat:** Çok soğuk gecelerde naylonun altına bir kat agril eklemek, ısıyı daha uzun süre tutar.
+
+Örtünün kenarlarını mandal, kum torbası ya da taşla yere sabitleyin. Rüzgârda açılan bir örtü bir gecede bütün emeği boşa çıkarabilir.
+
+## Havalandırma ve sulama
+
+Mini tünelin en sık yapılan hatası havalandırmayı unutmaktır. Kış güneşi bile naylon altını 25–30 °C'ye çıkarabilir; bu sıcaklık marulu yumuşatır ve hastalıklara açık hale getirir.
+
+- Güneşli günlerde öğleye doğru tünelin iki ucunu açın.
+- Akşam güneş batmadan önce kapatın ki gündüz biriken ısı içeride kalsın.
+- Agril örtüde havalandırma ihtiyacı daha azdır, ama nemli ve ılık günlerde yine açın.
+
+Örtü yağmuru büyük ölçüde engellediği için toprağı kontrol etmeyi unutmayın. Kışın sulama sık değil, toprak 3–4 cm derinliğe kadar kuruduğunda yapılır; yöntemi [bahçe yatağı sulama](/bahce-yatagi-sulama) yazımızda anlattık. Sulamayı ılık günlerin öğle saatlerinde yapın.
+
+## Kışın mini tünelde neler yetişir?
+
+Soğuğa dayanıklı ve kısa günlere uyum sağlayan sebzeler tünelde en iyi sonucu verir:
+
+- **Marul ve kıvırcık:** Fide ya da tohumla; yaprak yaprak hasat edilir.
+- **Roka ve tere:** Hızlı büyür; birkaç haftada bir yeniden ekilebilir.
+- **Ispanak:** Kışın en dayanıklı yeşilliklerinden biridir.
+- **Yeşil soğan ve pazı:** Uzun süre hasat verir.
+- **Maydanoz:** Sonbaharda dikilmiş bitkiler tünel altında kış boyu yaprak verir.
+
+Kışın tünelde büyüme yavaşlar; yazın üç haftada gelen roka kışın beş altı haftayı bulabilir. Bu yüzden ekimi sonbaharda, havalar tamamen soğumadan yapmak en iyisidir. Balkonda benzer bir düzen kurmak isterseniz [mini sera ile balkonda kış ekimi](/mini-sera-ile-balkonda-kis-ekimi) yazısına, bahçe kulesiyle kış üretimi için de [bahçe kulesi kışın](/bahce-kulesi-kisin) yazımıza göz atabilirsiniz.
+
+## Mini tünelde hasat nasıl yapılır?
+
+Kışın hasat için ılık ve güneşli günlerin öğle saatlerini seçin. Örtüyü bir taraftan kaldırıp marul ve ıspanakta dış yaprakları, rokada ise uzayan yaprakları alttan kesin; bitkinin ortasındaki genç yapraklar büyümeye devam eder. Donlu sabahlarda yaprak dokusu kırılgandır, bu saatlerde hasat yapmayın. Hasattan sonra örtüyü yeniden sabitlemeyi unutmayın.
+
+## Kar ve sert don gecelerinde
+
+- Kar yağdığında örtünün üstündeki karı süpürge ile hafifçe silkeleyin; ağır kar kemerleri ezebilir.
+- Çok soğuk gecelerde tünelin içine birkaç su dolu şişe koymak gün içinde depolanan ısıyı gece yavaşça geri verir.
+- Dondan sonra bitkiler sarkık görünebilir; öğleye doğru çözüldüklerinde çoğu toparlanır. Zarar belirtilerini [don zararı belirtileri](/don-zarari-belirtileri) yazımızda bulabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Örtüyü bitkiye değdirmek:** Örtünün yaprağa değdiği yerlerde don daha kolay işler. Kemer yüksekliği bitkinin boyundan en az 10–15 cm fazla olmalıdır.
+- **Havalandırmayı unutmak:** Kapalı kalan naylon altında nem birikir, yapraklarda mantar lekeleri ve çürüme başlar.
+- **Çok geç ekim yapmak:** Kışın ortasında ekilen tohum soğuk toprakta çok yavaş çimlenir. Tünel, büyümüş bitkiyi korumak için en etkilidir.
+- **Kenarları açık bırakmak:** Uçları ve yanları sabitlenmeyen örtü rüzgârla açılır, içerideki sıcak hava bir gecede kaybolur.
+- **Sulamayı aksatmak:** Örtü yağmuru keser; kış olsa da yatağın toprağı tünelin altında kuruyabilir.
+
+## Toprak hazırlığı
+
+Kış üretimi için yatağın toprağını sonbaharda bir kat olgun kompost ya da organik gübreyle tazeleyin. Kışın bitki az besin harcar; fazla azotlu gübre yaprakları yumuşatır ve soğuğa karşı dayanıksız hale getirir. Yatağa uygun toprak karışımı için [bahçe yatağı toprağı](/bahce-yatagi-topragi) yazısından yararlanabilirsiniz.
+
+Bahçe yatağına kurulan bir mini tünel, birkaç kemer ve bir rulo örtüyle kurulabilen, ama kış boyunca sofranıza taze yeşillik getiren en ekonomik çözümlerden biridir. Yatak seçimi ve ölçüler hakkında müşteri hizmetlerimizden +90 553 727 2929 numarasıyla bilgi alabilirsiniz.
+@sss
+S: Mini tünel nasıl yapılır?
+C: Bahçe yatağının iç kenarlarına 60–90 cm arayla PVC boru ya da kalın telden kemerler yerleştirilir, tepeden boydan boya bir çıta ile birbirine bağlanır ve üzerine agril ya da UV katkılı naylon örtü gerilir. Örtünün kenarları mandal ya da kum torbasıyla sabitlenir.
+
+S: Mini tünelde agril mi naylon mu kullanılmalı?
+C: Hafif soğukların olduğu kıyı bölgelerinde nefes alan agril yeterlidir. Sert kış geçen iç bölgelerde daha çok ısı tutan UV katkılı naylon tercih edilir; naylon altı güneşli günlerde mutlaka havalandırılmalıdır.
+
+S: Kışın mini tünelde hangi sebzeler yetişir?
+C: Marul, kıvırcık, roka, tere, ıspanak, yeşil soğan, pazı ve maydanoz kışın mini tünelde yetişebilir. Ekimi sonbaharda, havalar tamamen soğumadan yapmak en iyi sonucu verir.
+
+S: Mini tünel ne zaman havalandırılır?
+C: Güneşli günlerde öğleye doğru iki ucu açılır, akşam güneş batmadan kapatılır. Havalandırılmayan naylon tünelin içi kışın bile 25–30 °C'ye çıkabilir.
+
+### YAZI
+slug: capa-makinesi-kis-bakimi
+baslik: Çapa Makinesi Kış Bakımı: Motoru, Bıçakları ve Yakıtı Sezona Hazırlamak
+yayin: 2026-12-25 09:50
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: çapa makinesi kış bakımı
+seo_baslik: Çapa Makinesi Kış Bakımı: Sezona Hazır Başlayın
+seo_aciklama: Çapa makinesi kış bakımı nasıl yapılır? Bıçak temizliği, yakıt, motor ve şanzıman yağı, hava filtresi, buji ve depolama adım adım kontrol listesi.
+ozet: Sezon boyunca toprakla, nemle ve tozla çalışan çapa makinesi, kışı nasıl geçirdiğine göre ilkbaharda ya ilk çekişte çalışır ya da tamirciye gider. Bıçaklardan yakıta, yağdan depolamaya kadar çapa makinesinin kış bakımını adım adım anlattık.
+etiketler: çapa makinesi kış bakımı, çapa makinesi, motorlu çapa, tarım makinesi bakımı, bahçe makinesi, kış hazırlığı
+gorsel: p25-capa-makinesi
+gorsel_alt: Toprak işleme bıçakları takılı iki tekerlekli motorlu çapa makinesi
+urunler: raco-iki-disli-bahce-el-capasi, sgs-capa-sivri-sapli, sgs-bahce-seti-3-parca
+kisaca: Çapa makinesi kış bakımında önce bıçaklar toprak ve bitki artığından temizlenip kontrol edilir. Benzinli motorda yakıt ya tamamen boşaltılır ya da yakıt koruyucuyla doldurulup birkaç dakika çalıştırılır. Motor ve şanzıman yağı kontrol edilir, hava filtresi ve buji temizlenir, makine kuru ve kapalı bir yerde örtülerek saklanır.
+@govde
+Motorlu çapa makinesi, bahçeyi ve küçük tarlaları işleyen en çalışkan yardımcıdır. Sezon boyunca toprak, nem, toz ve bitki artığıyla çalışır. Kış gelince çoğu zaman olduğu gibi bir köşeye çekilir ve ilkbaharda ilk çekişte çalışmayınca hatırlanır. Oysa birkaç saatlik bir kış bakımı, makinenin ömrünü uzatır ve sezona sorunsuz başlamanızı sağlar. Bu yazıda çapa makinesi kış bakımını adım adım bir kontrol listesi halinde anlattık.
+
+Her işe başlamadan önce motoru durdurun, soğumasını bekleyin ve buji başlığını çıkarın. Bıçaklarla çalışırken kalın iş eldiveni kullanın. Makinenizin kullanım kılavuzundaki yağ türü, miktar ve ayar değerleri her zaman önceliklidir.
+
+## Çapa makinesi kış bakımına başlamadan önce
+
+Çalışma alanını hazırlayın: düz ve aydınlık bir zemin, birkaç bez, eski yağ için kapaklı bir kap, fırça, kazıyıcı, anahtar takımı ve kullanım kılavuzu. Motor sıcakken yağ boşaltmak kolaydır ama yakıtla ve bıçaklarla çalışırken motorun tamamen soğumuş olması gerekir. Bu yüzden önce makineyi kısa bir süre çalıştırıp yağı ılıtın, sonra durdurup yağ işini bitirin, ardından soğumayı bekleyip diğer adımlara geçin.
+
+Aşağıdaki adımlar benzinli ve dizel çapa makinelerinin çoğu için geçerlidir. Elektrikli modellerde yakıt ve yağ adımları yerine kablo, fiş ve şalter kontrolü yapılır.
+
+## 1. Bıçakları temizleyin ve kontrol edin
+
+Bıçaklara sarılan kökler, saplar ve yapışan çamur kışın nemi tutar ve pas yapar.
+
+- Bıçak milindeki sarılı bitki artıklarını kesip temizleyin.
+- Kuruyan toprağı fırça ve kazıyıcıyla alın; yüksek basınçlı suyla yıkayacaksanız rulman ve keçelere doğrudan tutmayın, ardından iyice kurutun.
+- Bıçakların uçlarını kontrol edin. Aşınmış, kırık ya da eğrilmiş bıçaklar toprağı düzgün işlemez ve motoru zorlar; gerekirse takım halinde değiştirin.
+- Bıçak cıvatalarının sıkılığını kontrol edin.
+- Temizlenen metal yüzeylere ince bir kat yağ sürün.
+
+El aletlerinin kış bakımı da benzer mantıkla yapılır; ayrıntılar için [bahçe aletleri kış bakımı](/bahce-aletleri-kis-bakimi) yazımıza bakabilirsiniz.
+
+## 2. Yakıt: boşaltın ya da koruyun
+
+Benzinli motorlarda kış boyunca depoda bekleyen yakıt bozulur, karbüratörde tortu bırakır ve ilkbahar çalıştırma sorunlarının en sık sebebidir. İki yol vardır:
+
+- **Boşaltmak:** Depodaki yakıtı uygun bir bidona boşaltın, ardından motoru çalıştırıp karbüratördeki yakıt bitene kadar rölantide bırakın. Karbüratörde boşaltma vidası varsa onu da kullanın.
+- **Korumak:** Depoyu taze yakıtla doldurup kılavuzda önerilen miktarda yakıt koruyucu (stabilizatör) ekleyin ve motoru birkaç dakika çalıştırarak katkılı yakıtın karbüratöre ulaşmasını sağlayın.
+
+İki zamanlı motorlarda yağlı karışım daha çabuk bozulduğu için boşaltmak genellikle daha güvenlidir. Dizel motorlarda ise depoyu dolu tutmak yoğuşmayı azaltır; soğuk bölgelerde kışlık yakıt kullanıldığından emin olun.
+
+## 3. Motor yağı ve şanzıman yağı
+
+- **Motor yağı:** Sezon sonunda motor yağını değiştirmek, kullanılmış yağdaki asit ve kirin kış boyunca motor parçalarına zarar vermesini önler. Yağı motor ılıkken boşaltmak daha kolaydır.
+- **Şanzıman (dişli kutusu) yağı:** Seviyesini kontrol edin; eksikse kılavuzdaki türde yağla tamamlayın. Yağda su ya da süt rengi görürseniz keçelerden su girmiş olabilir, servise gösterin.
+- **Gresörlükler:** Makinede gresörlük varsa gres tabancasıyla yağlayın.
+
+Kullanılmış yağı toprağa ya da kanalizasyona dökmeyin; atık yağ toplama noktalarına teslim edin.
+
+## 4. Hava filtresi, buji ve kablolar
+
+- **Hava filtresi:** Toz içinde çalışan çapa makinelerinde filtre çabuk tıkanır. Köpük filtreyi sabunlu suyla yıkayıp kurutun ve hafifçe yağlayın; kâğıt filtreyi silkeleyin, yıpranmışsa değiştirin.
+- **Buji:** Çıkarıp ucundaki kurumu temizleyin, tırnak aralığını kılavuzdaki değere göre kontrol edin. Aşınmışsa yenisini takın.
+- **Gaz ve debriyaj telleri:** Tellerin gevşekliğini ve hareketini kontrol edin; birkaç damla yağ telin rahat çalışmasını sağlar.
+
+## 5. Akü, lastik ve gövde
+
+Marşlı modellerde akünün kutup başlarını temizleyin, aküyü tam şarj edip sökün ve donmayan bir yerde saklayın. Ayda bir şarj kontrolü yapmak akünün ömrünü uzatır.
+
+Tekerlekli modellerde lastik basıncını kontrol edin. Gövdedeki boya kalkmış noktaları temizleyip pas önleyici boya ile kapatmak makinenin görünümünü ve ömrünü korur.
+
+## 6. Depolama
+
+- Makineyi kuru, kapalı ve havalandırılan bir yerde saklayın. Islak zemin yerine tahta bir altlık üzerinde durması pası azaltır.
+- Üzerini nefes alan bir örtüyle kapatın; tamamen hava geçirmeyen naylon, içeride yoğuşma yapar.
+- Motor soğuduktan sonra çekme ipini yavaşça, direnç hissedilene kadar çekin. Bu, supapları kapalı konuma getirerek silindire nem girmesini azaltır.
+- Yakıt boşaltılmış olsa bile makineyi ısıtıcı, soba ve açık alev yakınında saklamayın.
+
+## Ne zaman servise götürmeli?
+
+Kış bakımı sırasında aşağıdakilerden birini fark ederseniz makineyi sezon başlamadan servise götürün; ilkbaharda servisler yoğunlaşır:
+
+- Motor yağında metal parçacıkları ya da yanık kokusu
+- Şanzıman yağında su ya da süt rengi
+- Bıçak milinde boşluk, sallanma ya da keçelerden yağ sızıntısı
+- Çalışırken düzensiz ses, aşırı titreşim ya da mavi duman
+- Debriyajın tam kavramaması ya da bıçakların boşta dönmeye devam etmesi
+
+Erken fark edilen bir keçe ya da rulman arızası küçük bir masrafla giderilir; ihmal edilirse şanzımanın tamamına zarar verebilir. Çapa makinesi kış bakımı, bu tür arızaları sezon başlamadan yakalamanın da en kolay yoludur.
+
+## İlkbaharda ilk çalıştırma
+
+Sezon başında yağ seviyesini tekrar kontrol edin, taze yakıt koyun, buji başlığını takın ve makineyi açık havada çalıştırın. İlk birkaç dakika rölantide çalıştırıp motorun ısınmasını bekleyin. Toprağı işlemeye başlamadan önce de toprağın tava kıvamında olduğundan emin olun; ıslak toprakta çalışan çapa toprağı sıkıştırır. Toprağı ne zaman ve ne derinlikte işlemeniz gerektiği için [sonbaharda tarla sürümü](/sonbaharda-tarla-surumu) ve [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazılarımıza bakabilirsiniz.
+
+Düzenli yapılan çapa makinesi kış bakımı, hem tamir masrafını hem de sezon başında kaybedilen zamanı azaltır. Küçük alanlarda ve yatak kenarlarında makinenin giremediği yerler için el çapası ve el aletleri hakkında bilgi almak isterseniz müşteri hizmetlerimize +90 553 727 2929 numarasından ulaşabilirsiniz. Sulama hatlarının kışa hazırlığı için de [hortum kışlatma](/hortum-kislatma) yazımızı okuyabilirsiniz.
+@sss
+S: Çapa makinesinde benzin kışın depoda bırakılır mı?
+C: Benzin uzun beklemede bozulur ve karbüratörde tortu bırakır. Ya yakıt tamamen boşaltılıp karbüratördeki yakıt bitene kadar motor çalıştırılır ya da depo taze yakıtla doldurulup yakıt koruyucu eklenir ve motor birkaç dakika çalıştırılır.
+
+S: Çapa makinesinin yağı ne zaman değiştirilir?
+C: Kullanım kılavuzundaki çalışma saatine göre değiştirilir; sezon sonunda değiştirmek, kirli yağın kış boyunca motora zarar vermesini önler. Şanzıman yağının seviyesi de kontrol edilmelidir.
+
+S: Çapa makinesi bıçakları nasıl temizlenir?
+C: Motor durdurulup buji başlığı çıkarıldıktan sonra mile sarılan kökler kesilir, kuru toprak fırça ve kazıyıcıyla alınır. Temizlenen metal yüzeylere ince bir kat yağ sürülür, aşınmış bıçaklar değiştirilir.
+
+S: Çapa makinesi kışın nerede saklanmalı?
+C: Kuru, kapalı ve havalandırılan bir yerde, zeminle temas etmeyecek şekilde bir altlık üzerinde ve nefes alan bir örtüyle saklanmalıdır. Isıtıcı ve açık alev yakınından uzak tutulmalıdır.
+
+### YAZI
+slug: kuru-tarim-nedir
+baslik: Kuru Tarım Nedir? Yağışa Bağlı Tarımda Toprakta Nemi Biriktirmenin Yolları
+yayin: 2027-01-08 18:15
+yazar: Mehmet Fatih Çelik
+kategori: toprak-rehberi
+odak: kuru tarım
+seo_baslik: Kuru Tarım Nedir? Toprakta Nemi Biriktirmenin Yolları
+seo_aciklama: Kuru tarım nedir, hangi bölgelerde yapılır? Yağışa bağlı tarımda nem biriktirme, anız, toprak işleme, ekim zamanı, çeşit seçimi ve ekim nöbeti.
+ozet: Sulama imkânı olmayan tarlalarda verimi belirleyen en önemli şey, yağmur ve kar suyunun toprakta ne kadar tutulduğudur. Kuru tarımın mantığını, toprakta nemi biriktirme yöntemlerini, ekim zamanını, çeşit seçimini ve ekim nöbetini anlattık.
+etiketler: kuru tarım, yağışa bağlı tarım, nem biriktirme, anız, ekim nöbeti, çiftçi rehberi
+gorsel: p25-kuru-tarim
+gorsel_alt: Yağışa bağlı ekilen tarlalar ve kurak tepelerle çevrili bir vadi
+urunler: leonardit-organik-toprak-duzenleyici, 1-ton-solucan-gubresi-fiyati, hasturk-humix-sivi-humik-asit
+kisaca: Kuru tarım, sulama yapılmadan yalnız yağmur ve kar suyuyla yapılan tarımdır. Türkiye'de İç Anadolu başta olmak üzere buğday, arpa, nohut ve mercimek böyle yetiştirilir. Başarının anahtarı suyu toprağa sokup orada tutmaktır: anızı korumak, toprağı az işlemek, yabancı otu kontrol etmek ve dayanıklı çeşit seçmek.
+@govde
+Türkiye'deki tarım arazilerinin önemli bir bölümü sulanmaz. İç Anadolu'nun buğday tarlaları, Geçit Bölgesi'nin arpa ve nohut alanları, Güneydoğu'nun mercimek tarlaları yağmur ve kar suyuyla ekilir, büyür ve hasat edilir. Bu sisteme kuru tarım ya da yağışa bağlı tarım denir. Bu sistemde gübre, tohum ve emek kadar önemli olan bir şey daha vardır: toprağa düşen her damla suyun ne kadarının bitkiye kaldığı. Bu yazıda kuru tarımın mantığını ve toprakta nemi biriktirmenin yollarını anlattık.
+
+## Kuru tarım nedir?
+
+Kuru tarım, bitkinin ihtiyaç duyduğu suyun tamamının yağıştan karşılandığı üretim biçimidir. Sulama yapılmaz; bu yüzden ürünün kaderi o yılın yağışına ve toprağın bu yağışı ne kadar tuttuğuna bağlıdır.
+
+Türkiye'de yıllık yağışın yaklaşık 300–500 mm arasında kaldığı iç bölgelerde kuru tarım yaygındır. Bu yağışın büyük kısmı sonbahar, kış ve ilkbaharda düşer; yaz aylarında neredeyse hiç yağmaz. Bu nedenle bu bölgelerde yetiştirilen bitkiler genellikle sonbaharda ekilen ve yaz kuraklığı gelmeden olgunlaşan kışlık türlerdir: [buğday](/bugday-ekim-zamani), [arpa](/arpa-ekimi), kışlık [nohut](/kislik-nohut-ekimi) ve mercimek.
+
+## Toprak bir su deposudur
+
+Yağışa bağlı üretimde toprağı bir su deposu gibi düşünmek gerekir. Kış boyunca düşen yağmur ve kar bu depoyu doldurur; bitki ilkbahar ve yaz başında bu suyu kullanarak tane bağlar. Depoyu doldurmanın ve korumanın üç yolu vardır:
+
+1. **Suyun toprağa girmesini sağlamak:** Yüzeyden akıp giden su hem kaybolur hem toprağı aşındırır.
+2. **Buharlaşmayı azaltmak:** Toprak yüzeyinden buharlaşan su, bitkinin kullanamadığı sudur.
+3. **Suyu yabancı otlarla paylaşmamak:** Tarladaki her ot, ekinin kullanacağı suyu tüketir.
+
+## Anız ve toprak örtüsü
+
+Hasattan sonra tarlada kalan anız, susuz tarlada toprağın en değerli örtüsüdür:
+
+- Kar tutar; anızlı tarlada kar daha kalın ve daha uzun süre kalır, eridiğinde toprağa işler.
+- Yağmur damlalarının toprak yüzeyini dövüp kaymak bağlamasını önler, suyun toprağa girmesini kolaylaştırır.
+- Rüzgârı keser, yüzeyden buharlaşmayı azaltır.
+- Toprak aşınmasını önler. Rüzgâr ve su aşınmasının ne kadar toprak götürebileceğini [toprak erozyonu](/toprak-erozyonu) yazımızda anlattık.
+
+Anız yakmak bu yararların hepsini ortadan kaldırır, toprağın organik maddesini ve canlılarını yok eder; ayrıca yasaktır. Anızı toprağa karıştırmak ya da yüzeyde bırakarak doğrudan ekim yapmak çok daha akıllıcadır.
+
+## Toprak işleme: az, sığ ve doğru zamanda
+
+Her toprak işleme, nemli alt toprağı yüzeye çıkarır ve güneşe, rüzgâra açar. Burada kural, toprağı gereğinden fazla ve gereğinden derin işlememektir:
+
+- Toprak işlemeyi tava kıvamında yapın; ıslak toprağı işlemek sıkıştırır, kuru toprağı işlemek kesek yapar.
+- Ekim öncesi işlemleri en aza indirin; mümkünse tek geçişte tohum yatağı hazırlayın.
+- Azaltılmış toprak işleme ve doğrudan ekim makineleri, uygun koşullarda nem kaybını belirgin şekilde azaltır.
+- Yıllarca aynı derinlikte sürüm yapılan tarlalarda oluşan sıkışık katman suyun derine inmesini engeller.
+
+Sürümün zamanlaması ve derinliği hakkında ayrıntılar için [sonbaharda tarla sürümü](/sonbaharda-tarla-surumu) yazımıza bakabilirsiniz.
+
+## Organik madde: süngerin kendisi
+
+Organik maddesi yüksek toprak, sünger gibi daha çok su tutar. Yağışı az bölgelerin topraklarında organik madde genellikle düşüktür ve yavaş artar; bu yüzden her katkı değerlidir. Anızı korumak, hayvan gübresi ve kompost kullanmak, baklagilleri ekim nöbetine katmak organik maddeyi zamanla yükseltir. Konunun ayrıntıları [toprakta organik madde](/toprakta-organik-madde) yazımızda.
+
+## Ekim zamanı, sıklığı ve çeşit seçimi
+
+- **Ekim zamanı:** Kışlık hububatta sonbahar yağışlarıyla toprak nemlendiğinde zamanında yapılan ekim, bitkinin kışa kök salmış ve kardeşlenmiş girmesini sağlar. Kardeşlenmenin önemini [tahıllarda kardeşlenme](/tahillarda-kardeslenme) yazısında anlattık.
+- **Ekim sıklığı:** Susuz tarlada sık ekim, suyun bitkiler arasında bölüşülmesine yol açar. Bölgenin yağışına uygun tohum miktarı seçilmelidir.
+- **Çeşit seçimi:** Kuraklığa dayanıklı, bölgeye uyumlu ve erken olgunlaşan çeşitler yaz kuraklığı gelmeden tane doldurur. Çeşit seçimi için il ve ilçe tarım müdürlüklerinin ve araştırma enstitülerinin önerileri yol göstericidir.
+- **Kış dayanıklılığı:** Bu bölgelerin çoğu aynı zamanda soğuk bölgelerdir; [kışlık tahıllarda don](/kislik-tahillarda-don) yazımız çeşit ve ekim derinliğinin kışa dayanıklılıktaki rolünü anlatıyor.
+
+## Nadas ve ekim nöbeti
+
+Geleneksel sistemde tarla bir yıl ekilir, bir yıl nadasa bırakılır. Amaç, iki yılın yağışını bir ürün için biriktirmektir. Ancak nadas yılında toprak çıplak kalırsa ve yabancı ot kontrol edilmezse biriken nemin önemli bir kısmı yine kaybolur.
+
+Yağışın elverdiği bölgelerde nadas yerine nohut, mercimek ya da fiğ gibi baklagillerle ekim nöbeti yapmak, hem ürün almayı hem de toprağa azot ve organik madde kazandırmayı sağlar. Hangi sistemin uygun olduğu bölgenin yıllık yağışına ve toprağın su tutma kapasitesine bağlıdır.
+
+## Yabancı ot kontrolü
+
+Susuz tarlada yabancı ot, ekinin en büyük su rakibidir. Özellikle ilkbaharda hızla büyüyen otlar, ekinin tane doldururken ihtiyaç duyacağı nemi önceden tüketir. Ekim öncesi tohum yatağı hazırlığında çıkan otları temizlemek, temiz tohum kullanmak ve ot yoğunluğu yüksek parsellerde ekim nöbetini değiştirmek bu rekabeti azaltır. Nadas yılında otların büyümesine izin vermek, biriktirilmek istenen suyun büyük kısmını boşa harcar.
+
+## Gübreleme ve maliyet
+
+Yağışa bağlı tarlada gübre, suyun yettiği kadar işe yarar. Kurak yıllarda yüksek dozda azot vermek verimi artırmaz, bitkiyi gereksiz yaprak yapmaya yönlendirir ve maliyeti yükseltir. Toprak analizine göre yapılan, yağış durumunu dikkate alan bir gübreleme en doğru yoldur. Girdi ve verimi karşılaştırmak için [dekar başına maliyet](/dekar-basina-maliyet) yazımızdaki hesaplama yöntemini kullanabilirsiniz.
+
+Kuru tarım, gökyüzüne bağlı ama tamamen gökyüzüne teslim olmuş bir tarım değildir. Suyu toprağa sokan, orada tutan ve doğru bitkiye ayıran her uygulama, kurak yıllarda bile verimi korur. Toprak yapısını güçlendiren organik ürünler hakkında bilgi almak için müşteri hizmetlerimize +90 553 727 2929 numarasından ulaşabilirsiniz.
+@sss
+S: Kuru tarım ne demek?
+C: Kuru tarım, sulama yapılmadan bitkinin bütün su ihtiyacının yağmur ve kardan karşılandığı tarımdır. Türkiye'de özellikle İç Anadolu'da buğday, arpa, nohut ve mercimek bu şekilde yetiştirilir.
+
+S: Kuru tarımda toprakta nem nasıl korunur?
+C: Anızı tarlada bırakmak, toprağı az ve tava kıvamında işlemek, yabancı otları kontrol etmek, organik maddeyi artırmak ve ekimi zamanında yapmak toprağa giren suyu artırır ve buharlaşmayı azaltır.
+
+S: Kuru tarımda hangi ürünler yetiştirilir?
+C: Sonbaharda ekilip yaz kuraklığı gelmeden olgunlaşan buğday, arpa, kışlık nohut ve mercimek kuru tarımın başlıca ürünleridir. Bölgeye göre fiğ ve ayçiçeği de yetiştirilir.
+
+S: Kuru tarımda nadas gerekli mi?
+C: Nadas, iki yılın yağışını bir ürün için biriktirme amacı taşır. Yağışın elverdiği bölgelerde nadas yerine baklagillerle ekim nöbeti yapmak hem ürün almayı hem de toprağın azot ve organik maddesini artırmayı sağlar.

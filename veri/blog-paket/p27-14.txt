@@ -1,0 +1,428 @@
+### YAZI
+slug: topraksiz-tarim-nedir
+baslik: Topraksız Tarım Nedir? Yöntemler ve Evde Başlangıç
+yayin: 2027-01-31 09:10
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: topraksız tarım nedir
+seo_baslik: Topraksız Tarım Nedir? Yöntemler ve Evde Başlangıç
+seo_aciklama: Topraksız tarım nedir? Hidroponik ve diğer yöntemleri, avantaj ve sınırlarını, uygun bitkileri ve evde en kolay başlangıç sistemini anlattık.
+ozet: Topraksız tarım nedir sorusunun cevabı, bitkinin toprak yerine kokopit, perlit gibi inert bir ortamda ya da doğrudan suda, besin çözeltisiyle yetiştirilmesidir. Yöntemleri, avantaj ve sınırlarını, evde başlangıç için en kolay sistemleri ve bu konudaki ayrıntılı yazılara giden yolu yazdık.
+etiketler: topraksız tarım, hidroponik, ortam kültürü, kratky, besin çözeltisi, evde hidroponik
+gorsel: bekliyor
+gorsel_alt: Pencere önünde yan yana duran bir Kratky kabı, fitilli bir saksı ve ağ saksıda marul fideleri
+urunler: kullanima-hazir-cocopeat-torfu, tarim-perliti
+kisaca: Topraksız tarım, bitkinin toprak yerine kokopit, perlit ya da kil bilye gibi inert bir ortamda veya doğrudan besin çözeltisinde yetiştirilmesidir; bu yöntemin geniş adı hidroponiktir. Evde en kolay başlangıç pompasız Kratky kabı ve fitilli sistemdir; yeşillik ve otlar için uygundur, domates gibi büyük bitkiler daha büyük ve güçlü ışıklı sistem ister.
+@govde
+Bitkinin toprağa ihtiyacı yoktur; ihtiyacı olan şey su, besin, oksijen ve köklerinin tutunacağı bir yerdir. Toprak bu dört şeyi bir arada sağladığı için bitkilerin doğal yeridir; ama onu başka bir şeyle de sağlamak mümkündür. Topraksız tarım nedir sorusunun özü budur: besinleri toprak yerine çözeltiyle vermek ve kökleri suda ya da inert bir ortamda tutmak. Bu yazı bir giriş rehberidir; her yöntem için ayrıntılı yazılarımıza yönlendiriyoruz.
+
+## Topraksız tarım nedir? Tanım
+
+Topraksız tarımın en yaygın biçimi hidroponiktir. Missouri Üniversitesi Extension, hidroponiği bitkinin besinlerini suya çözülmüş mineral çözeltiden aldığı, toprağın kullanılmadığı yetiştirme olarak tanımlar ve çoğu hidroponik bitki için çözelti pH değerinin 5,5–6,5 aralığında tutulmasını önerir ([Missouri Extension hidroponik rehberi](https://extension.missouri.edu/publications/g6984)). Tennessee ve Florida üniversitelerinin hidroponik yetiştirme rehberi de yalnızca sebze için değil, çiçek ve süs bitkileri için de kullanıldığını ve fesleğenin marulun ardından en yaygın yetiştirilen yapraklı bitki olduğunu belirtir ([UT/UF hidroponik yetiştirme rehberi](https://uthort.tennessee.edu/wp-content/uploads/sites/228/2023/11/W844-B.pdf)). Genel çerçeve için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz.
+
+Topraksız tarım toprağın yokluğu değil, kontrolün artmasıdır: besin, su, pH ve sıcaklık sizin elinizdedir. Bu kontrol hem avantaj hem de sorumluluktur; çünkü toprağın tamponlama gücü yoktur ve hata yaprağa hızla yansır.
+
+## Başlıca yöntemler
+
+| Yöntem | Nasıl çalışır? | Evde uygunluk | Ayrıntı |
+|---|---|---|---|
+| Kratky (pasif su kültürü) | Kökler çözeltiye sarkar; seviye düştükçe hava boşluğu oluşur; pompa yok | Çok kolay | [Kratky yöntemi](/kratky-yontemi) |
+| Fitilli sistem | Çözelti fitille ortama çekilir; pompa yok | Kolay | [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) |
+| Gelgit (ebb and flow) | Pompa tablayı periyodik doldurup boşaltır | Orta | [gelgit sistemi](/gelgit-sistemi-topraksiz-yetistirme) |
+| Damlama sistemi | Çözelti ortama damlatılır; büyük bitkilere uygun | Orta–zor | Hobi serasında domates için |
+| Derin su kültürü, NFT | Kökler akan ya da dolu çözeltide durur | Orta–zor | Ticari ve ileri ev sistemleri |
+| Aeroponik, akuaponik | Kökler sisle beslenir; balık ve bitki birlikte | Zor | Özel ekipman ister |
+
+Bu tabloda evde en kolay iki sistem pompasız ve elektriksiz olanlardır. Kratky ve fitilli sistem, pencere önünde birkaç yeşillik için yeter.
+
+## Ortamlar: kokopit, perlit, kil bilye
+
+Topraksız tarımın çoğunda kökler bir ortamda durur. Ortam besin içermez; kökleri tutar, su ve havayı dengeler. Kokopit suyu tutar, perlit havalandırır, kil bilye ve taş yünü inert ve tekrar kullanılabilir ortamlardır. Hangisinin ne işe yaradığını [hidroponik ortamlar](/hidroponik-ortamlar) yazısında, karışım oranlarını [kokopit perlit karışımı](/kokopit-perlit-karisimi) yazısında anlattık. Kokopit tuz içerebildiği için kullanmadan önce yıkanması gerekir; adımlar için [cocopeat yıkama](/cocopeat-yikama) yazısına bakın.
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+## Topraksız tarım nedir, ne değildir?
+
+Topraksız tarım nedir diye sorulduğunda çoğu zaman iki yanlış anlama çıkar. Birincisi, topraksız tarımın "kimyasal" olduğu düşüncesidir; oysa bitki toprakta da suda da aynı mineral besinleri alır, fark besinin nereden geldiğidir. İkincisi, topraksız sistemin bakım gerektirmediği düşüncesidir; tersine, çözelti ve ışık takibi topraklı saksıdan daha sık ilgi ister. Topraksız tarım nedir sorusunun dürüst cevabı şudur: bitki ve besin aynıdır, kök ortamı ve yönetim biçimi farklıdır. Bu yüzden topraklı saksıda iyi bitki yetiştiren biri sistemin mantığını kolayca öğrenir; hatalar çoğunlukla su, ışık ve pH ihmalinden doğar. Yöntem, toprağın sorun olduğu yerlerde (hiç toprağı olmayan mekân, kirli ya da tuzlu toprak) gerçek bir çözümdür; toprağın sorun olmadığı bahçede ise zorunlu değildir.
+
+## Avantajlar ve sınırlar
+
+Topraksız tarımın artıları şunlardır: toprak kaynaklı zararlı ve hastalık sorunları azalır, besin ve su tam kontrol altındadır, bitki hızlı büyür ve kısa mesafede çok sayıda bitki yetiştirilebilir. Toprağı olmayan balkon, mutfak tezgâhı ve kapalı mekân için ayrı bir seçenek sunar. Sınırlar ise şunlardır: pH ve çözelti yönetimi öğrenmeyi gerektirir, çözelti sıcaklığı ve oksijen önemlidir, bazı sistemler elektrik ister ve hata payı toprağa göre azdır. Ayrıca maliyet çoğu zaman toprakta yetiştirmeden yüksektir; evde hidroponiğin maliyeti için [evde hidroponik ne kadara mal olur](/evde-hidroponik-ne-kadara-mal-olur) yazısındaki hesaba bakabilirsiniz. Başlangıçta yapılan hatalar çoğu zaman aynıdır; bunları [topraksız tarım hataları](/topraksiz-tarim-hatalari) yazısında on başlıkta topladık.
+
+## Hangi bitkiler topraksız yetişir?
+
+Yeşillikler ve otlar topraksız tarımın en kolay bitkileridir: marul, roka, tere, ıspanak, fesleğen, nane ve maydanoz az ışıkla ve küçük sistemde yetişir. Çilek orta zorluktadır. Domates, biber ve salatalık gibi meyve veren bitkiler güçlü ışık, büyük ortam hacmi ve destek ister; hobi serasında yapılabilir ama pencere önüne sığmaz. Fesleğen için [hidroponik fesleğen ve mutfak otları](/hidroponik-feslegen), domates için [topraksız domates](/topraksiz-domates) yazılarına bakabilirsiniz.
+
+## Evde başlangıç: en kolay yol
+
+Yeni başlayan için en az hata yaptıran yol şudur: ışık geçirmeyen bir kap, bir ağ saksı, kokopit ya da perlit ve bir fesleğen ya da marul fidesi. Çözeltiyi etiketteki en düşük oranla hazırlayın; pH şeridiyle ölçün ve 5,5–6,5 aralığına getirin. Fideyi küpünde ya da çimlendirme tabletinde başlatın; adımlar için [hidroponik fide küpü](/hidroponik-fide-kupu) yazısına bakın. Işığı pencereden alın; yetmezse bitki lambası ekleyin. Üç temel ölçüm yeter: pH, çözelti sıcaklığı ve ışık süresi.
+
+::: adimlar
+Sistemi seçin | Pompasız Kratky ya da fitilli sistemle başlayın; ayrıntı için ilgili yazılara bakın.
+Kabı hazırlayın | Işık geçirmeyen bir kap ve ağ saksı kullanın; yosunu önlemek için dışını kaplayın.
+Ortamı ve fideyi yerleştirin | Yıkanmış kokopit ya da perlit ve küpte çimlenmiş fideyi ağ saksıya alın.
+Çözeltiyi hazırlayın | Besin ürününü etiketteki en düşük oranla seyreltin ve pH'ı 5,5–6,5 aralığına getirin.
+Takibi başlatın | Seviye, sıcaklık ve yaprak rengini haftada birkaç kez kontrol edin; çözeltiyi iki üç haftada bir yenileyin.
+:::
+
+## Sistemi yaşatmak: bakım konuları
+
+Topraksız sistemin sorunları çoğunlukla üç başlıkta toplanır: sıcaklık, temizlik ve besin dengesi. Çözelti sıcaklığı 18–22 derece civarında tutulmalıdır; ısındıkça oksijen azalır ve kök çürümesi riski artar ([hidroponikte su sıcaklığı ve oksijen](/hidroponikte-su-sicakligi-ve-oksijen)). Yosun ve biyofilm sistemi tıkar; düzenli temizlik için [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısına bakın. Yapraktaki sararma ve yanıklar besin eksikliği ya da fazlalığı olabilir; teşhis için [hidroponikte besin eksikliği belirtileri](/hidroponikte-besin-eksikligi-belirtileri) yazısındaki tablo yardımcı olur. Kök kahverengiyse ve kokuyorsa [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısındaki ilk müdahale adımlarını uygulayın. Balkonda kurulacak sistemler için rüzgâr, güneş ve don yönetimi [balkonda hidroponik](/balkonda-hidroponik) yazısında anlatılıyor.
+
+## Topraksız tarım ve gıda güvenliği
+
+Hidroponik sistemde yetişen sebze de yenmeden önce yıkanmalıdır. Besin çözeltisi hazırlarken temiz su kullanın; kaynağı belirsiz suyla kurulan sistem mikrobiyal risk taşıyabilir. Çözeltiye ya da bitkiye ilaç eklemeyin; hastalık ve zararlı sorununda ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın. Topraksız yetiştirilen ürünün organik sertifikası konusunda ve satışında ise resmî mevzuat geçerlidir; bunun için Tarım ve Orman Bakanlığı yetkili kaynaktır ([Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr)).
+
+[ürün:tarim-perliti]
+
+Topraksız tarım ekipmanı ve ortam seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Topraksız tarım nedir?
+C: Bitkinin toprak yerine kokopit, perlit gibi inert bir ortamda ya da doğrudan suda, besin çözeltisiyle yetiştirilmesidir. En yaygın biçimi hidroponiktir; çözelti pH'ı çoğu bitki için 5,5–6,5 aralığında tutulur.
+
+S: Topraksız tarımda hangi bitkiler yetişir?
+C: Marul, roka, fesleğen, nane ve maydanoz gibi yeşillik ve otlar en kolay yetişenlerdir. Domates, biber ve salatalık güçlü ışık, büyük ortam hacmi ve destek ister; pencere önüne değil, serada ya da güçlü ışıkta uygundur.
+
+S: Evde topraksız tarıma nasıl başlanır?
+C: Pompasız Kratky kabı ya da fitilli sistemle bir fesleğen ya da marul fidesinden başlayın. Işık geçirmeyen kap, yıkanmış ortam, etiketteki en düşük oranda çözelti ve pH ölçümü yeter.
+
+S: Topraksız tarım topraktan daha mı verimli?
+C: Bitkiler hızlı büyüyebilir ve küçük alanda çok sayıda yetişir, ama sistem yönetimi ve maliyeti daha fazladır. Verim, ışığa, sıcaklığa ve çözelti yönetimine bağlıdır; toprakta yetiştirmenin yerini zorunlu olarak almaz.
+
+### YAZI
+slug: sehir-tarimi
+baslik: Şehir Tarımı: Balkon, Çatı ve Ortak Alanlarda Üretim
+yayin: 2027-01-31 11:35
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: şehir tarımı
+seo_baslik: Şehir Tarımı: Balkon, Çatı ve Ortak Alanlarda Üretim
+seo_aciklama: Şehir tarımı nedir? FAO tanımına göre kentte üretimi; balkon, çatı, topluluk bahçesi ve dikey sistemleri, izin, yapı yükü, toprak ve su konularını anlattık.
+ozet: Şehir tarımı, kent içindeki balkon, çatı, bahçe ve ortak alanlarda yapılan gıda üretimidir. FAO tanımını, başlıca biçimlerini, hangi alanda hangi yöntemin uyduğunu, izin ve yapı yükü, toprak ve su konularını ve ilk adımları yazdık.
+etiketler: şehir tarımı, kent tarımı, çatı bahçesi, balkon bahçesi, topluluk bahçesi, dikey tarım
+gorsel: bekliyor
+gorsel_alt: Şehirde bina çatısında yükseltilmiş yataklarda sebze yetiştirilen bir bahçe ve arkasında apartman blokları
+urunler: moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60, yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi
+kisaca: Şehir tarımı, kent içinde ve çevresinde gıda ve diğer ürünlerin yetiştirilmesidir; FAO tanımı arka bahçedeki küçük sebze bahçesinden mahalle derneğinin ortak arazideki üretimine kadar uzanır. Evde balkon ve çatı, mahallede topluluk bahçesi başlıca biçimlerdir. Başlarken izin, yapı taşıma gücü, temiz toprak ve su erişimini kontrol edin.
+@govde
+Şehirde yaşayan biri için bahçe çoğu zaman bir balkon, bir çatı ya da bir pencere önüdür. Buna rağmen binlerce kişi şehirlerde domates, yeşillik ve aromatik bitki yetiştirir ve bu üretim son yıllarda hem bir hobi hem bir politika başlığı olmuştur. Şehir tarımı bu üretimin genel adıdır. Aşağıda tanımı, biçimleri ve pratik konuları sıralıyoruz; her başlığın ayrıntısı için ilgili yazılara yönlendiriyoruz.
+
+## Şehir tarımı nedir?
+
+Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), kent ve kent çevresi tarımını, kentlerin içindeki ve çevresindeki arazi ve diğer alanlarda tarımsal üretim ve ilgili süreçlerle (işleme, dağıtım, pazarlama, geri dönüşüm) gıda ve diğer çıktıların elde edilmesi olarak tanımlar ve alanda tek bir tanım üzerinde uzlaşılmadığını da belirtir ([FAO kent ve kent çevresi tarımı](https://www.fao.org/urban-peri-urban-agriculture/en)). FAO'nun açıklamasına göre bu üretim, arka bahçedeki küçük sebze bahçelerinden bir dernek ya da mahalle grubunun ortak arazide yaptığı üretime kadar geniş bir yelpazeyi kapsar; kent içi üretim çoğunlukla daha küçük ölçektedir, kent çevresi üretimi ise daha yoğun ve ticaridir. FAO ayrıca bu tarımın taze gıdanın kent pazarlarına yakın erişilebilir olmasına katkı verdiğini belirtir. Bu yazı bireysel ve mahalle ölçeğini, yani ev ve topluluk düzeyindeki şehir tarımını ele alıyor.
+
+## Başlıca biçimler
+
+| Biçim | Alan | Uygun üretim | Zorluk |
+|---|---|---|---|
+| Pencere önü ve balkon | 1–10 m² | Yeşillik, otlar, domates, biber | Işık ve ağırlık |
+| Teras ve çatı | 10–100 m² | Yükseltilmiş yatak, saksı, kule | Yapı taşıma gücü, rüzgâr, izin |
+| Topluluk ve mahalle bahçesi | Ortak arazi | Parsel sebze bahçesi, ortak ekim | Arazi izni, toprak, organizasyon |
+| Dikey ve topraksız sistemler | Küçük taban alanı | Yeşillik, çilek, otlar | Ekipman ve elektrik |
+| Okul, kurum ve çatı bahçeleri | Kurum alanı | Eğitim ve örnek üretim | Yönetim izni, bakım sürekliliği |
+
+Ev ölçeğinde başlamak için [evde sebze yetiştirme](/evde-sebze-yetistirme) ve [balkon sebze yatağı](/balkon-sebze-yatagi) yazıları rehberdir. Topluluk ölçeği için [bahçe topluluğu kurmak](/bahce-toplulugu-kurmak) yazısındaki adımlar geçerlidir. Küçük alanı verimli işleme yaklaşımı için [mikro tarım nedir](/mikro-tarim-nedir) yazısına bakabilirsiniz.
+
+## Balkon ve pencere önü
+
+Balkon şehir tarımının en yaygın alanıdır. Işık balkonun cephesine bağlıdır; ölçüm için [balkonunuz kaç saat güneş alıyor](/balkonunuz-kac-saat-gunes-aliyor) yazısı yöntem verir. Ağırlık, sulama ve komşuluk balkonun üç ana sınırlayıcısıdır: [balkonda saksı ağırlığı](/balkonda-saksi-agirligi), [balkon sulamasında komşuluk](/balkon-sulamasinda-komsuluk) ve [balkon zemini nasıl korunur](/balkon-zemini-nasil-korunur) yazıları bunları ele alır. Balkonda hangi verimin beklenebileceği için [balkonda ne kadar sebze çıkar](/balkonda-ne-kadar-sebze-cikar) yazısına bakın.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60]
+
+## Çatı ve teras
+
+Çatı ve teras daha geniş alan sunar ama üç şey dikkat ister: yapı, rüzgâr ve su. Çatının taşıma gücü bina yapısına bağlıdır; ıslak toprakla dolu yataklar yüzlerce kilogram eder. Çok sayıda yatak ya da büyük saksı koymadan önce bina yönetiminden projeyi isteyin ve bir inşaat mühendisinin görüşünü alın. Rüzgâr çatıda daha şiddetlidir; hafif saksılar devrilir ve bitkiler hızla kurur; ilkeler için [rüzgârlı balkon için bitkiler](/ruzgarli-balkon-icin-bitkiler) yazısına bakın. Su yalıtımını bozmamak da önemlidir: yatak ve saksıların altına su geçirmez yalıtımı koruyan altlıklar kullanın. Çatı ve geniş balkon bahçeleri için [teras bahçesi](/teras-bahcesi) yazısı ayrıntı verir. Kat mülkiyeti açısından çatı çoğunlukla ortak alandır; yönetim kararı ve izin gerekir.
+
+## Toprak ve hava: şehrin özel konuları
+
+Şehirde en önemli soru, yetişen sebzenin güvenliğidir. Toprak kirliliği (özellikle eski yerleşimlerde kurşun) ve trafik tozu başlıca risklerdir. Balkon ve çatıda temiz ambalajlı toprak kullanmak toprak riskini büyük ölçüde azaltır; bahçede ise toprak analizi gerekir. Ayrıntı ve yıkama kuralları için [şehirde yetişen sebze güvenli mi](/sehirde-yetisen-sebze-guvenli-mi) yazısına bakın.
+
+## Dikey ve topraksız seçenekler
+
+Alan azaldığında dikey büyümek ve topraksız sistemler öne çıkar. Dikey kuleler çok sayıda yeşillik ve çileği küçük taban alanına sığdırır; kule ve yatak seçimi için [bahçe kulesi mi yükseltilmiş yatak mı](/bahce-kulesi-mi-yukseltilmis-yatak-mi) yazısına bakın. Topraksız tarım toprağı olmayan balkonlarda ve kapalı mekânlarda seçenek sunar; genel çerçeve [topraksız tarım nedir](/topraksiz-tarim-nedir) yazısında. Dikey sistemlerde elektrik, ışık ve su yönetimi ek bilgi ister.
+
+[ürün:yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi]
+
+## Şehir tarımı neden yaygınlaşıyor?
+
+Şehir tarımı iki ihtiyaçtan beslenir: taze ve yakın gıda ile doğayla temas. Kentte yaşayan biri için balkondaki bir domates ya da ev yapımı bir salata hem sofraya hem ruh haline katkı verir. Belediyeler, okullar ve sivil gruplar da bu nedenle üretime ilgi gösterir. Bireysel ölçekte şehir tarımı çoğunlukla bir öğrenme alanıdır: çocuklar sebzenin nereden geldiğini görür, komşular tohum ve fide takas eder, ortak bahçe tanışma ortamı olur. Bu faydalar üretilen kilogramdan bağımsızdır. Beklentiyi buna göre ayarlamak hayal kırıklığını önler: tek bir balkonla bir ailenin tüm sebzesi karşılanmaz, ama yeşillik ve otlarda anlamlı bir pay alınabilir. Küçük ölçekli şehir tarımı bir gıda bağımsızlığı değil, bir beceri ve alışkanlık kazanımıdır.
+
+## İzin, mevzuat ve komşuluk
+
+Şehirde üretim yaparken sosyal ve hukuki kurallar da vardır. Apartmanda balkon ve çatı kullanımı kat mülkiyeti kurallarına tabidir; ortak alana (çatı, bahçe, giriş) bitki koymak yönetim izni gerektirir. Belediye arazisi ya da boş arsa kullanımı sahibinden yazılı izin ister. Ürün satmak ise ayrı bir mevzuat alanıdır; tarımsal ürün satışı, gıda güvenliği ve kayıt kuralları için Tarım ve Orman Bakanlığı ve il ya da ilçe tarım müdürlüğü yetkili kaynaktır ([Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr)). Gürültü, koku, su damlaması ve komşuluk ilişkisi de bir şehir bahçecisinin gündeminde olmalıdır.
+
+## İlk adımlar
+
+Şehir tarımına başlamak için ilk üç adım basittir: ışığı ve alanı ölçün, hangi biçimin (balkon, çatı, topluluk) size uyduğunu belirleyin ve küçük başlayın. İlk sezonda yeşillik ve otlar, ikinci sezonda domates ve biber ekleyin. Bir bahçe defteri tutmak, hangi saksının ne verdiğini görmenizi sağlar; ayrıntı için [bahçe defteri](/bahce-defteri) yazısına bakın. Topluluk fikri size uyuyorsa mahallenizdeki bahçe meraklılarını tohum takası etrafında toplamak en kolay başlangıçtır.
+
+Balkon ve teras bahçesi ekipmanı konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Şehir tarımı nedir?
+C: Kent içinde ve çevresinde gıda ve diğer ürünlerin yetiştirilmesidir. FAO tanımı arka bahçedeki küçük sebze bahçesinden mahalle grubunun ortak arazideki üretimine kadar uzanır; ev ölçeğinde balkon, çatı ve pencere önü başlıca alanlardır.
+
+S: Şehirde nerede tarım yapılabilir?
+C: Balkon, pencere önü, teras ve çatı, bahçe, ortak alanlar ve topluluk bahçeleri uygundur. Alana göre yükseltilmiş yatak, saksı, dikey kule ya da topraksız sistem seçilir; çatı ve ortak alan için izin gerekir.
+
+S: Şehir tarımında toprak güvenli midir?
+C: Balkon ve çatıda temiz ambalajlı toprak kullanırsanız toprak riski azalır. Bahçede ve boş arsada kurşun gibi kirlilik olabilir; toprak analizi yaptırın ve şüphede yükseltilmiş yatak kullanın.
+
+S: Çatıda sebze yetiştirmek için ne gerekir?
+C: Bina yönetiminin izni, yapının taşıma gücü konusunda mühendis görüşü, rüzgâr koruması ve su yalıtımını koruyan altlıklar gerekir. Islak toprak ağırlığı yüzlerce kilogram olabilir; yükü önceden hesaplayın.
+
+### YAZI
+slug: suda-bitki-yetistirme
+baslik: Suda Bitki Yetiştirme: Topraksız Mutfak ve Salon Bitkileri
+yayin: 2027-01-31 14:05
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: suda bitki yetiştirme
+seo_baslik: Suda Bitki Yetiştirme: Mutfak ve Salon Bitkileri
+seo_aciklama: Suda bitki yetiştirme: pothos, philodendron ve nane çeliklerinin suda köklenmesi, şans bambusu, su değişimi, ışık ve toprağa geçiş zamanını anlattık.
+ozet: Suda bitki yetiştirme iki farklıdır: çeliği suda köklendirip toprağa geçirmek ve bazı bitkileri kalıcı olarak suda tutmak. Hangi bitkilerin suyu sevdiğini, su değişimini, ışık ve besin ihtiyacını, suda köklenmiş çeliği toprağa alma zamanını ve riskleri üniversite yayımlarıyla yazdık.
+etiketler: suda bitki yetiştirme, suda köklendirme, pothos, philodendron, şans bambusu, vazoda bitki
+gorsel: bekliyor
+gorsel_alt: Pencere önünde şeffaf cam vazolarda suya konmuş pothos dalları, şans bambusu ve nane çelikleri
+urunler: hg-kil-bilyesi, hg-salon-sarmasigi-topragi
+kisaca: Suda bitki yetiştirme iki biçimde yapılır: pothos, philodendron, nane, fesleğen ve coleus gibi çelikler suda köklendirilip köklenince toprağa alınır; şans bambusu gibi birkaç bitki ise kalıcı suda tutulur. Suyu birkaç günde bir yenileyin, çelikleri parlak dolaylı ışıkta tutun; suda oluşan kökler zayıf olduğundan çoğu bitkiyi uzun süre suda bırakmayın.
+@govde
+Pencere kenarındaki bir cam bardakta uzayan beyaz kökleri izlemek, bitkilerle uğraşmanın en keyifli kısımlarından biridir. Suda bitki yetiştirme kolay, ucuz ve görsel bir yöntemdir; ama iki ayrı şeyi karıştırmamak gerekir. Birincisi çeliğin suda köklenmesidir; bu geçici bir adımdır. İkincisi bazı bitkilerin kalıcı olarak suda yaşatılmasıdır. Aşağıda ikisini ve dikkat edilecek noktaları sıralıyoruz.
+
+## Suda bitki yetiştirme: geçici köklendirme ve kalıcı su kültürü
+
+| Yöntem | Amaç | Örnek bitkiler | Sonraki adım |
+|---|---|---|---|
+| Suda köklendirme | Çelikten yeni bitki elde etmek | Pothos, philodendron, nane, fesleğen, coleus | Kök oluşunca toprağa taşıma |
+| Kalıcı su kültürü (vazoda) | Bitkiyi suda yaşatmak | Şans bambusu, bazı su bitkileri, sümbül | Su ve besin bakımı |
+| Hidroponik kap | Düzenli besin çözeltisiyle yetiştirme | Yeşillik, otlar | Bkz. [Kratky yöntemi](/kratky-yontemi) |
+| Sebze kökünü suda uzatma | Eğlence ve küçük hasat | Havuç başı, pırasa dibi, yeşil soğan | Birkaç haftada yenilenir |
+
+Sistemli ve besin çözeltili hidroponik yetiştirme başka bir konudur; genel çerçeve için [topraksız tarım nedir](/topraksiz-tarim-nedir) yazısına bakın. Bu yazı mutfak ve salon bitkilerinin suyla basit kullanımını ele alıyor.
+
+## Hangi çelikler suda köklenir?
+
+Maryland Üniversitesi Extension, suda kolay köklenen beş bitki arasında kalp yapraklı philodendron, altın pothos ve coleus'u sayar; ışığı parlak ama doğrudan güneşsiz, soğuk hava akımından uzak bir yer önerir ve oda sıcaklığının yaklaşık 21 derece olmasını ideal bulur ([Maryland Extension suda köklenen bitkiler](https://marylandgrows.umd.edu/2017/11/20/make-more-plants-from-cuttings-5-plants-that-root-easily-in-water/)). Nevada Üniversitesi Extension, çelikte on gün içinde köklerin görünmeye başladığını belirtir ve suyun temiz ve taze tutulması, birkaç günde bir değiştirilmesini önerir ([Nevada Extension salon bitkilerini çoğaltma](https://extension.unr.edu/publication.aspx?PubID=3384)). Iowa State Üniversitesi Extension ise büyük yaprakların kırpılmasını önerir; çünkü köksüz çelik suyu sınırlı alır ([Iowa State Extension gövde ucu çeliği](https://yardandgarden.extension.iastate.edu/how-to/how-propagate-houseplants-stem-tip-cuttings)). Mutfaktan nane ve fesleğen dalları da suda köklenir.
+
+::: adimlar
+Çeliği kesin | Temiz makasla, boğumun hemen altından 10–15 cm'lik bir dal kesin; alt yaprakları koparın, su içinde yaprak kalmasın.
+Suya koyun | Çeliği şeffaf bir bardağa ya da vazoya koyun; yalnızca boğum ve gövde suda olsun.
+Işığa alın | Parlak dolaylı ışıkta, doğrudan güneşsiz ve soğuk akımsız bir yerde tutun.
+Suyu yenileyin | Suyu birkaç günde bir değiştirin; bulanıksa hemen yenileyin.
+Kökü bekleyin | 1–3 hafta içinde beyaz kökler çıkar; 3–5 cm olunca toprağa alın.
+:::
+
+## Toprağa geçiş: suda uzun süre kalmayın
+
+Suda köklenmenin bilinen bir sınırı vardır. Illinois Üniversitesi Extension, suda gelişen köklerin çoğu zaman zayıf olduğunu ve saksı toprağına kolay uyum sağlamadığını belirterek suda köklendirmeyi sarmaşık ve philodendron için bile önermez ([Illinois Extension salon bitkisi çoğaltma](https://extension.illinois.edu/houseplants/propagation)). Nevada Extension suya alışmış çeliğin toprağa geçişte stres yaşayabileceğini söyler. Pratik çözüm: kök 3–5 cm olunca çeliği hafif ve nemli bir ortama (saksı toprağı, perlitli karışım) alın ve ilk iki hafta toprağı nemli tutun. Suda yıllarca bırakılan pothos yaşar ama kökler su köküne alışmış olduğundan toprağa dikilince zorlanabilir. Toprak seçimi için [salon sarmaşığı toprağı](/salon-sarmasigi-topragi) yazısına bakın.
+
+[ürün:hg-salon-sarmasigi-topragi]
+
+## Kalıcı suda yaşayan bitkiler
+
+Bazı bitkiler suda uzun süre yaşar. Şans bambusu bunların en bilinenidir: bir vazoda kil bilye ya da çakılla sabitlenmiş hâlde yıllarca durabilir; bakım ayrıntıları için [şans bambusu bakımı](/sans-bambusu-bakimi) yazısına bakın. Sümbül ve nergis soğanları suda çiçek açar; [suda sümbül yetiştirme](/suda-sumbul-yetistirme) yazısı adımları verir. Avokado çekirdeği de bir süre suda çimlenir; [avokado çekirdekten yetiştirme](/avokado-cekirdekten-yetistirme) yazısına bakabilirsiniz. Pothos ve philodendron suda yaşar ama zamanla besin eksikliği belirtisi gösterir; çok seyreltik sıvı besin (etiketteki oranın dörtte biri) ayda bir kez verilebilir. Kalıcı suda tutulan bitkide su kaybı kadar su kalitesi de önemlidir.
+
+## Suda bitki yetiştirme kimler için uygun?
+
+Suda bitki yetiştirme özellikle toprak kirinden kaçınan, küçük alanda yaşayan ve çocuklarla gözlem yapmak isteyenler için uygundur. Kiracılar ve öğrenciler için taşınması kolay bir bahçedir: bir bardak çelik valizde bile götürülebilir. Tezgâhta ya da pencere önünde az yer kaplar ve saksı, toprak ve altlık masrafı gerektirmez. Öte yandan suda bitki yetiştirme her bitki için doğru değildir; etli bitkiler (sukulent, kaktüs) suda kolay çürür ve bu bitkiler suda değil kuru ortamda köklendirilir. Yöntemin ilk kuralı, bitkinin suyu sevip sevmediğini bilmektir; bilmediğiniz bir bitkiyi suda denemeden önce çeliğinizi ikiye ayırıp bir kısmını nemli ortamda köklendirmek güvenli bir sigortadır. Suda bitki yetiştirme, topraklı bakımın yerini tutan değil, onu tamamlayan bir yöntem olarak düşünüldüğünde en iyi sonucu verir.
+
+## Su kalitesi ve değişim
+
+Su, bitkinin kök ortamıdır. Musluk suyunu bir gün dinlendirmek klorun uçmasını sağlar. Su bulanıyor, kokuyor ya da yeşilleniyorsa hemen yenileyin: bakteri ve yosun kökleri çürütür. Kabı ışık geçirmeyen ya da dışı kaplı seçmek yosunu azaltır; şeffaf kapta yosun kaçınılmazdır, kökleri izlemek istiyorsanız kabı sık temizleyin. Kil bilye ya da çakıl gövdeyi sabit tutar ve suyun buharlaşmasını yavaşlatır; kil bilyenin kullanımı için [kil bilyesi nedir](/kil-bilyesi-nedir-nasil-kullanilir) yazısına bakın.
+
+[ürün:hg-kil-bilyesi]
+
+## Mutfakta suda yetişenler
+
+Mutfak artıkları suda yeniden yeşerir. Yeşil soğanın kök kısmı bir bardak suda birkaç günde uzar ve yeniden kesim verir. Havuç başı ve pırasa dibi yeni yaprak çıkarır ama tatlı havuç kökü yenmez ve bitki zamanla zayıflar; bu bir eğlence etkinliğidir, ciddi bir üretim değil. Fesleğen ve nane dalları suda köklenip saksıya alınarak sürekli ot kaynağı olur; ayrıntı için [hidroponik fesleğen ve mutfak otları](/hidroponik-feslegen) yazısındaki bakım bilgisi suda kökte de geçerlidir. Çocuklarla yapılabilecek suda yetiştirme deneyleri için [yarıyıl tatilinde bitki etkinliği](/yariyil-tatilinde-bitki-etkinligi) yazısı fikir verir.
+
+## Dikkat edilecek riskler
+
+- **Zehirli bitkiler:** Pothos ve philodendron evcil hayvan ve çocuklar için zehirlidir; sudaki dallar da dahil erişilemeyecek yere konmalıdır ([zehirli ev bitkileri](/zehirli-ev-bitkileri)).
+- **Sivrisinek:** Açık, durgun su sivrisineğe yumurtlama yeri olabilir; suyu sık değiştirin.
+- **Küf ve koku:** Bulanık su kökü çürütür; sudaki yaprakları temizleyin.
+- **Düşen kap:** Cam vazoları sağlam yerlere koyun; kırılan cam yaralanma riski taşır.
+- **Kök çürümesi:** Dipteki gövde yumuşarsa çeliği kesip yeniden köklendirin.
+
+Bitki, kil bilye ve toprak seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Suda bitki yetiştirme mümkün mü?
+C: İki biçimde mümkündür: pothos, philodendron, nane ve fesleğen gibi çelikler suda köklendirilip toprağa alınır; şans bambusu gibi birkaç bitki ise kalıcı olarak suda yaşatılır. Her bitki suda kalıcı yaşamaz.
+
+S: Suda köklenen çelik ne zaman toprağa alınır?
+C: Kökler 3–5 cm olunca hafif ve nemli bir ortama alınır. Suda gelişen kökler zayıftır; uzun süre bırakılırsa toprağa geçişte bitki stres yaşar. İlk iki hafta toprağı nemli tutun.
+
+S: Suda yetişen bitkinin suyu ne sıklıkla değiştirilir?
+C: Birkaç günde bir ya da su bulanınca değiştirilir. Temiz ve taze su kök çürümesi ve yosunu önler; musluk suyunu bir gün dinlendirmek klorun uçmasına yardım eder.
+
+S: Suda yetişen bitkiye gübre verilir mi?
+C: Uzun süre suda tutulan bitkiye ayda bir kez çok seyreltik sıvı besin (etiketteki oranın dörtte biri kadar) verilebilir. Çeliğin köklenme dönemi için besin gerekmez; fazla besin yosunu artırır.
+
+### YAZI
+slug: fidelere-solucan-gubresi-verilir-mi
+baslik: Fidelere Solucan Gübresi Verilir mi? Doğru Oran ve Zaman
+yayin: 2027-01-31 16:40
+yazar: Muhammed Hamza Çelik
+kategori: gubreleme
+odak: fidelere solucan gübresi
+seo_baslik: Fidelere Solucan Gübresi Verilir mi? Oran ve Zaman
+seo_aciklama: Fidelere solucan gübresi verilir mi? Çimlendirmede kullanılmaz; şaşırtmada fide toprağına karışım oranı, sıvı seyreltme, zamanlama ve yanık riskini anlattık.
+ozet: Fidelere solucan gübresi verilebilir; ama çimlendirme ortamında tek başına kullanılmaz, şaşırtma ve gelişme döneminde fide toprağına hacmen yaklaşık onda bir ile beşte bir oranında karıştırılır. Oran, zaman, katı ve sıvı biçim farkı, yanık ve tuz riski ve bitki tepkisi için üniversite kaynaklarını ve pratik ölçüleri yazdık.
+etiketler: solucan gübresi, fide gübreleme, fide toprağı, şaşırtma, sıvı solucan gübresi, organik fide
+gorsel: bekliyor
+gorsel_alt: Fide viyollerinde genç domates fideleri ve yanında karıştırma kabında koyu renkli solucan gübresi
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi, hg-fide-topragi
+kisaca: Fidelere solucan gübresi verilir; ama çimlendirme ortamında kullanılmaz ve fide toprağına hacmen yaklaşık onda bir ile beşte bir oranında karıştırılır. Şaşırtma ve ilk gerçek yapraklardan sonra uygulanır; sıvı solucan gübresi seyreltilerek verilir. Cornell ve LSU kaynakları yaklaşık yüzde 10 ve 1:4 oranlarını anar; fazlası tuz birikimi ve yanık riski taşır.
+@govde
+Solucan gübresi, organik bahçıvanların en sevdiği besinlerden biridir; ama fide tepsisinde "ne kadar" sorusu en çok yanlış yapılan konudur. Fide küçük, kökü nazik ve toprak hacmi sınırlıdır; fazla gübre yaprağı yakar, az gübre ise fideyi cılız bırakır. Fidelere solucan gübresi verilir mi sorusunun kısa cevabı "evet, ama doğru oranda ve doğru zamanda"dır. Aşağıda ne zaman, ne kadar ve hangi biçimde vereceğinizi anlatıyoruz. Solucan gübresinin genel özellikleri için [solucan gübresi nedir, nasıl kullanılır](/solucan-gubresi-nedir-nasil-kullanilir) yazısına bakabilirsiniz.
+
+## Çimlendirme ortamı ile fide ortamı farklıdır
+
+Tohum çimlenirken kendi besin deposunu kullanır; bu dönemde ortamın görevi nem ve hava sağlamaktır. Çimlendirme ortamına güçlü bir gübre koymak gereksizdir ve çözünebilir tuzlar tohumu rahatsız edebilir. Bu yüzden tohum ekimi için hafif, steril ve düşük besinli bir ortam seçin; bu amaçla vermikülit ya da hafif fide toprağı uygundur ([vermikülitte tohum çimlendirme](/vermikulitte-tohum-cimlendirme) yazısı bir seçenek anlatır). Fide ilk gerçek yapraklarını açınca, yani şaşırtma döneminde besin ihtiyacı başlar. Solucan gübresi bu aşamada devreye girer; şaşırtma adımları için [fide şaşırtma](/fide-sasirtma) yazısına bakabilirsiniz.
+
+## Fidelere solucan gübresi oranı: hacmen yüzde 10–20
+
+Fide toprağına katılacak solucan gübresi miktarı konusunda tek bir kesin değer yoktur; kaynaklar birbirine yakın aralıklar verir. Cornell Üniversitesi'nin organik fide üretimi kaynağında temel karışıma hacmen yüzde 10 vermikompost katılmış ve fideler iyi büyümüştür ([Cornell organik sebze fidesi altlıkları ve gübreleri](https://greenhouse.cornell.edu/crops-culture/substrates-and-fertilizers-for-organic-vegetable-transplant-production)). Louisiana Eyalet Üniversitesi (LSU) AgCenter ise solucan gübresinin saksı karışımına, saksı ya da tepsi doldururken ya da saksı değiştirirken katılabileceğini belirtir; yaygın bir karışım 1 kısım solucan gübresi ile 4 kısım karışımdır (LSU AgCenter). Bu iki bilgi birleştiğinde başlangıç aralığı hacmen yüzde 10 ile yüzde 20'dir. Daha yüksek oranlar fide dönemi için gereksizdir ve riskli olabilir.
+
+| Durum | Önerilen oran (hacimce) | Not |
+|---|---|---|
+| Tohum çimlendirme | Katmayın ya da çok az | Tohum kendi besinini kullanır |
+| Şaşırtma karışımı | Yaklaşık %10 | Başlangıç için güvenli |
+| Güçlü gelişme, uzun süre fide kalacak bitki (domates, biber) | %10–20 (1:4'e kadar) | Fazlasından kaçının |
+| Dikim çukuru (bahçeye çıkarken) | Avuç dolusu, toprağa karıştırarak | Köke doğrudan değdirmeyin |
+
+## Fide gübrelemesinde temel ilke: az ama zamanında
+
+Fidelere solucan gübresi verirken temel ilke, az ve zamanında vermektir. Fide, yetişkin bitkiden farklı olarak küçük bir toprak hacminde ve kısa sürede yaşar; bu hacimde biriken tuz hızla kök ortamını bozar. Fidelere solucan gübresi bu nedenle yüksek oranda değil, hafif bir temel olarak düşünülmelidir. Bahçeye çıkarken dikim çukuruna ve toprağa asıl besin verilecektir; fide dönemindeki görevi, bitkiyi cılız bırakmayacak kadar besin sağlamaktır. Fide toprağı hazır karışımsa içinde genellikle başlangıç besini bulunabilir; bu durumda ek solucan gübresine gerek olmayabilir. Etiketi okuyun: besin eklenmiş bir karışıma bir de solucan gübresi koymak fazla yüklemeye yol açar. Küçük bir deneme tepsisi hazırlamak da akıllıca olur: aynı fideden bir tepsiyi gübreli, birini gübresiz büyütüp karşılaştırın.
+
+## Fide türüne göre beklenti
+
+Domates, biber ve patlıcan gibi yavaş büyüyen ve fide tepsisinde uzun kalan sebzeler besine daha çok ihtiyaç duyar; marul ve lahana gibi hızlı sebzeler kısa sürede dikime gider ve çoğu zaman ek besine ihtiyaç duymaz. Fide boyunun çok uzaması çoğunlukla gübre değil ışık eksikliğidir; fideler ışık arayarak uzuyorsa gübreyi artırmak sorunu çözmez, ışığı artırmak gerekir. Aynı şekilde sararma her zaman besin eksikliği demek değildir; aşırı sulama ve düşük sıcaklık da yaprakları soldurur.
+
+## Katı ve sıvı solucan gübresi: hangisi, ne zaman?
+
+Katı solucan gübresi toprağa karıştırılan ya da yüzeye serilen granül biçimdir; sıvı solucan gübresi ise seyreltilip sulama suyuyla verilir. Fide döneminde katı biçim fide toprağına baştan karıştırılır; sıvı biçim ise ilk gerçek yapraklardan sonra, haftada bir ya da iki haftada bir ve etiketteki oranın altında seyreltilerek verilir. Sıvı solucan gübresi için [sıvı solucan gübresi nasıl kullanılır](/sivi-solucan-gubresi-nasil-kullanilir), katı için [katı solucan gübresi saksıya nasıl konur](/kati-solucan-gubresi-saksiya-nasil-konur) yazıları ayrıntı verir. Aynı anda hem katı hem sıvı kullanmak aşırı yüklemeye yol açabilir; birini seçin.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Adım adım uygulama
+
+::: adimlar
+Fide toprağını hazırlayın | Hafif fide toprağını ve solucan gübresini hacimce 9:1 ya da 4:1 oranında iyice karıştırın.
+Nemlendirin | Karışımı hafifçe nemlendirip bir gün dinlendirin; böylece nem dağılır.
+Şaşırtın | Fideleri ilk gerçek yaprakta karışımın doldurulduğu saksılara alın; kökü zedelemeyin.
+Sıvı destek verin | Gerekirse iki hafta sonra seyreltilmiş sıvı solucan gübresini düşük dozda verin.
+Gözlemleyin | Yaprak rengini ve büyümeyi izleyin; koyu yeşil ve sağlam gelişim yeterli beslenmenin işaretidir.
+:::
+
+Fide ışığı için [fide aydınlatması](/fide-aydinlatmasi), genel adımlar için [evde fide yetiştirme](/evde-fide-yetistirme) yazıları geçerlidir.
+
+## Fazlasının riskleri: yanık, tuz ve cılız gelişim
+
+Solucan gübresi doğal olsa bile çözünebilir tuz ve besin içerir; fazlası fidede yaprak ucu yanığı, büyümede duraklama ve kök bölgesinde tuz birikmesi yapabilir. Fide toprağı hacmi küçük olduğu için tuz birikmesi hızlıdır. Belirtiler şunlardır: yaprak kenarlarında kurumaya, bitkinin koyu ve sert görünmesi, büyümenin durması ve toprak yüzeyinde beyaz kabuk. Bu durumda fideyi taze, gübresiz fide toprağına alın ve bol suyla yıkayın. Tuz kabuğu için [saksıda tuz birikmesi](/saksida-tuz-birikmesi), yanık belirtileri için [gübre yakması](/gubre-yakmasi) yazılarına bakabilirsiniz. Gübrenin çözünebilir tuz miktarı ürünle değiştiği için, sürekli kullandığınız karışımı küçük bir deneme tepsisinde sınayın.
+
+## Solucan gübresi mi, başka besin mi?
+
+Solucan gübresi fide için tek seçenek değildir. Kimyasal gübre ve diğer organik besinlerle kıyaslama için [solucan gübresi mi kimyasal gübre mi](/solucan-gubresi-mi-kimyasal-gubre-mi) yazısına, gerçekçi beklenti için [solucan gübresi etkisi ne zaman görülür](/solucan-gubresi-etkisi) yazısına bakın. Doğru karışım ve doğru oranla solucan gübresi fide döneminde iyi bir başlangıç besini olabilir; ama mucize beklemeyin: ışık, sıcaklık ve sulama dengesi besinden daha belirleyicidir.
+
+[ürün:hg-fide-topragi]
+
+Fide toprağı ve gübre oranı konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Fidelere solucan gübresi verilir mi?
+C: Verilir ama çimlendirme ortamında kullanılmaz. Şaşırtmada fide toprağına hacmen yaklaşık %10–20 oranında karıştırılır; ilk gerçek yapraklardan sonra seyreltilmiş sıvı solucan gübresi de verilebilir.
+
+S: Fide toprağına ne kadar solucan gübresi karıştırılır?
+C: Başlangıç için hacmen yaklaşık %10, güçlü gelişen fidelerde 1 kısım solucan gübresi 4 kısım karışıma kadar çıkılabilir. Daha fazlası tuz birikmesi ve yanık riski taşır.
+
+S: Tohum ekim ortamına solucan gübresi koyulur mu?
+C: Gerekmez. Tohum çimlenme için kendi besin deposunu kullanır; fazla gübre çözünebilir tuz ve besin yüküyle çimlenmeyi zorlayabilir. Besini şaşırtma döneminde fide toprağıyla verin.
+
+S: Fidede solucan gübresi fazla gelirse ne olur?
+C: Yaprak ucu yanar, büyüme durur ve toprak yüzeyinde beyaz tuz kabuğu oluşabilir. Fideyi gübresiz taze toprağa alıp bol suyla yıkayın; sonraki karışımda oranı düşürün.
+
+### YAZI
+slug: bugdayda-ust-gubreleme
+baslik: Buğdayda Üst Gübreleme: Kardeşlenme Döneminde Azot
+yayin: 2027-01-31 19:30
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: buğdayda üst gübreleme
+seo_baslik: Buğdayda Üst Gübreleme: Kardeşlenmede Azot Zamanı
+seo_aciklama: Buğdayda üst gübreleme ne zaman yapılır? Kardeşlenme ve sapa kalkmada azotun bölünmesi, kuru ve sulu koşul farkı, analiz ve il müdürlüğü önerisi.
+ozet: Buğdayda üst gübreleme, azotun bitkinin gelişme durumuna göre kardeşlenme ve sapa kalkma döneminde parçalı verilmesidir. Kuru ve sulu koşul farkını, azotun en çok alındığı dönemi, protein ve kalite ilişkisini, toprak analizi ve il müdürlüğü önerilerinin önemini bakanlık yayınlarına dayanarak yazdık.
+etiketler: buğday gübreleme, üst gübre, azot, kardeşlenme, sapa kalkma, hububat
+gorsel: bekliyor
+gorsel_alt: Kış sonunda kardeşlenmiş yeşil buğday tarlasında gübre serpen römork ve yakın plan buğday başakları
+urunler: leonardit-organik-toprak-duzenleyici
+kisaca: Buğdayda üst gübreleme, azotlu gübrenin ekimden sonra bitkinin gelişmesine göre, kardeşlenme sonu ile sapa kalkma başlangıcında verilmesidir. İl müdürlükleri kuru koşulda tek, yağışlı ya da sulu koşulda iki seferde uygulamayı önerir. Doz toprak analizine göre belirlenir; azot en çok sapa kalkma ile başaklanma arasında alınır.
+@govde
+Buğday ekimden hasada kadar azot ister; ama bu azotu bir seferde ya da yanlış zamanda vermek hem parayı hem verimi kaybettirir. Buğdayda üst gübreleme, ekimde verilen taban gübresinin üstüne ilkbaharda eklenen azotlu gübre uygulamasıdır. Zamanlama takvime değil bitkiye bakılarak belirlenir. Bu yazı buğdayın özelliklerine odaklanır; arpa için benzer bir yazı [arpada gübreleme](/arpada-gubreleme) başlığıyla yayında. Verilen bilgiler genel ilkelerdir; kesin doz için toprak analizi ve il tarım müdürlüğü önerisi esastır.
+
+## Buğdayda üst gübreleme neden gerekir? Azot ne zaman?
+
+Buğday kışı kardeşlenme öncesi ve sırasında geçirir; ilkbaharda sapa kalkar, başaklanır ve dane doldurur. Azotun bitki tarafından alımı bu dönemde artar. Samsun İl Tarım Müdürlüğü'nün buğday üst gübreleme yayınına göre azotun alımı sapa kalkma döneminde artar ve başaklanma döneminde en üst düzeye ulaşır ([Samsun İl Tarım Müdürlüğü buğdayda üst gübreleme](https://samsun.tarimorman.gov.tr/Haber/1145/Bugdayda-Verim-Ve-Kalite-Artisi-Icin-Ust-Gubreleme-Onemli)). Taban gübresindeki azotun bir kısmı kış yağışlarıyla yıkanabilir; üst gübre bitkinin en çok ihtiyaç duyduğu dönemde azotu yeniden sağlar. Bu nedenle üst gübre hem verimi hem danenin protein oranını belirler.
+
+## Kuru ve sulu koşul: tek mi, iki seferde mi?
+
+Zamanlama ve bölünme koşula bağlıdır. Samsun İl Müdürlüğü, yağışa bağlı kuru koşullarda üst gübrenin tek seferde, yağışın yeterli olduğu ya da sulama yapılan yerlerde iki seferde (kardeşlenme ortasında ve sapa kalkma döneminde) uygulanmasını önerir. Konya İl Tarım Müdürlüğü de sulu koşullarda azotun iki parçaya bölünmesini, ilk parçanın kardeşlenme sonu ile sapa kalkma başlangıcında verilmesini ve üst gübrelemenin tarım takvimine göre değil bitkinin gelişme durumuna göre yapılmasını vurgular ([Konya İl Tarım Müdürlüğü hububatta üst gübreleme](https://konya.tarimorman.gov.tr/Haber/214/Hububatta-Verim-Ve-Kalite-Artisi-Icin-Ust-Gubrelemenin-Parcalar-Halinde-Yapilmasi-Gerekir)).
+
+| Koşul | Üst gübre biçimi | Zamanlama |
+|---|---|---|
+| Kuru (yağışa bağlı) | Genellikle tek seferde | Kardeşlenme dönemi |
+| Yağışlı yıl ya da sulu | İki seferde parçalı | Kardeşlenme ortası–sonu ve sapa kalkma başı |
+| Çok yağışlı, yıkanma riski yüksek | Parçalı, daha küçük dozlarla | Bitkinin gelişmesine göre |
+
+Parçalı uygulama, yağışla azot yıkanmasını azaltır ve bitkinin azotu ihtiyaç duyduğu zaman almasını sağlar. Konya yayını, yağışlı yıllarda danede protein oranını artırmak için üst gübrelemenin parçalar hâlinde yapılması gerektiğini de belirtir.
+
+## Zamanı nasıl anlarsınız? Bitkiye bakın
+
+Üst gübrenin zamanını takvim değil, bitkinin evresi belirler. Kardeşlenme döneminde bitkiyi tarlada sökerek kardeşleri sayın: ana sap yanında üç dört kardeş görüyorsanız kardeşlenme başlamıştır. Kış sonunda toprak çözülüp bitki yeniden büyümeye başladığında ilk üst gübre için hazırlanın. Sapa kalkma, bitkinin gövdesinin uzamaya başladığı evredir; bu evre ilk boğumun görünmesiyle anlaşılır. Kardeşlenme ve ekim sıklığı konusundaki genel bilgi için [tahıllarda kardeşlenme ve ekim sıklığı](/tahillarda-kardeslenme) yazısına bakabilirsiniz. Kış donu ve kar örtüsünün buğday üzerindeki etkisi için [kışlık tahıllarda don ve kar örtüsü](/kislik-tahillarda-don) yazısı geçerlidir.
+
+## Protein ve kalite: azot nasıl etki eder?
+
+Buğdayda azot yalnız verimi değil, danenin protein oranını ve unun kalitesini de etkiler. Her iki il müdürlüğü yayını da protein oranı için azotun önemini vurgular. Ancak azotun fazlası riskli olabilir: bitki uzar, yumuşar ve yatma riski artar; ayrıca hastalıklara yatkınlık yükselir. Bu yüzden dozu analize göre belirlemek ve gereksiz yere artırmamak gerekir. Hastalıkların belirtileri için [buğday hastalıkları](/bugday-hastaliklari) yazısına bakabilirsiniz.
+
+## Buğdayda üst gübreleme hataları
+
+Buğdayda üst gübreleme yaparken en sık hata, zamanı takvime bağlamaktır; soğuk bir bahar bitkiyi birkaç hafta geriye alabilir ve erken verilen gübre yıkanır. İkinci hata, tek seferde yüksek doz atmaktır; özellikle yağışlı yıllarda azotun bir kısmı kök bölgesinden uzaklaşır. Üçüncü hata, donmuş ya da suya doymuş toprağa gübre atmaktır; gübre buradan akıp gider. Dördüncü hata, gübre türünü hesaba katmamaktır; etiketteki azot oranı ve gübrenin biçimi dozu belirler. Buğdayda üst gübreleme planı yaparken bölgenizin hava durumuna ve önceki ürüne de bakın: baklagil sonrası ekilen buğday ile ayçiçeği ya da mısır sonrası ekilen buğdayın azot ihtiyacı farklı olabilir. Komşunun dozunu kopyalamak yerine kendi toprağınızın analizine ve ilinizin müdürlüğünün önerisine bakın.
+
+## Doz: neden analiz ve il müdürlüğü?
+
+Gübre dozu tahmin değil, ölçüm ve bölge bilgisi işidir. Toprağın organik maddesi, önceki ürün, yağış, sulama durumu ve hedef verim doza etki eder. Bu nedenle kesin doz için toprak analizi yaptırın: numune alma için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir), sonuçları okumak için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazılarına bakın. Bakanlığın buğday tarımı broşürleri ve il müdürlüklerinin bölgesel gübreleme rehberleri güncel öneriler içerir; kaynaklar eski olabilir, bu yüzden bulunduğunuz ilin tarım müdürlüğüyle teyit edin ([Bakanlık araştırma enstitüsü buğday tarımı broşürü](https://arastirma.tarimorman.gov.tr/ktae/Belgeler/brosurler/Bu%C4%9Fday%20Tar%C4%B1m%C4%B1.pdf)). Gübre zamanı ve hava durumunun ilişkisi için [gübreleme zamanı](/gubreleme-zamani) yazısı genel çerçeve verir.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Uygulama: serpme, eşit dağıtım ve hava
+
+Üst gübre genellikle serpme makinesiyle verilir. Eşit dağılım şarttır; yan yana geçişlerde boşluk ve çakışma olursa bitki şeritli büyür. Rüzgârsız, kuru bir günde uygulayın; donmuş ya da çamurlu toprağa gübre atmayın. Gübreyi atmadan önce serpme makinesinin kalibrasyonunu kontrol edin. Yağıştan hemen önce verilen gübre toprağa karışır ve kayıp azalır; ama şiddetli yağış beklenirken vermek yıkanmaya yol açar. Ayrıca yabancı otlar azotu bitkiyle paylaşır; yabancı ot yönetimi için [tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi) yazısına bakabilirsiniz.
+
+## Buğday ile arpa arasındaki fark
+
+İki hububat benzer ilkelerle gübrelenir, ama buğdayda protein ve ekmeklik kalite öne çıkar; arpada ise bira ve malt için aşırı proteinden kaçınılır. Buğday azotu genellikle daha çok ister ve sapa kalkma ile başaklanma arasındaki dönem daha kritiktir. Ekim zamanı ve tohum miktarı için [buğday ekim zamanı ve tohum miktarı](/bugday-ekim-zamani) yazısına bakın. Destek, kayıt ve mevzuat konularında il ya da ilçe tarım müdürlüğü ve Tarım ve Orman Bakanlığı yetkili kaynaktır; gübre seçimi ve toprak düzenleyici konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Buğdayda üst gübreleme ne zaman yapılır?
+C: Takvime değil bitkinin gelişmesine göre yapılır: kardeşlenme sonu ile sapa kalkma başlangıcında. Kuru koşulda genellikle tek seferde, yağış yeterliyse ya da sulu koşulda iki seferde (kardeşlenme ortası ve sapa kalkma) verilir.
+
+S: Buğdayda azot en çok ne zaman alınır?
+C: Azotun alımı sapa kalkma döneminde artar ve başaklanma döneminde en üst düzeye ulaşır. Üst gübre bu yüzden sapa kalkmadan önce, bitkinin ihtiyaç duyduğu zamanda verilir.
+
+S: Üst gübreyi neden bölerek veriyoruz?
+C: Yağışla azot yıkanabilir ve bitki ihtiyacını kademeli alır. Parçalı uygulama kaybı azaltır ve özellikle yağışlı yıllarda danede protein oranını artırmaya yardım eder.
+
+S: Buğdayda üst gübre dozu nasıl belirlenir?
+C: Doz toprak analizine, önceki ürüne, yağışa ve sulama durumuna göre belirlenir. Kesin değer için analiz yaptırın ve bulunduğunuz ilin tarım müdürlüğünün güncel gübreleme önerisine başvurun.
+
+### SORU
+yayin: 2027-01-31 10:20
+kategori: gubreleme
+baslik: Domates fidelerime solucan gübresi karıştırdım ama yapraklar sararıyor, fazla mı koydum?
+metin: Fide toprağına yarı yarıya solucan gübresi karıştırıp domates fidesi şaşırttım. İki hafta sonra alt yapraklar sarardı ve büyüme durdu. Fazla gübre mi, başka bir sorun mu?
+@cevap Mikdat Çelik | 2
+Yarı yarıya karışım, fide için fazla olabilir. Kaynaklar fide toprağına hacmen yaklaşık %10–20 solucan gübresi (en fazla 1 kısım gübre, 4 kısım karışım) katılmasını anar; %50 oran çözünebilir tuz ve besin yükünü yükseltir ve kök bölgesinde yanık ve büyüme duraklamasına yol açabilir. Sararma başka nedenlerden de olabilir: aşırı sulama, düşük ışık ya da düşük sıcaklık. Önce toprak yüzeyinde beyaz tuz kabuğu olup olmadığına bakın; varsa fide saksısını bol suyla yıkayın ve suyun alttan akmasını sağlayın. Daha kalıcı çözüm, fideleri hafif ve gübresiz ya da düşük oranlı yeni fide toprağına almaktır; kökleri zedelemeden çıkarıp taze toprağa şaşırtın. Sonrasında iki üç gün gözlemleyin ve yaprak rengini izleyin; düzelme yeni yapraklarda görülür. Sararan alt yapraklar toparlanmayabilir. Bundan sonra oranı hacmen yüzde 10 civarında tutun ve gerekirse sıvı biçimde seyreltilmiş destek verin.
+
+### SORU
+yayin: 2027-01-31 12:45
+kategori: bahce-ipuclari
+baslik: Pothos dalını suda köklendirdim ama toprağa alınca yaprakları sarkıp sarardı, ne yaptım yanlış?
+metin: Suda üç haftada köklenmiş pothos çeliklerini saksıya diktim. İki gün sonra yaprakları sarkık ve sararmaya başladı. Kökler uzundu. Ölür mü, ne yapmalıyım?
+@cevap Hatice Kübra Çelik | 2
+Bu durum suda köklenmiş çeliklerde sık görülür. Üniversite yayım servisleri, suda gelişen köklerin zayıf olduğunu ve toprağa uyum sağlamakta zorlanabildiğini belirtir; çeliğin su kökünden toprak köküne geçişi bir stres dönemidir. Genellikle bitki bu stresi atlatır. Yapılacaklar: toprağı hafif ve nemli tutun ama aşırı ıslak yapmayın; saksıyı parlak ama doğrudan güneşsiz yere koyun; ilk iki hafta gübre vermeyin ve yer değiştirmeyin. Yaprakları sarkık gören nem kaybı olabilir; yaprakları bir poşetle gevşekçe örterek birkaç gün nem yüksek tutmak yardımcı olabilir ama havalandırmayı ihmal etmeyin. Gelecek seferde kök 3–5 cm iken (uzamadan) toprağa almak, suda kökün aşırı uzayıp ince kalmasını önler. Birkaç hafta içinde yeni toprak kökleri ve yeni yaprak çıkıyorsa bitki yerleşmiştir. Tamamen çökmüşse en sağlıklı dalı yeniden suya koyup yeni bir deneme yapabilirsiniz.

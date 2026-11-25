@@ -1,0 +1,31 @@
+name: Strateji verisi
+# Search Console (16 ay) ve GA4 (12 ay) aylık verisini yalnız okuma izniyle çeker → veri/strateji/ (scripts/strateji-veri.mjs)
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/strateji-veri.yml', 'scripts/strateji-veri.mjs']
+
+permissions:
+  contents: write
+
+jobs:
+  veri:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/strateji-veri.mjs
+        env:
+          GSC_ANAHTAR: ${{ secrets.GSC_ANAHTAR }}
+      - name: Dala ekle
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A veri/strateji
+          git diff --cached --quiet && { echo "değişiklik yok"; exit 0; }
+          git commit -m "Strateji verisi"
+          for i in 1 2 3; do git pull --rebase -X theirs -q origin ${GITHUB_REF_NAME} && git push origin HEAD:${GITHUB_REF_NAME} && break; sleep 5; done

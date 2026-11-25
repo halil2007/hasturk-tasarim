@@ -1,0 +1,27 @@
+# Bilge Bey bilgi kaynakları (yalnız bilgi toplamak için; müşteriye hiçbir zaman site adı / link gösterilmez)
+# Mağaza sahibinin listesi
+perlitmarket.com
+hasturkgubre.com.tr
+egarden.com.tr
+trendziraat.com
+iyitoprak.com
+tarim-dunyasi.com
+ciceksepeti.com
+bitkim.com
+fidanistanbul.com
+fidanburada.com
+fidansepetim.com
+tarimorman.gov.tr
+arastirma.tarimorman.gov.tr
+agac.istanbul
+bahcemarket.com
+tohumevi.com.tr
+tarlasera.com
+tazebitki.com
+intfarming.com
+# Önerilen (bitki bakımında bilimsel, ayrıntılı kaynaklar)
+rhs.org.uk
+missouribotanicalgarden.org
+plants.ces.ncsu.edu
+extension.umn.edu
+edis.ifas.ufl.edu

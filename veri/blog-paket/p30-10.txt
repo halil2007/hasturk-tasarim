@@ -1,0 +1,472 @@
+### YAZI
+slug: bitkiyi-disari-cikarma-zamani
+baslik: Bitkiyi Dışarı Çıkarma Zamanı: Saksı Bitkilerini Balkona Ne Zaman Çıkarmalı?
+yayin: 2027-03-10 10:20
+yazar: Ahmet Sacit Çelik
+kategori: bitki-bakimi
+odak: bitkiyi dışarı çıkarma zamanı
+seo_baslik: Bitkiyi Dışarı Çıkarma Zamanı: Balkona Ne Zaman?
+seo_aciklama: Bitkiyi dışarı çıkarma zamanı gece sıcaklığına bağlıdır. Salon bitkileri için eşik sıcaklık, bölgeye göre takvim, kademeli alıştırma ve geri alma.
+ozet: Kış boyunca içeride duran saksı bitkilerini erken dışarı çıkarmak, geç kalmaktan daha tehlikelidir. Bitkiyi dışarı çıkarma zamanının gece sıcaklığına nasıl bağlandığını, bölgeye göre kaba takvimi, hangi bitkinin ilk, hangisinin son çıkacağını, ilk haftanın düzenini ve geri alma işaretlerini anlattık.
+etiketler: bitkiyi dışarı çıkarma, salon bitkisi balkon, ilkbahar bakımı, gece sıcaklığı, saksı bitkisi, bitki alıştırma
+gorsel: bekliyor
+gorsel_alt: Balkon korkuluğunun yanında sıralanmış saksılarda salon bitkileri ve yanda bir termometre
+urunler: salon-bitkilerine-ozel-toprak-karisimi, florist-tum-bitkiler-genel-kullanim-bitki-besini
+kisaca: Bitkiyi dışarı çıkarma zamanı, gece sıcaklığı sürekli 15 °C civarının (yaklaşık 60 °F) üstüne çıktığında gelir; çoğu bölgede bu mayıs başı ile ortasıdır. İlk günlerde bitki serin gölgede başlar, birkaç hafta içinde kademeli olarak daha aydınlık yere alınır. 10 °C altı gece tropikal bitkiler için risklidir.
+@govde
+Bir nisan günü güneş balkona vurur, hava ılıktır ve bitkilerin kışı geçirdiği salondan çıkıp ışığa kavuşmasını isteriz. Çoğu insan o gün saksıları dışarı taşır. Üç gün sonra bir gece sıcaklık 5 dereceye düşer ve yapraklar kararır. Bitkiyi dışarı çıkarma zamanı bu yüzden gün sıcaklığına değil, gece sıcaklığına bakılarak belirlenir.
+
+## Bitkiyi dışarı çıkarma zamanı için eşik: gece sıcaklığı
+
+Salon bitkilerinin çoğu tropikal kökenlidir. Bu bitkiler sıfırın üstünde bile soğuktan zarar görür. Clemson Üniversitesi uzatma servisi, bitkileri dışarı çıkarmak için gece sıcaklıklarının sürekli 60 °F'nin (yaklaşık 15,5 °C) üzerinde kalmasını beklemeyi önerir. Purdue ve Minnesota uzatma servisleri de benzer bir eşik verir; Minnesota, salon bitkilerinin gece sıcaklıkları sürekli yaklaşık 60 °F olduğunda kalıcı olarak dışarıda bırakılabileceğini yazar. Aynı Clemson yayını, sonbaharda 50 °F (10 °C) ve altındaki sıcaklıkların birçok tropikal bitkiye zarar verebileceğini anlatır. Kaynak: [Clemson bitkileri içeri ve dışarı taşıma yazısı](https://hgic.clemson.edu/factsheet/indoor-plants-moving-plants-indoors-outdoors/) ve [Minnesota Üniversitesi salon bitkilerini dışarı çıkarma notu](https://extension.umn.edu/news/moving-houseplants-outdoors).
+
+Bu iki sayı bir çerçeve çizer: 15 °C ve üstü gece güvenlidir, 10 °C civarı risklidir, bunun altı tropikaller için tehlikelidir. Hava tahminine değil, kendi balkonunuza bakın; balkon duvarının geceleri verdiği ısı, rüzgâr ve yükseklik bu değeri bir iki derece değiştirir. Bir min-maks termometre bu iş için ucuz ve güvenilir bir yardımcıdır.
+
+| Gece sıcaklığı | Ne yapılır? |
+|---|---|
+| 15 °C ve üzeri, sürekli | Tropikal salon bitkileri dışarı çıkabilir |
+| 10–15 °C | Sert ve dayanıklı bitkiler (sardunya, sukulent) çıkabilir; tropikaller beklesin |
+| 5–10 °C | Yalnızca gündüz dışarı, geceleri içeri |
+| 5 °C altı ya da don ihtimali | Hiçbir salon bitkisi dışarıda kalmaz |
+
+## Bitkiyi dışarı çıkarma zamanı: bölgeye göre kaba takvim
+
+Takvim yalnızca fikir verir; son karar sıcaklık ölçümüdür. Türkiye'de ılık kıyılarda (Akdeniz, Ege) nisan ortası ile mayıs başı, Marmara ve Karadeniz kıyısında nisan sonu ile mayıs ortası, iç bölgelerde mayıs ortası ile haziran başı genelde uygun penceredir. Yüksek rakımda ve serin yerlerde bu pencere haziran içine kayar. Son don tarihini kendi bölgeniz için bulmak için [son don tarihi nedir](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısına bakabilirsiniz.
+
+Sıcak bir mart günü ya da bir hafta boyunca süren ılık hava sizi yanıltmasın. Geç ilkbahar soğuğu ve donu birkaç gün içinde gelebilir. İlk dışarı çıkış için güvenli hava, iki üç haftalık bir ısınma ve geceleri 10 °C üzeri tahmindir.
+
+## Hangi bitki önce, hangisi sonra?
+
+Bitkiler soğuğa aynı hassasiyette değildir. Dayanıklılık sırasına göre dışarı çıkarmak mantıklıdır:
+
+- **İlk çıkanlar (serin sevenler):** Sardunya, sukulentlerin birçoğu, kaktüsler, defne, biberiye, kekik gibi Akdeniz bitkileri; serin geceye en dayanıklı gruptur.
+- **Ortadakiler:** Begonvil, hibiskus, yasemin, limon ve diğer narenciye; hava iyice ısınınca.
+- **En son çıkanlar (tropikal):** Monstera, ficus, kauçuk ağacı, difenbahya, orkide, antoryum, kalatea gibi nem ve sıcak seven yapraklı bitkiler. Bunların bir kısmı hiç dışarı çıkmak zorunda değildir.
+
+Bazı bitkiler ise dışarı çıkmaktan hoşlanmaz: Ani rüzgâr, öğle güneşi ve sıcaklık dalgalanması hassas yapraklı bitkilere zarar verir. Dışarıda ışık fazla olacağı için eviniz loşsa bile bu bitkiyi kademeli alıştırmak gerekir. Çıkarmadan önce bitkinin kışı nasıl geçirdiğine bakın: Dinlenmiş ve yeni sürgün veren bitki daha dayanıklıdır; kışın zayıflamış bitkiyi önce içeride toparlayın.
+
+## İlk hafta: gölge ve alıştırma
+
+Kış boyunca içeride düşük ışıkta duran bitkinin yaprakları ince ve güneşe duyarlı hâle gelmiştir. Doğrudan güneşe çıkarmak yaprak yanığı yapar. Clemson, hemen doğrudan güneşe çıkarılan bitkilerin yanabileceğini ve ciddi hasar görebileceğini, bu yüzden birkaç gün ağaç altı gibi derin gölgede başlanması gerektiğini söyler. Purdue, bitkilerin tam zamanlı dışarı çıkmadan önce günde birkaç saat dışarıda tutulmasını önerir.
+
+::: adimlar
+Gölgeyle başlayın | Bitkileri rüzgârsız, derin gölge bir köşeye koyun; ilk 3–4 gün orada kalsınlar.
+Süreyi artırın | Günde birkaç saat dışarıda tutup akşam içeri alın; her gün bir iki saat uzatın.
+Işığı kademeli artırın | Bir hafta sonra sabah güneşi alan, öğleden sonra gölgede kalan yere taşıyın.
+Geceyi izleyin | Gece sıcaklığı 10 °C altına düşecekse yine içeri alın; sürekli ılık geceler gelince dışarıda bırakın.
+Sulamayı ayarlayın | Dışarıda toprak daha çabuk kurur; haftalık sulama düzenini sıkılaştırın.
+:::
+
+İki hafta içinde çoğu bitki dışarıya uyum sağlar. Yeni çıkan sürgünlerin ve yapraklarda hızla artan renk canlılığı, bitkinin yeni ışığa alıştığını gösterir. Güneş yanığı belirtileri (beyaz ya da kahverengi lekeler) görürseniz bitkiyi hemen gölgeye alın; yanık yaprak iyileşmez ama yeni yaprak sağlıklı çıkar. Bitkilerde güneş yanığının ayrıntıları için [bitkilerde güneş yanığı](/bitkilerde-gunes-yanigi) yazısına bakabilirsiniz.
+
+## Dışarıdaki bakım değişir
+
+Dışarı çıkan bitki daha çok su harcar; rüzgâr ve güneş saksıyı çabuk kurutur. Haftalık sulama düzeninizi gözleyin; saksının üst iki üç santimini parmakla yoklayın. Bitki dışarıda hızlı büyür, bu yüzden ilkbaharda saksı değiştirmek için doğru zamandır: Kökler dolduysa bir büyük saksıya geçin ve taze toprak ekleyin. Toprak ve saksı değişimi için [salon bitkisi budama](/salon-bitkisi-budama) ve [eski saksı toprağı nasıl yenilenir](/eski-saksi-topragi-nasil-yenilenir) yazılarına bakın.
+
+Besleme için ilk dışarı çıkış haftalarında gübre vermeyin; bitki yeni ortama alışsın. Büyüme başlayınca dengeli bir bitki besini düşük dozda kullanılabilir. Dışarıdaki bitki zararlılara da açıktır; yeni çıkan bitkiyi haftalık kontrol edin ve hastalıklı bitkiyi diğerlerinden ayırın. Yeni gelen bitki için [bitki karantinası](/bitki-karantinasi) yazısındaki ilke dışarıdan içeri dönen bitki için de geçerlidir.
+
+## Geri alma: ne zaman içeri girmeli?
+
+Dışarı çıkarmak bir kez yapılıp bitiren bir iş değildir. İlkbaharda beklenmedik soğuk gelirse bitkiyi içeri almaya hazır olun. Hava tahmininde gece sıcaklığı 10 °C altını gösteriyorsa saksıları akşam içeri alın. Küçük saksıları içeri taşımak kolaydır; büyük ve ağır saksıları tekerlekli altlıkla (dolap tekerleği) hareket ettirmek işi kolaylaştırır. Sonbaharda ise aynı mantık tersine çalışır: Gece sıcaklığı 10 °C'ye yaklaşmadan bitkileri içeri alın; bu yazının konusu ilkbahardır, sonbahar rehberi ayrı bir yazıdır.
+
+Bitkiyi dışarı çıkarma zamanı konusunda aceleci davranmak yerine bir hafta fazla beklemek her zaman daha güvenlidir. Bitki bir hafta geç dışarı çıkmaktan zarar görmez; ama tek bir soğuk gece yılların emeğini bitirebilir.
+@sss
+S: Salon bitkileri balkona ne zaman çıkarılır?
+C: Gece sıcaklığı sürekli yaklaşık 15 °C'nin (60 °F) üstüne çıkınca; çoğu bölgede mayıs başı ile ortası. Ilık kıyılarda nisan ortasında başlanabilir, iç bölgelerde haziran başına kadar beklenebilir.
+
+S: Salon bitkisini dışarı çıkarırken güneşe doğrudan koymalı mıyım?
+C: Hayır. Kış boyunca içeride kalan bitkinin yaprakları güneşe duyarlıdır. Önce derin gölgede birkaç gün, sonra günde birkaç saat dışarıda tutup kademeli olarak aydınlık yere alın.
+
+S: Gece 10 dereceye düşerse bitkiler ne olur?
+C: Birçok tropikal salon bitkisi 10 °C ve altında zarar görebilir. Bu sıcaklık tahmin ediliyorsa bitkileri akşam içeri alın; sardunya ve sukulent gibi dayanıklı bitkiler biraz daha uzun dışarıda kalabilir.
+
+S: Hangi bitkiler dışarı çıkarılmamalı?
+C: Orkide, antoryum, kalatea ve benzeri nem ve sıcaklık seven hassas bitkiler dışarı çıkmak zorunda değildir; çıkarılacaksa en son ve kademeli çıkarılır. Rüzgâr ve öğle güneşi bu bitkilere zarar verir.
+
+### YAZI
+slug: isot-biberi-yetistirme
+baslik: İsot Biberi Yetiştirme: Urfa Biberinin Bahçesi
+yayin: 2027-03-10 12:10
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: isot biberi yetiştirme
+seo_baslik: İsot Biberi Yetiştirme: Urfa Biberi Bahçede Olur mu?
+seo_aciklama: İsot biberi yetiştirme için fide, sıcaklık, güneş, sulama, hasat ve isot yapımı. Urfa biberi Şanlıurfa dışında yetişir mi? Terletme ve kurutma.
+ozet: İsot, Şanlıurfa'nın koyu mor-siyah, hafif dumanlı kuru biberidir; yetişmesi kadar işlenmesi de ona özgüdür. İsot biberi yetiştirmenin fide ve dikim zamanını, sıcak ve kurak iklim isteğini, hasadı, güneşte kurutma ve terletmeyi, Şanlıurfa dışında nelerin beklenebileceğini anlattık.
+etiketler: isot, Urfa biberi, isot biberi, acı biber, kuru biber, Şanlıurfa
+gorsel: bekliyor
+gorsel_alt: Güneşte tabaklara serilmiş, koyu mor ve siyaha dönmüş kurutulmuş isot biberleri
+urunler: arzuman-aci-kil-biber-tohumu-10-gr, hg-bol-verimli-sebze-topragi
+kisaca: İsot biberi yetiştirme, Şanlıurfa'nın sıcak ve kurak iklimine uyumlu bir biberle yapılır: fide serada hazırlanır, mayıs civarında tarlaya dikilir, ağustos-ekim arası hasat edilir. Biber kırmızıya dönünce toplanır, güneşte kurutulur, terletilir ve koyu mor-siyah renk alır. Bu işlemin bölge iklimi ve geleneğiyle bağı güçlüdür.
+@govde
+İsot, Şanlıurfa mutfağının "acısı"dır: Kuru, koyu mor-siyah, hafif tatlı dumanlı kokulu pul biber. Güneşin ve ustalığın birlikte yarattığı bir üründür. İsot biberi yetiştirme, bu yüzden hem bir biber yetiştirme işi hem de bir işleme sanatıdır. Bu yazı bahçıvanın ilk yarısını, yani biberi yetiştirmeyi anlatıyor; ikinci yarıda ise isotun gerçekte nasıl oluştuğuna ve Şanlıurfa dışında nelerin beklenebileceğine bakıyoruz.
+
+## İsot nedir?
+
+İsot, Capsicum annuum türüne ait bir biberin olgunlaşıp kırmızı döndükten sonra özel bir kurutma işleminden geçmesiyle elde edilen baharattır. İngilizce Vikipedi, ürünü Urfa biber (Urfa isot pepper) adıyla anar ve hasat ile işlemenin ağustos–ekim arasında yapıldığını belirtir; ayrıntı için [Urfa biber maddesine](https://en.wikipedia.org/wiki/Urfa_biber) bakabilirsiniz. Şanlıurfa'da isot coğrafi işaretli bir üründür; bu, adın yalnızca belirli bölgede ve belirli yöntemle üretilen ürün için kullanılabileceği anlamına gelir.
+
+Bu bilgi bahçıvan için önemlidir: Bahçenizde yetiştirdiğiniz biberden yaptığınız kuru biber, isot adıyla anılan ürün olmayabilir. Ama aynı türden bir biberi yetiştirip benzer bir kurutma ve terletme işlemi uygulayabilirsiniz; sonuç bölgenizin iklimine bağlı olarak farklı çıkar.
+
+## Fide ve dikim
+
+Şanlıurfa'dan gelen anlatımlara göre üreticiler isot fidelerini seralarda yetiştirir, nisan ayında satışa sunar ve mayıs ayında açık alanlardaki tarlalara diker. Bu program biber yetiştirmenin genel mantığına uyar: Tohum erken ilkbaharda ısıtılmış ortamda ekilir, fide altı sekiz haftada büyür ve toprak ısındıktan sonra dışarı dikilir. Biber fidesi yetiştirmenin adımları için [biber fidesi yetiştirme](/biber-fidesi-yetistirme) yazısına bakabilirsiniz.
+
+Dikim zamanı için eşik değeri toprak sıcaklığıdır: Georgia Üniversitesi'ne göre biberi toprak yaklaşık 21 °C'ye (70 °F) ulaşmadan dikmek bitkiyi sezon boyunca bodur bırakabilir. Ayrıntı için [fide dikim zamanı](/fide-dikim-zamani) yazısını inceleyin. İsot biberi sıcak seven bir biberdir; soğuk gecelerde fide durur.
+
+Tohum konusunda dikkatli olun: "İsot biberi" adıyla satılan tohumun gerçek isot popülasyonundan olduğunu garanti etmek zordur. Yerel üreticilerden ya da güvenilir tohum kaynaklarından alın; çeşit adı ve tohumun kaynağı yazılı olsun. Şanlıurfa belediyesinin çiftçilere dağıttığı fidelerin bir milyona yakın olduğu anlatılır; bu, yerel fide üretiminin organize olduğunu gösterir.
+
+## İsot biberi yetiştirme için iklim: sıcak ve kurak
+
+İsot biberi Şanlıurfa'nın uzun, sıcak ve kurak yazında yetişir. Bu iklim iki sonuç doğurur: Biber tarlada hızla olgunlaşıp kırmızı renge döner ve hasat sonrası güneşte kurutma kolaydır. Serin ve nemli iklimde biber geç olgunlaşır, kırmızıya dönmeden don gelebilir ve kurutma zorlaşır. Bu yüzden isot benzeri bir ürünü Karadeniz ya da Marmara'da yetiştirmek ve güneşte kurutmak zordur.
+
+Biber genel olarak sıcak ve güneşli yer ister. Gün boyu en az altı saat güneş, süzek ve organik maddeli toprak, düzenli ama ölçülü sulama gerekir. Su durması kök çürümesine yol açar; kuraklık stresi ise çiçek ve meyve dökümüne neden olur. Sulama zamanı için toprağın üst kısmı kuruyunca derin sulama kuralı geçerlidir. Besleme için [biber gübreleme](/biber-gubreleme) yazısındaki takvimi kullanabilirsiniz; aşırı azot bitkiyi yapraklandırır ve olgunlaşmayı geciktirir. Hastalıklar için [biber hastalıkları](/biber-hastaliklari) yazısına bakın.
+
+[ürün:arzuman-aci-kil-biber-tohumu-10-gr]
+
+## Hasat: renk değiştirince
+
+İsot için biber tam olgunlaşıp koyu kırmızıya döndüğünde hasat edilir; yeşil ya da yarı olgun biber isot yapımı için uygun değildir. Hasat tarihi bölgeye göre ağustos sonu ile ekim ayı arasındadır. Şanlıurfa'da son yıllara ait haberlerde eylül ayında hasat ve isot üretiminin başladığı yazılır. Bahçenizde olgunlaşma dikim tarihine ve yaz sıcaklığına bağlıdır; biber yeşilden kırmızıya döndükçe hasat edilir ve bitki yeni biber yapmaya devam eder.
+
+Hasat edilen biberler ayıklanıp yıkanır; kuruluk için olgun ve sağlam olanlar seçilir, kusurlu olanlar ayrılır. Yerel anlatımlarda biberlerin kurutmalık ve başka kullanım için ayrıldığı bildirilir.
+
+## Kurutma ve terletme: isotu isot yapan adım
+
+İsotun en karakteristik özelliği koyu mor-siyah rengi ve hafif nemli, yağlı dokusudur. Bu renk, güneşte kurutma ve terletme işlemiyle oluşur. Anlatımlara göre biberler birkaç gün güneşte kurutulur, ardından hâlâ nemliyken bez torbalara sarılıp ağzı bağlanarak terletilir; bu süreçte biber koyulaşır. Terleme süresi kaynağa göre üç yedi gün arasında değişir; kırmızı isotta terletme yapılmayabilir, mor ve siyah isotta ise yapılır. Bu işlem sonrası biber tekrar güneşe serilir, kuruyunca çekilir ya da ezilir.
+
+Ev ölçeğinde bu işlemi uygulamak mümkündür ama sonucun Şanlıurfa isotuyla aynı olmasını beklemeyin. İklim, biber popülasyonu ve gelenek isotun kimliğinin parçasıdır. Evde kuru biber yapmak istiyorsanız güvenli yol, biberleri temiz, kuru ve havadar bir yerde (güneşte ya da gölgede) tamamen kurutmak ve nemli saklamamaktır. Nemli ve kapalı saklanan biber küflenir; terletme gibi nemli aşamalar hijyen ve zamanlama gerektirir. Gıda güvenliği konusunda emin değilseniz kuru, tam kurutulmuş biberle yetinin. Kurutma yöntemleri için [güneşte kurutma tezgâhı](/kurutma-tezgahi) yazısına bakabilirsiniz.
+
+## Gerçekçi beklentiler
+
+İsot biberi yetiştirme, iyi bir sıcak mevsim biberi yetiştirmektir; isot yapmak ise ayrı bir uzmanlıktır. Bahçenizde yetişen biber taze, kuru ya da pul biber olarak tadılabilir; Urfa isotunun kimliğini taşımaz. Bu bir kusur değil, bir sınırdır. Yerel çeşitleri yaşatmak için tohum saklamak istiyorsanız [ata tohumu saklama](/ata-tohumu-saklama) yazısına bakın; biber tohumu çapraz tozlaşmaya açıktır, farklı biberleri birbirinden uzak tutun.
+
+Biber çeşitleri hakkında geniş bir bakış için [biber çeşitleri](/biber-cesitleri) yazısını okuyabilirsiniz.
+
+Küçük bir bahçede isot biberi yetiştirme denemesi için üç beş fide yeterlidir. Bitkileri sıcak ve korunaklı bir güney yüzüne dikin, ilk iki hafta düzenli sulayın, çiçek dökümü yaşarsanız sulama düzeninizi ve gece sıcaklığını kontrol edin. Hasat kadar bekleme süresi de önemlidir: İsot biberi için biberlerin tarlada tam olgunlaşıp kırmızıya dönmesini beklemek, erken toplamaktan çok daha iyi sonuç verir. Bu yüzden ilk don tarihinden önceki son haftalarda bitkileri örtmek ve olgunlaşmaya zaman tanımak değerlidir. Yeşil kalan biberleri ilk dondan önce toplayıp evde olgunlaştırmak da mümkündür, ama bu, tarlada olgunlaşan biberin aromasını vermez. İsot biberi yetiştirme sezonu boyunca tuttuğunuz bir deftere dikim tarihini, ilk çiçek ve ilk kırmızı biber tarihini yazarsanız, ertesi yıl takvimi kendi bahçenize göre ayarlarsınız.
+@sss
+S: İsot biberi nedir?
+C: Capsicum annuum türünden, olgunlaşıp kırmızıya dönen ve ardından özel güneşte kurutma ve terletme işleminden geçerek koyu mor-siyah renk alan Şanlıurfa'ya özgü biberdir. Coğrafi işaretli bir üründür.
+
+S: İsot biberi ne zaman dikilir ve hasat edilir?
+C: Fideler serada hazırlanıp mayıs civarında tarlaya dikilir; hasat ağustos sonu ile ekim arasındadır. Biber tam olgunlaşıp kırmızıya dönünce toplanır.
+
+S: İsot başka bölgede yetiştirilebilir mi?
+C: İsot biberinin türü başka yerde de yetişebilir, ama isotun karakterini Şanlıurfa'nın sıcak, kurak iklimi ve yerel kurutma-terletme yöntemi birlikte verir. Başka bölgede aynı sonucu beklemeyin.
+
+S: İsotta terletme nedir?
+C: Güneşte birkaç gün kurutulan biberin hâlâ nemliyken bez torbalara sarılıp bekletilmesidir; biberin rengi bu süreçte koyulaşır. Süre kaynağa göre üç yedi gün arasında değişir.
+
+### YAZI
+slug: nane-cesitleri
+baslik: Nane Çeşitleri: Bahçe, Limon ve Çikolata Nanesi
+yayin: 2027-03-10 14:30
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: nane çeşitleri
+seo_baslik: Nane Çeşitleri: Bahçe, Limon ve Çikolata Nanesi
+seo_aciklama: Nane çeşitleri arasındaki fark nedir? Bahçe, limon, portakal ve çikolata nanesinin aroma farkı, saksıda yetiştirme, yayılma kontrolü ve çoğaltma.
+ozet: Nane yüzlerce çeşide sahip bir cinstir ve bahçıvan için asıl ayrım aroma ve yayılmadır. Nane çeşitlerini bahçe nanesi, yarpuz, limon, portakal ve çikolata nanesi üzerinden karşılaştırdık; yayılma sorunu ve saksıda tutma, çoğaltma ve hangi çeşidin ne için uygun olduğunu anlattık.
+etiketler: nane çeşitleri, bahçe nanesi, çikolata nanesi, limon nanesi, portakal nanesi, nane yayılması
+gorsel: bekliyor
+gorsel_alt: Saksılarda yan yana büyüyen farklı yaprak biçimli ve renkli nane bitkileri
+urunler: cikolata-kokulu-nane-fidesi-6-adet, portakal-kokulu-nane-fidesi-6-adet, kokulu-nane-fidesi-karisik-set-6-adet
+kisaca: Nane çeşitleri iki ana grupta toplanır: yeşil (bahçe) nanesi ile yarpuz benzeri tatlı ve ferah aromalılar, bir de limon, portakal ve çikolata gibi meyve ve çikolata notalı melezler. Tüm naneler köksapla yayılır; bu yüzden çoğu zaman saksıda ya da sınırlandırılmış alanda yetiştirilir. Çikolata nanesi nane hibritidir ve genelde tohum yapmaz.
+@govde
+Bir nane bitkisi aldığınızda hangi nane olduğunu bilmek çoğu zaman kolay değildir. Çay için, mojito için, çorbaya serpmek için ve süs olarak aynı bitkiyi kullanmak zorunda değilsiniz. Nane çeşitleri aroma, yaprak biçimi ve yayılma gücü açısından birbirinden belirgin ayrılır; hepsinin ortak noktası ise köksapla (yeraltı gövdesiyle) agresif biçimde yayılmalarıdır.
+
+## Nane çeşitleri: kaç tane var?
+
+Nane, Mentha cinsine aittir. Kaynaklar cinste yirmi beş kadar iyi tanımlı tür bulunduğunu ve adlandırılmış çeşit sayısının beş yüzü aştığını yazar; bazı kaynaklar 600'den çok çeşit sayar. Bu çeşitliliğin büyük bölümü melezlerden gelir; doğada nane türleri kolay melezleşir. Bu yüzden aynı ad iki farklı bitki için, iki farklı ad aynı bitki için kullanılabilir.
+
+Bahçıvan için üç temel grup yeterlidir: yeşil nane (Mentha spicata ve yakınları), biberiye ya da nane türü (Mentha piperita) ve meyve ya da başka notalı melezler. Yeşil nane yemeklerde ve çaylarda en yaygın kullanılandır; hafif tatlı ve ferah bir aroması vardır. Biberiyeli nane (peppermint) menten oranı yüksek, daha keskin ve serin bir aroma verir. Kaynaklar peppermint'in sıklıkla yemeklerde aroma için, spearmint'in ise taze taze yenen bir tür olarak anıldığını yazar.
+
+| Nane | Aroma | Kullanım |
+|---|---|---|
+| Bahçe (yeşil) nanesi | Tatlımsı, ferah | Çay, salata, yoğurt, yemek |
+| Yarpuz benzeri tipler | Daha keskin, kuru kullanımda yaygın | Çorba, kurutma, çay |
+| Limon nanesi | Narenciye kokulu | Çay, tatlı, süs |
+| Portakal nanesi | Portakal kokulu | Çay, meyve salatası |
+| Çikolata nanesi | Nane ve hafif çikolata notası | Tatlı, çay, süs |
+
+## Limon, portakal ve çikolata nanesi
+
+Meyve ve çikolata kokulu naneler aslında nane çeşitleri arasında ayrı bir gruptur; çoğu peppermint melezi ya da türevidir. Çikolata nanesi (Mentha × piperita 'Chocolate') bir peppermint melezi olarak anılır; bazı kaynaklar onu steril, yani tohum üretmeyen bir çeşit olarak tarif eder. Adlandırma kaynaktan kaynağa değişir: Bir kaynak çikolata nanesini peppermint ile portakal nanesinin melezi olarak yazar, başka kaynaklar ise Mentha × piperita f. citrata 'Chocolate' adıyla listeler. Bu karışıklık, nane melezlerinde yaygındır.
+
+Bu naneler tohumla çoğalmaz ya da tohumdan gelen bitki ana bitkiye benzemez; bu yüzden çelik ve bölme yoluyla çoğaltılırlar. Tohumdan nane almak isterseniz sonuç belirsiz olabilir; aroma garantisi ancak çelikle gelir. Limon, portakal, greyfurt ve bergamot kokulu naneler de benzer şekilde çelikle ya da hazır fideyle başlanan çeşitlerdir.
+
+Kokulu nane çeşitlerinin çayda ve tatlıda kullanımı eğlencelidir; ama hepsi aynı tada sahip değildir. Satın aldığınız bitkinin kokusunu yapraklarını hafifçe ezerek deneyin; gözle ayırt edilmeleri çoğu zaman mümkün değildir.
+
+[ürün:cikolata-kokulu-nane-fidesi-6-adet]
+
+## Yayılma: nane ne kadar agresif?
+
+Naneler köksapla (stolonla) hızla yayılır. Illinois Üniversitesi uzatma servisi gibi kaynaklar nanenin bahçede gür büyüyen ve istilacı olabilen bir yapıda olduğunu belirtir. Yatağa serbest dikilen bir nane iki üç yıl içinde komşu bitkileri bastırır. Bu yüzden kontrollü yetiştirmek gerekir.
+
+Maryland Üniversitesi'nin uzatma servisi pratik bir ipucu verir: Naneyi kapta yetiştirirken köksapların kap kenarından dışarı sarkmasına izin verin; bu şekilde köksapları görür ve köklenmeden önce kesersiniz. Kaynak: [Maryland Üniversitesi nane yetiştirme notu](https://extension.umd.edu/resource/growing-mint-home-garden). Toprağa gömülü dipsiz kap yöntemi bazen işe yarasa da köksaplar kabın üst kenarını aşarak kaçabilir; kap kenarını toprak seviyesinden en az birkaç santim yukarıda tutun. İllinois'in nane sayfasında da bu bitkilerin yayılma eğilimi vurgulanır: [Illinois Üniversitesi nane sayfası](https://extension.illinois.edu/herbs/mint).
+
+En güvenli yol saksıdır. Ayrı çeşitler ayrı saksılarda yetişmeli; çünkü nane çeşitleri yan yana iken kısmen melezleşir ve kokular karışabilir. Saksı en az 25–30 cm genişlik ve derinlikte, delikli olmalıdır.
+
+## Saksıda nane yetiştirme
+
+Nane yarı gölgeyi ve nemli toprağı sever; sıcak ve kuru havada yaprakları sertleşir ve aroması yoğunlaşır ama yaprak kenarları yanabilir. Öğleden sonra hafif gölgede, sabah güneşi alan bir köşe idealdir. Toprak hafif, besleyici ve süzek olmalı; saksıda su durmamalıdır. Sulama düzenli olmalı; toprak kuruyunca derin sulayın. Aromatik bitkiler için hazırlanmış toprak karışımı bu iş için uygundur. Nane yetiştirmenin temelleri için [nane yetiştirme: saksıda çelikten ve tohumdan kolay yöntem](/saksida-nane-yetistirme) yazısını, besleme için [aromatik bitki gübreleme](/aromatik-bitki-gubreleme) yazısını okuyun.
+
+Hasat sırasında sürgün uçlarını düzenli olarak kesin; bitki dallanır ve çiçeklenmeyi geciktirir. Çiçek tomurcukları belirince koparmak yaprak aromasını korur. Her iki üç yılda bir bitkiyi saksıdan çıkarıp bölmek ve taze toprakla yeniden dikmek bitkiyi yeniler; köksaplar saksıyı doldurur ve verim düşer.
+
+## Çoğaltma: çelik ve bölme
+
+Nane çok kolay çoğalır. Sürgün ucundan 8–10 cm'lik bir çelik alıp alt yapraklarını temizleyin ve suya ya da nemli torfa koyun; birkaç gün içinde kök yapar. Bölme için bitkiyi saksıdan çıkarıp köksap kümesini ikiye üçe ayırın. Tohumdan nane yetiştirmek yavaş ve belirsiz olabilir; özellikle melez çeşitlerde tohum çeşide benzemez. Çelik ve bölme yoluyla elde edilen bitki, ana bitkiyle aynı aromayı taşır. Çoğaltma mantığı için [salon bitkisi çoğaltma](/salon-bitkisi-cogaltma) yazısındaki çelik köklendirme ilkeleri nane için de geçerlidir.
+
+## Hangi nane ne için?
+
+Çay ve günlük mutfak için bahçe nanesi en güvenlisidir. Keskin serin aroma ve kurutma için yarpuz benzeri tipler tercih edilir. Meyve çayı, tatlı ve süs için limon, portakal ve çikolata nanesi eğlenceli seçeneklerdir. Balkonda bitki çayı bahçesi kurmak isterseniz [balkonda bitki çayı bahçesi](/balkonda-bitki-cayi-bahcesi) yazısındaki bitki kombinasyonlarına bakın.
+
+Birden çok nane çeşidi dikecekseniz her birini ayrı bir saksıya yerleştirin, etiketleyin ve zaman zaman yaprağını ezip kokusunu kontrol edin. Böylece hangi saksının hangi nane olduğunu karıştırmazsınız ve melezleşme kaynaklı aroma kaymasını fark edersiniz.
+@sss
+S: Nane çeşitleri arasında en yaygın olanları hangileridir?
+C: Yeşil bahçe nanesi (spearmint) ve biberiyeli nane (peppermint) en yaygınlardır; bunların yanında limon, portakal, greyfurt, bergamot ve çikolata gibi kokulu melez naneler de yetiştirilir.
+
+S: Çikolata nanesi tohumdan çıkar mı?
+C: Genellikle çıkmaz; çikolata nanesi bir peppermint melezi olarak tarif edilir ve kaynaklara göre steril, yani tohum üretmeyen bir çeşittir. Çelik ve bölmeyle çoğaltılır.
+
+S: Nane neden saksıda yetiştirilmeli?
+C: Köksapla hızla yayılan ve bahçede istilacı olabilen bir bitki olduğu için. Saksıda yayılma kontrol altında kalır ve kenardan taşan köksapları görüp kesmek kolaydır.
+
+S: Farklı naneleri aynı saksıda yetiştirebilir miyim?
+C: Önerilmez. Nane çeşitleri yan yana ve köksapları iç içe iken aroma ve kimlikleri karışabilir; her çeşidi ayrı saksıda ve etiketli yetiştirin.
+
+### YAZI
+slug: feslegen-cesitleri
+baslik: Fesleğen Çeşitleri: Mor, Tarçınlı, Limonlu ve Yeşil
+yayin: 2027-03-10 16:55
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: fesleğen çeşitleri
+seo_baslik: Fesleğen Çeşitleri: Mor, Limonlu, Tarçınlı, Yeşil
+seo_aciklama: Fesleğen çeşitleri arasında fark nedir? Genovese, Tay, mor, limonlu ve tarçınlı çeşidin aroma farkı, soğuğa duyarlılık, çiçek koparma ve ekim zamanı.
+ozet: Fesleğen kardeşler gibi görünse de her çeşidin aroması, yaprak biçimi ve kullanımı farklıdır. Fesleğen çeşitlerini yeşil (pesto), Tay, mor, limonlu ve tarçınlı gruplarına ayırdık; ortak ihtiyaçlarını, soğuğa duyarlılığını, çiçek koparma ve uç alma kurallarını ve ekim zamanını anlattık.
+etiketler: fesleğen çeşitleri, Genovese fesleğen, mor fesleğen, limonlu fesleğen, Tay fesleğeni, tarçınlı fesleğen
+gorsel: bekliyor
+gorsel_alt: Aynı tezgâhta yeşil, mor ve küçük yapraklı farklı fesleğen çeşitleri saksılarda
+urunler: hg-aromatik-bitkiler-icin-saksi-topragi, hg-fide-topragi
+kisaca: Fesleğen çeşitleri aromasına göre ayrılır: Genovese pesto ve salata, Tay çeşitleri baharatlı yemekler, mor çeşitler (Dark Opal, Osmin) renk ve süs, limonlu ve tarçınlı çeşitler çay ve tatlı içindir. Hepsi soğuğa duyarlıdır; 10 °C civarında yapraklar kararabilir. Çiçek tomurcuğunu koparmak yaprak üretimini sürdürür.
+@govde
+Fesleğen deyince bir tane koku ve bir tane yaprak düşünürüz: geniş, yeşil, parlak. Oysa fesleğen cinsinde birbirinden çok farklı aromalı bitkiler vardır: bazıları mor ve küçük yapraklıdır, bazıları limon ya da tarçın kokar, bazıları anasonlu baharatlı bir tat taşır. Fesleğen çeşitleri mutfakta farklı iş görür; bahçede ise ortak ihtiyaçlara dayanır.
+
+## Fesleğen çeşitleri: gruplar ve aromalar
+
+UMass uzatma servisinin fesleğen bilgi notu çeşitleri birkaç gruba ayırır: tatlı ya da pesto tipleri (Genovese, İtalyan iri yapraklı), Tay tipleri (Sweet Thai, Siam Queen, Thai Magic) ve mor tipler (Dark Opal, Purple Ruffles, Osmin Purple). Ayrıntı için [UMass fesleğen sayfasına](https://www.umass.edu/agriculture-food-environment/vegetable/fact-sheets/basil) bakabilirsiniz. Limon kokulu fesleğenler (Mrs Burns Lemon, Sweet Dani gibi) ve tarçınlı fesleğenler ayrı bir grup oluşturur. Kutsal fesleğen (tulsi) ise farklı bir türdür ve don dayanımıyla ayrışan, sezonu uzatan bir bitki olarak anılır.
+
+| Grup | Aroma | En iyi kullanım |
+|---|---|---|
+| Genovese, İtalyan iri yapraklı | Tatlı, klasik fesleğen | Pesto, salata, domatesli yemekler |
+| Tay fesleğeni | Anasonlu, baharatlı | Asya yemekleri, sıcak yemekler |
+| Mor fesleğen (Dark Opal, Osmin) | Daha keskin, renkli | Süs, salata, sirke |
+| Limonlu fesleğen | Narenciye kokulu | Çay, balık, tatlı |
+| Tarçınlı fesleğen | Sıcak, baharatlı | Çay, tatlı |
+
+Satın aldığınız bitkinin çeşidini biliyor olmak önemlidir; yaprakları ezip kokularken bu farkı hemen alırsınız. Aynı bahçede çok çeşit fesleğen yetiştirmek için hepsini aynı yere ekmeyin; tozlaşma ile melezleşebilirler, tohum saklamak istiyorsanız çeşitleri ayrı tutun.
+
+## Ortak ihtiyaç: sıcak ve güneş
+
+Her fesleğen çeşidi sıcak sever. Illinois Üniversitesi uzatma servisi, soğuk toprak ve havanın fesleğenin büyümesini durdurabileceğini, hatta 50 °F'de (10 °C) yaprakların kararabileceğini yazar; Penn State de yaprakların 50 °F'nin altında bozulduğunu belirtir. Kentucky Üniversitesi ise yaprakların ilk donla karardığını bildirir. Bu nedenle fesleğen dışarıya yalnızca don riski tamamen geçtikten sonra dikilir; Iowa State, tüm don tehlikesi bittikten sonra dikim önerir. Ayrıntı: [Illinois Üniversitesi fesleğen sayfası](https://extension.illinois.edu/herbs/basil).
+
+Pratikte bu, fesleğenin gece sıcaklığı sürekli yaklaşık 10–12 °C üstüne çıktıktan sonra dışarı çıkması demektir; çoğu bölgede mayıs ayı. Saksıda yetiştirirseniz soğuk gecelerde içeri alabilirsiniz. Eşik değerleri ve toprak ısısı için [fide dikim zamanı](/fide-dikim-zamani) yazısı yardımcı olur. Fesleğen günde en az altı saat güneş ister; gölgede uzar ve zayıflar. Toprak süzek ve organik maddece zengin olmalı, sulama düzenli ve derin olmalıdır.
+
+## Fesleğen çeşitleri için çiçek koparma ve uç alma
+
+Fesleğen çiçek açınca yaprak üretimini yavaşlatır ve yaprakları acılaşır. Kentucky uzatma notu çiçek tomurcuklarının oluştukça kopartılmasını önerir; Gardeners.com ise çiçeklenmeye ve tohum yapmaya izin verilmezse bitkinin ilk dona kadar kaliteli yaprak üretmeye devam edeceğini yazar. Genovese gibi bazı çeşitler erken çiçek açar ve düzenli uç alma gerektirir. Kaynak: [Kentucky Üniversitesi fesleğen bilgi notu](https://publications.ca.uky.edu/sites/publications.ca.uky.edu/files/NEP237.pdf).
+
+Uç alma yöntemi basittir: Sürgünün üst iki yaprak çiftini, bir yaprak çiftinin hemen üstünden kesin. Bitki iki yeni dal yapar. Bu kesim hem hasattır hem bitkiyi dallandıran bir şekil verme işlemidir. Uç alma ayrıntıları için [uç alma](/uc-alma) yazısına bakabilirsiniz. Süs için bırakılan mor fesleğen çiçekleri arı ve diğer tozlayıcılar için değerli olabilir; mutfak için kullanacaksanız çiçekleri koparın.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## Ekim: tohum ya da fide
+
+Fesleğen tohumdan kolay çıkar. Dikimden altı sekiz hafta önce, ısıtılmış ve ışıklı bir ortamda, tohumu yüzeye ya da çok ince örtülerek ekin; çimlenme için ılık ortam şarttır. Fideler dikime hazır olduğunda dışarı alıştırılır. SDSU uzatma servisi, doğrudan ekimin gece sıcaklıkları sürekli 50 °F'nin üstündeyken yapılabileceğini belirtir. Saksıda fesleğen yetiştirme adımları için [saksıda fesleğen yetiştirme](/saksida-feslegen-yetistirme) yazısına bakın. Tohumun ekimi ve çimlenme sıcaklığı için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısı yol gösterir.
+
+Bir sezonda birkaç farklı çeşit denemek eğlencelidir: Pesto için bir Genovese, çay için bir limonlu, süs için bir mor çeşit. Saksıların etiketli olması, hangi bitkinin hangi çeşit olduğunu karıştırmanızı önler.
+
+## Bakım ve sorunlar
+
+Fesleğen çeşitleri bakımda birbirine benzer: Fesleğen düzenli ve ölçülü sulama ister; toprağı sürekli ıslak tutmak çökertme ve mantar hastalığına yol açar. Sabah sulaması yapraklarda hastalık riskini azaltır. Besleme için olgun organik madde ve hafif sıvı besin yeterlidir; aşırı azot aromayı zayıflatır. Aromatik bitkilerin besleme düzeni için [aromatik bitki gübreleme](/aromatik-bitki-gubreleme) yazısına bakın.
+
+Sorunların çoğu soğuk ve nem kaynaklıdır: Yapraklarda kararma soğuktan, sararma aşırı sulamadan, yapışkan leke ve küçük böcekler bitlerden olur. Böcek ve hastalık için ilaç gerektiğinde il ya da ilçe tarım müdürlüğüne başvurun; bu yazıda ilaç adı ve dozu verilmez. Farklı fesleğen çeşitleri aynı saksıda yetişirse aroma ve yaprak biçimi karışmaz, ama çeşitleri ayrı saksıda yetiştirmek hasatta kolaylık sağlar: Genovese'yi sürekli kesip budayabilirsiniz, mor çeşidi ise süs için bir köşede bırakırsınız. 
+
+Fesleğen çeşitleri içinde en sık hayal kırıklığı yaratan, limonlu ve tarçınlı çeşitleri taze bitki yerine tohumla aramaktır; bu çeşitler çoğunlukla aroması garantili çelikle ya da fideyle alınır. Yine de tohumdan denemek bir sezonda hangi aromayı sevdiğinizi anlamanın ucuz bir yoludur. Bir sezon boyunca her çeşidin yapraklarını ezip koklamak, hangi çeşidin hangi yemeğe yakıştığını öğretir. Fesleğen çeşitleri arasında kendi damak zevkinize en uyanı bulmak, bir sonraki sezonun ekim planını kolaylaştırır; sevmediğiniz çeşidi bırakıp sevdiğinizin sayısını artırabilirsiniz. Pesto için en çok yaprak veren çeşitlerden ikiye üçe saksı ayırın.
+
+Bir kez hasat edilen bitki yeniden sürmeden önce birkaç gün gerekir; bu yüzden hasadı saksılar arasında dağıtın. Hasat ettiğiniz fesleğeni buzdolabında soğuk saklamayın, yapraklar kararır; oda sıcaklığında bir bardak suda tutun ya da dondurun.
+@sss
+S: Fesleğen çeşitleri nelerdir?
+C: Başlıca gruplar tatlı pesto tipleri (Genovese), Tay tipleri, mor çeşitler (Dark Opal, Osmin), limonlu ve tarçınlı çeşitlerdir. Her grubun aroması ve kullanımı farklıdır; yaprağı ezip kokusuna bakmak ayırt etmenin en kolay yoludur.
+
+S: Fesleğen soğuğa dayanır mı?
+C: Hayır. Uzatma servislerine göre yaklaşık 10 °C'de (50 °F) yapraklar kararabilir ve ilk donda tamamen kararır. Dışarı yalnızca don riski geçtikten sonra dikilir.
+
+S: Fesleğende çiçek koparmak gerekir mi?
+C: Mutfak için yetiştiriyorsanız evet; çiçek tomurcukları oluştukça koparılırsa bitki yaprak üretmeye devam eder. Genovese gibi erken çiçek açan çeşitlerde uç alma düzenli yapılmalıdır.
+
+S: Fesleğen ne zaman ekilir?
+C: Tohum dikimden altı sekiz hafta önce ısıtılmış ortamda ekilir; doğrudan ekim için gece sıcaklığı sürekli yaklaşık 10 °C'nin üstünde olmalıdır. Çoğu bölgede açık alana mayısta çıkılır.
+
+### YAZI
+slug: cilek-cesitleri
+baslik: Çilek Çeşitleri: Albion, Sabrina ve Yediveren
+yayin: 2027-03-10 19:40
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: çilek çeşitleri
+seo_baslik: Çilek Çeşitleri: Albion, Sabrina ve Yediveren
+seo_aciklama: Çilek çeşitleri arasında fark nedir? Kısa gün ve gün nötr (yediveren) tipler, Albion'un özellikleri, ilk yılda meyve alma ve saksı ya da bahçe için seçim.
+ozet: Çilek çeşidi seçmek, meyvenin tadından çok ne zaman ve kaç kez meyve vereceğiyle ilgilidir. Çilek çeşitlerini kısa gün ve gün nötr (yediveren) gruplarına ayırdık; Albion'un özelliklerini, stolon yönetimini, ilk yıl meyve alma farkını ve bahçe, saksı ve kule için seçim ölçütlerini anlattık.
+etiketler: çilek çeşitleri, Albion çileği, yediveren çilek, gün nötr çilek, kısa gün çileği, çilek fidesi
+gorsel: bekliyor
+gorsel_alt: Beyaz çiçekli ve olgun kırmızı meyveli çilek bitkileri saksı kenarından sarkıyor
+urunler: albion-cilek-fidesi-6-adet, albion-cilek-fidesi-ciceli-12-adet, hg-cilek-topragi
+kisaca: Çilek çeşitleri iki ana grupta incelenir: Kısa gün (mayıs çileği) tipleri yılda bir kez, ilkbaharda büyük bir ürün verir; gün nötr (yediveren) tipleri sıcaklık uygun olduğu sürece sezon boyunca meyve verir ve dikim yılında meyve alınır. Albion gün nötr bir çeşittir; büyük, sert, güzel renkli meyveleriyle bilinir.
+@govde
+Çilek fidesi alırken etiketlerde karşınıza iki grup çıkar: bir yılda tek ürün verenler, bir de sezon boyunca küçük küçük meyve verenler. Fidenin tadı birbirine benzese de takvimi çok farklıdır. Çilek çeşitleri arasında seçim yaparken sorulacak ilk soru "hangi çeşit tatlı?" değil, "ne zaman ve kaç kez meyve almak istiyorum?" olmalıdır.
+
+## Çilek çeşitleri: kısa gün ve gün nötr iki temel grup
+
+Çilek bitkisi çiçek tomurcuğunu gün uzunluğuna göre mi, sıcaklığa göre mi oluşturduğuna göre ayrılır. Üniversite uzatma servisleri bunu açıkça tarif eder. Kısa gün (June-bearing, Türkçede çoğunlukla "mayıs çileği") çeşitleri, tomurcuğu önceki yaz ve sonbaharda, günler kısalırken oluşturur ve ilkbaharda (mayıs–temmuz) büyük bir ürün verir. Gün nötr çeşitler ise gün uzunluğundan çok az etkilenir; sıcaklık yaklaşık 4–30 °C (40–85 °F) aralığında kaldığı sürece çiçek tomurcuğu yapar. Bu yüzden gün nötr çeşitler dikim yılında meyve verir ve sezon boyunca ürün alınır. Kaynaklar: [Minnesota Üniversitesi gün nötr çilek rehberi](https://extension.umn.edu/strawberry-farming/day-neutral-strawberries) ve [Penn State ev bahçesi çilek çeşitleri](https://extension.psu.edu/strawberry-varieties-for-home-gardens).
+
+Türkiye'de yediveren adı çoğunlukla gün nötr ya da devamlı meyve veren çilekler için kullanılır. Ürünlerin bazen "yediveren (gün nötr)" diye etiketlendiğini görürsünüz; bu iki ifade çoğu zaman aynı grubu anlatır, ama aralarında teknik farklar da bulunabilir (sürekli meyve veren çilekler genellikle belirgin zirveler yapar).
+
+| Özellik | Kısa gün (mayıs çileği) | Gün nötr (yediveren) |
+|---|---|---|
+| Meyve zamanı | İlkbahar–yaz başı, yoğun | Sezon boyunca, dalgalı |
+| İlk yıl | Genellikle ilk yıl çiçek koparılır | Dikim yılında meyve verir |
+| Toplam ürün | Tek büyük hasat | Küçük ve sürekli hasatlar |
+| Stolon (koşucu) | Çok; yeni bitki oluşturur | Az; sürekli kesilmesi önerilir |
+| Uygun kullanım | Reçel, toplu hasat | Taze tüketim, saksı, kule, balkon |
+
+## Albion: gün nötr bir çeşit
+
+Albion, gün nötr bir çilek çeşididir. Patent kayıtları gün nötr özelliğinin orta ile zayıf arasında olduğunu ve bazı çeşitlere göre biraz daha gün nötr sayılabileceğini belirtir. Penn State, Albion'u çok büyük, sert, güzel renkli ve iyi lezzetli meyve veren bir çeşit olarak tarif eder; Minnesota denemelerinde Albion ve San Andreas en tatlı çeşitler arasında çıkmıştır. Bu yüzden Albion hobi bahçelerinde ve balkonlarda sık tercih edilir. Meyve zirveleri sıcakta (yaz ortası) küçülebilir; çok sıcak bölgelerde gölgeleme yararlıdır.
+
+Albion fidelerini çiçekli ve çiçeksiz, farklı sayılarda bulabilirsiniz. Çiçekli fide dikilince hemen meyve gelebilir; ama bitkinin köklenmesi için ilk çiçekleri koparmak gelecek meyveler için daha iyi olabilir. Dikim ve bakım için [çilek tarlası kurmak](/cilek-tarlasi-kurmak) ve [balkonda çilek yetiştirme](/balkonda-cilek-yetistirme) yazıları ayrıntı verir.
+
+[ürün:albion-cilek-fidesi-6-adet]
+
+## Sabrina ve diğer çeşit adları
+
+Piyasada çok sayıda çilek çeşit adı vardır ve bunların bir kısmı için Türkiye'de tek tip bir üniversite tablosu bulmak zordur. Örneğin Sabrina için doğrulanmış bir üniversite tarifi bulamadık; çeşidin kısa gün mü yoksa gün nötr mü olduğunu fide satıcısının etiketinden ve üretici belgesinden öğrenin. Aynı durum yerel adlar için de geçerlidir. Çeşit adını bilmeden çilek fidesi almak bir sezon sonra "neden meyve yok" ya da "neden bir anda çok meyve" sorusunu doğurur.
+
+Çeşit seçerken şu üç bilgiyi mutlaka alın: Gün tipi (kısa gün ya da gün nötr), ortalama meyve zamanı ve fidenin sertifika durumu. Kısa gün çeşitlerinde sonbahar dikimi sonraki bahar iyi meyve getirir; gün nötr çeşitlerde ilkbahar dikimi aynı yaz meyve verebilir. Sonbahar dikimi için [sonbaharda çilek fidesi dikimi](/sonbaharda-cilek-fidesi-dikimi) yazısına bakabilirsiniz.
+
+## Stolon yönetimi: gün nötrde farklıdır
+
+Çilek bitkisi stolon (koşucu sürgün) yaparak yeni bitkiler üretir. Kısa gün çeşitlerinde stolon yeni bitkilere dönüşür ve sıra kalınlaşır. Gün nötr çeşitlerde ise stolonlar sezon boyunca düzenli olarak kesilir; Minnesota Üniversitesi uzatma servisi, daha çok meyve için gün nötrlerde stolonların sezon boyunca alınmasını önerir ve zamanlama olarak temmuz ile ağustos ortası arasını verir. Bunun nedeni bitkinin enerjisini yeni sürgünlere değil meyveye harcamasıdır. Bahçıvan için pratik kural: Gün nötr çilekte yeni sürgün çıkınca kesin, kısa gün çilekte ise yeni bitki istiyorsanız tutun.
+
+Çileğin neden küçük kaldığı, besleme ve sulama gibi konular için [çilek neden küçük kalır](/cilek-neden-kucuk-kalir) ve [çilek gübreleme](/cilek-gubreleme) yazıları kullanışlıdır. Toprak seçimi için [çilek toprağı nasıl olmalı](/cilek-topragi) yazısına bakın.
+
+## Çilek çeşitleri arasında seçim: bahçe, saksı ve kule
+
+Büyük bir bahçe ve reçel için kısa gün çeşitleri toplu hasada uygundur. Balkon, saksı ve dikey kulede taze tüketim için gün nötr çeşitler daha uygundur; çünkü az alanda sürekli hasat verir. Kule için ayrıntılı bilgi [çilek kulesi](/cilek-kulesi) yazısında ve kule bitkileri için [bahçe kulesine ne ekilir](/bahce-kulesine-ne-ekilir) yazısında yer alır. Dikey kulede çilek seçerken kompakt, az stolon yapan ve sürekli meyve veren çeşitler tercih edilir.
+
+Çilek çeşitleri hakkında karar verirken bir sezonluk deneme çoğu zaman yeterlidir: iki çeşit fideyi yan yana, aynı toprak ve sulamayla yetiştirip meyve zamanı, boyu ve tadı açısından karşılaştırın. Gün nötr çeşitlerde sıcak yaz ortasında meyve boyu küçülür, sonbaharda yeniden büyür; bu normal bir döngüdür ve çeşidin hatası sayılmaz. Çilek fidesi alırken kök durumuna, yaprak sağlığına (leke ve kıvrılma olmamalı) ve fidenin kaynağına bakın. Sertifikalı fide hastalıksız köke sahiptir; komşudan gelen koşucu fide ise hastalık taşıyabilir. Çilek çeşitleri arasında karar verirken ayrıca bitki başına verim, meyve sertliği ve dona dayanım gibi etiket bilgilerini karşılaştırın. Çilek bitkileri üç dört yılda bir yenilenmelidir; yaşlanan bitkide verim düşer. Kışlatma için [çilek kışın nasıl korunur](/cilek-kisin-nasil-korunur) yazısına bakabilirsiniz. Hastalık belirtileri için [çilek hastalıkları](/cilek-hastaliklari) yazısı kullanışlıdır.
+@sss
+S: Çilek çeşitleri arasında kısa gün ve gün nötr farkı nedir?
+C: Kısa gün (mayıs çileği) çeşitleri ilkbaharda tek büyük hasat verir ve çiçek tomurcuğunu günler kısalırken yapar. Gün nötr (yediveren) çeşitler sıcaklık uygun olduğu sürece sezon boyunca meyve verir ve dikim yılında ürün alınır.
+
+S: Albion çileği hangi tiptir?
+C: Albion gün nötr bir çeşittir. Penn State büyük, sert, güzel renkli ve iyi lezzetli meyve verdiğini yazar. Gün nötr özelliği orta ile zayıf arasında tarif edilir; sıcakta meyve küçülebilir.
+
+S: Gün nötr çilekte stolonlar kesilmeli mi?
+C: Evet; meyve verimini artırmak için stolonlar sezon boyunca düzenli kesilir. Minnesota Üniversitesi temmuz ile ağustos ortası arasında kesmeyi önerir. Kısa gün çeşitlerde stolon yeni bitkiye dönüştürülebilir.
+
+S: Balkon için hangi çilek çeşidi uygundur?
+C: Az alanda sürekli meyve istediğiniz için gün nötr (yediveren) çeşitler uygundur; Albion gibi çeşitler saksıda ve dikey kulede sık kullanılır. Çeşidin gün tipini fide satıcısının etiketinden doğrulayın.
+
+### SORU
+yayin: 2027-03-10 21:10
+kategori: bitki-bakimi
+baslik: Salondaki monstera ve kauçuğu nisan ortasında balkona çıkarsam ne olur?
+metin: İstanbul'da yaşıyorum. Nisan ortası gündüzler 18 dereceye çıkıyor, geceler 8–9 derece. Monstera ve kauçuk ağacını balkona çıkarmak istiyorum. Çok mu erken?
+@cevap Ahmet Sacit Çelik | 1
+Evet, biraz erken. Clemson Üniversitesi gece sıcaklıklarının sürekli yaklaşık 15 °C'nin üstünde olmasını bekler; 8–9 °C'lik geceler tropikal yapraklı bitkiler için risklidir. Gündüz birkaç saat dışarıda tutup akşam içeri almak olur: Önce gölgeye koyun, güneşe doğrudan çıkarmayın, yaprakları yanar. Gece sıcaklığının sürekli 12–15 °C'nin üstüne çıkmasını bekleyin; İstanbul'da bu çoğu yıl mayıs ortası civarıdır. Kademeli alıştırma için ilk hafta günde birkaç saat gölgede, sonra sabah güneşi alan yere geçin.
+
+### SORU
+yayin: 2027-03-10 21:45
+kategori: sebze-meyve
+baslik: Komşunun çilek fidesinden koşucuları ayırıp dikebilir miyim, gün nötr mü olur?
+metin: Komşumun bahçesindeki çileklerin koşucularını ayırıp balkonda yetiştirmek istiyorum. Meyvesi sezon boyunca geliyor, galiba yediveren. Aynı özellikte olur mu?
+@cevap Mehmet Fatih Çelik | 2
+Koşucu fide ana bitkinin klonudur, yani aynı çeşit ve aynı gün tipi (kısa gün ya da gün nötr) taşır. Meyvesi sezon boyunca geliyorsa büyük olasılıkla gün nötr bir çeşittir. Ancak hasta bitkiden gelen koşucu hastalığı da taşıyabilir; yaprakları lekesiz, sağlıklı ve güçlü bitkiden alın. Gün nötr çeşitlerde koşucu az oluşur, çünkü bitkinin enerjisini meyveye vermesi için koşucular kesilir. Alınan koşucuyu ayrı bir saksıda köklendirip ilk çiçekleri koparın ki bitki iyi yerleşsin. Çeşit adını komşunuzdan öğrenmek, gelecekteki fide alımları için değerlidir.
+
+### YAZI
+slug: bag-sulamasi
+baslik: Bağ Sulaması: Asmada Damla Sulama Dönemleri ve Su Miktarı
+yayin: 2027-03-10 08:45
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: bağ sulaması
+seo_baslik: Bağ Sulaması: Asmada Damla Sulama Dönemleri
+seo_aciklama: Bağ sulaması nasıl planlanır? Tomurcuk patlamasından hasada damla sulama dönemleri, çiçeklenmede stres ve ben düşme sonrası kısıntı.
+ozet: Asmanın su ihtiyacı dönemden döneme değişir; çiçeklenmede stres verimi düşürür, ben düşmeden sonra aşırı su meyve kalitesini bozar. Bağ sulamasının dönemlerini, damla sulamada sıklığı ve kısıntı mantığını Kaliforniya Üniversitesi ve FAO kaynaklarına dayanarak anlattık; kaynakların bölgesel sınırını belirttik.
+etiketler: bağ sulaması, asma sulama, damla sulama, ben düşme, çiçeklenme, sulama programı
+gorsel: bekliyor
+gorsel_alt: Asma sırası boyunca uzanan damla sulama borusu ve gelişen üzüm salkımları
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Bağ sulaması dönemlere göre ayarlanır: Tomurcuk patlaması ile çiçeklenme arasında su ihtiyacı büyük ölçüde kış nemiyle karşılanır; çiçeklenme ile ben düşme arası asma strese sokulmaz; ben düşmeden hasada aşırı su meyve boyutunu ve rengini bozabilir. UC kaynakları yaz ortasından sulamayı azaltmayı önerir; tarihler Kaliforniya'ya aittir.
+@govde
+Asma kuraklığa dayanıklı bir bitki olarak bilinir ve bu doğrudur; yine de her dönemde aynı dayanıklılığı göstermez. Aynı asmaya çiçeklenmede verilen bir iki gün susuzluk salkım sayısını düşürür, ben düşmeden sonra verilen fazla su ise üzümü iri ama sulu, renksiz ve geç olgunlaşan bir meyve yapabilir. Bağ sulaması bu yüzden "az ya da çok" meselesi değil, "ne zaman" meselesidir. Bu yazı bağ sulaması dönemlerinin nasıl değiştiğini Kaliforniya Üniversitesi uzatma servisinin yayınlarına dayanarak anlatıyor; bu kaynakların Kaliforniya'ya ait olduğunu ve tarih ile yüzdeleri kendi bölgenize uyarlamanız gerektiğini baştan söyleyelim.
+
+## Bağ sulaması: üç dönem
+
+UC'nin su yönetimi ve sulama planlaması yayınları asmanın yıllık su kullanımını üç ana döneme ayırır. İlk dönem tomurcuk patlamasından çiçeklenmeye kadardır; bu dönemde su ihtiyacı büyük ölçüde kış yağışından toprakta kalan nemle karşılanır ve asmayı strese sokmak zordur. İkinci dönem çiçeklenmeden ben düşmeye (renk dönüşümü) kadardır; hücre bölünmesi ve ürün büyümesi bu dönemdedir ve UC rehberliği bu dönemde asmayı strese sokmamayı söyler. Üçüncü dönem ben düşmeden hasada kadardır; olgunlaşma dönemidir ve sulama genellikle kısılır. Kaynak: [UC, su yönetimi ve sulama planlaması](https://ucanr.edu/sites/default/files/2011-03/82043.pdf).
+
+Danışmanlar çiçeklenmeden meyve tutumuna kadar olan dönemi stres açısından çok hassas bulur, çünkü hücre bölünmesi hızlıdır. Meyve tutumundan ben düşmeye kadar ise hafif stres tolere edilebilir. Çiçeklenmede stresin meyve tutumunu azaltabileceği, meyve tutumundan ben düşmeye kadar orta ve şiddetli stresin ise tane boyutunu küçülttüğü bildirilmiştir.
+
+| Dönem | Su ihtiyacı ve strateji |
+|---|---|
+| Tomurcuk patlaması – çiçeklenme | Kış nemi büyük ölçüde yeter; stres vermek zor |
+| Çiçeklenme – meyve tutumu | Çok hassas dönem; stresten kaçının |
+| Meyve tutumu – ben düşme | Hafif stres tolere edilebilir; tane boyutuna dikkat |
+| Ben düşme – hasat | Aşırı sudan kaçının; sulama kısılır |
+
+## Damla sulamada sıklık ve miktar
+
+Damla sulama toprakta az su depolar; bu yüzden aralıklar uzatılamaz. UC kaynaklarında yaz boyunca damla sulama aralığının dört günü geçmemesi gerektiği yazılıdır. Bir danışman, ben düşmeye kadar yaklaşık bitki-su tüketiminin (ET) yüzde 70'i düzeyinde sulamayı genel bir rehber olarak önerir; başka bir rehber temmuz ya da ağustos başından itibaren damla sulamayı planlanan miktarın yüzde 50–75'ine indirmeyi önerir. Bu rakamlar Kaliforniya'nın San Joaquin vadisi ve kıyı koşullarında verilmiştir; Türkiye'nin bölgelerinde iklim, toprak ve anaç farkı yüzünden değişir. Bu yüzden değerleri kopyalamak yerine yön göstericisi olarak okuyun.
+
+Su miktarını ölçmenin en güvenilir yolu toprak nemidir. Toprak nemini izleme yöntemleri için [toprak nemi ölçme](/toprak-nemi-olcme) yazısı pratik bir başlangıçtır; sulama saatinin seçimi için [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısına bakın. Damla sistemin kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısını okuyun.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Ben düşmeden sonra: kısıntı ve hasat öncesi
+
+Ben düşmeden sonra aşırı su, UC kaynaklarına göre tane boyutunu, rengini ve olgunluğunu olumsuz etkileyebilir; bu nedenle sulama kısılır. Damla sulama çoğu rehberde hasattan bir ya da iki hafta önce kesilir. Hafif su stresi olgunlaşma sırasında çözünür kuru maddeyi artırabilir; şiddetli stres ise tane boyutunu küçültür ve şeker birikimini geciktirebilir. FAO'nun kısıtlı sulama (regulated deficit irrigation) yayını, kontrollü su kısıntısı yönteminin ayrıntılarını anlatır: [FAO, kısıtlı sulama](https://www.fao.org/4/y3655e/y3655e12.htm). Bir çalışmada ben düşme öncesi kısıntılı sulama, ben düşme sonrası kısıntıdan daha iyi şarap kalitesi sağlamıştır; ama bu şaraplık üzüm için yapılmış bir araştırmadır.
+
+Sofralık üzümde hedef farklıdır: Tane boyutu ve görünüm önemlidir; bu nedenle kısıntıyı çok sert uygulamayın. Hobi bağında en güvenli yol, çiçeklenme döneminde asmayı susuz bırakmamak, ben düşmeden sonra ise suyu azaltıp hasatta kesmektir.
+
+## Bahçede uygulama: basit bir plan
+
+Hobi bağı sahibi için dönemleri şöyle özetleyebiliriz: İlkbaharda toprak nemli ise sulamaya gerek yoktur; asmanın yeni sürgünleri çıkarken toprağı kontrol edin. Çiçeklenme ve meyve tutumu döneminde toprağı kurutmayın, damlayı düzenli çalıştırın. Ben düşmeye doğru suyu yavaşça azaltın. Hasattan önce sulamayı bitirin. Bağın genel bakım takvimi için [bağ bahar bakımı](/bag-bahar-bakimi), besleme için [bağ gübreleme](/bag-gubreleme), kuruluş için [bağ kurmak](/bag-kurmak) ve hastalıklar için [asma hastalıkları](/asma-hastaliklari) yazılarına bakın.
+
+Aşırı sulama kök çürümesine ve mantar hastalıklarına yol açar; asmanın sık ve sığ sulanması kökleri yüzeye çeker, derin ve seyrek sulama ise kökleri derine yönlendirir ve kuraklığa karşı bitkiyi güçlendirir; asma hastalıkları ve nem ilişkisini yukarıdaki yazıdan okuyun. Yağışa bağlı üretimde toprakta nem biriktirme yöntemleri için [kuru tarım nedir](/kuru-tarim-nedir) yazısı da faydalıdır.
+
+## Sık yapılan hatalar
+
+- Asmayı çiçeklenme döneminde susuz bırakmak.
+- Ben düşmeden sonra bol suyu sürdürmek; tane iri ama renksiz ve geç olgun olur.
+- Damla aralığını çok uzatmak; damla sistem toprakta az su tutar.
+- Hasattan hemen önce suyu kesmeyi unutmak.
+- Başka bir ülkenin tarihlerini ve yüzdelerini olduğu gibi kopyalamak.
+- Toprak nemine bakmadan takvimle sulamak.
+
+Bağ sulamasında bir başka önemli nokta toprak türüdür: Kumlu toprak suyu az tutar ve daha sık, az miktarda sulama ister; killi toprak daha uzun nem tutar ve daha seyrek sulanır. Kendi toprağınızı tanımadan sulama sıklığını belirlemek zordur; toprak numunesi alıp analiz yaptırmak ve bir parseldeki nemi elle kontrol etmek bu konuda ilk adımdır.
+
+## Uyarlama: kendi bölgeniz için
+
+Bu yazıdaki tarih ve oranlar Kaliforniya'dandır. Türkiye'de bölgenizin asma fenolojisine (tomurcuk patlaması, çiçeklenme, ben düşme tarihleri) göre dönemleri belirleyin; bu tarihleri bölgenizdeki üreticilerden ve il tarım müdürlüğünden öğrenebilirsiniz. Yerel üretici deneyimi ve toprak nemi ölçümü, genel rakamlardan her zaman daha değerlidir.
+@sss
+S: Bağ sulaması hangi dönemlerde yapılır?
+C: UC kaynakları üç dönem ayırır: Tomurcuk patlamasından çiçeklenmeye (kış nemi büyük ölçüde yeter), çiçeklenmeden ben düşmeye (stres verilmez) ve ben düşmeden hasada (aşırı sudan kaçınılır, sulama kısılır).
+
+S: Damla sulama kaç günde bir yapılmalı?
+C: UC kaynaklarına göre yaz boyunca damla sulama aralığı yaklaşık dört günü geçmemelidir, çünkü damla sistem toprakta az su depolar. Bölgenizin toprağına göre uyarlayın.
+
+S: Asmaya hasattan önce su verilir mi?
+C: Ben düşmeden sonra aşırı su tane boyutunu, rengini ve olgunluğunu bozabileceğinden sulama kısılır; damla sulama genellikle hasattan bir ya da iki hafta önce kesilir.
+
+S: Çiçeklenmede asma susuz kalırsa ne olur?
+C: Çiçeklenmede su stresi meyve tutumunu azaltabilir. Bu dönem asmanın en hassas dönemidir; toprağı kurutmayın.

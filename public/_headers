@@ -1,0 +1,45 @@
+# ikas sitesi bu dosyaları başka bir alan adından çağırdığı için CORS izni gerekir.
+# Önbellek kısa: ürün/fiyat değişikliği (senkron saatte bir) müşteriye bir sonraki açılışta yansısın; eskiden 24 saat
+# eski kopya gösterilebiliyordu. Widget ayrıca her açılışta "değişti mi" diye sorar (cache: no-cache, 304).
+/products.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+
+/menu.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+
+/karisim.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+
+/yorumlar.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+
+/pm-search.js
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=600, stale-while-revalidate=3600
+
+# İkinci site (data-site="tarim"): aynı izin ve önbellek
+/tarim/products.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+
+/tarim/menu.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+
+/tarim/karisim.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+
+# Blog yazı paketleri: yalnız sunucu içinden okunur, arama motorlarında görünmez
+/blog-statik/veri/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=31536000, immutable
+
+# Kendin Tasarla: Ürün Bul paneli aracı siteden modül olarak yükler (çapraz kaynak izni gerekir)
+/tasarla/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=600, stale-while-revalidate=3600

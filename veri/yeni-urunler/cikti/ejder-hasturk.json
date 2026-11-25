@@ -1,0 +1,78 @@
+{
+ "site": "hasturk",
+ "kategoriler": [
+  {
+   "name": "Topraklar",
+   "slug": "topraklar",
+   "pageTitle": "Topraklar",
+   "description": "Topraklar",
+   "children": [
+    {
+     "name": "Özel Bitki Toprakları",
+     "slug": "ozel-bitki-topraklari",
+     "pageTitle": "Özel Bitki Toprakları",
+     "description": "Özel bitki toprakları"
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "HG Ejder Ağacı Toprağı",
+   "marka": "HG",
+   "sku": "HG-EJD-05L",
+   "kategoriler": [
+    "Özel Bitki Toprakları"
+   ],
+   "fiyat": 249,
+   "etiketler": [
+    "kdv_20"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-ejder-agaci-topragi.webp"
+   ],
+   "metaData": {
+    "slug": "hg-ejder-agaci-topragi",
+    "pageTitle": "HG Ejder Ağacı Toprağı | HasTürk Gübre",
+    "description": "HG Ejder Ağacı Toprağı: hafif, havadar, suyu iyi süzen hazır saksı toprağı. Kök çürümesi riskini azaltır, saksı değişimini kolaylaştırır."
+   },
+   "aciklama": "<p>HG Ejder Ağacı Toprağı, ejder ağacı (Dracaena marginata, Madagaskar ejder ağacı) gibi salon bitkileri için hazırlanmış, kullanıma hazır bir bitki ve saksı toprağıdır. Ejder ağacı dayanıklı bir bitkidir; onu en çok yoran şey suyu tutan, sıkışan toprak ve saksı tabağında bekleyen sudur. Bu yüzden toprağın hafif kalması ve fazla suyu kolay bırakması gerekir.</p>\n<h2>Ejder Ağacı Nasıl Bir Toprak Sever?</h2>\n<ul>\n<li><strong>Hafif ve havadar:</strong> Kökler nefes alabilmeli, toprak saksıda sertleşip topaklanmamalı.</li>\n<li><strong>Süzek:</strong> Sulamadan sonra fazla su saksının dibinden rahatça akmalı.</li>\n<li><strong>Dengeli nemli:</strong> Toprak bir süre nemi tutmalı ama sürekli ıslak kalmamalı.</li>\n<li><strong>Organik maddeli:</strong> Yavaş büyüyen bitkiye uzun süre destek olacak organik içerik yararlıdır.</li>\n</ul>\n<h2>Karışım İçeriği</h2>\n<ul>\n<li><strong>Sphagnum ham torf:</strong> %40</li>\n<li><strong>Cocopeat torfu:</strong> %20</li>\n<li><strong>Kalın tarım perliti:</strong> %20</li>\n<li><strong>Solucan gübresi:</strong> %10</li>\n<li><strong>Leonardit:</strong> %10</li>\n</ul>\n<h2>Neden Bu Karışım?</h2>\n<ul>\n<li><strong>Sphagnum torf</strong> hafif ve kabarık bir yapı verir; nemi tutar ama kökleri sıkıştırmaz.</li>\n<li><strong>Cocopeat</strong> suyu dengeli tutar ve toprağın havalanmasına yardımcı olur.</li>\n<li><strong>Perlit</strong> toprakta boşluk bırakır; fazla suyun çabuk akmasını sağlar ve kök çürümesi riskini azaltır.</li>\n<li><strong>Solucan gübresi</strong> organik besin katar.</li>\n<li><strong>Leonardit</strong> organik madde sağlar ve toprağın besin tutmasına destek olur.</li>\n</ul>\n<h2>Bu Toprak Kimler İçin?</h2>\n<ul>\n<li>Ejder ağacını yeni saksıya almak ya da toprağını yenilemek isteyenler</li>\n<li>Yaprak ucu kuruması ve kök çürümesinden kaçınmak için süzek bir toprak arayanlar</li>\n<li>Benzer isteklere sahip diğer Dracaena türlerini (mutlu bambu, Dracaena fragrans) yetiştirenler</li>\n</ul>\n<h2>Nasıl Kullanılır?</h2>\n<ol>\n<li>Drenaj delikli bir saksı seçin; mevcut saksıdan bir boy büyük olması yeterlidir. Ejder ağacı dar saksıda rahat eder.</li>\n<li>Saksının dibine birkaç santim toprak koyun, bitkiyi aynı derinlikte yerleştirin ve çevresini toprakla doldurun.</li>\n<li>Dikimden sonra bir kez su verin ve fazla suyun tamamen akmasını bekleyin.</li>\n<li>Sonraki sulamalarda toprağın üst 3–5 cm'si kuruyunca su verin; saksı tabağında su bırakmayın.</li>\n</ol>\n<h2>Bakım Önerileri</h2>\n<ul>\n<li>Parlak ama doğrudan öğle güneşi almayan bir yere koyun.</li>\n<li>Yaprak uçları kahverengileşiyorsa nedeni çoğunlukla kuru hava, klorlu su ya da düzensiz sulamadır; suyu bir gün dinlendirerek vermek işe yarayabilir.</li>\n<li>Saksı değişimini birkaç yılda bir, ilkbaharda yapmak yeterlidir.</li>\n<li>Ejder ağacı kedi ve köpekler için zehirlidir; evcil hayvanların erişemeyeceği bir yere koyun.</li>\n</ul>\n<h2>Paket Seçenekleri</h2>\n<p>5, 10, 20 ve 40 litrelik paketler: tek saksıdan çok sayıda saksıya kadar ihtiyacınıza göre seçin.</p>\n<h2>Sıkça Sorulan Sorular</h2>\n<h3>Ejder ağacının toprağı ne zaman değiştirilir?</h3>\n<p>Kökler drenaj deliğinden çıkıyorsa, toprak sertleşip suyu geç akıtıyorsa ya da bitki saksıya sığmıyorsa değiştirilir. İlkbahar bunun için uygun zamandır.</p>\n<h3>Ejder ağacı neden yaprak döker ya da yaprak ucu kurur?</h3>\n<p>En sık nedenleri fazla sulama, saksı tabağında biriken su, kuru hava ve klorlu sudur. Kökleri havasız bırakan sıkışık toprak da sorunu artırır.</p>\n<h3>Bu toprakla başka bitkiler yetiştirilebilir mi?</h3>\n<p>Hafif ve süzek yapısı nedeniyle benzer isteklere sahip birçok salon bitkisinde kullanılabilir; ancak ürün özellikle ejder ağacı için hazırlanmıştır.</p>",
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "20 Lt",
+     "40 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 249,
+     "sku": "HG-EJD-05L",
+     "stok": 1000
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 349,
+     "sku": "HG-EJD-10L",
+     "stok": 1000
+    },
+    {
+     "deger": "20 Lt",
+     "fiyat": 549,
+     "sku": "HG-EJD-20L",
+     "stok": 1000
+    },
+    {
+     "deger": "40 Lt",
+     "fiyat": 1075,
+     "sku": "HG-EJD-40L",
+     "stok": 1000
+    }
+   ],
+   "stoksuzSat": false
+  }
+ ]
+}

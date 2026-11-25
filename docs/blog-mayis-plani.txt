@@ -1,0 +1,497 @@
+# HasTürk Blog: 1 aylık yazı planı (25 Nisan – 24 Mayıs 2027, 171 yazı, günde 6 yazı; cumartesi-pazar günde 5)
+# Biçim: tarih saat | kategori | odak | çalışma başlığı | plan dosyası | yazar |   (docs/blog-3ay-takvim.txt ile aynı; "plan" sütunu bu dosyayı gösterir: mayis)
+# Saat ve yazar rotasyonu veri/blog-takvim/uret.py ile aynı (SAAT[5], SAAT[6], 7 yazar sırayla). Başlıkta odak ifadesi AYNEN geçer (kopya denetimi odağa bakar).
+# Kategori: bitki-bakimi · sebze-meyve · bahce-ipuclari · cicekler · gubreleme · toprak-rehberi · ekim-takvimi · gundem
+#
+# KAPSAM KARARI (kullanıcı isteği, 22 Kasım 2026): plan ağırlıklı olarak HOBİ amaçlıdır: hobi bahçesi, balkon, teras, ev bitkisi, saksı, hobi sera, çiçek, sebze-meyve yetiştirme hobisi, fidan ve tohum seçimi,
+# bahçe aletleri, sorun odaklı teşhis, ev ve emekli/kiracı açıları. MEVZUAT KONUSU YOKTUR: hibe, destek, kredi, ruhsat, izin, tapu-imar, sınır uyuşmazlığı, sigorta, kayıt sistemi, ihracat-ithalat, zirai ilaç ruhsat-reçete,
+# kenevir-haşhaş gibi hukuki-idari hiçbir konu planda yok. Çiftçi/tarla en çok %5 ve yalnız teknik üretim (hastalık, sulama, ekim): bu planda 4 konu (%2.3).
+# Bilgi-deposu hedefi aynıdır: bitki türleri, fidan, tohum, toprak, gübre, sulama, hastalık-zararlı belirtisi, takvim, alet-ekipman, hasat-saklama konularının her birinde geniş kapsam.
+#
+# KURALLAR (CLAUDE.md ve docs/blog-kalite-kurallari.md): önce bilgi sonra ürün; satış dili, fiyat ve abartı yok; doğrudan cevap, tablo/adım/bilgi görseli, kaynaklı iddia. Ürün bilgisi yalnız docs/bilgi/urunler-hasturk.json açıklamalarından.
+# Budama makası yalnız başlığı/odağı budama olan yazılarda önerilir (src/blog/urun.js > AZ_STOK): bu planda budama odaklı yazılar fesleğen, kabak, çilek, yaban mersini, leylak, açelya budaması ve kauçuk/monstera budamasıdır.
+# Hastalık/zararlı yazılarında ilaç adı ve dozu yok (ziraat mühendisi ve il/ilçe tarım müdürlüğüne yönlendirme). Güvenlik konularında (balkonda kuş yuvası, yenilebilir yabani otlar) uzmana yönlendirme. Kapak fotoğraftır (foto-aday akışı).
+# Yatak ve kule (satışı destekleyen, az sayıda: 2 yazı): p20-* serisi ve yayındaki yatak/kule yazılarıyla aynı niyette olmayan açılar (yatakta ardışık ekim, şekilli yatakta ekim deseni). Mevcut yatak/kule serisi çok yoğun olduğundan (40+ yazı) yeni yatak/kule konusu bilerek az tutuldu; yatağa ve kuleye yönelik ürün-grubu desteği diğer konuların içinde (toprak, ekipman, tohum) sağlanır.
+# Denetim: node scripts/blog-plan-kontrol.mjs docs/blog-mayis-plani.txt --hedef 171 --onceki <docs/blog-*.txt dosyaları ve docs/blog-bosluk-plani.txt>  ve  node scripts/blog-kopya-kontrol.mjs --plan docs/blog-mayis-plani.txt (sonuçlar dosya sonunda).
+
+## 25.04.2027 (5 yazı)
+2027-04-25 09:10 | bitki-bakimi | ölen bitkiyi kurtarma | Ölen Bitkiyi Kurtarma: Vazgeçmeden Önce Hangi Kontroller Yapılır? | mayis | Halil İbrahim Çelik |
+2027-04-25 11:35 | bahce-ipuclari | domates kafesi | Domates Kafesi mi Kazık mı? Domates Desteği Seçerken Bilinmesi Gerekenler | mayis | Mehmet Fatih Çelik |
+2027-04-25 14:05 | bitki-bakimi | vişne hastalıkları | Vişne Hastalıkları: Yaprak Neden Deliniyor, Meyve Neden Çürür? | mayis | Mikdat Çelik |
+2027-04-25 16:40 | sebze-meyve | bezelye çeşitleri | Bezelye Çeşitleri: Bodur mu Sırık mı? Taze, Kuru ve Şeker Bezelye Arasında Seçim | mayis | Rümeysa Altınova |
+2027-04-25 19:30 | bahce-ipuclari | ilk ay bahçe planı | İlk Ay Bahçe Planı: Hiç Başlamamış Biri İlk Dört Haftada Ne Yapar? | mayis | Ahmet Sacit Çelik |
+
+## 26.04.2027 (6 yazı)
+2027-04-26 08:45 | bahce-ipuclari | balkonda mahremiyet | Balkonda Mahremiyet: Bitkilerle Perde Yapmak Gerçekten İşe Yarar mı? | mayis | Hatice Kübra Çelik |
+2027-04-26 10:20 | bitki-bakimi | monstera çeşitleri | Monstera Çeşitleri: Deliciosa ile Adansonii Aynı Bitki mi, Hangisi Size Uyar? | mayis | Muhammed Hamza Çelik |
+2027-04-26 12:10 | bitki-bakimi | ardıç yetiştirme | Ardıç Yetiştirme: Yavaş Büyüyen Bu Çalıyı Bahçeye Neden ve Nasıl Dikmeli? | mayis | Halil İbrahim Çelik |
+2027-04-26 14:30 | sebze-meyve | ev yapımı salça | Ev Yapımı Salça: Kavanozda Küflenmeden Saklamanın Adımları | mayis | Mehmet Fatih Çelik |
+2027-04-26 16:55 | bahce-ipuclari | sulama sistemini yeniden devreye alma | Sulama Sistemini Yeniden Devreye Alma: Kışı Geçiren Hortum ve Damla Hattında Neler Bozulur? | mayis | Mikdat Çelik |
+2027-04-26 19:40 | bitki-bakimi | biber çiçek dökümü | Biber Çiçek Dökümü: Çiçekler Neden Meyve Olmadan Dökülüyor? | mayis | Rümeysa Altınova |
+
+## 27.04.2027 (6 yazı)
+2027-04-27 08:45 | cicekler | lale çiçek açtıktan sonra | Lale Çiçek Açtıktan Sonra Ne Yapılır? Yaprakları Kesmek Soğana Zarar Verir mi? | mayis | Ahmet Sacit Çelik |
+2027-04-27 10:20 | bitki-bakimi | ev bitkilerinde led mi floresan mı | Ev Bitkilerinde LED mi Floresan mı? Işık Seçerken Dikkat Edilecekler | mayis | Hatice Kübra Çelik |
+2027-04-27 12:10 | sebze-meyve | çilek budama | Çilek Budama: Yaprakları Kesmek Fideye Zarar Verir mi, Ne Zaman Yapılır? | mayis | Muhammed Hamza Çelik |
+2027-04-27 14:30 | sebze-meyve | asmada salkım dökülmesi | Asmada Salkım Dökülmesi: Çiçek Döneminde Salkımlar Neden Düşer? | mayis | Halil İbrahim Çelik |
+2027-04-27 16:55 | sebze-meyve | böğürtlen çoğaltma | Böğürtlen Çoğaltma: Uç Daldırmayla Yeni Fide Almak Neden Bu Kadar Kolay? | mayis | Mehmet Fatih Çelik |
+2027-04-27 19:40 | bahce-ipuclari | bal arısı için ağaçlar | Bal Arısı İçin Ağaçlar: Bahar Çiçeklenmesinde Arıyı Hangi Ağaç Doyurur? | mayis | Mikdat Çelik |
+
+## 28.04.2027 (6 yazı)
+2027-04-28 08:45 | bahce-ipuclari | balkon gölge yelkeni | Balkon Gölge Yelkeni: Bitkileri Öğleden Sonra Güneşinden Korur mu? | mayis | Rümeysa Altınova |
+2027-04-28 10:20 | cicekler | phlox yetiştirme | Phlox Yetiştirme: Alev Çiçeği Neden Yaprakta Beyaz Toz Yapar? | mayis | Ahmet Sacit Çelik |
+2027-04-28 12:10 | bitki-bakimi | kauçuk ağacı budama | Kauçuk Ağacı Budama: Tepe Kesilirse Ağaç Dallanır mı? | mayis | Hatice Kübra Çelik |
+2027-04-28 14:30 | bitki-bakimi | domates mozaik virüsü | Domates Mozaik Virüsü: Yaprakta Mozaik Desen Varsa Bitki Kurtarılır mı? | mayis | Muhammed Hamza Çelik |
+2027-04-28 16:55 | sebze-meyve | karnabahar baş bağlamama | Karnabahar Baş Bağlamama Sorunu: Yaprak Çıkıyor Ama Neden Baş Yok? | mayis | Halil İbrahim Çelik |
+2027-04-28 19:40 | cicekler | çok yıllık çiçekler tohumdan | Çok Yıllık Çiçekler Tohumdan Nasıl Yetiştirilir? İlk Yıl Neden Çiçek Beklemeyin | mayis | Mehmet Fatih Çelik |
+
+## 29.04.2027 (6 yazı)
+2027-04-29 08:45 | ekim-takvimi | mayısta balkonda ne ekilir | Mayısta Balkonda Ne Ekilir? Saksıya Geç Kalmamak İçin Liste | mayis | Mikdat Çelik |
+2027-04-29 10:20 | cicekler | koca yemiş | Koca Yemiş: Susuz Taş Duvarda Yaşayan Sukulent Nasıl Çoğalır? | mayis | Rümeysa Altınova |
+2027-04-29 12:10 | bitki-bakimi | monstera budama | Monstera Budama: Uzayan Dalı Kesince Ne Olur, Kesik Parça Köklenir mi? | mayis | Ahmet Sacit Çelik |
+2027-04-29 14:30 | bitki-bakimi | kantaron yetiştirme | Kantaron Yetiştirme: Sarı Çiçekler Bahçede Kendi Kendine Yayılır mı? | mayis | Hatice Kübra Çelik |
+2027-04-29 16:55 | bitki-bakimi | şeftali hastalıkları | Şeftali Hastalıkları: Yaprak, Meyve ve Dalda Görülen Belirtiler Ne Anlatıyor? | mayis | Muhammed Hamza Çelik |
+2027-04-29 19:40 | bahce-ipuclari | beton üstüne bahçe | Beton Üstüne Bahçe Yapılır mı? Kırmadan Sebze ve Çiçek Alanı Kurmak | mayis | Halil İbrahim Çelik |
+
+## 30.04.2027 (6 yazı)
+2027-04-30 08:45 | cicekler | ortanca çoğaltma | Ortanca Çoğaltma: Bir Dal Kesip Yeni Bir Ortanca Elde Etmek Mümkün mü? | mayis | Mehmet Fatih Çelik |
+2027-04-30 10:20 | bitki-bakimi | pothos çeşitleri | Pothos Çeşitleri: Neon, Marble Queen ve Golden Arasında Bakım Farkı Var mı? | mayis | Mikdat Çelik |
+2027-04-30 12:10 | bahce-ipuclari | meyve ağacı dal desteği | Meyve Ağacı Dal Desteği: Yük Altında Kırılan Dalı Kurtarmanın Yolları | mayis | Rümeysa Altınova |
+2027-04-30 14:30 | bitki-bakimi | domates alt yaprak sararması | Domates Alt Yaprak Sararması: Ne Zaman Normal, Ne Zaman Alarm? | mayis | Ahmet Sacit Çelik |
+2027-04-30 16:55 | sebze-meyve | elmada acı benek | Elmada Acı Benek: Meyvede Kahverengi Çukurlar Neden Oluşur? | mayis | Hatice Kübra Çelik |
+2027-04-30 19:40 | ekim-takvimi | mayıs ayında hangi meyve fidanları dikilir | Mayıs Ayında Hangi Meyve Fidanları Dikilir? Geç Kalındıysa Tüplü Fidan Kurtarır mı? | mayis | Muhammed Hamza Çelik |
+
+## 01.05.2027 (5 yazı)
+2027-05-01 09:10 | cicekler | lupin yetiştirme | Lupin Yetiştirme: Tohumdan Çiçek Başağına Kaç Yıl Sürer? | mayis | Halil İbrahim Çelik |
+2027-05-01 11:35 | bitki-bakimi | gutasyon | Gutasyon: Yaprak Ucundaki Su Damlaları Hastalık Belirtisi mi, Normal mi? | mayis | Mehmet Fatih Çelik |
+2027-05-01 14:05 | bahce-ipuclari | hortum bağlantı parçaları | Hortum Bağlantı Parçaları: Hortum Neden Musluktan Sızıyor, Hangi Adaptör Uyar? | mayis | Mikdat Çelik |
+2027-05-01 16:40 | bahce-ipuclari | taş duvar bitkileri | Taş Duvar Bitkileri: Çatlakta Kök Salan Bitki Duvara Zarar Verir mi? | mayis | Rümeysa Altınova |
+2027-05-01 19:30 | sebze-meyve | marul çeşitleri | Marul Çeşitleri: Kıvırcık, Yaprak ve Göbekli Marulun Hangisi Sıcağa Dayanır? | mayis | Ahmet Sacit Çelik |
+
+## 02.05.2027 (5 yazı)
+2027-05-02 09:10 | cicekler | çiçek desteği | Çiçek Desteği: Boylu Çiçekler Yağmurdan Sonra Neden Yatar, Nasıl Önlenir? | mayis | Hatice Kübra Çelik |
+2027-05-02 11:35 | bitki-bakimi | barış çiçeği bölme | Barış Çiçeği Bölme: Saksıda Sıkışan Bitki Nasıl İkiye Ayrılır? | mayis | Muhammed Hamza Çelik |
+2027-05-02 14:05 | sebze-meyve | pastinak yetiştirme | Pastinak Yetiştirme: Tohum Neden Çıkmaz, Kök Ne Zaman Sökülür? | mayis | Halil İbrahim Çelik |
+2027-05-02 16:40 | sebze-meyve | mandalinada kabuk kabarması | Mandalinada Kabuk Kabarması: Kabuk Meyveden Neden Ayrılır? | mayis | Mehmet Fatih Çelik |
+2027-05-02 19:30 | bitki-bakimi | karpuz meyve tutmuyor | Karpuz Meyve Tutmuyor: Çiçek Var Ama Karpuz Yok, Sorun Nerede? | mayis | Mikdat Çelik |
+
+## 03.05.2027 (6 yazı)
+2027-05-03 08:45 | bahce-ipuclari | balkonda trafik tozu | Balkonda Trafik Tozu: Yol Kenarındaki Balkonda Bitki Yaprağı Neden Kirlenir? | mayis | Rümeysa Altınova |
+2027-05-03 10:20 | bitki-bakimi | tırmanıcı ev bitkileri | Tırmanıcı Ev Bitkileri: Destekle Büyüyen Bitki Neden Daha Gösterişli Olur? | mayis | Ahmet Sacit Çelik |
+2027-05-03 12:10 | sebze-meyve | şeker pancarı yaprak lekesi | Şeker Pancarı Yaprak Lekesi: Cercospora Yaprağı Nasıl Bitirir? | mayis | Hatice Kübra Çelik |
+2027-05-03 14:30 | sebze-meyve | fesleğen budama | Fesleğen Budama: Tomurcuğu Koparınca Ne Olur, Hangi Hizadan Kesilir? | mayis | Muhammed Hamza Çelik |
+2027-05-03 16:55 | ekim-takvimi | mayıs ayı hasat takvimi | Mayıs Ayı Hasat Takvimi: Bahçeden Bu Ay Ne Toplanır, Neyi Beklemek Gerekir? | mayis | Halil İbrahim Çelik |
+2027-05-03 19:40 | sebze-meyve | salatalık çeşitleri | Salatalık Çeşitleri: Çengelköy mü, Kornişon mu, Seralık mı? Hangisi Bahçenize Uyar | mayis | Mehmet Fatih Çelik |
+
+## 04.05.2027 (6 yazı)
+2027-05-04 08:45 | cicekler | lisyantus yetiştirme | Lisyantus Yetiştirme: Vazoda İki Hafta Dayanan Çiçek Bahçede Nasıl Yetişir? | mayis | Mikdat Çelik |
+2027-05-04 10:20 | bitki-bakimi | mayıs ayında ev bitkisi bakımı | Mayıs Ayında Ev Bitkisi Bakımı: Balkona Çıkarmak İçin Erken mi, Geç mi? | mayis | Rümeysa Altınova |
+2027-05-04 12:10 | sebze-meyve | pak choi yetiştirme | Pak Choi Yetiştirme: Neden Hemen Çiçeğe Kalkar, Nasıl Önlenir? | mayis | Ahmet Sacit Çelik |
+2027-05-04 14:30 | sebze-meyve | kabak budama | Kabak Budama: Yaprak ve Sürgün Almak Verimi Artırır mı Azaltır mı? | mayis | Hatice Kübra Çelik |
+2027-05-04 16:55 | bahce-ipuclari | bahçe renk planı | Bahçe Renk Planı: Çiçekler Neden Birbirine Yakışmıyor, Uyum Nasıl Kurulur? | mayis | Muhammed Hamza Çelik |
+2027-05-04 19:40 | sebze-meyve | soğan çiçek sapı | Soğan Çiçek Sapı Atıyor: Bu Soğan Hâlâ Yenir mi, Neden Oldu? | mayis | Halil İbrahim Çelik |
+
+## 05.05.2027 (6 yazı)
+2027-05-05 08:45 | sebze-meyve | kapta meyve çalıları | Kapta Meyve Çalıları: Balkonda Frenk Üzümü ve Yaban Mersini Meyve Verir mi? | mayis | Mehmet Fatih Çelik |
+2027-05-05 10:20 | cicekler | sümbülteber yetiştirme | Sümbülteber Yetiştirme: Yumru Her Yıl Çiçek Açar mı, Kokusu Neden Akşam Yoğunlaşır? | mayis | Mikdat Çelik |
+2027-05-05 12:10 | bahce-ipuclari | ağaç dibi bitkileri | Ağaç Dibi Bitkileri: Meyve Ağacının Altına Ne Dikilir, Hangisi Ağaca Zarar Verir? | mayis | Rümeysa Altınova |
+2027-05-05 14:30 | bahce-ipuclari | mayıs ayında meyve ağaçları bakımı | Mayıs Ayında Meyve Ağaçları Bakımı: Çiçekten Sonra Ağaç Neye İhtiyaç Duyar? | mayis | Ahmet Sacit Çelik |
+2027-05-05 16:55 | bitki-bakimi | salatalık yaprak sararması | Salatalık Yaprak Sararması: Alttan mı Başladı, Her Yerde mi? Ayrımı Buradan Yapın | mayis | Hatice Kübra Çelik |
+2027-05-05 19:40 | sebze-meyve | havuç tohumu çimlenme | Havuç Tohumu Çimlenme: İki Hafta Geçti, Neden Hâlâ Çıkmadı? | mayis | Muhammed Hamza Çelik |
+
+## 06.05.2027 (6 yazı)
+2027-05-06 08:45 | bitki-bakimi | koyu renk saksı | Koyu Renk Saksı Kökleri Yazın Pişirir mi? Balkonda Sıcaklık ve Çözümler | mayis | Halil İbrahim Çelik |
+2027-05-06 10:20 | bahce-ipuclari | soğuk iklimde yetişen meyve ağaçları | Soğuk İklimde Yetişen Meyve Ağaçları: Sert Kışta Hangi Fidan Yaşar? | mayis | Mehmet Fatih Çelik |
+2027-05-06 12:10 | bitki-bakimi | fesleğen hastalıkları | Fesleğen Hastalıkları: Yapraklar Neden Kararıyor, Dipten Neden Çürüyor? | mayis | Mikdat Çelik |
+2027-05-06 14:30 | toprak-rehberi | zeolit nedir | Zeolit Nedir? Toprağa Karıştırınca Ne Olur, Kimlere Gerekir | mayis | Rümeysa Altınova |
+2027-05-06 16:55 | gundem | anneler günü bitki hediyesi | Anneler Günü Bitki Hediyesi: Çabuk Solmayan ve Bakımı Kolay Seçenekler | mayis | Ahmet Sacit Çelik |
+2027-05-06 19:40 | bahce-ipuclari | yatakta ardışık ekim | Yatakta Ardışık Ekim: Aynı Karede Hasattan Sonra Hemen Ne Ekilir? | mayis | Hatice Kübra Çelik |
+
+## 07.05.2027 (6 yazı)
+2027-05-07 08:45 | cicekler | oya ağacı yetiştirme | Oya Ağacı Yetiştirme: Yaz Boyu Çiçek Veren Bu Ağaç Soğuğa Dayanır mı? | mayis | Muhammed Hamza Çelik |
+2027-05-07 10:20 | bitki-bakimi | pothos yaprak sararması | Pothos Yaprak Sararması: Hangi Yaprak Sararıyorsa Neden O? | mayis | Halil İbrahim Çelik |
+2027-05-07 12:10 | bitki-bakimi | kıvrık salatalık | Kıvrık Salatalık: Neden Düzgün Büyümüyor, Meyve Bükülmesi Neden Olur? | mayis | Mehmet Fatih Çelik |
+2027-05-07 14:30 | ekim-takvimi | sebze tohumu kaç günde çıkar | Sebze Tohumu Kaç Günde Çıkar? Çıkmadı Diye Endişelenmeden Önce Bu Tabloya Bakın | mayis | Mikdat Çelik |
+2027-05-07 16:55 | toprak-rehberi | çifte kazma yöntemi | Çifte Kazma Yöntemi: Sert Toprağı Derinden Gevşetmek Emeğine Değer mi? | mayis | Rümeysa Altınova |
+2027-05-07 19:40 | bahce-ipuclari | mayıs ayında serada yapılacaklar | Mayıs Ayında Serada Yapılacaklar: Sera Neden Mayısta Birden Isınır? | mayis | Ahmet Sacit Çelik |
+
+## 08.05.2027 (5 yazı)
+2027-05-08 09:10 | bahce-ipuclari | mayıs ayında gül bakımı | Mayıs Ayında Gül Bakımı: İlk Tomurcuklar Gelirken Neleri Kaçırmamalı? | mayis | Hatice Kübra Çelik |
+2027-05-08 11:35 | bitki-bakimi | aloe vera sararması | Aloe Vera Sararması ve Yumuşaması: Yapraklar Neden Pörsüyor, Kurtarılır mı? | mayis | Muhammed Hamza Çelik |
+2027-05-08 14:05 | bitki-bakimi | civanperçemi yetiştirme | Civanperçemi Yetiştirme: Kuraklıkta Bile Çiçek Açan Çok Yıllık Bitki | mayis | Halil İbrahim Çelik |
+2027-05-08 16:40 | sebze-meyve | tohum ters ekilirse | Tohum Ters Ekilirse Ne Olur? Kök ile Sürgün Yönünü Bitki Nasıl Bulur? | mayis | Mehmet Fatih Çelik |
+2027-05-08 19:30 | toprak-rehberi | yaprak toprağı nedir | Yaprak Toprağı Nedir? Kendi Yaprak Toprağınızı Nasıl Hazırlarsınız | mayis | Mikdat Çelik |
+
+## 09.05.2027 (5 yazı)
+2027-05-09 09:10 | cicekler | gül tomurcuğu açmıyor | Gül Tomurcuğu Açmıyor: Tomurcuk Neden Kuruyup Düşüyor? | mayis | Rümeysa Altınova |
+2027-05-09 11:35 | bitki-bakimi | tatilden dönünce bitki bakımı | Tatilden Dönünce Bitki Bakımı: Kuruyan Bitki İlk Gün Sulanır mı? | mayis | Ahmet Sacit Çelik |
+2027-05-09 14:05 | bahce-ipuclari | hortum makarası | Hortum Makarası: Hortumu Her Seferinde Dolaştırmadan Toplamanın Yolları | mayis | Hatice Kübra Çelik |
+2027-05-09 16:40 | sebze-meyve | portakal çeşitleri | Portakal Çeşitleri: Washington, Valencia ve Kanlı Portakal Arasında Seçim | mayis | Muhammed Hamza Çelik |
+2027-05-09 19:30 | sebze-meyve | çilek çoğaltma | Çilek Çoğaltma: Stolonlardan Yeni Fide Almak Ana Bitkiyi Yorar mı? | mayis | Halil İbrahim Çelik |
+
+## 10.05.2027 (6 yazı)
+2027-05-10 08:45 | bahce-ipuclari | güney balkon bitkileri | Güney Balkon Bitkileri: Yaz Öğleninde Kavrulmayan Türler Hangileri? | mayis | Mehmet Fatih Çelik |
+2027-05-10 10:20 | cicekler | açelya çiçek sonrası budama | Açelya Çiçek Sonrası Budama: Ne Zaman Kesersem Tomurcuk Kaybetmem? | mayis | Mikdat Çelik |
+2027-05-10 12:10 | bitki-bakimi | su seven ev bitkileri | Su Seven Ev Bitkileri: Hangileri Sık Sulamaya Dayanır, Hangileri Çürür? | mayis | Rümeysa Altınova |
+2027-05-10 14:30 | sebze-meyve | ravent yetiştirme | Ravent Yetiştirme: Bir Kez Dikip Yıllarca Sap Toplamak Mümkün mü? | mayis | Ahmet Sacit Çelik |
+2027-05-10 16:55 | gubreleme | balık gübresi | Balık Gübresi Nedir? Kokusu ve Bitkilere Etkisi Hakkında Bilinenler | mayis | Hatice Kübra Çelik |
+2027-05-10 19:40 | bitki-bakimi | biber yaprak kıvrılması | Biber Yaprak Kıvrılması: Sıcak mı, Yaprak Biti mi, Virüs mü? | mayis | Muhammed Hamza Çelik |
+
+## 11.05.2027 (6 yazı)
+2027-05-11 08:45 | sebze-meyve | kes ve yeniden büyüt yeşillikler | Kes ve Yeniden Büyüt Yeşillikler: Aynı Saksıdan Kaç Kez Hasat Edilir? | mayis | Halil İbrahim Çelik |
+2027-05-11 10:20 | sebze-meyve | su teresi yetiştirme | Su Teresi Yetiştirme: Kapta Sürekli Nemli Tutulan Yeşillik Nasıl Büyür? | mayis | Mehmet Fatih Çelik |
+2027-05-11 12:10 | sebze-meyve | sebze dondurma | Sebze Dondurma: Haşlamadan Dondurursanız Ne Olur? | mayis | Mikdat Çelik |
+2027-05-11 14:30 | bitki-bakimi | yağmurlu havada bahçe hastalıkları | Yağmurlu Havada Bahçe Hastalıkları: Yağıştan Sonra Neden Birden Leke Çıkar? | mayis | Rümeysa Altınova |
+2027-05-11 16:55 | bitki-bakimi | havuç sineği | Havuç Sineği: Havucun İçindeki Kurtçuk Yolları Nereden Geliyor? | mayis | Ahmet Sacit Çelik |
+2027-05-11 19:40 | bahce-ipuclari | yazlıkta az bakım isteyen bahçe | Yazlıkta Az Bakım İsteyen Bahçe: Haftada Bir Gelince Bile Yaşayan Bitkiler | mayis | Hatice Kübra Çelik |
+
+## 12.05.2027 (6 yazı)
+2027-05-12 08:45 | bahce-ipuclari | balkon bahçesi aydınlatma | Balkon Bahçesi Aydınlatma: Akşam Işığı Bitkiyi Uyutmaz mı? | mayis | Muhammed Hamza Çelik |
+2027-05-12 10:20 | cicekler | leylak budama | Leylak Budama: Yanlış Ayda Budarsanız Gelecek Yıl Çiçek Açmaz mı? | mayis | Halil İbrahim Çelik |
+2027-05-12 12:10 | bitki-bakimi | difenbahya çoğaltma | Difenbahya Çoğaltma: Uzamış Gövdeyi Kesince İki Bitki Elde Edilir mi? | mayis | Mehmet Fatih Çelik |
+2027-05-12 14:30 | sebze-meyve | yenilebilir yabani otlar | Yenilebilir Yabani Otlar: Bahçedeki Hangi Ot Sofraya Girer, Hangisine Dokunulmaz? | mayis | Mikdat Çelik |
+2027-05-12 16:55 | sebze-meyve | kavun hastalıkları | Kavun Hastalıkları: Yapraktaki Beyaz Toz mu, Sararma mı? Belirtiye Göre Teşhis | mayis | Rümeysa Altınova |
+2027-05-12 19:40 | bahce-ipuclari | 12 ay çiçek açan bahçe planı | 12 Ay Çiçek Açan Bahçe Planı: Her Ay Hangi Çiçek Sahneye Çıkar? | mayis | Ahmet Sacit Çelik |
+
+## 13.05.2027 (6 yazı)
+2027-05-13 08:45 | cicekler | spirea bakımı | Spirea Bakımı: Gelin Duvağı Çalısı Hangi Ayda Budanır? | mayis | Hatice Kübra Çelik |
+2027-05-13 10:20 | bitki-bakimi | saksı kök budama | Saksı Kök Budama: Kökleri Kesmek Bitkiye Zarar Verir mi? | mayis | Muhammed Hamza Çelik |
+2027-05-13 12:10 | bahce-ipuclari | bahçe diz minderi | Bahçe Diz Minderi: Saatlerce Eğilmeden Çalışmak İçin Hangisini Seçmeli? | mayis | Halil İbrahim Çelik |
+2027-05-13 14:30 | bahce-ipuclari | kendine verimli meyve ağaçları | Kendine Verimli Meyve Ağaçları: Tek Fidan Diksem Meyve Alır mıyım? | mayis | Mehmet Fatih Çelik |
+2027-05-13 16:55 | bitki-bakimi | çam iğne yaprakları kahverengi | Çam İğne Yaprakları Kahverengi: Ağaç Ölüyor mu, Yoksa Geçici mi? | mayis | Mikdat Çelik |
+2027-05-13 19:40 | gundem | bayram tatilinde bahçe bakımı | Bayram Tatilinde Bahçe Bakımı: Dört Gün Yokken Saksılara Ne Olur? | mayis | Rümeysa Altınova |
+
+## 14.05.2027 (6 yazı)
+2027-05-14 08:45 | cicekler | forsitya yetiştirme | Forsitya Yetiştirme: Yapraktan Önce Açan Sarı Çiçeklere Nasıl Kavuşulur? | mayis | Ahmet Sacit Çelik |
+2027-05-14 10:20 | bitki-bakimi | pothos ile filodendron farkı | Pothos ile Filodendron Farkı: Yaprağından Hangisi Olduğunu Nasıl Ayırt Ederim? | mayis | Hatice Kübra Çelik |
+2027-05-14 12:10 | sebze-meyve | mısırda sulama programı | Mısırda Sulama Programı: Hangi Dönemde Su Kaçırılırsa Koçan Dolmaz? | mayis | Muhammed Hamza Çelik |
+2027-05-14 14:30 | bahce-ipuclari | toprak eleği | Toprak Eleği: Hazır Almak mı, Kendiniz Yapmak mı? Göz Boyutu Nasıl Seçilir | mayis | Halil İbrahim Çelik |
+2027-05-14 16:55 | bitki-bakimi | domates gövde kararması | Domates Gövde Kararması: Gövdedeki Siyah Leke Bitkiyi Öldürür mü? | mayis | Mehmet Fatih Çelik |
+2027-05-14 19:40 | sebze-meyve | turp içi boş | Turp İçi Boş Çıkıyor: Hasadı Geciktirmek mi, Susuzluk mu? | mayis | Mikdat Çelik |
+
+## 15.05.2027 (5 yazı)
+2027-05-15 09:10 | bahce-ipuclari | balkonda kuş yuvası | Balkonda Kuş Yuvası: Saksının Arasına Yuva Yaparsa Ne Yapılır? | mayis | Rümeysa Altınova |
+2027-05-15 11:35 | bitki-bakimi | ficus çeşitleri | Ficus Çeşitleri: Benjamin mi, Kauçuk mu, Lyrata mı? Evinize Hangisi Dayanır | mayis | Ahmet Sacit Çelik |
+2027-05-15 14:05 | sebze-meyve | marmelat yapımı | Marmelat Yapımı: Neden Kıvam Tutmaz, Acılık Nereden Gelir? | mayis | Hatice Kübra Çelik |
+2027-05-15 16:40 | bitki-bakimi | biber bakteriyel leke | Biber Bakteriyel Leke: Yağlı Görünen Lekeler Mantar mı, Bakteri mi? | mayis | Muhammed Hamza Çelik |
+2027-05-15 19:30 | bitki-bakimi | domates içinde beyaz sert kısım | Domates İçinde Beyaz Sert Kısım: Neden Oluşur, Yenir mi? | mayis | Halil İbrahim Çelik |
+
+## 16.05.2027 (5 yazı)
+2027-05-16 09:10 | cicekler | sardunya çeşitleri | Sardunya Çeşitleri: İtır, Sarmaşık ve Melez Sardunya Arasında Fark Ne? | mayis | Mehmet Fatih Çelik |
+2027-05-16 11:35 | sebze-meyve | pamukta sulama | Pamukta Sulama: Koza Döneminde Fazla Su Neden Zarar Verir? | mayis | Mikdat Çelik |
+2027-05-16 14:05 | bitki-bakimi | adaçayı budama | Adaçayı Budama: Dipten Odunlaşan Bitkiyi Kesmek Gençleştirir mi? | mayis | Rümeysa Altınova |
+2027-05-16 16:40 | gubreleme | epsom tuzu bitkiye | Epsom Tuzu Bitkiye Ne Yapar? Gerçekten Magnezyum Eksikliğine Çare mi? | mayis | Ahmet Sacit Çelik |
+2027-05-16 19:30 | sebze-meyve | armutta taşlaşma | Armutta Taşlaşma: Meyvenin İçindeki Sert Taneler Nereden Gelir? | mayis | Hatice Kübra Çelik |
+
+## 17.05.2027 (6 yazı)
+2027-05-17 08:45 | sebze-meyve | balkon domatesi çeşitleri | Balkon Domatesi Çeşitleri: Saksıda Boy Atmayan Tipler Hangileri? | mayis | Muhammed Hamza Çelik |
+2027-05-17 10:20 | bitki-bakimi | solan çiçekleri temizleme | Solan Çiçekleri Temizleme: Kesince Bitki Yeniden Çiçek Açar mı? | mayis | Halil İbrahim Çelik |
+2027-05-17 12:10 | bahce-ipuclari | tırmanıcı bitki filesi | Tırmanıcı Bitki Filesi: Fasulye ve Salatalık Hangi Ağ Aralığında Rahat Tırmanır? | mayis | Mehmet Fatih Çelik |
+2027-05-17 14:30 | bitki-bakimi | huş ağacı yetiştirme | Huş Ağacı Yetiştirme: Beyaz Gövde Bahçede Yaşar mı, Kökleri Sorun Çıkarır mı? | mayis | Mikdat Çelik |
+2027-05-17 16:55 | bitki-bakimi | gül yaprak arısı | Gül Yaprak Arısı: Yaprağı Delik Deşik Eden Larva ve Sarmal Kıvrılmalar | mayis | Rümeysa Altınova |
+2027-05-17 19:40 | bahce-ipuclari | balkon serası | Balkon Serası: Cam Balkonu Seraya Çevirmek Ne Kadar Mümkün? | mayis | Ahmet Sacit Çelik |
+
+## 18.05.2027 (6 yazı)
+2027-05-18 08:45 | bitki-bakimi | suda köklenen bitkiyi toprağa alma | Suda Köklenen Bitkiyi Toprağa Alma: Ne Zaman Taşınır, Neden Bazıları Solar? | mayis | Hatice Kübra Çelik |
+2027-05-18 10:20 | bahce-ipuclari | bitki bağlama malzemeleri | Bitki Bağlama Malzemeleri: İp mi, Klips mi, Bant mı? Gövdeyi Boğmadan Bağlamak | mayis | Muhammed Hamza Çelik |
+2027-05-18 12:10 | gubreleme | kalsiyum nitrat | Kalsiyum Nitrat: Domatesin Altı Neden Çürür, Bu Gübre Çözer mi? | mayis | Halil İbrahim Çelik |
+2027-05-18 14:30 | sebze-meyve | kiraz hasat zamanı | Kiraz Hasat Zamanı: Ne Zaman Toplanır, Kuşlardan Nasıl Kurtarılır? | mayis | Mehmet Fatih Çelik |
+2027-05-18 16:55 | bitki-bakimi | servi ve tuya sararması | Servi ve Tuya Sararması: Çit Ağaçları Neden Dipten Kurumaya Başlar? | mayis | Mikdat Çelik |
+2027-05-18 19:40 | cicekler | serada süs bitkisi yetiştirme | Serada Süs Bitkisi Yetiştirme: Hobi Sera Kışın Çiçek Odası Olur mu? | mayis | Rümeysa Altınova |
+
+## 19.05.2027 (6 yazı)
+2027-05-19 08:45 | cicekler | tütün çiçeği yetiştirme | Tütün Çiçeği Yetiştirme: Akşam Kokan Çiçek Neden Gündüz Kapanır? | mayis | Ahmet Sacit Çelik |
+2027-05-19 10:20 | bitki-bakimi | kaktüs ile sukulent farkı | Kaktüs ile Sukulent Farkı: Her Kaktüs Sukulent midir, Sulama Aynı mı? | mayis | Hatice Kübra Çelik |
+2027-05-19 12:10 | bahce-ipuclari | bahçe mala seti | Bahçe Mala Seti: Hangi Mala Hangi İşe Yarar, Tek Mala Yeter mi? | mayis | Muhammed Hamza Çelik |
+2027-05-19 14:30 | bahce-ipuclari | olla sulama | Olla Sulama: Toprağa Gömülen Çömlek Gerçekten Su Tasarrufu Sağlar mı? | mayis | Halil İbrahim Çelik |
+2027-05-19 16:55 | bitki-bakimi | turpgil pire böceği | Turpgil Pire Böceği: Roka ve Turp Yaprağındaki Minik Delikleri Kim Açıyor? | mayis | Mehmet Fatih Çelik |
+2027-05-19 19:40 | bahce-ipuclari | sera raf ve masa düzeni | Sera Raf ve Masa Düzeni: Küçük Seranın Her Köşesi Nasıl Kullanılır? | mayis | Mikdat Çelik |
+
+## 20.05.2027 (6 yazı)
+2027-05-20 08:45 | bahce-ipuclari | balkon rüzgar siperi | Balkon Rüzgar Siperi: Saksılar Devrilmesin Diye Ne Yapılabilir? | mayis | Rümeysa Altınova |
+2027-05-20 10:20 | bitki-bakimi | alacalı yaprak yeşile dönüyor | Alacalı Yaprak Yeşile Dönüyor: Bitki Rengini Neden Kaybeder, Geri Gelir mi? | mayis | Ahmet Sacit Çelik |
+2027-05-20 12:10 | sebze-meyve | turşu yapımı | Turşu Yapımı: Neden Yumuşar, Neden Köpürür? Tuz Oranını Doğru Tutmak | mayis | Hatice Kübra Çelik |
+2027-05-20 14:30 | ekim-takvimi | ikinci ürün sebzeleri | İkinci Ürün Sebzeleri: Hasat Bitti, Boşalan Yere Ne Ekilir? | mayis | Muhammed Hamza Çelik |
+2027-05-20 16:55 | bahce-ipuclari | dal canlı mı kuru mu | Dal Canlı mı Kuru mu? Çizme Testiyle Ağacın Durumunu Anlamak | mayis | Halil İbrahim Çelik |
+2027-05-20 19:40 | sebze-meyve | lahana çeşitleri | Lahana Çeşitleri: Beyaz, Kırmızı ve Kıvırcık Lahana Arasında Seçim Nasıl Yapılır? | mayis | Mehmet Fatih Çelik |
+
+## 21.05.2027 (6 yazı)
+2027-05-21 08:45 | cicekler | verbena yetiştirme | Verbena Yetiştirme: Neden Bazıları Tüm Yaz Çiçek Açar, Bazıları Erken Biter? | mayis | Mikdat Çelik |
+2027-05-21 10:20 | bitki-bakimi | renkli yapraklı ev bitkileri | Renkli Yapraklı Ev Bitkileri: Rengi Koruyan ve Solduran Işık Koşulları | mayis | Rümeysa Altınova |
+2027-05-21 12:10 | bahce-ipuclari | bahçe testeresi seçimi | Bahçe Testeresi Seçimi: Katlanır, Çekmeli ve Yay Testere Hangi Dalda Daha İyi? | mayis | Ahmet Sacit Çelik |
+2027-05-21 14:30 | bahce-ipuclari | küçük bahçeye gölge ağacı | Küçük Bahçeye Gölge Ağacı: Hangisi Kökleriyle Duvara ve Boruya Zarar Vermez? | mayis | Hatice Kübra Çelik |
+2027-05-21 16:55 | bitki-bakimi | ahududu hastalıkları | Ahududu Hastalıkları: Sürgün Neden Kuruyor, Meyve Neden Küflenir? | mayis | Muhammed Hamza Çelik |
+2027-05-21 19:40 | bahce-ipuclari | şekilli yatakta ekim deseni | Şekilli Yatakta Ekim Deseni: Yıldız, Daire ve Üçgen Yatakta Hangi Bitki Nereye? | mayis | Halil İbrahim Çelik |
+
+## 22.05.2027 (5 yazı)
+2027-05-22 09:10 | cicekler | yasemin çoğaltma | Yasemin Çoğaltma: Çelik mi, Daldırma mı? Hangisi Daha Çabuk Tutar | mayis | Mehmet Fatih Çelik |
+2027-05-22 11:35 | bitki-bakimi | antre ve koridor bitkileri | Antre ve Koridor Bitkileri: Pencere Yoksa Hangi Bitki Dayanır? | mayis | Mikdat Çelik |
+2027-05-22 14:05 | bahce-ipuclari | damla sulama mı elle sulama mı | Damla Sulama mı Elle Sulama mı? Küçük Bahçede Hangisi Daha Mantıklı | mayis | Rümeysa Altınova |
+2027-05-22 16:40 | bahce-ipuclari | yaz öncesi bahçe kontrol listesi | Yaz Öncesi Bahçe Kontrol Listesi: Sıcaklar Başlamadan Yapılmazsa Ne Olur? | mayis | Ahmet Sacit Çelik |
+2027-05-22 19:30 | sebze-meyve | marul neden acı olur | Marul Neden Acı Olur? Aynı Tohum Bir Ay Önce Tatlıydı | mayis | Hatice Kübra Çelik |
+
+## 23.05.2027 (5 yazı)
+2027-05-23 09:10 | cicekler | kediotu yetiştirme | Kediotu Yetiştirme: Pembe Çiçek Başları Bahçede Nasıl Yetişir, Kök Ne İşe Yarar? | mayis | Muhammed Hamza Çelik |
+2027-05-23 11:35 | sebze-meyve | ayçiçeği hastalıkları | Ayçiçeği Hastalıkları: Tabladaki Çürüme ve Yapraktaki Leke Ne Anlatıyor? | mayis | Halil İbrahim Çelik |
+2027-05-23 14:05 | sebze-meyve | enginar hasat zamanı | Enginar Hasat Zamanı: Tomurcuk Ne Zaman Kesilir, Geç Kalınırsa Ne Olur? | mayis | Mehmet Fatih Çelik |
+2027-05-23 16:40 | bahce-ipuclari | taş arası bitkileri | Taş Arası Bitkileri: Patika Derzlerinde Hangi Bitki Ezilmeye Dayanır? | mayis | Mikdat Çelik |
+2027-05-23 19:30 | bitki-bakimi | bahçede tırtıl | Bahçede Tırtıl: Hangisi Zararlı, Hangisi Yarın Kelebek Olacak? | mayis | Rümeysa Altınova |
+
+## 24.05.2027 (6 yazı)
+2027-05-24 08:45 | bahce-ipuclari | balkon jardinyeri seçimi | Balkon Jardinyeri Seçimi: Boyutu Neye Göre Belirlemeli, Hangi Ölçü Dar Gelir? | mayis | Ahmet Sacit Çelik |
+2027-05-24 10:20 | cicekler | hosta yetiştirme | Hosta Yetiştirme: Gölgede Yeşillenen Bu Bitkinin Yaprağını Salyangozdan Kurtarmak | mayis | Hatice Kübra Çelik |
+2027-05-24 12:10 | bitki-bakimi | yaban mersini budama | Yaban Mersini Budama: Eski Dalları Kesince Meyve Azalır mı? | mayis | Muhammed Hamza Çelik |
+2027-05-24 14:30 | gubreleme | saksıya kaç gram gübre atılır | Saksıya Kaç Gram Gübre Atılır? Fazlası Zarar Verir mi, Hacme Göre Dozaj Tablosu | mayis | Halil İbrahim Çelik |
+2027-05-24 16:55 | bahce-ipuclari | fidan tuttu mu nasıl anlaşılır | Fidan Tuttu mu Nasıl Anlaşılır? Dikimden Sonraki İlk Haftalarda Bakılacak Şeyler | mayis | Mehmet Fatih Çelik |
+2027-05-24 19:40 | bahce-ipuclari | serada led aydınlatma | Serada LED Aydınlatma: Kış Fidesine Işık Takviyesi Ne Zaman Gerekir? | mayis | Mikdat Çelik |
+
+# ======================================================================================================================
+# EK 1. KAPSAM DENETİMİ: mevcut içerik
+# ======================================================================================================================
+# Taranan kaynaklar: yayındaki yazılar (src/blog/tohum.js, src/blog/icerik/index.js: 109), paketler (veri/blog-paket/p01-p35: 1.477 yazı), mağaza blogu (docs/blog/_liste.json: 116), tüm plan dosyaları
+# (docs/blog-*.txt, docs/blog-3ay-takvim.txt: 539 slot, docs/blog-bosluk-plani.txt: 161 yedek slot). Benzersiz odak: 2.090. Yani bu plandaki her konunun, 2.090 odağın ve plan başlıklarının dışında kalması gerekti.
+# Anahtar kelime sınıflamasına göre (kaba) mevcut odakların dağılımı; satır: kitle, sütun: konu
+#   kitle                 mevzuat  hastalık  teşhis  gübre  toprak  sulama  takvim  alet  fidan  tohum  hasat  çoğalt  yan  bitki/tür   toplam
+#   çiftçi/tarla              15         9       4     24      13       5      13    13      7      8      2       0    5        38      156
+#   ev bitkisi                 3        12      21     13      26      14       8    17     11      2      0       9   12        66      214
+#   balkon/saksı               0         6       6     12      29       8      27    95      0      0      0       0    4        26      213
+#   sera                       0         9       1      3       7       4       3    10      3      0      1       0    2        15       58
+#   yatak/kule                 0         0       1      1      12       3       5     2      1      1      3       0    1        15       45
+#   çiçek (hobi)               3        14       8     13      10      10      25     9     23     10      2       0    6        52      185
+#   bahçe-hobi (genel)        36       109      92    111      99      63     121    63    103     66     35       7   68       246    1219
+# (Sınıflama anahtar kelimeyle yapıldığı için sayılar yaklaşıktır; balkon satırındaki alet sayısı "saksı" sözcüğünden şişmiştir. Okunacak yer: oran ve boşluk yönü.)
+#
+# Tür x niyet taraması (plan: 130 bitki türü; niyetler: yetiştirme, bakım, gübre, hastalık/zararlı, budama, çeşit, çoğaltma, toprak, sulama, hasat/saklama, sorun/belirti):
+#  - Sebze: bezelye, karnabahar, brokoli, pırasa, kereviz, enginar, bamya, kuşkonmaz, roka, dereotu, maydanoz, havuç, pancar, turp: toplam 2-10 yazı; gübre, hastalık, çeşit, sulama, hasat ve sorun niyetlerinin çoğu boş.
+#  - Meyve: avokado, kivi, dut, böğürtlen, ahududu, yaban mersini, aronya, hurma, muz, mandalina, portakal, vişne: 4-8 yazı; hastalık, çeşit, çoğaltma, hasat boş. Şeftali, kayısı, erik, armut, elma için sorun ve çoğaltma boş.
+#  - Süs: lale, nergis, zambak, dalya, şakayık, yasemin, hibiskus, leylak, kamelya, açelya, petunya, kasımpatı, şimşir, leylandi, bambu, sarmaşık, morsalkım: çoğunda 1-5 yazı; gübre, hastalık, budama, çoğaltma, sorun boş.
+#  - Ev bitkisi: ficus, pothos, yılan bitkisi, barış çiçeği, yuka, difenbahya, kalatya, filodendron, kalanşo, antoryum, benjamin, şeflera: 1-7 yazı; çeşit, budama, çoğaltma ve belirti (çiçek açmıyor, sararma) niyetleri boş.
+#  - Konu bazında en yoğun: çim (222 satır), nar (65), ayçiçeği/aylık takvimler, ilaçlama pompası ve leonardit serileri. En seyrek: alet-ekipman (el aletleri), hasat-saklama-işleme (turşu, salça, dondurma, marmelat), belirti teşhisi (bitkiye özel),
+#    toprak katkıları (zeolit, yaprak toprağı), gübre formülleri (20-20-20, 10-40-10), tohum çimlenme süreleri, balkon (rüzgar, gölge, mahremiyet, günlük su), hobi sera, kuş/yan alanlar.
+#
+# Yamyamlık nedeniyle bu plandan ELENEN adaylar (kullanıcı kuralı: aynı sorunun cevabını veren yazı varsa konu elenir; kopya kontrolü eşik 0,60 ve 0,50 ile de çalıştırıldı) (aynı niyette yazı var): saksıda/serada/balkonda X yetiştirme (patlıcan, fasulye, turp, kabak, marul, bezelye, böğürtlen, incir, ıspanak: genel "X yetiştirme" yazıları var; mekân ayrımı yeni niyet sayılmaz), "X sulama" ve "X nasıl bakılır" gibi eş anlamlı hâller, tarla fasulyesi ve sırık fasulye (fasulye yetiştirme),
+# nektarin (şeftali çeşitleri: nektarin), hurma çeşitleri (trabzon hurması), kivi tozlaşma (kivi yetiştirme: erkek-dişi), clematis (akasma), sansevieria (paşa kılıcı), lithops (taş bitkisi), pilea çoğaltma, kalanşo çiçek açtırma, calathea yaprak kıvrılması,
+# antoryum/barış çiçeği çiçek açmıyor (bakım yazıları çiçek açtırmayı kapsıyor), ranunkulus (düğün çiçeği), kasımpatı çoğaltma (krizantem), bahçe kulesi bitki yerleşimi (kulede hangi katta hangi bitki), ilaçlı tohum (kaplı tohum), şimşir güvesi (şimşir hastalıkları),
+# zeytin halkalı leke (zeytin hastalıkları), mandalina çeşitleri (mandalina bahçesi), narenciye hastalıkları (limon ağacı hastalıkları), ev bitkisi yaprak dökülmesi, saksı toprağı kokması, kahverengi leke, solan bitki ve gövde çürümesi (mevcut yazılar), saksıda karınca (bahçede karınca), mini karpuz (karpuz yetiştirme), hangi NPK ve 20-20-20 (npk-nedir / gübre etiketi), çelik kaç günde köklenir (perlitte çelik köklendirme), toprak kireç testi (evde toprak testi), kelebek çalısı (kelebek bahçesi), sera aşırı ısınma (sera havalandırması), begonvil çiçek açmıyor ve ortanca kahverengi çiçek (bakım ve hastalık yazıları), etiyolasyon (kaktüs/fide boylanma yazıları), gül yaprak sararması (gül hastalıkları).
+
+# ======================================================================================================================
+# EK 2. KİTLE x KONU MATRİSİ (bu plan, 171 yazı; sayılar kesin)
+# ======================================================================================================================
+# Sütunlar: H hobi bahçe · C çiçek/süs · E ev bitkisi · B balkon · S sera(hobi) · Y yatak · K kule · F tarla(teknik) · T yaşam/gündem/yan
+#   konu                                          H    C    E    B    S    Y    K    F    T  topl.
+#   Bitki türü ve çeşit rehberi                  14   13   10    4    1    0    0    0    0     42
+#   Fidan ve ağaç                                10    2    2    0    0    0    0    0    0     14
+#   Tohum ve çoğaltma                             6    2    3    0    0    0    0    0    0     11
+#   Toprak                                        3    0    0    0    0    0    0    0    0      3
+#   Gübre ve besin                                4    0    0    0    0    0    0    0    0      4
+#   Sulama                                        3    0    0    0    0    0    0    2    0      5
+#   Hastalık, zararlı ve belirti teşhisi         32    1    5    0    0    0    0    2    0     40
+#   Takvim ve mevsim                              4    1    1    1    1    0    0    0    3     11
+#   Alet ve ekipman                               9    0    0    2    0    0    0    0    0     11
+#   Hasat, saklama ve işleme                      6    0    0    0    0    0    0    0    0      6
+#   Bahçe, balkon ve sera düzeni                  5    1    0    4    3    2    0    0    0     15
+#   Bakım (genel)                                 0    1    3    0    0    0    0    0    0      4
+#   Yan alan (arı, kuş, hayvan, başlangıç)        0    0    0    2    0    0    0    0    3      5
+#   TOPLAM                                       96   21   24   13    5    2    0    4    6    171
+#   Mevzuat/destek/hibe/izin/tapu-imar: 0 konu.
+# Kategori dağılımı: bitki-bakimi 52 · bahce-ipuclari 44 · sebze-meyve 39 · cicekler 22 · ekim-takvimi 5 · gubreleme 4 · toprak-rehberi 3 · gundem 2
+# Kitle payları: Hobi bahçe (sebze-meyve-ağaç) 96 (%56) · Çiçek ve süs bahçesi 21 (%12) · Ev bitkisi 24 (%14) · Balkon 13 (%8) · Sera (hobi) 5 (%3) · Bahçe yatağı 2 (%1) · Bahçe kulesi 0 (%0) · Çiftçi/tarla (yalnız teknik üretim) 4 (%2) · Yaşam, gündem ve yan alan 6 (%4)
+# Hobi payı (H+C+E+B+S+Y+K+T): 167 yazı (%98); çiftçi/tarla: 4 (%2.3); mevzuat: 0.
+
+# ======================================================================================================================
+# EK 3. GEREKÇELER (seçim yöntemi)
+# ======================================================================================================================
+# 1) Boşluk önce: 130 bitki x 11 niyet matrisinde boş hücreler ve konu başına en seyrek alanlar bulundu; aday havuzu (yaklaşık 300) bunlardan ve belirti-odaklı arama kalıplarından çıkarıldı, her aday 2.090 odağa ve plan başlıklarına karşı elendi.
+# 2) Ağırlık hobi: ev bitkisi ve balkon belirtisi (yaprak, çiçek, saksı sorunları), çiçek/süs bitkisi bakım-budama-çoğaltma niyetleri, hobi sera ve balkon düzeni, bahçe aletleri (kullanıcı kitlesi evde kendi işini yapan kişidir) öne alındı.
+# 3) Sorun odaklı (belirti -> neden -> çözüm) konular 40: bitkiye özel arama niyetleri (domates alt yaprak sararması, biber çiçek dökümü, karnabahar baş bağlamama, gutasyon, alacalı yaprağın yeşile dönmesi, elmada acı benek vb.).
+# 4) Mevsim: 25 Nisan-24 Mayıs aralığına uygun işler (mayıs ekim-dikim, don sonrası, sera gölgeleme, yağmurlu dönem hastalıkları, kiraz ve bakla hasadı, çiçek sonrası budama, Anneler Günü 9 Mayıs 2027, bayram öncesi bahçe hazırlığı) tarihe sabitlendi;
+#    mevsimsiz bilgi-deposu konuları (bitki türleri, alet seçimi, gübre formülleri, toprak katkıları, tasarım) aynı günlere serpiştirildi. Her gün ev bitkisi, balkon ya da çiçek konularından en az biri vardır (gün içi kitle ve konu tekrarı yerel aramayla azaltıldı).
+# 5) Tarihe sabitlenenler: lale çiçek açtıktan sonra (27 Nisan), mayısta balkonda ne ekilir (29 Nisan), mayıs ayında hangi meyve fidanları dikilir (30 Nisan), mayıs ayı hasat takvimi (3 Mayıs), mayıs ayında ev bitkisi bakımı (4 Mayıs),
+#    meyve ağaçları bakımı (5 Mayıs), Anneler Günü bitki hediyesi (6 Mayıs), serada yapılacaklar (7 Mayıs), gül bakımı (8 Mayıs), açelya budaması (10 Mayıs), yağmurlu havada bahçe hastalıkları (11 Mayıs), leylak budaması (12 Mayıs),
+#    bayram tatilinde bahçe bakımı (13 Mayıs; Kurban Bayramı 2027 mayıs ortasına denk gelir, resmî tarih Diyanet takviminden doğrulanmalı), kiraz hasat zamanı (18 Mayıs), ikinci ürün sebzeleri (20 Mayıs), yaz öncesi kontrol listesi (22 Mayıs).
+# 6) Çiftçi/tarla konuları yalnız teknik: ayçiçeği hastalıkları, mısırda sulama programı, pamukta sulama, şeker pancarı yaprak lekesi. Mevzuat konusu hiç alınmadı.
+# 6b) Başlık dili: başlıklar okurun gerçek sorusuna döner (X yapınca ne olur, neden Y oldu, hangisini seçmeli); merak uyandırır ama tıklama tuzağı içermez, yazı bu soruya ilk paragrafta doğrudan cevap verir. Odak ifadesi başlıkta aynen geçer.
+# 6c) Ürün grubu desteği (EK 5): 90 konu (%53) mağazadaki bir ürün grubuyla doğal olarak ilişkilidir. A katmanı (tohum, gübre, toprak, saksı, yatak, ekipman, sera): 70 konu (%41); B katmanı (yalnız bitki/fide/salon bitkisi ilişkisi): 20 konu (%12). Hepsi önce bilgi, sonra ürün; ürün bilgisi yalnız docs/bilgi/urunler-hasturk.json açıklamalarından.
+# 7) Bu betiklerde küçük değişiklik yapıldı: scripts/blog-plan-kontrol.mjs ve scripts/blog-kopya-kontrol.mjs artık takvim biçimindeki satırları ("YYYY-AA-GG SS:DD | kat | odak | başlık | ...") da plan olarak okur; böylece docs/blog-3ay-takvim.txt ve bu dosya doğrudan denetlenir.
+#
+# ======================================================================================================================
+# EK 4. YEDEK KONULAR (59): aynı denetimlerden geçti, takvimde yer bulamadı; plan düşerse ya da bir konu kalite kapısından geçmezse yerine kullanılır. Biçim: yedek | kitle | konu | kategori | odak | başlık
+# ======================================================================================================================
+# yedek | H | gübre | gubreleme | brokoli gübreleme | Brokoli Gübreleme: Fidan Dikiminden Taç Oluşumuna Besin Programı
+# yedek | H | çoğaltma | sebze-meyve | enginar çoğaltma | Enginar Çoğaltma: Sürgün Ayırma ve Yeni Fidan Elde Etme
+# yedek | H | budama | sebze-meyve | karpuz budama | Karpuz Budama: Uç Alma, Meyve Tutumu ve Sürgün Yönetimi
+# yedek | H | hasat | sebze-meyve | kavun olgunluğu | Kavun Olgunluğu: Koku, Sap ve Kabuk İşaretleriyle Hasat Zamanı
+# yedek | H | hasat | sebze-meyve | bakla hasat zamanı | Bakla Hasat Zamanı: Taze Bakla Ne Zaman ve Nasıl Toplanır
+# yedek | H | hastalık | bitki-bakimi | bakla çikolata lekesi | Bakla Çikolata Lekesi: Yaprakta Kahverengi Lekeler ve Bakla Hastalıkları
+# yedek | H | toprak | toprak-rehberi | patates boğaz doldurma | Patates Boğaz Doldurma: Toprak Yığma Zamanı ve Yeşillenmeyi Önleme
+# yedek | H | çeşit | sebze-meyve | patates çeşitleri | Patates Çeşitleri: Haşlamalık, Kızartmalık ve Bahçe İçin Seçim
+# yedek | H | çeşit | sebze-meyve | soğan çeşitleri | Soğan Çeşitleri: Kuru, Taze, Arpacık ve Kırmızı Soğan Karşılaştırması
+# yedek | H | hasat | sebze-meyve | taze sarımsak hasadı | Taze Sarımsak Hasadı: Yeşil Sarımsak Ne Zaman Sökülür
+# yedek | H | çeşit | sebze-meyve | vişne çeşitleri | Vişne Çeşitleri: Kütahya, Montmorency ve Bahçe İçin Seçim
+# yedek | H | hasat | sebze-meyve | armut hasat zamanı | Armut Hasat Zamanı: Ağaçta Mı Olgunlaşır, Saklamada Mı?
+# yedek | H | hastalık | bitki-bakimi | avokado yaprak ucu kuruması | Avokado Yaprak Ucu Kuruması: Tuz, Susuzluk ve Soğuk Etkisi
+# yedek | H | çeşit | sebze-meyve | yaban mersini çeşitleri | Yaban Mersini Çeşitleri: Erkenci, Geççi ve Soğuğa Dayanıklı Tipler
+# yedek | C | çoğaltma | cicekler | begonvil çoğaltma | Begonvil Çoğaltma: Çelik Alma ve Köklendirme Zamanı
+# yedek | C | budama | cicekler | petunya budama | Petunya Budama: Uzayan Dalları Kısaltarak Yeniden Çiçeklendirmek
+# yedek | C | gübre | gubreleme | petunya gübreleme | Petunya Gübreleme: Sürekli Çiçek İçin Haftalık Besin Düzeni
+# yedek | C | hasat | cicekler | lale soğanı saklama | Lale Soğanı Saklama: Sökümden Sonbahar Dikimine Kadar
+# yedek | C | bitki | cicekler | dalya bakımı | Dalya Bakımı: Destek, Sulama ve Çiçek Kesme Zamanı
+# yedek | C | teşhis | cicekler | şakayık çiçek açmıyor | Şakayık Çiçek Açmıyor: Derin Dikim, Gölge ve Yaşlı Kök Nedenleri
+# yedek | C | teşhis | cicekler | leylak çiçek açmıyor | Leylak Çiçek Açmıyor: Budama Zamanı, Gölge ve Azot Fazlası
+# yedek | C | teşhis | cicekler | kamelya tomurcuk dökümü | Kamelya Tomurcuk Dökümü: Nem, Soğuk ve Susuzluk Dengesi
+# yedek | C | bitki | cicekler | hatmi yetiştirme | Hatmi Yetiştirme: Boylu Çiçek Kulelerini Tohumdan Büyütmek
+# yedek | E | çeşit | bitki-bakimi | barış çiçeği çeşitleri | Barış Çiçeği Çeşitleri: Küçük, Orta ve Büyük Boy Seçimi
+# yedek | E | çeşit | bitki-bakimi | filodendron çeşitleri | Filodendron Çeşitleri: Sarmaşıklı ve Kendinden Gövdeli Türler
+# yedek | E | bitki | bitki-bakimi | ctenanthe bakımı | Ctenanthe Bakımı: Nem Seven Desenli Yaprakların Sulama ve Işık İhtiyacı
+# yedek | H | alet | bahce-ipuclari | yaprak üfleme makinesi | Yaprak Üfleme Makinesi: Akülü mü, Elektrikli mi, Ne İşe Yarar?
+# yedek | H | alet | bahce-ipuclari | bahçe sulama kabı | Bahçe Sulama Kabı: Gül Başlıklı Kova, Uzun Boyunlu İbrik ve Hacim Seçimi
+# yedek | H | alet | bahce-ipuclari | fide koruma çanı | Fide Koruma Çanı: Geç Soğuğa ve Salyangoza Karşı Mini Örtü
+# yedek | H | alet | bahce-ipuclari | solar bahçe lambası | Solar Bahçe Lambası: Bitkilere Zarar Vermeden Gece Aydınlatma
+# yedek | H | alet | bahce-ipuclari | bahçe termometresi | Bahçe Termometresi: Hava ve Toprak Isısını Doğru Ölçmek
+# yedek | H | alet | bahce-ipuclari | el pülverizatörü | El Pülverizatörü: Yaprak Spreyi ve Gübre Çözeltisi İçin Basınçlı Pompa Seçimi
+# yedek | H | alet | bahce-ipuclari | bahçe aşı bıçağı | Bahçe Aşı Bıçağı: Aşı ve Çelik Kesiminde Keskin ve Temiz Kesim
+# yedek | H | tohum | sebze-meyve | çiçek tohumu toplama | Çiçek Tohumu Toplama: Kadife, Zinya ve Kozmosta Doğru Zaman ve Kurutma
+# yedek | H | fidan | bahce-ipuclari | fidanda aşı noktası | Fidanda Aşı Noktası: Dikerken Toprak Üstünde mi Altında mı Kalmalı?
+# yedek | H | fidan | bahce-ipuclari | fidan koruyucu tel | Fidan Koruyucu Tel: Tavşan, Kemirgen ve Rüzgardan Genç Ağacı Korumak
+# yedek | H | zararlı | bitki-bakimi | soğan sineği | Soğan Sineği: Soğan ve Pırasada Çürüme ile Larva Belirtileri
+# yedek | H | zararlı | bitki-bakimi | yaprak pire böceği | Yaprak Pire Böceği: Küçük Atlayan Böcekler ve Delik Delik Yapraklar
+# yedek | H | teşhis | bitki-bakimi | fasulye çiçek dökümü | Fasulye Çiçek Dökümü: Sıcak, Kuraklık ve Tozlaşma Sorunu
+# yedek | H | teşhis | sebze-meyve | havuç çatlaması | Havuç Çatlaması: Ani Sulama, Sert Toprak ve Çatlak Kök Nedenleri
+# yedek | H | teşhis | sebze-meyve | karpuz çatlaması | Karpuz Çatlaması: Ani Sulama ve Hasat Öncesi Su Dengesi
+# yedek | H | alet | bahce-ipuclari | yer burgusu | Yer Burgusu: Fidan ve Direk Çukurunu Kürekten Hızlı Açmak
+# yedek | H | alet | bahce-ipuclari | ekim cetveli | Ekim Cetveli: Tohum Sıra Aralığını Ölçüyle Düzgün Tutmak
+# yedek | H | alet | bahce-ipuclari | hasat sepeti | Hasat Sepeti: Meyve ve Sebzeyi Ezmeden Taşımak İçin Seçim
+# yedek | H | alet | bahce-ipuclari | bahçe alet kemeri | Bahçe Alet Kemeri: Makas, Mala ve İpi Bele Takarak Çalışmak
+# yedek | H | alet | bahce-ipuclari | kompost termometresi | Kompost Termometresi: Yığın Sıcaklığını Okuyarak Çevirme Zamanını Bulmak
+# yedek | H | alet | bahce-ipuclari | bahçe hava istasyonu | Bahçe Hava İstasyonu: Yağmur, Rüzgar ve Don Uyarısı İçin Sensörler
+# yedek | H | alet | bahce-ipuclari | bitki bağlama teli | Bitki Bağlama Teli: Plastik Kaplı Tel, Bahçe Teli ve Tırmanıcı Gül Desteği
+# yedek | H | hasat | sebze-meyve | meyve olgunlaştırma | Meyve Olgunlaştırma: Etilen Gazı, Muz ve Kağıt Torbayla Evde Yöntemler
+# yedek | H | hasat | sebze-meyve | meyve saklama | Meyve Saklama: Elma, Armut ve Limonu Kilerde ve Buzdolabında Tutmak
+# yedek | H | gübre | gubreleme | 10-40-10 gübre | 10-40-10 Gübre Ne İşe Yarar? Fosfor Ağırlıklı Gübrenin Kullanım Zamanı
+# yedek | H | gübre | gubreleme | 15-15-15 gübre | 15-15-15 Gübre Ne İşe Yarar? Bahçe Gübresi Olarak Kullanımı ve Dozu
+# yedek | H | takvim | ekim-takvimi | hızlı büyüyen sebzeler | Hızlı Büyüyen Sebzeler: 30–45 Günde Hasat Edilen Türler Tablosu
+# yedek | H | teşhis | bitki-bakimi | lahana çatlaması | Lahana Çatlaması: Göbek Yarılmasının Nedeni ve Zamanında Hasat
+# yedek | H | teşhis | bitki-bakimi | sarımsak yaprak sararması | Sarımsak Yaprak Sararması: Normal Olgunlaşma mı, Hastalık mı?
+# yedek | H | teşhis | bitki-bakimi | maydanoz sararması | Maydanoz Sararması: Azot, Su ve Kök Sorunu Ayrımı
+# yedek | H | teşhis | bitki-bakimi | nar çiçek dökümü | Nar Çiçek Dökümü: Erkek Çiçek mi, Verimsiz Çiçek mi?
+# yedek | H | bitki | bitki-bakimi | süs eriği | Süs Eriği: Kırmızı Yapraklı Ağacın Bahçede Bakımı ve Budaması
+# yedek | H | bitki | bitki-bakimi | süs kirazı | Süs Kirazı: Japon Kirazı Çiçeklenmesi, Dikim ve Bakım
+
+# ======================================================================================================================
+# EK 5. ÜRÜN GRUBU DESTEKLİ KONULAR (90 konu, %53; A: doğrudan ürün grubu, B: bitki/fide/salon bitkisi). Biçim: odak -> ilişkili mağaza ürün grubu (docs/bilgi/urunler-hasturk.json kategorileri). Kart yerleşimi: önce bilgi bölümü, kart ancak metnin %20sinden sonra (blog-kalite-kurallari.md).
+# ======================================================================================================================
+# ürün B | ravent yetiştirme -> Bitkiler > Fideler
+# ürün A | pak choi yetiştirme -> Tohumlar > Sebze Tohumu
+# ürün A | pastinak yetiştirme -> Tohumlar > Sebze Tohumu
+# ürün A | havuç tohumu çimlenme -> Tohumlar > Sebze Tohumu
+# ürün B | karnabahar baş bağlamama -> Bitkiler > Fideler
+# ürün B | biber çiçek dökümü -> Bitkiler > Fideler
+# ürün A | marul neden acı olur -> Tohumlar > Sebze Tohumu
+# ürün A | turp içi boş -> Tohumlar > Sebze Tohumu
+# ürün A | soğan çiçek sapı -> Tohumlar > Sebze Tohumu
+# ürün B | fidan tuttu mu nasıl anlaşılır -> Bitkiler > Fideler
+# ürün A | bahçe testeresi seçimi -> Bahçe Ekipmanları > Budama, Çim, Çit Makasları ve Testereleri
+# ürün A | toprak eleği -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün A | bahçe diz minderi -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün A | bitki bağlama malzemeleri -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün A | domates kafesi -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün A | tırmanıcı bitki filesi -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün A | hortum makarası -> Bahçe Ekipmanları > Sulama Malzemeleri
+# ürün A | beton üstüne bahçe -> Saksılar ve Bahçe Yatakları > Bahçe Yatakları ve Kuleleri; Topraklar
+# ürün A | 12 ay çiçek açan bahçe planı -> Tohumlar > Çiçek Tohumu; Bitkiler > Süs Bitkileri
+# ürün A | ev yapımı salça -> Galvaniz Modüler Yapılar > Sebze ve Meyve Kurutma Tezgahları (yalnız ilgili kurutma işi)
+# ürün A | salatalık çeşitleri -> Tohumlar > Sebze Tohumu
+# ürün A | marul çeşitleri -> Tohumlar > Sebze Tohumu
+# ürün A | lahana çeşitleri -> Tohumlar > Sebze Tohumu
+# ürün A | bahçede tırtıl -> Bahçe Ekipmanları > İlaçlama Pompaları (yalnız ekipman)
+# ürün A | saksıya kaç gram gübre atılır -> Gübreler > Bitki Besinleri
+# ürün A | epsom tuzu bitkiye -> Gübreler > Bitki Besinleri
+# ürün A | kalsiyum nitrat -> Gübreler > Bitki Besinleri
+# ürün A | sulama sistemini yeniden devreye alma -> Bahçe Ekipmanları > Sulama Malzemeleri; İlaçlama Pompaları
+# ürün A | damla sulama mı elle sulama mı -> Bahçe Ekipmanları > Sulama Malzemeleri
+# ürün A | olla sulama -> Bahçe Ekipmanları > Sulama Malzemeleri
+# ürün A | zeolit nedir -> Topraklar > Toprak Düzenleyiciler ve Katkı Maddeleri
+# ürün A | yaprak toprağı nedir -> Topraklar > Toprak Düzenleyiciler ve Katkı Maddeleri
+# ürün A | çifte kazma yöntemi -> Topraklar > Toprak Düzenleyiciler ve Katkı Maddeleri
+# ürün A | sebze tohumu kaç günde çıkar -> Tohumlar > Sebze Tohumu
+# ürün A | çok yıllık çiçekler tohumdan -> Tohumlar > Çiçek Tohumu
+# ürün B | kendine verimli meyve ağaçları -> Bitkiler > Fideler
+# ürün A | fesleğen budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün A | kabak budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün A | çilek budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün A | yaban mersini budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün B | mayıs ayında hangi meyve fidanları dikilir -> Bitkiler > Fideler
+# ürün A | ikinci ürün sebzeleri -> Tohumlar > Sebze Tohumu
+# ürün A | yağmurlu havada bahçe hastalıkları -> Bahçe Ekipmanları > İlaçlama Pompaları (yalnız ekipman, ilaç adı ve doz yok)
+# ürün A | verbena yetiştirme -> Tohumlar > Çiçek Tohumu; Bitkiler > Fideler
+# ürün B | koca yemiş -> Bitkiler > Kaktüs ve Sukulent
+# ürün A | lupin yetiştirme -> Tohumlar > Çiçek Tohumu
+# ürün A | phlox yetiştirme -> Tohumlar > Çiçek Tohumu
+# ürün A | leylak budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün A | açelya çiçek sonrası budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün B | monstera çeşitleri -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün A | monstera budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün B | pothos çeşitleri -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün B | ficus çeşitleri -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün A | kauçuk ağacı budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün B | mayıs ayında ev bitkisi bakımı -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün B | renkli yapraklı ev bitkileri -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün B | tırmanıcı ev bitkileri -> Bitkiler > Salon ve Ev Bitkileri
+# ürün B | su seven ev bitkileri -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün B | antre ve koridor bitkileri -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün B | ev bitkilerinde led mi floresan mı -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün A | suda köklenen bitkiyi toprağa alma -> Topraklar > Özel Bitki Toprakları
+# ürün A | saksı kök budama -> Saksılar ve Bahçe Yatakları > Dekoratif Saksılar
+# ürün A | mayısta balkonda ne ekilir -> Tohumlar > Sebze Tohumu; Bitkiler > Fideler
+# ürün A | balkon domatesi çeşitleri -> Tohumlar > Sebze Tohumu
+# ürün B | kapta meyve çalıları -> Bitkiler > Fideler; Topraklar > Özel Bitki Toprakları
+# ürün A | kes ve yeniden büyüt yeşillikler -> Tohumlar > Sebze Tohumu
+# ürün A | balkon jardinyeri seçimi -> Saksılar ve Bahçe Yatakları > Dekoratif Saksılar
+# ürün A | mayıs ayında serada yapılacaklar -> Galvaniz Modüler Yapılar > Sera İskeletleri
+# ürün A | balkon serası -> Galvaniz Modüler Yapılar > Sera İskeletleri
+# ürün A | serada süs bitkisi yetiştirme -> Galvaniz Modüler Yapılar > Sera İskeletleri; Bitkiler > Süs Bitkileri
+# ürün A | sera raf ve masa düzeni -> Galvaniz Modüler Yapılar > Çalışma Masası ve Sera Tezgahları; Sera İskeletleri
+# ürün A | yatakta ardışık ekim -> Saksılar ve Bahçe Yatakları > Bahçe Yatakları ve Kuleleri
+# ürün A | şekilli yatakta ekim deseni -> Saksılar ve Bahçe Yatakları > Bahçe Yatakları ve Kuleleri
+# ürün B | anneler günü bitki hediyesi -> Bitkiler > Salon ve Ev Bitkileri; Çiçekli Saksı Bitkileri
+# ürün A | tütün çiçeği yetiştirme -> Tohumlar > Çiçek Tohumu
+# ürün A | lisyantus yetiştirme -> Tohumlar > Çiçek Tohumu
+# ürün A | su teresi yetiştirme -> Tohumlar > Sebze Tohumu
+# ürün A | bezelye çeşitleri -> Tohumlar > Sebze Tohumu
+# ürün A | bahçe mala seti -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün A | balık gübresi -> Gübreler > Bitki Besinleri
+# ürün A | meyve ağacı dal desteği -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün A | serada led aydınlatma -> Galvaniz Modüler Yapılar > Sera İskeletleri
+# ürün A | koyu renk saksı -> Saksılar ve Bahçe Yatakları > Dekoratif Saksılar
+# ürün A | çiçek desteği -> Bahçe Ekipmanları > Bahçe El Aletleri
+# ürün B | pothos ile filodendron farkı -> Bitkiler > Salon ve Ev Bitkileri; Topraklar > Özel Bitki Toprakları
+# ürün B | kaktüs ile sukulent farkı -> Bitkiler > Kaktüs ve Sukulent
+# ürün A | adaçayı budama -> Bahçe Ekipmanları > Budama makasları (budama odaklı)
+# ürün A | tohum ters ekilirse -> Tohumlar > Sebze Tohumu
+# ürün A | hortum bağlantı parçaları -> Bahçe Ekipmanları > Sulama Malzemeleri
+# ürün A | kediotu yetiştirme -> Tohumlar > Çiçek Tohumu
+# docs/urun-yazi-onerileri.txt (dal claude/urun-yazi-boslugu) plan hazırlanırken henüz yoktu; geldiğinde oradaki konular yamyamlık denetiminden (blog-kopya-kontrol, blog-baglanti) geçirilerek yedek konular ve bu planla birlikte değerlendirilir.
+
+# ======================================================================================================================
+# EK 6. ÇAKIŞMA KONTROLÜ SONUCU (22 Kasım 2026)
+# ======================================================================================================================
+# node scripts/blog-plan-kontrol.mjs docs/blog-mayis-plani.txt --hedef 171 --onceki <docs/blog-*.txt (3 aylık takvim, 60 günlük planlar, nisan, ocak-şubat, kasım, ay-ay, galvaniz, sonraki seriler) ve docs/blog-bosluk-plani.txt>
+#   -> 171 konu, tarihli 0 (takvim biçimi), HATA YOK: plan içi aynı odak yok, yayındaki/paketteki/önceki plandaki hiçbir odakla aynı değil, harf katlanmış (yazımı farklı) aynı konu yok.
+#   "Anlamca yakın görünen eşleşmeler (490)" listesi bu betiğin kaba kök eşlemesidir (ör. "salatalık çeşitleri ~ salatalık hastalıkları"); her biri bitki adı ortak, niyet farklı. Plan konuları ayrıca bitki+niyet sınıfıyla tek tek elendi (yukarıdaki EK 1 elenenler).
+# node scripts/blog-kopya-kontrol.mjs --plan docs/blog-mayis-plani.txt         (eşik 0,72) -> izinsiz kopya şüphesi: 0
+# node scripts/blog-kopya-kontrol.mjs --esik 0.60 --plan docs/blog-mayis-plani.txt -> 117 çift; bunların 106'sı plansız da var olan mevcut yazı çiftleridir (bu planın dışında), planla ilgili 12 çift tek tek incelendi, hepsi ayrı niyet:
+#   0.69 | Suda Sümbül Yetiştirme: Kışın Evde Kokulu Çiçek Açtırmak || Sümbülteber Yetiştirme: Yumru Her Yıl Çiçek Açar mı, Kokusu Ne -> sümbülteber (Polianthes) ile sümbül (Hyacinthus) ayrı bitki; ayrı arama niyeti
+#   0.65 | Şeker Pancarı Yetiştirme: Ekimden Söküme || Şeker Pancarı Yaprak Lekesi: Cercospora Yaprağı Nasıl Bitirir? -> yetiştirme ile yaprak lekesi (hastalık) ayrı niyet
+#   0.65 | Sümbül Çiçeği Bittikten Sonra Ne Yapılır? Soğanı Saklama ve Ye || Sümbülteber Yetiştirme: Yumru Her Yıl Çiçek Açar mı, Kokusu Ne -> sümbülteber (Polianthes) ile sümbül (Hyacinthus) ayrı bitki; ayrı arama niyeti
+#   0.65 | Yeşilliklerde Nitrat Birikimi: Aşırı Azot ve Gübre Zamanlaması || Kalsiyum Nitrat: Domatesin Altı Neden Çürür, Bu Gübre Çözer mi -> yeşilliklerde nitrat birikimi ile kalsiyum nitrat gübresi ayrı niyet
+#   0.65 | Kaktüs Bakımı: Sulama, Işık ve Toprak Rehberi || Kaktüs ile Sukulent Farkı: Her Kaktüs Sukulent midir, Sulama A -> bakım rehberi ile tür tanımı (kaktüs-sukulent farkı) ayrı niyet
+#   0.64 | Karpuz Yetiştirme: Tatlı ve Kırmızı Karpuzun Bahçedeki Yolculu || Karpuz Meyve Tutmuyor: Çiçek Var Ama Karpuz Yok, Sorun Nerede? -> yetiştirme ile meyve tutmama sorunu ayrı niyet
+#   0.64 | Mayıs Ayında Ev Bitkisi Bakımı: Balkona Çıkarmak İçin Erken mi || Mayıs Ayında Meyve Ağaçları Bakımı: Çiçekten Sonra Ağaç Neye İ -> aynı ayın farklı konuları (ev bitkisi, meyve ağacı, ekim); aynı niyet değil
+#   0.63 | Barış Çiçeği Bakımı: Sulama, Işık ve Çiçek Açtırma || Barış Çiçeği Bölme: Saksıda Sıkışan Bitki Nasıl İkiye Ayrılır? -> bakım ile bölerek çoğaltma ayrı niyet
+#   0.63 | Mayıs Ayında Ne Ekilir? Sıcak Sever Sebzeler, Çiçekler ve Balk || Mayıs Ayında Ev Bitkisi Bakımı: Balkona Çıkarmak İçin Erken mi -> aynı ayın farklı konuları (ev bitkisi, meyve ağacı, ekim); aynı niyet değil
+#   0.63 | Tırmanıcı Ev Bitkileri: Destekle Büyüyen Bitki Neden Daha Göst || Tırmanıcı Bitki Filesi: Fasulye ve Salatalık Hangi Ağ Aralığın -> ev bitkisi seçimi ile bahçe destek ağı farklı konu
+#   0.62 | Filodendron Bakımı: Tırmanıcı ve Kendiliğinden Tür Farkı || Pothos ile Filodendron Farkı: Yaprağından Hangisi Olduğunu Nas -> bakım yazısı ile iki bitkiyi ayırt etme ayrı niyet
+#   0.61 | Rüzgarlı Balkon Bitkileri: Yüksek Katlar İçin Dayanıklı Seçene || Balkon Rüzgar Siperi: Saksılar Devrilmesin Diye Ne Yapılabilir -> bitki seçimi ile siper/paravan yapısı ayrı niyet
+# node scripts/blog-kopya-kontrol.mjs --esik 0.50 --plan ... -> plan konularının mevcutla en yakın çiftleri de gözden geçirildi; "X yetiştirme" varken "saksıda/serada/balkonda X" ve "X sulama / X nasıl bakılır" türü eş anlamlı konular bu yüzden elendi.
+# docs/blog-kopya-izin.txt: solucan-gubresi-nedir-nasil-kullanilir ve fidelere-solucan-gubresi-verilir-mi çifti eklendi (iki mevcut yazı; plan eklenince istatistik eşiği 0,72 üzerine çıkıyor; niyetleri ayrı: genel kullanım / fidede kullanım).
+# Kapsam dışı bırakılanlar: mevzuat, destek, hibe, kredi, ruhsat, izin, tapu-imar, sınır uyuşmazlığı, sigorta, kayıt sistemi, ihracat, zirai ilaç ruhsat-reçete, kenevir-haşhaş: 0 konu.

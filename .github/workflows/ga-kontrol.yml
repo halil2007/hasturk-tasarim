@@ -1,0 +1,20 @@
+name: Google Analytics kontrol
+
+# Canlı blogda çerez onayı sonrası Google Analytics'in veri gönderip göndermediğini tarayıcıyla ölçer (yalnız okuma)
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/ga-kontrol.yml', 'scripts/ga-kontrol.mjs']
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm i --no-save playwright@1.48.2 && npx playwright install --with-deps chromium
+      - run: node scripts/ga-kontrol.mjs https://blog.hasturkgubre.com.tr/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: ga-ekran, path: ga-once.png }

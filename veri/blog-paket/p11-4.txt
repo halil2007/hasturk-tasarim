@@ -1,0 +1,967 @@
+### YAZI
+slug: kok-bogazi-curuklugu
+baslik: Kök Boğazı Çürüklüğü: Islak Topraktan Gelen Sessiz Tehlike
+yayin: 2026-12-18 07:15
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: kök boğazı çürüklüğü
+seo_baslik: Kök Boğazı Çürüklüğü: Belirtiler, Nedenler ve Önleme
+seo_aciklama: Kök boğazı çürüklüğü nedir? Phytophthora kaynaklı gövde dibi çürümesi, belirtiler, ıslak toprak ve derin dikimin rolü, kültürel önlemler.
+ozet: Bitkinin toprakla buluştuğu gövde dibi kararıp yumuşuyorsa ve bitki su verildiği halde soluyorsa, kök boğazı çürüklüğü söz konusu olabilir. Islak ve havasız topraklarda gelişen bu hastalığı tanımayı ve önlemeyi anlatıyoruz.
+etiketler: kök boğazı çürüklüğü, phytophthora, kök çürüklüğü, aşırı sulama, meyve ağacı hastalıkları
+gorsel: p11-kok-bogazi
+gorsel_alt: Kök çürüklüğü nedeniyle yaprakları kahverengileşip solmuş bitki
+urunler: tarim-perliti, organik-toprak, kalin-tarim-perliti
+kisaca: Kök boğazı çürüklüğü, çoğunlukla Phytophthora gibi su seven mikroorganizmaların gövde dibinde ve köklerde yaptığı çürümedir. Gövde dibinde kararma, kabuk altında kahverengi doku, solma ve sararma tipik belirtilerdir. Su biriken toprak, derin dikim ve gövde dibine yığılan malç riski artırır. Süzek toprak ve dengeli sulama en etkili önlemdir.
+@govde
+Kök boğazı çürüklüğü, bahçede ve saksıda pek çok bitkinin beklenmedik şekilde solup ölmesinin arkasındaki en yaygın nedenlerden biridir. Kök boğazı, bitkinin gövdesinin toprak yüzeyiyle buluştuğu, kök ile gövde arasındaki geçiş bölgesidir. Bu bölge, hem toprak nemine hem de havaya açık olduğu için hastalık etkenlerinin en kolay saldırdığı yerlerden biridir. Hastalığa çoğunlukla Phytophthora adlı, su seven mikroorganizmalar neden olur. Bu etkenler ıslak, havasız ve suyun biriktiği topraklarda hızla çoğalır ve yüzerek hareket edebilen sporlarıyla bitkiden bitkiye yayılır. Meyve ağaçlarından sebzelere, süs bitkilerinden saksı bitkilerine kadar geniş bir yelpazeyi etkiler. Bu yazıda kök boğazı çürüklüğünü nasıl tanıyacağınızı ve özellikle sulama ve toprak düzeniyle nasıl önleyeceğinizi anlatıyoruz.
+
+## Hastalık nasıl gelişir?
+
+Phytophthora türleri, toprakta ve bitki artıklarında dayanıklı sporlarla yaşar. Toprak suya doyduğunda bu sporlar çimlenir ve suda yüzebilen hareketli sporlar üretir. Bu sporlar köklere ve kök boğazına ulaşarak dokulara girer. Hastalık özellikle şu koşullarda hızla ilerler:
+
+- Ağır, killi ve suyu geç süzen topraklar.
+- Uzun süreli yağışlar ya da aşırı sulama.
+- Su biriken çukur alanlar.
+- Gövde dibine yığılan toprak, malç ya da çim.
+- Derin dikilen fidanlar ve fideler.
+- Sulama suyunun doğrudan gövdeye verilmesi.
+
+## Kök boğazı çürüklüğü belirtileri
+
+**Gövde dibinde renk değişimi:** Toprak seviyesinde kabuk koyulaşır, kahverengi ya da siyahımsı bir renk alır. Bazen bu bölgeden koyu renkli bir sıvı sızar.
+
+**Kabuk altında kahverengi doku:** Kabuğun hafifçe kazınmasıyla, sağlıklı yeşilimsi-beyaz doku yerine kahverengi, ıslak görünümlü doku ortaya çıkar. Sağlıklı ve hastalıklı doku arasındaki sınır genellikle belirgindir.
+
+**Solgunluk:** Toprak nemli olmasına rağmen bitki solar; çünkü zarar gören kökler ve gövde dibi suyu yukarı taşıyamaz.
+
+**Sararma ve yaprak dökümü:** Yapraklar sararır, küçülür ve dökülür. Ağaçlarda sürgün büyümesi zayıflar.
+
+**Kök çürümesi:** Kökler kahverengi, yumuşak ve kolayca kopan bir yapıya dönüşür; sağlıklı kökler ise beyaz ve sıkıdır.
+
+**Ani çöküş:** Özellikle sıcak havalarda, uzun süre belirti göstermeyen bitkiler birdenbire çökebilir.
+
+## Hangi bitkiler risk altında?
+
+**Meyve ağaçları:** Elma, armut, kiraz, kayısı, şeftali, ceviz, avokado ve narenciye.
+
+**Sebzeler:** Biber, domates, patlıcan, kabakgiller ve çilek.
+
+**Süs bitkileri:** Açelya, ormangülü, şimşir, mazı, leylandi ve birçok iğne yapraklı.
+
+**Saksı bitkileri:** Aşırı sulanan hemen her saksı bitkisi.
+
+## Teşhiste dikkat
+
+Kök boğazı çürüklüğünün belirtileri; susuzluk, verticillium ve fusarium gibi solgunluk hastalıkları, kemirgen zararı ve gövde yaralanmalarıyla karıştırılabilir. Gövde dibini ve kökleri incelemek teşhisin en önemli adımıdır. Solgunluk hastalıkları hakkında [verticillium solgunluğu](/verticillium-solgunlugu) ve [fusarium solgunluğu](/fusarium-solgunlugu) yazılarımıza göz atabilirsiniz. Ağaçlarda kesin teşhis için müşteri hizmetlerimize danışmak en doğrusudur.
+
+## Kök boğazı çürüklüğüne karşı önlemler
+
+**Toprağın drenajını iyileştirin.** Su biriken alanlara hassas bitkiler dikmeyin. Ağır topraklarda dikim yerini organik madde ve iri taneli malzemelerle hafifletin ya da bitkileri hafif yükseltilmiş tümseklere dikin.
+
+[ürün:organik-toprak]
+
+**Doğru derinlikte dikin.** Fidanları ve fideleri, fidanlıktaki ya da saksıdaki seviyesinden daha derine dikmeyin. Aşılı fidanlarda aşı noktası toprak üstünde kalmalıdır.
+
+**Gövde dibini açık tutun.** Malç, toprak ve çimi gövdenin hemen dibine yığmayın; gövde çevresinde birkaç santimetrelik bir boşluk bırakın. Malçlamanın doğru yapılışı için [ağaç dibi malçlama](/agac-dibi-malclama) yazımıza göz atabilirsiniz.
+
+**Sulamayı dengeleyin.** Toprağı sürekli ıslak tutmayın; sulamayı toprağın üst kısmı kuruduğunda yapın. Damla sulamada damlatıcıları gövdeden biraz uzağa yerleştirin. Aşırı sulamanın belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazımıza göz atabilirsiniz.
+
+**Saksılarda drenajı sağlayın.** Saksının dibinde mutlaka delik olmalı, saksı tabağında su bırakılmamalıdır. Toprak karışımına perlit eklemek havalanmayı artırır.
+
+[ürün:tarim-perliti]
+
+**Temiz fidan kullanın.** Güvenilir fidanlıklardan, sağlıklı köklü fidanlar alın.
+
+**Hastalıklı bitkileri uzaklaştırın.** Ölen bitkileri kökleriyle birlikte sökün ve aynı yere hemen hassas bir bitki dikmeyin.
+
+## Hastalık görüldüğünde ne yapmalı?
+
+Erken fark edilen durumlarda, özellikle ağaçlarda, gövde dibindeki toprağı birkaç santimetre uzaklaştırarak kök boğazının havalanmasını ve kurumasını sağlamak ilerlemeyi yavaşlatabilir. Sulamayı azaltın ve drenajı iyileştirin. Saksı bitkilerinde bitkiyi saksıdan çıkarın, çürük kökleri temiz bir makasla kesin, sağlıklı kısımları yeni, süzek bir toprağa ve temiz bir saksıya dikin. Kök boğazı tamamen çevrelenmiş ve kararmışsa bitkiyi kurtarmak genellikle mümkün değildir.
+
+Ticari meyve bahçelerinde kimyasal mücadele gerekebilir; bu durumda uygulanacak yöntem ve ürünler müşteri hizmetlerimizin önerisine göre belirlenmelidir.
+
+## Saksı bitkilerinde sık görülen hata
+
+Saksı bitkilerinde kök boğazı ve kök çürüklüğünün en sık nedeni, iyi niyetle yapılan aşırı sulamadır. Özellikle kışın, bitkiler az su kullanırken yaz düzeninde sulama yapmak toprağı sürekli ıslak bırakır. Toprağın nemini kontrol etmeden sulamamak bu sorunu büyük ölçüde önler. Bu konuda [toprak nemi ölçme](/toprak-nemi-olcme) yazımız yol gösterir.
+
+## Yeni fidan dikerken kontrol listesi
+
+- Dikim yerinde yağmurdan sonra su birikip birikmediğini gözlemleyin.
+- Ağır topraklarda çukuru geniş açın ve toprağı organik maddeyle hafifletin.
+- Fidanı fidanlıktaki seviyesinde dikin; kök boğazını toprakla örtmeyin.
+- Dikimden sonra gövdenin çevresinde hafif bir tümsek oluşturarak suyun gövdeden uzaklaşmasını sağlayın.
+- İlk yıllarda sulamayı düzenli ama ölçülü yapın.
+- Malçı gövdeden birkaç santimetre uzakta bırakın.
+
+Bu basit adımlar, özellikle kiraz, kayısı, avokado ve narenciye gibi kök boğazı çürüklüğüne hassas ağaçlarda ilk yıllardaki kayıpları büyük ölçüde azaltır. Fidan çukurunun hazırlanması hakkında [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazımıza da göz atabilirsiniz.
+
+## Kök boğazı çürüklüğü ve bahçe tasarımı
+
+Kök boğazı çürüklüğünden korunmanın en kalıcı yolu, bahçeyi planlarken suyun nasıl hareket ettiğini düşünmektir. Yağmurdan sonra suyun hangi noktalarda biriktiğini gözlemleyin; bu alanlara hassas meyve ağaçları ve çalılar yerine ıslak toprağa dayanıklı bitkiler dikin. Çatı oluklarından gelen suyun ağaç diplerine yönlenmemesine, çim sulama sistemlerinin ağaç gövdelerini sürekli ıslatmamasına dikkat edin.
+
+@sss
+S: Kök boğazı çürüklüğü tedavi edilebilir mi?
+C: Erken fark edilirse drenajı iyileştirmek, sulamayı azaltmak ve gövde dibini havalandırmak ilerlemeyi yavaşlatabilir. Gövde tamamen çevrelenmişse bitki genellikle kurtarılamaz.
+
+S: Kök boğazı çürüklüğü neden olur?
+C: Çoğunlukla ıslak ve havasız topraklarda çoğalan Phytophthora gibi su seven mikroorganizmalar neden olur. Aşırı sulama, derin dikim ve gövde dibine yığılan toprak riski artırır.
+
+S: Saksıdaki bitkimin gövde dibi karardı, ne yapmalıyım?
+C: Bitkiyi saksıdan çıkarıp kökleri kontrol edin, çürük kısımları kesin ve sağlıklı kısımları süzek, taze bir toprağa dikin. Sulamayı azaltın ve saksı tabağında su bırakmayın.
+
+### YAZI
+slug: toprak-ornegi-alma
+baslik: Toprak Örneği Alma: Doğru Analiz İçin Adım Adım Rehber
+yayin: 2026-12-18 08:35
+yazar: Mikdat Çelik
+kategori: toprak-rehberi
+odak: toprak örneği
+seo_baslik: Toprak Örneği Nasıl Alınır? Derinlik, Zaman ve Yöntem
+seo_aciklama: Toprak örneği nasıl alınır? Doğru zaman, derinlik, kaç noktadan örnek alınacağı, karıştırma, paketleme, etiketleme ve sık yapılan hatalar.
+ozet: Toprak analizinin doğruluğu, laboratuvara giden örneğin doğru alınmasına bağlıdır. Bahçeniz, tarlanız ya da meyve bahçeniz için toprak örneğini ne zaman, nereden, hangi derinlikten ve nasıl alacağınızı adım adım anlatıyoruz.
+etiketler: toprak örneği, toprak analizi, toprak tahlili, gübreleme planı, bahçe toprağı
+gorsel: p11-toprak-ornegi
+gorsel_alt: Analiz için alınmış çakıllı toprak örneği
+urunler: raco-iki-disli-bahce-el-capasi, organik-toprak, hasturk-kati-solucan-gubresi
+kisaca: Toprak örneği, analiz edilecek alanı temsil edecek şekilde, aynı alanın 10-20 farklı noktasından alınan küçük örneklerin karıştırılmasıyla hazırlanır. Sebze ve çiçek bahçelerinde 0-20 cm, meyve bahçelerinde ayrıca 20-40 cm derinlikten alınır. Gübreleme ve kireçlemeden önce, toprak tavdayken alınmalı, temiz bir torbaya konup etiketlenmelidir.
+@govde
+Toprak örneği almak, toprak analizinin en önemli ama en çok ihmal edilen adımıdır. Laboratuvar ne kadar hassas çalışırsa çalışsın, analize giden örnek bahçenizi ya da tarlanızı doğru temsil etmiyorsa çıkan sonuçlar sizi yanıltabilir. Örneğin bahçenin yalnızca bir köşesinden, gübre dökülen bir noktadan ya da yanlış derinlikten alınan bir örnek, tüm alan için hatalı gübreleme kararlarına yol açar. Oysa doğru alınmış bir toprak örneği; pH, organik madde, kireç, tuzluluk ve besin içeriği hakkında güvenilir bilgi verir ve gereksiz gübre masrafını önler. Kış ayları, özellikle ilkbahar gübrelemesinden önce toprak analizi yaptırmak için uygun bir dönemdir. Bu yazıda toprak örneğinin doğru şekilde nasıl alınacağını adım adım anlatıyoruz.
+
+## Toprak analizi neden yaptırılır?
+
+Toprak analizi, toprağınızın neye ihtiyacı olduğunu tahmin etmek yerine ölçmenizi sağlar. Analiz sonuçlarıyla:
+
+- Toprağın pH değerini ve kireç durumunu öğrenirsiniz. Bu konuda [toprak pH nedir](/toprak-ph-nedir) yazımıza göz atabilirsiniz.
+- Organik madde miktarını görürsünüz.
+- Azot, fosfor, potasyum ve diğer besinlerin düzeyini belirlersiniz.
+- Tuzluluk sorununu fark edersiniz.
+- Gereksiz gübre kullanımını önler, eksik olan besini hedefli olarak tamamlarsınız.
+
+## Toprak örneği ne zaman alınır?
+
+**Gübrelemeden önce:** Örnek, en az iki ay içinde gübre, kireç ya da kompost uygulanmamış bir topraktan alınmalıdır.
+
+**Hasattan sonra ya da ekimden önce:** Tek yıllık bitkilerde hasattan sonra ya da yeni ekimden birkaç hafta önce idealdir.
+
+**Meyve bahçelerinde:** Genellikle sonbaharda yaprak dökümünden sonra ya da kış sonunda, ilkbahar gübrelemesinden önce.
+
+**Toprak tavda iken:** Toprak çok ıslak ya da çok kuru olmamalıdır. Çamur gibi ıslak toprak örneği karıştırmayı zorlaştırır.
+
+Toprak analizini her yıl değil, genellikle üç dört yılda bir tekrarlamak çoğu bahçe için yeterlidir; sorun yaşanan alanlarda daha sık yapılabilir.
+
+## Gerekli malzemeler
+
+- Temiz bir bel küreği, bahçe küreği ya da toprak burgusu
+- Temiz bir plastik kova
+- Temiz, kalın plastik ya da bez torbalar
+- Etiket ve kalem
+
+Metal kovalar ve paslı aletler kullanmayın; bazı mikro element analizlerini etkileyebilir. Gübre torbalarını ya da daha önce gübre konmuş kapları da kullanmayın.
+
+[ürün:raco-iki-disli-bahce-el-capasi]
+
+## Alanı bölümlere ayırın
+
+Toprak özellikleri farklı olan alanlardan ayrı ayrı örnek alınmalıdır. Örneğin sebze bahçesi, çim alan, meyve ağaçlarının altı ve çiçek tarhları ayrı örneklenmelidir. Toprak renginin, eğimin ya da önceki kullanımın farklı olduğu yerler de ayrı değerlendirilmelidir. Toprak renginin anlattıkları için [toprak rengi](/toprak-rengi) yazımıza göz atabilirsiniz.
+
+## Kaç noktadan örnek alınır?
+
+Tek bir noktadan alınan örnek alanı temsil etmez. Her bölümde, zikzak çizerek ya da W harfi şeklinde yürüyerek 10-20 farklı noktadan küçük örnekler alın. Küçük bir ev bahçesinde bile en az 8-10 noktadan örnek almak gerekir. Bu küçük örnekler kovada iyice karıştırılarak tek bir karma örnek oluşturulur.
+
+## Hangi derinlikten alınır?
+
+**Sebze ve çiçek bahçeleri, çim alanlar:** 0-20 santimetre derinlik (çim alanlarda 0-10 santimetre de yeterli olabilir).
+
+**Meyve bahçeleri ve bağlar:** 0-20 ve 20-40 santimetre olmak üzere iki ayrı derinlikten, ayrı torbalara örnek alınır. Bazen 40-60 santimetre de istenebilir.
+
+**Tarla bitkileri:** Genellikle 0-20 ya da 0-30 santimetre.
+
+Her noktada aynı derinlikten ve aynı kalınlıkta toprak almak önemlidir.
+
+## Toprak örneği adım adım nasıl alınır?
+
+1. Örnek alınacak noktadaki bitki artıklarını, taşları ve yüzeydeki malçı temizleyin.
+2. Bel küreğiyle istenen derinlikte V şeklinde bir çukur açın.
+3. Çukurun düz kenarından, üstten alta kadar eşit kalınlıkta, yaklaşık 2-3 santimetrelik bir dilim toprak kesin.
+4. Dilimin kenarlarını kesip ortadaki şeridi kovaya koyun.
+5. Bu işlemi alandaki tüm noktalarda tekrarlayın.
+6. Kovadaki toprakları iyice karıştırın, taş ve kökleri ayıklayın.
+7. Karışımdan yaklaşık 1 kilogram alıp temiz bir torbaya koyun.
+
+## Etiketleme ve gönderme
+
+Torbanın üzerine ya da içine koyacağınız bir kâğıda şu bilgileri yazın: adınız, örneğin alındığı yer, alan büyüklüğü, örnek derinliği, yetiştirilecek bitki ve son yıllarda yapılan gübreleme. Bu bilgiler, laboratuvarın sonuçları yorumlamasına ve doğru gübre önerisi vermesine yardımcı olur. Örneği en kısa sürede laboratuvara ulaştırın; bekleyecekse serin ve gölge bir yerde tutun.
+
+## Sık yapılan hatalar
+
+- Tek bir noktadan örnek almak.
+- Gübre, kompost ya da kül dökülen noktalardan örnek almak.
+- Yol kenarı, gübre yığını yeri ve çit dibi gibi temsil gücü olmayan yerlerden almak.
+- Farklı bölümlerin toprağını karıştırmak.
+- Kirli kova ya da gübre torbası kullanmak.
+- Islak toprağı kapalı torbada uzun süre bekletmek.
+
+## Saksı ve küçük bahçeler için toprak örneği
+
+Saksı topraklarında genellikle analiz gerekmez; bu topraklar sınırlı hacimdedir ve birkaç yılda bir yenilenir. Ancak küçük bir ev bahçesinde, özellikle yeni taşındığınız bir evde ya da bitkilerinizde açıklayamadığınız sorunlar yaşıyorsanız, toprak analizi değerli bilgiler sağlar. Küçük bahçelerde de aynı kurallar geçerlidir: farklı köşelerden, aynı derinlikten alınan alt örnekleri karıştırarak tek bir karma örnek hazırlayın. Sebze yatakları, çim alan ve ağaç dipleri gibi farklı kullanım alanlarını ayrı örnekleyin. Laboratuvara gönderirken bahçenizde ne yetiştirdiğinizi ve yaşadığınız sorunları kısaca yazmak, sonuçların daha doğru yorumlanmasına yardımcı olur.
+
+## Analiz sonuçlarını takip etmek
+
+Her analiz sonucunu tarihiyle birlikte saklayın. Birkaç yıl arayla yapılan analizleri karşılaştırmak, organik maddenin artıp artmadığını, pH'ın nasıl değiştiğini ve gübreleme programınızın işe yarayıp yaramadığını gösterir. Bahçe notlarınızla birlikte tutulan bu kayıtlar, uzun vadede çok değerli bir rehber olur. Bu konuda [bahçe defteri](/bahce-defteri) yazımıza göz atabilirsiniz.
+
+## Analizden sonra
+
+Analiz sonuçlarını müşteri hizmetlerimize danışarak değerlendirin. Sonuçlar organik maddenin düşük olduğunu gösteriyorsa, toprağa düzenli olarak olgun kompost ve organik gübre eklemek uzun vadede en etkili iyileştirmedir. Organik maddenin önemi için [toprakta organik madde](/toprakta-organik-madde) yazımıza göz atabilirsiniz.
+
+[ürün:organik-toprak]
+
+@sss
+S: Toprak örneği hangi derinlikten alınır?
+C: Sebze ve çiçek bahçelerinde 0-20 santimetre, meyve bahçelerinde ise 0-20 ve 20-40 santimetre olmak üzere iki ayrı derinlikten alınır.
+
+S: Kaç noktadan örnek almak gerekir?
+C: Her bölümde 10-20 farklı noktadan küçük örnekler alınıp karıştırılmalıdır. Küçük bahçelerde bile en az 8-10 nokta önerilir.
+
+S: Toprak örneği gübrelemeden ne kadar sonra alınır?
+C: En az iki ay içinde gübre, kireç ya da kompost uygulanmamış topraktan alınmalıdır. En iyisi ilkbahar gübrelemesinden önce örnek almaktır.
+
+### YAZI
+slug: karanfil-yetistirme
+baslik: Karanfil Yetiştirme: Baharatlı Kokusuyla Bahçenin Klasik Çiçeği
+yayin: 2026-12-18 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: karanfil yetiştirme
+seo_baslik: Karanfil Yetiştirme: Tohum, Çelik, Bakım ve Çiçeklenme
+seo_aciklama: Karanfil yetiştirme rehberi: tohumdan ve çelikten üretim, güneşli yer, süzek ve kireçli toprak, sulama, tomurcuk alma, destekleme ve kesme çiçek.
+ozet: Fırfırlı, kokulu çiçekleriyle karanfil, hem bahçelerin hem de çiçekçilerin yüzyıllardır vazgeçilmez çiçeğidir. Güneşi ve süzek toprağı seven karanfili tohumdan, çelikten nasıl yetiştireceğinizi ve bol çiçek almanın yollarını anlatıyoruz.
+etiketler: karanfil yetiştirme, dianthus, kesme çiçek, çok yıllık çiçekler, çiçek tohumu
+gorsel: p11-karanfil
+gorsel_alt: Pembe, fırfırlı yapraklı karanfil çiçekleri
+urunler: arzuman-karanfil-cicegi-tohumu-100-adet, hg-cicek-topragi, budama-makasi
+kisaca: Karanfil, tam güneş ve çok süzek, hafif kireçli toprak seven bir çiçektir. Tohumdan ilkbaharda ya da yaz sonunda, çelikten ise ilkbahar ve yaz başında kolayca çoğaltılır. Kökleri ıslak toprağa dayanmaz; toprak kuruyunca sulanır. Uzun saplı çeşitlerde yan tomurcuklar alınarak tek ve iri çiçek, solan çiçekler kesilerek uzun çiçeklenme sağlanır.
+@govde
+Karanfil yetiştirme, hem güzel hem de kokulu bir bahçe isteyenler için yüzyıllardır sevilen bir uğraştır. Karanfiller (Dianthus), fırfırlı kenarlı çiçekleri ve çoğu türde baharatı andıran tatlı kokularıyla tanınır. Anadolu'da da çok sayıda yabani karanfil türü doğal olarak yetişir ve Osmanlı döneminden beri karanfil, motiflerde ve bahçelerde önemli bir yer tutar. Bugün hem bahçede çok yıllık bir çiçek olarak hem de kesme çiçek olarak yetiştirilir. Karanfil güneşi, süzek toprağı ve serin geceleri sever; doğru yerde ve doğru toprakta oldukça az bakımla yıllarca çiçek açar. Bu yazıda karanfili tohumdan ve çelikten nasıl yetiştireceğinizi, bakımını ve bol çiçek almanın püf noktalarını anlatıyoruz.
+
+## Karanfil türleri
+
+**Bahçe karanfili (Dianthus caryophyllus):** İri, katmerli ve uzun saplı çiçekleriyle kesme çiçek karanfilinin atasıdır. Kokulu çeşitleri vardır.
+
+**Hüsnüyusuf (Dianthus barbatus):** Kısa boylu, sıkı kümeler halinde açan, iki yıllık olarak yetiştirilen, rengârenk çiçekleri olan türdür.
+
+**Çiçek karanfili ve bodur türler (Dianthus plumarius, Dianthus deltoides ve melezleri):** Alçak, yastık şeklinde yayılan, gri-yeşil yapraklı, çok yıllık türlerdir. Kaya bahçeleri ve bordürler için idealdir.
+
+**Çin karanfili (Dianthus chinensis):** Genellikle tek yıllık olarak yetiştirilen, bol çiçekli türdür.
+
+## Karanfil yetiştirmede yer seçimi
+
+Karanfil tam güneş sever. Günde en az altı saat doğrudan güneş alan bir yer en bol çiçeği sağlar. Hava dolaşımının iyi olduğu açık alanlar, yapraklarda mantar hastalıklarının görülmesini azaltır. Çok sıcak bölgelerde öğleden sonra hafif gölge, yaz ortasında çiçeklenmenin sürmesine yardımcı olabilir.
+
+## Toprak
+
+Karanfil yetiştirmede en kritik konu toprağın süzek olmasıdır. Kökler ve kök boğazı ıslak toprakta kolayca çürür. Kumlu-tınlı, taşlı ve hafif kireçli topraklar karanfil için idealdir; Anadolu'nun kireçli toprakları bu açıdan avantajlıdır. Ağır topraklarda dikim alanını kum, perlit ve organik maddeyle hafifletin ya da yükseltilmiş yataklarda yetiştirin. Saksıda yetiştirirken kaliteli bir çiçek toprağına bir miktar perlit ya da kum ekleyin.
+
+[ürün:hg-cicek-topragi]
+
+## Tohumdan karanfil
+
+Karanfil tohumları ilkbaharda içeride ya da son donlardan sonra doğrudan bahçeye ekilebilir. Çok yıllık türler yaz sonunda da ekilip sonbaharda kalıcı yerlerine dikilebilir.
+
+1. Tohumları hafif ve nemli bir tohum toprağının yüzeyine serpin, üzerini çok ince bir toprak tabakasıyla örtün.
+2. 18-21 °C sıcaklıkta tohumlar 1-2 hafta içinde çimlenir.
+3. Fideler birkaç gerçek yaprak oluşturduğunda ayrı kaplara şaşırtılır. Şaşırtma işlemi için [fide şaşırtma](/fide-sasirtma) yazımıza göz atabilirsiniz.
+4. Fideler bahçeye 25-30 santimetre aralıkla dikilir.
+
+Tohumdan yetişen çok yıllık karanfiller genellikle ikinci yıldan itibaren bol çiçek açar.
+
+[ürün:arzuman-karanfil-cicegi-tohumu-100-adet]
+
+## Çelikle çoğaltma
+
+Karanfil, özellikle sevdiğiniz bir çeşidi aynen çoğaltmak istiyorsanız, çelikle kolayca üretilebilir. İlkbahar ya da yaz başında, çiçek açmamış sağlıklı sürgünlerden 8-10 santimetrelik uç çelikler alın. Alt yapraklarını temizleyip kesik ucu bir boğumun hemen altından düzeltin. Çelikleri kum ve perlit karışımı gibi çok süzek bir ortama dikin, toprağı hafif nemli tutun. Birkaç hafta içinde kökler oluşur. Bodur karanfillerde yere değen sürgünleri toprağa sabitleyerek daldırma ile çoğaltmak da mümkündür.
+
+## Sulama
+
+Karanfil kuraklığa orta düzeyde dayanır ve aşırı sulamadan hoşlanmaz. Toprağın üst birkaç santimetresi kuruduğunda derinlemesine sulayın. Sulamayı yapraklara değil, toprağa yapın; ıslak yapraklar pas ve yaprak lekesi hastalıklarına yol açar. Kışın sulamayı çok azaltın; kış ıslaklığı karanfilin en büyük düşmanıdır.
+
+## Besleme
+
+Karanfil fazla gübre istemez. İlkbaharda bitkilerin çevresine ince bir kat olgun kompost sermek ya da büyüme döneminde ayda bir seyreltilmiş bir çiçek besini vermek yeterlidir. Fazla azot, yumuşak ve devrilmeye yatkın saplara ve az çiçeğe yol açar.
+
+## Tomurcuk alma ve destekleme
+
+Kesme çiçek için yetiştirilen uzun saplı karanfillerde, her sapın ucundaki ana tomurcuğun altındaki küçük yan tomurcukları erken dönemde parmakla koparmak, ana çiçeğin daha iri olmasını sağlar. Uzun saplı çeşitler ağırlaşan çiçekler nedeniyle devrilebileceği için ince kazıklar ya da file ile desteklenmelidir. Solan çiçekleri düzenli olarak kesmek bitkinin yeni çiçekler açmasını teşvik eder.
+
+## Kesme çiçek olarak karanfil
+
+Karanfil, vazoda en uzun dayanan kesme çiçeklerden biridir; doğru bakımla iki üç hafta taze kalabilir. Çiçekleri tomurcuklar renk verip açılmaya başladığında, sabah serinliğinde kesin. Sapı bir boğumun hemen üzerinden çapraz kesin ve hemen suya koyun. Kesme çiçeklerin ömrünü uzatmanın yolları için [kesme çiçek ömrü](/kesme-cicek-omru) yazımıza göz atabilirsiniz.
+
+## Bahçede karanfil kullanımı
+
+Bodur, yastık şeklinde yayılan karanfiller kaya bahçeleri, taş duvarların arası, yolların kenarları ve çakıllı bahçeler için mükemmel bir seçimdir. Gri-yeşil yaprakları çiçek olmadığı zamanlarda bile güzel bir doku oluşturur. Uzun saplı bahçe karanfilleri ise çiçek tarhlarında ve kesme çiçek bahçelerinde sıra halinde yetiştirilir. Hüsnüyusuf, ilkbahar sonunda açan yoğun çiçek kümeleriyle tarhların ön sıralarına renk katar. Karanfiller lavanta, adaçayı ve kekik gibi güneş ve süzek toprak seven bitkilerle aynı koşullardan hoşlandığı için onlarla birlikte dikildiğinde bakımı da kolaylaşır.
+
+## Karanfil yetiştirmede kış bakımı
+
+Çoğu çok yıllık karanfil soğuğa dayanıklıdır, ancak kış ıslaklığına hassastır. Sonbaharda bitkilerin çevresindeki dökülmüş yaprakları temizleyin ve dibini kalın bir malçla örtmeyin; malç nemi tutarak çürümeye yol açabilir. Saksıdaki karanfilleri kışın yağmurdan korunaklı bir köşeye almak ve sulamayı en aza indirmek yeterlidir.
+
+## Sık karşılaşılan sorunlar
+
+**Kök ve kök boğazı çürümesi:** Islak, ağır toprak ve aşırı sulama. Bu konuda [kök boğazı çürüklüğü](/kok-bogazi-curuklugu) yazımız yol gösterici olabilir.
+
+**Pas hastalığı:** Yapraklarda kahverengi toz kümecikleri; hava dolaşımı ve kuru yapraklar en iyi önlemdir.
+
+**Yaprak biti ve trips:** Genç sürgünlerde ve çiçek tomurcuklarında görülebilir.
+
+**Bitkinin ortasının boşalması:** Yaşlanan çok yıllık karanfillerde görülür; çelikle yenilemek iyi bir çözümdür.
+
+@sss
+S: Karanfil kaç yıl yaşar?
+C: Çok yıllık karanfil türleri birkaç yıl yaşar, ancak üç dört yıl sonra ortası seyrekleşebilir. Çeliklerle düzenli olarak yenilemek bitkiyi canlı tutar.
+
+S: Karanfil saksıda yetişir mi?
+C: Evet. Süzek bir toprak ve dibi delikli bir saksı ile güneşli bir balkonda iyi yetişir. Saksıda toprağın su biriktirmemesine özellikle dikkat edilmelidir.
+
+S: Karanfil ne zaman çiçek açar?
+C: Türüne göre ilkbahar sonundan sonbahara kadar çiçek açar. Solan çiçekler düzenli kesilirse çiçeklenme süresi uzar.
+
+### YAZI
+slug: salatalik-yetistirme
+baslik: Salatalık Yetiştirme: Bahçede ve Balkonda Çıtır Salatalık İçin Rehber
+yayin: 2026-12-18 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: salatalık yetiştirme
+seo_baslik: Salatalık Yetiştirme: Ekim, Sırık, Sulama ve Hasat
+seo_aciklama: Salatalık yetiştirme rehberi: ekim zamanı, sırık ve yer çeşitleri, toprak, düzenli sulama, budama, tozlaşma, acılaşmayı önleme ve doğru hasat zamanı.
+ozet: Yazın bahçeden koparılan çıtır salatalığın tadı bambaşkadır. Sıcak seven, hızlı büyüyen salatalığı bahçede ya da balkonda saksıda yetiştirebilirsiniz. Kış aylarında planlamaya başlayabileceğiniz salatalık yetiştirmenin adımlarını anlatıyoruz.
+etiketler: salatalık yetiştirme, sırık salatalık, yazlık sebzeler, balkonda sebze, kabakgiller
+gorsel: p10-salatalik
+gorsel_alt: Yaprakları arasında küçük salatalıklar gelişen yeşil salatalık bitkisi
+urunler: altinvadi-salatalik-tohumu-sirik-f1-5-gr, solucan-gubreli-sebze-topragi, hasturk-sivi-solucan-gubresi
+kisaca: Salatalık sıcak seven, hızlı büyüyen bir yazlık sebzedir; toprak sıcaklığı 16-18 °C'yi geçince ekilir. Sırık çeşitler destekle dikey, yer çeşitleri yayılarak yetişir. Verimli, süzek toprak ve özellikle meyve döneminde düzenli sulama ister; susuzluk acılaşmaya yol açar. Meyveler çok büyümeden, düzenli toplanmalıdır.
+@govde
+Salatalık yetiştirme, yaz bahçesinin en keyifli ve en hızlı sonuç veren işlerinden biridir. Tohum ekildikten sadece birkaç hafta sonra bitkiler çiçek açar ve kısa süre içinde ilk salatalıklar sofraya gelir. Hindistan kökenli salatalık, kabak, kavun ve karpuzla aynı aileden, kabakgillerden gelir ve sıcağı, güneşi, suyu çok sever. Bahçede sırıklara sardırarak dikey, ya da yere yayarak yetiştirilebilir; balkonda büyük bir saksıda bile bol ürün verebilir. Aralık ve ocak ayları tohum seçmek ve bahçe planını yapmak için idealdir; ılık bölgelerde ve seralarda ise kış sonunda fide hazırlığına başlanabilir. Bu yazıda salatalığı tohumdan hasada nasıl yetiştireceğinizi anlatıyoruz.
+
+## Salatalık çeşitleri
+
+**Sırık salatalıklar:** Uzun sülükleriyle destek üzerinde tırmanır. Yerden tasarruf sağlar, meyveler temiz ve düzgün olur, hastalık riski azalır. Küçük bahçeler ve balkonlar için idealdir.
+
+**Yer salatalıkları:** Yere yayılarak büyür, daha kısa ve bodur bir yapıya sahiptir.
+
+**Çengelköy ve yerel çeşitler:** İnce kabuklu, aromalı ve çıtır meyveleriyle sevilir.
+
+**Turşuluk salatalıklar:** Küçük, sık dokulu meyveler verir; turşu için erken toplanır.
+
+**Partenokarpik (tozlaşmasız meyve bağlayan) çeşitler:** Arı olmadan meyve bağlar; seralar ve kapalı balkonlar için uygundur.
+
+## Salatalık ne zaman ekilir?
+
+Salatalık dona dayanıksızdır ve soğuk toprakta çimlenmez. Tohumlar toprak sıcaklığı 16-18 °C'yi geçtiğinde, genellikle nisan sonu ile mayıs arasında doğrudan bahçeye ekilebilir. Erken ürün almak için tohumlar dikimden 3-4 hafta önce içeride, tek tek küçük saksılara ekilebilir; kabakgiller kök bozulmasına hassas olduğu için şaşırtma yapılmamalıdır. Hasat sezonunu uzatmak için yaz başında ikinci bir ekim yapılabilir.
+
+[ürün:altinvadi-salatalik-tohumu-sirik-f1-5-gr]
+
+## Toprak
+
+Salatalık verimli, organik maddece zengin, nemi iyi tutan ama süzek bir toprak ister. Ekimden önce toprağa bol miktarda olgun kompost ya da yanmış ahır gübresi karıştırın. Toprak pH'ı hafif asidik ile nötr arasında olmalıdır. Saksıda yetiştirirken en az 20-30 litrelik bir saksı ve sebze yetiştirmeye uygun, besince zengin bir toprak kullanın.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Ekim ve dikim
+
+Tohumlar 2-3 santimetre derinliğe ekilir. Sırık salatalıklarda bitkiler arasında 30-40 santimetre, yer salatalıklarında 50-60 santimetre mesafe bırakılır. Sırıklar ya da file, dikim sırasında yerleştirilmelidir; sonradan yerleştirmek köklere zarar verebilir. Genç bitkilerin sülükleri desteğe kendiliğinden sarılır; ilk başlarda yönlendirmek yeterlidir.
+
+## Salatalık yetiştirmede sulama
+
+Salatalık meyvesinin büyük kısmı sudur; bu yüzden düzenli ve bol sulama ister. Toprağı sürekli hafif nemli tutun, özellikle çiçeklenme ve meyve döneminde sulamayı aksatmayın. Susuz kalan bitkilerde meyveler acılaşır, şekilsiz olur ve verim düşer. Sulamayı sabah saatlerinde, yaprakları ıslatmadan doğrudan toprağa yapın; ıslak yapraklar külleme ve mildiyö gibi hastalıklara davetiye çıkarır. Damla sulama ve malçlama, nemi dengeli tutmanın en iyi yollarıdır. Damla sulama kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazımıza göz atabilirsiniz.
+
+## Besleme
+
+Salatalık hızlı büyüyen ve çok ürün veren bir bitkidir; düzenli beslenmek ister. Ekim öncesi toprağa karıştırılan organik gübreye ek olarak, çiçeklenme başladığında ve meyve döneminde iki üç haftada bir sıvı organik besin vermek verimi artırır. Salatalığın beslenmesi hakkında ayrıntılı bilgi için [salatalık gübreleme](/salatalik-gubreleme) yazımıza göz atabilirsiniz.
+
+## Budama ve yönlendirme
+
+Sırık salatalıklarda ana gövdeyi desteğe doğru yönlendirin. Ana gövdenin alt 40-50 santimetrelik kısmındaki yan sürgünleri ve çiçekleri temizlemek, bitkinin önce güçlü bir gövde ve kök sistemi oluşturmasını sağlar. Üst kısımlardaki yan sürgünler birinci ya da ikinci meyveden sonra uçlarından kısaltılabilir. Ana gövde desteğin tepesine ulaştığında ucunu kesmek, bitkinin enerjisini meyvelere yönlendirir. Sararmış ve hastalıklı alt yaprakları düzenli olarak temizleyin.
+
+## Tozlaşma
+
+Çoğu salatalık çeşidinde erkek ve dişi çiçekler aynı bitkide ama ayrı ayrı oluşur. Dişi çiçeklerin dibinde küçük bir salatalık şeklinde çıkıntı bulunur. Tozlaşma çoğunlukla arılar tarafından yapılır. Arıların az olduğu yerlerde, erkek çiçeği koparıp polenini dişi çiçeğin ortasına sürerek elle tozlaşma yapabilirsiniz. Partenokarpik çeşitler ise tozlaşma olmadan meyve bağlar.
+
+## Hasat
+
+Salatalıklar çeşidine göre 12-20 santimetre uzunluğa ulaştığında, koyu yeşil ve sert iken toplanmalıdır. Turşuluk çeşitler daha küçükken toplanır. Meyveleri dalda fazla bekletmeyin; sararan ve iri tohumlu salatalıklar bitkinin yeni meyve vermesini yavaşlatır. Yaz ortasında iki günde bir hasat yapmak gerekebilir. Meyveleri koparırken bitkiye zarar vermemek için makasla sapından kesin.
+
+## Salatalık neden acı olur?
+
+Salatalıktaki acılık, bitkinin strese girdiğinde ürettiği doğal bir bileşikten kaynaklanır. En sık nedenler susuzluk, düzensiz sulama, aşırı sıcak ve besin eksikliğidir. Acılık genellikle sap tarafında ve kabukta yoğunlaşır. Düzenli sulama ve malçlama acılaşmayı büyük ölçüde önler.
+
+## Balkonda saksıda salatalık
+
+Bahçesi olmayanlar için balkonda salatalık yetiştirme oldukça mümkündür. Günde en az 6-8 saat doğrudan güneş alan, rüzgârdan korunaklı bir köşe seçin. Saksı ne kadar büyük olursa toprak o kadar geç kurur ve bitki o kadar rahat eder; tek bir sırık salatalık için en az 20 litrelik, derinliği 30 santimetreyi aşan bir kap idealdir. Saksının dibine drenaj delikleri açın ve tabanda su birikmesine izin vermeyin. Bitkinin tırmanabilmesi için korkuluğa bağlanan bir file ya da saksıya saplanan bir kamış çatı kurun. Saksıdaki toprak bahçe toprağına göre çok daha hızlı kurur; sıcak yaz günlerinde sabah ve akşam iki kez kontrol etmek gerekebilir. Toprağın üstünü saman ya da kuru yaprakla örtmek nemi korur. Kapalı balkonlarda arı ziyareti az olacağından partenokarpik bir çeşit seçmek ya da elle tozlaşma yapmak ürün tutumunu garanti eder. Saksıdaki besin de çabuk tükendiği için meyve döneminde düzenli sıvı besleme yapmayı unutmayın.
+
+## Salatalık yanına ne ekilir?
+
+Salatalık, fasulye, bezelye, mısır, marul ve turpla iyi komşuluk yapar. Mısır doğal bir destek ve hafif gölge sağlar; fasulye ve bezelye toprağa azot kazandırır. Fesleğen ve kadife çiçeği bazı zararlıları uzaklaştırmaya yardımcı olur. Patatesle ve kavun, kabak gibi aynı ailedeki bitkilerle yan yana ekmek ise ortak hastalık ve zararlıların yayılmasını kolaylaştırır. Her yıl salatalığı farklı bir yatağa ekmek, yani ekim nöbeti uygulamak toprak kaynaklı hastalıkları azaltır.
+
+## Sık karşılaşılan sorunlar
+
+**Külleme ve mildiyö:** Yapraklarda beyaz tabaka ya da sarı-kahverengi lekeler. Hava dolaşımı ve kuru yapraklar en iyi önlemdir.
+
+**Şekilsiz meyveler:** Yetersiz tozlaşma ya da düzensiz sulama.
+
+**Kırmızı örümcek ve yaprak biti:** Sıcak ve kuru dönemlerde yaprak altlarında görülür.
+
+**Meyve tutmaması:** Arı eksikliği, aşırı sıcak ya da fazla azot.
+
+Salatalıkta görülen hastalıklar için [salatalık hastalıkları](/salatalik-hastaliklari) yazımıza göz atabilirsiniz.
+
+@sss
+S: Salatalık ne zaman ekilir?
+C: Toprak sıcaklığı 16-18 °C'yi geçtiğinde, genellikle nisan sonu ile mayıs arasında ekilir. Erken ürün için fideler dikimden 3-4 hafta önce içeride hazırlanabilir.
+
+S: Salatalık neden acı olur?
+C: Susuzluk, düzensiz sulama ve aşırı sıcak gibi stres koşulları acılığa yol açar. Düzenli sulama ve malçlama bu sorunu önler.
+
+S: Salatalık saksıda yetişir mi?
+C: Evet, özellikle sırık ve bodur çeşitler en az 20-30 litrelik bir saksıda, bir destek yardımıyla balkonda yetiştirilebilir.
+
+### YAZI
+slug: streptocarpus-bakimi
+baslik: Streptocarpus Bakımı: Menekşenin Akrabası Bol Çiçekli Salon Bitkisi
+yayin: 2026-12-18 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: streptocarpus bakımı
+seo_baslik: Streptocarpus Bakımı: Işık, Sulama, Toprak ve Çoğaltma
+seo_aciklama: Streptocarpus bakımı nasıl yapılır? Parlak dolaylı ışık, ölçülü sulama, hafif toprak, sığ saksı, besleme, yaprak kesimiyle çoğaltma ve sık görülen sorunlar.
+ozet: Uzun, kadife yaprakları ve ince saplar üzerinde açan boru şeklindeki çiçekleriyle streptocarpus, Afrika menekşesinin daha kolay ve daha bol çiçekli bir akrabasıdır. Streptocarpus bakımını ve yapraktan çoğaltmayı anlatıyoruz.
+etiketler: streptocarpus bakımı, pelerin çuha çiçeği, çiçekli salon bitkileri, menekşe akrabaları, yaprak çoğaltma
+gorsel: p11-streptocarpus
+gorsel_alt: Mor çizgili beyaz çiçekler açmış streptocarpus
+urunler: hg-menekse-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini, tarim-perliti
+kisaca: Streptocarpus parlak ama dolaylı ışık, 16-24 °C sıcaklık ve hafif, süzek bir toprak ister. Toprağın üst kısmı kuruduğunda sulanmalı; aşırı sulamaya Afrika menekşesinden daha hassastır. Kökleri yüzeysel olduğu için sığ ve geniş saksılarda iyi gelişir. Düzenli hafif besleme bol çiçek sağlar. Yaprak parçalarından kolayca çoğaltılır.
+@govde
+Streptocarpus bakımı, Afrika menekşesini sevip daha kolay bir alternatif arayanlar için çok uygundur. Güney Afrika'nın gölgeli ve nemli ormanlarından gelen streptocarpus, Afrika menekşesi ve gloksinya ile aynı aileye mensuptur. Uzun, kadife dokulu ve hafif kırışık yaprakları yere yakın bir rozet oluşturur; bu rozetin ortasından yükselen ince sapların ucunda mor, mavi, pembe, beyaz, kırmızı ve çizgili renklerde, boru şeklinde çiçekler açar. İyi bakıldığında ilkbahardan sonbahara kadar, hatta yıl boyu çiçek açabilir. Streptocarpus, Afrika menekşesine göre daha büyük çiçekler açar ve çoğu zaman daha bol çiçeklenir. Bu yazıda streptocarpus bakımı için gereken ışık, sulama ve toprak koşullarını, çoğaltma yöntemlerini anlatıyoruz.
+
+## Işık
+
+Streptocarpus parlak ama dolaylı ışık sever. Doğu ya da batıya bakan bir pencere önü idealdir. Güney penceresinde tül perde arkasında durabilir. Doğrudan öğle güneşi yaprakları yakar. Yetersiz ışıkta yapraklar uzar, soluklaşır ve bitki çiçek açmaz. Kış aylarında bitkiyi en aydınlık pencereye yaklaştırmak ya da birkaç saatlik bitki lambası kullanmak çiçeklenmeyi sürdürmeye yardımcı olur. Işık ihtiyacı hakkında genel bilgi için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazımıza göz atabilirsiniz.
+
+## Streptocarpus bakımında sulama
+
+Streptocarpus, aşırı sulamaya Afrika menekşesinden bile daha hassastır. Toprağın üst kısmı kuruduğunda, hatta yaprakların hafifçe yumuşamaya başladığı anda sulamak en güvenli yöntemdir. Bitki susuzluktan kısa sürede toparlanır, ama sürekli ıslak toprakta kökleri hızla çürür. Sulamayı oda sıcaklığındaki suyla, yapraklara değdirmeden ya da alttan yapın. Alttan sulamada saksıyı yirmi dakika kadar suda bekletip fazla suyun süzülmesini sağlayın. Saksı tabağında su bırakmayın.
+
+## Sıcaklık ve nem
+
+Streptocarpus 16-24 °C arasındaki sıcaklıklarda rahat eder. 12 °C'nin altındaki sıcaklıklar ve soğuk cereyan bitkiyi zorlar; 30 °C'yi aşan sıcaklıklarda ise çiçeklenme durabilir. Orta düzeyde nem yeterlidir; kuru kış havasında yaprak uçları kahverengileşebilir. Saksıyı çakıllı ve sulu bir tepsiye koymak nemi artırır.
+
+## Toprak ve saksı
+
+Streptocarpus hafif, havadar ve süzek bir toprak ister. Afrika menekşesi için hazırlanan topraklar, bir miktar ek perlitle birlikte idealdir. Ağır ve su tutan topraklar köklerin çürümesine yol açar. Menekşe toprağının özellikleri için [menekşe toprağı](/menekse-topragi) yazımıza göz atabilirsiniz.
+
+[ürün:hg-menekse-topragi]
+
+[ürün:tarim-perliti]
+
+Streptocarpus'un kökleri yüzeysel ve ince yayılır; bu yüzden derin saksılar yerine sığ ve geniş saksılar tercih edilmelidir. Saksının çapı, rozetin genişliğine yakın olabilir. Saksı değişimi yılda bir, ilkbaharda yapılır; bu sırada bitki bölünerek çoğaltılabilir.
+
+## Besleme
+
+Bol çiçek açan streptocarpus düzenli ama hafif beslenmek ister. İlkbahardan sonbahara kadar iki haftada bir, sulama suyuna karıştırılan yarı yarıya seyreltilmiş bir çiçekli bitki besini verin. Kışın, bitki çiçek açmaya devam ediyorsa ayda bir besleme yeterlidir. Fazla gübre yaprak kenarlarını yakar.
+
+## Yaprak bakımı ve temizlik
+
+Streptocarpus yaprakları zamanla uçlarından kuruyabilir; bu doğaldır. Kuruyan kısımları temiz bir makasla kesebilirsiniz. Solan çiçek saplarını dibinden kesin. Çok yaşlanmış ve sararmış yaprakları dipten temizleyin. Yaprakları silmeyin ve yıkamayın; tozunu yumuşak bir fırçayla alın.
+
+## Yaprak parçalarından çoğaltma
+
+Streptocarpus'u çoğaltmanın en ilginç yolu yaprak parçalarıdır. Sağlıklı, olgun bir yaprağı alın ve orta damarını çıkararak yaprağı boyuna ikiye kesin. Her yarıyı, kesik kenarı aşağıda kalacak şekilde nemli ve hafif bir toprağa birkaç milimetre gömün. Kabın üzerini şeffaf bir kapakla örtün ve aydınlık, ılık bir yerde tutun. Birkaç hafta içinde kesik kenar boyunca çok sayıda küçük yavru bitki çıkar. Yavrular birkaç yaprak oluşturduğunda ayrı saksılara dikilebilir. Yaprak çoğaltma hakkında benzer bilgiler için [menekşe çoğaltma](/menekse-cogaltma) yazımıza göz atabilirsiniz.
+
+## Bölerek çoğaltma
+
+Yaşlanmış ve birden fazla rozet oluşturmuş bitkiler, ilkbaharda saksı değişimi sırasında bölünerek de çoğaltılabilir. Her parçada kök ve birkaç sağlıklı yaprak bulunmasına dikkat edin.
+
+## Mevsimlere göre bakım takvimi
+
+**İlkbahar:** Bitkinin en hareketli dönemidir. Saksı değişimi, bölme ve yaprak çoğaltma için en uygun zaman budur. Beslemeye iki haftada bir yeniden başlayın ve yeni çıkan çiçek saplarını takip edin.
+
+**Yaz:** Bol çiçek dönemidir. Bitkiyi öğle güneşinden mutlaka koruyun; sıcak günlerde toprağı daha sık kontrol edin ama ıslak bırakmayın. 30 °C'yi aşan günlerde bitkiyi evin daha serin bir köşesine almak çiçeklenmenin durmasını önler.
+
+**Sonbahar:** Günler kısaldıkça sulamayı azaltın. Bitkiyi en aydınlık pencereye yaklaştırın; kalorifer yandığında sıcak hava üfleyen peteklerin hemen üzerinde tutmayın.
+
+**Kış:** Büyüme yavaşlar. Toprak iyice kurumadan sulamayın, beslemeyi ayda bire indirin ya da tamamen bırakın. Soğuk cama değen yapraklar zarar görebileceğinden saksıyı camdan birkaç santimetre uzakta tutun.
+
+## Daha bol çiçek için ipuçları
+
+Streptocarpus'tan uzun süre çiçek almanın sırrı ışık, hafif besleme ve küçük saksının birleşimidir. Kökleri saksıyı hafifçe doldurmuş bir bitki, enerjisini yeni yapraklar yerine çiçeklere yönlendirir. Solan çiçek saplarını tohum bağlamadan dibinden kesmek yeni sapların çıkmasını teşvik eder. Çok uzamış ve sayısı artmış yaşlı yaprakların bir kısmını dipten almak, rozetin ortasının ışık almasını sağlar. Yeni aldığınız bitkiyi hemen büyük bir saksıya aktarmak yerine, bir süre kendi kabında bırakıp ortama alışmasını beklemek de çiçeklenmenin kesilmemesine yardımcı olur. Streptocarpus bakımı doğru kurulduğunda bitki her yıl biraz daha genişler ve çiçek sayısı artar.
+
+## Sık karşılaşılan sorunlar
+
+**Çiçek açmama:** Yetersiz ışık, besin eksikliği ya da çok büyük saksı.
+
+**Yaprakların yumuşaması ve sarkması:** Susuzluk; sulamadan sonra kısa sürede toparlanır. Toprak ıslakken sarkıyorsa kök çürümesi düşünülmelidir.
+
+**Kahverengi yaprak uçları:** Kuru hava, fazla gübre ya da doğal yaşlanma.
+
+**Unlu bit ve trips:** Yaprak diplerinde ve çiçeklerde görülebilir.
+
+**Yaprak uçlarının kıvrılması:** Genellikle aşırı sıcak, doğrudan güneş ya da çok kuru havadan kaynaklanır. Bitkiyi daha serin ve dolaylı ışık alan bir yere almak çoğu zaman yeterlidir.
+
+@sss
+S: Streptocarpus ne sıklıkla sulanır?
+C: Toprağın üst kısmı kuruduğunda ya da yapraklar hafifçe yumuşamaya başladığında sulanır. Aşırı sulamaya çok hassastır; toprak sürekli ıslak tutulmamalıdır.
+
+S: Streptocarpus ile Afrika menekşesi arasındaki fark nedir?
+C: Aynı aileden gelirler. Streptocarpus'un yaprakları daha uzun, çiçekleri daha iri ve ince saplar üzerindedir; genellikle daha bol çiçek açar ve bakımı biraz daha kolaydır.
+
+S: Streptocarpus yapraktan çoğaltılır mı?
+C: Evet. Yaprak orta damarından ikiye kesilip kesik kenarı toprağa gömüldüğünde, birkaç hafta içinde kenar boyunca çok sayıda yavru çıkar.
+
+### YAZI
+slug: salon-palmiyesi-bakimi
+baslik: Salon Palmiyesi Bakımı: Az Işıkta Yaşayan Zarif Chamaedorea
+yayin: 2026-12-18 13:45
+yazar: Muhammed Hamza Çelik
+kategori: bitki-bakimi
+odak: salon palmiyesi bakımı
+seo_baslik: Salon Palmiyesi (Chamaedorea) Bakımı ve Sulama
+seo_aciklama: Salon palmiyesi bakımı nasıl yapılır? Chamaedorea için az ve dolaylı ışık, sulama, nem, toprak, saksı değişimi ve kahverengi yaprak uçlarının nedenleri.
+ozet: İnce, tüy gibi yaprakçıklı yapraklarıyla salon palmiyesi, az ışıklı odalarda bile yaşayan, tropik havası olan küçük bir palmiyedir. Chamaedorea'nın ışık, sulama ve nem isteklerini ve sık yapılan hataları anlatıyoruz.
+etiketler: salon palmiyesi bakımı, chamaedorea, palmiye bakımı, az ışıkta yaşayan bitkiler, salon bitkisi bakımı
+gorsel: p11-salon-palmiyesi
+gorsel_alt: İnce yaprakçıklı yeşil salon palmiyesi yaprakları
+urunler: areka-palmiyesi-topragi, hasturk-sivi-solucan-gubresi, tarim-perliti
+kisaca: Salon palmiyesi (Chamaedorea elegans) az ve orta düzeyde dolaylı ışığa dayanan, yavaş büyüyen küçük bir palmiyedir. Toprağın üst kısmı kuruduğunda sulanmalı, aşırı sulamadan kaçınılmalıdır. Kuru hava yaprak uçlarını kurutur; nemi artırmak faydalıdır. Süzek bir palmiye toprağı, sıkışık köklere uygun saksı ve hafif besleme bitkiyi sağlıklı tutar.
+@govde
+Salon palmiyesi bakımı, ev ya da ofisine tropik bir dokunuş katmak isteyenler için en kolay başlangıçlardan biridir. Meksika ve Orta Amerika'nın gölgeli yağmur ormanlarının alt katmanlarından gelen salon palmiyesi (Chamaedorea elegans), uzun yıllardır dünyanın en sevilen salon bitkilerinden biridir. Boyu genellikle bir metre civarında kalır, ince saplar üzerinde tüy gibi açılan zarif yaprakları vardır ve en önemlisi diğer palmiyelerin çoğunun aksine az ışığa oldukça iyi dayanır. Satışta genellikle bir saksıda birkaç bitkinin bir arada bulunduğu sık kümeler halinde sunulur. Yavaş büyür, sık saksı değişimi istemez ve doğru bakımla yıllarca yaşar. Bu yazıda salon palmiyesi bakımı için gereken ışık, sulama, nem ve toprak koşullarını anlatıyoruz.
+
+## Işık
+
+Salon palmiyesi, doğal ortamında ağaçların gölgesinde yetiştiği için doğrudan güneşi sevmez. Parlak ama dolaylı ışık en iyi büyümeyi sağlar; ancak bitki orta ve az ışıklı köşelerde de yaşayabilir. Kuzeye bakan pencereler, odanın iç kısımları ve floresan ışıklı ofisler bu bitki için uygundur. Doğrudan güneş yapraklarda sararma ve kahverengi yanık lekelere yol açar. Çok karanlık yerlerde ise büyüme durur ve yapraklar seyrekleşir. Az ışıklı köşeler için diğer seçenekler [az ışıkta yaşayan salon bitkileri](/az-isikta-yasayan-salon-bitkileri) yazımızda bulunabilir.
+
+## Salon palmiyesi bakımında sulama
+
+Salon palmiyesi, toprağın biraz kurumasını seven ama tamamen kurumaktan da hoşlanmayan bir bitkidir. Toprağın üst iki üç santimetresi kuruduğunda bitkiyi iyice sulayın ve fazla suyun saksının dibinden akmasını sağlayın. Saksı tabağında su bırakmayın. Aşırı sulama, bu bitkinin en büyük düşmanıdır; sürekli ıslak toprak kök çürümesine ve yaprakların sararmasına yol açar. Kışın ışık ve sıcaklık azaldığında sulama aralığını uzatın. Mümkünse oda sıcaklığında, bekletilmiş ya da yağmur suyu kullanın; palmiyeler musluk suyundaki tuzlara ve flora karşı hassas olabilir.
+
+## Nem
+
+Tropik ormanlardan gelen salon palmiyesi orta-yüksek nemi sever. Kaloriferli evlerin kuru kış havasında yaprak uçları kahverengileşir ve kırmızı örümcek gibi zararlılar çoğalır. Nemi artırmak için saksıyı çakıllı ve sulu bir tepsinin üzerine koyabilir, bitkiyi diğer bitkilerle gruplayabilir ya da bir nemlendirici kullanabilirsiniz. Kışın nemi korumanın yolları için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza göz atabilirsiniz.
+
+## Sıcaklık
+
+Salon palmiyesi 18-27 °C arasındaki sıcaklıklarda rahat eder. 12 °C'nin altındaki sıcaklıklar ve soğuk cereyan yapraklarda zarara yol açar. Kalorifer peteğinin hemen yanı ve sıcak hava üfleyen klimaların önü de uygun değildir.
+
+## Toprak ve saksı
+
+Salon palmiyesi, organik maddece zengin, hafif ve süzek bir toprak ister. Palmiyeler için hazırlanmış karışımlar ya da perlit eklenmiş kaliteli bir saksı toprağı idealdir. Palmiye topraklarının özellikleri için [areka palmiyesi toprağı](/areka-palmiyesi-topragi) yazımıza göz atabilirsiniz.
+
+[ürün:areka-palmiyesi-topragi]
+
+[ürün:tarim-perliti]
+
+Salon palmiyesi köklerinin biraz sıkışık olmasından rahatsız olmaz ve köklerine dokunulmasından hoşlanmaz. Saksı değişimini yalnızca kökler saksıyı tamamen doldurduğunda, genellikle iki üç yılda bir, ilkbaharda ve yalnızca bir boy büyük saksıya yapın. Değişim sırasında kök topunu bozmamaya özen gösterin.
+
+## Besleme
+
+Salon palmiyesi yavaş büyüyen ve az besin isteyen bir bitkidir. İlkbahardan yaz sonuna kadar ayda bir kez, yarı yarıya seyreltilmiş bir sıvı besin yeterlidir. Kışın besleme yapılmaz. Fazla gübre, toprakta tuz birikimine ve yaprak uçlarının kahverengileşmesine yol açar.
+
+## Yaprak bakımı
+
+Kahverengileşen yaprak uçlarını temiz bir makasla, yaprağın doğal şeklini koruyarak kesebilirsiniz; ancak yeşil dokuya zarar vermeyin. Tamamen kuruyan yaprakları sapının dibinden kesin. Yaprakların üzerindeki tozu ılık bir duşla ya da nemli bir bezle temizlemek, bitkinin daha iyi nefes almasını sağlar ve kırmızı örümcekleri uzak tutar.
+
+## Kahverengi yaprak uçlarının nedenleri
+
+- **Kuru hava:** En sık nedendir.
+- **Düzensiz sulama:** Toprağın tamamen kuruması ya da aşırı ıslanması.
+- **Tuz birikimi:** Fazla gübre ya da sert su.
+- **Soğuk cereyan:** Yapraklarda kahverengi lekeler.
+
+## Zararlılar
+
+Salon palmiyesinde en sık görülen zararlı kırmızı örümcektir. Yaprak altlarında ince ağlar ve yapraklarda soluk benekler görülür. Kuru ve sıcak havada hızla çoğalır. Nemi artırmak ve yaprakları düzenli yıkamak en iyi önlemdir. Bu zararlı hakkında [kırmızı örümcek](/kirmizi-orumcek) yazımıza göz atabilirsiniz. Unlu bit ve kabuklu bit de yaprak dipleri ve saplarda görülebilir.
+
+## Çiçek açar mı?
+
+Olgun salon palmiyeleri, yeterli ışık aldığında, saplar üzerinde küçük, sarı, top şeklinde çiçek kümeleri açabilir. Bu çiçekler süs değeri taşımaz ve bitkinin enerjisini harcar; bazı yetiştiriciler bunları keser.
+
+## Mevsimlere göre bakım takvimi
+
+**İlkbahar:** Yeni yapraklar bu dönemde açılmaya başlar. Gerekiyorsa saksı değişimini şimdi yapın ve aylık beslemeye yeniden başlayın. Kışın soluklaşan bitkiyi biraz daha aydınlık bir yere almak büyümeyi hızlandırır.
+
+**Yaz:** Sulama sıklığı artar; toprağın üst kısmını haftada iki kez kontrol edin. Sıcak ve kuru günlerde yaprakları ılık suyla duşlamak hem tozu alır hem de kırmızı örümceğe karşı koruma sağlar. Balkona çıkarılacaksa doğrudan güneş görmeyen, rüzgârsız bir köşe seçilmelidir.
+
+**Sonbahar:** Gece sıcaklıkları 12 °C'nin altına inmeden balkondaki bitkiyi içeri alın. Beslemeyi eylül sonunda bırakın ve sulama aralığını yavaş yavaş uzatın.
+
+**Kış:** Kalorifer yanmaya başladığında havanın kuruması en büyük sorun olur. Saksıyı peteklerden uzak tutun, nemi artırın ve toprağı daha uzun aralıklarla sulayın.
+
+## Salon palmiyesi bakımında sık yapılan hatalar
+
+En sık yapılan hata, bitkiyi her gün biraz sulamak ya da saksı tabağında su bekletmektir; salon palmiyesi bakımı aslında az ama derin sulamayla kolaylaşır. İkinci yaygın hata, sağlıklı görünmesi için bitkiyi doğrudan güneş alan bir pencereye koymaktır; bu yaprakları yakar. Üçüncüsü, bitkiyi gereğinden büyük bir saksıya aktarmaktır; fazla toprak suyu uzun süre tutar ve kökler çürür. Saksıda birden fazla gövde varsa bunları ayırmaya çalışmak da köklere zarar verir; genellikle olduğu gibi bırakmak daha iyidir.
+
+## Evcil hayvanlar
+
+Salon palmiyesi kediler ve köpekler için zehirsiz kabul edilir; bu da onu evcil hayvanların bulunduğu evler için güvenli bir seçenek yapar.
+
+@sss
+S: Salon palmiyesi az ışıkta yaşar mı?
+C: Evet, palmiyeler arasında az ışığa en dayanıklı türlerden biridir. Ancak parlak, dolaylı ışıkta daha sağlıklı büyür.
+
+S: Salon palmiyesinin yaprak uçları neden kahverengi olur?
+C: En sık nedenler kuru hava, düzensiz sulama ve toprakta tuz birikmesidir. Nemi artırmak ve ölçülü sulamak sorunu azaltır.
+
+S: Salon palmiyesi kediler için zehirli mi?
+C: Hayır, salon palmiyesi kediler ve köpekler için zehirsiz kabul edilen bitkiler arasındadır.
+
+### YAZI
+slug: bahcede-karinca
+baslik: Bahçede Karınca: Dost mu Düşman mı, Doğal Yollarla Nasıl Dengelenir?
+yayin: 2026-12-18 15:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: bahçede karınca
+seo_baslik: Bahçede Karınca: Faydaları, Zararları ve Doğal Çözümler
+seo_aciklama: Bahçede karınca neden çoğalır, bitkilere zarar verir mi? Yaprak biti ilişkisi, saksıdaki yuvalar, ağaç gövdesi bandı ve doğal yollarla dengeleme önerileri.
+ozet: Karıncalar bahçenin en çalışkan canlılarıdır; toprağı havalandırır, organik maddeyi taşır. Ama yaprak bitleriyle kurdukları ortaklık ve saksılara yaptıkları yuvalar can sıkabilir. Bahçede karınca sorununu bitkilere ve toprağa zarar vermeden nasıl yöneteceğinizi anlatıyoruz.
+etiketler: bahçede karınca, karınca ve yaprak biti, saksıda karınca, doğal zararlı yönetimi, bahçe ekosistemi
+gorsel: p11-karinca
+gorsel_alt: Yeşil yapraklar üzerinde dolaşan karıncalar
+urunler: tarm-bioleaf-protector-neem-yagi-500-ml-bocek-kovucu-sprey, florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi
+kisaca: Karıncalar çoğu zaman bitkilere doğrudan zarar vermez; toprağı havalandırır ve ayrışmaya katkı sağlar. Asıl sorun, tatlı salgıları için yaprak bitlerini korumalarıdır. Bitlerle mücadele edildiğinde karıncalar da azalır. Ağaç gövdesine yapışkan bant, saksı yuvalarında toprak yenileme ve düzenli sulama, kimyasala gerek kalmadan dengeyi sağlar.
+@govde
+Bahçede karınca görmek çoğu kişiyi hemen telaşlandırır. Oysa karıncalar bahçenin en çalışkan ve çoğu zaman en faydalı sakinlerindendir. Toprakta açtıkları tüneller havalanmayı ve suyun derinlere inmesini kolaylaştırır, taşıdıkları yaprak ve böcek kalıntıları organik maddeye dönüşür, bazı türleri de zararlı böceklerin yumurta ve larvalarıyla beslenir. Sorun, karıncaların belirli koşullarda dengeyi bozmasıyla başlar: yaprak bitlerini koruyup çoğaltmaları, saksıların içine yuva kurmaları, tohum yataklarından tohum taşımaları gibi. Kış aylarında karıncalar toprağın derinliklerinde dinlenir; bu sakin dönem, bahar gelmeden önce sorunun kaynağını anlamak ve planı kurmak için iyi bir zamandır. Bu yazıda karıncaların bahçedeki rolünü, hangi durumlarda sorun olduklarını ve toprağa zarar vermeden nasıl dengelenebileceklerini anlatıyoruz.
+
+## Karıncaların bahçeye faydaları
+
+Karınca yuvaları küçük birer toprak işleme makinesi gibidir. Her gün yüzeye taşınan ince toprak, alt katmanlardaki mineralleri üste çıkarır; tüneller ise kökler için hava ve su yolları açar. Karıncalar ölü böcekleri, tohum kabuklarını ve bitki artıklarını yuvalarına taşıyarak ayrışmayı hızlandırır. Bazı türler tırtılları, sinek larvalarını ve başka küçük zararlıları avlar. Bazı yabani çiçeklerin tohumlarını taşıyarak yayılmalarına da yardımcı olurlar. Kısacası, bahçede karınca bulunması tek başına bir sorun değil, çoğu zaman canlı bir toprağın işaretidir.
+
+## Bahçede karınca ne zaman sorun olur?
+
+**Yaprak biti çiftçiliği:** En önemli sorun budur. Yaprak bitleri, unlu bitler ve kabuklu bitler bitki özsuyunu emerken tatlı ve yapışkan bir salgı bırakır. Karıncalar bu salgıyla beslenir ve karşılığında bitleri uğur böceği gibi doğal düşmanlarından korur, hatta onları bitkinin taze sürgünlerine taşır. Bu yüzden bir bitkide karıncaların bir aşağı bir yukarı yürüdüğünü görüyorsanız, önce yaprak altlarına ve sürgün uçlarına bakın.
+
+**Saksılarda yuva:** Karıncalar kuru kalan saksıların içine yuva kurabilir. Tüneller kök çevresinde hava boşlukları oluşturur, toprak suyu tutamaz hale gelir ve bitki susuz kalır.
+
+**Tohum yatakları:** Bazı türler küçük tohumları toplayıp yuvalarına taşır; yeni ekilen yataklarda çimlenme seyrek olabilir.
+
+**Çim ve yollar:** Çim içinde ve taş aralarında oluşan toprak tümsekleri görüntüyü bozar, biçmeyi zorlaştırır.
+
+**Ev girişleri:** Bahçedeki yuvalar eve yakınsa karıncalar mutfağa yol bulabilir.
+
+## Karınca ve yaprak biti ilişkisi
+
+Bahçede karınca sorununun çözümü çoğu zaman karıncaların kendisinde değil, besin kaynaklarındadır. Yaprak biti, unlu bit ve kabuklu bit kontrol altına alındığında karıncaların bitki üzerindeki trafiği kendiliğinden azalır. Yaprak bitlerini tazyikli suyla yıkamak, ağır bulaşık sürgünleri kesmek ve neem yağı gibi bitki dostu uygulamaları düzenli yapmak ilk adımdır. Uğur böceği ve diğer doğal düşmanların bahçeye gelmesini sağlamak da dengeyi destekler. Yaprak bitiyle mücadele hakkında ayrıntılı bilgi için [yaprak biti](/yaprak-biti) ve [neem yağı](/neem-yagi) yazılarımıza göz atabilirsiniz.
+
+[ürün:tarm-bioleaf-protector-neem-yagi-500-ml-bocek-kovucu-sprey]
+
+Unlu bit ve kabuklu bit de karıncaları çeken tatlı salgılar bırakır. Özellikle narenciye, zakkum ve salon bitkilerinde bu zararlılar karıncalarla birlikte görülür. Kabuklu bit için [kabuklu bit](/kabuklu-bit) yazımız yol gösterecektir.
+
+[ürün:florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi]
+
+## Meyve ağaçlarında karınca bandı
+
+Meyve ağaçlarında karıncaların gövdeden yukarı tırmanmasını engellemek, yaprak biti salgınlarını belirgin biçimde azaltır. Bunun için gövdeye, yerden 40-60 santimetre yükseklikte, bahçe işleri için üretilmiş yapışkan bir bant ya da yapışkan sürülmüş bir kâğıt kuşak sarılabilir. Bant doğrudan genç ağaçların ince kabuğuna sürülmemeli, araya bir kâğıt ya da kumaş şerit konmalıdır. Bandın üzerine yaprak ve toz yapıştıkça karıncalar köprü kurabilir; bu yüzden bant düzenli kontrol edilip yenilenmelidir. Gövdeye dayanan dallar, kazıklar ve çevredeki uzun otlar da karıncalar için alternatif yollar oluşturur; bunları temizlemeyi unutmayın. Sonbaharda yapılan kireç badanası da gövdedeki çatlakları kapatarak benzer bir koruma sağlar; ayrıntılar için [ağaç gövdesine kireç badanası](/agac-govdesine-kirec-badanasi) yazımıza göz atabilirsiniz.
+
+## Saksıda karınca yuvası
+
+Saksıya yuva kurmuş karıncaları uzaklaştırmanın en basit yolu, saksıyı bir kova suyun içine toprak yüzeyine kadar daldırıp yaklaşık yarım saat bekletmektir. Su dolan tünellerden çıkan karıncalar yuvayı terk eder. Bu işlem sağlam bitkilerde güvenlidir; ardından saksının iyice süzülmesine izin verin. Yuva derinse ve toprak tamamen bozulmuşsa, bitkiyi saksıdan çıkarıp eski toprağı ayıklamak ve taze toprakla yeniden dikmek en kalıcı çözümdür. Karıncalar kuru saksıları tercih ettiği için düzenli sulama, saksı altlığına birkaç santimetre çakıl koymak ve saksıları doğrudan toprağa değil bir sehpa ya da ayak üzerine yerleştirmek tekrarlamayı önler.
+
+## Bahçede karıncayı dengelemek için doğal yollar
+
+**Düzenli sulama:** Karıncalar kuru, sıcak ve gevşek toprağı sever. Düzenli sulanan yataklarda yuva kurma eğilimi azalır.
+
+**Toprağı karıştırma:** Sorun yaratan yuvayı kürekle birkaç kez açıp karıştırmak, karıncaların yuvayı başka bir yere taşımasını sağlar.
+
+**Taşıma:** Çiçek saksısını yuvanın üzerine ters kapatıp birkaç gün bekleyin; karıncalar yavrularını saksıya taşıdığında saksıyı bahçenin uzak bir köşesine götürebilirsiniz.
+
+**Kokulu bitkiler:** Nane, lavanta ve kekik gibi güçlü kokulu bitkiler, karıncaların yoğun olarak kullandığı yolların kenarında caydırıcı bir sınır oluşturabilir.
+
+**Tatlı kaynakları azaltma:** Yere düşmüş, çürümeye başlamış meyveleri toplamak ve kompost yığınındaki tatlı artıkları üstten örtmek karıncaları başka yerlere yönlendirir.
+
+## Nelerden kaçınmalı?
+
+Yuvalara kaynar su dökmek, tuz ya da sirke serpmek gibi yöntemler toprağa ve köklere de zarar verir; toprağın canlılığını yıllarca bozabilir. Geniş alana gelişigüzel ilaç uygulamak ise uğur böcekleri, arılar ve diğer faydalı canlıları da yok eder; sonuçta zararlılar daha hızlı geri döner. Gerçekten yönetilemeyen bir yoğunluk varsa, uygun yöntem için müşteri hizmetlerimize danışmak en doğru yoldur.
+
+## Kışın neler yapılabilir?
+
+Kış, karıncaların yuvanın derinlerinde dinlendiği dönemdir. Bu aylarda meyve ağaçlarının gövdesindeki eski bantları sökün, gövde dibindeki yabani otları ve döküntüleri temizleyin, budama sırasında yaprak biti yumurtalarının yoğun olduğu ince sürgünleri kesin. Kış sonunda yeni bantları takmak, ilkbaharda ilk bitlerle birlikte başlayan karınca trafiğini daha baştan keser. Bahçede karınca dengesini korumak, aslında doğal düşmanları koruyan ve toprağı canlı tutan bir bahçe kurmakla mümkündür.
+
+@sss
+S: Bahçedeki karıncalar bitkilere zarar verir mi?
+C: Karıncaların çoğu bitkilere doğrudan zarar vermez; toprağı havalandırır ve ayrışmaya katkı sağlar. Asıl sorun, tatlı salgıları için yaprak biti ve unlu bit gibi zararlıları korumalarıdır.
+
+S: Karıncalar neden bitkimin üzerinde dolaşıyor?
+C: Büyük olasılıkla bitkide yaprak biti, unlu bit ya da kabuklu bit vardır. Karıncalar bu zararlıların bıraktığı tatlı salgıyla beslenir. Yaprak altlarını ve sürgün uçlarını kontrol edin.
+
+S: Saksıdaki karınca yuvası nasıl temizlenir?
+C: Saksıyı toprak yüzeyine kadar bir kova suya daldırıp yarım saat kadar bekletebilirsiniz. Yuva çok yayılmışsa bitkiyi taze toprakla yeniden dikmek en kalıcı çözümdür.
+
+S: Ağaçlarda karıncayı engellemenin yolu nedir?
+C: Gövdeye, araya kâğıt şerit koyarak bahçe tipi yapışkan bant sarmak ve gövdeye dayanan dalları, kazıkları temizlemek karıncaların tırmanmasını engeller.
+
+### YAZI
+slug: antep-fistigi-gubreleme
+baslik: Antep Fıstığı Gübreleme: Var Yılı, Yok Yılı ve Dolgun Meyve İçin Besleme
+yayin: 2026-12-18 16:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: antep fıstığı gübreleme
+seo_baslik: Antep Fıstığı Gübreleme: Ne Zaman, Hangi Gübre, Nasıl?
+seo_aciklama: Antep fıstığı gübreleme takvimi: kış organik gübresi, ilkbahar beslemesi, meyve dolumu, periyodisite, kireçli toprak, çinko ve bor ile toprak analizi.
+ozet: Antep fıstığı kurak ve kireçli topraklara dayanıklı olsa da bol ve dolgun ürün için dengeli beslenmek ister. Kış organik gübresinden meyve dolumuna kadar antep fıstığı gübreleme takvimini, var yılı-yok yılı dengesini ve sık görülen eksiklikleri anlatıyoruz.
+etiketler: antep fıstığı gübreleme, antep fıstığı bakımı, periyodisite, meyve ağacı gübreleme, kireçli toprak
+gorsel: p11-antep
+gorsel_alt: Dalda olgunlaşmakta olan pembe antep fıstığı salkımları
+urunler: kati-solucan-gubresi-20-kg, leonardit-organik-toprak-duzenleyici, 1-ton-solucan-gubresi-fiyati
+kisaca: Antep fıstığı gübreleme kışın organik gübreyle başlar; ilkbaharda sürgün ve çiçek için azot, yazın meyve dolumu için potasyum öne çıkar. Ağaç bir yıl bol, bir yıl az ürün verme eğilimindedir; dengeli besleme ve sulama bu farkı azaltır. Kireçli topraklarda çinko, bor ve demir eksikliği sık görülür. En doğru program toprak ve yaprak analiziyle kurulur.
+@govde
+Antep fıstığı gübreleme, kıraç topraklara alışkın bu ağaçtan bol ve dolgun ürün almanın anahtarıdır. Antep fıstığı, Güneydoğu Anadolu'nun kıraç, taşlı ve kireçli topraklarında yüzyıllardır yetişen, kuraklığa ve sıcağa son derece dayanıklı bir ağaçtır. Bu dayanıklılık, ağacın beslenmeye ihtiyaç duymadığı anlamına gelmez. Bakımsız bırakılan bahçelerde ağaçlar yavaş gelişir, bir yıl ürün verip ertesi yıl neredeyse hiç vermez, meyvelerin önemli bir kısmı boş ya da çıtlamamış kalır. Doğru besleme ise hem verimi hem de iç dolgunluğunu belirgin biçimde artırır. Aralık ve ocak ayları, ağaç dinlenmedeyken kış gübresini vermenin ve yeni yılın beslenme planını yapmanın tam zamanıdır. Bu yazıda antep fıstığının besin ihtiyacını, mevsimlere göre gübreleme takvimini, var yılı ve yok yılı dengesini ve sık görülen eksiklikleri anlatıyoruz.
+
+## Antep fıstığının besin ihtiyacı
+
+Antep fıstığı derin kök yapısıyla toprağın alt katmanlarından su ve besin alabilir; ancak ürün verdiği yıllarda topraktan önemli miktarda azot, potasyum ve fosfor kaldırır. Azot sürgün ve yaprak gelişimini, bir sonraki yılın meyve gözlerinin oluşumunu destekler. Potasyum, meyve iç dolumunu, çıtlama oranını ve ağacın kuraklığa dayanımını artırır. Fosfor kök gelişimi ve çiçeklenme için önemlidir. Bunların yanında çinko, bor ve demir gibi mikro elementler antep fıstığında çok kritik rol oynar; özellikle kireçli topraklarda bu elementler toprakta bulunsa da bitki tarafından alınamaz.
+
+## Antep fıstığı gübreleme takvimi: kış gübresi
+
+Antep fıstığı gübreleme programının temeli kış gübresidir. Aralık-şubat arasında, ağaç dinlenmedeyken iyi yanmış ahır gübresi, kompost ya da solucan gübresi gibi organik gübreler taç izdüşümüne serilip toprağa karıştırılır. Organik madde, kıraç ve kireçli toprakların su tutma kapasitesini artırır, toprak canlılığını güçlendirir ve mikro elementlerin alınabilirliğini iyileştirir. Gübre gövdenin dibine değil, kılcal köklerin yoğun olduğu taç izdüşümü boyunca, bir halka şeklinde verilmelidir. Kış gübrelemesinin genel kuralları için [kış gübrelemesi](/kis-gubrelemesi) yazımıza göz atabilirsiniz.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+Leonardit gibi humik madde kaynakları, organik maddesi düşük, kireçli topraklarda toprak yapısını iyileştirir ve besinlerin daha verimli kullanılmasına yardımcı olur.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## İlkbahar gübrelemesi
+
+Mart-nisan aylarında, gözler uyanmadan önce ve sürgün gelişimi başlarken azotlu besleme yapılır. Azot, genç sürgünlerin ve yaprakların gelişimini destekler ve gelecek yılın meyve gözlerinin oluşumuna katkı sağlar. Kuru tarımda gübrenin etkili olabilmesi için toprağın nemli olduğu dönemde, yağmurlardan önce verilmesi önemlidir. Fazla azot ise ağacın aşırı vejetatif gelişmesine, meyve tutumunun azalmasına ve hastalıklara açık hale gelmesine yol açar.
+
+## Meyve dolumu döneminde besleme
+
+Haziran-temmuz aylarında meyvelerin iç dolumu başlar. Bu dönemde potasyum ihtiyacı en üst düzeye çıkar. Sulanan bahçelerde damla sulamayla verilen potasyumlu gübreler, kuru tarımda ise önceden verilen dengeli gübre bu ihtiyacı karşılar. Potasyum eksikliğinde iç dolgunluğu düşer, boş meyve oranı artar ve yaprak kenarlarında yanıklık görülür. Potasyum eksikliğinin belirtileri için [potasyum eksikliği](/potasyum-eksikligi) yazımıza göz atabilirsiniz.
+
+## Var yılı ve yok yılı: periyodisite
+
+Antep fıstığının en bilinen özelliği periyodisitedir: ağaç bir yıl bol ürün verir, ertesi yıl çok az verir ya da hiç vermez. Bunun nedeni, bol ürün yılında meyvelerin iç dolumu sırasında ağacın, gelecek yılın çiçek gözlerini dökmesidir. Periyodisite tamamen ortadan kaldırılamaz, ama dengeli gübreleme, düzenli sulama ve uygun budama ile iki yıl arasındaki fark azaltılabilir. Var yılında ağaç daha fazla besin kaldırdığı için bu yılın sonbaharında ve kışında beslemeyi aksatmamak, yok yılının daha az belirgin geçmesine yardımcı olur.
+
+## Kireçli topraklarda mikro element eksiklikleri
+
+Antep fıstığı bahçelerinin çoğu kireçli ve yüksek pH'lı topraklarda kuruludur. Bu topraklarda çinko, bor ve demir eksikliği sık görülür.
+
+**Çinko eksikliği:** Sürgün uçlarında küçük, dar ve rozet şeklinde yapraklar, kısa boğum araları.
+
+**Bor eksikliği:** Çiçek ve meyve dökümü, meyve tutumunun azalması, sürgün uçlarının kuruması.
+
+**Demir eksikliği:** Genç yapraklarda damarlar yeşil kalırken ara dokunun sararması.
+
+Bu eksiklikler genellikle toprağa verilen gübrelerden çok yapraktan uygulamalarla daha hızlı giderilir. Hangi elementin, ne zaman ve hangi miktarda verileceği bahçenin koşullarına göre değiştiğinden, uygulama öncesinde müşteri hizmetlerimize danışılmalıdır. Kireçli topraklar hakkında daha fazla bilgi için [demir eksikliği](/bitkilerde-demir-eksikligi) yazımıza göz atabilirsiniz.
+
+## Toprak ve yaprak analizi
+
+Antep fıstığı gübreleme programının en sağlam dayanağı analizdir. Toprak analizi, organik madde, kireç, pH ve temel besin düzeylerini; yaprak analizi ise ağacın gerçekte ne aldığını gösterir. Yaprak örnekleri genellikle temmuz-ağustos aylarında, meyve vermeyen sürgünlerin ortasındaki olgun yapraklardan alınır. Toprak örneğinin nasıl alınacağını [toprak örneği alma](/toprak-ornegi-alma) yazımızda adım adım anlattık. Analiz sonuçlarına göre hazırlanan program hem gereksiz gübre masrafını önler hem de eksik kalan elementi doğrudan hedefler.
+
+## Genç ağaçlarda besleme
+
+Dikimden sonraki ilk yıllarda amaç güçlü bir kök sistemi ve sağlam bir iskelet oluşturmaktır. Dikim çukuruna iyi yanmış organik gübre karıştırılır; sonraki yıllarda her kış taç izdüşümüne az miktarda organik gübre verilir. Genç ağaçlara aşırı azot vermek sürgünlerin yumuşak kalmasına ve kış soğuklarından zarar görmesine yol açabilir.
+
+## Sulama ve gübrenin birlikte etkisi
+
+Gübrenin işe yarayabilmesi için toprakta yeterli nem bulunması gerekir. Kuru tarım yapılan bahçelerde gübreler kış ve ilkbahar yağmurlarından önce verilmeli, yağışla birlikte kök bölgesine inmeleri sağlanmalıdır. Sulanan bahçelerde ise damla sulama, besinlerin parça parça ve doğrudan kök bölgesine verilmesine imkân tanır; bu yöntem hem gübre kaybını azaltır hem de meyve dolumu döneminde ağacın ihtiyacını tam zamanında karşılar. Haziran-ağustos arasındaki iç dolum döneminde yaşanan susuzluk, en iyi gübre programını bile boşa çıkarabilir. Ağaç diplerine serilen organik malç, toprağın nemini korur ve yaz sıcağında kök bölgesini serin tutar; malç hakkında [ağaç dibi malçlama](/agac-dibi-malclama) yazımıza göz atabilirsiniz.
+
+## Sık yapılan hatalar
+
+- Gübreyi gövdenin dibine yığmak; besin alan kılcal kökler taç izdüşümündedir.
+- Kuru toprağa gübre verip sulamamak ya da yağmur beklememek.
+- Var yılından sonra beslemeyi ihmal etmek.
+- Analiz yapmadan her yıl aynı gübreyi aynı miktarda vermek.
+- Kireçli toprakta mikro element eksikliğini gözden kaçırmak.
+
+@sss
+S: Antep fıstığına ne zaman gübre verilir?
+C: Temel gübreleme aralık-şubat arasında organik gübreyle yapılır. İlkbaharda sürgün öncesi azotlu besleme, yazın meyve dolumunda ise potasyumlu besleme öne çıkar.
+
+S: Antep fıstığı neden bir yıl az ürün veriyor?
+C: Buna periyodisite denir. Bol ürün yılında ağaç, gelecek yılın çiçek gözlerini döker. Dengeli gübreleme, düzenli sulama ve budama iki yıl arasındaki farkı azaltır.
+
+S: Antep fıstığında boş meyve neden olur?
+C: Potasyum ve bor eksikliği, meyve dolumu döneminde susuzluk ve yetersiz tozlaşma boş meyve oranını artırır.
+
+S: Kireçli toprakta antep fıstığı nasıl beslenir?
+C: Organik madde eklemek toprağı iyileştirir. Çinko, bor ve demir eksiklikleri genellikle yapraktan giderilir; uygulama için müşteri hizmetlerimize danışılmalıdır.
+
+### YAZI
+slug: yulaf-ekimi
+baslik: Yulaf Ekimi: Kışlık ve Yazlık Yulaf İçin Zaman, Tohum ve Bakım
+yayin: 2026-12-18 18:15
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: yulaf ekimi
+seo_baslik: Yulaf Ekimi: Ne Zaman Ekilir, Tohum Miktarı ve Hasat
+seo_aciklama: Yulaf ekimi rehberi: kışlık ve yazlık ekim zamanı, toprak hazırlığı, tohum miktarı, ekim derinliği, gübreleme, fiğ ile karışık ekim, ot ve dane hasadı.
+ozet: Serin iklimi seven yulaf, hem dane hem de ot için yetiştirilen, toprağı iyileştiren değerli bir tahıldır. Kışlık ve yazlık yulaf ekimi zamanını, tohum miktarını, toprak hazırlığını ve hasat dönemini anlatıyoruz.
+etiketler: yulaf ekimi, yulaf yetiştirme, tahıl ekimi, fiğ yulaf karışımı, yem bitkileri
+gorsel: p10-yulaf
+gorsel_alt: Mavi gökyüzü altında salkım vermiş yeşil yulaf bitkileri
+urunler: kati-solucan-gubresi-20-kg, 1-ton-solucan-gubresi-fiyati, leonardit-organik-toprak-duzenleyici
+kisaca: Yulaf serin ve nemli iklimi seven bir tahıldır. Kışı ılık geçen bölgelerde sonbaharda, sert kışlı bölgelerde ise şubat-mart aylarında ekilir. Tohumlar 3-5 santimetre derinliğe, sıra arası 15-20 santimetre olacak şekilde ekilir. Fiğ ile karışık ekildiğinde değerli bir yem ve yeşil gübre olur. Dane hasadı salkımlar sarardığında yapılır.
+@govde
+Yulaf ekimi, buğday ve arpaya göre daha az bilinse de hem tarlada hem de küçük bahçelerde çok yönlü bir üretimdir. Yulaf dane için, hayvan yemi olarak ot için, fiğ gibi baklagillerle karışık yem bitkisi olarak ve toprağı iyileştiren yeşil gübre olarak yetiştirilebilir. Serin ve nemli iklimi seven, buğdaydan daha fazla suya ihtiyaç duyan ama zayıf topraklara daha iyi uyum sağlayan bir tahıldır. Kışı ılık geçen kıyı bölgelerinde sonbaharda ekilen kışlık yulaf aralık ayında tarlayı yeşile boyarken, sert kışlı bölgelerde yazlık yulaf ekimi için hazırlık zamanı yaklaşmaktadır. Bu yazıda yulafın ne zaman ve nasıl ekileceğini, toprak hazırlığını, bakımını ve hasadını anlatıyoruz.
+
+## Yulafın iklim ve toprak istekleri
+
+Yulaf serin iklim tahılıdır; büyüme döneminde 15-20 °C arasındaki sıcaklıkları sever. Kışa dayanıklılığı buğday ve arpadan daha düşüktür; bu nedenle kışı sert geçen bölgelerde sonbahar ekimi yerine ilkbahar ekimi tercih edilir. Su ihtiyacı diğer tahıllardan fazladır; özellikle başaklanma döneminde yaşanan kuraklık verimi düşürür. Toprak seçiciliği azdır: hafif asidik topraklara, kumlu ve organik maddesi düşük alanlara diğer tahıllardan daha iyi uyum sağlar. Ancak çok kireçli ve tuzlu topraklarda gelişimi zayıflar. Su tutmayan, aşırı kuru kumlu topraklar da uygun değildir.
+
+## Yulaf ekimi ne zaman yapılır?
+
+**Kışlık yulaf:** Akdeniz, Ege, Marmara ve Karadeniz kıyıları gibi kışı ılık geçen bölgelerde ekim-kasım aylarında ekilir. Kışı yeşil geçirir, ilkbaharda hızla gelişir ve daha yüksek verim verir.
+
+**Yazlık yulaf:** İç ve Doğu Anadolu gibi kışı sert geçen bölgelerde, toprak tava gelir gelmez, genellikle şubat sonu ile nisan arasında ekilir. Erken ekim önemlidir; geç ekilen yulaf başaklanma döneminde yaz sıcağına ve kuraklığa yakalanır.
+
+Bölgenize göre kış ekimi seçenekleri için [Akdeniz kış ekimi](/akdeniz-kis-ekimi) ve [İç Anadolu kış ekimi](/ic-anadolu-kis-ekimi) yazılarımıza göz atabilirsiniz.
+
+## Toprak hazırlığı
+
+Yulaf ekimi öncesinde toprak derin ve iyi işlenmiş olmalıdır. Önceki üründen kalan artıklar toprağa karıştırılır, ardından tohum yatağı ince ve düz bir hale getirilir. Kesekli toprakta tohumlar düzgün çimlenmez. Organik maddesi düşük topraklarda ekimden önce iyi yanmış ahır gübresi ya da solucan gübresi gibi organik gübreler toprağa karıştırılabilir. Bahçede küçük bir alana ekim yapacaksanız, yatağı belleyip tırmıkla düzlemek yeterlidir.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+## Tohum miktarı ve ekim derinliği
+
+Yulaf tohumu dekara yaklaşık 10-14 kilogram atılır; ot amaçlı ve karışık ekimlerde bu miktar artırılabilir. Tohumlar mibzerle 15-20 santimetre sıra arasıyla, 3-5 santimetre derinliğe ekilir. Serpme ekim yapılan küçük alanlarda tohum toprağa serpilip tırmıkla örtülür ve hafifçe bastırılır. Çok derine ekilen tohumlar toprak yüzeyine çıkmakta zorlanır, çok yüzeye ekilenler ise kuşlara yem olur ya da kuruyarak çimlenemez. Farklı tohumların ekim derinlikleri için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazımıza göz atabilirsiniz.
+
+## Fiğ ile karışık ekim
+
+Yulaf, fiğ ile birlikte ekildiğinde çok değerli bir yem karışımı oluşur. Yulaf, sarılıcı fiğe destek olur; fiğ ise baklagil olduğu için havadaki azotu toprağa bağlar ve karışımın protein değerini yükseltir. Genellikle tohum karışımında fiğ daha yüksek oranda, yulaf daha düşük oranda kullanılır. Bu karışım hem ot olarak biçilebilir hem de çiçeklenme döneminde toprağa karıştırılarak yeşil gübre olarak değerlendirilebilir. Fiğ hakkında ayrıntılı bilgi için [fiğ ekimi](/fig-ekimi), yeşil gübreleme için [yeşil gübreleme](/yesil-gubreleme) yazılarımıza göz atabilirsiniz.
+
+## Gübreleme
+
+Yulaf, buğdaya göre daha az gübre ister; ancak verimli bir ürün için dengeli beslenmesi gerekir. Fosforlu gübre ekimle birlikte toprağa verilir. Azotun bir kısmı ekimde, kalanı ilkbaharda kardeşlenme döneminde verilir. Fazla azot yulafın boylanmasına ve yatmasına yol açar. En doğru gübre miktarı toprak analizine göre belirlenir; analiz sonuçlarını değerlendirmek için müşteri hizmetlerimize danışabilirsiniz. Organik madde açısından fakir topraklarda humik madde kaynakları toprak yapısını iyileştirir.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Bakım ve sulama
+
+Kışlık yulaf genellikle kış ve ilkbahar yağışlarıyla yetinir. Kurak geçen ilkbaharlarda, özellikle sapa kalkma ve salkım çıkarma döneminde bir iki sulama verimi belirgin şekilde artırır. Yabancı otlar, genç yulaf bitkileriyle su ve besin için yarışır; sık ekim ve iyi hazırlanmış tohum yatağı yabancı ot baskısını azaltır. Küçük alanlarda yabancı otlar elle ya da çapayla temizlenebilir.
+
+## Hastalık ve zararlılar
+
+Yulafta en sık görülen sorunlar pas hastalıkları, külleme ve rastıktır. Rastık, tohumla taşındığı için sertifikalı ve temiz tohum kullanmak en önemli önlemdir. Hastalıklara dayanıklı çeşit seçimi, ekim nöbeti ve aşırı azottan kaçınmak da riski azaltır. Belirgin bir hastalık gördüğünüzde uygun mücadele yöntemi için müşteri hizmetlerimize danışın. Tahıllarda görülen hastalıklar hakkında genel bilgi için [buğday hastalıkları](/bugday-hastaliklari) yazımıza göz atabilirsiniz.
+
+## Hasat
+
+Yulafın ne zaman hasat edileceği yetiştirme amacına bağlıdır.
+
+**Ot için:** Yulaf ya da fiğ-yulaf karışımı, yulafın salkım çıkardığı, tanelerin süt olum döneminde olduğu zaman biçilir. Bu dönemde hem verim hem de besin değeri yüksektir.
+
+**Dane için:** Salkımlar ve saplar sarardığında, taneler sertleştiğinde hasat yapılır. Yulafın salkımları tepeden aşağıya doğru olgunlaştığı için tamamen olgunlaşmayı beklemek tepe tanelerinin dökülmesine yol açabilir; salkımın büyük kısmı sarardığında hasat zamanı gelmiş demektir.
+
+Hasat edilen taneler iyice kurutulduktan sonra serin, kuru ve havadar bir yerde saklanmalıdır.
+
+## Bahçede ve saksıda yulaf
+
+Yulaf yalnızca tarla bitkisi değildir. Bahçede boş kalan yataklara sonbaharda ekilen yulaf, kış boyunca toprağı erozyondan korur, ilkbaharda toprağa karıştırıldığında organik madde kazandırır. Yulaf tohumu küçük saksılarda kedi çimi olarak da yetiştirilebilir; ayrıntılar için [kedi çimi yetiştirme](/kedi-cimi-yetistirme) yazımıza göz atabilirsiniz. Arpa ile karşılaştırma yapmak isterseniz [arpa ekimi](/arpa-ekimi) yazımız yol gösterecektir. Hangi amaçla yapılırsa yapılsın, zamanında ve doğru derinlikte yapılan yulaf ekimi, az emekle bol ürünün ilk şartıdır.
+
+@sss
+S: Yulaf ne zaman ekilir?
+C: Kışı ılık geçen bölgelerde ekim-kasım aylarında, kışı sert geçen bölgelerde ise şubat sonu ile nisan arasında, toprak tava gelir gelmez ekilir.
+
+S: Dekara ne kadar yulaf tohumu atılır?
+C: Dane amaçlı ekimde dekara yaklaşık 10-14 kilogram tohum atılır. Ot amaçlı ve karışık ekimlerde miktar artırılabilir.
+
+S: Yulaf hangi toprakta iyi yetişir?
+C: Yulaf toprak seçiciliği az bir tahıldır; hafif asidik ve organik maddesi düşük topraklara iyi uyum sağlar. Çok kireçli, tuzlu ve su tutmayan topraklarda zayıf gelişir.
+
+S: Fiğ ile yulaf neden birlikte ekilir?
+C: Yulaf, sarılıcı fiğe destek olur; fiğ ise toprağa azot kazandırır ve karışımın besin değerini artırır. Bu karışım değerli bir yem ve yeşil gübredir.
+
+### YAZI
+slug: kudret-nari-yetistirme
+baslik: Kudret Narı Yetiştirme: Tohumdan Turuncu Meyveye Adım Adım
+yayin: 2026-12-18 20:20
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: kudret narı yetiştirme
+seo_baslik: Kudret Narı Yetiştirme: Ekim, Sırık, Bakım ve Hasat
+seo_aciklama: Kudret narı yetiştirme rehberi: tohum ıslatma, ekim zamanı, sıcak ve güneşli yer, sırık ve çardak, sulama, besleme, tozlaşma ve olgun meyve hasadı.
+ozet: Pürüzlü kabuğu ve olgunlaşınca açılan turuncu meyvesiyle kudret narı, çardak ve çitleri süsleyen sıcak seven bir tırmanıcıdır. Sert kabuklu tohumların çimlendirilmesinden hasada kadar kudret narı yetiştirmenin tüm adımlarını anlatıyoruz.
+etiketler: kudret narı yetiştirme, kudret narı tohumu, tırmanıcı sebzeler, kabakgiller, balkonda kudret narı
+gorsel: p11-kudret-nari
+gorsel_alt: Dalında olgunlaşıp açılmış turuncu kudret narı
+urunler: altinvadi-kudret-nari-tohumu, hg-fide-topragi, solucan-gubreli-sebze-topragi
+kisaca: Kudret narı sıcak seven, tek yıllık, tırmanıcı bir kabakgildir. Sert kabuklu tohumlar ekimden önce bir gün ılık suda bekletilir ve nisan-mayısta içeride viyollere ekilir; fideler don tehlikesi geçince dikilir. Güneşli bir yer, sırık ya da çardak, verimli toprak ve düzenli sulama ister. Meyveler yeşilken ya da sararıp açılmaya başladığında toplanır.
+@govde
+Kudret narı yetiştirme, bahçesinde ya da balkonunda farklı bir bitki görmek isteyenler için çok keyifli bir deneyimdir. Kavun, kabak ve salatalıkla aynı aileden gelen kudret narı, ince sülükleriyle tutunarak birkaç metre boyunca tırmanan, tek yıllık bir sarılıcıdır. Derin dilimli yaprakları, sarı çiçekleri ve pürüzlü, siğilli kabuklu meyveleriyle dikkat çeker. Meyveler olgunlaştıkça yeşilden sarıya, ardından parlak turuncuya döner ve sonunda kendiliğinden açılarak kırmızı zarlı tohumlarını ortaya çıkarır. Anadolu'da asırlardır yetiştirilen bu ilginç bitki, çardakları, çitleri ve balkon korkuluklarını kısa sürede yeşile boyar. Aralık ayı, gelecek sezonun tohumlarını temin etmek ve ekim planını yapmak için en doğru zamandır. Bu yazıda kudret narını tohumdan meyveye nasıl yetiştireceğinizi anlatıyoruz.
+
+## Kudret narının istekleri
+
+Kudret narı tropik kökenlidir ve sıcağı çok sever. Gelişimi için 25-30 °C arası sıcaklıklar idealdir; 15 °C'nin altındaki sıcaklıklarda büyüme durur ve bitki dona hiç dayanmaz. Günde en az 6-8 saat doğrudan güneş alan, rüzgârdan korunaklı bir yer seçilmelidir. Güney ve batıya bakan duvar önleri, sıcak balkonlar ve çardaklar en uygun yerlerdir. Serin ve gölgeli yerlerde bitki uzar ama çiçek ve meyve vermekte zorlanır.
+
+## Tohum hazırlığı ve çimlendirme
+
+Kudret narı tohumlarının kabuğu sert ve kalındır; bu nedenle doğrudan ekildiklerinde geç ve düzensiz çimlenir. Ekimden önce tohumları 24 saat kadar ılık suda bekletmek kabuğu yumuşatır ve çimlenmeyi hızlandırır. Bazı yetiştiriciler tohumun sivri ucunu bir zımpara ile çok hafifçe aşındırarak suyun içeri girmesini kolaylaştırır; bu işlem yapılırken tohumun içine zarar verilmemelidir. Islatılan tohumlar 1,5-2 santimetre derinliğe, yan yatırılarak ekilir. Toprak sıcaklığı 20 °C'nin üzerinde olduğunda tohumlar bir iki hafta içinde çimlenir. Çimlenme sorunlarının nedenleri için [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazımıza göz atabilirsiniz.
+
+[ürün:altinvadi-kudret-nari-tohumu]
+
+## Ne zaman ekilir?
+
+Kudret narı dona dayanıksız olduğu için tohumlar, son don tarihinden 3-4 hafta önce, genellikle nisan ayında içeride, viyollere ya da küçük saksılara ekilir. Kabakgiller kök bozulmasına hassas olduğundan her göze bir iki tohum ekmek ve fideleri kök topunu bozmadan dikmek önemlidir. Gece sıcaklıkları sürekli olarak 12-15 °C'nin üzerine çıktığında, genellikle mayıs ortasında fideler bahçeye ya da büyük saksılara dikilir. Sıcak bölgelerde tohumlar mayısta doğrudan yerine de ekilebilir. Viyolde tohum çimlendirmenin püf noktaları için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazımıza göz atabilirsiniz.
+
+[ürün:hg-fide-topragi]
+
+## Toprak ve dikim
+
+Kudret narı verimli, organik maddece zengin, nemi iyi tutan ama süzek bir toprak ister. Dikimden önce toprağa bol miktarda olgun kompost ya da solucan gübresi karıştırın. Bitkiler arasında 50-80 santimetre mesafe bırakılır. Saksıda yetiştirecekseniz her bitki için en az 20-30 litrelik, derin bir saksı kullanın.
+
+## Kudret narı yetiştirmede sırık ve çardak
+
+Kudret narı yetiştirmenin en önemli adımlarından biri bitkiye tırmanacağı sağlam bir destek sağlamaktır. Bitki iki üç metreye kadar uzayabilir. Sırık, tel çit, file ya da çardak kullanılabilir. Destek dikim sırasında yerleştirilmelidir. Yerde yayılan bitkilerde meyveler toprağa değerek çürüyebilir, hava dolaşımı azalır ve hastalık riski artar. Dikey yetiştirme hem yer kazandırır hem de meyvelerin düzgün ve temiz gelişmesini sağlar. Tırmanıcı bitkilerle bahçede doğal bir perde oluşturmak için [çit bitkileri](/cit-bitkileri) yazımıza göz atabilirsiniz.
+
+## Sulama ve besleme
+
+Kudret narı, özellikle sıcak yaz günlerinde ve meyve döneminde bol su ister. Toprak sürekli hafif nemli tutulmalı, ancak su birikmesine izin verilmemelidir. Sulamayı sabah saatlerinde, yaprakları ıslatmadan yapın; saksıda yetişen bitkilerde toprak çok daha hızlı kurur. Toprağın üstünü malçla örtmek nemi korur. Çiçeklenme başladığında iki üç haftada bir sıvı organik besin vermek meyve tutumunu ve verimi artırır. Fazla azot ise bol yaprak ama az meyveye yol açar.
+
+## Çiçeklenme ve tozlaşma
+
+Kudret narında erkek ve dişi çiçekler aynı bitkide ama ayrı ayrı oluşur. Dişi çiçeklerin arkasında küçük, pürüzlü bir meyve taslağı bulunur. Tozlaşmayı çoğunlukla arılar ve diğer böcekler yapar. Balkonda ya da böceklerin az olduğu yerlerde, sabah saatlerinde erkek çiçeği koparıp polenini dişi çiçeğin ortasına sürerek elle tozlaşma yapabilirsiniz.
+
+## Hasat
+
+Meyveler, dişi çiçek açtıktan yaklaşık iki üç hafta sonra hasat olgunluğuna gelir. Sebze olarak kullanılacaksa meyveler yeşil, sert ve henüz sararmamışken toplanır. Geleneksel kullanım için meyveler sararıp turuncuya dönmeye başladığında, açılmadan hemen önce toplanır. Dalda tamamen olgunlaşan meyveler kendiliğinden açılır ve tohumlarını döker. Düzenli hasat, bitkinin yeni meyveler vermeye devam etmesini sağlar. Bitkinin ya da meyvenin sağlık amaçlı kullanımı konusunda mutlaka hekime danışılmalıdır.
+
+## Tohum saklama
+
+Gelecek yıl için tohum almak istiyorsanız, en sağlıklı bitkiden birkaç meyveyi dalda tamamen olgunlaşmaya bırakın. Meyve açıldığında tohumları alın, etrafındaki kırmızı zarı suyla yıkayarak temizleyin ve gölgede iyice kurutun. Kuru tohumlar kâğıt bir zarfta, serin ve kuru bir yerde birkaç yıl saklanabilir.
+
+## Balkonda kudret narı yetiştirme
+
+Bahçesi olmayanlar için balkonda kudret narı yetiştirme hem kolay hem de çok dekoratiftir. Güneye ya da batıya bakan, günün büyük bölümünde güneş alan bir balkon seçin. Büyük bir saksının içine sağlam bir kamış ya da metal çubuk yerleştirin, bitkinin uzayabileceği şekilde korkuluğa bir file ya da ip bağlayın. Birkaç hafta içinde gövdeler korkuluğu sararak yeşil bir perde oluşturur. Saksıdaki toprak çabuk kuruyacağından sıcak günlerde sabah ve akşam kontrol edin, saksı altlığında su bırakmayın. Rüzgârlı katlarda gövdeleri yumuşak bağlarla desteğe sabitlemek, ince sürgünlerin kopmasını önler. Sezon sonunda soğuklar başladığında bitki doğal olarak kurur; kuruyan gövdeleri sökün, toprağı yenileyerek gelecek yıla hazırlayın.
+
+## Sık karşılaşılan sorunlar
+
+**Çiçek açıp meyve tutmama:** Yetersiz tozlaşma, aşırı sıcak ya da fazla azot.
+
+**Külleme:** Yapraklarda beyaz tabaka; hava dolaşımını artırın, yaprakları ıslatmayın.
+
+**Yaprak biti ve kırmızı örümcek:** Sıcak ve kuru dönemlerde yaprak altlarında görülür.
+
+**Meyvelerin erken sararması:** Susuzluk ya da besin eksikliği.
+
+Kabakgillerin yetiştirilmesi hakkında daha fazla bilgi için [kabak yetiştirme](/kabak-yetistirme) ve [kavun yetiştirme](/kavun-yetistirme) yazılarımıza göz atabilirsiniz.
+
+@sss
+S: Kudret narı tohumu nasıl çimlendirilir?
+C: Sert kabuklu tohumlar ekimden önce 24 saat ılık suda bekletilir, ardından 1,5-2 santimetre derinliğe yan yatırılarak ekilir. Toprak sıcaklığı 20 °C'nin üzerindeyse bir iki haftada çimlenir.
+
+S: Kudret narı ne zaman ekilir?
+C: Tohumlar nisan ayında içeride viyollere ekilir; fideler mayıs ortasında, don tehlikesi geçip geceler ılıdığında bahçeye dikilir.
+
+S: Kudret narı saksıda yetişir mi?
+C: Evet. En az 20-30 litrelik derin bir saksı, güneşli bir balkon ve tırmanabileceği bir destek ile saksıda da yetiştirilebilir.
+
+S: Kudret narı ne zaman toplanır?
+C: Sebze olarak yeşil ve sertken, geleneksel kullanım için ise sararıp turuncuya dönmeye başladığında, açılmadan hemen önce toplanır.
+
+### SORU
+yayin: 2026-12-18 10:20
+kategori: ekim-takvimi
+baslik: Geçen yıldan kalan tohum paketlerinin tarihi geçmiş, bu baharda yine ekebilir miyim?
+metin: Geçen yıl aldığım ama ekemediğim birkaç paket sebze ve çiçek tohumum var. Paketlerin üzerindeki tarih geçmiş. Bu baharda ekersem çimlenir mi, yoksa yenilerini mi almalıyım?
+@cevap Hatice Kübra Çelik | 4
+Paketin üzerindeki tarih, tohumun o tarihe kadar belirtilen çimlenme oranını koruyacağının garantisidir; tarihin geçmesi tohumun bir anda öldüğü anlamına gelmez. Doğru koşullarda, yani serin, kuru ve karanlık bir yerde ağzı kapalı saklanan tohumların çoğu bir iki yıl daha çimlenebilir. Ancak çimlenme oranı zamanla düşer ve bu düşüş türden türe değişir. Domates, biber, patlıcan, kabak, salatalık ve marul gibi tohumlar genellikle birkaç yıl dayanıklılığını korurken; soğan, pırasa, havuç, maydanoz ve dereotu tohumları çok daha hızlı canlılık kaybeder. Sıcak ve nemli bir yerde, örneğin mutfakta ya da güneş alan bir rafta beklemiş tohumlar ise çok daha erken bozulur. En güvenli yol, ekimden birkaç hafta önce basit bir çimlenme testi yapmaktır: Her paketten on tohumu nemli bir kâğıt havlunun arasına koyup ılık bir yerde bekletin ve kaç tanesinin çimlendiğini sayın. Yarısından fazlası çimleniyorsa tohumu biraz daha sık ekerek kullanabilirsiniz; çok az çimleniyorsa yeni tohum almak zaman kaybını önler. Testin nasıl yapılacağını blogumuzdaki tohum çimlenme testi yazısında adım adım anlattık.

@@ -1,0 +1,83 @@
+name: Blog erişim tanısı
+
+# blog.hasturkgubre.com.tr ara sıra açılmıyor şikâyeti için: DNS, Türkiye'deki ölçüm noktalarından erişim, tekrarlı istek (yalnız okuma)
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['.github/workflows/blog-erisim.yml']
+
+jobs:
+  tani:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: DNS
+        run: |
+          sudo apt-get install -y -qq dnsutils >/dev/null 2>&1 || true
+          H=blog.hasturkgubre.com.tr
+          echo "== NS hasturkgubre.com.tr"; dig +short NS hasturkgubre.com.tr @8.8.8.8
+          for r in 8.8.8.8 1.1.1.1 9.9.9.9 208.67.222.222; do echo "== $r"; dig +short $H @$r; dig +short AAAA $H @$r; done
+          set +e
+          for ns in $(dig +short NS hasturkgubre.com.tr @8.8.8.8); do echo "== yetkili $ns"; echo "adres: $(dig +short A $ns @8.8.8.8 | tr '\n' ' ')"; dig +short +time=5 +tries=2 $H @$ns; done
+          echo "== ad sunucularının adresleri (birden çok çözücü)"; for ns in cpns1.turhost.com cpns2.turhost.com; do for r in 8.8.8.8 1.1.1.1 9.9.9.9; do echo "$ns @$r: $(dig +short A $ns @$r | tr '\n' ' ')"; done; done
+          echo "== TTL"; dig $H @8.8.8.8 | grep -A3 "ANSWER SECTION"
+      - name: Türkiye'den erişim (check-host.net ölçüm noktaları)
+        run: |
+          python3 - <<'PY'
+          import json, time, urllib.request, urllib.parse
+          H = {'Accept': 'application/json', 'User-Agent': 'hasturk-erisim-tanisi'}
+          def al(u):
+              return json.load(urllib.request.urlopen(urllib.request.Request(u, headers=H), timeout=30))
+          nodes = al('https://check-host.net/nodes/hosts')['nodes']
+          tr = [n for n, v in nodes.items() if (v.get('location') or [''])[0].lower() == 'tr']
+          print('Türkiye noktaları:', tr)
+          if not tr: raise SystemExit('Türkiye noktası yok')
+          time.sleep(90)  # önceki çalıştırmanın istek sınırı sıfırlansın
+          hedefler = [('dns', 'blog.hasturkgubre.com.tr'), ('http', 'https://blog.hasturkgubre.com.tr/'), ('http', 'https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir'), ('http', 'https://hasturk-blog.pages.dev/'),
+                      ('http', 'https://hasturk-arama.halilc2007.workers.dev/blog'), ('http', 'https://www.hasturkgubre.com.tr/'),
+                      ('tcp', '172.66.44.250:443'), ('tcp', '172.66.47.6:443')]
+          # check-host.net dakikada az istek kabul ediyor: her hedef arasında 75 sn, sonuç dolana kadar bekle
+          for tip, h in hedefler:
+              q = 'host=' + urllib.parse.quote(h, safe='') + ''.join('&node=' + n for n in tr)
+              try:
+                  r = al(f'https://check-host.net/check-{tip}?{q}')
+                  s = {}
+                  for _ in range(8):
+                      time.sleep(8)
+                      s = al('https://check-host.net/check-result/' + r['request_id'])
+                      if s and all(v is not None for v in s.values()): break
+              except Exception as e:
+                  print(tip, h, 'HATA', e); time.sleep(75); continue
+              for n, v in s.items():
+                  print(tip, h, n, json.dumps(v)[:260])
+              time.sleep(75)
+          PY
+      - name: Tekrarlı istek
+        run: |
+          B=https://blog.hasturkgubre.com.tr
+          W=https://hasturk-arama.halilc2007.workers.dev/blog
+          yol=("" "/soru-cevap" "/kategoriler" "/ortanca-bakimi-ve-cicek-actirma-rehberi" "/saksida-limon-agaci-bakimi" "/hangi-bitki-hangi-topragi-sever" "/ara?q=toprak" "/sitemap.xml")
+          : > /tmp/sonuc.tsv
+          for i in $(seq 1 5); do
+            for u in "${yol[@]}"; do
+              for taban in "$B" "$W"; do
+                ad=$( [ "$taban" = "$B" ] && echo alan || echo worker )
+                out=$(curl -s -o /tmp/govde -D /tmp/bas --max-time 30 -w '%{http_code}\t%{time_connect}\t%{time_starttransfer}\t%{time_total}\t%{remote_ip}' "$taban$u" 2>/tmp/hata) || true
+                kod=$(echo "$out" | cut -f1)
+                printf '%s\t%s\t%s\t%s\n' "$i" "$ad" "$u" "$out" >> /tmp/sonuc.tsv
+                if [ "$kod" != 200 ]; then
+                  echo "!! $i $ad $u -> $out $(cat /tmp/hata)"; grep -i "cf-ray\|server:\|cf-cache" /tmp/bas | tr -d '\r'
+                  head -c 600 /tmp/govde | tr '\n' ' ' | sed 's/<[^>]*>/ /g' | tr -s ' '; echo
+                fi
+              done
+            done
+            sleep 4
+          done
+          echo "== Özet (taban, kod, adet)"; awk -F'\t' '{print $2, $4}' /tmp/sonuc.tsv | sort | uniq -c
+          echo "== Süre (sn): taban, ortalama, en yavaş 5"
+          for ad in alan worker; do
+            awk -F'\t' -v a=$ad '$2==a {s+=$7; n++} END {printf "%s ort %.2f\n", a, s/n}' /tmp/sonuc.tsv
+            awk -F'\t' -v a=$ad '$2==a {print $7, $3, $4}' /tmp/sonuc.tsv | sort -rn | head -5
+          done
+          echo "== 3 sn üstü istekler"; awk -F'\t' '$7>3 {print}' /tmp/sonuc.tsv | head -40

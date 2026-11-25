@@ -1,0 +1,78 @@
+{
+ "site": "tarim",
+ "kategoriler": [
+  {
+   "name": "Topraklar",
+   "slug": "topraklar",
+   "pageTitle": "Topraklar",
+   "description": "Topraklar",
+   "children": [
+    {
+     "name": "Özel Bitki Toprakları",
+     "slug": "ozel-bitki-topraklari",
+     "pageTitle": "Özel Bitki Toprakları",
+     "description": "Özel bitki toprakları"
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "HG Zeytin Ağacı Toprağı",
+   "marka": "HG",
+   "sku": "HG-ZYT-05L",
+   "kategoriler": [
+    "Özel Bitki Toprakları"
+   ],
+   "fiyat": 249,
+   "etiketler": [
+    "kdv_20"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-zeytin-agaci-topragi.webp"
+   ],
+   "metaData": {
+    "slug": "hg-zeytin-agaci-topragi",
+    "pageTitle": "HG Zeytin Ağacı Toprağı | Tarım Dünyası",
+    "description": "Saksıdaki zeytinde yaprak dökümü ve kök çürümesine karşı pomzalı, süzek hazır toprak. Saksı değişimi adımları ve sulama ipuçları."
+   },
+   "aciklama": "<p>Saksıdaki zeytin yaprak döküyor, uçları kuruyor ya da gövdesi yumuşuyorsa, çoğu zaman sorun toprak ve sulama dengesindedir. Zeytin, güneşi ve kuru havayı sever; köklerinin ıslak kalmasına dayanmaz. HG Zeytin Ağacı Toprağı, bu ihtiyaca göre iri taneli pomza ve humuslu orman toprağıyla hazırlanmış kullanıma hazır saksı toprağıdır. Karıştırma ya da oran hesabı gerekmez.</p>\n<h2>Saksıdaki Zeytin Neden Toprakta Zorlanır?</h2>\n<p>Zeytin Akdeniz iklimine uyumlu, kuraklığa dayanıklı bir ağaçtır. Saksıda ise kökler sınırlı bir hacme sıkışır. Toprak suyu geç bırakırsa kökler havasız kalır ve çürümeye başlar. Saksı tabağında bekleyen su da aynı sonucu doğurur. İri taneli, gözenekli bir toprak, sulama sonrası fazla suyun hızla akmasını ve kök bölgesinin hava almasını sağlar.</p>\n<h2>Karışımın İçinde Ne Var?</h2>\n<ul>\n<li><strong>Longoz orman toprağı (doğal humuslu):</strong> %35, doğal humus ve doku</li>\n<li><strong>Kırmızı pomza lav taşı:</strong> %30, kalıcı hava boşluğu ve süzek yapı</li>\n<li><strong>Sphagnum ham torf:</strong> %20, hafiflik ve nem tutma</li>\n<li><strong>Cocopeat torfu:</strong> %10, dengeli nem ve havalanma</li>\n<li><strong>Solucan gübresi:</strong> %5, organik besin</li>\n</ul>\n<h2>Seçerken Neye Bakmalı?</h2>\n<ul>\n<li><strong>Doku:</strong> gözenekli, sulama sonrası sıkışıp çamurlaşmayan</li>\n<li><strong>Su davranışı:</strong> fazla suyu hızla bırakan</li>\n<li><strong>Saksı:</strong> dibi delikli, ağaçtan bir boy büyük</li>\n</ul>\n<h2>Saksı Değişimi: 4 Adım</h2>\n<ol>\n<li>Zeytini saksıdan dikkatle çıkarın; çürümüş, koyu ve yumuşak kökleri temiz makasla kesin.</li>\n<li>Yeni saksının dibine birkaç santim toprak koyun ve ağacı eski derinliğinde yerleştirin.</li>\n<li>Çevresini toprakla doldurun, hafifçe bastırın ve bol su verin.</li>\n<li>Fazla su aktıktan sonra tabağa koyun; sonraki sulamayı toprağın üst birkaç santimetresi kuruyunca yapın.</li>\n</ol>\n<h2>Paket Boyları</h2>\n<p>5 litre: bir iki saksı için. 10 ve 20 litre: birkaç saksı ya da büyük saksı değişimi için. 40 litre: çok sayıda saksı ve geniş koleksiyonlar için.</p>\n<h2>Kısa Cevaplar</h2>\n<p><strong>Saksıdaki zeytin ne kadar sulanır?</strong> Üst birkaç santimetre kuruyunca; fazla su boşaltılır. Yazın daha sık, kışın daha seyrek.<br><strong>Hangi ışığı ister?</strong> Mümkün olduğunca bol, doğrudan güneş.<br><strong>Kışın ne yapılır?</strong> Saksıdaki ağaç yerdekinden soğuktan daha çok etkilenir; şiddetli soğukta korunaklı bir yere alın.<br><strong>Başka ağaçlara da olur mu?</strong> Benzer isteği olan saksı ağaçlarında kullanılabilir; ürün zeytin için hazırlanmıştır.</p>",
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "20 Lt",
+     "40 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 249,
+     "sku": "HG-ZYT-05L",
+     "stok": 1000
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 349,
+     "sku": "HG-ZYT-10L",
+     "stok": 1000
+    },
+    {
+     "deger": "20 Lt",
+     "fiyat": 549,
+     "sku": "HG-ZYT-20L",
+     "stok": 1000
+    },
+    {
+     "deger": "40 Lt",
+     "fiyat": 1075,
+     "sku": "HG-ZYT-40L",
+     "stok": 1000
+    }
+   ],
+   "stoksuzSat": false
+  }
+ ]
+}

@@ -1,0 +1,932 @@
+### YAZI
+slug: kiraz-hastaliklari
+baslik: Kiraz Hastalıkları: Çiçekte Yanıklık, Yaprakta Delik, Meyvede Çürüklük
+yayin: 2026-11-17 07:15
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: kiraz hastalıkları
+seo_baslik: Kiraz Hastalıkları: Belirtiler ve Kıştan Alınacak Önlemler
+seo_aciklama: Kiraz hastalıkları nasıl tanınır? Monilya, çil, bakteriyel kanser, yaprak lekesi ve meyve çatlaması için belirtiler ve kış budamasından başlayan önlemler.
+ozet: Kirazda çiçeklerin bir anda kuruması, yapraklarda saçma deliği gibi delikler ya da dalda çürüklük farklı hastalıkların işaretidir. En sık görülen kiraz hastalıklarını ve kıştan başlayan önlemleri anlatıyoruz.
+etiketler: kiraz hastalıkları, kiraz ağacı, monilya, çil hastalığı, meyve ağacı bakımı
+gorsel: p5-kiraz-hastalik
+gorsel_alt: Lekeli ve sararmış kiraz yaprakları
+urunler: budama-makasi, florist-mantar-onleyici-bitki-spreyi-250-ml, uzman-2-lt-basincli-el-puskurtucu
+kisaca: En sık görülen kiraz hastalıkları monilya (çiçek ve dal yanıklığı, meyve çürüklüğü), çil (yaprakta saçma deliği), bakteriyel kanser, yaprak lekesi ve külleme ile meyve çatlamasıdır. Hastalıkların çoğu dökülen yapraklarda, mumyalaşmış meyvelerde ve hastalıklı dallarda kışlar. Kış temizliği, doğru budama ve havadar bir taç en etkili önlemlerdir.
+@govde
+Kiraz hastalıkları, bahçesinde kiraz ağacı olanların en çok merak ettiği konuların başında gelir. Bir ilkbahar sabahı bembeyaz açan çiçeklerin birkaç gün içinde kahverengileşip dallarda asılı kaldığını, yaz başında yaprakların saçma tanesiyle vurulmuş gibi delik deşik olduğunu ya da olgunlaşmak üzere olan meyvelerin dalda çürüdüğünü görmek can sıkıcıdır. Bu sorunların çoğu bir gecede ortaya çıkmış gibi görünse de aslında kışın hazırlanır: hastalık etkenleri dökülen yapraklarda, dalda kalan kurumuş meyvelerde ve hastalıklı dallarda kışı geçirir ve ilkbaharın ilk ılık ve yağışlı günlerinde harekete geçer. Bu yüzden kiraz hastalıklarıyla mücadele, yapraklar döküldükten sonra başlar. Bu yazıda en sık görülen hastalıkları tanıtıyor ve kış aylarından itibaren alınabilecek önlemleri anlatıyoruz.
+
+## En sık görülen kiraz hastalıkları
+
+Kiraz, sert çekirdekli meyve ağaçları arasında hastalıklara en hassas türlerden biridir. Aşağıdaki tablo, bahçede karşılaşabileceğiniz başlıca sorunları özetliyor.
+
+| Hastalık | Tipik belirti | Ne zaman görülür? |
+|---|---|---|
+| Monilya | Çiçek ve sürgünlerin aniden kuruması, meyvede kahverengi çürüklük, dalda asılı mumya meyveler | Çiçeklenme ve hasat dönemi |
+| Çil (saçma deliği) | Yapraklarda kırmızımsı kahverengi lekeler, lekelerin düşmesiyle oluşan delikler | İlkbahar ve yaz başı, yağışlı dönemler |
+| Bakteriyel kanser | Dallarda çökük yaralar, zamk akması, tomurcukların kuruması | Kış sonu ve ilkbahar |
+| Yaprak lekesi | Yapraklarda küçük mor lekeler, yaz ortasında erken yaprak dökümü | Yaz |
+| Külleme | Genç yapraklarda beyaz pudra, kıvrılma | Yaz, sıcak ve nemli günler |
+| Meyve çatlaması | Olgunlaşan meyvelerde yarılma | Hasat öncesi yağışlar |
+
+## Monilya: çiçek yanıklığı ve meyve çürüklüğü
+
+Monilya, kirazın en çok verim kaybettiren hastalığıdır. İlkbaharda çiçeklenme döneminde serin ve yağışlı hava olursa, hastalık etkeni çiçeklere yerleşir. Çiçekler kahverengileşip kurur ama dökülmez; dalda asılı kalır. Hastalık çiçek sapından sürgüne geçerek sürgün uçlarının kurumasına ve kuruyan kısmın dibinde zamk akmasına yol açar.
+
+Hasat döneminde ise olgunlaşan meyvelerde kahverengi, yumuşak bir çürüklük başlar; kısa sürede üzerini gri kahverengi küf kümeleri kaplar. Çürüyen meyveler kuruyup büzüşerek mumya hâline gelir ve dalda asılı kalır. Bu mumyalar, ertesi yılın hastalık kaynağıdır. Bu yüzden kışın dalda kalan bütün mumya meyveleri toplamak ve hastalıklı sürgünleri kesmek, monilyayla mücadelenin en önemli adımıdır.
+
+## Çil: yapraktaki saçma delikleri
+
+Çil hastalığında ilkbaharda yapraklarda önce küçük, kırmızımsı kahverengi lekeler belirir. Lekelerin ortasındaki doku zamanla kuruyup düşer ve yaprak, saçma tanesiyle vurulmuş gibi delik deşik görünür. Hastalık tomurcuklarda ve dallarda da küçük yaralar oluşturabilir; meyvelerde ise küçük, çökük lekeler görülür. Etken, tomurcuk pullarında ve dallardaki küçük yaralarda kışı geçirir; ilkbahar yağmurlarıyla yayılır.
+
+## Bakteriyel kanser ve zamk akması
+
+Bakteriyel kanser, özellikle genç kiraz ağaçlarında ciddi kayıplara yol açabilir. Kış sonunda ve ilkbaharda dallarda ve gövdede çökük, koyu renkli yaralar oluşur; bu yaraların çevresinden bol zamk akar. Hastalığın ilerlediği dallarda tomurcuklar açılmaz ve dal kurur. Etken, budama yaralarından, don çatlaklarından ve yaprak izlerinden girer. Zamk akmasının farklı nedenlerini [ağaçta zamk akması](/agacta-zamk-akmasi) yazımızda ayrıntılı olarak anlattık.
+
+## Yaprak lekesi, külleme ve meyve çatlaması
+
+Yaprak lekesi hastalığında yaz aylarında yapraklarda küçük mor lekeler belirir; yapraklar sararır ve yaz ortasında dökülür. Erken yaprak dökümü, ağacın kışa yeterli besin depolayamamasına ve ertesi yıl çiçek tomurcuklarının zayıf olmasına yol açar.
+
+Külleme, sıcak ve nemli yaz günlerinde genç yaprakların üzerinde beyaz bir pudra tabakası olarak görülür. Meyve çatlaması ise bir hastalık değil, olgunlaşan meyvenin kabuğunun yağmur suyunu emerek yarılmasıdır; çatlayan meyveler monilyaya da kapı açar. Küllemenin genel özellikleri için [külleme hastalığı](/kulleme-hastaligi) yazımıza göz atabilirsiniz.
+
+## Kiraz hastalıklarına karşı kış önlemleri
+
+Kiraz hastalıklarının çoğu kışı ağacın üzerinde ya da altında geçirdiği için, kış aylarında yapılan temizlik ertesi yılın hastalık baskısını büyük ölçüde azaltır.
+
+**Yaprakları toplayın:** Yapraklar tamamen döküldükten sonra ağacın altını temizleyin. Hastalıklı yaprakları kompost yığınına değil, bahçeden uzağa ya da çöpe atın.
+
+**Mumya meyveleri toplayın:** Dalda asılı kalan ve yere düşmüş kurumuş meyvelerin hepsini toplayın. Bu küçük iş, monilyanın en büyük kaynağını ortadan kaldırır.
+
+**Hastalıklı dalları kesin:** Kurumuş sürgünleri, zamk akan ve çökük yaraları olan dalları sağlam dokuya kadar kesin. Kesimden sonra makası alkolle silin.
+
+**Doğru zamanda budayın:** Kiraz, budama yaralarına hassastır. Büyük budamaları soğuk ve yağışlı kış ortasında değil, kuru havada, kış sonunda ya da hasattan hemen sonra yapın. Kesimlerin düzgün ve temiz olması yaraların çabuk kapanmasını sağlar.
+
+[ürün:budama-makasi]
+
+**Gövdeyi koruyun:** Genç ağaçlarda sonbaharda gövdeye yapılan badana, don çatlaklarını ve dolayısıyla hastalıkların girebileceği yaraları azaltır. Bunun nasıl yapılacağını [ağaç gövdesine kireç badanası](/agac-govdesine-kirec-badanasi) yazımızda bulabilirsiniz.
+
+## İlkbahar ve yaz önlemleri
+
+Tacın havadar olması, yaprakların ve çiçeklerin yağmurdan sonra çabuk kurumasını sağlar ve hastalık riskini azaltır. Sık ve içe doğru büyüyen dalları seyreltin. Ağacın altına yağmurlama ile sulama yapmak yerine suyu doğrudan toprağa verin. Aşırı azotlu gübrelemeden kaçının; yumuşak ve sulu sürgünler hastalıklara daha açıktır.
+
+Hastalık baskısının yüksek olduğu bahçelerde, çiçeklenme öncesinde ve yaprak dökümünde yapılan koruyucu uygulamalar önem kazanır. Bu uygulamalar için bitkiler için geliştirilmiş ürünleri etiket talimatına uygun kullanın; ticari bahçelerde ise bölgenizdeki tarım müdürlüğünün uyarı ve önerilerini takip edin. Küçük ağaçlarda ve genç fidanlarda uygulamayı kolaylaştırmak için orta boy bir el püskürtücü yeterlidir.
+
+[ürün:florist-mantar-onleyici-bitki-spreyi-250-ml]
+
+## Kiraz ağacını güçlü tutmak
+
+Sağlıklı ve dengeli beslenen bir ağaç, hastalıklara karşı daha dirençlidir. Kışın ağaç dibine verilen organik gübre, ilkbaharda ağacın güçlü bir başlangıç yapmasını sağlar; bunun ayrıntılarını [kış gübrelemesi](/kis-gubrelemesi) yazımızda anlattık. Kiraz su biriken topraklara hiç dayanamaz; ağır ve ıslak topraklarda kök sorunları ve zamklanma çok daha sık görülür.
+
+Yaz aylarında kuraklık stresi yaşayan ağaçlar da hastalıklara açık hâle gelir. Uzun kurak dönemlerde ağaca ara sıra derin bir sulama yapmak, ancak hasat öncesinde aşırı sulamadan kaçınmak, hem ağacın sağlığını korur hem de meyve çatlamasını azaltır.
+
+Kiraz hastalıkları korkutucu görünse de çoğu düzenli bir bahçe hijyeniyle kontrol altına alınabilir. Bu kış ağacınızın altını temizleyip mumya meyveleri toplar ve hastalıklı dalları keserseniz, ilkbaharda çok daha sağlıklı bir çiçeklenmeyle karşılaşırsınız. Meyve vermeyen ağaçların diğer nedenleri için [meyve ağacı neden meyve vermez](/meyve-agaci-neden-meyve-vermez) yazımıza göz atabilirsiniz.
+@sss
+S: En sık görülen kiraz hastalıkları nelerdir?
+C: Monilya, çil (yaprakta saçma deliği), bakteriyel kanser, yaprak lekesi ve külleme en sık görülen hastalıklardır. Hasat öncesi yağışlarla görülen meyve çatlaması da önemli bir sorundur.
+
+S: Kiraz çiçekleri neden aniden kurur?
+C: Çiçeklenme döneminde serin ve yağışlı hava olursa monilya çiçeklere yerleşir; çiçekler kahverengileşip kurur ve dalda asılı kalır. Hastalık sürgünlere de geçebilir.
+
+S: Kiraz yapraklarındaki delikler nedir?
+C: Yapraklarda önce kırmızımsı kahverengi lekeler oluşup ortaları düşüyorsa bu çil hastalığıdır. Yaprak saçma tanesiyle vurulmuş gibi delikli görünür.
+
+S: Kiraz hastalıklarına karşı kışın ne yapılır?
+C: Dökülen yapraklar toplanır, dalda ve yerde kalan mumya meyveler uzaklaştırılır, hastalıklı ve zamk akan dallar kesilir, budama kuru havada yapılır ve genç ağaçların gövdesi badanayla korunur.
+
+### YAZI
+slug: agac-asilama-yontemleri
+baslik: Ağaç Aşılama Yöntemleri: Kalem Almaktan Göz Aşısına Adım Adım
+yayin: 2026-11-17 08:35
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: ağaç aşılama
+seo_baslik: Ağaç Aşılama Yöntemleri: Ne Zaman, Nasıl Yapılır?
+seo_aciklama: Ağaç aşılama nasıl yapılır? Kışın kalem alma ve saklama, yarma, kakma, dilcikli ve göz aşısı, doğru zaman, anaç-kalem uyumu ve aşıdan sonra bakım.
+ozet: Aşılama, bir ağacın meyve çeşidini değiştirmenin, yaşlı bir ağacı gençleştirmenin ve sevdiğiniz bir çeşidi çoğaltmanın en eski yoludur. Kışın kalem almaktan ilkbahar ve yaz aşılarına kadar temel yöntemleri anlatıyoruz.
+etiketler: ağaç aşılama, aşı yöntemleri, göz aşısı, yarma aşı, meyve ağacı
+gorsel: p5-asilama
+gorsel_alt: Yarma aşıyla aşılanmış ağaçta kaynamış aşı yeri
+urunler: budama-makasi, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Ağaç aşılama, istenen çeşitten alınan kalemin ya da gözün başka bir ağaca, yani anaca yerleştirilip kaynaştırılmasıdır. Kalemler kışın alınıp serin ve nemli saklanır. Yarma, kakma ve dilcikli aşılar ilkbaharda, göz aşıları ilkbaharda ya da yaz sonunda yapılır. Başarı için kambiyum katmanları çakışmalıdır.
+@govde
+Ağaç aşılama, bahçecilikte yüzyıllardır uygulanan ve hâlâ en çok merak edilen işlerden biridir. Bahçenizdeki verimsiz bir ağacı lezzetli bir çeşide çevirmek, tek bir ağaçta birden fazla meyve çeşidi yetiştirmek, komşunuzun bahçesindeki eşsiz armudu kendi bahçenize taşımak ya da tohumdan çıkmış bir fidanı verimli bir ağaca dönüştürmek, aşılamayla mümkündür. İlk bakışta ustalık isteyen bir iş gibi görünse de temel prensibi anladığınızda ve biraz pratik yaptığınızda evde de başarıyla uygulanabilir. Kış ayları ise aşılamanın ilk adımı olan kalem almanın tam zamanıdır. Bu yazıda aşılamanın nasıl çalıştığını, kalemlerin nasıl alınıp saklanacağını, en yaygın yöntemleri ve aşıdan sonraki bakımı anlatıyoruz.
+
+## Ağaç aşılama nasıl çalışır?
+
+Aşılamada iki bitki parçası birleştirilir: kök sistemini ve gövdeyi oluşturan anaç ile meyve çeşidini belirleyen kalem ya da göz. Bu iki parçanın kaynaşabilmesi için, kabuğun hemen altındaki ince ve canlı doku olan kambiyum katmanlarının birbirine temas etmesi gerekir. Kambiyum, ağacın büyüyen ve yeni doku üreten katmanıdır; iki parçanın kambiyumu üst üste geldiğinde, birkaç hafta içinde yeni dokular oluşur ve iki parça tek bir bitki gibi büyümeye başlar.
+
+Aşılamanın başarısını belirleyen en önemli konu, anaç ile kalemin birbiriyle uyumlu olmasıdır. Genel olarak aynı tür ya da yakın akraba türler birbirine aşılanabilir: elma elmaya, armut armuda ya da ayvaya, kiraz kiraza ya da idris anacına, şeftali, kayısı ve erik birbirlerine çoğunlukla aşılanabilir. Uzak türler arasında aşı tutmaz.
+
+| Kalem | Uyumlu anaçlar (genel) |
+|---|---|
+| Elma | Elma anaçları, yabani elma |
+| Armut | Armut, ahlat, ayva (bazı çeşitlerde ara anaçla) |
+| Kiraz, vişne | Kiraz, vişne, idris |
+| Şeftali, nektarin | Şeftali, badem, bazı erik anaçları |
+| Kayısı | Kayısı, zerdali, erik |
+| Erik | Erik, şeftali |
+| Ceviz | Ceviz |
+| Zeytin | Zeytin, yabani zeytin (delice) |
+
+## Kışın kalem almak ve saklamak
+
+Kalem aşılarında kullanılacak kalemler, ağaç tam dinlenmedeyken, aralık ile şubat arasında alınır. Kalem alacağınız ağacın sağlıklı, hastalıksız ve istediğiniz çeşitten olduğundan emin olun.
+
+Kalemleri bir önceki yılın büyüdüğü, kalem kalınlığında, düz ve sağlıklı sürgünlerden alın. Tomurcukları dolgun ve aralıkları kısa olan sürgünleri seçin. Sürgünün en uç kısmı ve dip kısmı genellikle kullanılmaz; ortadaki bölüm idealdir. Kalemleri 20–30 cm uzunluğunda keserek çeşit adını yazdığınız bir etiketle birlikte demetleyin.
+
+Kalemler aşı zamanına kadar canlı ve uyanmamış olarak saklanmalıdır. En pratik yöntem, kalemleri hafif nemli bir kâğıt havluya ya da talaşa sarıp bir poşete koyarak buzdolabının sebzeliğinde 1–4 °C'de saklamaktır. Kalemlerin kurumamasına ama küflenmemesine de dikkat edin; ara sıra kontrol edin. Meyvelerle aynı bölmede saklamayın; olgunlaşan meyvelerin saldığı gaz tomurcukları uyandırabilir.
+
+Temiz ve keskin bir makas, kalemlerin ezilmeden kesilmesini sağlar. Doğru makası seçmenin ipuçları için [budama makası seçimi](/budama-makasi-secimi) yazımıza göz atabilirsiniz.
+
+[ürün:budama-makasi]
+
+## En yaygın aşı yöntemleri
+
+**Yarma aşı:** Kalın anaçlarda ve yaşlı ağaçların çeşit değiştirilmesinde en çok kullanılan yöntemdir. Anaç dal düz bir şekilde kesilir, ortasından 4–5 cm derinliğinde bir yarık açılır. Alt ucu iki yandan kama şeklinde yontulan bir ya da iki kalem, kambiyumları anacın kabuk altındaki kambiyumuyla çakışacak şekilde yarığın kenarlarına yerleştirilir. Aşı yeri bağlanır ve açıkta kalan yüzeyler aşı macunuyla kapatılır. Genellikle ilkbaharda, tomurcuklar uyanırken yapılır.
+
+**Kakma (kabuk altı) aşı:** Özsu yürüyüp kabuk kolayca kalktığında, ilkbaharda uygulanır. Anaç düz kesilir, kabuk boyuna hafifçe yarılır ve kaldırılır. Tek tarafı uzun bir yüzeyle yontulan kalem, kabuğun altına yerleştirilir ve sıkıca bağlanır. Kalın anaçlarda birkaç kalem birden konabilir.
+
+**Dilcikli (İngiliz) aşı:** Anaç ve kalemin kalınlıklarının aynı olduğu ince dallarda ve fidanlarda kullanılır. Her iki parçaya da eğik kesim ve birbirine geçen birer dilcik açılır, parçalar birleştirilip bantla sarılır. Kaynaşma yüzeyi geniş olduğu için başarı oranı yüksektir. Kış sonunda yapılabilir.
+
+**Göz aşısı (T ya da durgun göz):** Fidanlıkların en çok kullandığı yöntemdir. Kalem yerine tek bir göz (tomurcuk), altındaki ince kabuk parçasıyla birlikte alınır ve anacın kabuğuna açılan T şeklindeki yarığa yerleştirilir. Yaz sonunda (temmuz sonu–eylül) yapılan durgun göz aşısında göz o yıl uyumaz, ertesi ilkbaharda sürer. İlkbaharda yapılan sürgün göz aşısında ise göz aynı yıl büyür.
+
+## Aşının başarısı için ipuçları
+
+Başarılı bir aşının sırrı birkaç temel kurala dayanır. Aletleriniz çok keskin ve temiz olmalıdır; ezilen ve lifli kesimler kaynaşmaz. Kesimleri tek ve düzgün hareketlerle yapın ve kesilen yüzeylere elinizi değdirmeyin. Kambiyum katmanlarının en az bir kenarda tam olarak çakışmasına özen gösterin. Aşı yerini sıkıca sarın; hava almaması ve kurumaması gerekir. Kalemleri ters takmamaya dikkat edin; tomurcuklar her zaman yukarı bakmalıdır.
+
+Hava koşulları da önemlidir. Çok soğuk, yağmurlu ya da kavurucu sıcak günlerde aşı yapmaktan kaçının. Ilık, rüzgârsız ve kuru günler idealdir.
+
+## Aşıdan sonra bakım
+
+Aşıdan sonraki birkaç hafta içinde kalemin tomurcukları kabarmaya ve sürmeye başlarsa aşı tutmuş demektir. Kalemin kuruyup kararması ise aşının tutmadığını gösterir; bu durumda aynı sezonda başka bir yöntemle yeniden denenebilir. Sert çekirdekli ağaçlarda aşı yerinde görülen zamklanmanın nedenleri için [ağaçta zamk akması](/agacta-zamk-akmasi) yazımıza bakabilirsiniz.
+
+Aşı tuttuktan sonra anaçtan çıkan bütün sürgünleri düzenli olarak temizleyin; bu sürgünler ağacın enerjisini çalar ve kalemin gelişimini zayıflatır. Aşı bağını, kalem büyüyüp kabuğa gömülmeye başladığında gevşetin ya da kesin; aksi hâlde bağ boğaz yapar. Genç ve kırılgan kalem sürgünlerini rüzgâra karşı bir çubuğa bağlayın.
+
+Aşılanan ağacın güçlü bir başlangıç yapması için kök bölgesinin sağlıklı olması önemlidir. Kışın ağaç dibine verilen organik gübre ve organik madde, ilkbaharda kalemin hızla gelişmesine yardım eder.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Yaşlı ağaçları aşıyla gençleştirmek
+
+Verimden düşmüş ya da meyvesi beğenilmeyen yaşlı ağaçlar, ana dallarına yapılan yarma ya da kakma aşılarla birkaç yıl içinde yeni bir çeşide çevrilebilir. Bu işlemi bütün ağaçta bir yılda yapmak yerine, ana dalların bir kısmını bir yıl, kalanını ertesi yıl aşılamak, ağacın strese girmesini önler. Yeni dikeceğiniz fidanlar için ise doğru anaç ve çeşit seçimi önemlidir; bunun ayrıntılarını [meyve fidanı dikimi](/meyve-fidani-dikimi) yazımızda anlattık. Aşı yerinin dikimde toprağa gömülmemesi gerektiğini de [tüplü fidan dikimi](/tuplu-fidan-dikimi) yazımızda ayrıntılı olarak bulabilirsiniz.
+
+Ağaç aşılama, sabır ve dikkat isteyen ama sonucunda büyük bir keyif veren bir uğraştır. Bu kış sevdiğiniz bir ağaçtan birkaç kalem alıp buzdolabınızda saklayın; ilkbaharda ilk aşınızın sürdüğünü gördüğünüzde bu işe neden yüzyıllardır bu kadar önem verildiğini kendiniz anlayacaksınız.
+@sss
+S: Ağaç aşılama ne zaman yapılır?
+C: Kalem aşıları (yarma, kakma, dilcikli) ilkbaharda, tomurcuklar uyanıp özsu yürümeye başladığında yapılır. Durgun göz aşısı yaz sonunda, temmuz sonu ile eylül arasında uygulanır. Kalemler ise kışın, aralık–şubat arasında alınır.
+
+S: Aşı kalemi nasıl saklanır?
+C: Kalemler hafif nemli bir kâğıt havluya ya da talaşa sarılıp poşete konur ve buzdolabının sebzeliğinde 1–4 °C'de saklanır. Kurumaması ve küflenmemesi için ara sıra kontrol edilir; meyvelerle aynı bölmede tutulmaz.
+
+S: Her ağaç birbirine aşılanır mı?
+C: Hayır. Aynı tür ya da yakın akraba türler birbirine aşılanabilir. Örneğin elma elmaya, armut armuda ya da ayvaya, kiraz kiraza ya da idrise aşılanır; uzak türler arasında aşı tutmaz.
+
+S: Aşının tuttuğu nasıl anlaşılır?
+C: Birkaç hafta içinde kalemin tomurcukları kabarıp sürmeye başlarsa aşı tutmuştur. Kalemin kuruyup kararması aşının tutmadığını gösterir.
+
+### YAZI
+slug: sus-biberi-bakimi
+baslik: Süs Biberi Bakımı: Rengârenk Meyveleriyle Kışın Pencere Önü
+yayin: 2026-11-17 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: süs biberi
+seo_baslik: Süs Biberi Bakımı: Işık, Sulama, Ömür ve Tohumdan Yetiştirme
+seo_aciklama: Süs biberi nasıl bakılır? Işık, sulama, sıcaklık, meyve dökümünün nedenleri, kışın bakım, tohumdan yetiştirme ve çocuklar ile evcil hayvanlar için uyarılar.
+ozet: Sarıdan mora, kırmızıdan turuncuya dönen minik meyveleriyle süs biberi, sonbahar ve kış aylarının en neşeli saksı bitkilerindendir. Uzun süre canlı kalması için bakımın inceliklerini anlatıyoruz.
+etiketler: süs biberi, saksı çiçekleri, kış bitkileri, biber yetiştirme, pencere önü bitkileri
+gorsel: p5-sus-biberi
+gorsel_alt: Koyu yapraklar arasında kırmızı ve siyah meyveli süs biberi
+urunler: altinvadi-toros-sus-biberi-tohumu, hg-cicek-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini
+kisaca: Süs biberi, küçük ve renkli meyveleri için yetiştirilen bir biber çeşididir. Günde birkaç saat doğrudan güneş alan aydınlık bir pencere, 15–24 °C sıcaklık ve toprağın üst kısmı kurudukça yapılan sulama ister. Meyve ve yaprak dökümü genellikle ışık azlığı, soğuk cereyan ya da düzensiz sulamadan kaynaklanır. Tohumdan kolayca yeniden yetiştirilebilir.
+@govde
+Süs biberi, sonbahar ve kış aylarında çiçekçilerde ve marketlerde en çok göze çarpan saksı bitkilerinden biridir. Koyu yeşil yapraklarının arasında yukarı doğru dikilmiş, krem renginden mora, sarıdan turuncuya ve parlak kırmızıya dönen minik meyveleri, aynı bitkide birkaç rengi bir arada gösterir ve pencere önüne neşeli bir hava katar. Çoğu kişi onu birkaç haftalık bir süs olarak görüp meyveler döküldüğünde atar; oysa doğru bakıldığında aylarca dayanır ve tohumlarından yeni bitkiler yetiştirmek de çok kolaydır. Bu yazıda süs biberinin ışık, su ve sıcaklık isteklerini, meyve dökümünün nedenlerini ve tohumdan yetiştirmeyi anlatıyoruz.
+
+## Süs biberini tanıyalım
+
+Süs biberi, mutfakta kullandığımız biberlerle aynı türden (Capsicum annuum) gelen, küçük ve gösterişli meyveleri için seçilmiş çeşitlerdir. Bitkiler genellikle 20–40 cm boyunda, sık ve toplu bir yapıdadır. Meyveler yukarı doğru dizilir; olgunlaştıkça renk değiştirdiği için aynı anda farklı renkler görülür.
+
+Meyveleri genellikle çok acıdır. Teknik olarak yenilebilir olsalar da süs amaçlı yetiştirilen bitkilerin satış öncesinde hangi uygulamalara maruz kaldığı bilinmediği için yenmemesi en doğrusudur. Küçük çocukların ve evcil hayvanların bu parlak meyvelere ulaşmamasına dikkat edin; acı biber ağız ve gözlerde yanmaya yol açar. Evcil hayvanlarla güvenle bulundurulabilecek bitkiler için [evcil hayvan dostu bitkiler](/evcil-hayvan-dostu-bitkiler) yazımıza göz atabilirsiniz.
+
+## Işık: en önemli ihtiyaç
+
+Bol ışık seven bir bitkidir. Evde günde en az dört beş saat doğrudan güneş alan, güneye ya da batıya bakan bir pencere önü idealdir. Kış aylarında ışık yetersiz kaldığında bitki önce yeni çiçek açmayı bırakır, ardından meyvelerini ve yapraklarını dökmeye başlar. En aydınlık penceredeki yeri bile yetmiyorsa, bitkinin üzerine yerleştirilecek basit bir yetiştirme lambası ömrünü belirgin şekilde uzatır.
+
+Kışın pencere önündeki bitkilerin karşılaştığı sorunlar ve doğru konum için [kışın pencere önündeki bitkiler](/kisin-pencere-onundeki-bitkiler) yazımız yol gösterir.
+
+## Sıcaklık ve cereyan
+
+İdeal sıcaklık 15–24 °C arasıdır. Soğuk cama değen yapraklar ve kapı ya da pencere açıldığında gelen soğuk hava akımı, ani meyve ve yaprak dökümüne yol açar. Kalorifer peteğinin hemen üstü ise havayı kurutur ve kırmızı örümcek gibi zararlıları davet eder. Bitkiyi pencere önünde tutarken camla arasında birkaç santimetre mesafe bırakın ve gece perde ile cam arasında kalmasına izin vermeyin.
+
+## Süs biberi bakımında sulama
+
+Toprağın üst 2 santimetresi kuruduğunda saksının altından su akana kadar sulayın ve tabakta biriken suyu boşaltın. Bitki ne toprağının tamamen kurumasını ne de sürekli ıslak kalmasını sever. Kuraklıkta yapraklar sarkar ve meyveler dökülür; fazla suda ise kökler çürür, alt yapraklar sararır. Kışın ışık azaldığında bitki daha az su tüketir; bu yüzden sulama aralığını kendiliğinden uzatmak gerekir.
+
+Kaloriferli evlerde kuru hava nedeniyle yaprak kenarları kuruyabilir. Saksıyı ıslak çakıllı bir tabağın üzerine koymak ya da diğer bitkilerle gruplamak nemi artırır.
+
+## Toprak ve besleme
+
+Organik maddece zengin, süzek bir saksı toprağı ister. Marketten alınan bitkiler genellikle küçük ve sıkışık saksılarda satılır; bitkiyi uzun süre yaşatmak isterseniz, meyveleri döküldükten sonra bir boy büyük saksıya taze toprakla dikebilirsiniz.
+
+[ürün:hg-cicek-topragi]
+
+Çiçek açıp meyve verdiği dönemde, iki üç haftada bir çiçekli bitkiler için hazırlanmış sıvı bir besin vermek yeni çiçeklerin oluşmasını destekler. Azotu yüksek gübreler bol yaprak ama az meyve verir.
+
+[ürün:florist-cicekli-bitkiler-sivi-konsantre-bitki-besini]
+
+## Meyveler neden dökülür?
+
+Satın aldıktan birkaç gün sonra meyvelerin ve yaprakların dökülmesi çok sık yaşanır. Seradan dükkâna, dükkândan eve taşınan bitki ışık ve sıcaklık değişimine tepki verir. İlk haftalarda birkaç yaprağın ve meyvenin dökülmesi normaldir. Ancak döküm devam ediyorsa şu nedenleri gözden geçirin:
+
+- Yetersiz ışık: En sık neden budur; bitkiyi en aydınlık pencereye taşıyın.
+- Soğuk cereyan ya da ani sıcaklık değişimi
+- Toprağın tamamen kuruması ya da sürekli ıslak kalması
+- Kalorifer başındaki kuru ve sıcak hava
+- Zararlılar: Yaprak altlarını yaprak biti, beyaz sinek ve kırmızı örümcek için kontrol edin.
+
+Yaprak bitiyle mücadelenin doğal yolları için [yaprak biti](/yaprak-biti) yazımıza bakabilirsiniz.
+
+## Hediye olarak süs biberi
+
+Bu bitki, sonbahar ve kış aylarında sevdiklerinize verebileceğiniz neşeli ve ekonomik bir hediyedir. Hediye ederken bitkinin bol ışık isteyen bir bitki olduğunu ve soğuk cereyandan uzak tutulması gerektiğini küçük bir notla eklemek, yeni sahibinin bitkiyi daha uzun süre yaşatmasına yardım eder. Bitkiyi kışın soğuk bir günde taşıyacaksanız, kâğıt ya da naylonla sararak soğuk havadan koruyun; birkaç dakikalık dondurucu soğuk bile yaprak ve meyve dökümüne yol açabilir.
+
+## Çok yıllık bir bitki olarak süs biberi
+
+Biberler doğada çok yıllık bitkilerdir; ancak bu çeşitler genellikle bir mevsimlik bitki olarak satılır. Meyveleri dökülen bitkiyi atmak yerine, dallarını yarı yarıya budayıp aydınlık ve serin bir pencere önünde, az suyla kışlatabilirsiniz. İlkbaharda günler uzayınca yeniden sürer, yaz aylarında balkonda çiçek açar ve sonbaharda yeniden meyve verir. Yine de ikinci yılın bitkileri genellikle ilk yılki kadar toplu olmaz; bu yüzden pek çok kişi her yıl tohumdan yeni bitkiler yetiştirmeyi tercih eder.
+
+## Tohumdan süs biberi yetiştirmek
+
+Kendi süs biberlerinizi tohumdan yetiştirmek oldukça kolaydır. Tohumlar şubat–nisan arasında, ılık bir ortamda (22–26 °C) viyollere ya da küçük saksılara 0,5 cm derinliğe ekilir. Biber tohumları sıcaklığa duyarlıdır ve serin ortamda yavaş çimlenir; kalorifer yakınında ya da ılık bir rafta 1–3 hafta içinde çimlenirler. Fideler birkaç gerçek yaprak çıkardığında ayrı saksılara alınır ve yaz boyunca güneşli bir balkonda yetiştirilir. Yaz sonu ve sonbaharda meyveler renklenmeye başlar.
+
+Kendi bitkinizin olgun meyvelerinden tohum alabilirsiniz; ancak melez çeşitlerin tohumlarından aynı özellikte bitkiler çıkmayabilir. Biber fidesi yetiştirmenin ayrıntıları için [saksıda biber yetiştirme](/saksida-biber-yetistirme) yazımıza göz atabilirsiniz.
+
+Süs biberi, kısa günlerin gri havasını renkleriyle dağıtan küçük bir neşe kaynağıdır. Bol ışık, ölçülü su ve soğuk cereyandan uzak bir köşe verdiğinizde, pencere önünüz kış boyunca rengârenk kalacaktır.
+@sss
+S: Süs biberi ne kadar yaşar?
+C: Genellikle bir mevsimlik bitki olarak satılır ve doğru bakıldığında meyveleri aylarca dayanır. Meyveler döküldükten sonra budanıp aydınlık ve serin bir yerde kışlatılırsa ertesi yıl yeniden sürebilir.
+
+S: Süs biberinin meyveleri neden dökülür?
+C: En sık neden yetersiz ışıktır. Soğuk cereyan, ani sıcaklık değişimi, toprağın kuruması ya da sürekli ıslak kalması, kalorifer başındaki kuru hava ve zararlılar da döküme yol açar.
+
+S: Süs biberi yenir mi?
+C: Meyveleri genellikle çok acıdır. Süs amaçlı yetiştirilen bitkilerin satış öncesi hangi uygulamalara maruz kaldığı bilinmediği için yenmemesi önerilir; çocukların ve evcil hayvanların ulaşmaması gerekir.
+
+S: Süs biberi tohumdan nasıl yetiştirilir?
+C: Tohumlar şubat–nisan arasında, 22–26 °C'lik ılık bir ortamda 0,5 cm derinliğe ekilir. Fideler birkaç gerçek yaprak çıkarınca saksılara alınır, yazı güneşli bir balkonda geçirir ve sonbaharda meyve verir.
+
+### YAZI
+slug: sebze-bahcesi-plani
+baslik: Sebze Bahçesi Planı: Kış Masasında Gelecek Yılın Bahçesini Çizmek
+yayin: 2026-11-17 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: sebze bahçesi planı
+seo_baslik: Sebze Bahçesi Planı: Yerleşim, Ekim Nöbeti ve Takvim
+seo_aciklama: Sebze bahçesi planı nasıl yapılır? Güneş ve su, tarh ölçüleri, ekim nöbeti ve bitki aileleri, arkadaş bitkiler, ardışık ekim, aylık takvim ve tohum listesi.
+ozet: İyi bir sebze bahçesi, ilk tohum toprağa düşmeden çok önce, kışın bir kâğıdın üzerinde başlar. Gelecek yılın bahçesini planlarken nelere dikkat edeceğinizi adım adım anlatıyoruz.
+etiketler: sebze bahçesi planı, ekim nöbeti, bahçe tasarımı, sebze yetiştirme, ekim takvimi
+gorsel: p5-sebze-plan
+gorsel_alt: Ahşap yükseltilmiş yataklara ayrılmış sebze bahçesi
+urunler: moduler-yukseltilmis-bahce-yatagi-198-litre, solucan-gubreli-sebze-topragi, hasturk-kati-solucan-gubresi
+kisaca: Sebze bahçesi planı yaparken önce güneş alan, suya yakın ve rüzgârdan korunaklı bir alan seçilir. Tarhlar ortadan ulaşılabilecek genişlikte (en fazla 120 cm) çizilir. Sebzeler aile gruplarına ayrılıp her yıl yer değiştirerek ekim nöbeti uygulanır; uzun ve kısa süreli ürünler, arkadaş bitkiler ve ardışık ekimle alan en verimli şekilde kullanılır.
+@govde
+Sebze bahçesi planı, bahçeciliğin en keyifli ama en çok ihmal edilen işidir. Çoğumuz ilkbaharın ilk ılık günlerinde fidelikten aldığımız fideleri bahçenin boş bir köşesine dikeriz; yaz ortasında domatesler fasulyelerin üzerine devrilir, kabaklar yolları kapatır, güneş sevmeyen marul en sıcak köşede yanar ve bir sonraki yıl hangi sebzeyi nereye diktiğimizi hatırlamayız. Oysa kışın birkaç saatinizi ayırarak çizeceğiniz basit bir plan, aynı alandan çok daha fazla ürün almanızı, hastalık ve zararlıları azaltmanızı ve bahçede geçirdiğiniz zamanı daha keyifli hâle getirmenizi sağlar. Bahçenin dinlendiği bu aylar, kâğıt kalemi alıp gelecek yılı düşünmek için en uygun zamandır. Bu yazıda bir sebze bahçesini adım adım nasıl planlayacağınızı anlatıyoruz.
+
+## 1. Yeri tanıyın
+
+Planın ilk adımı, bahçenizi tanımaktır. Bahçenizin basit bir krokisini çizin ve şu bilgileri üzerine işaretleyin:
+
+**Güneş:** Sebzelerin çoğu günde en az 6–8 saat doğrudan güneş ister. Bahçenizin hangi kısımlarının sabah, öğle ve akşam güneş aldığını, hangi kısımların binalar ve ağaçlar yüzünden gölgede kaldığını not edin. Kışın gölge alanların yazdan daha geniş olduğunu unutmayın.
+
+**Su:** Musluğun ya da su kaynağının yerini işaretleyin. Sık sulama isteyen sebzeleri suya yakın tarhlara yerleştirmek işinizi kolaylaştırır.
+
+**Rüzgâr ve eğim:** Hâkim rüzgâr yönünü ve arazinin eğimini not edin. Soğuk havanın biriktiği çukur alanlar ilkbaharda donlara daha açıktır.
+
+**Toprak:** Toprağın farklı kısımlarında su birikip birikmediğini, taşlık ya da çok killi yerler olup olmadığını gözlemleyin.
+
+## 2. Tarhları çizin
+
+Sebzeleri geniş bir alana dağınık şekilde dikmek yerine, belirli tarhlar ve aralarında kalıcı yollar oluşturmak çok daha verimlidir. Tarhların genişliği, iki taraftan da ortasına basmadan ulaşabileceğiniz kadar olmalıdır; bu genellikle 100–120 cm'dir. Duvar kenarındaki tarhlarda bu ölçü 60–70 cm'ye iner. Yollar en az 40–50 cm genişliğinde olmalı; el arabasıyla geçecekseniz daha geniş tutulmalıdır.
+
+Tarhlara basmamak, toprağın sıkışmasını önler ve toprak yıllar içinde daha gevşek ve verimli hâle gelir. Sıkışmış toprakların sorunları için [toprak sıkışması](/toprak-sikismasi) yazımıza göz atabilirsiniz.
+
+Toprağı ağır, taşlık ya da su tutan bahçelerde ve balkon ile teraslarda yükseltilmiş yataklar, planlamayı çok kolaylaştırır; her yatak bir planlama birimi olarak kullanılabilir. Kurulumun ayrıntılarını [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazımızda anlattık.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-198-litre]
+
+## 3. Ne yetiştireceğinize karar verin
+
+Planınızı, ailenizin gerçekten yediği sebzelere göre yapın. Bir liste hazırlayın ve her sebzeden kaç bitkiye ihtiyacınız olduğunu düşünün. Örneğin dört kişilik bir aile için 6–8 domates, 4–6 biber, 2–3 patlıcan ve 2 kabak bitkisi bir yaz boyunca genellikle yeterlidir. Kabak ve domates gibi bol ürün veren sebzelerde fazla bitki dikmek, yaz ortasında ne yapacağınızı bilemediğiniz bir hasada yol açar.
+
+Pazardan kolayca bulabildiğiniz ucuz sebzeler yerine, taze toplandığında farkı hissedilen sebzelere öncelik vermek de mantıklıdır: ata tohumu domatesler, taze bezelye, körpe fasulye, salatalık ve yeşillikler bunların başında gelir.
+
+## 4. Sebze bahçesi planında ekim nöbeti
+
+Aynı sebzeyi ya da aynı aileden sebzeleri her yıl aynı yere ekmek, topraktaki belirli besinlerin tükenmesine ve o aileye özgü hastalık ve zararlıların birikmesine yol açar. Ekim nöbeti, sebzeleri aile gruplarına ayırıp her yıl farklı tarhlara kaydırmaktır.
+
+| Grup | Sebzeler | Not |
+|---|---|---|
+| Patlıcangiller | Domates, biber, patlıcan, patates | Bol besin ister, aynı yere 3–4 yıl ekilmemeli |
+| Baklagiller | Fasulye, bezelye, bakla, nohut | Toprağa azot kazandırır |
+| Lahanagiller | Lahana, karnabahar, brokoli, turp, roka | Bol azot ister, baklagillerden sonra iyi gelir |
+| Kök ve soğanlar | Havuç, pancar, soğan, sarımsak, pırasa | Az gübre ister |
+| Kabakgiller | Kabak, salatalık, kavun, karpuz | Çok yer kaplar, bol organik madde ister |
+
+Basit bir dört yıllık düzende tarhları dörde ayırır ve her yıl grupları bir tarh kaydırırsınız. Örneğin bu yıl patlıcangillerin bulunduğu tarha gelecek yıl baklagiller, ondan sonraki yıl lahanagiller, dördüncü yıl kök sebzeler ekilir. Planınızın bir kopyasını her yıl saklamak, bu döngüyü takip etmeyi kolaylaştırır.
+
+## 5. Uzun ve kısa süreli ürünleri birleştirin
+
+Bazı sebzeler tarhı bütün sezon boyunca kaplar: domates, biber, patlıcan, kabak ve lahana gibi. Bazıları ise birkaç haftada hasat edilir: turp, roka, marul ve ıspanak gibi. Planlarken hızlı yetişen sebzeleri yavaş yetişenlerin arasına ya da onlar büyümeden önceki boşluklara ekleyebilirsiniz. İlkbaharda domates fidelerinin arasına ekilen turplar, domatesler büyüyüp alanı kapatmadan hasat edilir.
+
+Ardışık ekim de alanın verimliliğini artırır: marul ve turp gibi sebzeleri bir seferde değil, iki üç haftada bir az az ekmek, hem sürekli taze ürün almanızı sağlar hem de bir anda fazla hasat olmasını önler. İlkbahar sebzeleri bittikten sonra boşalan yerlere yaz sonunda kışlık sebzeler ekilebilir; hangi sebzelerin kışa uygun olduğunu [kışlık sebzeler listesi](/kislik-sebzeler-listesi) yazımızda bulabilirsiniz.
+
+## 6. Arkadaş bitkileri ve çiçekleri unutmayın
+
+Bazı bitkiler birbirinin yanında daha iyi gelişir ya da zararlıları uzak tutar. Domatesin yanına fesleğen, lahanaların arasına kadife çiçeği, havucun yanına soğan gibi eşleştirmeler planınıza kolayca eklenebilir. Tarh kenarlarına ekilecek birkaç çiçek, tozlayıcı böcekleri ve zararlıların doğal düşmanlarını bahçeye çeker. Ayrıntılar için [arkadaş bitkiler](/arkadas-bitkiler) yazımıza göz atabilirsiniz.
+
+## 7. Takvimi çıkarın
+
+Planın son adımı, bir ekim ve dikim takvimi hazırlamaktır. Hangi sebzenin tohumunun ne zaman ekileceğini, fidelerin ne zaman dikileceğini ve tahmini hasat zamanını bir tabloya yazın. Böylece kış sonunda hangi tohumları ekmeye başlamanız gerektiğini, ilkbaharda hangi fideleri hazırlamanız gerektiğini önceden bilirsiniz. Sebzeler arasında bırakılması gereken mesafeler için [sebze ekim aralıkları](/sebze-ekim-araliklari) yazımız yol gösterir.
+
+Kış ayları ayrıca toprağı hazırlamak için de uygundur. Boş tarhlara yanmış ahır gübresi, kompost ya da solucan gübresi serip üzerini malçla örtmek, ilkbaharda ekime hazır, canlı bir toprak demektir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Yükseltilmiş yataklar ve saksılar için ise sebzeye uygun, besince zengin hazır karışımlar işinizi kolaylaştırır.
+
+## Küçük bir başlangıç yapın
+
+İlk kez sebze bahçesi kuruyorsanız, büyük bir alanla başlamak yerine birkaç tarhla başlamak en doğrusudur. İyi bakılan küçük bir bahçe, bakımı yetişmeyen büyük bir bahçeden hem daha verimli hem de daha keyiflidir. Her yıl planınızı biraz geliştirin; neyin işe yaradığını, neyin yaramadığını not edin.
+
+Sebze bahçesi planı, aslında bahçenizle yaptığınız bir sohbettir. Kışın kâğıda döktüğünüz bu sohbet, yazın sofranıza gelen her sepet sebzede karşılığını verir.
+@sss
+S: Sebze bahçesi planı nasıl yapılır?
+C: Önce bahçenin güneş, su, rüzgâr ve toprak durumu krokiye işlenir. Ardından tarhlar çizilir, yetiştirilecek sebzeler belirlenir, aile gruplarına göre ekim nöbeti planlanır ve bir ekim takvimi hazırlanır.
+
+S: Sebze tarhı ne genişlikte olmalı?
+C: İki taraftan ortasına basmadan ulaşılabilecek genişlikte, genellikle 100–120 cm olmalıdır. Duvar kenarındaki tarhlarda 60–70 cm yeterlidir; yollar en az 40–50 cm tutulmalıdır.
+
+S: Ekim nöbeti nedir?
+C: Sebzeleri patlıcangiller, baklagiller, lahanagiller, kök sebzeler ve kabakgiller gibi aile gruplarına ayırıp her yıl farklı tarhlara kaydırmaktır. Topraktaki besin dengesini korur, hastalık ve zararlı birikimini azaltır.
+
+S: Sebze bahçesi ne zaman planlanmalı?
+C: En uygun zaman kış aylarıdır. Bahçe boşken plan yapmak, tohum ve fide ihtiyacını önceden belirlemeyi ve toprağı ilkbahara hazırlamayı sağlar.
+
+### YAZI
+slug: keman-yaprakli-ficus
+baslik: Keman Yapraklı Ficus: Dev Yapraklı Salon Ağacını Mutlu Etmenin Yolları
+yayin: 2026-11-17 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: keman yapraklı ficus
+seo_baslik: Keman Yapraklı Ficus Bakımı: Işık, Su ve Yaprak Dökümü
+seo_aciklama: Keman yapraklı ficus nasıl bakılır? Ficus lyrata için ışık, sulama, yer değiştirme, kahverengi lekeler ve yaprak dökümü, toprak, saksı ve yaprak temizliği.
+ozet: Keman gövdesine benzeyen iri ve parlak yapraklarıyla Ficus lyrata, salonların en gösterişli bitkilerindendir; ama yer değişikliğine ve düzensiz suya hassastır. Bakımının sırlarını anlatıyoruz.
+etiketler: keman yapraklı ficus, ficus lyrata, salon bitkileri, büyük salon bitkileri, yaprak dökümü
+gorsel: p5-keman-ficus
+gorsel_alt: Keman yapraklı ficusun iri ve dalgalı yaprakları
+urunler: kaucuk-agaci-topragi, florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini, chrysamed-subon-bitki-yaprak-bakim-spreyi-500-ml
+kisaca: Keman yapraklı ficus (Ficus lyrata) bol ve parlak dolaylı ışık, sabit bir yer ve toprağın üst 3–5 cm'si kuruduğunda yapılan derin sulama ister. Sık yer değiştirme, soğuk cereyan ve düzensiz sulama yaprak dökümüne yol açar. Kahverengi lekeler çoğunlukla fazla sudan ya da kuraklıktan kaynaklanır. Süzek bir toprak ve drenaj delikli saksı şarttır.
+@govde
+Keman yapraklı ficus, son yıllarda dekorasyon dergilerinin ve sosyal medyanın en sevilen bitkisi oldu. Bir kemanın gövdesini andıran, kalın, parlak ve damarları belirgin iri yaprakları, bir salonu tek başına doldurabilecek kadar etkileyicidir. Ancak bu gösterişli bitki, kolay bakılan bir bitki olarak bilinmez; eve geldikten birkaç hafta sonra yapraklarını dökmeye başlaması, yapraklarında kahverengi lekeler belirmesi pek çok bitki severin karşılaştığı bir durumdur. İşin sırrı, bitkinin neyi sevmediğini bilmekte saklıdır: değişiklik. Doğru yeri bulup alışkanlıklarını oturttuğunuzda, yıllarca büyüyen ve tavana uzanan bir salon ağacına dönüşür. Bu yazıda ışıktan suya, toprak seçiminden sorunların çözümüne kadar bakımın bütün inceliklerini anlatıyoruz.
+
+## Keman yapraklı ficusu tanıyalım
+
+Ficus lyrata, Batı Afrika'nın tropik ormanlarından gelen ve doğada 12–15 metreye kadar boylanabilen bir incir türüdür. Doğada genellikle ormanın açık kenarlarında, bol ışık alan yerlerde büyür. Evde ise genellikle 1,5–3 metre boyunda kalır ve yılda birkaç yeni yaprak çıkararak yavaş yavaş büyür.
+
+Kauçuk ağacı ve benjamin ile aynı cinsten olduğu için bakım istekleri de benzerdir; ancak yer değişikliğine ve sulama düzensizliğine daha hassastır. Yakın akrabalarının bakımı için [kauçuk ağacı bakımı](/kaucuk-agaci-bakimi) ve [benjamin yaprak dökmesi](/benjamin-yaprak-dokmesi) yazılarımıza göz atabilirsiniz.
+
+## Işık: bol ve dolaylı
+
+Bu bitkinin en temel ihtiyacı bol ışıktır. Gün boyunca parlak ışık alan, tercihen doğu ya da batıya bakan büyük bir pencerenin yakını idealdir. Güney pencerelerinde, yaz öğle saatlerinde camın arkasından gelen yoğun güneş yapraklarda yanıklara yol açabilir; tül perde bu ışığı yumuşatır. Kuzey pencerelerinde ve odanın iç kısımlarında ise ışık genellikle yetersiz kalır.
+
+Yetersiz ışıkta bitki yeni yaprak çıkarmaz, alt yapraklarını döker ve ışığa doğru eğilir. Bitkiyi ayda bir çeyrek tur döndürmek, her tarafının eşit ışık almasını ve dik büyümesini sağlar. Kış aylarında ışık azaldığında bitkiyi pencereye biraz daha yaklaştırmak gerekebilir; ama soğuk camla temas etmemesine dikkat edin.
+
+## Sabit bir yer: en önemli kural
+
+Keman yapraklı ficus, yer değiştirmeyi hiç sevmez. Yeni bir eve, yeni bir odaya ya da yeni bir ışık koşuluna taşınan bitki, çoğu zaman tepki olarak birkaç yaprağını döker. Eve yeni geldiğinde birkaç yaprak kaybetmesi normaldir; önemli olan uygun yeri bulduktan sonra bitkiyi orada bırakmaktır.
+
+Soğuk cereyan ve ani sıcaklık değişimleri de aynı etkiyi yapar. Kapı ve pencere önleri, klima ve kalorifer peteklerinin doğrudan hava üflediği yerler bu bitki için uygun değildir. İdeal sıcaklık 16–24 °C arasıdır; 12 °C'nin altındaki sıcaklıklar yaprak dökümüne yol açar.
+
+## Sulama: derin ama seyrek
+
+Toprağın üst 3–5 santimetresi kuruduğunda, saksının altından su akana kadar bol su verin ve tabakta biriken suyu 15–20 dakika sonra boşaltın. Ardından toprağın yeniden kurumasını bekleyin. Az ve sık sulama, köklerin sürekli ıslak kalmasına ve çürümesine yol açar; uzun süre susuz bırakmak ise yaprakların sarkıp dökülmesine neden olur.
+
+Yazın genellikle haftada bir, kışın ise 10–15 günde bir sulama yeterlidir; ama her zaman takvime değil toprağa bakarak karar verin. Oda sıcaklığındaki, mümkünse bir gün bekletilmiş suyu tercih edin. Fazla suyun belirtileri ve susuzluktan farkı için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazımıza göz atabilirsiniz.
+
+## Toprak ve saksı
+
+Keman yapraklı ficus, süzek, havadar ve organik maddece zengin bir toprak ister. Ağır ve su tutan topraklar kök çürümesine yol açar. Ficus türleri için hazırlanmış bir karışım ya da kaliteli bir saksı toprağına perlit ve kabuk eklenmiş bir karışım idealdir.
+
+[ürün:kaucuk-agaci-topragi]
+
+Saksı mutlaka drenaj delikli olmalıdır. Bitki saksısında biraz sıkışık durmayı sever; iki üç yılda bir, ilkbaharda kökler saksıyı doldurduğunda yalnızca bir boy büyük saksıya alınmalıdır. Çok büyük bir saksı, toprağın uzun süre ıslak kalmasına neden olur. Saksı değişiminin incelikleri için [saksı değiştirme rehberi](/saksi-degistirme-rehberi) yazımız yol gösterir.
+
+## Besleme
+
+İlkbahar ve yaz aylarında, ayda bir kez yeşil yapraklı bitkiler için hazırlanmış sıvı bir besin vermek, yeni yaprakların iri ve parlak çıkmasını destekler. Sonbahar ve kış aylarında, ışık azaldığında gübreleme durdurulur.
+
+[ürün:florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini]
+
+## Yaprak temizliği
+
+Geniş yapraklar zamanla toz tutar; tozlu yapraklar daha az ışık alır ve bitki zayıflar. Ayda bir yaprakları nemli, yumuşak bir bezle silin. Bunu yaparken yaprağın altını bir elinizle destekleyin; iri yapraklar kolayca kırılabilir. Yaprak parlatıcı ürünler kullanacaksanız bitkiler için hazırlanmış, gözenekleri tıkamayan ürünleri tercih edin. Doğru temizlik yöntemleri için [bitki yaprakları nasıl temizlenir](/bitki-yapraklari-nasil-temizlenir) yazımıza göz atabilirsiniz.
+
+## Sık görülen sorunlar
+
+| Belirti | Olası neden |
+|---|---|
+| Alt yaprakların dökülmesi | Yetersiz ışık, yer değişikliği, soğuk cereyan |
+| Yaprak ortasında ve kenarlarında koyu kahverengi lekeler | Fazla su ve kök çürümesi |
+| Yaprak kenarlarından başlayan açık kahverengi kuruma | Kuraklık ya da çok kuru hava |
+| Yeni yaprakların küçük çıkması | Işık ya da besin yetersizliği |
+| Yapraklarda küçük kırmızı noktalar (genç yapraklarda) | Çoğu zaman normal; su dengesindeki değişimlerle ilgili |
+| Yaprak altlarında ince ağlar | Kırmızı örümcek |
+
+Kahverengi lekeleri gördüğünüzde önce toprağı kontrol edin: toprak ıslak ve ağırsa sulamayı azaltın ve kökleri gözden geçirin; kuru ise sulama düzeninizi gözden geçirin. Lekelenen yapraklar eski hâline dönmez; ama doğru bakımla yeni yapraklar sağlıklı çıkar.
+
+## Dallandırmak ve şekil vermek
+
+Keman yapraklı ficus genellikle tek gövdeli olarak büyür. Daha dallı ve ağaç gibi bir görünüm istiyorsanız, ilkbaharda tepe sürgününü kesmek, alttaki gözlerden yan dallar çıkmasını teşvik eder. Kesim yerinden beyaz ve yapışkan bir öz su akar; bu öz su cilde ve gözlere tahriş edici olabileceği için eldiven kullanın. Kesilen sürgün suda ya da nemli toprakta köklendirilerek yeni bir bitki elde edilebilir.
+
+Keman yapraklı ficus, bir kez yerini ve düzenini bulduğunda size yıllarca eşlik eden bir salon ağacıdır. Bol dolaylı ışık, sabit bir köşe ve dengeli bir sulama; bu üç kurala sadık kaldığınızda, her yeni yaprağı bir öncekinden daha büyük ve parlak çıkacaktır. Büyük salon bitkileri arasında farklı seçenekler arıyorsanız [monstera bakımı](/monstera-deve-tabani-bakimi) yazımıza da göz atabilirsiniz.
+@sss
+S: Keman yapraklı ficus neden yaprak döker?
+C: En sık nedenleri yer değişikliği, yetersiz ışık, soğuk cereyan ve düzensiz sulamadır. Eve yeni gelen bitkinin birkaç yaprak dökmesi normaldir; uygun yer bulunduktan sonra bitki orada bırakılmalıdır.
+
+S: Keman yapraklı ficus ne sıklıkla sulanır?
+C: Toprağın üst 3–5 cm'si kuruduğunda saksının altından su akana kadar sulanır. Yazın genellikle haftada bir, kışın 10–15 günde bir yeterlidir; ama karar her zaman toprağa bakarak verilmelidir.
+
+S: Keman yapraklı ficusun yapraklarında neden kahverengi lekeler olur?
+C: Yaprak ortasında ve kenarlarında koyu kahverengi lekeler çoğunlukla fazla su ve kök çürümesinden, kenarlardan başlayan açık kahverengi kuruma ise kuraklık ya da çok kuru havadan kaynaklanır.
+
+S: Keman yapraklı ficus nereye konmalı?
+C: Gün boyu parlak dolaylı ışık alan, tercihen doğu ya da batıya bakan bir pencerenin yakınına konmalıdır. Kapı önleri, cereyanlı yerler, klima ve kalorifer peteklerinin önü uygun değildir.
+
+### YAZI
+slug: toprak-su-cekmiyor
+baslik: Toprak Su Çekmiyor mu? Saksıda Suyu İten Kuru Toprağı Kurtarmak
+yayin: 2026-11-17 13:45
+yazar: Muhammed Hamza Çelik
+kategori: toprak-rehberi
+odak: toprak su çekmiyor
+seo_baslik: Toprak Su Çekmiyor: Nedenleri ve Saksıda Çözüm Yolları
+seo_aciklama: Toprak su çekmiyor mu? Suyun kenardan akıp gitmesi, kuruyunca suyu iten torf, sıkışma ve kök sarması nedenleri; dipten sulama ve kalıcı çözümler.
+ozet: Suladığınız su saksının kenarından hızla akıp gidiyor, toprak ise kuru kalıyorsa sorun toprağın suyu itmesidir. Bunun nedenlerini ve toprağı yeniden su tutar hâle getirmenin yollarını anlatıyoruz.
+etiketler: toprak su çekmiyor, saksı toprağı, torf, sulama sorunları, saksı bitkileri
+gorsel: p5-kuru-toprak
+gorsel_alt: Kuruyup çatlamış toprak yüzeyi
+urunler: genel-saksi-topragi-ozel-karisim, cocopeat-hindistan-cevizi-torfu-5-kg, hasturk-humix-sivi-humik-asit
+kisaca: Toprak su çekmiyorsa genellikle torf bazlı karışım tamamen kuruyup suyu iten bir yapı kazanmış, saksı kenarından çekilmiş ya da sıkışmıştır. Su kenardan akıp gider, kök topu kuru kalır. Saksıyı 20–30 dakika su dolu bir kaba oturtarak dipten sulamak toprağı yeniden ıslatır. Kalıcı çözüm, toprağı tamamen kurutmamak ve gerekirse yenilemektir.
+@govde
+Toprak su çekmiyor sorunu, saksı bitkisi yetiştiren hemen herkesin bir gün karşılaştığı ama çoğu zaman fark edilmeyen bir durumdur. Bitkinizi bol bol sularsınız, su birkaç saniye içinde saksının altından akıp tabağa dolar; siz de toprağın iyice ıslandığını düşünürsünüz. Oysa birkaç gün sonra bitki susuz kalmış gibi sarkar. Saksıyı kaldırdığınızda hafif olduğunu, toprağın kenarlardan ayrılıp içinin tamamen kuru kaldığını görürsünüz. Yani su toprağa girmemiş, toprağın kenarından ve çatlaklarından süzülüp gitmiştir. Bu durum, kalorifer yanan kuru evlerde ve sulama aralığının uzadığı kış aylarında daha sık görülür. Bu yazıda toprağın neden suyu ittiğini, bunu nasıl anlayacağınızı ve hem anında hem kalıcı olarak nasıl çözeceğinizi anlatıyoruz.
+
+## Toprak neden su çekmez?
+
+Bu sorunun birkaç farklı nedeni olabilir ve çoğu zaman bunlar bir arada görülür:
+
+**Torfun tamamen kuruması:** Saksı topraklarının çoğu torf ya da kokopit içerir. Torf nemliyken suyu bir sünger gibi emer; ama tamamen kuruduğunda yüzeyi suyu iten bir yapı kazanır. Kurumuş torfun üzerine dökülen su, içine girmek yerine üzerinden kayar ve en kolay yolu bularak kenardan akıp gider.
+
+**Toprağın saksıdan ayrılması:** Kuruyan toprak büzüşür ve saksının kenarlarından çekilir. Arada oluşan boşluk, suyun doğrudan saksının dibine inmesi için bir kanal görevi görür.
+
+**Sıkışma:** Yıllar içinde ayrışan ve ufalanan toprak sıkışır, gözenekleri kapanır. Sıkışmış toprağın yüzeyine dökülen su, içeri sızamadan yüzeyde birikir ya da kenarlardan akar.
+
+**Kök sarması:** Kökler saksının içini tamamen doldurduğunda toprak neredeyse kalmaz. Yoğun kök kütlesi suyu tutamaz; su hızla geçip gider.
+
+**Yüzeyde kabuk:** Musluk suyundaki kireç ve gübre tuzları zamanla toprak yüzeyinde sert bir kabuk oluşturabilir. Bu kabuk da suyun toprağa girmesini zorlaştırır.
+
+## Nasıl anlaşılır?
+
+Toprağın suyu itip itmediğini anlamak için şu işaretlere bakın:
+
+- Su, döktüğünüz anda birkaç saniye içinde saksının altından akıyor.
+- Toprak, saksının kenarından ayrılmış; arada parmak sığacak bir boşluk var.
+- Sulamadan hemen sonra saksı hâlâ hafif.
+- Toprağın yüzeyi ıslak görünüyor ama bir kalemle ya da tahta çubukla birkaç santimetre kazıdığınızda içi kuru ve tozlu.
+- Bitki, düzenli sulamanıza rağmen susuz kalmış gibi sarkıyor ve yaprak uçları kuruyor.
+
+Bu belirtiler, aşırı sulamanın tam tersidir; ama ikisi de bitkinin susuz kalmış gibi görünmesine yol açar. Farkı anlamak için toprağa dokunmak ve saksının ağırlığını kontrol etmek en güvenilir yoldur. Fazla suyun belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazımıza göz atabilirsiniz.
+
+## Anında çözüm: dipten sulama
+
+Suyu iten toprağı yeniden ıslatmanın en etkili yolu, saksıyı suya oturtmaktır:
+
+1. Saksıdan biraz daha geniş bir kova, leğen ya da lavaboyu oda sıcaklığındaki suyla doldurun. Su seviyesi saksının yarısına kadar gelmelidir.
+2. Saksıyı yavaşça suya oturtun. Toprak kuru olduğu için başta yüzeye hava kabarcıkları çıkacaktır.
+3. Kabarcıklar bitene ve toprağın yüzeyi nemlenene kadar, genellikle 20–30 dakika bekleyin. Çok kurumuş büyük saksılarda bu süre bir saate çıkabilir.
+4. Saksıyı sudan çıkarın ve fazla suyun tamamen süzülmesini bekleyin.
+
+Bu yöntemde su, kılcal hareketle aşağıdan yukarı doğru toprağın her yerine yavaş yavaş yayılır. Küçük ve orta boy saksılar için idealdir. Taşınamayacak kadar büyük saksılarda ise birkaç saat arayla az az ve yavaşça su vermek, toprağın yüzeyini önce nemlendirip ardından suyun derinlere inmesini sağlar.
+
+## Toprak yüzeyini açmak
+
+Yüzeyde sert bir kabuk oluşmuşsa ya da toprak sıkışmışsa, bir çatal ya da tahta çubukla köklere zarar vermeden yüzeyi hafifçe kabartın. Saksının kenarından ayrılan boşluğu, ıslattıktan sonra biraz taze toprakla doldurmak, suyun yeniden kenardan kaçmasını önler.
+
+## Kalıcı çözümler
+
+**Toprağı tamamen kurutmayın:** Torf bazlı topraklarda en önemli kural, toprağın tamamen kuruyup taş gibi olmasına izin vermemektir. Kaktüs ve sukulentler dışındaki bitkilerde, toprağın üst kısmı kuruduğunda sulamak bu sorunu büyük ölçüde önler.
+
+**Toprağı yenileyin:** Yıllar içinde ayrışmış, sıkışmış ve tuz biriktirmiş toprak, ne kadar dikkatli sularsanız sulayın suyu düzgün tutmaz. Bu durumda ilkbaharda bitkiyi saksısından çıkarıp eski toprağı kısmen uzaklaştırmak ve taze, iyi yapılı bir karışımla yeniden dikmek en kalıcı çözümdür. Eski toprağın nasıl değerlendirileceği için [eski saksı toprağı nasıl yenilenir](/eski-saksi-topragi-nasil-yenilenir) yazımıza bakabilirsiniz.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+**Kokopit eklemek:** Kokopit, kuruduktan sonra torfa göre suyu daha kolay yeniden emer. Kendi karışımınızı hazırlıyorsanız, torfun bir kısmının yerine kokopit kullanmak toprağın yeniden ıslanmasını kolaylaştırır. Kokopitin özellikleri için [kokopit nedir](/kokopit-nedir-nasil-kullanilir) yazımıza göz atabilirsiniz.
+
+[ürün:cocopeat-hindistan-cevizi-torfu-5-kg]
+
+**Organik madde ve humik maddeler:** Humik asit içeren ürünler, toprağın su tutma kapasitesini ve suyun toprak içinde dağılmasını iyileştirmeye yardım eder. Sulama suyuna düzenli aralıklarla eklenebilir.
+
+**Doğru saksı boyu:** Kökleri saksıyı tamamen doldurmuş bitkileri bir boy büyük saksıya almak, köklerin etrafında suyu tutacak yeni toprak sağlar. Kök sarmasının belirtileri ve saksı değişimi için [saksı değiştirme rehberi](/saksi-degistirme-rehberi) yazımız yol gösterir.
+
+## Kışın neden daha sık görülür?
+
+Kış aylarında bitkiler daha az su tükettiği için sulama aralıkları uzar. Kalorifer yanan evlerde ise hava çok kurudur ve saksı toprağının yüzeyi hızla buharlaşarak kurur. Bu iki etken bir araya geldiğinde, sulama aralarında toprak tamamen kuruyabilir ve suyu itmeye başlar. Kışın her sulamadan önce toprağın içini kontrol etmek ve saksıları kaloriferin hemen yanından uzak tutmak bu sorunu azaltır. Kışın evdeki kuru havanın bitkilere etkileri için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza göz atabilirsiniz.
+
+## Toprak su çekmiyor ama bitki hâlâ sarkıyorsa
+
+Dipten sulamadan sonra toprak iyice ıslandığı hâlde bitki bir iki gün içinde toparlanmıyorsa, kökler uzun süren kuraklıktan zarar görmüş olabilir. Bitkiyi saksısından çıkarıp kökleri kontrol edin; kurumuş, kahverengi ve kırılgan kökler varsa kesin ve bitkiyi taze toprağa dikin. Sağlıklı kökler kaldığı sürece bitki zamanla yeni kökler ve yapraklar çıkararak toparlanır.
+
+Toprak su çekmiyor diye endişelenmeyin; sorun çoğu zaman yarım saatlik bir dipten sulamayla çözülür. Kalıcı çözüm ise toprağınızı tanımak ve onu hiçbir zaman taş gibi kurumaya bırakmamaktır.
+@sss
+S: Saksıdaki toprak neden su çekmez?
+C: Torf bazlı toprak tamamen kuruduğunda suyu iten bir yapı kazanır, büzüşerek saksı kenarından ayrılır ve su bu boşluktan akıp gider. Sıkışmış toprak, kök sarması ve yüzeydeki tuz kabuğu da suyun toprağa girmesini zorlaştırır.
+
+S: Su çekmeyen toprak nasıl ıslatılır?
+C: Saksı, yarısına kadar oda sıcaklığında su bulunan bir kaba 20–30 dakika oturtulur. Su kılcal hareketle aşağıdan yukarı toprağın her yerine yayılır; ardından fazla suyun süzülmesi beklenir.
+
+S: Toprağın suyu ittiği nasıl anlaşılır?
+C: Su döküldüğü anda saksının altından akıyorsa, toprak kenardan ayrılmışsa, sulamadan sonra saksı hâlâ hafifse ve toprağın içi kuru ve tozluysa toprak suyu itiyordur.
+
+S: Toprağın su çekmemesi nasıl önlenir?
+C: Toprağın tamamen kurumasına izin vermemek, yıllanmış ve sıkışmış toprağı yenilemek, karışımda kokopit ve organik madde kullanmak ve kökleri saksıyı dolduran bitkileri büyük saksıya almak bu sorunu önler.
+
+### YAZI
+slug: basincli-puskurtucu
+baslik: Basınçlı Püskürtücü: Salon Bitkileri ve Balkon İçin Doğru Kullanım
+yayin: 2026-11-17 15:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: basınçlı püskürtücü
+seo_baslik: Basınçlı Püskürtücü Nasıl Kullanılır? Seçim ve Bakım
+seo_aciklama: Basınçlı püskürtücü nasıl seçilir ve kullanılır? 0,5–2 litre modeller, meme ayarı, yaprak altına uygulama, temizlik, contaların bakımı ve güvenli kullanım.
+ozet: Salon bitkilerinde ve balkonda bitki bakım ürünlerini eşit ve ince bir şekilde uygulamanın en kolay yolu küçük bir basınçlı püskürtücüdür. Doğru boyu seçmeyi, kullanmayı ve bakımını anlatıyoruz.
+etiketler: basınçlı püskürtücü, el püskürtücü, sprey şişe, bitki bakımı, salon bitkileri
+gorsel: p5-puskurtucu
+gorsel_alt: Yaprak üzerinde ince su damlacıkları
+urunler: uzman-05-lt-basincli-sprey-puskurtucu-k-4, uzman-1-lt-basincli-sprey-puskurtucu-k-5, uzman-2-lt-basincli-el-puskurtucu
+kisaca: Basınçlı püskürtücü, haznedeki havayı pompayla sıkıştırarak sıvıyı sürekli ve ince zerreler hâlinde püskürten küçük bir alettir. Salon bitkileri için 0,5–1 litrelik, balkon için 2 litrelik modeller uygundur. Meme ayarıyla sisten düz akışa geçilir; kullanım sonrası temiz suyla çalkalanıp basıncı boşaltılır.
+@govde
+Basınçlı püskürtücü, bitki bakımında en çok işe yarayan ama en az önemsenen aletlerden biridir. Salon bitkilerinin yapraklarını temizlemek, bitki besinlerini yapraktan uygulamak, zararlılara karşı doğal ürünleri yaprakların altına kadar ulaştırmak ya da fide ve çeliklerin üzerine ince bir nem vermek için kullanılır. Pek çoğumuz bu işleri tetiğe her basışta biraz sıvı fışkırtan sıradan sprey şişelerle yapmaya çalışır; birkaç dakika sonra eliniz yorulur, sıvı damla damla akar ve yaprakların ancak bir kısmı ıslanır. Pompalı ve basınçlı bir model ise birkaç pompalamayla saniyelerce sürekli ve ince bir sis verir. Bitkilerin daha çok içeride vakit geçirdiği kış aylarında, yaprak temizliği ve zararlı kontrolü için bu aleti elinizin altında bulundurmak büyük kolaylık sağlar. Bu yazıda doğru modeli seçmeyi, kullanımı ve uzun ömürlü olması için bakımını anlatıyoruz.
+
+## Basınçlı püskürtücü nasıl çalışır?
+
+Bu aletler bir hazne, haznenin kapağına bağlı bir pompa ve ucunda ayarlanabilir bir meme bulunan bir tetikten oluşur. Hazneye sıvıyı doldurup kapağı kapattıktan sonra pompayı birkaç kez aşağı yukarı çekerek içerideki havayı sıkıştırırsınız. Tetiğe bastığınızda sıkışan hava, sıvıyı memeden sürekli bir akışla dışarı iter. Tetiği bıraktığınızda akış durur. Basınç azaldığında birkaç pompalama daha yapmak yeterlidir.
+
+Sıradan sprey şişelere göre en büyük avantajı, akışın sürekli ve eşit olmasıdır. Bu sayede yaprakların her yeri aynı miktarda sıvı alır, damlama ve israf azalır, eliniz de yorulmaz.
+
+## Hangi boyu seçmeli?
+
+| Hacim | Uygun kullanım |
+|---|---|
+| 0,5 litre | Birkaç salon bitkisi, orkideler, fide ve çelikler, yaprak temizliği |
+| 1 litre | Çok sayıda salon bitkisi, küçük balkon, saksı grupları |
+| 2 litre | Balkon ve teras bahçesi, küçük sebze tarhları, genç fidanlar |
+
+Daha büyük bahçeler ve meyve ağaçları için ise sırt ya da akülü pompalar daha uygundur; bunların seçimi için [ilaçlama pompası seçimi](/ilaclama-pompasi-secimi-akulu-mu-manuel-mi) yazımıza göz atabilirsiniz.
+
+Evdeki salon bitkileri ve orkideler için avuç içine sığan küçük bir model yeterlidir.
+
+[ürün:uzman-05-lt-basincli-sprey-puskurtucu-k-4]
+
+Bitki sayısı fazla olan evlerde ya da küçük bir balkonda 1 litrelik bir model, sık sık doldurma zahmetini ortadan kaldırır.
+
+[ürün:uzman-1-lt-basincli-sprey-puskurtucu-k-5]
+
+## Meme ayarı: sisten düz akışa
+
+Çoğu modelde memenin ucu çevrilerek akışın şekli ayarlanır. Ucu bir yöne çevirdiğinizde akış ince bir sise dönüşür; diğer yöne çevirdiğinizde ise tek bir hüzme hâlinde uzağa ulaşan düz bir akış elde edersiniz.
+
+**İnce sis:** Yaprak temizliği, yapraktan besleme, fide ve çeliklerin nemlendirilmesi ve zararlılara karşı doğal ürünlerin uygulanması için idealdir. İnce zerreler yaprak yüzeyini eşit kaplar ve damlayıp boşa gitmez.
+
+**Düz akış:** Sık dalların iç kısımlarına, yaprak koltuklarına ya da biraz uzaktaki bir noktaya ulaşmak için kullanılır.
+
+## Doğru kullanım
+
+**Yaprakların altını unutmayın:** Kırmızı örümcek, unlu bit, beyaz sinek ve kabuklu bit gibi zararlıların çoğu yaprakların alt yüzünde yaşar. Bitkiye uygulama yaparken püskürtücünün ucunu aşağıdan yukarı doğru tutarak yaprak altlarına ulaşın. Zararlılarla mücadelede doğru uygulamanın önemi için [kabuklu bit](/kabuklu-bit) ve [kırmızı örümcek](/kirmizi-orumcek) yazılarımıza göz atabilirsiniz.
+
+**Mesafeyi ayarlayın:** Memeyi yapraktan 20–30 cm uzakta tutun. Çok yakından püskürtmek yaprakta damlalar oluşturur, çok uzaktan püskürtmek ise sisin havada dağılmasına neden olur.
+
+**Doğru zamanı seçin:** Uygulamaları sabah saatlerinde yapın; yapraklar gün içinde kurur. Akşam yapılan uygulamalarda yapraklar gece boyunca ıslak kalır ve mantar hastalıklarına davetiye çıkar. Doğrudan güneş altında da yapraklara sıvı püskürtmekten kaçının; damlalar küçük mercekler gibi davranarak yanıklara yol açabilir.
+
+**Ürün talimatına uyun:** Hazneye koyacağınız bitki besini ya da bakım ürününü, etiketindeki talimata göre hazırlayın. Fazla yoğun karışımlar yaprakları yakabilir.
+
+**Tüylü yapraklara dikkat:** Afrika menekşesi ve bazı begonyalar gibi tüylü yapraklı bitkilerde yapraklara su püskürtmek leke bırakabilir; bu bitkilerde püskürtmeden kaçının.
+
+Balkon ve teras bahçelerinde, sebze tarhlarında ve genç fidanlarda daha uzun süre çalışmak için 2 litrelik bir model idealdir.
+
+## Yapraktan besleme için
+
+Basınçlı püskürtücü, yapraktan gübrelemede de en kullanışlı alettir. İnce sis, besin çözeltisinin yaprak yüzeyine eşit dağılmasını ve yaprak tarafından kolayca alınmasını sağlar. Yapraktan beslemenin ne zaman ve nasıl yapılacağı için [yapraktan gübreleme](/yapraktan-gubreleme) yazımıza bakabilirsiniz.
+
+## Temizlik ve bakım
+
+Her kullanımdan sonra hazneyi boşaltın, temiz suyla çalkalayın ve haznede bir miktar temiz su bırakarak birkaç saniye püskürtün. Bu işlem, memenin ve hortumun içinde kalan ürün kalıntılarını temizler. Farklı ürünler için farklı püskürtücüler kullanmak, özellikle zararlılara karşı ürün kullandığınız bir püskürtücüyü besin uygulamasında kullanmamak iyi bir alışkanlıktır.
+
+Saklarken mutlaka kapağı hafifçe açarak ya da varsa basınç tahliye vanasını kullanarak içerideki basıncı boşaltın. Sürekli basınç altında kalan contalar çabuk yıpranır ve sızdırmaya başlar. Memede tıkanma olursa ucu söküp ılık suyla temizleyin; ince bir iğneyle deliği açabilirsiniz. Contaları ara sıra kontrol edin ve kurumuşsa birkaç damla bitkisel yağla nemlendirin.
+
+Kışın donma riski olan balkonlarda püskürtücüyü içinde su bırakmadan, donmayan bir yerde saklayın.
+
+## Fide ve çelikler için
+
+Tohum ekilmiş viyoller, yeni köklenen çelikler ve mikro yeşillik tepsileri, yukarıdan dökülen suyla kolayca yerinden oynar. İnce sis ayarındaki bir püskürtücü, toprağın yüzeyini bozmadan nemli tutmanın en nazik yoludur. Çimlenme döneminde günde bir iki kez hafifçe püskürtmek, toprağın kurumasını önler ve tohumların yerinden kaymasını engeller.
+
+## Güvenli kullanım
+
+Bitki bakım ürünlerini uygularken etiket talimatlarına uyun, gerekirse eldiven kullanın ve çocukların ve evcil hayvanların ulaşamayacağı yerde saklayın. Püskürtücüyü asla yüzünüze ya da başkasına doğru tutmayın. İçine koyduğunuz ürünün adını haznenin üzerine bir etiketle yazmak, karışıklığı önler.
+
+Basınçlı püskürtücü, küçük bir alet ama bitkilerinizin bakımını hem kolaylaştırır hem de daha etkili hâle getirir. Doğru boyda bir model seçip temiz tuttuğunuzda yıllarca size eşlik eder.
+@sss
+S: Basınçlı püskürtücü nasıl kullanılır?
+C: Hazne doldurulup kapak kapatıldıktan sonra pompa birkaç kez çekilerek içerideki hava sıkıştırılır. Tetiğe basıldığında sıvı memeden sürekli ve ince zerreler hâlinde püskürür; basınç azaldıkça yeniden pompalanır.
+
+S: Salon bitkileri için hangi boy püskürtücü uygun?
+C: Birkaç salon bitkisi ve orkide için 0,5 litrelik, çok sayıda bitki için 1 litrelik modeller uygundur. Balkon ve küçük bahçeler için 2 litrelik modeller tercih edilir.
+
+S: Püskürtücü nasıl temizlenir?
+C: Her kullanımdan sonra hazne boşaltılır, temiz suyla çalkalanır ve haznede biraz temiz su bırakılarak birkaç saniye püskürtülür. Saklarken içerideki basınç mutlaka boşaltılır.
+
+S: Yapraklara ne zaman su püskürtülmeli?
+C: Sabah saatlerinde püskürtülmelidir; yapraklar gün içinde kurur. Akşam uygulamaları mantar hastalıklarını, doğrudan güneş altında yapılan uygulamalar ise yaprak yanıklarını kolaylaştırır.
+
+### YAZI
+slug: mikro-element-eksikligi
+baslik: Mikro Element Eksikliği: Demir, Çinko, Mangan ve Bor Eksikliğini Tanımak
+yayin: 2026-11-17 16:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: mikro element
+seo_baslik: Mikro Element Eksikliği: Belirtiler ve Doğru Çözüm
+seo_aciklama: Bitkilerde mikro element eksikliği nasıl anlaşılır? Demir, çinko, mangan, bor ve bakır eksikliği belirtileri, kireçli toprak, pH etkisi ve çözüm.
+ozet: Bitkilerin çok az miktarda ihtiyaç duyduğu mikro elementler, eksik olduklarında büyük sorunlara yol açar. Demirden bora kadar başlıca mikro element eksikliklerini ve çoğu zaman asıl nedeni olan toprak koşullarını anlatıyoruz.
+etiketler: mikro element, demir eksikliği, çinko eksikliği, bor eksikliği, bitki besleme
+gorsel: p5-mikro-element
+gorsel_alt: Demir eksikliğinden yaprakları sararmış şeftali ağaçları
+urunler: hasturk-humix-sivi-humik-asit, hasturk-sivi-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Mikro elementler; demir, çinko, mangan, bor, bakır, molibden ve klor gibi bitkilerin çok az miktarda ihtiyaç duyduğu besinlerdir. Eksiklikleri çoğunlukla genç yapraklarda sararma, küçülme ve şekil bozukluğu olarak görülür. En sık neden toprakta yokluk değil, kireçli ve yüksek pH'lı topraklarda bitkinin bu besinleri alamamasıdır.
+@govde
+Mikro element eksikliği, bitki yetiştiricilerinin çoğu zaman en son aklına gelen ama sanıldığından çok daha sık görülen bir sorundur. Bitkileriniz düzenli gübrelendiği hâlde genç yaprakları sarı çıkıyor, yapraklar küçülüyor, sürgün uçları kıvrılıyor ya da meyveler şekilsiz büyüyorsa, sorun azot, fosfor ve potasyum gibi ana besinlerde değil, bitkinin çok az miktarda ihtiyaç duyduğu besinlerde olabilir. Ülkemizin büyük bölümünde topraklar kireçli ve pH değeri yüksek olduğu için bu sorun özellikle yaygındır. Kış ayları, bir önceki sezonda gözlemlediğiniz belirtileri değerlendirmek, toprağınızı tanımak ve gelecek yılın beslemesini planlamak için iyi bir zamandır. Bu yazıda başlıca mikro elementleri, eksiklik belirtilerini ve çözüm yollarını anlatıyoruz.
+
+## Mikro element nedir?
+
+Bitkiler gelişmek için on yedi civarında besin elementine ihtiyaç duyar. Bunlardan azot, fosfor ve potasyum gibi büyük miktarda gerekenlere makro elementler denir. Demir, çinko, mangan, bor, bakır, molibden ve klor ise bitkinin çok az miktarda ihtiyaç duyduğu, ama eksikliğinde gelişmenin aksadığı mikro elementlerdir. Az miktarda gerekmeleri önemsiz oldukları anlamına gelmez; tam tersine, her biri bitkide yerine başka bir besinin geçemeyeceği görevler üstlenir.
+
+Ana besinlerin görevleri ve gübre etiketlerindeki karşılıkları için [NPK nedir](/npk-nedir-gubre-etiketi) yazımıza göz atabilirsiniz.
+
+## Yaşlı yaprak mı, genç yaprak mı?
+
+Besin eksikliklerini teşhis etmenin en önemli ipucu, belirtinin bitkinin hangi kısmında başladığıdır. Azot, magnezyum ve potasyum gibi bitki içinde hareket edebilen besinlerin eksikliği önce yaşlı, alt yapraklarda görülür; çünkü bitki bu besinleri yaşlı yapraklardan genç yapraklara taşır. Demir, çinko, mangan ve bor gibi iz besinlerin çoğu ise bitki içinde zor hareket eder; bu yüzden eksiklikleri genellikle genç yapraklarda ve büyüme uçlarında ortaya çıkar.
+
+Yaşlı yapraklarda başlayan sararmalar için [azot eksikliği](/azot-eksikligi) ve [magnezyum eksikliği](/magnezyum-eksikligi) yazılarımıza bakabilirsiniz.
+
+## Başlıca iz besinler ve eksiklik belirtileri
+
+| Element | Görevi | Eksiklik belirtisi |
+|---|---|---|
+| Demir | Klorofil yapımı | Genç yapraklarda damarlar yeşil kalırken arası sararır, ağır durumda yaprak beyazlaşır |
+| Çinko | Büyüme düzenleyicileri, yaprak gelişimi | Küçük ve dar yapraklar, kısa boğum araları, sürgün ucunda yaprakların rozet gibi toplanması |
+| Mangan | Fotosentez | Genç ve orta yapraklarda damar arası açık sararma, küçük kahverengi noktalar |
+| Bor | Çiçeklenme, tane ve meyve tutumu, hücre duvarı | Büyüme ucunun ölmesi, kalın ve kırılgan yapraklar, çiçek dökümü, şekilsiz meyve, kök sebzelerde iç çürüme |
+| Bakır | Enzimler, sürgün sağlamlığı | Sürgün uçlarında solma ve kuruma, soluk yapraklar |
+| Molibden | Azotun kullanılması | Yaşlı yapraklarda sararma, lahanagillerde şerit gibi daralan yapraklar |
+
+## Demir eksikliği: en sık görülen
+
+Demir eksikliği, kireçli topraklarda en sık görülen iz besin sorunudur. Limon ve diğer narenciyeler, ortanca, açelya, gardenya, yaban mersini ve gül gibi asit seven bitkilerde, ayrıca kireçli topraklardaki meyve ağaçlarında ve asmada yaygındır. Genç yapraklar açık sarı renkte çıkar ama damarlar yeşil kalır; bu görüntü oldukça karakteristiktir. Ayrıntılar için [bitkilerde demir eksikliği](/bitkilerde-demir-eksikligi) yazımıza göz atabilirsiniz.
+
+## Asıl neden çoğu zaman toprak
+
+Bu eksikliklerin büyük çoğunluğunda sorun, toprakta bu elementlerin olmaması değil, bitkinin onları alamamasıdır. Bunun en önemli nedeni toprak pH'ıdır. pH 7,5'in üzerine çıktığında demir, çinko, mangan ve bakır gibi elementler bitkinin alamayacağı formlara dönüşür. Bu yüzden kireçli topraklarda ve kireçli suyla sulanan saksılarda mikro element eksiklikleri çok yaygındır.
+
+Diğer nedenler arasında sürekli ıslak ve havasız topraklar, soğuk topraklarda köklerin yavaş çalışması, organik maddece fakir topraklar ve aşırı fosforlu gübreleme sayılabilir. Aşırı fosfor, özellikle çinko ve demirin alımını azaltır. Toprak tepkimesinin bitkiler için anlamı için [toprak pH'ı](/toprak-ph-nedir) yazımıza bakabilirsiniz.
+
+## Mikro element eksikliğinde çözüm yolları
+
+**Önce teşhis:** Belirtiler birbirine benzeyebilir; farklı eksiklikler bir arada görülebilir. Bahçelerde ve tarlalarda kesin teşhis için toprak ve yaprak analizi yaptırmak en doğrusudur. Analiz, gereksiz gübre harcamasını ve aşırı uygulamayı önler. Mikro elementler fazla verildiğinde de bitkiye zararlıdır; özellikle bor, eksiklik ile zehirlilik arasındaki aralığın çok dar olduğu bir elementtir.
+
+**Toprağı düzeltin:** Kireçli topraklarda organik madde miktarını artırmak, bu besinlerin alınabilirliğini iyileştirir. Kompost, solucan gübresi ve humik madde kaynakları, kök çevresinde iz besinleri bitkinin alabileceği formda tutmaya yardım eder.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+**Saksılarda:** Kireçli musluk suyuyla sulanan saksılarda zamanla pH yükselir. Mümkünse yağmur suyu kullanmak, musluk suyunu bir gün bekletmek ve toprağı birkaç yılda bir yenilemek sorunu azaltır. Asit seven bitkiler için asidik karışımlar kullanılmalıdır; bunun ayrıntılarını [toprak nasıl asitlendirilir](/toprak-nasil-asitlendirilir) yazımızda anlattık.
+
+**Hızlı destek:** Belirtiler belirgin olduğunda, şelatlı iz besin içeren gübreler ya da yapraktan uygulanan karışımlar kısa sürede düzelme sağlar. Şelatlı formlar, yüksek pH'lı topraklarda da bitki tarafından alınabilir kalır. Bu ürünler her zaman etiket talimatına uygun miktarda kullanılmalıdır; fazlası zarar verir.
+
+**Organik besleme:** Solucan gübresi ve humik asit içeren ürünler, bu besinleri doğal ve dengeli bir şekilde sağlar ve toprağın biyolojik canlılığını artırır. Düzenli organik besleme yapılan topraklarda bu sorunlar çok daha seyrek görülür.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+## Fazlası da zararlı
+
+Bu besinlerin bitkiye gereken miktarı çok azdır; bu yüzden eksiklik kadar fazlalık da sorun yaratır. Bilinçsizce ve tekrar tekrar uygulanan gübreler, toprakta birikerek kök uçlarını yakabilir ve diğer besinlerin alımını bozabilir. Belirtiler düzelmeye başladıktan sonra uygulamaya ara vermek ve bitkinin yeni yapraklarını gözlemlemek en güvenli yoldur.
+
+## Kış ve iz besinler
+
+Kış aylarında soğuk ve ıslak topraklarda kökler yavaş çalıştığı için, kışlık sebzelerde ve ilkbaharın ilk haftalarında genç yapraklarda geçici sararmalar görülebilir. Bu sararmalar toprak ısındığında çoğu zaman kendiliğinden düzelir. Bu yüzden ilkbaharın ilk soğuk günlerinde görülen hafif belirtilere hemen gübreyle müdahale etmek yerine birkaç hafta gözlemlemek doğru olur.
+
+Mikro element eksikliği, toprağınızın size verdiği bir mesajdır. Belirtileri doğru okumak, asıl nedeni bulmak ve toprağı organik maddeyle beslemek, bitkilerinizi yalnızca bu sezon değil, uzun yıllar boyunca sağlıklı tutar.
+@sss
+S: Mikro element nedir?
+C: Demir, çinko, mangan, bor, bakır, molibden ve klor gibi bitkilerin çok az miktarda ihtiyaç duyduğu ama eksikliğinde gelişmenin aksadığı besin elementleridir.
+
+S: Mikro element eksikliği nasıl anlaşılır?
+C: Belirtiler genellikle genç yapraklarda ve büyüme uçlarında görülür: damar arası sararma, küçük ve dar yapraklar, sürgün uçlarının kuruması, çiçek dökümü ve şekilsiz meyveler. Kesin teşhis için toprak ve yaprak analizi gerekir.
+
+S: Toprakta demir varken bitki neden demir eksikliği yaşar?
+C: Kireçli ve pH'ı 7,5'in üzerindeki topraklarda demir, bitkinin alamayacağı formlara dönüşür. Bu yüzden toprakta demir olsa bile bitki onu kullanamaz.
+
+S: Mikro element eksikliği nasıl giderilir?
+C: Önce teşhis konur, toprağa organik madde eklenir ve pH dengelenir. Belirgin eksikliklerde şelatlı mikro element gübreleri ya da yapraktan uygulamalar etiket talimatına uygun miktarda kullanılır.
+
+### YAZI
+slug: orkide-cicek-dali
+baslik: Orkide Çiçek Dalı: Çiçekler Döküldükten Sonra Kesilir mi?
+yayin: 2026-11-17 18:15
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: orkide çiçek dalı
+seo_baslik: Orkide Çiçek Dalı: Kesilir mi, Yeniden Çiçek Açar mı?
+seo_aciklama: Orkide çiçek dalı ne zaman kesilir? Yeşil ve kuru dal farkı, göz üzerinden kesim, yeni dal için serin gece, destek çubuğu ve dalda yavru bitki.
+ozet: Kelebek orkidenin çiçekleri döküldükten sonra elinizde kalan uzun dal ne olacak? Orkide çiçek dalının ne zaman kesileceğini, yeniden çiçek açtırmanın yollarını ve yeni dalları nasıl destekleyeceğinizi anlatıyoruz.
+etiketler: orkide çiçek dalı, orkide bakımı, phalaenopsis, orkide çiçek açtırma, salon çiçekleri
+gorsel: p5-orkide-dal
+gorsel_alt: Çiçek dalında açmış beyaz kelebek orkideler ve tomurcuklar
+urunler: florist-konsantre-orkide-besini, tarm-orchid-elixir-sivi-orkide-besini-sprey-500-ml, gartengold-orkide-topragi
+kisaca: Kelebek orkidede çiçekler döküldükten sonra orkide çiçek dalı yeşilse, alttan ikinci ya da üçüncü gözün 1–2 cm üzerinden kesilebilir; bu gözden birkaç ay içinde yan dal çıkabilir. Dal kahverengileşip kuruduysa dibinden kesilir. Yeni bir çiçek dalı için sonbaharda birkaç hafta gece ile gündüz arasında 5–8 °C'lik serinlik gerekir.
+@govde
+Orkide çiçek dalı, kelebek orkide sahiplerinin en çok soru sorduğu konuların başında gelir. Aylarca açık kalan çiçekler birer birer döküldüğünde, saksının ortasında uzun ve çıplak bir dal kalır. Bu dalı kesmeli misiniz, yoksa yeniden çiçek açacağını umarak beklemeli misiniz? Dalın rengi yeşilken mi, kuruduktan sonra mı kesilmeli? Doğru cevap, dalın durumuna ve bitkinin gücüne bağlıdır. Kış başı, hem bir önceki çiçeklenmenin sona erdiği hem de yeni çiçek dallarının oluşmaya başladığı dönemdir. Bu yazıda orkide çiçek dalını tanımayı, ne zaman ve nereden keseceğinizi, yeni bir dal çıkarmak için neler yapabileceğinizi ve dalları nasıl destekleyeceğinizi anlatıyoruz.
+
+## Orkide çiçek dalını tanıyalım
+
+Evlerimizde en çok yetiştirilen kelebek orkideler (Phalaenopsis), yaprakların arasından çıkan uzun dallarda çiçek açar. Bu dal üzerinde, belirli aralıklarla küçük, üçgen şeklinde kabuklarla örtülü gözler, yani uyuyan tomurcuklar bulunur. Çiçeklenme sona erdiğinde dalın ucu genellikle kurur; ama alttaki gözler canlı kalır ve uygun koşullarda bunlardan biri uyanarak yeni bir yan dal oluşturabilir.
+
+Yeni çıkan bir çiçek dalını hava kökünden ayırmak da önemlidir. Çiçek dalının ucu yassı ve eldiven parmağına benzer bir şekle sahiptir, genellikle yukarı ya da yana doğru büyür. Hava kökünün ucu ise yuvarlak ve parlak yeşildir. Hava kökleri hakkında ayrıntılı bilgi için [orkide hava kökleri](/orkide-hava-kokleri) yazımıza göz atabilirsiniz.
+
+## Çiçekler döküldükten sonra dal kesilir mi?
+
+Bu sorunun cevabı dalın rengine bağlıdır:
+
+| Dalın durumu | Ne yapmalı? |
+|---|---|
+| Dal tamamen kahverengi ya da sarı, kuru | Dibinden, yaprakların 1–2 cm üzerinden kesin |
+| Dal yeşil, sağlıklı; bitki güçlü | Alttan ikinci ya da üçüncü gözün 1–2 cm üzerinden kesin; yan dal çıkabilir |
+| Dal yeşil ama bitki zayıf, az yapraklı ya da kökleri sorunlu | Dibinden kesin; bitkinin enerjisini kök ve yaprağa vermesine izin verin |
+| Dalın ucunda yeni tomurcuklar var | Hiç kesmeyin; çiçeklenme devam ediyor |
+
+Yeşil dalı bir gözün üzerinden kestiğinizde, orkide genellikle birkaç hafta ile birkaç ay içinde bu gözden yeni bir yan dal çıkarır ve yeniden çiçek açar. Ancak bu ikinci çiçeklenme genellikle daha az çiçekli olur ve bitkiyi yorar. Bu yüzden genç, az yapraklı ya da yakın zamanda saksı değiştirilmiş bitkilerde dalı dibinden kesip bitkinin dinlenmesine izin vermek, uzun vadede daha güçlü bir bitki ve daha bol çiçekli bir sonraki çiçeklenme sağlar.
+
+## Doğru kesim nasıl yapılır?
+
+Kesim için temiz ve keskin bir makas ya da bıçak kullanın; aleti kesimden önce alkolle silin. Gözün hemen üzerinden değil, 1–2 cm yukarısından kesin; böylece gözün kurumasını önlersiniz. Kesim yüzeyinin düzgün olması, enfeksiyon riskini azaltır. Kesilen dalın ucu zamanla kuruyarak kendiliğinden kapanır.
+
+## Yeni bir çiçek dalı çıkarmak
+
+Kelebek orkidenin yeni bir çiçek dalı oluşturması için en önemli tetikleyici, sonbaharda birkaç hafta boyunca gece ile gündüz arasındaki sıcaklık farkıdır. Gece sıcaklığının gündüze göre 5–8 °C daha düşük olduğu, yani gündüz 20–24 °C, gece 14–17 °C civarında olduğu bir ortam, bitkiyi çiçek dalı oluşturmaya teşvik eder.
+
+Bunun için sonbaharda orkidenizi geceleri biraz daha serin olan bir odaya, örneğin ısıtılmayan bir yatak odasının pencere önüne almak yeterli olabilir. Ancak gece sıcaklığının 12 °C'nin altına inmemesine ve bitkinin soğuk camla temas etmemesine dikkat edin.
+
+Işık da çok önemlidir. Doğrudan güneş almayan ama gün boyu aydınlık kalan bir pencere önü idealdir. Yetersiz ışıkta orkide yaprak çıkarmaya devam eder ama çiçek dalı oluşturmaz. Orkidenin genel bakımı ve yeniden çiçek açtırmanın diğer sırları için [orkide bakımı](/orkide-bakimi-yeniden-cicek-actirma) yazımıza göz atabilirsiniz.
+
+## Besleme
+
+Yeni yaprak ve çiçek dalı oluşturma döneminde orkidenin düzenli ama hafif beslenmesi gerekir. Orkideler için hazırlanmış bir besini, etiketteki önerinin yarısı kadar seyrelterek her iki üç sulamada bir vermek yeterlidir. Çiçek dalı oluşmaya başladığında çiçekli bitkiler için dengelenmiş bir besine geçmek tomurcukları destekler. Ayrıntılar için [orkide gübreleme](/orkide-gubreleme) yazımıza bakabilirsiniz.
+
+[ürün:florist-konsantre-orkide-besini]
+
+Hafif ve pratik bir besleme isteyenler için yaprak ve köklere püskürtülen hazır orkide besinleri de kullanılabilir.
+
+[ürün:tarm-orchid-elixir-sivi-orkide-besini-sprey-500-ml]
+
+## Yeni çiçek dalını desteklemek
+
+Yeni çiçek dalı 10–15 cm uzunluğa ulaştığında, saksıya ince bir destek çubuğu yerleştirin ve dalı gevşek klipslerle ya da yumuşak bir bağla çubuğa tutturun. Çubuğu köklere zarar vermeden, saksının kenarına yakın bir yerden kabuk ortamına batırın. Dal büyüdükçe birkaç santimetrede bir yeni bir klips ekleyin.
+
+Çiçek dalı büyürken saksının yönünü değiştirmeyin. Dal ışığa doğru yönelir; saksıyı döndürmek dalın kıvrılmasına ve tomurcukların düzensiz açılmasına neden olabilir. Tomurcuklar oluştuktan sonra bitkiyi yerinden oynatmak da tomurcuk dökümüne yol açabilir.
+
+## Çiçek dalında yavru bitki
+
+Bazen çiçek dalı üzerindeki bir gözden çiçek yerine küçük yapraklar ve kökler çıkar. Buna keiki denir ve aslında ana bitkinin bir kopyası olan yavru bir orkidedir. Yavru bitki en az iki üç yaprak ve 3–5 cm uzunluğunda birkaç kök çıkardığında, dalın 1–2 cm altından ve üstünden kesilerek ayrılabilir ve küçük bir saksıya orkide ortamıyla dikilebilir.
+
+## Neden çiçek dalı çıkmıyor?
+
+Orkideniz yıllardır çiçek açmıyorsa en sık nedenler yetersiz ışık, sonbaharda gece ile gündüz arasında sıcaklık farkı olmaması, aşırı ya da yetersiz besleme ve kök sorunlarıdır. Kökleri kontrol edin; sağlıklı kökler gümüşi ya da yeşil ve sağlamdır. Kökler çürümüşse önce saksı değişimi yapılmalı ve bitkinin güçlenmesi beklenmelidir.
+
+Orkide çiçek dalı, bitkinizin size verdiği bir hediyedir; onu doğru zamanda kesip doğru koşulları sağladığınızda, kelebek orkideniz her yıl yeniden çiçeklerle dolacaktır.
+@sss
+S: Orkide çiçek dalı kesilir mi?
+C: Dal kuruyup kahverengileştiyse dibinden kesilir. Dal yeşil ve bitki güçlüyse alttan ikinci ya da üçüncü gözün 1–2 cm üzerinden kesilebilir; bu gözden yeni bir yan dal çıkabilir. Bitki zayıfsa dal dibinden kesilerek dinlenmesi sağlanır.
+
+S: Orkide yeniden nasıl çiçek açar?
+C: Sonbaharda birkaç hafta boyunca gece sıcaklığının gündüze göre 5–8 °C daha düşük olduğu, gün boyu aydınlık ama doğrudan güneş almayan bir ortam ve hafif düzenli besleme yeni bir çiçek dalını tetikler.
+
+S: Orkide çiçek dalı ile hava kökü nasıl ayırt edilir?
+C: Çiçek dalının ucu yassı ve eldiven parmağına benzer, genellikle yukarı ya da yana büyür. Hava kökünün ucu ise yuvarlak ve parlak yeşildir.
+
+S: Orkide dalındaki yavru bitki ne yapılır?
+C: Yavru bitki en az iki üç yaprak ve 3–5 cm uzunluğunda kökler çıkardığında dalın altından ve üstünden kesilerek ayrılır ve küçük bir saksıya orkide ortamıyla dikilir.
+
+### YAZI
+slug: bitki-karantinasi
+baslik: Bitki Karantinası: Yeni Gelen Bitkiyi Evdekilere Katmadan Önce
+yayin: 2026-11-17 20:20
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: bitki karantinası
+seo_baslik: Bitki Karantinası: Yeni Bitkiyi Zararlılardan Arındırma
+seo_aciklama: Bitki karantinası neden ve nasıl yapılır? Yeni bitkide zararlı ve hastalık kontrolü, ayrı tutma süresi, yaprak yıkama, toprak kontrolü ve kış.
+ozet: Evinize yeni gelen bir bitki, yanında görünmez misafirler de getirebilir. Yeni bitkileri diğerlerine katmadan önce birkaç hafta ayrı tutmanın ve dikkatle kontrol etmenin yollarını anlatıyoruz.
+etiketler: bitki karantinası, salon bitkisi zararlıları, yeni bitki, zararlı kontrolü, bitki bakımı
+gorsel: p5-karantina
+gorsel_alt: Pencere önünde tek başına duran saksı bitkisi
+urunler: florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi, tarm-bioleaf-protector-neem-yagi-500-ml-bocek-kovucu-sprey, uzman-05-lt-basincli-sprey-puskurtucu-k-4
+kisaca: Bitki karantinası, yeni alınan ya da dışarıdan içeri alınan bir bitkiyi 3–4 hafta diğer bitkilerden ayrı tutup zararlı ve hastalık belirtileri açısından düzenli kontrol etmektir. Yaprak altları, sap dipleri, yaprak koltukları ve toprak yüzeyi incelenir; yapraklar ılık suyla yıkanır. Belirti görülürse bitki tedavi edilene kadar ayrı kalır.
+@govde
+Bitki karantinası, salon bitkisi yetiştiren herkesin edinmesi gereken ama çoğumuzun ancak bir sorun yaşadıktan sonra öğrendiği bir alışkanlıktır. Çiçekçiden, marketten ya da bir arkadaşınızdan yeni bir bitki aldığınızda, onu hemen en güzel köşeye, diğer bitkilerinizin yanına koymak istersiniz. Oysa birkaç hafta sonra o yeni bitkiyle birlikte gelen küçük siyah sineklerin bütün saksılarda uçuştuğunu, yaprak altlarında beyaz pamuksu kümeler belirdiğini ya da ince ağların yayıldığını fark edebilirsiniz. Zararlıların çoğu yumurta ya da çok küçük yavru evrelerinde gözle neredeyse görünmez ve ilk günlerde hiçbir belirti vermez. Kış aylarında hem hediye bitkiler hem de balkondan içeri alınan saksılar nedeniyle bu risk artar. Bu yazıda yeni bir bitkiyi nasıl ve ne kadar süre ayrı tutacağınızı, nelere bakacağınızı ve bir sorun fark ettiğinizde ne yapacağınızı anlatıyoruz.
+
+## Bitki karantinası neden gerekli?
+
+Seralarda ve satış noktalarında çok sayıda bitki bir arada, sıcak ve nemli ortamlarda tutulur. Bu koşullar zararlıların hızla çoğalması için idealdir. En dikkatli üreticiler bile bütün bitkileri tamamen zararlısız tutamaz. Ayrıca satış öncesinde yapılan uygulamalar zararlıların bir süre gizlenmesine neden olabilir; bitki evinize geldikten birkaç hafta sonra yumurtalardan çıkan yeni nesil ortaya çıkar.
+
+Evde ise bitkiler genellikle bir arada, birbirine yakın yerleştirilir. Tek bir bitkiyle gelen zararlı, kısa sürede diğer bütün bitkilere yayılabilir. Karantina, bu riski en başta, tek bir bitkiyle sınırlı tutmanın en kolay yoludur.
+
+## Hangi zararlılar ve hastalıklar gelebilir?
+
+| Sorun | Neye bakmalı? |
+|---|---|
+| Mantar sineği | Toprak yüzeyinde ve saksı çevresinde uçuşan küçük siyah sinekler |
+| Unlu bit | Yaprak koltuklarında ve sap diplerinde beyaz pamuksu kümeler |
+| Kabuklu bit | Yaprak altlarında ve gövdede kahverengi kabarcıklar |
+| Kırmızı örümcek | Yaprak altlarında ince ağlar, yaprakta küçük sarı noktalar |
+| Trips | Yapraklarda gümüşi lekeler ve siyah küçük noktalar |
+| Yaprak biti | Genç sürgünlerde yeşil ya da siyah küçük böcek kümeleri |
+| Beyaz sinek | Yaprak sallandığında havalanan küçük beyaz sinekler |
+| Kök çürüklüğü | Islak toprakta solma, kötü koku, kararmış kökler |
+
+Bu zararlıların her biri hakkında ayrıntılı bilgi için [salon bitkilerinde zararlılar](/salon-bitkilerinde-zararlilar), [mantar sineği](/mantar-sinegi) ve [kabuklu bit](/kabuklu-bit) yazılarımıza göz atabilirsiniz.
+
+## Bitki karantinası nasıl yapılır?
+
+**1. Ayrı bir yer seçin:** Yeni bitkiyi diğer bitkilerinizden olabildiğince uzak, tercihen başka bir odada ya da en azından birkaç metre uzakta tutun. Seçtiğiniz yer bitkinin ışık ihtiyacını karşılamalıdır; karantina, bitkiyi karanlık bir köşeye kapatmak anlamına gelmez.
+
+**2. Eve gelir gelmez inceleyin:** Bitkiyi aydınlık bir yerde, mümkünse bir büyüteçle dikkatle inceleyin. Yaprakların alt yüzlerine, yaprak koltuklarına, sap diplerine, yeni sürgünlere ve toprak yüzeyine bakın. Saksının altındaki drenaj deliklerini de kontrol edin; bazı zararlılar orada saklanabilir.
+
+**3. Yaprakları yıkayın:** Bitki büyüklüğü uygunsa, toprağı bir poşetle örterek yapraklarını ılık suyla duşta ya da lavaboda nazikçe yıkayın. Bu, yaprak yüzeyindeki tozu ve görünmeyen zararlıların bir kısmını uzaklaştırır.
+
+**4. Toprağı kontrol edin:** Toprak yüzeyinde küf, küçük sinekler ya da kurtçuklar görüyorsanız, toprağın üst birkaç santimetresini kazıyıp atın ve yerine taze toprak koyun. Satıştaki bitkilerin toprağı genellikle çok ıslak tutulur; eve geldiğinde toprağın biraz kurumasına izin vermek mantar sineklerini caydırır.
+
+**5. Süreyi tamamlayın:** Karantina süresi en az 3–4 haftadır. Bu süre, yumurtalardan çıkacak yeni neslin görünür hâle gelmesi için gereklidir. Bu süre boyunca bitkiyi haftada bir iki kez dikkatle kontrol edin.
+
+**6. Ayrı aletler kullanın:** Karantinadaki bitki için kullandığınız makas, püskürtücü ve sulama kabını diğer bitkiler için kullanmadan önce temizleyin. Bitkiye dokunduktan sonra ellerinizi yıkayın.
+
+## Sorun fark ederseniz
+
+Karantina sırasında bir zararlı ya da hastalık belirtisi görürseniz, bitki tedavi edilene ve en az birkaç hafta belirti görülmeyene kadar ayrı kalmaya devam etmelidir. Az sayıdaki zararlıyı alkole batırılmış bir pamukla silerek ya da yaprakları sabunlu suyla yıkayarak temizleyebilirsiniz. Yaygın bulaşmalarda bitkiler için geliştirilmiş doğal içerikli ürünler, etiket talimatına uygun ve tekrarlanarak kullanılmalıdır. Uygulamada yaprak altlarına ulaşmak için ince zerreli küçük bir püskürtücü işi kolaylaştırır.
+
+[ürün:florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi]
+
+[ürün:tarm-bioleaf-protector-neem-yagi-500-ml-bocek-kovucu-sprey]
+
+Neem yağının doğru kullanımı için [neem yağı](/neem-yagi) yazımıza bakabilirsiniz. Çok yoğun bulaşmış ve kurtarılması zor görünen bir bitkiyi, diğer bitkilerinizi riske atmak yerine vazgeçmek de bazen en doğru karardır.
+
+## Balkondan içeri alınan bitkiler
+
+Yazı balkonda ya da bahçede geçiren saksılar, sonbaharda içeri alınırken de karantinaya alınmalıdır. Dışarıda yaşayan yaprak bitleri, beyaz sinekler ve kırmızı örümcekler, evin sıcak ve kuru havasında çok daha hızlı çoğalır. İçeri almadan önce bitkileri dikkatle inceleyin, yapraklarını su ile yıkayın ve ilk birkaç haftayı diğer salon bitkilerinden ayrı geçirmelerini sağlayın. Saksıların altına, tabaklara ve saksı kenarlarına saklanmış salyangoz ve sümüklü böcekleri de kontrol etmeyi unutmayın.
+
+## Hediye bitkiler ve kesme çiçekler
+
+Yılbaşı ve özel günlerde hediye gelen bitkiler de aynı dikkati hak eder. Süslü ambalajlar ve kurdeleler, saksının ve yaprakların bir kısmını gizleyebilir; ambalajı açıp bitkiyi dikkatle incelemek gerekir. Kesme çiçek buketleri ise genellikle kısa ömürlü oldukları için karantinaya alınmaz; ama içlerindeki yeşilliklerde yaprak biti ve trips taşınabilir. Bu yüzden buketleri salon bitkilerinin hemen yanına koymamak, basit ama etkili bir önlemdir. Seradan ve pazardan alınan fideler ile çelikler için de aynı kural geçerlidir.
+
+## Karantinayı alışkanlık hâline getirin
+
+Bitki karantinası birkaç hafta sabır ister; ama bütün bitki koleksiyonunuzu bir zararlıdan kurtarmak için harcayacağınız aylarca uğraşın yanında çok küçük bir zahmettir. Yeni bir bitki aldığınızda takviminize bir not düşün ve süre dolduğunda son bir kontrol yaptıktan sonra bitkiyi yeni yerine taşıyın.
+
+Sağlıklı bir bitki koleksiyonunun sırrı, sorunları evin kapısında durdurmaktır. Bitki karantinası da tam olarak bunu sağlar.
+@sss
+S: Bitki karantinası nedir?
+C: Yeni alınan ya da dışarıdan içeri alınan bir bitkiyi 3–4 hafta diğer bitkilerden ayrı tutup zararlı ve hastalık belirtileri açısından düzenli olarak kontrol etmektir.
+
+S: Yeni bitki ne kadar süre ayrı tutulmalı?
+C: En az 3–4 hafta ayrı tutulmalıdır. Bu süre, yumurtalardan çıkan yeni zararlı neslinin görünür hâle gelmesi için gereklidir.
+
+S: Karantinadaki bitkide nelere bakılmalı?
+C: Yaprak altları, yaprak koltukları, sap dipleri, yeni sürgünler, toprak yüzeyi ve drenaj delikleri incelenir. Pamuksu kümeler, kabarcıklar, ince ağlar, gümüşi lekeler ve uçuşan küçük sinekler zararlı belirtisidir.
+
+S: Balkondan içeri alınan bitkiler karantinaya alınmalı mı?
+C: Evet. Dışarıdaki zararlılar evin sıcak ve kuru havasında hızla çoğalır. İçeri almadan önce bitkiler incelenmeli, yaprakları yıkanmalı ve ilk birkaç hafta diğer bitkilerden ayrı tutulmalıdır.
+
+### SORU
+yayin: 2026-11-17 10:40
+kategori: bahce-ipuclari
+baslik: Balkondaki limon ağacımı kışın içeri alırsam yaprak döker mi?
+metin: Dört yıldır balkonda saksıda bir limon ağacım var. Geçen kış dışarıda bırakmıştım, birkaç dalı kurudu. Bu yıl içeri almak istiyorum ama salonumuz çok sıcak oluyor. Yaprak dökmesinden korkuyorum, nereye koymalıyım?
+@cevap Mikdat Çelik | 4
+İçeri almak doğru bir karar; ama limon ağacının kışın en çok sevdiği yer sıcak bir salon değil, serin ve aydınlık bir köşe. İdeal olan 8–15 °C arasında bir sıcaklık ve bol ışık. Kapalı bir balkon, ısıtılmayan ama donmayan bir oda ya da merdiven boşluğundaki büyük bir pencere önü çok uygun olur. Sıcak salonda kalan limon kışın da büyümeye çalışır, ama ışık yetmediği için zayıf sürgünler verir ve yaprak döker; kalorifer havası da kırmızı örümceği davet eder. Ağacı içeri alırken bir anda taşımayın; önce birkaç gün balkonun en korunaklı köşesinde tutun, sonra içeri alın. İlk haftalarda birkaç yaprak dökmesi normal, endişelenmeyin. Kışın sulamayı azaltın; toprağın üst birkaç santimetresi kuruduğunda oda sıcaklığındaki suyla sulayın ve tabağı boşaltın. Gübreyi mart ayına kadar kesin. İçeri almadan önce yaprak altlarını kontrol edip ılık suyla yıkamanız da balkondan zararlı taşımanızı önler.

@@ -1,0 +1,36 @@
+name: Telefon menüsü kontrolü
+
+# Telefondaki "Tüm kategoriler" listesi masaüstü menüyle aynı sırada, adlarda ve gizlemede mi (yayındaki ve daldaki widget).
+# Sonuç işin özet sayfasında.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/mobil-menu-check.mjs', '.github/workflows/mobil-menu-check.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    strategy:
+      fail-fast: false
+      matrix:
+        site: ['https://hasturkgubre.com.tr', 'https://tarim-dunyasi.com']
+        mode: [canli, yeni]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - if: matrix.mode == 'yeni'
+        run: node scripts/build-widget.mjs
+      - run: node scripts/mobil-menu-check.mjs
+        env:
+          SITE_URL: ${{ matrix.site }}
+          MODE: ${{ matrix.mode }}

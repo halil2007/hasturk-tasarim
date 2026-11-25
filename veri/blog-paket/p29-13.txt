@@ -1,0 +1,467 @@
+### YAZI
+slug: meyve-agaci-cicek-donemi-bakimi
+baslik: Meyve Ağacı Çiçek Dönemi Bakımı: Çiçeklenmede Ne Yapılmaz?
+yayin: 2027-02-28 09:10
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: meyve ağacı çiçek dönemi bakımı
+seo_baslik: Meyve Ağacı Çiçek Dönemi Bakımı: Ne Yapılmaz?
+seo_aciklama: Meyve ağacı çiçek dönemi bakımı nasıl yapılır? Çiçeklenmede ilaçlama, azot, budama ve sulama hataları, arı ve tozlaşma, çiçek donu önlemleri ve yağmur riski.
+ozet: Meyve ağacı çiçek dönemi bakımı, yapılacak işlerden çok yapılmayacak şeylerle ilgilidir: Çiçekteyken ilaçlama, fazla azot, sert budama ve ani su değişimi meyve tutumunu bozar. Arıya ve tozlaşmaya yer açmanın, çiçek donuna karşı hazırlığın ve yağışlı havanın riskinin yollarını anlattık.
+etiketler: çiçeklenme dönemi, meyve ağacı bakımı, tozlaşma, çiçek donu, arı, meyve tutumu
+gorsel: bekliyor
+gorsel_alt: Beyaz ve pembe çiçeklerle dolu bir elma ağacı dalında konan arı
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Meyve ağacı çiçek dönemi bakımında dört şeyden kaçının: çiçek açmışken ilaçlama yapmak (arılara zarar verir), aşırı azotlu gübre vermek, sert budama yapmak ve ani, aşırı sulama. Arıyı ve tozlaşmayı koruyun, çiçek donu için örtü ya da koruma hazırlayın. Çiçeklerin çoğunun dökülmesi normaldir; meyve tutumu çiçeğin yalnız küçük bir bölümüdür.
+@govde
+Mart sonu ve nisan, meyve bahçelerinin en güzel, aynı zamanda en nazik zamanıdır. Ağaçlar çiçekle kaplanır; bu çiçeklerin bir kısmı meyve olacaktır. Çiçeklenme dönemi, yılın verimini belirleyen birkaç haftadır ve bu haftalarda yapılacak yanlışlar hasadı doğrudan etkiler. Meyve ağacı çiçek dönemi bakımı bu yüzden "ne yapılmalı"dan çok "ne yapılmamalı" ile ilgilidir. Aşağıda çiçeklenmede en sık yapılan hataları, tozlaşmayı nasıl destekleyeceğinizi ve çiçek donu ile yağmura karşı ne yapacağınızı anlattık. Genel tarım bilgisi için Tarım ve Orman Bakanlığı araştırma enstitülerinin yayınlarına bakabilirsiniz: [TAGEM araştırma enstitüleri](https://arastirma.tarimorman.gov.tr/).
+
+## Meyve ağacı çiçek dönemi bakımının temeli: çiçekten meyveye
+
+Çiçeklenme, ağacın üreme dönemidir. Çiçeğin meyveye dönüşmesi dört aşamadan geçer: Çiçeğin açılması, polenin dişi organa ulaşması (tozlaşma), döllenme ve meyvenin tutması. Bu aşamaların her biri hava koşullarına, arı faaliyetine ve ağacın beslenmesine bağlıdır. Tozlaşmayı çoğu meyvede arılar yapar; bazı türlerde rüzgâr da payını alır.
+
+Önemli bir gerçek: Çiçeklerin çoğu meyve olmaz. Bir ağaç yüzlerce, binlerce çiçek açar; bunların yalnızca küçük bir yüzdesi meyve tutar. Çiçeklerin döküldüğünü görmek normal ve endişe verici değildir; ağaç taşıyabileceğinden fazlasını bırakmaz. Tutan meyvelerin fazlası da haziranda "haziran dökümü" ile ayrıca düşer. Bu yüzden çiçeklenmede müdahale etmek, bir işe yaramaz ve çoğu zaman zarar verir.
+
+## Çiçeklenmede yapılmayacaklar
+
+| Yapılmayacak iş | Neden? | Ne yapılır? |
+|---|---|---|
+| Açmış çiçeğe ilaçlama | Arılara ve tozlayıcılara zarar verir | Ürün etiketindeki çiçek dönemi uyarısına uyun; kritik ilaçlamayı çiçek öncesi ya da sonrası yapın |
+| Aşırı azotlu gübre | Yeşil aksamı büyütür, çiçek ve meyve tutumunu zayıflatır | Gübreyi çiçek öncesi ya da meyve tuttuktan sonra, ölçülü verin |
+| Sert budama | Çiçek tomurcuklarını alır, ağacı strese sokar | Budamayı çiçek öncesi bitirin |
+| Ani ve aşırı sulama | Çiçek ve genç meyve dökülür | Düzenli, ılımlı sulama |
+| Derin çapa | Yüzeysel kökleri keser, çiçek dökümü yaratır | Yüzeyi bozmayın |
+| Ağaç dibine yoğun işlem | Arıların yere konmasını engeller | Otlu kalması gerekiyorsa yönetin |
+
+Tablonun bir uyarısı: Her tavsiye bir ürün ya da bölge için geçerli olmayabilir. Meyve türünüze, çeşidinize ve bölge koşuluna göre il ya da ilçe tarım müdürlüğünden güncel öneri alın.
+
+## İlaçlama ve arı: çiçek döneminin en önemli kuralı
+
+Çiçek dönemi, ilaçlama konusunda en hassas zamandır. Çiçekte olan bir ağacı ilaçlamak, çiçeğe konan arıyı doğrudan etkiler ve bahçedeki tozlayıcı sayısını düşürür. Arı kaybı, meyve tutumunu azaltır. Birçok zirai ürünün etiketinde çiçek döneminde kullanılmaması ya da arıya toksik olduğu uyarısı yer alır. Bu uyarıya kesinlikle uyun.
+
+Üniversite uzantı yayınları bu konuda aynı yöndedir. Purdue Üniversitesi, elma yetiştiricilerine yaklaşık 10-14 günlük çiçek dönemi boyunca böcek ilacı uygulamamalarını önerir; arılar çoğunlukla gündüz dolaştığı için uygulama kaçınılmazsa gece ya da sabah erken yapmanın arıya rastlama riskini azalttığını da belirtir ([Purdue Extension: meyve ve sebzede tozlayıcıların korunması](https://extension.entm.purdue.edu/publications/POL-2/POL-2.html)). Missouri Üniversitesi uzantısı da çiçek döneminde uygulamadan kaçınmayı ve arıya daha zehirli karışımlardan uzak durmayı öğütler ([Missouri Extension](https://extension.missouri.edu/news/bee-mindful-of-pollinators-when-spraying-fruit-crops)).
+
+Çiçek döneminde ilaçlama yapmak zorunda kaldığınız ender durumlarda (örneğin ağır bir hastalık riski), ürün seçimi, zamanlama ve arıya zararsız bir uygulama için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın. Zamanlama için uzantı kaynakları gece ya da sabah erken saatleri işaret eder; ama bu bile ürüne bağlıdır ve etiket belirleyicidir. Bu yazıda ürün ya da doz verilmemiştir. Kış ilaçlamasının amacı ve zamanı için [kış ilaçlaması](/kis-ilaclamasi) yazısına bakabilirsiniz.
+
+## Tozlaşma: arıyı ve tozlayıcıyı korumak
+
+Meyve ağacı çiçek dönemi bakımının en önemli işi, tozlaşmayı desteklemektir. Üç şey yardımcı olur:
+
+**Arıyı bahçede tutmak.** Çiçeklenme döneminde bahçede veya yakınında arı kovanı bulundurmak, tozlaşmayı artırır. Kendi kovanınız yoksa komşu arıcılarla anlaşmak ya da yakındaki arı varlığından yararlanmak mümkündür. Bahçeyi arı dostu yapan çiçekli bitkiler için [arı dostu bitkiler](/ari-dostu-bitkiler) yazısına bakın.
+
+**Tozlayıcı çeşit bulundurmak.** Bazı meyve türleri kendi polenleriyle döllenemez (kendine kısır); elma, armut, kiraz ve badem gibi türlerde farklı çeşitlerin birbirini tozlaması gerekir. Bahçede tozlayıcı çeşit yoksa meyve tutumu düşük olur. Tozlayıcı çeşidi çiçeklenme dönemi uyumlu seçmek gerekir.
+
+**Hava koşullarına dikkat etmek.** Soğuk, yağışlı ve rüzgârlı havada arılar uçmaz; çiçekler tozlanamadan döker. Bu durumu değiştiremezsiniz; ama ağaç çiçek açma süresini uzun tutarsa tozlaşma fırsatı artar. Dengeli beslenmiş ve sağlıklı bir ağaç çiçeği daha uzun tutar.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Çiçek donu: en büyük risk
+
+İlkbahar donları, çiçeklenmenin en büyük tehlikesidir. Tomurcuk ve çiçek, soğuğa yapraktan çok daha duyarlıdır; hafif bir don bile çiçeğin iç organlarını bozar ve meyve oluşmaz. Zarar, çiçeğin içi kararmış, kahverengileşmiş olarak görülür. Don belirtilerini [don zararı belirtileri](/don-zarari-belirtileri) yazısında anlattık.
+
+Önlem için hava tahminini izleyin ve gece don bekleniyorsa şunları değerlendirin: Küçük ağaçların üstünü örtü ya da tülle kapatmak, bahçede rüzgârın serbest dolaşmasını sağlamak (soğuk hava çukurda birikir), toprağı nemli tutmak (nemli toprak ısıyı daha iyi tutar) ve gün batımından önce toprağı çıplak bırakmak (otu kısa tutmak). Büyük bahçelerde sisleme, rüzgâr makinesi ve ısıtıcı sistemler kullanılır; bunlar yatırım ister. Bitkileri dondan korumanın genel yöntemleri için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısı ayrıntı verir.
+
+## Gübreleme ve sulama: ölçü ve zaman
+
+Çiçek öncesi gübre, çiçeklenme için gereken besini sağlar; ama çiçek açmışken yüksek dozda azotlu gübre vermek, bitkiyi yeşil aksam üretmeye yönlendirir ve meyve tutumunu zayıflatır. Gübreyi çiçek öncesi ya da meyve tutumundan sonra vermek daha dengelidir. Zamanlama için [organik gübre ne zaman verilir](/organik-gubre-ne-zaman-verilir) yazısına, elma ağacı için [elma ağacı gübreleme](/elma-agaci-gubreleme) yazısına bakabilirsiniz.
+
+Meyve ağacı çiçek dönemi bakımında sulamada tutarlılık önemlidir. Çiçek döneminde toprağın ne çok kuru ne çok ıslak olması gerekir. Uzun kuraklıktan sonra gelen bol su ve ani sulama, çiçek ve genç meyve dökümünü artırır. Yağmurun yeterli olduğu yıllarda ek sulamaya gerek olmaz; kurak bir ilkbaharda hafif ve düzenli sulama yeterlidir.
+
+## Yağmur, nem ve hastalık
+
+Çiçek döneminde yağış ve nem, mantar ve bakteri hastalıklarını artırır. Elma ve armutta ateş yanıklığı gibi hastalıklar çiçeklenmede bulaşabilir; kirazda ise çiçek ve meyve çürüklüğü riski vardır. Bu yüzden nemli ve yağışlı çiçeklenmelerde hastalık belirtilerini yakından izleyin. Hastalık belirtilerini ve elma ağacı hastalıklarını [elma ağacı hastalıkları](/elma-agaci-hastaliklari) yazısında bulabilirsiniz. Müdahale gerekiyorsa tür, doz ve zamanlama için etikete ve il ya da ilçe tarım müdürlüğüne başvurun; çiçek döneminde arıya zararsız seçenek sorun.
+
+## Çiçeklenme döneminde yapılabilecek işler
+
+::: adimlar
+Hava tahminini izleyin | Gece donu, sert yağmur ve rüzgâr tahminlerini her gün kontrol edin.
+Arıya yer açın | Çiçek döneminde ilaçlama yapmayın; kovan ve arı varlığını koruyun.
+Gübreyi ölçün | Azotu çiçekteyken vermeyin; çiçek öncesi ya da meyve tuttuktan sonra verin.
+Donu önleyin | Gece don bekleniyorsa küçük ağaçları örtün, toprağı nemli tutun.
+Hastalığı gözleyin | Nemli havada çiçek ve genç sürgün belirtilerine bakın.
+Sabırlı olun | Çiçek dökümü normaldir; müdahale etmeyin.
+:::
+
+Çiçeklenme sonrası meyve seyreltme, haziran dökümü ve yaz bakımı için ağaç türüne göre ayrı yazılar izleyecektir; şimdilik bilinmesi gereken, çiçek döneminin yalnız beklemek, korumak ve zarar vermemekle ilgili olduğudur.
+@sss
+S: Çiçek açmış meyve ağacı ilaçlanır mı?
+C: Hayır, genellikle ilaçlanmaz; çiçekteki ağaca yapılan ilaçlama arılara ve tozlayıcılara zarar verir. Ürün etiketindeki çiçek dönemi uyarısına uyun. Zorunlu hastalık riskinde ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın.
+
+S: Çiçeklenmede meyve ağacına gübre verilir mi?
+C: Aşırı azotlu gübre verilmez; yeşil aksamı büyütür ve meyve tutumunu zayıflatır. Gübreyi çiçek öncesi ya da meyve tuttuktan sonra, ölçülü verin. Çiçeklenmede aşırı sulama ve derin çapa da çiçek dökümüne yol açar.
+
+S: Meyve ağacının çiçekleri neden dökülür?
+C: Çiçeklerin çoğunun dökülmesi normaldir; ağaç taşıyabileceğinden fazla meyve bırakmaz. Çiçek donu, soğuk ve yağışlı havada arı faaliyetinin azalması, tozlaşma eksikliği ve ani su değişimi dökümü artırır.
+
+S: Çiçek donuna karşı ne yapılır?
+C: Gece don bekleniyorsa küçük ağaçları örtü ya da tülle kapatın, toprağı nemli tutun ve soğuk havanın biriktiği çukur yerlerden kaçının. Büyük bahçelerde sisleme ve rüzgâr makinesi gibi sistemler kullanılır. Hava tahminini her gün izleyin.
+
+### YAZI
+slug: asma-terbiye-sistemleri
+baslik: Asma Terbiye Sistemleri: Goble, Telli ve Çardak
+yayin: 2027-02-28 11:35
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: asma terbiye sistemleri
+seo_baslik: Asma Terbiye Sistemleri: Goble, Telli ve Çardak
+seo_aciklama: Asma terbiye sistemleri nelerdir? Goble, telli (kordon) ve çardak sistemlerinin verim, işçilik, budama ve iklim farkı, kuruluş adımları ve seçim ölçütleri.
+ozet: Asma terbiye sistemleri, asmanın hangi biçimde büyüyüp budanacağını belirler. Goble, telli ve çardak sistemlerinin nasıl çalıştığını, verim, işçilik, makine ve iklim farkını, kuruluş adımlarını ve bahçenize hangisinin uyduğunu karşılaştırdık.
+etiketler: asma terbiye, goble, telli terbiye, çardak, bağ kurmak, asma budama
+gorsel: bekliyor
+gorsel_alt: Üç yanda sıralanmış goble biçiminde, telle yükseltilmiş ve çardak biçimli asma sistemleri
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi
+kisaca: Asma terbiye sistemleri üçe ayrılır: Goble, asmayı desteksiz, kısa gövdeli çalı biçiminde büyütür; kuru ve sıcak bölgelerde yaygındır. Telli sistem asmayı sıralı tellere yönlendirir ve makineli işe uyar. Çardak, asmayı yüksek bir tavanda yayar; yüksek verim ve gölge sağlar ama işçilik ister. Seçim iklime, çeşide ve işçiliğe bağlıdır.
+@govde
+Asma, sürüne sürüne büyüyen bir sarmaşıktır. Doğada ağaçlara sarılıp metrelerce tırmanır. Bağcı ise bu doğal eğilimi kullanır: Asmayı bir biçime sokar ve yıllarca o biçimde budar. Bu biçime terbiye sistemi denir. Asma terbiye sistemleri üç ana başlıkta toplanır ve her biri farklı iklim, çeşit, işçilik ve verim hedefine uyar. Aşağıda goble, telli ve çardak sistemlerini, kuruluş adımlarını ve seçim ölçütlerini anlattık. Asma budama ayrıntıları için [asma budama](/asma-budama), bağ kurma için [bağ kurmak](/bag-kurmak) yazılarına bakabilirsiniz.
+
+## Asma terbiye sistemleri nedir, neden önemlidir?
+
+Terbiye sistemi, asmanın gövdesinin, kollarının ve sürgünlerinin nasıl düzenleneceğidir. Bu düzenleme dört şeyi belirler: Işığın yapraklara ve salkımlara ulaşması, havalandırma ve hastalık, budamanın kolaylığı ve işçilik (makine kullanımı dahil) ve verim ile kalite. İyi seçilmiş bir sistem, asmanın ömrünü uzatır; kötü seçilmiş bir sistem yıllarca işçilik ve verim kaybettirir. Terbiye sistemi bir kez kurulduktan sonra değiştirmek zordur; bu yüzden kuruluş aşamasında dikkatle karar verin.
+
+## Üç ana sistem
+
+Penn State uzantısı ev bağlarında iki standart yaklaşım sayar: dikey bir kazığa bağlanan, çoğunlukla kamçı budamalı baş terbiyesi ve kısa dal (spur) budamalı kordon terbiyesi ([Penn State Extension: bahçede üzüm yetiştirme](https://extension.psu.edu/backyard-grape-growing)). Royal Horticultural Society, kordon (rod and spur) eğitiminin duvar, kemer ve çardaklarda da uygulanabildiğini, bu durumda yatay tellerin üstte gerildiğini anlatır ([RHS: kordon budama ve eğitme](https://www.rhs.org.uk/fruit/grapes/rod-and-spur-pruning-system)). Geneva Double Curtain ve lir gibi bölünmüş taç sistemlerini ise uzantı kaynakları eğitmesi ve teli kurması daha karmaşık sistemler olarak tanımlar.
+
+Asma terbiye sistemleri arasındaki farkı özetleyen tablo aşağıdadır.
+
+| Sistem | Nasıl? | Güçlü yanı | Zayıf yanı | Uygun yer |
+|---|---|---|---|---|
+| Goble (baş terbiye) | Kısa gövdeli, desteksiz ya da kazıklı çalı | Basit, yatırım düşük, kurak ve rüzgârlı yere uyar | Makine zor, verim sınırlı | Kuru ve sıcak bağlar |
+| Telli (kordon, çit biçimi) | Sıra boyu teller, kollar teli izler | Makineye uygun, havalanma iyi, kalite yüksek | Yatırım ve montaj gerekir | Düz ve geniş bağlar |
+| Çardak (tavan) | Yüksek direkler üzerinde yatay yayılma | Yüksek verim, gölge, sofralık üzüm | İşçilik yoğun, yatırım yüksek | Sofralık üzüm, sıcak bölge |
+
+Tablodaki çerçeve genel eğilimleri gösterir. Gerçek seçim, çeşidin canlılığına, iklime, toprak verimine ve işçilik olanağına bağlıdır.
+
+## Goble: çalı biçiminde asma
+
+Goble sisteminde asma, yerden 40-80 cm yükseklikte kısa bir gövdeyle başlar ve gövdenin ucundan çıkan kısa kollar çalı gibi yayılır. Destek ya hiç kullanılmaz ya da bir kazıkla tutulur. Budamada bu kollar kısa tutulur; her yıl az sayıda göz bırakılır. Goble, Türkiye'nin kurak ve sıcak bağ bölgelerinde, özellikle şaraplık ve kurutmalık üzümde yaygındır.
+
+Güçlü yanları: Kurulumu ucuz, bakımı basit, rüzgâra ve kuraklığa dayanıklıdır. Asma gölgesi toprağı güneşten korur ve su kaybını azaltır. Zayıf yanları: Verim görece düşüktür, makine kullanımı güçtür ve işçilik elle yapılır. Çok verimli toprakta ve yüksek çeşitlerde goble kontrolden çıkabilir. Gübreleme ve sulama için [bağ gübreleme](/bag-gubreleme) yazısına bakın.
+
+## Telli sistem: sıralı ve makineli
+
+Telli sistemde asmalar sıra boyunca dikilir; sıranın boyunca direkler arasında gerilen bir ya da birkaç tel, asmanın kollarını ve sürgünlerini taşır. Çeşitli biçimleri vardır: tek telli kordon, çift kollu kordon ve çok telli sistemler. Gövde genellikle 80-120 cm yüksekliğe uzatılır ve kollar tele bağlanır. Sürgünler yukarı ve aşağı doğru yönlendirilir.
+
+Güçlü yanları: Işık ve hava dengelidir, hastalık riski azalır, salkım kalitesi yüksektir ve sıralar arası traktör geçebildiği için budama ve ilaçlama bir ölçüde mekanikleşebilir. Zayıf yanları: İlk kuruluş maliyeti (direk, tel, bağlantı) yüksektir; yıllık bağlama ve yönlendirme işçiliği gerekir. Kurulum doğru yapılmazsa teller gevşer ve sistem çöker.
+
+[ürün:hg-fidan-topragi]
+
+## Çardak: yüksekte yayılan asma
+
+Çardak sisteminde asma 2-2,5 metre yüksekliğe uzatılır ve yatay bir tel ağı üzerinde yayılır; üzüm salkımları yapraklı çatının altında sarkar. Bu sistem sıcak bölgelerde ve sofralık üzümde yaygındır. Yapraklar yoğun gölge yaparak salkımları güneş yanığından korur. Verim yüksek olabilir; ancak California Üniversitesi'nin ev bahçesi üzüm kılavuzu, çardak sistemlerinde ürün yükünün tutarsız kalabileceğini belirtir ([UC ANR: evde sofralık üzüm](https://ucanr.edu/sites/default/files/2023-11/391019.pdf)).
+
+Zayıf yanları: Yatırım yüksektir, hasat ve budama eğilerek ya da yukarı bakarak yapıldığı için işçilik yoğundur, havalandırma yetersiz kalırsa mantar hastalığı artar. Çardağın alt boşluğu gölge ve oturma yeri olarak ev bahçesinde de değerlidir; evin avlusunda ya da bahçe girişinde çardak asması hem gölge hem üzüm verir.
+
+## Hangi sistemi seçmeli?
+
+Asma terbiye sistemleri arasında seçim yaparken yalnız verime bakmayın; işçilik ve yatırımı birlikte düşünün.
+
+Seçimi dört ölçüt yönlendirir:
+
+::: adimlar
+İklimi düşünün | Kurak ve sıcak yerde goble ya da çardak; nemli yerde telli sistem hastalığı azaltır.
+Üzüm türünü belirleyin | Sofralık için çardak, şaraplık için telli ya da goble.
+İşçiliği hesaplayın | Makine kullanacaksanız telli; elle çalışacaksanız goble ya da çardak.
+Yatırımı değerlendirin | Goble en ucuz, çardak ve telli daha pahalıdır.
+Çeşidin canlılığına bakın | Güçlü çeşit çardak ve uzun kollara, zayıf çeşit goble ve kısa kollara uyar.
+:::
+
+Yerel gelenek de önemli bir ipucudur; bölgenizde yıllardır başarıyla kullanılan sistem, iklim ve toprağa uyum sağlamıştır. Bağ kuracaksanız yerel çiftçilere ve il ya da ilçe tarım müdürlüğüne danışın.
+
+## Kuruluş: ilk yıl nasıl şekil verilir?
+
+Hangi sistem seçilirse seçilsin, ilk iki üç yıl asmaya şekil verme dönemidir. Dikimden sonra ilk yıl, fide tek ve güçlü bir sürgün verecek biçimde yönlendirilir; gövde bu sürgünden oluşur. İkinci yıl kollar seçilir ve teller ya da çardak telleri üzerine yönlendirilir. Üçüncü yıldan sonra asma verime başlar. Bu süre boyunca fazla meyve bırakmamak, asmanın gövde ve kök gelişimine enerji ayırmasını sağlar.
+
+Dikim için çukur hazırlığı ve toprak, [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısındaki ilkelerle yapılır. Dikimden önce direk ve telin yerini planlayın; sonradan sistem değiştirmek zordur. Bağ kurma sürecinin ayrıntıları için [bağ kurmak](/bag-kurmak) yazısı yararlıdır.
+
+## Bakım ve hastalıkla ilişkisi
+
+Terbiye sistemi, hastalıkla da ilişkilidir. Yaprak ve salkım çevresinde hava akımı sağlayan sistemler (telli) külleme ve mildiyöyü azaltır. Yoğun ve havasız çardak ya da sıkışık goble nem tutar ve hastalığı artırır. Sürgün yönlendirme, yaprak seyreltme ve düzenli budama bu riski azaltır. Asma hastalıklarının belirtileri için [asma hastalıkları](/asma-hastaliklari) yazısına bakın. Zirai ürün gerektiren durumlarda etikete ve il ya da ilçe tarım müdürlüğüne başvurun.
+@sss
+S: Asma terbiye sistemleri nelerdir?
+C: Üç ana sistem vardır: Goble (kısa gövdeli, desteksiz çalı), telli (sıra boyu teller üzerine yönlendirilen kordon) ve çardak (yüksek bir tavan üzerinde yayılan asma). Seçim iklime, çeşide, işçiliğe ve yatırıma bağlıdır.
+
+S: Goble terbiye sistemi nedir?
+C: Asmanın yerden 40-80 santim yükseklikte kısa bir gövdeyle başlayıp çalı gibi yayılmasıdır. Destek kullanılmaz ya da bir kazık kullanılır. Kurak ve sıcak bölgelerde yaygındır; kurulumu ucuzdur ama verim sınırlı ve işçilik elle yapılır.
+
+S: Çardak asma sisteminin avantajı nedir?
+C: Yüksek verim sağlar ve salkımları yaprak gölgesiyle güneş yanığından korur. Sofralık üzüm ve sıcak bölgeler için uygundur; evin bahçesinde de gölge verir. Yatırım ve işçilik yüksektir, havalandırma yetersizse hastalık artar.
+
+S: Asma ilk yıl nasıl şekillendirilir?
+C: Dikimden sonra tek ve güçlü bir sürgün seçilip yönlendirilir; gövde bu sürgünden oluşur. İkinci yıl kollar seçilip teller üzerine yönlendirilir. Üçüncü yıldan sonra verime başlar; ilk yıllarda fazla meyve bırakmayın.
+
+### YAZI
+slug: zeytin-aylik-bakim-takvimi
+baslik: Zeytin Aylık Bakım Takvimi: Aylara Göre Yapılacaklar
+yayin: 2027-02-28 14:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: zeytin aylık bakım takvimi
+seo_baslik: Zeytin Aylık Bakım Takvimi: Aylara Göre İşler
+seo_aciklama: Zeytin aylık bakım takvimi: budama, gübreleme, sulama, zararlı gözlemi, çiçeklenme, hasat ve hasat sonrası işleri ay ay, bölge farkıyla anlatıldı.
+ozet: Zeytin aylık bakım takvimi, ağacın yıl boyu ihtiyaç duyduğu işleri aylara dağıtır: Kış sonu budama ve gübre, ilkbaharda sulama ve çiçeklenme hazırlığı, yazın su ve zararlı gözlemi, sonbaharda hasat ve hasat sonrası bakım. Ay ay işleri ve bölge farkını tablo ile verdik.
+etiketler: zeytin bakımı, zeytin takvimi, zeytin budama, zeytin gübreleme, zeytin hasadı, zeytin sulama
+gorsel: bekliyor
+gorsel_alt: Ege'de eski bir zeytin bahçesinde ilkbahar günü, toprağı işlenmiş ağaçlar
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, hg-fidan-topragi
+kisaca: Zeytin aylık bakım takvimi şöyle özetlenir: Ocak-şubatta budama ve gübre planı, mart-nisanda toprak işleme ve ilk gübre, mayısta çiçeklenme ve sulama hazırlığı, haziran-ağustosta sulama ve zararlı gözlemi, eylülde hasat hazırlığı, ekim-aralıkta hasat ve hasat sonrası bakım. Tarihler Ege ve Marmara için yaklaşıktır; bölgeye göre kayar.
+@govde
+Zeytin ağacı yıllarca yaşar ve bakımsız da ürün verir; ama düzenli bakım gören ağaç daha çok ve daha düzenli verim verir. Bakımın zorluğu, işlerin yıla dağılmasındadır: Her mevsimin kendi görevi vardır ve bir görevi atlamak bir sonraki mevsime yansır. Zeytin aylık bakım takvimi bu işleri ay ay sıralar. Tarihler Ege ve Marmara kıyısı için yaklaşıktır; Akdeniz ve Güneydoğu'da bir iki hafta erken, iç kesimde ve yüksek rakımlıda geç olur. Aşağıda her dönemin işlerini ve nedenlerini anlattık. Genel tarım bilgisi için Tarım ve Orman Bakanlığı araştırma enstitülerinin yayınlarına bakabilirsiniz: [TAGEM araştırma enstitüleri](https://arastirma.tarimorman.gov.tr/).
+
+## Zeytinin yıllık döngüsü
+
+Zeytin her yıl şu sırayı izler: Kışın uykuda dinlenir, ilkbaharda yeni sürgün ve çiçek tomurcuğu verir, mayıs-haziranda çiçek açar, yaz boyu meyve büyütür, sonbaharda meyve olgunlaşır ve hasat edilir. Zeytinin kendine özgü bir davranışı, periyodisitedir: Bir yıl bol, ertesi yıl az ürün vermesi. Bu döngüyü bakımla dengelemek mümkündür; ayrıntılı bilgi için [zeytinde periyodisite](/zeytinde-periyodisite) yazısına bakın.
+
+Florida Üniversitesi (UF/IFAS) zeytini bir yıl bol, ertesi yıl hafif ürün veren bir tür olarak tanımlar ([UF/IFAS Gardening Solutions: zeytin](https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/olives/)). Texas A&M uzantısı ise bol ürün yılında budamayı atlamamayı, meyvenin bir kısmını ölçülü budamayla ayıklamanın ağacın yıldan yıla daha dengeli ürün bağlamasına yardım ettiğini söyler ([Texas A&M AgriLife: zeytin](https://mytexas.ag.tamu.edu/publications/olives-texas-fruit-and-nut-production/)).
+
+## Zeytin aylık bakım takvimi: genel tablo
+
+| Ay | Ana iş | Not |
+|---|---|---|
+| Ocak | Hasat bitişi (geç çeşit), kış bakımı, budama planı | Donlu günde budama yapmayın |
+| Şubat | Budama (soğuk bölgede mart), gübre planı, toprak analizi | Don bitmeden sert budama yapmayın |
+| Mart | Budamayı bitirin, ilk gübre, toprak işleme | Ağaç uyanıyor |
+| Nisan | Toprak işleme, ot kontrolü, hastalık gözlemi | Tomurcuklar şişiyor |
+| Mayıs | Çiçeklenme, gübre (azot), sulama hazırlığı | Çiçekte ilaçlama yapmayın |
+| Haziran | Meyve tutumu, ilk sulama | Kurak bölgede sulama başlar |
+| Temmuz | Düzenli sulama, zararlı gözlemi | Zeytin sineği takibi |
+| Ağustos | Sulama, zararlı ve hastalık gözlemi | Meyve irileşiyor |
+| Eylül | Hasat hazırlığı, sulamayı azaltma | Sofralık zeytinde hasat başlar |
+| Ekim | Hasat (yeşil ve karışık), gübre planı | Sofralık ve yağlık |
+| Kasım | Ana hasat, hasat sonrası bakım başlangıcı | Hasat bahçeyi yoracak |
+| Aralık | Hasat bitişi, hasat sonrası gübre, budama planı | Kış hazırlığı |
+
+Tablodaki tarihler bölgeye ve çeşide göre bir iki hafta kayar. Hasat zamanı yağlık ya da sofralık amaca ve çeşide göre belirlenir.
+
+## Ocak ve şubat: kış sonu hazırlığı
+
+Kışın zeytin uykudadır. Ocak ve şubat, hasat sonrası dönemin tamamlandığı ve yeni sezonun planlandığı aylardır. Bu aylarda toprak analizi yaptırmak, gübre ihtiyacını belirlemek ve budama planını yapmak en önemli işlerdir. Hasat sonrası bakım için [zeytin ağacına hasat sonrası bakım](/zeytin-agacina-hasat-sonrasi-bakim) yazısına bakabilirsiniz.
+
+Budama, zeytin bakımının en önemli işlerinden biridir. Genellikle şubat sonu ile mart ayında, kış soğuğu geçince yapılır. Soğuk bölgelerde don riskinin bitmesini beklemek gerekir; çünkü budanan ağaç dona daha duyarlıdır. Budamada amaç, tacın ışık almasını sağlamak, kuru ve hastalıklı dalları almak ve verim dalını yenilemektir. Aşırı sert budama bir yıl ürün kaybettirir; UF/IFAS zeytinin aynı dal noktasında bir daha meyve vermediğini, her yıl yeni sürgüne ihtiyaç duyduğunu hatırlatır. Zamanlama kaynaklara göre değişir: California Üniversitesi Marin Master Gardeners sayfası zeytini her yıl hasattan sonra budamayı önerir ([UC Marin Master Gardeners: zeytin](https://ucanr.edu/site/uc-marin-master-gardeners/document/olive)); bu yazıdaki takvim, soğuk bölgelerin don riskini gözeterek kış sonu budamasını esas alır. Budama aletlerini temiz ve keskin tutun; hastalık taşıyıcı olmaması için bıçağı alkolle silin.
+
+## Mart ve nisan: uyanış
+
+Mart ayında ağaç uyanır ve yeni sürgünler gelişir. Budamayı bitirin, toprağı sürüp ya da çapalayıp otları temizleyin ve ilk gübreyi verin. Olgun organik madde (kompost, solucan gübresi) yılda bir kez ağaç çevresine, tacın izdüşümüne serilip toprağa karıştırılır; ürün bilgisinde meyve ağaçları için fidan dikimi dozu verilir, yetişkin ağaçlarda doz toprak analizine göre belirlenir. Ağır topraklarda sonbahar, hafif ve yağışlı topraklarda ilkbahar gübrelemesi daha uygundur; zamanlama için [organik gübre ne zaman verilir](/organik-gubre-ne-zaman-verilir) yazısına bakın.
+
+Nisanda tomurcuklar şişer. Bu dönemde otlar hızla çıkar; ağaç altındaki otu kontrol edin, çünkü ot ağaçla su ve besin için rekabet eder. Hastalık belirtileri (yaprakta halkalı leke) için ağaçları gözleyin; zeytin hastalıklarını [zeytin hastalıkları](/zeytin-hastaliklari) yazısında anlattık.
+
+[ürün:hasturk-kati-solucan-gubresi,leonardit-organik-toprak-duzenleyici]
+
+## Mayıs: çiçeklenme
+
+Zeytin mayıs ve haziran başında çiçek açar. Çiçekler küçük, kokulu ve kremsi beyazdır; tozlaşma rüzgârla olur. Çiçeklenme döneminde yağmur ve sert rüzgâr tozlaşmayı bozabilir. Bu dönemde azotlu gübrenin fazlası, çiçek ve meyve tutumunu zayıflatır; ölçülü tutun. Çiçekte ilaçlama yapmayın; arılar ve diğer tozlayıcı böcekler çiçeklenmeye katkıda bulunur. Kurak bölgelerde mayıs sonunda sulama için hazırlık yapın: Damla hatlarını ve pompayı kontrol edin.
+
+## Haziran, temmuz, ağustos: sulama ve gözlem
+
+Zeytin kuraklığa dayanıklıdır; ama meyve büyüme döneminde (haziran-ağustos) su, yağ oranını ve meyve iriliğini artırır. Sulama yapılabiliyorsa, yaz aylarında, özellikle meyve tutumundan sonra ve çekirdek sertleşmesi sonrası düzenli sulama verimi yükseltir. Sulama yöntemi olarak damla uygundur; yöntem karşılaştırması için [tarla sulama yöntemleri](/tarla-sulama-yontemleri) yazısına bakın. Texas A&M suyun en kritik olduğu dönemleri çiçeklenme öncesi ilkbahar ile meyve tutumu ve erken meyve gelişimi olarak belirtir; UF/IFAS ise fazla suyun, hem sulamadan hem yağmurdan, kök çürüklüğüne yatkınlık yarattığını vurgular. Sulama zamanı ve miktarı iklim, toprak ve ağaç yaşına göre değişir; yerel öneri için il ya da ilçe tarım müdürlüğüne başvurun.
+
+Yazın en önemli iş zararlı gözlemidir. Zeytin sineği ve zeytin güvesi gibi zararlılar meyveyi bozar; tuzaklarla takip edilir. Tuzaklar ve gözlem yöntemleri için [zararlı tuzakları](/zararli-tuzaklari) ve [feromon tuzağı](/feromon-tuzagi) yazılarına bakabilirsiniz. Zirai ürün gerekiyorsa tür, zaman ve doz için etikete ve il ya da ilçe tarım müdürlüğüne danışın.
+
+## Eylül, ekim, kasım: hasat
+
+Eylülde sulamayı azaltın ve hasat hazırlığı yapın; Texas A&M, azotlu gübrenin eylülden sonra önerilmediğini de not eder. Çuval, sergi, sandık ve araçları kontrol edin. Yağlık zeytin, meyve renk değiştirip yağ oranı yükseldiğinde, sofralık zeytin ise çeşide göre yeşil ya da kararmış dönemde hasat edilir. Hasat zamanı çoğu bölgede ekim-kasımdır. Hasat sırasında dalları kırmamaya, meyveyi ezmemeye ve toplama sonrası hızla işlemeye dikkat edin; ezilen meyve çabuk bozulur. Hasat zamanı ve yöntemi, ürünün kalitesini ve ağacın ertesi yıl verimini etkiler.
+
+## Aralık: hasat sonrası bakım
+
+Hasat biter bitmez ağacın dinlenmesine ve toparlanmasına yardım edin. Hasat sonrası olgun organik madde ve (analiz gerektiriyorsa) fosfor ve potasyum verilir; bu, gelecek yılın çiçek tomurcuklarını destekler. Kuru ve hastalıklı dalları toplayın ve yakmak yerine bahçeden uzaklaştırın. Gövde ve dallarda hastalık belirtisi olup olmadığına bakın. Yeni zeytin bahçesi kurmayı düşünüyorsanız, [zeytin bahçesi kurmak](/zeytin-bahcesi-kurmak) ve [zeytin fidanı dikimi](/zeytin-fidani-dikimi) yazıları planlamaya yardımcı olur.
+
+## Bölge farkı
+
+Zeytin aylık bakım takvimi bölgeye göre kayar. Ege ve Akdeniz kıyılarında bütün aşamalar bir iki hafta erken; Marmara'da biraz geç; iç ve yüksek kesimlerde bir iki ay geçtir. Soğuk bölgelerde, zeytinin sıfırın altındaki sıcaklığa dayanımı sınırlıdır; budama ve gübreleme don riskinin bitmesinden sonra yapılmalıdır. Çeşit de önemlidir: Erkenci ve geççi çeşitlerin hasat zamanı farklıdır.
+@sss
+S: Zeytin ne zaman budanır?
+C: Genellikle şubat sonu ile mart ayında, kış soğuğu geçince budanır. Soğuk bölgelerde don riskinin bitmesi beklenir. Amaç, tacın ışık almasını sağlamak, kuru ve hastalıklı dalları almak ve verim dalını yenilemektir; sert budama bir yıl ürün kaybettirir.
+
+S: Zeytin ne zaman gübrelenir?
+C: Olgun organik madde ve gübre ilkbahar başında ya da sonbahar-hasat sonrasında verilir; ağır topraklarda sonbahar, hafif ve yağışlı topraklarda ilkbahar uygundur. Hasattan sonra yapılan gübreleme, gelecek yılın çiçek tomurcuklarını destekler. Doz için toprak analizi gerekir.
+
+S: Zeytin ne zaman sulanır?
+C: Kuraklığa dayanıklıdır ama meyve büyüme döneminde, haziran-ağustosta düzenli sulama meyve iriliğini ve yağ oranını artırır. Damla sulama uygundur. Eylülde hasada doğru sulamayı azaltın. Miktar iklim ve toprağa göre değişir.
+
+S: Zeytin hasadı ne zaman yapılır?
+C: Çoğu bölgede ekim ve kasım aylarında yapılır. Yağlık zeytin meyve renk değiştirip yağ oranı yükselince, sofralık zeytin çeşide ve amaca göre yeşil ya da kararmış dönemde toplanır. Hasatta meyveyi ezmemeye ve dalları kırmamaya dikkat edin.
+
+### YAZI
+slug: antep-fistigi-bahar-bakimi
+baslik: Antep Fıstığı Bahar Bakımı: Tomurcuktan Çiçeklenmeye
+yayin: 2027-02-28 16:40
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: antep fıstığı bahar bakımı
+seo_baslik: Antep Fıstığı Bahar Bakımı: Tomurcuktan Çiçeğe
+seo_aciklama: Antep fıstığı bahar bakımı nasıl yapılır? Tomurcuk uyanışı, don riski, erkek ve dişi ağaçta tozlaşma, gübre, sulama ve budama için ilkbahar planı.
+ozet: Antep fıstığı bahar bakımı, tomurcuk uyanışından çiçeklenmeye kadar olan dönemdeki don riski, erkek ve dişi ağacın tozlaşması, gübre ve sulama kararları ve zararlı gözlemini kapsar. İki evcikli bu ağacın ilkbahar işlerini sırayla ve dikkat edilecek noktalarla anlattık.
+etiketler: antep fıstığı, fıstık bahçesi, ilkbahar bakımı, tozlaşma, çiçek donu, periyodisite
+gorsel: bekliyor
+gorsel_alt: İlkbaharda tomurcukları açılmaya başlayan, kuru ve taşlı yamaçta duran antep fıstığı ağaçları
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, hg-fidan-topragi
+kisaca: Antep fıstığı bahar bakımı, tomurcuklar uyanırken başlar: Don riskini izleyin, erkek ve dişi ağaçların çiçeklenme zamanını kontrol edin, olgun organik madde ve ölçülü azot verin, gerekirse hafif sulayın ve zararlıları gözleyin. Antep fıstığı iki evciklidir; dişi ağaçların meyve vermesi rüzgârla taşınan erkek ağaç poleniyle olur.
+@govde
+Antep fıstığı, kurak ve sıcak yamaçların ağacıdır. Kış boyunca yaprağını döker ve dinlenir; mart-nisanda tomurcukları şişer, çiçekler ve yeni yapraklar birlikte çıkar. Ağacın bir yılda alacağı verim, bu birkaç haftada belirlenir. Antep fıstığı bahar bakımı bu yüzden don, tozlaşma ve besin dengesi etrafında dönen bir iştir. Aşağıda antep fıstığı bahar bakımının işlerini sırayla anlattık. Genel tarım bilgisi için Tarım ve Orman Bakanlığı araştırma enstitülerinin yayınlarına bakabilirsiniz: [TAGEM araştırma enstitüleri](https://arastirma.tarimorman.gov.tr/).
+
+## Antep fıstığı nasıl bir ağaç?
+
+Antep fıstığı (Pistacia vera) iki evcikli bir ağaçtır: Erkek ve dişi çiçekler ayrı ağaçlarda açar. Meyve yalnız dişi ağaçta oluşur; erkek ağaçlar polen verir. Tozlaşmayı çoğunlukla rüzgâr yapar; arılar önemli değildir. Bu yüzden bahçede erkek ağaç bulunması ve erkek ile dişi ağaçların çiçeklenme zamanlarının uyumlu olması zorunludur. Erkek ağaç oranı kaynağa göre değişir; New Mexico State Üniversitesi uzantısı 8-10 dişi ağaca bir erkek (tozlayıcı) ağaç önerir ([NMSU: New Mexico'da antep fıstığı yetiştirme](https://pubs.nmsu.edu/_circulars/CR532/index.html)). Erkek ağaçlar bahçeye serpiştirilir; hâkim rüzgâr yönü dikkate alınır.
+
+Ağaç kuraklığa, sıcağa ve fakir toprağa dayanıklıdır. Derin kökleri sayesinde yağışsız yazları geçirir. Ama çiçeklenme dönemindeki ilkbahar donu ve yağışlı, nemli hava verimi düşürür. Ağaç periyodisiteye yatkındır: Bir yıl bol, ertesi yıl az ürün verir; bu çiçek tomurcuğu dengesiyle ilgilidir. Benzer bir döngüyü zeytinde de görüyoruz; ayrıntı için [zeytinde periyodisite](/zeytinde-periyodisite) yazısına bakabilirsiniz.
+
+## Antep fıstığı bahar bakımı takvimi
+
+| Dönem | Ne olur? | Yapılacak |
+|---|---|---|
+| Şubat sonu | Tomurcuk şişmesi başlar | Don tahminini izleyin; budama kararını verin |
+| Mart | Tomurcuk uyanıyor | Toprak işleme, ot kontrolü, olgun organik madde |
+| Nisan başı | Çiçek tomurcukları açılıyor | Don riski, hastalık ve zararlı gözlemi |
+| Nisan | Çiçeklenme, tozlaşma | Çiçekte ilaçlama yok, erkek-dişi uyumunu kontrol edin |
+| Nisan sonu-mayıs | Meyve tutumu | Ölçülü sulama, azotu aşırı vermeyin |
+
+Tarihler Güneydoğu Anadolu için yaklaşıktır; bölge, yükseklik ve yıla göre bir iki hafta kayar.
+
+## Don: en büyük tehdit
+
+İlkbahar donları, antep fıstığının en ciddi riskidir. Tomurcuklar uyandıktan sonra sıfırın altındaki sıcaklıklar çiçek ve genç sürgüne zarar verir. Hafif bir don bile çiçeklerin iç organlarını bozabilir; dişi çiçek zarar görürse o yıl meyve tutmaz. Bu yüzden mart sonu ile nisan başında hava tahminini her gün izleyin.
+
+Önlem için seçenekler sınırlıdır; çünkü ağaçlar büyüktür ve bahçeler geniştir. Soğuk havanın biriktiği çukur yerlerde fıstık bahçesi kurmaktan kaçının; yamaç ve rüzgâr alan yerler daha güvenlidir. Don sonrası zararı anlamak için çiçek ve tomurcukların kesiti incelenir: İçi kararmış çiçek ölmüştür. Genel don koruma yöntemleri için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) ve zarar belirtileri için [don zararı belirtileri](/don-zarari-belirtileri) yazılarına bakabilirsiniz.
+
+## Tozlaşma: erkek ve dişi ağaç uyumu
+
+Antep fıstığı bahar bakımında tozlaşmayı garantilemek, verim için kritik adımdır. İki şeyi kontrol edin: Birincisi, bahçede yeterli sayıda ve doğru yerleştirilmiş erkek ağaç olması. İkincisi, erkek ağaçların çiçeklenme zamanının, dişi ağaçlarınkiyle çakışması. Erkek çiçekler genellikle dişilerden biraz önce açar ve polen verir; polen rüzgârla taşınır. Çiçeklenme zamanları uyumsuzsa ya da erkek ağaç sayısı azsa, dişi çiçekler tozlanamaz ve meyve tutmaz.
+
+Bahçenizde erkek ağaç eksikse, çiçeklenme zamanı uyumlu erkek ağaç dikmek ya da yeni aşılamak uzun vadeli bir çözümdür. NMSU uzantısı, geç ilkbahar yağmurlarının, donların ve kurutucu sert rüzgârların tozlaşmayı engellediğini, polen taşınması tümüyle rüzgâra bağlı olduğu için polen saçılımı sırasında ılımlı rüzgârın yararlı olduğunu belirtir; New Mexico'da tozlaşma genellikle nisan başı ile ortasında gerçekleşir. Çiçeklenme döneminde yağmur, polenin taşınmasını ve tozlaşmayı bozar; yapabileceğiniz bir şey yoktur, ama bunu verim tahmininde göz önüne alın.
+
+## Gübre, toprak işleme ve sulama
+
+Antep fıstığı fakir toprakta da yetişir ve çok gübre istemez. Bahar başında olgun organik madde (kompost, solucan gübresi) ağaç çevresine, tacın izdüşümüne serilip hafifçe toprağa karıştırılır; ürün bilgisinde meyve fidanı dikiminde çukura solucan gübresi önerilir, yetişkin ağaçta doz toprak analizine göre belirlenir. Aşırı azot, yeşil aksamı büyütür, çiçek ve meyve tutumunu zayıflatır ve periyodisiteyi artırabilir; azotu ölçülü verin. Fosfor ve potasyum, toprak analizine göre verilir. Gübre zamanlaması için [organik gübre ne zaman verilir](/organik-gubre-ne-zaman-verilir) yazısına bakın.
+
+Toprak işleme sığ yapılmalıdır; derin çapa yüzeysel kökleri keser. Otları ağaç dibinde kontrol altında tutun; ot su ve besin için ağaçla rekabet eder. Sulama bakımından antep fıstığı kuraklığa dayanıklıdır; kurak bir ilkbaharda çiçeklenme öncesi ya da meyve tutumunda hafif bir sulama yararlı olabilir. Ağaç yaşına, toprağa ve iklime göre sulama için il ya da ilçe tarım müdürlüğünden öneri alın.
+
+[ürün:hasturk-kati-solucan-gubresi,leonardit-organik-toprak-duzenleyici]
+
+## Budama kararı
+
+Antep fıstığı bahar bakımında en çok tereddüt edilen iş budamadır; çünkü yanlış zamanda yapılan budama o yılın çiçeğini ve rekoltesini alır.
+
+Antep fıstığı budaması, genellikle kış sonunda, tomurcuklar uyanmadan yapılır. Amaç, ağacın tacının ışık almasını sağlamak, kuru ve hastalıklı dalları almak ve verim dallarını yenilemektir. Çok sert budama ürün kaybına yol açar; çünkü antep fıstığı meyveyi önceki yılın sürgünlerinde ya da tomurcuklarında verir. Budama zamanı bahar başına denk geliyorsa, çiçek tomurcuklarını almamaya dikkat edin. Budama aletlerini temiz ve keskin tutun. Budama ayrıntısı bölgeye ve ağaç yaşına göre değişir; yerel bahçıvanlardan ve il ya da ilçe tarım müdürlüğünden destek alın.
+
+## Zararlı ve hastalık gözlemi
+
+İlkbaharda tomurcuk uyanır uyanmaz zararlılar da aktifleşir. Antep fıstığında emici böcekler (örneğin psillit), yaprak ve sürgün zararlıları ile mantar hastalıkları görülebilir. Haftada bir ağaçları gözleyin ve gördüklerinizi bir deftere yazın; hangi ağaçta ne zaman hangi belirtinin çıktığını bilmek, bir sonraki yılın antep fıstığı bahar bakımını çok kolaylaştırır: Yaprak altında böcek ya da yapışkan salgı, sürgünlerde kurumalar, tomurcuklarda kararma arayın. Gözlem için basit tuzaklardan yararlanabilirsiniz; ayrıntı için [zararlı tuzakları](/zararli-tuzaklari) yazısına bakın.
+
+Bölgesel farklara da dikkat edin: Gaziantep, Şanlıurfa, Siirt ve Kahramanmaraş gibi üretim merkezlerinde tomurcuk uyanışı rakıma göre iki üç hafta fark edebilir; komşu bahçenin takvimini kendi ağaçlarınızın durumuyla karşılaştırın ama körü körüne kopyalamayın. Yamaç yönü, toprak derinliği ve yaş da çiçeklenme zamanını değiştirir. Genç ağaçlar genellikle yaşlılardan daha erken uyanır ve dona daha açık kalır; bu yüzden genç bahçede don gözlemini daha sıkı tutun. Çiçek döneminde ilaçlama yapmak, tozlaşmaya zarar verebilir; zirai ürün gereken durumlarda tür, zaman ve doz için etikete ve il ya da ilçe tarım müdürlüğüne başvurun.
+@sss
+S: Antep fıstığı bahar bakımı nasıl yapılır?
+C: Tomurcuklar uyanırken don riskini izleyin, erkek ve dişi ağaç çiçeklenme uyumunu kontrol edin, olgun organik madde ve ölçülü azot verin, gerekirse hafif sulayın ve zararlıları gözleyin. Çiçek döneminde ilaçlama yapmaktan kaçının.
+
+S: Antep fıstığı neden meyve vermez?
+C: Sık nedenler ilkbahar donu, erkek ağaç eksikliği ya da çiçeklenme zamanı uyumsuzluğu, yağışlı ve rüzgârsız tozlaşma, aşırı azot ve periyodisitedir. Antep fıstığı iki evciklidir; meyve yalnız dişi ağaçta, erkek ağaç poleniyle oluşur.
+
+S: Antep fıstığı bahçesinde kaç erkek ağaç olmalı?
+C: Oran kaynağa göre değişir; New Mexico State Üniversitesi uzantısı 8-10 dişi ağaca bir erkek ağaç önerir. Erkek ağaçlar bahçeye serpiştirilir; hâkim rüzgâr yönü dikkate alınır. Erkek ve dişi ağaçların çiçeklenme zamanı uyumlu olmalıdır. Yerel öneri için il ya da ilçe tarım müdürlüğüne danışın.
+
+S: Antep fıstığı ne zaman budanır?
+C: Genellikle kış sonunda, tomurcuklar uyanmadan budanır. Amaç ışık almayı artırmak, kuru ve hastalıklı dalları almak ve verim dalını yenilemektir. Çok sert budama ürün kaybettirir; çiçek tomurcuklarını almamaya dikkat edin.
+
+### YAZI
+slug: nar-bahcesi-kurmak
+baslik: Nar Bahçesi Kurmak: Çeşit, Mesafe ve Sulama
+yayin: 2027-02-28 19:30
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: nar bahçesi kurmak
+seo_baslik: Nar Bahçesi Kurmak: Çeşit, Mesafe ve Sulama
+seo_aciklama: Nar bahçesi kurmak için iklim ve toprak seçimi, çeşit, dikim aralığı, çukur hazırlığı, damla sulama ve ilk yıllarda şekil verme için adım adım plan.
+ozet: Nar bahçesi kurmak, sıcak yazlı ve ılık kışlı bir bölgede süzek toprağı, uygun çeşidi, sağlıklı fidanı ve damla sulamayı bir araya getirmektir. İklim ve toprak isteğini, çeşit seçimini, dikim aralığını, çukur hazırlığını, sulamayı ve ilk yıllarda şekil vermeyi anlattık.
+etiketler: nar bahçesi, nar fidanı, hicaz nar, damla sulama, meyve bahçesi kurmak, dikim aralığı
+gorsel: bekliyor
+gorsel_alt: Sıra sıra dizilmiş genç nar fidanları ve her birinin yanından geçen damla sulama hortumu
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Nar bahçesi kurmak için sıcak yazlı, ılık kışlı bir yer, süzek ve derin toprak seçin. Fidanlar sertifikalı fidanlıktan alınır, çoğunlukla 4,5-6 metre aralıkla dikilir ve damla sulamayla beslenir. Nar çok gövdeli şekillendirilir. Soğuk kışlar genç ağaca zarar verir; ilk yıllarda koruma ve düzenli su önemlidir.
+@govde
+Nar, Anadolu'nun en eski meyvelerinden biridir; sıcak, güneşli yamaçlarda ve kurak yazlarda bile iyi verim verir. Bir nar bahçesi bir kez kurulduğunda onlarca yıl ürün verir; bu yüzden kuruluş aşamasındaki kararlar uzun vadeli sonuçlar doğurur. Nar bahçesi kurmak yer seçimi, çeşit, fidan, dikim ve sulama olmak üzere beş adımdan oluşur. Aşağıda her adımı sırayla anlattık. Genel tarım bilgisi için Tarım ve Orman Bakanlığı araştırma enstitülerinin yayınlarına bakabilirsiniz: [TAGEM araştırma enstitüleri](https://arastirma.tarimorman.gov.tr/). Ağacın bakımı için [nar ağacı bakımı](/nar-agaci-bakimi) ve budama için [nar budama](/nar-budama) yazılarına da bakabilirsiniz.
+
+## Nar bahçesi kurmak: yer seçimi, iklim ve toprak
+
+Nar bahçesi kurmak isteyen herkesin ilk sorusu iklimdir. Nar sıcak ve kurak yazları sever. Meyvenin renk ve tatlılık kazanması için uzun, sıcak ve güneşli bir yaz gerekir. Kışın ise soğuğa duyarlıdır: Çok sert kışlarda genç ağaç gövdesi donabilir ve yenilenmesi gerekebilir. Bu nedenle ılık kışlı bölgeler (Akdeniz, Ege ve Güneydoğu Anadolu'nun uygun yerleri) en uygun alanlardır. Yağışlı ve nemli yaz meyve çatlamasını ve mantar hastalığını artırır; yağış, ürünün olgunlaşma dönemine düşerse nar çatlar.
+
+Toprak olarak derin, süzek, hafif ve organik maddece orta zengin bir toprak ister. Ağır, killi ve su tutan toprak kök çürümesi riski taşır; çok sığ ve taşlı toprak büyümeyi sınırlar. Nar, hafif tuzluluğa ve kireçli toprağa karşı nispeten dayanıklıdır. Georgia Üniversitesi uzantısı drenajın sıra yönünden daha önemli olduğunu belirtir ve dikimden önce pH'ı 6,5'e getirmeyi önerir; New Mexico State uzantısı ise organik düzenleyicilerle pH'ı 8'in üzerinde bir toprakta da ağaçların başarıyla büyüdüğünü yazar ([UGA Extension: nar yetiştiriciliği](https://extension.uga.edu/publications/detail.html?number=C997&title=pomegranate-production); [NMSU: nar](https://donaanaextension.nmsu.edu/documents/pomegranates24.pdf)). Toprağın pH'ını ve bünyesini bilmek önemlidir; [toprak pH değeri nedir](/toprak-ph-nedir) ve [kum mil kil oranı](/kum-mil-kil-orani) yazıları bu bilgiyi ölçmek için yöntemler verir. Kuruluştan önce toprak analizi yaptırmak, bahçenin yıllarca sürecek verimini korur.
+
+## Çeşit seçimi
+
+Türkiye'de birçok yerel ve standart nar çeşidi vardır. En yaygın bilineni Hicaz narıdır (Hicaznar); koyu kırmızı kabuğu ve tatlı-mayhoş tadıyla tanınır. Diğer çeşitler arasında Katırbaşı gibi yerel çeşitler, çekirdeği yumuşak ya da tatlı çeşitler ve erkenci çeşitler sayılır. Çeşit seçimi, pazar amacına (taze tüketim, nar suyu, ihracat), bölgeye ve yerel talebe bağlıdır. Yetiştirici çoğu zaman bölgesinde uzun süre denenmiş çeşidi tercih eder; yeni çeşitleri küçük bir alanda denemek akıllıcadır. Çeşit ve fidan temini için il ya da ilçe tarım müdürlüğüne ve yetkili fidanlıklara danışın.
+
+## Fidan seçimi
+
+Fidan, bahçenin temelidir. Sertifikalı, hastalıksız ve bilinen çeşitli fidan alın. Nar fidanı genellikle çelikle çoğaltılır; sağlıklı bir fidan, düzgün köklü, gövdesi düz ve hastalık belirtisi göstermeyen olmalıdır. Kök kısmı boş, kurumuş ya da çürük fidan almayın. Tüplü fidan dikim sezonuna esneklik sağlar; çıplak köklü fidan dinlenme döneminde dikilir. Fidan dikiminin zamanlaması ve yöntemi için [meyve fidanı dikimi](/meyve-fidani-dikimi) yazısı yardımcı olur.
+
+## Dikim aralığı ve düzeni
+
+Nar bahçesi kurmak ilk bakışta fidan dikmekten ibaret görünür; asıl iş, sıra ve aralık planını yıllar öncesinden yapmaktır.
+
+Nar çok gövdeli bir çalı-ağaçtır; yan sürgünler yayılır. Bu yüzden geniş mesafe ister. Kaynaklar aralık konusunda tek rakam vermez: New Mexico State uzantısı ticari bahçe için sıra içinde ve sıra arasında 15-20 feet (yaklaşık 4,5-6 metre) önerir; Georgia uzantısı geleneksel aralığı 18x18 feet (yaklaşık 5,5 metre, dekarda 30'a yakın ağaç) olarak verir ve Güneydoğu ABD için en uygun aralığın henüz belirlenmediğini not eder. Bu yazıda 4,5-6 metre, başlangıç noktası olarak alınmıştır; bu da dekara yaklaşık 28-50 fidan demektir. Araç ve ekipman geçişi, güneş ve hava akımı için sıra arasını geniş tutmak gerekir. Çok sık dikim, gölgelenme, hastalık ve çatlak meyve getirir; çok seyrek dikim ilk yıllarda verimi düşürür ve alanı verimsiz kullandırır.
+
+Sıraları kuzey-güney yönünde düzenlemek, güneş ışığından eşit yararlanmayı sağlar. Rüzgâr yönünü ve hâkim rüzgâra karşı bir koruma (rüzgâr kıran) gerekliliğini düşünün. Bahçenin su kaynağı, sulama hatları ve yolları baştan planlanmalıdır.
+
+| Karar | Önerilen yaklaşım | Neden? |
+|---|---|---|
+| Sıra arası | 4,5-6 metre | Makine, ışık, hava |
+| Sıra üzeri | 4,5-6 metre | Çok gövdeli yayılma |
+| Yön | Kuzey-güney | Eşit güneşlenme |
+| Sulama | Damla | Su tasarrufu, kök bölgesi |
+| Toprak hazırlığı | Derin sürüm, organik madde | Kök gelişimi |
+| Rüzgâr koruma | Gerekirse kıran | Sürgün kırılması, çatlama |
+
+## Dikim çukuru ve dikim
+
+Dikim, fidanın gelecek yıllarını belirler. Çukur genişliği ve derinliği fidanın kök kütlesine göre, çoğunlukla 50-60 cm olarak açılır. Çukur dibini gevşetin ve toprağı iyileştirin; çukur toprağına olgun kompost ya da solucan gübresi karıştırmak kök gelişimini destekler. Ürün bilgisinde meyve fidanı dikiminde çukura fidan başına 1,5-2 kg solucan gübresi önerilir. Çukur hazırlığı ayrıntıları için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısına bakın. Gübreyi köke değmeyecek biçimde toprakla karıştırın.
+
+::: adimlar
+Alanı hazırlayın | Taş ve otları temizleyin, derin sürün, toprak analizini yapın.
+Sıra ve çukur yerini işaretleyin | 4,5-6 metre aralıkla; kazıkla belirleyin.
+Çukurları açın | 50-60 cm genişlik ve derinlikte; dibi gevşetin.
+Toprağı zenginleştirin | Çukur toprağına olgun organik madde karıştırın.
+Fidanı dikin | Kök boğazı toprak seviyesinde; kökleri doğal yayın, toprağı bastırın.
+Can suyu verin | Bol su; çanak açıp malçlayın.
+Sulama hattını kurun | Damla hatlarını fidanların yanına yerleştirin.
+:::
+
+[ürün:hg-fidan-topragi,hasturk-kati-solucan-gubresi]
+
+## Sulama: damla ve düzenli su
+
+Nar kuraklığa dayanıklıdır; ama verimli ve kaliteli meyve için, özellikle meyve tutumu ve irileşme döneminde, düzenli su ister. Dengesiz sulama (uzun kuraklığın ardından bol su) meyve çatlamasına yol açar. Bu yüzden damla sulama, suyu düzenli ve kontrollü verdiği için en uygun yöntemdir. Her fidanın yanından geçen bir hat ya da iki damlatıcı, ilk yıllar için yeterlidir; ağaç büyüdükçe damlatıcı sayısı artırılır.
+
+Sulama sıklığı iklim, toprak ve ağaç yaşına göre değişir. Genç fidanlar ilk yıl daha sık sulanır; kök sistemi yerleşince aralık açılır. Georgia uzantısı damla sulamayı tercih edilen yöntem olarak gösterir, üstten sulamayı hastalık yayılımı nedeniyle önermez ve sonbaharda aşırı sulamanın meyve çatlamasına katkıda bulunabileceğini belirtir ([UGA Extension](https://extension.uga.edu/publications/detail.html?number=C997&title=pomegranate-production)). Utah State uzantısı da nar için sulama düzeninin önemini vurgular ([USU Extension: çöl meyvesi nar](https://extension.usu.edu/yardandgarden/research/pomegranate-fruit-of-the-desert)). Yöntemlerin karşılaştırması için [tarla sulama yöntemleri](/tarla-sulama-yontemleri) yazısı yol gösterir. Sulama suyunun tuz ve kireç düzeyi önemlidir; damla hatlarını tıkamaması için su analizi yaptırın ve filtre kullanın.
+
+## İlk yıllarda şekil verme ve bakım
+
+Nar doğal olarak çok sürgün verir. İlk yıllarda şekil vermek, ağacın düzenli büyümesini sağlar. İki yaygın şekil vardır: Çok gövdeli (3-5 ana gövde, çalı biçimi) ve tek gövdeli (ağaç biçimi). Çok gövdeli şekil, soğuktan zarar gören gövdenin yenilenmesine imkân verdiği için bölgelerde tercih edilir. Dip sürgünleri düzenli alınır; ayrıntılar ve zamanlama için [nar budama](/nar-budama) yazısına bakabilirsiniz.
+
+İlk iki üç yılda meyve bırakmak ağacı yorar; çiçek ve genç meyveleri erken alıp ağacın gövde ve kök gelişimine enerji ayırmasını sağlamak, uzun vadede daha iyi verim sağlar. Yabani otları ağaç dibinde kontrol altında tutun; ot, genç fidanla su ve besin için rekabet eder. Kışın genç gövdeleri dondan korumak için bölgenize göre örtü, ya da toprak yığma gibi yöntemler uygulanır; genel donla koruma için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına bakın. Zirai ürün gerektiren durumlarda etikete ve il ya da ilçe tarım müdürlüğüne başvurun.
+@sss
+S: Nar bahçesi nasıl kurulur?
+C: Sıcak yazlı ve ılık kışlı bir yerde, süzek ve derin topraklı bir alan seçin. Sertifikalı fidanı 4,5-6 metre aralıkla dikin, damla sulama kurun. Fidanı çok gövdeli şekillendirin ve ilk yıllarda düzenli su ile koruma sağlayın.
+
+S: Nar fidanları arası kaç metre olmalı?
+C: Üniversite uzantı kaynakları 15-20 feet (yaklaşık 4,5-6 metre) önerir; bu, dekara yaklaşık 28-50 fidan demektir. Çok sık dikim gölgelenme ve hastalık getirir, çok seyrek dikim ilk yıllarda verimi düşürür. Bölge ve çeşide göre ayarlanır.
+
+S: Nar hangi iklime ve toprağa uygundur?
+C: Sıcak ve kurak yazlı, ılık kışlı bölgelere ve derin, süzek, hafif topraklara uygundur. Ağır ve su tutan toprak kök çürümesine neden olur; yağışlı yazlar meyve çatlamasını artırır. Hafif tuz ve kirece nispeten dayanıklıdır.
+
+S: Narda meyve çatlaması neden olur?
+C: Düzensiz sulama, uzun kuraklığın ardından gelen bol su ya da yağmur, çatlamanın başlıca nedenidir. Damla sulamayla düzenli nem sağlamak çatlamayı azaltır. Çeşit duyarlılığı ve aşırı azot da etkili olabilir.
+
+### SORU
+yayin: 2027-02-28 10:20
+kategori: sebze-meyve
+baslik: Elma ağaçlarım çiçek açtı ama komşu zirai ilaçlama yapıyor, çiçekteyken ilaçlamak sorun olur mu?
+metin: Bahçemdeki elmalar tam çiçekte. Komşum aynı gün ağaçlarını ilaçlıyor. Çiçekteyken ilaçlamak meyveye ya da arılara zarar verir mi? Benim ne yapmam gerekir?
+@cevap Mikdat Çelik | 2
+Çiçek açmış ağacı ilaçlamak, çiçeklere konan arılara ve diğer tozlayıcılara zarar verebilir; arı kaybı da meyve tutumunu düşürür. Birçok ürünün etiketinde çiçek döneminde kullanılmaması ya da arıya toksik olduğu uyarısı bulunur; bu uyarı bağlayıcıdır. Kendi bahçenizde çiçekteyken ilaçlama yapmayın. Komşunuzun uygulaması için doğrudan yargıya varmadan, kullandığı ürünün etiketini ve çiçek dönemi uyarısını öğrenmesini rica edin; gerekirse il ya da ilçe tarım müdürlüğüne danışın. Kendi bahçenizde ilaçlama gereken ender bir durum olursa, tür, zaman ve arıya zararsız seçenek için ziraat mühendisinden ve tarım müdürlüğünden görüş alın. Çiçeklerin döküldüğünü görürseniz paniğe kapılmayın; meyve tutumu çiçeklerin yalnızca küçük bir bölümüdür.
+
+### SORU
+yayin: 2027-02-28 15:00
+kategori: sebze-meyve
+baslik: Nar fidanı dikeceğim ama bölgemizde kışlar soğuk. Genç fidanı dondan nasıl korurum?
+metin: Orta Anadolu'da, kışları sert geçen bir yerde nar bahçesi kurmayı düşünüyorum. İlk yıllarda fidanların donmasından korkuyorum. Önlem alabilir miyim, yoksa hiç uygun bir yer mi değil?
+@cevap Muhammed Hamza Çelik | 3
+Nar, ılık kışlı bölgelerin bitkisidir ve çok sert kışlarda genç ağaç gövdesi donabilir; bu yüzden soğuk bölgede kuruluş riskli olabilir ve bölgenizin kış sıcaklıklarını önceden öğrenmelisiniz. Önlem alınabilir: Fidanı çok gövdeli şekillendirin; böylece gövde donsa da dipten yeniden sürgün verebilir. İlk iki üç kış, gövdeyi örtü, bez ya da dolgu malzemesiyle sarın, dibini toprak ya da malçla yığın ve kök boğazını koruyun. Kışlık koruma için fidanı güney cepheli, rüzgârdan korunaklı bir yere dikin. Küçük bir alanda deneme yapıp birkaç kışın sonucunu görmek akıllıca olur. Yerel koşul için il ya da ilçe tarım müdürlüğünden ve bölgenizdeki nar yetiştiricilerinden görüş alın.

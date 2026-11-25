@@ -1,0 +1,242 @@
+### YAZI
+slug: soguk-hava-deposu-nasil-calisir
+baslik: Tarım Ürünlerini Saklamak: Soğuk Hava Deposu Nasıl Çalışır?
+yayin: 2027-03-15 10:20
+yazar: Ahmet Sacit Çelik
+kategori: gundem
+odak: soğuk hava deposu
+seo_baslik: Soğuk Hava Deposu Nasıl Çalışır? Tarım Ürünleri
+seo_aciklama: Soğuk hava deposu nasıl çalışır? Soğutma mantığı, ürüne göre sıcaklık ve nem, hasat sonrası hızlı soğutma ve hobi bahçıvanı için ev ölçeğinde seçenekler.
+ozet: Soğuk hava deposu, ürünü donma noktasının hemen üstünde ve yüksek nemde tutarak solunumu yavaşlatır ve bozulmayı geciktirir. Soğuk hava deposunun çalışma mantığını, ürüne göre değişen sıcaklık ve nem örneklerini, hasat sonrası hızlı soğutmanın önemini ve hobi bahçıvanı için ev ölçeğindeki seçenekleri kalkınma ajansı raporlarına dayanarak anlattık.
+etiketler: soğuk hava deposu, soğuk depolama, hasat sonrası, bağıl nem, meyve sebze saklama, depo
+gorsel: bekliyor
+gorsel_alt: Kasalar halinde istiflenmiş meyve ve sebzelerin durduğu soğuk hava deposunun içi ve tavandaki soğutucu ünite
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Soğuk hava deposu, ürünü donma noktasının biraz üzerinde ve yüksek bağıl nemde tutarak solunumunu yavaşlatan ve bozulmayı geciktiren depodur. Kaynaklarda donma noktasının 1–2 °C üzerinde ve yaklaşık yüzde 85–90 nem önerilir; değerler ürüne göre değişir. Hasattan sonra ürünün birkaç saat içinde soğutulması kalite kaybını azaltır.
+@govde
+Hasat ettiğiniz ürünün tazeliği, tarladan ayrıldığı andan itibaren azalmaya başlar. Domates sıcakta bir iki günde yumuşar, çilek bir gün içinde küflenebilir, elma ve armut ise doğru koşulda aylarca bekleyebilir. Bu farkı yaratan şey çoğu zaman sıcaklık ve nemdir. Soğuk hava deposu, bu iki değişkeni kontrol altında tutan bir tesistir. Bu yazı depoların nasıl çalıştığını, hangi ürün için hangi koşulların önerildiğini ve bir hobi bahçıvanının neleri bilmesi gerektiğini sade biçimde anlatır.
+
+## Soğuk hava deposu neden gerekir?
+
+Meyve ve sebze hasattan sonra da canlıdır; solunum yapar, su kaybeder ve olgunlaşmaya devam eder. Soğuk depolamanın dayanağı basittir: Ürünü soğukta tutmak solunumu yavaşlatır, böylece bozulma gecikir. Kalkınma ajanslarının soğuk hava deposu fizibilite raporları, soğuk hava depoculuğunu tarımsal ürünlerin belirli sıcaklık ve nem koşullarında korunmasını sağlayan bir depolama sistemi olarak tanımlar ve gelişmiş depoları, ürünün özelliğine göre ayarlanabilen sıcaklık ve nem koşullarına sahip tesisler olarak anlatır. Kaynak örnekleri: [Nazilli soğuk hava deposu fizibilite etüdü (GEKA)](https://geka.gov.tr/uploads/pages_v/nazilli-soguk-hava-deposu-fizibilite-etudu-2016.pdf) ve [TR82 Bölgesi soğuk hava deposu raporu (Kuzey Anadolu Kalkınma Ajansı)](https://www.kalkinmakutuphanesi.gov.tr/assets/upload/dosyalar/20241119_tr82_bolge_soguk_hava_deposu_raporu_rvz_3.pdf).
+
+Depolama yalnızca bozulmayı geciktirmez; tüketim zamanını da esnekleştirir. Hobi bahçesinde elma, armut, kabak ve kök sebzeler çoğu zaman aynı haftalarda olgunlaşır; hepsini bir anda yemek mümkün olmadığı için soğuk ve nemli bir ortam ürünü haftalarca sofraya yaymanıza yardım eder. Bu bir sonsuz saklama değildir: Depolama kalite kaybını yalnızca yavaşlatır, bu yüzden hangi ürünün ne kadar dayanacağını baştan bilmek gerekir.
+
+## Soğuk hava deposu nasıl çalışır?
+
+Bir soğuk depo ısı çeken bir makinedir. Temel mantık, buzdolabıyla aynıdır: Bir kompresör ve soğutucu akışkan döngüsü depo içindeki ısıyı alıp dışarı verir. İçeride soğutucu bir ünite (evaporatör) havayı soğutur; fanlar bu soğuk havayı kasaların arasında dolaştırır; dışarıda ise ısı atılır. Depo duvarları ısı yalıtımlıdır ki dışarıdan ısı girmesin; kapılar ürün girişinde kısa süre açılır. Sıcaklık bir termostat ve sensörlerle, nem ise soğutucunun çalışma düzeni ve nemlendirme yöntemleriyle kontrol edilir.
+
+Bu düzenin pratik anlamı şudur: Depo ürünü soğutmak için değil, soğuk tutmak için tasarlanmıştır. Sıcak ürünü doğrudan depoya koyduğunuzda ürün hızla soğumaz, depo ısınır ve diğer ürün de zarar görür. Bu yüzden hasat sonrası soğutma ayrı bir adım olarak planlanır.
+
+## Hangi ürün hangi sıcaklıkta?
+
+İlke, ürünü donma noktasının biraz üstünde tutmaktır. Depolama kaynakları modern depolamada meyve ve sebzeler için genellikle donma noktasının 1–2 °C üzerini ve yaklaşık yüzde 85–90 bağıl nemi önerir; ama bu genel değer ürüne göre farklılaşır. Kaynaklardan derlenen örnekler şöyle:
+
+| Ürün | Sıcaklık ve nem örneği | Not |
+|---|---|---|
+| Çilek | Yaklaşık 0 °C, yüzde 90–95 nem | Çok kısa süreli saklama |
+| Ahududu, böğürtlen | −0,5 ile 0 °C, yüzde 85–90 nem | 5–7 gün saklama örneği |
+| Armut | 0–0,5 °C, yüzde 90 nem | 6 aya kadar saklama örneği |
+| Olgun domates | 8–10 °C | Soğuğa duyarlı; çok düşük sıcaklık zarar verir |
+| Az olgun domates | 12–15 °C | Daha yüksek sıcaklık gerekir |
+
+Bu tablo, her ürüne tek bir değer uygulanamayacağını gösterir. Domates gibi bazı sebzeler soğuğa duyarlıdır; buzdolabı gibi çok soğuk bir ortamda tadı ve dokusu bozulur. Armut ve elma gibi meyveler ise donma noktasına yakın sıcaklıkta aylarca bekleyebilir. Bu değerler örnektir; kendi ürününüz ve çeşidiniz için güncel teknik kaynaklara ya da bölgenizdeki il tarım müdürlüğüne danışın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Hasat sonrası hızlı soğutma
+
+Soğuk depolamanın en önemli kuralı, ürünün hasattan sonra mümkün olan en kısa sürede soğutulmasıdır. Kaynaklar meyvelerin hasattan sonra birkaç saat içinde soğutulması gerektiğini ve sebzelerde de hasat sonrası işletmeye gelir gelmez soğutmanın kalite kaybını azalttığını belirtir. Tarlada güneşte bekleyen kasa, saatler içinde değerinin bir kısmını kaybeder. Bu nedenle ürünü hasat ederken gölgeye alın, kasaları serin saatlerde toplayın ve mümkünse depoya yakın bir noktadan taşıyın.
+
+Soğutma sonrasında depolamaya geçilir. Depoda kasaları hava dolaşımına izin verecek biçimde istifleyin; kasalar birbirine ve duvarlara yapışırsa soğuk hava ürün arasına geçemez. Depoya farklı ürün karıştırmak da sorun yaratabilir: Bazı meyveler olgunlaşırken gaz salar ve yanındaki ürünün bozulmasını hızlandırabilir; bu konuda ürünlerin birlikte saklanabilirliğini ilgili teknik kaynaklardan kontrol edin.
+
+## Hobi bahçıvanı için seçenekler
+
+Evde ya da küçük bir bahçede tam bir soğuk hava deposu kurmak çoğu zaman gereksiz ve pahalıdır; asıl öğrenilecek şey, depodaki koşulu ev ölçeğinde taklit etmektir. Dört yol düşünülebilir. Birincisi buzdolabı: Elma, armut, havuç ve lahana sebze çekmecesinde, perforeli bir torbada haftalarca durur. İkincisi serin ve havadar bir yer; bodrum, ısıtılmayan kiler ya da kuzey cepheli bir oda. Üçüncüsü nemli kum ya da talaşla kasada saklama: [kışlık sebze saklama](/kislik-sebze-saklama) ve [patates depolama](/patates-depolama) yazıları bu yöntemleri anlatır. Dördüncüsü, fazlayı hiç depolamayıp kurutmak, kavanoza koymak ya da paylaşmaktır: [güneşte kurutma tezgâhı](/kurutma-tezgahi) yazısı domates, biber ve meyve için işe yarar.
+
+Evde bir soğuk oda düzeni kurmayı düşünüyorsanız önce ürün miktarını ve depolama süresini hesaplayın. Kalkınma ajansı raporları büyük depoların maliyetini ürün miktarı, depolama süresi ve enerji giderleriyle birlikte değerlendirir; ev ölçeğinde de aynı mantık geçerlidir. Ucuz bir termometre ve nem ölçer, bodrumun gerçekten elma için uygun olup olmadığını gösterir. Eğer bodrum 10 derecenin üstündeyse ürün ay yerine hafta dayanır; bu durumda buzdolabı ve kavanoz yöntemlerine ağırlık verin.
+
+## Depo işletirken sık yapılan hatalar
+
+- Sıcak ürünü soğutmadan doğrudan depoya koymak.
+- Tek bir sıcaklığı tüm ürünler için uygulamak.
+- Kasaları duvara ve birbirine yapıştırarak istiflemek.
+- Nemi ihmal etmek: Düşük nemde ürün su kaybeder ve buruşur.
+- Çürüyen ürünü depoda bırakmak; tek bir çürük kasa diğerlerine yayılabilir.
+- Depoyu hasat öncesi temizleyip dezenfekte etmemek.
+
+Soğuk depo doğru kullanıldığında kaybı azaltan güçlü bir araçtır; yanlış kullanıldığında enerji ve para israfı olur. Başlamadan önce hangi ürün için, ne kadar süreyle ve hangi koşulda depolama yapacağınızı yazın; sonra bunun hasat takviminizle ve tüketim planınızla uyuşup uyuşmadığına bakın.
+@sss
+S: Soğuk hava deposu nasıl çalışır?
+C: Bir kompresör ve soğutucu akışkan döngüsü depo içindeki ısıyı alıp dışarı verir; fanlar soğuk havayı kasaların arasında dolaştırır. Duvarlar yalıtımlıdır; sıcaklık termostatla, nem ise soğutma düzeni ve nemlendirmeyle kontrol edilir.
+
+S: Soğuk hava deposunda sıcaklık ve nem ne olmalı?
+C: Genel ilke ürünü donma noktasının 1–2 °C üzerinde ve yaklaşık yüzde 85–90 bağıl nemde tutmaktır; ama değer ürüne göre değişir. Örneğin armut için 0–0,5 °C ve yüzde 90 nem, olgun domates için 8–10 °C örnek verilir.
+
+S: Hasattan sonra ürün ne zaman soğutulmalı?
+C: Kaynaklar meyvelerin hasattan sonra birkaç saat içinde soğutulması gerektiğini belirtir. Tarlada güneşte bekleyen ürün hızla kalite kaybeder; hasadı serin saatlerde yapın ve ürünü gölgeye alın.
+
+S: Hobi bahçıvanı soğuk hava deposu yerine ne kullanabilir?
+C: Buzdolabının sebze çekmecesi, serin bir bodrum ya da kiler, nemli kumda kasa saklama ve fazlayı kurutma ya da kavanoza koyma seçenekleri vardır. Büyük bir depo kurmadan önce ürün miktarını ve saklama süresini hesaplayın.
+
+### YAZI
+slug: cimde-larva-zarari
+baslik: Çimde Larva Zararı: Kahverengi Yamaların Altında Ne Var?
+yayin: 2027-03-15 16:55
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: çimde larva zararı
+seo_baslik: Çimde Larva Zararı: Kahverengi Yamaların Altı
+seo_aciklama: Çimde larva zararı nasıl anlaşılır? Kahverengi yamaları kaldırıp kökte C şeklinde beyaz larva arama, sayım, hastalıktan ayırma ve tedavinin doğru zamanı.
+ozet: Bahar çim yamaları çoğunlukla hastalık ya da kuraklık sanılır; oysa kökleri yiyen beyaz larvalar da aynı görüntüyü yaratabilir. Çimde larva zararını kahverengi yamaları kaldırıp köke bakarak anlamayı, larva sayımını, hastalıktan ayrımı ve müdahalenin doğru zamanını üniversite uzatma kaynaklarına dayanarak anlattık.
+etiketler: çimde larva zararı, beyaz larva, çim zararlıları, kahverengi çim yaması, kök kurdu, çim tamiri
+gorsel: bekliyor
+gorsel_alt: Çimin kenarından halı gibi kaldırılmış parça ve altındaki toprakta C şeklinde kıvrılmış beyaz larvalar
+urunler: cim-kapama-topragi-leonarditli-formul
+kisaca: Çimde larva zararı, çim köklerini yiyen beyaz larvaların yarattığı düzensiz kahverengi yamalardır. Yamanın kenarından çim kaldırılır ve kökün altında C şeklinde, beyaz-krem renkli, kahverengi başlı larva aranır; yoğun zararda çim halı gibi sıyrılır. Kaynaklar eşik olarak kare ayak başına yaklaşık 6–12 larvayı anar; ilkbahar ilaçlaması önerilmez.
+@govde
+Kar eridi, çim uyandı ama bahçenin bir köşesinde kahverengi, ölü gibi duran bir yama var. İlk akla gelen hastalık, kuraklık ya da köpek idrarıdır. Çoğu zaman haklısınızdır. Ama bazen yamanın altında başka bir şey vardır: Çim köklerini yiyen beyaz larvalar. Çimde larva zararı, doğru teşhis edilmezse yanlış ilaçla ve gereksiz yere tedavi edilir; zararı olmayan çime ilaç atmak da, larva zararını hastalık sanıp mantar ilacı kullanmak da boşa gider. Bu yazı yamaların altına nasıl bakılacağını ve larva bulunduğunda ne yapılacağını anlatır.
+
+## Çimde larva zararı nasıl görünür?
+
+Pennsylvania ve Illinois eyalet üniversitelerinin uzatma kaynakları, larva zararını düzensiz şekilli kahverengi yamalar olarak tarif eder; larvalar çim köklerini yediği için çim susuzluktan solmuş gibi görünür. Aynı belirti kuraklık, kötü toprak ve hastalıkta da görülür; bu yüzden tedaviye başlamadan önce köklere bakmak gerekir. Hasar yoğunsa, bu da özellikle yaz sonu ve sonbaharda görülür, kökler bütünüyle yendiği için çim yerinde tutunamaz, süngerimsi hâle gelir ve halı gibi sıyrılabilir. Kaynaklar: [Penn State Extension, evlerde beyaz larvalar](https://extension.psu.edu/white-grubs-in-home-lawns) ve [Illinois Extension, çimde larva ile mücadele](https://extension.illinois.edu/lawns/dealing-grubs-lawns).
+
+Türkiye'de çim bahçelerinde görülen larva türleri ABD'dekilerden farklı olabilir; bu yazıdaki biyolojik bilgiler üniversite kaynaklarındaki genel beyaz larva davranışına dayanır. Türünüzü ve bölgenize özgü takvimi öğrenmek için il tarım ve orman müdürlüğüne ya da bir ziraat mühendisine danışın.
+
+## Teşhis: yamanın altına bakın
+
+Teşhisin yolu basittir, ilaçsızdır ve on dakika sürer. Bu işi sabah ya da akşam serin saatte yapın; yama kaldırıldığında kökler nemliyse larvaları görmek de kolaylaşır. Elinizde bir kürek, bir bıçak, bir kova ve eldiven yeter. Kahverengi yamanın, kahverengi ile yeşilin buluştuğu kenarından bir bıçak ya da kürekle çimi bir parça halinde kaldırın. Bu bölgede larvalar henüz sağlıklı kökleri yerken bulunur. Kaldırdığınız çimin altındaki toprakta ve kök bölgesinde C şeklinde kıvrık, beyaz ya da krem renkli, kahverengi başlı ve bacakları görünen larvalar arayın. Illinois kaynakları bu larvaların türünü ancak karın ucundaki diken ve kıl diziliminden kesin ayırt edebilmenin mümkün olduğunu belirtir; ev bahçesinde türünü bilmek zorunda değilsiniz, sayısını bilmeniz yeter.
+
+Yamayı kaldırdığınızda larva yoksa sorun başkadır. Kök çürüklüğü, mantar hastalığı, köpek idrarı ya da kuraklık gibi nedenleri [çim hastalıkları](/cim-hastaliklari) ve [çim neden sararır](/cim-neden-sararir) yazılarından kontrol edin.
+
+| Gözlem | Olası neden |
+|---|---|
+| Çim halı gibi kolayca kalkıyor, kök yok | Larva zararı |
+| Kökler sağlam ama yapraklar kahverengi | Kuraklık, hastalık ya da köpek idrarı olabilir |
+| Yamanın içinde ve çevresinde kök çürümüş, kokulu | Mantar hastalığı olabilir |
+| Çimin altında larva, ama çok az | Zarar eşiği altında olabilir; sayıma bakın |
+
+## Sayım: kaç larva fazla?
+
+Üniversite kaynakları, karenin sayımını önerir: 30 cm x 30 cm (yaklaşık bir kare ayak) çim parçasını kesip kaldırın ve içindeki larvaları sayın. Üniversite kaynakları çimde zarar ve ilaçlama gereği için genellikle kare ayak başına yaklaşık 8–12 larvayı eşik olarak anar; başka bir uzatma kaynağı 6'nın üzerindeki sayıları da riskli sayar. Daha az larva sağlıklı bir çimde zarar yaratmayabilir. Sayımı yamanın içinde değil, kahverengi ile yeşilin birleştiği sağlıklı kenar bölgede yapın; çünkü larvalar kökü yenmiş alandan ayrılıp sağlıklı çime geçmiştir.
+
+[ürün:cim-kapama-topragi-leonarditli-formul]
+
+## Larvalar nereden gelir?
+
+Çimdeki larvalar, bazı böcek türlerinin yaz başında ve ortasında çimin üzerinde uçup toprağa bıraktığı yumurtalardan çıkar; üniversite kaynakları önleyici uygulamanın yetişkinlerin çıkıp yumurta bırakmasından önceki dönemde yapıldığını yazar. Larvalar yaz sonunda küçükken köklerle beslenir ve büyüyerek zararlarını sürdürür. Bu yüzden ilkbaharda gördüğünüz yama, çoğunlukla geçen yaz sonu ve sonbaharda başlamış zararın görünür hâle gelmesi olabilir. Böcek türü ve yaşam döngüsü bölgeye göre değişir; tür konusunda kesin bilgi için yerel müdürlükten yardım alın.
+
+## Tedavi: zamanlama her şeydir
+
+Uzatma kaynaklarının ortak noktası, larva ilaçlamasının zamanıdır. Önleyici uygulama, yetişkin böceklerin çıkıp yumurta bırakmasından önceki bir aylık sürede yapılır (Minnesota'da haziran ortası–temmuz ortası). Kurtarıcı (iyileştirici) uygulama ise larvaların henüz küçük olduğu yaz sonu ve erken sonbaharda en iyi sonucu verir. İlkbaharda ilaçlama önerilmez, çünkü larvalar bu dönemde büyümüş ve ilaca dayanıklı hâle gelmiştir ve zararları çoğunlukla artık tamamlanmak üzeredir. Bu tarihler ABD bölgelerine aittir; Türkiye'de takvim bölgeye ve türe göre değişir, bu yüzden tarih için yerel kuruma sorun.
+
+İlaç kullanıyorsanız etiket talimatına uyun. Kaynaklar, bazı ilaçların çiçekli yabani otlarda dolaşan arılara zarar verebileceğini ve sıvı ilaçların çimin üzerinde çabuk kuruduğu için kök bölgesine yıkanmasının gerektiğini belirtir. Biyolojik seçenekler (yararlı nematodlar) larvalar küçükken işe yarayabilir, ama sahada sonuçları çoğu zaman tutarsızdır. Hangi yöntemi seçerseniz seçin, ilaçlama kararını önce sayıma dayandırın.
+
+## İlkbaharda ne yapılır?
+
+İlkbaharda larva zararı gördüyseniz çaresiz değilsiniz. Zararlı larvaların etkisi büyük ölçüde tamamlanmıştır; yapacağınız iş çimi onarmaktır. Ölü çimi tırmıkla temizleyin, toprağı gevşetin, hasarlı alana çim tohumu serpin ve üstünü ince bir kapama toprağıyla örtün; ilk haftalar düzenli ve hafif sulayın. Tohum ekimi, toprağın ısınmasıyla en iyi sonucu verir; ayrıntı için [çim tohumu nasıl ekilir](/cim-tohumu-nasil-ekilir) ve [çim kapama toprağı nasıl serilir](/cim-kapama-topragi-nasil-serilir) yazılarına bakın.
+
+Önümüzdeki yıl için gözlem planı yapın; çimde larva zararı bir yıl görüldüyse gelecek yıl da kontrol edilmeye değer bir sorundur ve kayıt tutmak buna yardım eder. Hangi alanda, hangi ay, kaç larva bulduğunuzu not edin: Yaz sonunda aynı alanda kare ayak sayımı yapın, larva eşiğin üzerindeyse zamanında müdahale edin. Çimi sağlıklı tutmak, larva zararını tolere etme gücünü artırır: Düzenli ve derin sulama, uygun biçim yüksekliği ve gübreleme çimi güçlü tutar. Havalandırma sıkışmış toprağı rahatlatır; [çim havalandırma](/cim-havalandirma) yazısı bu işi anlatıyor.
+@sss
+S: Çimde larva zararı nasıl anlaşılır?
+C: Düzensiz kahverengi yamanın kenarından çimi bir parça hâlinde kaldırıp kök bölgesine bakın; C şeklinde, beyaz-krem renkli, kahverengi başlı larvalar aranır. Yoğun zararda çim kökü yendiği için halı gibi sıyrılır.
+
+S: Larva zararı ile hastalık nasıl ayrılır?
+C: Larva zararında köklerin yenmiş olduğu ve toprakta larva bulunduğu görülür. Yamayı kaldırdığınızda larva yoksa kuraklık, mantar hastalığı ya da köpek idrarı gibi başka nedenlere bakın.
+
+S: Kaç larva ilaçlama gerektirir?
+C: Üniversite uzatma kaynakları genellikle kare ayak (yaklaşık 30 x 30 cm) başına 8–12 larvayı eşik olarak anar; bir kaynak 6'nın üzerini de riskli sayar. Daha az larva çoğu zaman zarar yaratmaz.
+
+S: İlkbaharda larva ilaçlaması yapılır mı?
+C: Kaynaklar önermez; larvalar o dönemde büyük ve ilaca dayanıklıdır. Etkili zaman yaz sonu (küçük larva) ya da yumurta öncesi önleyici dönemdir. İlkbaharda hasarlı alan onarılır.
+
+### YAZI
+slug: cimde-mantar-cikmasi
+baslik: Çimde Mantar Çıkması: Peri Halkası ve Nem Kaynaklı Mantarlar
+yayin: 2027-03-15 19:40
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: çimde mantar
+seo_baslik: Çimde Mantar Çıkması: Peri Halkası ve Nedenleri
+seo_aciklama: Çimde mantar neden çıkar? Gömülü odun ve organik madde, nemli hava, peri halkası türleri, mantarları temizleme ve çimi koruma yolları.
+ozet: Yağmurdan sonra çimde bir gecede beliren mantarlar çoğu zaman çimin hastalığı değil, toprağın altındaki organik maddeyle beslenen mantarın meyvesidir. Çimde mantar çıkmasının nedenlerini, peri halkası türlerini, mantarları temizleme ve altındaki odun ya da çürüntüyü bulup giderme yollarını üniversite uzatma kaynaklarına dayanarak anlattık.
+etiketler: çimde mantar, peri halkası, çim mantarı, gömülü odun, nemli çim, mantar temizleme
+gorsel: bekliyor
+gorsel_alt: Nemli yeşil çimde halka biçiminde sıralanmış küçük açık renkli mantarlar
+urunler: cim-kapama-topragi-leonarditli-formul
+kisaca: Çimde mantar, toprak altındaki gömülü odun, kök, çim keçesi ya da inşaat artığı gibi organik maddeyle beslenen mantarların meyvesidir; uzun nemli havadan sonra belirir. Peri halkası, bu mantarların halka biçiminde yayılmasıdır: Bazı halkalar çimi koyu yeşil yapar, bazıları kurutur. Mantarlar toplanabilir; kalıcı çözüm gömülü organik maddeyi gidermektir.
+@govde
+Bir sabah çimi sulamadan bahçeye çıktınız ve yeşil çimde küçük beyaz, kahverengi şapkalar belirdiğini gördünüz. Bazen tek tek, bazen koca bir halka biçiminde. İlk akla gelen çimin hasta olduğudur; oysa çimde mantar çoğu zaman çimin sağlığını değil, toprağın altında yaşayan başka bir mantar ağının nemli havada meyve verdiğini gösterir. Bu yazı çimde mantarın nedenlerini, peri halkası denen durumu ve ne zaman müdahale edilmesi gerektiğini anlatır.
+
+## Çimde mantar neden çıkar?
+
+Minnesota ve Illinois eyalet üniversitelerinin uzatma kaynakları, çimde görülen mantarların toprakta yaşayan mantar ağlarının meyve verme organları olduğunu ve bu mantarların toprak altındaki organik maddeyle beslendiğini yazar: Gömülü ağaç kökleri, kütükler, çim keçesi (ölü çim ve kök birikimi) ve inşaat artıkları örnek olarak sayılır. Mantarlar toprakta yıllarca yaşayabilir ve meyveyi ancak koşullar uygun olduğunda, özellikle uzun süren nemli havadan sonra verir. Aşırı sulama ve kötü drenaj da mantarın görünmesini destekleyebilir. Kaynaklar: [Minnesota Üniversitesi, çimde mantarlar](https://extension.umn.edu/lawn-care/mushrooms-lawns) ve [UC IPM, zararsız mantarlar ve çim](https://ipm.ucanr.edu/TOOLS/TURF/PESTS/disnusiance.html).
+
+Bu nedenle yağışlı sonbaharda ve nemli ilkbaharda mantar görmek olağandır. Çimde mantar çıkması çoğu durumda çimin kendi hastalığı değildir; çim hastalıkları (yapraklarda leke, yamalar) başka belirtilerle ortaya çıkar ve [çim hastalıkları](/cim-hastaliklari) yazısında anlatılmıştır.
+
+## Peri halkası nedir?
+
+Peri halkası, bu mantarların toprakta merkezden dışarıya doğru yayılırken oluşturduğu daire ya da yay biçimli desendir. Kaynaklar farklı türleri tarif eder: Bazı halkalarda çim koyu yeşil ve gür görünür, çünkü mantar organik maddeyi çözerken azot salar; bazı halkalarda ise mantar toprağı suya karşı dirençli yapar ve çim kurur ya da ölür; bazı halkalar yalnızca nemli dönemlerde (özellikle sonbaharda) görünen mantar halkalarıdır. Yani peri halkası tek bir hastalık değil, farklı biçimlerde ortaya çıkan bir mantar davranışıdır. Kaynaklar: [Minnesota Üniversitesi, peri halkalarını anlamak](https://extension.umn.edu/news/understanding-fairy-rings-your-lawn).
+
+| Görünüm | Olası durum |
+|---|---|
+| Koyu yeşil, gür halka; bazen mantarlı | Mantar organik maddeyi çözerken azot salıyor |
+| Kuru, ölü ya da zayıf çim halkası | Toprak suya karşı dirençli hâle gelmiş olabilir |
+| Yalnızca mantar şapkalarından oluşan halka | Nemli dönemde meyve veren mantar halkası |
+| Rastgele dağılmış tek tek mantarlar | Gömülü odun ya da organik madde olabilir |
+
+## Mantarlarla ne yapılır?
+
+Kaynakların ortak önerisi sakin olmaktır. Mantarlar çoğunlukla zararsızdır, topraktaki organik maddeyi ayrıştıran yararlı canlılardır ve gömülü organik madde tükenince halkalar kendiliğinden kaybolabilir. Yine de bahçede çocuk ya da evcil hayvan varsa mantarların toplanması iyi bir önlemdir; çimdeki hiçbir mantarı yemeyin, çünkü bazı mantarlar zehirlidir ve türü bahçede güvenle ayırt etmek zordur. Mantarları elle toplayabilir ya da çim biçme sırasında dağıtabilirsiniz; bu görünümü iyileştirir ama toprak altındaki mantar ağını yok etmez.
+
+Gömülü odun ya da kütük varsa kalıcı çözüm onu çıkarmaktır. Uzatma kaynakları, yeni çim ekmeden ya da bahçe düzenlemesi yapmadan önce ağaç kütüklerini, büyük kökleri ve inşaat kalıntılarını çıkarmayı en etkili önlem olarak belirtir. Bir ağaç kesildiyse kütüğün ve köklerin çürümesi yıllarca mantar üretebilir. Çimin altındaki keçe tabakası da mantar için besindir; [çim havalandırma](/cim-havalandirma) yazısındaki gibi havalandırma ve keçe temizliği bu tabakayı inceltir.
+
+[ürün:cim-kapama-topragi-leonarditli-formul]
+
+## Mantarlar sağlıksız toprağın işareti mi?
+
+Çoğu kişi çimde mantar görünce toprağın bozuk olduğunu düşünür. Aslında tam tersi çoğu zaman doğrudur: Mantar ağı bulunan toprak, çürüyen organik maddeyi parçalayan canlı bir toprak demektir. Rahatsız eden mantar ağının varlığı değil, görünür olmasıdır. Yine de aşırı mantar ve sürekli nemli, sıkışmış çim, havalandırma ve drenaj eksikliğine işaret edebilir; böyle durumda mantarı değil nedeni, yani suyun ve havanın toprakta dolaşmasını düzeltin.
+
+## Fungisit işe yarar mı?
+
+Bu konuda kaynaklar tam olarak aynı fikirde değildir: Bir uzatma kaynağı fungisitlerin peri halkalarına karşı genellikle etkisiz olduğunu belirtirken başka biri kullanılabildiğini yazar. Çoğu kaynak, mantarların esas olarak yararlı olduğunu ve halkaların gömülü madde tükenince kaybolacağını söyler. Pratik sonuç şudur: İlaç, kök nedeni ortadan kaldırmaz; önce gömülü odunu, aşırı sulamayı ve keçeyi ele alın. Mantar ilacı kullanmayı düşünüyorsanız yerel tarım ve orman müdürlüğüne ya da bir ziraat mühendisine danışın ve etiket talimatına uyun.
+
+## Kuru çim yamalarında peri halkası şüphesi
+
+Kuru, ölü bir halka gördüğünüzde önce başka nedenleri eleyin: Kuraklık, köpek idrarı, larva zararı ya da sulama aksaması. Larva zararı için yamayı kaldırıp köke bakmak gerekir; ayrıntı [çimde larva zararı](/cimde-larva-zarari) yazısında. Yamanın içinde sulama suyu zor çekiliyorsa toprak suya direnç göstermiş olabilir: Bu durumda derin delikler açıp bol ve yavaş sulama, sulamayı kolaylaştıran toprak katkıları ve havalandırma önerilir. Halkanın kuruduğu bölgede yeni çim ekerseniz çimin tutunması zor olabilir; önce toprağın su almasını sağlayın.
+
+## Önlemek için bahçe alışkanlıkları
+
+Mantar küçük bir şey gibi görünür ama çimin altında olup biteni anlatır: Toprak neme, organik maddeye ve çürüyen malzemeye sahiptir. Bu da kötü bir haber değildir; sağlıklı bir toprak yaşamının işaretidir. Rahatsız eden görüntüdür; ve görüntüyü düzeltmek için aşağıdaki alışkanlıklar yeterlidir.
+
+Mantarı tamamen engellemek mümkün olmaz, ama görünürlüğünü azaltabilirsiniz. Çim ekmeden önce toprağı temizleyin ve gömülü odun bırakmayın. Aşırı ve sık sulamadan kaçının; derin ve seyrek sulama, çimin kök bölgesini nemli tutarken yüzeyi kurutur: [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısı sulama zamanını anlatıyor. Biçilen çim parçalarını bırakmak çim keçesini artırmaz, ama ağır keçe oluşmuşsa havalandırma yapın. Çim sararması ve diğer yaygın sorunlar için [çim neden sararır](/cim-neden-sararir) yazısına bakın.
+
+Sonuç olarak çimde mantar çıkması çoğu zaman bir alarm değil, nemli havanın ve toprak altındaki canlı dünyanın bir işaretidir. Müdahale gerekiyorsa sırayı şöyle izleyin: Teşhis, gömülü madde, nem yönetimi, havalandırma. İlaç bu sırada sonda gelir.
+@sss
+S: Çimde mantar neden çıkar?
+C: Toprak altındaki gömülü odun, kök, çim keçesi ya da inşaat artığı gibi organik maddeyle beslenen mantarlar, özellikle uzun nemli havadan sonra meyve verir. Çoğu zaman çimin hastalığı değil, toprağın canlı yaşamının işaretidir.
+
+S: Peri halkası nedir?
+C: Toprak altındaki mantar ağının merkezden dışa yayılırken yarattığı daire ya da yay biçimli desendir. Bazı halkalarda çim koyu yeşil ve gür olur, bazılarında kurur; bazıları yalnızca mantar şapkalarından oluşur.
+
+S: Çimdeki mantarlar zehirli mi, yenir mi?
+C: Çimdeki hiçbir mantarı yemeyin; bazı türler zehirlidir ve bahçede türünü güvenle ayırmak zordur. Çocuk ya da evcil hayvan varsa mantarları elle toplamak iyi bir önlemdir.
+
+S: Çimdeki mantarlar nasıl yok edilir?
+C: Mantarları toplamak görünümü düzeltir ama toprak altındaki ağı yok etmez. Kalıcı çözüm gömülü odun ve organik maddeyi çıkarmak, aşırı sulamayı azaltmak ve keçeyi havalandırmayla inceltmektir; fungisit kaynaklara göre tartışmalıdır.
+
+### SORU
+yayin: 2027-03-15 21:10
+kategori: bahce-ipuclari
+baslik: Çimin kahverengi yamasını kaldırdım, altında beyaz kurtçuklar var; ilaç atmalı mıyım?
+metin: Bahçedeki kahverengi çim yamasının kenarından bir parça kaldırdım. Kökte kıvrık, beyaz, kahverengi başlı beş altı kurtçuk gördüm. Bu zarar mı, hemen ilaç mı atmalıyım?
+@cevap Halil İbrahim Çelik | 1
+Önce sayın: 30 x 30 cm'lik parçada kaç larva var? Üniversite uzatma kaynakları ilaçlama eşiğini genellikle kare ayak başına yaklaşık 8–12 larva olarak anar. Beş altı larva çoğu çimde zarar yaratmayabilir. İlkbaharda ilaçlama önerilmez, çünkü larvalar büyüktür. Yamayı tırmıklayıp tohum serpin ve ince bir kapama toprağıyla örtün. Yaz sonunda aynı alanı tekrar sayın.
+
+### SORU
+yayin: 2027-03-15 21:50
+kategori: bahce-ipuclari
+baslik: Yağmurdan sonra çimde çıkan mantarları kopartıp atsam yeter mi?
+metin: Çimde üç gündür yağmur sonrası küçük beyaz mantarlar çıkıyor. Çocuklar oynuyor. Kopartıp atmak yeterli mi, çimi ilaçlamalı mıyım?
+@cevap Mehmet Fatih Çelik | 2
+Kopartmak görünümü düzeltir ve çocuklar için iyi bir önlemdir; çimdeki hiçbir mantarı yemeyin. Mantarlar toprak altındaki organik maddeyle beslenen mantar ağının meyvesidir ve genellikle zararsızdır. Kalıcı çözüm gömülü odun ya da kütük varsa çıkarmak, aşırı sulamayı azaltmak ve keçeyi havalandırmaktır. Kaynaklar fungisitin peri halkalarında etkisi konusunda farklı görüştedir; önce nedenleri düzeltin.

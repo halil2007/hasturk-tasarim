@@ -1,0 +1,493 @@
+### YAZI
+slug: aeroponik-nedir-hidroponikten-farki
+baslik: Aeroponik Nedir, Hidroponikten Farkı Ne?
+yayin: 2027-02-03 08:45
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: aeroponik nedir
+seo_baslik: Aeroponik Nedir? Hidroponikten Farkı ve Kurulum Riskleri
+seo_aciklama: Aeroponik nedir? Köklerin havada asılı durup sisle beslendiği topraksız yöntemin hidroponikten farkı, riskleri ve evde başlama değerlendirmesi.
+ozet: Aeroponik, bitki köklerinin havada asılı durup besin çözeltisi sisiyle beslendiği topraksız yöntemdir. Hidroponikten farkını, nasıl çalıştığını, kök kuruma riskini, hangi durumda anlamlı olduğunu ve yeni başlayanlar için daha kolay alternatifleri anlattık.
+etiketler: aeroponik, hidroponik, topraksız tarım, sisleme, kök bölgesi, dikey tarım
+gorsel: bekliyor
+gorsel_alt: Kapalı bir hazne içinde havada asılı beyaz kökler ve onlara su sisi püskürten ince memeler
+urunler: hindistan-cevizi-torfu-tablet-cocopeat-12-adet, tarim-perliti, kullanima-hazir-cocopeat-torfu
+kisaca: Aeroponik, bitki köklerinin kapalı bir haznede havada asılı durduğu ve besin çözeltisinin kısa aralıklarla ince sis olarak püskürtüldüğü topraksız yöntemdir. Hidroponikte kökler suda ya da nemli ortamdadır; aeroponikte havadadır. Sis kesilirse kökler dakikalar içinde kurur, bu yüzden pompa ve memeler yeni başlayan için riskli bir düzendir.
+@govde
+Aeroponik, topraksız tarımın en teknik ve en gösterişli türüdür. Kökler bir hazne içinde havada sallanır, belirli aralıklarla ince bir besin sisi kökleri ıslatır, bitki sudan ve havadan aynı anda yararlanır. Kâğıt üzerinde çok verimli görünür. Gerçekte ise küçük bir arıza saatler içinde bütün bitkiyi kaybettirebilir. Aeroponik nedir sorusunun dürüst cevabı bu iki yüzü birlikte anlatmayı gerektirir: yüksek potansiyel, düşük hata payı.
+
+## Aeroponik nedir ve nasıl çalışır?
+
+Oklahoma Eyalet Üniversitesi'nin hidroponik yayını, aeroponikte bitki köklerinin kapalı bir yetiştirme odasında havada asılı kaldığını ve kısa aralıklarla, çoğunlukla birkaç dakikada bir, besin çözeltisi sisiyle püskürtüldüğünü yazıyor ([Oklahoma State hidroponik yayını](https://extension.okstate.edu/fact-sheets/hydroponics)). Bu tanımdaki üç unsur kritiktir: kapalı oda (kök karanlıkta ve nemde kalır), sis (çözelti çok ince damlacıklar hâlinde verilir) ve kısa aralık (köklerin kuruyacak vakti olmaz).
+
+Bir ev tipi aeroponik düzenek şu parçalardan oluşur: besin çözeltisi haznesi, pompa, bir ya da birkaç sis memesi, kapalı kök odası, zamanlayıcı ve bitkiyi tutan kapak. Pompa çözeltiyi basınçla memelere gönderir, memeler çözeltiyi sis hâline getirir, sis kökleri ıslatır ve fazla çözelti hazneye döner. Zamanlayıcı, püskürtme ve bekleme sürelerini ayarlar.
+
+## Hidroponikten farkı ne?
+
+Aeroponik teknik olarak hidroponiğin bir alt dalıdır; Vikipedi de bu sınıflandırmayı yapıyor, çünkü besin yine suyla verilir ([aeroponik maddesi](https://en.wikipedia.org/wiki/Aeroponics)). Pratikte ise kök ortamı farklıdır:
+
+| Özellik | Kratky / fitil | DWC | NFT | Aeroponik |
+|---|---|---|---|---|
+| Kök nerede? | Ortamda ya da suyun üstünde | Suyun içinde | İnce su filminde | Havada, sisle ıslak |
+| Pompa gerekir mi? | Hayır | Hava pompası | Evet | Evet, basınçlı |
+| Kök kuruma riski | Düşük | Düşük | Orta | Yüksek |
+| Zorluk | Çok kolay | Kolay | Orta | Zor |
+
+Kök ortamı ne kadar havadaysa kökün oksijeni o kadar bol olur; aeroponiğin teorik üstünlüğü budur. Ama kökün ıslak kalma süresi çok kısa olduğu için bir pompa arızası, bir tıkanmış meme ya da elektrik kesintisi hemen sorun çıkarır. Diğer yöntemlerin ayrıntıları için [NFT sistemi](/nft-sistemi-nedir), [derin su kültürü](/derin-su-kulturu-dwc-sebze) ve [Kratky yöntemi](/kratky-yontemi) yazılarına bakabilirsiniz.
+
+## Aeroponiğin avantajları
+
+- **Oksijen:** Kökler havadadır, boğulma riski yoktur.
+- **Su ve besin kullanımı:** Sis küçük damlacıklarla verildiği için kapalı sistemde su geri dönüşür; sulama suyu tasarruflu kullanılabilir.
+- **Dikey kullanım:** Kökler asılı durduğu için bitkiler dikey raflara ya da kulelere düzenlenebilir.
+- **Temizlik:** Ortam kullanılmadığı için ortam kaynaklı hastalık ve zararlı azalır.
+
+## Dezavantajları ve riskler
+
+Kök haznesi sürekli nemli ama sürekli ıslak değildir. Zamanlayıcı bozulursa, memeler tıkanırsa ya da pompa durursa kökler birkaç dakika içinde kurumaya başlar. Besin çözeltisindeki tuz zamanla memelerin deliklerini tıkar; bu yüzden filtre ve düzenli temizlik şarttır. Sis, kapalı odadan sızarsa çevreyi ve elektrik bağlantılarını nemlendirir. Ayrıca ısınan oda kök hastalıklarını çoğaltır; kök odasında sıcaklık dengesi kolay sağlanmaz.
+
+Aeroponik nedir sorusunu pratik tarafından bitirirsek: Bu yöntem, deneyimli hobiciler ve ticari üreticiler için anlamlıdır, yeni başlayan biri için ilk adım olarak önerilmez. Sorunsuz başlamak istiyorsanız önce [Kratky yöntemi](/kratky-yontemi) ya da [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) ile topraksız bitki bakımının temelini öğrenin: çözelti, pH, EC ve kök sağlığı. Çözelti ölçümlerini [hidroponik besin çözeltisi](/hidroponik-besin-cozeltisi-ec-ph) yazısında anlattık.
+
+## Kök odası, meme ve zamanlayıcı: üç kritik parça
+
+Aeroponikte sistemin kalbi meme ve zamanlayıcıdır. Meme, çözeltiyi ince damlacıklara ayırır; damlacık ne kadar küçükse kök yüzeyine o kadar eşit yayılır, ama delik de o kadar çabuk tıkanır. Düşük basınçlı ev düzeneklerinde damlacıklar daha iri olur ve bakımı kolaydır; yüksek basınçlı sistemler ise çok ince sis verir, fakat özel pompa ve filtre ister. Zamanlayıcı püskürtme ve bekleme süresini yönetir: Kök ne sürekli ıslak kalmalı ne de kuruyacak kadar beklemeli.
+
+Kök odası ışık almamalıdır. Işık sızarsa yosun çıkar, memeleri tıkar ve köklere yapışır. Oda iç yüzeyi ise kolay silinebilir olmalı; çünkü besin tuzu kristalleşir ve düzenli temizlik ister. Çözeltinin ısınmaması için pompayı kök odasının dışında tutmak, sıcaklığı dengeleyen basit bir önlemdir.
+
+## Hangi bitkiler aeroponiğe uyar?
+
+Hafif ve hızlı büyüyen bitkiler en uygunudur: marul, ıspanak, roka, fesleğen, nane, çilek. Köklerin havada yeterince yer bulabileceği düzeneklerde domates ve biber de yetiştirilebilir, ancak ağır gövdeyi tutacak destek ve büyük kök odası gerekir. Kök sebzeler (havuç, turp, patates) aeroponikte ancak özel düzeneklerde yetişir. Patates için aeroponik bazen tohumluk üretiminde kullanılıyor ama ev ölçeğinde pratik değildir.
+
+Aeroponikte bitkiyi başlatmak çoğunlukla tohum çimlendirme ortamında olur: Cocopeat tablet ya da perlit içinde çimlenen fide, kökleri çıkınca kök odasına taşınır. [Hidroponik fide küpü](/hidroponik-fide-kupu) yazısındaki çimlendirme adımları aeroponik için de aynıdır.
+
+[ürün:hindistan-cevizi-torfu-tablet-cocopeat-12-adet]
+
+## Aeroponik ile hidroponik arasında nasıl karar verirsiniz?
+
+Karar tablosu basittir. Elektriğe ve zamanlayıcıya güveniyor, düzeneği günlük gözleyebiliyorsanız ve dikey, yoğun üretim istiyorsanız aeroponik düşünülebilir. Tatilde bitkiyi bakımsız bırakacaksanız, bakım yükünü azaltmak istiyorsanız ya da hobi olarak başlıyorsanız hidroponik sistemlerden biri daha güvenlidir. Marul, fesleğen ve çilek zaten NFT ya da DWC ile gayet verimli yetişir.
+
+Alan açısından da bir şey söylemek gerekir: Aeroponik düzeneği küçük pencere önü için fazla büyük ve karmaşıktır. Elde dikey yetiştirme amacı varsa topraklı dikey kuleler ve yükseltilmiş yataklar da balkon ve terasta çok sayıda bitkiyi kolayca taşır.
+
+## Aeroponikte bakım rutini
+
+Haftalık bakım dört şeyden ibarettir: Çözeltinin pH ve EC ölçümü, memelerin temizliği, kök odasının sıcaklık ve nem kontrolü, kök rengi ve kokusunun gözlenmesi. Sağlıklı kökler beyaz ve sert, çürüyen kökler kahverengi ve kokuludur; nedenleri için [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısına bakın. Çözeltiyi her iki üç haftada bir yenileyip düzeneği ılık suyla yıkamak biyofilm birikimini önler.
+@sss
+S: Aeroponik nedir?
+C: Bitki köklerinin kapalı bir haznede havada asılı durduğu ve besin çözeltisinin kısa aralıklarla ince sis olarak püskürtüldüğü topraksız yetiştirme yöntemidir. Oklahoma State Üniversitesi aeroponiği bu şekilde tanımlıyor.
+
+S: Aeroponik ile hidroponik arasındaki fark nedir?
+C: Hidroponikte kökler suda ya da nemli ortamdadır; aeroponikte havada asılıdır ve sisle ıslatılır. Aeroponik, hidroponiğin bir alt türü sayılır ama kök kuruma riski daha yüksektir.
+
+S: Aeroponik evde yapılır mı?
+C: Yapılır ama yeni başlayan için zordur. Pompa, zamanlayıcı ve sis memelerinin sorunsuz çalışması gerekir. Kratky, fitilli sistem ya da DWC ile başlamak daha güvenlidir.
+
+S: Aeroponikte elektrik kesilirse ne olur?
+C: Sis durur ve kökler dakikalar içinde kurumaya başlar. Marul gibi hafif bitkilerde bu birkaç saatte kalıcı zarar verir. Yedek güç ya da kısa süreli kesintiyi tolere eden bir düzen şarttır.
+
+### YAZI
+slug: cati-bahcesi-kurmak-yuk-yalitim-ruzgar
+baslik: Çatı Bahçesi Kurmak: Taşıma Yükü, Su Yalıtımı ve Rüzgar
+yayin: 2027-02-03 10:20
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: çatı bahçesi
+seo_baslik: Çatı Bahçesi Kurmak: Taşıma Yükü, Yalıtım ve Rüzgar
+seo_aciklama: Çatı bahçesi kurmadan önce taşıma yükü, su yalıtımı, drenaj, rüzgar ve ortak alan kararı nasıl kontrol edilir? Statik, membran ve güvenlik adımları.
+ozet: Çatı bahçesi güzel bir fikirdir ama önce üç şey sorulur: Çatı yükü taşır mı, yalıtım korunacak mı, rüzgar bitkiyi ve düzeneği götürür mü? Yapı mühendisi onayı, yalıtım katmanları, drenaj, rüzgar önlemleri ve ortak alan kararını sırayla anlattık.
+etiketler: çatı bahçesi, teras bahçesi, taşıma yükü, su yalıtımı, rüzgar, kat malikleri
+gorsel: bekliyor
+gorsel_alt: Yüksek bir terasta ahşap ızgara üzerine yerleştirilmiş sebze kasaları ve çevresinde güvenlik korkuluğu
+urunler: moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60, hg-bol-verimli-sebze-topragi, moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60
+kisaca: Çatı bahçesi kurmadan önce çatının taşıma kapasitesi bir yapı mühendisiyle kontrol edilir; su yalıtımı membranı, kök bariyeri ve drenaj katmanı bitkiden önce gelir. Hafif kaplarla yapılan bir çatı bahçesi bile toprak ve su ağırlığı taşır. Rüzgâr için sabit kaplar, korkuluk ve dayanıklı bitkiler seçilir; apartman çatısında ortak alan kararı gerekir.
+@govde
+Çatı bahçesi, şehirde yeşil alanı olmayanlar için en cazip fikirlerden biri. Güneş bol, görüş açık, komşu yok. Aynı yer, bahçe için en sorunlu yerlerden biridir. Toprak ve su ağırlığı çatı döşemesine biner, sulama suyu yalıtıma ulaşırsa tavandan damlar, rüzgâr yüksek katta bitkiyi ve kapları savurur. Çatı bahçesi kurmak bu yüzden önce mühendislik, sonra bitki işidir.
+
+## Önce taşıma yükü: çatı ne kadar taşır?
+
+Çatı bahçesinde en önemli soru, çatının yeni yükü kaldırıp kaldıramayacağıdır. Oregon State Üniversitesi'nin yeşil çatı yayını yapısal ayrıntıların bina yönetmeliklerine ve mimar, peyzaj mimarı ve statik mühendisinin birlikte vereceği karara bağlı olduğunu söylüyor ([Oregon State yeşil çatı yayını](https://extension.oregonstate.edu/sites/default/files/documents/em9202.pdf)). Penn State Üniversitesi, ince katmanlı (ekstansif) yeşil çatıların çatıya metrekare başına 15–30 libre (yaklaşık 70–150 kg) yük bindirdiğini belirtiyor ([Penn State yeşil çatı yayını](https://extension.psu.edu/green-roofs-benefits-and-design-considerations)).
+
+Bu rakamlar ince toprak ve yosun/sukulent katmanı içindir. Sebze yetiştirmek için kullandığınız 30 cm'lik bir toprak yatağı ise çok daha ağırdır, üstüne sulama sonrası suyun ağırlığı biner. Dolayısıyla ev tipi çatı bahçesi, çoğu zaman bu "ince yeşil çatı" kategorisinin dışına çıkar. Çatının betonarme olup olmadığı, hangi yıllarda yapıldığı ve ilk statik hesabın nasıl yapıldığı mühendis tarafından kontrol edilmelidir. Bu aşamayı atlamayın.
+
+## Çatı bahçesi için yalıtım ve drenaj
+
+Çatıda sebze ve çiçek, sulama demektir. Sulama suyu aşağı sızarsa tavanı bozar. Maryland Üniversitesi'nin yapı standartları, yeşil çatıların su yalıtım membranı üzerine kurulmasını, gerektiğinde kök bariyeri konmasını öngörüyor; Washington Üniversitesi de doğru membran, kök bariyeri ve drenaj sistemi seçilmezse sızıntı ve drenaj tıkanması yaşandığını yazıyor. Kısacası katman sırası şöyledir:
+
+::: adimlar
+Yalıtım membranı | Su yalıtımı sağlam ve test edilmiş olmalı; sızıntı varsa bahçeden önce onarılır.
+Kök bariyeri | Bitki kökü membrana işlemesin diye ayrı bir tabaka serilir; membran üreticisi gerekli görüyorsa şarttır.
+Drenaj katmanı | Fazla suyun kolayca akıp gitmesini sağlayan tabaka; çatı giderleri açık kalmalı.
+Filtre ve yetiştirme ortamı | Toprağın drenaja karışmasını önleyen kumaş ve üzerindeki hafif yetiştirme toprağı.
+Bitki ve kaplar | Kaplar doğrudan yalıtıma değil, ızgara ya da takoz üzerine oturur.
+:::
+
+Çatı giderleri bahçenin en kritik noktasıdır. Yaprak ve toprak giderleri tıkarsa yağmur suyu çatıda birikir ve yük artar. Gideri tıkanmaya karşı korumak ve ara sıra temizlemek gerekir. Kapalı tabanlı kasalarda su zemine akmadığı için yalıtıma binen su yükü azalır; balkon ve teras serisinde alt tepsili kasa bu amaçla düşünülebilir.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60]
+
+## Rüzgar: yüksek katın görünmez yükü
+
+Yükseklik arttıkça rüzgâr hızı artar. Küçük saksılar devrilir, hafif kasalar kayar, geniş yapraklı bitkiler yırtılır. Nebraska Üniversitesi'nin yayını, bitki örtüsü iyi tutunamazsa yetiştirme ortamının rüzgârla savrulacağını vurguluyor. Çatıda sabit ve ağır kaplar, korkuluk önü paravan ve rüzgâra dayanıklı bitkiler tercih edilir. Hafif plastik kaplar toprak ve suyla dolduğunda daha dengelidir; ama boş kalan kap uçabilir, bu yüzden bağlantı ya da ağırlık gerekir.
+
+Rüzgâr ve güneş için bitki seçerken [rüzgarlı balkon bitkileri](/ruzgarli-balkon-bitkileri) yazısındaki listeler çatı için de işe yarar. Çatıda bitkiler yer yer kuruyup yer yer ıslanır; derin köklü ve dayanıklı türler (aromatik bitkiler, sukulentler, kısa boylu çalılar) daha az sorun çıkarır.
+
+## Çatıda hangi bitkiler, hangi kaplar?
+
+Çatıda zemin yoktur, kap vardır. Kaplar hafif, kapalı tabanlı ve sabitlenebilir olmalı. Kenar boyunca devrilmeyecek ağırlıkta, ama toplam yükü çatıyı zorlamayacak kadar sınırlı sayıda kasa yerleştirin; ağır kapları bina duvarlarının ya da kolonların üstüne yakın koyun, çünkü döşeme orta açıklıkta daha çok esner. Ürün açıklamasına göre sabit ayaklı balkon ve teras kasası 400 kg taşıma kapasitesine sahip ve alt tepsisi sulama suyunu zemine akıtmıyor; bu rakam kasanın kendi dayanımıdır, çatının taşıdığı yük ayrı bir hesaptır.
+
+Bitki olarak güneşe, rüzgâra ve sıcağa dayanan türleri seçin: kekik, biberiye, lavanta, adaçayı, kısa boylu domates ve biber. Yaprağı geniş ve sulu bitkiler (kabak, mısır) rüzgârda kolay kırılır. Kuru rüzgârla suyu çabuk kaybeden kaplarda malç serin ve su tutan bir toprak karışımı kullanın.
+
+## Güvenlik: korkuluk ve erişim
+
+Çatıya yürüyen biri için korkuluk önceliklidir. Kenara yakın kasalar insanı kenara çeker; kasayı kenardan uzak tutun. Maryland Üniversitesi'nin standartları, çatıdaki yürüme yolunun en az 10 cm yüksekliğinde bir kenar ya da korkuluk ile ayrılmasını öneriyor. Çocuk ve evcil hayvan varsa ek önlem gerekir. Merdiven ya da kapak ağzı bahçeden bağımsız ve temiz kalmalıdır.
+
+## Kış ve sezon sonu: çatıyı boşaltmak
+
+Çatıda kış, yazdan farklı bir yük getirir. Kar ve buz birikimi kasaların ve toprağın üstüne ek ağırlık bindirir; donan toprak ise kapları çatlatabilir. Sonbahar sonunda bitkileri toplayıp kasaların suyunu boşaltmak, toprağı örtmek ve hafif kapları rüzgârdan korunaklı bir yere almak iyi bir alışkanlıktır. Giderlerin yaprak ve dökülen malçtan temizlenmesi de aynı iş listesindedir. Böylece bahar geldiğinde çatıyı yeniden kurmak yerine yalnızca bitkileri yenilersiniz.
+
+## Apartman çatısıysa: ortak alan kararı
+
+Binanın çatısı çoğu apartmanda ortak alandır. Bir kat malikinin tek başına çatıya bahçe kurması izne bağlıdır. Hangi işlemin hangi çoğunlukla karara bağlanacağı yönetim planına ve Kat Mülkiyeti Kanunu'na bağlıdır; kesin metin için [mevzuat bilgi sistemine](https://www.mevzuat.gov.tr) bakın ve yöneticiyle konuşun. Kalıcı yapı ve eklemeler daha yüksek çoğunluk ister. Çatı bahçesini kat malikleriyle birlikte planlıyorsanız, yük, yalıtım ve sorumluluk (sızıntı olursa kim öder) konularını yazılı hâle getirmek sonradan çıkabilecek anlaşmazlıkları önler.
+
+Çatıdaki yeşil alanın büyük bir ek yapı olmasını beklemeyin. Küçük başlayın: birkaç kap, bir kasa, bir iki aromatik bitki. Sezon sonunda yük, sızıntı ve rüzgâr gözlemini ekleyip büyümeyi sonraya bırakın. Benzer bir çözüm olan teras ve geniş balkon düzeni için [teras bahçesi](/teras-bahcesi) yazısına, ayaklı kasaların kullanımı için [balkon sebze yatağı](/balkon-sebze-yatagi) yazısına bakabilirsiniz.
+@sss
+S: Çatı bahçesi kurmadan önce ne yapılmalı?
+C: Çatının taşıma kapasitesi yapı mühendisiyle kontrol edilmeli, su yalıtımı sağlam olmalı ve gerekirse kök bariyeri ve drenaj katmanı eklenmelidir. Apartman çatısıysa kat malikleri kurulunun kararı gerekir.
+
+S: Çatıya ne kadar toprak yüklenebilir?
+C: Bu çatıya bağlıdır. Penn State, ince katmanlı yeşil çatıların metrekare başına yaklaşık 70–150 kg yük bindirdiğini yazıyor; sebze yatağı bundan ağırdır. Kesin sınırı statik hesap belirler.
+
+S: Çatı bahçesinde rüzgâr bitkileri öldürür mü?
+C: Sıcak ve kurutucu rüzgâr genç bitkileri zorlar, hafif kaplar devrilebilir. Sabit ve ağır kaplar, paravan ve dayanıklı bitkiler riski azaltır. Kenara yakın hafif kap bırakmayın.
+
+S: Çatı bahçesinde sulama sızıntı yapar mı?
+C: Yalıtım ve drenaj düzgün değilse yapar. Su yalıtımı membranı, kök bariyeri ve açık çatı giderleri şarttır. Kapalı tabanlı kasalar sulama suyunun zemine akmasını azaltır.
+
+### YAZI
+slug: apartman-bahcesi-ortak-sebze-bahcesi
+baslik: Apartman Bahçesinde Sebze Bahçesi Kurmak: Ortak Alan Düzeni
+yayin: 2027-02-03 12:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: apartman bahçesi
+seo_baslik: Apartman Bahçesinde Sebze Bahçesi Nasıl Kurulur?
+seo_aciklama: Apartman bahçesinde ortak sebze bahçesi nasıl kurulur? Komşu izni, güneş ölçümü, toprak güvenliği, yükseltilmiş yatak, sulama düzeni ve iş paylaşımı.
+ozet: Apartman bahçesinde sebze yetiştirmek komşu izni, toprak güvenliği ve bakım paylaşımıyla başlar. Kat malikleriyle konuşmanın yolunu, güneş ve su kontrolünü, kirli toprağa karşı yükseltilmiş yatakları ve ortak bir sulama düzenini anlattık.
+etiketler: apartman bahçesi, ortak sebze bahçesi, yükseltilmiş yatak, komşu izni, kentsel tarım, toprak güvenliği
+gorsel: bekliyor
+gorsel_alt: Apartman önündeki küçük bahçede yan yana dizilmiş modüler yükseltilmiş sebze yatakları ve sulama hortumu
+urunler: moduler-yukseltilmis-bahce-yatagi-sekilli-no-14-165x140, hg-bol-verimli-sebze-topragi, sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu
+kisaca: Apartman bahçesinde sebze yetiştirmek için önce yönetim ve komşuların onayı alınır; sonra günde en az birkaç saat güneş alan, musluk yakını bir köşe seçilir. Toprağın geçmişi bilinmiyorsa kirlilik riskine karşı yükseltilmiş yatak ve temiz toprak kullanılır. Ekim, sulama ve hasat işleri baştan paylaştırılırsa küçük bir ortak bahçe sorunsuz yürür.
+@govde
+Apartmanın önündeki yüzlerce metrekarelik çimenlik, çoğu zaman yalnızca biçilen bir alan. Oysa birkaç komşu bir araya gelirse aynı alanın bir köşesi sebze, aromatik bitki ve çiçek bahçesine dönebilir. Apartman bahçesi projelerinin çoğu bitkilerden değil, insanlardan takılır: Kim sulayacak, ürün kime ait, yönetim ne diyecek? Aşağıda önce izin ve düzen, sonra toprak ve bitki işini sıralıyoruz.
+
+## Başlamadan önce: izin ve ortak karar
+
+Apartman bahçesi, kat mülkiyeti kapsamında çoğunlukla ortak alandır. Ortak alanda masa, saksı ya da yapı kurmak için yönetim planına ve kat malikleri kuruluna bakmak gerekir. Hangi karar için hangi çoğunluğun aranacağı işlemin türüne göre değişir; kesin metin için [mevzuat bilgi sistemini](https://www.mevzuat.gov.tr) ve yönetim planınızı kontrol edin, gerekiyorsa bir hukukçuya danışın.
+
+Pratik ipucu: Kalıcı bir yapı kurmaktan çok, sökülebilir, taşınabilir ve zarar vermeyen bir deneme önerin. Modüler yataklar, zeminde iz bırakmaz ve istenirse kaldırılır; bu da komşuların "bir sezon deneyelim" demesini kolaylaştırır. Toplantıdan önce bir sayfalık plan hazırlayın: konum, ölçü, kim bakacak, sulama nasıl yapılacak, hasat nasıl paylaşılacak ve sorun çıkarsa kim sorumlu.
+
+## Apartman bahçesi için doğru köşeyi seçmek
+
+Bir sebze bahçesi için üç şey önemli: güneş, su ve erişim. Domates, biber ve salatalık gibi meyveli sebzeler günde en az 6–8 saat doğrudan güneş ister; yeşillikler biraz gölgeyi kaldırır. Bir gün boyunca iki saatte bir kısa notla güneşin hangi köşeye düştüğünü işaretleyin. Musluğa yakınlık da önemlidir: Hortum ucu uzadıkça sulama zorlaşır ve bakım ihmal edilir. Çöp alanı, otopark egzozu ve kuru yaprak yığınlarına yakın köşelerden uzak durun.
+
+Güneş ölçümünü kış sonunda yapıyorsanız, yazın ağaçlar yaprak açıp gölgeyi artıracağını ve binanın gölgesinin güneyde kısalacağını hesaba katın. Kuzey cephesi dibindeki yer genellikle yaz boyu gölgededir.
+
+Güneş ihtiyacını bitki gruplarına göre şöyle özetleyebiliriz:
+
+| Bitki grubu | Günlük doğrudan güneş | Örnek |
+|---|---|---|
+| Meyveli sebzeler | 6–8 saat | Domates, biber, salatalık, patlıcan |
+| Yaprak ve kök sebzeler | 4–6 saat | Marul, roka, turp, havuç |
+| Aromatik otlar | 4–6 saat | Nane, maydanoz, fesleğen |
+
+Apartman bahçesi çoğu zaman bina gölgesiyle bölünür. Güneşin geldiği köşeyi meyveli sebzelere, gölgeli köşeyi yeşilliklere ayırmak bu yüzden daha verimlidir.
+
+## Toprak güvenliği: eski bahçeyi olduğu gibi kullanmayın
+
+Şehir bahçelerinin toprağı, geçmişinde ne olduğuna göre risk taşıyabilir. Oregon State Üniversitesi'nin yayını, geçmişi bilinmeyen bir yerde sebze bahçesi kurmadan önce toprağın kurşun gibi ağır metaller için test edilmesini öneriyor ([Oregon State kurşun yayını](https://extension.oregonstate.edu/catalog/pub/ec1616)). Eski boyalı bina diplerinden ve yoğun trafikli yollardan uzak durmak, ağır metal riskini azaltır. Çözüm olarak çoğu üniversite yayını, temiz, test edilmiş toprakla doldurulmuş yükseltilmiş yatak ve konteyner kullanımını öneriyor.
+
+Bu yüzden apartman bahçesinde ilk karar çoğu zaman şu olur: Eski toprağa doğrudan ekmek yerine yükseltilmiş yatak kurmak ve temiz sebze toprağı doldurmak. Yatağın altına ayırıcı bir geotekstil, bina duvarından birkaç metre uzaklık ve duvar dibine çiçek ekmek iyi bir başlangıçtır. Toprak analizi için toprak numunesini nasıl alacağınızı ve yorumlayacağınızı [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısında anlattık.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-sekilli-no-14-165x140]
+
+## Yükseltilmiş yatak boyutu ve düzeni
+
+Ortak bahçede yatağın erişimi önemlidir: her yandan yetişebilmek için genişliği bir buçuk metreyi geçmeyecek biçimde seçilir. Ürün açıklamasında 165x140 cm ölçüsü ve 30 cm yüksekliğiyle 22 parçalı modüler yapı olarak tanımlanan şekilli seri yatak, gerektiğinde sökülüp yeniden kurulabildiği için kiracı ve ortak alan için kolaydır. Bahçede birden fazla yatak kuruyorsanız aralarında 60–80 cm yürüme yolu bırakın; el arabası ve sulama hortumu rahat geçsin.
+
+Yatağa ne ekileceğini planlarken bölüşümü kolaylaştıran bir yöntem, her yatağı bir bitki grubuna ayırmaktır: biri yeşillik, biri meyveli sebze, biri aromatik bitki. Yataklar arası sorumluluk bölüşümü de buna göre kolaylaşır. Dizilim için [bahçe yatağı dikim planı](/bahce-yatagi-dikim-plani) yazısı, ölçü seçimi için [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazısı yol gösterir.
+
+## Komşuluk kuralları: gürültü, koku ve görüntü
+
+Ortak bahçede küçük ayrıntılar büyük tartışma çıkarır. Kompost yığını koku ve sinek çağırabilir; bunu bahçenin uzak bir köşesine koymak ve kapalı bir kompost kutusu kullanmak sorunu azaltır. Tel örgü, ip ve çubuklarla yapılan dik destekler dağınık görünebilir; derli toplu ve tek renkli destekler komşuların rahatsızlığını önler. Gübre kokusu için olgun, kokusuz gübre kullanın. Hasat dönemi sonunda yatakları boşaltıp toprağı örtmek, kış boyunca bahçenin bakımsız görünmesini engeller.
+
+Çocuklar için bir yatak ayırmak ve onlara küçük görevler vermek, bahçenin sahiplenilmesini kolaylaştırır; çocukların sorumluluk aldığı bir bahçe, yetişkinlerin ilgisini de sürdürür. Bitki sağlığı sorunlarında kimyasala başvurmadan önce ilçe tarım müdürlüğünden destek alın.
+
+## Sulama ve bakım nöbeti
+
+Ortak bahçenin en sık çöken tarafı sulamadır. Hafta sonu uzayan tatiller ve sıcak günler bitkiyi bir iki günde zayıflatır. Sulama çizelgesi yapın: Hangi gün kim sular, tatilde kim devralır? Hortum ve sulama tabancası ortak bir yerde dursun. Çok sayıda yatak varsa damla sulama düzeni iş yükünü azaltır. Su kullanımı için apartman yönetimiyle muslukta sayaç ya da gider payı konusunu önceden konuşun; bu "su kimin faturası" tartışmasını engeller.
+
+Sulama sıklığı ve miktarı için [bahçe yatağı sulama](/bahce-yatagi-sulama) yazısı ayrıntılı. Hasadı paylaşmak için basit bir kural işe yarar: Bakım yapanlar sebzeyi hasat eder, fazla ürün bir ortak sepete konur, yeşillikler hepsine açık olur. Böylece "ben ektim, o aldı" sürtüşmesi çıkmaz.
+
+## Küçük başlayın, büyütün
+
+İlk sezon bir yatak ve üç dört komşuyla başlayın. Ürün alın, sorunları görün, ertesi yıl genişletin. Hızlı hasat veren yeşillikler, turp ve fesleğen ilk sezon için moral verir; domates ve biber ikinci adım olabilir. Bahçe bir bina içi sosyal ortam kurar: tohum, fide ve bilgi paylaşımı komşuluğu da güçlendirir. Yönetime sezon sonu için kısa bir değerlendirme yapmak, projenin devamı için güven verir.
+@sss
+S: Apartman bahçesinde sebze yetiştirmek için izin gerekir mi?
+C: Apartman bahçesi çoğunlukla ortak alandır; kat malikleri kurulu ve yönetim planı geçerlidir. İşlemin türüne göre gereken çoğunluk değişir. Kesin bilgi için yönetim planına ve mevzuata bakıp yöneticiyle konuşun.
+
+S: Apartman bahçesinin toprağı sebze için güvenli mi?
+C: Geçmişi bilinmiyorsa test edilmelidir. Oregon State Üniversitesi geçmişi bilinmeyen yerde sebze bahçesi kurmadan önce toprağı kurşun gibi ağır metaller için test etmeyi öneriyor. Test edilmemiş toprak yerine yükseltilmiş yatak ve temiz toprak güvenli yoldur.
+
+S: Apartman bahçesine kaç saat güneş gerekir?
+C: Domates, biber ve salatalık gibi meyveli sebzeler günde en az 6–8 saat doğrudan güneş ister. Yeşillikler biraz gölgeyi kaldırır. Güneşin gün boyu hangi köşeye düştüğünü önceden işaretleyin.
+
+S: Ortak sebze bahçesinde sulamayı kim yapar?
+C: Baştan yazılı bir çizelge kurun: hangi gün kim sular, tatilde kim devralır. Hortum ve aletler ortak bir yerde dursun. Birden fazla yatakta damla sulama iş yükünü azaltır.
+
+### YAZI
+slug: son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur
+baslik: Son Don Tarihi Nedir, Kendi Bölgeniz İçin Nasıl Bulunur?
+yayin: 2027-02-03 14:30
+yazar: Mikdat Çelik
+kategori: ekim-takvimi
+odak: son don tarihi
+seo_baslik: Son Don Tarihi Nedir, Bölgeniz İçin Nasıl Bulunur?
+seo_aciklama: Son don tarihi nedir ve kendi bölgeniz için nasıl bulunur? Risk yüzdesi, MGM verileri, yerel gözlem ve domates, biber, fasulye gibi bitkilerin ekim zamanı.
+ozet: Son don tarihi, ilkbaharda bir bölgede donun görülebileceği en geç gündür ve ekim takvimini belirler. Nasıl bulunacağını, yüzde olasılığın ne demek olduğunu, MGM ve yerel gözlemle nasıl doğrulanacağını, soğuğa hassas bitkilerin zamanlamasını anlattık.
+etiketler: son don tarihi, don riski, ekim takvimi, zirai don, MGM, bahar ekimi
+gorsel: bekliyor
+gorsel_alt: Sabah güneşinde bahçe toprağında ve fidelerin yapraklarında beyaz kırağı kristalleri
+urunler: hg-premium-fide-topragi, kis-sebze-bahcesi-fide-paketi-24-fide, hg-fide-topragi
+kisaca: Son don tarihi, ilkbaharda bir yerde donun görülme olasılığının belirli bir düzeye düştüğü günlerdir; çoğu kaynak ortalama (yüzde 50) tarihi baz alır. Tek bir ülke geneli tarih yoktur; kendi bölgeniz için MGM verilerini, yerel gözlemleri ve komşu bahçelerin tecrübesini birleştirin. Domates, biber ve patlıcan gibi hassas bitkileri bu tarihten sonra dikin.
+@govde
+Domates fidesini iki gün erken dikenlerin hikâyesi hep aynıdır: Bir gece don, sabah kapkara yapraklar. Son don tarihi bu hatayı önleyen bilgidir. Ama sandığımız kadar kesin bir tarih değildir: Aynı ilçede iki yıl arayla bir ay fark çıkabilir. Aşağıda son don tarihinin ne anlama geldiğini, kendi bahçeniz için nasıl bulacağınızı ve bu tarihi ekim kararına nasıl çevireceğinizi anlatıyoruz.
+
+## Son don tarihi gerçekte ne demek?
+
+Son don tarihi, ilkbaharda havanın bir daha belirli bir sıcaklığın (genellikle 0 °C) altına düşmeyeceği günü işaret eder. İstatistik olarak bir olasılıktır, kesin bir gün değildir. Missouri Üniversitesi, yüzde 50 tarihi için "bu tarihten sonra hafif öldürücü don olasılığı yüzde 50'dir" tanımını kullanıyor; Alabama Üniversitesi de ortalama haritaların, bu tarihten sonra donun görülmemesi için yaklaşık yarı yarıya bir şans anlamına geldiğini belirtiyor. Yani ortalama tarihte dikim yaparsanız, o yılların yarısında bir don daha gelmiş demektir.
+
+NC State Üniversitesi, ABD'nin hava veri kurumu NOAA'nın tablolarında yüzde 10'dan 90'a kadar dokuz olasılık düzeyi bulunduğunu açıklıyor ([NC State don olasılıkları yayını](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information)). Düşük olasılıklı tarih (örneğin yüzde 10) daha geç, ama çok daha güvenlidir. National Weather Service de yüzde 10 olasılıklı tarihte dikmenin yüzde 50'ye göre çok daha güvenli olduğunu söylüyor.
+
+## Don çeşitleri: radyasyon donu ve adveksiyon donu
+
+Meteoroloji Genel Müdürlüğü'nün Zirai Meteoroloji kitabı, ilkbahar ve sonbaharda en sık görülen donun radyasyon donu olduğunu yazıyor ([MGM Zirai Meteoroloji kitabı](https://mgm.gov.tr/FILES/genel/kitaplar/ziraimeteoroloji.pdf)). Radyasyon donu açık, durgun ve soğuk gecelerde toprak yüzeyinin ısı kaybetmesiyle oluşur. Bu don çukur yerlerde ve vadi diplerinde daha şiddetlidir; çünkü soğuk hava aşağı akar. Bahçenin en düşük köşesine dikilen domates, yüksek bir köşeden bir ay önce donabilir.
+
+## Kendi bölgeniz için bu tarihni nasıl bulursunuz?
+
+Türkiye için tek bir tarih tablosu yoktur; ama üç kaynağı birleştirmek yeterlidir.
+
+::: adimlar
+MGM verilerine bakın | Meteoroloji Genel Müdürlüğü'nün web sayfasında Zirai Don Uyarı Sistemi ve Zirai Don Risk Haritaları yayımlanır; il ve ilçenizin don geçmişi ve güncel uyarısı buradadır.
+Yerel gözlemi alın | Aynı bölgede yıllardır bahçe yapan komşu ve yerel ziraat odası ya da tarım müdürlüğü "bizde nisan ortasından önce dikilmez" gibi güvenilir bilgi verir.
+Bir doğal göstergeye bakın | Meyve ağaçlarının çiçeklenmesi ve çimin canlanması ortamın ne kadar ısındığını gösterir.
+Kendi kaydınızı tutun | Bahçenizde minimum sıcaklığı bir termometreyle kaydedin; üç dört yıl sonra kendi tarihinizi bilirsiniz.
+:::
+
+Bahçe defteri tutmanın en kolay hâli, her sabah en düşük sıcaklığı kâğıda not etmektir. Toprağın ısısına bakmak da ekim kararını destekler: [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısı hangi bitkinin kaç dereceden itibaren çimlendiğini anlatıyor.
+
+## Risk düzeyini seçmek
+
+bu tarihni seçmek aslında risk almayı seçmektir. Aşağıdaki tablo bir bahçıvanın karar çerçevesini gösterir:
+
+| Bitki | Don toleransı | Ne zaman dikilir? |
+|---|---|---|
+| Domates, biber, patlıcan, hıyar | Düşük (hafif donda ölür) | Son don tarihinden sonra, toprak ısınınca |
+| Fasulye, kabak, mısır | Düşük | bu tarihnden sonra |
+| Marul, ıspanak, bezelye, turp | Yüksek | Son dondan 3–4 hafta önce bile |
+| Soğan, sarımsak, havuç | Orta | Toprak işlenebilir olunca |
+
+Soğuğa dayanıklı sebzeler bu tarihne kadar beklemez; ilkbaharda toprak çözülür çözülmez ekilir. Hassas bitkiler için erken ekim hevesinin bedeli, fidelerin ölmesi ve zaman kaybıdır. Ek fide hazırlayıp yedek bırakmak, tek bir geceye tüm üretimi bağlamamayı sağlar. Hangi ayda hangi sebzeler ekilir diye bakmak için [Şubatta balkonda ne ekilir](/subatta-balkonda-ne-ekilir) ve [kışlık sebzeler listesi](/kislik-sebzeler-listesi) yazıları işe yarar.
+
+[ürün:hg-premium-fide-topragi]
+
+## Mikro iklim: aynı ilçede farklı tarihler
+
+Bölgesel tarih bir ortalamadır; bahçenizin kendi mikro iklimi bunu bir iki hafta kaydırabilir. Denize ya da büyük bir su kütlesine yakın yerler daha geç donar ve donun etkisi daha hafif geçer. Çukur arazi ve vadi tabanı soğuk havayı toplar; yamacın üst kısmı soğuk hava aşağı aktığı için daha güvenlidir. Duvar dibi, taş ya da beton yüzey gündüz ısıyı depolayıp geceleyin geri verir, bu yüzden güney cepheli bir duvar önü genellikle birkaç gün erken dikime olanak verir. Rüzgâr alan açık yerlerde ise don yapraklara daha sert vurur.
+
+Bu fark yüzünden bahçenin iki ayrı köşesini aynı gün dikmeyin: Güvenli köşeyi önce, çukur köşeyi bir hafta sonra kullanın. Bir termometreyi çukur köşeye bırakıp bir iki bahar boyunca izlemek, hangi köşenin ne zaman güvenli olduğunu net gösterir.
+
+## Sonbaharda ilk don
+
+Aynı mantık sonbahar için de geçerlidir. MGM'nin Zirai Meteoroloji kitabına göre sonbahar ve kış aylarında görülen don olaylarının zararı sınırlı kalır; ancak yaz sonunda hasadı geciken sebze, meyve ve yazlık tarla ürünleri sonbaharın ilk aylarındaki donlardan etkilenir. Bahçede bunun anlamı şudur: Domates, biber ve fasulye gibi yazlıkların kalan olgunlaşmamış ürününü ilk soğuk gecelerden önce toplamak, ya da geceleri örtmek gerekir. Sonbahar don tahminini aynı Zirai Don Uyarı Sistemi'nden izleyebilirsiniz.
+
+## Son dondan önce ve sonra yapılacaklar
+
+Son don tarihine yakın bir gün hava tahmini aniden soğuk gösteriyorsa, fideleri örtün. Üstünü tülbent, keçe ya da agril örtüyle kaplamak, toprağın ısı kaybını azaltır; naylon örtü yaprağa değerse buzlanır, bu yüzden altına kazık koyun. Saksıdaki fideleri gece içeri alın. Bu yöntemleri [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısında anlattık.
+
+Fidelerin dışarı hazırlanmasını (sertleştirme) don tarihinden bir iki hafta önce başlatın; fideler gündüz dışarıda, gece içeride birkaç gün kalır. Tohumları ise bu tarihnden 6–8 hafta önce evde başlatmak yaygındır; ekim zamanını bu tarihnden geriye saymak, bu yüzden bu tarihi bilmek şarttır.
+@sss
+S: Son don tarihi nedir?
+C: İlkbaharda bir bölgede donun görülme olasılığının belirli bir düzeye düştüğü gündür. Çoğu kaynak yüzde 50 ortalama tarihi kullanır; bu tarihten sonra bile bir don gelme olasılığı vardır. Kesin bir tarih değil, olasılıktır.
+
+S: bu tarihmi nasıl bulurum?
+C: MGM'nin zirai don verilerine, yerel tarım müdürlüğüne ve komşu bahçelerin gözlemine bakın; kendi bahçenizde en düşük sıcaklığı kaydedin. Aynı ilçede çukur ve yüksek yerler arasında bile hafta farkı çıkabilir.
+
+S: Domates fidesi bu tarihnden önce dikilir mi?
+C: Dikilmesi riskli. Domates hafif donda ölür. Son don tarihinden sonra, toprak ısınınca dikmek güvenlidir. Erken dikmek zorundaysanız geceleri örtü koyun ya da fideleri içeri alın.
+
+S: Hangi sebzeler don tarihini beklemeden ekilir?
+C: Marul, ıspanak, bezelye ve turp gibi soğuğa dayanıklı sebzeler, toprak çözülür çözülmez, son dondan haftalar önce ekilebilir. Soğan ve havuç da erken ekilen sebzelerdendir.
+
+### YAZI
+slug: bahar-gubresi-ne-zaman-atilir
+baslik: Bahar Gübresi Ne Zaman Atılır? Ağaç, Bahçe ve Çim İçin
+yayin: 2027-02-03 19:40
+yazar: Ahmet Sacit Çelik
+kategori: gubreleme
+odak: bahar gübresi ne zaman atılır
+seo_baslik: Bahar Gübresi Ne Zaman Atılır? Ağaç, Bahçe, Çim
+seo_aciklama: Bahar gübresi ne zaman atılır? Meyve ağacı, sebze bahçesi ve çim için kış sonu ile ilkbahar zamanlaması, toprak ısısı ve acele etmemenin nedeni.
+ozet: Bahar gübresinin zamanı bitki grubuna göre değişir: meyve ağaçları göz kabarmadan önce, sebze bahçesi ekimden önce, çim ise aktif büyüme başlayınca gübrelenir. Üç grup için takvimi, toprak ısısı ve toprak analizinin önemini anlattık.
+etiketler: bahar gübresi, ilkbahar gübrelemesi, meyve ağacı gübresi, çim gübresi, sebze bahçesi, toprak analizi
+gorsel: bekliyor
+gorsel_alt: İlkbaharda meyve ağacı altında toprağa serpilen gübre ve yanındaki el küreği
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, hg-bol-verimli-sebze-topragi
+kisaca: Bahar gübresi ağaçlarda göz kabarmadan önce (şubat sonu–mart), sebze bahçesinde ekimden birkaç hafta önce toprağa karıştırılarak, çimde ise çim hızlı büyümeye başlayınca, toprak ısındığında verilir. Soğuk toprağa ya da çimin uyku döneminde verilen azotlu gübre boşa gider. Toprak analizi, gübre ihtiyacını gösterir.
+@govde
+İlk güzel hafta sonunda herkesin aklına aynı soru gelir: Gübrelemeye başlayabilir miyiz? Cevap bitkiye göre değişir. Bahar gübresi ne zaman atılır sorusunun tek bir tarihi yoktur; meyve ağacı, sebze bahçesi ve çim üç ayrı takvimle çalışır. Acele etmek de gecikmek kadar zararlıdır: Soğuk toprağa atılan gübre bitkiye ulaşmaz, yağmurla yıkanır ve çevreye karışır.
+
+## Bahar gübresi ne zaman atılır? Üç grup, üç zaman
+
+Aşağıdaki tablo ana çerçeveyi veriyor. Kendi bölgenizde aylar ılık kıyılarda bir iki hafta erken, yüksek ve soğuk bölgelerde bir iki hafta geç olur.
+
+| Bitki grubu | Gübre zamanı | İşaret |
+|---|---|---|
+| Meyve ağaçları | Göz kabarmasından önce, kış sonu–erken ilkbahar | Gözler şişmeye başlıyor, toprak donmuş değil |
+| Sebze bahçesi | Ekim ve dikimden 2–3 hafta önce | Toprak tavına gelmiş |
+| Çim (soğuk iklim çimi) | Çim aktif büyüyüp biçim gerektirince | Toprak ısınmış, çim yeşil ve hızlı uzuyor |
+| Süs ağaç ve çalıları | Yeni sürgün başlarken | Genellikle ek gübre gerekmez |
+
+Kansas State Üniversitesi, ağaç, çalı ve çok yıllık süs bitkilerinin yeni büyüme başlarken gübrelenmesini en iyi dönem olarak yazıyor; aynı kaynak süs ağaçlarının nadiren ek gübreye ihtiyaç duyduğunu ekliyor. Nebraska Üniversitesi, çimle birlikte gübrelenen alanlarda ağaç ve çalılara ayrıca azot vermemeyi öneriyor. Yani çimin altında büyüyen ağaçlar zaten gübre alıyor.
+
+## Meyve ağaçları: göz kabarmadan önce
+
+Meyve ağaçlarında gübre, ağaç uyanmadan hemen önce toprağa verilirse kök faaliyeti başlayınca hazır bulunur. Şubat sonu ile mart başı, ılıman bölgelerde uygun bir penceredir. Gübre gövdeye değil, taç izdüşümü boyunca toprak yüzeyine verilir ve hafifçe karıştırılır. Organik gübre için (katı solucan gübresi, olgun kompost) ayrıntılar [meyve ağacına solucan gübresi](/meyve-agacina-solucan-gubresi-tac-izdusumu) yazısında. Genç fidanın ilk yıl beslenmesi için [fidan gübreleme](/fidan-gubreleme) yazısına bakın.
+
+Azotlu gübreyi bir seferde fazla vermek yerine bölerek vermek ağaç için daha güvenlidir. Zeytin gibi türlerde bu konuda Tarım ve Orman Bakanlığı'nın Yalova Bahçe Kültürleri Araştırma Enstitüsü'nün broşürü, azotlu gübrenin tek seferde değil bölünerek verilmesini ve aşırıdan kaçınılmasını öneriyor ([Tarım ve Orman Bakanlığı zeytin broşürü](https://arastirma.tarimorman.gov.tr/yalovabahce/Belgeler/brosurler/Zeytin.pdf)).
+
+## Sebze bahçesi: ekimden önce toprağa karıştırın
+
+Sebze bahçesi için bahar gübresi, ekimden 2–3 hafta önce toprağa karıştırılan organik madde ve temel gübredir. Olgun kompost ya da solucan gübresi toprağı hazırlar; kış boyunca açık kalmış yatağı çapalayıp gübreyi üst toprağa karıştırın. Yaprak sebzeleri (marul, ıspanak) azotu hızlı kullanır, domates ve biber ise ilk dönemde fazla azotla yaprak büyütüp meyveyi geciktirir. Toprak hazırlığında organik madde dengesini [toprakta organik madde](/toprakta-organik-madde) yazısında anlattık. Ürün açıklamasında sebze tarımında toprak hazırlığı için dekara 40–80 kg katı solucan gübresi örneği veriliyor; küçük yatak için bu oranı metrekareye indirgeyip toprak analizine göre ayarlayın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Çim: acele etmeyin
+
+Çim konusunda üniversite kaynakları nettir: Soğuk iklim çimleri için erken ilkbahar azotu kök gelişimini zayıflatır. Michigan State Üniversitesi mayıs ayına kadar gübrelemeden kaçınmayı öneriyor; Nebraska'da nisan sonu–mayıs başı iyi bir pencere olarak veriliyor; Florida Üniversitesi ise çim üç hafta üst üste biçim gerektiriyorsa gübre için uygun sıcaklıkta olduğunu söylüyor. Türkiye'de de çimin cinsine göre zamanlama değişir: Soğuk iklim çimlerinde (çayır koyunotu, kamışsı yumak) ilkbahar sonu ve sonbahar, sıcak iklim çimlerinde (bermuda) yaz başı uygundur. Çim türünü bilmiyorsanız karışım paketine ya da çim bakımı yazılarına bakın; sonbahar gübrelemesi için [sonbahar çim gübresi](/sonbahar-cim-gubresi) yazısı bir karşılaştırma sağlar.
+
+## Bölgeye göre bahar gübresi takvimi
+
+Takvim bölgeden bölgeye iki üç hafta kayar. Akdeniz ve Ege kıyılarında şubat ortası, Marmara ve Karadeniz'in kıyı kesimlerinde şubat sonu–mart başı, İç Anadolu ve daha yüksek yerlerde mart ortası–nisan başı meyve ağacı gübresi için uygun penceredir. Doğu Anadolu'da toprak nisanda hâlâ soğuk kalabilir; orada göz kabarmasını beklemek daha doğrudur. Bahar gübresi ne zaman atılır sorusunun bölgesel cevabı bu yüzden ağacın kendisine bakmaktır: Gözler kabarıyor mu, toprak çözülmüş mü, yağmur beklentisi var mı?
+
+::: takvim
+Meyve ağacı gübresi (kıyı) | 2-3
+Meyve ağacı gübresi (iç bölge) | 3-4
+Sebze bahçesi toprak hazırlığı | 3-4
+Soğuk iklim çimi gübresi | 4-5
+:::
+
+Gübre atıldıktan sonra yağış hiç yoksa, toprağın yüzeyini ılık bir günde sulamak gübrenin kök bölgesine inmesine yardımcı olur.
+
+## Gübre ve yabani ot ilişkisi
+
+İlkbaharda gübre yalnızca ekili bitkiyi değil, yabani otu da besler. Otlar ilkbaharda hızlı çıkar ve gübreyi bitkiden önce kullanabilir. Bu yüzden gübreyi vermeden önce otları ayıklayın ya da çapalayın, gübreyi bitki köküne yakın serpin ve üzerini malçlayın. Çim alanlarında ise gübre atmadan önce yabani otlarla uğraşmak gerekir; gübre çimi güçlendirir ve otlara karşı tabakayı yoğunlaştırır. Büyük ölçekte gübre atmadan önce küçük bir bölgede deneme yapıp bitki tepkisine bakmak da ayar için kullanışlı bir yöntemdir.
+
+## Toprak analizi olmadan gübre almayın
+
+Üniversitelerin ortak önerisi, gübrelemeden önce toprak testi yaptırmaktır; test hem ne kadar gübre gerektiğini hem ne zaman verilmesi gerektiğini söyler. Bahçenizde bir kez analiz yaptırdıysanız sonuçlara göre bahar gübresi miktarını azaltabilirsiniz; belki fosfor ve potasyum zaten yeterlidir. Analiz sonuçlarını okumak için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısına bakın.
+
+Bahçesi küçük olanlar için pratik bir özet: Önce toprağa bakın, sonra takvime. Eliniz toprağa girip serin ve nemli buluyorsa, ağaçta gözler kabarıyorsa ve çimde ilk biçim vakti geldiyse gübreleme zamanı gelmiştir. Birkaç hafta erken kalmak, bir kez fazla atmaktan çok daha az zararlıdır.
+
+## Acele etmenin bedeli
+
+Toprak soğukken verilen gübre bitkiye ulaşmaz, yağmurla yıkanır. Donmuş toprağın üstüne atılan gübre yüzeyden akar ve su kaynaklarına karışır. Bahar gübresi için bu kural basittir: Toprak tava gelmeden, bitki uyanmadan gübre atılmaz. Kış sonunun ilk sıcak haftası takvim için bir işaret değil, yalnızca uyarıdır.
+@sss
+S: Bahar gübresi ne zaman atılır?
+C: Meyve ağaçlarında göz kabarmadan önce kış sonu–mart başı, sebze bahçesinde ekimden 2–3 hafta önce, soğuk iklim çiminde ise çim aktif büyüyüp biçim gerektirince verilir. Toprak donmuş ya da çamurluysa bekleyin.
+
+S: Çimlere bahar gübresi erken atılırsa ne olur?
+C: Erken ilkbahar azotu soğuk iklim çimlerinde yaprak büyümesini artırır ama kök gelişimi ve hastalık direnci için ayrılan besin rezervini tüketir. Michigan State Üniversitesi mayıs ayına kadar beklemeyi öneriyor.
+
+S: Meyve ağacına bahar gübresi nereye verilir?
+C: Gövdenin dibine değil, taç izdüşümüne, yani dalların dış hizasındaki toprağa verilir. Gübre yüzeye serpilip hafifçe toprağa karıştırılır, sonra sulanır.
+
+S: Bahar gübresi için toprak analizi gerekli mi?
+C: Gerekli sayılır. Analiz gübre miktarını ve zamanını söyler. Fosfor ve potasyum yeterliyse yalnızca azot vermek yeter; gereksiz gübre hem masraftır hem çevre kirliliğidir.
+
+### YAZI
+slug: fistik-cami-yetistirme-kozalak-veren-cam
+baslik: Fıstık Çamı Yetiştirme: Kozalak Veren Çamın Dikimi, Verime Yatması ve Bakımı
+yayin: 2027-02-03 16:55
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: fıstık çamı yetiştirme
+seo_baslik: Fıstık Çamı Yetiştirme: Dikim, Verim ve Bakım
+seo_aciklama: Fıstık çamı yetiştirme uzun vadeli bir iştir: aşılı fidan, fidan kabı, 15–20 yılda verim, yağış etkisi, çam keseli kurdu ve budama. Kaynaklı beklentiler.
+ozet: Fıstık çamı yetiştirme, kısa sürede ürün beklenmeyen uzun vadeli bir yatırımdır. Araştırmalara göre ağaçlar 15–20 yaşından sonra meyve vermeye başlar; verim yağış rejimine, zararlılara ve ağaç bakımına bağlıdır. Aşılı fidanın önemi, fidan kabı, bakım ve zararlılar anlatıldı.
+etiketler: fıstık çamı, Pinus pinea, çam fıstığı, kozalak, aşılı fidan, çam keseli kurdu, uzun vadeli ağaç
+gorsel: bekliyor
+gorsel_alt: Geniş şemsiye biçimli taçlı fıstık çamı ve dalların arasında olgunlaşan iri kozalaklar
+urunler: hg-fidan-topragi
+kisaca: Fıstık çamı yetiştirme uzun vadelidir: Araştırmalar ağaçların 15–20 yaşından itibaren meyve vermeye başladığını bildiriyor. Verim yağışa, ağaç yaşına, zararlılara (çam keseli kurdu, batı kozalak böceği) ve bakıma bağlı. Türkiye'de verim kaybına karşı aşılı fidan yaygınlaştırılması öneriliyor; dikim aralığı için orman müdürlüğüne danışın.
+@govde
+Fıstık çamı, mutfaktaki çam fıstığının ağacıdır ve onu yetiştirmek, bahçede bir sebze ya da bir meyve ağacı yetiştirmeye benzemez. Bugün diktiğiniz fidan, belki siz emekli olurken ilk kozalaklarını verir. Fıstık çamı yetiştirme bu yüzden en çok beklenti yönetimi işidir: Ne zaman ürün alınır, ürünü ne belirler, hangi sorunlar ağacın önüne çıkar? Aşağıda bu soruların cevabını Türkiye'de yapılmış akademik çalışmalara dayanarak veriyoruz; kaynaklarda bulamadığımız ayrıntıları (dikim aralığı gibi) uydurmak yerine açıkça belirtiyoruz.
+
+## Fıstık çamı ne zaman ürün verir?
+
+Fıstık çamı (Pinus pinea) yavaş büyüyen, geniş şemsiye biçimli taç yapan bir çamdır. Kozalak verimiyle ilgili ulaştığımız çalışmalarda ağaçların meyve vermeye 15–20 yaşından itibaren başladığı bildiriliyor. Bu süre, tohumdan yetişen ağaçlar için geçerlidir; aşılı fidanlar daha erken kozalak verebilir, ancak bu konuda kendi bölgeniz için fidan üreticisinin ve orman müdürlüğünün verdiği bilgiyi esas alın. Bizim bulduğumuz kaynaklar aşılı fidanın verime yatış süresini sayısal olarak vermiyor.
+
+Dolayısıyla fıstık çamı, yıllık gelir planı yapılacak bir bahçe ürünü değil; uzun vadeli bir ağaçlandırma ve miras yatırımıdır. Küçük bir bahçede ya da saksıda bu ağaçtan kozalak beklemek gerçekçi değildir; ağaç büyür, geniş bir taç ve derin bir kök sistemi kurar. Bahçe boyutu için [çam fidanı dikimi ve bakımı](/cam-fidani-dikimi) yazısındaki genel çam dikim kuralları da geçerlidir.
+
+## Verimi ne belirliyor?
+
+Türkiye'de fıstıkçamı üretimini inceleyen 2025 tarihli bir derleme (Dolaşır, AgriTR Science 7(2)), verim kayıplarının nedenlerini sıralıyor: yaşlanmış meşcereler, çam keseli kurdu (Thaumetopoea pityocampa) ve batı kozalak böceği (Leptoglossus occidentalis) gibi zararlılar, düzensiz yağış, hatalı silvikültürel uygulamalar ve erken hasat. Aynı derleme sürdürülebilir gelişim için aşılı fidan üretiminin yaygınlaştırılmasını öneriyor.
+
+Verimin ne belirlemediği de öğreticidir. Bir fıstık çamı ormanında kozalak ve tohum üretiminin ağacın taç hacmi, yaşı ve sosyal konumuyla ilişkisini inceleyen bir çalışmada beklenen ilişkiler bulunamamış; kabuklu fıstık veriminin ise bir ve iki yıl öncesinin yağışıyla ilişkili olduğu görülmüş. Yani verim, ağacın iriliğinden çok, önceki yılların yağış düzeniyle bağlantılı. Bu, yetiştiricinin elinde olmayan bir değişkendir; sulama imkânı olan bahçede etkisi farklı olabilir, ama kaynaklar bunu test etmiyor.
+
+| Etken | Etkisi (kaynaklardan) | Yetiştirici ne yapabilir? |
+|---|---|---|
+| Ağaç yaşı | Meyve 15–20 yaşından sonra başlıyor | Sabır, uzun vadeli planlama |
+| Yağış rejimi | Fıstık verimi 1–2 yıl önceki yağışla ilişkili | Bölge seçimi, mümkünse destek sulama |
+| Çam keseli kurdu | Verim kaybı nedeni olarak sayılıyor | Kış keselerini izlemek, mücadele |
+| Batı kozalak böceği | Kozalak/tohum zararı | İzleme; il müdürlüğü önerisi |
+| Hatalı silvikültür | Verim kaybı | Doğru bakım, budama, seyreltme |
+
+## Fidan seçimi: aşılı mı, tohumdan mı?
+
+2025 derlemesinin vurguladığı nokta, aşılı fidanın üretimde yaygınlaşmasıdır. Aşılı fidan, verimli ve kaliteli ana ağaçtan alınan dal parçasının köklü bir gövdeye eklenmesiyle elde edilir; amaç, tohumdan gelen ağaçlardaki değişkenliği azaltmak ve kozalak vermeyi hızlandırmaktır. Kozak yöresinde yapılan bir çalışma, Kozak tipi fıstık çamında verimin diğer tiplerden daha yüksek olduğunu bildiriyor ve bakımın önemli bir parçası olarak budamayı öne çıkarıyor ([Kozak yaylasında fıstık çamının ekolojik şartları ve yetiştiriciliği](https://acikbilim.yok.gov.tr/handle/20.500.12812/691769)). Tip ve yöre uyumu bu nedenle önemlidir: Bölgenizde başarılı olmuş çeşit ya da tip hangisiyse onu seçin.
+
+Fidanın kökü de önemli. Fıstık çamı fidan yetiştirme tekniklerini inceleyen bir çalışmada en iyi fidan boyu ve kök boğazı çapının büyük hacimli kaplarda (sırasıyla 1200, 800 ve 600 cm³) yetiştirilen fidanlarda görüldüğü, ancak arazide tutma yüzdesinde kap türleri arasında fark çıkmadığı belirtiliyor ([Fıstıkçamı tohum-fidan ilişkileri ve fidanlıkta fidan yetiştirme teknikleri](https://acikbilim.yok.gov.tr/handle/20.500.12812/287071)). Pratik anlamı şu: Büyük kapta yetişmiş ve sağlıklı görünen bir fidan güvenli seçimdir; ama küçük kaplı fidan da tutmayacak demek değildir. Fidan seçerken kök topunun sağlamlığına, kök dolanmasına ve boy-çap dengesine bakın; genel fidan seçimi ilkeleri için [fidan seçimi nasıl yapılır](/fidan-secimi-nasil-yapilir) yazısını kullanabilirsiniz.
+
+## Dikim ve ilk yıllar
+
+Aradığımız kaynaklarda fıstık çamı için dikim aralığı, çukur ölçüsü ya da sulama programı gibi somut rakamlar bulamadık. Bu bilgileri Orman Genel Müdürlüğü'nün ve il müdürlüğünün resmî yayınlarından almanız gerekir; biz rakam uydurmayacağız. Genel fidan dikim ilkeleri bütün ağaçlarda ortaktır ve [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) ile [tüplü fidan dikimi](/tuplu-fidan-dikimi) yazılarında ayrıntılı: çukuru yeterince geniş kazın, kök boğazını toprak seviyesinde tutun, can suyu verin ve ilk yıl sulamayı ihmal etmeyin. İlk yıl sulama düzeni için [yeni dikilen fidan sulama](/yeni-dikilen-fidan-sulama-ilk-yil) yazısına bakın.
+
+Hazır fidan toprağı, dikim çukurunun tabanında genç köklere organik besin ve iyi havalanma sağlayabilir. HG Fidan Toprağı ürün açıklamasına göre orman toprağı, solucan gübresi, leonardit, pomza ve perlit içeriyor; amaç dikim şokunu azaltmak ve kök gelişimini desteklemek. Çam gibi geniş ve derin kök yapan ağaçlarda ana kök bölgesi doğal toprakta kalacağı için hazır toprağı yalnızca çukurun ilk dolgusunda ve ölçülü kullanın.
+
+[ürün:hg-fidan-topragi]
+
+## Bakım: budama ve zararlılar
+
+Kozak çalışması budamayı bakımın önemli parçası olarak anıyor. Çamlarda budama, diğer meyve ağaçlarından farklı olarak ölçülüdür: Alt dalları yükseltmek, kuru ve hastalıklı dalları almak, tacı dengelemek yeterlidir. Ağır budama çamı zayıflatabilir. Budamanın zamanı ve ayrıntıları için yöredeki orman fidanlığının ve il tarım müdürlüğünün rehberliğini alın.
+
+Zararlı tarafında iki isim öne çıkıyor: çam keseli kurdu ve batı kozalak böceği. Çam keseli kurdu, kış aylarında çam dallarında beyaz ipeksi keseler yapar ve iğneleri yer; bu konudaki belirtiler ve önlemler için [çam ağacı hastalıkları](/cam-agaci-hastaliklari) yazısına bakın. Kozalak ve tohumu hedef alan zararlılar ise ağacın değil ürünün verimini düşürür; bu yüzden kozalak veren ağaçlarda bu zararlıları izlemek özel önem taşır. Gübreleme konusunda çamın beslenme ihtiyacı için [iğne yapraklı ağaç gübreleme](/igne-yaprakli-agac-gubreleme) yazısını okuyabilirsiniz; ancak fıstık çamı için özel bir gübreleme programı kaynaklarda net verilmiyor.
+
+## Hasat
+
+Fıstık çamı yetiştirme sürecinin ödülü olan hasatta acele etmemek gerekir. Kozalaklar ağaçta uzun sürede olgunlaşır ve hasat için erken toplama sorunu ayrıca anılıyor: Derleme, erken hasadın da verim kaybı nedenlerinden biri olduğunu yazıyor. Kozalağın olgunlaşmasını beklemek, kabuklu fıstığın dolgun olmasını sağlar. Kozalaktan fıstığın çıkarılması ve kabuğunun kırılması ayrı iş gücü gerektirir; yüksek ağaçlarda kozalak toplamak da tehlikelidir. Güvenli ve yasal hasat için yerel mevzuata ve orman işletmesi kurallarına bakın; ormanlık alandaki ağaçlardan hasat izne tabi olabilir.
+
+## Fıstık çamı yetiştirmeye değer mi?
+
+Cevap amaca bağlı. Geniş arazisi olan, uzun vadeli düşünen ve iklimi uygun bölgede bulunan biri için fıstık çamı, zamanla hem gölge hem peyzaj hem de ürün sağlar. Küçük bahçe sahibi için ise ağacın boyutu ve verim süresi uygun değildir; çam fıstığı için ya satın almak ya da bu ağaçları yetiştiren bölgelerde yerel üreticiden almak daha gerçekçidir. Bu konuda iklim, toprak ve yöre uygunluğunu mutlaka yerel orman fidanlığıyla ve il tarım müdürlüğüyle kontrol edin.
+@sss
+S: Fıstık çamı kaç yılda ürün verir?
+C: Ulaştığımız araştırmalar ağaçların 15–20 yaşından itibaren meyve vermeye başladığını bildiriyor. Aşılı fidanın verime yatış süresi için kaynaklarda net sayı bulamadık; fidan üreticisine ve orman müdürlüğüne danışın.
+
+S: Fıstık çamı verimi neye bağlı?
+C: Yaşlı meşcereler, çam keseli kurdu ve batı kozalak böceği, düzensiz yağış, hatalı bakım ve erken hasat verim kaybı nedenleri olarak sayılıyor. Bir çalışmada kabuklu fıstık verimi bir ve iki yıl önceki yağışla ilişkili bulunmuş.
+
+S: Fıstık çamında aşılı fidan neden önerilir?
+C: 2025 tarihli bir derleme, Türkiye'de verim kaybına karşı aşılı fidan üretiminin yaygınlaştırılmasını öneriyor. Aşılı fidan, verimli ana ağaçtan alınan dalla üretildiği için tohumdan gelen değişkenliği azaltır.
+
+S: Fıstık çamı saksıda ya da küçük bahçede yetişir mi?
+C: Ağaç büyür ve geniş taç yapar; kozalak için on yıllar gerekir. Küçük bahçe ve saksı için uygun değildir. Ürün amacıyla yetiştirmek isteyenler arazi, iklim ve yöre uygunluğunu orman fidanlığıyla doğrulamalıdır.

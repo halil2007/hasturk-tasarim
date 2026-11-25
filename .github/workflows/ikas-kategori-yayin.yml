@@ -1,0 +1,58 @@
+name: ikas kategori yayına al
+
+# Satış kanalına bağlı olmayan (sitede "sayfa bulunamadı" veren) kategorileri, diğer kategorilerin çoğunun satış kanalı ayarıyla yayına alır.
+# Elle başlatılır. "uygula" işaretlenmezse kuru çalıştırmadır: hiçbir şey değişmez. Adlar boşsa satış kanalı olmayan tüm kategoriler listelenir.
+on:
+  workflow_dispatch:
+    inputs:
+      adlar:
+        description: 'Yayına alınacak kategori adları (virgülle; boşsa satış kanalı olmayan hepsi)'
+        default: ''
+      uygula:
+        description: 'Yayına al (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+      gorunur:
+        description: 'Adı yazılan kategorilerin pasif satış kanallarını görünür yapar (uygula ile birlikte)'
+        type: boolean
+        default: false
+      tani:
+        description: 'Tanı: adı yazılan kategorilerin tüm ikas alanlarını yazar, hiçbir şey değiştirmez'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency: ikas-kategori-yayin
+
+jobs:
+  yayin:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/ikas-kategori-yayin.mjs
+        env:
+          ADLAR: ${{ github.event.inputs.adlar }}
+          TANI: ${{ github.event.inputs.tani == 'true' && '1' || '0' }}
+          GORUNUR: ${{ github.event.inputs.gorunur == 'true' && '1' || '0' }}
+          APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası
+        continue-on-error: true
+        run: node scripts/ikas-kategori-yayin.mjs
+        env:
+          ADLAR: ${{ github.event.inputs.adlar }}
+          TANI: ${{ github.event.inputs.tani == 'true' && '1' || '0' }}
+          GORUNUR: ${{ github.event.inputs.gorunur == 'true' && '1' || '0' }}
+          APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

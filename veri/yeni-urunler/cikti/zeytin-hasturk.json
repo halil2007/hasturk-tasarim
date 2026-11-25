@@ -1,0 +1,78 @@
+{
+ "site": "hasturk",
+ "kategoriler": [
+  {
+   "name": "Topraklar",
+   "slug": "topraklar",
+   "pageTitle": "Topraklar",
+   "description": "Topraklar",
+   "children": [
+    {
+     "name": "Özel Bitki Toprakları",
+     "slug": "ozel-bitki-topraklari",
+     "pageTitle": "Özel Bitki Toprakları",
+     "description": "Özel bitki toprakları"
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "HG Zeytin Ağacı Toprağı",
+   "marka": "HG",
+   "sku": "HG-ZYT-05L",
+   "kategoriler": [
+    "Özel Bitki Toprakları"
+   ],
+   "fiyat": 249,
+   "etiketler": [
+    "kdv_20"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-zeytin-agaci-topragi.webp"
+   ],
+   "metaData": {
+    "slug": "hg-zeytin-agaci-topragi",
+    "pageTitle": "HG Zeytin Ağacı Toprağı | HasTürk Gübre",
+    "description": "HG Zeytin Ağacı Toprağı: pomza ve orman toprağıyla süzek, havadar hazır saksı toprağı. Saksıdaki zeytinde kök çürümesi riskini azaltır."
+   },
+   "aciklama": "<p>HG Zeytin Ağacı Toprağı, saksıda ya da bahçede yetiştirilecek zeytin ağaçları (Olea europaea) için hazırlanmış, kullanıma hazır bir toprak karışımıdır. Zeytin güneşi ve kuru yaz havasını sever; ama köklerinin suda kalmasına dayanamaz. Saksıda yetiştirilen zeytinin en sık kaybı, suyu geç bırakan ağır toprak yüzünden olur. Bu karışım iri taneli pomza ve humuslu orman toprağıyla hem süzek hem de besleyici kalacak şekilde hazırlandı.</p>\n<h2>Zeytin Ağacı Nasıl Bir Toprak Sever?</h2>\n<ul>\n<li><strong>Süzek:</strong> Sulamadan sonra fazla su saksının dibinden hızla akmalı; kökler suda kalmamalı.</li>\n<li><strong>Havadar:</strong> İri taneli malzeme, kök bölgesinde uzun süre boşluk bırakır.</li>\n<li><strong>Dengeli besinli:</strong> Zeytin fakir topraklara da dayanır, ama saksıda sınırlı toprakta organik madde desteği yararlıdır.</li>\n<li><strong>Kök bölgesi çok ıslak olmayan:</strong> Nem bir süre tutulmalı, ama toprak sürekli sulu kalmamalı.</li>\n</ul>\n<h2>Karışım İçeriği</h2>\n<ul>\n<li><strong>Longoz orman toprağı (doğal humuslu):</strong> %35</li>\n<li><strong>Kırmızı pomza lav taşı:</strong> %30</li>\n<li><strong>Sphagnum ham torf:</strong> %20</li>\n<li><strong>Cocopeat torfu:</strong> %10</li>\n<li><strong>Solucan gübresi:</strong> %5</li>\n</ul>\n<h2>Neden Bu Karışım?</h2>\n<ul>\n<li><strong>Longoz orman toprağı</strong> doğal humus getirir; toprağa doku ve organik madde sağlar.</li>\n<li><strong>Kırmızı pomza lav taşı</strong> iri ve gözenekli olduğu için sulamalardan sonra da yapısını korur, kök bölgesinde hava boşluğu bırakır ve fazla suyun akmasına yardımcı olur.</li>\n<li><strong>Sphagnum torf</strong> nemi tutar ve karışımı hafifletir.</li>\n<li><strong>Cocopeat</strong> suyu dengeli tutar ve toprağın havalanmasına destek olur.</li>\n<li><strong>Solucan gübresi</strong> organik besin katar.</li>\n</ul>\n<h2>Bu Toprak Kimler İçin?</h2>\n<ul>\n<li>Balkon, teras ve avluda saksıda zeytin yetiştirmek isteyenler</li>\n<li>Zeytin fidanını bahçeye dikmeden önce saksıda büyütecekler</li>\n<li>Saksıdaki zeytinin toprağını yenilemek ve kök çürümesinden kaçınmak isteyenler</li>\n</ul>\n<h2>Nasıl Kullanılır?</h2>\n<ol>\n<li>Dibi delikli, bitkinin kök topundan bir boy büyük bir saksı seçin. Dibine drenaj için birkaç santim iri malzeme koyabilirsiniz.</li>\n<li>Toprağı doldurun, zeytini daha önceki derinliğinde yerleştirin ve çevresini hafifçe bastırın.</li>\n<li>Dikimden sonra bol su verin ve fazla suyun tamamen akmasını bekleyin.</li>\n<li>Sonraki sulamalarda toprağın üst birkaç santimetresi kuruyunca su verin; saksı tabağında su bırakmayın.</li>\n</ol>\n<h2>Bakım Önerileri</h2>\n<ul>\n<li>Zeytini günün büyük bölümünde doğrudan güneş alan bir yere koyun.</li>\n<li>Saksıdaki zeytin, yerdeki zeytinden daha çabuk kurur ve daha çok soğuktan etkilenir; yazın sulama sıklığını, kışın ise koruma ihtiyacını ona göre ayarlayın.</li>\n<li>Saksı değişimini birkaç yılda bir, ilkbaharda yapabilirsiniz.</li>\n</ul>\n<h2>Paket Seçenekleri</h2>\n<p>5, 10, 20 ve 40 litrelik paketler: tek saksıdan çok sayıda saksıya kadar ihtiyacınıza göre seçin.</p>\n<h2>Sıkça Sorulan Sorular</h2>\n<h3>Zeytin ağacı saksıda yetişir mi?</h3>\n<p>Evet. Yeter ki saksı yeterince büyük ve drenaj delikli olsun, toprak suyu iyi süzsün ve ağaç bol güneş görsün.</p>\n<h3>Saksıdaki zeytinin yaprakları neden sararır ya da dökülür?</h3>\n<p>En sık nedenler fazla sulama, saksı tabağında biriken su ve sıkışık toprak yüzünden kök bölgesinin havasız kalmasıdır. Ani soğuk ve yetersiz ışık da yaprak dökümüne yol açabilir.</p>\n<h3>Zeytin toprağı ne zaman değiştirilir?</h3>\n<p>Kökler drenaj deliğinden çıkıyorsa, toprak sıkışıp suyu geç bırakıyorsa ya da ağaç saksıya sığmıyorsa değiştirilir. İlkbahar bunun için uygun zamandır.</p>",
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "20 Lt",
+     "40 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 249,
+     "sku": "HG-ZYT-05L",
+     "stok": 1000
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 349,
+     "sku": "HG-ZYT-10L",
+     "stok": 1000
+    },
+    {
+     "deger": "20 Lt",
+     "fiyat": 549,
+     "sku": "HG-ZYT-20L",
+     "stok": 1000
+    },
+    {
+     "deger": "40 Lt",
+     "fiyat": 1075,
+     "sku": "HG-ZYT-40L",
+     "stok": 1000
+    }
+   ],
+   "stoksuzSat": false
+  }
+ ]
+}

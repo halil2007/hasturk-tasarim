@@ -1,0 +1,51 @@
+name: ikas kategori taşı
+
+# Bir ana kategorinin alt kategorilerini başka bir ana kategorinin altına taşır (ürünler alt kategorilerinde kalır),
+# boş kalan eski ana kategoriyi siler. Elle başlatılır. "uygula" işaretlenmezse kuru çalıştırmadır: hiçbir şey değişmez.
+on:
+  workflow_dispatch:
+    inputs:
+      kaynak:
+        description: 'Taşınacak alt kategorilerin şimdiki ana kategorisi'
+        default: 'Sera, Kümes ve Bahçe Kemerleri'
+      hedef:
+        description: 'Yeni ana kategori'
+        default: 'Galvaniz Modüler Yapılar'
+      uygula:
+        description: 'Taşı (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency: ikas-kategori-tasi
+
+jobs:
+  tasi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/ikas-kategori-tasi.mjs
+        env:
+          KAYNAK: ${{ github.event.inputs.kaynak }}
+          HEDEF: ${{ github.event.inputs.hedef }}
+          APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası (kategoriler orada yoksa atlanır)
+        continue-on-error: true
+        run: node scripts/ikas-kategori-tasi.mjs
+        env:
+          KAYNAK: ${{ github.event.inputs.kaynak }}
+          HEDEF: ${{ github.event.inputs.hedef }}
+          APPLY: ${{ github.event.inputs.uygula == 'true' && '1' || '0' }}
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}

@@ -1,0 +1,33 @@
+name: Kategori sayfası yapısı
+
+# Canlı ikas kategori sayfalarının yapısını ve ekran görüntülerini alır (sol alt kategori/filtre tasarımı için).
+# Mağazaya dokunmaz, yalnız okur.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/kategori-sayfa.mjs', '.github/workflows/kategori-sayfa.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  oku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: |
+          npm i --no-save playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - run: node scripts/kategori-sayfa.mjs https://hasturkgubre.com.tr/galvaniz-moduler-yapilar https://hasturkgubre.com.tr/gubreler https://hasturkgubre.com.tr/topraklar
+      # Ekran görüntüleri ayrı, geçmişsiz bir dala yazılır (çalışma ortamı GitHub dosya sunucusuna erişemiyor)
+      - name: Görüntüleri ekran-kategori dalına yaz
+        run: |
+          cd ekran && git init -q && git checkout -q -b ekran-kategori
+          git config user.name "ekran" && git config user.email "actions@users.noreply.github.com"
+          git add . && git commit -qm "Kategori sayfası ekran görüntüleri"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" ekran-kategori

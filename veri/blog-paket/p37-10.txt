@@ -1,0 +1,125 @@
+### YAZI
+slug: bahcede-cikan-mantarlar-zararli-mi-yenir-mi-ne-yapilir
+baslik: Bahçede Çıkan Mantarlar: Zararlı mı, Yenir mi, Ne Yapılır?
+yayin: 2027-04-18 14:05
+yazar: Mikdat Çelik
+kategori: gundem
+odak: bahçede çıkan mantarlar
+seo_baslik: Bahçede Çıkan Mantarlar: Zararlı mı, Ne Yapılır?
+seo_aciklama: Bahçede çıkan mantarlar bitkiye zarar verir mi, yenir mi? Yağmur sonrası çimde ve malçta biten mantarların nedeni, çocuk ve hayvan güvenliği, kontrol yolları.
+ozet: Bir hafta yağmur yağdı, çimde ve yatak malçında beyaz, kahverengi şapkalar belirdi. Çoğu bitkiye zarar vermez ama yenmemelidir. Neden çıktıklarını, ne zaman müdahale gerektiğini ve çocuk ile evcil hayvan güvenliği için yapılacakları anlattık.
+etiketler: mantar, yağmur, çim, malç, güvenlik, çocuk, evcil hayvan
+gorsel: bekliyor
+gorsel_alt: Yağmur sonrası ıslak çimde yan yana biten küçük kahverengi şapkalı mantarlar
+urunler: raco-bahce-el-tirmigi, raco-bahce-el-kuregi
+kisaca: Bahçede çıkan mantarlar çoğunlukla çürüyen organik maddeyi parçalayan zararsız ayrıştırıcılardır ve bitki köküne zarar vermez. Yağmurlu, serin hava onları ortaya çıkarır. Asıl risk yenmesidir: Kesin tanıyamıyorsanız hiçbirini yemeyin, çocuk ve hayvanları uzak tutun. Müdahale gerekmez; toplamak ya da biçmek yeterlidir.
+@govde
+Bir hafta boyunca yağmur yağdı. Cumartesi sabahı çıktığınızda çimin kenarında bir daire boyunca beyaz şapkalı mantarlar sıralanmış, yatağın malçında da küçük kahverengi bir küme belirmiş. Kız çocuğunuz "bunları toplayalım mı" diye soruyor, köpek ise hepsini koklamaya başlamış bile. İlk soru genellikle şudur: Bu bahçem hasta mı? Cevap çoğunlukla hayır. Bahçede çıkan mantarlar, toprağın altında yaşayan görünmez bir ağın meyve veren kısmıdır ve aslında toprağın sağlıklı çalıştığını gösterir. Yine de ihtiyatlı olmanız gereken bir nokta var.
+
+## Bahçede çıkan mantarlar nereden gelir?
+
+Mantar, bitki değildir. Kök, gövde ve yaprağı yoktur; besinini ışıktan değil, çürüyen organik maddeden alır. Toprağın altında beyaz iplikçiklerden oluşan geniş bir ağ yaşar. Nem ve serinlik yeterli olduğunda bu ağ üstte şapkalı yapılar, yani bizim gördüğümüz mantarları oluşturur.
+
+Üniversite yayım servisleri bu konuda hemfikir: Çim ve malçta çıkan mantarların çoğu, ölü organik maddeyi parçalayan zararsız ayrıştırıcılardır. Iowa State University Extension, çimde mantar çıktığında genelde bir işlem yapmaya gerek olmadığını, rahatsız ediyorlarsa ya da çocuk ve hayvanların yemesi ihtimali varsa biçilebileceğini ya da tırmıklanabileceğini yazıyor ([Iowa State University Extension, bahçede mantar](https://yardandgarden.extension.iastate.edu/faq/how-do-i-get-rid-mushrooms-my-yard-or-garden-bed)).
+
+Mantar genellikle şu yerlerde belirir:
+
+- Toprağa gömülü eski kök, kütük ya da inşaat artığı üstünde.
+- Çürüyen malç, saman, kompost yığını ya da yaprak tabakasında.
+- Çok sık sulanan, gölgeli ve serin çim köşelerinde.
+- Yeni toprak getirilmiş yatakta; çünkü toprakla birlikte iplikçikler de gelir.
+
+## Bitkiye zarar verir mi?
+
+Çoğu durumda hayır. Mantarın kendisi, çevresindeki çimi ya da çiçeği yok etmez; aksine ölü organik maddeyi besine çevirerek toprağı zenginleştirir. UC IPM'nin yayını da çim mantarlarının çoğunun sorun olmadığını, mantarı toplamanın altta yaşayan ağı öldürmediğini, yani toplamanın bir güvenlik ya da görünüm önlemi olduğunu belirtiyor ([UC IPM, çimde mantarlar](https://ipm.ucanr.edu/home-and-landscape/mushrooms-and-other-nuisance-fungi-in-lawns/)).
+
+Bir istisna var. Bitkinin gövdesi dibinde, kökten boğaza doğru uzanan bir mantar kümesi görürseniz ve bitki aynı zamanda soluyorsa, bu bir kök çürüklüğü ya da odun çürütücü mantar olabilir. Böyle bir durumda mantarın hastalıktan değil, ağaç dokusunun ölmesinden kaynaklandığını düşünün. Canlı ağaçta gövde dibindeki mantar, kökte ciddi bir çürüme olabileceğinin işaretidir; ağacın sallanıp devrilme riskini bir ağaç bakımı yapan kişiye gösterin.
+
+## Yenir mi? Asla bahçeden toplayıp yemeyin
+
+Bu yazının en kritik bölümü budur. Bahçede biten bir mantarın yenilebilir olup olmadığını fotoğraftan ya da genel görünüşten ayırt etmek güvenilir değildir. Zehirli türler yenilebilir türlere çok benzeyebilir ve basit bir "test" yoktur.
+
+Kaliforniya Üniversitesi Ventura County Extension'ın kuralı net: Çimde ya da bahçede büyüyen hiçbir şeyi, kesin olarak güvenli olduğunu tanımlamadan yemeyin ([University of California Cooperative Extension, Ventura](https://ucanr.edu/node/125753)). Şapkanın rengi, kokusu ya da sevimli görünüşü bir güvenlik göstergesi değildir.
+
+::: adimlar
+Dokunmadan önce eldiven takın | Mantarı eliyle koparmanın zararı yok, ama ardından elleri yıkamak gerekir.
+Çocuk ve hayvanı uzaklaştırın | Mantar kümesini bir süre görüş alanlarından çıkarın.
+Mantarı alt kısmıyla alın | Şapkayı kırmadan, toprağa yakın yerden çıkarın.
+Poşete koyun | Kapalı bir torbaya atın; açık kompost yığınına koymayın.
+Elleri sabunla yıkayın | Eldiveni çıkarıp sabunla ve suyla iyice yıkayın.
+:::
+
+Çocuğunuz ya da evcil hayvanınız bir mantar yuttuysa ya da yemişse acele edin: Hemen bir doktora ya da veterinere başvurun, mümkünse mantarın fotoğrafını çekip bir örneğini yanınıza alın. Beklemeyin; belirtiler gecikmeli ortaya çıkabilir.
+
+## Çocuk ve evcil hayvan güvenliği
+
+Köpekler yere yakın dolaşır ve her şeyi koklar. Illinois Üniversitesi Extension'ın bahçe yazısı, mantar yeme sonrası tepkilerin hafif mide rahatsızlığından sinir sistemi sorunlarına kadar değişebileceğini söylüyor ([Illinois Extension, bahçede mantar](https://extension.illinois.edu/blogs/over-garden-fence/2015-06-05-mushrooms-yard)). Pratik sonuç şu: Köpeğin sık oyun oynadığı çim ve yatak çevresinde mantar kümesi görürseniz, alıp atmak bir kontrol adımıdır.
+
+Çocuklarla birlikte bahçe çalışırken mantarı toplayıp yemeyi hiçbir zaman bir deneme olarak sunmayın. Çocuklar mantarı merak eder; bu merakı koparıp ağıza götürmeye değil, bakıp fotoğraflamaya yönlendirin. Kural nettir: Bahçeden gelen mantar yenmez.
+
+Saksı toprağında çıkan sarı ya da beyaz küçük mantarlar da aynı şekilde yenmemelidir; bunlar genellikle bitkiye zarar vermez, ama toprak nemliyse tekrar çıkar. Toprağın üstünü bir süre kurutmak ve mantarı çıkarmak yeterlidir. Saksıda uçuşan sineklerle birlikte görülüyorsa [mantar sineği](/mantar-sinegi) yazısına bakın.
+
+## Nasıl azaltılır?
+
+Mantarı tamamen yok etmek mümkün değildir ve çoğu zaman gerek de yoktur; ama bazı alışkanlıklar çıkışı seyrekleştirir.
+
+| Neden | Ne yapılır? |
+|---|---|
+| Çim kırpıntısı ve ölü ot birikimi | Tırmıklayın, çim altındaki keçeleşmeyi (kesinti) temizleyin |
+| Yoğun gölge ve nem | Dalları açıp ışık ve hava girmesini sağlayın |
+| Çok sık sulama | Sulamayı seyreltin, sabah yapın; yüzeyin kurumasına izin verin |
+| Eski malç | Çürümüş katmanı alın, yerine taze ve ince bir kat serin |
+| Gömülü odun | Yeri belliyse kök ve kütükleri çıkarın |
+| Yeni gelen toprak | Zamanla azalır; sabırlı olun |
+
+Mississippi State University Extension, çim kırpıntısını tırmıklamanın, keçeleşmeyi gidermenin ve eski malçı yenilemenin mantarın besin kaynağını azalttığını belirtiyor ([Mississippi State University Extension](https://extension.msstate.edu/newsletters/turf-tips-newsletter/2011/dealing-mushrooms-lawns-and-landscapes-10-31-11)). Malç seçerken kalın ve çok nemli kalmayan bir örtü tercih etmek için [malç çeşitleri](/malc-cesitleri) yazısına bakabilirsiniz.
+
+Biçtiğiniz alanı ardından tırmıklayıp kırık mantar parçalarını toplayın; çocuk ve hayvanların parçaları ağıza almasını önlemek için bu adım önemlidir. Fungisit kullanmayın. Zararsız bir ayrıştırıcıya ilaç sıkmak ne yapıyı değiştirir, ne mantarın altındaki ağı öldürür; ek olarak toprak yaşamını bozar.
+
+## Çim ve yatak için kısa kontrol listesi
+
+Yağmurlu bir haftanın ardından bahçede mantar görüyorsanız şu beş şeye bakın:
+
+- Çocuk ya da hayvan oradan geçiyor mu? Geçiyorsa mantarları toplayın.
+- Kırpıntı, yaprak ve ölü ot yığını var mı? Tırmıklayın.
+- Yatağın malçı çok kalın ve ıslak mı? İnceltin ve havalandırın.
+- Gölgeli ve nemli bir köşe mi? Dal alıp ışık verin.
+- Ağaç gövdesi dibinde mantar ve soluk yapraklar birlikte mi? Gövde sağlığını kontrol ettirin.
+
+[ürün:raco-bahce-el-tirmigi,raco-bahce-el-kuregi]
+
+Çim yüksekliğini doğru tutmak da yardımcıdır; yüksek ve nemli çim mantara elverişlidir. Biçim ayrıntısı için [çim biçme yüksekliği](/cim-bicme-yuksekligi) yazısı faydalıdır. Toprağın yağmurdan sonra sertleşip kabuk bağlamasına karşı [toprak kabuklanması](/toprak-kabuklanmasi) yazısındaki önlemler uygulanabilir.
+
+## Mantar iyi bir işaret mi?
+
+Bahçede çıkan mantarlar çoğu zaman iyi bir işarettir; yani evet, bir bakıma. Mantar çıktıysa toprağında canlı bir ayrışma ağı, yeterli nem ve organik madde vardır. Sağlıksız, steril bir toprakta mantar fazla çıkmaz. Ama bu, mantarın görünüşünün sizi rahatsız etmesi ya da güvenlik riski yaratması halinde onunla ilgilenmemeniz gerektiği anlamına gelmez.
+
+Mevsim ilerledikçe sıcak ve kuru günler gelir, mantarlar kendiliğinden kurur ve kaybolur. Ertesi yağmurda yeniden çıkabilirler; bu döngü normaldir ve toprağın canlı olduğunu gösterir. Bahçenizde bir sonraki yağmur sonrası bir mantar kümesi gördüğünüzde yapacağınız ilk şey sakin kalmak olsun. Fotoğrafını çekin, çocukları ve hayvanları oradan uzaklaştırın, eldivenle çıkarın ve kapalı bir poşete atın. Altındaki ağ yaşamaya devam eder; sizin görevinizse kimsenin onu yememesini sağlamaktır.
+@sss
+S: Bahçede çıkan mantarlar bitkiye zarar verir mi?
+C: Çoğu zarar vermez. Çim ve malçta biten mantarlar ölü organik maddeyi ayrıştıran zararsız mantarlardır. Gövde dibinde mantar çıkıp bitki soluyorsa kök ya da odun çürümesi olabilir; bu durumda gövde sağlığını kontrol ettirin.
+
+S: Bahçede çıkan mantarlar yenir mi?
+C: Hayır. Zehirli türler yenilebilir olanlara çok benzeyebilir ve basit bir güvenlik testi yoktur. Bahçeden topladığınız hiçbir mantarı, kesin tanıyamıyorsanız yemeyin. Çocuk ve evcil hayvan yerse hemen doktora ya da veterinere başvurun.
+
+S: Çimde mantar çıkınca ne yapmalıyım?
+C: Çocuk ya da hayvan yoksa bir şey yapmanız gerekmez; mantarlar birkaç gün içinde kurur. Rahatsız ediyorsa biçin ya da tırmıklayın. Altındaki ağ ölmez, ama kırpıntı ve eski malçı temizlemek besin kaynağını azaltır.
+
+S: Mantar için fungisit kullanılır mı?
+C: Gerek yok. Çim ve malçtaki mantarlar çoğunlukla zararsız ayrıştırıcıdır; ilaç ne altındaki ağı yok eder ne de mantarı tamamen durdurur. Daha iyi çözüm nemi ve organik birikimi azaltmaktır.
+
+### SORU
+yayin: 2027-04-18 11:30
+kategori: bahce-ipuclari
+baslik: Köpeğim çimde mantar yedi mi bilmiyorum, ne yapmalıyım?
+metin: Yağmurdan sonra bahçede mantar çıkmıştı. Köpek burnunu soktu, bir tanesinin yenip yenmediğinden emin değilim. Şimdilik normal görünüyor.
+@cevap Hatice Kübra Çelik | 2
+Emin olamıyorsanız beklemeyin; veterinere ya da bir hayvan acil kliniğine hemen başvurun, belirtilerin çıkmasını beklemeyin. Mümkünse mantardan bir parça ya da fotoğrafını yanınıza alın. Kusturmaya çalışmayın; bunu yalnızca veteriner önerirse yapın. Bahçedeki diğer mantarları toplayıp kapalı poşete atın ve köpeği o alandan uzak tutun.
+
+### SORU
+yayin: 2027-04-18 17:00
+kategori: toprak-rehberi
+baslik: Yatağın malçında beyaz ipliksi ağ var, hastalık mı?
+metin: Yatak malçını kaldırınca altında beyaz, ipliksi bir ağ gördüm. Bitkiler normal. Bu bir hastalık mı, malçı atmalı mıyım?
+@cevap Ahmet Sacit Çelik | 3
+Çoğu zaman bu beyaz iplikçikler, ölü organik maddeyi parçalayan zararsız mantar ağıdır ve toprağın canlı olduğunu gösterir. Bitkiler sağlıklıysa müdahaleye gerek yok. Malç çok kalın ve ıslaksa inceltip havalandırın. Gövde dibinde beyaz, pamuksu bir örtü ve çöken bitki görürseniz bu başka bir hastalık olabilir; fotoğrafla ziraat mühendisine danışın.

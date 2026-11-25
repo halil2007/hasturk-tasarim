@@ -1,0 +1,348 @@
+### YAZI
+slug: anahtar-deligi-bahce
+baslik: Anahtar Deliği Bahçe: Ortası Kompostlu Yükseltilmiş Yatak
+yayin: 2027-03-07 09:10
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: anahtar deliği bahçe
+seo_baslik: Anahtar Deliği Bahçe: Kompost Sepetli Yatak Planı
+seo_aciklama: Anahtar deliği bahçe nedir, nasıl kurulur? Yatak çapı, ortadaki kompost sepeti, giriş boşluğu, katmanlı dolgu, sulama ve bitki yerleşimi. Adım adım.
+ozet: Anahtar deliği bahçe, yuvarlak bir yükseltilmiş yatağın ortasına kompost sepeti koyan ve kenarından içeri bir giriş boşluğu açan bir düzendir. Ölçüleri, katmanlı dolguyu, kompost sepetinin işlevini, sulamayı ve bitki yerleşimini anlattık; kimin için uygun olduğunu ve zayıf yanlarını da yazdık.
+etiketler: anahtar deliği bahçe, keyhole garden, yükseltilmiş yatak, kompost sepeti, yuvarlak yatak, dairesel bahçe
+gorsel: bekliyor
+gorsel_alt: Ortasında tel kompost sepeti bulunan, kenarından bir çentik açılmış yuvarlak taş duvarlı yükseltilmiş bahçe yatağı
+urunler: moduler-yukseltilmis-bahce-yatagi-sekilli-no-16-140x140, hasturk-kati-solucan-gubresi, hg-bol-verimli-sebze-topragi
+kisaca: Anahtar deliği bahçe, çapı yaklaşık 1,8–2,4 m ve yüksekliği 60–90 cm olan yuvarlak bir yatağın ortasına 30–45 cm çapında tel kompost sepeti koyan, kenarından yaklaşık 60 cm genişliğinde bir giriş boşluğu açan düzendir. Ortadaki sepete mutfak atığı ve su verilir; besin ve nem yatağa yayılır. Her noktaya sepetin dibinden uzanmak mümkündür.
+@govde
+Yükseltilmiş yataklar genellikle dikdörtgendir. Kenarlarda durup yatağın ortasına uzanmak ise belde ve omuzda yorgunluk yaratır. Anahtar deliği bahçe bu soruna yuvarlak bir plan ve ortada bir kompost sepetiyle cevap veren bir tasarımdır. Üstten bakıldığında eski bir anahtar deliğine benzediği için bu adı alır: Yuvarlak yatak, giriş için açılmış bir çentik ve ortada küçük bir daire.
+
+## Anahtar deliği bahçe nedir?
+
+Tasarımın temel fikri iki parçalıdır. Birincisi, yatağın biçimi: Yuvarlak bir duvar toprağı çevreler ve duvarın bir yanında çentik gibi bir giriş bulunur. Bu giriş sayesinde bahçıvan yatağın ortasına kadar yürür ve her noktaya sadece bir kol boyu uzanarak ulaşır. İkincisi, yatağın ortasındaki kompost sepetidir: Tel ya da benzeri geçirgen bir malzemeden yapılmış dikey silindirde mutfak atığı, yaprak ve ot toplanır; su verildikçe ayrışmanın sıvısı ve besini çevre toprağa yayılır.
+
+South Dakota Eyalet Üniversitesi uzatma servisinin anahtar deliği bahçe sayfası, tasarımın bu iki ögeyi birleştirdiğini anlatır. Ayrıntı için [South Dakota State anahtar deliği bahçeleri yazısına](https://extension.sdstate.edu/keyhole-gardens) bakabilirsiniz. Tasarım Afrika'nın kurak bölgelerinde su ve besin tasarrufu için kullanılan örneklere dayanır; bahçıvanlık literatüründe farklı biçimleri bulunur, bazı uygulamalarda ortada sepet olmaz. Biz burada ortası kompostlu klasik biçimi anlatıyoruz.
+
+## Ölçüler: ne kadar büyük olmalı?
+
+Yatağın çapını belirleyen şey bahçıvanın kolunun boyudur. Uzatma ve bahçecilik kaynaklarında çoğu tasarımın yaklaşık 6–8 fit (1,8–2,4 m) çapında ve 2–3 fit (60–90 cm) yüksekliğinde olduğu yazılır. Ortadaki kompost sepeti genellikle 12–18 inç (30–45 cm) çapındadır ve yatak duvarından biraz daha yüksek tutulur. Giriş boşluğu çevrede yaklaşık 2 fit (60 cm) genişliğindedir ve içeri doğru hafifçe daralır. Kaynaklarda sayılar biraz değişir; kendi kol boyunuza ve alanınıza göre uyarlayın.
+
+| Parça | Yaklaşık ölçü | Neden bu ölçü? |
+|---|---|---|
+| Yatağın dış çapı | 1,8–2,4 m | Kenardan ve girişten merkeze uzanılabilir |
+| Yatak yüksekliği | 60–90 cm | Eğilmeden çalışmak için; daha alçak da olabilir |
+| Kompost sepeti çapı | 30–45 cm | Hacim yeterli, besin yayılımı dengeli |
+| Giriş boşluğu | yaklaşık 60 cm | Bir kişinin içeri girip dönmesi için |
+
+Alçak bir yatak (30–40 cm) de kurulabilir; bu durumda anahtar deliği daha çok biçim ve kompost fikri olarak kalır, bel yüksekliği avantajı azalır. Çok yüksek duvar ise daha fazla dolgu malzemesi ve sağlam bir duvar gerektirir.
+
+## Duvarı ne ile yaparız?
+
+Duvar için taş, tuğla, kerpiç, ahşap, geri dönüştürülmüş beton parçaları ya da hazır modüler plastik elemanlar kullanılabilir. Önemli olan duvarın toprağın yanal basıncına dayanması ve zamanla dışarı doğru yatmamasıdır. Taş duvar güneş ısısını tutup geceye verir, bu da serin bölgelerde yararlıdır. Ahşap ise zamanla çürür; kullanacaksanız işlem görmemiş, kimyasal emdirilmemiş ahşap seçin.
+
+Modüler hazır parçalarla dairesel yatak kurmak her zaman mümkün değildir; çünkü çoğu sistem dik açılı kenarlarla çalışır. Ticari modüler yatakları kare ve dikdörtgen biçimleriyle kullanıp ortasına bir kompost silindiri yerleştirmek, anahtar deliği mantığını yarım biçimde uygulamanın pratik bir yoludur. Bu konuda [şekilli bahçe yatağı](/sekilli-bahce-yatagi) yazısındaki yerleşim fikirleri işe yarar. Yükseltilmiş yatağın kurulumu ve ölçüleri için ise [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) ve [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazılarına bakın.
+
+## Adım adım kurulum
+
+::: adimlar
+Yeri seçin ve işaretleyin | Gün boyu en az 6 saat güneş alan düz bir alan seçin; ortaya bir kazık çakıp ip ve boyayla çemberi çizin.
+Girişi belirleyin | Çemberin bir yanında 60 cm'lik bir çentiği ayırın; güneşi alan taraf yerine arkadaki bir noktayı seçerseniz giriş gölge yapmaz.
+Duvarı örün | Seçtiğiniz malzemeyle çemberi 60–90 cm yüksekliğe kadar örün; çentik yerini açık bırakıp iç duvarı kıvırarak girişi kapatın.
+Kompost sepetini kurun | Ortaya 30–45 cm çapında bir silindir yapın; tel kafes ya da delikli, geçirgen bir malzeme kullanın. Yüksekliği duvardan biraz fazla olsun.
+Dolgu katmanlarını serin | Dipte iri dallar, ardından kuru yaprak ve karton, sonra olgun kompost ve üstte bahçe toprağı karışımı koyun.
+Dikin ve sulayın | Dış kenarda boyu kısa, merkeze yakın yerde uzun bitkileri yerleştirin; sulamayı önce ortadaki sepete yapın.
+:::
+
+Dolgu için kullanılan katmanlar, dolgu toprağının zamanla çökeceğini ve ilk yıl yenilenmesi gerekeceğini bilerek planlanmalıdır. Alt tabakadaki odun ve karton yıllar içinde çürür ve toprak çöker. Bu yüzden kurulumdan sonra üçüncü ya da dördüncü ayda yatağa toprak ekleyin.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-sekilli-no-16-140x140]
+
+## Kompost sepeti nasıl çalışır?
+
+Ortadaki sepete mutfak artığı (sebze kabuğu, çay posası), kuru yaprak ve doğranmış ot atılır. Üstte kalan dolgu zaman içinde ayrışır ve çürüyen malzemenin suyuyla çözünen besin yan duvardan çevre toprağa geçer. Bu mekanizma bahçıvanın kendi başına besin üretmesini sağlayan sürekli bir sistemdir. Sepete su eklemek de yatağın nemini dağıtır.
+
+Gerçekçi bir çerçeve çizelim: Sepetin tek başına yatağın bütün besin ihtiyacını karşıladığını düşünmeyin. Büyük bitkiler (domates, kabak) yoğun besleme ister; sepet iyi bir tamamlayıcıdır, ana kaynak değil. Yatak toprağına dikimde olgun kompost ya da solucan gübresi karıştırmak ilk sezon için gereklidir. Ayrışma hızı sıcaklık, nem ve atığın cinsine bağlıdır; yağlı yemek artığı, et ve süt ürünleri hayvan ve koku çeker, sepete koymayın. Kompost yığınının dengesi ve kokusu hakkında [bahçede kompost yığını](/bahcede-kompost-yigini) ve [kompost kokusu](/kompost-kokusu) yazıları kullanışlıdır.
+
+Sepeti çok sulak tutmayın; sürekli su yatak toprağını bataklığa çevirir. Sepete haftada bir bir sulama kabı su yeterlidir. Kompost çayı gibi sıvıları da ortadan vermek mümkündür; ayrıntı için [kompost çayı](/kompost-cayi) yazısına bakın.
+
+## Hangi bitki nereye dikilir?
+
+Yatağın içinde mikroiklim farklılıkları vardır. Merkeze yakın bölgeler sepetin besin ve nemini en çok alır; kenar bölgeler daha kuru ve daha sıcaktır. Bu bölgelere uygun bitkileri seçmek verimi artırır.
+
+- **Merkeze yakın halka:** Besin isteyen ve su seven bitkiler: domates, kabak, salatalık, marul, ıspanak, pazı.
+- **Orta halka:** Orta isteklilik: biber, fasulye, havuç, pancar, brokoli.
+- **Dış halka:** Kuraklığa dayanıklı ve küçük bitkiler: aromatik otlar, soğan, sarımsak, turp, yaprak çiçekleri.
+- **Girişin iki yanı:** Sık hasat edilecek yeşillikler ve otlar; elinizin altında olsun.
+
+Uzun boylu bitkileri (domates, sırık fasulye) girişin karşısına, yatağın kuzey yanına koyun ki gölge kendi içinde yayılmasın. Dikim planı için [bahçe yatağı dikim planı](/bahce-yatagi-dikim-plani) yazısı fikir verir.
+
+## Sulama ve bakım
+
+Yuvarlak yatakta sulama merkezden başlayıp dışa yayılır. İlk gün çökme yaşanırsa toprak ekleyin. Yaz sıcağında dış halka hızla kurur; haftada iki üç kez dıştan sulama ya da damla hattı gerekir. Damla sulamayı halka şeklinde yatağa döşemek bahçıvanı sulama derdinden kurtarır; kurulum için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısına bakabilirsiniz.
+
+Yatak duvarını malçlamak ve yüzeyi saman ya da kuru otla örtmek nem kaybını azaltır. Sonbaharda sepeti boşaltıp olgunlaşan kompostu yatağın üstüne yayın; yeni sezonun sepetini baştan doldurun.
+
+## Zayıf yanlar ve kimin için uygun?
+
+Anahtar deliği bahçenin her bahçeye uymadığını da söylemeliyiz. Yuvarlak yatak, dikdörtgen yatağa göre alanı verimsiz kullanır; köşelerdeki boşluklar çimlenmez ya da kullanılmaz. Duvar yapımı ve dolgu emek ister. Sepet kötü yönetilirse koku ve sinek çıkarır. Kurak bölgelerde su tasarrufu için tasarlanmış olsa da sepetin düzenli beslenmesi bir rutin gerektirir.
+
+Buna karşın, bel ya da diz sorunu olanlar, küçük bahçede kompostu ve yatağı tek noktada birleştirmek isteyenler, çocuklarla bahçe projesi yapanlar ve görsel olarak dikkat çeken bir sebze köşesi isteyenler için güzel bir seçenektir. Bahçenizin tamamını dönüştürmeden önce tek bir anahtar deliği yatağıyla bir sezon deneyin; sonuçları kayda alın. Yükseltilmiş yatağın toprak toprağa ekime göre avantajı için [bahçe yatağı mı toprağa ekim mi](/bahce-yatagi-mi-topraga-ekim-mi) yazısına, eğilmeden bahçecilik fikirleri için [eğilmeden bahçecilik](/egilmeden-bahcecilik) yazısına bakabilirsiniz.
+@sss
+S: Anahtar deliği bahçe nedir?
+C: Ortasında kompost sepeti bulunan, kenarından bir giriş boşluğu açılmış yuvarlak bir yükseltilmiş yataktır. Üstten bakınca anahtar deliğine benzer; her noktaya bir kol boyu mesafeden ulaşılır.
+
+S: Anahtar deliği bahçe ne kadar büyük olmalı?
+C: Çoğu tasarım yaklaşık 1,8–2,4 m çapında ve 60–90 cm yüksekliktedir. Ortadaki kompost sepeti 30–45 cm çapında, giriş boşluğu ise yaklaşık 60 cm genişliktedir.
+
+S: Kompost sepetine neler atılır?
+C: Sebze kabuğu, çay posası, kuru yaprak ve doğranmış ot atılır. Et, süt ürünü ve yağlı yemek artığı koku ve haşere çektiği için atılmaz.
+
+S: Kompost sepeti yatağın besinini tek başına karşılar mı?
+C: Hayır, iyi bir tamamlayıcıdır. Domates ve kabak gibi besin isteyen bitkiler için dikimde olgun kompost ya da solucan gübresi karıştırmak ve sezon boyunca düzenli beslemek gerekir.
+
+### YAZI
+slug: amarant-yetistirme
+baslik: Amarant Yetiştirme (Horoz İbiği Tahılı)
+yayin: 2027-03-07 11:35
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: amarant yetiştirme
+seo_baslik: Amarant Yetiştirme: Tohum, Yaprak ve Süs Olarak
+seo_aciklama: Amarant yetiştirme için ekim zamanı, ısı isteği, yer seçimi, tohum hasadı ve harmanlama, yaprak kullanımı ve kendiliğinden yayılma. Horoz ibiği tahılı.
+ozet: Amarant, tohumu tahıl gibi kullanılan, yaprağı yeşillik olarak yenen ve renkli başaklarıyla bahçeyi süsleyen bir bitkidir. Amarant yetiştirmenin ekim zamanını, yer ve toprak isteğini, uzun sezon gerekliliğini, tohum hasadını ve kendiliğinden yayılmasını anlattık.
+etiketler: amarant, horoz ibiği tahılı, amaranthus, tohum hasadı, yaprak sebzesi, süs bitkisi
+gorsel: bekliyor
+gorsel_alt: Yoğun kırmızı ve altın renkli, sarkık başaklı uzun amarant bitkileri
+urunler: hg-bol-verimli-sebze-topragi, hg-fide-topragi
+kisaca: Amarant yetiştirme için son donlardan sonra, toprak ısınınca doğrudan ekim yapılır; tohum hasadı için ekimden yaklaşık 100–120 gün gerekir, yani uzun ve sıcak bir sezon şarttır. Bitki yoksul toprağa dayanır, ama iyi süzen verimli toprakta gelişir. Gelişen başaklar tohumları döker; bu yüzden kendiliğinden yayılır. Küçük bahçede ürün azdır.
+@govde
+Amarant, dünyanın en eski kültür bitkilerinden biridir. Orta ve Güney Amerika'da yetiştirilen tahıl amarantı yüzlerce yıl önce yaygın bir besin kaynağıydı; bugün ise Türkiye'de hem yaprak sebzesi hem tahıl hem de süs olarak yetiştirilir. Horoz ibiği tahılı adı, bitkinin başaklarının renkli ve ibiğe benzer yapısından gelir. Amarant yetiştirme kolay görünür ama tahıl için uzun bir sıcak sezon ister.
+
+## Amarant nedir, hangi tür?
+
+Amarant (Amaranthus) cinsi yüzlerce türden oluşur. Bahçede üç farklı amaç için yetiştirilir: yeşillik (yaprak), tahıl (tohum) ve süs. Yaprak amarantı genç yaprağıyla ıspanak benzeri kullanılır; tahıl amarantı büyük başaklarında çok sayıda küçük tohum taşır; süs amarantı ise kırmızı, bordo, altın ve yeşil renkli, sarkık ya da dik başaklarıyla bahçeyi süsler. Aynı bitki birden çok amaç için kullanılabilir; ancak tahıl amacıyla seçilen çeşit tohumu için, yaprak amacıyla seçilen çeşit yaprak verimi için ıslah edilmiştir.
+
+Bu yazıda tahıl ve genel bahçe amaçlı yetiştirmeye odaklanıyoruz. Çeşit adı ve amaç paket üzerinde yazmalıdır; aynı bitkiyle her üç amacı karşılamak mümkün olsa da en iyi sonucu, seçilen amaca uygun çeşit verir.
+
+## Amarant yetiştirme: ısı, sezon ve ekim zamanı
+
+Amarant sıcak seven bir bitkidir. Washington Eyalet Üniversitesi uzatma servisinin yayını amaranthus cinsinin çok yönlü bir bitki olduğunu anlatır; ayrıntılar için [WSU Amaranthus yayınına](https://wpcdn.web.wsu.edu/extension/uploads/sites/57/2014/03/Amaranthus-a-plant-of-many-faces-1.pdf) bakılabilir. Bitki sıcak mevsim bitkisidir. Bahçecilik kılavuzlarında tahıl hasadının ekimden yaklaşık 100–120 gün sonra yapıldığı yazılır; yani ekimden hasada kadar kesintisiz ılık bir dönem gerekir. Soğuk bölgelerde ve kısa sezonda tohum olgunlaşmadan don gelebilir.
+
+Bu yüzden ekim zamanı çok önemlidir. Tohumu son donlardan sonra, toprak ısındığında ekin; soğuk toprakta çimlenme yavaşlar ve fideler çürür. Çoğu bölgede bu nisan sonu ile mayıs ayına denk gelir. Ilık kıyılarda mart sonunda başlamak mümkündür; böylece sezon uzar. Toprak sıcaklığının nasıl ölçüldüğü için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısına bakabilirsiniz. Soğuk bölgelerde fideyi iki üç hafta önce evde başlatıp don bittikten sonra dışarı çıkarmak da bir yoldur; fideyi dışarı alıştırma için [fide sertleştirme](/fide-sertlestirme) yazısını izleyin.
+
+Tohum çok küçüktür. Derine gömülürse çıkamaz; yüzeye serpip çok ince bir toprak tabakasıyla ya da yalnızca bastırarak örtmek yeterlidir. Ekim derinlikleri için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazısındaki genel kuralı uygulayın: Çok küçük tohum yüzeye yakın ekilir. Fideler çıkınca çok sıkışık olanları seyreltin; tahıl amacıyla yetişen bitkiler arasında 30–45 cm bırakmak başakların büyümesine yer açar.
+
+## Yer, toprak ve komşuluk
+
+Amarant tam güneş ister. Boyu iki üç metreyi bulabilen tahıl çeşitleri diğer sebzeleri gölgeleyebilir; bu yüzden bahçenin kuzey ucuna dikmek önerilir. Bahçecilik kaynakları da uzun boylu amarantın olgun başaklarının diğer bitkileri sıkıştırmayacağı bir köşede tutulmasını tavsiye eder.
+
+Toprak konusunda bitki toleranslıdır. Yoksul toprakta da yetişir, ama süzek ve verimli toprakta çok daha iyi gelişir. Ağır, su tutan toprakta fideler çürür. Dikimden önce toprağa olgun kompost ya da solucan gübresi karıştırmak yeterlidir; aşırı azot yaprağı çoğaltır, ama başak ve tohumu geciktirebilir. Aşırı sulama da gereksizdir; amarant kuraklığa kısmen dayanıklıdır ama başak döneminde düzenli su ister.
+
+::: takvim
+Ekim (doğrudan ya da fide) | 4-5
+Gençken yaprak hasadı | 6-7
+Çiçeklenme ve başak oluşumu | 7-9
+Tohum olgunlaşması | 9-10
+Hasat ve harmanlama | 10-11
+:::
+
+## Bakım: ot, destek ve su
+
+İlk dört hafta ot, genç amarantın en büyük rakibidir. Fideler yavaş büyür; otlar hızla bastırır. Çapa ve malç bu dönemde işe yarar. Bitki 30–40 cm boy aldıktan sonra kendi gölgesiyle otu bastırır. Uzun boylu çeşitlerde rüzgârda gövde yatabilir; dibine toprak yığmak ya da bir iki kazık ve ip ile destek vermek yeterlidir. Başaklar ağırlaştıkça gövdeler eğilir.
+
+Yaprak amacıyla yetiştirenler için genç yaprakları ve sürgün uçlarını düzenli almak bitkiyi dallandırır. Tohum için yetiştirilen bitkilerde yaprakları aşırı almayın; bitkinin başağı doyurması için yaprak yüzeyi gerekir. Yeşillik yetiştirme için [saksıda ıspanak yetiştirme](/saksida-ispanak-yetistirme) yazısındaki ekim mantığı genç amarant için de kullanılabilir.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Tohum hasadı ve harmanlama
+
+Tahıl hasadı, başaklar olgunlaşıp tohumlar sertleşince yapılır. Genel işaret, bitkinin alt yapraklarının sararıp dökülmesi ve başağı salladığınızda tohumların kolayca dökülmeye başlamasıdır. Çok erken hasat yeşil ve nemli tohum verir; çok geç hasat ise tohumun yerde kalmasına yol açar. Hasatta başağı sapıyla birlikte kesip kuru ve havadar bir yerde kurutun.
+
+Harmanlama için basit bir yol vardır: Kuruyan başakları temiz bir kovaya ya da bezin üstüne tutup elle ovun ya da silkeleyin; tohum dökülür, çöp ve kabuk yukarıda kalır. İnce telli bir elek ya da pencere teli ile tohumu çöpten ayırın. Amarant tohumu çok küçüktür; kayıp çoktur ve elde edilen miktar küçük bir bahçede birkaç avuç düzeyindedir. Bahçecilik kaynakları da ciddi tahıl verimi için büyük alan gerektiğini, ev bahçıvanının beklentisini düşük tutması gerektiğini yazar.
+
+Tohum, serin ve kuru bir yerde, hava geçirmeyen kapta saklanır. Tüketim için hazırlık ve pişirme bilgisi bu yazının dışındadır; yetiştirdiğiniz tohumu yiyecekseniz kaynağı ve temizliği güvenli olmalıdır.
+
+## Kendiliğinden yayılma
+
+Amarant kolayca kendiliğinden yayılır. Olgun başaklar tohum döker; ertesi yıl bahçenin başka köşelerinde fideler çıkar. Garden.org gibi kaynaklar, olgun tohumlu başakların soğuk (pasif) kompost yığınında tohumları öldürecek kadar ısınmayabileceğini uyarır. Bu yüzden tohumlu başakları kompostlamadan önce tohumunu alın ya da başakları çöpe atın.
+
+İstemiyorsanız çiçeklenme döneminde başakları tohum döküm öncesinde kesin. İstiyorsanız, yayılan fideleri ilkbaharda seyreltip bahçenin istediğiniz bölgesine taşıyın. Bu özellik süs amacıyla yetiştirenler için avantajdır; kendi başına her yıl yeni bitki verir.
+
+## Ne beklemeli?
+
+Amarant yetiştirme eğlenceli ve renkli bir deneyimdir; ama bir ailenin yıllık tahıl ihtiyacını bahçeden karşılamayı beklemeyin. Gerçekçi hedefler: yaz boyunca taze yaprak, sonbaharda süs olarak güzel başaklar ve birkaç avuç tohum. Tahıl amacı için sezon uzunluğunu ve ilk don tarihini önceden düşünün; tohum olgunlaşmadan don gelirse ürün alınamaz.
+@sss
+S: Amarant ne zaman ekilir?
+C: Son donlardan sonra, toprak ısınınca doğrudan ekilir; çoğu bölgede nisan sonu ile mayıs ayıdır. Tahıl hasadı için ekimden yaklaşık 100–120 gün gerektiği için erken başlamak önemlidir.
+
+S: Amarant tohumu nasıl hasat edilir?
+C: Başaklar olgunlaşıp alt yapraklar sararınca başak sapıyla kesilir, kurutulur ve elle ovularak ya da silkelenerek tohum dökülür. Tohumu ince bir elekle çöpten ayırın. Küçük bahçede miktar azdır.
+
+S: Amarant kendiliğinden yayılır mı?
+C: Evet. Olgun başaklar çok tohum döker ve ertesi yıl yeni fideler çıkar. İstemiyorsanız başakları tohum dökmeden kesin; pasif kompost yığını tohumu öldürmeyebilir.
+
+S: Amarant yaprağı yenir mi?
+C: Genç yaprak ve sürgün uçları ıspanak gibi yeşillik olarak kullanılır. Tahıl için yetişen bitkide yaprağı aşırı almayın; başağı doyurmak için yaprak gerekir.
+
+### YAZI
+slug: mahlep-yetistirme
+baslik: Mahlep Yetiştirme: Mahlep Ağacı Nasıl Yetişir?
+yayin: 2027-03-07 14:05
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: mahlep yetiştirme
+seo_baslik: Mahlep Yetiştirme: Ağaç, Anaç Kullanımı ve Çoğaltma
+seo_aciklama: Mahlep yetiştirme için ağaç özellikleri, kireçli ve eğimli toprağa uyumu, kiraz anacı olarak kullanımı, çekirdekten çoğaltma ve baharat hasadı.
+ozet: Mahlep ağacı (Prunus mahaleb), Türkiye'de kiraz anacı olarak çok yaygın, çekirdeğiyle baharat olarak da bilinen bir ağaçtır. Mahlep yetiştirmenin ağaç özelliklerini, kireçli ve eğimli toprağa uyumunu, anaç olarak önemini, çekirdekten çoğaltmayı ve hobi bahçesinde beklentileri anlattık.
+etiketler: mahlep, Prunus mahaleb, kiraz anacı, mahlep ağacı, baharat ağacı, kireçli toprak
+gorsel: bekliyor
+gorsel_alt: Beyaz çiçekli, küçük yapraklı mahlep ağacı dalı ve olgun, koyu renkli küçük meyveler
+urunler: hg-fidan-topragi, leonardit-organik-toprak-duzenleyici
+kisaca: Mahlep yetiştirme için tam güneş, süzek ve kireçli toprak uygundur; ağaç eğimli ve kıraç alanlarda yaşar. Türkiye'deki kiraz ağaçlarının büyük bölümü mahlep anacı üzerine aşılıdır. Mahlep çekirdekle çoğaltılır; çöğürler birbirinden farklı gelişir. Baharat için çekirdek içi kullanılır; bahçede ağaç yavaş büyür ve meyve vermeye yıllar sonra başlar.
+@govde
+Mahlep, Türk mutfağında çörek ve kurabiyelere kendine has bir aroma veren baharattır. Bu baharat Prunus mahaleb ağacının meyve çekirdeğinin içinden elde edilir. Mahlep ağacı ise yalnızca baharat bitkisi değildir: Türkiye'de kiraz ağaçlarının büyük bölümü bu türün çöğürleri üzerine aşılanır. Mahlep yetiştirme konusunu iki yönüyle ele almak gerekir: bahçede ağaç olarak ve kiraz için anaç olarak.
+
+## Mahlep ağacı nasıl bir ağaç?
+
+Mahlep, kiraz akrabası, küçük ya da orta boylu yaprak döken bir ağaçtır. Yaprakları küçük ve parlaktır; ilkbaharda beyaz, hoş kokulu çiçek salkımları açar. Meyveleri küçük, siyaha çalan bir çekirdekli meyvedir; yenmesi sınırlı, değeri çekirdeğindedir. Doğal olarak kayalık yamaçlarda, kıraç tarla kenarlarında ve çalılık alanlarda yetişir; yabancı toprağa uyumu iyidir.
+
+Kiraz ağacına göre daha küçük boylu kalır ve kuraklığa ve kireçli toprağa daha dayanıklıdır. Bu özellikler, mahlebi hem kıraç bahçeler için ilginç bir ağaç hem de kiraz için sağlam bir anaç yapar.
+
+## Kiraz anacı olarak mahlep
+
+Tarım ve Orman Bakanlığı Alata Bahçe Kültürleri Araştırma Enstitüsü'nün kiraz yetiştiriciliği broşürü, mahlep anacını anlatır ve Türkiye'de yaygın uygulamaya işaret eder. Bir araştırmaya göre ülkede yetiştirilen kiraz ağaçlarının yüzde 75–80'i Prunus mahaleb anacı üzerine aşılıdır. Başka bir kaynak da geleneksel kiraz yetiştiriciliğinin temelinin mahlep çöğür anaçları olduğunu belirtir. Kaynak: [Alata kiraz yetiştiriciliği broşürü](https://arastirma.tarim.gov.tr/alata/Belgeler/brosurler/brosur2022/KirazYeti%C5%9Ftiricili%C4%9Fi-U%C4%9FurEMRE.pdf).
+
+Mahlep anacı özellikle hava drenajı iyi olan yamaç ve eğimli arazilerde, kireçli topraklarda tercih edilir. Ancak tohumdan gelen çöğür anaçlar birbirinden farklı gelişir ve verime geç yatabilir. Bu yüzden son yıllarda klon anaçlara geçiş ve doku kültürü yöntemleri gündemdedir. Kiraz bahçesi kuracaksanız fidanın hangi anaç üzerine aşılı olduğunu satıcıdan sorun; kiraz çeşitleri ve tozlayıcı konusu için [kiraz çeşitleri](/kiraz-cesitleri), kiraz ağacının genel bakımı için [kiraz ağacı yetiştirme](/kiraz-agaci-yetistirme) yazısına bakabilirsiniz. Anaç ve kalem kavramı için [aşılı fidan nedir](/asili-fidan-nedir) yazısı yararlıdır.
+
+## Mahlep yetiştirme: yer ve toprak
+
+Mahlep yetiştirme için aranan koşullar basittir: tam güneş, süzek ve tercihen kireçli ya da hafif alkali toprak. Ağır ve su tutan toprakta kökler çürür; bu nedenle drenajı kötü alanlardan kaçının. Eğimli ve taşlı arazi mahlep için sorun değil avantajdır. Rüzgâra dayanır; ama genç ağaç ilk yıllarda rüzgârda eğilebilir.
+
+Çok zengin ve sulak toprakta ağaç hızlı büyür, ama gevşek ve hastalığa açık hâle gelir. Gübre ihtiyacı azdır; ilkbaharda olgun organik madde yeterlidir. Bu yüzden mahlep, bakım için fazla zamanı olmayan, kıraç bahçe köşeleri için uygun bir seçenektir.
+
+## Çoğaltma: çekirdek, çelik, fide
+
+Mahlep çekirdekle çoğaltılır. Çekirdek sert kabukludur ve çimlenmesi için soğuk-nemli bekletmeye (stratifikasyon) gereksinim duyar; kiraz ve benzeri çekirdekli meyveler gibi kışı geçirmesi gerekir. Arama yaptığımız kaynaklarda mahlep çekirdeği için kesin bir soğuklama süresi bulamadık; bu yüzden gün sayısı vermiyoruz. Pratikte çekirdekler sonbaharda toplanıp nemli kum içinde dışarıda ya da serin bir yerde kışı geçirir ve ilkbaharda ekilir. Bu yöntemin ayrıntısı için [çekirdekten kayısı ve şeftali fidanı](/cekirdekten-kayisi-ve-seftali-fidani) yazısındaki soğuklama mantığı yardımcı olur; mahlep için kesin süreyi yerel fidanlıktan ya da il tarım müdürlüğünden öğrenin.
+
+Tokat'ta kireçli topraklarda yetişen sarı mahlep popülasyonundan seçilen 29 genotipin çelikle çoğaltılabilirliği incelenmiştir; yani çelikle çoğaltma konusunda araştırma sürmektedir. Bahçıvan için en pratik yol ise sertifikalı fidan almaktır. Doku kültürü de anaç çoğaltmada anılan bir yöntemdir, ancak hobi ölçeğine uygun değildir.
+
+[ürün:hg-fidan-topragi]
+
+## Dikim ve ilk yıllar
+
+Dikim kış sonu ile ilkbahar başında, bitki dinlenme hâlindeyken yapılır. Çukur köklerin rahat sığacağı genişlikte açılır; dikimden sonra bol su verin ve gövdenin dibini malçlayın. İlk iki yıl sulama düzenli, ama seyrek ve derin olmalıdır. Sonra ağaç yağışa ve derindeki neme dayanarak yaşar. Fidan çukuru için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısındaki ölçüleri kullanabilirsiniz.
+
+Budama hafif tutulur: kuru, kırık ve çapraz dalları alın, taç şeklini dengeli tutun. Mahlep dipten sürgün verebilir; bu sürgünleri çıkarın. Ağaç yavaş büyür ve meyve vermeye yıllar sonra başlar; bu süre fidanın yaşına ve kaynağına bağlıdır.
+
+## Mahlep baharatı: çekirdek hasadı
+
+Baharat olarak kullanılan kısım, olgun meyvenin sert çekirdeğinin içindeki iç bölümüdür. Meyveler olgunlaşınca (koyu renk) toplanır; etli kısım ayrılır, çekirdekler yıkanıp kurutulur ve kabuk kırılarak iç alınır. Bu yoğun emek isteyen bir iştir; küçük bir ağaçtan elde edilecek miktar çok azdır. Kurutulan iç, serin ve kuru yerde, kapalı kapta saklanır; öğütülmüş mahlep aromasını çabuk kaybeder.
+
+Mahlep çekirdeğini evde ticari amaçla işleme, satış ve gıda mevzuatı konularında bu yazı bilgi vermez; ilgili il müdürlüğünden güncel kuralları öğrenin. Aroması güçlü olduğu için kullanımda az miktar yeterlidir; baharatın kaynağı ve temizliği güvenli olmalıdır.
+
+## Gerçekçi beklentiler
+
+Bahçe ölçeğinde mahlep yetiştirme, bir ağaçtan çok bir köşe projesidir: Kıraç şevde birkaç yıl içinde kendi hâline yaşayan, her ilkbahar beyaz çiçek açan bir ağaç elde edersiniz. Ağaç yaşlandıkça gövdesi kalınlaşır ve dalları geniş bir taç yapar; bu yüzden binadan, borulardan ve çitten yeterli mesafe bırakın. Doğal yamaç bahçelerinde başka kıraç bitkilerle, örneğin kekik ve lavantayla birlikte dikilebilir; aynı kuru toprağı severler. Gölge yapan genç ağacın altında kuraklığa dayanıklı otları yetiştirmek de mümkündür.
+
+Mahlep yetiştirme, kıraç ve eğimli bir parselde sağlam, bakımsız bir ağaç isteyenler için iyi bir seçimdir. Ancak hızlı meyve ve bol baharat beklemek gerçekçi değildir. Aynı bahçede kiraz yetiştirmeyi düşünüyorsanız, mahlepi anaç olarak kullanan aşılı kiraz fidanını tercih etmek, mahlep ağacının güçlü yanlarından yararlanmanın en kolay yoludur. Ağacın yaprak döken, ilkbahar çiçekli yapısı bahçede arıları çeker; bu yönüyle de tozlayıcı dostu bir bitkidir.
+@sss
+S: Mahlep ağacı nedir?
+C: Mahlep, Prunus mahaleb adlı kiraz akrabası, küçük ya da orta boylu bir ağaçtır. Çekirdeğinin içi baharat olarak kullanılır; ayrıca Türkiye'de kiraz için en yaygın anaçtır.
+
+S: Mahlep nasıl çoğaltılır?
+C: Çekirdekle çoğaltılır; çekirdeğin çimlenmesi için kiraz gibi soğuk-nemli bekletme gerekir. Çöğürler birbirinden farklı gelişir, bu yüzden hobi için sertifikalı fidan almak daha güvenilirdir.
+
+S: Mahlep hangi toprakta yetişir?
+C: Süzek, kıraç ve kireçli toprakta, tam güneşte yetişir. Eğimli ve taşlı alanlara uyumludur; ağır ve su tutan toprakta kökler çürür.
+
+S: Kirazın anacı neden mahlep olur?
+C: Mahlep anacı kireçli ve eğimli topraklara uyum sağlar, daha küçük boylu ağaç yapar ve hava drenajı iyi alanlarda tercih edilir. Bir araştırmaya göre Türkiye'deki kiraz ağaçlarının yüzde 75–80'i mahlep anacı üzerindedir.
+
+### YAZI
+slug: yamula-patlicani
+baslik: Yamula Patlıcanı: Kayseri'nin Yerli Çeşidi ve Yetiştirilmesi
+yayin: 2027-03-07 19:30
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: yamula patlıcanı
+seo_baslik: Yamula Patlıcanı: Kayseri'nin Yerli Çeşidi Rehberi
+seo_aciklama: Yamula patlıcanı nedir? Kayseri Yemliha'nın coğrafi işaretli çeşidi, çizgili ve yumurta biçimli meyvesi, fide ve dikim zamanı, toprak ve sulama.
+ozet: Yamula patlıcanı, Kayseri'nin Yemliha çevresinde yetişen, mor çizgili ve yumurta biçimli, coğrafi işaretli yerel bir çeşittir. Çeşidin özelliklerini, hangi koşulda yetiştiğini, fide hazırlığı ve dikim zamanını, toprak, sulama ve hastalık uyarılarını anlattık.
+etiketler: Yamula patlıcanı, yerel patlıcan, Kayseri, coğrafi işaret, ata tohumu, çizgili patlıcan
+gorsel: bekliyor
+gorsel_alt: Mor-beyaz çizgili, yumurta biçimli küçük patlıcanlar dalda yan yana sarkıyor
+urunler: yamula-patlicani-ata-tohumu-50-adet, hg-premium-fide-topragi, hg-bol-verimli-sebze-topragi
+kisaca: Yamula patlıcanı, Kayseri'nin Yemliha kasabası ve Yamula Barajı çevresinde yetişen, mor çizgili, yumurta biçimli ve en fazla 13 cm uzunluğundaki yerel bir çeşittir; coğrafi işaretle tescillidir. Sıcak seven bitki, patlıcan gibi fide ile başlar ve son donlardan sonra dikilir. Bölgede ilk hasat temmuz sonunda başlar.
+@govde
+Kayseri Yemliha'da yetişen, adını yakındaki Yamula Barajı'ndan alan Yamula patlıcanı, Türkiye'nin coğrafi işaretli yerel sebzelerinden biridir. Mor ve beyaz çizgili, küçük ve yumurta biçimli bu patlıcan bölge halkının hem geçim kaynağı hem de mutfak mirasıdır. Yamula patlıcanı hakkında bilinmesi gereken en önemli şey, onun belli bir bölgenin toprağı ve iklimiyle birlikte anılan bir çeşit olduğudur.
+
+## Yamula patlıcanı nedir?
+
+Yamula patlıcanı, Kayseri'nin Kocasinan ilçesine bağlı Yemliha kasabası çevresinde yetişen yerel bir çeşittir. Coğrafi işaret kayıtlarına göre ürün, menşe adı türünde tescillidir; coğrafi sınırı Yemliha Kasabası ve Yamula Barajı çevresidir. Kayıt tarihleri kaynaklara göre biraz farklı verilir; kesin tarih için TÜRKPATENT'in coğrafi işaret kaydına bakmak gerekir. Bkz. [TÜRKPATENT coğrafi işaret kaydı](https://ci.turkpatent.gov.tr/Files/GeographicalSigns/0e94adf1-781b-436a-ba37-53cab53f11b2.pdf).
+
+Meyvesi mor ve beyaz çizgilidir, yumurta biçimindedir ve en fazla 13 cm uzunluğa ulaşır. Haberlerde çekirdeksiz ve lezzetli olarak anılsa da bu yazıda bu iddiaları tek başına doğrulayamadığımız için tat ve çekirdek konusunda kesin bir şey söylemiyoruz; çeşidi kendi bahçenizde deneyerek değerlendirin. Akademik bir çalışmada Kayseri'den toplanan ve "Yamula patlıcanı" adıyla anılan 28 yerel genotipin moleküler ve morfolojik olarak karakterize edildiği bildirilir; yani çeşit tek tip değil, yerel bir popülasyondur.
+
+## Yetiştiği yer: neden Yemliha?
+
+Yamula patlıcanı Kızılırmak'ın iki yakasındaki Yemliha çevresinde, yaklaşık bin dekar alanda yetiştirilir. Tescil kayıtlarına göre ilk hasat bölgede 25 Temmuz'da başlar. Bölge toprağı kireçli ve hafif tuzludur; kayıtlarda pH değeri 8,42 olarak verilmiştir. Bu bilgi bahçıvan için iki sonuç doğurur: çeşit yüksek pH'lı, alkali toprağa alışkındır; hasat zamanı ise iç Anadolu koşullarına göre geçtir.
+
+Ayrıca kayıt kaynakları, bölgede mikro element eksikliğine karşı yaklaşık 20 gün aralıkla yaprak gübresi uygulandığını anlatır. Bu, kireçli ve alkali toprakta demir, çinko ve manganın alınmasının zorlaştığını gösteren bir uygulamadır. Kendi bahçenizde de toprak kireçliyse benzer bir belirti (damar arası sararma) bekleyebilirsiniz; ayrıntı için [mikro element eksikliği](/mikro-element-eksikligi) yazısına bakabilirsiniz.
+
+## Tohum ve fide: yerel çeşidi nasıl yetiştirirsiniz?
+
+Yamula patlıcanı, patlıcan gibi sıcak mevsim sebzesidir ve ekim fide ile başlar. Tohum ilkbaharın başında, dikimden yaklaşık sekiz on hafta önce ısıtılmış, aydınlık bir ortamda ekilir; çimlenme için toprak yaklaşık 25 °C olmalıdır. Fide yetiştirme adımları için [patlıcan fidesi yetiştirme](/patlican-fidesi-yetistirme) yazısındaki program bu çeşit için de uygundur. Fideyi dikmeden önce hafta boyu dışarıya alıştırın.
+
+Ata ya da yerel tohumlar, hibritler gibi her yıl aynı sonucu vermeyebilir; bitkiler arasında küçük farklar görülür. Tohumunu kendiniz saklamak istiyorsanız yerel çeşitlerin neden değerli olduğunu [ata tohumu nedir](/ata-tohumu-nedir) ve [ata tohumu saklama](/ata-tohumu-saklama) yazılarında okuyabilirsiniz. Bu çeşidin tohumunu aldığınız yerin yerel kaynağını, çeşidin orijinalliğini ve tohum sağlığını sorun.
+
+## Dikim zamanı ve yer
+
+Patlıcan, bahçedeki en sıcak seven sebzelerden biridir. Fide dikimi için toprak sıcaklığı yeterince ısınmış ve son don bitmiş olmalıdır; soğuk toprak fideyi durdurur. Eşik değerleri için [fide dikim zamanı](/fide-dikim-zamani) yazısına bakın; patlıcan, domates ve biberden daha sıcak ister. İç Anadolu'da bu çoğu yıl mayıs ayına denk gelir.
+
+Dikimde tam güneş, süzek ve organik maddeli toprak seçin. Bitki sıraları arası yaklaşık 60–70 cm, bitkiler arası 40–50 cm bırakmak yaygındır. Yamula patlıcanı küçük meyveli olduğundan bitkiler orta boyda kalır; yine de rüzgâr ve meyve ağırlığı için destek çubuğu yararlıdır. Çeşide özgü sıklık ve ölçü için üretici bilgisini ve yerel deneyimi esas alın. Çeşit seçimi hakkında geniş bakış için [patlıcan çeşitleri](/patlican-cesitleri) yazısı faydalıdır.
+
+[ürün:yamula-patlicani-ata-tohumu-50-adet]
+
+## Sulama, besleme ve bakım
+
+Patlıcan düzenli ve derin sulama ister; kuraklık stresi çiçek ve meyve dökümüne yol açar. Toprağı hafif nemli tutun, ama su durmasından kaçının. İç Anadolu yazı sıcak ve kurak olduğu için damla sulama ve malç yararlıdır. Bu çeşidin yetiştiği bölgede toprağın hafif tuzlu olduğunu hatırlayın; tuzlu toprakta sulama suyunun kalitesi ve düzenli yıkama önemlidir.
+
+Besleme için dikimde olgun kompost ya da solucan gübresi toprağa karışır; çiçek ve meyve döneminde dengeli bir sebze besini kullanılır. Patlıcan besleme takvimi için [patlıcan gübreleme](/patlican-gubreleme) yazısına bakabilirsiniz. Kireçli toprakta demir eksikliği (damar arası sararma) belirtisini izleyin.
+
+## Sorunlar: kök hastalığı ve zararlılar
+
+Yamula bölgesindeki üreticilerin bildirdiği önemli sorunlardan biri, kök mantarı hastalığı nedeniyle yaşanan verim kaybıdır. Patlıcan solgunluk ve kök çürüklüğü hastalıklarına yatkındır; aynı toprakta yıllarca patlıcan, domates ve biber yetiştirmek hastalık baskısını artırır. Bu yüzden ekim nöbeti (3–4 yılda bir yer değiştirmek), süzek toprak ve sağlam fide önemlidir. Hastalık belirtileri için [patlıcan hastalıkları](/patlican-hastaliklari) yazısına bakabilirsiniz.
+
+İlaç adı ve dozu bu yazıda verilmez; solgunluk ve kök hastalığı şüphesinde il ya da ilçe tarım müdürlüğüne ve ziraat mühendisine başvurun. Bahçe ölçeğinde, hastalıklı bitkiyi söküp imha etmek, aynı toprakta ertesi yıl patlıcangil dikmemek ve aşılı fide düşünmek önlemler arasındadır.
+
+## Hasat ve kullanım
+
+Yamula patlıcanı gibi yerel bir çeşidin değeri, her yıl aynı kaynaktan tohum seçmenizde saklıdır. Sağlıklı, erken meyve veren ve kök hastalığına dayanan bitkileri işaretleyin, onların meyvesini tohumluk için ayırın. Yerel çeşitlerin kaybolmaması için komşu üreticilerle tohum takası da yapabilirsiniz; ayrıntı için [tohum takası](/tohum-takasi) yazısına bakın.
+
+Küçük ve yumurta biçimli meyveler parlak, sert ve çizgileri belirgin iken toplanır. Aşırı olgun patlıcan sertleşir ve tohumu büyür. Meyveyi sapıyla birlikte makasla kesin. Bu çeşit bölgede çok farklı biçimlerde kullanılır; ilk hasat temmuz sonunda başlar ve sonbahara kadar sürer. Bahçenizde hasat zamanı dikim tarihinize göre değişir. Yerel çeşidi yetiştirirken kayıt altına almak, bahçe günlüğü tutmak ve tohum seçimini bilinçli yapmak, çeşidi yaşatmanın en iyi yoludur.
+@sss
+S: Yamula patlıcanı nedir?
+C: Kayseri'nin Yemliha kasabası ve Yamula Barajı çevresinde yetişen, mor-beyaz çizgili, yumurta biçimli ve en fazla 13 cm uzunluktaki yerel patlıcan çeşididir. Coğrafi işaretle menşe adı olarak tescillidir.
+
+S: Yamula patlıcanı nerede yetişir?
+C: Esas üretim Kayseri'nin Yemliha çevresinde, yaklaşık bin dekar alanda yapılır. Bölge toprağı kireçli ve hafif tuzludur; ilk hasat temmuz sonunda başlar.
+
+S: Yamula patlıcanı nasıl yetiştirilir?
+C: Diğer patlıcanlar gibi fide ile başlanır: dikimden sekiz on hafta önce ısıtılmış ortamda ekilir, son donlardan sonra toprak ısındığında dikilir. Tam güneş, süzek toprak ve düzenli sulama gerekir.
+
+S: Yamula patlıcanında en büyük sorun nedir?
+C: Üreticiler kök mantarı hastalığı nedeniyle verim kaybı bildirir. Ekim nöbeti, süzek toprak, sağlam fide ve hastalıklı bitkiyi imha etmek önlem sayılır; ilaç kararı için tarım müdürlüğüne başvurun.
+
+### SORU
+yayin: 2027-03-07 21:10
+kategori: bahce-ipuclari
+baslik: Bahçemde kompost yığınım var, anahtar deliği yatağın ortasına sepet koymak yeterli mi, yığını bırakabilir miyim?
+metin: Köşede açık bir kompost yığınım var ama ona eğilmek zor geliyor. Anahtar deliği bahçe yaparsam kompost yığınını tamamen bırakıp ortadaki sepete mi geçeyim? Yeterli olur mu?
+@cevap Halil İbrahim Çelik | 2
+Sepet küçük bir hacimdir; 30–45 cm çapında bir silindirde bir aile mutfağının tüm atığı sığmaz, ayrıca yığın büyük kompost için gereken ısıyı oluşturamaz. Yığını tamamen bırakmanız gerekmez: sepet, mutfak atığı, çay posası ve sebze kabuğu için kullanışlı bir günlük kap olur; yığın ise yaprak, ot ve büyük atıkları işler. Yığında olgunlaşan komposttan sezon başında yatak toprağına da karıştırabilirsiniz. Sepete et, süt ürünü ve yağlı yemek atmayın, koku ve haşere çeker. Sepeti haftada bir sulayın ve üstünü bir kat kuru yaprakla örtün.
+
+### SORU
+yayin: 2027-03-07 21:45
+kategori: sebze-meyve
+baslik: Marketten aldığım kiraz çekirdeklerini ekersem mahlep gibi anaç olur mu?
+metin: Kiraz çekirdeklerini toplayıp ekmeyi düşünüyorum. Çıkan fidanları kiraz ağacı için anaç olarak kullanabilir miyim, yoksa mahlep çekirdeği mi gerekir?
+@cevap Mikdat Çelik | 2
+Kiraz çekirdeğinden çıkan fidan hem anaç hem çeşit açısından belirsizdir; meyvesi çeşide benzemez ve geç meyve verir. Türkiye'de kiraz için yaygın anaç, mahlep çöğürüdür; mahlep kireçli ve eğimli toprağa uyumludur. Ama çöğür anaçlar birbirinden farklı gelişir ve verime geç yatabilir; bu yüzden klon anaçlar giderek yaygınlaşıyor. Hobi için en sağlıklısı, anacı ve çeşidi bilinen sertifikalı aşılı fidan almaktır. Çekirdek ekmek denemek isterseniz bunu merak ve öğrenme için yapın; çıkan fidanı aşılama konusunda bir bahçecilik kursundan ya da fidancıdan yardım alın.
