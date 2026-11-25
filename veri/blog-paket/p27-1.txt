@@ -1,0 +1,738 @@
+### YAZI
+slug: fitilli-hidroponik-sistem
+baslik: Fitilli Hidroponik Sistem: Pompasız ve En Basit Topraksız Yetiştirme
+yayin: 2027-01-18 08:30
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: fitilli hidroponik sistem
+seo_baslik: Fitilli Hidroponik Sistem Nasıl Kurulur? Pompasız Rehber
+seo_aciklama: Fitilli hidroponik sistem nedir, nasıl kurulur? Pompa ve elektrik istemeyen bu düzende fitil, besin çözeltisi, ortam seçimi, bakım ve uygun bitkiler.
+ozet: Fitilli hidroponik sistem, besin çözeltisini fitille köklere ulaştıran, pompa ve elektrik gerektirmeyen en basit topraksız yetiştirme yöntemidir. Kurulum adımlarını, fitil ve ortam seçimini, hangi bitkilerin uyduğunu ve sık yapılan hataları anlattık.
+etiketler: fitilli sistem, hidroponik, topraksız tarım, pompasız hidroponik, fitil, evde hidroponik
+gorsel: bekliyor
+gorsel_alt: Pencere önünde plastik kapta büyüyen fesleğen ve kabın dibine uzanan beyaz fitil
+urunler: kullanima-hazir-cocopeat-torfu, tarim-perliti
+kisaca: Fitilli hidroponik sistemde bitki, besin çözeltisi dolu bir haznenin üstündeki saksıda büyür; haznedeki sıvı kılcallıkla fitil boyunca yukarı çıkıp köklere ulaşır. Pompa, elektrik ve zamanlayıcı gerekmez. Sistem fesleğen, nane, marul ve maydanoz gibi az su isteyen yeşilliklere uyar; domates gibi çok su tüketen bitkilerde fitil yetersiz kalır.
+@govde
+Fitilli sistem, topraksız yetiştirmenin en sade biçimidir. Bitki bir ortamda (kokopit, perlit ya da ikisinin karışımı) durur; ortamın altından sarkan fitil haznedeki besin çözeltisine uzanır. Çözelti kılcallıkla yükselir, kökler ihtiyacı kadar alır. Bu yüzden fitilli hidroponik sistem elektrik kesintisinden, pompa arızasından ve zamanlayıcı ayarından etkilenmez.
+
+## Fitilli hidroponik sistem nasıl çalışır?
+
+Bir bez parçasının ucunu suya batırırsanız suyun bezin boyunca yükseldiğini görürsünüz. Buna kılcallık denir ve fitilli sistemin tek hareketli parçası budur. Fitilin bir ucu besin çözeltisinde, diğer ucu bitkinin ortamındadır. Ortam kuruyunca çözelti yukarı çekilir; ortam nemli olunca çekim yavaşlar. Sistem böylece kendi kendini dengeler.
+
+Bu denge sınırlıdır. Bir fitil birim zamanda yalnızca az miktarda sıvı taşıyabilir. Bitkinin su tüketimi yavaşsa sistem iyi çalışır; yaprak yüzeyi geniş ve terlemesi hızlı bitkilerde ortam kurur, bitki susuz kalır. Hidroponik ortamların suyu ve havayı nasıl tuttuğunu [hidroponik ortamlar](/hidroponik-ortamlar) yazısında karşılaştırmalı anlattık.
+
+Fitilli sistemin en yakın akrabası, hiçbir mekanik parça içermeyen [Kratky yöntemidir](/kratky-yontemi). İkisinin farkı şudur: Kratky'de kökler doğrudan çözeltiye sarkar ve çözelti seviyesi düştükçe hava boşluğu oluşur; fitilli sistemde ise kökler ortamdadır ve çözeltiye hiç değmez.
+
+## Hangi bitkiler fitilli sisteme uyar?
+
+| Bitki grubu | Fitilli sistem | Not |
+|---|---|---|
+| Fesleğen, nane, maydanoz, dereotu | Çok uygun | Az su ister, kökü sığdır |
+| Marul, roka, tere, ıspanak | Uygun | Serin mevsimde daha iyi gider |
+| Çilek | Orta | Küçük çeşitlerde olur, ürün sınırlıdır |
+| Süs ve acı biber | Orta | Büyük ortam ve çok fitil gerekir |
+| Domates, salatalık, kabak | Uygun değil | Su tüketimi fitilin taşıma gücünü aşar |
+
+Ev ortamında en iyi sonucu yeşillikler verir. Fesleğenin ışık, sıcaklık ve budama ihtiyaçlarını [saksıda fesleğen yetiştirme](/saksida-feslegen-yetistirme) rehberinde bulabilirsiniz.
+
+## Kurulum için gerekenler
+
+Sistemi kurmak için özel ekipman gerekmez. Üç parça yeterlidir:
+
+- **Hazne:** Işık geçirmeyen bir kap. Işık çözeltide yosun üretir; koyu renkli ya da dışı kaplanmış bir kap seçin.
+- **Üst kap (saksı):** Alt tarafı delik, hazneye oturan bir saksı. Fitil bu deliklerden geçer.
+- **Fitil:** Pamuk ya da keçe şerit gibi kılcallığı yüksek bir malzeme. Naylon ve plastik iplikler su taşımaz.
+
+Ortam olarak hafif ve nem tutan bir karışım kullanın. Kokopit suyu iyi taşır, perlit havalandırır. İkisini yarı yarıya karıştırmak fitilli sistem için yaygın bir başlangıçtır; farklı oranların ne işe yaradığını [kokopit perlit karışımı](/kokopit-perlit-karisimi) yazısında anlattık.
+
+## Adım adım kurulum
+
+::: adimlar
+Kokopiti yıkayın | Sıkıştırılmış kokopit tuz içerebilir; bol suyla yıkayıp sıkın. Ayrıntılar için [cocopeat yıkama](/cocopeat-yikama) rehberine bakın.
+Fitilleri hazırlayın | Saksı başına iki ya da üç fitil kesin; boyları hazne dibine ulaşacak kadar olsun.
+Fitili ortama yerleştirin | Fitilin yarısını saksının deliğinden aşağı sarkıtın, üst yarısını ortamın içine gömün.
+Ortamı doldurun | Kokopit ve perlit karışımını saksıya doldurup fideyi dikin, üstünü nemlendirin.
+Çözeltiyi hazırlayın | Besin çözeltisini haznenin yarısına kadar doldurun; saksıyı hazneye oturtup fitilin çözeltiye değdiğinden emin olun.
+:::
+
+İlk iki gün ortamı elle nemlendirin. Fitilin ortamı yeterince ıslatması zaman alır ve fide bu sürede susuz kalabilir.
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+## Besin çözeltisi ve bakım
+
+Fitilli sistemde çözelti haznede tüketildikçe azalır. Haznenin seviyesini haftada iki ya da üç kez kontrol edin ve eksilen kadar çözelti ekleyin. Çözelti haznede uzun süre kalırsa ışık ve sıcaklıkla bozulur; iki üç haftada bir haznenin tamamını boşaltıp temiz çözeltiyle doldurun.
+
+Çözeltinin yoğunluğu önemlidir. Ortam, fitilin getirdiği tuzu biriktirebilir; yüzeyde beyaz bir kabuk görürseniz ortamı saf suyla yıkayın. Besin ürününün etiketindeki karışım oranını aşmayın; yeşilliklerde çoğunlukla etiketteki en düşük oran yeterlidir.
+
+Hidroponikte çözeltinin asitliği (pH) temel göstergedir. Yeşillikler için pH 5,5–6,5 aralığı genel kabul görür. Asitlik kavramını toprak üzerinden anlatan [toprak pH nedir](/toprak-ph-nedir) yazısı, bu ölçüme hazırlık için iyi bir başlangıçtır.
+
+## Işık, sıcaklık ve sulama düzeni
+
+Fitilli hidroponik sistem pompasız olduğu için ışık ve sıcaklık, bitkinin su tüketimini belirleyen iki dış etkendir. Güneşli bir pencere önünde terleme artar, fitil yetişmekte zorlanır. Yeşillikler için doğrudan öğle güneşinden korunan, aydınlık bir köşe en dengeli yerdir. Işık yetersizse bitki uzar ve soluklaşır; bu durumda günde 12–14 saat bitki lambası eklemek çözümdür.
+
+Sıcaklık da çözeltiyi etkiler. Hazne 24 dereceyi aştığında çözeltideki oksijen azalır ve kök hastalıkları kolaylaşır. Haznenin kenarını kâğıtla ya da ışığı yansıtan bir bantla sararak ısınmasını yavaşlatabilirsiniz. Fitilli sistemde klasik anlamda sulama yoktur; yapmanız gereken, haznenin hiç boşalmamasını sağlamaktır. Hazne tamamen boşalırsa fitil kurur ve çözeltiyi yeniden çekmesi bir gün sürebilir.
+
+## Fitilli sistem ile toprakta yetiştirme arasındaki fark
+
+| Konu | Fitilli hidroponik sistem | Toprakta saksı |
+|---|---|---|
+| Besin | Çözeltiyle doğrudan verilir | Topraktan ve gübreden alınır |
+| Sulama sıklığı | Haznenin seviyesine bağlı, haftada 1–2 kontrol | Toprağın kurumasına bağlı, sık |
+| Kirlilik | Toprak zararlısı az | Toprak sineği ve mantar riski |
+| Hata payı | Çözelti yoğunluğuna duyarlı | Toprak tamponlar, hata payı geniş |
+| Elektrik | Gerekmez | Gerekmez |
+
+Toprağa alışkın biri için fitilli hidroponik sistem, çözelti yönetimi dışında yeni bir şey öğretmez. Yeniyseniz önce bir fesleğenle başlayın; çözeltiyi nasıl yönettiğinizi bu bitkide hızla görürsünüz.
+
+## Sık yapılan hatalar
+
+Fitilli sistemde sorunların çoğu üç nedenden çıkar:
+
+- **Işık geçiren hazne:** Çözelti yeşillenir, yosun fitili tıkar.
+- **Çok kısa ya da kalın fitil:** Kısa fitil çözeltiye ulaşmaz; çok kalın fitil ortamı sulu bırakır ve kökler çürür.
+- **Ortamın aşırı sıkıştırılması:** Sıkışmış kokopit havasızdır ve kökler boğulur.
+
+Perlit ortamın havalanmasını artırır. Hangi tane boyunun nerede işe yaradığını [ince ve kalın perlit](/ince-ve-kalin-perlit) yazısında karşılaştırdık.
+
+[ürün:tarim-perliti]
+
+## Fitilli sistem kime uygun?
+
+Pencere önünde birkaç saksı yeşillik yetiştirmek isteyen, sistemi bir kez kurup haftalarca ilgilenmek istemeyen herkes için uygundur. Elektrik kesintisi riski olan ya da pompa sesini istemeyen ortamlarda da tercih edilir. Büyük bitkiler ve yoğun üretim için pompalı sistemler gerekir.
+
+Hidroponiğin tanımı ve türleri hakkında genel bir özet için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ortam ve karışım seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Fitilli hidroponik sistem için pompa gerekir mi?
+C: Hayır. Fitilli sistemde çözelti kılcallıkla fitil boyunca yükselir; pompa, elektrik ve zamanlayıcı gerekmez. Bu yüzden en basit ve en sessiz hidroponik yöntemdir.
+
+S: Fitil olarak ne kullanılır?
+C: Pamuk ya da keçe şerit gibi kılcallığı yüksek malzemeler kullanılır. Naylon ve plastik ipler su taşımadığı için işe yaramaz.
+
+S: Fitilli sistemde domates yetişir mi?
+C: Zor yetişir. Domates ve salatalık gibi çok su tüketen bitkilerde fitil yeterli suyu taşıyamaz; bu bitkiler için pompalı sistemler daha uygundur.
+
+S: Fitilli sistemde besin çözeltisi ne sıklıkla değişir?
+C: Haznenin seviyesi haftada iki ya da üç kez kontrol edilir; çözeltinin tamamı iki üç haftada bir boşaltılıp yenilenir. Çözelti bulanırsa ya da yosun tutarsa daha erken değiştirilir.
+
+### YAZI
+slug: gelgit-sistemi-topraksiz-yetistirme
+baslik: Gelgit Sistemi (Ebb and Flow): Masa Tipi Topraksız Yetiştirme
+yayin: 2027-01-18 09:55
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: gelgit sistemi
+seo_baslik: Gelgit Sistemi Nedir? Masa Tipi Hidroponik Kurulumu
+seo_aciklama: Gelgit sistemi (ebb and flow) nedir, nasıl çalışır? Masa tipi hidroponikte pompa, zamanlayıcı, taşma borusu, ortam seçimi ve uygun bitkiler.
+ozet: Gelgit sistemi, bitki tablasını zamanlayıcılı bir pompayla periyodik olarak besin çözeltisiyle dolduran ve boşaltan masa tipi topraksız yetiştirme düzenidir. Çalışma mantığını, parçalarını, kurulum adımlarını ve ayar hatalarını anlattık.
+etiketler: gelgit sistemi, ebb and flow, hidroponik masa, zamanlayıcı, topraksız tarım, evde hidroponik
+gorsel: bekliyor
+gorsel_alt: Plastik yetiştirme tablasında sıralı marul fideleri ve altındaki besin çözeltisi deposu
+urunler: kalin-tarim-perliti, tarim-perliti
+kisaca: Gelgit sistemi, bitkilerin durduğu tablayı bir pompayla günde birkaç kez besin çözeltisiyle doldurup taşma borusu üzerinden geri boşaltan düzendir. Kökler dönüşümlü olarak ıslanır ve havalanır. Marul, fesleğen, çilek ve biber gibi bitkilere uyar; zamanlayıcı ve taşma borusu doğru ayarlanmazsa kökler çürür ya da susuz kalır.
+@govde
+Gelgit sistemi adını denizin med ve cezir hareketinden alır: bitkilerin durduğu tabla düzenli aralıklarla çözeltiyle dolar, sonra boşalır. Dolu olduğunda kökler besini, boşaldığında havayı alır. Ev ve hobi hidroponiğinde masa tipi çözümlerin en yaygını budur ve fitilli düzene göre daha fazla parça ister.
+
+## Gelgit sistemi nasıl çalışır?
+
+Sistemin iki katı vardır: üstte bitkilerin dikili olduğu tabla, altta besin çözeltisi deposu. Depodaki pompa bir zamanlayıcıya bağlıdır. Zamanlayıcı pompayı çalıştırınca çözelti tablaya akar. Tablanın içindeki taşma borusu, sıvı belirli bir yüksekliğe ulaşınca fazlasını depoya geri bırakır. Pompa durunca tabla yavaşça boşalır.
+
+Bu dönüşümlü ıslanma köklerin hem su hem hava almasını sağlar. Havasız kalan kök çürür, susuz kalan kök kurur; gelgit sistemi ikisi arasındaki dengeyi zamanlayıcıyla kurar. Ortamların hava ve su dengesini [hidroponik ortamlar](/hidroponik-ortamlar) yazısında anlattık; burada ortamın suyu hızla bırakması gerekir.
+
+Pompasız ve elektriksiz bir başlangıç arıyorsanız [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) ya da [Kratky yöntemi](/kratky-yontemi) daha sade seçeneklerdir.
+
+## Sistemin parçaları
+
+| Parça | Görevi | Dikkat |
+|---|---|---|
+| Yetiştirme tablası | Bitkilerin durduğu kap | Derinliği 10–15 cm olmalı |
+| Çözelti deposu | Besin çözeltisini tutar | Işık geçirmemeli |
+| Daldırma pompası | Çözeltiyi tablaya taşır | Tablayı birkaç dakikada doldurmalı |
+| Taşma borusu | Seviyeyi sınırlar | Ortamın üst yüzeyine ulaşmamalı |
+| Zamanlayıcı | Pompayı çalıştırır | Günde 3–6 kısa döngü yeterlidir |
+
+Taşma borusunun yüksekliği kritik ayardır. Çözelti ortamın üstüne çıkarsa bitkinin gövde dibi sürekli ıslanır ve çürüme riski doğar. Yüksekliği, ortamın yaklaşık üçte ikisini kapsayacak biçimde ayarlayın.
+
+## Ortam seçimi
+
+Gelgit sisteminde ortam suyu hızlı bırakmalı ve topaklanmamalıdır. Kalın perlit, kil bilye ya da bunların karışımı uygundur. İnce ortamlar boruları ve pompayı tıkar. Perlit hafif olduğu için dolum sırasında yüzebilir; tane kaçmaması için ortamın üstüne ince bir tabaka daha ağır taneli malzeme serilir.
+
+Kalın ve ince perlitin farkını [ince ve kalın perlit](/ince-ve-kalin-perlit) yazısında karşılaştırdık. Kullanılan perliti yıkayıp tekrar kullanmak için [perlit tekrar kullanılır mı](/perlit-tekrar-kullanilir-mi) yazısındaki temizleme adımlarına bakabilirsiniz.
+
+[ürün:kalin-tarim-perliti]
+
+## Gelgit sistemi kurulum adımları
+
+::: adimlar
+Tablayı yerleştirin | Tablayı dengeli bir masaya, deponun üstüne oturtun; eğim olursa çözelti bir köşede birikir.
+Pompayı ve boruları bağlayın | Pompayı depoya, dolum hortumunu tablanın dibine bağlayın; taşma borusunu depoya yönlendirin.
+Ortamı yıkayıp doldurun | Perliti ya da kil bilyeyi yıkayıp tozunu atın, tablaya yaklaşık 8–10 cm kalınlıkta serin.
+Zamanlayıcıyı ayarlayın | Gündüz saatlerinde günde 3–4 kez, her seferinde 10–15 dakika dolum yapacak biçimde başlayın.
+Düzeni test edin | Pompayı elle çalıştırıp seviyenin taşma borusunda durduğunu ve tablanın yaklaşık 30 dakikada boşaldığını görün.
+:::
+
+Test sırasında su seviyesi taşma borusunun üstüne çıkıyorsa boruyu kısaltın. Tabla yavaş boşalıyorsa ortam fazla incedir ya da boru ağzı tıkalıdır.
+
+## Zamanlayıcı ayarı: dolum sayısı ve süre
+
+Gelgit sisteminin başarısı büyük ölçüde zamanlayıcıya bağlıdır. Dolum sayısını ortamın suyu ne kadar hızlı bıraktığına, sıcaklığa ve bitkinin büyüklüğüne göre ayarlarsınız. Aşağıdaki tablo bir başlangıç noktasıdır; bitkinin tepkisine göre değiştirin.
+
+| Durum | Günlük dolum | Her dolumun süresi |
+|---|---|---|
+| Fide ve genç bitki, serin hava | 2–3 kez | 10 dakika |
+| Yetişkin yeşillik, ılık hava | 3–4 kez | 10–15 dakika |
+| Meyve veren bitki, sıcak hava | 4–6 kez | 15 dakika |
+| Gece (ışık yok) | Dolum yok | Kökler dinlenir |
+
+Yaprakların sarkması ve ortamın üst yüzeyinin kuruması dolumun az olduğunu, gövde dibinin sürekli ıslak kalması ve yosun oluşması ise çok olduğunu gösterir. Ayarı bir değişiklikten sonra en az iki gün izleyin; her gün ayar değiştirmek hangi değişikliğin işe yaradığını görmenizi engeller.
+
+## Gelgit sisteminde sık yapılan hatalar
+
+- **Tablayı fazla doldurmak:** Çözelti ortamın üstüne çıkarsa gövde dibi çürür.
+- **Zamanlayıcıyı gece de çalıştırmak:** Işık yokken bitkinin su ihtiyacı azdır; fazladan dolum kökü soğutur.
+- **İnce ortam kullanmak:** Ortam suyu bırakmaz, tabla geç boşalır.
+- **Pompanın girişini temizlememek:** Tortu pompanın girişini tıkar, dolum yavaşlar ve fark edilmez.
+- **Elektrik kesintisini hesaba katmamak:** Tabla dolu kalırsa kökler havasız kalır. Yedek olarak taşma borusunu doğru yükseklikte tutun; sıvı en fazla ortamın üçte ikisine ulaşır.
+
+Bu hataların çoğu, sistemi kurduktan sonraki ilk iki haftada gözlemle yakalanır. Sistemi izlemek için tablanın yanına bir not defteri koyup dolum sayısını ve bitkinin görünümünü yazmak, ayarı doğru bulmanın en kolay yoludur.
+
+## Besin çözeltisi ve bakım
+
+Deponun çözeltisini haftada bir kontrol edin. Seviye düştükçe saf su ekleyin; tuz birikmemesi için iki haftada bir çözeltinin tamamını yenileyin. Yeşilliklerde pH değerini 5,5–6,5 aralığında tutmak genel kabul gören bir hedeftir. Çözelti sıcaklığı yükseldikçe kökler hastalığa açık hâle gelir; bu yüzden depoyu serin bir köşede, ışıktan uzak tutun.
+
+Yosun oluşumunu engellemek için tablayı ve deponun kapağını ışık geçirmeyecek biçimde kapatın; sistemi ayda bir durulayıp tortuyu temizleyin.
+
+## Elektrik tüketimi ve yerleşim
+
+Gelgit sisteminin tek sürekli tüketicisi küçük daldırma pompasıdır. Masa tipi bir sistemde pompa genellikle birkaç watt çeker ve günde toplam bir saatten kısa çalışır; bu yüzden tüketimi bir ampulün yanında önemsiz kalır. Asıl elektrik gideri, varsa bitki lambasından gelir.
+
+Yerleşim için düz ve sağlam bir zemin seçin. Dolu tabla ve depo birkaç on kilogram gelebilir; masa bu yükü taşımalı, taşma halinde elektrikli aletlerden uzak durmalıdır. Prizi ve zamanlayıcıyı su sıçramasından koruyun.
+
+## Hangi bitkiler gelgit sistemine uyar?
+
+Marul, roka, fesleğen ve ıspanak gibi yeşilliklerin yanı sıra çilek, biber ve küçük domates çeşitleri de bu düzende yetişir. Bitki büyüdükçe kökler tablada yer daralttığı için dolum süresini uzatmak gerekebilir.
+
+Gelgit sistemi aynı tablada farklı bitkileri birlikte yetiştirmeye uygun değildir. Su tüketimi ve besin ihtiyacı farklı bitkileri ayrı tablalara koyun. Ortam ve ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Gelgit sistemi nasıl çalışır?
+C: Zamanlayıcılı bir pompa çözeltiyi depodan tablaya doldurur; taşma borusu seviyeyi sınırlar ve pompa durunca tabla boşalır. Kökler dönüşümlü olarak hem besin hem hava alır.
+
+S: Gelgit sisteminde pompa günde kaç kez çalışır?
+C: Başlangıç için gündüz saatlerinde günde 3–4 kez, her seferinde 10–15 dakika yeterlidir. Ortam çok hızlı kuruyorsa dolum sayısı artırılır.
+
+S: Gelgit sisteminde hangi ortam kullanılır?
+C: Suyu hızlı bırakan kalın perlit, kil bilye ya da bunların karışımı uygundur. İnce ortamlar boruları tıkar ve kökleri havasız bırakabilir.
+
+S: Gelgit sistemi evde sessiz çalışır mı?
+C: Küçük daldırma pompaları genelde sessizdir. Dolum sırasında su sesi duyulur; masa üstü kurulumda pompanın altına kauçuk bir altlık koymak titreşim sesini azaltır.
+
+### YAZI
+slug: hidroponik-feslegen
+baslik: Hidroponik Fesleğen ve Mutfak Otları: Tezgâhta Sürekli Hasat
+yayin: 2027-01-18 11:25
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: hidroponik fesleğen
+seo_baslik: Hidroponik Fesleğen Yetiştirme: Mutfak Otları Rehberi
+seo_aciklama: Hidroponik fesleğen nasıl yetiştirilir? Işık süresi, çözelti ayarı, uç alma ve hasat sıklığı ile nane, maydanoz ve kekik için tezgâh üstü topraksız düzen.
+ozet: Fesleğen ve diğer mutfak otları, hidroponik düzende tezgâhta yıl boyu yetişir. Çimlendirme, ışık süresi, çözelti ve pH hedefi, uç alma ve hasat sıklığıyla birlikte hangi otların hidroponiğe uyduğunu anlattık.
+etiketler: hidroponik fesleğen, mutfak otları, topraksız tarım, tezgâh bahçesi, uç alma, bitki lambası
+gorsel: bekliyor
+gorsel_alt: Mutfak tezgâhında hidroponik kapta yetişen sık yapraklı fesleğen ve altında bitki lambası
+urunler: kullanima-hazir-cocopeat-torfu, kalin-tarim-perliti
+kisaca: Hidroponik fesleğen, tohumdan çıkan fidenin kokopit ve perlit karışımında ya da doğrudan çözeltide yetiştirildiği topraksız düzendir. Günde 12–14 saat ışık, 18–24 derece çözelti sıcaklığı ve pH 5,5–6,5 hedefiyle fesleğen 6–8 haftada ilk hasada gelir; üstten uç alarak yıl boyu tezgâhta sürekli yaprak verir.
+@govde
+Fesleğen, topraksız yetiştirmenin en rahat çalıştığı bitkilerden biridir: hızlı büyür, az yer kaplar ve düzenli hasat ister. Hidroponik fesleğen, mutfağın tezgâhında kış boyu taze yaprak vermek için en uygulanabilir düzenlerden biridir. Aşağıda tohumdan hasada kadar adımları, çözelti ve ışık hedeflerini ve diğer mutfak otlarıyla birlikte yetiştirme kurallarını bulacaksınız.
+
+Tennessee ve Florida üniversitelerinin hidroponik rehberine göre marulun ardından en yaygın yetiştirilen yapraklı bitki fesleğendir; bunun nedeni hızlı büyümesi ve küçük kök yapısıdır ([UT/UF hidroponik yetiştirme rehberi](https://uthort.tennessee.edu/wp-content/uploads/sites/228/2023/11/W844-B.pdf)).
+
+## Hidroponik fesleğen için doğru sistem hangisi?
+
+Fesleğenin kökü sığ ve yoğundur; çözeltiyle sürekli temas ister ama boğulmayı sevmez. Bu yüzden iki sistem öne çıkar: pompasız [Kratky yöntemi](/kratky-yontemi) ve zamanlayıcılı [gelgit sistemi](/gelgit-sistemi-topraksiz-yetistirme). Pompa ve elektrik istemeyen, tek kaplı çözüm için [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) de uygundur; fesleğen az su tükettiği için fitil yeterince çözelti taşır.
+
+Fesleğeni toprakta yetiştiriyorsanız ışık, sulama ve budama ihtiyaçları aynıdır; [saksıda fesleğen yetiştirme](/saksida-feslegen-yetistirme) rehberinden temel bilgileri alabilirsiniz. Topraksız düzende fark, besinin çözeltiyle verilmesidir.
+
+| Sistem | Elektrik | Fesleğen için uygunluk | Başlangıç düzeyi |
+|---|---|---|---|
+| Kratky (tek kap) | Gerekmez | Çok uygun, 1–2 bitkilik tezgâh kabı | Kolay |
+| Fitilli sistem | Gerekmez | Uygun, ortam ve fitil gerekir | Kolay |
+| Gelgit sistemi | Pompa ve zamanlayıcı | Uygun, çok bitkili masa düzeni | Orta |
+
+## Hedef değerler: ışık, sıcaklık ve çözelti
+
+| Değer | Hedef | Neden önemli? |
+|---|---|---|
+| Işık süresi | Günde 12–14 saat | Kısa gün çiçeklenmeyi ve acılaşmayı hızlandırır |
+| Çözelti sıcaklığı | 18–24 derece | Sıcak çözelti kök çürümesini kolaylaştırır |
+| Çözelti pH | 5,5–6,5 | Besinler bu aralıkta alınabilir |
+| Ortam sıcaklığı | 20–28 derece | 15 derecenin altında büyüme durur |
+| Hasat | Uç alma ile 2–3 haftada bir | Çiçeklenmeyi geciktirir, yaprak sayısını artırır |
+
+Missouri Üniversitesi Extension rehberi, çoğu hidroponik bitki için çözelti pH değerinin 5,5–6,5 aralığında tutulmasını önerir ([Missouri Extension hidroponik rehberi](https://extension.missouri.edu/publications/g6984)). Fesleğen üzerine yapılan Ohio State çalışmasında bitkinin geniş bir pH aralığında büyüyebildiği görülmüştür ([Ohio State fesleğen pH çalışması](https://kb.osu.edu/items/db44d848-fa33-49db-8396-6aeeb6a3ec2f)); yine de ev ölçeğinde 5,5–6,5 hedefi güvenli ve yeterlidir. Çözelti asitliğinin ne anlama geldiğini [toprak pH değeri](/toprak-ph-nedir) yazısındaki mantıkla düşünebilirsiniz.
+
+Bitki lambası için sabit ışık süresi önemlidir. Priz zamanlayıcısı kullanıp lambayı her gün aynı saatte açıp kapatın. Fesleğen yeterli ışık almazsa boy uzar, yapraklar küçük ve soluk kalır; ışık düzeni için [fide aydınlatması](/fide-aydinlatmasi) yazısındaki mesafe ve süre ilkeleri fesleğen için de geçerlidir.
+
+## Tohumdan fideye: çimlendirme
+
+Fesleğen tohumu küçüktür ve ışıkla çimlenir; üzerini kalın bir ortamla örtmeyin. Nemli kokopit ya da çimlendirme küpüne tohumu yüzeye serin, ince bir tabaka hâlinde örtüp ılık (22–25 derece) bir yerde tutun. 5–10 gün içinde çimlenir. Küplerle çimlendirme adımlarını [hidroponik fide küpü](/hidroponik-fide-kupu) yazısında ayrıca anlatıyoruz.
+
+İki gerçek yaprak çıktığında fideyi hidroponik sisteme taşıyın. Kökler ortamdan geçmişse fidenin ortamla birlikte sisteme yerleştirilmesi köke zarar vermez.
+
+::: adimlar
+Tohumu serin | Nemli ortamın yüzeyine ince bir tabaka hâlinde serin, üzerini yalnızca incecik örtün.
+Işık ve sıcaklık verin | 22–25 derece ve günde 14 saat ışıkla 5–10 gün bekleyin; ortam hep nemli kalsın.
+Çözeltiyi hazırlayın | Fideler iki gerçek yaprak açtığında çözeltiyi hazırlayın; fide dönemi için etiketteki en düşük oranı kullanın.
+Fideyi taşıyın | Fideleri ortamıyla birlikte sistem kabına yerleştirin; kök boğazını çözeltiye batırmayın.
+Işık düzenini sabitleyin | Lambayı fideden 15–20 cm yukarıda tutup zamanlayıcıyla 14 saat açın.
+:::
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+## Besin çözeltisi: ne kadar, ne sıklıkla?
+
+Fesleğen yaprağı için yetiştirilir; bu yüzden azotça zengin ama hafif bir çözelti yeterlidir. Hidroponik besin ürünlerinin etiketi, karışım oranını verir; fesleğende çoğunlukla en düşük orana yakın bir yoğunluk iyi sonuç verir. Çözelti çok koyu olursa yaprak kenarları kurur, çok seyrek olursa alt yapraklar sararır.
+
+Haznenin seviyesi düştükçe saf suyla tamamlayın; çözeltiyi iki üç haftada bir tamamen yenileyin. Çözeltiyi her yenilediğinizde hazneyi durulamak yosun ve biyofilm oluşumunu keser; temizlik adımları için [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısına bakın. Sıcak çözelti köklerin çürümesine yol açar; belirtileri ve ilk müdahaleyi [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısında anlattık.
+
+## Uç alma ve hasat: yaprak sayısını artırmanın yolu
+
+Hidroponik fesleğen hızlı büyüdüğü için ilk hasadı 6–8 haftada yapabilirsiniz. Hasatta yaprakları tek tek koparmayın: gövdenin üst kısmını, yaprak çiftinin hemen üstünden kesin. Bu işleme uç alma denir ve her kesimde iki yeni dal çıkar. Teknik ve doğru kesim noktası için [uç alma](/uc-alma) yazısına bakabilirsiniz.
+
+Çiçek tomurcuğu görünce hemen koparın. Çiçeklenen fesleğen yapraktan çok tohuma enerji harcar ve yapraklar acılaşır. İki haftada bir bitkinin üçte birinden fazlasını kesmeyin; bitki her kesimden sonra birkaç gün toparlanmaya ihtiyaç duyar.
+
+## Fesleğenin yanında hangi mutfak otları yetişir?
+
+Aynı sistemde farklı bitkiler yetiştirmek istiyorsanız su tüketimleri ve pH ihtiyaçları benzer olan otları seçin. Fesleğen, nane, maydanoz, dereotu ve frenk soğanı hidroponikte iyi sonuç verir.
+
+- **Nane:** Çok hızlı yayılır; ayrı bir kapta yetiştirin, yoksa kökleriyle sistemi doldurur.
+- **Maydanoz:** Çimlenmesi 3–4 hafta sürer; fide almak daha pratiktir. Daha serin bir ortamı sever.
+- **Dereotu:** Uzun kök yapar; derin kaplarda ve kaba ortamda iyi çalışır.
+- **Kekik ve biberiye:** Az su ister, hidroponikte çürümeye yatkındır; fitilli sistemde daha dengeli gider.
+
+Aromatik bitkilerin beslenmesi hakkında toprakta kullanılan ilkeleri [aromatik bitki gübreleme](/aromatik-bitki-gubreleme) yazısında anlattık.
+
+## Sık karşılaşılan sorunlar
+
+- **Alt yapraklar sarardı:** Azot eksikliği ya da çözelti seyrelmesi olabilir. Çözeltiyi yenileyin ve pH'ı ölçün.
+- **Yapraklar kıvrıldı ya da kenarları yandı:** Çözelti çok yoğun ya da ışık çok yakın olabilir.
+- **Kökler kahverengileşti:** Çözelti çok sıcak ya da havasızdır. Hazneyi serin tutun ve çözeltiyi yenileyin.
+- **Bitki uzadı, yapraklar küçük:** Işık yetersizdir; lambayı yaklaştırın ya da süreyi artırın.
+
+[ürün:kalin-tarim-perliti]
+
+## Hasat sonrası: tezgâhta saklama ve kullanım
+
+Hidroponik fesleğenin yaprağı toprakta yetişene göre yumuşaktır ve kesildikten sonra çabuk solar. Mutfakta en iyi uygulama, ihtiyacınız kadar dalı hasattan hemen önce kesmektir. Kesilen dalı buzdolabına koymayın; fesleğen soğukta kararır. Bir bardak suya dik koyup oda sıcaklığında tutmak birkaç gün tazeliği korur. Fazla hasadı kurutmak isterseniz [güneşte kurutma tezgâhı](/kurutma-tezgahi) yazısındaki mantık otlar için de geçerlidir.
+
+Hidroponiğin genel çerçevesi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ortam ya da ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Hidroponik fesleğen kaç haftada hasat edilir?
+C: Tohumdan çıkan fesleğen genellikle 6–8 haftada ilk hasada gelir. Fide ile başlarsanız bu süre 3–4 haftaya iner; uç alarak hasat ettikçe bitki yeni dallar çıkarır.
+
+S: Hidroponik fesleğen için günde kaç saat ışık gerekir?
+C: Günde 12–14 saat ışık gerekir. Pencere ışığı kışın yetmezse bitki lambası kullanılır ve lamba priz zamanlayıcısıyla her gün aynı saatte açılıp kapatılır.
+
+S: Fesleğenin çözeltisi ne kadar sürede değiştirilir?
+C: Çözelti iki üç haftada bir tamamen değiştirilir. Seviye düştükçe saf su eklenir; bulanıklık, yosun ya da koku görülürse daha erken yenilenir.
+
+S: Hidroponik fesleğen neden acılaşır?
+C: Çiçek tomurcuğu çıktığında, yeterli ışık olmadığında ya da çözelti çok yoğun olduğunda yapraklar acılaşabilir. Tomurcukları koparmak ve düzenli uç almak bunu geciktirir.
+
+### YAZI
+slug: hidroponik-sistem-temizligi
+baslik: Hidroponik Sistem Temizliği: Yosun, Biyofilm ve Tıkanmaya Karşı Bakım
+yayin: 2027-01-18 13:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: hidroponik sistem temizliği
+seo_baslik: Hidroponik Sistem Temizliği: Yosun ve Tıkanma Bakımı
+seo_aciklama: Hidroponik sistem temizliği nasıl yapılır? Yosun, biyofilm ve boru tıkanıklığına karşı çözelti değişimi, ortam yıkama ve ekipman bakımı için adım adım rehber.
+ozet: Hidroponik sistemlerde yosun, biyofilm ve tuz birikmesi kökleri ve boruları tıkar. Temizlik sıklığını, parçaları nasıl söküp yıkayacağınızı, ortamın nasıl durulanacağını ve sistemi temiz tutan alışkanlıkları adım adım anlattık.
+etiketler: hidroponik temizlik, yosun, biyofilm, boru tıkanması, çözelti değişimi, topraksız tarım
+gorsel: bekliyor
+gorsel_alt: Hidroponik sistemin borularının fırçayla temizlendiği ve durulandığı çalışma tezgâhı
+urunler: kalin-tarim-perliti, tarim-perliti
+kisaca: Hidroponik sistem temizliği, çözelti değişiminden ayrı olarak düzenli yapılan bir bakımdır: her çözelti değişiminde hazneyi ve boruları durulayın, ayda bir parçaları sökerek fırçalayın, ortamdaki tuz birikimini saf suyla yıkayın. Işığın sızdığı yerler yosun, boruların içi biyofilm üretir; temizlik bu ikisini kökenlerinden keser.
+@govde
+Hidroponikte toprak yoktur ama kirlilik vardır. Besin çözeltisi hem bitki hem de yosun, bakteri ve mantar için zengin bir ortamdır. Hidroponik sistem temizliği bu yüzden zahmet değil, sistemin ömrüdür: tıkalı bir boru köklerin susuz kalmasına, bulanık bir çözelti ise kök çürümesine yol açar. Aşağıda neyin ne sıklıkla temizleneceğini ve nasıl temizleneceğini sıralıyoruz.
+
+## Hidroponik sistemde kirlilik nereden gelir?
+
+Üç kaynak vardır: yosun, biyofilm ve tuz. Yosun ışıkla beslenir; çözeltiye ya da borulara ışık sızarsa yeşil bir tabaka oluşur. Biyofilm, boruların iç yüzeyinde bakterilerin oluşturduğu ince ve kaygan bir tabakadır; ışık gerektirmez, sıcak ve durgun çözeltide hızla büyür. Tuz ise besin çözeltisindeki mineraller buharlaşıp ortamda ve boru ağızlarında beyaz kabuk bıraktığında oluşur.
+
+Bu üçü birbirini besler. Yosun ölünce bakteri için yem olur, biyofilm borunun çapını daraltır, daralan boru çözeltiyi yavaşlatır ve sıcak durgun su yosun için daha elverişli olur. Temizliğin amacı bu döngüyü başında kırmaktır.
+
+Oklahoma State Üniversitesi Extension'ın sera yosun bilgi notu, yosun görülen tank, damlatıcı ve tabla gibi yüzeylerin her üretim döngüsü arasında sanitize edilmesini ve tankların ışık almayacak biçimde kapatılmasını öneriyor ([Oklahoma State Extension yosun kontrolü](https://extension.okstate.edu/fact-sheets/algae-control-for-greenhouse-production)). Aynı not, su ve sirke karışımının ekipmanı sanitize etmeye yardım ettiğini ama sterilize etmediğini belirtiyor.
+
+## Hidroponik sistem temizliği takvimi
+
+| İş | Sıklık | Nasıl? |
+|---|---|---|
+| Çözelti değişimi | 2–3 haftada bir | Eski çözeltiyi boşaltıp haznenin içini durulayın |
+| Hazne ve boruları fırçalama | Ayda bir | Sökün, yumuşak fırçayla ovun, durulayın |
+| Pompanın girişini temizleme | Ayda bir | Filtreyi çıkarıp akan suda yıkayın |
+| Ortamı yıkama | 2–3 ayda bir ya da beyaz kabuk görüldüğünde | Saf suyla bolca geçirin |
+| Tam dezenfeksiyon | Her ekim bittiğinde | Bütün parçaları söküp temizleyin, sonra iyice durulayın |
+
+Takvimi telefonunuza tekrarlayan bir hatırlatma olarak ekleyin. Hidroponik sistemlerde en sık yapılan temizlik hatası, sorun belirdikten sonra harekete geçmektir.
+
+## Adım adım temizlik
+
+::: adimlar
+Sistemi durdurun | Pompayı prizden çekin, bitkilere zarar vermeden geçici bir kaba taşıyın ve kökleri nemli tutun.
+Çözeltiyi boşaltın | Hazneyi ve boruları boşaltın; eski çözeltiyi bitkisiz bir saksıya ya da bahçe toprağına dökebilirsiniz.
+Parçaları sökün | Boruları, bağlantıları, pompa girişini ve haznenin kapağını ayırın.
+Fırçalayın | Ilık su ve yumuşak bir fırçayla yosun ve biyofilm tabakasını ovun; boruların içi için uzun saplı şişe fırçası kullanın.
+Dezenfekte edin ve durulayın | Gerekirse seyreltilmiş sirkeyle ya da ürün etiketine göre dezenfektanla temizleyip bol suyla en az iki kez durulayın.
+Kurulayıp kurun | Parçaları kurutun, sistemi yeniden kurun ve yeni çözeltiyi hazırlayın.
+:::
+
+Dezenfektan kullanıyorsanız ürün etiketini izleyin ve bitkilere temas ettirmeden önce parçaları iyice durulayın. Kalıntı kökleri yakar. Vermont Üniversitesi'nin hidroponik ve akuaponik işletmeler için temizlik rehberi de önce fiziksel temizliğin (biyofilmin ve kalıntının ovularak giderilmesi), sonra dezenfeksiyonun geldiğini vurgular ([Vermont Üniversitesi temizlik ve sanitasyon rehberi](https://www.uvm.edu/d10-files/documents/2024-06/Cleaning_Sanitizing_Produce_Safety_Hydroponic_Aquaponic_Operations.pdf)). Sıra ters olursa dezenfektan, biyofilmin altına işleyemez.
+
+## Hangi parçayı nasıl temizlemeli?
+
+Her parça aynı yöntemi istemez. Hazne ve kapak düz yüzeydir; ılık su ve süngerle kolayca temizlenir. Borular ve dirsekler ise içlerine ulaşmak için fırça ister. Pompanın giriş filtresi en çabuk tıkanan parçadır: çözeltideki tortu burada birikir ve akış fark edilmeden zayıflar. Hava taşı ve hava hortumu da biyofilm tutar; hortumu ayda bir boşaltıp ılık suyla yıkayın, hava taşı sertleşmiş ya da tıkanmışsa yenisiyle değiştirin.
+
+Damlatıcı ve püskürtücü uçları küçük delikleri nedeniyle tuz kabuğuyla tıkanır. Bu uçları bir kapta seyreltilmiş sirke karışımında bir iki saat bekletip iğneyle deliğini açın ve durulayın. Tarladaki damla sulama hatlarında da aynı mantık işler; hortum seçiminin temizlik ve ömür üzerindeki etkisini [bahçe hortumu seçimi](/bahce-hortumu-secimi) yazısında anlattık.
+
+## Ortamın temizliği
+
+Perlit, kil bilye ve taş yünü gibi inert ortamlar yıllarca kullanılabilir; ama içinde kök kalıntısı, tuz ve organik madde birikir. Ortamı durulamak için bir kovaya doldurup saf suyla birkaç kez geçirin, sonra süzdürün. Kokopit ise tekrar kullanılırsa kokar ve topaklanır; tek ekim sonrası bahçeye karıştırmak daha iyidir.
+
+Perlitin yıkanması ve saklanması için adımları [perlit tekrar kullanılır mı](/perlit-tekrar-kullanilir-mi) yazısında ayrıntılı anlattık. Ortam seçiminin temizlik ihtiyacını nasıl etkilediği için [hidroponik ortamlar](/hidroponik-ortamlar) yazısına bakabilirsiniz.
+
+[ürün:kalin-tarim-perliti]
+
+## Yosunu önlemenin yolları
+
+- **Işığı kesin:** Hazneyi, boruları ve kapakları ışık geçirmeyen malzemeyle örtün. Şeffaf boruları alüminyum folyo ya da koyu bantla sarın.
+- **Çözeltiyi serin tutun:** 24 derecenin üstü yosun ve bakteriyi hızlandırır. Haznenin güneşe bakmasına izin vermeyin.
+- **Çözeltiyi hareket ettirin:** Durgun çözelti biyofilm üretir; pompalı sistemlerde pompa çözeltiyi sürekli karıştırır.
+- **Taşan çözeltiyi hemen silin:** Dışarı taşan çözelti, tuz kabuğu ve küf yapar.
+
+## Temizlik zamanı geldiğini gösteren işaretler
+
+Çözelti bulanıklaşır ya da yeşilimsi bir renk alır; boruların ağzında beyaz kabuk görülür; pompa gürültülü çalışır ve akış zayıflar; kökler kahverengileşir ya da kötü koku gelir. Bu işaretlerden birini gördüğünüzde takvimi beklemeyin; hemen temizlik yapın. Kahverengi ve kokulu kökler için [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısındaki ayrım adımlarına bakın.
+
+Hidroponik sistem temizliği yalnızca yosunla ilgili değildir; çözeltinin pH ve yoğunluğunu da etkiler. Biyofilm çözeltideki besini tüketir ve ölçümleri bozar. Sistemi temiz tutmak, pH değerini 5,5–6,5 aralığında dengede tutmayı da kolaylaştırır. Bu aralık, Missouri Üniversitesi Extension rehberinde çoğu hidroponik bitki için hedef olarak verilmiştir ([Missouri Extension hidroponik rehberi](https://extension.missouri.edu/publications/g6984)).
+
+[ürün:tarim-perliti]
+
+## Bitkiler sistemdeyken nasıl temizlenir?
+
+Her temizlik için bitkiyi sistemden çıkarmak zorunda değilsiniz. Çözelti değişiminde bitkileri yerlerinde bırakıp yalnızca hazneyi boşaltıp durulamak yeterlidir; kökleri bu sırada nemli bir bezle örtmeniz, kuruyup zarar görmesini önler. Boruların içini fırçalamak gibi ağır işleri ekim aralarına, yani bitkiler hasat edildiğinde bırakın.
+
+Hidroponik sistemlerin türleri ve işleyişi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ekipman ve ortam seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Hidroponik sistem ne sıklıkla temizlenir?
+C: Çözelti 2–3 haftada bir değiştirilir ve haznenin içi her değişimde durulanır. Boruların ve pompanın girişi ayda bir sökülüp fırçalanır; ekim bittiğinde bütün sistem tam temizlenir.
+
+S: Hidroponik sistemde yosun nasıl önlenir?
+C: Yosunu önlemenin yolu ışığı kesmektir. Hazneyi ve boruları ışık geçirmeyen malzemeyle örtün, çözeltiyi 24 derecenin altında tutun ve taşan çözeltiyi hemen silin.
+
+S: Hidroponik boruların içi nasıl temizlenir?
+C: Boruları sökün, ılık suyla durulayın ve uzun saplı şişe fırçasıyla içini ovun. Biyofilm yoğunsa seyreltilmiş sirkeyle ıslatın ve bol suyla en az iki kez durulayın.
+
+S: Perlit ya da kil bilye tekrar kullanılabilir mi?
+C: Evet, inert ortamlar yıkanarak tekrar kullanılır. Kovada saf suyla birkaç kez geçirip süzdürmek tuz ve kök kalıntısını uzaklaştırır; kokopit ise bir ekimden sonra bahçeye karıştırılır.
+
+### YAZI
+slug: hidroponikte-kok-curuklugu
+baslik: Hidroponikte Kök Çürüklüğü: Kahverengi Kökler, Nedenleri ve Önlem
+yayin: 2027-01-18 15:05
+yazar: Ahmet Sacit Çelik
+kategori: bitki-bakimi
+odak: hidroponikte kök çürüklüğü
+seo_baslik: Hidroponikte Kök Çürüklüğü: Belirtiler ve Önlem
+seo_aciklama: Hidroponikte kök çürüklüğü neden olur? Kahverengi ve sümüksü kökler, sıcak çözelti, havasızlık, ilk müdahale adımları ve çürümeyi önleyen düzen.
+ozet: Hidroponikte kök çürüklüğü, çoğunlukla sıcak ve havasız çözeltide gelişir. Sağlıklı beyaz köklerle çürüyen kahverengi köklerin farkını, belirtileri, nedenleri, ilk müdahale adımlarını ve önlemenin yollarını anlattık.
+etiketler: hidroponikte kök çürüklüğü, kahverengi kök, çözelti sıcaklığı, oksijen, hidroponik sorunlar, pythium
+gorsel: bekliyor
+gorsel_alt: Hidroponik kapta bitkinin kökleri; yan yana sağlıklı beyaz kökler ve kahverengileşmiş kökler
+urunler: kalin-tarim-perliti, tarim-perliti
+kisaca: Hidroponikte kök çürüklüğü, kökler kahverengileşip sümüksüleşerek kötü koku verdiğinde fark edilir. En sık nedeni 24 dereceyi aşan sıcak çözelti ve köklerin yeterli oksijen almamasıdır. İlk müdahale çözeltiyi yenilemek, çürük kökleri temiz makasla kesmek, hazneyi serin ve havadar tutmaktır; hastalığın türü için il tarım müdürlüğüne danışılmalıdır.
+@govde
+Hidroponikte kökler çözeltiyle iç içe yaşar ve çürüme çoğunlukla hızlı ilerler. Sağlıklı bir kök beyaz ya da açık krem renkli, sert ve kokusuzdur. Kahverengiye dönen, dokunduğunuzda sümüksü bir yapı bırakan ve kötü kokan kökler ise hidroponikte kök çürüklüğünün işaretidir. Çoğu durumda nedeni çözeltinin sıcaklığı ve oksijen miktarıdır; bu iki değeri düzelterek sorunun büyük bölümü çözülür.
+
+Kentucky Üniversitesi'nin sera hidroponik rehberi, çözeltide oksijenin yüksek ve sıcaklığın 20–22 derece (68–72 °F) civarında tutulmasının kök çürüklüğüne yol açan Pythium'un yaşamasını ve bulaşmasını yavaşlattığını, düşük oksijen ve ısınmış kök bölgesinin ise sorunu artırdığını bildirir ([Kentucky Üniversitesi sera hidroponik rehberi](https://greenhousehort.ca.uky.edu/sites/greenhousehort.ca.uky.edu/files/E706.pdf)).
+
+## Hidroponikte kök çürüklüğünü nasıl ayırt edersiniz?
+
+Kök rengi tek başına yeterli kanıt değildir. Bazı besin çözeltileri kökleri sarımsı kahverengiye boyar; boyanmış kök sert ve kokusuzdur. Çürük kök ise yumuşar, dokunduğunuzda dağılır ve çürük bir koku yayar. Bitkinin görünümü de ipucu verir: yapraklar öğle sıcağında solar ama sulandığında toparlanmaz, büyüme durur, alt yapraklar sararır.
+
+| Özellik | Sağlıklı kök | Çürük kök |
+|---|---|---|
+| Renk | Beyaz ya da açık krem | Kahverengi, gri ya da siyah |
+| Doku | Sert ve elastik | Yumuşak, sümüksü, dağılır |
+| Koku | Kokusuz ya da hafif toprak kokusu | Ekşi, bayat ve kötü |
+| Çözelti | Berrak | Bulanık, köpüklü |
+| Bitki | Dik ve canlı | Solgun, büyüme durmuş |
+
+## Nedenleri: çürümeyi kolaylaştıran koşullar
+
+Çürümeyi başlatan çoğunlukla bir mantar benzeri organizmadır (Pythium). Bu organizma su ortamında yaşar ve bitkiye çözeltiyle bulaşır. Ancak sağlıklı bir kök ve temiz çözeltide yerleşmesi zordur; sorun, onu kolaylaştıran koşullardır:
+
+- **Sıcak çözelti:** 24 dereceyi aşan çözeltide çözünmüş oksijen düşer ve organizma çoğalır.
+- **Havasız çözelti:** Durgun çözelti ve pompasız, havalandırmasız sistemlerde kökler boğulur.
+- **Kirli sistem:** Biyofilm ve organik kalıntılar mantara besin sağlar.
+- **Aşırı besin:** Çok yoğun çözelti kök uçlarını yakar ve yaralı bölgeler çürümeyi başlatır.
+- **Işık sızması:** Işık alan kökler yosunla birlikte çürümeye açık hâle gelir.
+
+Sıcaklığın etkisini ve sistemin hava almasını sağlayan düzenleri [gelgit sistemi](/gelgit-sistemi-topraksiz-yetistirme) ve [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) yazılarında karşılaştırdık. Çözeltideki oksijenin neden sıcaklıkla azaldığı basit bir fizik kuralıdır: su ısındıkça çözebildiği gaz miktarı düşer. Yaz aylarında balkonda ya da pencere önünde güneş alan bir hazne bu yüzden kışın sorunsuz çalışan sistemde bile sorun çıkarır.
+
+## İlk müdahale: adım adım
+
+::: adimlar
+Bitkiyi sistemden çıkarın | Köklerin hangi bölgesinin çürüdüğünü görmek için bitkiyi dikkatle çıkarın.
+Çürük kökleri kesin | Dezenfekte ettiğiniz temiz bir makasla kahverengi ve yumuşak kökleri sağlam dokuya kadar kesin.
+Kökleri durulayın | Köklerin yumuşak kısmını ılık suyla yıkayıp sümüksü tabakayı temizleyin.
+Çözeltiyi yenileyin | Eski çözeltiyi tamamen boşaltın, hazneyi ve boruları temizleyin, serin ve temiz çözelti hazırlayın.
+Havalandırmayı artırın | Hava taşı ya da pompa ekleyin; çözeltiyi 18–22 dereceye indirin ve ışığın sızmadığını kontrol edin.
+:::
+
+Müdahaleden sonra bitkiyi birkaç gün gözlemleyin. Yeni beyaz kök uçları görmeye başlarsanız bitki toparlanıyordur. Kök sistemi büyük ölçüde çürümüşse bitkiyi yenilemek, kalan kökleri kurtarmaktan daha sağlıklıdır.
+
+[ürün:kalin-tarim-perliti]
+
+## Çürümeyi önleyen düzen
+
+Kök çürüklüğünde tedavi zordur, önlem ise basittir. Çözeltiyi 18–22 derecede tutun; yazın haznenin güneş almasını engelleyin. Hava taşı ya da pompa ile çözeltiyi oksijenlendirin. Hazneyi ve boruları ışıktan koruyun. Sistemi düzenli temizleyin; biyofilm ve yosun oluşturan koşulları [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısında anlattık.
+
+Ortam seçimi de önemlidir. Suyu çok tutan ortam köklerin havasız kalmasına yol açar; perlit gibi havalandıran ortamlar bu riski azaltır. Karşılaştırma için [hidroponik ortamlar](/hidroponik-ortamlar) yazısına bakabilirsiniz.
+
+| Önlem | Neden işe yarar? | Nasıl uygulanır? |
+|---|---|---|
+| Çözeltiyi serin tutmak | Oksijen artar, mantar yavaşlar | Hazneyi gölgeye alın, yazın yalıtın |
+| Havalandırma | Kökler boğulmaz | Hava taşı, pompa ya da gelgit döngüsü |
+| Temizlik | Biyofilm besin olmaktan çıkar | Çözelti değişiminde hazneyi durulayın |
+| Doğru yoğunluk | Kök uçları yanmaz | Etiketteki orandan fazlasını kullanmayın |
+| Işıktan korunma | Yosun ve kök zararı azalır | Opak hazne, kapalı borular |
+
+[ürün:tarim-perliti]
+
+## Hidroponikte kök çürüklüğü hangi sistemlerde daha sık görülür?
+
+Çürüme, çözeltinin durgun ve ısınmaya açık olduğu düzenlerde daha sık çıkar. Kökleri sürekli suda duran tek kaplı sistemlerde hava boşluğu bırakmak şarttır: Kratky kabında çözelti seviyesi düştükçe köklerin üst yarısı havada kalmalıdır; kap yeniden tepeye kadar doldurulursa kökler boğulur. Gelgit sisteminde ise tablanın boşalmaması, yani taşma borusunun tıkanması ya da pompanın gece de çalışması aynı sonucu doğurur. Fitilli sistemde sorun genellikle fazla sıkıştırılmış ortamdan gelir. Sistem ne olursa olsun kökün bir bölümü her zaman havayla temas etmelidir.
+
+## Kök çürüklüğünden sonra neye dikkat edilir?
+
+Çürüyen bitkinin çözeltisini bir sonraki bitkiye aktarmayın. Hazneyi ve parçaları temizlemeden yeni fide koymak, hastalığı yeniden başlatmanın en kısa yoludur. Çürüme bir sistemde birden çok bitkide görülüyorsa sorun bitkide değil sistemdedir: sıcaklık, havalandırma ya da temizlik düzeni gözden geçirilmelidir. Tek bir bitkide görülüyorsa o bitkiyi ayırıp sistemin kalanını izlemek yeterlidir.
+
+Kökleri izlemek için haftada bir, ışığa tutulabilen bir kökü kontrol edin. Köklerin rengini ve kokusunu deftere yazmak, sorunun hangi koşulda başladığını geriye dönük görmenizi sağlar. Hidroponikte erken uyarı alışkanlığı, çoğu sorunu daha başlamadan çözer.
+
+## Mantarla mücadele ürünleri gerekir mi?
+
+Hidroponik sistemlerde çözeltiye mantar önleyici ürün eklemek çoğu zaman gereksizdir ve yanlış ürün kökleri yakar. Önlem, sıcaklık, oksijen ve temizlik düzenidir. Hastalık yayılıyorsa ya da kökün neden çürüdüğünü anlayamıyorsanız yerel il ya da ilçe tarım müdürlüğüne ve bir ziraat mühendisine başvurun. İlaç adı ve dozu konusunda yetkili kaynak onlardır.
+
+Bitki sağlığı ve bitki hastalıkları hakkında genel bilgi için [Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr) sayfalarına bakabilirsiniz. Ekipman ve ortam seçimi konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Hidroponikte kök çürüklüğü nasıl anlaşılır?
+C: Kökler kahverengi ya da gri olur, dokunulduğunda yumuşar ve kötü koku yayar. Çözelti bulanıklaşır, bitki öğle sıcağında solar ve sulandıktan sonra toparlanmaz.
+
+S: Kahverengi kök her zaman çürük müdür?
+C: Hayır. Bazı besin çözeltileri kökleri açık kahverengiye boyar; boyanmış kök sert ve kokusuzdur. Çürük kök yumuşak, sümüksü ve kokuludur.
+
+S: Çözelti sıcaklığı kaç derece olmalı?
+C: Çoğu bitki için çözeltinin 18–22 derecede kalması hedeflenir. 24 dereceyi aşan sıcaklık çözünmüş oksijeni azaltır ve kök çürümesine yol açan organizmaların çoğalmasını kolaylaştırır.
+
+S: Çürüyen kök toparlar mı?
+C: Çürüme erken yakalanırsa toparlanabilir: çürük kökleri kesin, çözeltiyi yenileyin ve oksijeni artırın. Kök sisteminin büyük bölümü çürümüşse bitkiyi yenilemek daha güvenlidir.
+
+### YAZI
+slug: hidroponik-fide-kupu
+baslik: Hidroponik Fide Küpü: Cocopeat, Sünger ve Taş Yünü ile Çimlendirme
+yayin: 2027-01-18 17:20
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: hidroponik fide küpü
+seo_baslik: Hidroponik Fide Küpü: Çimlendirme ve Ortam Seçimi
+seo_aciklama: Hidroponik fide küpü nedir? Cocopeat, sünger ve taş yünü küplerde tohum çimlendirme, nem ve ışık ayarı, pH hazırlığı ve fideyi sisteme taşıma adımları.
+ozet: Hidroponik fide küpü, tohumun çimlendiği ve fidenin sisteme taşınana kadar büyüdüğü küçük ortam bloğudur. Cocopeat, sünger ve taş yünü seçeneklerini, çimlendirme adımlarını, nem ve ışık ayarını ve fideyi sisteme taşıma zamanını anlattık.
+etiketler: hidroponik fide küpü, çimlendirme küpü, taş yünü, cocopeat, sünger, fide
+gorsel: bekliyor
+gorsel_alt: Plastik tepsiye dizilmiş küp ortamlarda yeni çıkmış minik marul ve fesleğen fideleri
+urunler: kullanima-hazir-cocopeat-torfu, hindistan-cevizi-torfu-tablet-cocopeat-12-adet
+kisaca: Hidroponik fide küpü, tohumun çimlenmesi için nemli ve havalı kalan küçük bir ortam bloğudur; cocopeat, sünger ya da taş yününden yapılır. Tohum küpün üstündeki oyuğa konur, ılık ve nemli bir yerde 3–10 günde çimlenir. İki gerçek yaprak açan fide, küpüyle birlikte hidroponik sisteme taşınır.
+@govde
+Tohumu doğrudan hidroponik sisteme ekmek çoğu zaman başarısız olur: çözelti tohumu boğar ya da tohum sistemden akar gider. Hidroponik fide küpü bu sorunu çözer; tohum küçük bir ortam bloğunda çimlenir, kök bloğu doldurur ve fide küpüyle birlikte sisteme taşınır. Kök, taşıma sırasında hiç incinmez. Bu yazıda üç küp tipini karşılaştırıp çimlendirme adımlarını sıralıyoruz.
+
+## Hidroponik fide küpü seçenekleri
+
+| Malzeme | Güçlü yanı | Dikkat edilecek nokta |
+|---|---|---|
+| Cocopeat küp ya da tablet | Doğal, kök bölgesi iyi havalanır, pH'ı nötre yakındır | Tuz içeriği olabilir, yıkamak gerekir |
+| Sünger (yapay sünger) | Kolay bulunur, suyu iyi tutar | Havalanması zayıftır, fazla su kökleri boğar |
+| Taş yünü | Su ve hava dengesi iyidir, endüstriyel üretimde yaygındır | pH'ı yüksektir, kullanmadan önce asitli suda bekletmek gerekir |
+| Kil bilye ve perlit karışımı | İnert, tekrar kullanılabilir | Tohumu tutmak zordur, küçük tohumlarda zor kullanılır |
+
+Evde başlayanlar için cocopeat küp ya da tablet en kolay seçenektir. Kuru tablet su çekince birkaç kat büyür; ortam hazırdır. Kokopitin özelliklerini ve neden yıkanması gerektiğini [cocopeat yıkama](/cocopeat-yikama) yazısında anlattık. Kokopit ile perlit arasındaki oran seçimi için [kokopit perlit karışımı](/kokopit-perlit-karisimi) yazısı da yol gösterir.
+
+Tennessee ve Florida üniversitelerinin hidroponik rehberi, taş yünü, perlit, vermikülit ve kokopit gibi ortamların hepsinin fide üretiminde kullanılabildiğini; seçimde ortamın suyu tutma ve havalanma dengesinin belirleyici olduğunu belirtir ([UT/UF hidroponik yetiştirme rehberi](https://uthort.tennessee.edu/wp-content/uploads/sites/228/2023/11/W844-B.pdf)).
+
+[ürün:hindistan-cevizi-torfu-tablet-cocopeat-12-adet]
+
+## Hidroponik fide küpü hazırlığı
+
+Küpleri kullanmadan önce hazırlayın. Cocopeat tabletleri ılık suda bekletin ve tamamen şişmesini bekleyin; fazla suyu hafifçe sıkın. Taş yünü küplerini pH'ı 5,5 civarına ayarlanmış suda yarım saat bekletin; taş yünü doğal olarak bazik karakterlidir ve hazırlanmadan kullanılırsa tohum çimlenmez. Sünger küpleri ise suyla doyurun ve fazlasını sıkın.
+
+Tohumu küpün üstündeki oyuğa koyun. Çok küçük tohumları (fesleğen, marul) oyuğa bırakıp üzerini incecik örtmek yeterlidir; büyük tohumları (fasulye, kabak) oyuğa derin itin. Ekim derinliği tohumun boyunun yaklaşık iki katıdır; farklı tohumlar için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) işinize yarar.
+
+## Adım adım çimlendirme
+
+::: adimlar
+Küpleri tepsiye dizin | Küpleri alt tarafı kapalı, kenarları yüksek bir tepsiye yan yana dizin ve tepsinin dibine 1 cm su koyun.
+Tohumları yerleştirin | Her küpün oyuğuna 1–2 tohum koyun; çok küçük tohumları ince örtün.
+Nemi koruyun | Tepsiyi şeffaf bir kapakla ya da streç filmle örtün; kapağın altındaki nem çimlenmeyi hızlandırır.
+Sıcak bir yerde bekletin | 22–25 derecede tutun; çoğu sebze ve ot 3–10 günde çimlenir.
+Filiz çıkınca ışığa alın | Filizler görününce kapağı açıp tepsiyi güçlü ışığa alın; ışık yetersizse fide boyunu uzatır.
+:::
+
+Fide boyu uzuyorsa ışık yetersizdir. Işığın mesafesi ve süresi için [fide aydınlatması](/fide-aydinlatmasi) yazısını inceleyin. Ev ortamında fide yetiştirmenin genel adımları için [evde fide yetiştirme](/evde-fide-yetistirme) rehberi de işinize yarar.
+
+## Nem ve besin: fide küpünde sulama
+
+Küp hiçbir zaman tamamen kurumamalı ama su içinde de durmamalıdır. Tepsinin dibindeki suyu 1 cm civarında tutun; küpler suyu alttan çeker. Üstten sulamak tohumu yerinden oynatır. İlk gerçek yaprak çıkana kadar yalnızca saf su kullanın; sonra çok seyreltik bir besin çözeltisi ekleyin. Besin yoğunluğunu etiketteki oranın yarısıyla başlayın ve fide güçlendikçe artırın.
+
+Küpün alt tarafından beyaz köklerin dışarı çıktığını gördüğünüzde fide sisteme taşınmaya hazırdır. Bu genellikle ilk iki gerçek yaprak çıktıktan 1–2 hafta sonra olur.
+
+## Fideyi hidroponik sisteme taşımak
+
+Küpün tamamını, kökleri bozmadan sistemin ağ saksısına yerleştirin. Küpün köklerin geçtiği alt kısmı çözeltiyle temas etmelidir ama üst kısmı kuru kalmalıdır; böylece gövde çürümez. Sistem türüne göre küpün çevresini kil bilye ya da perlitle sabitleyin. [Fitilli hidroponik sistem](/fitilli-hidroponik-sistem) için küp doğrudan ortamın içine, [gelgit sistemi](/gelgit-sistemi-topraksiz-yetistirme) için ise kil bilye ile sabitlenmiş ağ saksıya yerleştirilir.
+
+| Sistem | Küp nasıl yerleştirilir? | Dikkat |
+|---|---|---|
+| Kratky (tek kap) | Küp ağ saksıda, alt ucu çözeltiye yakın | Üst yüzey kuru kalsın |
+| Fitilli sistem | Küp ortamın içine gömülür | Fitil ortamla temas etsin |
+| Gelgit sistemi | Kil bilyeyle sabitlenmiş ağ saksıda | Dolumda küpün üstü ıslanmasın |
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+## Küp seçerken neye bakılır?
+
+Küp boyutu bitkiye göre seçilir. Marul, roka ve fesleğen gibi kısa ömürlü yeşilliklerde 2–2,5 cm'lik küçük küp yeter; biber, domates gibi uzun süre fide kalacak bitkilerde 4–5 cm'lik daha büyük küp kökü uzun süre taşır. Küçük küpte kök erken doldurur ve fide sıkışır; fideyi zamanında sisteme taşımak bu yüzden daha da önemlidir.
+
+Küpün oyuğu tohumun boyuna uymalıdır. Çok geniş oyuğa konan küçük tohum, sulama sırasında dibe kayar ve çimlenme eşit olmaz. Çok dar oyuğa zorla sokulan tohum ise ezilir. Pelet hâlinde satılan tohumlar küp ortamında kolay tutunur; yine de çıplak tohumla yapılan çimlendirme, düzenli nem ve ısıyla aynı başarıyı verir.
+
+Çimlendirme tepsisini küpler arasında hava dolaşacak biçimde, aralıklı dizin. Birbirine tamamen yapışık küplerde nem fazla kalır; küf ve fide çökmesi (damping-off) kolaylaşır. Küpün yüzeyinde beyaz küf görürseniz tepsinin kapağını açıp havalandırın, yüzeyi kuru bir kâğıtla silin ve sulamayı azaltın.
+
+## Çimlenmeme nedenleri
+
+Küplerde tohum çimlenmiyorsa üç ana neden vardır: küp fazla ıslak olduğu için tohum çürümüştür; ortam soğuk olduğu için tohum uyku hâlinde kalmıştır ya da tohum eskidir. Taş yünü kullanıyorsanız pH hazırlığını atlamış olabilirsiniz. Tohum çimlenme süresi bitkiye göre değişir: marul 2–4 gün, fesleğen 5–10 gün, maydanoz 14–28 gün sürebilir.
+
+Tohumun canlı olup olmadığından emin değilseniz küplere ekmeden önce [tohum çimlenme testi](/tohum-cimlenme-testi) yapabilirsiniz; bu test hem zaman hem tohum kazandırır. Sorunun nedeni anlaşılmıyorsa [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazısındaki on nedeni sırayla eleyin.
+
+Genel çimlendirme bilgisi için [Vikipedi çimlenme maddesine](https://tr.wikipedia.org/wiki/%C3%87imlenme) bakabilirsiniz. Ortam ve ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Hidroponik fide küpü nedir?
+C: Tohumun çimlendiği ve fidenin büyüdüğü küçük ortam bloğudur. Cocopeat, sünger ya da taş yününden yapılır; fide küpüyle birlikte sisteme taşındığı için kök incinmez.
+
+S: Taş yünü küpü neden asitli suda bekletilir?
+C: Taş yününün pH değeri doğal olarak yüksektir. Hazırlanmadan kullanılırsa tohum çimlenmez; pH 5,5 civarındaki suda yarım saat bekletmek ortamı bitkiye uygun hâle getirir.
+
+S: Fide küpünde tohum kaç günde çimlenir?
+C: Marul 2–4 günde, fesleğen 5–10 günde, maydanoz ise 2–4 haftada çimlenir. Ortam sıcaklığı 22–25 derecede ve küp nemli tutulursa süre kısalır.
+
+S: Fide ne zaman hidroponik sisteme taşınır?
+C: İlk iki gerçek yaprak çıktığında ve küpün altından beyaz kökler görüldüğünde taşınır. Bu genellikle ekimden 2–3 hafta sonradır.
+
+### YAZI
+slug: yariyil-tatilinde-bitki-etkinligi
+baslik: Yarıyıl Tatilinde Bitki Etkinliği: Çocuklarla 7 Deney ve Oyun
+yayin: 2027-01-18 19:50
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: yarıyıl tatilinde bitki etkinliği
+seo_baslik: Yarıyıl Tatilinde Bitki Etkinliği: 7 Çocuk Deneyi
+seo_aciklama: Yarıyıl tatilinde bitki etkinliği arıyorsanız: fasulye çimlendirme, suda sebze kökü, mini sera, tohum karşılaştırması gibi 7 evde yapılabilir çocuk deneyi.
+ozet: Yarıyıl tatilinde çocuklarla evde yapılabilecek 7 bitki etkinliğini; gerekli malzemeyi, adımları, kaç günde sonuç alınacağını ve çocuğa sorulacak merak sorularını bir arada topladık. Hepsi pencere önünde ve günlük malzemeyle yapılır.
+etiketler: yarıyıl tatili, çocuk etkinliği, bitki deneyi, fasulye çimlendirme, mini sera, çocukla bahçe
+gorsel: bekliyor
+gorsel_alt: Pencere kenarında yan yana dizilmiş şeffaf bardaklarda fasulye çimlenmesini izleyen çocuk elleri
+urunler: hg-premium-fide-topragi, arzuman-simbo-oturak-fasulye-tohumu-50-gr
+kisaca: Yarıyıl tatilinde bitki etkinliği için en uygun 7 deney şunlardır: pamukta fasulye çimlendirme, bardakta tohum karşılaştırma, suda sebze kökü uzatma, mini sera yapma, çim kafa yetiştirme, çelik köklendirme ve bitkinin ışığa dönüşünü izleme. Hepsi evde, pencere önünde ve birkaç günlük sonuçla yapılır.
+@govde
+Yarıyıl tatili çocuklar için uzun, bahçe için ise sessiz bir dönemdir. Bitkiler dışarıda uykuda olsa da, evde pencere önünde tohum çimlenir, kök uzar, yaprak ışığa döner. Yarıyıl tatilinde bitki etkinliği, çocuğa canlıyı izlemeyi ve sabırla beklemeyi öğretir. Aşağıdaki yedi etkinlik günlük malzemeyle yapılır, kısa sürede sonuç verir ve çocuğun kendi eliyle yaptığı bir gözlem defterine dönüşür.
+
+Bahçe ve bitkilerle çocuklara yönelik etkinlikler yalnızca eğlence değildir. Kraliyet Bahçecilik Derneği (RHS), okullar ve aileler için tohum ekme, çimlendirme gözlemi ve bitki yaşam döngüsü etkinliklerini çocukların doğa bilgisini geliştiren çalışmalar olarak sunar ([RHS Campaign for School Gardening](https://schoolgardening.rhs.org.uk/)).
+
+## Etkinliklere başlamadan önce
+
+Her deneye bir gözlem defteri ekleyin. Çocuk günlük ne gördüğünü çizer ya da bir cümleyle yazar. Küçük yaşlarda renkli kalemle çizim, büyüklerde ölçüm (santimetre cinsinden boy) tutulur. Defter hem sabrı hem de dikkatli bakmayı öğretir.
+
+Tohum ve küçük malzemeler çocuklar için yutma riski taşır. Yaşı küçük çocuklarla etkinlikleri yetişkin gözetiminde yapın ve çimlenen bitkileri yemeden önce temiz olduklarından emin olun. Çocuğunuzun alerjisi varsa tohum ve polen konusunda hekiminize danışın.
+
+## Yarıyıl tatilinde bitki etkinliği: 7 deneye genel bakış
+
+| Etkinlik | Süre | Malzeme | Çocuğa sorulacak soru |
+|---|---|---|---|
+| Pamukta fasulye çimlendirme | 5–7 gün | Pamuk, bardak, fasulye | Kök önce mi çıkar, yaprak mı? |
+| Bardakta tohum karşılaştırma | 7–10 gün | 3 bardak, farklı tohumlar | Hangisi daha hızlı çıktı? |
+| Suda sebze kökü uzatma | 5–10 gün | Havuç ya da pırasa dibi, su | Su azalırsa ne olur? |
+| Mini sera yapma | 7–14 gün | Şeffaf kap, toprak, tohum | Kapak olunca neden nemli kalır? |
+| Çim kafa | 7–10 gün | Eski çorap, toprak, çim tohumu | Saçı kaç günde çıktı? |
+| Çelik köklendirme | 2–4 hafta | Bardak, su, kesilmiş dal | Kök ilk ne zaman göründü? |
+| Işığa dönüş gözlemi | 3–5 gün | Fide, kutu, ışık | Bitki hangi tarafa döndü? |
+
+Etkinlikleri sırayla yapmak zorunda değilsiniz. Tatilin ilk gününde süresi uzun olanları (çelik köklendirme, mini sera) başlatın; kısa olanları araya serpiştirin. Böylece çocuk her gün bakacak yeni bir şey bulur.
+
+## 1. Pamukta fasulye çimlendirme
+
+Şeffaf bir bardağın içini nemli pamukla doldurun, cam ile pamuk arasına birkaç fasulye tanesi yerleştirin ve bardağı pencere kenarına koyun. Pamuğu her gün nemli tutun. Üç dört gün içinde kök, ardından gövde çıkar ve cam tarafından kökün büyümesi kolayca izlenir. Çocuğa kökün aşağı, gövdenin yukarı yöneldiğini gösterin.
+
+Çimlenen fasulyeyi daha sonra toprağa dikebilirsiniz; fidenin saksıya taşınması için [fide şaşırtma](/fide-sasirtma) yazısına bakın. Kavanozda filiz yetiştirip yemek isterseniz [evde filiz çimlendirme](/evde-filiz-cimlendirme) rehberi doğru ve hijyenik yöntemi anlatır.
+
+## 2. Bardakta tohum karşılaştırma
+
+Üç bardağa aynı miktarda nemli pamuk ya da toprak koyun. Her birine farklı bir tohum (fasulye, nohut, çim ya da roka) ekleyin. Hangisinin ilk çıktığını ve hangisinin hızlı büyüdüğünü kaydedin. Çocuk tohumların boyutu ile çimlenme hızının ilişkili olup olmadığını kendi gözlemiyle öğrenir. Bardaklara etiket yazıp aynı pencereye koymak, karşılaştırmanın adil olmasını sağlar: ışık ve sıcaklık hepsinde aynı olmalıdır.
+
+## 3. Suda sebze kökü uzatma
+
+Havuç başı ya da pırasa dibini kesip sığ bir kabın içinde suya oturtun. Birkaç gün içinde yeşil yapraklar ve kökler çıkar. Su seviyesini koruyun ve iki günde bir değiştirin. Bu etkinlik, bitkinin toprak olmadan da bir süre yaşayabildiğini gösterir. Suda yaşayan bitkiler için topraksız yetiştirme mantığını [Kratky yöntemi](/kratky-yontemi) yazısında anlattık.
+
+::: adimlar
+Sebzeyi hazırlayın | Havuç başını ya da pırasa dibini bir parmak yüksekliğinde kesin.
+Kaba yerleştirin | Kesik yüzeyi aşağıda olacak biçimde sığ bir kaba koyup yarısına kadar su doldurun.
+Işığa alın | Kabı aydınlık bir pencereye koyup suyu iki günde bir yenileyin.
+Gözlemleyin | Yeni yaprak ve kökün çıkış gününü deftere yazın.
+:::
+
+## 4. Mini sera yapma
+
+Şeffaf bir kutunun ya da kavanozun içine toprak koyun, tohum ekin ve kapağını kapatın. Kapağın altında nem birikir, tohum hızlı çimlenir ve çocuk yağmur döngüsünü gözlemleyebilir. Kapağı günde bir kez açıp havalandırın. Evde fide ortamının nasıl kurulduğunu [evde fide yetiştirme](/evde-fide-yetistirme) rehberinde anlattık. Hafif ve süzek bir toprak için hazır fide toprağı kullanabilirsiniz.
+
+[ürün:hg-premium-fide-topragi]
+
+## 5. Çim kafa
+
+Eski bir çorabın içine bir avuç çim tohumu, üzerine toprak doldurup ucunu bağlayın. Çorabı bir kaba yüz tarafı yukarı gelecek biçimde oturtun ve gözlere biçim verin. Suladığınızda bir hafta içinde yeşil saçlar çıkar. Çocuk bitkinin saç gibi büyüdüğünü ve biçildikten sonra yeniden uzadığını görür. Saçı makasla "kuaförde" kısaltmak çocuklar için en eğlenceli aşamadır.
+
+## 6. Çelik köklendirme
+
+Bir salon bitkisinin (pothos, sarmaşık) bir dalını makasla kesip suya koyun. İki dört hafta içinde su içinde beyaz kökler çıkar. Çocuğa bitkinin bir parçasından yeni bir bitki üretilebildiğini gösterin. Kökler 3–4 cm olduğunda toprağa dikilir. Kesim yaparken makası yetişkin kullanmalıdır; çocuk yalnızca bardağı yerleştirir ve suyu değiştirir.
+
+## 7. Işığa dönüş gözlemi
+
+Pencerede büyüyen bir fidenin bir yanını bir kutuyla gölgeleyin ve üç dört gün sonra bitkinin ışığa doğru eğildiğini gözlemleyin. Bitkiler ışığa yönelir; çocuk bitkinin canlı olduğunu ve çevresine tepki verdiğini kendi gözüyle görür. Saksıyı çevirmek, eğilmeyi geri çevirir. Işığın bitki için neden önemli olduğunu büyükler için ayrıntılı anlatan [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazısı, çocuğun sorularına cevap hazırlamak için yararlıdır.
+
+## Etkinlik sonrası: çocukla ne yapılır?
+
+Yarıyıl tatilinde bitki etkinliği bittiğinde de iş bitmez; çimlenen fideleri atmak zorunda değilsiniz. Güçlenen fideleri saksıya alıp pencere önünde büyütebilirsiniz; soğuk havada dışarıya dikmeyin. Çocuğun defterindeki çizimleri tarih sırasına koyup küçük bir "bitkinin yaşam öyküsü" panosu yapmak, tatil sonunda okula götürülebilecek güzel bir ürün olur.
+
+Genel çimlenme süreci için [Vikipedi çimlenme maddesine](https://tr.wikipedia.org/wiki/%C3%87imlenme) bakabilirsiniz.
+
+[ürün:arzuman-simbo-oturak-fasulye-tohumu-50-gr]
+
+Çocukla bahçe ve tohum seçimi için sorularınız varsa müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Yarıyıl tatilinde çocukla hangi bitki etkinliği yapılır?
+C: Pamukta fasulye çimlendirme, suda sebze kökü uzatma, mini sera, çim kafa ve çelik köklendirme gibi pencere önünde yapılan etkinlikler uygundur. Hepsi birkaç gün içinde gözle görülür sonuç verir.
+
+S: Çocuklarla fasulye çimlendirme kaç günde sonuç verir?
+C: Nemli pamukta fasulyenin kökü genellikle 3–4 günde, gövdesi ise 5–7 günde görünür. Pamuk her gün nemli tutulur ve bardak aydınlık bir pencereye konur.
+
+S: Bitki etkinliği için toprak gerekir mi?
+C: Hayır, bazı etkinlikler toprak istemez: pamukta çimlendirme, suda sebze kökü ve çelik köklendirme su ya da pamukla yapılır. Mini sera ve çim kafa için hafif bir fide toprağı kullanılır.
+
+S: Çimlendirdiğimiz tohumları sonra ne yaparız?
+C: Kökü ve gövdesi güçlenen fideleri saksıya ya da bahçeye taşıyabilirsiniz. Soğuk havada dışarıya dikmeyin; ilkbahara kadar saksıda pencere önünde büyütün.

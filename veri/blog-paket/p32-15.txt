@@ -1,0 +1,463 @@
+### YAZI
+slug: evde-meyve-sirkesi-elma-sirkesi-fermantasyon-asamalari
+baslik: Evde Meyve Sirkesi: Elma Sirkesi Fermantasyon Aşamaları
+yayin: 2027-04-15 09:10
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: meyve sirkesi
+seo_baslik: Evde Meyve Sirkesi: Elma Sirkesi Aşamaları
+seo_aciklama: Evde meyve sirkesi nasıl yapılır? Elma sirkesinin iki fermantasyon aşaması, sirke anası, kap seçimi, küf riski ve hazır olduğunu anlamanın yolları.
+ozet: Meyve sirkesi iki aşamada olur: Önce maya şekeri alkole çevirir, sonra asetik asit bakterileri alkolü sirkeye dönüştürür. Evde elma artıklarıyla yapılır; küf ve asitlik kontrolü şarttır.
+etiketler: meyve sirkesi, elma sirkesi, fermantasyon, sirke anası, evde sirke, mutfak atığı
+gorsel: bekliyor
+gorsel_alt: Ağzı bezle örtülü geniş bir cam kavanozda elma dilimleri ve sarı-kehribar renkte fermente olan sıvı
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Meyve sirkesi iki aşamalı bir fermantasyondur. Önce elma gibi şekerli meyve suyu mayayla alkole dönüşür, sonra havadan oksijen alan asetik asit bakterileri alkolü sirkeye çevirir. Kap bezle örtülür, ağzı kapatılmaz; yüzeyde oluşan jelatinimsi tabaka sirke anasıdır, küf ise atılır.
+@govde
+Elma sezonunda kabuk ve çekirdek yığınları mutfakta birikir; kompost kovasına gitmeden önce bir kavanozda sirkeye dönebilirler. Meyve sirkesi yapımı ilk bakışta çok basit görünür: Elma, su, biraz şeker, bez ve bekleme. Ama arkasında iki ayrı mikrop grubu çalışır ve ikisinin de koşulu farklıdır. Aşağıda elma sirkesinin fermantasyon aşamalarını, hangi kabın uygun olduğunu, kavanozda ne gördüğünüzde neyin normal olduğunu ve küfün ne zaman atılması gerektiğini anlatıyoruz.
+
+## Meyve sirkesi nedir, nasıl oluşur?
+
+Sirke, şekerli bir sıvının önce alkole, sonra asetik aside dönüşmesiyle oluşur. Penn State Extension'ın elma sirkesi yazısı da evde sirke yapımını bu iki basamak ve ürünün saklanması çerçevesinde ele alıyor ([Penn State Extension, evde elma sirkesi yapımı](https://extension.psu.edu/making-cider-vinegar-at-home)). California Üniversitesi'nin gıda güvenliği belgesi, sıvının yüzeyinde oluşan tabakanın "sirke anası" olduğunu ve yüksek sıcaklığın sirke anasının oluşumunu engellediğini belirtiyor ([UC Davis, evde sirke yapımı belgesi](https://ucfoodsafety.sf.ucdavis.edu/sites/g/files/dgvnsk7366/files/inline-files/192135.pdf)).
+
+Elma yerine armut, üzüm, kayısı ve incir gibi şekerli meyveler de aynı mantıkla meyve sirkesine dönebilir; bu yazıda elmayı örnek alıyoruz. Elma bu işte kolay bulunan, aroması hafif ve kabuğunda doğal maya bulunan bir meyve olduğu için ilk deneme için en uygunudur.
+
+## İki aşama: maya ve asetik asit bakterileri
+
+| Aşama | Kim çalışır? | Ne olur? | Kap nasıl olmalı? |
+|---|---|---|---|
+| 1. Alkollü fermantasyon | Maya | Meyvenin şekeri alkol ve karbondioksite dönüşür | Bezle örtülü, gaz çıkabilsin |
+| 2. Asetik fermantasyon | Asetik asit bakterileri | Alkol, oksijenle asetik aside dönüşür | Geniş ağız, hava alsın |
+| 3. Olgunlaşma | — | Tat yumuşar, koku dengelenir | Süzülüp kapalı kavanozda dinlenir |
+
+İlk aşamada kavanozda kabarcık ve hafif alkollü koku olur; ikinci aşamada koku keskinleşir, ekşi hâle gelir. Süreler meyveye, sıcaklığa ve karışımın şekerine göre haftalar ile aylar arasında değişir; kaynaklar arasında da kesin bir gün sayısı yoktur. Bu yüzden takvime değil, koku ve tada bakın.
+
+## Adım adım elma sirkesi
+
+1. Elmaları yıkayın, çürük ve kurtlu kısımları ayıklayın. Tam elma doğrayabilir ya da kabuk ve çekirdek artıklarını kullanabilirsiniz.
+2. Cam ya da seramik, geniş ağızlı bir kavanoza yarıdan azını doldurun.
+3. Üzerine klorsuz, oda sıcaklığında su ekleyin; elmaları tamamen örtsün, çünkü açıkta kalan parça küflenir.
+4. Karışıma şeker eklenebilir; maya şekerle beslendiği için ilk aşama hızlanır. Elma tatlıysa şeker yerine meyvenin kendi şekeri çoğu zaman yeter.
+5. Ağzını ince bir bez ya da kahve filtresiyle kapatın, lastikle sabitleyin. Kapağı sıkıca kapatmayın.
+6. Mutfakta ışıksız, ılık bir köşeye koyun. Hafif ışık sorun değildir; doğrudan güneş ve aşırı sıcaktan kaçının.
+7. İlk iki üç hafta elmaları bir ahşap kaşıkla günde bir kez batırın; yüzeyde kalan parça küflenir.
+8. Elmalar dibe çöktüğünde süzün ve sıvıyı yeniden temiz bir kavanoza alın; ağzı yine bezle kapalı bekleyin.
+9. Haftalar içinde yüzeyde ince bir tabaka oluşur: Sirke anası. Koku ve tat sirke gibi keskinleşince sirke hazırdır.
+
+Bu adımlar evde sirke yapımının genel akışıdır; oranları ve süreleri kendi mutfağınızın sıcaklığına ve elmanın şekerine göre uyarlayın.
+
+## Hangi meyveden sirke olur?
+
+Şeker, mayanın yakıtıdır; şekeri yüksek her meyve sirkeye dönebilir. Elma kolay bulunması ve hafif aromasıyla başlangıç için uygundur. Armut daha yumuşak, üzüm daha keskin bir sirke verir; incir ve kayısı gibi çok şekerli meyvelerde süreç daha hızlıdır. Meyve sirkesi yapımında kullanılan meyvenin çürük ve küflü kısmını mutlaka ayıklayın; çünkü maya ve asetik bakteri ile birlikte küf sporları da fermantasyona karışabilir.
+
+| Meyve | Aroma | Not |
+|---|---|---|
+| Elma (kabuk, çekirdek, bütün) | Yumuşak, hafif ekşi | En kolay başlangıç, artıklar kullanılır |
+| Armut | Tatlımsı, yumuşak | Çok olgun ve ezik meyve değerlendirilir |
+| Üzüm | Keskin ve aromatik | Sap ayıklanır, şırası kullanılır |
+| İncir, kayısı | Zengin, tatlı | Şeker çok, alkol aşaması hızlı |
+
+Aynı kapta farklı meyveleri karıştırmak mümkündür ama tat dengesini öngörmek zordur; ilk denemede tek meyve kullanın. Meyveyi ağaçtan topluyorsanız yıkama suyunun temiz olduğundan emin olun; kimyasal ilaçlama yapılmış bahçenin meyvesini ilaç bekleme süresi geçmeden sirkede kullanmayın.
+
+## Kap, bez ve sıcaklık
+
+Cam, seramik ya da gıda kalitesinde paslanmaz çelik kap kullanın. Asit; bakır, demir ve çinko gibi metalleri çözer ve ürüne geçirir, bu yüzden kavanozun kapağı ve karıştırma kaşığı metal olmamalıdır. Ahşap ya da plastik kaşık güvenlidir. Kaba doğrudan metal kapak koymayın; bez örtü hem toz ve sinekten korur hem de oksijeni geçirir.
+
+Sıcaklık hem mayanın hem sirke bakterisinin hızını belirler. Serin mutfakta süreç uzar, sıcak mutfakta hızlanır; ama UC Davis belgesine göre çok yüksek sıcaklık sirke anasının oluşumunu engelleyebilir. Yazın doğrudan güneş alan pencere önünde değil, serin bir dolap üstünde bekletin. Meyve sineği büyük sorundur; bezi sık dokuyun ve lastikle sıkıca bağlayın.
+
+## Sirke anası ve küf: ayırt etmek
+
+Sirke anası yüzeyde oluşan, ince, jelatinimsi, açık renkli bir tabakadır; zamanla kalınlaşır ve yeni sirkelerde başlatıcı olarak kullanılır. Küf ise tüylü, kabarık, yeşil, siyah, mavi ya da beyaz-pembe lekeli olur ve toz gibi görünür. Anayı kaldırıp kokladığınızda sirke gibi kokuyorsa sorun yoktur; küf küflü bir rutubet kokar.
+
+Küf görürseniz bütün partiyi atın, kavanozu sıcak su ve deterjanla yıkayıp yeniden başlayın. Küfü kaşıkla alıp devam etmeyin; çünkü görünmeyen kısmı sıvıya yayılmış olabilir. Bu kural gıda güvenliğinde değişmez.
+
+| Gördüğünüz | Anlamı | Ne yapılır? |
+|---|---|---|
+| Kabarcık, hafif alkol kokusu | Birinci aşama | Beklemeye devam |
+| İnce, jelatinimsi, açık tabaka | Sirke anası | Dokunmayın, sirke gelişiyor |
+| Tüylü, renkli leke | Küf | Tümünü atın |
+| Sirke yerine çürük koku | Bozulma | Atın, yeniden başlayın |
+| Kavanoz kenarında sinek yumurtası | Bez gevşek | Yeni bezle kapatın, ya da atın |
+
+## Hazır olduğunu nasıl anlarsınız?
+
+Keskin, ekşi koku, kokuda alkol yerine sirkenin gelmesi ve tadında asitlik hazır olmanın işaretleridir. Süzüp küçük bir bardağa alın, tadına bakın; hâlâ tatlıysa daha beklemek gerekir. Bir şişeye alıp kapağını kapatmadan önce sirkenin birkaç gün daha dinlenmesine izin vermek, tadı yumuşatır.
+
+Evde yapılan sirkenin asitliği bilinmez; her partide farklıdır. Bu nedenle ev yapımı sirkeyi, belli bir asit oranı isteyen konserve ve turşu tariflerinde kullanmayın. Salatada, yemekte ve temizlikte kullanım için uygundur, ama bunu bir "ölçülmüş" ürün gibi görmeyin. Asit ölçümü gerektiren iş, laboratuvar hizmetidir.
+
+## Süzme, şişeleme ve saklama
+
+Sirke hazır olunca meyve parçalarını süzün, sıvıyı temiz bir bezden ya da kahve filtresinden geçirin. Sirke anasını ayırıp ayrı bir kavanozda biraz sirkeyle saklarsanız bir sonraki partide başlatıcı olarak kullanırsınız. Süzülen sirkeyi cam şişeye doldurun, ağzını kapatın ve serin, ışıksız bir yerde bekletin. İlk günlerde şişeye bakın: Sıvıda hâlâ kabarcık varsa fermantasyon devam ediyor demektir, kapağı gevşek bırakın.
+
+Şişelenmiş ev sirkesinin üstüne yapım tarihini ve meyve cinsini yazın. Bir süre sonra dipte tortu ya da incecik bir yeni tabaka oluşabilir; bu normaldir. Sirkede keskin olmayan, çürük ya da küf kokusu fark ederseniz şişeyi atın. Pastörize edilmemiş ev sirkesi canlı kültür içerir; hamile ve bağışıklığı zayıf kişiler gıda güvenliği açısından hekimlerine danışmalıdır.
+
+## Sirke artıkları ve bahçede kullanım
+
+Süzülen elma kalıntıları kompost yığınına girebilir; yoğun asit ve şekerlerini çok miktarda karbonlu malzemeyle (kuru yaprak, saman) dengeleyin. Sirkeyi bahçede yabani ot öldürmek için kullanmak popülerdir ama sınırları vardır; ayrıntı için [sirke ile yabani ot öldürmek doğru mu](/sirke-ile-yabani-ot-oldurmek) yazısına bakın. Bahçe atıklarının değerlendirilmesi için [bahçe atıkları: dal, yaprak ve ot nasıl değerlendirilir](/bahce-atiklari) yazısı faydalıdır.
+
+Elma ağacınız varsa hasat sonrası düşen meyveyi toplayıp sirke için kullanabilirsiniz; ama çürük, kurtlu ve toprakta yatmış meyveyi kullanmayın. Elma yetiştirme sürecindeki bakım için [elma ağacı gübreleme](/elma-agaci-gubreleme) yazısına göz atın.
+
+## Sık yapılan hatalar
+
+- **Kapağı sıkıca kapatmak:** Oksijen kesilir, ikinci aşama durur; gaz birikir. Düzeltme: Bezle örtün.
+- **Elmaları açıkta bırakmak:** Yüzeyde küf oluşur. Düzeltme: Her gün batırın ya da ağırlıkla bastırın.
+- **Metal kap ve kaşık:** Asit metali çözer. Düzeltme: Cam, seramik, ahşap.
+- **Erken şişelemek:** Hâlâ fermente olan sıvı şişeyi patlatabilir. Düzeltme: Alkol kokusu geçip sirke kokusu oturunca şişeleyin.
+- **Ev sirkesini asit gerektiren tarifte kullanmak:** Asitlik bilinmez. Düzeltme: Satın alınmış, etiketli sirke kullanın.
+@sss
+S: Meyve sirkesi nasıl yapılır?
+C: Şekerli meyveyi ve suyu geniş ağızlı cam bir kavanozda bezle örtüp ılık bir yerde bekletin. Önce maya alkol üretir, sonra asetik asit bakterileri alkolü sirkeye çevirir. Süreç haftalar sürer; koku ve tat sirkeye dönüşünce hazırdır.
+
+S: Sirke anası ne işe yarar, zararlı mı?
+C: Yüzeyde oluşan jelatinimsi tabaka sirkeyi yapan bakteri topluluğudur; zararlı değildir. Yeni bir partiyi başlatmak için kullanılabilir. Tüylü ve renkli lekeli kısım ise sirke anası değil, küftür ve atılmalıdır.
+
+S: Evde yaptığım sirkeyi turşu için kullanabilir miyim?
+C: Önermiyoruz. Ev yapımı sirkenin asit oranı bilinmez ve her partide değişir; turşu ve konserve tarifleri belirli bir asitlik ister. Bu amaçla etiketinde asit oranı yazan satın alınmış sirke kullanın.
+
+S: Sirke kavanozunda küf oluştu, üstünü alıp devam edebilir miyim?
+C: Hayır. Küf görünenden fazlasına yayılmış olabilir. Bütün partiyi atın, kavanozu sıcak su ve deterjanla yıkayıp temiz malzemeyle yeniden başlayın. Gıda güvenliği konusunda taviz verilmez.
+
+### YAZI
+slug: bahce-kiyafeti-bot-eldiven-ve-gunes-korumasi-secimi
+baslik: Bahçe Kıyafeti: Bot, Eldiven ve Güneş Koruması Nasıl Seçilir?
+yayin: 2027-04-15 11:35
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: bahçe kıyafeti
+seo_baslik: Bahçe Kıyafeti: Bot, Eldiven, Güneş Koruması
+seo_aciklama: Bahçe kıyafeti nasıl seçilir? Uzun kollu sıkı dokuma giysi, şapka, eldiven türleri, su geçirmez bot ve güneşten korunma için iş türüne göre seçim rehberi.
+ozet: Bahçe kıyafeti, işe göre seçilir: Güneşte uzun kollu, sıkı dokulu ve açık renkli giysi ile şapka; toprakta su geçirmez bot; diken ve kimyasalda uygun eldiven. Tek bir kıyafet her işe uymaz.
+etiketler: bahçe kıyafeti, bahçe eldiveni, bahçe botu, güneş koruması, şapka, iş giysisi
+gorsel: bekliyor
+gorsel_alt: Çalışma tezgâhında düzgünce katlanmış uzun kollu gömlek, geniş kenarlı hasır şapka, deri eldiven ve lastik bot
+urunler: raco-bahce-el-kuregi, raco-iki-disli-bahce-el-capasi
+kisaca: Bahçe kıyafeti işe göre seçilir. Güneşte uzun kollu, sıkı dokunmuş giysi, geniş kenarlı şapka ve gözlük; ıslak toprakta su geçirmeyen, kaymaz tabanlı bot; diken, kıymık ve kimyasalda işe uygun eldiven giyin. Giysi güneş kremasının yerini tutmaz, onu tamamlar.
+@govde
+Bahçede ilk saat keyiflidir; üçüncü saatte güneş, çamur ve diken devreye girer. Doğru bahçe kıyafeti konfor kadar sağlık meselesidir: Uzun süre güneşte kalan deri yıllar içinde zarar görür, çıplak el kıymık ve kimyasalla karşılaşır, yanlış ayakkabı kaydırıp düşürür. Aşağıda kıyafeti baştan ayağa, iş türüne göre ele alıyoruz: Giysi, şapka ve gözlük, eldiven, bot ve diz koruması.
+
+## Bahçe kıyafeti neden bu kadar önemli?
+
+Penn State Extension, uzun kollu gömlek ve pantolonun güneşe karşı en iyi korumayı sağladığını belirtiyor ([Penn State Extension, güneşte güvenli bahçıvanlık](https://extension.psu.edu/gardening-safely-in-the-sun)). Ohio State Üniversitesi'nin yayını da bahçıvanlara uzun kollu, uzun pantolon, çorap ve eldiven giymelerini öneriyor ([Ohio State Extension, bahçıvanlar için güneş güvenliği](https://ohioline.osu.edu/factsheet/aex-79018)). Yani sıcakta da olsa kolları ve bacakları örtmek, dışarıda sağlıklı kalmanın parçasıdır.
+
+Güneşten korunmak ana gerekçe, ama kıyafetin görevi bununla bitmez: Diken, böcek, kıymık, çamur ve kimyasal temasını da azaltır. Bu yüzden kıyafeti yalnızca yaz için değil, ilkbahar budaması ve sonbahar toprak işi için de ayrı düşünmek gerekir; eldiveni işe göre seçmek bu yazının ilerleyen bölümünde anlatılıyor.
+
+## Giysi: kumaş, renk ve kesim
+
+Sıkı dokunmuş kumaş, güneş ışınlarını seyrek dokunmuşa göre daha çok engeller. Koyu renk ve sıkı dokuma kumaşların açık renkli ve gevşek dokumalara göre daha iyi koruduğu belirtilir; bir kumaşın ışığa tutulduğunda içinden görünüyorsa morötesi ışının da geçeceği kabul edilir. Pratikte pamuk ya da karışımlı, sıkı dokulu, hafif ve nefes alan kumaşlar iş görür.
+
+Sıcak bölgelerde koyu renk bunaltabilir. Bu yüzden bir uzlaşma gerekir: Hafif, açık ama sıkı dokulu ve havalandırmalı bir kesim seçin. UPF (morötesi koruma faktörü) etiketli giysiler kumaşın korumasını ölçülmüş olarak gösterir; çok yıkama bu korumayı azaltabilir. Giysi güneş kreminin yerini tutmaz; açıkta kalan yüz, boyun, el sırtı ve ayak üstüne krem sürülmelidir.
+
+| Parça | Seçim ölçütü | Dikkat |
+|---|---|---|
+| Gömlek | Uzun kollu, sıkı dokuma, nefes alan | Kol ağzı bileği örtsün |
+| Pantolon | Bol, dayanıklı, uzun | Dizlik yerine diz koruması takılabilir |
+| Çorap | Uzun, pamuklu | Bacağı ve botun içini korur |
+| Yelek / önlük | Cepli | Makas, eldiven, ip taşımak için |
+| Yağmurluk | Hafif, havalandırmalı | Çalışma sırasında terletir |
+
+## Şapka, gözlük ve boyun
+
+Geniş kenarlı şapka yüzü, kulakları ve ense kısmını korur; Penn State ve Ohio State yayınları şapka ve güneş gözlüğünü giysi ile birlikte öneriyor. Şapkanın kenarı en az bir karış geniş olsun ve rüzgârda uçmasın diye çenelik bağı bulunsun. Boyun için ince bir eşarp ya da şapkaya takılan ense koruyucu yeterlidir.
+
+Gözlük hem güneş ışınından hem de kıymık, toprak sıçraması ve dal ucundan korur. Güneş gözlüğü morötesi korumalı olmalıdır. Budama, dal çekme ya da yüksek yerde çalışmada kenarları kapalı, saydam koruyucu gözlük daha güvenlidir.
+
+## Eldiven: hangi iş, hangi eldiven?
+
+Tek eldiven her işe uymaz. Dikenli çalı ve gül budamasında deri ya da kalın bilek koruyucu eldiven; çapa, kürek, çit ve odun işinde sağlam ama esnek eldiven; toprak ve fide dikiminde ince, nefes alan eldiven; kimyasal ve gübre işinde ise sıvı geçirmeyen (nitril ya da kauçuk) eldiven uygundur. Kimyasal temas riski olan işte hangi eldivenin gerektiğini ürün etiketi belirtir; ilaç adı ve doz için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne başvurun.
+
+1. Eldiveni elinize uygun ölçüde seçin; bol eldiven aleti kaydırır, dar eldiven eli yorar.
+2. Kullanmadan önce yırtık ve delik kontrolü yapın.
+3. Islak eldiveni kurutmadan saklamayın; küflenir ve kokar.
+4. Kimyasalla kullanılan eldiveni başka işte kullanmayın.
+5. Eldiven çıkarırken dış yüzeye çıplak elle dokunmayın.
+
+[ürün:raco-bahce-el-kuregi,raco-iki-disli-bahce-el-capasi]
+
+Ürün açıklamalarına göre Raco bahçe el küreği ve kök çapası çelik gövdeli, plastik kaplı saplı ve hafif aletlerdir (yaklaşık 200 ve 220 gram); hafif alet, eldivenle birlikte uzun çalışmada eli daha az yorar.
+
+## Bot ve ayakkabı: toprakta kaymadan çalışmak
+
+Bahçede ayakkabı üç şeyi yapmalı: Suyu ve çamuru dışarıda bırakmalı, kaymamalı ve ayağı ağır alet ve diken ya da çivi gibi şeylerden korumalı. Islak ve killi toprakta kaymaz, kabartmalı tabanlı bot gerekir. Lastik bot suyu geçirmez ama içeri hava vermez; uzun saat giyildiğinde ter biriktirir, ince pamuklu çorap ve ayakkabıyı çıkarıp kurutmak gerekir. Hafif bir bahçe işinde su geçirmez kumaş ya da deri bot daha rahat olabilir.
+
+Çıplak ayak, terlik ve sandalet bahçede kullanılmaz. Penn State ve Farm Progress gibi kaynaklarda ayakların güneşten korunması da öneriliyor; sandaletle çalışıldığında ayak üstü yanabilir. Ağır alet, çapa ve kazma kullanıyorsanız burnu sağlamlaştırılmış bir ayakkabı ek koruma sağlar.
+
+## Diz, bel ve sırt: konfor ekipmanı
+
+Uzun süre diz üstü çalışıyorsanız diz yastığı ya da katlanır bahçe taburesi bel ve dizi rahatlatır. Dar sıralarda çalışırken sık sık eğilmek yerine uzun saplı alet seçmek de yardımcıdır. Bu konunun ayrıntısı, ergonomi ve yükseltilmiş yatak seçenekleri için [eğilmeden bahçecilik](/egilmeden-bahcecilik) yazısında anlatıldı.
+
+## Gübre, toprak ve kimyasal işlerinde kıyafet
+
+Toprak, kompost ve gübre ile çalışırken eller ve ön kollar sürekli temas hâlindedir. Solucan gübresi ve kompost gibi organik ürünlerde de eldiven giymek, tırnak altına toprak ve bakteri kaçmasını önler. Tozlu ve kuru gübre, kalın toz çıkaran toprak ve saman karıştırırken basit bir toz maskesi yeterlidir. İlaçlama ya da kimyasalla çalışıyorsanız ilaç etiketinin istediği kıyafeti (eldiven, gözlük, maske, kalın giysi) giyin; yazlık ince giysi, ilaç damlasını deriye geçirebilir. İlaçlama giysisini ayrı yıkayın. Sırt pompasıyla güvenli çalışma için [sırt pulverizatörü kullanımı](/sirt-pulverizatoru-kullanimi) yazısındaki adımlara göz atın.
+
+Bahçede zehirli ya da tahriş edici bitkiler de vardır: Süt veren bitkilerin özsuyu, kimi tohum ve yaprakların tüyleri cildi tahriş edebilir. Bu bitkilerle çalışırken uzun kollu giysi ve eldiven şarttır; ayrıntı için [bahçede zehirli bitkiler](/bahcede-zehirli-bitkiler) yazısına bakın. Dal öğütücü ya da testere gibi motorlu aletlerde ek olarak kulak ve göz koruyucusu gerekir ([dal öğütme makinesi ile budama artıklarını malça çevirmek](/dal-ogutme-makinesi)).
+
+## Mevsime göre bahçe kıyafeti
+
+Bahar, sabah soğuk öğleden sonra sıcak olduğu için katmanlı giyim gerektirir: İnce bir iç gömlek, üstüne açılabilir bir gömlek ya da yelek. Yaz aylarında en sıcak saatlerde (öğlen ile öğleden sonra arası) çalışmaktan kaçının; sabah ve akşam serinliğini tercih edin. Sonbaharda su geçirmez bir ceket ve kalın çorap, kışta eldivenli, yalıtımlı bir kıyafet gerekir. Yağmurda çalışmak gerekiyorsa su geçirmez ama nefes alan bir yağmurluk giyin; naylon yağmurluk içeride ter biriktirir.
+
+## Giysi bakımı: yıkama ve saklama
+
+Bahçe kıyafetini bahçeden sonra, diğer çamaşırlardan ayrı yıkayın; toprak ve bitki özsuyu leke bırakır, kimyasalla temas ettiyse ayrıca yıkanması gerekir. UPF'li giysiler çok yıkandıkça korumasını kaybedebilir; giysiyi yıpranınca yenileyin. Bot ve eldiveni kapalı yerde, ıslak bırakmadan kurutun; sert eldiveni sıcak kaloriferde kurutmak deriyi çatlatır. Şapkayı katlamadan, rafta ya da askıda saklayın. Kıyafeti iş türüne göre ayırmak, her iş için doğru parçanın elinizin altında olmasını sağlar.
+
+## Çocuk ve yaşlıyla bahçede kıyafet
+
+Çocukların derisi güneşe daha hassastır; açık renk, geniş kenarlı şapka, ince uzun kollu giysi ve kapalı ayakkabı çocuk için de geçerlidir. Çocuğa kendi boyuna uygun, hafif eldiven ve küçük aletler verin; yetişkin eldiveni elinde dönüp alet tutmayı zorlaştırır. Yaşlı bahçıvanlarda ısı çarpması ve düşme riski daha yüksektir; bol, hafif giysi, kaymaz taban ve sık mola önemlidir.
+
+
+## Sık yapılan hatalar
+
+- **Kısa kollu ve şortla uzun süre çalışmak:** Deri yanar ve çizilir. Düzeltme: İnce uzun kollu ve pantolon.
+- **Eldivensiz kimyasal ve gübre dağıtmak:** Ciltte tahriş. Düzeltme: Uygun eldiven.
+- **Terlik ya da sandalet giymek:** Ayak yaralanır, kayma riski. Düzeltme: Kapalı, kaymaz taban.
+- **Şapkayı unutmak:** Baş ve ense yanar. Düzeltme: Çenelikli, geniş kenarlı şapka.
+- **Krem yerine yalnız giysiye güvenmek:** Açıkta kalan yerler yanar. Düzeltme: Yüz, boyun ve el sırtına krem.
+@sss
+S: Bahçe kıyafeti olarak ne giymeliyim?
+C: Güneşli günde uzun kollu, sıkı dokulu, nefes alan bir gömlek ve uzun pantolon, geniş kenarlı şapka, güneş gözlüğü ve kapalı, kaymaz tabanlı ayakkabı ya da bot. İşe göre uygun eldiveni ekleyin, açıkta kalan yerlere güneş kremi sürün.
+
+S: Bahçe eldiveni nasıl seçilir?
+C: İşe göre seçin: Diken ve budama için kalın deri, çapa ve kürek için esnek ve sağlam, fide dikimi için ince ve nefes alan, kimyasal ve gübre için sıvı geçirmeyen nitril ya da kauçuk. Ölçüsü elinize uymalı, yırtıksız olmalı.
+
+S: Yazın uzun kollu giymek çok sıcak olmaz mı?
+C: Hafif, açık renkli ama sıkı dokulu ve havalandırmalı bir kumaş seçerseniz olmaz. Sıkı dokulu kumaş güneşi daha iyi engeller. En sıcak saatlerde çalışmayın, sabah ve akşamı tercih edin, bol su için.
+
+S: Bahçede lastik bot şart mı?
+C: Şart değil; ıslak ve killi toprakta işe yarar çünkü su geçirmez. Uzun süre giyilince ter biriktirir. Kuru ve hafif işlerde kaymaz tabanlı, kapalı bir ayakkabı yeterlidir. Terlik ve sandalet bahçede güvenli değildir.
+
+### YAZI
+slug: turuncgil-bahcesi-iklimi-narenciye-nerede-yetisir-don-riski
+baslik: Turunçgil Bahçesi İklimi: Narenciye Nerede Yetişir, Don Riski Nedir?
+yayin: 2027-04-15 14:05
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: turunçgil bahçesi iklimi
+seo_baslik: Turunçgil Bahçesi İklimi: Nerede Yetişir, Don Riski
+seo_aciklama: Turunçgil bahçesi iklimi nasıl olmalı? Narenciyenin soğuk sınırı, tür bazında don dayanımı, bölgeye göre risk ve don riskini azaltan yer seçimi.
+ozet: Turunçgil bahçesi iklimi, kış soğuğunun sınırladığı bir iklimdir: Limon en hassas, portakal ve mandalina daha dayanıklıdır. Akdeniz ve Ege kıyıları uygundur; iç ve soğuk kış bölgelerinde saksı çözüm olur.
+etiketler: turunçgil iklimi, narenciye yetiştirme, don riski, limon, portakal, mandalina, bölge seçimi
+gorsel: bekliyor
+gorsel_alt: Deniz kıyısındaki yamaçta sıralı portakal ağaçları, dallarda olgun turuncu meyveler, arkada dağlar
+urunler: limon-agaci-bakim-seti-20-lt-toprak-500-ml-sivi-solucan-gubresi, limon-agaci-topragi-ozel-organik-karisim
+kisaca: Turunçgil bahçesi iklimi, kış soğuğunun belirlediği bir iklimdir. Kaynaklara göre portakal yaklaşık -5, limon yaklaşık -3,5 derecede zarar görür; limon en hassas türdür. Kıyı Akdeniz ve Ege uygundur, soğuk kışlı iç bölgelerde bahçe riskli, saksıda taşınabilir kültür daha güvenlidir.
+@govde
+Aynı limon ağacı Mersin'de on yıl boyunca bol meyve verir, Kayseri'de ilk kışta donar. Fark toprakta ya da bakımda değil, iklimdedir. Turunçgil bahçesi iklimi sorusu, yani narenciyenin nerede yetişeceği ve don riskinin ne olacağı, bahçe kurmadan önce cevaplanması gereken ilk sorudur. Aşağıda soğuğun neden belirleyici olduğunu, türlerin dayanımını, bölge bölge riski ve riskli bölgede neler yapılabileceğini anlatıyoruz.
+
+## Turunçgil bahçesi iklimi: soğuk neden sınır çizer?
+
+Turunçgiller subtropik bitkilerdir; kışı yapraklarını koruyarak geçirdikleri için sıfırın altındaki sıcaklıklara dayanma sınırları düşüktür. Kilis İl Tarım Müdürlüğü'nün yetiştiricilik dökümanı, kış soğuklarının belirleyici olduğunu ve turunçgil yetiştiriciliğini etkileyen en önemli sıcaklık faktörünün düşük sıcaklıklar olduğunu belirtiyor ([Kilis İl Tarım ve Orman Müdürlüğü, turunçgil yetiştiriciliği](https://kilis.tarim.gov.tr/Belgeler/Yeti%C5%9Ftiricilik%20D%C3%B6k%C3%BCmanlar%C4%B1/turuncgil.pdf)). Yüksek sıcaklık ise meyve verimini ve kalitesini etkiler, ama genellikle ikinci planda kalır.
+
+Soğuğa dayanıklılık, ağacın yaşına, sağlığı ve kış öncesi beslenme düzenine göre de değişir. Genç ağaç yaşlıdan, zayıf ağaç güçlüden hassastır. Ayrıca don anındaki rüzgâr, nem ve donun süresi zararı belirler: Birkaç saatlik hafif don ile bütün gece süren sert don farklı sonuç verir.
+
+## Hangi tür kaç dereceye dayanır?
+
+Üniversite ders notları ve araştırma yayınlarında verilen rakamlar değişkendir ve bir kılavuz niteliğindedir. Akdeniz koşulları için verilen zarar noktaları portakalda yaklaşık -5 °C, limonda yaklaşık -3,5 °C olarak geçer; Satsuma mandarini için -4 ile -5 °C civarında dayanıklılık bildirilir. Bu değerler her yıl ve her bahçe için aynı sonucu vermez; ağacın durumu, don süresi ve rüzgâr farkı belirleyicidir.
+
+| Tür | Göreli soğuk dayanımı | Not |
+|---|---|---|
+| Limon | En hassas | Sıcak kıyı ve korunaklı yer gerektirir |
+| Portakal | Orta | Kıyı Akdeniz ve Ege'de yaygın |
+| Mandalina (özellikle Satsuma) | Daha dayanıklı | Biraz daha serin yerleri tolere eder |
+| Altıntop, kumkuat | Türe göre | Kumkuat saksıda taşınabilir ([kumkuat bakımı](/kumkuat-bakimi-saksida)) |
+
+Kaynaklar sıcaklık gereksinimi konusunda da bilgi veriyor: Mandalinada yıllık sıcaklık toplamı isteği 1.500-2.800 derece, portakalda 1.260-2.670 derece aralığındadır; limonda böyle bir toplam isteği belirtilmiyor. Büyüme için gereken taban sıcaklık yaklaşık 12,8 derece olarak geçer.
+
+## Bölgeye göre turunçgil: nerede uygun, nerede riskli?
+
+Türkiye'de turunçgil yetiştiriciliği ağırlıklı olarak Akdeniz ve Ege kıyılarında yapılır. Mersin, Erdemli ve Silifke gibi ilçeler kaliteli sofralık limon ve portakalla anılır. Soğuk kış bölgelerinde, örneğin Rize gibi yerlerde bazı kaynaklar portakal, limon ve kimi mandalinaların ekonomik açıdan doğru bir tercih olmadığını bildiriyor. Çukurova'da da limon başarısı her yerde garanti değildir; kış don olayları yer yer görülür.
+
+| Bölge | Durum | Öneri |
+|---|---|---|
+| Kıyı Akdeniz (Mersin, Antalya, Adana kıyısı) | Uygun | Don gecesi için yerel mikroklima izlenir |
+| Ege kıyısı ve ilçeleri | Uygun, bazı yerde don | Rüzgâr ve soğuk hava birikimi olan yerlerden kaçın |
+| Marmara ve Karadeniz | Sınırlı, riskli | Daha dayanıklı mandalina ya da saksıda kültür |
+| İç Anadolu, Doğu Anadolu | Açık bahçe uygun değil | Saksıda, kışı içeride geçirme |
+
+Bu tablo genel bir çerçevedir; il ve ilçe tarım müdürlüğü ve çevrenizdeki üreticiler bölgenizin mikroklimasını en iyi bilir.
+
+## Aynı bölgede bile yer seçimi: mikroklima
+
+Aynı ilçede bile iki bahçe arasında bir iki derece fark olur ve narenciyede bu fark ağaç ölümü ile hasat arasındaki çizgidir. Soğuk hava yoğun olduğu için çukur ve vadi tabanlarında birikir; yamaç ortası ve eğimli yüzeyler daha ılıktır. Denize yakınlık geceyi yumuşatır. Güneye ve güneybatıya bakan yamaçlar kışın daha çok ısı alır; kuzey rüzgârını kesen bir duvar, tepe ya da bitişik ağaç sırası bahçeyi korur. Duvar dibi, ısıyı biriktirip geceye verdiği için dona karşı avantajlıdır.
+
+Bahçe kurmadan önce kış boyunca bölgenin donlu gecelerini bilen komşu bahçıvanlara sorun; hava istasyonu verisine ve çevredeki bahçelerin geçmiş don zararına bakın. Fidan seçimi ve dikim için [fidan seçimi nasıl yapılır](/fidan-secimi-nasil-yapilir) yazısı, etiket ve kök yapısına bakarak sağlıklı fidan seçmeyi anlatıyor.
+
+## Don türleri: ayaz, radyasyon donu ve soğuk hava dalgası
+
+Narenciyeyi iki farklı don vurur. Sakin, açık ve soğuk bir gecede toprak ısısını gökyüzüne verir ve soğuk hava çukurlarda birikir (radyasyon donu); bu don bahçenin alçak yerlerinde şiddetlidir ve yamaç üstünde hafif geçer. Soğuk hava dalgasında (kuzeyden gelen, rüzgârlı, günlerce süren soğuk) bütün bölge soğur, rüzgâr nemi emer ve ağacı kurutur; burada korunaklı yer ve rüzgâr perdesi kritik olur. Hava tahminlerinde "açık ve rüzgârsız gece" uyarısı, radyasyon donu habercisidir.
+
+Don zararı hemen görünmez: Yapraklar önce bükülür, kurur ve dökülür; dallardaki zarar birkaç hafta sonra, sürgün vermeyen kısımlar kurumuş olarak ortaya çıkar. Bu yüzden zarar tespiti için ilkbahar sürgün zamanını beklemek gerekir.
+
+## Don riskini azaltmak için yapılabilecekler
+
+1. **Doğru tür ve çeşit:** Riskli bölgede limon yerine daha dayanıklı mandalina ya da çeşitleri tercih edin.
+2. **Korunaklı yer:** Duvar dibi, güneye bakan yamaç, rüzgâr perdesi.
+3. **Kış öncesi bakım:** Sonbaharda azotlu gübreyi bırakın, yeni sürgün zorlamayın; sürgünler donda ilk zarar görür ([limon ağacı don koruması](/limon-agaci-don-korumasi)).
+4. **Gövde koruma:** Genç ağaçların gövdesini örtü ya da bezle sarın, don gecesi tacı örtün.
+5. **Malçlama:** Toprak ısısını korumak için ağaç dibini malçlayın ([ağaç dibi malçlama](/agac-dibi-malclama)).
+6. **Sulama:** Don öncesi nemli toprak, kuru topraktan daha çok ısı tutar; don tahmininde sulama yararlı olabilir.
+
+Don sonrası zararın değerlendirilmesi için [don zararı belirtileri](/don-zarari-belirtileri) yazısına bakın; zarar gören dalı hemen kesmeyin, sürgün vermesini bekleyin.
+
+## Soğuk bölgede turunçgil: saksı ve taşınabilir kültür
+
+Turunçgil bahçesi iklimi soğuk olan bölgelerde saksı kültürü gerçekçi bir yoldur. Kumkuat, limon ve mandalina saksıda yetişir, yazı dışarıda geçirir, kışı serin ve ışıklı bir yerde (kış bahçesi, serin oda) geçirir. Saksı için toprak seçimi ve bakım ayrıntıları [saksıda limon ağacı bakımı](/saksida-limon-agaci-bakimi) ve [narenciye toprağı](/narenciye-topragi) yazılarında anlatılıyor.
+
+[ürün:limon-agaci-bakim-seti-20-lt-toprak-500-ml-sivi-solucan-gubresi]
+
+Ürün açıklamasına göre Limon Ağacı Bakım Seti, 20 litre limon ağacı toprağı ile 500 ml sıvı solucan gübresi içerir; toprak karışımı torf, cocopeat, perlit, solucan gübresi ve leonardit bileşenlerinden oluşur. Saksıda taşınabilir limon için drenajı güçlü toprak ve düzenli besin bir arada düşünülmüştür.
+
+## Bahçe kurmadan önce karar listesi
+
+1. Bölgenizin son on yıldaki en düşük gece sıcaklıklarını hava istasyonundan ya da çevrenizdeki üreticilerden öğrenin.
+2. Bahçe yerinde soğuk havanın birikip birikmediğini kış sabahlarında gezerek gözleyin.
+3. Hangi türü (limon, portakal, mandalina, kumkuat) seçeceğinizi bu bilgiyle belirleyin; riskliyse daha dayanıklı türü seçin.
+4. Fidanı sertifikalı ve etiketli alın; çeşit adı ve anaç bilgisini yazılı isteyin.
+5. İlk iki üç kış için don örtüsü ve gövde koruması hazırlayın.
+6. Sulama ve gübre planını soğuk dönemi gözeterek yapın.
+
+Karar aşamasında il ya da ilçe tarım müdürlüğüne, yörenizdeki ziraat odasına ve komşu üreticilere danışmak, kitapta bulunamayacak yerel bilgi sağlar.
+
+## Sık yapılan hatalar
+
+- **Genel "iklim uygun" cümlesine güvenmek:** İlçe uygun olsa da çukur bahçe donar. Düzeltme: Mikroklimaya bakın.
+- **Sonbaharda azotla sürgün zorlamak:** Taze sürgün donda ölür. Düzeltme: Gübrelemeyi zamanında bitirin.
+- **Don gecesi örtüsü unutmak:** Genç ağaç gece kaybedilir. Düzeltme: Hava tahminini izleyip örtüyü hazır tutun.
+- **Dondan sonra hemen budamak:** Canlı doku ayrışmaz. Düzeltme: Sürgün vermesini bekleyin.
+@sss
+S: Turunçgil bahçesi iklimi nasıl olmalı?
+C: Kışı ılık, don olayları nadir ve kısa bir iklim gerekir. Turunçgil yetiştiriciliğinde en önemli sınırlayıcı faktör düşük sıcaklıktır. Akdeniz ve Ege kıyıları uygundur; soğuk kışlı iç bölgelerde açık bahçe riskli, saksı kültürü daha güvenlidir.
+
+S: Narenciye kaç derecede donar?
+C: Kaynaklarda portakal için yaklaşık -5, limon için yaklaşık -3,5, Satsuma mandarini için -4 ile -5 derece civarı zarar noktası verilir. Değer ağacın yaşına, don süresine ve rüzgâra göre değişir; yerel koşullar için il müdürlüğüne danışın.
+
+S: İç Anadolu'da limon ağacı bahçede yetişir mi?
+C: Açık bahçede kışı geçirmesi güvenilir değildir. Bunun yerine saksıda yetiştirin: Yazı dışarıda, kışı serin ve ışıklı bir yerde (kış bahçesi, serin oda) geçirin. Kumkuat ve limon saksı kültürüne uygundur.
+
+S: Turunçgil bahçesi için hangi yer seçilmeli?
+C: Soğuk havanın birikmediği, yamaç ortası ya da güneye bakan, rüzgârdan korunaklı bir yer. Çukur ve vadi tabanından kaçının. Duvar dibi ve denize yakın yerler geceyi yumuşatır. Karar öncesi çevredeki üreticiye danışın.
+
+### YAZI
+slug: pvc-pe-boru-farki-sulama-hatti-icin-secim-rehberi
+baslik: PVC PE Boru Farkı: Sulama Hattı İçin Seçim Rehberi
+yayin: 2027-04-15 16:40
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: pvc pe boru farkı
+seo_baslik: PVC PE Boru Farkı: Sulama Hattı İçin Seçim
+seo_aciklama: PVC PE boru farkı nedir? Sulama hattında sert PVC ile esnek PE borunun esneklik, UV, basınç, ek yöntemi ve ömür farkları; hangi hatta hangisi seçilir?
+ozet: PVC PE boru farkı esneklik ve montajda ortaya çıkar: PVC sert, düz ve yapıştırmalı ek ister; PE esnek, rulo hâlinde gelir ve mekanik bağlantıyla birleşir. Basınç sınıfı ve UV dayanımı etiketten okunur.
+etiketler: pvc boru, pe boru, sulama borusu, damla sulama, basınç sınıfı, boru seçimi
+gorsel: bekliyor
+gorsel_alt: Yan yana duran beyaz sert PVC boru parçaları ve siyah rulo PE sulama borusu, yanında bağlantı parçaları
+urunler: sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu
+kisaca: PVC PE boru farkı üç noktada görülür: PVC sert ve düz hat içindir, yapıştırıcıyla birleşir; PE esnek ve rulo hâlindedir, mekanik bağlantıyla birleşir ve eğimli ya da taşlı arazide kolaydır. İkisinde de seçimi basınç sınıfı ve açıkta kalan kısmın UV dayanımı belirler.
+@govde
+Sulama hattını kurarken depodan musluğa kadar bir boru alacaksınız ve tezgâhtar iki seçenek gösteriyor: Beyaz sert PVC ve siyah rulo PE. İkisi de su taşır; ikisi de aynı görünüm farkıyla ama farklı işler için tasarlanmıştır. PVC PE boru farkını bilmeden alınan boru ya patlar, ya güneşte çatlar, ya da montajda saatlerce uğraştırır. Aşağıda iki malzemenin özelliklerini, hangi hatta hangisinin seçileceğini ve bağlantı ve montaj ayrıntılarını anlatıyoruz.
+
+## PVC PE boru farkı: iki malzemeye hızlı bakış
+
+Clemson Üniversitesi'nin yayım servisi, evsel sulama sistemlerinde en sık kullanılan iki boru türünü beyaz PVC (polivinil klorür) ve "siyah rulo boru" olarak adlandırılan polietilen (PE) diye sıralıyor ([Clemson HGIC, peyzaj sulama ekipmanı, borular](https://hgic.clemson.edu/factsheet/landscape-irrigation-equipment-part-8-piping/)). Aynı yayın, peyzaj sulamasında PVC Schedule 40 ve PR160 tiplerini uygun görüyor; Schedule 40 boruların et kalınlığı PR160'tan biraz daha fazla ve daha yüksek basınca dayanıklı.
+
+PVC PE boru farkı kısaca şudur: PVC sert, çubuk gibi gelen ve hat yönünü bağlantı parçalarıyla değiştiren bir borudur; PE ise esnek, rulo hâlinde gelen ve eğrilerde kendisi dönen bir borudur.
+
+| Özellik | PVC (sert) | PE (polietilen) |
+|---|---|---|
+| Biçim | Düz çubuk (genellikle 6 m) | Rulo (50-100 m) |
+| Esneklik | Sert, bükülmez | Esnek, kıvrılabilir |
+| Ek yöntemi | Yapıştırıcı ya da contalı | Mekanik (sıkma) bağlantı |
+| Renk | Genelde beyaz, gri | Siyah (karbon katkılı) |
+| Güneşte açıkta | Zamanla gevrekleşebilir | Karbon siyahı UV'ye karşı koruyucudur |
+| Taşlı ve eğimli arazide | Zor | Kolay |
+| Kullanım | Gömülü ana hat | Gömülü ya da yüzeyde ana hat, damla hat |
+
+## Esneklik ve montaj: eğim, taş ve dönemeç
+
+PE esnek olduğu için taşlı ya da eğimli arazide hattı kıvırarak döşemek mümkündür; dirsek sayısı azalır, bağlantı noktası azalır, sızıntı riski de azalır. Rulo hâlinde taşınması da pratiktir. Ancak sıcakta ve soğukta boyu çok değişir; yüzeyde döşenen PE boru güneşte uzar, hat dalgalanır. Bu nedenle uzun açıkta hatlarda boruyu yer yer kazık ya da kelepçeyle tutturmak gerekir.
+
+PVC sert olduğu için düz ve uzun, gömülü hatlarda düzenli ve sağlam bir sonuç verir. Yön değişimi dirsekle yapılır, her bağlantı yapıştırıcı ya da conta ile sağlanır; yapıştırıcılı bağlantı uygulama ve kuruma süresi ister, iyi yapılırsa uzun ömürlüdür. Taşlı arazide sert borunun taşa yaslanması ve basınç altında çatlaması riskine karşı kum yatağı yapmak gerekir.
+
+## Basınç sınıfı: etikete bakın
+
+PVC PE boru farkı ne olursa olsun, malzeme tek başına dayanım garantisi vermez; etiketteki basınç sınıfı (PN, bar cinsinden) belirleyicidir. Aynı çap ve aynı malzeme, farklı et kalınlığında farklı basınç sınıfına sahip olur. Hattın çalışma basıncı boru etiketindeki değerden yeterince düşük olmalıdır. Şebeke ve pompa basıncı yüksekse hat girişine basınç düşürücü eklemek, hem borunun hem damla elemanlarının ömrünü uzatır; ayrıntı için [basınç düşürücü regülatör: sulama hattında ne işe yarar](/basinc-dusurucu-regulator-sulama-hatti) yazısına bakın.
+
+Basınç sınıfı yüksek boruyu "daha sağlam" diye gelişigüzel seçmek de doğru değildir; kalın cidarlı boru daha pahalı ve daha zor işlenir. Bahçe ölçeğinde çoğu hat için orta basınç sınıfı yeterlidir, tek seferde yüksek şebeke basıncı olan yerde sınıfı yükseltmek gerekir.
+
+## Gömülü ve açıkta hat: UV meselesi
+
+Güneş ışığı (morötesi) plastiği zamanla yıpratır. Karbon siyahı katkılı siyah PE boru bu ışığa karşı dayanıklı üretilir, bu yüzden yüzeyde döşenebilir; yine de üretici etiketinde UV dayanımı yazıyorsa onu esas alın. Beyaz PVC boru açıkta uzun süre güneşte kalırsa gevrekleşebilir; bu nedenle gömülü hat için daha uygundur. Açıkta kalan PVC kısımları boyayarak ya da örtüyle korumak mümkündür; ama en kolayı hattı gömmektir.
+
+Kışın borunun içindeki suyun donması hem PVC'yi hem PE'yi çatlatabilir; PE esnek olduğu için donmaya biraz daha toleranslıdır ama bu da sınırsız değildir. Kışlatma ve boşaltma için [hortum kışlatma](/hortum-kislatma) yazısındaki adımlar boru hattı için de geçerlidir.
+
+## Hangi hatta hangi boru?
+
+1. **Depodan bahçeye uzun gömülü ana hat:** Düz araziyse PVC ya da PE; taşlı ve eğimliyse PE.
+2. **Yüzeyde, açıkta ana hat:** UV dayanımlı PE.
+3. **Damla hat (16-20 mm):** PE. Damla hat seçimi için [damlama bant ile damla boru arasındaki fark](/damlama-bant-ile-damla-boru-arasindaki-fark) yazısına bakın.
+4. **Pompa çıkışı:** Basınç sınıfına bakın; titreşimi esnek bağlantıyla alın.
+5. **Geçici hat, sezonluk:** Rulo PE; sezon sonunda toplanıp saklanabilir.
+
+Bahçe hortumu bir boru değildir; hortum esnek ve geçicidir, sürekli basınç altında gömülü hat için tasarlanmamıştır. Hortum seçimi için [bahçe hortumu seçimi](/bahce-hortumu-secimi) yazısına bakın.
+
+## Bağlantı parçaları ve uyum
+
+PVC'de yapıştırıcılı ek, PE'de mekanik sıkma bağlantı kullanılır. PE boru bağlantı parçalarını (dirsek, te, vana) [PE boru bağlantı parçaları](/pe-boru-baglanti-parcalari) yazısında anlattık. Çap uyumuna dikkat edin: PE borunun dış çapı bağlantının iç ölçüsüne uymalı; farklı ölçü veya markayı karıştırmak sızıntı kaynağıdır. Dişli bağlantıları teflon bantla sızdırmaz hâle getirin ve plastik parçaları aşırı sıkmayın.
+
+## Montajda dikkat: gömme, kum yatağı ve dolgu
+
+Hangi boruyu seçerseniz seçin gömme işi aynı kurallara tabidir. Hendeği boru çapına göre açın; dibini taş ve sert kütlelerden arındırıp birkaç santim kumla yastıklayın. Boruyu yerleştirdikten sonra ilk dolguyu da ince toprak ya da kumla yapın, ardından hendeği doldurun ve hafifçe sıkıştırın. Sivri taş borunun üstüne yaslanırsa basınç altında deldiği görülür. Bahçede hat çok derin olmak zorunda değildir ama toprak işleyen aletlerin değmeyeceği derinliği tercih edin; sürüm ya da çapa derinliği için [toprak işleme](/toprak-isleme) yazısına bakın.
+
+Gömdükten sonra hattın yerini bir krokiye ya da fotoğrafa işaretleyin. Bir yıl sonra çapa ya da kazık için kazarken boruyu delmek, bahçede sık görülen bir kazadır. Hendek kapatılmadan önce hattı bir kez basınçla çalıştırıp sızıntı kontrolü yapmak, toprak altındaki arızayı en baştan yakalar.
+
+## Test, sızdırmazlık ve ilk çalıştırma
+
+Hat kurulunca ucunu geçici olarak kapatıp suyu yavaşça açın; hava çıksın diye uç vanayı hafif aralık bırakın. Bağlantılarda ve borunun boyunca damla ve ıslaklık arayın. Basıncı kademeli artırın: Ani yüksek basınç hem yapıştırıcılı bağlantıyı hem de mekanik bağlantıyı zorlar. PVC yapıştırıcılı eklerde yapıştırıcı üreticisinin belirttiği kuruma süresi geçmeden basınç vermeyin. Birkaç saat çalıştırdıktan sonra bağlantıları yeniden kontrol edin; sızıntı en çok ilk günde çıkar.
+
+## Ömür ve maliyet düşüncesi
+
+PVC ve PE iyi kurulursa uzun yıllar çalışır; ömür malzemeden çok montaj kalitesine, basınç yönetimine ve ışığa maruziyetine bağlıdır. Bu yazıda fiyat vermiyoruz; fiyat dalgalanır ve markadan markaya değişir. Maliyeti karşılaştırırken sadece metre fiyatına değil, bağlantı parçası sayısına, işçiliğe ve arıza riskine bakın: Rulo PE ile az parça kullanılırken, sert PVC'de her dönemeçte bir dirsek gerekir.
+
+## Küçük bahçe için pratik karar
+
+Bahçeniz küçükse (birkaç yüz metrekare) çoğu zaman tek bir rulo PE ana boru ve ona bağlı damla hat yeterlidir: Tek tip malzeme, az bağlantı, kolay söküm. Büyük ve düz tarlada, uzun ve gömülü ana hatta PVC ya da PE seçimi basınç sınıfı, boru çapı ve işçilik kolaylığına göre yapılır. Boruyu markete gitmeden önce ölçüp çizmek, fazla ya da eksik parça almayı da önler. Kararsız kaldığınızda hat uzunluğunu, giriş basıncını, arazi eğimini ve boru döşenecek yeri not alın; bu dört bilgiyle bayide doğru borunun seçilmesi çok kolaylaşır.
+
+## Sık yapılan hatalar
+
+- **PVC boruyu açıkta güneşe bırakmak:** Zamanla gevrekleşir. Düzeltme: Gömün ya da koruyun.
+- **PE boruyu yüzeyde gevşek döşemek:** Isıyla boyu değişir, hat dalgalanır. Düzeltme: Yer yer sabitleyin.
+- **Basınç sınıfını sormamak:** Boru yüksek basınçta patlar. Düzeltme: Etiketi okuyun, regülatör ekleyin.
+- **Farklı çap ya da marka bağlantıyı zorlamak:** Sızıntı. Düzeltme: Uyumlu parça seçin.
+@sss
+S: PVC ile PE boru arasındaki fark nedir?
+C: PVC sert ve düz çubuk gelir, yapıştırıcıyla birleşir; en çok gömülü, düz hatta kullanılır. PE esnek ve rulo hâlindedir, mekanik bağlantıyla birleşir, taşlı ve eğimli arazide kolaydır. İkisinde de basınç sınıfı etiketten okunur.
+
+S: Sulama için PVC mi PE mi daha iyi?
+C: Hangi hat olduğuna bağlı. Düz ve gömülü ana hatta ikisi de olur; taşlı, eğimli ya da damla hatta PE daha pratiktir. Açıkta kalacaksa UV dayanımlı siyah PE tercih edilir. Basınç sınıfını etiketten kontrol edin.
+
+S: PE boru güneşte bozulur mu?
+C: Karbon siyahı katkılı siyah PE boru güneşe karşı dayanıklı üretilir. Yine de üretici etiketindeki UV dayanımı bilgisine bakın ve hattı mümkünse gömün ya da kelepçeyle sabitleyin. Açıkta uzun hatlar ısıyla uzar.
+
+S: Sulama borusunun basınç sınıfı nasıl seçilir?
+C: Hattın çalışma basıncını bilin (musluk ya da pompa çıkışında manometre ile ölçün). Boru etiketindeki basınç sınıfı bu değerden yeterince yüksek olmalı. Şebeke basıncı yüksekse regülatörle düşürüp hattı koruyun.
+
+### SORU
+yayin: 2027-04-15 10:20
+kategori: sebze-meyve
+baslik: Elma sirkesi yaptım, yüzeyinde jelatin gibi bir şey var, zararlı mı?
+metin: Kavanozumun yüzeyinde kalın, jelatin gibi bir tabaka oluştu. Küf mü yoksa normal mi?
+@cevap Muhammed Hamza Çelik | 2
+Jelatinimsi, açık renkli, pürüzsüz tabaka sirke anasıdır ve normaldir. Küf ise tüylü, toz gibi, yeşil, siyah ya da mavi lekeli olur. Koklayın: Sirke gibi kokuyorsa sorun yok; küflü rutubet kokusu varsa tümünü atın. Emin değilseniz fotoğrafını çekip bir gıda güvenliği kaynağına danışın.
+
+### SORU
+yayin: 2027-04-15 13:00
+kategori: bahce-ipuclari
+baslik: Bahçede çalışırken kollarım yanıyor, uzun kollu giysi çok sıcak, ne yapmalıyım?
+metin: Yazın kısa kollu çalışınca kollarım yanıyor, uzun kollu da bunaltıyor. Çözüm var mı?
+@cevap Halil İbrahim Çelik | 2
+Hafif, açık renkli ama sıkı dokulu ve nefes alan uzun kollu gömlek seçin; bu kumaşlar güneşi iyi engeller. Kol ağzını bileğe bırakan ince bir güneş kolluğu da işe yarar. En sıcak saatlerde çalışmayın, sabah ve akşamı tercih edin, bol su için ve açıkta kalan yerlere güneş kremi sürün.
+
+### SORU
+yayin: 2027-04-15 17:30
+kategori: bahce-ipuclari
+baslik: Bahçeye PE boru döşedim, güneşte dalgalandı, normal mi?
+metin: Yüzeyde döşediğim siyah PE boru güneşte kıvrım kıvrım oldu. Boru bozuldu mu?
+@cevap Mikdat Çelik | 2
+Normal; PE boru ısıyla uzar ve gevşer, serin saatlerde eski boyuna döner. Bozulmuş sayılmaz. Hattı yer yer kazık ya da kelepçeyle sabitleyin, mümkünse gömün ya da hafif toprakla örtün. Uzun açık hatlarda bu davranışı hesaba katarak biraz gevşek bırakmak, çekilip bağlantıdan kopmasını önler.

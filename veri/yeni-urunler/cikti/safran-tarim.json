@@ -1,0 +1,78 @@
+{
+ "site": "tarim",
+ "kategoriler": [
+  {
+   "name": "Topraklar",
+   "slug": "topraklar",
+   "pageTitle": "Topraklar",
+   "description": "Topraklar",
+   "children": [
+    {
+     "name": "Özel Bitki Toprakları",
+     "slug": "ozel-bitki-topraklari",
+     "pageTitle": "Özel Bitki Toprakları",
+     "description": "Özel bitki toprakları"
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "HG Safran Toprağı",
+   "marka": "HG",
+   "sku": "HG-SFR-05L",
+   "kategoriler": [
+    "Özel Bitki Toprakları"
+   ],
+   "fiyat": 249,
+   "etiketler": [
+    "kdv_20"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-safran-topragi.webp"
+   ],
+   "metaData": {
+    "slug": "hg-safran-topragi",
+    "pageTitle": "HG Safran Toprağı | Tarım Dünyası",
+    "description": "Safran soğanı toprakta çürüyor mu? Pomzalı, süzek hazır toprak; dikim adımları ve sulama ipuçları."
+   },
+   "aciklama": "<p>Safran soğanlarını diktiniz ama çiçek açmadı, ya da soğanlar toprakta yumuşayıp çürüdü mü? Çoğu zaman sorun toprakta ve suyun toprakta kalmasındadır. Safran, kuru yazı ve süzek toprağı sever; ıslak toprakta soğan çürümeye başlar. HG Safran Toprağı, iri taneli pomza ve perlitle hazırlanmış, fazla suyu hızla bırakan kullanıma hazır saksı toprağıdır. Karıştırma ya da oran hesabı gerekmez.</p>\n<h2>Safran Soğanı Neden Toprakta Çürür?</h2>\n<p>Safran (Crocus sativus), kış yağışlı ve yazı kuru iklimlerin bitkisidir. Soğanı, bu iklime uygun olarak toprakta yaz boyunca uykuda kalır. Toprak suyu geç bırakırsa ve yaz uykusunda ıslak kalırsa soğan çürür. Fazla suyu hızla akıtan, gözenekli bir toprak bu riski belirgin biçimde azaltır.</p>\n<h2>Karışımın İçinde Ne Var?</h2>\n<ul>\n<li><strong>Sphagnum ham torf:</strong> %30, hafif ve gevşek taban</li>\n<li><strong>Kırmızı pomza lav taşı:</strong> %30, kalıcı hava boşluğu ve süzek yapı</li>\n<li><strong>Kalın tarım perliti:</strong> %20, fazla suyun hızla akması</li>\n<li><strong>Longoz orman toprağı (doğal humuslu):</strong> %10, doğal humus ve doku</li>\n<li><strong>Solucan gübresi:</strong> %10, organik besin</li>\n</ul>\n<h2>Seçerken Neye Bakmalı?</h2>\n<ul>\n<li><strong>Doku:</strong> gözenekli, sulama sonrası sıkışıp çamurlaşmayan</li>\n<li><strong>Su davranışı:</strong> fazla suyu hızla bırakan</li>\n<li><strong>Kap:</strong> dibi delikli, derin bir saksı ya da yükseltilmiş yatak</li>\n</ul>\n<h2>Dikim: 4 Adım</h2>\n<ol>\n<li>Kabın dibine su akışı için birkaç santim toprak koyun.</li>\n<li>Soğanları sivri uçları yukarı bakacak şekilde, birbirine değmeden dizin.</li>\n<li>Üzerini yaklaşık 10 cm toprakla kapatın ve ölçülü su verin.</li>\n<li>Kabı güneşli, yağmurdan korunaklı bir yere koyun; toprağı sürekli ıslak tutmayın.</li>\n</ol>\n<h2>Paket Boyları</h2>\n<p>5 litre: bir iki saksı için. 10 ve 20 litre: birkaç saksı ya da küçük bir yatak için. 40 litre: çok sayıda saksı ve geniş yataklar için.</p>\n<h2>Kısa Cevaplar</h2>\n<p><strong>Safran ne zaman dikilir?</strong> Yaz sonunda, ağustos–eylülde.<br><strong>Ne zaman çiçek açar?</strong> Çoğunlukla ekim–kasımda.<br><strong>Yapraklar ne zaman kesilir?</strong> Sararıp kuruyana kadar bırakılır; soğan onlardan besin depolar.<br><strong>Yazın sulanır mı?</strong> Uyku döneminde toprak kuru tutulur.<br><strong>Başka soğanlı çiçeklere de olur mu?</strong> Süzek toprak isteyen soğanlı çiçeklerde kullanılabilir; ürün safran için hazırlanmıştır.</p>",
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "20 Lt",
+     "40 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 249,
+     "sku": "HG-SFR-05L",
+     "stok": 1000
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 349,
+     "sku": "HG-SFR-10L",
+     "stok": 1000
+    },
+    {
+     "deger": "20 Lt",
+     "fiyat": 549,
+     "sku": "HG-SFR-20L",
+     "stok": 1000
+    },
+    {
+     "deger": "40 Lt",
+     "fiyat": 1075,
+     "sku": "HG-SFR-40L",
+     "stok": 1000
+    }
+   ],
+   "stoksuzSat": false
+  }
+ ]
+}

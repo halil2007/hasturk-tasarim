@@ -1,0 +1,234 @@
+### YAZI
+slug: domates-topragi-saksida-ve-bahcede-karisim-ve-ph
+baslik: Domates Toprağı: Saksıda ve Bahçede Karışım ve pH
+yayin: 2027-04-04 14:05
+yazar: Mikdat Çelik
+kategori: toprak-rehberi
+odak: domates toprağı
+seo_baslik: Domates Toprağı: Saksıda ve Bahçede Karışım ve pH
+seo_aciklama: Domates toprağı nasıl olmalı? Saksı ve bahçe için karışım oranları, ideal pH aralığı, drenaj, kalsiyum ve organik madde dengesi ile yaygın toprak hataları.
+ozet: Domates gevşek, süzek, organik maddesi dengeli ve pH'ı hafif asitten nötre yakın bir toprak ister. Saksı karışımı ile bahçe toprağını ayrı ayrı, oran ve pH ile birlikte anlattık.
+etiketler: domates toprağı, domates saksı toprağı, toprak pH, domates karışımı, bahçede domates, drenaj
+gorsel: bekliyor
+gorsel_alt: Elde tutulan gevşek, koyu renkli toprak ve arkasında sıra sıra dikilmiş genç domates fideleri
+urunler: solucan-gubreli-sebze-topragi, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, organik-toprak
+kisaca: Domates toprağı gevşek, süzek ve organik maddece dengeli olmalı; pH hedefi çoğu kaynakta 6,2 ile 6,8 arasıdır. Saksıda bahçe toprağı yerine hafif, hazır ya da kendi hazırladığınız karışım kullanın ve kapta mutlaka drenaj deliği bulundurun. Bahçede önce toprak testi yapıp pH'a göre düzeltin.
+@govde
+Domates toprağı denince akla çoğu zaman bol gübre gelir; oysa domatesi toprakta tutan şey besinden önce yapıdır. Kökler derine inecek, su fazlası çekilecek, havalanma olacak ve pH, kalsiyumun bitkiye geçebileceği aralıkta kalacak. Bu üç şart sağlanmamışsa gübre eklemek sorunu çözmez. Aşağıda saksı ve bahçe için ayrı ayrı karışımları, pH hedefini ve toprağı hazırlamanın sırasını bulacaksınız.
+
+## Domates toprağı hangi özellikleri taşımalı?
+
+Wisconsin Üniversitesi'nin domates el notu, en uygun toprak pH'ının 6,2 ile 6,8 arasında olduğunu, 5,5 ile 7,5 arasının ise tolere edildiğini yazıyor ([Wisconsin Extension, domates yetiştirme](https://pierce.extension.wisc.edu/files/2021/03/Tomato-Handout.pdf)). Georgia Üniversitesi de aynı aralığı önerip pH'ın yanında kalsiyum sağlanmasını, gerekirse dolomitik kireç taşı ya da alçı taşı kullanılmasını söylüyor ([UGA Extension, çiçek burnu çürüklüğü](https://site.extension.uga.edu/franklin/2016/06/blossom-end-rot/)). Maryland Üniversitesi'nin aralığı biraz dar: 6,3–6,8 ([Maryland Extension, çiçek burnu çürüklüğü](https://extension.umd.edu/resource/blossom-end-rot-vegetables)).
+
+Bu, yalnız pH ölçmenin yetmediğini de gösterir. UGA'nın notunda olduğu gibi toprakta kalsiyum çoğu zaman yeterlidir; sorun, bitkinin onu meyveye taşıyamamasıdır ve düzensiz sulama ile fazla azot en sık tetikleyicilerdir. Domates toprağı bu yüzden dengeli nem tutmalı ama suyu bekletmemeli.
+
+| Özellik | Hedef | Neden |
+|---|---|---|
+| pH | 6,2–6,8 | Besinler bu aralıkta kolay alınır |
+| Yapı | Gevşek, kırıntılı | Kök derine iner, hava alır |
+| Drenaj | Fazla su hızlı çekilir | Kök çürümesini önler |
+| Organik madde | Orta düzeyde, olgun | Nemi tutar, besini yavaş verir |
+| Derinlik | Saksıda en az 30 cm | Köklerin yayılacağı hacim |
+
+Türkiye'de pH tablosu bölgeye göre değişir: Karadeniz kıyısında topraklar asitleşmeye, İç Anadolu ve Ege'nin birçok yerinde ise kireçli ve yüksek pH'a meyleder. Yüksek pH'lı kireçli toprakta domatesin genç yaprakları demir eksikliğinden sararabilir; bu yüzden bahçede önce toprak testi yaptırmak gerekir. Test sonuçlarını yorumlamak için [toprak pH değeri nedir](/toprak-ph-nedir) yazısına bakın.
+
+## Saksıda domates toprağı karışımı
+
+Saksıda bahçe toprağı kullanmayın: kap içinde sıkışır, suyu dipte tutar ve kökleri boğar. Hafif, kısmen turba ya da cocopeat içeren bir karışım gerekir. Wisconsin Extension'ın saksıda domates notu da kapta mutlaka drenaj deliği olmasını şart koşuyor ([Wisconsin Extension, kapta domates](https://marinette.extension.wisc.edu/horticulture/container-gardening/tomato-in-a-container_sr)).
+
+::: karisim
+Sebze toprağı (hazır, hafif) | 40
+Cocopeat ya da torf | 25
+Olgun kompost ya da solucan gübresi | 20
+Perlit | 15
+:::
+
+Oranlar başlangıç içindir; hazır sebze toprağı zaten cocopeat ya da perlit içeriyorsa onları azaltın. Karışımı kullanmadan önce eleyin, iri parçaları ayıklayın ve kabı yarıya kadar doldurup elle bastırmadan tamamlayın. Hazır karışım kullanıyorsanız etiketteki içerik listesine bakın. Kendi karışımınızı hazırlamak için ayrıntılı oran ve litre hesabı [kendi toprak karışımını oluşturma](/kendi-toprak-karisimini-olusturma) yazısında; genel saksı sebze toprağı için [saksıda sebze toprağı](/saksida-sebze-topragi) yazısına bakın.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Bahçede domates toprağı nasıl hazırlanır?
+
+Bahçede önce toprağın ne olduğuna bakın. Kumlu toprak suyu hızla kaçırır, kili ağır toprak ise yağmurdan sonra günlerce ıslak kalır. İkisinde de çözüm aynıdır: olgun organik madde. Sonbaharda ya da dikimden en az iki üç hafta önce toprağı kürekle çevirip üzerine olgun kompost ya da solucan gübresi yayın ve üst 20 cm'ye karıştırın. Taze hayvan gübresi kök boğazını yakabilir; yalnız iyice yanmış olanı kullanın.
+
+::: adimlar
+Toprak testi yapın | pH ve kalsiyum için analiz alın; sonuca göre kireç ya da alçı taşı gerekip gerekmediğine karar verin.
+Toprağı çevirin | Dikim alanını yaklaşık 25-30 cm derine gevşetin, taşları ve kök artıklarını ayıklayın.
+Organik madde ekleyin | Olgun kompost ya da solucan gübresini yüzeye yayıp üst katmana karıştırın.
+Yüksek sırt yapın | Ağır toprakta dikim sırasını yükseltin, su fazlası kenara aksın.
+Dikim çukurunu hazırlayın | Fideyi biraz derin dikin; gövdenin gömülen kısmından ek kök çıkar.
+:::
+
+Missouri Üniversitesi, önce toprak testini, pH normal ve kalsiyum azsa alçı taşı kullanmayı, bunun pH'ı değiştirmeden kalsiyum eklediğini yazıyor ([Missouri Extension, çürüyen domatesler](https://extension.missouri.edu/news/rotten-tomatoes-star-in-garden-horror-show)). Kireç ya da alçı taşı dozunu, tahminle değil analiz sonucuna göre il ya da ilçe tarım müdürlüğünün laboratuvarında yaptırarak belirleyin.
+
+## Toprak türüne göre bahçede ne yapılır?
+
+Aynı bahçede bile toprak değişir. Avucunuza bir parça nemli toprak alıp sıkın: dağılıyorsa kum, yağlı bir şerit gibi uzuyorsa kil ağırlıklıdır. Domates ikisinde de yetişir ama hazırlık farklıdır.
+
+| Toprak | Sorun | Hazırlık |
+|---|---|---|
+| Kumlu | Su ve besin hızla kaçar | Bol olgun kompost, malç, sık ama kısa sulama |
+| Killi | Su durur, kök boğulur | Yüksek sırt, kompost, kumla değil organikle iyileştirme |
+| Tınlı | Genelde uygun | Yıllık kompost takviyesi yeterli |
+| Kireçli, pH yüksek | Demir ve fosfor alımı zorlaşır | Organik madde, pH analizi, gerekirse kükürt |
+
+Killi toprağa kum eklemek çoğu zaman beton gibi sertleşen bir karışım verir; organik madde daha güvenli yoldur. Kireçli toprağı asitleştirmek için kükürt gibi ürünler yıllar sürer ve miktarı analize bağlıdır; ziraat mühendisine danışmadan tahminle uygulamayın.
+
+## Hazır sebze toprağı mı, kendi karışımınız mı?
+
+Balkonda üç dört saksı için hazır sebze toprağı pratik ve tutarlıdır. İçeriğinde torf ya da cocopeat, perlit, olgun organik madde bulunan karışım sebzeler için hazırlanmıştır; ürün bilgisine göre HG organik sebze toprağı solucan gübresi, leonardit, hindistan cevizi torfu, torf, orman toprağı ve perlit içerir. On, yirmi saksı söz konusuysa kendi karışımınızı hazırlamak daha ucuza gelir; ama oranları tutturmak ve olgun kompost bulmak gerekir. İki durumda da yeni karışımı dikimden bir gün önce nemlendirin; kuru turba suyu önce itip köklerin etrafında kuru cepler bırakır.
+
+## Çiçek burnu çürüklüğü ve toprak
+
+Domateste meyvenin ucundaki kararma çoğu zaman toprağın kalsiyumsuzluğundan değil, kalsiyumun bitkiye gidişindeki aksamadan doğar. Toprak kuruyup sonra bol sulandığında ya da azot fazlaysa belirti çıkar. Bu yüzden domates toprağı suyu dengeli tutmalı: yüzeyi malçla örtmek ani kuruma ve sulama arasındaki farkı yumuşatır. Konunun ayrıntısı için [domateste çiçek burnu çürüklüğü](/cicek-burnu-curuklugu-domates) yazısına bakın; sulama aralığı için [domates sulama](/domates-sulama) yazısı yardımcı olur.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Toprakta sık yapılan hatalar
+
+İlk hata, aynı yerde art arda domates dikmektir. Domatesgiller (biber, patlıcan, patates) aynı hastalıkları taşıdığı için, toprak kaynaklı sorunlar birikir. Yerini her yıl değiştirmek ya da arada başka bir aileden bitki yetiştirmek gerekir. İkinci hata, aşırı azotlu gübreyle toprağı beslemektir; yapraklar bol yeşil olur, çiçek ve meyve azalır. Üçüncü hata, saksı tabanına çakıl koyup drenajı çözmüş saymaktır: çakıl tabakası suyun çekilmesini kolaylaştırmaz, su tabakasını yukarı taşır. Gerçek çözüm, kabın dibindeki delik ve karışımın kendisidir.
+
+Dördüncü hata, saksıyı çok küçük seçmektir. Domatesin kökleri geniş hacim ister; bodur çeşitlerde bile saksı hacmi küçüldükçe sulama sıklığı artar ve karışım hızla kurur. Beslemeyi toprağa ilk dikimde vermek ve sonrasında düzenli takip etmek için [domates gübreleme](/domates-gubreleme) yazısına, dikim çukuru için [domates fidesine solucan gübresi](/domates-fidesine-solucan-gubresi) yazısına bakabilirsiniz.
+
+## Toprağı sezon sonunda yenilemek
+
+Saksıdaki karışımı ertesi yıl olduğu gibi kullanmayın; çökmüş ve tuz birikmiş olabilir. Üst birkaç santimi atıp yerine taze karışım koymak, kökleri çürümüş ya da hastalıklı bitki çıkan saksıda ise tüm karışımı değiştirmek gerekir. Bahçede ise hasattan sonra bitki artıklarını toplayın, ardından yeşil gübre ya da kompostla toprağı yeniden besleyin. Bir yıllık bir ara bile hastalık yükünü azaltır.
+@sss
+S: Domates için en uygun toprak pH'ı kaçtır?
+C: Çoğu üniversite kaynağında 6,2 ile 6,8 arası en uygun aralık olarak geçer. 5,5 ile 7,5 arası da tolere edilir. Kireçli topraklarda pH yüksek olabilir, bu yüzden bahçede önce toprak testi yaptırmak gerekir.
+
+S: Domatesi saksıda bahçe toprağıyla yetiştirebilir miyim?
+C: Önermiyoruz. Bahçe toprağı kapta sıkışır, suyu dipte tutar ve kökleri boğar. Hafif ve süzek, cocopeat ya da perlit içeren bir karışım kullanın ve kabın dibinde delik bulunsun.
+
+S: Domates saksısı en az kaç litre olmalı?
+C: Kaynaklara göre en az yaklaşık 30 cm derinlikte karışım gerekir. Standart çeşitlerde daha büyük kap, sulamayı kolaylaştırır; bodur ve kiraz çeşitleri daha küçük kapta da yetişebilir ama sık sulama ister.
+
+S: Domates toprağına kireç ya da alçı taşı eklemek gerekir mi?
+C: Yalnız toprak analizi eksiklik gösteriyorsa. pH düşükse kireç, pH normal ama kalsiyum azsa alçı taşı düşünülür. Dozu tahminle değil analiz sonucuna göre il ya da ilçe tarım müdürlüğünden öğrenin.
+
+### YAZI
+slug: yavas-salinimli-gubre-cubuk-ve-granulle-besleme-ne-kadar-surer
+baslik: Yavaş Salınımlı Gübre: Çubuk ve Granülle Besleme Ne Kadar Sürer?
+yayin: 2027-04-04 16:40
+yazar: Rümeysa Altınova
+kategori: gubreleme
+odak: yavaş salınımlı gübre
+seo_baslik: Yavaş Salınımlı Gübre: Çubuk ve Granül Ne Kadar Sürer?
+seo_aciklama: Yavaş salınımlı gübre ne kadar sürer? Kaplı granül, çubuk ve organik seçeneklerin süresi, sıcaklığın etkisi, saksı ve bahçede uygulama ve yenileme zamanı.
+ozet: Yavaş salınımlı gübre besini haftalara ya da aylara yayar, ama süresi ambalajdaki rakamdan çok sıcaklığa bağlıdır. Kaplı granül, çubuk ve organik seçenekleri, saksı ile bahçede kullanımı anlattık.
+etiketler: yavaş salınımlı gübre, kaplı gübre, gübre çubuğu, granül gübre, saksı gübresi, solucan gübresi
+gorsel: bekliyor
+gorsel_alt: Saksı toprağına yerleştirilmiş küçük gübre çubukları ve yüzeye serpilmiş yuvarlak granüller
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi, leonardit-organik-toprak-duzenleyici, organik-toprak
+kisaca: Yavaş salınımlı gübre besini ambalajda yazan süre boyunca, haftalardan birkaç aya kadar, kademeli olarak verir. Süreyi sıcaklık belirler: ısındıkça salınım hızlanır, yani güneşli balkon saksısında etiket süresi kısalabilir. Etiketi okuyun, dozu aşmayın ve süre bitince yenileyin.
+@govde
+Yavaş salınımlı gübre, besini bir seferde değil, günler ve haftalar içinde bitkiye vermek için tasarlanmış gübredir. Çubuk ya da granül biçimindedir; bir kez uygulanır ve uzun süre iş görür. Ama "bir ay", "üç ay" gibi ambalaj süreleri laboratuvar koşullarında ölçülen değerlerdir. Sizin saksınızda süre sıcaklığa, suya ve kaplamaya göre kısalıp uzar. Aşağıda türleri, gerçek süreyi etkileyen etmenleri ve doğru uygulama zamanını bulacaksınız.
+
+## Yavaş salınımlı gübre türleri
+
+Üç ayrı grup vardır ve hepsi aynı mantıkla çalışmaz. Florida Üniversitesi'nin yayım servisi, kontrollü ve yavaş salınımlı gübreleri besin yönetim aracı olarak ele alıyor ve besinin tamamen serbest kalma süresinin kaplamaya, neme ve sıcaklığa bağlı olduğunu yazıyor ([UF/IFAS, kontrollü ve yavaş salınımlı gübreler](https://edis.ifas.ufl.edu/hs1255)).
+
+| Tür | Nasıl çalışır | Süre |
+|---|---|---|
+| Kaplı granül | Reçine ya da polimer kaplamadan su geçer, besin yavaş çıkar | Ürüne göre haftalardan aylara; etikette yazar |
+| Gübre çubuğu / tablet | Sıkıştırılmış gübre, toprak nemiyle yavaş erir | Ürüne göre bir ila birkaç ay |
+| Organik (solucan gübresi, kompost) | Mikroorganizmalar besini serbest bırakır | Aylar; sıcaklık ve toprak canlılığına bağlı |
+
+Kaplı granüller ve çubuklar ürün etiketindeki süreye göre seçilir. Aynı UF/IFAS yayını, etikette ürünün ne kadarının kaplı, yani kontrollü salınımlı olduğuna bakmayı öneriyor; çünkü bazı ürünlerde besinin yalnız bir kısmı kaplıdır, geri kalanı hızlı çözünür. Organik seçenekler kimyasal olarak kaplanmadığı için süreyi "doğal" yöntemlerle, yani toprağın canlılığıyla belirler.
+
+## Yavaş salınımlı gübre ne kadar sürer?
+
+Rakamlar ürüne özeldir. UF'nin bir çalışmasında azotu yaklaşık 45, 75 ve 120 günde salacak şekilde tasarlanmış ürünler kullanılmış; bu, etiket sürelerinin ürünler arasında ne kadar farklı olabildiğini gösterir. Her şeyden önce ambalajdaki süreyi esas alın.
+
+Sıcaklık bu süreyi kısaltır. USDA'nın kaplı gübre notu, polimer kaplı üre için salınım süresinin her 10 °C artışta kabaca yarıya indiğini belirtiyor ([USDA NRCS, kaplı gübre](https://efotg.sc.egov.usda.gov/references/public/AZ/Coated_Fertilizer.pdf)). Bu pratikte şu demek: serin bir ilkbahar toprağında üç ay gidecek bir ürün, temmuz sıcağında çok daha çabuk tükenir. Güneş gören koyu renkli bir plastik saksıda kök bölgesi toprağa göre daha da ısınabilir; saksıda sürenin etiketten kısa olmasını beklemek makuldür (bu kısım kaynak değil, çıkarımdır).
+
+Nem etkisi ürüne göre değişir. UF yayını salınımın sıcaklık ve toprak nemi arttıkça arttığını yazıyor; bazı kaplı ürünlerde ise nemden çok sıcaklık belirleyicidir. Bu nedenle kuru kalan bir yüzeye serpilen granül de, sulanan bir saksıdaki granül de aynı hızda çalışmaz.
+
+## Saksıda ve bahçede nasıl uygulanır?
+
+::: adimlar
+Etiketi okuyun | Süreyi, bitki başına ya da saksı hacmine göre miktarı ve hangi bitkiler için uygun olduğunu bulun.
+Miktarı ölçün | Etiketteki dozu aşmayın; çok vermek yavaş salınımlı gübrede de fazla tuz demektir.
+Toprağa yerleştirin | Granülü üst birkaç santimde toprakla karıştırın; çubuğu gövdeden uzağa, kök bölgesine batırın.
+Sulayın | Uygulamadan sonra sulayın ki salınım başlasın.
+Tarihi yazın | Süre bitince yenilemek için uygulama günü not alın.
+:::
+
+Granülü yüzeye serpmek mümkündür ama yağmurda ya da bol sulamada kenara sürüklenebilir ve kuş ya da evcil hayvan yiyebilir. Üst toprakla karıştırmak daha güvenlidir. Çubuk gübreleri iyi çalışır ama bitkinin köküne tek noktadan besin verir; geniş saksıda bir çubuk her kökü beslemeyebilir, bu yüzden birkaç noktaya dağıtın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Doğal yavaş salınım: katı solucan gübresi ve kompost
+
+Kimyasal kaplama olmadan yavaş besleyen bir yol da olgun organik maddedir. Ürün bilgisine göre HasTürk katı solucan gübresi, bitkinin ihtiyaç duyduğu besinleri yavaş salınımla dengeli biçimde sağlayan, kimyasal katkı içermeyen organik bir toprak düzenleyici ve besin kaynağıdır. Bunun süresi sabit bir rakam değildir: toprak ısındıkça ve canlılık arttıkça organik madde daha çabuk ayrışır. Davranışı için [solucan gübresi etkisi ne zaman görülür](/solucan-gubresi-etkisi) yazısına, saksıya katmak için [katı solucan gübresi saksıya nasıl konur](/kati-solucan-gubresi-saksiya-nasil-konur) yazısına bakın.
+
+Organik yöntemin avantajı, aşırı doz riskinin kimyasal kaplı granüle göre düşük olmasıdır; yine de yoğun uygulama kökleri rahatsız edebilir. Toprağı güçlendirmek için leonardit gibi organik düzenleyicilerle birlikte kullanılabilir.
+
+## Ne zaman uygulanır, ne zaman yenilenir?
+
+Uygulama zamanını bölgenin iklimi belirler. Ege ve Akdeniz kıyısında toprak şubat sonunda ısınmaya başlar; mart-nisanda yapılan ilk uygulama sezonun başını kapsar ve haziranda sıcak artınca süre hızla kısalır. İç Anadolu ve Doğu'da toprak mayısa kadar serin kalır; nisanda verilen granül, serin toprakta çok yavaş çalışır ve besin yazın ortasına kayabilir. Yani aynı ürün, aynı tarihte farklı bölgelerde farklı davranır.
+
+| Durum | Yapılacak |
+|---|---|
+| Serin ilkbahar, ürün 3 ay yazıyor | İlk uygulamayı toprak ısınırken yapın, yazın ortasında bitkiye bakın |
+| Sıcak yaz, güneşli saksı | Etiket süresini kısa kabul edip bir ay erken kontrol edin |
+| Bitki yaprak sararması gösteriyor | Önce sulama ve kök sorununu eleyin, sonra besin eksikliğini düşünün |
+| Sonbahar ve kış | Azotlu yavaş salınımlı gübreyi geç vermeyin; yeni sürgünü soğuğa uğratır |
+
+Yenileme için takvimden çok bitkiye bakın. Yeni yaprak soluk çıkıyorsa, büyüme yavaşladıysa ve sulama düzgünse besin bitmiş olabilir. Bu durumda etiketteki dozun altında bir yenileme yeterli olabilir; tam dozu hemen yeniden vermek gübre yakmasına yol açar.
+
+## Dikim sırasında karıştırmak mı, sonradan eklemek mi?
+
+Yeni dikim yapıyorsanız granülü dikim toprağına baştan karıştırmak, sonradan eklemekten kolaydır; yalnız kök topağıyla doğrudan temas etmesin diye karışımı çukurun içine değil, çevresine yayın. Mevcut bir saksıya sonradan eklenen gübre ise yalnız üst katmanda kalır; kökler derindeyse etkisi gecikir. Bu yüzden uzun ömürlü saksı bitkilerinde yılda bir üst toprağı yenilemek ve gübreyi o sırada karıştırmak en temiz yoldur.
+
+## Kaplı gübre kalıntısı ve çevre
+
+Kaplı granüllerin dışındaki plastik benzeri kabuk bazen toprakta ya da saksıda boş küre olarak kalır. Bu normaldir; içi boşalmış kabuktur ve bitkiyi etkilemez. Yine de bahçede çevreye karışmaması için sulama sırasında yüzeyde yüzenleri toplayın. Yağmur ya da bol sulama ile granüllerin su kanalına taşınmasını önlemek için eğimli yerde yüzeye serpmek yerine toprağa karıştırmak daha doğrudur.
+
+## Yavaş salınımlı gübre her bitkiye uygun mu?
+
+Her bitki yavaş salınımdan aynı oranda yararlanmaz. Yıllık sebzeler hızlı büyür ve belirli dönemlerde çok besin ister; yavaş salınımlı gübre temel besleme için iyidir, ama domates, biber gibi meyve veren bitkilerde sezon ortasında ek bir sıvı destek gerekebilir. Çok yıllık çiçekler, gül, meyve ağaçları ve saksı bitkilerinde ise süre uzun olduğundan pratiktir. Ayrıca bazı bitkiler tuza duyarlıdır: orkide, sukulent ve kaktüs gibi bitkilerde özel formüllü ürün kullanın ve dozu düşük tutun. Ev bitkileri için genel takvim [saksı bitkileri gübreleme takvimi](/saksi-bitkileri-gubreleme-takvimi) yazısında.
+
+## Hataların başında doz ve süre karışıklığı gelir
+
+Birinci hata, ambalajdaki süreyi garanti saymaktır. Süre koşullara göre değişir; bitki ay sonunda sararıyorsa besin bitmiş olabilir. İkinci hata, hızlı ve yavaş gübreyi aynı anda yoğun vermektir. Üçüncü hata, kuru toprağa gübre koyup sulamamaktır: kuru ortamda salınım çok yavaştır ya da bölgesel yoğunlaşma olur. Aşırı verdiyseniz belirtileri tanımak için [gübre yakması](/gubre-yakmasi) yazısına bakın. Sıvı ile katı arasında karar vermek için [sıvı gübre mi katı gübre mi](/sivi-gubre-mi-kati-gubre-mi) yazısı faydalıdır.
+
+Hangi gübreyi seçeceğinizi, bitkinizin türünü ve ambalaj bilgisini birlikte düşünerek karar verin. Bahçede gübre planı için il ya da ilçe tarım müdürlüğüne ve ziraat mühendisine başvurabilirsiniz.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+@sss
+S: Yavaş salınımlı gübre ne kadar süre etki eder?
+C: Ürüne göre haftalardan birkaç aya kadar değişir; süre etikette yazar. Sıcaklık arttıkça salınım hızlanır, bu yüzden sıcak aylarda ve güneşli saksıda süre etiketten kısa olabilir.
+
+S: Gübre çubuğu saksıda nereye batırılır?
+C: Gövdeden uzakta, kök bölgesinin olduğu yere, etikette yazan derinliğe batırılır. Geniş saksıda birkaç noktaya dağıtmak, kökün her yerinin beslenmesini sağlar. Uygulamadan sonra sulayın.
+
+S: Yavaş salınımlı gübre ile sıvı gübre birlikte verilir mi?
+C: Verilebilir ama ikisini yoğun uygulamayın. Meyve veren bitkilerde temel besini yavaş salınımlıyla, sezon ortasındaki ek ihtiyacı seyreltik sıvı gübreyle karşılayabilirsiniz. Belirti olursa gübreyi kesin ve saksıyı bol suyla yıkayın.
+
+S: Yavaş salınımlı gübre organik olabilir mi?
+C: Evet. Olgun kompost ve solucan gübresi gibi organik maddeler besini mikroorganizmaların ayrıştırmasıyla yavaş verir. Süreleri sabit değildir; toprak ısındıkça ve canlılık arttıkça salınım hızlanır.
+
+### SORU
+yayin: 2027-04-04 10:30
+kategori: toprak-rehberi
+baslik: Domates saksısının dibine çakıl koyarsam drenaj iyileşir mi?
+metin: Balkonda domates için 20 litrelik saksı hazırlıyorum. Birçok yerde dibine çakıl ya da kırık seramik koymak öneriliyor. Gerçekten drenajı iyileştiriyor mu?
+@cevap Mikdat Çelik | 3
+Tersine, çoğu zaman işe yaramaz. Su, ince karışımdan iri çakıla geçmeden önce karışımın alt kısmında birikir; yani çakıl tabakası suyun bekleyeceği yeri yükseltir ve kök bölgesini ıslak tutar. Asıl drenajı kabın dibindeki delikler ve karışımın kendisi sağlar. Delikleri açık tutun, karışıma cocopeat ve perlit gibi hava veren bileşen katın. Çakıl yerine boş yer kalmasın diye aynı karışımla tam doldurun.
+
+### SORU
+yayin: 2027-04-04 13:15
+kategori: gubreleme
+baslik: Gübre çubuğu batırdım ama bitkide fark görmedim, çalışmıyor mu?
+metin: İki hafta önce çiçek saksısına gübre çubuğu batırdım. Yapraklar hâlâ soluk. Çubuk çalışmıyor mu, yoksa daha mı beklemeliyim?
+@cevap Rümeysa Altınova | 2
+Çubuklar çoğunlukla bir ila birkaç ayda kademeli erir; iki haftada büyük fark beklenmez. Çubuğun toprakla ve nemle temas ettiğinden emin olun: kuru toprakta ya da saksı yüzeyinde kalmışsa erimez. Birkaç haftada hâlâ soluk yaprak varsa önce sulamaya ve ışığa bakın, çünkü soluk yaprak her zaman besin eksikliği değildir. Çubuk tek noktadan beslediği için büyük saksıda ikinci bir çubuğu karşı tarafa batırmak dengeyi iyileştirir.
+
+### SORU
+yayin: 2027-04-04 17:55
+kategori: bahce-ipuclari
+baslik: Nisan başında bahçede toprak testi için örnek nasıl alınır?
+metin: Domates dikmeden önce toprağımı analiz ettirmek istiyorum. Tek bir yerden mi toprak almalıyım, kaç santim derinlikten, nasıl bir torbada saklamalıyım?
+@cevap Halil İbrahim Çelik | 2
+Bahçenin farklı yerlerinden, zikzak çizerek sekiz on noktadan örnek alın. Her noktada otu ve yüzeydeki artığı sıyırıp 15-20 santim derinliğe kadar V biçiminde bir çukur açın, kenarından ince bir dilim kesin. Dilimleri temiz bir kovada karıştırıp bir kısmını temiz torbaya koyun. Ağaç dibi, gübre yığını ya da yol kenarından örnek almayın. Laboratuvar için il ya da ilçe tarım müdürlüğünden örnek miktarını ve etiketleme kurallarını öğrenin.

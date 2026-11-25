@@ -1,0 +1,238 @@
+### YAZI
+slug: yatakta-toprak-cokmesi
+baslik: Yükseltilmiş Yatakta Toprak Çökmesi: Takviye Zamanı ve Karışımı
+yayin: 2027-02-21 11:35
+yazar: Hatice Kübra Çelik
+kategori: toprak-rehberi
+odak: yatakta toprak çökmesi
+seo_baslik: Yatakta Toprak Çökmesi: Takviye Zamanı ve Karışımı
+seo_aciklama: Yatakta toprak çökmesi normal mi? Yükseltilmiş yatakta toprağın neden alçaldığı, takviye zamanı, kompost ve toprak karışım oranları ve yıllık bakım.
+ozet: Yükseltilmiş yatakta toprak çökmesi, organik maddenin çürüyüp hacim kaybetmesinin doğal sonucudur. İlk yıl en belirgindir. Çökmenin nedenlerini, takviyenin zamanını, kompost ve toprak karışım oranlarını ve fazla kompostun riskini anlattık.
+etiketler: yatakta toprak çökmesi, yükseltilmiş yatak, toprak takviyesi, kompost, yatak toprağı, yıllık bakım
+gorsel: bekliyor
+gorsel_alt: Kenarından birkaç santim alçalmış toprak ve yanında kompost dolu bir kürek
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Yükseltilmiş yatakta toprak çökmesi normaldir: Organik madde çürür, hava boşlukları kapanır ve seviye düşer; ilk yıl birkaç santim kayıp beklenir. Her ilkbaharda kenara kadar yeni toprak ve kompost karışımıyla takviye edin. Uzantı kaynakları 70:30 toprak-kompost gibi karışımları başlangıç olarak verir; fazla kompost fosfor ve tuz biriktirebilir.
+@govde
+Yatağı kurduğunuz ilkbaharda üst kenarla toprak yüzeyi aynı hizadaydı. Yaz sonunda bakıyorsunuz ki toprak bir iki parmak aşağıda. Yatakta toprak çökmesi çoğu zaman bir kusur değil, canlı bir karışımın doğal davranışıdır. Yine de çökmeyi bilmeden bırakırsanız kök bölgesi küçülür, su yatağın kenarından taşar ve bitki besinsiz kalır. Aşağıda çökmenin nedenini, takviyenin ne zaman ve neyle yapılacağını ve fazla kompostun riskini anlatıyoruz. Kurulum aşamasında bakılacak ölçüler için [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazısına bakabilirsiniz.
+
+## Yatakta toprak çökmesi neden olur?
+
+Üç şey birlikte çalışır. Birincisi çürümedir: Kompost, yaprak, saman gibi organik maddeler mikroorganizmalarca parçalanır ve hacim kaybeder. İkincisi yoğunlaşmadır: Sulama ve yağmur, toprak parçacıkları arasındaki hava boşluklarını kapatır, taze doldurulmuş gevşek toprak oturur. Üçüncüsü yıkanmadır: Su sızdıkça çok ince parçacıklar aşağıya taşınır. Illinois Üniversitesi uzantısı, çürüyen kompost ve organik maddenin yatağı alçalttığını ve bu yüzden her yıl yeni toprak ve kompost eklemek gerektiğini yazar ([Illinois Extension: yükseltilmiş yatak bahçeciliği](https://extension.illinois.edu/news-releases/elevate-your-expectations-raised-bed-gardening)).
+
+Ne kadar çökeceği, karışımın organik madde oranına bağlıdır. Ask Extension yanıtlarında yeni bir yatakta yılda birkaç inç (kabaca 5-8 cm) çökme tahmin edilir; bir başka yanıtta yaklaşık yüzde 25'lik oturma kuralı anılır. Bunlar kaba ölçüler, kesin kural değildir; yatak ne kadar çok kompostluysa o kadar çok çöker. Bu yüzden ilk yıl çökmenin bir arızaya değil, doğal bir sürece işaret ettiğini bilmek, gereksiz endişeyi önler.
+
+## Takviye ne zaman yapılır?
+
+Yatakta toprak çökmesi sezon boyunca yavaş yavaş olur; bu yüzden takviye zamanını hasada ya da dikime göre değil, seviyeye göre belirleyin. Yatağın kenarında boydan boya bir çıta ya da düz bir tahta tutup toprağa uzaklığı ölçmek, kaybın ne kadar olduğunu somut gösterir.
+
+En iyi zaman ilkbahar başıdır, ekimden önce. Toprak çözülmüş, nemi uygundur ve yeni karışımı dikim öncesi eski toprakla birleştirebilirsiniz. Sonbaharda hasat bitince ikinci bir takviye de mümkündür; kışın yağmur ve kar karışımı oturtur, ilkbaharda ayar yapmak daha kolay olur. Ortasında sezon sırasında yapılan takviye, köklere zarar vermemek için yalnız yüzeyden ve ince bir tabaka olarak yapılmalıdır.
+
+::: adimlar
+Seviyeyi ölçün | Yatağın üst kenarından toprağa dik bir cetvelle mesafeyi ölçüp not edin.
+Yüzeyi gevşetin | Üstteki 3-5 cm'lik tabakayı elle ya da çatalla hafifçe karıştırın; derin çapadan kaçının.
+Karışımı hazırlayın | Bahçe toprağı ve kompostu ayrı kapta karıştırın; hazır karışım da kullanabilirsiniz.
+Kenara kadar doldurun | Yatağı kenardan 2-3 cm aşağıya kadar doldurup sulama için boşluk bırakın.
+Hafifçe bastırıp sulayın | Elinizle ya da düz bir tahtayla hafifçe bastırın ve yavaş sulayın.
+Birkaç gün bekleyin | Karışım oturunca seviyeyi tekrar kontrol edin; gerekirse ikinci küçük bir takviye yapın.
+:::
+
+## Takviye karışımı: hangi oran?
+
+Kaynaklar tek bir oran vermez; hepsi aynı mantığı paylaşır: Karışım hem organik madde hem mineral toprak içermelidir. Penn State uzantısı yaklaşık yüzde 70 üst toprak ve yüzde 30 kompost önerir ve karışıma müdahaleyi en aza indirmeyi tavsiye eder ([Penn State Extension: yükseltilmiş yatakta toprak sağlığı](https://extension.psu.edu/soil-health-in-raised-beds)). Illinois uzantısı hacimce yarı yarıya kompost ve bahçe toprağı önerir. Maryland uzantısı ise kompost ve topraksız karışımı yarı yarıya birleştirir ve en az 16 inç (yaklaşık 40 cm) derin yataklarda hacmin yüzde 20'sine kadar üst toprak katılabileceğini belirtir ([Maryland Extension: yükseltilmiş yatakları doldurmak için toprak](https://extension.umd.edu/resource/soil-fill-raised-beds)).
+
+Takviye için en güvenli yaklaşım, elinizdeki yatağın karışımına benzer bir karışımla ilerlemektir: Yatak ağırlıklı kompostluysa bahçe toprağı ağırlıklı karışım ekleyin ki toprak seviyeyle birlikte yapıyı da toparlasın; tersi durumda kompost ekleyin. Kendi karışımınızı ayarlamak için [kendi toprak karışımını oluşturma](/kendi-toprak-karisimini-olusturma) yazısına bakabilirsiniz.
+
+## Fazla kompostun bedeli
+
+"Çöktü, o hâlde kompost ekleyeyim" refleksinin bir sınırı vardır. Ask Extension'daki bir yanıt, ağır ve üst üste yapılan kompost eklemelerinin fosfor ve tuz biriktirebileceğini, bunun fidelere zarar verebildiğini ve bu yüzden birkaç yılda bir toprak testi yaptırmanın yerinde olduğunu belirtir. Yani çökmeyi yalnız kompostla kapatmak yerine karışıma bahçe toprağı ya da topraksız karışımla denge kurun. Toprakta organik maddenin yararı ve sınırı için [toprakta organik madde](/toprakta-organik-madde) yazısına bakabilirsiniz.
+
+Ürün bilgisinde katı solucan gübresi toprağın organik madde içeriğini artıran ve kök gelişimini destekleyen bir toprak düzenleyici olarak, leonardit ise suyu sünger gibi tutan ve toprağın yapısını güçlendiren bir organik düzenleyici olarak tanıtılır. Bunlar kompostun yerine geçmez; yatak karışımının bir bileşeni olarak ve ürün etiketindeki miktara uygun kullanılır.
+
+[ürün:hasturk-kati-solucan-gubresi,leonardit-organik-toprak-duzenleyici]
+
+## Yatakta toprak çökmesini azaltmanın yolları
+
+Çöküntü her zaman düzgün olmaz. Yatağın bir köşesinde ya da bir noktasında ani ve derin bir çukur görüyorsanız bunun nedeni genellikle altta kalan boşluk, kemirgen tüneli ya da taban drenajında toprak kaybıdır; bu durumda çukuru karışımla doldurmak yetmez, yatağın alt kısmını ve kenar birleşimlerini de kontrol edin. Düzgün ve yavaş bir alçalma ise organik maddenin çürümesinin işaretidir ve endişe gerektirmez. İki durumu ayırmak için çöküntünün şekline ve hızına bakın.
+
+Çökmeyi sıfırlamak mümkün değildir ama azaltmak mümkündür. Yatağı ilk doldururken katman katman, her katmanı hafifçe basarak ve sulayarak doldurmak, sonradan olacak oturmayı baştan gerçekleştirir; doldurduktan sonra bir iki hafta bekleyip seviyeyi tamamlamak da aynı işi görür. Olgunlaşmamış kompost ve taze talaş gibi hızlı çürüyen malzemeleri karışıma koymayın. Yüzeyi malçla örtmek, yağmurun toprağı sıkıştırmasını azaltır. Yataktaki dolgu ve katman mantığı için [katmanlı bahçe yatağı](/katmanli-bahce-yatagi) yazısına bakın. Takviyeden sonra sulama zamanını [toprak nemi ölçme](/toprak-nemi-olcme) yazısındaki yöntemle kontrol edin. Yıllık bir not tutmak da işe yarar: Her ilkbahar yatağın çöküş miktarını ve eklediğiniz karışımı deftere yazarsanız, iki üç yıl sonra kendi yatağınızın çökme hızını bilir ve takviyeyi önceden planlarsınız.
+@sss
+S: Yükseltilmiş yatakta toprak neden çöker?
+C: Organik madde çürüyüp hacim kaybeder, sulama ve yağmur hava boşluklarını kapatır ve ince parçacıklar aşağı taşınır. Yeni dolan yatakta ilk yıl birkaç santim çökme normaldir. Bu bir arıza değildir; her yıl takviye gerekir.
+
+S: Yatağa ne zaman toprak takviyesi yapılır?
+C: En uygun zaman ilkbahar başıdır, ekimden önce. Sonbaharda hasattan sonra ek takviye de yapılabilir. Sezon içinde yalnız yüzeyden ince bir tabaka eklenir; derin karıştırma köklere zarar verir.
+
+S: Yatak karışımı için hangi oran önerilir?
+C: Penn State yaklaşık yüzde 70 üst toprak ve yüzde 30 kompost önerir; Illinois hacimce yarı yarıya kompost ve toprak, Maryland ise kompost ve topraksız karışımı yarı yarıya verir. Oranlar kaynağa göre değişir; elinizdeki karışıma benzer bir karışımla takviye edin.
+
+S: Her yıl kompost eklemek zararlı olur mu?
+C: Ağır ve tekrarlı kompost fosfor ve tuz biriktirebilir ve fideye zarar verebilir. Bu yüzden karışımı bahçe toprağı ya da topraksız karışımla dengeleyin ve birkaç yılda bir toprak testi yaptırın.
+
+### YAZI
+slug: bahce-kulesi-kurulumu
+baslik: Bahçe Kulesi Kurulumu: Montaj Sırası, Toprak Doldurma ve İlk Dikim
+yayin: 2027-02-21 14:05
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: bahçe kulesi kurulumu
+seo_baslik: Bahçe Kulesi Kurulumu: Montaj, Toprak ve İlk Dikim
+seo_aciklama: Bahçe kulesi kurulumu nasıl yapılır? Yer seçimi, kat montaj sırası, tahliye tapası, toprak doldurma, tek noktadan sulama ve ilk dikim.
+ozet: Bahçe kulesi kurulumu, yerin seçilmesiyle başlar ve katların sırayla üst üste oturtulması, toprağın katman katman doldurulması ve ilk dikimle biter. Yediveren ve Yonca kulesinin ürün bilgisindeki ölçülere göre montaj sırasını, tahliye tapasını, toprak seçimini ve ilk sulamayı anlattık.
+etiketler: bahçe kulesi kurulumu, yediveren bahçe kulesi, yonca bahçe kulesi, dikey bahçe, toprak doldurma, tek noktadan sulama
+gorsel: bekliyor
+gorsel_alt: Balkonda yarısı kurulmuş, katları yerde dizili bir dikey bahçe kulesi ve yanında toprak torbası
+urunler: yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi, yonca-sabit-bahce-kulesi-6-kat-24-gozlu
+kisaca: Bahçe kulesi kurulumu beş adımdır: Sağlam ve düz bir zemin seçin, katları alttan üste sırayla oturtun, tahliye tapalarını kontrol edin, hafif ve süzek karışımı katman katman doldurup yüzeyi sulayın, sonra dikin. Yediveren 42 gözlü kule 100 cm yüksekliğinde ve 55 cm genişliğindedir; su üstten tek noktadan verilir.
+@govde
+Kutuyu açtığınızda katlar yan yana dizili, bir kenarda toprak torbası, bir yanda fideler bekler. Bahçe kulesi kurulumu basit görünür; ama toprak doldurulduktan sonra kulenin yeri değiştirilemez ve yanlış bir adım suyun dağılımını bozar. Bu yüzden sırayı baştan doğru kurmak gerekir. Aşağıda yer seçimini, katların montajını, tahliye ve sulamayı, toprak doldurmayı ve ilk dikimi anlatıyoruz. Hangi kulenin size uygun olduğuna karar vermek için [Yediveren mi Yonca mı](/bahce-kulesi-secimi) yazısına, kuleye ne ekileceğine dair [bahçe kulesine ne ekilir](/bahce-kulesine-ne-ekilir) yazısına bakabilirsiniz.
+
+## Yer seçimi: kurulmadan önce karar verin
+
+Doldurulmuş bir kule ağırdır ve yeri değiştirilmemelidir; bu yüzden önce yeri seçin. Yediveren Bahçe Kulesi'nin ürün bilgisinde 42 dikim gözü, 100 cm yükseklik ve 55 cm genişlik; Yonca 6 Katlı kulede 24 göz, 75 cm yükseklik ve 35 cm genişlik belirtilir. Zemin düz ve sağlam olmalıdır; balkon ve teras zemininin taşıma kapasitesini ve su tahliyesini düşünün. Sulamayı üstten tek noktadan vereceğiniz için musluğa ya da kovaya erişimin kolay olduğu bir yer uygundur.
+
+Güneş ışığı, kuleye ne dikeceğinizi belirler. Çilek, marul ve aromatik bitkiler günde birkaç saat doğrudan güneşle iyi gelişir; sebze bitkilerinin çoğu daha fazla ışık ister. Kulenin güneşe bir cephesi daha çok dönük olursa bitkiler eşit büyümez; bu yüzden zaman zaman çevirmek ya da tekerlekli taban kullanmak işe yarar. Mevsime göre yer değiştirme için [bahçe kulesi kışın](/bahce-kulesi-kisin) yazısına bakın.
+
+## Bahçe kulesi kurulumu adımları
+
+Bahçe kulesi kurulumu sırasında en önemli kural, hiçbir adımı atlayıp sonra geri dönmemektir; çünkü doldurulmuş kule sökülemez.
+
+::: adimlar
+Zemini hazırlayın | Düz, sağlam ve su akışı olan bir zemin seçin; gerekirse altına sert bir plaka koyun.
+Kat sırasını düzenleyin | Katları yere dizip alttan üste sırayla hazırlayın; taban katı ve tahliye tapaları en altta olacak.
+Tahliye tapalarını kontrol edin | Alt kattaki tahliye tapalarının yerinde ve sıkı olduğunu görün; ilk doldurmada tapalar suyu yönetir.
+Katları oturtun | Her katı bir öncekinin üstüne eksen kaymadan ve tam oturacak biçimde yerleştirin.
+Kuleyi düz tutun | Su terazisi ya da gözle dikliği kontrol edin; eğik kule suyu eşit dağıtmaz.
+Toprağı doldurun | Toprağı kat kat doldurun, her katı hafifçe bastırın.
+Sulayın ve dinlendirin | Üstten sulayıp toprağın oturmasını bekleyin; eksilen yeri tamamlayın.
+Fideleri dikin | Gözlere fideleri yerleştirin ve kökün çevresini sıkıştırarak kapatın.
+:::
+
+Yediveren kulesi için ürün bilgisi, alt bölümde fazla suyun tahliyesine yardımcı olan 2 tahliye tapası bulunduğunu belirtir. Kuleyi kurarken bu tapaların yerini ve tahliyenin nereye aktığını baştan planlayın; balkonda altta suyu toplayan bir tepsi ya da zemine akış yolu gerekir.
+
+## Toprak doldurma: hafif ve süzek karışım
+
+Dikey kulede toprak hafif ve iyi süzmelidir. Oregon State uzantısı konteyner yetiştirmede hazır saksı toprağı ya da kompostlu konteyner karışımı kullanılmasını, bahçe toprağı ya da genel dolgu karışımının ağır olup kötü süzdüğü için kullanılmamasını önerir ([Oregon State Extension: bahçesiz konteynerde sebze](https://extension.oregonstate.edu/news/no-yard-grow-vegetables-containers)). NC State uzantısı ise drenajı iyileştirmek için saksı dibine çakıl ya da taş koymamayı, çünkü suyun çakılın hemen üstünde toplandığını belirtir ([NC State Extension: konteynerde yetişen bitkiler](https://content.ces.ncsu.edu/extension-gardener-handbook/18-plants-grown-in-containers)). Bu uyarı kule için de geçerlidir: Tahliye tapaları ve süzek toprak yeterlidir, dolgu malzemesi eklemeyin.
+
+Ürün ayrıntısında verilen ölçüleri (yükseklik ve genişlik) kurulumdan önce zemininize göre kontrol edin; özellikle balkonda korkuluk yüksekliği ve kapı geçişi sınırlayıcı olabilir. Saksı toprağı az besin içerir; UC Master Gardener kılavuzu, saksı toprağına yaklaşık üçte bir hacimde olgun kompost ya da yavaş salınımlı granül gübre karıştırılmasını önerir. Ürün bilgisinde katı solucan gübresinin bitkinin ihtiyaç duyduğu besinleri yavaş salınımla sağladığı belirtilir; toprak karışımına eşit dağıtılıp katmanlara karıştırılarak kullanılabilir. Kendi toprağınızı ayarlamak isterseniz [kendi toprak karışımını oluşturma](/kendi-toprak-karisimini-olusturma) yazısındaki oranları kullanın. Toprak hacmi için de [saksıya kaç litre toprak gider](/saksiya-kac-litre-toprak-gider) yazısı yardımcı olur.
+
+[ürün:yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi]
+
+## Kurulumdan sonraki ilk hafta
+
+Kurulumdan sonraki ilk hafta kuleyi her gün gözleyin. Üstten verilen suyun her kata ulaşıp ulaşmadığına, alt kattan tahliye olup olmadığına ve toprak seviyesinin ne kadar çöktüğüne bakın. Toprak ilk sulamadan sonra birkaç santim oturur; eksilen miktarı aynı karışımla tamamlayın. Rüzgârlı balkonda boş ya da yeni dikilmiş kule devrilmeye yatkındır; kuleyi duvara ya da korkuluğa sabitlemeyi, ya da dibine ağırlık koymayı düşünün. İlk haftada besin vermeyin; yeni fideler önce köklenmelidir.
+
+## Tek noktadan sulama ve ilk dikim
+
+Yediveren kulesinin ürün bilgisine göre su kulenin üst bölümünden verilir ve katlar arasında dağıtılır; her gözü ayrı sulamak gerekmez. İlk sulamada suyu yavaş verin ki toprak her katta eşit ıslansın, tahliyeden gelen suyun temiz çıkmasını bekleyin. Sonraki sulamalarda Washington State uzantısı dikey yetiştirmede sık sulamayı ve sık beslemeyi, uzantı kaynakları ise parmağı 5-7 cm batırarak toprağı kontrol etmeyi (kuruysa sulamayı) önerir; bu alışkanlık kulede de en güvenilir ölçüdür.
+
+Fide dikerken kök topağını gözde toprak seviyesine yerleştirin ve çevresini hafifçe bastırın. Üst katlara hızlı büyüyen ve sarkan bitkileri, alt katlara düşük boylu yeşillikleri yerleştirmek ışığı dengeler. Sulamada besleme için Oregon State yarım dozda sıvı gübrenin üç dört günde bir verilebileceğini yazar; ürün etiketine ve bitkiye göre ayarlayın. Kule, Yonca serisinde sabit tabanlıdır ve 6 katlı 24 gözlü modelin uyumlu kat ilaveleriyle 15 kata kadar yükseltilebildiği ürün bilgisinde yazar; Yediveren için 20 kat sınırı belirtilir. Kat eklemeyi, mevcut kuleyi sulama ve dikim düzenine oturttuktan sonra düşünün.
+@sss
+S: Bahçe kulesi kurulumu nasıl yapılır?
+C: Düz ve sağlam bir zemin seçin, katları alttan üste sırayla ve eksen kaymadan oturtun, tahliye tapalarını kontrol edin, toprağı kat kat doldurup hafifçe bastırın, üstten sulayın ve fideleri dikin. Kuleyi doldurduktan sonra yerini değiştirmeyin.
+
+S: Bahçe kulesine hangi toprak doldurulur?
+C: Hafif ve süzek hazır saksı toprağı ya da kompostlu konteyner karışımı. Bahçe toprağı ağır ve kötü süzer. UC Master Gardener, saksı toprağına yaklaşık üçte bir hacimde olgun kompost ya da yavaş salınımlı gübre karıştırılmasını önerir. Alta çakıl koymayın.
+
+S: Bahçe kulesi nasıl sulanır?
+C: Yediveren kulede su üstten tek noktadan verilir ve katlara dağılır. İlk sulamada yavaş verin ve tahliyeden suyun çıktığını izleyin. Sonraki sulamalarda parmağınızı 5-7 cm toprağa batırın; kuruysa sulayın. Dikey yetiştirmede sık sulama ve sık besleme gerekir.
+
+S: Bahçe kulesi kaç kata kadar yükseltilebilir?
+C: Ürün bilgisine göre Yediveren kulesi uyumlu kat ilaveleriyle 20 kata, Yonca kulesi ise 15 kata kadar yükseltilebilir. Yükseltmeden önce zeminin ve rüzgâr koşulunun uygunluğunu kontrol edin.
+
+### YAZI
+slug: yatagi-sonradan-genisletme
+baslik: Yatağı Sonradan Genişletmek: Uzatma Parçasıyla Modüler Yatağı Büyütme
+yayin: 2027-02-21 16:40
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: yatağı sonradan genişletme
+seo_baslik: Yatağı Sonradan Genişletme: Uzatma Parçasıyla Büyütme
+seo_aciklama: Yatağı sonradan genişletme nasıl yapılır? Modüler yatağa uzatma parçası eklemenin sırası, 120 cm erişim sınırı, yol payı ve toprağın birleştirilmesi.
+ozet: Yatağı sonradan genişletme, modüler yükseltilmiş yatağa uzatma parçası ekleyerek alanı büyütmektir. Erişim genişliği sınırını, yatak ve yol payını, parçanın sökmeden eklenme sırasını, yeni bölümün toprağının eski bölümle birleştirilmesini ve ilk sezon bakımını anlattık.
+etiketler: yatağı sonradan genişletme, modüler yatak, uzatma parçası, yükseltilmiş yatak, bahçe düzeni, yatak ölçüsü
+gorsel: bekliyor
+gorsel_alt: Yan yana iki modüler yükseltilmiş yatak, ortada yeni eklenmiş bir uzatma parçası
+urunler: moduler-yukseltilmis-bahce-yatagi-153-litre, hasturk-kati-solucan-gubresi
+kisaca: Yatağı sonradan genişletme, modüler yataklarda uyumlu uzatma parçasıyla yapılır; ürün bilgisine göre No:2 yatak (85x60x30 cm, 153 litre) ek parçalarla büyütülebilir. Genişlik en çok yaklaşık 120 cm olmalı ki ortaya iki yandan uzanılabilsin; yeni bölümü eski bölümle aynı karışımla doldurun ve yolları unutmayın.
+@govde
+Küçük başlamak iyi fikirdir: Tek bir yatakla ilk sezonu görürsünüz, ne yetiştirdiğinizi ve ne kadar yer gerektiğini öğrenirsiniz. İkinci sezonda "biraz daha büyük olsa" dersiniz. Yatağı sonradan genişletme, modüler yatakların asıl avantajıdır; ama her genişletme ölçüsü işe yaramaz. Çok geniş yatağın ortasına ulaşamazsınız, çok dar yol ise kolay bir bahçeyi zahmetli yapar. Aşağıda genişletmenin ölçü sınırını, adım sırasını, toprağın birleştirilmesini ve yeni bölümün bakımını anlatıyoruz. İlk planlama için [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) ve [bahçe yatağı kurmanın maliyeti](/bahce-yatagi-kurmanin-maliyeti) yazılarına da bakabilirsiniz.
+
+## Ölçü sınırı: ortaya uzanabiliyor musunuz?
+
+Yatağı sonradan genişletme kararında ilk ölçü, erişimdir. Uzantı kaynakları aynı sınırı verir: Oklahoma State, yetişkinin her yandan yaklaşık iki ayak (yaklaşık 60 cm) içeriye uzanabildiğini; UF/IFAS yatakların en fazla 4 ayak (yaklaşık 120 cm) genişlikte olmasını önerir ([UF/IFAS: yükseltilmiş yatak yapmak](https://gardeningsolutions.ifas.ufl.edu/design/types-of-gardens/building-raised-beds/)). Yalnız bir yandan erişebiliyorsanız sınır küçülür; UC Master Gardeners yalnız bir yandan erişilen yataklarda en fazla 3 ayak (yaklaşık 90 cm) önerir ([UC Master Gardeners: yükseltilmiş yataklar](https://ucanr.edu/site/uc-master-gardeners-orange-county/raised-beds-orange-county)).
+
+Uzunlukta kural esnektir; Oregon State, 6 ayaktan (yaklaşık 1,8 m) uzun ya da 18 inçten (yaklaşık 45 cm) yüksek yatakların desteklenmesini önerir ([Oregon State Extension: yükseltilmiş yatak bahçeciliği](https://extension.oregonstate.edu/catalog/fs-270-raised-bed-gardening)). Genişletirken bu iki sınıra bakın: Genişlik 120 cm'yi geçmesin, uzunluk arttıkça kenarı destekleyin. Ürün bilgisine göre No:2 yatak 85x60x30 cm'dir; 60 cm'lik genişlik erişim için çok uygundur ve uzatma parçasıyla boyu uzatılabilir.
+
+## Yol payı
+
+Yatak büyüdükçe yürüme yolu da hesaba girer. UF/IFAS yataklar arasında en az 18 inçlik (yaklaşık 45 cm) geçit önerir; el arabası geçecekse yaklaşık 3 ayak (yaklaşık 90 cm) bırakılması önerilir. Marin Master Gardeners yolların 2-3 ayak (60-90 cm) genişlikte olmasını tavsiye eder. Yeni bölümü eklerken komşu yatağa ya da duvara olan mesafeyi ölçün; genişletme, mevcut yola taşmamalıdır.
+
+| Karar | Ölçü | Dayanak |
+|---|---|---|
+| İki yandan erişilen yatak genişliği | en çok yaklaşık 120 cm | UF/IFAS, Oklahoma State |
+| Tek yandan erişilen yatak | en çok yaklaşık 90 cm | UC Master Gardeners |
+| Yatak arası yol | en az 45 cm; el arabası için 60-90 cm | UF/IFAS, Marin MG |
+| Uzun yatak | 180 cm üstünü destekleyin | Oregon State |
+
+## Yatağı sonradan genişletme adımları
+
+Yatağı sonradan genişletme işi bir hafta sonunda bitebilir; ama sırayı bozmamak gerekir. Önce parçayı eklemeden mevcut yatağın zeminini ve seviyesini kontrol edin; zemin eğikse yeni bölüm de eğik oturur.
+
+Parça uyumu, ürün serisine bağlıdır. Ürün bilgisinde No:2 yatağın "uyumlu ek uzatma parçalarıyla yetiştirme alanının daha sonra genişletilebildiği" belirtilir; bu yüzden aynı seriye ait parçayı ve montaj sırasını üreticinin kılavuzundan kontrol edin.
+
+::: adimlar
+Yeri ve ölçüyü belirleyin | Genişletme yönünü ve yol payını kazıkla işaretleyin.
+Mevcut yatağı hazırlayın | Bitkileri geçici olarak taşıyın ya da kenar bölgesini boşaltın.
+Uzatma parçasını birleştirin | Üretici kılavuzuna göre cıvata ve somunla birleştirin; birleşimi sıkı ve düz yapın.
+Zemini düzleyin | Yeni bölümün altı mevcut yatakla aynı seviyede olmalı.
+Toprağı hazırlayın | Mevcut yataktaki karışıma benzer karışım hazırlayın.
+Yeni bölümü doldurun | Katman katman doldurup bastırın ve sulayın.
+Ara bölmeyi kontrol edin | Gerekiyorsa iç bölmeyi kaldırın ki kökler iki bölüme yayılabilsin.
+:::
+
+## Genişletme mi, ikinci yatak mı?
+
+Her zaman genişletmek doğru çözüm değildir. Yatak zaten 120 cm genişliğe yakınsa, boyunu uzatmak yerine yan tarafa ikinci bir yatak koymak ve aralarında yol bırakmak daha kullanışlıdır; çünkü ortaya erişim bozulmaz. Uzunluk eklemek, aynı bitkiyi sıra halinde yetiştirmek ya da destek ünitesi takmak istediğinizde daha uygundur. Karar verirken, ne yetiştireceğinizi, suyun nereden geleceğini ve yatakların yönünü (güneş) düşünün; uzun yatakları kuzey-güney doğrultusunda yerleştirmek genellikle iki yanın da güneş almasını sağlar. Genişletmeyi sezon dışında, toprak boşken yapmak en az zahmetlidir. Yeni parçayı eklemeden önce yatağın civarında kök ya da taş gibi engel olup olmadığını da kontrol edin; zemindeki bir çıkıntı yatağın birleşimini zorlar ve yan kenarı zamanla dışarı iter.
+
+## Yeni bölümün toprağı: eskiyle uyumlu olsun
+
+En sık yapılan hata, yeni bölümü farklı bir toprakla doldurmaktır. Eski bölümün toprağı bir sezon çökmüş ve organik maddesi azalmıştır; yeni bölümün toprağı daha yüksek ve gevşek olur. İki seviye arasındaki fark su akışını ve kök gelişimini bozar. Çözüm, yeni bölümü mevcut karışıma benzer bir karışımla doldurmak ve eski bölümü aynı anda takviye etmektir; seviyeyi eşitlemek için [yatakta toprak çökmesi](/yatakta-toprak-cokmesi) yazısındaki oranlara bakın. Kaynaklar yeni karışım için yaklaşık yüzde 70 üst toprak ve yüzde 30 kompost gibi bir başlangıç oranı verir; Penn State uzantısı yatak içinde toprağa müdahaleyi en aza indirmeyi de önerir ([Penn State Extension: yükseltilmiş yatakta toprak sağlığı](https://extension.psu.edu/soil-health-in-raised-beds)).
+
+Ürün bilgisinde katı solucan gübresinin toprağın organik madde içeriğini artırdığı ve kök gelişimini desteklediği belirtilir; yeni bölümün karışımına katarak eski bölümle besin düzeyini yakınlaştırabilirsiniz.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-153-litre,hasturk-kati-solucan-gubresi]
+
+## İlk sezon bakımı ve planlama
+
+İlk sezonda yeni bölümün kenarlarında sızıntı ya da toprak akması olup olmadığını izleyin; birleşim yerlerindeki boşluk, yağmurda toprağın yatak dışına taşmasına yol açabilir. Sorun görürseniz cıvataları yeniden sıkın ve iç tarafı hafifçe bastırarak toprağı yerleştirin. Yeni bölümün ilk ekiminde derin kök yapan bitkileri (domates, kabak) bırakıp ilk yıl yüzeysel köklü yeşilliklerle başlamak, toprağın oturmasına zaman tanır; ikinci sezondan itibaren bütün bölüme aynı ekim düzenini uygulayabilirsiniz.
+
+Yeni bölüm ilk sezonda daha hızlı kurur, çünkü toprağı daha gevşek ve organik maddesi olgunlaşmamıştır. Sulamayı birkaç gün sık tutun ve toprak seviyesini haftalık kontrol edin. Genişlemeyle birlikte ekim planını da gözden geçirin: Farklı sebzeleri ayrı bölümlere yerleştirmek ekim nöbetini kolaylaştırır. Büyüme planınızı baştan düşünmek için [bahçe yatağı kurmanın maliyeti](/bahce-yatagi-kurmanin-maliyeti) yazısındaki hacim ve toprak hesabı da işe yarar.
+@sss
+S: Modüler yatağı sonradan genişletebilir miyim?
+C: Evet, uyumlu uzatma parçası varsa. Ürün bilgisine göre No:2 yatak ek parçalarla genişletilebilir. Parçanın seri uyumunu üreticiden doğrulayın ve genişliğin yaklaşık 120 cm'yi geçmemesine dikkat edin.
+
+S: Yatak en fazla ne kadar geniş olmalı?
+C: İki yandan erişilen yatakta en çok yaklaşık 120 cm; tek yandan erişilende yaklaşık 90 cm. Yetişkin her yandan yaklaşık 60 cm içeri uzanabilir. Daha geniş yatağın ortasına ulaşamazsınız.
+
+S: Genişletirken yeni bölüme hangi toprak konur?
+C: Mevcut yatağın karışımına benzer bir karışım. Çoğu uzantı kaynağı yaklaşık yüzde 70 üst toprak ve yüzde 30 kompostu başlangıç olarak verir. Farklı bir toprak kullanırsanız iki bölüm arasında su ve kök geçişi bozulur.
+
+S: Yataklar arasında yol payı ne kadar olmalı?
+C: En az yaklaşık 45 cm; el arabası geçecekse 60-90 cm bırakılması önerilir. Yeni bölüm ekledikten sonra yolun daralmadığını kontrol edin.
+
+### SORU
+yayin: 2027-02-21 13:00
+kategori: toprak-rehberi
+baslik: Yükseltilmiş yatağımda toprak bir karış çöktü, üstüne sadece kompost atsam olur mu?
+metin: İlk yıl bitti, yatakta toprak yaklaşık 8 cm alçaldı. Elimde bol kompost var. Hepsini kompostla tamamlasam sorun olur mu?
+@cevap Hatice Kübra Çelik | 2
+Tamamen kompostla tamamlamak önerilmez. Çökme doğaldır ama ağır ve tekrarlı kompost fosfor ve tuz biriktirebilir; üstelik saf kompost yapıyı fazla gevşek ve hızlı çürüyen yapar. Uzantı kaynakları yaklaşık yüzde 70 bahçe toprağı ve yüzde 30 kompost gibi dengeli bir karışımı başlangıç olarak verir. Takviyeyi ilkbahar başında, ekimden önce yapın; yüzeyi 3-5 cm gevşetin, hazırladığınız karışımı kenardan 2-3 cm aşağıya kadar doldurun, hafifçe bastırıp sulayın. Birkaç yılda bir toprak testi yaptırın.
+
+### SORU
+yayin: 2027-02-21 18:15
+kategori: bahce-ipuclari
+baslik: Bahçe kulesinin altına çakıl koyarsam drenaj iyileşir mi?
+metin: Balkona kule kuracağım. Suyun iyi tahliye olması için alt kata çakıl döşemeyi düşünüyorum. Doğru mu?
+@cevap Muhammed Hamza Çelik | 3
+Hayır, çakıl drenajı iyileştirmez; NC State uzantısı çakıl ya da taş katmanının suyun hemen üstünde toplanmasına yol açtığını yazar. Kule için süzek ve hafif saksı toprağı kullanın ve alttaki tahliye tapalarının açık olduğundan emin olun; Yediveren kulesinin ürün bilgisinde alt bölümde 2 tahliye tapası bulunduğu belirtilir. Balkonda tahliye suyunu bir tepsiye ya da zeminin su akış yoluna yönlendirin. İlk sulamada yavaş verin ve tahliye suyunun temiz çıkmasını izleyin.

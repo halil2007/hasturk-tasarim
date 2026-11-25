@@ -1,0 +1,35 @@
+{
+ "not": "6 Kasım 2026: üreticide yeni adla satılan eski seralar (Likya Medium/Large/XLarge → Likya 2,23 serisi; Sera ve Kümes 3,8 m² → Olimpos 1,58 × 2,35) ve menteşe/civata satışa kapatılır",
+ "urunler": [
+  {
+   "slug": "galvaniz-sera-iskeleti-likya-medium-6-8-m2",
+   "ad": "Galvaniz Modüler Sera İskeleti Likya Medium 6,8 m² (220x300 cm)",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-sera-iskeleti-likya-large-10-m2",
+   "ad": "Galvaniz Modüler Sera İskeleti Likya Large 10 m² (220x450 cm)",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-sera-iskeleti-likya-xlarge-13-m2",
+   "ad": "Galvaniz Modüler Sera İskeleti Likya XLarge 13 m² (220x600 cm)",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-sera-ve-kumes-iskeleti-3-8-m2",
+   "ad": "Galvaniz Modüler Sera ve Kümes İskeleti 3,8 m² (160x235 cm)",
+   "kapat": true
+  },
+  {
+   "slug": "yaprak-mentese-6-vidali-galvaniz-yapi-kapi-ve-pencere-kanatlari-icin",
+   "ad": "Yaprak Menteşe, 6 Vidalı – Galvaniz Yapı Kapı ve Pencere Kanatları İçin",
+   "kapat": true
+  },
+  {
+   "slug": "m6-x-35-bombe-basli-civata-ve-flansli-somun-seti-galvaniz-profil-baglantisi",
+   "ad": "M6 × 35 Bombe Başlı Civata ve Flanşlı Somun Seti – Galvaniz Profil Bağlantısı",
+   "kapat": true
+  }
+ ]
+}

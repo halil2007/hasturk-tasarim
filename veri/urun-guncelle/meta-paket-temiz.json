@@ -1,0 +1,64 @@
+{
+ "urunler": [
+  {
+   "site": "hasturk",
+   "slug": "hg-ataturk-cicegi-topragi",
+   "ad": "HG Atatürk Çiçeği Toprağı",
+   "aciklama": null,
+   "metaData": {
+    "pageTitle": "HG Atatürk Çiçeği Toprağı | HasTürk Gübre",
+    "description": "HG Atatürk Çiçeği Toprağı: hafif, havadar, suyu iyi süzen hazır saksı toprağı. Kök çürümesini azaltır, bayramdan sonra da yaşatmaya yardım eder."
+   }
+  },
+  {
+   "site": "tarim",
+   "slug": "hg-ataturk-cicegi-topragi",
+   "ad": "HG Atatürk Çiçeği Toprağı",
+   "aciklama": null,
+   "metaData": {
+    "pageTitle": "HG Atatürk Çiçeği Toprağı | Tarım Dünyası",
+    "description": "Atatürk çiçeği kök çürümesine karşı hafif ve süzek hazır toprak. Folyo ve tabak suyundan korunma, saksı değişimi adımları ve bayram sonrası bakım."
+   }
+  },
+  {
+   "site": "hasturk",
+   "slug": "hg-ejder-agaci-topragi",
+   "ad": "HG Ejder Ağacı Toprağı",
+   "aciklama": null,
+   "metaData": {
+    "pageTitle": "HG Ejder Ağacı Toprağı | HasTürk Gübre",
+    "description": "HG Ejder Ağacı Toprağı: hafif, havadar, suyu iyi süzen hazır saksı toprağı. Kök çürümesi riskini azaltır, saksı değişimini kolaylaştırır."
+   }
+  },
+  {
+   "site": "tarim",
+   "slug": "hg-ejder-agaci-topragi",
+   "ad": "HG Ejder Ağacı Toprağı",
+   "aciklama": null,
+   "metaData": {
+    "pageTitle": "HG Ejder Ağacı Toprağı | Tarım Dünyası",
+    "description": "Ejder ağacında yaprak ucu kuruması ve kök çürümesi için hafif ve süzek hazır toprak. Saksı değişimi adımları ve sulama ipuçları."
+   }
+  },
+  {
+   "site": "hasturk",
+   "slug": "hg-zeytin-agaci-topragi",
+   "ad": "HG Zeytin Ağacı Toprağı",
+   "aciklama": null,
+   "metaData": {
+    "pageTitle": "HG Zeytin Ağacı Toprağı | HasTürk Gübre",
+    "description": "HG Zeytin Ağacı Toprağı: pomza ve orman toprağıyla süzek, havadar hazır saksı toprağı. Saksıdaki zeytinde kök çürümesi riskini azaltır."
+   }
+  },
+  {
+   "site": "tarim",
+   "slug": "hg-zeytin-agaci-topragi",
+   "ad": "HG Zeytin Ağacı Toprağı",
+   "aciklama": null,
+   "metaData": {
+    "pageTitle": "HG Zeytin Ağacı Toprağı | Tarım Dünyası",
+    "description": "Saksıdaki zeytinde yaprak dökümü ve kök çürümesine karşı pomzalı, süzek hazır toprak. Saksı değişimi adımları ve sulama ipuçları."
+   }
+  }
+ ]
+}

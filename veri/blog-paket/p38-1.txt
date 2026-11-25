@@ -1,0 +1,576 @@
+### YAZI
+slug: olen-bitkiyi-kurtarma
+baslik: Ölen Bitkiyi Kurtarma: Vazgeçmeden Önce Hangi Kontroller Yapılır?
+yayin: 2027-04-25 09:10
+yazar: Halil İbrahim Çelik
+kategori: bitki-bakimi
+odak: ölen bitkiyi kurtarma
+seo_baslik: Ölen Bitkiyi Kurtarma: Vazgeçmeden Önce 4 Kontrol
+seo_aciklama: Ölen bitkiyi kurtarma için çizik testi, kök kontrolü ve bekleme süresi: bitkinin gerçekten ölü mü, uykuda mı olduğunu çöpe atmadan önce anlayın.
+ozet: Kahverengi yapraklar ve boynu bükük bir gövde bitkinin bittiği anlamına gelmeyebilir. Çizik testi, saksıdan çıkarıp kök bakışı ve sabırlı gözlemle bitkinin gerçekten ölü olup olmadığını nasıl anlayacağınızı ve ne zaman bırakmanız gerektiğini anlattık.
+etiketler: ölen bitki, bitki kurtarma, çizik testi, kök çürümesi, don zararı, saksı bitkisi
+gorsel: bekliyor
+gorsel_alt: Kuru yapraklı bir saksı bitkisi ve elde tutulan, kökleri incelenen toprak bloğu
+urunler: genel-saksi-topragi-ozel-karisim, tarim-perliti
+kisaca: Ölen bitkiyi kurtarma işine gövdede çizik testi ve kök kontrolüyle başlayın. Kabuk altı yeşilse ve kökler beyaz, sert kalmışsa bitki canlıdır; kahverengi ve yumuşak köklerde yalnızca sağlam kısım kurtarılır. Karar vermeden önce en az iki üç hafta bekleyin, bu sürede gübre vermeyin.
+@govde
+Ölen bitkiyi kurtarma işine girmeden önce bitkinin gerçekten ölü olup olmadığını anlamak gerekir. Yapraklar kahverengi ve kâğıt gibi olabilir, dallar kuru görünebilir; yine de gövdede ya da kökte canlı doku bulunabilir. Üç kontrol çoğu durumu açıklığa kavuşturur: gövdede çizik testi, saksıdan çıkarıp kök bakışı ve birkaç hafta sabırlı gözlem. Aşağıda her kontrolün nasıl yapıldığını ve sonuca göre ne yapılacağını adım adım anlatıyoruz.
+
+## Ölen bitkiyi kurtarma kararı: ölü mü, uykuda mı, yorgun mu?
+
+Pazartesi sabahı balkon kapısını açıyorsunuz ve hafta sonuna kadar dimdik duran bitki kıvrılmış, yaprakları kağıt gibi kurumuş bir hâlde duruyor. İlk refleks torbayı alıp saksıyı boşaltmaktır. Oysa görünüş çoğu zaman aldatır. Aynı kuru yaprak bir bitkide gerçekten ölümün işaretidir, bir başkasında ise kışı atlatmış ve henüz uyanmamış bir bitkinin son kalan eski yaprağıdır.
+
+Burada üç ayrı durumu birbirinden ayırmak gerekiyor. Ölü bitkide kök ve gövde dokusu da çökmüştür; geri dönüş yoktur. Uykudaki bitki ise büyümesini durdurmuş, enerjisini köke çekmiştir ve uygun ısı gelince sürer. Yorgun bitki sulama, ışık ya da toprak hatası yüzünden zayıflamıştır ama kök sistemi hâlâ çalışır. Tablo bu üç durumun dışarıdan nasıl göründüğünü ve içeride ne olduğunu özetliyor.
+
+| Durum | Dışarıdan görünüş | İçeride olan | Kurtarma şansı |
+|---|---|---|---|
+| Ölü | Gövde kuru, kolayca kırılıyor; kabuk altı kahverengi | Kök ve gövde dokusu çökmüş | Yok ya da yalnızca dipten yeni sürgün umudu |
+| Uykuda | Yapraksız ya da yaprakları dökülmüş; dallar esnek | Kök sağlam, tomurcuklar canlı | Yüksek; ısı ve ışık gelince uyanır |
+| Yorgun | Solgun, sararmış ya da yer yer kahverengi yapraklar | Kök kısmen çalışıyor | Orta ile yüksek; nedene göre değişir |
+
+Karar vermek için bitkiye bir şey yapmaya hemen başlamayın. Önce gözleyin, sonra kontrol edin, en son müdahale edin. Çoğu bitki bu sıralamada daha çok şans buluyor.
+
+## Çizik testi: gövdenin altında yeşil var mı?
+
+Odunsu gövdesi olan bitkilerde, yani ağaççık, çalı, gül, ortanca ya da kauçuk gibi türlerde en kolay kontrol çizik testidir. Bir bıçak ucuyla ya da tırnakla gövdenin kabuğunu çok hafifçe kazırsınız. Altında yeşil ve nemli doku görüyorsanız o dal canlıdır. Kahverengi, kuru ve kâğıt gibi bir doku görüyorsanız o noktada yaşam bitmiştir.
+
+Tek bir yerden sonuç çıkarmayın. Bir dal ölürken öbür dal sağlam kalabilir, bu yüzden gövdenin dibinden başlayıp yukarı doğru birkaç noktada deneyin. Kazırken kabuğu fazla derinden yaralamayın; amaç yalnızca ince bir şerit açmak. Esnekliğe de bakın: dal bükülünce eğiliyor ve lif lif yırtılıyorsa canlıdır, temiz bir çıtırtıyla kırılıyorsa o bölüm kurumuştur.
+
+Soğuk sonrası bitkiler için Illinois Üniversitesi Extension'ın [kışın zarar görmüş bitkiler için bekleme önerisi](https://extension.illinois.edu/blogs/ilriverhort/2014-05-02-wait-n-see-spring) aynı mantığı anlatır: kabuğu kazıyıp yeşil doku arayın, tamamen kahverengi ve kolay kırılan sapı ölü sayın. Arkansas Üniversitesi Extension'ın [kış zararı sonrası budamayı geciktirme notu](https://www.uaex.uada.edu/media-resources/news/2023/february/02-17-2023-ark-pruning-woody-ornamentals.aspx) ise zararın bazen yeni sürgün çıkana kadar görünmeyebileceğini hatırlatır. Yani bir bitkiyi kesin ölü ilan etmek için bahar büyümesini görmek gerekebilir.
+
+Çizik testi otsu bitkilerde, örneğin biberiye değil de fesleğen ya da sardunya gibi yumuşak gövdelilerde aynı güvenilirlikle çalışmaz. Onlarda kök kontrolü asıl belirleyicidir.
+
+## Kök kontrolü: saksıdan çıkarıp bakın
+
+Gövde testi umut vermiyorsa ya da bitki yumuşak gövdeliyse, saksıdan çıkarıp köke bakmak gerekir. Bu adım biraz cesaret ister ama bitkinin gerçek durumunu gösteren tek yer köktür. Toprağın üstündeki yaprak sorunlarının çoğu aslında aşağıda başlar.
+
+::: adimlar
+Bitkiyi gevşetin | Saksıyı yan yatırıp kenarlarına hafifçe vurun; gövdeden çekmeyin, toprak topağıyla birlikte kaydırarak çıkarın.
+Toprağı silkeleyin | Kök topağının dış yüzeyindeki toprağı elinizle ya da hafif su akıtarak temizleyip kökleri görünür hale getirin.
+Kök rengine bakın | Beyaz, krem ya da açık kahverengi sert kökler canlıdır; siyah, kahverengi ve parmak arasında ezilince çamurlaşan kökler çürümüştür.
+Kokuyu kontrol edin | Toprak gibi temiz bir koku normaldir; ekşi ya da bataklık kokusu fazla su ve oksijensizlik anlamına gelir.
+Sağlam kökü ayırın | Çürük kökleri temiz, bıçakla kesin; sağlam beyaz kök kalıyorsa bitkiyi kurtarma şansı vardır.
+:::
+
+Kuruyup çatlamış, kağıt gibi ince ve içi boş kökler ise susuzluktan ölmüş köklerdir. Bunlar kolayca kopar ve sulansa bile toparlanmaz. Köklerin hepsi bu hâldeyse yapacak bir şey kalmaz. Kökün bir kısmı bile beyazsa umut sürer; bitki küçülen kök sistemiyle sınırlı da olsa yeniden başlayabilir.
+
+Çürüme tabloya aitse nedeni çoğu zaman fazla sulama ya da süzmeyen topraktır. Bunun belirtilerini ve çözümünü [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısında ayrıntılı bulabilirsiniz; tam tersi durumda, yani bitki susuz kaldıysa [bitki susuz kalma belirtileri](/bitki-susuz-kalma-belirtileri) rehberi farkı gösteriyor.
+
+## Belirtiye göre ilk müdahale
+
+Çizik testi ve kök bakışı sonrasında aynı belirti farklı nedenlerden gelebilir. Aşağıdaki tablo, en sık görülen üç tabloyu ve ilk adımı bir arada gösteriyor.
+
+::: belirti
+Yapraklar sarı, toprak sürekli ıslak, gövde dibi yumuşak | Fazla sulama ve kök çürümesi | Saksıdan çıkarın, çürük kökleri kesin, taze ve süzek toprağa alın
+Yapraklar kuru ve kıvrık, toprak saksı kenarından ayrılmış | Uzun süreli susuzluk | Saksıyı suya batırıp toprağı yavaşça doyurun; ardından düzenli sulamaya dönün
+Yapraklar bir gecede kararmış, bitki dışarıdaydı | Don zararı | Hemen budamayın; bahara kadar bekleyip yeşil sürgün çıkmasını izleyin
+:::
+
+Sık yapılan hata, bu üç farklı durumu aynı şekilde tedavi etmektir. Kök çürümüş bitkiye bol su vermek, kurumuş toprağı ise aceleyle kurutmak aynı ölçüde zarar verir. Önce teşhis, sonra müdahale. Don zararı konusunda ayrıntı için [don zararı belirtileri](/don-zarari-belirtileri) yazısına bakın.
+
+## Kök çürümüş bitkiyi toparlamak
+
+Kökün bir kısmı sağlamsa ve çürük kısım ayıklandıysa, bitkiyi yeniden dikmek gerekir. Aynı saksıyı ve aynı toprağı kullanacaksanız saksıyı iyice yıkayın; çürümeye yol açan ortam büyük olasılıkla toprağın içinde kaldı. Yeni toprak, ağırlıklı olarak hava alan ve fazla suyu bırakan bir karışım olmalı. Sıkışmış, ağır ve sürekli ıslak toprak çürümenin yeniden başlamasına yol açar.
+
+Süzek bir karışım için genel saksı toprağına bir miktar perlit eklemek yaygın bir yöntemdir. Perlit, ürün açıklamasında sıkışan toprağı hafifleten ve fazla suyu tutup bitki ihtiyaç duydukça geri veren bir toprak iyileştirici olarak anlatılıyor; böylece kök çevresi hem nefes alıyor hem de tamamen kurumuyor. Ayrıntılı kullanım için [perlit nedir ve saksı toprağında nasıl kullanılır](/perlit-nedir-nasil-kullanilir) yazısına göz atın.
+
+[ürün:genel-saksi-topragi-ozel-karisim,tarim-perliti]
+
+Saksıyı büyütmek de çoğu zaman yanlış bir hamledir. Küçülmüş kök sistemi için büyük saksı fazla toprak, fazla toprak da fazla nem demektir. Mevcut kök topağından bir iki parmak büyük bir kap yeterlidir. Saksı seçimi için [doğru saksı seçimi](/saksi-secimi-rehberi) yazısındaki boyut ve drenaj bilgileri işe yarar. Monstera gibi bir tür için çürüme tablosunu [monstera kök çürümesi](/monstera-kok-curumesi) yazısında bulabilirsiniz.
+
+Dikimden sonra bir kez ölçülü sulayın ve bitkiyi doğrudan güneşe değil, aydınlık ama gölgeli bir yere koyun. İlk iki üç hafta gübre vermeyin. Zayıf kökler gübreden yararlanamaz; tuz birikimi ve yanık riski ise artar. Bu bekleme süresi bitki için bir iyileşme dönemidir.
+
+## Dışarıdaki bitkide bekleme süresi
+
+Bahçedeki bir bitki soğuktan ya da kuraklıktan zarar gördüyse acele kesmeyin. Kuruyan dalların bir kısmı gerçekten ölüdür; ama bazı dallarda tomurcuklar uyku hâlindedir ve sıcaklık artınca sürer. Kuru dalları da ölü sanıp erkenden kesmek, aslında canlı olan dokuyu kaybettirebilir. Extension yayınları bu yüzden yeni sürgün çıkana kadar beklemeyi, ardından yalnızca ölü dalı sağlam dokuya kadar kesmeyi önerir.
+
+Gövde dibinden çıkan ince sürgünler çoğu zaman ümit vericidir. Üst kısım ölmüş olsa bile kök sağlam kalmışsa bitki dipten yeniden doğar. Gül, ortanca ve birçok çalı bu şekilde toparlanır. Her ağaç türü bunu yapamaz; ağaçlarda gövde dokusu ölmüşse dipten sürgün çıkması her zaman beklenmemelidir.
+
+Sürecin süresi bitkiye ve iklime göre değişir. İç bölgelerde bahar geç geldiği için bekleme daha uzun sürebilir, ılık kıyılarda ise sürgün birkaç hafta içinde belli olur. Bu süre boyunca düzenli ve ölçülü sulama yapın, bitkiyi rahatsız etmeyin.
+
+## Hangi noktada vazgeçmek gerekir?
+
+Her bitki kurtarılamaz ve bunu kabul etmek de bahçıvanlığın bir parçasıdır. Aşağıdaki işaretlerin hepsi birlikte varsa bitkiyi bırakmak mantıklıdır: gövde çizik testinde baştan sona kahverengi, kökler tamamen çamurlaşmış ya da kuru ve boş, tomurcuklar kuru ve dokununca dökülüyor, iki üç haftalık gözlemde hiçbir yeni sürgün yok.
+
+Bu noktada saksıdaki toprağı doğrudan başka bir bitkiye aktarmayın. Çürümeye yol açan mantarlar ya da toprak sıkışması aynı karışımda sürebilir. Toprağı ayırıp bahçede gübre yığınına karıştırmak ya da dışarı atmak daha güvenlidir. Saksıyı sıcak su ve sabunla yıkayıp kurutmak da sonraki bitki için iyi bir temizliktir.
+
+Bitkinin neden öldüğünü bir sonraki sefere not etmek en değerli kazançtır. Aşırı sulama mıydı, ışık mı yetmedi, soğuk mu vurdu? Bu soruların cevabını bulmak, aynı bitkiyi bir daha kaybetmeyi önler. Ev bitkilerinde en sık yapılan hatalar için [ev bitkisi neden ölür](/ev-bitkisi-neden-olur) yazısı iyi bir kontrol listesidir.
+
+## Kurtarma sırasında kaçınılacak hatalar
+
+Telaşla yapılan müdahaleler çoğu zaman bitkinin işini daha da zorlaştırır. En sık görülen hatalar şunlardır:
+
+- Gübre vermek. Güçsüz kök gübreyi alamaz; tuz birikir ve kökler yanabilir.
+- Hemen büyük saksıya geçmek. Fazla toprak fazla nem demektir.
+- Doğrudan güneşe koymak. Zayıf bitki yanık yaprak yapar, su kaybı hızlanır.
+- Her gün sulamak. Toprak kuruyana kadar beklemek köke hava kazandırır.
+- Kuru dalların hepsini kesmek. Canlı tomurcuklar da gidebilir.
+
+Bunların yerine gözleme, ölçülü suya ve aydınlık ama gölgeli bir yere dayanan sakin bir bakım izleyin. Bitki bu sürede kendi hızında toparlanır; siz yalnızca koşulları bozmamaya çalışın.
+
+## Kısa kontrol listesi
+
+Ölen bitkiyi kurtarma yolunda sırayla şunları yapın: önce gövdede çizik testi, sonra saksıdan çıkarıp kök kontrolü, ardından süzek toprak ve küçük bir saksı. İlk üç hafta gübre yok, doğrudan güneş yok. Bu süreçte yeşil bir sürgün ya da beyaz bir kök ucu görüyorsanız doğru yoldasınız. Hiçbir canlılık belirtisi yoksa bitkiyi bırakın ve nedeni bir sonraki dikimde hatırlayın.
+@sss
+S: Kurumuş bitki tekrar yeşerir mi?
+C: Kökler ya da gövdenin kabuk altı hâlâ canlıysa yeşerir. Çizik testinde yeşil doku ve kökte beyaz, sert uçlar görüyorsanız umut vardır. Hepsi kahverengi ve kuruysa geri dönüş çok zayıftır.
+
+S: Çizik testi nasıl yapılır?
+C: Gövdenin kabuğunu bıçak ucuyla çok hafif kazıyıp altına bakın. Yeşil ve nemli doku canlıdır; kahverengi, kuru doku ölüdür. Tek noktaya güvenmeyin, birkaç yerde deneyin.
+
+S: Kökü çürümüş bitki kurtarılabilir mi?
+C: Kökün bir kısmı beyaz ve sertse kurtarılabilir. Çürük kökleri temiz bıçakla kesip bitkiyi taze, süzek toprağa küçük bir saksıda yeniden dikin. İlk haftalarda gübre vermeyin ve ölçülü sulayın.
+
+S: Dondan kuruyan bitkiyi ne zaman budamalıyım?
+C: Hemen budamayın. Bahar büyümesi başlayıp yeni sürgünler çıkana kadar bekleyin, sonra yalnızca ölü dalları sağlam dokuya kadar kesin. Aksi hâlde canlı tomurcukları da kaybedebilirsiniz.
+
+### YAZI
+slug: domates-kafesi-mi-kazik-mi
+baslik: Domates Kafesi mi Kazık mı? Domates Desteği Seçerken Bilinmesi Gerekenler
+yayin: 2027-04-25 11:35
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: domates kafesi
+seo_baslik: Domates Kafesi mi Kazık mı? Tür ve Ölçüye Göre Seçim
+seo_aciklama: Domates kafesi mi kazık mı? Bodur domates kafese, sırık domates kazık ya da ipe uygundur; kafes ölçüsü, kazık boyu ve bağlama yöntemini karşılaştırdık.
+ozet: Kafes ya da kazık seçimi domatesin büyüme tipine göre yapılır. Bodur ve sırık domatesin farkını, destek ölçülerini, bağlama yöntemini ve saksı ile yükseltilmiş yatakta pratik çözümleri anlattık.
+etiketler: domates kafesi, domates kazığı, domates desteği, sırık domates, bodur domates, ip ile destek
+gorsel: bekliyor
+gorsel_alt: Bahçede kazığa ve ipe bağlanmış sırık domates sıraları ile yan tarafta bodur domates kafesi
+urunler: sebze-yatagi-bitki-destek-unitesi-85-cm-genislikteki-yataklar-icin, hg-bol-verimli-sebze-topragi
+kisaca: Domates kafesi bodur, yani belli boyda duran çeşitlere yeter; sırık domates kafesin üstünden aşar ve 180-210 cm boyunda bir kazığa ya da ipe ihtiyaç duyar. Seçimi tohum paketindeki büyüme tipi belirler; emin değilseniz kazık ve ip daha güvenli bir tercihtir.
+@govde
+Domates kafesi, kısa boylu ve belli bir yükseklikte duran bodur çeşitler için yeterlidir; boyu aşan sırık domates ise kazığa, ipe ya da yüksek bir çardağa ihtiyaç duyar. Yanlış desteği seçince iki şey olur: ya sırık domates kafesin üstünden taşar ve devrilir ya da bodur bitkiye gereğinden pahalı bir yapı kurulur. Seçim, bitkinin büyüme tipine bakılarak yapılır. Aşağıda iki tipin farkını, ölçüleri, bağlama adımlarını ve küçük alanlarda pratik çözümleri bulacaksınız.
+
+## Domates kafesi mi kazık mı: önce büyüme tipine bakın
+
+Haziran sonunda domates bahçesine bakıyorsunuz: bir fide kafesin içinde derli toplu duruyor, yanındaki yere yatmış, meyveleri toprağa değiyor. İki bitki aynı gün dikildi ama biri için doğru destek seçilmiş, diğeri için seçilmemiş. Sorunun kaynağı çoğu zaman kafes ya da kazığın kendisi değil, bitkinin tipini bilmemektir.
+
+Domateste iki büyüme tipi var. Bodur (determinat) çeşitler belli bir boya ulaşınca ana gövdede büyüme durur, meyveler kısa bir zaman diliminde birlikte olgunlaşır. Sırık (indeterminat) çeşitler ise sezon boyunca uzar, çiçek ve meyve verir ve sonbahara kadar yukarı çıkar. Illinois Üniversitesi Extension'ın [domates kafesi ve kazık karşılaştırması](https://extension.illinois.edu/blogs/raise-grow-harvest-eat-repeat/2018-05-30-tomato-cages-vs-stakes) yazısında da, 'Roma' gibi bodur çeşitlerin kafesten yeterince destek alabildiği, sırık çeşitlerin ise genelde kafesi aştığı belirtilir.
+
+Fide etiketi ya da tohum paketi bu bilgiyi çoğunlukla verir. Hangi tipte olduğunu bilmiyorsanız çeşit adını arayın; [domates çeşitleri](/domates-cesitleri) yazısı pembe, kiraz, sırık ve yer domatesinin farkını anlatıyor, yer domatesi ise [yer domatesi yetiştirme](/yer-domatesi-yetistirme) yazısında ayrıca ele alındı.
+
+## İki desteğin karşılaştırması
+
+Kafesin ve kazığın güçlü ve zayıf yanları farklıdır. Hangisinin sizin bahçenize uyduğunu aşağıdaki tablo gösteriyor.
+
+| Destek | En uygun tip | Güçlü yanı | Dikkat edilecek nokta |
+|---|---|---|---|
+| Kafes | Bodur çeşitler, saksı | Bağlama gerektirmez, bitki kendiliğinden yaslanır | Boy yetmezse sırık bitki kafesi aşar; hafif kafes yük altında devrilebilir |
+| Tek kazık | Sırık çeşitler | Kurması kolay, koltuk almayla uyumlu | Düzenli bağlama ister; gövde bağlamadan ağırlaşırsa kırılır |
+| Çift kazık ve ip | Sırık çeşitler, sıra dikim | Sağlam, uzun sıralarda ekonomik | Kazıkları derin çakmak gerekir |
+| Dikey ip sistemi | Sırık çeşitler, yatakta | Bitki ipe sarılarak yükselir, hava dolaşımı iyi | Çerçeve ya da üst kiriş gerektirir |
+| Merdiven tipi ızgara | Orta boylu bitkiler | Kafesten fazla, kazıktan az destek verir | Ölçü sınırı vardır |
+
+Hiçbir yöntem tüm bahçeler için en iyisi değildir. Küçük bir saksıda tek bodur bitki için kafes pratiktir, uzun bir sıra sırık domates için ise kazık ve ip daha ekonomiktir.
+
+## Kafes ölçüsü: boy ve çap ne olmalı?
+
+Pek çok hazır kafes düşük ve dar olduğu için bitkiyi taşıyamaz. Extension kaynakları bodur bitkiler için yaklaşık 35-45 cm çapında ve 120 cm civarında bir kafesi, sırık bitkiler için ise en az 180 cm boyunda bir yapıyı yeterli bulur. Bu ölçüler örnek niteliğindedir; çeşidin gerçek boyu etikette yazar.
+
+Kafesin teli yeterince geniş aralıklı olmalı ki meyve toplarken elinizi içeri sokabilesiniz. Dar gözlü bir ağ, olgun domatesi toplamayı zorlaştırır. Kafesi bitkiyi dikerken yerleştirin; bitki büyüdükten sonra kafes geçirmek dalları kırar. Rüzgârlı yerlerde kafesin iki yanına birer kazık çakıp bağlamak, devrilmeyi önler.
+
+Hazır bir kafes bulamıyorsanız çember yapmak mümkündür: sağlam bir tel örgüyü silindir hâline getirip uçlarını birleştirin. Önemli olan, yapının bitkinin yazın ulaşacağı ağırlığı kaldırabilmesi. Dolu bir domates bitkisi sanıldığından çok ağırdır; su dolu yapraklar ve meyveler birlikte kilolarca yük bindirir.
+
+[ürün:sebze-yatagi-bitki-destek-unitesi-85-cm-genislikteki-yataklar-icin]
+
+## Kazık ve bağlama: sırık domates için adım adım
+
+Kazık seçeneği ucuz görünür ama doğru kurulmazsa ilk fırtınada bitkiyle birlikte yan yatar. Extension kaynakları sırık çeşitler için yaklaşık 180-210 cm boyunda kazık ve, sıra dikimde, kazıklar arasında 150-180 cm mesafe önerir. Kazığın boyu, yalnızca toprak üstü kısmı değil, yere çakılan bölümüyle birlikte hesaplanmalıdır.
+
+::: adimlar
+Kazığı dikimle birlikte çakın | Fideyi dikerken fidenin yaklaşık 8-10 cm yanına kazık çakın; sonradan çakarsanız kökleri yaralarsınız.
+Sağlam olup olmadığını sınayın | Kazığı elinizle sallayın; oynuyorsa daha derine çakın, rüzgârda devrilecek bir kazık işe yaramaz.
+Bağlamayı yumuşak ipten yapın | Gövde ile kazığı sekiz şeklinde, gövdeyi sıkmadan bağlayın; yumuşak jüt ya da pamuk ip kullanın.
+Her 20-30 cm bağlayın | Bitki uzadıkça yeni bir bağ atın; bağlar arasındaki mesafe fazla açılırsa gövde kıvrılır.
+Koltukları düzenli alın | Sırık domateste yan sürgünleri alıp gövdeyi bir iki ana dalda tutun; ayrıntı için aşağıdaki bağlantıya bakın.
+:::
+
+Sekiz şeklinde bağlama, gövdenin kazığa sürtünmesini önleyen en kolay yöntemdir. İp gövde ile kazık arasında çapraz geçer, gövdeyi sıkmaz. Plastik tel ya da ince misina ise gövdeyi keser; bunlardan kaçının. Koltuk alma konusunda ayrıntı için [domates koltuk alma](/domates-koltuk-alma) yazısına bakabilirsiniz.
+
+## Küçük alan çözümleri: saksı, yatak ve ip sistemi
+
+Balkonda saksıya dikilen bodur domates için bir kafes yeterlidir. Saksı yeterince ağır değilse kafes, bitki büyüyünce saksıyı bile devirebilir; saksıyı duvara yakın tutun ya da kafesi bir köşeye sabitleyin. Saksıda sırık domates yetiştirmek istiyorsanız tek bir kazık yerine saksının iki yanına iki kazık çakıp üstte birleştirmek daha sağlam durur. Saksı ve bakım ayrıntıları için [balkonda domates yetiştirme](/balkonda-domates-yetistirme) yazısı yararlı.
+
+Yükseltilmiş yatakta dikey ip sistemi öne çıkıyor. Yatağın kısa kenarlarına bir çerçeve kurup üstüne ip gerersiniz; domates ipe sarılarak yukarı çıkar. [Bahçe yatağında dikey destek](/bahce-yataginda-dikey-destek) yazısında bu kurulumun ayrıntıları var. Mağazadaki sebze yatağı bitki destek ünitesinin ürün açıklamasında, yatağın üstünden 153 cm yükselen bir çerçeveye yaklaşık 20 cm aralıkla ip gerildiği ve domates, salatalık, fasulye ve bezelyenin ipe sarılarak yukarı büyüdüğü anlatılıyor. Destek ünitesi yatağın boyuna göre seçiliyor; ip, toprak ve bitkiler pakete dahil değil.
+
+Bu yapıda ipi sezon sonunda bitkiyle birlikte kompostlayabilirsiniz; ürünün tanıtımında jüt ya da pamuk ip öneriliyor. Plastik ip kompostlanmaz ve gövdeye zarar verebilir.
+
+## Destek seçerken sık yapılan hatalar
+
+Destek konusunda yapılan hatalar çoğunlukla seçimden değil, zamanlamadan çıkar. En sık görülenler şöyle:
+
+- Desteği geç koymak. Fide büyüdükten sonra kafes geçirmek dalları kırar, kazık çakmak kökleri keser.
+- Sırık domatese kısa kafes vermek. Bitki kafesi aşar ve dalları dışarı sarkar.
+- İpi gövdeyi sıkacak biçimde bağlamak. Gövde kalınlaştıkça ip kesilmeye başlar.
+- Kazığı sığ çakmak. Dolu bitki rüzgârda yan yatar.
+- Meyve ağırlığını hesaba katmamak. Hazır ince kafesler yük altında çöker.
+
+Küçük bir kafesin içine sıkışmış sırık domates, havasız kalan yapraklarıyla mantar hastalıklarına da açık hâle gelir. Hava dolaşımı için yaprak yoğunluğunu azaltmak ve gövdeyi destekle düzenli yönlendirmek gerekir. Sulama düzeni de destekle birlikte düşünülmeli; ayrıntı için [domates sulama](/domates-sulama) yazısına göz atın.
+
+## Hangi durumda hangisini seçin?
+
+Kararı basitleştirmek için şu sırayı izleyin. Önce çeşidin bodur mu sırık mı olduğuna bakın. Bodursa kafes çoğu durumda yeter, ama boyu en az 120 cm olsun. Sırıksa kazık, çift kazık ve ip ya da dikey ip sistemi seçin. Yeri belli, yatakta yetiştiriyorsanız ip sistemi alan kazandırır. Karar vermekte zorlanıyorsanız kazık ve ip kombinasyonu iki tipte de çalışır; çünkü bodur bitkiyi de bağlamak mümkündür, kafes ise sırık bitkiye yetmez.
+
+Toprak da destekten bağımsız düşünülmemeli. Sağlam kökle büyüyen bitki daha sağlam durur; saksıda ya da yatakta sebze için hazırlanmış, süzek ve besleyici bir toprak kullanmak bitkiyi baştan güçlendirir. Ürün açıklamasına göre HG Premium Sebze Yetiştirme Toprağı solucan gübresi, leonardit, vermikülit, cocopeat, orman toprağı ve torf içeren bir karışım olarak tanıtılıyor.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Sezon sonunda desteği toplamak
+
+Hasattan sonra destek malzemesini temizlemek ve kurutmak gelecek yıl için önemlidir. Kazıkları toprak ve bitki kalıntısından arındırın; ip ve bağlar hasta bitkiyle temas ettiyse sonraki sezon kullanmayın. Kafesleri ve telleri kuru bir yerde saklamak paslanmayı yavaşlatır. Hastalıklı bitkiyi destekle birlikte kompost yığınına atmayın; hastalık tohumları ertesi yıl yeniden ortaya çıkabilir.
+
+Bir de küçük bir not: kafes ya da kazık seçimi bir kere yapılıp unutulacak bir karar değil. Bahçenizin rüzgârı, yatağınızın ölçüsü ve bitkinin boyuna göre her sezon gözden geçirilebilir. Bir sezon kafesle iyi gidip ertesi sezon sırık çeşide geçtiyseniz sistemi değiştirmeniz normaldir.
+@sss
+S: Domates kafesi mi kazık mı daha iyi?
+C: Bodur domateste kafes yeterlidir; sırık domateste kazık, ip ya da yüksek bir çerçeve gerekir. Seçimi çeşidin büyüme tipi belirler, bu yüzden önce etiketi okuyun.
+
+S: Domates kafesi kaç cm olmalı?
+C: Bodur çeşitler için yaklaşık 120 cm boy ve 35-45 cm çap yeterli sayılır. Sırık çeşitlerde kafes en az 180 cm olmalı; yine de çoğu sırık domates kafesi aşar, kazık daha güvenlidir.
+
+S: Sırık domatese kazık nasıl bağlanır?
+C: Gövdeyi kazığa sekiz şeklinde, sıkmadan ve yumuşak ip ile bağlayın. Bitki uzadıkça her 20-30 cm'de yeni bir bağ atın. Tel ya da misina gövdeyi keser, kullanmayın.
+
+S: Saksıdaki domates için hangi destek uygun?
+C: Bodur çeşitte küçük bir kafes yeter. Sırık çeşitte saksının iki yanına kazık çakıp üstte birleştirin; saksı ağır değilse duvara yaslayın ve rüzgâra karşı sabitleyin.
+
+### YAZI
+slug: visne-hastaliklari
+baslik: Vişne Hastalıkları: Yaprak Neden Deliniyor, Meyve Neden Çürür?
+yayin: 2027-04-25 14:05
+yazar: Mikdat Çelik
+kategori: bitki-bakimi
+odak: vişne hastalıkları
+seo_baslik: Vişne Hastalıkları: Yaprak Delinmesi ve Meyve Çürümesi
+seo_aciklama: Vişne hastalıkları arasında yaprak lekesi ve meyve çürüklüğü en sık görülenlerdir; belirtileri, nedenlerini ve bahçe temizliğiyle önlemeyi öğrenin.
+ozet: Vişnede yaprakta kırmızımsı lekeler ve delikler ile meyvede kahverengi çürüme çoğunlukla mantar kaynaklıdır. Belirtilerin nasıl ayırt edileceğini, dökülen yaprakların neden önemli olduğunu ve ilaç yerine bahçe temizliğiyle neler yapılabileceğini anlattık.
+etiketler: vişne hastalıkları, vişne yaprak lekesi, vişne çürüklüğü, yaprak delinmesi, bahçe temizliği, vişne bakımı
+gorsel: bekliyor
+gorsel_alt: Küçük kırmızı lekeler ve delikler oluşmuş bir vişne ağacı yaprağı, altta çürümüş meyveler
+urunler: raco-tel-tirmik-kucuk, hasturk-kati-solucan-gubresi
+kisaca: Vişne hastalıkları içinde yaprak lekesi (yaprakta delinme) ve meyve çürüklüğü en yaygın olanlardır. Yaprakta önce küçük kırmızımsı lekeler çıkar, sonra bu bölümler düşüp delikler bırakır. Dökülen yaprakları toplamak ve ağacı havadar tutmak ilk adımdır; ilaç kararı için ziraat mühendisine danışın.
+@govde
+Vişne hastalıkları içinde en çok soruna yol açanlar yaprak lekesi ve meyve çürüklüğüdür. Yaprakta önce küçük, kırmızımsı ya da mor lekeler belirir; bu lekeler kuruyup düştüğünde yaprak delik deşik görünür. Meyvede ise kahverengi, yumuşak bir çürüme ve sapta kalan kuru meyveler dikkat çeker. İki sorun da çoğunlukla mantar kaynaklıdır ve nemli, serin havada hızla yayılır. Aşağıda belirtileri tanımanın yollarını, ağacı neden yorduğunu ve ilaçsız önlemleri adım adım anlattık.
+
+## Yaprak neden deliniyor? Vişne hastalıkları arasında yaprak lekesi
+
+Mayıs yağmurlarından sonra vişne ağacının altına bakarsınız: yerde sararmış yapraklar, ağacın dalındakiler ise bir şeyin kurşunla vurulmuş gibi delik deşik olmuş. Bu görüntü, vişne ve kirazda sık görülen yaprak lekesi hastalığıdır. Mantar yapraklarda önce küçük lekeler oluşturur; sonra bu lekeli doku kuruyup yaprağın içinden düşer. Bu yüzden hastalığa İngilizce kaynaklar "shot hole", yani saçma deliği adını da verir.
+
+Üniversite yayım kaynaklarında anlatılan belirtiler tutarlıdır. Minnesota Üniversitesi Extension'ın [kiraz yaprak lekesi sayfası](https://extension.umn.edu/plant-diseases/cherry-leaf-spot) hastalığın yapraklarda kuruyup düşen lekeler bırakarak delikler açtığını anlatır. Penn State Extension'ın [kiraz yaprak lekesi bilgi notu](https://extension.psu.edu/cherry-disease-cherry-leaf-spot) ile Kaliforniya Üniversitesi'nin [kiraz yaprak lekesi rehberi](https://ipm.ucanr.edu/home-and-landscape/leaf-spot-of-cherry/) de aynı tabloyu verir: önce yaprağın üst yüzünde küçük kırmızı ya da mor-kahverengi lekeler, sonra sararma ve yaprak dökümü.
+
+Lekelerin etrafında bir süre yeşil bir hale kalabilir; yaprak neredeyse tamamen sararırken lekenin çevresi hâlâ yeşildir. Bu "yeşil ada" görüntüsü hastalığın tanınmasına yardım eder. Yaprağın alt yüzünde nemli havada beyazımsı bir mantar yumağı da görülebilir.
+
+## Yaprak lekesi ağacı nasıl etkiler?
+
+Yaprağı dökülen ağaç bir hafta içinde belirgin biçimde zayıflamaz; sorun birikimlidir. Yaprak, ağacın besin ve enerji üreten organıdır ve yaz sonuna kadar yapraksız kalan ağaç ertesi yılın tomurcuklarını yeterince besleyemez. Michigan Eyalet Üniversitesi'nin [kiraz yaprak lekesi sayfası](https://www.canr.msu.edu/ipm/diseases/cherry_leaf_spot) ile Minnesota ve Penn State kaynakları, erken yaprak dökümünün ertesi yılın çiçek tomurcuğunu azalttığını, ağacı kışın soğuk zararına karşı daha duyarlı yaptığını belirtir.
+
+Kısa vadede meyve de etkilenir. Yaprak yüzeyi azalınca meyve iriliği ve şeker oranı düşer; ağaç yıllar içinde güçsüzleşir. Bu yüzden her yıl tekrarlanan bir yaprak lekesi, sadece "kozmetik" bir sorun olarak görülmemeli.
+
+Hastalığa duyarlılık çeşide göre değişir. Michigan kaynağı, o bölgede ekşi vişne alanının büyük bölümünü kaplayan 'Montmorency' çeşidinin hastalığa oldukça duyarlı olduğunu söyler. Bu yazının yazıldığı çeşit adları bölge farkı taşıdığı için, sizin yöredeki çeşidin duyarlılığını fidan satıcısından ya da il/ilçe tarım müdürlüğünden öğrenin.
+
+## Meyvede kahverengi çürüme: ikinci büyük sorun
+
+Vişnede bir başka sık sorun, meyvelerin ağaç üzerinde kahverengileşip yumuşaması ve kuruyup dalda kalmasıdır. Bu görünüm kahverengi meyve çürüklüğü ve çiçek yanıklığı yapan mantarlar için tipiktir. Çiçekler karardıktan sonra düşmez, dalda kalır; meyve yumuşar, üzerinde grimsi ya da kahverengi-sarı kapaklar oluşabilir. Nemli ve ılık havada yayılma hızlanır.
+
+Meyve çürümesi kiraz ve vişnede benzer görünür. Kirazın bu sorunları için [kiraz hastalıkları](/kiraz-hastaliklari) yazısındaki belirti tablosu benzer biçimde işe yarar; aynı bahçede kiraz da varsa ikisine birlikte bakın. Gri, tozlu küf görüyorsanız bu başka bir mantara işaret edebilir; ayrım için [kurşuni küf](/kursuni-kuf) yazısını inceleyin.
+
+Meyve çürüklüğünün tanısını koymak için tek bir belirtiye değil, birkaçının birlikte olmasına bakın. Çiçeklerin kararıp dalda kalması, dalda sızıntı, meyvede yumuşak kahverengi leke ve kuru kalan eski meyveler birlikte görülüyorsa mantar hastalığı yüksek olasılıktır. Dal ucundan sızan reçine ise ayrı bir sorun olabilir; bunu [ağaçta zamk akması](/agacta-zamk-akmasi) yazısı anlatıyor.
+
+## Belirtiden nedene: hızlı tanı tablosu
+
+Hangi belirtinin neye işaret ettiğini bir arada görmek için aşağıdaki şeridi kullanın.
+
+::: belirti
+Yaprakta küçük kırmızı-mor lekeler, sonra delikler | Yaprak lekesi mantarı | Dökülen yaprakları toplayın, ağaç içini aralayın, yağışlı dönemi takip edin
+Yaprak sarı, lekenin çevresi yeşil kalmış | Yaprak lekesinin ileri evresi | Etkilenen yaprakları yerden temizleyin; ağaçtaki durumu ziraat mühendisine gösterin
+Çiçek kararıp dalda kalmış, meyve kahverengi ve yumuşak | Kahverengi çürüklük, çiçek yanıklığı | Hastalıklı meyve ve kuru dalları ağaçtan uzaklaştırın, bahçeye gömmeyin
+Meyvede gri tozlu küf | Kurşuni küf olasılığı | Nemi azaltın, hasadı sık yapın, hasta meyveleri atın
+:::
+
+Tabloda ilaç adı ve doz yok, bilerek. Bitki koruma ürünü seçimi bölgenize, hastalığın kesin türüne ve ağacın durumuna göre değişir. Bu karar için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne başvurun.
+
+## Sonbahar temizliği: en etkili ilaçsız önlem
+
+Yaprak lekesi mantarı kışı ağaçtan düşmüş enfekte yapraklarda geçirir ve baharda oradan yeniden yayılır. Bu yüzden en etkili ilaçsız önlem, sonbaharda yaprakları toplamaktır. Penn State ve Minnesota kaynakları da dökülen yaprakların toplanıp ağaç altından uzaklaştırılmasını ilk önlem olarak önerir. Yaprakları yakmak yerine kompost yığınının sıcak çalıştığından emin olarak kompostlamak ya da bahçe dışına götürmek mümkündür. Soğuk kompostta mantar canlı kalabilir; bu yüzden yaprakları yığının ortasına gömün ve hastalıklı kısımları ayrı değerlendirin.
+
+Toplama işinde sert bir tel tırmık ağaç altındaki yaprakları kolayca çeker. Ürün açıklamasına göre Raco Tel Tırmık Küçük, 41 cm uzunluğunda ve 13,5 cm çalışma genişliğinde, 200 gram ağırlığında hafif bir el aleti; dar ağaç dibi alanlarında kullanımı kolaydır. Yaprak toplamayı sonbahara bırakmadan, bahar yağmurlarında düşen yaprakları da zaman zaman süpürmek hastalık yükünü azaltır.
+
+[ürün:raco-tel-tirmik-kucuk]
+
+Yaprak toplamak tek başına yeterli olmayabilir ama diğer önlemlerin temelidir. Kompost yığınının kurulumu için [bahçede kompost yığını](/bahcede-kompost-yigini) yazısına bakabilirsiniz.
+
+## Ağacı havadar tutmak: budama ve sıklık
+
+Mantarlar nemi sever. Yaprakların uzun süre ıslak kalması hastalığı kolaylaştırır. Ağacın iç dallarını seyreltmek ve ortasını açık tutmak, yaprakların yağmurdan sonra hızla kurumasını sağlar. Budama zamanı ve tekniği için [vişne budama](/visne-budama) yazısı ayrıntı veriyor; kışın yapılan seyreltme hem hava dolaşımını hem de ışık girişini artırır.
+
+Ağaçlar arasındaki mesafe de önemlidir. Sık dikilmiş bir vişne bahçesinde hava dolaşmaz, yağmur sonrası yapraklar günlerce ıslak kalır. Bahçenize yeni bir vişne dikecekseniz [vişne ağacı yetiştirme](/visne-agaci-yetistirme) yazısındaki dikim mesafelerine uyun. Sulamada yaprakları ıslatan serpme sulama yerine, dip sulamayı tercih etmek de yaprak nemini azaltır.
+
+Gübre konusunda ise denge önemlidir. Aşırı azot, yumuşak ve hızlı büyüyen sürgünler oluşturur; bunlar hastalığa daha açık olur. Dengeli beslenme için [vişne ağacı gübreleme](/visne-agaci-gubreleme) yazısına bakın. Ürün açıklamasına göre HasTürk Solucan Gübresi organik madde katkısı sağlayan bir katı gübredir; toprağa karıştırılarak kullanılır.
+
+## Ne zaman ziraat mühendisine ve tarım müdürlüğüne başvurmalı?
+
+Aynı ağaçta üç dört yıldır tekrar eden yaprak dökümü, dallarda kuruma ya da meyvelerin çoğunun çürümesi varsa tanıyı kesinleştirmek gerekir. Bu aşamada fotoğraf çekip yaprak ve meyve örnekleriyle il ya da ilçe tarım müdürlüğüne ya da bir ziraat mühendisine gidin. Hastalığın türü, dönemi ve bölgenizdeki mevzuata uygun mücadele yöntemi o zaman netleşir.
+
+Ağaç dibini temiz tutmak, budamayı zamanında yapmak, yağışlı dönemlerde gözlem yapmak ve dökülen yaprağı toplamak sizin bahçedeki işleriniz. Kimyasal mücadele gerekiyorsa ürün adı, zaman ve miktar, mutlaka etiket ve yetkili kişinin önerisine göre belirlenir.
+
+## Vişne hastalıkları için yıllık takip
+
+Vişne hastalıkları tek seferlik bir müdahaleyle değil, yıl boyunca tekrar eden küçük işlerle kontrol altında tutulur. Aşağıdaki liste, ağaç başında hangi mevsimde neye bakmanız gerektiğini özetliyor.
+
+| Dönem | Ağaçta ne olur? | Yapılacak iş |
+|---|---|---|
+| Kış sonu | Dallar uykuda, tomurcuklar şişmeden önce | Ağaç içini seyreltin, kuru ve hastalıklı dalları sağlam dokuya kadar kesin |
+| Çiçeklenme | Çiçekler açar, yağış ve nem hastalığı kolaylaştırır | Çiçeklerin kararıp dalda kalıp kalmadığına bakın |
+| Mayıs-haziran | Yapraklar tam gelişmiştir, yağmur sonrası leke riski vardır | Yaprak üstünde küçük kırmızı lekeleri arayın, tanı için fotoğraf çekin |
+| Hasat | Meyveler olgunlaşır | Çürük ve kuru meyveleri ağaçta bırakmayın, sık toplayın |
+| Sonbahar | Yapraklar dökülür | Yerdeki yaprakları toplayın, kompostun sıcak çalıştığından emin olun |
+
+Her turda aynı ağaca aynı yerden bakmak, değişimi fark etmenizi kolaylaştırır. Bir yıl önceki fotoğrafla karşılaştırmak, sorunun artıp artmadığını gösterir.
+@sss
+S: Vişne yaprağı neden delik delik oluyor?
+C: En sık neden kiraz yaprak lekesi adı verilen mantar hastalığıdır. Yaprakta önce küçük kırmızımsı lekeler çıkar, lekeli doku kuruyup düşünce yaprak delinir. Nemli ve serin havada hızlı yayılır.
+
+S: Vişne ağacında yaprak lekesi tedavi edilir mi?
+C: Hastalık yönetilir ama tamamen silinmez. Dökülen yaprakları toplamak, ağaç içini açık tutmak ve yağışlı dönemi izlemek temel adımlardır. İlaç gerekiyorsa ziraat mühendisine danışın.
+
+S: Vişne meyveleri neden dalda kuruyup kalıyor?
+C: Kahverengi çürüklük ve çiçek yanıklığı yapan mantarlar meyveyi yumuşatıp kurutabilir. Kuru meyveleri dalda bırakmayın; hasta dal ve meyveyi ağaçtan uzaklaştırıp bahçeye gömmeyin.
+
+S: Dökülen vişne yaprakları neden toplanmalı?
+C: Yaprak lekesi mantarı kışı yerdeki hastalıklı yapraklarda geçirir ve baharda yeniden yayılır. Sonbaharda yaprakları toplayıp kompostlamak ya da bahçeden uzaklaştırmak mantarın yükünü azaltır.
+
+### YAZI
+slug: bezelye-cesitleri
+baslik: Bezelye Çeşitleri: Bodur mu Sırık mı? Taze, Kuru ve Şeker Bezelye Arasında Seçim
+yayin: 2027-04-25 16:40
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: bezelye çeşitleri
+seo_baslik: Bezelye Çeşitleri: Bodur, Sırık ve Şeker Bezelye Farkı
+seo_aciklama: Bezelye çeşitleri bodur ve sırık, bakla ayıklanan, şeker ve kar bezelyesi diye ayrılır; bahçe ve saksı için hangisini seçeceğinizi tabloyla görün.
+ozet: Bezelyede iki ayrı seçim var: boyuna göre bodur ya da sırık, kullanıma göre bakla ayıklanan, şeker ve kar bezelyesi. Her tipin ekim, destek ve hasat farkını, bahçe ve saksı için uygun seçimi anlattık.
+etiketler: bezelye çeşitleri, bodur bezelye, sırık bezelye, şeker bezelye, kar bezelyesi, bezelye ekimi
+gorsel: bekliyor
+gorsel_alt: Telli çerçeveye tırmanan sırık bezelye ve yanında bodur bezelye sırası
+urunler: altinvadi-bezelye-tohumu-25-gr, hg-bol-verimli-sebze-topragi
+kisaca: Bezelye çeşitleri boya göre bodur (yaklaşık 40-75 cm) ve sırık (90 cm ve üzeri) diye ayrılır; kullanıma göre ise bakla ayıklanan taze bezelye, kabuğuyla yenen şeker bezelye ve yassı kar bezelyesi vardır. Küçük bahçe ve saksıda bodur, sıra dikimde sırık tür rahat eder.
+@govde
+Bezelye çeşitleri iki eksende ayrılır: boy ve kullanım. Boya göre bodur çeşitler 40-75 cm civarında kalır ve çoğu zaman desteksiz yetişir; sırık çeşitler 1,5-2 metreye uzar ve ağ ya da ip ister. Kullanıma göre bakla ayıklanan taze bezelye, kabuğuyla yenen şeker bezelye ve yassı bakla toplanan kar bezelyesi vardır. İki ayrımı birleştirince bahçenize uygun tipi bulmak kolaylaşır. Aşağıda tabloyla, ekim ve hasat farklarıyla ve saksı ile yatak önerileriyle anlattık.
+
+## Bezelye çeşitleri: boy ve kullanım ayrımı
+
+Tohum raflarının önünde durup üç ayrı paket tuttuğunuzu düşünün: biri taze bezelye, biri şeker bezelye, biri kar bezelyesi. Üçü de aynı bitki türünden. Tek fark, yetiştirilirken neye amaçlandıklarıdır. Taze bezelyede bakla sert ve lifli kalır, içindeki taneyi ayıklayarak yersiniz. Şeker bezelyede bakla da tane de tatlıdır, bütün olarak yenir. Kar bezelyesinde ise bakla yassı ve ince toplanır; içindeki taneler daha gelişmeden yenir.
+
+Iowa Eyalet Üniversitesi Extension'ın [bezelye tiplerini karşılaştıran sayfası](https://yardandgarden.extension.iastate.edu/faq/how-do-various-types-peas-differ) bu üç grubu aynı mantıkla anlatır. Her grupta hem bodur hem sırık çeşit bulunduğu için, boy kararı ayrı verilir. Yani şeker bezelye hem bodur hem sırık olabilir, bakla ayıklanan bezelye de öyle. Etiketteki çeşit adının yanında "bodur" ya da "sırık" ibaresine bakın.
+
+| Tip | Ne yenir? | Bakla yapısı | Tipik kullanım |
+|---|---|---|---|
+| Taze (bakla ayıklanan) bezelye | Yalnızca taneler | Sert, lifli bakla | Yemek, dondurma, çorba |
+| Şeker bezelye | Bakla ve tane birlikte | Etli, tatlı bakla | Çiğ yeme, salata, hafif haşlama |
+| Kar bezelyesi | Yassı bakla | İnce, yassı bakla | Sote, Uzakdoğu mutfağı |
+| Kuru bezelye | Olgun tane | Bakla kurur, taneler sertleşir | Çorba, kuru saklama |
+
+Kuru bezelye için bitki aynı türdür; tanelerin baklada tamamen olgunlaşıp kurumasını beklersiniz. Bu yüzden hasat süresi en uzun olan tiptir.
+
+## Bodur mu sırık mı? Boy farkı ne getirir?
+
+Boy, bezelyede en pratik farkı yaratır. Kaynakların çoğu bodur çeşitlerin 40-75 cm civarında kaldığını, sırık çeşitlerin ise 1,5 metreyi, hatta 2 metreyi aşabildiğini söyler. Tam rakamlar çeşide göre değişir; Illinois Üniversitesi Extension'ın [bezelye yetiştirme sayfası](https://extension.illinois.edu/gardening-site/peas) ile Kaliforniya Üniversitesi master bahçıvanlarının [bezelye rehberi](https://ucanr.edu/site/uc-master-gardeners-santa-clara-county/peas) da çeşit etiketine bakmayı önerir.
+
+Bodur bezelye küçük alanlarda ve saksıda rahat eder. Çoğu çeşit desteksiz durabilir ama yan yana sık ekilirse birbirini taşır; hafif bir çit ya da birkaç ince dal bile bitkinin yatmasını engeller. Hasat kısa bir döneme sıkışır; bitkiler birlikte olgunlaşıp birkaç haftada biter. Bu, mutfağa bir seferde çok bezelye lazımsa avantajdır.
+
+Sırık bezelye ise uzun süre meyve verir ve daha çok verim sağlar, karşılığında destek ister. İp, ağ ya da çit üzerine tırmanır. Bu da aynı yere daha çok bitki sığdırmak anlamına gelir; küçük bahçede dikey kullanım bir kazançtır. Destek seçimini [bahçe yatağında dikey destek](/bahce-yataginda-dikey-destek) yazısı ayrıntılandırıyor.
+
+## Hangi çeşit hangi bahçeye uyar?
+
+Seçimi alana ve beklentiye göre yapmak gerekiyor. Bahçenizin ve mutfağınızın durumuna göre şu sıralama işe yarar.
+
+- Balkon ve saksı: Bodur şeker bezelye ya da bodur kar bezelyesi. Derin ve geniş bir saksı gerekir, destek için birkaç dal yeterli.
+- Küçük bahçe ya da yükseltilmiş yatak: Sırık şeker bezelye. Yatağın kenarına ip ya da ağ germeniz yeter.
+- Çocukla yetiştirme: Şeker bezelye; bakla ayıklama derdi yok, çiğ yenebiliyor.
+- Dondurmaya ve çorbaya bezelye: Bakla ayıklanan taze bezelye, tercihen bodur çeşit; birlikte olgunlaşıp toplu hasat verir.
+- Uzun süre hasat: Sırık çeşit; birkaç haftada tekrar tekrar toplanır.
+
+Balkonda iki üç saksı bezelyeyle bir salata öğününü çıkarmak zordur; birkaç hafta boyunca atıştırmalık bakla toplamak ise makul bir beklentidir. Küçük alanda bezelyeyi domates ve fasulye gibi bitkilerle sıraya almak için [bahçe yatağında dikey destek](/bahce-yataginda-dikey-destek) yazısını ve fasulye ile karşılaştırma için [fasulye yetiştirme](/fasulye-yetistirme) yazısını okuyun.
+
+## Ekim zamanı, derinliği ve sıcaklık sınırı
+
+Bezelye serin iklim bitkisidir. Ürün açıklamasına göre Altınvadi Bezelye Tohumu (Nihal çeşidi) ılık iklim bitkisi olarak tarif ediliyor; bakla gelişiminde 20-25 °C istiyor, 27-32 °C'de çiçeklerini döküyor, düşük sıcaklıkta gelişme duruyor. Bu yüzden sıcak yazın ortasına yetişen ekim bezelyede verim kaybına yol açar.
+
+Aynı ürün sayfası ekim derinliğini 4-6 cm, çimlenme süresini 6-10 gün, sıra aralığını 50-60 cm, sıra üzerini 5-8 cm olarak veriyor; hasat ekimden yaklaşık 70-120 gün sonra. Bu değerler çeşide özgüdür; başka bir çeşit için paketteki bilgiye bakın. Soğuk geçen bölgelerde erken ilkbahar, ılık kıyılarda sonbahar ve kış ekimi yaygındır. Sonbahar ekimi için [bezelye ekimi](/bezelye-ekimi-sonbahar) yazısı takvim veriyor.
+
+Nisan sonu ve mayıs, iç bölgelerde son ekim fırsatı olabilir ama sıcaklık hızla yükselirse erken sıcaklık bezelyeyi çiçekte vurur. Bölgenizin ısı durumuna bakın: ekimden sonra iki üç hafta içinde 27 °C üzeri günler başlayacaksa ekim için geç kalınmış olabilir.
+
+## Tohum nasıl seçilir? Etikette nelere bakılır?
+
+Paket üstünde dört şeye bakmak yeterlidir. Birincisi tipi: taze mi, şeker mi, kar bezelyesi mi. İkincisi büyüme şekli: bodur mu sırık mı, boy kaç cm. Üçüncüsü hasat süresi: ekimden kaç günde baklaya gelir. Dördüncüsü saflık ve çimlenme oranı gibi kalite bilgileri.
+
+Ürün sayfasında Nihal çeşidinin saflığı %99, çimlenme oranı %86 olarak yazılı; tohumun ilaçlı olduğu ve yiyecek olarak kullanılamayacağı, yalnız ekim amacıyla kullanılması gerektiği de not edilmiş. Bu uyarıyı özellikle çocuklu evlerde dikkate alın; ilaçlı tohumu ağza götürmeyin ve ekmeden önce eldiven kullanın.
+
+[ürün:altinvadi-bezelye-tohumu-25-gr]
+
+Tohumu önceden ıslatmak gerekmez ama çok kuru bir toprağa ekilen tohum geç çıkar. Ürün sayfası nemli toprağa ekimin hızlı çimlenmeye yardım ettiğini, serpme sulamanın küçük tohumları yerinden oynatabileceğini ve toprağın göllenmemesi gerektiğini söylüyor. Toprağı ekim öncesi hafif nemlendirin, ekimden sonra ince bir duşla sulayın.
+
+## Saksı ve yatakta bezelye
+
+Saksıda bezelye için derinlik önemlidir. Kökler uzun ve hassas olduğundan en az 25-30 cm derinliğinde bir kap seçin; genişlik de bitkilerin yan yana sığması için yeterli olmalı. Altı mutlaka delikli olsun, çünkü sürekli ıslak toprak köklerde çürümeye yol açar. Sebze için hazırlanmış, süzek ve organik maddesi yeterli bir toprak kullanın.
+
+Bahçe yatağında ise bezelyeyi yatağın kuzey kenarına ekmek, diğer bitkileri gölgelemesini engeller. Sırık çeşit yatağın bir kenarında çit gibi durur ve arkasındaki marulu yazın hafif gölgeler. Yatağa ekilen bezelye için yatak toprağının dolgun ve nemli olması önemlidir; ayrıntı için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazısına bakın. Ürün açıklamasına göre HG Premium Sebze Yetiştirme Toprağı solucan gübresi, leonardit, vermikülit, cocopeat, orman toprağı ve torf içeriyor.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+Bezelye baklagil olduğu için kökündeki bakterilerle azot bağlar; ertesi sezon aynı yere yaprağı çok azot isteyen bir sebze ekmek mantıklıdır. Bu ilişkinin sınırlarını [baklagiller toprağa azot bağlar mı](/baklagiller-azot) yazısında okuyabilirsiniz. Hastalık belirtileri için [bezelye hastalıkları](/bezelye-hastaliklari) yazısı beyaz toz ve lekeli baklaları anlatıyor.
+
+## Hasat zamanı: ne zaman toplanır?
+
+Her tipin hasadı farklıdır. Taze bezelyede bakla dolgun ve parlak yeşilken, tanelerin şişmesi ve baklanın içinde birbirine yaslanması gerekir; çok geç kalırsanız taneler nişastalı ve sert olur. Şeker bezelyede bakla etli, çıtır ve içindeki taneler küçükken toplanır. Kar bezelyesinde bakla yassı ve ince, içindeki taneler henüz şişmemişken toplanır. Kuru bezelyede bakla bitkide kurur, taneler sertleşir ve içinde tıkırdar.
+
+Hasat sıklığı da önemlidir. Bezelyede olgun baklaları toplamak, bitkiyi yeni bakla yapmaya teşvik eder. Bakla bitkide uzun süre kalırsa bitki bunu görevini bitirmiş sayıp yeni çiçek açmayı bırakır. Sabah serinliğinde toplamak tadı ve tazeliği korur.
+
+## Seçimi özetleyen kısa kural
+
+Bezelye çeşitleri arasında kararsızsanız şu sırayı izleyin: önce yerinizi düşünün. Saksı ve balkon için bodur, yatak ve çit için sırık. Sonra mutfağınızı düşünün: çiğ atıştırmak için şeker bezelye, yemeklik tane için taze bezelye, sote için kar bezelyesi. Son olarak zamanınızı düşünün: toplu hasat için bodur, uzun hasat için sırık.
+@sss
+S: Bodur bezelye ile sırık bezelye farkı nedir?
+C: Bodur çeşitler 40-75 cm civarında kalır ve çoğunlukla desteksiz yetişir, hasatları kısa sürede biter. Sırık çeşitler 1,5 metreyi aşabilir, destek ister ve daha uzun süre verim verir.
+
+S: Şeker bezelye ile kar bezelyesi aynı mı?
+C: Hayır. Şeker bezelyede bakla etli ve tatlıdır, taneler gelişince de yenir. Kar bezelyesinde bakla yassı ve ince toplanır, içindeki taneler henüz gelişmemişken yenir.
+
+S: Bezelye saksıda yetişir mi?
+C: Evet. Bodur bir çeşit seçin, en az 25-30 cm derinliğinde ve delikli bir saksı kullanın. Birkaç dal ya da ince bir çit destek için yeterlidir. Sıcak günlerde sık sulayın.
+
+S: Bezelye ekiminde sıcaklık neden önemli?
+C: Bezelye serin sever; ürün bilgisine göre bakla gelişimi için 20-25 °C idealdir, 27-32 °C'de çiçekler dökülür. Bu yüzden sıcak yaza yaklaşan ekimlerde verim düşer.
+
+### YAZI
+slug: ilk-ay-bahce-plani
+baslik: İlk Ay Bahçe Planı: Hiç Başlamamış Biri İlk Dört Haftada Ne Yapar?
+yayin: 2027-04-25 19:30
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: ilk ay bahçe planı
+seo_baslik: İlk Ay Bahçe Planı: İlk Dört Haftada Yapılacaklar
+seo_aciklama: İlk ay bahçe planı: hiç başlamamış biri için alan seçimi, toprak, küçük yatak ve kolay bitkilerle dört haftalık sade bir yol haritası.
+ozet: İlk bahçeyi kurarken en büyük risk fazla büyük başlamaktır. Dört haftalık bir planla alan seçimini, toprak hazırlığını, küçük bir yatağı, kolay bitkileri ve ilk bakım rutinini hafta hafta anlattık.
+etiketler: ilk ay bahçe planı, yeni başlayan bahçe, sebze bahçesi, bahçe planı, ilk bahçe, hafta hafta bahçe
+gorsel: bekliyor
+gorsel_alt: Yeni kurulmuş küçük bir bahçe yatağı, yanında tırmık ve fide tepsisi
+urunler: moduler-yukseltilmis-bahce-yatagi-217-litre, hg-bol-verimli-sebze-topragi, raco-bahce-el-kuregi
+kisaca: İlk ay bahçe planı küçük başlamayı gerektirir: birinci hafta güneşli bir alan ve su yolunu belirleyin, ikinci hafta toprağı ya da yatağı hazırlayın, üçüncü hafta kolay sebze ve fideleri dikin, dördüncü hafta sulama ve gözlem rutinini oturtun. Tek bir yatak ya da birkaç saksı yeterlidir.
+@govde
+İlk ay bahçe planı, bütün bahçeyi bir seferde kurmak yerine küçük bir alanı doğru başlatmaya dayanır. Birinci hafta güneş ve su yolunu bulursunuz, ikinci hafta toprağı hazırlarsınız, üçüncü hafta kolay bitkileri dikersiniz, dördüncü hafta sulama ve gözlem düzenini oturtursunuz. Böyle ilerlemek hem bunalmayı önler hem de hataları küçük tutar. Aşağıda her haftayı ayrıntılı, kısa listelerle anlattık ve yeni başlayanların en çok düştüğü tuzakları gösterdik.
+
+## İlk ay bahçe planı neden küçük başlar?
+
+Hafta sonu bir bahçe merkezine gidip arabayı fide ile doldurmak, ilk bahçıvanlığın en sevilen ve en çok pişman edilen hâlidir. İki hafta sonra elinizde yarısı susuzluktan solmuş, yarısı da yanlış yere dikilmiş bitkiler olur. Yeni başlayanların en büyük riski hırstır: gerçekçi bir iş yükünden daha büyük bir alan.
+
+Başlangıç rehberlerinin çoğu aynı yöne bakar: küçük bir alanda başlayın, büyütmeyi sonraya bırakın. [Penn State Extension'ın yükseltilmiş yatak sayfası](https://extension.psu.edu/programs/master-gardener/counties/lancaster/idea-gardens/the-raised-bed-garden) yükseltilmiş yatakların drenajı iyileştirdiğini ve küçük alanda yönetimi kolaylaştırdığını anlatır. Washington Eyalet Üniversitesi Extension'ın [acemi sebze bahçıvanları için hazırladığı not](https://wpcdn.web.wsu.edu/extension/uploads/sites/57/2024/01/Help-for-the-Vegetable-Garden-Novice.pdf) de ilk yıl için ayrıntılı bir başvuru kaynağıdır. Kısaca, büyük ve karmaşık bir bahçe kurmaktansa küçük bir bahçeyi iyi yapmak, tecrübe kazanmanın en hızlı yoludur.
+
+Dört haftanın sonunda hedef; tek bir yatak, birkaç saksı ya da küçük bir toprak parseli olsun ve içinde 4-6 çeşit kolay bitki büyüsün. Daha fazlasına ikinci sezonda geçebilirsiniz.
+
+## Dört haftalık planın genel görünümü
+
+Önce bütün planı bir bakışta görelim. Tablo, her haftanın ana işini ve çıktısını özetliyor.
+
+| Hafta | Ana iş | Sonunda elinizde olan |
+|---|---|---|
+| 1 | Alan ve su yolunu belirleme, ihtiyaç listesi | Güneşli, suya yakın, ölçülmüş bir köşe |
+| 2 | Toprak ya da yatak hazırlığı | Gevşek, dolgun, düzgün ekime hazır alan |
+| 3 | İlk ekim ve dikim | 4-6 kolay bitki yerinde |
+| 4 | Sulama, gözlem, ilk müdahaleler | Düzenli rutin ve not defteri |
+
+Her haftanın işi iki üç saati geçmez. Haftada ortalama iki üç saat ayırabildiğiniz bir plan, sürdürülebilir olandır. Sezonun geri kalanında da bu ritmi koruyacaksınız.
+
+## Birinci hafta: alanı ve suyu bulun
+
+İlk işiniz bitki almak değil, yer seçmektir. Sebzelerin çoğu günde en az altı sekiz saat güneş ister; başlangıç rehberlerinin çoğu aynı aralığı verir. Güneşi gün boyunca gözleyin: sabah dokuzda, öğlen ve akşam üçte kaç saat gölgede kalıyor? Üst katlarda balkon ya da terasınız varsa bina gölgesini ve korkuluğun etkisini de not edin.
+
+İkinci kriter suya erişimdir. Hortum ya da kovayla taşıyacağınız suyun yeri uzaksa her gün sulama bir angaryaya döner. Su kaynağına en yakın güneşli noktayı tercih edin. Üçüncü kriter rüzgâr ve evden uzaklıktır: sık gittiğiniz yere yakın bir bahçe daha çok bakım görür.
+
+Bu hafta şunları yapın:
+
+1. Alanın güneş saatini gün içinde üç kez not edin.
+2. Suyun nereden geleceğini belirleyin ve hortum ya da kova mesafesini ölçün.
+3. Alanı metre ile ölçüp kâğıda küçük bir plan çizin; yönteme [bahçe planı nasıl çizilir](/bahce-plani-nasil-cizilir-olcek-gunes-su-noktasi) yazısından bakabilirsiniz.
+4. Hangi sebzeleri yemeyi sevdiğinizi yazın; yalnızca yiyeceğiniz bitkileri ekin.
+
+## İkinci hafta: toprak ya da yatak hazırlığı
+
+Bahçenin başarısı büyük ölçüde toprağa bağlıdır. İki yol var: mevcut toprağı iyileştirmek ya da yükseltilmiş yatak ve saksıda hazır bir toprak karışımı kullanmak.
+
+Mevcut toprak sıkışık, taşlı ya da killiyse ilk yıl iş çoktur: çapalama, taş ayıklama, kompost ve organik madde ekleme. Acele etmeyin; ıslak toprağı sürmek yapıyı bozar. Hazırlık için [toprak tavı nedir](/toprak-tavi-nedir) yazısındaki işleme zamanı ipuçları işe yarar. Öte yandan çoğu yeni başlayan için yükseltilmiş yatak, toprak sorununu baştan çözer: içine doğru toprağı koyarsınız ve yatağı çimin ya da zeminin üstüne kurarsınız.
+
+Mağazadaki modüler yatakların tanıtımında yatağın 30 cm yüksekliğinde olduğu, ekim ve bakım işlerine erişimi kolaylaştırdığı ve ek parçalarla genişletilebildiği anlatılıyor. 85×85 cm ölçüsündeki No:3 modelinin hacmi 217 litre olarak yazılı; bahçe, hobi bahçesi, balkon ve terasta kullanılabilir. Yatağı nasıl kuracağınız için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) ve alt zemin için [yükseltilmiş yatağın altına ne serilir](/yukseltilmis-yatagin-altina-ne-serilir) yazıları adım adım gidiyor.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-217-litre]
+
+Yatağı ya da toprağı hazırladıktan sonra bir iki gün dinlendirin; toprak çöker ve yeniden seviye ister. Çökme için [yükseltilmiş yatakta toprak çökmesi](/yatakta-toprak-cokmesi) yazısına bakın.
+
+## Üçüncü hafta: ilk ekim ve dikim
+
+Bu hafta bahçenin en eğlenceli bölümü: bitkileri yerine koymak. Burada kural, kolay ve hızlı sonuç veren bitkilerle başlamaktır. Marul, turp, roka, fasulye, kabak, domates fidesi ve aromatik otlar yeni başlayanlar için sık önerilir. Başlangıç rehberlerinde de marul, fasulye, turp, kabak ve domates sık anılan bitkilerdir.
+
+Sezona göre seçim değişir: serin dönemde marul, turp ve bezelye, ısınan havada fasulye, kabak ve domates. Ekim takvimi için kendi bölgenize ve [mayıs ayında ne ekilir](/mayis-ayinda-ne-ekilir-sicak-sever-sebze-cicek-balkon) gibi takvim yazılarına bakın. Son don tarihini mutlaka düşünün; sıcak seven fideyi don riski geçmeden dikmeyin. Fide dikimi için [fide dikim derinliği](/fide-dikim-derinligi) yazısı pratik ölçüler veriyor.
+
+Ekimi tek seferde yapmak yerine ekim sırasını yayın. Aynı gün 20 marul tohumu ekerseniz hepsi aynı hafta olgunlaşır ve yiyemeden atarsınız. Her hafta birkaç tohum ekmek, mutfağa düzenli yeşillik verir. Bitkiler arasında bırakılacak mesafe için tohum paketi ve [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yardımcı olur.
+
+## Dördüncü hafta: sulama, gözlem, ilk müdahale
+
+Dördüncü hafta bahçenin ritmini oturtma haftasıdır. Yeni dikilen bitkiler ilk haftalarda toprağın üst katını kuru bırakmamalı; ama fazla suda çürürler. Parmakla toprağı iki parmak derinlikte yoklayın: kuruysa sulayın, nemliyse bekleyin. Sulama saati için [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısı sabah ve akşam seçimini anlatıyor.
+
+Bu hafta ilk yabani otlar, ilk böcekler ve belki ilk solgun yapraklar görünecek. Panik yapmadan bir fotoğraf çekin, ne zaman başladığını not edin ve gözleyin. Küçük bir not defteri açın: ne zaman ektiniz, ne zaman suladınız, hangi bitkide ne değişti? Bu defter bir sonraki sezonun en değerli rehberi olacak.
+
+Yabani otu küçükken elle sökmek, büyüdükten sonra uğraşmaktan çok daha kolaydır. İnce bir malç tabakası hem otu bastırır hem nemi tutar; seçenekler için [malç çeşitleri](/malc-cesitleri) yazısına bakın. Gübre konusunda acele etmeyin; yatağa iyi bir sebze toprağı doldurduysanız ilk haftalarda ek gübre gerekmeyebilir.
+
+## Yeni başlayanların sık düştüğü tuzaklar
+
+İlk ayda yapılan hataların çoğu aynıdır ve önlenebilir:
+
+- Fazla büyük alan seçmek. Bakamayacağınız alanı dağınık bırakırsınız.
+- Gölgeli köşeye sebze dikmek. Sebzelerin çoğu güneşsiz verimsiz kalır.
+- Her şeyi aynı gün ekmek. Hasat tek seferde gelir, yetişemezsiniz.
+- Her gün biraz sulamak. Köklerin yüzeyde kalmasına yol açar.
+- Fideyi don riski geçmeden dikmek. Bir geceyle kaybedebilirsiniz.
+- Not tutmamak. Sonraki yıl neyin işe yarayıp yaramadığını hatırlamazsınız.
+
+Hataların listesini tamamlamak için [acemi bahçıvan hataları](/acemi-bahcivan-hatalari) yazısındaki 12 hatayı da gözden geçirin. Bu yazı ilk ayın sıralamasını verir; hatalar yazısı ise uzun vadeli alışkanlıkları kapsar.
+
+## El aletleri: azıyla başlayın
+
+Yeni başlayan için araç listesi kısa olabilir: küçük bir bahçe küreği, bir tırmık ve eldiven çoğu işi görür. Raco Bahçe El Küreği ve benzer el aletleri ürün gruplarında yer alıyor; ihtiyacınıza göre bakabilirsiniz. Başlangıç seti için [bahçe el aletleri](/bahce-el-aletleri) yazısı temel seti anlatıyor. Pahalı ve çok parçalı bir set yerine önce ihtiyacı fark edip sonra eklemek mantıklıdır.
+
+[ürün:raco-bahce-el-kuregi]
+
+## Ay sonunda yapılacak değerlendirme
+
+Dördüncü haftanın sonunda bir an durun ve değerlendirin. Hangi bitkiler ayakta, hangileri zorlanıyor? Alan yeterli mi, fazla mı? Sulama için ayırdığınız zaman gerçekçi mi? Cevaplar sonraki ayın planını belirler. Büyümek istiyorsanız bir yatak daha eklemek ya da bir kenara birkaç saksı koymak, yalnızca bu değerlendirmeden sonra mantıklıdır.
+
+İlk ay bahçe planı bir başlangıç provasıdır; amacı mükemmel bir bahçe değil, ayakta kalan bir rutindir. Bitkiler büyüdükçe işin keyfi artar.
+@sss
+S: Hiç bahçem olmadı, nereden başlamalıyım?
+C: Güneşli ve suya yakın küçük bir alan seçin, tek bir yatak ya da birkaç saksı hazırlayın ve marul, turp, fasulye gibi kolay bitkilerle başlayın. Büyümeyi ikinci sezona bırakın.
+
+S: Yeni başlayan için bahçe ne kadar büyük olmalı?
+C: Üniversite yayım kaynakları küçük bir yükseltilmiş yatakla başlamayı önerir. 4-6 bitkiyi rahat besleyebilen bir yatak ya da birkaç saksı ilk ay için yeterlidir.
+
+S: İlk ayda hangi sebzeler ekilir?
+C: Serin dönemde marul, turp, bezelye ve roka; ısınan havada fasulye, kabak ve domates fidesi uygundur. Son don riski geçmeden sıcak seven bitkileri dikmeyin.
+
+S: İlk ay için en önemli ekipman nedir?
+C: Küçük bir bahçe küreği, tırmık ve eldiven çoğu işi görür. Sulama kabı ya da hortum da gerekir. Başka aletleri, ihtiyacı fark ettikçe ekleyin.
+
+### SORU
+yayin: 2027-04-25 21:10
+kategori: bitki-bakimi
+baslik: Kışı balkonda geçiren biberiyem kurudu ama dibinde yeşil sürgünler var, kesmeli miyim?
+metin: Balkondaki biberiyem kışın dondu, dalların çoğu kuru ve kırılgan. Ama toprağa yakın yerden minik yeşil sürgünler çıkıyor. Hepsini dipten mi keseyim, yoksa bekleyeyim mi? Çöpe atmak istemiyorum.
+@cevap Halil İbrahim Çelik | 2
+Atmayın, yeşil sürgün bitkinin kökünün canlı olduğunu gösterir. Kuru dalların birkaçını bıçakla hafifçe kazıyın; altı kahverengiyse o dal ölüdür, yeşilse canlıdır. Yeni sürgünlerin üstündeki kuru dalları sağlam dokuya kadar kesin, yeşil sürgünlere dokunmayın. Gübre vermeden, toprak kuruyunca sulayarak birkaç hafta izleyin.
+
+### SORU
+yayin: 2027-04-25 21:45
+kategori: sebze-meyve
+baslik: İç Anadolu'dayım, bezelyeyi mayıs başında ekersem sıcaktan çiçek döker mi?
+metin: Ekim fırsatını kaçırdım, elimde bodur bezelye tohumu var. Mayıs başında ekmeyi düşünüyorum ama yaz sıcaklarında bezelyenin çiçek döktüğünü okudum. Denemeye değer mi?
+@cevap Rümeysa Altınova | 2
+Denemeye değer ama riskli. Bezelye serin sever; ürün bilgilerinde bakla gelişimi için 20-25 derece ideal, 27-32 derecede çiçek dökümü görülür. Bodur ve erkenci bir çeşit seçip öğleden sonra gölge alan bir köşeye ekin, toprağı malçlayın ve düzenli sulayın. Sıcak hafta ekimden sonra erken gelirse verim düşebilir.

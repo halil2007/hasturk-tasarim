@@ -1,0 +1,622 @@
+### YAZI
+slug: nisan-ayinda-bahcede-yapilacaklar
+baslik: Nisan Ayında Bahçede Yapılacaklar: Hazırlık Listesi
+yayin: 2027-03-17 08:45
+yazar: Mehmet Fatih Çelik
+kategori: ekim-takvimi
+odak: nisan ayında bahçede yapılacaklar
+seo_baslik: Nisan Ayında Bahçede Yapılacaklar: Bölge Listesi
+seo_aciklama: Nisan ayında bahçede yapılacaklar neler? Sebze ve çiçek ekimi, fide sertleştirme, çim ve meyve ağacı bakımı ile geç don önlemlerini bölgelere göre sıraladık.
+ozet: Nisan, bahçenin gerçekten başladığı aydır ama hâlâ geç don riski taşır. Ekim, dikim, fide sertleştirme, çim ve ağaç bakımı ve don gecesi önlemlerini bölgelere göre listeledik.
+etiketler: nisan bahçe işleri, nisan ekimi, fide sertleştirme, geç don, ilkbahar bahçe, çim bakımı, sebze ekimi
+gorsel: bekliyor
+gorsel_alt: Nisan sabahında yeni sürmüş sebze yatakları ve yanında bahçe aletleri
+urunler: hasturk-kati-solucan-gubresi, raco-fide-dikme-aleti, leonardit-organik-toprak-duzenleyici
+kisaca: Nisan ayında bahçede yapılacaklar şunlardır: toprağı tava gelince hazırlamak, soğuğa dayanıklı sebzeleri ekmek, yazlık fideleri açığa alıştırmak ve çimi ilk gübre ve biçime hazırlamak. Domates, biber ve patlıcan fideleri son don geçmeden dikilmez; kıyılarda nisan başında, iç bölgelerde nisan sonunda dikim başlar.
+@govde
+Nisan sabahı bahçeye çıkıp güneşin ısıttığı toprağı görünce her şeyi bir günde ekmek istersiniz. Oysa nisanın en büyük tehlikesi soğuktur: Ağaçlar çiçekte, sebze fideleri daha sert hava görmemişken gelen tek bir gece donu bir aylık emeği götürür. Nisan ayında bahçede yapılacaklar bu yüzden iki gruba ayrılır: şimdi yapılacak işler ve don geçene kadar bekleyecek işler.
+
+## Nisan ayında bahçede yapılacaklar bölgeye göre nasıl değişir?
+
+Aynı nisan ayı, Antalya'da yaz başlangıcı, Erzurum'da kış sonudur. Aşağıdaki tablo genel bir çerçeve verir; asıl karar, kendi ilçenizin hava tahmini ve toprağın durumuyla verilir.
+
+| Bölge | Nisan başı | Nisan sonu |
+|---|---|---|
+| Akdeniz, Ege kıyıları | Yazlık fideler dikilebilir | Hasat başlar, sulama düzenine geçilir |
+| Marmara, Karadeniz kıyıları | Soğuğa dayanıklı sebze ekimi | Yazlık fideler için sertleştirme ve dikim |
+| İç Anadolu, Göller | Toprak hazırlığı, bezelye, ıspanak | Don riski sürer; hassas fideler beklemede |
+| Doğu Anadolu, yüksek rakım | Toprak yeni çözülür | Soğuğa dayanıklı sebze ekimi başlar |
+
+## Nisanın dört haftası
+
+Takvimi haftalara bölmek, işleri sırayla yapmayı kolaylaştırır.
+
+::: takvim
+Toprak hazırlığı, kompost yayma | 3-4
+Bezelye, ıspanak, turp, marul ekimi | 3-5
+Yazlık sebze fidesini sertleştirme | 4-5
+Yazlık sebze fidesini dikme (son dondan sonra) | 4-6
+Çim gübresi ve ilk biçimler | 3-5
+Meyve ağaçlarında çiçek dönemi takibi | 3-4
+:::
+
+## Toprak ve tohum: sıcaklık takvimden önce gelir
+
+Tohum ekmeden önce toprağın sıcaklığına bakın. Alabama Üniversitesi Yayım Servisi'nin [çimlenme tablosuna](https://www.aces.edu/blog/topics/lawn-garden/soil-temperature-conditions-for-vegetable-seed-germination/) göre marul ve ıspanak yaklaşık 2 °C'de, bezelye yaklaşık 4 °C'de, domates yaklaşık 10 °C'de, biber yaklaşık 16 °C'de çimlenebilir. Bunlar çimlenebilecekleri en düşük sıcaklıklardır; bu eşiklerde çimlenme yavaş olur ve tohum çürüme riskiyle karşılaşır. Gerçek ekim zamanı, toprağın bu sınırların epey üzerine çıktığı haftadır.
+
+Toprağın tava kıvamında olması da şarttır. Bir avuç toprağı sıkın; parmakla dokununca dağılıyorsa kürek girebilir. Çamurlu toprağı işlemek yapıyı bozar. Toprağınızı daha önce analiz ettirmediyseniz nisan başı uygun bir zamandır; örnek alma yöntemi için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın.
+
+## Soğuğa dayanıklı sebzeler: şimdi ekilenler
+
+Nisanda açığa ekilen sebzeler, serin toprağı ve hafif geç donu kaldıran türlerdir.
+
+- Bezelye, bakla: Serin toprakta çimlenir, tohumla ekilir.
+- Ispanak, marul, roka, turp, tere: Tohumu açığa saçılır; sık ekimden kaçının.
+- Havuç, pancar, maydanoz: Yavaş çimlenir, toprak yüzeyini nemli tutmak gerekir.
+- Soğan ve sarımsak: Sonbaharda dikilmemişse soğan arpacığı ve fide hâlinde nisanda dikilir.
+- Patates: Toprak tavlandıktan sonra, çimlendirilmiş yumrularla dikilir.
+
+Ekim derinliği ve çıkış sorunları için [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazısı en sık nedenleri sıralıyor. Fide viyoline ekim yapanlar için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) rehberi işe yarar.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Yazlık fideleri dikmeden önce sertleştirin
+
+Evde ya da serada büyüyen domates, biber ve patlıcan fidesi dış koşula alışık değildir. Doğrudan açığa dikilen fide rüzgârdan ve güneşten yanabilir. Sertleştirme, fideyi 7–10 gün boyunca kademeli olarak dışarıya alıştırmaktır. Nebraska Üniversitesi Yayım Servisi'nin [sertleştirme rehberi](https://lancaster.unl.edu/hardening-transplants) fidelerin önce günde birkaç saat, sonra 10–12 saat dışarıda tutulmasını ve en sonunda bir gün boyunca açıkta bırakılmasını önerir. Maryland Üniversitesi, hassas fideleri rüzgârlı günlerde ve 45 °F'nin (yaklaşık 7 °C) altındaki havada dışarı çıkarmamayı tavsiye eder.
+
+::: adimlar
+İlk gün | Fideleri öğleye doğru, rüzgârsız ve gölge bir yerde iki üç saat dışarı çıkarın.
+Üçüncü gün | Dış mekânda kalma süresini yarım güne çıkarın; sabah güneşini görmelerine izin verin.
+Beşinci gün | Gün boyu dışarıda bırakın, geceyi içeride geçirsinler.
+Yedinci gün sonrası | Gece sıcaklığı güvenliyse geceyi de dışarıda geçirsinler; sulamayı biraz seyreltin.
+Dikim günü | Bulutlu bir günde ya da akşamüstü dikin ve hemen can suyu verin.
+:::
+
+Sertleştirme sırasında gübre vermeyin; Illinois Yayım Servisi de bu dönemde gübrelemenin önerilmediğini belirtir.
+
+## Meyve ağaçları, çalılar ve gül
+
+Nisan, kış budamasının bittiği, tomurcuk ve çiçek döneminin başladığı aydır. Çiçekteki ağaca ilaç ya da budama yapılmaz. Kış sonunda yapılacak işleri gözden geçirmek için [kış budaması](/kis-budamasi) ve [gül budama](/gul-budama) yazılarına göz atın. Yeni dikilmiş fidanlara ilkbahar sulamasını ihmal etmeyin; fidan çevresindeki çanağı açın, malç katmanını tazeleyin.
+
+Ağaç çiçeği tam açmışken sert don bekleniyorsa, geceyi örtüyle geçirmek bile zarar görmeyi azaltır. Yöntemler için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına bakın.
+
+## Çim ve çiçek yatakları
+
+Çimde nisan; havalandırma, kış sonrası çıplak noktaları kapatma ve ilk gübre zamanıdır. Sıkışmış toprağı gevşetmek için [çim havalandırma](/cim-havalandirma) rehberi yöntemi gösterir. İlk biçimleri yüksek tutun ve çimi bir günde fazla kısaltmayın.
+
+Çiçek yatağında kış boyu üstü kuru kalmış çok yıllık bitkileri dipten kırpın, ayrılmış yeni sürgünleri koruyun. Yazlık çiçeklerin tohumunu serada ya da camlı yerde ekin, ama açığa dikimi son dona kadar erteleyin.
+
+## Balkon ve saksıda nisan işleri
+
+Bahçesi olmayanlar için nisan, saksı toprağını yenilemek ve ilk dikimleri yapmak içindir. Kışı geçiren saksı bitkilerinin üst toprağını birkaç santim alıp yerine taze karışım koyun; kökleri ayırarak sıkışmış saksıdan büyüğüne taşıyın. Balkon güneye bakıyorsa ve rüzgâr almıyorsa marul, roka, turp ve nane nisanın ilk haftasında saksıya girebilir. Domates ve biber fidesini ise balkonda bile son gece soğuğuna kadar içeride tutun: Saksı, toprak yerine havaya açık olduğundan gece soğuğundan daha hızlı etkilenir. Sulamayı nisanda gün aşırı kontrol etmek yeterlidir; saksı hâlâ yazlık hızla kurumaz.
+
+## Geç don gecesi için hazırlık
+
+Nisan sonuna kadar gece donu ihtimali bütün İç Anadolu bahçelerinde vardır. Elinizin altında şu malzemeler hazır olsun: eski çarşaf ya da tarım örtüsü, taş ya da tuğla gibi ağırlıklar, birkaç büyük kova ya da plastik şişe. Akşamüstü topraktaki ısı örtünün altında kalsın diye fideleri gün batmadan örtün; örtünün yaprağa değmemesi için çubuk ya da çember kullanın. Sabah güneş çıkınca örtüyü kaldırın.
+
+## Sık yapılan hatalar
+
+Soğuk toprakta tohum ekmek, tohumun haftalarca çimlenmeden çürümesine yol açar. Sertleştirmeden dışarı çıkarılan fide ise ilk güneşte yaprak yanığı gösterir. Nisanın ilk sıcak haftasında yazlık fideyi dikip arkasından gelen soğukta kaybetmek de çok yaygındır. Gübreyi çok erken ve fazla vermek, yumuşak sürgün yaptırır ve bu sürgünler geç dona karşı savunmasızdır.
+
+Bu liste, nisan ayında bahçede yapılacaklar arasında en çok hata yapılan başlıklara dikkat çekmek için hazırlandı. Önce toprağa, sonra takvime bakın.
+@sss
+S: Nisan ayında domates fidesi dikilir mi?
+C: Kıyılarda nisan başında dikilebilir. İç bölgelerde son don tehlikesi geçmeden, çoğunlukla nisan sonu ya da mayıs başına kadar beklemek gerekir. Fideyi dikmeden önce sertleştirin.
+
+S: Nisan ayında açığa hangi sebzeler ekilir?
+C: Bezelye, bakla, ıspanak, marul, roka, turp, havuç, pancar ve maydanoz ekilebilir. Domates, biber, patlıcan ve salatalık gibi sıcak seven sebzeler tohumla açığa ekilmez.
+
+S: Fideleri dışarıya alıştırmak neden gerekir?
+C: Evde büyüyen fide rüzgâra, doğrudan güneşe ve gece soğuğuna alışık değildir. 7–10 günlük kademeli alıştırma, yaprak yanığını ve dikim şokunu belirgin biçimde azaltır.
+
+S: Nisanda meyve ağaçlarına budama yapılır mı?
+C: Ağaç çiçek açmışken ağır budama yapılmaz. Kış budaması şubat–mart aylarında tamamlanır. Nisanda yalnızca kuru ve kırık dalları ayıklamak yeterlidir.
+
+### YAZI
+slug: cim-bicme-yuksekligi
+baslik: Çim Biçme Yüksekliği: Çim Kaç Santim Biçilmeli?
+yayin: 2027-03-17 10:20
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: çim biçme yüksekliği
+seo_baslik: Çim Biçme Yüksekliği: Kaç Santim Biçilir, Mevsim
+seo_aciklama: Çim biçme yüksekliği ne kadar olmalı? Soğuk ve sıcak iklim çimleri için santim değerleri, üçte bir kuralı ve yazın biçim yüksekliğini artırma nedeni.
+ozet: Çim biçme yüksekliği, çimin kök gücünü, yabani ot baskısını ve yazlık dayanıklılığını belirler. Çim türüne ve mevsime göre kaç santim biçileceğini, üçte bir kuralını ve sık yapılan hataları anlattık.
+etiketler: çim biçme, biçme yüksekliği, çim bakımı, üçte bir kuralı, bıçak ayarı, çim yüksekliği
+gorsel: bekliyor
+gorsel_alt: Yeşil çim üzerinde biçme makinesinin bıçak yüksekliği ayarlanırken görüntü
+urunler: dsv-lippa-special-4s-cim-tohumu, cim-kapama-topragi-leonarditli-formul, hasturk-kati-solucan-gubresi
+kisaca: Çim biçme yüksekliği çimin türüne bağlıdır: soğuk iklim çimleri (kamış yumak, çayır salkım otu, İngiliz çimi) genellikle 6–9 cm, sıcak iklim çimleri (bermuda, zoysia) yaklaşık 2,5–5 cm yükseklikte tutulur. Her biçimde boyun en fazla üçte biri alınır; yazın yükseklik artırılır.
+@govde
+Çim biçmek basit görünür: makineyi ayarlarsınız ve yürürsünüz. Ama bıçağın yerden kaç santim yükseklikte durduğu, çimin bütün yılını etkiler. Çok kısa biçilen çim zayıf kök yapar, yabani ota yer açar ve yazın kavrulur. Doğru çim biçme yüksekliği çimin türüne, mevsime ve gölgeye göre değişir; tek bir "doğru santim" yoktur.
+
+## Çim biçme yüksekliği çim türüne göre nasıl belirlenir?
+
+Çim iki büyük gruba ayrılır. İngiliz çimi, kamış yumak, çayır salkım otu ve kırmızı yumak gibi soğuk iklim çimleri ilkbahar ve sonbaharda hızlı büyür, yaz sıcağında yavaşlar. Bermuda, zoysia ve kikuyu gibi sıcak iklim çimleri ise yazın hızlanır, kışın uykuya girer. Bu iki grubun uygun yüksekliği farklıdır: soğuk iklim çimleri daha yüksek, sıcak iklim çimleri daha alçak biçilir.
+
+Ülke ve bölge fark etmeksizin üniversite yayım servisleri aynı çerçeveyi verir. Illinois Yayım Servisi [çim biçme rehberinde](https://extension.illinois.edu/lawns/mowing-your-lawn) bermudayı 1–2 inç (yaklaşık 2,5–5 cm), zoysiayı 1–3 inç (yaklaşık 2,5–7,5 cm) aralığında listeler. Soğuk iklim çimleri için Tennessee Üniversitesi, yaz stresinden önce biçim yüksekliğini 2,5–3,5 inç (yaklaşık 6,5–9 cm) aralığına çıkarmayı önerir.
+
+| Çim türü | Biçim yüksekliği | Not |
+|---|---|---|
+| Kamış yumak | 7,5–9 cm | Yaz sıcağında üst sınıra çıkın |
+| Çayır salkım otu, İngiliz çimi | 6,5–8,5 cm | Kuraklıkta yüksek tutun |
+| Kırmızı yumak (gölge karışımı) | 6–8 cm | Gölgede biraz daha yüksek |
+| Bermuda | 2,5–5 cm | Sık ve düzenli biçim ister |
+| Zoysia | 2,5–7,5 cm | Daha yavaş büyür |
+
+Karışım çim ekmişseniz (çoğu ev bahçesi karışımdır), karışımın baskın türüne göre yüksekliği ayarlayın. Çim türlerini karşılaştırmak için [çim tohumu çeşitleri](/cim-tohumu-cesitleri) yazısına bakabilirsiniz.
+
+## Üçte bir kuralı
+
+Biçme yüksekliğinden bağımsız çok önemli bir kural vardır: Her biçimde çim yaprağının en fazla üçte biri alınır. Clemson Üniversitesi'nin [çim biçme belgesinde](https://hgic.clemson.edu/factsheet/mowing-lawns/) kural şöyle açıklanır: Hedef yükseklik 2 inç ise çim 3 inç olduğunda biçilir. Kansas Eyalet Üniversitesi de bu kuralı uyarır ve aşırı yaprak kaybının çimi sarstığını, sapsı ve zayıf köklü bir örtü bıraktığını belirtir.
+
+Pratikte bu, çim hedeften çok uzarsa tek seferde düşürmemek demektir. Bir hafta tatile gidip döndünüz ve çim 15 cm olduysa, ilk biçimde 10 cm'ye, birkaç gün sonra 7 cm'ye inin. Bu iki adımlı yöntem çimin sararmasını ve çıplak lekeleri önler.
+
+## Yazın biçme yüksekliğini artırın
+
+Yaz sıcağında soğuk iklim çimi stres altındadır. Yaprak ne kadar uzunsa, toprak o kadar çok gölgelenir; kök bölgesi serin kalır ve yabani ot tohumu ışık bulamaz. Iowa State Üniversitesi yazın Kentucky çayır salkım otu için 3–3,5 inç (yaklaşık 7,5–9 cm) önerir. Missouri Üniversitesi ise [çim yüksekliği yazısında](https://ipm.missouri.edu/MEG/2016/4/Raise_the_Deck_to_Make_Your_Turf_the_Trees_of_Your_Lawn/) kamış yumağı 3,5–4 inç (yaklaşık 9–10 cm) arasında tutmayı ve 3,5 inçten kısa biçimin yabani otu artırdığını belirtir.
+
+Bu rakamların hepsi aynı yönü gösterir: Yaz arttıkça yükseklik artar. Ege ve Akdeniz'de soğuk iklim çimi olan bir bahçeniz varsa, ağustos aylarında bıçağı mümkün olan en üst kademeye alın.
+
+## Mevsim mevsim biçim takvimi
+
+::: takvim
+İlk biçim (çim 8–10 cm olunca) | 3-4
+Normal yükseklikte haftalık biçim | 4-6
+Yüksek bıçak kademesi (sıcak dönem) | 6-9
+Normal yükseklik, sonbahar gübresi | 9-11
+Son biçim (çim büyümeyi bırakınca) | 11-12
+:::
+
+Yeni ekilmiş çimde ilk biçim farklı bir iş olduğu için ayrıca [ilk çim biçimi](/ilk-cim-bicimi) yazısında anlattık. Kışın çimin bakımı için [kışın çim bakımı](/kisin-cim-bakimi) rehberine bakın.
+
+[ürün:cim-kapama-topragi-leonarditli-formul]
+
+## Makinenin ayarı gerçekten kaç santim?
+
+Biçme makinesinin kademe numarası çoğu zaman gerçek yüksekliği göstermez. Makineyi düz bir zemine ya da beton üzerine koyun, bıçak ile zemin arasını bir cetvelle ölçün ve kademeyi bu ölçüye göre not edin. Bir kez yaptığınız bu ölçüm, mevsim değişimlerinde kademeyi bilinçli yükseltmenizi sağlar. Tekerleklerin yeniden ayarlandığında dört tekerleğin de aynı yükseklikte olmasına dikkat edin; biri farklıysa çim basamaklı biçilir.
+
+## Çim türünü nasıl anlarım?
+
+Türünü bilmiyorsanız üç işaret yardımcı olur: Kışın yeşil kalıyor mu, sapları ince ve dik mi büyüyor, yatay uzanan stolon ya da kök sapı var mı? Kışın yeşil kalan, dik büyüyen çim soğuk iklim çimidir. Yazın canlanıp kışın kahverengiye dönen ve yere yayılan sapları olan çim sıcak iklim çimidir. Karışımda ikisi bir aradaysa, yazın baskın olanın yüksekliğini esas alın ve soğuk iklim çiminin daha yüksek ihtiyacını gözeterek ortalamaya yakın biçin.
+
+## Gölge, eğim ve tamir alanları
+
+Ağaç altı gibi gölgeli bölgelerde çim ışığı daha zor yakalar; yaprağı uzun bırakmak daha çok ışık toplar. Gölge çimini ana alandan 1–2 cm yüksek biçin. Eğimli alanlarda ise bıçağı çok alçak ayarlamayın; makine tümseklerde toprağa değip çimi soyar.
+
+Çimin bir bölümünün kuruduğu ya da çıplak kaldığı yerlerde tamir tohumu atılacaksa, bu alanlar tohum çıkana kadar biçilmeden bırakılır; ayrıntı için [çimdeki boş alanlar nasıl kapatılır](/cimdeki-bos-alanlar-nasil-kapatilir) yazısına bakın.
+
+## Biçim sıklığı
+
+Çimin ne kadar sık biçileceği takvime değil, boyuna bağlıdır. Üçte bir kuralına uyarsanız ilkbaharda hızlı büyüme döneminde haftada bir, yazın sıcakta ve kuraklıkta on beş günde bir biçmek yeterli olabilir. Yaprak yüksekliği hedefin bir buçuk katına ulaştığında makineye çıkın. Sulama ve gübre sonrası çim hızlanır, bu yüzden bu dönemlerde biçim aralığı kısalır. Düzensiz tatil sonrası fazla uzayan çimi iki aşamada kısaltmayı unutmayın.
+
+## Bıçak, nem ve atıklar
+
+Kör bıçak çimi keser gibi değil, yırtar. Yırtılan uçlar kahverengileşir ve hastalığa kapı açar; çimin tamamı gri-kahverengi görünür. Biçme sezonu başlamadan bıçağı bileyin ya da değiştirin. Islak çimde biçmeyin; yapışır, kümelenir ve tek tek tıkanır. Biçilen kısa yaprakları toprakta bırakmak, çimin besin ihtiyacının bir bölümünü karşılar. Uzun, nemli yaprak kümeleri ise çürür; onları tırmıkla toplayıp komposta atın.
+
+## Sık yapılan hatalar
+
+En yaygın hata, çimi "çok kısa kesince bir süre biçmem" düşüncesiyle kısa biçmektir. Kısa çim hem kuraklığa hem hastalığa hem de yabani ota açıktır. İkinci hata, her biçimde aynı yükseklik ayarını kullanmaktır; yaz ve ilkbahar için ayrı ayar gerekir. Üçüncüsü, hep aynı yönde biçmektir: çim o yöne yatar ve tekerlek izleri oluşur; biçim yönünü her seferinde değiştirin.
+
+Çim biçme yüksekliği, ayarladığınız bir kez değil, mevsimle birlikte değiştirdiğiniz bir değerdir. Çim türünüzü bilin, üçte bir kuralını uygulayın ve yazın bıçağı bir kademe yükseltin.
+@sss
+S: Çim kaç santim biçilmeli?
+C: Soğuk iklim çimleri (kamış yumak, çayır salkım otu) yaklaşık 6–9 cm, sıcak iklim çimleri (bermuda, zoysia) yaklaşık 2,5–5 cm yükseklikte tutulur. Yazın soğuk iklim çiminde yüksekliği artırmak iyi sonuç verir.
+
+S: Üçte bir kuralı nedir?
+C: Her biçimde çim yaprağının en fazla üçte birinin alınmasıdır. Çim hedeften çok uzamışsa tek seferde değil, birkaç gün arayla kademeli olarak kısaltılır.
+
+S: Çimi çok kısa biçersem ne olur?
+C: Kök gücü zayıflar, toprak güneşte ısınır ve yabani ot tohumları çimlenir. Çim yazın kolayca sararır ve hastalığa daha açık hâle gelir.
+
+S: Çimi sabah mı akşam mı biçmek daha iyi?
+C: Çim kuruyken biçmek gerekir; çiğ kalktıktan sonra ya da akşamüstü uygundur. Öğle sıcağında biçmek çimi strese sokar, ıslak çim ise yapışır ve düzgün kesilmez.
+
+### YAZI
+slug: sus-otlari
+baslik: Süs Otları: Bahçede Hareket ve Doku
+yayin: 2027-03-17 12:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: süs otları
+seo_baslik: Süs Otları: Bahçede Hareket, Doku ve Bakım Rehberi
+seo_aciklama: Süs otları bahçeye hareket ve doku katar. Soğuk ve sıcak iklim türleri, dikim yeri, ilkbaharda kırpma zamanı, sulama ve saksıda yetiştirme adımları.
+ozet: Süs otları rüzgârla hareket eden, çok mevsim görünür ve az bakım isteyen bitkilerdir. Türleri, nereye dikileceğini, ilkbaharda ne zaman kırpılacağını ve saksıda nasıl yetişeceğini anlattık.
+etiketler: süs otları, pampas otu, çeşme otu, miscanthus, festuca, bahçe dokusu, az bakımlı bitki
+gorsel: bekliyor
+gorsel_alt: Bahçede rüzgârda sallanan tüylü başaklı süs otu kümeleri
+urunler: bitki-topragi-ozel-karisim-20-lt, hasturk-sivi-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Süs otları çiçekten çok yaprağı ve başağıyla öne çıkan, rüzgârda hareket eden çok yıllık bitkilerdir. Güneşli yerde, süzek toprakta az bakımla yaşarlar; yılda bir kez, ilkbaharda yeni sürgün çıkmadan dipten kırpılırlar. Hem bahçe yatağında hem büyük saksıda yetişir.
+@govde
+Çiçekli bir yatak birkaç hafta güzeldir. Süs otları ise ilkbaharda yeşil bir fışkırışla başlar, yazın başak verir, sonbaharda altın rengine döner ve kışın bile kırağıyla yatağa yapı kazandırır. Üstelik fazla su ve gübre istemezler. Bu yüzden süs otları, az bakımlı ama canlı görünen bir bahçe isteyenler için en güvenli seçeneklerden biridir.
+
+## Neden hareket katar?
+
+Çiçeklerin çoğu sabittir; süs otlarının yaprağı ve başağı ise en hafif rüzgârda dalgalanır. Bu hareket bahçeye canlılık verir ve sesli, yumuşak bir doku yaratır. Boy farkı da önemlidir: Miscanthus gibi iri otlar iki metreye ulaşıp arkada yer alırken, mavi yumak gibi bodur türler yatağın önünde toplu bir yastık oluşturur.
+
+Yaprak dokusuyla çiçekli çok yıllıkların da arkasını güzelleştirirler. Lavanta, sedum ve ekinezya gibi bitkilerin arasına dikilen ince yapraklı bir ot, kontrast katar ve çiçek solduğunda bile yatak boş görünmez.
+
+## Soğuk ve sıcak mevsim otları
+
+Süs otları büyüme mevsimine göre iki gruba ayrılır ve bakım zamanı bu ayrıma bağlıdır.
+
+| Grup | Ne zaman büyür? | Örnekler | Kırpma zamanı |
+|---|---|---|---|
+| Soğuk mevsim otları | İlkbahar ve sonbahar | Mavi yumak (Festuca), kısa kıl otu | Şubat–mart sonu, hafif |
+| Sıcak mevsim otları | Yaz | Miscanthus, çeşme otu (Pennisetum), pampas otu | Mart–nisan, yeni sürgün çıkmadan |
+| Her dem yeşil otlar | Yıl boyu | Bazı Carex türleri | Yalnız kurumuş yaprağı ayıklayın |
+
+Yayım kaynaklarına göre soğuk mevsim otlarında kış sonunda yaklaşık üçte iki oranında kırpılır, bir bölüm bırakılır; yapılan bir derleme, son dondan önce kesimin yeni sürgünü kış zararına açabileceğini belirtir. Sıcak mevsim otlarında ise çoğu kaynak kışın kuru örtüyü bitkinin üstünde bırakıp ilkbaharda yeni sürgün çıkmadan önce yerden birkaç parmak yukarıdan kesmeyi önerir. Ayrıntı için Missouri Üniversitesi'nin [süs otları yazısına](https://ipm.missouri.edu/MEG/2018/6/gracefulGrasses) bakabilirsiniz.
+
+## İlkbaharda kırpma adımları
+
+Sıcak mevsim otları ilkbaharda hızlı çıkar; kırpmayı geciktirmeyin. Yeni yeşil sürgünler dipte görünmeye başladığında en doğru zamandır.
+
+::: adimlar
+Zamanı seçin | Yeşil sürgünler görünmeye başlamadan, mart sonu ya da nisan başı.
+Demetle bağlayın | Kuru yaprakları iple bir araya toplayın; kırpınca dağılmaz.
+Kırpın | Bitkiyi yerden yaklaşık 10–15 cm yukarıdan kesin; yeni sürgünleri kesmeyin.
+Eldiven takın | Bazı otların kenarı keskindir; uzun kollu giysi ve eldiven kullanın.
+Besleyin | Kök etrafına ince bir olgun kompost ya da solucan gübresi serin.
+:::
+
+Kuru atıkları komposta ya da malç olarak kullanabilirsiniz. Yeni başlayanlar için süs otlarını yakmak yerine kırpmak daha güvenlidir; kuru ot çabuk tutuşur.
+
+## Mevsimden mevsime görünüm
+
+Süs otlarının bir başka gücü, yıl boyunca farklı görünmesidir. İlkbaharda taze yeşil yaprak, yazın başak ve tüy, sonbaharda altın, bakır ve kızıl tonlar belirir. Kışın kurumuş yaprak ve başaklar kırağı tutar, yatağa yapı verir ve kuşlara barınak sağlar. Bu yüzden ilkbaharda kırpana kadar kuru yapıyı bırakmak hem estetik hem ekolojik açıdan mantıklıdır. Rüzgârlı bölgelerde uzun başaklı türler kışın yatabilir; yatarsa üstüne kar yükü bırakmamak için kırpmayı kışa çekebilirsiniz.
+
+## Hangi otu seçmeli?
+
+Küçük bahçede ya da saksıda boyu bir metreyi geçmeyen türler akıllıcadır: mavi yumak, kısa kıl otu ve bodur çeşme otu. Orta boy bir yatak için çeşme otu ve Miscanthus'un bodur çeşitleri uygundur. Pampas otu gibi iri türler ise geniş alan ister; yetişkin boyu iki metreyi bulur ve kenarları keskindir. Fidan alırken etiketteki yetişkin boyuna ve genişliğine bakmayı unutmayın; bu bilgi, üç yıl sonra bitkiyi söküp söküp yer değiştirmek zorunda kalmanızı önler.
+
+## Dikim yeri ve toprak
+
+Süs otlarının çoğu tam güneşi sever. Gölgede uzar, yatar ve başak vermez. Toprak ağır ve su tutan bir yapıdaysa, kabartılmış yatak ya da kum katılmış toprak kullanın. Sulama dikimden sonraki iki yıl düzenlidir; kökler derine indikten sonra yalnız uzun kurak dönemde sulama yeter.
+
+Dikim zamanı soğuk mevsim otları için sonbahar ve erken ilkbahar, sıcak mevsim otları için ilkbahar sonu ve yazbaşıdır. Dikim aralığını yetişkin genişliğine göre belirleyin; yoğun dikim ilk yıl güzel görünür ama sonraki yıllarda bitkiler birbirini boğar. Malç ve damla sulama düzeninin işini kolaylaştırdığını [malç çeşitleri](/malc-cesitleri) ve [damla sulama kurulumu](/damla-sulama-kurulumu) yazılarında okuyabilirsiniz.
+
+[ürün:bitki-topragi-ozel-karisim-20-lt]
+
+## Bölerek çoğaltma
+
+Büyük kümeler birkaç yıl sonra ortadan boşalmaya başlar. Bu, bölme zamanının geldiğinin işaretidir. Sıcak mevsim otlarını ilkbaharda yeni sürgün çıkarken, soğuk mevsim otlarını ilkbahar ya da sonbaharda bölün. Kümeyi bir bel küreği ya da keskin bir kürekle kazın, kökü ortadan keserek üç dört parçaya ayırın ve her parçayı hemen yeni yerine dikin. Dikimden sonra iki üç hafta düzenli sulayın. Böylece her bölmeyle yeni bir bitki elde eder, fazlasını komşunuzla paylaşabilirsiniz.
+
+## Saksıda süs otu
+
+Mavi yumak, kısa kıl otu ve çeşme otu gibi orta boylu türler saksıda yetişir. Saksı seçerken kök kütlesini hesaba katın: Büyük bir ot en az 30–40 litrelik bir kapta rahat eder; küçük saksıda yazın hızla susuz kalır. Dibi delikli bir saksıda süzek bir karışım kullanın, her sulamada suyun aşağıdan çıkmasını izleyin.
+
+Kışın donan bölgelerde saksıdaki ot kök kütlesinin daha çok soğuğa maruz kalması nedeniyle yer yatağındakinden daha hassastır. Saksıyı duvar dibine alın ve etrafını örtün. Saksıda daha fazla fikir için [balkon çiçekliği seçimi](/balkon-cicekligi-secimi) rehberine bakabilirsiniz.
+
+## Süs otlarını nerede ve neyle birleştirmeli?
+
+Bir yatağı süs otlarıyla kurarken üç katman düşünün: arkada boyu 1,5–2 metreyi bulan Miscanthus ya da pampas otu, ortada ekinezya, adaçayı ve lavanta gibi çiçekli çok yıllıklar, önde mavi yumak ve sedum. Aynı tip ottan üç beş bitkiyi grup hâlinde dikmek, tek tek dağıtmaktan daha etkileyici bir sonuç verir. Yol kenarında alçak otlar ve [bahçe yolu bitkileri](/bahce-yolu-bitkileri) sıralı kullanılabilir.
+
+## Sık yapılan hatalar
+
+Gölgeye güneşi seven bir ot dikmek, en sık hatadır; bitki uzar ve başak vermez. İkinci hata fazla gübre ve su vermektir: Ot sert ve yumuşak olması gereken yerde yatar, devrilir. Üçüncüsü, pampas otu gibi büyük türleri küçük bahçeye dikmektir; bu bitkiler üç yıl içinde yatağı kaplayabilir. Son olarak, kırpmayı sonbaharda yapıp kışlık koruma ve yapıyı kaybetmek de bir hatadır; kuru başaklar kış bahçesinin süsüdür.
+@sss
+S: Süs otları ne zaman kırpılır?
+C: Soğuk mevsim otları kış sonunda hafifçe, sıcak mevsim otları ilkbaharda yeni sürgün çıkmadan önce yerden 10–15 cm yukarıdan kırpılır. Yeşil sürgünleri kesmemeye dikkat edin.
+
+S: Süs otları gölgede yetişir mi?
+C: Çoğu tam güneş ister. Gölgede uzar, yatar ve başak vermez. Gölge için Carex gibi gölgeye dayanıklı türleri seçin.
+
+S: Süs otları saksıda yetişir mi?
+C: Evet; mavi yumak, kısa kıl otu ve çeşme otu gibi orta boylu türler büyükçe bir saksıda rahat yetişir. Dibi delikli saksı ve süzek toprak gerekir, yaz boyunca sulamayı sık kontrol edin.
+
+S: Süs otları çok bakım ister mi?
+C: Hayır; yılda bir kırpma ve ilk iki yıl düzenli sulama yeterlidir. Fazla gübre ve su bitkiyi zayıflatır ve devrilmesine yol açar.
+
+### YAZI
+slug: cim-gubreleme-takvimi
+baslik: Yıl Boyu Çim Gübreleme Takvimi
+yayin: 2027-03-17 14:30
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: çim gübreleme takvimi
+seo_baslik: Çim Gübreleme Takvimi: Aylara Göre Yıllık Plan
+seo_aciklama: Çim gübreleme takvimi nasıl olmalı? Soğuk ve sıcak iklim çimleri için ilkbahar, yaz ve sonbahar gübreleme zamanlarını, gübre türünü ve yanık riskini anlattık.
+ozet: Çim gübreleme takvimi, çim türüne ve bölgeye göre değişir. Soğuk iklim çimi sonbaharda, sıcak iklim çimi yaz başında beslenir. Aylara göre planı ve yanık riskini anlattık.
+etiketler: çim gübreleme, çim gübresi, çim takvimi, azotlu gübre, çim bakımı, sonbahar gübresi
+gorsel: bekliyor
+gorsel_alt: Elle serpilen granül gübre çimin üzerine düzgün yayılıyor
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi, cim-kapama-topragi-leonarditli-formul
+kisaca: Çim gübreleme takvimi çim türüne bağlıdır. Soğuk iklim çimleri (kamış yumak, çayır salkım otu) en çok sonbaharda ve ikinci olarak ilkbaharın sonunda beslenir. Sıcak iklim çimleri (bermuda, kikuyu, zoysia) ise geç ilkbahardan yaz başına kadar beslenir ve sonbaharda azotla zorlanmaz.
+@govde
+Bir bahçede çim yıl boyu aynı şekilde beslenmez. Soğuk iklim çimi, ağustos sonu ile ekim arasında kök biriktirir; sıcak iklim çimi ise haziran ayında büyüme patlaması yapar. Takvim bu yüzden çim türüne göre kurulur. Yanlış mevsimde verilen gübre, çimden çok yabani otu besler. Çim gübreleme takvimi için önce ne ekili olduğunu bilmek gerekir.
+
+## Çim gübreleme takvimi için önce türü belirleyin
+
+Çim gübreleme takvimi, çim türünün büyüme eğrisini izler. İç Anadolu, Marmara ve yüksek bölgelerde bahçe çimleri çoğunlukla soğuk iklim çimidir: kamış yumak, çayır salkım otu, İngiliz çimi ve kırmızı yumak. Akdeniz ve Ege kıyılarında ise bermuda, kikuyu ve zoysia gibi sıcak iklim çimleri yaygındır. Karışım ektiyseniz ya da emin değilseniz, kışın yeşil kalan çim soğuk iklim çimidir; kışın sararıp uyuyan çim sıcak iklim çimidir.
+
+## Toprak sıcaklığı ve takvim
+
+Takvimdeki aylar bir rehberdir; esas ölçüt toprağın ve çimin durumudur. İlkbaharda çim yeşillenip biçime ihtiyaç duyduğunda ve toprak ısınmaya başladığında ilk gübre verilebilir. Nisanda gece donu devam ediyorsa gübre vermeyin; erken verilen azot yeni sürgünü uyarır, o da dona açık kalır. Kuraklık ve aşırı sıcak dönemlerde de ertelemek gerekir. Çok kısa bir gözlem bile fark yaratır: Çim hızlı büyüyor, yaprak rengi canlıysa gübre ihtiyacı düşüktür; yaprak açık yeşil ya da sarımsa ve büyüme yavaşsa besin eksik olabilir.
+
+## Soğuk iklim çimi için yıllık takvim
+
+Nebraska Üniversitesi Yayım Servisi'nin [çim gübreleme önerilerinde](https://extensionpubs.unl.edu/publication/g2359/2023/html/view) güncel öneri, ağırlığı geç ilkbahar ve erken sonbahara vermektir; erken ilkbahar ve geç sonbahar uygulamaları en aza indirilir. Iowa State sonbaharın son uygulamasını ekim sonu ile kasım başı arasında önerirken, Kansas eylül–ekim aralığını öne çıkarır.
+
+::: takvim
+Hafif ilkbahar gübresi (toprak ısınınca) | 4-5
+Yaz boyunca gübresiz, sulama ve yüksek biçim | 6-8
+Ana sonbahar gübresi | 9-10
+Son hafif uygulama (isteğe bağlı) | 11-11
+:::
+
+Burada belirleyici olan, gübrenin çimin köke yatırım yaptığı serin dönemde verilmesidir. Sıcakta soğuk iklim çimine azot vermek yaprak büyütür ama kökü zayıflatır ve hastalık riskini artırır.
+
+## Sıcak iklim çimi için yıllık takvim
+
+Bermuda ve benzeri sıcak iklim çimleri toprak ısındıktan sonra büyür. Gübreleme geç ilkbaharda başlar ve yaz başına kadar sürer. Aynı Nebraska ve Kansas kaynaklarının özetine göre sıcak iklim çimi için azot, geç ilkbahar ile yaz başı arasında uygulanır; eylülden sonra verilen azot çimin dinlenmeye geçişini geciktirir ve kış zararına açık bırakır.
+
+::: takvim
+Toprak ısınınca ilk gübre | 5-6
+Yaz ortasında ikinci gübre | 7-8
+Eylül başında potasyum ağırlıklı hafif destek | 9-9
+Kış uykusu, gübresiz dönem | 11-3
+:::
+
+Kıyı bahçelerinde sıcak çimin büyümesi nisanda başlayabilir; bunun için toprağı gün sıcaklığı ve çimin yeşillenmesine bakarak yoklayın. Yeşil görmeden gübre vermeyin.
+
+## Gübre etiketini okumak
+
+Torbanın üstünde üç sayı bulunur: azot (N), fosfor (P) ve potasyum (K). Çim için en belirleyici olan azottur; yaprak rengini ve büyümeyi o sağlar. Fosfor kök ve yeni ekilen çim için, potasyum kuraklık ve soğuğa dayanıklılık için önemlidir. Hangi oranın uygun olduğunu bilmek için önce toprak analizi yaptırın; yöntem için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın.
+
+Yavaş salınan ve organik gübreler (kompost, solucan gübresi) yanma riskini azaltır, beslemeyi uzun süreye yayar ve toprak yapısını iyileştirir. Hızlı çözünen mineral gübre ise çabuk yeşillik verir ama aşırı kullanımda çimi yakar. Solucan gübresinin farkını [solucan gübresi mi kimyasal gübre mi](/solucan-gubresi-mi-kimyasal-gubre-mi) yazısında karşılaştırdık.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Hızlı ve yavaş salınımlı gübre
+
+Hızlı çözünen mineral gübreler birkaç gün içinde yeşillik verir; ama etkisi kısadır ve aşırı kullanımda çimi yakar. Yavaş salınımlı ya da kaplı granüller besini haftalar boyunca verir ve yanma riskini azaltır. Solucan gübresi, kompost ve leonardit gibi organik kaynaklar ise doğrudan çim yaprağını beslemekten çok toprak canlılığını artırır; etkileri yavaş ama kalıcıdır. Çoğu ev bahçesinde yılda iki üç hafif uygulama, tek bir ağır uygulamadan daha güvenlidir. Gübre türü ne olursa olsun, ambalajda önerilen miktarı aşmamak temel kuraldır.
+
+## Gübre nasıl serpilir?
+
+::: adimlar
+Çimi biçin | Gübreden bir gün önce çimi kısaltın; böylece granüller toprağa kolayca ulaşır.
+Kuru yaprakta uygulayın | Islak yaprağa yapışan granül yanık yapar; sabah çiği kalktıktan sonra serpin.
+Düzgün yayın | Elle ya da serpme arabasıyla, gidiş-geliş çizgilerini birbirine çaprazlayarak serpin.
+Dozu aşmayın | Paket üzerindeki miktarı geçmeyin; yoğun bir alan bırakmak yanık demektir.
+Sulayın | Serpmeden hemen sonra hafifçe sulayın; granülleri toprağa taşıyın.
+:::
+
+Yanık belirtileri için [gübre yakması](/gubre-yakmasi) yazısı çözümleri sıralıyor.
+
+## Yeni ekilmiş çim ve tamir alanı
+
+Yeni ekilen çimde ilk gübre, tohum çıktıktan ve birkaç kez biçildikten sonra, genellikle ikinci ya da üçüncü haftada verilir. Başlangıç gübresi fosforlu ve hafif olmalıdır; kök gelişimini destekler. Çıplak nokta tamirlerinde de aynı mantık geçerlidir: Önce toprağı hazırlayıp tohumu atın, çim çıkıp yaprak boyu birkaç santimi geçince hafif besleyin. Ekimden önce toprağa karıştırılan olgun organik madde, sonraki gübre ihtiyacını da azaltır. Ayrıntı için [çim tohumu nasıl ekilir](/cim-tohumu-nasil-ekilir) yazısına bakın.
+
+## Takvimi bozan koşullar
+
+Kuraklıkta ve aşırı sıcakta gübre vermeyin; stres altındaki çim besini kullanamaz. Aşırı yağıştan hemen önce de dikkatli olun; gübre akışla yıkanır. Toprağı sıkışmış ya da yosunlu çimde gübre yetmeyebilir: Önce [çim havalandırma](/cim-havalandirma) ve sorun giderme gerekir. Sarı çimin sadece gübre eksikliği olmadığını [çim neden sararır](/cim-neden-sararir) yazısından görebilirsiniz.
+
+## Sık yapılan hatalar
+
+Çimi sıcak yazda, hasta ya da stres altındayken gübrelemek en yaygın hatadır. Yanlış mevsimde ve yanlış tür için gübre vermek (soğuk iklim çimine yaz ortasında, sıcak iklim çimine sonbaharda) de ikinci büyük hatadır. Serpme sırasında aynı yeri iki kez geçmek çimi şeritler hâlinde yakar. Gübre torbasındaki miktarı "biraz da fazla olsun" diye artırmak da aynı sonuca götürür. Son olarak, gübre vermeden sulama ve biçim düzenini düzeltmeden yalnız gübreyle çimi kurtarmaya çalışmak sonuç vermez.
+@sss
+S: Çim ne zaman gübrelenir?
+C: Soğuk iklim çimi en çok eylül–ekim aralığında, ikinci olarak ilkbahar sonunda gübrelenir. Sıcak iklim çimi ise geç ilkbahar ile yaz başı arasında beslenir. Çim türünüzü bilmek takvimden önemlidir.
+
+S: Çim gübresini yazın vermek doğru mu?
+C: Soğuk iklim çiminde yaz ortasında azot vermek kök zayıflığına ve hastalığa yol açabilir. Sıcak iklim çiminde ise yaz başı gübrelemesi doğrudur.
+
+S: Çim gübresi sonrası sulama gerekir mi?
+C: Evet; serpme sonrası hafif bir sulama granülleri toprağa taşır ve yanık riskini azaltır. Yağmur bekleniyorsa fazla sulamaya gerek kalmaz.
+
+S: Organik gübre çim için yeterli olur mu?
+C: Kompost ve solucan gübresi çimi yavaş ve güvenli besler, toprak yapısını da iyileştirir. Yoğun kullanılan çimde zamanla ek besin gerekebilir; toprak analizi yol gösterir.
+
+### YAZI
+slug: damla-sulama-hesabi
+baslik: Damla Sulama Hesabı: Damlatıcı Debisi ve Süre
+yayin: 2027-03-17 16:55
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: damla sulama hesabı
+seo_baslik: Damla Sulama Hesabı: Damlatıcı Debisi ve Süre
+seo_aciklama: Damla sulama hesabı nasıl yapılır? Damlatıcı debisini ölçme, bitkinin haftalık su ihtiyacı, yatak alanı ve sulama süresini örnekli hesapla gösterdik.
+ozet: Damla sulama hesabı, bir yatağa ne kadar su gerektiğini ve bunun kaç dakikada verileceğini bulmayı sağlar. Damlatıcı debisini ölçmeyi, süreyi hesaplamayı ve sık yapılan hataları örnekle anlattık.
+etiketler: damla sulama, damlatıcı debisi, sulama süresi, sebze sulaması, sulama hesabı, litre saat
+gorsel: bekliyor
+gorsel_alt: Sebze sırasının dibinde damlatıcıdan çıkan su damlaları
+urunler: sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu, chrysamed-envira-subon-akilli-su-boncuklari-400-gr, hasturk-kati-solucan-gubresi
+kisaca: Damla sulama hesabı üç adımdır: yatağın haftalık su ihtiyacını bulun (çoğu sebze için haftada 25–50 litre/m²), hattaki toplam damlatıcı debisini hesaplayın ve ihtiyacı debiye bölerek süreyi çıkarın. Standart damlatıcılar saatte 2, 4 ya da 8 litre verir.
+@govde
+Damla sulamada çoğu kişi süreyi "bir saat kadar" tahmin eder. Sonuç: bazı bitkiler susuz kalır, bazı yatakların dibinde su birikir. Oysa damla sulama hesabı birkaç çarpma ve bölmeyle yapılır. Gerekli olan üç bilgi yatağın alanı, bitkinin su ihtiyacı ve damlatıcıların debisidir. Aşağıdaki örnek bunları adım adım birleştirir.
+
+## Damla sulama hesabı için gereken üç bilgi
+
+Birinci bilgi, yatağın alanıdır: uzunluk çarpı genişlik (metrekare). İkinci bilgi, bitkilerin haftalık su ihtiyacıdır. Arkansas Üniversitesi Yayım Servisi'nin [damla sulama kılavuzu](https://uaex.uada.edu/publications/pdf/FSA6174.pdf), çoğu sebzenin haftada yaklaşık 1–2 inç (25–50 mm) suya ihtiyaç duyduğunu belirtir. Bir milimetre su, metrekareye bir litre demektir; yani haftalık ihtiyaç metrekare başına 25–50 litredir. Bu miktara yağmur dâhildir; yağış olan haftada sulama süresi kısalır.
+
+Üçüncü bilgi, damlatıcı debisidir. Kaliforniya Üniversitesi Yayım Servisi, damlatıcıların standart olarak yarım, bir ve iki galon/saat (yaklaşık 2, 4 ve 8 litre/saat) debiyle üretildiğini belirtir; ayrıntıyı [mikro sulama bakım belgesinde](https://ucanr.edu/site/maintenance-microirrigation-systems/emitter-evaluations) bulabilirsiniz. Kendi damlatıcınızın debisi paketinde yazılıdır; bilinmiyorsa aşağıdaki ölçümü yapın.
+
+## Damlatıcı debisini kendiniz ölçün
+
+Bir damlatıcının altına ölçekli bir kap koyun, bir dakika boyunca toplanan suyu mililitre olarak ölçün. Mililitreyi 0,06 ile çarparsanız saatteki litre debisini bulursunuz. Örneğin bir dakikada 33 ml su toplanıyorsa debi 33 × 0,06 ≈ 2 litre/saat'tir. Hat boyunca birkaç farklı damlatıcıyı ölçmek, basıncın hat sonunda düşüp düşmediğini de gösterir.
+
+## Adım adım hesap: iki metrekarelik yatak
+
+Örnek: 2 m × 1 m ölçüsünde bir yatak, iki damla hattı, damlatıcılar arası 20 cm, her damlatıcı 2 litre/saat.
+
+::: adimlar
+Alanı bulun | 2 m × 1 m = 2 m²
+Haftalık ihtiyacı çıkarın | 25 L/m² × 2 m² = 50 litre/hafta
+Damlatıcı sayısını sayın | Her hatta 2 m ÷ 0,2 m = 10 damlatıcı; iki hatta 20 damlatıcı
+Toplam debiyi hesaplayın | 20 × 2 L/saat = 40 litre/saat
+Süreyi bulun | 50 ÷ 40 = 1,25 saat/hafta (yaklaşık 75 dakika)
+:::
+
+Bu süreyi haftada tek seferde değil, iki ya da üç seansa bölmek daha sağlıklıdır: haftada üç gün yaklaşık 25 dakika. Kısa ve sık yerine uzun ve seyrek sulama kökleri derine iner; ama kumlu toprakta su aşağıya hızla kaçacağı için seansları biraz daha sık tutun.
+
+## Debi ve alan tablosu
+
+Aşağıdaki tablo, 25 mm'lik haftalık ihtiyaç ve 20 cm aralıklı tek hat için yaklaşık süreleri gösterir.
+
+| Damlatıcı debisi | Tek hat (1 m) için saatte | 1 m²'ye 25 litre verme süresi (iki hat) |
+|---|---|---|
+| 2 L/saat | 10 L | yaklaşık 37 dakika |
+| 4 L/saat | 20 L | yaklaşık 19 dakika |
+| 8 L/saat | 40 L | yaklaşık 9 dakika |
+
+Tablo, hesabın mantığını görmek içindir; kendi hat aralığınıza ve toprak yapınıza göre yeniden hesaplayın. Kumlu toprakta süreler kısalıp seans sayısı artar, killi toprakta süre uzar ama seanslar seyrekleşir.
+
+## Süreyi ayarlayan etkenler
+
+Hesapla bulunan süre, başlangıç noktasıdır. Penn State Üniversitesi de benzer biçimde süreyi [damla sulama süre tablosuyla](https://extension.psu.edu/determining-how-long-to-run-drip-irrigation-systems-for-vegetables) damlatıcı aralığına ve debisine bağlar. Pratikte şu etkenler süreyi değiştirir.
+
+- **Sıcaklık:** Sıcak haftalarda bitkinin su ihtiyacı yüzde yüzlere kadar artabilir.
+- **Toprak yapısı:** Kumlu toprak az tutar; killi toprak yavaş çeker.
+- **Malç:** Malçlı yatakta buharlaşma azalır, süre kısalabilir.
+- **Bitki büyüklüğü:** Küçük fide az, meyve veren bitki çok su ister.
+
+Her mevsimin başında toprağı 10–15 cm derinlikte elinizle yoklayın. Nem yetersizse süreyi artırın, çamurlaşıyorsa azaltın. Aşırı sulamanın belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına göz atın.
+
+[ürün:chrysamed-envira-subon-akilli-su-boncuklari-400-gr]
+
+## Toprak türü süreyi nasıl değiştirir?
+
+Aynı damlatıcı iki ayrı toprakta farklı davranır. Kumlu toprakta su hızla aşağı iner ve yanlara yayılmaz; bitkinin yan köklerine su gitmeyebilir. Bu yüzden kumda damlatıcıları sıklaştırın ve seansları kısaltıp sayısını artırın. Killi toprakta ise su yavaş çeker ve yatay yayılır; uzun süre çalıştırırsanız dibe sızmayan su yüzeyde birikir. Böyle zeminde süreyi bölerek, aralarında ara verip yeniden başlatmak toprağın suyu almasını kolaylaştırır. Hesapla bulduğunuz toplam süre aynı kalır; yalnızca nasıl dağıtılacağı toprağa göre değişir.
+
+## Bitkiye göre damlatıcı yerleşimi
+
+Sebze sırasında damlatıcıları sıra boyunca eşit aralıkla dizmek yeterlidir. Domates, biber ve patlıcan gibi iri bitkilerde her bitkinin dibine ayrı damlatıcı, hatta iki damlatıcı yerleştirmek köklerin daha geniş alanı ıslatmasını sağlar. Marul, roka gibi sık ekilen yeşilliklerde sıkı aralıklı damla bandı daha uygundur. Meyve ağaçlarında ise gövdeden belli uzaklıkta, ağacın taç izdüşümüne yakın iki dört damlatıcı halka biçiminde yerleştirilir; çünkü ağacın besin alan kökleri gövdeye değil, taç sınırına yakın yoğunlaşır.
+
+Her durumda amaç, suyun sadece bitkinin yakınına değil, kök bölgesine derin inmesidir. Yeni dikilmiş fidede damlatıcıyı fideye çok yakın tutun, büyüdükçe uzaklaştırın.
+
+## Basınç ve hat uzunluğu
+
+Hat uzadıkça sonuna doğru basınç düşer ve son damlatıcılar daha az su verir. Bu yüzden tek bir uzun hat yerine kısa hatları tercih edin; hat uzunluğu için damlatıcının üreticisinin belirttiği sınırı aşmayın. Basınç düşürücü ve filtre kullanımı, hesabı güvenilir kılar. Sistemin nasıl kurulacağını [damla sulama kurulumu](/damla-sulama-kurulumu) yazısında ayrıntılı anlattık. Doğru sulama sıklığı için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazısı da işe yarar.
+
+## Hesabı otomatiğe bağlamak
+
+Süreyi bulduktan sonra sulama saatini bir zamanlayıcıyla otomatiğe bağlayabilirsiniz. Zamanlayıcıyı sabah erken saate kurun; buharlaşma düşük olur ve yapraklar gün içinde kurur. Yağışlı haftalarda otomatik sistemi askıya almak için yağmur sensörü ya da manuel durdurma kullanın. Her ay birkaç damlatıcının debisini yeniden ölçmek, tıkanmanın erken yakalanmasını sağlar.
+
+## Sık yapılan hatalar
+
+En yaygın hata, bütün bitkileri aynı süreyle sulamaktır; domates ile marul aynı suya ihtiyaç duymaz. İkinci hata, damlatıcı debisini bilmeden süre tahmin etmektir. Üçüncüsü, hattın sonundaki damlatıcıyı ölçmeyi unutmaktır; basınç düşmüşse süre ya da hat bölünmelidir. Son olarak, yağışlı haftada sulamayı programlı sürdürmek bitkiyi boğar; yağış ölçeri ya da basit bir kap yağışı takip etmeyi sağlar.
+
+Damla sulama hesabı bir kez yapıldığında sezon boyunca pek az değişir. Süreyi hesaplayın, topraktaki nemi kontrol edin ve ihtiyaç olduğunda ayarlayın.
+@sss
+S: Damla sulama kaç dakika çalışmalı?
+C: Süre, yatağın haftalık su ihtiyacının toplam damlatıcı debisine bölünmesiyle bulunur. 2 m²'lik bir yatakta 20 adet 2 L/saat damlatıcı varsa haftalık ihtiyaç yaklaşık 75 dakikadır; bunu birkaç seansa bölün.
+
+S: Damlatıcı debisi nasıl ölçülür?
+C: Bir dakika boyunca damlatıcının altında su toplayıp mililitreyi 0,06 ile çarparak litre/saat debisini bulabilirsiniz. Birkaç damlatıcıyı ölçüp ortalama almak daha güvenilirdir.
+
+S: Sebze bahçesi haftada kaç litre su ister?
+C: Çoğu sebze haftada yaklaşık 25–50 litre/m² (1–2 inç) su ister. Bu miktara yağmur da dâhildir; sıcak hafta ve kumlu toprakta ihtiyaç artar.
+
+S: Damla sulamayı her gün çalıştırmak gerekir mi?
+C: Gerekmez. Haftada iki üç seans, uzun ve seyrek sulama kökleri derine indirir. Çok kumlu toprakta ya da sıcak yazda seansları sıklaştırmak gerekebilir.
+
+### YAZI
+slug: damla-sulama-tikanmasi
+baslik: Damla Sulama Tıkanması: Neden Olur, Filtre ve Temizlik
+yayin: 2027-03-17 19:40
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: damla sulama tıkanması
+seo_baslik: Damla Sulama Tıkanması: Nedenleri ve Temizlik Yolu
+seo_aciklama: Damla sulama tıkanması neden olur? Kum, alg ve kireç tıkanmalarını ayırt etme, filtre temizliği, hat yıkama ve sezon başı kontrol adımlarını anlattık.
+ozet: Damla sulama tıkanması damlatıcıların suyu eşit vermemesine yol açar. Tıkanmanın üç ana nedenini, filtre temizliğini, hat yıkamayı ve sezon başı kontrolleri belirti-neden-çözüm sırasıyla anlattık.
+etiketler: damla sulama, tıkanma, filtre temizliği, damlatıcı, hat yıkama, kireç, alg
+gorsel: bekliyor
+gorsel_alt: Açılmış bir sulama filtresi ve içindeki kirli elek
+urunler: sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu, sgs-3-fonksiyonlu-sulama-tabancasi, hasturk-kati-solucan-gubresi
+kisaca: Damla sulama tıkanması üç nedenle olur: kum ve silt gibi katı parçacıklar, alg ve bakteri gibi biyolojik birikim, kireç ve demir gibi mineral tortu. Çözüm filtreyi temizlemek, hatları uçlarından açıp berrak su gelene kadar yıkamak ve tortu türüne göre uygun yöntemi seçmektir.
+@govde
+Bir sabah bahçeye çıkarsınız: hattın başındaki bitkiler gürdür, sondakiler soluk. Damlatıcılardan bazıları su vermiyor ya da çok az veriyor. Bu bir tıkanma belirtisidir ve çoğu zaman aniden değil, haftalar içinde gelişir. Damla sulama tıkanması, ilk belirtide fark edilirse kolay çözülen, geciktirildiğinde ise hattı baştan değiştirmeye götüren bir sorundur.
+
+## Damla sulama tıkanması neden olur?
+
+Kaliforniya Üniversitesi Yayım Servisi ve Florida Üniversitesi (UF/IFAS), tıkanmayı üç gruba ayırır: fiziksel (kum, silt), biyolojik (bakteri ve alg), kimyasal (mineral tortu). Çoğu zaman birden fazlası birlikte görülür. Damlatıcının yolu çok dar olduğu için küçük bir parçacık bile akışı keser. Ayrıntıları [UC'nin mevcut tıkanma belgesinde](https://ucanr.edu/site/maintenance-microirrigation-systems/existing-clogging-problems) ve [UF/IFAS'ın mikro sulama bakım yayınında](https://ask.ifas.ufl.edu/AE032) okuyabilirsiniz.
+
+::: belirti
+Damlatıcı etrafında beyaz, sert kabuk | Kireç (kalsiyum karbonat) birikimi; sert su | Hattı yıkayın, tortunun türüne uygun temizlik ve yumuşatma için ziraat mühendisine danışın
+Kırmızımsı, turuncu çamur ve lekeler | Demir tortusu, özellikle kuyu suyunda | Filtre ve hat yıkama; demir için su analizi yaptırın
+Yeşil ya da kahverengi, kaygan tabaka | Alg ve bakteri; açık depo ve güneşte kalan hat | Hattı yıkayın; depoyu kapatın, hortumu gölgeleyin
+Kum ve silt, elek tıkalı | Fiziksel parçacıklar, yetersiz ya da bozuk filtre | Filtreyi açıp temizleyin, daha ince elek takın
+:::
+
+## Filtre: ilk savunma hattı
+
+Filtre, tıkanmayı önleyen en önemli parçadır ve çoğu hata onun kirli ya da yetersiz olmasından doğar. UC yayını, filtrenin iki yanındaki basınç farkının filtrenin ne zaman yıkanması gerektiğini gösterdiğini belirtir: Fark arttıysa filtre doludur. Evde basınç ölçeriniz yoksa pratik bir işaret kullanın: Hat sonunda debinin düştüğünü görüyorsanız ilk kontrol filtredir.
+
+- Elek tipi filtreyi çıkarıp akan suyun altında fırçayla temizleyin; kirliliğe göre haftada bir ya da ayda bir.
+- Kuyu ya da dere suyu kullanıyorsanız elek ince olmalı; yetersiz bir filtre sorunu hattın içine taşır.
+- Filtre elemanı çatlak ya da yırtıksa değiştirin; tek bir yırtık, bütün hattın tıkanmasına yol açabilir.
+- Su kaynağı açık depoysa girişe kaba bir ön elek koyun.
+
+## Su kaynağına göre tıkanma riski
+
+Şebeke suyu çoğu zaman temizdir ama sert olabilir; damlatıcı ağızlarında kireç biriktirir. Kuyu suyu demir, kum ve kireç taşıma ihtimaliyle en riskli kaynaktır; bu su kullanılıyorsa filtreyi daha ince ve daha sık temizlemek gerekir. Açık depo ve gölet suyu alg ve organik madde taşır; güneş ışığı alg üremesini hızlandırır. Yağmur suyu temizdir ama çatı kirini ve yaprak parçalarını taşıyabilir; toplama deposuna giriş elekleri koymak gerekir. Hangi kaynağı kullanıyorsanız, damla sulama tıkanması riskinin kaynağını bilmek önleme planını belirler.
+
+## Hat yıkama: sezon başı ve sezon içi
+
+Kısmi tıkanmalar, düzenli yıkamayla büyük ölçüde önlenir. UC ve UF yayınları, sezon başında ve uygun aralıklarla hatların uçlarını açıp suyun berrak çıkana kadar akıtılmasını önerir.
+
+::: adimlar
+Suyu açın | Filtreyi temizleyin, sistemi çalıştırarak basıncı verin.
+Hat uçlarını açın | Her ana ve yan hattın sonundaki kapağı sökün.
+Berraklaşana kadar akıtın | Çamurlu ve renkli su gelmesi biterek berrak akana kadar bekleyin.
+Kapakları kapatın | Uçları geri takın; damlatıcıların eşit su verdiğini kontrol edin.
+Sezon başı testi yapın | Bir kap ile bazı damlatıcıların debisini ölçün; hat boyunca fark varsa araştırın.
+:::
+
+Debi hesabı için [damla sulama hesabı](/damla-sulama-hesabi) yazısındaki ölçüm yöntemini kullanabilirsiniz. Hat uçlarını her seferinde açmak istemiyorsanız, uç kapaklarını kolay sökülen tipte seçin.
+
+## Kireç, demir ve alg için ne yapılır?
+
+Kireç ve demir tortusunda temizlik, asitle ya da uygun kimyasal bir yöntemle yapılır; UC yayınına göre kireç asitle köpürerek çözülür, demir ise güçlü asit içinde gecede çözünebilir. Ancak asitler depolama ve kullanım açısından ciddi güvenlik riski taşır. Klor ise biyolojik birikimde kullanılır, ama yüksek klor bazı bitkilere ve sistem parçalarına zarar verebilir. Bu nedenle tortu temizliğinde ürün adı, oran ve süre yazmıyoruz; il ya da ilçe tarım müdürlüğünden ya da ziraat mühendisinden destek alın.
+
+Önleyici adımlar ise basittir: Suyu analiz ettirin, kuyu suyunda kireç ve demir değerlerine bakın, hattı mümkünse gölgeleyin, depoyu kapalı tutun.
+
+[ürün:sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu]
+
+## Tek tek damlatıcıyı değerlendirmek
+
+Hattın tamamını söküp yeniden yapmadan önce tek tek damlatıcıyı inceleyin. Tıkalı olduğundan şüphelendiğiniz damlatıcıyı çıkarıp ışığa tutun; içinde tortu görüyorsanız bol suda çalkalayın. Yine de akış gelmiyorsa yenisini takın; tek bir damlatıcı çoğu zaman birkaç kuruş değerindedir ve çıkarıp temizlemekle uğraşmak çoğu zaman yeniden aynı sorunu getirir. Damla bandında ise sorun bölgesi sık sık hat boyunca yayılır; bu durumda bandın bir parçasını kesip değiştirmek yeterli olur. Hat sonundaki bitkilerin kuruması çoğu zaman tek bir tıkanıklıktan değil, kademeli basınç düşüşünden kaynaklanır.
+
+## Sezon başı ve sonu bakımı
+
+Damla sulamanın ömrü, kışlama ve ilkbahar hazırlığıyla uzar. Sezon sonunda hatları boşaltın, filtreyi temizleyip kurutun, açıkta kalan hatları güneşten ve dondan koruyun; ayrıntı için [hortum kışlatma](/hortum-kislatma) yazısına bakın. Sezon başında filtreyi kontrol edin, hatları yıkayın, damlatıcıları sayarak çalışıp çalışmadığını doğrulayın. Su kaynağı olarak yağmur suyu kullanıyorsanız, toplama deposunun kapalı ve temiz olması çok önemlidir; [yağmur suyu toplama](/yagmur-suyu-toplama) yazısı bu konuda yararlı bilgi veriyor.
+
+## Tıkanmayı erken fark etmenin yolları
+
+Tıkanma çoğu zaman yavaş gelişir ve gözle fark edilmez. Üç basit alışkanlık sizi erken uyarır. Birincisi, sezon başında bir kapla ölçtüğünüz debiyi not etmek; sonradan yaptığınız ölçüm bu değerin altında kalıyorsa tıkanma başlamıştır. İkincisi, hattın sonundaki bitkilere haftada bir bakmak; soluk ve kuru kalıyorsa sebep çoğunlukla hat sonundaki basınç düşüşü ya da tıkalı damlatıcıdır. Üçüncüsü, sulama başladığında filtre çıkışında basıncın normalden düşük görünüp görünmediğini izlemektir. Bu üç işaret, bir bitkinin kuruyup ölmesinden önce size müdahale şansı verir.
+
+## Sık yapılan hatalar
+
+Filtreyi hiç temizlememek en yaygın hatadır. İkincisi, hat uçlarını kapalı tutup hiç yıkamamaktır; tortu hat sonunda birikir. Çatlak ya da yırtılmış filtre elemanıyla çalışmak da hattın tamamına zarar verir. Güneşte açıkta bırakılan siyah hortum suyu ısıtır ve alg üremesini hızlandırır. Son olarak, tıkalı damlatıcıyı çivi ya da iğne gibi sert bir aletle açmak ağzını bozar; yerine yenisini takmak daha güvenlidir.
+@sss
+S: Damla sulama neden tıkanır?
+C: Üç ana nedenle: kum ve silt gibi fiziksel parçacıklar, alg ve bakteri gibi biyolojik birikim, kireç ve demir gibi mineral tortu. Çoğu zaman bunlar bir arada görülür.
+
+S: Damla sulama filtresi ne sıklıkla temizlenir?
+C: Su kirliliğine göre haftada bir ile ayda bir arasıdır. Kuyu ve dere suyunda daha sık gerekir. Hat sonunda debi düşmüşse ilk kontrol edilecek parça filtredir.
+
+S: Damlatıcıdaki beyaz kabuk nedir?
+C: Genellikle kireçtir (kalsiyum karbonat). Sert suyun buharlaşması damlatıcı çevresinde beyaz, sert bir tortu bırakır. Hattı yıkamak ve tortu türüne uygun temizlik için ziraat mühendisine danışmak gerekir.
+
+S: Damla sulama hattı ne zaman yıkanmalı?
+C: Her sezon başında ve sezon içinde belirli aralıklarla hat uçları açılıp berrak su gelene kadar akıtılmalıdır. Yıkama, tıkanmayı büyük ölçüde engeller.
+
+### SORU
+yayin: 2027-03-17 08:10
+kategori: bahce-ipuclari
+baslik: Çimi hep 2 cm biçiyordum, yazın sararıyor, yüksekliği artırmak işe yarar mı?
+metin: Bahçemizde kamış yumak ağırlıklı karışım var. Estetik olsun diye makineyi en alçak kademede kullanıyorum ama temmuzda çimin yarısı sararıyor. Yükseklik gerçekten sebep olabilir mi?
+@cevap Mikdat Çelik | 3
+Evet, çok büyük olasılıkla. Kamış yumak gibi soğuk iklim çimleri yazın daha yüksek biçilmelidir; 2 cm bu tür için çok alçak. Bıçağı üst kademeye alın (7–9 cm) ve her biçimde yaprağın en fazla üçte birini alın. Sulamayı derin ve seyrek yapın. Bir iki hafta içinde renk toparlanmazsa toprak sıkışıklığına ve hastalığa da bakın.
+@cevap Ahmet Sacit Çelik | 14
+Alçak biçim aynı zamanda kökü zayıf bırakır. Sonbaharda havalandırma ve hafif gübreleme ile destek olursanız gelecek yaz çimin dayanıklılığı artar.
+
+### SORU
+yayin: 2027-03-17 13:40
+kategori: bahce-ipuclari
+baslik: Damla sulamada hattın sonundaki bitkiler kuruyor, başındakiler gür, sorun ne?
+metin: 20 metrelik bir damla hattım var. Başındaki domatesler çok iyi ama son beş altı bitki hep susuz kalıyor. Aynı damlatıcılar aynı. Tıkanma mı, basınç mı?
+@cevap Hatice Kübra Çelik | 6
+Her ikisi de olabilir. Önce filtreyi temizleyin ve hat sonundaki kapağı açıp berrak su gelene kadar akıtın. Sonra bir kap ile ilk ve son damlatıcının debisini ölçün; fark büyükse basınç düşüyor demektir. Uzun hattı ortadan besleyerek ya da iki kısa hatta bölerek çözebilirsiniz.

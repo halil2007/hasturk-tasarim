@@ -1,0 +1,487 @@
+### YAZI
+slug: toprak-analizi-nerede-yaptirilir-laboratuvar-sure-ve-destek-durumu
+baslik: Toprak Analizi Nerede Yaptırılır? Laboratuvar, Süre ve Destek Durumu
+yayin: 2027-04-24 09:10
+yazar: Mikdat Çelik
+kategori: toprak-rehberi
+odak: toprak analizi nerede yaptırılır
+seo_baslik: Toprak Analizi Nerede Yaptırılır? Laboratuvar ve Süre
+seo_aciklama: Toprak analizi nerede yaptırılır? İl müdürlüğü, araştırma enstitüsü ve yetkili özel laboratuvarlar; numune teslimi, süre ve destek için nereye bakılacağı.
+ozet: Toprak analizi, il ve ilçe tarım müdürlüklerinin bağlı olduğu Tarım ve Orman Bakanlığı laboratuvarlarında, araştırma enstitülerinde ve Bakanlıktan yetki almış özel laboratuvarlarda yaptırılır. Numune bizzat ya da il-ilçe müdürlüğü aracılığıyla teslim edilir; ücret, süre ve destek durumu ile ilgili güncel bilgi il müdürlüğündedir.
+etiketler: toprak analizi, toprak analiz laboratuvarı, numune teslimi, il tarım müdürlüğü, analiz desteği, toprak numunesi
+gorsel: bekliyor
+gorsel_alt: Laboratuvar tezgâhında etiketli toprak numune torbaları ve analiz formu
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, kendi-toprak-karisimini-olustur
+kisaca: Toprak analizi nerede yaptırılır sorusunun cevabı: Tarım ve Orman Bakanlığı'na bağlı il müdürlüklerinin toprak analiz laboratuvarları, araştırma enstitüleri ve Bakanlıktan yetki almış özel laboratuvarlar. Numune bizzat ya da il ve ilçe müdürlüğü kanalıyla teslim edilir. Ücret, süre ve destek koşulları için ilinizin müdürlüğüne bakın.
+@govde
+Elinizde bir torba toprak var ama nereye götüreceğinizi bilmiyorsunuz. Toprak analizi için çoğu üretici ve bahçıvan önce numune almayı, sonra laboratuvar adını arar. Oysa sırayı tersine çevirmek gerekir: Önce laboratuvarı ve numune kurallarını öğrenin, sonra numuneyi alın. Toprak analizi nerede yaptırılır sorusunun yerel cevabı il tarım müdürlüğünüzdedir; aşağıda seçenekleri, başvuru sırasını ve ücret, süre, destek konusunda nereye bakacağınızı anlatıyoruz. Tutar, gün sayısı ve destek şartı yazmıyoruz; bunlar değişir.
+
+## Toprak analizi nerede yaptırılır: üç seçenek
+
+| Seçenek | Kim işletir | Ne zaman uygun |
+|---|---|---|
+| İl müdürlüğü toprak analiz laboratuvarı | Tarım ve Orman Bakanlığı il müdürlüğü | Çiftçi ve bahçe sahibi için ilk adres |
+| Araştırma enstitüsü laboratuvarı | Bakanlık bağlı enstitü | Kapsamlı ve özel analizler |
+| Yetkili özel laboratuvar | Bakanlıktan yetki almış kuruluş | Hızlı randevu ya da farklı kapsam |
+
+Bakanlığın bilgi sistemi, yetkili laboratuvarların listesini, kapsamını ve durumunu (aktif ya da yetkisi iptal edilmiş) yayımlar ([Tarım ve Orman Bakanlığı, laboratuvar kapsamları](https://hbs.tarbil.gov.tr/Main/SabLabsScopes)). Özel laboratuvara gitmeden önce bu listede kaydını ve toprak analizi kapsamını kontrol edin. Üniversitelerin ziraat fakülteleri de laboratuvar hizmeti verebilir; bunun için ilgili fakültenin sayfasına bakın.
+
+## İl müdürlüğü laboratuvarı
+
+Pek çok il müdürlüğü kendi toprak analiz laboratuvarını işletir. Örneğin Bursa İl Müdürlüğü laboratuvar hizmetlerini sayfasında anlatır ([Bursa İl Tarım ve Orman Müdürlüğü, laboratuvar hizmetleri](https://bursa.tarimorman.gov.tr/Menu/22/Laboratuvar-Hizmetlerimiz)); Burdur müdürlüğü toprak analiz laboratuvarına ayrı bir sayfa ayırmıştır ([Burdur İl Tarım ve Orman Müdürlüğü, toprak analiz laboratuvarı](https://burdur.tarimorman.gov.tr/Link/17/Toprak-Analiz-Laboratuvari)). Sakarya müdürlüğü de laboratuvar çalışmalarını haberleştirir ve üreticilerin numuneyi ekim-dikim sezonundan önce erkenden teslim etmesini önerir ([Sakarya İl Tarım ve Orman Müdürlüğü, toprak analiz laboratuvarı](https://sakarya.tarimorman.gov.tr/Haber/82/Il-Mudurlugumuz-Toprak-Analiz-Laboratuvari-Calismalarina-Devam-Etmektedir)). Yani laboratuvarın kendi sayfasını okumak, o ilin kuralını öğrenmenin en kısa yoludur.
+
+Numune, laboratuvara bizzat götürülebilir ya da ilçe müdürlüğü kanalıyla gönderilebilir. Hangi yolun geçerli olduğunu ilçe müdürlüğünüze sorun.
+
+## Araştırma enstitüleri
+
+Bakanlığın toprak ve gübre araştırma birimleri de toprak kalite ve verimlilik analizleri yapar ([Tarım ve Orman Bakanlığı, Toprak Kalite ve Verimlilik Analizleri Laboratuvarı](https://arastirma.tarimorman.gov.tr/toprakgubre/Menu/30/Toprak-Kalite-Ve-Verimlilik-Analizleri-Laboratuvari)). Bu laboratuvarlar daha çok araştırma ve özel talepler için çalışır; çiftçi analizi için önce il müdürlüğüne gidin, özel bir ihtiyaçta (örneğin farklı analiz kapsamı) enstitüye danışın.
+
+## Başvuru adımları
+
+::: adimlar
+Laboratuvarı ve kapsamını belirleyin | İl müdürlüğü laboratuvarı ya da yetkili özel laboratuvar; analiz kapsamını sorun.
+Numune alma kurallarını öğrenin | Derinlik, alınacak nokta sayısı ve miktar laboratuvarın talimatındadır.
+Numuneyi alın ve etiketleyin | Parsel, ürün, tarih ve numune derinliğini yazın.
+Analiz formunu doldurun | Ürün planı ve toprak bilgisi formda istenir.
+Teslim edin | Bizzat ya da il ve ilçe müdürlüğü kanalıyla.
+Ücret ve destek durumunu sorun | Özel istek numunelerinde bedel numune kabulünden önce ödenebilir; destek il müdürlüğünde.
+Sonucu bekleyin ve yorumlayın | Rapor çıkınca değerleri okuyun, gübre planını yapın.
+:::
+
+Numuneyi alma yöntemi için Bakanlığın toprak numune alma kılavuzu ([Tarım ve Orman Bakanlığı, toprak numune alınması](https://arastirma.tarimorman.gov.tr/toprakgubre/Belgeler/Numune%20Al%C4%B1nmas%C4%B1/TOPRAK.pdf)) ve [toprak örneği alma](/toprak-ornegi-alma) yazısı rehberdir. Numunenin doğru alınması sonucun güvenilirliğini belirler.
+
+## Laboratuvar seçerken sorulacak sorular
+
+Toprak analizi nerede yaptırılır sorusunu cevaplarken yalnızca adrese değil, laboratuvarın size uygun olup olmadığına da bakın. Laboratuvara şu soruları yöneltin: Hangi analizleri yapıyorsunuz (pH, tuzluluk, kireç, organik madde, fosfor, potasyum, mikro elementler)? Numune miktarı ve ambalaj nasıl olmalı? Sonucu nasıl bildiriyorsunuz (basılı rapor, e-posta, gübre tavsiyesiyle birlikte mi)? Özel laboratuvarsa Bakanlık yetkisi ve analiz kapsamı hangi tarihe kadar geçerli? Ücret nasıl ödeniyor? Aynı parselin ertesi yıl tekrar analizinde karşılaştırma yapılabiliyor mu? Bu soruların cevabı yazılı olsun; ileride sonucu savunmanız ya da analizi tekrarlamanız gerekirse işinize yarar. Büyük bir parseliniz varsa laboratuvara hangi bölümlerden ayrı numune alınması gerektiğini de danışın; farklı toprak tipleri ayrı numune ister.
+
+## Süre: ne kadar beklenir?
+
+Analiz süresi laboratuvara, analiz kapsamına ve dönemin yoğunluğuna göre değişir. Sonbahar ve ilkbaharın ekim öncesi dönemi laboratuvarların en yoğun zamanıdır; bu dönemde bekleme uzayabilir. Bu yüzden Sakarya müdürlüğü gibi kurumlar numuneyi ekim-dikim sezonundan önce teslim etmeyi önerir. Kesin bir gün sayısı vermiyoruz; laboratuvarın kendi sayfasında ya da telefonla öğrenin.
+
+## Ücret ve destek
+
+Özel istek numunelerinde analiz bedeli, numune kabul edilmeden önce yatırılır; Kocaeli İl Kontrol Laboratuvarı'nın analiz başvurusu sayfası bu uygulamayı anlatır ([Kocaeli Gıda Kontrol Laboratuvarı, analiz başvurusu](https://gidalab.tarimorman.gov.tr/kocaeli/Menu/28/Analiz-Basvurusu)). Her ilin ve laboratuvarın uygulaması farklı olabilir. Bazı il müdürlükleri toprak analizi için destek ya da hibe uygulamasından söz eder; kimlerin yararlanabileceği ve koşulları ilgili il müdürlüğünün güncel duyurularında yer alır. Tarımsal desteklerin mantığı için [tarımsal destekler nedir](/tarimsal-destekler-nedir) yazısına bakın; tutar ve şartlar için resmî duyuruları kontrol edin.
+
+## Sonucu nasıl kullanırsınız?
+
+Analiz raporu pH, kireç, tuzluluk, organik madde ve bitki besin elementlerini verir. Değerleri okumayı [toprak analizi sonuçları nasıl okunur](/toprak-analizi-sonuclari) yazısında anlattık. Gübre planı yapmak için rapor ile birlikte ürününüzü ve yetiştirme alanınızı bilen bir ziraat mühendisine ya da il müdürlüğüne başvurun. Raporu en az bir sezon saklayın; sonraki yıl yeni analizle karşılaştırırsanız toprağınızdaki değişimi görürsünüz.
+
+## Hobi bahçıvanı için pratik yollar
+
+Küçük bir bahçe ya da saksı için laboratuvar analizi çoğu zaman gerekli olmayabilir; ölçüm şeritleri ve basit testler pH hakkında fikir verir. Ama sebze bahçesi, meyve bahçesi ya da sürekli aynı yerde sorun yaşıyorsanız ilk analizi laboratuvarda yaptırmak, yıllarca gübre masrafını doğru yönlendirir. Çim alanları ve balkon saksıları için kendi karışımınızın pH'ını ölçmek yeterli olabilir; toprağınız ağır ya da çok kumluysa laboratuvar analizi daha aydınlatıcıdır.
+
+## Sık yapılan hatalar
+
+- Numune almadan önce laboratuvar talimatını okumamak.
+- Parselin tek köşesinden numune almak.
+- Analizi ekimden hemen önce yaptırıp sonucu bekleyememek.
+- Laboratuvarın yetkisini ve kapsamını sormamak.
+- Sonucu okuyamayıp gübreyi tahminle atmak.
+- Destek ve ücret konusunda güncel olmayan bir blog bilgisine güvenmek.
+
+@sss
+S: Toprak analizi nerede yaptırılır?
+C: Tarım ve Orman Bakanlığı'na bağlı il müdürlüklerinin toprak analiz laboratuvarlarında, araştırma enstitülerinde ve Bakanlıktan yetki almış özel laboratuvarlarda. Önce ilinizin müdürlüğünün laboratuvar sayfasına bakın.
+
+S: Numuneyi kim götürebilir?
+C: Numune çiftçi tarafından bizzat teslim edilebilir ya da il ve ilçe müdürlükleri kanalıyla gönderilebilir. Hangi yolun geçerli olduğunu ilçe müdürlüğünüze sorun.
+
+S: Toprak analizi ne kadar sürer?
+C: Laboratuvara ve dönemin yoğunluğuna göre değişir. Ekim-dikim sezonu öncesi yoğunluk bekleme süresini uzatabilir; Sakarya müdürlüğü numuneyi sezondan önce erkenden teslim etmeyi önerir. Kesin süreyi laboratuvardan öğrenin.
+
+S: Toprak analizi için destek var mı?
+C: Bazı il müdürlükleri toprak analizi için destek ya da hibe uygulamasından söz eder. Kimlerin yararlanabileceği ve koşullar güncel duyurularda yazılıdır; il ya da ilçe tarım müdürlüğüne sorun.
+### YAZI
+slug: bahce-catali-ile-toprak-havalandirma-kazmadan-gevsetmek
+baslik: Bahçe Çatalı ile Toprak Havalandırma: Kazmadan Gevşetmek
+yayin: 2027-04-24 11:35
+yazar: Rümeysa Altınova
+kategori: toprak-rehberi
+odak: bahçe çatalı
+seo_baslik: Bahçe Çatalı ile Toprak Havalandırma
+seo_aciklama: Bahçe çatalı ile toprak nasıl havalandırılır? Toprağı çevirmeden gevşetme tekniği, doğru nem, derinlik, adımlar ve bel ile çapa makinesine göre farkı.
+ozet: Bahçe çatalı, toprağı ters çevirmeden sıkışmış katmanı kıran ve hava girişi sağlayan bir alettir. Nemli ama ıslak olmayan toprağa batırılıp hafifçe geri itilir; toprak çevrilmez, solucan yolları ve kökler yerinde kalır. Küçük ve orta yatakta hızlı ve sessiz bir hazırlık yöntemidir.
+etiketler: bahçe çatalı, toprak havalandırma, kazmadan gevşetme, sıkışmış toprak, yatak hazırlığı, kazmasız bahçe
+gorsel: bekliyor
+gorsel_alt: Bahçe çatalı toprağa batırılmış, gevşeyen koyu toprakta çıkan solucanlar
+urunler: raco-iki-disli-bahce-el-capasi, raco-tel-tirmik-kucuk, hasturk-kati-solucan-gubresi
+kisaca: Bahçe çatalı, toprağı çevirmeden gevşeten alettir. Nemli toprağa dişleri tamamen batırın, sapı hafifçe geriye yatırıp toprağı kaldırmadan çatlatın, 15-20 cm geri adım atıp tekrarlayın. Böylece sıkışmış katman kırılır, solucan yolları ve kökler bozulmaz. Çok sert alt toprak için çift kazma gerekebilir.
+@govde
+Bahçe toprağı birkaç yılda sertleşir. Üstü düzgün görünse de çatlak azdır, su akıp gider, kökler yatay yayılır. Çoğu bahçıvanın ilk refleksi bel ya da çapa makinesidir. Oysa toprağı ters çevirmeden ve parçalamadan gevşetmenin hafif bir yolu var: bahçe çatalı. Bahçe çatalı toprağı havalandırır, hava ve su girişini açar, ama yapıyı bozmaz. Aşağıda aletin nasıl kullanıldığını, hangi toprakta işe yaradığını, sınırlarını ve bel ya da çapa makinesiyle farkını anlatıyoruz.
+
+## Bahçe çatalı nedir?
+
+Bahçe çatalı, birkaç kalın dişli ve uzun saplı bir alettir. İki sap ve geniş diş sıralı büyük modellere "geniş çatal" (broadfork) denir; tek saplı ve dört dişli sıradan çatal ise aynı işi daha küçük ölçekte yapar. Extension kaynaklarına göre sıradan bir bahçe çatalı, kısa bir geniş çatal gibi kullanılabilir; geniş çatal vücut ağırlığını kullandığı için daha rahattır ([Ask Extension, kazmasız bahçecilik](https://ask.extension.org/kb/faq.php?id=892905)). Maryland Üniversitesi'nin bahçe sayfası, geniş çatalın toprağı çevirmeden ve çapa makinesi gibi küçük parçalara ayırmadan havalandırdığını belirtir ([Maryland Grows, toprak iyileştirme](https://marylandgrows.umd.edu/tag/soil-improvement/)).
+
+## Neden çevirmeden gevşetmek?
+
+Oregon State Üniversitesi, çapa makinesinin toprağı her kesişinde yapıyı zayıflattığını, bunun sıkışmaya ve akışa yol açabildiğini anlatır ([Oregon State, kazmasız bahçecilik toprağı ve bitkiyi sağlıklı tutar](https://news.oregonstate.edu/news/no-till-gardening-keeps-soil-%E2%80%93-and-plants-%E2%80%93-healthy)). New Hampshire Üniversitesi, geniş çatalın toprağı çevirmediğini ama sıkışmayı kırdığını yazar ([UNH Extension, az ve hiç işlemeli bahçecilik](https://extension.unh.edu/blog/low-and-no-till-gardening)). Maryland kaynağı, üst toprağı gevşetirken gereğinden derine inmemeyi önerir; böylece solucanların ve bitki köklerinin açtığı doğal yollar bozulmaz. Minnesota Üniversitesi de bahçede toprak işlemeyi azaltmayı öğütler ([UMN Extension, bahçede toprak işlemeyi azaltma](https://extension.umn.edu/managing-soil-and-nutrients/reducing-tillage-your-garden)).
+
+| Yöntem | Toprağı çevirir mi? | Yapı | Efor | Uygun ölçek |
+|---|---|---|---|---|
+| Bahçe çatalı | Hayır | Korur | Orta, fiziksel | Küçük ve orta yatak |
+| Bel ya da çapa | Evet | Bozar | Yüksek | Küçük-orta |
+| Çapa makinesi | Evet, parçalar | Zayıflatır | Düşük, ama makine | Orta-geniş |
+| Hiç işlememe (örtü) | Hayır | Korur | Düşük | Her ölçek, yavaş sonuç |
+
+## Bahçe çatalını nasıl kullanırsınız?
+
+Zamanlama: Toprak nemli ama ıslak olmamalıdır. Islak toprakta çatal yapışır, toprağı yoğurur ve sıkışmayı artırır; kuru ve taşlaşmış toprağa batmaz. Bir avuç toprağı sıkın: Topak olup hafif dokunuşta dağılıyorsa uygundur.
+
+::: adimlar
+Nemi kontrol edin | Toprak sıkıldığında topak olmalı ama su sızmamalı.
+Çatalı batırın | Dişleri ayağınızla bastırarak tamamen toprağa sokun.
+Sapı geriye yatırın | Toprağı kaldırıp çevirmeyin; yalnızca çatlatıp gevşetin.
+Çatalı çıkarın | Toprağı ters çevirmeden düz çekin.
+Geri adım atın | 15-20 cm geri gidip tekrarlayın; tüm yatağı sıra sıra geçin.
+Üstünü örtün | Kompost ya da solucan gübresi serin, yatağı malçlayın.
+:::
+
+Yatağın kenarlarından başlayıp içeriye doğru ilerleyin; böylece gevşettiğiniz toprağa basmazsınız. Ekimden önce yatağa ayak basmamak için ahşap bir kalas koymak da işe yarar.
+
+## Derinlik ve sınırlar
+
+Bahçe çatalı birkaç on santimetre derinliğe iner; ama toprağın altındaki sert katmanı (hardpan) kırmak için yetmeyebilir. Extension kaynaklarında geniş çatalın bu ağır sıkışma durumunda yeterince derine ulaşamadığı ve gerekirse çift kazmanın önerildiği not edilir. Bahçe çatalı ayrıca fiziksel iştir ve geniş alanlarda pratik değildir; kaynaklar bunu açıkça belirtir. Bu yüzden küçük ve orta yatakta çatal, geniş tarlada makine ve örtü bitkisi daha uygundur.
+
+Maryland kaynağı gereğinden derine kazmamayı önerir: Her gevşetme biraz toprak yaşamını rahatsız eder. İlk yıl derin gevşetin, sonraki yıllarda yalnızca yüzeyi hafifçe havalandırın. Solucanlar ve kökler zamanla işi devralır.
+
+## Bahçe çatalı ve kazmasız yatak
+
+Hiç kazmamak da bir yöntemdir. Vermont Üniversitesi'nin yayım servisi, kazmasız yöntemde toprağın üstüne mukavva ve kompost katmanları serilip kökler çürüdükçe oluşan boşlukların toprağı havalandırdığını anlatır ([UVM Extension, kazmasız yönteme bakış](https://www.uvm.edu/extension/news/digging-no-dig-method)). Çatal ise bu işi mekanik olarak, ilk yıl hızlandırır. İkisini birleştirmek mümkündür: İlk yıl çatalla gevşetin, sonra katmanlarla örtüp hiç çevirmeyin. Katmanlı yatak için [katmanlı bahçe yatağı](/katmanli-bahce-yatagi) yazısı, işleme seçenekleri için [toprak işleme: bellemek mi çapalamak mı](/toprak-isleme) yazısı ve kazı derinliği için [bahçe toprağı ne derinlikte kazılır](/bahce-topragi-ne-derinlikte-kazilir-capa-mi-bel-mi) yazısı ayrıntı verir.
+
+## Toprak tipine göre
+
+Killi toprakta çatal en çok işe yarar, ama nem kritik: Hafif nemli ve yarı kuru toprakta çalışın. Kumlu toprakta zaten gevşek olduğu için derin işlem gerekmez; asıl ihtiyaç organik maddedir. Taşlı toprakta çatalın dişleri zarar görebilir; taşları önceden toplayın. Killi toprağın iyileştirilmesi için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazısı tamamlayıcıdır.
+
+## Çim ve yatak kenarları
+
+Çim alanında sıkışma için dişli havalandırma aleti ya da çatal kullanılabilir: Çimin üzerine dişleri belli aralıklarla batırıp hafifçe oynatın. Çim havalandırma yöntemleri için [çim havalandırma](/cim-havalandirma) yazısına bakın. Bahçe çatalını çim alanında yaparken çimi koparmamaya dikkat edin.
+
+## Küçük ölçekli aletler
+
+Bahçe çatalı yatak ve geniş alan içindir; saksı ve dar yatak için küçük aletler yeterlidir.
+
+[ürün:raco-iki-disli-bahce-el-capasi, raco-tel-tirmik-kucuk]
+
+Raco İki Dişli Bahçe El Çapası, ürün açıklamasına göre saksı ve bahçelerde toprak havalandırma, çapalama ve temizleme için tasarlanmış preslenmiş çelik gövdeli bir el aleti. Raco Tel Tırmık (küçük) de bahçe ve saksılarda toprak havalandırma ve temizleme için tanıtılıyor, 41 cm uzunluğunda ve 200 gram ağırlığında. Bu aletler geniş çatalın yerini tutmaz, ama dar yataklarda ve saksılarda yüzeysel gevşetme için pratiktir. El aleti seçimi için [el çapası mı motorlu çapa mı](/el-capasi) yazısı yararlıdır.
+
+## Çatal sonrası bakım
+
+Gevşetilmiş toprak ilk yağmurda yeniden sıkışabilir; bu yüzden gevşetme işlemini hemen bir örtüyle tamamlayın. Yüzeye 3-5 cm kalınlığında olgun kompost ya da yaprak kompostu serin, üstüne saman ya da kuru yaprak malçı koyun. Böylece yağmur damlaları toprağı dövmez, solucanlar organik maddeyi aşağı taşır ve toprak yapısı kendiliğinden iyileşir. Hemen dikim yapacaksanız çatal geçişinden sonra yatağı hafifçe tırmıklayıp dikim çukurlarını açın; ayak basmamak için kenardan çalışın. Bahçe çatalı yılda bir ya da iki kez, yatağın yeniden sıkıştığını hissettiğinizde kullanılır; her sezon yapmak gerekmez. Kompost ve solucan gübresi ile desteklenen bir yatakta zamanla çatal ihtiyacı azalır, çünkü toprak kendi gözenek yapısını kurar.
+
+## Sık yapılan hatalar
+
+- Islak toprakta çalışmak: Toprağı yoğurur ve sıkıştırır.
+- Toprağı kaldırıp ters çevirmek: Çatalın amacı çevirmemektir.
+- Her yıl çok derin gevşetmek: Toprak yaşamını rahatsız eder.
+- Gevşetilen toprağa basmak.
+- Gevşettikten sonra toprağı çıplak bırakmak: Yağmur toprağı yeniden sıkıştırır.
+- Ağır sıkışmayı tek çatal geçişiyle çözmeyi beklemek.
+
+@sss
+S: Bahçe çatalı ne işe yarar?
+C: Toprağı ters çevirmeden sıkışmış katmanı gevşetir ve hava ile suyun girişini kolaylaştırır. Maryland ve UNH Extension, geniş çatalın toprağı çevirmediğini ve yapıyı koruyarak sıkışmayı kırdığını belirtir.
+
+S: Bahçe çatalı ile geniş çatal aynı şey mi?
+C: Benzerler. Ask Extension, sıradan bir bahçe çatalının kısa bir geniş çatal gibi kullanılabildiğini, geniş çatalın ise vücut ağırlığını kullandığı için daha rahat olduğunu yazar. Küçük yatakta tek saplı çatal da iş görür.
+
+S: Bahçe çatalını ne zaman kullanmalıyım?
+C: Toprak nemli ama ıslak olmadığında, ilkbaharda ekim öncesi ya da sonbaharda. Islak toprakta çatal yapışır ve toprağı sıkıştırır. Kuru ve taşlaşmış toprakta batmaz; önce hafifçe sulayın.
+
+S: Bahçe çatalı çapa makinesinin yerini tutar mı?
+C: Küçük ve orta yatakta evet, geniş alanda hayır. Çatal yapıyı korur ama fiziksel iştir ve geniş alanlarda pratik değildir. Oregon State, çapa makinesinin her geçişte toprak yapısını zayıflattığını belirtir.
+### YAZI
+slug: sulama-hatti-kacak-su-kaybi-nasil-bulunur-ve-onarilir
+baslik: Sulama Hattı Kaçak: Su Kaybı Nasıl Bulunur ve Onarılır?
+yayin: 2027-04-24 14:05
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: sulama hattı kaçak
+seo_baslik: Sulama Hattı Kaçak: Su Kaybı Nasıl Bulunur?
+seo_aciklama: Sulama hattı kaçak nasıl bulunur ve onarılır? Basınç düşmesi, ıslak nokta, sayaç ve blok blok kontrolle sızıntıyı bulma, onarım adımları ve önleme yolları.
+ozet: Sulama hattında kaçağın ilk işareti düşen basınç, yer yer çamurlaşan toprak ve sulamadan sonra uzayan sürelerdir. Sayaç, basınç ölçümü ve hattı bloklara ayırarak yapılan kontrol kaçağın yerini daraltır. Onarımdan sonra hattı yıkamak gerekir.
+etiketler: sulama hattı kaçak, damla sulama, su kaybı, basınç düşmesi, boru onarımı, kaçak tespiti
+gorsel: bekliyor
+gorsel_alt: Bahçede toprak üstüne taşan küçük su fıskiyesi ve boru bağlantısından sızan su
+urunler: sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu, sgs-3-fonksiyonlu-sulama-tabancasi, sgs-bahce-seti-3-parca
+kisaca: Sulama hattı kaçak belirtisi: sulama sırasında düşen basınç, toprakta yer yer çamurlaşan ya da hep ıslak kalan noktalar, uzayan sulama süresi ve sayaçta beklenenden fazla su. Bulmak için sulamayı bloklara ayırıp hat boyunca yürüyün, basınç ve sayaç değerlerini karşılaştırın; onardıktan sonra hattı yıkayın.
+@govde
+Damla hattı bir sabah gevşek bir bahçe duvarı gibi su fışkırtıyor ya da bahçenin bir köşesi hep ıslak kalıyor. Aylar sonra faturaya baktığınızda sulama hattı kaçak yaptığı için kaybettiğiniz suyu görürsünüz. Küçük sızıntılar bile bir sezonda ciddi miktarda su kaybettirir ve uç bitkiler yeterli su alamaz. Aşağıda belirtileri, kaçağı bulmanın adımlarını (sayaç, basınç ve bölümlere ayırma), onarım yöntemlerini ve önleme yollarını anlatıyoruz.
+
+## Sulama hattı kaçak belirtileri
+
+| Belirti | Olası neden | Ne yapılır |
+|---|---|---|
+| Sulama sırasında basınç düşüyor | Hatta kaçak, tıkanmış filtre ya da pompa sorunu | Basınç ve filtreyi kontrol edin |
+| Bir köşe sürekli ıslak ya da çamurlu | Gömülü boruda sızıntı | Çevresini kazarak bulun |
+| Fıskiye gibi su atan nokta | Kopmuş damlatıcı ya da yırtık boru | Hemen onarın |
+| Uç bitkiler susuz kalıyor | Hat boyunca su kaybı | Basıncı hattın ucunda ölçün |
+| Sulama süresi uzadı | Debi düşmüş ya da su sızıyor | Sayaç ve süreyi karşılaştırın |
+| Sayaç sulama dışında dönüyor | Gizli kaçak | Muslukları kapatıp sayacı izleyin |
+
+## Adım 1: Sayaçla kaçak kontrolü
+
+Bütün muslukları kapatın, bahçe sulama vanalarını da kapalı tutun ve su sayacına bakın. Küçük çark ya da yıldız göstergesi dönüyorsa bir yerde su akıyordur. Sayacı sulama sezonunda sulama yapılmıyorken kontrol etmek en basit ilk testtir. Sınırı da bilin: Çok küçük sızıntılar sayaçta fark edilmeyebilir, çünkü sayacın çarkını döndürmeye yetecek akış olmaz. Sayaç okuması ve litre hesabı için [su sayacı sulama hesabı](/su-sayaci-sulama-hesabi-sulama-suyu-nasil-olculur) yazısına bakın.
+
+## Adım 2: Basınç ölçümü
+
+Michigan State Üniversitesi'nin yayım servisi, sulama sisteminde basıncı izlemenin önemini anlatır: Basınç göstergeleri sistem girişine ve hat ya da bölge uçlarına yakın noktalara takılmalı, ölçüm sistem tam çalışır hâldeyken yapılmalıdır. Ani basınç düşüşleri kaçağa, tıkalı filtreye ya da pompa sorununa işaret edebilir ([MSU Extension, sulama sisteminde basıncı izlemek](https://www.canr.msu.edu/news/importance-of-monitoring-water-pressure-in-your-irrigation-system)). Bahçede bir manometreyi hattın başına, bir tanesini en uzak uca takmak, basıncın nerede kaybolduğunu gösterir.
+
+## Adım 3: Bölümlere ayırarak kontrol
+
+Georgia Üniversitesi'nin damla sulama kontrol listesi, sistemi bloklara ayırıp her bloğu ayrı test etmeyi ve damla hatlarının boyunca yürüyüp kaçak aramayı önerir ([UGA, damla sulama başlangıç kontrol listesi](https://fieldreport.caes.uga.edu/publications/C1093/drip-irrigation-checklist-start-up/)). Pratikte vanaları sırayla açın, her bölümü ayrı çalıştırın; bir bölümde basınç ya da debi düşüyorsa kaçak o bölümdedir. Sonra boru boyunca yürüyüp ıslak, çamurlu ya da çökmüş noktaları arayın.
+
+::: adimlar
+Sayacı kontrol edin | Tüm musluklar kapalıyken sayaç dönüyor mu?
+Hattı çalıştırın | Normal çalışma basıncında ölçüm yapın.
+Başta ve uçta basıncı okuyun | Fark büyükse kaçak aradığınız bölge arada.
+Bölgeleri tek tek açın | Hangi vana bölgesinde basınç ya da debi düşüyor?
+Hat boyunca yürüyün | Islak nokta, fıskiye, çökme ve kemirgen izi arayın.
+Kaçak noktasını kazın | Gömülü boruda kademeli, boruya zarar vermeden kazın.
+Onarın ve hattı yıkayın | Yeni bağlantıdan sonra hattı akıtın.
+:::
+
+## Adım 4: Debi karşılaştırması
+
+Basınç sabitken debinin arttığını görürseniz hatta bir yerde kaçak vardır. Bir debimetre hattın başında olursa sorunu gösterir ama yerini göstermez; yalnızca tek bir sayaçla kaçağın hangi kolda olduğu anlaşılmaz. Bu yüzden kollar için ayrı sayaç ya da basınç ölçümü yararlıdır. Debi, süre ve litre hesabının nasıl yapılacağını [damla sulama hesabı](/damla-sulama-hesabi) yazısında anlattık; hesaplanan debiyle gerçek debiyi karşılaştırmak kaçağı yakalar.
+
+## Kaçak nerede olur?
+
+California Üniversitesi master bahçıvanlarının damla sulama sorun giderme sayfası, geyser gibi fışkıran suyun hat bir yerde koptuğunu gösterdiğini söyler; sebep çoğu kez yerinden çıkmış bir damlatıcı ya da hasarlı bir borudur ([UC Marin Master Gardeners, damla sulama sorun giderme](https://ucanr.edu/site/uc-marin-master-gardeners/article/may-2025-drip-irrigation-troubleshooting)). Aynı kaynak kemirgenleri ve kürek ya da bel darbelerini sık nedenler arasında sayar: Susayan kemirgenler boruyu ısırır, kazı sırasında kürek hatta zarar verir. Kaçağı bulmak için bazen kazı gerekir. Hat kolları dirsek, te ve vana gibi bağlantı noktalarında sızdırmaya yatkındır; bağlantı parçalarının listesini ve seçimini [PE boru bağlantı parçaları](/pe-boru-baglanti-parcalari) yazısında anlattık.
+
+## Onarım
+
+Küçük bir delik ya da kopmuş damlatıcı çoğu zaman yerinde onarılır: Kopan yeri keskin bir bıçakla temiz kesin, uygun bir bağlantı parçasıyla (kaplin) birleştirin ya da damlatıcıyı yenisiyle değiştirin. Büyük yırtıklarda hasarlı kısmı kesip yeni parça ekleyin. Gömülü hatta kaçak varsa çevreyi kademeli kazın, boruyu kazma ve kürekle yaralamamaya dikkat edin. Onarım bittikten sonra hattı yıkamak gerekir: UGA kaynağı, tüm kaçaklar onarıldıktan sonra sistemi yeniden yıkamayı (flush) önerir. Yıkama kopan yerden hatta giren toprak ve pislikleri atar. Filtre tıkanmasının ayrıntıları için [damla sulama tıkanması](/damla-sulama-tikanmasi) yazısına bakın.
+
+## Mevsim başı kontrol planı
+
+Sulama hattı kaçak sorunu çoğu zaman sezon başında, hat ilk kez çalıştırılırken ortaya çıkar. Kış donu boruları çatlatmış, kemirgenler ısırmış, kazı hasar vermiş olabilir. Bu yüzden ilk sulamadan önce kısa bir plan uygulayın: Önce filtreleri temizleyin, sonra vanaları sırayla açıp her bölümde basıncı okuyun, ardından hat boyunca yürüyüp bağlantıları ve damlatıcıları gözden geçirin. Her bölümün normal basıncını ve sulama süresini deftere yazın; sezon ortasında bir değişim görürseniz kaçak ya da tıkanıklık işaretidir. Sulama zamanlayıcınızı kullanıyorsanız vana açma-kapama sürelerini de kontrol edin; [sulama zaman ayarlayıcı](/sulama-zaman-ayarlayici) yazısındaki süre mantığı, uzayan sulama sürelerini fark etmenize yardım eder. Kaçak onarımı için gerekli küçük parçaları (kaplin, tapa, damlatıcı) sezon başında yedek olarak bulundurmak, hasar anında hattı kısa sürede çalışır hâle getirir.
+
+## Önleme
+
+- Sezon başında hattı çalıştırıp bütün hatları yürüyün.
+- Hat üzerinde kazı yapmadan önce borunun yerini işaretleyin.
+- Kemirgen sorunu olan yerde boruyu gömün ya da koruyun.
+- Kışın hortum ve hatları dondan koruyun; ayrıntı için [hortum kışlatma](/hortum-kislatma) yazısına bakın.
+- Basınç düzenleyici ve filtrelerin bakımını yapın.
+- Kayıt tutun: Her yıl sezon başındaki basıncı ve sulama süresini yazın; değişimi böylece fark edersiniz.
+
+Bahçe hortumuyla sulama yapıyorsanız bağlantı yerlerindeki contaları kontrol edin, tabancayı ve bağlantıları sezon başında sızdırma açısından deneyin. SGS Premium Flex 1/2 inç 20 metre örgülü bahçe hortumu ile SGS 3 Fonksiyonlu Sulama Tabancası ürün listesinde yer alıyor; sayfalarında teknik açıklama olmadığı için burada yalnız adlarını anıyoruz.
+
+## Sulama hattı kaçak: yaygın hatalar
+
+- Kaçağı fark etmeyip sulama süresini uzatarak telafi etmek.
+- Basıncı yalnızca hat başında ölçmek.
+- Onarım sonrası hattı yıkamamak: Toprak ve pislik damlatıcıları tıkar.
+- Gömülü boruyu kürekle kazarak yaralamak.
+- Sayaç testini yalnızca bir kez yapmak; küçük kaçak sezon içinde ortaya çıkabilir.
+- Kemirgen izlerini önemsememek.
+
+@sss
+S: Sulama hattı kaçak yaptığını nasıl anlarım?
+C: Sulama sırasında basınç düşer, toprağın bir bölümü sürekli ıslak ya da çamurlu kalır, uçtaki bitkilere su gitmez ve sayaçta beklenenden fazla su görünür. Tüm musluklar kapalıyken sayaç dönüyorsa gizli kaçak vardır.
+
+S: Kaçağın yerini nasıl bulurum?
+C: Hattı bloklara ayırıp vanaları sırayla çalıştırın, hat boyunca yürüyüp ıslak nokta ve fıskiye arayın. Basıncı hattın başında ve ucunda ölçün; MSU Extension göstergelerin giriş ve uç noktalara takılmasını önerir.
+
+S: Ani basınç düşüşü her zaman kaçak mı demektir?
+C: Hayır. MSU Extension ani basınç düşüşünün kaçağa, tıkalı filtreye ya da pompa sorununa işaret edebileceğini belirtir. Önce filtreyi ve pompayı kontrol edin, sonra hattı yürüyün.
+
+S: Onarımdan sonra neden hattı yıkamalıyım?
+C: UGA kontrol listesi, kaçaklar onarıldıktan sonra sistemin yeniden yıkanmasını önerir. Yıkama, kopan yerden hatta girmiş toprak ve pisliği atar ve damlatıcıların tıkanmasını önler.
+### YAZI
+slug: ciftci-mobil-uygulamalari-hava-don-uyarisi-ve-hal-fiyati-takibi
+baslik: Çiftçi Mobil Uygulamaları: Hava, Don Uyarısı ve Hal Fiyatı Takibi
+yayin: 2027-04-24 16:40
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: çiftçi mobil uygulamaları
+seo_baslik: Çiftçi Mobil Uygulamaları: Hava, Don, Hal Fiyatı
+seo_aciklama: Çiftçi mobil uygulamaları hangi işe yarar? Meteoroloji hava ve zirai don uyarıları, Hal Kayıt Sistemi fiyat takibi, kayıt defteri ve güvenli uygulama seçimi.
+ozet: Çiftçi ve bahçıvan için telefon üç işte işe yarar: hava ve zirai don uyarısını takip etmek, hal fiyatlarını izlemek ve üretim kayıtlarını tutmak. Resmî kaynaklar (Meteoroloji, Hal Kayıt Sistemi) ücretsiz ve güvenilir başlangıçtır. Ticari uygulamalarda kaynak, izin ve veri güvenliği kontrol edilmelidir.
+etiketler: çiftçi mobil uygulamaları, zirai don uyarısı, hal fiyatları, hava durumu, MGM, Hal Kayıt Sistemi, tarım kayıt defteri
+gorsel: bekliyor
+gorsel_alt: Tarla kenarında telefon ekranında hava tahmini ve fiyat tablosuna bakan çiftçi
+urunler: hasturk-kati-solucan-gubresi, hg-bol-verimli-sebze-topragi, bitki-topragi-ozel-karisim-20-lt
+kisaca: Çiftçi mobil uygulamaları arasında en güvenilir başlangıç resmî kaynaklardır: Meteoroloji'nin hava durumu ve zirai don uyarıları ile Ticaret Bakanlığı'nın Hal Kayıt Sistemi fiyat sayfaları. Kayıt tutmak ve sulama hesabı için ek uygulamalar kullanılabilir; izin, kaynak ve veri güvenliğine bakın.
+@govde
+Sabah erkenden tarlaya çıkmadan önce telefona bakmak, çoğu çiftçi için artık alışkanlık. Ama hangi ekrana bakıldığı önemlidir: Her hava durumu ekranı zirai donu göstermez, her fiyat ekranı hal fiyatı demek değildir. Çiftçi mobil uygulamaları üç ana işe yarar: hava ve zirai don uyarısını takip etmek, hal fiyatlarını izlemek ve üretim kayıtlarını tutmak. Aşağıda resmî kaynaklardan başlayarak her işin nasıl yapılacağını, ticari uygulamalarda neye bakılacağını ve sık yapılan hataları anlatıyoruz. Uygulama adı vermiyoruz, çünkü kaynak sayfalar değişir; resmî kuruluşların sitelerini kaynak gösteriyoruz.
+
+## Çiftçi mobil uygulamaları: hangi iş için ne?
+
+| İhtiyaç | Kaynak | Ne verir | Dikkat |
+|---|---|---|---|
+| Hava ve uyarı | Meteoroloji Genel Müdürlüğü | Tahmin, zirai don ve diğer uyarılar | Uyarının kapsadığı il ve geçerlilik süresini okuyun |
+| Zirai don | MGM Zirai Don Uyarı Sistemi | Don riski olan günler, risk haritaları | Bahçenin mikroklimasını ayrıca düşünün |
+| Hal fiyatı | Hal Kayıt Sistemi | Ürün bazında ortalama fiyat, miktar | Satış fiyatı değil toptan hal verisidir |
+| Kayıt defteri | Telefon notu ya da uygulama | Parsel, ilaçlama, hasat kayıtları | Yedek alın |
+| Sulama hesabı | Hesap uygulaması | Litre, süre, debi | Girdileri kendiniz doğrulayın |
+
+## Hava ve zirai don uyarısı
+
+Meteoroloji Genel Müdürlüğü'nün Zirai Don Uyarı Sistemi, ülkede don riski taşıyan günleri önceden gösteren ilk uygulama olarak tanıtılır ve tahminini bitkinin gelişme evresindeki en düşük sıcaklığa dayandırır; çiçeklenme döneminde eksi 1 °C ve altındaki değerlerin zarar verebildiği belirtilir ([MGM, zirai don uyarı sistemi](https://www.mgm.gov.tr/files/genel/makale/ziraidon.pdf)). MGM'nin performans programı, ürettiği tahmin ve uyarıların kendi mobil uygulamaları, web sayfası ve radyo yayını aracılığıyla yetkililere ve vatandaşlara ulaştırıldığını yazar ([MGM, performans programı](https://www.mgm.gov.tr/FILES/kurumsal/yatirimfaaliyet/2025-performans-programi.pdf)). Güncel zirai don uyarıları MGM'nin tarım sayfasından da takip edilir ([MGM, zirai don uyarı sistemi sayfası](https://www.mgm.gov.tr/tarim/zdus.aspx)).
+
+Uygulamanın uyarıları bildirim olarak gönderip göndermediğini, hangi ayarın açılması gerektiğini uygulamanın kendi ayarlarında ve yardım sayfasında görürsünüz; kaynaklarda bu ayrıntı yer almadığı için yazmıyoruz. Pratikte yapılacaklar: Konumunuzu doğru ilçeye ayarlayın, uyarı bildirimini açık tutun, akşam ve sabah tahmini kontrol edin. Tahmini nasıl okuyacağınızı [don uyarısı tahmin](/don-uyarisi-tahmin-zirai-don-icin-hava-tahmini-nasil-okunur) yazısında, bölgesel son don tarihini [son don tarihi nedir](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısında anlattık.
+
+## Hal fiyatı takibi
+
+Hal fiyatları için resmî kaynak Ticaret Bakanlığı'nın Hal Kayıt Sistemi (HKS) sayfalarıdır. hal.gov.tr ana sayfasında günlük ürün fiyat listeleri, istatistikler ve sorular yer alır ([Ticaret Bakanlığı, Hal Kayıt Sistemi ana sayfası](https://www.hal.gov.tr/Sayfalar/AnaSayfa.aspx)). Ürün fiyat detayları sayfası ürün ve üretim tipine (geleneksel, iyi tarım, organik) göre ortalama fiyatı, işlem hacmini ve birimi gösterir ([Hal Kayıt Sistemi, ürün fiyat detayları](https://www.hal.gov.tr/Sayfalar/FiyatDetaylari.aspx)). Sistemin genel tanıtımı İç Ticaret Genel Müdürlüğü sayfasındadır ([Ticaret Bakanlığı, Hal Kayıt Sistemi](https://ticaret.gov.tr/ic-ticaret/bilgi-sistemleri/hal-kayit-sistemi-hks)). e-Devlet'te de fiyat bilgisi sorgulama hizmeti bulunur ([e-Devlet, fiyat bilgisi sorgulama](https://www.turkiye.gov.tr/gumruk-ve-ticaret-fiyat-bilgisi-sorgulama)); hizmetin güncel durumunu sayfadan kontrol edin.
+
+Hal fiyatını doğru okuyun: Bu, hal ortalamasıdır; sizin üretici fiyatınız ya da pazar fiyatınız değildir. Kalite, ambalaj, bölge ve zamanla fark çıkar. Fiyatı bir yön göstergesi olarak kullanın: Hangi ürünün fiyatı yükseliyor, hangi dönemde düşüyor? Hasat ve satış zamanlamasını bu eğilime göre planlayın. Ürünün depoda nasıl saklanacağı da zamanlamayı etkiler; [ürün depolama koşulları](/urun-depolama-kosullari-sebze-ve-meyve-icin-sicaklik-ve-nem-tablosu) yazısına bakın.
+
+## Kayıt defteri ve hesap araçları
+
+Kayıt tutmak iyi tarım uygulamalarının temelidir. Hangi parsele hangi gün neyin yapıldığını telefonda not etmek bile işe yarar: gübreleme, sulama, ilaçlama, hasat. Kayıt hem verim analizinde hem de ihracat, sertifika ya da denetim sürecinde istenir. [İyi tarım uygulamaları](/iyi-tarim-uygulamalari) yazısı kayıt alışkanlığını anlatır. Sulama süresi, litre ve debi hesapları için hesap uygulamaları kullanıyorsanız sonuçları bir kez elle hesaplayarak doğrulayın; [su sayacı sulama hesabı](/su-sayaci-sulama-hesabi-sulama-suyu-nasil-olculur) yazısındaki litre-milimetre dönüşümü bunun için temel bilgidir.
+
+## Bitki tanıma ve teşhis uygulamaları
+
+Fotoğraftan bitki ya da hastalık tanıyan uygulamalar yardımcı olabilir ama kesin teşhis aracı değildir. Aynı belirti birkaç nedenden çıkabilir ve uygulama size ilaç önerirse bunu doğrudan uygulamayın; zirai ilaç kullanımı için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın. Uygulama cevabını bir ipucu olarak alın; bitkinin kendisine, toprağa ve sulamaya bakarak doğrulayın.
+
+## Uygulama seçerken ölçütler
+
+::: adimlar
+Kaynağa bakın | Resmî kurum mu, tanınmış bir araştırma kuruluşu mu, yoksa bilinmeyen bir geliştirici mi?
+İzinleri okuyun | Konum, kamera ve kişi izinleri uygulamanın işine uygun mu?
+Veri güvenliğini düşünün | Kayıtlarınız yedekleniyor mu, başkalarıyla paylaşılıyor mu?
+Güncelliği kontrol edin | Son güncelleme tarihi ve veri tazeliği.
+Reklam ve ücreti inceleyin | Ücretsiz mi, hangi özellikler ücretli?
+Çevrimdışı çalışmaya bakın | Tarlada her zaman bağlantı olmayabilir.
+:::
+
+Bilinmeyen kaynaklı bir uygulama size "ürününüz için hemen şunu alın" gibi yönlendirme yapıyorsa dikkatli olun; bilgi ile satış ayrı şeylerdir.
+
+## Bölgeye göre kullanım
+
+Don uyarısı İç Anadolu ve Doğu Anadolu'da ilkbahar meyve çiçeklenmesinde kritik olduğu için bu bölgelerde bildirimi mutlaka açık tutun. Ege ve Akdeniz'de turunçgil ve erkenci sebze için kısa soğuk dalgaları önem taşır. Karadeniz'de yağış ve nem tahmini (mantar hastalığı ve hasat zamanı için) öne çıkar. Hal fiyatı takibi, taze ürün satanlar ve pazar yerine ürün götürenler için daha önemlidir; kendi tüketimi için yetiştirenler için ikinci planda kalır.
+
+## Telefonda düzen kurmak
+
+Çiftçi mobil uygulamaları kalabalıklaşınca asıl iş kaybolur; bu yüzden telefonda küçük bir düzen kurun. Ana ekrana yalnızca günlük kullandığınız üç şeyi koyun: hava ve don uyarısı, hal fiyatı sayfası ve kayıt defteri. Bildirimleri sınırlandırın: Zirai don uyarısı açık, reklam ve tanıtım bildirimi kapalı olsun. Kayıtlarınızı haftada bir bulut yedeğine ya da bilgisayara aktarın; telefon kaybolursa sezon kayıtları gitmesin. Tarlada internet zayıfsa sabah evde tahmini ve uyarıyı okuyup ekran görüntüsü alın. Çiftçi mobil uygulamaları araçtır; kararı yine siz verirsiniz. Uyarı sizin bahçenizin tam sıcaklığını değil bölgenin riskini söyler; bu yüzden kendi termometrenizle doğrulayın. Aile ya da ortak çalışanlarla paylaşılan bir kayıt defteri kullanıyorsanız kimin neyi gördüğünü ve düzenleyebildiğini kontrol edin.
+
+## Sık yapılan hatalar
+
+- Genel hava durumu uygulamasını zirai uyarı kaynağı sanmak.
+- Hal fiyatını pazarda alacağınız fiyat sanmak.
+- Uyarının il ve geçerlilik tarihini okumadan işlem yapmak.
+- Uygulamadan gelen ilaç önerisini ziraat mühendisine sormadan uygulamak.
+- Kayıtları tek telefonda tutup yedeklememek.
+- Her uygulamaya konum ve kişi izni vermek.
+
+@sss
+S: Çiftçi mobil uygulamaları arasında hangileri güvenilir?
+C: En güvenilir başlangıç resmî kaynaklardır: Meteoroloji Genel Müdürlüğü'nün hava ve zirai don uyarıları ile Ticaret Bakanlığı'nın Hal Kayıt Sistemi. Ticari uygulamalarda kaynak, izin ve veri güvenliğini kontrol edin.
+
+S: Zirai don uyarısını nereden takip ederim?
+C: MGM'nin Zirai Don Uyarı Sistemi sayfasından ve MGM'nin kendi mobil uygulamalarından. Uyarının kapsadığı il, geçerlilik süresi ve beklenen şiddeti okuyun. Bildirim ayarını uygulamanın içinde kontrol edin.
+
+S: Hal fiyatını nasıl görürüm?
+C: Ticaret Bakanlığı'nın Hal Kayıt Sistemi sayfasında (hal.gov.tr) ürün fiyat detayları yer alır; ortalama fiyat, hacim ve birim görünür. Bu hal ortalamasıdır, sizin satış fiyatınız değildir.
+
+S: Hastalık tanıyan uygulamanın önerisini uygulayabilir miyim?
+C: Doğrudan uygulamayın. Fotoğraftan teşhis ipucu verir ama kesin değildir. İlaç ve doz konusunda ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın.
+### YAZI
+slug: tohum-izolasyon-mesafesi-capraz-tozlasmayi-onlemek
+baslik: Tohum İzolasyon Mesafesi: Çapraz Tozlaşmayı Önlemek
+yayin: 2027-04-24 19:30
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: tohum izolasyon mesafesi
+seo_baslik: Tohum İzolasyon Mesafesi: Çapraz Tozlaşma
+seo_aciklama: Tohum izolasyon mesafesi kaç metre olmalı? Mısır, salatalık ve kabakta çapraz tozlaşmayı önleyen aralıklar, torbalama, zaman ayrımı ve elle tozlaştırma.
+ozet: Kendi tohumunu toplayan bahçıvanın aynı türün farklı çeşitlerini çapraz tozlaşmadan koruması gerekir. Kaynaklar mısır için yüzlerce metreden kilometrelere, kabakgillerde birkaç yüz metreden daha fazlasına kadar değişen mesafeler verir. Mesafe yoksa torbalama, ağ ve zaman ayrımı kullanılır.
+etiketler: tohum izolasyon mesafesi, çapraz tozlaşma, tohum saklama, ata tohumu, mısır, kabak, salatalık
+gorsel: bekliyor
+gorsel_alt: Bahçede iki kabak çeşidi arasında gerilmiş tül ağ ve torbalanmış kabak çiçeği
+urunler: ayas-beyaz-bodur-domates-ata-tohumu-50-adet, kocas-patlicani-ata-tohumu-50-adet, arzuman-siyah-kabak-tohumu
+kisaca: Tohum izolasyon mesafesi, aynı türün iki çeşidi arasında polen alışverişini önleyen uzaklıktır. Rüzgârla tozlaşan mısırda yüzlerce metre ile kilometreler, böcekle tozlaşan kabakgillerde genellikle birkaç yüz metre önerilir; kaynaklar arasında büyük fark vardır. Mesafe yoksa çiçekleri torbalayıp elle tozlaştırın ya da çiçeklenme zamanlarını ayırın.
+@govde
+Kendi tohumunu toplamak isteyen biri, bahçesinde iki kabak çeşidi yetiştiriyorsa ertesi yıl alacağı tohumdan ne çıkacağını bilemez. Aynı türden iki yazlık kabak çeşidi arı aracılığıyla polen alışverişi yapabilir ve tohumlardan karışık bitkiler çıkar. Tohum izolasyon mesafesi bu karışımı önleyen uzaklıktır; ama kaynaklar bu mesafe için büyük farklılıklar verir. Aşağıda hangi bitkide ne kadar mesafe gerektiğini, mesafe yoksa ne yapılacağını ve evde kolay yöntemleri anlatıyoruz.
+
+## Tohum izolasyon mesafesi neden gerekir?
+
+Tohum alacağınız bitkinin meyvesi, ona gelen polene göre oluşur ama tohumun içindeki embriyo hem anneden hem babadan gelir. Aynı türün farklı çeşitleri birbirini tozlarsa, o yıl yediğiniz meyve değişmez, ama ertesi yıl o tohumdan çıkan bitki karışık özellikler gösterir. Kendi tohumunu saklayanlar için bu önemli bir sorundur. Tozlaşma türlerini daha geniş anlatan [tozlaşma çeşitleri](/tozlasma-cesitleri-kendine-ve-capraz-tozlasma) yazısını okuyabilirsiniz; tohum toplama ve saklamanın genel adımları için [ata tohumu saklama](/ata-tohumu-saklama) yazısı rehberdir.
+
+## Tohum izolasyon mesafesi: kaynaklara göre aralıklar
+
+Üniversite yayım servislerinin önerileri birbirinden çok farklıdır. UC Master Gardeners'ın tohum mesafe çizelgesi ([UC Master Gardeners Placer County, tohum mesafe çizelgesi](https://ucanr.edu/site/uc-master-gardeners-placer-county/article/seed-distance-chart)), Güney Dakota Üniversitesi'nin kabakgil rehberi ([SDSU Extension, kabak, salatalık, kavun tohumu saklama](https://extension.sdstate.edu/saving-seed-pumpkins-squash-cucumbers-melons-and-gourds)), Florida Üniversitesi'nin açıktozlaşan tohum rehberi ([UF/IFAS, açık tozlaşan tohum üretimi](https://ask.ifas.ufl.edu/publication/EP647)) ve Illinois Üniversitesi'nin tohum saklama kılavuzu ([Illinois Extension, tohum saklama](https://extension.illinois.edu/sites/default/files/how_to_save_seeds_062021.pdf)) farklı değerler verir.
+
+| Bitki | Tozlayıcı | Kaynaklarda verilen aralık (yaklaşık) |
+|---|---|---|
+| Mısır | Rüzgâr | 300 m (UC yayını, hiç çaprazlama istemeyenler için; bir miktar çaprazlama kabulüyle 75 m); 800 m (UC çizelgesi); 1,6 km (Montana, Arizona); 3,2 km (WSU) |
+| Salatalık | Böcek | 60 m'den 400 m'ye (UC); 245-800 m (Florida); örnekte 490 m (Georgia) |
+| Kabak ve kabakgiller | Böcek | 400 m (UC, tür bazında); 800 m (Arizona); 0,8-1,6 km (SDSU); 245-800 m (Florida) |
+
+Bu rakamlar Amerikan kaynaklarından çevrilmiş yaklaşık değerlerdir. Florida kaynağı mesafelerin öneri niteliği taşıdığını, tozlayıcı sayısı ve çiçeklenme zamanı gibi yerel etkenlerin riski değiştirebileceğini belirtir. Yani tek doğru sayı yoktur; riski kabul edilebilir seviyede tutmak için kaynak aralığının üst sınırına yakın mesafe güvenlidir.
+
+## Hangi bitkilerde sorun az?
+
+Domates, fasulye, bezelye ve marul gibi kendine tozlaşan bitkilerde çaprazlama riski düşüktür; ama arı ziyaretiyle az miktarda polen taşınabilir. Güvenli olmak için farklı çeşitleri birbirinden birkaç metre uzağa dikmek ve tohumluk bitkileri seçmek yeter. Kabakgillerde sorun daha büyüktür: Illinois Üniversitesi, farklı türlerin (örneğin kabak ile salatalık) genellikle çaprazlaşmadığını, ama aynı tür içindeki çeşitlerin çaprazlaşabildiğini belirtir. Yani iki kabak çeşidi birbirini tozlar, kabak ile salatalık tozlaşmaz. Kendi bahçenizde hangi türden kaç çeşit yetiştirdiğinizi yazıp listeleyin. Mısır için blok ekim ve rüzgâr konusunu [mısır ekimi ve blok ekim](/misir-ekimi-blok-ekim-neden-tozlasmayi-artirir) yazısı anlatır.
+
+## Mesafe yoksa: üç yöntem
+
+Küçük bir bahçede yüzlerce metre mümkün değildir. Güney Dakota kaynağı mesafe sağlanamadığında bitkileri ağla ya da kafesle kapatmayı, çiçekleri torbalayıp elle tozlaştırmayı önerir. Florida kaynağına göre çiçeklenme zamanını kaydırmak (çeşitleri farklı tarihlerde ekmek) da bir alternatiftir; bina ve ağaç gibi engeller de mesafeyi kısaltabilir (mısırda engellerin iyi çalışmadığı belirtilir).
+
+::: adimlar
+Akşamdan hazırlık | Ertesi gün açacak erkek ve dişi çiçeği (kabakta) belirleyin ve tomurcuğu bantla ya da torbayla kapatın.
+Sabah toplayın | Erkek çiçeği alıp taç yaprağını çıkarın.
+Elle tozlaştırın | Erkek çiçeğin polenini dişi çiçeğin tepesine sürün.
+Yeniden kapatın | Dişi çiçeği yeniden torbalayın ve etiketleyin.
+Meyveyi işaretleyin | Etiketle tohum için ayrılan meyveyi belirleyin.
+Meyve olgunlaşınca tohum alın | Tohumu olgun meyveden alıp kurutun.
+:::
+
+Elle tozlaştırma kabakgillerde kolaydır, çünkü erkek ve dişi çiçekler ayrıdır. Dişi çiçeğin altında küçük bir meyve taslağı bulunur. Serada elle tozlaşma ayrıntısı için [serada tozlaşma](/serada-tozlasma) yazısına bakın.
+
+## Zaman ayrımı ve komşu bahçe
+
+Mesafe sorununun bir parçası da komşu bahçelerdir. Komşunuz aynı türden farklı çeşit yetiştiriyorsa polen oradan da gelebilir. Komşunuzla konuşup hangi çeşidi ekeceğini sorun; çeşitleri aynı yıl farklı zamanlarda ekmek ya da yılları ayırmak (bir yıl biri, ertesi yıl diğeri) kolay bir çözümdür. Tohum takası yapan topluluklarda çeşit haritası paylaşmak da karışmayı azaltır; [tohum takası](/tohum-takasi) yazısı bunu anlatıyor.
+
+[ürün:ayas-beyaz-bodur-domates-ata-tohumu-50-adet, kocas-patlicani-ata-tohumu-50-adet]
+
+Yerel çeşit tohumu isteyenler için Ayaş Beyaz Bodur Domates Ata Tohumu (50 adet) ve Koçaş Patlıcanı Ata Tohumu (50 adet) ürün açıklamasında Tarım ve Orman Bakanlığı güvencesiyle TİGEM tesislerinde çoğaltılan yerel çeşitler olarak tanıtılıyor; Koçaş için hibrit olmadığı belirtiliyor. Bu iki bitki de kendine tozlaşan türler olduğu için kendi tohumunu toplamak isteyenler için görece kolay başlangıçtır.
+
+## Tohum için işaretleme ve hasat
+
+Tohumluk bitkiyi baştan seçin: Hastalıksız, tipik özellik gösteren, güçlü bitkiyi işaretleyin. Etikete çeşit adını, ekim ve tozlaşma tarihini yazın. Tohumluk meyveyi bitkide tam olgunlaştırın; kabakgilde kabuğu sertleşene, domateste aşırı olgun hâle gelene dek bekleyin. Tohumu yıkayıp kurutun ve çeşit adıyla etiketleyin. Çimlenme gücü ve saklama süreleri için [tohumlar kaç yıl saklanır](/tohumlar-kac-yil-saklanir) yazısı yararlıdır.
+
+## Kendi bahçeniz için pratik karar
+
+Hangi mesafeyi seçeceğinizi şu sırayla düşünün. Önce tohum toplayacağınız türü belirleyin: Kendine tozlaşan türlerde (domates, fasulye, bezelye, marul) kaygı azdır. Sonra bahçenizde aynı türden kaç çeşit yetiştirdiğinize bakın. Tek çeşit yetiştiriyor ve komşuda aynı tür yoksa tohum izolasyon mesafesi sorun değildir. İki çeşit yetiştirecekseniz bu yıl yalnızca birinden tohum alın, diğerini sofra için kullanın; ertesi yıl rolleri değiştirin. Gerçekten birkaç çeşidin saf tohumunu istiyorsanız torbalama ve elle tozlaştırma en güvenilir yoldur. Tohum izolasyon mesafesini kaynak aralığının alt ucuna göre seçerseniz çaprazlama riski kalır; üst ucuna göre seçerseniz risk çok azalır. Bahçenin kenarında sık çalı ya da bina varsa polenin taşınma yönünü de gözleyin. Sonuçları not edin: Hangi çeşit tohumundan ertesi yıl saf bitki çıktı? Bu kayıt, sizin bahçenize özgü bir izolasyon rehberi olur.
+
+## Sık yapılan hatalar
+
+- Aynı bahçede iki kabak çeşidini yan yana dikip tohum almak.
+- Mısırı çeşit çeşit tek tek sıralar hâlinde dikmek: Tozlaşma karışır.
+- Komşu bahçeyi hesaba katmamak.
+- Elle tozlaştırdığınız çiçeği yeniden torbalamamak.
+- Tohumluk meyveyi etiketlemeyip karıştırmak.
+- Kaynakların mesafelerini birebir "kesin" sayıp tek sayıya güvenmek.
+
+@sss
+S: Tohum izolasyon mesafesi neden önemlidir?
+C: Aynı türün farklı çeşitleri birbirini tozlarsa, o meyveden aldığınız tohum ertesi yıl karışık özellikli bitki verir. Kendi tohumunu saklayanlar için çeşidin saf kalması izolasyona bağlıdır.
+
+S: Mısır için ne kadar uzaklık gerekir?
+C: Kaynaklara göre çok değişir: Bir UC yayını yaklaşık 300 m (bir miktar çaprazlama kabulüyle 75 m) önerir; Montana ve Arizona 1,6 km, WSU 3,2 km verir. Mısır rüzgârla tozlaştığı için mesafe büyüktür.
+
+S: Kabak ile salatalık birbirini tozlar mı?
+C: Illinois Extension farklı türlerin genellikle çaprazlaşmadığını, aynı türün çeşitlerinin ise çaprazlaştığını belirtir. Yani iki kabak çeşidi birbirini etkiler, kabak ve salatalık etkilemez. İki salatalık çeşidi birbirini tozlar.
+
+S: Küçük bahçede mesafe sağlayamazsam ne yapmalıyım?
+C: Güney Dakota Üniversitesi bitkileri ağla ya da kafesle kapatmayı, çiçekleri torbalayıp elle tozlaştırmayı önerir. Çeşitleri farklı zamanlarda çiçek açacak şekilde ekmek de bir alternatiftir.
+
+### SORU
+yayin: 2027-04-24 15:20
+kategori: bahce-ipuclari
+baslik: Damla hattında bir köşe hep ıslak kalıyor, kaçak olabilir mi?
+metin: Damla sulama hattının geçtiği yerde bir köşe sulamadan sonra bile saatlerce çamurlu kalıyor. Kaçak olabilir mi?
+@cevap Ahmet Sacit Çelik | 2
+Olabilir. Sürekli ıslak ya da çamurlu kalan nokta gömülü hatta sızıntı belirtisidir. Önce bütün muslukları kapatıp sayaçta hareket var mı bakın. Sonra hattı bölümlere ayırıp o bölümde basıncı ölçün ve hat boyunca yürüyün. Kazarken boruyu yaralamamak için kademeli ilerleyin. Onarımdan sonra hattı akıtıp temizlemeyi unutmayın.
+
+### SORU
+yayin: 2027-04-24 20:40
+kategori: bahce-ipuclari
+baslik: İki kabak çeşidi aynı bahçede, tohum alabilir miyim?
+metin: Bahçemde iki ayrı yazlık kabak çeşidi var. Hangisinin tohumunu alırsam saf çıkar, birbirlerini tozlar mı?
+@cevap Muhammed Hamza Çelik | 2
+Aynı türün çeşitleri birbirini tozlar; Illinois Extension da bunu belirtir. Yani iki yazlık kabak çeşidinden alacağınız tohum karışık çıkabilir. Çiçekleri akşamdan torbalayıp sabah elle tozlaştırıp yeniden torbalarsanız saf tohum alırsınız. Ağ ile kapatmak ya da çeşitleri farklı zamanlarda çiçek açacak şekilde ekmek de seçenektir. Bu yıl yalnız birinden tohum almayı da düşünün.

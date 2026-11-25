@@ -1,0 +1,472 @@
+### YAZI
+slug: pompayla-sivi-gubre-uygulamasi
+baslik: Pompayla Sıvı Gübre Uygulaması: İlaçlama Pompasıyla Yaprak ve Kök Besleme
+yayin: 2027-03-20 09:10
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: pompayla sıvı gübre uygulaması
+seo_baslik: Pompayla Sıvı Gübre Uygulaması: Yaprak ve Kök
+seo_aciklama: Pompayla sıvı gübre uygulaması nasıl yapılır? Yaprak ve kök bölgesine besleme, uygun saat, seyreltme, ayrı pompa kullanımı ve yanık riskine karşı adımlar.
+ozet: Pompayla sıvı gübre uygulaması, besini yaprağa ve kök bölgesine eşit dağıtmanın pratik yoludur. Hangi sıvı gübrelerin pompayla verileceğini, saat ve seyreltme kurallarını, temizliği ve yanık riskini anlattık.
+etiketler: sıvı gübre, yaprak gübresi, ilaçlama pompası, kök bölgesi besleme, yaprak yanığı, sıvı solucan gübresi
+gorsel: bekliyor
+gorsel_alt: Sırt tipi pompayla bitkilerin yaprağına ince sis hâlinde sıvı besin uygulanması
+urunler: hasturk-sivi-solucan-gubresi, hasturk-humix-sivi-humik-asit, delta-5-lt-basincli-ilaclama-pompasi-k-81
+kisaca: Pompayla sıvı gübre uygulaması için sıvı gübre etiketteki oranda seyreltilir, serin saatte (sabah erken ya da akşam) ve ince sisle uygulanır. Yaprak beslemesi toprak gübrelemesinin yerine geçmez, onu destekler. Gübre için ilaçlamada kullanılan pompadan ayrı bir pompa tercih edin ve her kullanımdan sonra bol suyla yıkayın.
+@govde
+Bahçesi ya da sebze yatağı büyüyen kişi bir noktada şunu fark eder: Her bitkinin dibine kovayla gübre taşımak yorucu ve düzensizdir. Sırt pompası ya da basınçlı el pompası bu işi hızlandırır; besini aynı oranda yaprağa ve toprağa dağıtır. Ancak pompayla sıvı gübre uygulaması, yanlış yapıldığında yaprak yanığına ve pompanın bozulmasına yol açar. Doğru saat, doğru seyreltme ve doğru ekipman bu işin üç temelidir.
+
+## Pompayla sıvı gübre uygulaması neden tercih edilir?
+
+Sıvı gübre bitkiye hızlı ulaşır; çözünmüş besin hem kök hem yaprak tarafından alınabilir. Pompa, bu sıvıyı geniş bir alana eşit bir sisle dağıtmayı sağlar. Sebze yatağı, saksı sırası ya da küçük bir meyve bahçesinde kovayla tek tek sulamaya göre hem zaman hem emek tasarrufu yapar. Yaprak yüzeyinden besleme özellikle çiçeklenme, meyve tutumu ve hızlı büyüme dönemlerinde işe yarar.
+
+Ama pompa her gübre için uygun değildir. Granül ya da suda tamamen çözünmeyen gübreler memeyi tıkar. Pompayla yalnızca tam çözünen, süzülmüş sıvı ürünler verilir. Etiketteki "yaprağa uygulanabilir" ya da "damla sulamaya uygun" ibaresi bu açıdan yol göstericidir.
+
+## Yaprak beslemesi toprak gübresinin yerine geçmez
+
+Missouri Üniversitesi'nin [yaprak gübreleme yazısı](https://ipm.missouri.edu/mpg/2019/4/foliarFeeding) ve Connecticut Üniversitesi'nin yaprak gübreleme sayfası, yaprak beslemesinin düzenli toprak gübrelemesinin yerine geçmediğini, onu tamamlayan bir yöntem olduğunu belirtir. Washington Eyalet Üniversitesi (WSU) yaprak yoluyla en uygun besinlerin mikro elementler olduğunu ve yaprak sprayının toprakta besin sorunları için geçici bir çözüm sunduğunu yazar. Bu yüzden önce toprağın temel besinlerini sağlamak, pompayla beslemeyi destek olarak kullanmak doğrudur.
+
+Yaprak beslemesi için verimlilik iddiaları tartışmalıdır: Bazı kaynaklar yaprak yoluyla çok yüksek besin kullanım verimi bildirirken, WSU yaprağa gübrelemenin toprağa uygulamadan çok daha etkili olduğu iddiasını doğru bulmaz. Bu yüzden "yapraktan daha çok emilir" gibi vaatlere temkinli yaklaşın.
+
+## Doğru saat: serin ve rüzgârsız
+
+Iowa Eyalet Üniversitesi, yüksek sıcaklık beklenirken yaprak gübrelemesinden kaçınmayı, bunun yerine akşam uygulamayı önerir. Terim olarak yaklaşık 80–85 °F (27–29 °C) altı düşük tuzlu ürünler için güvenli sayılır. Çünkü sıcakta su hızla buharlaşır, gübre tuzu yaprakta kalır ve yanık oluşturur. Bu nedenle sabah erken ya da akşamüstü, rüzgârsız bir zaman seçin.
+
+::: adimlar
+Etiketi okuyun | Ürünün yaprak ya da kök uygulamasına uygun olduğunu, seyreltme oranını doğrulayın.
+Temiz pompa hazırlayın | İlaçlamada kullanılmamış, ayrı bir pompa seçin; içinde kalıntı olmasın.
+Seyreltin | Temiz suyla etiketteki orana göre seyreltin, iyice karıştırın.
+Denemeyi yapın | Yeni ürünü birkaç yaprakta deneyin, bir iki gün yanık belirtisi arayın.
+İnce sisle uygulayın | Sabah erken ya da akşam, yaprak altı ve üstünü hafifçe ıslatın.
+Yıkayın | Pompayı temiz suyla birkaç kez yıkayıp boşaltın.
+:::
+
+## Seyreltme: zayıf ve sık, güçlü ve seyrek olmaktan iyi
+
+Yanık, derişimden gelir. Su buharlaşırken gübre tuzu yaprakta birikir ve dokuyu yakar. UConn ve diğer yayım kaynakları, daha zayıf ama daha sık uygulamayı önerir. Etiketteki dozu aşmayın; yaprak beslemesinde etiketteki oranın hatta alt sınırı tercih edilir. Hangi ürünün ne kadar seyreltileceği üreticinin etiketine ve ürün bilgisine göre belirlenir; burada ürün adı ve oran vermiyoruz.
+
+Sıvı solucan gübresi ve sıvı humik asit gibi organik ürünlerin kullanımı için [sıvı solucan gübresi nasıl kullanılır](/sivi-solucan-gubresi-nasil-kullanilir) yazısı adımları anlatıyor. Aşırı gübre belirtisi olan yanık için [gübre yakması](/gubre-yakmasi) yazısı çözümleri sıralıyor.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+## Kök bölgesine pompayla besleme
+
+Pompayı yalnız yaprak için değil, kök bölgesine yakın uygulamada da kullanabilirsiniz. Nozulu sıvıyı bitkinin dibine ve kök bölgesine akıtacak şekilde ayarlayın; ince sis yerine kalın bir akış kullanın. Toprak nemliyken uygulamak, besinin kök bölgesine yayılmasını kolaylaştırır. Kuru ve çatlak toprakta sıvı hızla akıp gidebilir; önce hafifçe sulayıp sonra beslemek daha verimlidir. Bu yöntem, kovayla sulamaya göre eşit dağılım ve daha az emek sağlar; büyük bir alanda ya da uzun yatak sıralarında en çok işe yarar.
+
+## Ayrı pompa kullanın
+
+Gübre için kullanılan pompa, bitki koruma amaçlı ilaçlamada kullanılan pompayla aynı olmamalıdır. İlaç kalıntısı bitkiye gübreyle birlikte gidebilir; gübre kalıntısı da ilaçlamada sorun çıkarabilir. En güvenli çözüm, gübre için ayrı, işaretli bir pompa kullanmaktır. Pompanın etiketinde ya da gövdesinde "gübre" yazabilirsiniz. Karışık kullanılan pompa varsa her seferinde çok iyi yıkayın; ama ilaç kalıntısı için tam güven sağlamaz.
+
+Sıvı gübreyi ilaçla aynı tankta karıştırmak da yanlıştır. Hangi ürünlerin birlikte kullanılabileceği konusunda ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın.
+
+## Pompa bakımı: gübre tuzu aşındırır
+
+Gübre tuzları metal ve contalara zarar verir; kullanım sonrası pompayı iyice yıkamak şarttır. Tankı boşaltın, temiz suyu pompalayarak hortum ve memeyi yıkayın, memeyi çıkarıp temizleyin. Pompayı içinde gübre varken bekletmeyin; kristalleşir ve meme tıkanır. Pompanın bakım detayları için [ilaçlama pompası temizliği ve bakımı](/ilaclama-pompasi-temizligi-ve-bakimi) ve basınç sorunları için [ilaçlama pompası basınç düşmesi](/ilaclama-pompasi-basinc-dusmesi) yazıları işinize yarar.
+
+## Hangi bitkilerde dikkatli olmalı?
+
+Yaprağı tüylü ya da mumsu bitkilerde (domates, kabak, marul) yaprak beslemesi daha kolay yanık yapar. Genç fidelerde ve yeni çıkmış yapraklarda, hatta bütün yeşilliklerde daha seyreltik uygulama gerekir. Çiçek açmış bitkiye yaprak spreyi vermek, çiçeklerin kararmasına ve tozlaşmanın azalmasına yol açabilir; çiçek açma döneminde yaprak yerine kök bölgesine besleme tercih edin. Meyvesi olgunlaşmaya yakın bitkide yaprak sprey kalıntısı sorun olabilir; hasattan önce bekleme süresi bırakın.
+
+## Takvim
+
+::: takvim
+Fide dönemi: seyreltik kök besleme | 3-5
+Büyüme dönemi: 10–14 günde bir besleme | 4-7
+Çiçek ve meyve tutumu: dikkatli besleme | 5-8
+Sonbahar: besleme azaltılır | 9-10
+:::
+
+## Sık yapılan hatalar
+
+Sıcak öğle saatinde yaprak beslemesi yapmak yanığın en yaygın nedenidir. Etiketteki dozu aşmak ya da "daha çok olsun" diye derişimi artırmak ikinci hatadır. İlaçlamada kullanılan pompayla gübre vermek üçüncü hatadır. Pompayı kullanım sonrası yıkamayıp gübreyi içinde bırakmak da memeyi tıkar. Granül gübreyi pompaya koymak ve çözünmemiş parçaların memeyi bozmasına izin vermek de sık görülür. Yaprak beslemesinin toprak gübresinin yerine geçeceğini düşünmek de yanıltıcıdır; pompayla sıvı gübre uygulaması bir tamamlayıcıdır.
+@sss
+S: Sıvı gübre ilaçlama pompasıyla verilir mi?
+C: Evet, tam çözünen ve yaprağa ya da kök bölgesine uygun sıvı gübreler pompayla verilebilir. Gübre için ilaçlamada kullanılmamış ayrı bir pompa seçin, etiketteki oranı geçmeyin ve sonrasında pompayı bol suyla yıkayın.
+
+S: Yaprak gübresi ne zaman uygulanır?
+C: Sabah erken ya da akşamüstü, serin ve rüzgârsız saatte uygulanır. Sıcak saatte su çabuk buharlaşır, gübre tuzu yaprakta kalır ve yanık yapar.
+
+S: Yaprak gübresi toprak gübresinin yerini tutar mı?
+C: Hayır. Yaprak beslemesi toprak gübrelemesini destekler; özellikle mikro element eksikliklerinde geçici çözüm sağlar. Toprağın temel besinleri ayrıca karşılanmalıdır.
+
+S: Pompada gübre bırakırsam ne olur?
+C: Gübre tuzları kristalleşip memeyi ve filtreyi tıkar, metal parçaları ve contaları aşındırır. Her kullanımdan sonra pompayı temiz suyla birkaç kez yıkayıp boşaltın.
+
+### YAZI
+slug: orman-bahcesi
+baslik: Orman Bahçesi (Yenilebilir Orman) Nasıl Kurulur?
+yayin: 2027-03-20 11:35
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: orman bahçesi
+seo_baslik: Orman Bahçesi Nasıl Kurulur? Yenilebilir Orman Planı
+seo_aciklama: Orman bahçesi nasıl kurulur? Yenilebilir ormanın katmanları, tür seçimi, dikim sırası, malç ve ilk yıllarda bakım ile küçük bahçeye uyarlama adımları.
+ozet: Orman bahçesi, çoğu yenilebilir bitkiyi bir ormanın katmanlarına göre dikmektir. Katmanları, tür seçimini, dikim sırasını, malçı ve ilk yıllarda bakım yükünü anlattık; küçük bahçeye uyarlamayı da ekledik.
+etiketler: orman bahçesi, yenilebilir orman, permakültür, meyve ağacı, katmanlı bahçe, çok yıllık bitki
+gorsel: bekliyor
+gorsel_alt: Meyve ağaçları, çalılar ve yer örtücülerin katman katman büyüdüğü yenilebilir bahçe
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi, albion-cilek-fidesi-6-adet
+kisaca: Orman bahçesi, meyve ağacı, çalı, otsu bitki, yer örtücü, sarmaşık ve kök bitkilerini bir ormanın katmanlarına göre birlikte dikmektir. Çoğu bitki çok yıllık ve yenilebilir seçilir; malç, düzgün tür karışımı ve ilk yıllarda sulamayla kurulduktan sonra yıllık bakım yükü azalır.
+@govde
+Bir ormana girdiğinizde bitkiler tek sıra halinde dizilmemiştir: Üstte büyük ağaçlar, altta küçük ağaçlar, çalılar, otlar, yer örtücüler ve tırmanıcılar birbirinin içine geçer. Orman bahçesi bu düzeni evde kurmaktır; farkı, bitkilerin çoğunun yenilebilir olmasıdır. Bir yenilebilir orman kurmak her bitkiye ayrı bakmak yerine bitkilerin birbirine destek olduğu bir sistem kurmak demektir.
+
+## Orman bahçesi nedir?
+
+Florida Üniversitesi Yayım Servisi (UF/IFAS), orman bahçesini yedi birbirini tamamlayan katmanla anlatır: yüksek ağaç tepeliği, alt ağaçlar, çalılar, otsu bitkiler, yer örtücüler, kök bitkileri ve tırmanıcılar; ayrıntı için [UF/IFAS'ın arka bahçe yenilebilir orman yazısına](https://blogs.ifas.ufl.edu/manateeco/2019/09/03/backyard-food-forest/) bakabilirsiniz. Güney Dakota Eyalet Üniversitesi Yayım Servisi de [planlama yayınında](https://extension.sdstate.edu/sites/default/files/2026-06/MC-04302-v2.pdf) benzer katmanlara göre tasarım önerir.
+
+Aynı alanda birden fazla katman yetiştirmek, ışığı, suyu ve besini daha verimli kullanır. Çeşitlilik, hastalık ve zararlıların yayılmasını yavaşlatır. Ama bu dengeye ulaşmak ilk yıllarda emek ister; orman bahçesi "bir kere dik, unut" bir sistem değildir.
+
+## Katmanlar ve türler
+
+Katman ve boy değerleri kaynağa göre değişir; UF/IFAS yüksek ağaçları genellikle 30–60 feet (9–18 m), çalıları 5–15 feet (1,5–4,5 m) olarak verir. Aşağıdaki tablo, ılıman Türkiye bahçeleri için örnek türler gösterir. Kendi bölgenizde yetişen türleri fidanlıkla doğrulayın.
+
+| Katman | Boy | Örnek türler |
+|---|---|---|
+| Yüksek ağaç | 8 m ve üzeri | Ceviz, kestane, dut, erik, kiraz |
+| Alt ağaç | 3–8 m | Elma, armut, ayva, incir, nar, badem |
+| Çalı | 1–3 m | Ahududu, böğürtlen, kuşburnu, frenk üzümü, kuşkonmaz |
+| Otsu | 0,3–1 m | Nane, kekik, biberiye, adaçayı, ısırgan, kişniş |
+| Yer örtücü | 0–30 cm | Çilek, yer yoncası, kekik, mercanköşk |
+| Kök bitkileri | Toprak altı | Sarımsak, soğan, havuç, pancar, turp |
+| Tırmanıcı | Değişken | Asma, hanımeli, fasulye, bezelye, kabak |
+
+Tırmanıcıları dikkatli kullanın. Bazı çok yıllık sarmaşıklar ağaçları boğabilir; aralıklı ve kontrollü yerleştirin.
+
+## Orman bahçesi neden bahçıvana zaman kazandırır?
+
+Bir meyve bahçesinde her ağaç ayrı sulanır, ayrı gübrelenir ve çevresi ayrı temizlenir. Orman bahçesinde ise yer örtücü toprağı gölgeler, yaprak dökümü malç sağlar, baklagiller azot bağlar ve çiçekli bitkiler tozlaşan böcekleri çeker; böylece sistem kendi kendine büyük ölçüde destek verir. Üstelik tek bir hasat dönemi yerine yıl boyu değişik ürün alırsınız: İlkbaharda yeşillik ve çilek, yazın meyve, sonbaharda ceviz ve kök bitkileri. Ama bu zenginliğin bedeli plan ve sabırdır. İlk yıl ürün beklemeyin; üç dört yılda sistem oturur.
+
+## Önce yeri ve ışığı hesaplayın
+
+Her katmanın ışık ihtiyacı farklıdır. Yüksek ağaç tepeliğini güneşin en iyi geldiği yöne göre yerleştirin, böylece alt bitkileri gölgelemesin: Genelde kuzey tarafına uzun ağaçlar, güney tarafına alçak bitkiler gelir. Yarı gölgede yaşayan bitkileri (nane, ahududu, yaban mersini) uzun ağaçların altına koyun. Yer örtücü ve kök bitkileri güneşli açıklıklara dikilir.
+
+Toprağı tanıyın: Orman bahçesi toprağın canlılığına dayanır. Yeni bir alanda toprak analizi yaptırmak, pH ve besin durumunu gösterir. Örnek alma için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakabilirsiniz. Sıkışık ve fakir toprağı önceden malç ve organik maddeyle iyileştirmek, yıllık bakımı azaltır.
+
+[ürün:hg-fidan-topragi]
+
+## Kurulum: adım adım
+
+::: adimlar
+Alanı ölçüp planlayın | Bahçenin güneş haritasını çıkarın, ağaçların yetişkin boy ve genişliklerini hesaplayın.
+Zemini hazırlayın | Otu bastırın, toprağa organik madde ve malç serin, drenajı kontrol edin.
+Ağaçları dikin | Önce yüksek ve alt ağaçları yetişkin aralığıyla dikin; bu iskelettir.
+Çalıları ekleyin | Ağaç aralarına ve güneşli kenarlara çalıları yerleştirin.
+Otsu ve yer örtücü katmanı doldurun | Açıkta kalan toprağı nane, kekik, çilek gibi bitkilerle kapatın.
+Tırmanıcıları kontrollü ekleyin | Destek ağacı ya da kemer yanına dikin.
+Malçlayıp sulayın | Hepsini 5–10 cm malçla örtün, ilk iki yıl düzenli sulayın.
+:::
+
+Fidan dikimi için [tüplü fidan dikimi](/tuplu-fidan-dikimi) ve [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazıları adımları detaylıca anlatıyor.
+
+## Tür eşleşmesi: birbirine yardım eden bitkiler
+
+Orman bahçesinin mantığı bitkilerin birbirine faydasıdır. Baklagiller (fasulye, bezelye, yonca) havadaki azotu toprağa bağlar ve komşu bitkilere yarar. Aromatik bitkiler (nane, kekik, adaçayı) bazı zararlıları uzak tutabilir ve tozlaşan böcekleri çeker. Derin köklü bitkiler (karahindiba, kasnı) toprağın alt katmanındaki besini yukarı taşır. Bu etkileşimlerin kapsamı için [arkadaş bitkiler](/arkadas-bitkiler) yazısı pratik eşleşmeleri gösteriyor. Bitki köklerinin mantarlarla ortaklığı için [mikoriza nedir](/mikoriza-nedir) yazısına bakabilirsiniz.
+
+## Bölgeye göre farklılıklar
+
+Akdeniz ve Ege kıyılarında incir, nar, zeytin, bağ ve narenciye gibi sıcak seven türler üst katmanı oluşturabilir. Marmara ve Karadeniz'de elma, armut, ceviz, kestane ve fındık yaygındır. İç Anadolu'da kış soğuğuna ve yaz kuraklığına dayanan erik, kayısı, badem, dut ve ceviz seçilir; suyu az olan bölgelerde damla sulama ve kalın malç şarttır. Doğu Anadolu'da soğuğa dayanıklı kiraz, vişne, elma ve yaban mersini gibi çalılar öne çıkar. Hangi çeşidin sizin bölgenizde yaşayacağını yerel fidanlıktan öğrenmek, yatırımı korur.
+
+## Küçük bahçeye uyarlama
+
+Orman bahçesi büyük arazi gerektirmez. Elli metrekarelik bir bahçeye tek bir alt ağaç (elma ya da nar), çevresine iki üç çalı (ahududu, frenk üzümü), altına nane ve kekik, daha altına çilek dikmek bile üç katmanlı küçük bir sistem kurar. Küçük bahçe için bodur meyve ağaçları uygundur; seçim için [bodur meyve ağaçları](/bodur-meyve-agaclari) yazısına bakın. Aynı mantık balkonda büyük saksılarla da küçük ölçekte uygulanabilir.
+
+## İlk yıllar ve bakım
+
+İlk iki yıl bitkiler kök salarken sulama düzenli olmalıdır. Açıkta kalan toprak yabani ot alır; malç bu yüzden vazgeçilmezdir. Üçüncü yıldan itibaren sistem kendini taşımaya başlar: Yer örtücü toprağı kapatır, yaprak dökülmesi organik madde sağlar. Hasat sırasında ihtiyaç fazlası bitkileri kesip yerinde bırakmak (kes ve bırak) malç ve besin sağlar. Zamanla bazı bitkiler yayılıp diğerlerini bastırır; yılda bir kez dengeyi gözden geçirip fazla yayılanları budayın.
+
+## Sık yapılan hatalar
+
+Ağaçları yetişkin boyunu hesaplamadan sık dikmek, beş yıl sonra gölgeli ve rekabetçi bir kalabalık oluşturur. Bütün katmanları bir anda dikip bakmamak, ilk yaz kuraklığında kayıp getirir. Yabancı ve istilacı türleri denemeden yaymak, bahçenin yarısını kaplamasına yol açar. Çıplak toprağı açıkta bırakmak yabani ot yapar. Orman bahçesi kurarken hayal edilen "bakımsızlık" sonradan gelir; önce üç dört yıl emek gerekir. Bölgenize özgü tür ve çeşit seçimi için yerel fidanlığa ve il ya da ilçe tarım müdürlüğüne danışın.
+@sss
+S: Orman bahçesi nedir?
+C: Meyve ağacı, çalı, otsu bitki, yer örtücü, kök ve tırmanıcı bitkileri bir ormanın katmanlarına göre birlikte yetiştirmektir. Bitkilerin çoğu çok yıllık ve yenilebilir seçilir; çeşitlilik sistemin dayanıklılığını artırır.
+
+S: Küçük bahçede orman bahçesi kurulabilir mi?
+C: Evet. Bir alt ağaç, birkaç çalı, aromatik otlar ve yer örtücü çilekle elli metrekarelik alanda bile üç katmanlı bir sistem kurulabilir. Bodur ağaçlar küçük alan için uygundur.
+
+S: Orman bahçesi bakım istemez mi?
+C: İlk üç dört yıl sulama, malç ve ot kontrolü gerekir. Sistem oturduktan sonra yıllık bakım azalır ama sıfır olmaz; budama ve bitki dengesi kontrolü sürer.
+
+S: Orman bahçesi için hangi ağaçlar uygun?
+C: Bölgeye göre ceviz, dut, kiraz, elma, armut, incir ve nar gibi meyve ağaçları kullanılır. Yetişkin boyuna göre yüksek ve alçak katmanları ayırın; yerel fidanlıktan bölgenize uygun türü sorun.
+
+### YAZI
+slug: kirpi-dostu-bahce
+baslik: Kirpi Dostu Bahçe: Zararlılarla Doğal Mücadele
+yayin: 2027-03-20 14:05
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: kirpi dostu bahçe
+seo_baslik: Kirpi Dostu Bahçe: Doğal Zararlı Mücadelesi Rehberi
+seo_aciklama: Kirpi dostu bahçe nasıl kurulur? Çit altı geçit, yaprak ve odun yığını, ilaçsız mücadele, havuz çıkışı ve ağ tehlikesi ile kirpiyi bahçeye çekme yolları.
+ozet: Kirpi dostu bahçe, kirpiye geçit, barınak ve zehirsiz besin sağlar. Çit altı açıklığı, yaprak yığını, havuz çıkışı, ağ ve ilaçtan kaçınma gibi uygulamaları ve doğal mücadeleye katkısını anlattık.
+etiketler: kirpi, doğal mücadele, yaban hayatı, bahçe zararlıları, salyangoz, yaprak yığını, ilaçsız bahçe
+gorsel: bekliyor
+gorsel_alt: Bahçede çit dibindeki yaprak yığınının yanında dolaşan kirpi
+urunler: hasturk-kati-solucan-gubresi, raco-bahce-el-tirmigi, leonardit-organik-toprak-duzenleyici
+kisaca: Kirpi dostu bahçe, çitte geçit açıklığı, yaprak ve odun yığını, açık su için çıkış rampası ve ilaçsız zararlı mücadelesiyle kurulur. Kirpi gece dolaşır; böcek, salyangoz ve sümüklü böcek yer. Ağ, böcek ilacı ve salyangoz ilacı kirpiye zarar verdiği için kullanılmaz.
+@govde
+Gece yarısı bahçenizde hışırtı duyuyorsanız ve sabah salyangozların azaldığını görüyorsanız, ziyaretçiniz bir kirpi olabilir. Kirpiler gece dolaşan, böcek, salyangoz ve sümüklü böcekle beslenen küçük memelilerdir. Bahçenizdeki zararlıların doğal düşmanı olan bu hayvanın barınabilmesi için bahçeyi biraz değiştirmek yeterlidir. Kirpi dostu bahçe, aynı zamanda ilaç kullanımını azaltan bir bahçedir.
+
+## Kirpi dostu bahçe neden önemli?
+
+Kirpiler bir gecede yüzlerce metre yürür. Çitle çevrili, kapalı bahçeler yolunu keser; yiyecek ve barınak bulamazlar. Kimyasal ilaçlar ise hem doğrudan zehirler hem de zehirlenmiş salyangoz ve böcek yiyerek dolaylı zarar verir. Yaprak ve odun yığınları azaldıkça kış uykusuna yatacak yer de kalmaz.
+
+Kirpiyi bahçeye çekmek, ona yardım etmekle birlikte bahçenin dengeli işleyişine de katkı sağlar. Ama kirpi tek başına bir zararlı çözümü değildir; bahçedeki salyangoz sorununu tamamen ortadan kaldırmasını beklemeyin. Kirpinin faydası, bütün bir ekosistemin parçası olmasından gelir.
+
+## Geçit açın: bahçeniz kapalı bir kutu olmasın
+
+Kraliyet Bahçıvanlık Derneği'nin [kirpi dostu bahçecilik rehberi](https://rhs.org.uk/wildlife/hedgehog-friendly-gardening) ve diğer yaban hayatı kuruluşlarının ortak önerisi, çit ya da duvarın dibinde kirpinin geçebileceği bir açıklık bırakmaktır. Yaygın öneri, yerden yaklaşık 13 santimetrekarelik, yani yaklaşık 13 × 13 santimlik bir delik ya da çitin altında açılmış kısa bir kanaldır. Komşularla anlaşıp bu geçitleri birbirine bağlarsanız kirpi birkaç bahçeyi dolaşabilir.
+
+Geçitler, evcil hayvanlarınızı kaçırmayacak kadar küçük ama kirpinin geçeceği kadar geniş olmalıdır. Yol kenarında bir geçit açmaktan kaçının; kirpinin yola çıkmasını istemezsiniz.
+
+## Barınak: yaprak yığını ve odun yığını
+
+Kirpi yuva yapmak için yaprak, çalı ve kuru ot kullanır. Bahçenin sakin ve çalılıklı bir köşesine yaprak yığını ve kütük yığını bırakmak hem kış uykusu için hem gündüz dinlenmesi için uygun barınak sağlar. Yığın böcekleri çeker; bunlar kirpinin ana besinidir. Yaprakları toplayıp atmak yerine bir köşede yığmak, aynı zamanda yaprak kompostuna da dönüşür; yöntem için [yaprak kompostu](/yaprak-kompostu) yazısına bakın.
+
+Bahçedeki odun yığınını ve yaprak yığınını yakmadan önce içine bakın. Yığın kirpi barındırıyor olabilir; ilkbaharda ve sonbaharda bahçe temizliği yaparken, yığınları yakmadan ya da taşımadan önce kontrol edin.
+
+## Kirpi dostu bahçe için yapılacaklar
+
+::: adimlar
+Geçit açın | Çit ya da duvar dibinde yaklaşık 13 × 13 cm'lik bir açıklık bırakın.
+Barınak bırakın | Çalılık bir köşeye yaprak ve odun yığını koyun, onu rahatsız etmeyin.
+Zehirli ürünlerden kaçının | Salyangoz ve böcek ilacı kullanmayın; mekanik ve doğal çözümlere yönelin.
+Ağı kaldırın | Bahçe ağlarını sıkı gerin ya da yerine sert bir yapı koyun.
+Su çıkışı sağlayın | Havuz ve su kaplarına eğimli bir çıkış koyun.
+Gece bahçede dikkatli olun | Çim biçme ve ip tırımlı kesicileri kullanmadan önce çalıları kontrol edin.
+:::
+
+## İlaçlardan kaçının
+
+Yaban hayatı kuruluşlarının tamamı, kirpi dostu bahçede salyangoz ilaçlarından kaçınılmasını önerir. Birleşik Krallık'ta bir tür ilaç (metaldehit) 2022'den itibaren açık alanda yasaklanmıştır ama başka türler satışta kalmıştır; etiketlere bakmak şarttır. Organik olarak etiketlenen ürünler bile salyangozu besin zincirinden çıkarır. Türkiye'de de kirpiler için en güvenli bahçe, kimyasal salyangoz ve böcek ilacının kullanılmadığı bahçedir. Zararlıyla mücadelede yaprak biti ve diğer sorunlar için [yaprak biti doğal mücadele](/yaprak-biti) yazısında ilaçsız yöntemler anlatılıyor.
+
+Zararlıyla mücadele gerekiyorsa il ya da ilçe tarım müdürlüğünden ya da ziraat mühendisinden destek alın; ilaç adı ve dozu bu yazıda verilmez.
+
+## Ağ ve ip tuzakları
+
+Bahçe ağları ve plastik filelerde kirpiler ve diğer küçük hayvanlar takılıp boğulabilir. Ağları yerden en az bir karış yükseğe asmayın; yere uzanan gevşek ağ tuzak olur. Yaban hayatı kuruluşları ağı sıkıca germeyi ya da yerine sert bir yapı kullanmayı önerir. Ip kesici ve çim biçme makineleri de hayvanlara zarar verir; çalıları ve uzun otları kontrol ederek çalışın.
+
+[ürün:raco-bahce-el-tirmigi]
+
+## Su: ama çıkışı olsun
+
+Kirpiler iyi yüzer ama dik kenarlı bir havuzdan çıkamaz ve boğulabilir. Bahçe havuzunun, su kabının ve hatta sulama deposunun bir kenarına eğimli bir çıkış rampası koyun: Bir tahta, birkaç taş yığını ya da yüzeyi kaplı tel kafes bu iş görür. Sığ bir su kabı kirpiye içme suyu da sağlar. Kurak yaz aylarında bahçeye bir kap su koymak yaban hayatına destek olur.
+
+## Kirpi dostu bahçenin takvimi
+
+Kirpiler genellikle sonbaharın ilerleyen günlerinde kış uykusuna girer ve ilkbaharda uyanır. Mart ve nisan, uykudan uyanmış kirpilerin yiyecek aradığı ve yuva yaptığı dönemdir. Bu aylarda yığın taşımak, çalı kesmek ve çim biçmeden önce bahçeyi kontrol etmek özellikle önemlidir. Yaz boyunca bahçedeki küçük bir su kabı ve ilaçsız bir köşe yeterlidir. Sonbaharda yaprakları hemen toplayıp atmayın; bir köşede yığın bırakın, kirpi kış yuvasını oraya kurabilir. Bahçe temizliğini kış boyunca yarım bırakmak kirpi için kış barınağı demektir.
+
+## Kirpiye süt ve ekmek vermeyin
+
+İyi niyetle verilen süt ve ekmek kirpiyi hasta eder; kirpiler laktozu sindiremez. İstenirse kuru kedi maması ya da su verilebilir, ama doğal beslenmeyi desteklemek en iyisidir: Böcek ve solucan barındıran sağlıklı bir toprak, kirpinin sofrasıdır. Toprak solucanlarının bahçedeki faydası için [toprak solucanının faydaları](/toprak-solucani-faydalari) yazısına bakabilirsiniz. Yaralı ya da gündüz dolaşan, zayıf görünen bir kirpi bulursanız yerel veteriner kliniğine ya da il tarım ve orman müdürlüğüne haber verin.
+
+## Salyangoz sorununu ilaçsız yönetmek
+
+Kirpi dostu bahçede salyangoz ve sümüklü böceği elle toplamak, geceleri el feneriyle yapraklardan ayıklamak, bitki diplerine mikro engeller koymak gibi yöntemler kullanılır. Fide dikimini biraz geciktirmek ya da fideleri sertleştirmek de kayıpları azaltır. Yatak aralarını temiz tutmak salyangozun saklandığı yerleri azaltır. Kirpi, kurbağa, kuş ve yer böceği gibi doğal düşmanlar sayıca artınca baskı kendiliğinden düşer; bu denge bir iki yılda oturur. Zararlıyı tamamen yok etmeyi değil, dengede tutmayı hedefleyin.
+
+## Sık yapılan hatalar
+
+Çiti tamamen kapatmak, kirpinin bahçeler arasında dolaşmasını engeller. Salyangoz ilacı kullanmak kirpiyi doğrudan zehirler. Yığınları ilkbaharda yakmak yuvadaki yavruları öldürebilir. Havuzu çıkış rampasız bırakmak boğulmaya yol açar. Ağı gevşek germek takılma tehlikesi yaratır. Kirpi dostu bahçe kurarken amaç, kirpinin bahçenize yerleşmesini zorlamak değil, ona geçiş yolu ve güvenli bir ortam bırakmaktır.
+@sss
+S: Kirpi dostu bahçe için ne yapılmalı?
+C: Çitin altında kirpinin geçebileceği bir açıklık bırakılır, çalılık bir köşeye yaprak ve odun yığını konur, salyangoz ve böcek ilacından kaçınılır, havuza çıkış rampası ve ağlara dikkat edilir.
+
+S: Kirpiler salyangozu bitirir mi?
+C: Salyangoz, sümüklü böcek ve böcek yerler; ama tek başına bir zararlı çözümü değildir. Kirpi sağlıklı bir ekosistemin parçasıdır ve salyangoz baskısını azaltmaya katkı sağlar.
+
+S: Kirpiye süt verilir mi?
+C: Hayır. Kirpiler laktozu sindiremez ve süt ishale yol açar. Su ve gerekirse kuru kedi maması verilebilir; en iyisi doğal beslenmeyi, yani böcek barındıran toprağı desteklemektir.
+
+S: Bahçede yaralı bir kirpi bulursam ne yapmalıyım?
+C: Eldivenle dikkatlice alıp sıcak, sakin bir kutuya koyun ve veteriner kliniğine ya da il tarım ve orman müdürlüğüne başvurun. Gündüz dolaşan zayıf bir kirpi yardıma ihtiyaç duyuyor olabilir.
+
+### YAZI
+slug: yagmur-bahcesi
+baslik: Yağmur Bahçesi: Su Birikintisini Bahçeye Kazandırmak
+yayin: 2027-03-20 16:40
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: yağmur bahçesi
+seo_baslik: Yağmur Bahçesi Nasıl Yapılır? Boyut, Derinlik
+seo_aciklama: Yağmur bahçesi nasıl yapılır? Oluk suyunu toplayan çukurun yeri, boyutu, derinliği, süzülme testi ve nemi seven bitki seçimiyle adım adım kurulum.
+ozet: Yağmur bahçesi, çatıdan ve yoldan gelen suyu toplayıp toprağa süzdüren bitkili bir çukurdur. Yerini, boyutunu, derinliğini ve süzülme testini, bitki seçimini ve bakımını adım adım anlattık.
+etiketler: yağmur bahçesi, su birikintisi, oluk suyu, süzülme testi, nemi seven bitki, yağmur suyu
+gorsel: bekliyor
+gorsel_alt: Oluk çıkışının hemen önünde taş kanalla beslenen yağmur bahçesi çukuru
+urunler: leonardit-organik-toprak-duzenleyici, hasturk-kati-solucan-gubresi, hg-kil-bilyesi
+kisaca: Yağmur bahçesi, oluk ve yüzey akış suyunu toplayıp birkaç saat içinde toprağa süzdüren sığ, bitkili bir çukurdur. Binadan yaklaşık 3 metre uzağa kurulur; boyutu toplanan suya ve toprağın süzülme hızına göre hesaplanır; su 24–48 saatte çekilmelidir. İçine nemi ve kuruyu kaldıran bitkiler dikilir.
+@govde
+Yağmur yağınca bahçenin bir köşesinde su göllenir, bir diğer köşesi yağmurda çamura döner, oluk suyu duvarın dibine akıp temeli ıslatır. Bu su kayıp değildir; doğru yere yönlendirilirse bahçeyi sulayan bir kaynaktır. Yağmur bahçesi, bu suyu geçici olarak biriktirip toprağa yavaşça süzdüren bitkili bir çukurdur. Böyle bir çukur hem su birikintisi sorununu çözer hem de bahçeye yeni bir bitki alanı kazandırır.
+
+## Yağmur bahçesi nedir, ne işe yarar?
+
+Bu yapı bir gölet değildir. Yağış sırasında su toplar ama genellikle bir iki gün içinde toprağa çekilir, geri kalan zamanlarda kuru bir bitki yatağı gibi durur. Çatı suyunu, teras akışını ve bahçe yolunun yüzey suyunu toplar; temelden uzaklaştırır; taşkın ve çamurlaşmayı azaltır.
+
+Su toprağa süzüldükçe bitkilere ve toprak canlılarına ulaşır. Bu yüzden hem su yönetimi hem peyzaj ögesidir: Çiçek açan bitkilerle kelebek ve arıyı çeker. Çatıdan toplanan suyu ayrıca depoda biriktirmek için [yağmur suyu toplama](/yagmur-suyu-toplama) yazısına bakın; bu yazı, suyu çukura yönlendiren bir çözümü anlatır.
+
+## Nereye kurulur?
+
+Yer seçimi sistemin başarısını belirler. Çukuru oluk çıkışına yakın, ama binadan yeterince uzağa kurun; birçok kaynak temelden yaklaşık 10 feet, yani yaklaşık 3 metre uzağı önerir. Kendi bahçenizin eğimini inceleyin: Su doğal olarak toplandığı bir yer çoğu zaman uygundur. Hafif eğimli düzlük idealdir; dik yamaçta çukur açmak zordur.
+
+Kaçınılacak yerler: Septik tank ve kuyu yakını, büyük ağaçların kök bölgesi, yer altı hatları, komşu bahçeye taşabilecek sınırlar. Zemini sert kaya ya da çok sıkışık kilden oluşan yerlerde süzülme düşük olur.
+
+## Süzülme testi: toprak suyu ne kadar hızlı çekiyor?
+
+Purdue Üniversitesi'nin [yağmur bahçesi kılavuzu](https://extension.purdue.edu/extmedia/ID/ID-533-w.pdf), yaklaşık 8 inç (yaklaşık 20 cm) derinlik ve genişlikte bir delik açılarak süzülme hızının ölçülmesini önerir. Maryland'de bir ilçenin yağmur bahçesi kılavuzu suyun 24 saat içinde toprağa çekilmesi gerektiğini, 24–36 saatten uzun sürüyorsa bir peyzaj mühendisinden ya da ziraat mühendisinden destek alınmasını belirtir.
+
+::: adimlar
+Delik açın | Yaklaşık 20 cm derinlik ve genişlikte bir delik kazın.
+Doldurun | Deliği suyla doldurun ve çekilmesini bekleyin; toprağı ıslatmak için işlemi bir kez tekrarlayın.
+Süreyi ölçün | İkinci dolumdan sonra suyun tamamen çekilme süresini not edin.
+Yorumlayın | Birkaç saatte çekiliyorsa toprak hızlı, 24 saatten uzun sürüyorsa yağmur bahçesi için zayıf süzüyor demektir.
+:::
+
+Çok yavaş süzen killi toprakta çukuru daha sığ yapmak, yüzeyi geniş tutmak ve toprağı kum ve kompostla iyileştirmek gerekir. Killi toprağı gevşetme yöntemleri için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazısına bakın. Çok hızlı süzen kumlu toprakta çukur derin olabilir ama su yer altına çok çabuk iner.
+
+## Boyut ve derinlik nasıl hesaplanır?
+
+Alabama Üniversitesi Yayım Servisi'nin [boyut ve derinlik rehberi](https://www.aces.edu/blog/topics/fish-water/step-4-determine-the-size-and-depth-of-the-rain-garden/) basit bir yöntem verir: Su biriktirme derinliği 3 inç (yaklaşık 7,5 cm) ise çukurun alanı, suyu toplanan çatı alanının onda biri; 6 inç (yaklaşık 15 cm) ise yirmide biri kadar olmalıdır. Yani 60 m²'lik bir çatı suyunu 7,5 cm biriktirme derinliğinde karşılamak için yaklaşık 6 m²'lik, 15 cm derinlikte ise yaklaşık 3 m²'lik bir yağmur bahçesi gerekir.
+
+Derinliği genellikle toprağın süzülme hızı belirler. Purdue rehberi suyun 24–48 saatte çekilebileceği bir derinlik seçmeyi, derinliği 12 inçten fazla yapmamayı önerir; Minnesota kuralları da azami derinlik olarak 12 inç belirler. Ev bahçesinde 10–20 cm biriktirme derinliği tipiktir.
+
+## Yağmur bahçesi nasıl kazılır ve doldurulur?
+
+Çukuru kazarken tabanı düz tutun, yoksa su bir köşede toplanır. Kenarlarını hafif eğimli yapın, çıkan toprağı alçak bir set (öne doğru tümsek) olarak çukurun aşağı yamaç tarafına yığın; bu set suyun taşmasını engeller. Taban toprağını gevşetin ve kompostla karıştırın. Oluk çıkışından çukura bir taş kanal ya da çakıl şerit açın; bu su akışının toprağı aşındırmasını önler. Çukurun bir tarafına bir taşma noktası koyun: aşırı yağışta su kontrollü şekilde başka yöne gitsin.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Hangi bitkiler dikilir?
+
+Bu çukurun bitkileri iki zorluğa dayanmalıdır: Kısa süreli su baskını ve yağmursuz dönemde kuraklık. Çukurun orta ve en alçak kısmına nemi seven bitkiler, kenarlara ve setin üstüne kuruya dayanıklı bitkiler dikilir.
+
+| Bölge | Bitki örnekleri |
+|---|---|
+| Çukur ortası (en ıslak) | Süsen, saz türleri, su nanesi, kediotu |
+| Orta kuşak | Ekinezya, adaçayı, süs otları, kardelen çiçeği |
+| Kenar ve set (en kuru) | Lavanta, kekik, sedum, biberiye |
+
+Süsen için [süsen yetiştirme](/susen-yetistirme) yazısına bakabilirsiniz. Yerel türler ve kendi bölgenizde yaşayan bitkiler en güvenilir seçimdir. Dikimden sonra ilk iki yıl bitkileri sulayın; kök salmadan baskına maruz kalan fide kolay çürür.
+
+## Yağmur bahçesi ile yağmur suyu deposu birlikte
+
+İki yöntem birbirinin alternatifi değil, tamamlayıcısıdır. Oluk suyunu önce bir depoya alıp sulama için kullanabilir, depo dolunca taşan suyu yağmur bahçesine yönlendirebilirsiniz. Böylece küçük yağışlar depoda birikir, şiddetli yağışın taşan kısmı ise bahçeye gider. Taşma borusunu yağmur bahçesine açılan taş kanala bağlamak, kurulumu basit tutar. Şiddetli yağışlarda yağmur bahçesinin taşma noktası da başka bir yönde olmalıdır.
+
+## Eğimli ve küçük bahçelerde uyarlama
+
+Dik eğimlerde çukur yerine kademeli terasla küçük su tutma set sıraları kurulur; ama bunun için eğimi ve toprağı bilen birinden destek almak gerekir. Çok küçük bir bahçede bir metrekarelik küçük bir çukur bile oluktan gelen suyu karşılayabilir. Balkon ve teras suları için ise bahçe yoksa saksı sistemleri ya da yağmur zinciri düşünülebilir. Oluk çıkışının hemen altına büyük bir taş ya da kaya yerleştirmek, akışın toprağı oymasını önler.
+
+## Bakım
+
+Çukurun ilk yılında yabani ot ayıklanır, malç tazelenir. Taş kanalı ve oluk girişini sonbaharda yapraklardan temizleyin; tıkanırsa su başka yere akar. Zamanla çukurun tabanında silt birikir ve süzülme yavaşlar; tabandaki çamur birikimini birkaç yılda bir kürekle kaldırmak gerekebilir. Yağmurdan 48 saat sonra su hâlâ duruyorsa sivrisinek riski artar; bu durumda süzülme sorunu vardır ve çukur gözden geçirilmelidir. Malç çeşitleri için [malç çeşitleri](/malc-cesitleri) yazısı yol gösterir.
+
+## Sık yapılan hatalar
+
+Çukuru binaya çok yakın kazmak temele su verir. Süzülme testi yapmadan kurmak, suyun günlerce kalmasına yol açar. Tabanı eğimli bırakmak su birikintisinin tek köşeye yığılmasına neden olur. Su baskınına ve kuraklığa dayanmayan bitki seçmek ilk yazda kayıp getirir. Taşma noktası koymamak, aşırı yağışta suyun ters yöne akmasına neden olur. Doğru yerde ve doğru boyutta kurulan çukur en az bakımla çalışır.
+@sss
+S: Yağmur bahçesi nedir?
+C: Oluk ve yüzey akış suyunu toplayıp birkaç saat ile iki gün içinde toprağa süzdüren sığ ve bitkili bir çukurdur. Su birikintisi sorununu çözer ve temelden suyu uzaklaştırır.
+
+S: Yağmur bahçesi binadan ne kadar uzağa kurulur?
+C: Birçok kaynak temelden en az yaklaşık 3 metre (10 feet) uzağı önerir. Septik tank, kuyu ve yer altı hatlarından da uzak durmak gerekir.
+
+S: Yağmur bahçesi ne kadar büyük olmalı?
+C: Çatı alanının, biriktirme derinliği 7,5 cm ise onda biri; 15 cm ise yirmide biri kadardır. Toprağın süzülme hızı ve su toplama alanı büyüklüğü bu hesabı etkiler.
+
+S: Yağmur bahçesinde sivrisinek olur mu?
+C: Su 24–48 saat içinde çekiliyorsa sivrisinek üremez. Daha uzun süre bekliyorsa süzülme zayıftır; çukuru sığlaştırın, toprağı iyileştirin ya da taşma yolunu açın.
+
+### YAZI
+slug: yarasa-kutusu
+baslik: Yarasa Kutusu: Bahçede Doğal Sivrisinek Kontrolü Mümkün mü?
+yayin: 2027-03-20 19:30
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: yarasa kutusu
+seo_baslik: Yarasa Kutusu: Sivrisinek Kontrolü ve Doğru Yerleşim
+seo_aciklama: Yarasa kutusu sivrisinek kontrolü için işe yarar mı? Güneş, yükseklik, yer seçimi ve kutu yapısıyla yarasaları bahçeye çekmek ve gerçek faydaları.
+ozet: Yarasa kutusu, bahçedeki yarasalara barınak sağlar. Sivrisinekle mücadeledeki gerçek rolünü, kutunun yerini, yüksekliğini, güneş ihtiyacını ve yarasalar için yasal korumayı anlattık.
+etiketler: yarasa kutusu, yarasa, sivrisinek, doğal mücadele, yaban hayatı, bahçe böcekleri
+gorsel: bekliyor
+gorsel_alt: Evin duvarına yüksekte monte edilmiş ahşap yarasa kutusu
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, raco-bahce-el-tirmigi
+kisaca: Yarasa kutusu yarasalara gün içi barınak sağlar. Yarasalar sivrisinek de yer ama uzmanlar, çoğunun bahçedeki sivrisinek sayısını belirgin biçimde düşürmeyeceğini söylüyor; asıl faydası bahçe ve tarla zararlıları ile tozlaşma ve ekosistemdir. Kutu güneye bakan, günde 6–8 saat güneş alan bir duvara yaklaşık 4,5 metre yükseğe asılır.
+@govde
+Yaz akşamları sivrisinek ısırığından bıkan herkes bir yerde "yarasa kutusu asın, bütün sivrisinekleri yerler" tavsiyesini duymuştur. Gerçek biraz daha karmaşıktır: Yarasalar sivrisinek de yer, ama tek başına bahçenizi sivrisinekten kurtarmaz. Buna rağmen yarasa kutusu, bu faydalı hayvanlara barınak sağlamak için değerlidir. Bu yazı kutunun gerçekte ne yaptığını, nasıl kurulacağını ve nelere dikkat edileceğini anlatıyor.
+
+## Yarasa kutusu sivrisineği gerçekten azaltır mı?
+
+Florida Üniversitesi Yayım Servisi (UF/IFAS), çoğu yarasanın sivrisineğe özel bir ilgi göstermediğini ve yenen az sayıdaki sivrisinek nedeniyle yarasaların büyük sivrisinek nüfuslarını kontrol etmesinin pek olası olmadığını belirtir; ayrıntı için [UF/IFAS yarasa yayınına](https://edis.ifas.ufl.edu/publication/UW289/pdf) bakabilirsiniz. Mississippi Eyalet Üniversitesi, Wisconsin Üniversitesi'nde yapılan bir çalışmanın büyük ve küçük kahverengi yarasaların daha çok sivrisinek türünü beklenenden sık yediğini bulduğunu ancak daha fazla araştırma gerektiğini söyler; bkz. [Mississippi Eyalet Üniversitesi yazısı](https://extension.msstate.edu/blogs/extension-for-real-life/do-bats-help-control-mosquitoes).
+
+Yani yarasa kutusu garantili bir sivrisinek çözümü değildir. Sivrisinekle gerçek mücadele, bahçedeki durgun suları boşaltmak ve üreme yerlerini kapatmakla başlar. Yarasaların en iyi belgelenmiş faydası ise tarım zararlılarına karşıdır; yarasalar gece uçan pek çok böceği avlar.
+
+## Yarasa kutusunun gerçek faydaları
+
+Yarasalar gecenin avcısıdır. Güve, böcek ve bazı bitki zararlılarıyla beslenirler; bir yarasa gecede çok sayıda böcek yiyebilir. Bahçede doğal böcek kontrolüne katkı sağlarlar ve ekosistemin sağlıklı kalmasına yardım ederler. Yarasa gübresi (guano) de değerli bir bitki besinidir; kullanımı için [yarasa gübresi guano nasıl kullanılır](/yarasa-gubresi-guano-nasil-kullanilir) yazısına bakın.
+
+Yarasalar Türkiye'de de koruma altındadır; bu hayvanları öldürmek, yuvalarını tahrip etmek yasaktır. Bir yarasa kolonisinin yuvasını bozmadan, bahçeye barınak sunmak bu yüzden doğru bir yaklaşımdır. Yarasayı bahçeye çekerken el sürmemek ve rahatsız etmemek gerekir; yarasalar nadiren de olsa hastalık taşıyabilir, bu yüzden elle tutmayın.
+
+## Kutu nereye asılır?
+
+Rutgers Üniversitesi'nin [yarasa kutusu bilgi notu](https://njaes.rutgers.edu/FS1269), kutunun güneye ya da güneydoğuya bakmasını ve günde 6–8 saat güneş almasını önerir. ABD Doğal Kaynakları Koruma Servisi (NRCS) günde en az altı saat doğrudan güneşi, kısmi güneşte ise sabah güneşini tercih eder. Ulusal Yaban Hayatı Federasyonu kutunun yerden en az 15 feet (yaklaşık 4,5 metre) yüksekte, tercihen bir bina duvarında olmasını önerir. Bina duvarı ve direk gibi sağlam desteğe monte etmek, ağaca asmaktan daha çok tercih edilir; ağaçta gölge ve yırtıcı riski daha yüksektir.
+
+::: belirti
+Kutu gölgede ya da ağaç altında | Yarasalar ısınmak için güneşe ihtiyaç duyar | Güneye bakan, açık duvara taşıyın
+Kutu çok alçakta | Yırtıcılar ve kedi erişebilir | En az 4,5 metre yüksekliğe asın
+Kutu çevresinde engel ve ağaç dalı | Uçuş yolu kapalı | Giriş önünü açık tutun
+Kutu hiç dolmuyor | Yer ya da tasarım uygun değil | Güneş, yükseklik ve su kaynağına yakınlığı kontrol edin; sabırlı olun
+:::
+
+## Kutu tasarımı ve boya
+
+Kaliteli bir yarasa kutusu, dar ve dikey bölmelere sahiptir; yarasalar bu aralıklara tutunur. İç yüzey pürüzlü ya da çizgili olmalı, yarasanın tırmanabilmesi için ahşap ya da işlenmiş yüzey kullanılmalıdır. UF/IFAS, hazır kutuların birçoğunun kötü tasarım ya da yapım nedeniyle yarasaları çekmediğini belirtir; kutuyu bilgi sahibi bir kaynaktan ya da standart planlara göre yapılmış üreticiden almak ya da yapmak önemlidir. Boyayı güneşe göre seçin: Az güneş alan yerde koyu, çok güneş alan sıcak bölgede açık ton daha uygundur; çünkü kutu içi ısı yarasaları rahat ettirmelidir.
+
+[ürün:raco-bahce-el-tirmigi]
+
+## Bahçeyi yarasa için daha çekici yapmak
+
+Yarasaları çekmek için kutudan başka yapılacak şeyler vardır. Yakınlarda su kaynağı (havuz, küçük gölet) olması önemlidir; yarasalar uçarken su içer. Gece açılan ve böcek çeken çiçekler (yasemin, hanımeli, gece sefası) böcek sayısını artırır. Böcek ilaçları yarasanın yiyeceğini azaltır ve onları zehirler; bu yüzden ilaçsız bahçe yarasa için de değerlidir. Gece bahçesi için uygun bitkilere [bahçe aydınlatma bitkiler](/bahce-aydinlatma-bitkiler) yazısından bakabilirsiniz. Parlak aydınlatma yarasaları ve böcekleri uzak tutar; gece ışığını kısık ve sıcak tonlu tutun.
+
+## Kutu kaç yarasa barındırır, ne zaman dolar?
+
+Kutu, ancak yarasalar onu keşfettiğinde dolar; bu bazen birkaç yıl alır. Yarasalar yaz boyunca bir ya da birkaç kutudaki gruplarda, genellikle yavrularını doğuracak dişi koloniler hâlinde barınır. Kışın bölgeye göre göç eder ya da başka sığınaklarda kış uykusuna yatar. Kutuyu ilk yıl boş görürseniz yer ve yükseklik doğruysa vazgeçmeyin. Kutu dolduğunda altına yere biriken guano, bitki besini olarak toplanabilir; ama toplarken toz maskesi takın ve elinizi doğrudan sürmeyin.
+
+## Sivrisinekle gerçek mücadele
+
+Sivrisinek bahçede durgun suda ürer. Saksı tabaklarında, yağmur suyu varillerinde, tıkanık oluklarda ve eski lastiklerde birikmiş suyu haftada bir boşaltmak en etkili adımdır. Kapaksız yağmur suyu deposuna ince file bağlayın. Havuzda ve su kaplarında suyu hareketli tutun ya da balık besleyin. Su biriktiren yağmur bahçesi ve çukur gibi alanlarda suyun 48 saat içinde çekilmesi gerekir; ayrıntı için [yağmur bahçesi](/yagmur-bahcesi) yazısına bakabilirsiniz. Kapı ve pencerelere tel, kişisel koruma için sivrisinek kovucuları da kullanılabilir. Sivrisinek ilacı seçimi ve kullanımı için il ya da ilçe sağlık ve tarım müdürlüğüne danışın.
+
+## Kirpi ve yarasa: yaban hayatı dostu bahçe
+
+Yarasa kutusu tek başına bir çözüm değil, yaban hayatı dostu bahçenin bir parçasıdır. Aynı bahçede kirpiye geçit, kuşlara su, arılara çiçek bırakmak bahçenin doğal dengesini güçlendirir. Kirpiler için [kirpi dostu bahçe](/kirpi-dostu-bahce) yazısı yararlı olur.
+
+## Sık yapılan hatalar
+
+Kutuyu gölgeli bir ağaca asmak en yaygın hatadır; yarasalar sıcak ve güneşli yeri tercih eder. Kutuyu çok alçak asmak, kedi ve yırtıcı erişimini kolaylaştırır. Ucuz, tasarımı kötü hazır kutular çoğu zaman kullanılmaz. Kutunun hemen dolacağını beklemek de yanıltıcıdır; yarasalar kutuyu keşfedene kadar bir ya da birkaç sezon geçebilir. Son olarak, kutuyu sivrisineğe karşı tek önlem olarak görmek gerçekçi değildir.
+@sss
+S: Yarasa kutusu sivrisinek kontrolünde işe yarar mı?
+C: Yarasalar sivrisinek de yer ama çoğu yarasa sivrisineği çok az yer. Florida ve Mississippi yayım servislerine göre yarasa kutusu bahçedeki sivrisinek sayısını tek başına belirgin biçimde düşürmez; asıl faydası barınak sağlamak ve böcek dengesine katkıdır.
+
+S: Yarasa kutusu nereye asılmalı?
+C: Güneye ya da güneydoğuya bakan, günde 6–8 saat güneş alan bir bina duvarına ya da direğe, yerden en az 4,5 metre yüksekliğe asılmalıdır. Ağaç gölgesi ve alçak asma uygun değildir.
+
+S: Yarasalar Türkiye'de korunuyor mu?
+C: Evet; yarasalar koruma altındadır. Öldürmek ve yuvalarını bozmak yasaktır. Bir kolonisi varsa bozmayın; yardım için il tarım ve orman müdürlüğüne başvurun.
+
+S: Sivrisinekle mücadelede en etkili adım nedir?
+C: Üreme yerlerini ortadan kaldırmaktır: saksı tabağı, kova, oluk, lastik ve varillerdeki durgun suyu haftada bir boşaltmak, kapaksız depoları kapatmak. Kapı ve pencereye tel takmak da yardımcı olur.
+
+### SORU
+yayin: 2027-03-20 08:20
+kategori: bahce-ipuclari
+baslik: Sıvı gübreyi ilaçlama pompasıyla verdim, yapraklar yandı, ne yanlış yaptım?
+metin: Domates fidelerime etikette yazan orana yakın bir seyreltmeyle sıvı gübre hazırladım ve öğle saatinde sırt pompasıyla yapraklara sıktım. Ertesi gün yaprak kenarları kahverengileşti. Nedeni ne olabilir, fideler kurtarılır mı?
+@cevap Hatice Kübra Çelik | 5
+En büyük etken büyük olasılıkla saat: Öğle sıcağında su hızla buharlaşır, gübre tuzu yaprakta kalır ve yanık yapar. Fideler genç ve yaprakları tüylü olduğu için daha hassastır. Yanık yapraklar geri dönmez ama yeni sürgünler sağlıklı çıkar. Bir süre yaprak beslemesine ara verin, bitkileri temiz suyla hafifçe yıkayın, sulamayı düzenli tutun. Bir sonraki uygulamayı sabah erken ya da akşam, etiketin alt sınırındaki bir oranla ve önce birkaç yaprakta deneyerek yapın.
+
+### SORU
+yayin: 2027-03-20 12:30
+kategori: bahce-ipuclari
+baslik: Çitimizin altına kirpi geçidi açsam köpeğimiz kaçar mı?
+metin: Bahçemizde kirpi görüyoruz, geçit açmak istiyoruz ama köpeğimiz küçük bir cins. Kaçmasını nasıl engelleriz?
+@cevap Halil İbrahim Çelik | 4
+Geçidi kirpinin geçeceği kadar küçük açın: yaklaşık 13 × 13 cm yeterlidir. Köpeğin cinsine göre bu boyut küçük köpeğin sığabileceği bir ölçü olabilir; çok küçük bir köpek varsa geçide içeriden ince bir kafes ya da tahta çerçeve koyup yalnızca kirpinin geçebileceği bir açıklık bırakın. Ayrıca köpeği geceleri dışarıda bırakmamak da kirpiyi korur; köpek kirpiye saldırabilir.

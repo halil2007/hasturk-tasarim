@@ -1,0 +1,1191 @@
+### YAZI
+slug: cim-hastaliklari
+baslik: Çim Hastalıkları: Sonbahar ve Kışta Görülen Lekeleri Tanıma Rehberi
+yayin: 2026-11-05 07:15
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: çim hastalıkları
+seo_baslik: Çim Hastalıkları: Kar Küfü, Pas ve Kahverengi Leke
+seo_aciklama: Çim hastalıkları nasıl tanınır? Sonbahar ve kışta görülen kar küfü, pas, dolar lekesi ve kahverengi yama belirtileri, nedenleri ve kalıcı çözümler.
+ozet: Serin ve nemli aylar, çim alanlarında mantar hastalıklarının en sık görüldüğü dönemdir. Lekenin rengine, şekline ve ortaya çıktığı havaya bakarak hastalığı tanımak, doğru önlemi almanın ilk adımıdır.
+etiketler: çim hastalıkları, kar küfü, çim pası, kahverengi yama, çim bakımı
+gorsel: p3-cim-hastalik
+gorsel_alt: Çim alanında halka şeklinde oluşmuş hastalık lekesi
+urunler: dogatech-sonbahar-cim-gubresi-14-14-17, cim-kapama-topragi-leonarditli-formul, dsv-lippa-tamu-5-mix-cim-tohumu
+kisaca: Çim hastalıkları çoğunlukla mantar kaynaklıdır ve nemli, serin havada, sıkışmış ve aşırı azotlu alanlarda çıkar. Sonbahar ve kışta en sık kar küfü, pas, dolar lekesi ve kahverengi yama görülür. Önlemenin yolu havalandırma, keçe temizliği, akşam sulamasından kaçınma, dengeli gübreleme ve yaprakları alanda bırakmamaktır.
+@govde
+Çim hastalıkları çoğu zaman bir sabah fark edilir: Dün yemyeşil görünen alanda, tabak büyüklüğünde soluk bir leke ya da turuncu bir toz belirmiştir. İlk tepki genellikle panik ve "hemen bir şey atmak" olur. Oysa çim hastalıklarının büyük çoğunluğu mantar kaynaklıdır ve mantarlar yalnızca uygun koşulları bulduklarında çoğalır. Bu koşulları ortadan kaldırdığınızda çim kendini çoğu zaman toparlar. Bu yazıda sonbahar ve kış aylarında en sık karşılaşılan çim hastalıklarını belirtileriyle tanıtıyor, hangisinin neden ortaya çıktığını ve alanı nasıl koruyacağınızı anlatıyoruz.
+
+## Çim neden hastalanır?
+
+Çim hastalığına yol açan mantarların sporları neredeyse her bahçede bulunur. Onları harekete geçiren şey koşullardır. Üç etken bir araya geldiğinde hastalık başlar: hassas bir çim, hastalık etkeni ve uygun hava. Bahçede bizim kontrol edebildiğimiz kısım, çimi güçlü ve ortamı mantar için elverişsiz tutmaktır.
+
+- **Uzun süre ıslak kalan yapraklar:** Akşam sulaması, sisli sabahlar ve gölge, yaprakların gece boyu nemli kalmasına yol açar.
+- **Sıkışmış toprak ve keçe:** Su yüzeyde kalır, kökler zayıflar.
+- **Aşırı azot:** Özellikle sonbaharda verilen yüksek azot, yumuşak ve hastalığa açık yapraklar üretir.
+- **Çok kısa ya da çok uzun biçim:** Kısa biçim çimi strese sokar, kışa çok uzun girmek ise kar küfünü kolaylaştırır.
+- **Alanda bırakılan yapraklar:** Islak yaprak tabakası altında hava almayan çim hızla hastalanır.
+
+## Sonbahar ve kışın en sık görülen çim hastalıkları
+
+| Hastalık | Ne zaman? | Görünüm |
+|---|---|---|
+| Pembe kar küfü (Microdochium) | Serin, nemli sonbahar ve kış, karsız da olur | Önce sarımsı-turuncu, sonra pembe kenarlı yuvarlak lekeler |
+| Gri kar küfü (Typhula) | Uzun süre kar altında kalan alanlar | Kar eriyince gri-beyaz, keçeleşmiş lekeler |
+| Çim pası | Kuru ve ılık sonbahar, yavaş büyüyen çim | Yapraklarda turuncu toz; ayakkabıya bulaşır |
+| Dolar lekesi | Ilık günler ve serin, çiyli geceler | Madeni para büyüklüğünde, saman renkli küçük lekeler |
+| Kahverengi yama | Ilık ve çok nemli dönemler | Ortası kahverengi, kenarı koyu halkalı geniş yamalar |
+| Kırmızı iplik | Serin, nemli, besince zayıf alanlar | Yaprak uçlarında pembe-kırmızı iplik benzeri yapılar |
+
+### Pembe kar küfü
+
+Ülkemizde sonbaharın ikinci yarısından ilkbahara kadar en çok karşılaşılan hastalıktır. Adının aksine kar yağmasına gerek yoktur; serin ve nemli hava yeterlidir. Lekeler 2–3 cm çapında başlar, birleşerek 20–30 cm'ye ulaşabilir. Sabahları lekelerin kenarında beyaz-pembe pamuksu bir miselyum görülebilir. Aşırı azotla beslenmiş ve kışa uzun giren çimlerde çok daha yaygındır.
+
+### Çim pası
+
+Yapraklarda turuncu-sarı toz kabarcıkları oluşur. Beyaz bir ayakkabıyla alanda yürüdüğünüzde ayakkabının turuncuya boyanması tipik bir işarettir. Pas, genellikle büyümesi yavaşlamış ve azotu tükenmiş çimlerde görülür. Bu yüzden dengeli bir besleme ve düzenli biçimle çoğu zaman kendiliğinden geriler.
+
+### Dolar lekesi ve kırmızı iplik
+
+İkisi de besince zayıf alanların hastalığıdır. Dolar lekesi küçük ve çok sayıda lekeyle alanı "çilli" gösterir; kırmızı iplik ise yaprak uçlarında pembe-kırmızı ince yapılarla kendini belli eder. Her iki durumda da asıl çözüm, çimi doğru zamanda ve dengeli beslemektir.
+
+## Çim hastalıkları ile karıştırılan sorunlar
+
+Her leke hastalık değildir. Teşhise geçmeden önce şunları ekarte edin:
+
+- **Köpek idrarı:** Ortası sarı, kenarı koyu yeşil, keskin sınırlı lekeler.
+- **Gübre yanığı:** Gübrenin yığıldığı ya da çift geçildiği şeritler hâlinde kuruma.
+- **Kuraklık:** Eğimli ve güneşli yerlerde, gri-mavi renkle başlayan geniş kuruma.
+- **Yosun:** Gölgeli ve nemli alanlarda yeşil, kadifemsi örtü. Yosunun nedenleri için [çimde yosun neden olur](/cimde-yosun-neden-olur) yazımıza bakabilirsiniz.
+- **Toprak altı zararlıları:** Kolayca halı gibi kalkan çim parçaları.
+
+## Çim hastalıkları nasıl önlenir?
+
+Hastalıkla mücadelede en etkili yöntemler, ilaç değil bakım alışkanlıklarıdır.
+
+1. **Sabah sulayın:** Yapraklar gün içinde kurur. Akşam sulaması mantarlara bütün bir gece kazandırır.
+2. **Havalandırın:** Sıkışmış toprakta su yüzeyde kalır. Yılda bir yapılan havalandırma hastalık riskini belirgin şekilde azaltır. Adımlar için [çim havalandırma](/cim-havalandirma) yazımız yol gösterecektir.
+3. **Keçeyi temizleyin:** 1,5 cm'yi geçen ölü sap tabakası nemi tutar ve mantarlara yuva olur.
+4. **Yaprakları toplayın:** Sonbaharda alana dökülen yaprakları en geç birkaç günde bir tırmıklayın.
+5. **Doğru gübreyi seçin:** Sonbaharda azotu düşük, potasyumu yüksek bir gübre çimi kışa sağlam yapraklarla sokar.
+6. **Kışa doğru yükseklikte girin:** Son biçimde çimi 4–5 cm'de bırakın; çok uzun çim kar küfüne, çok kısa çim strese açıktır.
+7. **Gölgeyi azaltın:** Ağaçların alt dallarını budamak hava dolaşımını ve ışığı artırır.
+
+[ürün:dogatech-sonbahar-cim-gubresi-14-14-17]
+
+Sonbahar gübrelemesinin zamanı ve miktarı için [sonbahar çim gübresi](/sonbahar-cim-gubresi) yazımıza göz atabilirsiniz.
+
+## Hastalık görülen alanda ne yapmalı?
+
+- **Alana basmayın:** Islakken yürümek sporları yayar ve çimi ezer.
+- **Biçme makinesini temizleyin:** Hastalıklı alanı en son biçin, bıçakları ve kasnağı temizleyin.
+- **Kırpıntıyı toplayın:** Hastalık görülen dönemde biçim artıklarını alanda bırakmayın.
+- **Azotu kesin:** Hastalık aktifken azotlu gübre vermeyin.
+- **Bekleyin:** Hava kuruyup ısındığında birçok leke kendiliğinden kapanır.
+
+Yoğun ve yayılan durumlarda ruhsatlı bir fungisit gerekebilir. Bu durumda ürün etiketindeki talimata uyulmalı, ürün seçimi için müşteri hizmetlerimize danışılmalıdır; yanlış zamanda ve yanlış ürünle yapılan uygulama hem para hem emek kaybıdır.
+
+## İlkbaharda onarım
+
+Kış boyunca hastalık görmüş alanlar ilkbaharda kolayca onarılır. Toprak ısınmaya başladığında ölü çimi tırmıkla temizleyin, ince bir kapama toprağı serin ve seyrek kalan yerlere tohum atın.
+
+[ürün:cim-kapama-topragi-leonarditli-formul]
+
+Seyrek alanları tohumla kapatmanın adımları için [çimdeki boş alanlar nasıl kapatılır](/cimdeki-bos-alanlar-nasil-kapatilir) yazımıza, yeni ekilen tohumun sulama düzeni için ise [çim ekiminden sonra sulama](/cim-ekiminden-sonra-sulama) yazımıza bakabilirsiniz.
+
+## Kısa bir kontrol listesi
+
+- Lekeler sabahları pamuksu mu? Muhtemelen kar küfü ya da kahverengi yama.
+- Ayakkabınız turuncuya boyanıyor mu? Pas.
+- Madeni para büyüklüğünde çok sayıda leke mi var? Dolar lekesi.
+- Yaprak uçlarında pembe iplikler mi var? Kırmızı iplik.
+
+Çim hastalıkları çoğunlukla bir bakım hatasının sonucudur. Sabah sulaması, havalandırma, dengeli besleme ve temiz bir yüzey; bu dört alışkanlık bir araya geldiğinde çim alanı serin ve nemli aylarda bile sağlıklı kalır.
+@sss
+S: Çimde kahverengi daire şeklinde lekeler neden olur?
+C: En sık nedenler kahverengi yama ve pembe kar küfü gibi mantar hastalıklarıdır. Köpek idrarı ve gübre yanığı da benzer lekelere yol açabilir.
+
+S: Çim hastalıkları hangi mevsimde görülür?
+C: Mantar hastalıkları en çok serin ve nemli sonbahar ve kış aylarında, sisli sabahlarda ve akşam sulaması yapılan alanlarda görülür.
+
+S: Çimde pas hastalığı nasıl anlaşılır?
+C: Yapraklarda turuncu toz kabarcıkları oluşur ve alanda yürüyünce ayakkabı turuncuya boyanır. Genellikle besinsiz ve yavaş büyüyen çimde görülür.
+
+S: Hastalıklı çim kendiliğinden düzelir mi?
+C: Hafif durumlarda hava kuruyup ısındığında ve bakım düzeltildiğinde çoğu zaman düzelir. Ölü kalan alanlar ilkbaharda tohumla onarılır.
+
+### YAZI
+slug: elma-agaci-hastaliklari
+baslik: Elma Ağacı Hastalıkları: Karaleke, Külleme, Ateş Yanıklığı ve Önlemler
+yayin: 2026-11-05 08:35
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: elma ağacı hastalıkları
+seo_baslik: Elma Ağacı Hastalıkları: Belirtiler ve Önleme Takvimi
+seo_aciklama: Elma ağacı hastalıkları nasıl tanınır? Karaleke, külleme, ateş yanıklığı, monilya ve kök boğazı çürüklüğü belirtileri ile sonbahardan başlayan önlemler.
+ozet: Elmada hastalıkların çoğu kışı dökülen yapraklarda, mumyalaşmış meyvelerde ve yaralı dallarda geçirir. Bu yüzden ertesi yılın sağlıklı hasadı, sonbaharda yapılan temizlik ve doğru budamayla başlar.
+etiketler: elma ağacı hastalıkları, karaleke, külleme, ateş yanıklığı, meyve ağacı bakımı
+gorsel: p3-elma-hastalik
+gorsel_alt: Kabuğunda karaleke lekeleri görülen elma
+urunler: budama-makasi, uzman-16-lt-manuel-ilaclama-pompasi-k-103, hasturk-kati-solucan-gubresi
+kisaca: Elma ağacı hastalıkları içinde en yaygın olanlar yaprak ve meyvede zeytin yeşili lekeler yapan karaleke, sürgünleri beyaz tozla kaplayan külleme, dalları yanmış gibi gösteren ateş yanıklığı ve meyveyi çürüten monilyadır. Önlemenin temeli sonbaharda dökülen yaprakları ve mumya meyveleri toplamak, hastalıklı dalları kışın budamak ve tacı havadar tutmaktır.
+@govde
+Elma ağacı hastalıkları, bahçesinde birkaç elma ağacı olan herkesin bir noktada karşılaştığı bir konudur. Yazın lekeli yapraklar, çatlamış meyveler ya da birden kuruyan sürgünler görülür ve çoğu zaman o yıl için yapılabilecek pek bir şey kalmamıştır. İyi haber şu ki elmadaki hastalıkların büyük kısmı kışı ağacın kendisinde ve çevresinde geçirir. Yani kasım ayında yapacağınız birkaç iş, gelecek yazın hasadını doğrudan etkiler. Bu yazıda elmada en sık görülen hastalıkları tanıtıyor ve sonbahardan başlayan bir önleme takvimi sunuyoruz. İlaç dozu vermiyoruz; ruhsatlı ürün gerektiğinde etiket talimatına uyulmalı, ürün seçimi için müşteri hizmetlerimize danışılmalıdır.
+
+## Karaleke (Venturia inaequalis)
+
+Elmanın en yaygın ve en çok ürün kaybettiren hastalığıdır.
+
+**Belirtiler:** İlkbaharda yapraklarda zeytin yeşili, kadifemsi lekeler belirir; lekeler zamanla kararır. Meyvede siyah, kabuksu lekeler ve çatlaklar oluşur. Ağır durumlarda yapraklar yazın erken dökülür.
+
+**Yaşam döngüsü:** Mantar kışı yere dökülen hastalıklı yapraklarda geçirir. İlkbaharda yağmurla birlikte buradan çıkan sporlar yeni sürgünlere bulaşır.
+
+**Önlem:** Sonbaharda dökülen yaprakları toplamak ya da üzerine kompost serip çürümelerini hızlandırmak, ilkbahardaki ilk bulaşmayı belirgin şekilde azaltır. Dayanıklı çeşit seçmek ve tacı havadar tutmak da çok etkilidir.
+
+## Külleme (Podosphaera leucotricha)
+
+**Belirtiler:** Genç sürgün ve yapraklar beyaz, unlu bir tabakayla kaplanır. Yapraklar daralır, kıvrılır; sürgünler gelişemez.
+
+**Yaşam döngüsü:** Mantar kışı tomurcukların içinde geçirir. Bu yüzden külleme görülen ağaçlarda ilkbaharda ilk açan sürgünler beyaz çıkar.
+
+**Önlem:** Kış budamasında beyazlaşmış, cılız sürgünleri kesip bahçeden uzaklaştırın. İlkbaharda beyaz çıkan sürgünleri hemen budayın. Külleme genel olarak birçok bitkide görülür; ayrıntılar için [külleme hastalığı](/kulleme-hastaligi) yazımıza bakabilirsiniz.
+
+## Ateş yanıklığı (Erwinia amylovora)
+
+Bakteriyel ve çok hızlı yayılan bir hastalıktır; elma, armut ve ayvada görülür.
+
+**Belirtiler:** Çiçek ve sürgünler aniden kahverengi-siyaha döner, sanki ateşle yanmış gibi görünür. Sürgün uçları çoban değneği gibi kıvrılır. Nemli havada dallardan sarımsı bir akıntı sızabilir.
+
+**Önlem:** Hastalıklı dalları, görünen sınırın 30–40 cm altından kesin ve yakın ya da bahçeden uzaklaştırın. Her kesimden sonra makası alkol ya da sulandırılmış çamaşır suyuyla temizleyin. Aşırı azotlu gübreleme hastalığı kolaylaştırır. Ateş yanıklığı şüphesinde il ya da ilçe tarım müdürlüğüne bilgi vermek doğru olur.
+
+## Monilya (meyve çürüklüğü)
+
+**Belirtiler:** Meyvelerde kahverengi, hızla büyüyen çürük lekeler ve üzerinde halkalar hâlinde dizilmiş krem renkli kabarcıklar. Çürüyen meyveler dalda kuruyup buruşarak "mumya" hâline gelir.
+
+**Yaşam döngüsü:** Mumya meyveler, ertesi yılın en önemli bulaşma kaynağıdır.
+
+**Önlem:** Dalda kalan ve yere düşen mumya meyveleri sonbaharda mutlaka toplayın. Meyveyi yaralayan böceklerle ve dolu yaralarıyla hastalık kolaylaşır.
+
+## Kök boğazı çürüklüğü ve kanser
+
+**Belirtiler:** Gövde dibinde kabukta koyulaşma ve çökme, yapraklarda erken sararma, sonbaharda yaprakların erkenden kızarması. Dallarda ise kabukta çökük, çatlamış kanser yaraları görülebilir.
+
+**Önlem:** Su biriken topraklara elma dikmeyin, gövde dibine toprak ya da malç yığmayın. Kanserli dalları kış budamasında sağlam dokuya kadar kesin.
+
+## Elma ağacı hastalıkları için sonbahar–kış takvimi
+
+| Dönem | Yapılacak iş | Hangi hastalığa karşı? |
+|---|---|---|
+| Ekim–kasım | Dökülen yaprakları toplayın ya da kompostla örtün | Karaleke |
+| Kasım | Mumya meyveleri daldan ve yerden toplayın | Monilya |
+| Kasım–aralık | Gövdeye kireç badanası, dip temizliği | Kabuk çatlakları, kanser |
+| Ocak–şubat | Kış budaması: hastalıklı, kurumuş ve beyaz sürgünleri kesin | Külleme, kanser, ateş yanıklığı |
+| Şubat sonu | Kış ilaçlaması (ruhsatlı ürün, etiket talimatına göre) | Kışlayan zararlı ve hastalıklar |
+| Çiçeklenme | Çiçek ve sürgünleri kontrol edin | Ateş yanıklığı, külleme |
+
+Gövdeye kireç badanasının yapılışı için [ağaç gövdesine kireç badanası](/agac-govdesine-kirec-badanasi) yazımıza, bahçenin genel kış temizliği için ise [kış öncesi bahçe temizliği ve malçlama](/kis-oncesi-bahce-temizligi-ve-malclama) yazımıza göz atabilirsiniz.
+
+## Budamanın hastalıktaki rolü
+
+Doğru budama, ilaçtan bile önce gelir. Havadar bir taç, yağmurdan sonra yaprakların hızla kurumasını sağlar; karaleke ve külleme için en büyük engel budur. Kış budamasında:
+
+- İçe doğru büyüyen ve birbirine sürtünen dalları çıkarın.
+- Kurumuş, kanserli ve hastalıklı dalları sağlam dokuya kadar kesin.
+- Kesimleri temiz ve keskin bir makasla, dala yakın ama dal yakasını zedelemeden yapın.
+- Hastalıklı dalları kompost yığınına atmayın.
+
+[ürün:budama-makasi]
+
+## Kış ilaçlaması hakkında
+
+Kış ilaçlaması, tomurcuklar uyanmadan önce kabuk ve tomurcuklarda kışlayan zararlı ve hastalık etkenlerini azaltmak için yapılır. Ürün seçimi, zamanı ve dozu bölgeye ve bahçenin geçmişine göre değişir. Ruhsatlı bir ürünü etiket talimatına uygun kullanın; ağacın tamamını, kabuk çatlaklarına kadar ıslatacak şekilde ve rüzgârsız bir günde uygulayın. Bu iş için doğru bir pompa seçimi uygulamanın kalitesini belirler.
+
+[ürün:uzman-16-lt-manuel-ilaclama-pompasi-k-103]
+
+Pompa türlerinin karşılaştırması için [ilaçlama pompası seçimi](/ilaclama-pompasi-secimi-akulu-mu-manuel-mi) yazımıza bakabilirsiniz.
+
+## Dayanıklı çeşit seçimi
+
+Yeni bir elma fidanı dikecekseniz hastalık konusunda en büyük avantajı çeşit seçiminde elde edersiniz. Bazı çeşitler karalekeye, bazıları küllemeye karşı belirgin şekilde daha dayanıklıdır. Fidan alırken fidanlığa bölgenizde hangi çeşitlerin daha az hastalandığını sorun ve aşı anacını öğrenin. Nemli ve yağışlı bölgelerde dayanıklı bir çeşit, yıllar boyunca yapılacak koruma uygulamalarının önemli bir kısmını gereksiz kılar. Bahçede birbirine çok yakın dikilmiş ağaçlar ise hava dolaşımını engellediği için en dayanıklı çeşidi bile hastalığa açık hâle getirir; dikim aralığını çeşidin ve anacın büyüklüğüne göre belirleyin. Fidan dikiminin temel kuralları için [meyve fidanı dikimi](/meyve-fidani-dikimi) yazımıza bakabilirsiniz.
+
+## Sağlıklı ağaç, dirençli ağaç
+
+İyi beslenen ama aşırı azot almayan bir ağaç hastalıklara karşı çok daha dirençlidir. Sonbaharda taç izdüşümüne serilen olgun kompost ya da solucan gübresi toprağı canlandırır ve kökleri kışa hazırlar. Sonbahar beslemesinin ayrıntıları için [meyve ağaçlarında sonbahar gübrelemesi](/meyve-agaclarinda-sonbahar-gubrelemesi) yazımızdan yararlanabilirsiniz.
+
+Elma ağacı hastalıkları ile mücadele, yaz ortasında değil, yaprakların döküldüğü bu günlerde başlar. Temiz bir ağaç dibi, mumyasız dallar ve havadar bir taç, gelecek yılın elmalarını çoğu zaman tek başına korumaya yeter.
+@sss
+S: Elma ağacında yaprakların siyah lekelenmesi neden olur?
+C: En sık neden karaleke hastalığıdır. Yapraklarda önce zeytin yeşili, sonra siyahlaşan lekeler oluşur ve meyvede kabuksu lekeler ve çatlaklar görülür.
+
+S: Elmada karaleke nasıl önlenir?
+C: Sonbaharda dökülen yaprakları toplamak, tacı budayarak havadar tutmak ve dayanıklı çeşit seçmek en etkili önlemlerdir; gerektiğinde ruhsatlı ürün etiket talimatına göre kullanılır.
+
+S: Elma ağacında dallar neden yanmış gibi kurur?
+C: Çiçek ve sürgünlerin aniden kararıp çoban değneği gibi kıvrılması ateş yanıklığı belirtisidir. Hastalıklı dallar sağlam dokunun 30–40 cm altından kesilip uzaklaştırılmalıdır.
+
+S: Dalda kalan çürük elmalar toplanmalı mı?
+C: Mutlaka toplanmalıdır. Mumyalaşan meyveler monilya hastalığının kışlama yeridir ve ertesi yıl yeni bulaşmalara kaynak olur.
+
+### YAZI
+slug: begonya-bakimi
+baslik: Begonya Bakımı: Çiçekli ve Yaprak Begonyaları Evde Yaşatmanın Yolu
+yayin: 2026-11-05 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: begonya bakımı
+seo_baslik: Begonya Bakımı: Işık, Sulama, Toprak ve Çoğaltma
+seo_aciklama: Begonya bakımı nasıl yapılır? Çiçekli, yaprak ve benekli begonya türleri, ışık ve sulama, nem, toprak, külleme ve kök çürüklüğüne karşı önlemler.
+ozet: Begonyalar, çiçekleri ya da desenli yapraklarıyla evin en renkli köşelerini oluşturur. Kökleri ıslaklığa, yaprakları ise kuru havaya hassastır; bu dengeyi kurduğunuzda yıllarca sağlıklı kalırlar.
+etiketler: begonya bakımı, begonya, benekli begonya, salon bitkileri, çiçekli bitkiler
+gorsel: p3-begonya
+gorsel_alt: Saksıda desenli yapraklı begonya
+urunler: hg-cicek-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini
+kisaca: Begonya bakımı için bitki doğrudan güneş almayan aydınlık bir yerde, 18–24 °C'de tutulur. Toprağın üst 2 cm'si kuruyunca dipten ya da toprağa sulanır, yapraklar ıslatılmaz. Süzek, havadar bir toprak ve iyi drenaj şarttır. Nem için saksı ıslak çakıllı tepsiye konur; büyüme döneminde ayda bir seyreltik besin verilir.
+@govde
+Begonya bakımı, ilk bakışta zor gibi görünen ama birkaç kuralı öğrendikten sonra çok keyifli hâle gelen bir konudur. Begonya cinsi binlerce türü ve melezi kapsar: kış boyu çiçek açan saksı begonyaları, gümüşi benekli yapraklarıyla son yılların en sevilen bitkilerinden biri olan benekli begonya, rengârenk desenli rex begonyalar ve yaz bahçelerinin vazgeçilmezi buz begonyaları. Türler farklı görünse de hepsinin ortak bir hassasiyeti var: Kökleri ıslak kalmaya, yaprakları ise kuru havaya dayanamaz. Bu yazıda evde begonya yetiştirmenin temel kurallarını ve en sık yapılan hataları anlatıyoruz.
+
+## Begonya türlerini tanıyalım
+
+| Tür | Öne çıkan özellik | Bakımdaki fark |
+|---|---|---|
+| Çiçekli saksı begonyası (Elatior) | Kışın bol çiçek | Çiçeklenmeden sonra kısa bir dinlenme ister |
+| Benekli begonya (B. maculata) | Gümüşi benekli, kanat şeklinde yapraklar | Destek çubuğu ister, uç almayla gürleşir |
+| Rex begonya | Renkli ve desenli yapraklar | Yüksek nem ister, çiçeği önemsizdir |
+| Buz begonyası (B. semperflorens) | Küçük, sürekli çiçek | Yazın dışarıda, kışın içeride yetişir |
+| Yumrulu begonya | İri, gösterişli çiçekler | Kışın yumru olarak dinlenir |
+
+Çoğu evde rastlanan türler çiçekli saksı begonyası ve benekli begonyadır. Aşağıdaki öneriler genel olarak bütün türler için geçerlidir; farklılıkları tabloda belirttik.
+
+## Işık
+
+Begonyalar aydınlık ama doğrudan güneş almayan yerleri sever. Doğu ya da kuzey cepheli bir pencerenin önü idealdir. Güney ve batı pencerelerinde tül perdeyle süzülmüş ışık gerekir. Doğrudan öğle güneşi yaprakları yakar, desenleri soldurur. Işık yetersiz kalırsa bitki uzar, çiçek açmaz ve yaprak desenleri silikleşir.
+
+## Begonya bakımı: sulama
+
+Sulama, begonyada en çok hata yapılan konudur. Kökler ince ve hassastır; sürekli ıslak toprakta birkaç gün içinde çürüyebilir.
+
+1. **Ne zaman?** Toprağın üst 2 cm'si kuruduğunda. Parmağınızı toprağa batırarak kontrol edin.
+2. **Nasıl?** Suyu yapraklara değil, doğrudan toprağa verin. Islak yapraklar külleme ve yaprak çürüklüğüne davetiye çıkarır.
+3. **Ne kadar?** Saksının altından su gelene kadar sulayın, 15 dakika sonra tabaktaki suyu boşaltın.
+4. **Kışın:** Büyüme yavaşladığı için sulama aralığı uzar; çoğu evde 7–10 günde bir yeterlidir.
+
+Alttan sulama da begonyalar için iyi bir yöntemdir: Saksıyı 15–20 dakika su dolu bir kaba bırakıp toprağın suyu emmesini bekleyin, sonra fazla suyu süzdürün. Genel sulama ilkeleri için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımıza göz atabilirsiniz.
+
+## Nem ve sıcaklık
+
+Begonyalar %50'nin üzerinde nemden hoşlanır. Ancak yapraklarına su püskürtmek iyi bir fikir değildir; özellikle tüylü ve benekli yapraklarda lekelere ve mantara yol açar. Bunun yerine:
+
+- Saksıyı ıslak çakıl dolu bir tepsinin üzerine koyun (saksının dibi suya değmesin).
+- Bitkileri bir arada gruplayın.
+- Kaloriferin hemen yanından uzak tutun.
+
+İdeal sıcaklık 18–24 °C'dir. 15 °C'nin altındaki sıcaklıklar ve soğuk cam begonyayı strese sokar. Kış aylarında evde nemi artırmanın yolları için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza bakabilirsiniz.
+
+## Toprak ve saksı
+
+Begonya hafif, havadar ve iyi süzülen bir toprak ister. Torf ya da kokopit esaslı, perlitle havalandırılmış bir karışım idealdir. Saksı, kök topundan yalnızca birkaç santim geniş olmalıdır; büyük saksıda fazla toprak uzun süre ıslak kalır ve kökleri çürütür. Drenaj deliği olmayan dekoratif saksılar yalnızca kaşpo olarak kullanılmalıdır.
+
+[ürün:hg-cicek-topragi]
+
+Toprak karışımı hazırlamak isterseniz [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazımız oranlar konusunda yol gösterecektir.
+
+## Besleme
+
+İlkbahardan sonbahar sonuna kadar, ayda bir kez çiçekli bitkiler için hazırlanmış bir sıvı besini önerilen dozun yarısıyla verin. Çiçekli saksı begonyaları kış ortasında çiçek açarken de hafif beslenebilir. Aşırı gübre, ince köklerde yanığa ve yaprak kenarlarında kahverengileşmeye yol açar.
+
+[ürün:florist-cicekli-bitkiler-sivi-konsantre-bitki-besini]
+
+## Budama ve uç alma
+
+Benekli begonya ve diğer kamış gövdeli türler zamanla uzayıp çıplaklaşır. İlkbaharda uzun gövdeleri boğum üstünden kesmek, bitkinin alttan yeni sürgün vermesini sağlar. Kesilen uçları da çoğaltmada kullanabilirsiniz. Çiçekli begonyalarda solan çiçekleri düzenli olarak koparın; böylece bitki yeni tomurcuklara enerji ayırır.
+
+## Çoğaltma
+
+Begonyalar çok kolay çoğalır:
+
+- **Gövde çeliği:** 8–10 cm'lik, 2–3 boğumlu bir uç kesilir, alt yaprakları alınır ve suda ya da nemli, perlitli bir toprakta köklendirilir. 2–4 hafta içinde kök verir.
+- **Yaprak çeliği:** Rex begonyada bir yaprağın damarları birkaç yerden çizilip nemli toprağa yatırılırsa çizilen yerlerden yeni bitkiler çıkar.
+- **Bölme:** Köksaplı türler saksı değişimi sırasında bölünebilir.
+
+Çelikleri ilk haftalarda şeffaf bir poşetle örtmek nemi korur ve köklenmeyi hızlandırır.
+
+## Sık karşılaşılan sorunlar
+
+| Belirti | Neden | Çözüm |
+|---|---|---|
+| Yapraklarda beyaz toz | Külleme | Yaprakları ıslatmayın, havalandırın, hastalıklı yaprakları koparın |
+| Gövde dibinde kararma ve yumuşama | Kök ve gövde çürüklüğü | Sulamayı azaltın, sağlam uçları çelik olarak kurtarın |
+| Yaprak kenarlarında kahverengileşme | Kuru hava, fazla gübre | Nemi artırın, gübreyi seyreltin |
+| Uzayan, seyrek bitki | Yetersiz ışık | Daha aydınlık yer, uç alma |
+| Çiçek tomurcuklarının dökülmesi | Ani yer değişikliği, soğuk ya da kuruluk | Sabit yer, düzenli sulama |
+
+Külleme begonyada sık görülür; nedenleri ve önlemleri için [külleme hastalığı](/kulleme-hastaligi) yazımız ayrıntılı bilgi verir.
+
+## Kışın begonya
+
+Kış, begonya için hem çiçek hem de dikkat dönemidir. Kısalan günlerde bitkiyi evin en aydınlık penceresine yaklaştırın ama camla yaprakların temasını önleyin. Sulamayı seyrekleştirin, kaloriferden uzak tutun ve haftada bir yaprak altlarını kontrol edin. Kışın salon bitkilerinin genel bakımı için [kışın salon bitkisi bakımı](/kisin-salon-bitkisi-bakimi) yazımıza göz atabilirsiniz.
+
+Begonya bakımı aslında bir denge işidir: aydınlık ama gölgeli bir yer, ıslak değil nemli bir toprak, kuru değil nemli bir hava. Bu dengeyi bir kez kurduğunuzda begonyanız size her mevsim yeni yapraklar ve çiçeklerle karşılık verecektir.
+@sss
+S: Begonya ne sıklıkla sulanır?
+C: Toprağın üst 2 cm'si kuruduğunda sulanır. Yazın genellikle haftada bir-iki, kışın 7–10 günde bir yeterlidir. Su yapraklara değil toprağa verilmelidir.
+
+S: Begonyanın yaprakları neden beyazlaşır?
+C: Yapraklardaki beyaz, unlu tabaka genellikle külleme hastalığıdır. Yaprakları ıslatmamak, havalandırmak ve hastalıklı yaprakları koparmak gerekir.
+
+S: Begonya güneş sever mi?
+C: Aydınlık ortamı sever ama doğrudan öğle güneşi yapraklarını yakar. Doğu ya da kuzey penceresi, ya da tül perdeyle süzülmüş ışık idealdir.
+
+S: Begonya nasıl çoğaltılır?
+C: En kolay yöntem 8–10 cm'lik gövde çeliğini suda ya da nemli perlitli toprakta köklendirmektir. Rex begonya yaprak çeliğiyle de çoğaltılabilir.
+
+### YAZI
+slug: kahve-telvesi-gubre
+baslik: Kahve Telvesi Gübre Olur mu? Saksıda ve Bahçede Doğru Kullanım
+yayin: 2026-11-05 11:05
+yazar: Ahmet Sacit Çelik
+kategori: gubreleme
+odak: kahve telvesi gübre
+seo_baslik: Kahve Telvesi Gübre Olur mu? Faydası, Zararı, Kullanımı
+seo_aciklama: Kahve telvesi gübre olarak kullanılır mı? Besin içeriği, toprağa etkisi, saksıya doğrudan dökmenin riskleri, kompostta kullanımı ve doğru miktar.
+ozet: Her gün çöpe giden kahve telvesi bahçe için değerli bir organik madde olabilir. Ancak saksıya doğrudan dökülen kalın bir telve tabakası küflenir ve suyu kesebilir; en güvenli yol kompostta ya da toprağa ince karıştırarak kullanmaktır.
+etiketler: kahve telvesi gübre, kahve telvesi, doğal gübre, kompost, saksı bitkileri
+gorsel: p3-kahve-telvesi
+gorsel_alt: Espresso makinesinden çıkan kullanılmış kahve telvesi
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi
+kisaca: Kahve telvesi gübre olarak kullanılabilir ama hızlı etkili bir gübre değildir; yaklaşık %2 azot içeren, yavaş ayrışan bir organik maddedir. En iyi kullanım yolu kompost yığınına eklemektir. Toprağa doğrudan katılacaksa kurutulup ince bir tabaka hâlinde karıştırılmalı, saksılarda toprağın %10'unu geçmemelidir. Yüzeye kalın serilmemelidir.
+@govde
+Kahve telvesi gübre olur mu sorusu, sosyal medyada sıkça karşımıza çıkan "mucize" önerilerden biridir. Kimi telveyi her saksıya dökmeyi önerir, kimi de bitkileri öldürdüğünü söyler. Gerçek ikisinin arasındadır: Kahve telvesi değerli bir organik maddedir, ama doğru kullanılmadığında faydadan çok sorun yaratabilir. Bu yazıda kahve telvesinin içinde ne olduğunu, toprağa gerçekte ne yaptığını ve saksıda, bahçede ve kompostta nasıl kullanılacağını sade bir şekilde anlatıyoruz.
+
+## Kahve telvesinde ne var?
+
+Kullanılmış kahve telvesi, kahve çekirdeğinin suyla demlenmesinden sonra geriye kalan liflerden oluşur. Yaklaşık bileşimi şöyledir:
+
+| Bileşen | Yaklaşık oran | Not |
+|---|---|---|
+| Azot | %1,5–2,5 | Organik bağlı, yavaş açığa çıkar |
+| Potasyum | %0,5–1 | |
+| Fosfor | %0,1–0,3 | Düşük |
+| Magnezyum, kalsiyum ve iz elementler | Az miktarda | |
+| Organik madde | Çok yüksek | Toprak yapısına katkı |
+| Kafein ve fenolik bileşikler | Az miktarda | Bazı bitkilerde çimlenmeyi baskılayabilir |
+
+Azot oranı ilk bakışta iyi görünse de bu azot organik maddeye bağlıdır. Toprak canlıları telveyi ayrıştırdıkça yavaş yavaş açığa çıkar. Yani kahve telvesi bir "besin takviyesi" değil, toprağı besleyen bir organik maddedir.
+
+## Kahve telvesi toprağı asitleştirir mi?
+
+Yaygın inanışın aksine, kullanılmış kahve telvesi toprağı belirgin şekilde asitleştirmez. Asidin büyük kısmı demleme sırasında kahveye geçer; telvenin pH'ı çoğu zaman nötre yakındır (pH 6,5–6,8). Bu yüzden ortanca, yaban mersini ya da açelya gibi asit seven bitkilerin toprağını asitleştirmek için telveye güvenmek doğru değildir. Toprağın gerçekten nasıl asitleştirileceği için [toprak nasıl asitlendirilir](/toprak-nasil-asitlendirilir) yazımıza bakabilirsiniz.
+
+## Kahve telvesi gübre olarak nasıl kullanılır?
+
+### 1. Kompostta (en iyi yol)
+
+Kahve telvesi kompost yığınının en iyi "yeşil" malzemelerinden biridir. Azotça zengin olduğu için kuru yaprak, karton ve saman gibi karbonlu malzemeleri dengeler ve yığının ısınmasına yardımcı olur. Kâğıt filtreleri de telveyle birlikte yığına atabilirsiniz.
+
+- Telveyi kompost yığınının toplam hacminin %15–20'sini geçmeyecek şekilde ekleyin.
+- Kuru yaprak ya da kartonla katmanlar hâlinde karıştırın.
+- Yığını düzenli olarak karıştırarak havalandırın.
+
+Evde ve balkonda kompost yapmanın yolları için [balkonda kompost yapımı](/balkonda-kompost-yapimi) yazımıza göz atabilirsiniz.
+
+### 2. Bahçe toprağına karıştırmak
+
+Telveyi doğrudan bahçe toprağına katmak da mümkündür:
+
+- Telveyi önce birkaç gün yayarak kurutun; ıslak telve topaklanır ve küflenir.
+- Metrekareye en fazla bir iki avuç, ince bir tabaka hâlinde serpin.
+- Çapayla üst 5–10 cm toprağa karıştırın.
+
+Telve toprakta ayrışırken başlangıçta azotu geçici olarak bağlayabilir. Bu yüzden yeni ekilmiş tohumların ve genç fidelerin hemen yanına bol miktarda konulmamalıdır.
+
+### 3. Saksıda
+
+Saksılar telveye en dikkatli yaklaşılması gereken yerdir. Saksıdaki küçük toprak hacminde hata payı azdır.
+
+- Telveyi saksı toprağının hacminin %10'unu geçmeyecek şekilde, yeni toprak hazırlarken karıştırın.
+- Mevcut bir saksının yüzeyine kalın tabaka hâlinde dökmeyin. Islak telve yüzeyde sıkışıp bir kabuk oluşturur, suyun toprağa girmesini engeller ve beyaz-yeşil küf bağlar.
+- Fide ve tohum ekimi yapılan topraklarda kullanmayın.
+
+## Kahve telvesi ile ilgili yanlış bilinenler
+
+- **"Bitkileri hızla büyütür":** Hızlı etkisi yoktur; besinleri yavaş yavaş, aylar içinde açığa çıkar.
+- **"Salyangozları kovar":** Bazı küçük çalışmalarda kısmi etki görülmüştür, ama güvenilir bir koruma yöntemi değildir.
+- **"Her bitkiye iyi gelir":** Bazı bitkilerde, özellikle tohum çimlenmesinde ve genç fidelerde, telvedeki bileşikler gelişmeyi yavaşlatabilir.
+- **"Toprak sineği yapmaz":** Saksı yüzeyinde nemli kalan telve, toprak sineği ve küf için ideal bir ortamdır.
+
+## Kahve telvesi gübre yerine geçer mi?
+
+Kahve telvesi tamamlayıcı bir organik maddedir, tek başına yeterli bir gübre değildir. Fosfor içeriği düşüktür ve besin dengesi bitkilerin ihtiyacını karşılamaz. Saksı bitkilerinde dengeli ve hazır bir organik besin isteyenler için solucan gübresi, kokusuz, yakmayan ve hemen kullanılabilen bir alternatiftir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Sıvı hâldeki solucan gübresi ise sulama suyuyla verilerek büyüme döneminde düzenli destek sağlar.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+Organik ve kimyasal gübrelerin farklarını merak ediyorsanız [solucan gübresi mi kimyasal gübre mi](/solucan-gubresi-mi-kimyasal-gubre-mi) yazımıza göz atabilirsiniz.
+
+## Telveden gerçekten fayda gören bitkiler
+
+Telvenin yavaş ayrışan organik maddesinden en çok bahçe toprağında yetişen ve organik maddeyi seven bitkiler fayda görür:
+
+- Kabak, domates ve biber gibi besin isteği yüksek sebzeler (kompost olarak)
+- Gül ve diğer çalı bitkileri (toprağa ince karıştırarak)
+- Meyve ağaçları (kompostla birlikte taç izdüşümüne)
+
+Telveyi doğrudan saksıya dökmek yerine bu bitkilerin bulunduğu yataklarda ya da kompostta kullanmak çok daha güvenlidir. Organik maddenin toprağa etkisi için [toprak solucanının faydaları](/toprak-solucani-faydalari) yazımız da ilginizi çekebilir; telve, solucanların sevdiği besinlerden biridir.
+
+## Telveyi biriktirirken nelere dikkat etmeli?
+
+Her gün çıkan telveyi biriktirip toplu kullanmak pratiktir, ama ıslak telve kapalı bir kapta birkaç gün içinde küflenir. Telveyi bir tepsiye ya da eski bir gazeteye ince bir tabaka hâlinde yayıp kurutun, sonra ağzı açık bir kavanozda ya da kâğıt torbada saklayın. Kurutulmuş telve hem kompost yığınına hem de toprağa karıştırmaya daha uygundur; topaklanmaz ve eşit dağılır. Şekerli, sütlü ya da aromalı kahvelerden kalan telveyi kullanmayın; bu katkılar küfü ve sinekleri çeker. Türk kahvesi telvesi çok ince olduğu için yüzeyde kolayca kabuk bağlar; bu telveyi mutlaka kompostta ya da toprağa iyice karıştırarak kullanın.
+
+## Kısa özet
+
+| Kullanım | Uygun mu? | Not |
+|---|---|---|
+| Kompost yığını | Evet | Hacmin %15–20'sine kadar |
+| Bahçe toprağı | Evet | Kurutulmuş, ince serpme, karıştırarak |
+| Saksı toprağı hazırlığı | Sınırlı | Hacmin %10'una kadar |
+| Saksı yüzeyine dökmek | Hayır | Küf ve su geçirmeyen kabuk |
+| Tohum ve fide | Hayır | Çimlenmeyi yavaşlatabilir |
+
+Kahve telvesi gübre olarak doğru yerde kullanıldığında mutfaktan bahçeye güzel bir geri dönüşüm sağlar. Sihirli bir çözüm değildir; ama kompostla birlikte kullanıldığında toprağınızın organik maddesini sessizce artıran değerli bir katkıdır.
+@sss
+S: Kahve telvesi hangi bitkilere iyi gelir?
+C: Kompost olarak kullanıldığında domates, kabak, biber, gül ve meyve ağaçları gibi organik maddeyi seven bitkilere fayda sağlar. Tohum ve genç fidelerde kullanılmamalıdır.
+
+S: Kahve telvesi saksıya dökülür mü?
+C: Saksı yüzeyine kalın tabaka hâlinde dökülmemelidir; küflenir ve suyun toprağa girmesini engeller. Yeni toprak hazırlarken hacmin %10'unu geçmeyecek şekilde karıştırılabilir.
+
+S: Kahve telvesi toprağı asitleştirir mi?
+C: Belirgin şekilde asitleştirmez. Kullanılmış telvenin pH'ı genellikle nötre yakındır; asit seven bitkiler için güvenilir bir asitleştirici değildir.
+
+S: Kahve telvesi kompostta nasıl kullanılır?
+C: Yığının toplam hacminin %15–20'sini geçmeyecek şekilde, kuru yaprak ve karton gibi karbonlu malzemelerle katmanlar hâlinde karıştırılır.
+
+### YAZI
+slug: toprak-nasil-asitlendirilir
+baslik: Toprak Nasıl Asitlendirilir? Ortanca, Yaban Mersini ve Açelya İçin Yöntemler
+yayin: 2026-11-05 12:25
+yazar: Rümeysa Altınova
+kategori: toprak-rehberi
+odak: toprak nasıl asitlendirilir
+seo_baslik: Toprak Nasıl Asitlendirilir? Kükürt, Torf ve Doğru Su
+seo_aciklama: Toprak nasıl asitlendirilir? Kireçli toprakta pH düşürme, toz kükürt, asidik torf, saksıda asidik karışım, sulama suyu ve kalıcı sonuç için öneriler.
+ozet: Ortanca, yaban mersini, açelya ve aronya gibi bitkiler asidik toprak ister. Kireçli bahçe toprağını asitleştirmek mümkün ama yavaş bir süreçtir; çoğu durumda en güvenilir sonuç asidik bir karışımla hazırlanmış yatak ya da saksıyla alınır.
+etiketler: toprak nasıl asitlendirilir, asidik toprak, toprak ph, kükürt, asidik torf
+gorsel: p3-toprak-asit
+gorsel_alt: Botanik bahçesinde asidik torflu toprakla hazırlanmış bitki yatağı
+urunler: hg-asidik-torf, yaban-mersini-ve-ortanca-topragi, ortanca-bogurtlen-acelya-topragi
+kisaca: Toprak nasıl asitlendirilir sorusunun cevabı toprağa ve bitkiye göre değişir. Bahçede pH'ı kalıcı düşürmenin yolu toz kükürt ve bol asidik organik maddedir; etkisi aylar sürer. Hızlı ve güvenilir sonuç için asit seven bitkiler asidik torf karışımıyla doldurulmuş saksı ya da yükseltilmiş yatakta yetiştirilir ve kireçsiz suyla sulanır.
+@govde
+Toprak nasıl asitlendirilir sorusu, genellikle bir hayal kırıklığından sonra sorulur: Alınan ortanca mavi açmıyordur, yaban mersini yaprakları sararıp kızarmaya başlamıştır ya da açelya bir türlü gelişmez. Bu bitkilerin ortak noktası asidik toprak istemeleridir. Ülkemizin büyük bölümünde ise toprak kireçli ve pH'ı yüksektir. Bu yazıda toprağın neden asitleştirilmesi gerektiğini, bahçede ve saksıda hangi yöntemlerin gerçekten işe yaradığını ve hangilerinin zaman kaybı olduğunu anlatıyoruz.
+
+## Hangi bitkiler asidik toprak ister?
+
+| Bitki | İdeal pH | Kireçli topraktaki belirti |
+|---|---|---|
+| Yaban mersini | 4,5–5,5 | Yaprak sararması, kızarma, gelişme durması |
+| Açelya ve orman gülü | 4,5–6,0 | Damar arası sararma, çiçeklenmenin azalması |
+| Ortanca (mavi çiçek için) | 5,0–5,5 | Çiçeklerin pembeye dönmesi, sararma |
+| Kamelya, gardenya | 5,0–6,0 | Sararma, tomurcuk dökülmesi |
+| Aronya | 5,5–6,5 | Hafif sararma |
+| Kestane, çay | 5,0–6,5 | Gelişme geriliği |
+
+Kireçli toprakta bu bitkilerin yaprakları sararır, çünkü yüksek pH'ta demir ve mangan alınamaz. Belirtilerin ayrıntısı için [bitkilerde demir eksikliği](/bitkilerde-demir-eksikligi) yazımıza bakabilirsiniz.
+
+## Önce ölçün
+
+Toprağı asitleştirmeye başlamadan önce pH'ını bilmek gerekir. Basit bir pH ölçer ya da test seti birkaç dakikada fikir verir. Kireç içeriğini anlamak için de pratik bir yöntem vardır: Bir avuç toprağın üzerine birkaç damla sirke dökün. Toprak köpürüyorsa serbest kireç içeriyordur ve asitleştirmek zordur. pH kavramı ve ölçümü için [toprak pH nedir](/toprak-ph-nedir) yazımıza göz atabilirsiniz.
+
+## Toprak nasıl asitlendirilir: bahçe toprağında yöntemler
+
+### Toz kükürt
+
+Bahçe toprağında pH'ı kalıcı olarak düşürmenin en yaygın yolu elementel (toz) kükürttür. Kükürt toprakta bakteriler tarafından yavaş yavaş sülfürik aside dönüştürülür.
+
+- **Etki süresi:** Toprak sıcak ve nemliyken birkaç ayda başlar, tam etki 6–12 ay sürebilir.
+- **Miktar:** Toprak tipine ve hedef pH'a göre değişir. Kumlu topraklar az, killi ve organik maddesi yüksek topraklar daha fazla kükürt ister. Ambalajdaki tabloya ve mümkünse toprak analizine göre hareket edin.
+- **Uygulama:** Sonbaharda ya da ilkbahar başında toprağa eşit serpip üst 15–20 cm'ye karıştırın.
+- **Kontrol:** 6 ay sonra pH'ı yeniden ölçün, gerekirse ikinci uygulama yapın.
+
+Serbest kireci yüksek topraklarda kükürt kireçle tepkimeye girip harcanır ve pH bir süre sonra eski hâline döner. Bu topraklarda kükürt tek başına kalıcı bir çözüm değildir.
+
+### Asidik organik madde
+
+Asidik torf, çam kabuğu kompostu, çam iğnesi ve yaprak kompostu, toprağın yapısını iyileştirirken pH'ı da hafifçe düşürür. Asıl faydaları toprağın tampon kapasitesini artırmalarıdır.
+
+- Dikim yatağını hazırlarken toprağın en az üçte biri oranında asidik torf karıştırın.
+- Her yıl çam kabuğu ya da çam iğnesiyle malçlayın.
+
+[ürün:hg-asidik-torf]
+
+### Asitleştirici gübreler
+
+Amonyum sülfat gibi bazı gübreler toprağı zamanla asitleştirir. Ancak bunlar gübre olarak kullanılmalı, asitleştirme amacıyla aşırı miktarda verilmemelidir; tuz birikimine ve kök yanığına yol açar.
+
+## İşe yaramayan ya da riskli yöntemler
+
+- **Kahve telvesi:** Kullanılmış telve neredeyse nötrdür; toprağı belirgin şekilde asitleştirmez. Ayrıntılar için [kahve telvesi gübre olur mu](/kahve-telvesi-gubre) yazımıza bakabilirsiniz.
+- **Sirke:** Etkisi birkaç gün sürer, toprak canlılarına ve köklere zarar verebilir.
+- **Limon suyu:** Aynı şekilde kısa süreli ve dengesizdir.
+- **Demir sülfatın aşırı kullanımı:** Hızlı etki eder ama fazlası köklere ve toprak canlılarına zararlıdır, yüzeylerde pas lekesi bırakır.
+
+## En güvenilir yol: asidik yatak ya da saksı
+
+Kireçli bölgelerde asit seven bir bitkiyi bahçe toprağına dikip toprağı yıllarca asitleştirmeye çalışmak, çoğu zaman kaybedilen bir savaştır. Daha güvenilir yöntem, bitkiye kendi toprağını vermektir:
+
+1. **Yükseltilmiş yatak:** 30–40 cm yüksekliğinde, altına geçirgen bir örtü serilmiş bir yatak hazırlayın ve asidik bir karışımla doldurun. Böylece kireçli alt toprakla temas en aza iner.
+2. **Büyük saksı:** Yaban mersini ve açelya saksıda çok iyi yetişir. En az 30–40 litrelik bir saksı ve asidik bir karışım kullanın.
+3. **Dikim çukuru:** Bahçeye dikilecekse geniş bir çukur açıp asidik karışımla doldurmak birkaç yıl iyi sonuç verir, ama çevredeki kireçli toprak zamanla karışıma sızar.
+
+[ürün:yaban-mersini-ve-ortanca-topragi]
+
+Saksıda yaban mersini yetiştirmenin ayrıntıları için [saksıda yaban mersini yetiştirme](/saksida-yaban-mersini-yetistirme) yazımıza, aronya için ise [aronya toprağı](/aronya-topragi) yazımıza bakabilirsiniz.
+
+## Sulama suyu: gözden kaçan etken
+
+Toprağı asitleştirdiniz ama birkaç yıl sonra bitki yeniden sararmaya başladıysa, sorun büyük ihtimalle sulama suyudur. Kireçli şebeke ya da kuyu suyu, her sulamada toprağa kalsiyum karbonat taşır ve pH'ı yavaş yavaş yükseltir.
+
+- **Yağmur suyu:** Asit seven bitkiler için en iyi sudur. Bir yağmur suyu deposu kurmak uzun vadede en etkili yatırımdır.
+- **Bekletilmiş su:** Şebeke suyunu bir gece bekletmek klorun uçmasını sağlar ama kireci gidermez.
+- **Arıtılmış su:** Saksılar için pratik bir çözümdür.
+
+## Ortanca rengini değiştirmek
+
+Ortancanın mavi açması için toprağın asidik olması ve bitkinin alüminyuma ulaşabilmesi gerekir. pH 5,5'in altında mavi, 6,5'in üzerinde pembe tonlar baskındır. Kireçli toprakta mavi ortanca için asidik bir saksı karışımı ve kireçsiz su en güvenilir yoldur. Ortanca bakımının diğer konuları için [ortanca bakımı](/ortanca-bakimi-ve-cicek-actirma-rehberi) yazımıza göz atabilirsiniz.
+
+## Asitleştirme sonrası bakım
+
+Asitleştirilen bir toprak, kendi hâline bırakıldığında yavaş yavaş eski pH değerine döner. Bu yüzden her yıl ilkbaharda pH'ı kontrol etmek ve çam kabuğu malçını tazelemek iyi bir alışkanlıktır. Asit seven bitkileri beslerken de kireçli gübrelerden ve odun külünden uzak durun.
+
+## Kısa özet
+
+- Önce pH'ı ölçün, sirke testiyle kireci kontrol edin.
+- Bahçe toprağında kükürt ve asidik organik madde kullanın, sabırlı olun.
+- Kireçli bölgelerde asit seven bitkileri asidik karışımlı saksı ya da yükseltilmiş yatakta yetiştirin.
+- Kireçsiz suyla sulayın.
+
+Toprak nasıl asitlendirilir sorusunun en dürüst cevabı şudur: Hafif kireçli topraklarda kükürt ve organik maddeyle mümkündür, çok kireçli topraklarda ise bitkiye kendi asidik toprağını vermek her zaman daha iyi sonuç verir.
+@sss
+S: Toprak nasıl asitlendirilir?
+C: Bahçe toprağında toz kükürt ve asidik torf gibi asidik organik maddelerle yavaş yavaş asitleştirilir. Çok kireçli topraklarda asit seven bitkiler asidik karışımla doldurulmuş saksı ya da yükseltilmiş yatakta yetiştirilmelidir.
+
+S: Toprağa kükürt atılınca ne kadar sürede etki eder?
+C: Toprak sıcak ve nemliyken etkisi birkaç ayda başlar, tam etki 6–12 ay sürebilir. Bu sürenin sonunda pH yeniden ölçülmelidir.
+
+S: Kahve telvesi toprağı asitleştirir mi?
+C: Belirgin şekilde asitleştirmez. Kullanılmış telvenin pH'ı genellikle nötre yakındır.
+
+S: Toprağın kireçli olduğu nasıl anlaşılır?
+C: Bir avuç toprağın üzerine birkaç damla sirke döküldüğünde köpürme görülüyorsa toprak serbest kireç içeriyordur. Kesin değer için pH ölçümü yapılmalıdır.
+
+### YAZI
+slug: sebze-ekim-araliklari
+baslik: Sebze Ekim Aralıkları: Sıra Arası ve Sıra Üzeri Mesafe Tablosu
+yayin: 2026-11-05 13:45
+yazar: Muhammed Hamza Çelik
+kategori: ekim-takvimi
+odak: sebze ekim aralıkları
+seo_baslik: Sebze Ekim Aralıkları: Sıra Arası ve Sıra Üzeri Tablo
+seo_aciklama: Sebze ekim aralıkları tablosu: Domates, biber, lahana, marul, soğan ve diğer sebzeler için sıra arası ve sıra üzeri mesafe, yatak ve saksıda yoğun dikim.
+ozet: Sebzeleri doğru aralıkla dikmek, verimi artırmanın en ucuz yoludur. Çok sık dikilen bitkiler ışık, su ve besin için yarışır ve hastalanır; çok seyrek dikim ise alanı boşa harcar ve yabani ota yer açar.
+etiketler: sebze ekim aralıkları, dikim mesafesi, sebze bahçesi, sıra arası, yükseltilmiş yatak
+gorsel: p3-ekim-aralik
+gorsel_alt: Sebze bahçesinde düzenli aralıklarla dikilmiş sebze sıraları
+urunler: raco-fide-dikme-aleti, 45-goz-yuvarlak-fide-viyolu, moduler-yukseltilmis-bahce-yatagi-153-litre
+kisaca: Sebze ekim aralıkları bitkinin olgun hâlindeki boyuna göre belirlenir. Domates 50–60 cm, biber ve patlıcan 40–50 cm, lahana ve karnabahar 50–60 cm, marul 25–30 cm, ıspanak ve roka 5–10 cm, havuç ve turp 3–5 cm sıra üzeri mesafe ister. Yükseltilmiş yatakta sıra arası daraltılarak yoğun dikim yapılabilir.
+@govde
+Sebze ekim aralıkları, fide dikerken ya da tohum ekerken çoğu zaman göz kararı geçilen ama hasadı doğrudan etkileyen bir konudur. Mayısta küçücük görünen bir domates fidesi, temmuzda bir metreyi aşan bir bitkiye dönüşür. Sık dikilen fideler büyüdükçe birbirini gölgeler, yapraklar arasında hava dolaşmaz ve mantar hastalıkları kolayca yayılır. Öte yandan aşırı seyrek dikim, değerli bahçe alanını boşa harcar ve yabani otlara yer açar. Bu yazıda en yaygın sebzeler için sıra arası ve sıra üzeri mesafeleri bir tabloda topluyor, yükseltilmiş yataklarda ve saksılarda alanı daha verimli kullanmanın yollarını anlatıyoruz.
+
+## Sıra arası ve sıra üzeri ne demek?
+
+- **Sıra üzeri:** Aynı sıradaki iki bitki arasındaki mesafe.
+- **Sıra arası:** İki sıra arasındaki mesafe. Geleneksel tarla düzeninde, çapalama ve yürüme için genellikle sıra üzerinden daha geniştir.
+
+Yükseltilmiş yatakta ya da bahçede yürüme yolu ayrıldıysa sıra arası daraltılabilir; bitkiler her yönden eşit mesafede dikildiğinde alan çok daha verimli kullanılır.
+
+## Sebze ekim aralıkları tablosu
+
+| Sebze | Sıra üzeri | Sıra arası (tarla) | Yatakta eşit aralık |
+|---|---|---|---|
+| Domates (sırık) | 50–60 cm | 80–100 cm | 50 cm |
+| Domates (bodur) | 40–50 cm | 70–80 cm | 45 cm |
+| Biber | 40–50 cm | 60–70 cm | 40 cm |
+| Patlıcan | 50 cm | 70–80 cm | 50 cm |
+| Salatalık (sırık) | 30–40 cm | 100–120 cm | 30 cm, destekli |
+| Kabak | 80–100 cm | 100–120 cm | Bitki başına 1 m² |
+| Fasulye (sırık) | 20–30 cm | 70–80 cm | 20 cm, destekli |
+| Fasulye (oturak) | 10–15 cm | 40–50 cm | 15 cm |
+| Bezelye | 5–8 cm | 50–60 cm | 7 cm, destekli |
+| Bakla | 15–20 cm | 50–60 cm | 20 cm |
+| Lahana, karnabahar, brokoli | 50–60 cm | 60–70 cm | 50 cm |
+| Karalahana | 40–50 cm | 50–60 cm | 40 cm |
+| Marul | 25–30 cm | 30–40 cm | 25 cm |
+| Ispanak | 8–10 cm | 25–30 cm | 10 cm |
+| Roka, tere | 3–5 cm | 15–20 cm | Serpme |
+| Pazı | 25–30 cm | 40 cm | 25 cm |
+| Kuru soğan | 8–10 cm | 25–30 cm | 10 cm |
+| Sarımsak | 10–15 cm | 25–30 cm | 12 cm |
+| Pırasa | 12–15 cm | 30–40 cm | 15 cm |
+| Havuç | 3–5 cm | 20–25 cm | 5 cm |
+| Turp | 3–5 cm | 15–20 cm | 5 cm |
+| Pancar | 8–10 cm | 25–30 cm | 10 cm |
+| Patates | 30–35 cm | 60–70 cm | 30 cm |
+| Mısır | 25–30 cm | 70–80 cm | Blok hâlinde, 30 cm |
+
+Bu değerler genel bir rehberdir. Tohum paketinde çeşit için önerilen mesafe yazıyorsa ona öncelik verin; bazı çeşitler belirgin şekilde daha iri ya da daha küçük olabilir.
+
+## Mesafeyi neye göre ayarlamalı?
+
+- **Çeşidin olgun boyu:** Sırık domates bodur domatesten, kış lahanası erkenci lahanadan daha fazla alan ister.
+- **Toprağın verimliliği:** Organik maddesi yüksek, iyi beslenen topraklarda bitkiler daha iri olur; mesafeyi biraz artırmak gerekebilir.
+- **Mevsim ve iklim:** Nemli ve serin dönemlerde mantar riskini azaltmak için mesafeyi geniş tutun. Kurak ve sıcak dönemlerde biraz daha sık dikim toprağı gölgeler ve nemi korur.
+- **Hasat şekli:** Marulu baş olarak değil yaprak yaprak hasat edecekseniz daha sık dikebilirsiniz.
+
+## Tohumla ekimde seyreltme
+
+Havuç, turp, ıspanak ve pancar gibi doğrudan ekilen sebzelerde tohumlar genellikle sık ekilir, çünkü her tohum çimlenmez. Fideler 2–4 yapraklı olduğunda tablodaki sıra üzeri mesafeye göre seyreltilmelidir. Seyreltme yapılmayan havuç sıralarında kökler incelir ve birbirine dolanır. Seyreltmeyi nemli toprakta yapın ve kalan bitkilerin köklerini zedelememek için fazlalıkları çekmek yerine makasla dipten kesin. Seyreltilen genç ıspanak ve roka yaprakları salatada değerlendirilebilir.
+
+Tohumların doğru derinliğe ekilmesi için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazımıza da göz atabilirsiniz.
+
+## Fide dikiminde pratik yöntemler
+
+1. **İp ve kazık:** Sıra boyunca bir ip gerin; düz sıra hem görüntü hem bakım açısından kolaylık sağlar.
+2. **Ölçü çubuğu:** Bir çıtanın üzerine 10'ar santimlik işaretler koyun; her dikimde yeniden ölçmek zorunda kalmazsınız.
+3. **Şaşırtmalı dikim:** Komşu sıralardaki bitkileri karşı karşıya değil, zikzak düzende dikin. Bu yöntem aynı alana yaklaşık %15 daha fazla bitki sığdırır ve ışıktan daha iyi yararlanılmasını sağlar.
+4. **Dikim aleti:** Sivri uçlu bir dikim aleti aynı derinlikte, hızlı ve düzgün delikler açar.
+
+[ürün:raco-fide-dikme-aleti]
+
+Fideleri viyolde hazırlamak, dikimde hem zaman hem de düzen kazandırır.
+
+[ürün:45-goz-yuvarlak-fide-viyolu]
+
+## Yükseltilmiş yatakta yoğun dikim
+
+Yükseltilmiş yatakta üzerine basılmadığı için toprak sıkışmaz ve kökler daha derine iner. Bu sayede bitkiler tarla düzenine göre daha sık dikilebilir. Yaygın bir yaklaşım, yatağı 30 × 30 cm'lik karelere bölmektir:
+
+| Kare başına bitki | Örnek sebzeler |
+|---|---|
+| 1 bitki | Domates, biber, patlıcan, lahana, brokoli |
+| 4 bitki | Marul, pazı, karalahana, maydanoz |
+| 9 bitki | Ispanak, pancar, sarımsak, kuru soğan, bezelye |
+| 16 bitki | Havuç, turp, taze soğan |
+
+Yoğun dikimin işe yaraması için toprağın organik maddece zengin olması ve düzenli beslenmesi şarttır. Yükseltilmiş yatak kurmanın adımları için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazımıza bakabilirsiniz.
+
+## Kış bahçesinde aralık
+
+Kasım ve aralık aylarında dikilen ıspanak, marul, karalahana ve pırasa gibi kışlık sebzelerde, yaz sebzelerine göre biraz daha geniş aralık bırakmak iyi bir fikirdir. Kışın yapraklar yavaş kurur; sık dikilen bitkilerde mildiyö ve yaprak lekeleri hızla yayılır. Kışın yetiştirilebilecek sebzelerin listesi için [kışlık sebzeler listesi](/kislik-sebzeler-listesi) yazımıza göz atabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Fidenin bugünkü boyuna bakmak:** Mesafe her zaman bitkinin olgun boyuna göre belirlenir.
+- **Seyreltmeyi ertelemek:** Geç kalınan seyreltme, kalan bitkilerin köklerini de zedeler.
+- **Sırık sebzelerde desteği unutmak:** Domates, salatalık ve sırık fasulye desteksiz bırakıldığında yere yatar ve önerilen aralık anlamını yitirir.
+- **Her sebzeyi aynı aralıkla dikmek:** Marul ile lahananın alan ihtiyacı arasında iki kat fark vardır.
+
+Doğru sebze ekim aralıkları, daha az hastalık, daha kolay bakım ve daha bol hasat demektir. Tabloyu yazdırıp bahçe defterinize eklemek, her sezon aynı soruyu yeniden sormaktan kurtarır. Toprak hazırlığının adımları için [bahçe toprağı hazırlığı](/bahce-topragi-hazirligi) yazımızdan yararlanabilirsiniz.
+@sss
+S: Domates fidesi kaç cm arayla dikilir?
+C: Sırık domates sıra üzeri 50–60 cm, sıra arası 80–100 cm; bodur domates ise sıra üzeri 40–50 cm arayla dikilir.
+
+S: Marul kaç cm arayla dikilir?
+C: Baş marul için sıra üzeri 25–30 cm, sıra arası 30–40 cm uygundur. Yaprak yaprak hasat edilecek marullar biraz daha sık dikilebilir.
+
+S: Havuç tohumu nasıl seyreltilir?
+C: Fideler 2–4 yapraklı olduğunda bitkiler arasında 3–5 cm kalacak şekilde fazlalıklar dipten kesilerek seyreltilir.
+
+S: Yükseltilmiş yatakta sebzeler daha sık dikilebilir mi?
+C: Evet. Toprak sıkışmadığı için 30 × 30 cm'lik karelerde domatesten bir, maruldan dört, ıspanaktan dokuz, havuçtan on altı bitki yetiştirilebilir.
+
+### YAZI
+slug: pirasa-yetistirme
+baslik: Pırasa Yetiştirme: Uzun ve Beyaz Gövde İçin Dikimden Hasada Rehber
+yayin: 2026-11-05 15:10
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: pırasa yetiştirme
+seo_baslik: Pırasa Yetiştirme: Dikim, Boğaz Doldurma ve Kış Hasadı
+seo_aciklama: Pırasa yetiştirme rehberi: Fide hazırlama, derin dikim, boğaz doldurma ile beyaz gövde, toprak ve gübre isteği, hastalıklar ve kış boyunca hasat.
+ozet: Pırasa, kış bahçesinin en dayanıklı sebzelerinden biridir. Derin dikim ve boğaz doldurmayla uzun, beyaz gövdeler elde edilir; bitkiler aralıktan marta kadar tarlada bekletilerek ihtiyaç oldukça sökülür.
+etiketler: pırasa yetiştirme, pırasa, kışlık sebze, soğangiller, boğaz doldurma
+gorsel: p3-pirasa
+gorsel_alt: Bahçede sıra hâlinde yetişen pırasalar
+urunler: hasturk-kati-solucan-gubresi, solucan-gubreli-sebze-topragi
+kisaca: Pırasa yetiştirme için fideler yazın ve sonbaharda 15–20 cm derinliğe, 12–15 cm arayla dikilir. Beyaz ve uzun gövde için büyüme boyunca 2–3 kez dibine toprak çekilir. Pırasa organik maddesi yüksek, nemli ama su birikmeyen toprak ister ve azota düzenli ihtiyaç duyar. Soğuğa dayanıklıdır; kış boyunca tarladan sökülerek hasat edilir.
+@govde
+Pırasa yetiştirme, kış sofralarında yeri ayrı olan bu sebzeyi kendi bahçesinden toplamak isteyenler için sabır gerektiren ama oldukça kolay bir iştir. Pırasa soğan ve sarımsakla aynı aileden gelir; ama onlardan farklı olarak soğan yapmaz, uzun ve beyaz bir gövde oluşturur. Bu gövdenin uzunluğu ve beyazlığı, dikim derinliğine ve dibine çekilen toprağa bağlıdır. İyi haber şu ki pırasa soğuğa son derece dayanıklıdır; birçok bölgede kış boyunca tarlada kalır ve ihtiyaç duydukça sökülür. Bu yazıda pırasayı fide hazırlığından kış hasadına kadar adım adım anlatıyoruz.
+
+## Pırasa yetiştirme takvimi
+
+| Dönem | Yapılacak iş |
+|---|---|
+| Şubat–nisan | Tohumların viyolde ya da fide yatağında ekilmesi |
+| Haziran–ağustos | Kalem kalınlığındaki fidelerin dikimi (kışlık pırasa) |
+| Eylül–ekim | Ilıman bölgelerde geç dikim |
+| Ağustos–ekim | Boğaz doldurma (2–3 kez) |
+| Kasım–mart | Kış hasadı |
+
+Kasım ayı, pırasada dikim için genellikle geç bir zamandır; ama bakımı ve hasadı açısından tam sezonudur. Ilıman kıyı bölgelerinde eylül sonuna kadar dikilen fideler kış sonuna doğru hasat edilebilir. Kış boyunca bahçede yetişen diğer sebzeler için [karadeniz kış bahçesi](/karadeniz-kis-bahcesi) yazımıza da göz atabilirsiniz.
+
+## Fide hazırlama
+
+Pırasa tohumdan fide olarak yetiştirilir ve dikime hazır olması 10–12 hafta sürer.
+
+1. Tohumları viyole ya da fide yatağına 1 cm derinliğe ekin.
+2. Çimlenme 15–20 °C'de 10–14 gün sürer.
+3. Fideler sık çıktıysa 2–3 cm arayla seyreltin.
+4. Fideler kalem kalınlığına ve 15–20 cm boya ulaştığında dikime hazırdır.
+
+Hazır fide alacaksanız koyu yeşil, dik duran ve kök boğazı sağlam fideler seçin.
+
+## Toprak hazırlığı
+
+Pırasa besin isteği yüksek, uzun süre tarlada kalan bir sebzedir. Bu yüzden toprak hazırlığı önemlidir:
+
+- **Organik madde:** Dikimden önce metrekareye 3–5 kg olgun kompost ya da solucan gübresi karıştırın.
+- **Derinlik:** Toprağı en az 30 cm derinliğe kadar gevşetin; uzun gövde için derin ve yumuşak toprak gerekir.
+- **Drenaj:** Kışın su biriken yerlerde pırasa çürür. Ağır topraklarda masura üzerine dikin.
+- **pH:** 6,0–7,5 arası idealdir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Dikim: derin dikimin sırrı
+
+Pırasa yetiştirme sürecinde en önemli adım dikimdir. Gövdenin toprak altında kalan kısmı güneş görmediği için beyaz kalır; bu yüzden pırasa derin dikilir.
+
+1. **Fideyi hazırlayın:** Köklerini 2–3 cm'ye, yaprak uçlarını hafifçe kısaltın. Bu işlem kökleşmeyi hızlandırır ve dikimi kolaylaştırır.
+2. **Delik açın:** Bir dikim çubuğuyla 15–20 cm derinliğinde, parmak kalınlığında delikler açın. Delikler arası 12–15 cm, sıra arası 30–40 cm olsun.
+3. **Fideyi yerleştirin:** Fideyi deliğe bırakın; yalnızca yaprakların bir kısmı dışarıda kalsın.
+4. **Toprak doldurmayın:** Deliği toprakla doldurmak yerine bol su verin. Su, köklerin çevresine yeterli toprağı taşır; delik zamanla kendiliğinden dolar ve gövde büyüdükçe genişler.
+
+Alternatif olarak 15–20 cm derinliğinde bir hendek açıp fideleri hendeğin dibine dikebilir, büyüdükçe hendeği doldurabilirsiniz.
+
+## Boğaz doldurma
+
+Pırasa büyüdükçe dibine toprak çekmek (boğaz doldurma) beyaz gövdeyi uzatır.
+
+- Dikimden 4–6 hafta sonra ilk boğaz doldurmayı yapın.
+- Her seferinde 5–8 cm toprak çekin; toprağın yaprakların ayrıldığı noktaya kadar çıkmamasına dikkat edin, aksi hâlde yaprak aralarına toprak dolar.
+- Büyüme dönemi boyunca 2–3 kez tekrarlayın.
+
+Bazı bahçıvanlar toprak yerine gövdenin etrafına karton boru ya da kalın kâğıt sarar; bu yöntem gövdeyi temiz ve kumsuz tutar.
+
+## Sulama ve gübreleme
+
+- **Sulama:** Yaz ve sonbaharda toprak sürekli hafif nemli tutulmalıdır. Kuraklık gövdenin sertleşmesine ve incelmesine yol açar. Kış yağmurları başladığında sulama genellikle gerekmez.
+- **Gübreleme:** Pırasa yaprak ve gövdesiyle büyüyen bir sebze olduğu için azota düzenli ihtiyaç duyar. Dikimden sonra 3–4 haftada bir hafif bir organik besin desteği, özellikle eylül sonuna kadar faydalıdır. Kış aylarında azotu kesin; soğukta nitrat birikimi riski artar.
+- **Malç:** Sıra aralarına serilen malç nemi korur ve yabani otları bastırır.
+
+[ürün:solucan-gubreli-sebze-topragi]
+
+## Hastalıklar ve zararlılar
+
+Pırasa, soğangillerin hastalıklarını paylaşır:
+
+| Sorun | Belirti | Önlem |
+|---|---|---|
+| Pas | Yapraklarda turuncu kabarcıklar | Havadar dikim, dengeli azot |
+| Mildiyö | Uzunlamasına soluk lekeler, gri küf | Seyrek dikim, sabah sulaması |
+| Beyaz çürüklük | Kök çürümesi, beyaz küf | Ekim nöbeti, hastalıklı bitkiyi sökmek |
+| Pırasa güvesi | Yaprak içinde tüneller | Genç bitkileri tülle örtmek |
+| Trips | Yapraklarda gümüşi çizgiler | Su püskürtmek, doğal düşmanları korumak |
+
+Soğangillerde görülen hastalıklar hakkında ayrıntılı bilgi için [soğan hastalıkları](/sogan-hastaliklari) ve [sarımsak hastalıkları](/sarimsak-hastaliklari) yazılarımıza bakabilirsiniz. Aynı yere en az 3 yıl soğangil dikmemek, toprak kaynaklı hastalıkların birikmesini önler.
+
+## Kış hasadı ve saklama
+
+Pırasa gövdesi 2–3 cm kalınlığa ulaştığında hasat edilebilir. Kışlık çeşitler –10 °C'ye kadar dayanabilir; bu yüzden en iyi saklama yeri toprağın kendisidir.
+
+- Hasat için pırasayı yukarı çekmeyin; bir bel küreğiyle yanından gevşetip öyle sökün.
+- Sert don beklenen günlerden önce birkaç gün yetecek kadar pırasayı söküp serin bir yerde saklayın; donmuş toprakta sökmek zordur.
+- Sökülen pırasa, yaprakları kısaltılıp nemli kumda dik olarak birkaç hafta saklanabilir.
+- İlkbaharda çiçek sapı oluşmaya başladığında gövde sertleşir; hasadı mart sonuna kadar tamamlayın.
+
+Kök sebzelerle birlikte kışlık saklama yöntemleri için [kışlık sebze saklama](/kislik-sebze-saklama) yazımıza göz atabilirsiniz.
+
+## Saksıda pırasa
+
+Pırasa en az 30 cm derinliğinde geniş saksılarda da yetişebilir. Saksı ne kadar derinse gövde o kadar uzun olur. Organik maddece zengin bir sebze toprağı kullanın, fideleri 10 cm arayla derin dikin ve düzenli sulayın. Balkonda pırasa yetiştirmek, kışın taze yeşil yaprak ve ince gövde sağlamanın keyifli bir yoludur.
+
+Pırasa yetiştirme sabır gerektirir ama emeğinin karşılığını bütün kış verir: derin bir delik, birkaç kez çekilen toprak ve düzenli su. Sonuç, kar altında bile bahçede sizi bekleyen uzun ve beyaz gövdelerdir.
+@sss
+S: Pırasa ne zaman dikilir?
+C: Kışlık pırasa fideleri haziran–ağustos aylarında, ılıman kıyı bölgelerinde eylül sonuna kadar dikilir. Tohumlar ise şubat–nisan arasında viyolde ekilir.
+
+S: Pırasa neden derin dikilir?
+C: Gövdenin toprak altında kalan kısmı güneş görmediği için beyaz kalır. Derin dikim ve boğaz doldurma uzun ve beyaz bir gövde sağlar.
+
+S: Pırasa kışın tarlada kalır mı?
+C: Kalır. Kışlık çeşitler –10 °C'ye kadar dayanır; en iyi saklama yeri topraktır ve ihtiyaç oldukça sökülür.
+
+S: Pırasa saksıda yetişir mi?
+C: En az 30 cm derinliğinde geniş bir saksıda, organik maddece zengin bir toprakla ve düzenli sulamayla yetişir.
+
+### YAZI
+slug: simsir-bakimi
+baslik: Şimşir Bakımı: Çit, Top ve Bordür Şimşirlerinde Budama, Toprak ve Sağlık
+yayin: 2026-11-05 16:35
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: şimşir bakımı
+seo_baslik: Şimşir Bakımı: Dikim, Budama, Gübre ve Şimşir Güvesi
+seo_aciklama: Şimşir bakımı nasıl yapılır? Dikim ve aralık, toprak isteği, budama takvimi, sararma nedenleri, şimşir güvesi ve yaprak dökümüne karşı önlemler.
+ozet: Şimşir, yavaş büyüyen, kolay şekil alan ve yıl boyu yeşil kalan bir çit bitkisidir. Doğru zamanda yapılan budama, dengeli besleme ve şimşir güvesine karşı düzenli kontrol, onu yıllarca sık ve sağlıklı tutar.
+etiketler: şimşir bakımı, şimşir, çit bitkileri, şimşir güvesi, bahçe düzenleme
+gorsel: p3-simsir
+gorsel_alt: Bahçe yolunu çevreleyen budanmış şimşir çitler
+urunler: budama-makasi, hasturk-kati-solucan-gubresi, organik-toprak
+kisaca: Şimşir bakımı için bitki süzek, organik maddece zengin, hafif kireçli toprağa ve yarı gölge ile güneşli bir yere dikilir. Budama mayıs sonu–haziran ve ağustos sonunda yapılır; sonbaharda geç budamadan kaçınılır. Kökler kurumamalı ama su da birikmemelidir. Şimşir güvesine karşı yaprak aralarındaki ağlar ve tırtıllar düzenli kontrol edilir.
+@govde
+Şimşir bakımı, bahçe düzenlemesinde klasik bir zarafet arayan herkesin ilgilendiği bir konudur. Küçük, parlak ve koyu yeşil yapraklarıyla şimşir yüzyıllardır çit, bordür ve top şeklinde süs bitkisi olarak kullanılır. Yavaş büyür, kolay şekil alır ve kışın da yeşil kalır. Ne var ki son yıllarda şimşir güvesi ve yaprak dökümü hastalığı, ülkemizin özellikle Karadeniz ve Marmara bölgelerinde birçok şimşir çitini kısa sürede kahverengiye çevirdi. Bu yazıda şimşirin dikiminden budamasına, beslenmesinden en büyük düşmanlarına kadar bakımının bütün yönlerini anlatıyoruz.
+
+## Şimşiri tanıyalım
+
+Bahçelerde en sık kullanılan tür Buxus sempervirens'tir; daha küçük yapraklı ve bodur Buxus microphylla çeşitleri de yaygındır. Şimşir:
+
+- Yılda yalnızca 5–15 cm büyür; bu yüzden şekli uzun süre korur.
+- Hem güneşte hem de yarı gölgede yetişir.
+- –15 °C'ye kadar soğuğa dayanabilir.
+- Uzun ömürlüdür; doğru bakımla onlarca yıl yaşar.
+- Yaprakları ve gövdesi zehirlidir; evcil hayvanların ve çocukların yememesine dikkat edilmelidir.
+
+## Dikim zamanı ve yöntemi
+
+Şimşir dikimi için en uygun dönemler sonbahar (ekim–kasım) ve ilkbahar başıdır. Sonbaharda dikilen fidanlar kış boyunca kök salar ve ilkbaharda güçlü bir başlangıç yapar.
+
+1. **Çit için aralık:** Alçak bordürlerde 15–20 cm, orta yükseklikte çitlerde 25–30 cm, top şimşirlerde 50–60 cm aralık bırakın.
+2. **Hendek açın:** Çit dikimlerinde tek tek çukur yerine 30–40 cm derinliğinde ve genişliğinde bir hendek açmak daha düzgün sonuç verir.
+3. **Toprağı zenginleştirin:** Hendekten çıkan toprağı olgun kompost ya da solucan gübresiyle karıştırın.
+4. **Dikim derinliği:** Fidanları saksıdaki seviyesinde dikin; gövdeyi gömmeyin.
+5. **Can suyu:** Dikimden sonra bol sulayın ve dibine ince bir malç serin.
+
+Sonbahar dikiminin genel kuralları için [kasımda fidan dikimi](/kasimda-fidan-dikimi) yazımıza, dikim çukurunun hazırlanması için ise [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazımıza bakabilirsiniz.
+
+## Toprak ve yer
+
+- **Toprak:** Süzek, organik maddece zengin ve hafif kireçli ya da nötr topraklar idealdir (pH 6,5–7,5). Şimşir kireçli topraklara iyi uyum sağlar.
+- **Drenaj:** Su biriken yerlerde kök çürüklüğü görülür. Ağır killi topraklarda bol organik madde ve gerekirse kum ekleyin.
+- **Işık:** Güneş ve yarı gölge uygundur. Kışın sert öğle güneşi ve soğuk rüzgârın birleştiği yerlerde yapraklar bronzlaşabilir.
+
+[ürün:organik-toprak]
+
+## Şimşir bakımı: budama takvimi
+
+Budama, şimşirin hem şeklini hem sağlığını belirler.
+
+| Dönem | Budama türü | Not |
+|---|---|---|
+| Mayıs sonu–haziran | Ana şekil budaması | İlk sürgünler sertleştikten sonra |
+| Ağustos sonu–eylül başı | Hafif düzeltme | Yeni sürgünler kışa kadar sertleşebilsin |
+| Ekim–şubat | Budama yapılmaz | Geç sürgünler dondan zarar görür |
+| Mart sonu | Gerekirse sert gençleştirme | Yaşlı ve çıplak çitlerde |
+
+Budamayı bulutlu bir günde yapın; güneşli günde kesilen yaprak uçları yanar. Keskin ve temiz bir makas kullanın; ezilen sürgünler hastalığa açık hâle gelir. Çitin tabanını üst kısmından biraz daha geniş bırakmak, alt dalların da ışık almasını sağlar ve çitin alttan çıplaklaşmasını önler.
+
+[ürün:budama-makasi]
+
+## Sulama ve besleme
+
+- **Sulama:** Yeni dikilen şimşirler ilk iki yıl kurak dönemlerde haftada bir derin sulanmalıdır. Yerleşmiş bitkiler kuraklığa oldukça dayanıklıdır. Kış öncesi, toprak donmadan önce yapılan derin bir sulama yaprak bronzlaşmasını azaltır.
+- **Besleme:** İlkbaharda dibine ince bir kat olgun kompost ya da solucan gübresi serin. Yaz sonundan sonra azotlu gübre vermeyin.
+- **Malç:** Dibine serilen ince bir malç kökleri serin tutar, ama malçın gövdeye değmemesine dikkat edin. Malçlamanın doğru yapılışı için [ağaç dibi malçlama](/agac-dibi-malclama) yazımıza göz atabilirsiniz.
+
+## Şimşir güvesi (Cydalima perspectalis)
+
+Son yıllarda şimşirin en büyük düşmanıdır. Tırtıllar yaprakları iskelet hâline getirir ve kısa sürede bütün bir çiti kurutabilir.
+
+**Belirtiler:**
+- Yaprak aralarında beyazımsı, ince ağlar
+- Yeşil-sarı, siyah çizgili ve benekli tırtıllar
+- Yaprakların yenip yalnızca damarların kalması, çitin içinden başlayan kahverengileşme
+- Dal aralarında yeşil dışkı taneleri
+
+**Ne yapılır?**
+- **Düzenli kontrol:** Nisandan ekime kadar haftada bir çitin içini açıp bakın; tırtıllar önce iç kısımlarda beslenir.
+- **Elle toplama:** Küçük bahçelerde tırtılları ve ağları elle toplamak etkilidir.
+- **Silkme ve yıkama:** Çitin altına bir örtü serip dalları silkelemek ya da tazyikli suyla yıkamak tırtılları azaltır.
+- **Feromon tuzakları:** Erkek kelebekleri yakalayarak popülasyonun takibini kolaylaştırır.
+- **Biyolojik ürünler:** Yalnızca tırtılları etkileyen biyolojik içerikli ruhsatlı ürünler, etiket talimatına uygun kullanıldığında faydalı böceklere en az zarar veren seçeneklerdendir.
+
+## Yaprak dökümü hastalığı (şimşir yanıklığı)
+
+Calonectria pseudonaviculata adlı mantarın yol açtığı bu hastalık, yapraklarda kahverengi lekeler, gövdede siyah çizgiler ve hızlı yaprak dökümüyle kendini gösterir. Nemli ve ılık havada hızla yayılır.
+
+- Hastalıklı dalları kesip bahçeden uzaklaştırın, kompost yığınına atmayın.
+- Dökülen yaprakları toplayın; mantar yaprak artıklarında yıllarca canlı kalır.
+- Budama aletlerini her bitkiden sonra temizleyin.
+- Bitkileri üstten değil dipten sulayın ve çitin içinde hava dolaşımını sağlayın.
+
+## Sararma ve bronzlaşma neden olur?
+
+| Belirti | Olası neden |
+|---|---|
+| Kışın yaprakların turuncu-bronz renk alması | Soğuk rüzgâr ve kış güneşi, kuru toprak |
+| Genel sararma | Azot eksikliği, su birikmesi |
+| Alt yaprakların sararıp dökülmesi | Kök çürüklüğü, sıkışmış toprak |
+| İçten başlayan kahverengileşme | Şimşir güvesi |
+| Lekeli yapraklar ve hızlı dökülme | Yaprak dökümü hastalığı |
+
+Kış bronzlaşması genellikle ilkbaharda kendiliğinden düzelir. Rüzgârlı ve açık yerlerde kış öncesi derin sulama ve soğuk rüzgâra karşı geçici bir örtü işe yarar. Kış korumasının diğer yolları için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazımıza bakabilirsiniz.
+
+Şimşir bakımı, yılda iki budama, ölçülü besleme ve düzenli bir göz atmadan ibarettir. Özellikle şimşir güvesine karşı erken davranmak, yıllar içinde emek verilen bir çitin birkaç haftada kaybolmasını önler.
+@sss
+S: Şimşir ne zaman budanır?
+C: Ana budama mayıs sonu–haziran aylarında, hafif düzeltme ise ağustos sonunda yapılır. Ekimden şubata kadar budama yapılmamalıdır.
+
+S: Şimşir neden sararır?
+C: Kışın soğuk rüzgâr ve güneşle bronzlaşma, azot eksikliği, su birikmesi ve kök çürüklüğü en sık nedenlerdir. İçten başlayan kahverengileşme şimşir güvesine işaret eder.
+
+S: Şimşir güvesi nasıl anlaşılır?
+C: Yaprak aralarında beyazımsı ağlar, yeşil-sarı siyah çizgili tırtıllar ve yalnızca damarları kalmış yapraklar görülür. Zarar genellikle çitin iç kısmından başlar.
+
+S: Şimşir hangi toprağı sever?
+C: Süzek, organik maddece zengin, hafif kireçli ya da nötr toprağı sever. Su biriken ağır topraklarda kök çürüklüğü görülür.
+
+### YAZI
+slug: bahce-aletleri-kis-bakimi
+baslik: Bahçe Aletleri Kış Bakımı: Kürek, Makas ve Tırmığı Bahara Hazırlamak
+yayin: 2026-11-05 18:15
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: bahçe aletleri kış bakımı
+seo_baslik: Bahçe Aletleri Kış Bakımı: Temizlik, Bileme ve Saklama
+seo_aciklama: Bahçe aletleri kış bakımı nasıl yapılır? Kürek, çapa, budama makası ve tırmık temizliği, pas önleme, bileme, sap bakımı ve kışın doğru saklama yöntemleri.
+ozet: Sezon sonunda toprağıyla bir köşeye bırakılan aletler kış boyunca paslanır, sapları çatlar ve makaslar körelir. Bir öğleden sonra yapılacak temizlik, bileme ve yağlama, aletlerin ömrünü yıllarca uzatır.
+etiketler: bahçe aletleri kış bakımı, budama makası, bahçe aletleri, pas önleme, kış hazırlığı
+gorsel: p3-bahce-alet
+gorsel_alt: Duvara asılmış temizlenmiş bahçe aletleri
+urunler: raco-bahce-el-kuregi, raco-iki-disli-bahce-el-capasi, budama-makasi
+kisaca: Bahçe aletleri kış bakımı dört adımdan oluşur: temizlik, dezenfeksiyon, bileme ve yağlama. Aletlerdeki toprak ve bitki özsuyu sertçe fırçalanır, pas lekeleri zımparalanır, kesici kenarlar bilenir, metal yüzeyler ince bir yağla kaplanır ve ahşap saplar keten yağıyla beslenir. Aletler kuru, havadar bir yerde asılarak saklanır.
+@govde
+Bahçe aletleri kış bakımı, sezonun son işi gibi görünür ama aslında gelecek baharın ilk işidir. Kasımda son yapraklar toplanıp son fidanlar dikildiğinde kürek, çapa ve makas çoğu zaman toprağıyla birlikte depoya bırakılır. Kış boyunca nemli toprak metali paslandırır, bitki özsuyu makas ağızlarını yapıştırır, ahşap saplar kurur ve çatlar. İlkbaharda aleti elinize aldığınızda körelmiş bir ağız, oynayan bir sap ya da sıkışmış bir yay ile karşılaşırsınız. Bu yazıda bir öğleden sonrada yapılabilecek basit bir bakımla aletlerinizi nasıl yıllarca yeni gibi tutacağınızı anlatıyoruz.
+
+## Neden önemli?
+
+- **Pas:** Toprak nem tutar; toprağıyla bırakılan metal birkaç hafta içinde paslanmaya başlar.
+- **Hastalık taşınması:** Budama makası ve testereler, hastalıklı bir daldan sağlıklı dala mantar ve bakteri taşıyabilir.
+- **Kesim kalitesi:** Kör bir makas dalı keser yerine ezer; ezilen dokular geç iyileşir ve hastalığa açık kalır.
+- **Güvenlik:** Gevşek saplar ve çatlak tutamaklar kazalara yol açar.
+- **Tasarruf:** İyi bakılan bir alet on yıldan fazla kullanılabilir.
+
+## Bahçe aletleri kış bakımı: adım adım
+
+### 1. Temizlik
+
+1. Aletlerdeki kuru toprağı bir tahta parçası ya da sert fırçayla kazıyın.
+2. Kalan toprağı suyla yıkayın, gerekirse tel fırça kullanın.
+3. Budama makası ve testerelerdeki yapışkan özsuyu ve reçineyi biraz sabunlu sıcak suyla ya da bir bez ve alkolle temizleyin.
+4. Aletleri hemen ve iyice kurulayın. Islak bırakılan metal temizlikten sonra bile paslanır.
+
+### 2. Dezenfeksiyon
+
+Hastalıklı bitkilerde kullanılan kesici aletleri dezenfekte etmek, ertesi yıl hastalığın yayılmasını önler. Ağızları %70'lik alkolle silin ya da birkaç dakika alkol emdirilmiş bir beze sarın. Dezenfeksiyon özellikle ateş yanıklığı, kanser ve şimşir yanıklığı gibi hastalıkların görüldüğü bahçelerde önemlidir. Elma ağaçlarında görülen hastalıkların taşınması hakkında bilgi için [elma ağacı hastalıkları](/elma-agaci-hastaliklari) yazımıza göz atabilirsiniz.
+
+### 3. Pas temizliği
+
+- Hafif pas lekelerini ince zımpara ya da çelik yünüyle temizleyin.
+- Daha kalın paslar için aleti birkaç saat beyaz sirkeye yatırıp sonra fırçalayabilirsiniz. Sirkeden sonra aleti bol suyla yıkayıp hemen kurulayın.
+
+### 4. Bileme
+
+Keskin bir alet hem işi kolaylaştırır hem de bitkiye zarar vermez.
+
+- **Kürek ve çapa:** Kenarlarını bir eğe ile, aletin orijinal açısını koruyarak tek yönde bileyin. Çok keskin bir kenar gerekmez; toprağı kolayca kesecek kadar yeterlidir.
+- **Budama makası:** Yalnızca kesen bıçağın eğimli yüzünü, bileme taşıyla ya da küçük bir elmas eğeyle bileyin. Düz yüzü bilemeyin; yalnızca çapağını alın. Makası sökmek bileme işini kolaylaştırır; vida ve yayın yerini not edin.
+- **Testere:** Testere dişlerini bilemek özel alet gerektirir; körelmiş testerelerde bıçak değişimi daha pratiktir.
+
+### 5. Yağlama
+
+- Metal yüzeyleri ince bir makine yağı ya da bitkisel yağla silin. Bu ince tabaka kış boyunca nemi uzak tutar.
+- Makasların eksen vidasına ve yayına birkaç damla yağ damlatın, birkaç kez açıp kapatarak yağın yayılmasını sağlayın.
+
+### 6. Sap bakımı
+
+- Ahşap sapları ince zımparayla düzeltin, kıymıkları giderin.
+- Saplara keten yağı sürün ve emmesi için bir gün bekletin. Keten yağı ahşabın kurumasını ve çatlamasını önler.
+- Gevşek sapları sıkıştırın, çatlak sapları değiştirin.
+
+## Hortum, pompa ve elektrikli aletler
+
+Bahçe hortumu ve sulama sistemi kışın donma riski taşır; içlerindeki suyun boşaltılması gerekir. Ayrıntılı adımlar için [hortum kışlatma](/hortum-kislatma) yazımıza bakabilirsiniz. İlaçlama pompaları da kış öncesi iyice yıkanıp boşaltılmalı; akülü modellerin bataryası uygun doluluk oranında saklanmalıdır. Pompa bakımının ayrıntıları için [akülü pompa bakımı ve kışlatma](/akulu-pompa-bakimi-ve-kislatma) yazımız yol gösterecektir.
+
+Çim biçme makinelerinde ise yakıt deposunu boşaltmak ya da yakıt stabilizatörü eklemek, bıçağı temizleyip bilemek ve hava filtresini kontrol etmek kış bakımının temel adımlarıdır.
+
+## Doğru saklama
+
+| Alet | Saklama şekli |
+|---|---|
+| Kürek, çapa, tırmık | Duvara asılı, ağzı yere değmeden |
+| Budama makası | Kapalı, kuru bir çekmecede ya da kılıfında |
+| Testere | Kılıfıyla, asılı |
+| Hortum | Boşaltılmış, gevşek sarılmış, askıda |
+| Pompa | Boş, temiz, kapalı ve donmayan bir yerde |
+
+- **Kuru ve havadar yer:** Nemli bodrumlar paslanmayı hızlandırır.
+- **Asarak saklama:** Aletleri yere yaslamak yerine bir askı panosuna asmak hem düzen sağlar hem de ağızları korur.
+- **Kum kovası yöntemi:** Bir kovayı kumla doldurup içine biraz yağ karıştırın. El küreği ve çapa gibi küçük aletleri kullanımdan sonra bu kuma batırmak, onları hem temizler hem de yağlar.
+
+## Ergonomi: doğru alet, yorulmayan bilek
+
+Kış bakımı, aletlerinizin size ne kadar uyduğunu düşünmek için de iyi bir fırsattır. Çok ağır bir kürek, kısa saplı bir çapa ya da elinize büyük gelen bir makas, ilkbaharda saatlerce süren işlerde bileği ve beli yorar. Makas seçerken elinizin boyutuna uygun, tek elle rahatça açılıp kapanan modelleri tercih edin. Sap uzunluğu boyunuza uygun bir kürek ya da tırmık, eğilmeden çalışmanızı sağlar. Kaymayan ve tutması kolay saplar, özellikle ıslak ellerle çalışırken güvenlik sağlar. Uzun süre kullanılmayan aletlerin vidalarını sıkmak ve sapları ele oturacak şekilde zımparalamak da konforu artırır.
+
+## Eksikleri baharın başında değil, şimdi tamamlayın
+
+Kış bakımı sırasında aletlerinizin durumunu da gözden geçirin. Ağzı çatlamış bir kürek, ekseni boşalmış bir makas ya da dişleri kırılmış bir tırmık, ilkbahar telaşında işinizi yarıda bırakabilir. Eksikleri kışın tamamlamak, ilk sıcak günde bahçeye hazır girmenizi sağlar.
+
+[ürün:raco-bahce-el-kuregi]
+
+[ürün:raco-iki-disli-bahce-el-capasi]
+
+Budama işleri için sağlam ve keskin bir makas, kış budamasında en çok ihtiyaç duyacağınız alettir.
+
+Bahçenin kışa hazırlanmasıyla ilgili diğer işler için [kış öncesi bahçe temizliği ve malçlama](/kis-oncesi-bahce-temizligi-ve-malclama) yazımıza göz atabilirsiniz. Bahçe aletleri kış bakımı için ayıracağınız birkaç saat, ilkbaharda hem zaman hem para kazandırır.
+@sss
+S: Bahçe aletleri kışın nasıl saklanır?
+C: Temizlenip kurulandıktan ve metal yüzeyleri ince bir yağla silindikten sonra kuru, havadar ve donmayan bir yerde, mümkünse duvara asılarak saklanır.
+
+S: Paslanmış bahçe aleti nasıl temizlenir?
+C: Hafif pas ince zımpara ya da çelik yünüyle temizlenir. Kalın paslar için alet birkaç saat beyaz sirkede bekletilip fırçalanır, ardından yıkanıp kurulanır ve yağlanır.
+
+S: Budama makası nasıl bilenir?
+C: Yalnızca kesen bıçağın eğimli yüzü bileme taşı ya da elmas eğeyle, orijinal açısı korunarak bilenir. Düz yüzün yalnızca çapağı alınır, ardından eksen ve yay yağlanır.
+
+S: Budama makası neden dezenfekte edilir?
+C: Hastalıklı bir dalı kesen makas, mantar ve bakterileri sağlıklı dallara taşıyabilir. Ağızları %70'lik alkolle silmek bu riski azaltır.
+
+### YAZI
+slug: kokopit-perlit-karisimi
+baslik: Kokopit Perlit Karışımı: Hangi Bitkiye Hangi Oran?
+yayin: 2026-11-05 20:20
+yazar: Ahmet Sacit Çelik
+kategori: toprak-rehberi
+odak: kokopit perlit karışımı
+seo_baslik: Kokopit Perlit Karışımı: Oranlar ve Hazırlama Rehberi
+seo_aciklama: Kokopit perlit karışımı nasıl hazırlanır? Fide, salon bitkisi, sukulent ve sebze için oran tablosu, kokopitin ıslatılması, tuz yıkama ve besin ekleme.
+ozet: Kokopit nemi tutar, perlit havalandırır; ikisi birlikte topraksız, hafif ve temiz bir yetiştirme ortamı oluşturur. Oranı bitkinin su isteğine göre ayarlamak, aynı malzemeyle fideden sukulente kadar birçok bitki için uygun karışım hazırlamayı sağlar.
+etiketler: kokopit perlit karışımı, kokopit, perlit, topraksız karışım, saksı toprağı
+gorsel: p3-kokopit-perlit
+gorsel_alt: Hindistan cevizi kabuğundan elde edilen lifler yakın plan
+urunler: cocopeat-ve-tarim-perliti-avantaj-paketi, cocopeat-hindistan-cevizi-torfu-5-kg, tarim-perliti, hasturk-kati-solucan-gubresi
+kisaca: Kokopit perlit karışımı, nemi tutan kokopit ile havalandıran perlitin bitkiye göre karıştırılmasıdır. Fide için 7:3, salon bitkileri için 6:4, sukulent ve kaktüs için 4:6 kokopit-perlit oranı iyi bir başlangıçtır. Kokopit kullanmadan önce ıslatılıp gerekirse yıkanır; karışıma solucan gübresi ya da kompost eklenerek besin sağlanır.
+@govde
+Kokopit perlit karışımı, son yıllarda hem balkon bahçecilerinin hem de fide üreticilerinin en çok kullandığı yetiştirme ortamlarından biri hâline geldi. Hafif, temiz, kokusuz ve ayarlanabilir bir karışımdır: Biraz daha fazla kokopit eklediğinizde nemi seven bir fide ortamı, biraz daha fazla perlit eklediğinizde kaktüslere uygun süzek bir karışım elde edersiniz. Ancak bu karışımın tek başına besin içermediğini ve kokopitin doğru hazırlanması gerektiğini bilmek önemlidir. Bu yazıda kokopit ve perlitin ne işe yaradığını, bitkiye göre oranları ve karışımı adım adım nasıl hazırlayacağınızı anlatıyoruz.
+
+## Kokopit ve perlit nedir?
+
+**Kokopit (hindistan cevizi torfu):** Hindistan cevizinin dış kabuğundaki liflerin öğütülmesiyle elde edilir. Kendi ağırlığının birkaç katı suyu tutar, havalanması torfa göre daha iyidir ve yenilenebilir bir kaynaktır. pH'ı genellikle 5,5–6,8 arasındadır. Ayrıntılar için [kokopit nedir](/kokopit-nedir-nasil-kullanilir) yazımıza bakabilirsiniz.
+
+**Perlit:** Volkanik bir camın yüksek ısıda patlatılmasıyla elde edilen, beyaz, hafif ve gözenekli bir mineraldir. Suyu yüzeyinde tutar ama kendisi çürümez ve sıkışmaz. Karışıma hava boşlukları kazandırır ve drenajı artırır. Perlitin özellikleri için [perlit nedir](/perlit-nedir-nasil-kullanilir) yazımıza göz atabilirsiniz.
+
+İkisinin birlikte kullanılmasının nedeni basittir: Kokopit nemi, perlit havayı sağlar. Kökler hem suya hem de oksijene ihtiyaç duyar.
+
+## Kokopit perlit karışımı oran tablosu
+
+| Kullanım | Kokopit | Perlit | Not |
+|---|---|---|---|
+| Tohum çimlendirme ve fide | 7 | 3 | İnce perlit tercih edin |
+| Fide şaşırtma | 6 | 4 | + biraz solucan gübresi |
+| Salon bitkileri (genel) | 6 | 4 | + %15–20 solucan gübresi ya da kompost |
+| Aroid bitkiler (monstera, philodendron) | 5 | 3 | + 2 ölçü ağaç kabuğu |
+| Sebze (saksı) | 6 | 2 | + 2 ölçü kompost ya da solucan gübresi |
+| Sukulent ve kaktüs | 4 | 6 | Kalın perlit tercih edin |
+| Çelik köklendirme | 5 | 5 | Besinsiz, temiz ortam |
+
+Oranlar hacim olarak verilmiştir; bir kova kokopit ile bir kova perlit gibi düşünebilirsiniz. Bitkinizin su isteği yüksekse kokopiti, kök çürüklüğüne yatkınsa perliti artırın.
+
+## Adım adım hazırlama
+
+### 1. Kokopiti ıslatın
+
+Kokopit genellikle sıkıştırılmış blok ya da tablet hâlinde satılır.
+
+1. Bloğu geniş bir kaba koyun.
+2. Üzerine ılık su dökün; 5 kg'lık bir blok yaklaşık 15–20 litre suyla 60–70 litreye kadar şişer.
+3. 20–30 dakika bekleyip elinizle ufalayın.
+4. Kokopit sıktığınızda birkaç damla su verecek kadar nemli olmalıdır; fazla suyu süzdürün.
+
+[ürün:cocopeat-hindistan-cevizi-torfu-5-kg]
+
+### 2. Gerekirse yıkayın
+
+Bazı kokopitler, hindistan cevizinin deniz kıyısında yetişmesi nedeniyle tuz içerebilir. Kaliteli ürünler genellikle yıkanmış olarak gelir. Emin değilseniz ıslattığınız kokopiti bir kez bol suyla çalkalayıp süzdürün. Fideler ve tuza hassas bitkiler için bu adım önemlidir.
+
+### 3. Perliti ekleyin
+
+Perliti kuru hâlde değil, hafifçe nemlendirerek ekleyin; kuru perlit toz kaldırır. Toz maskesi takmak iyi bir alışkanlıktır.
+
+[ürün:tarim-perliti]
+
+### 4. Besin ekleyin
+
+Kokopit ve perlit besin içermez. Bitkiler için bu karışıma mutlaka bir besin kaynağı eklemek gerekir:
+
+- **Solucan gübresi:** Karışımın %15–20'si oranında eklemek, hem besin hem de yararlı mikroorganizma sağlar.
+- **Olgun kompost:** Benzer oranlarda kullanılabilir.
+- **Sıvı besin:** Topraksız karışımlarda düzenli sıvı besleme de gerekir.
+
+### 5. Karıştırın ve dinlendirin
+
+Malzemeleri geniş bir kapta iyice karıştırın. Karışımı birkaç saat dinlendirmek nemin eşit dağılmasını sağlar.
+
+## Kokopit perlit karışımının avantajları
+
+- **Hafiflik:** Balkon ve teras saksıları için idealdir; torf ve bahçe toprağına göre çok daha hafiftir.
+- **Temizlik:** Yabani ot tohumu, toprak kaynaklı hastalık ve zararlı içermez.
+- **Ayarlanabilirlik:** Oran değiştirilerek her bitkiye uyarlanabilir.
+- **Tekrar ıslanabilirlik:** Torf tamamen kuruduğunda suyu zor emer; kokopit kuruduktan sonra da kolayca yeniden ıslanır.
+
+## Dikkat edilmesi gerekenler
+
+- **Kalsiyum ve magnezyum:** Kokopit potasyumu tutarken kalsiyum ve magnezyumu bağlayabilir. Uzun süre kokopit ağırlıklı karışımda yetişen bitkilerde bu elementlerin eksikliği görülebilir; solucan gübresi ve dengeli bir besin bu riski azaltır.
+- **Sulama alışkanlığı:** Kokopit nemi uzun tutar. Bahçe toprağına alışkın olanlar ilk haftalarda fazla sulama yapabilir; toprağın üst kısmı kurumadan sulamayın.
+- **Toz perlit:** Çok ince perlit drenajı yeterince artırmaz; sukulentler için iri taneli perlit seçin.
+
+## Karışımı saklama ve yeniden kullanma
+
+Hazırladığınız karışımın tamamını hemen kullanmayacaksanız, hafif nemli hâlde ağzı gevşek bağlanmış bir torbada ya da kapaklı bir kovada, serin ve gölge bir yerde saklayın. Tamamen kapalı ve ıslak saklanan karışımda küf oluşabilir. Solucan gübresi eklenmiş karışımlar canlı bir ortam olduğu için birkaç hafta içinde kullanılmalıdır.
+
+Bir sezon kullanılmış kokopit perlit karışımı atılmak zorunda değildir. Kökleri ayıklanıp elenen karışıma bir miktar taze kokopit ve solucan gübresi eklendiğinde yeniden kullanılabilir. Hastalıklı bir bitkinin yetiştiği karışımı ise yeniden kullanmadan önce ısıl işlemden geçirmek ya da bahçe kompostuna katmak daha güvenlidir.
+
+## Sulama düzenine dikkat
+
+Kokopit perlit karışımı, bahçe toprağından farklı davranır. Yüzey çabuk kuru görünebilir ama alt kısım uzun süre nemli kalır. Sulamadan önce parmağınızı 2–3 cm derinliğe batırarak kontrol edin ya da saksıyı kaldırıp ağırlığına bakın; kuru karışım belirgin şekilde hafiftir. Bu basit alışkanlık, topraksız karışımlarda en sık görülen sorun olan aşırı sulamayı önler.
+
+## Hazır paket mi, ayrı ayrı mı?
+
+Kokopit ve perliti ayrı ayrı alıp kendiniz karıştırmak oranları tam kontrol etmenizi sağlar. Yeni başlıyorsanız ya da birkaç farklı bitki için karışım hazırlayacaksanız, ikisini bir arada sunan bir paket ekonomik ve pratik bir başlangıçtır.
+
+Saksı toprağının diğer bileşenleri ve hazır tarifler için [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazımıza, kendi karışımınızı oluşturmanın yolları için ise [kendi toprak karışımını oluşturma](/kendi-toprak-karisimini-olusturma) yazımıza bakabilirsiniz.
+
+Doğru oranlarla hazırlanmış bir kokopit perlit karışımı, köklere hem su hem hava sağlayan, hafif ve temiz bir başlangıçtır. Bitkinizin ihtiyacını tanıyıp oranı ona göre ayarladığınızda, aynı iki malzemeyle evdeki bütün saksıları rahatlıkla doldurabilirsiniz.
+@sss
+S: Kokopit perlit oranı ne olmalı?
+C: Fide için 7:3, salon bitkileri için 6:4, sukulent ve kaktüs için 4:6 kokopit-perlit oranı iyi bir başlangıçtır. Oran bitkinin su isteğine göre ayarlanır.
+
+S: Kokopit perlit karışımı gübre içerir mi?
+C: İçermez. Karışıma %15–20 oranında solucan gübresi ya da kompost eklenmeli ve büyüme döneminde düzenli beslenmelidir.
+
+S: Kokopit kullanmadan önce yıkanmalı mı?
+C: Kaliteli kokopit genellikle yıkanmış gelir. Emin değilseniz ıslattıktan sonra bir kez bol suyla çalkalayıp süzdürmek tuz riskini azaltır.
+
+S: 5 kg kokopit kaç litre olur?
+C: Sıkıştırılmış 5 kg'lık bir blok, yaklaşık 15–20 litre suyla ıslatıldığında 60–70 litre kadar şişer.
+
+### SORU
+yayin: 2026-11-05 10:20
+kategori: bahce-ipuclari
+baslik: Çimimde kahverengi daire şeklinde lekeler çıktı, hastalık mı?
+metin: Ekimde serin ve yağmurlu günlerden sonra çimin birkaç yerinde tabak büyüklüğünde kahverengi, kenarları biraz pembemsi lekeler oluştu. Sabahları üzerinde pamuk gibi bir şey görüyorum. Akşamları sulama yapıyordum. Ne yapmalıyım?
+@cevap Halil İbrahim Çelik | 3
+Anlattıklarınız, serin ve nemli havada sık görülen pembe kar küfüne çok benziyor; sabahları görülen pamuksu yapı mantar miselyumu. İlk olarak akşam sulamasını bırakın, sulamanız gerekirse sabah erken saatlerde yapın; yaprakların gece boyu ıslak kalması hastalığı besliyor. Lekeli alanlara ıslakken basmayın ve biçimden sonra kırpıntıyı toplayın. Bu dönemde azotlu gübre vermeyin; sonbaharda potasyumu yüksek, azotu düşük bir gübre çimi daha dirençli yapar. Alanda dökülen yaprak varsa düzenli toplayın. Hava kuruyup ısındığında lekelerin büyük kısmı kendiliğinden geriler, ölü kalan yerleri ilkbaharda tırmıklayıp ince kapama toprağı serip tohumla onarabilirsiniz.
+
+### SORU
+yayin: 2026-11-05 17:10
+kategori: gubreleme
+baslik: Kahve telvesini saksılarımın üstüne dökebilir miyim?
+metin: Her gün kahve içiyorum ve telvesini atmaya kıyamıyorum. Salon bitkilerimin ve balkondaki çiçeklerimin saksılarına üstten dökmeye başladım ama birkaç saksıda beyaz küf gibi bir şey oluştu. Bu doğru bir yöntem mi?
+@cevap Ahmet Sacit Çelik | 4
+Saksının üstüne kalın tabaka hâlinde telve dökmek önerdiğimiz bir yöntem değil; gördüğünüz beyaz küf de bunun tipik sonucu. Islak telve yüzeyde sıkışıp kabuk bağlıyor, suyun toprağa girmesini zorlaştırıyor ve küf ile toprak sineği için uygun bir ortam oluşturuyor. Önce küflenen telveyi kaşıkla alın. Telveyi değerlendirmek isterseniz en iyi yol kompost yapmak; balkonda küçük bir kompost kovası bile yeterli. Doğrudan kullanacaksanız önce kurutun ve yalnızca yeni saksı toprağı hazırlarken, toprağın en fazla onda biri kadar karıştırın. Bilgi olsun diye ekleyelim: Telve hızlı etkili bir gübre değil, yavaş ayrışan bir organik madde; saksı bitkilerinin düzenli beslenmesi için dengeli bir organik besin daha uygun olur.

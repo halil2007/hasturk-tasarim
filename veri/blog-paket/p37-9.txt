@@ -1,0 +1,124 @@
+### YAZI
+slug: fenoloji-nedir-dogal-isaretlerle-ekim-zamanini-bulmak
+baslik: Fenoloji Nedir? Bahçede Doğal İşaretlerle Ekim Zamanını Bulmak
+yayin: 2027-04-17 09:10
+yazar: Mikdat Çelik
+kategori: gundem
+odak: fenoloji
+seo_baslik: Fenoloji Nedir? Doğal İşaretlerle Ekim Zamanı
+seo_aciklama: Fenoloji, bitki ve hayvanların mevsim işaretlerini kaydedip ekim zamanını doğadan okumaktır. Leylak örneği, tuzaklar ve kendi bahçe takviminizi kurma yolları.
+ozet: Takvimdeki tarih her yıl aynı, ilkbahar ise değil. Fenoloji, çiçek açan bir ağaç ya da çıkan bir yaprakla ekim zamanını kendi bahçenizde okumanın yoludur. Nasıl çalıştığını, sınırlarını ve kendi gözlem tablonuzu nasıl kuracağınızı anlattık.
+etiketler: fenoloji, ekim zamanı, bahçe takvimi, doğa işaretleri, gözlem, bahçe defteri
+gorsel: bekliyor
+gorsel_alt: Çiçek açmış ağaç dalı ve altında kırmızı kapaklı küçük bir bahçe defteri
+urunler: altinvadi-bezelye-tohumu-25-gr, arzuman-oz-ayse-fasulye-tohumu-50-gr
+kisaca: Fenoloji, bitkilerin çiçeklenme ve yaprak çıkarma gibi mevsimsel olaylarını gözlemleyip kaydetme bilimidir. Bahçıvan için anlamı şu: Sabit tarihe değil, yörenizdeki bir ağacın çiçek açmasına bakarak ekim zamanını seçersiniz. Doğa işareti o yılın gerçek sıcaklığını yansıttığı için, ılık ya da soğuk geçen bahar için takvimden daha doğru bir kılavuzdur.
+@govde
+Mart sonunda bir komşunuz "nisanın ilk haftası fasulye ekilir" der. Ama o yıl bahar erken geldi ve ağaçlar iki hafta önce çiçek açtı; ya da kış uzadı ve toprak hâlâ buz gibi. Aynı tarih iki yılda iki ayrı mevsime denk geliyor. Fenoloji tam bu boşluğu doldurur. Bahçeciliğin en eski yöntemlerinden biri olan bu gözlem, takvime değil, doğanın o yılki gerçek ritmine dayanır. Aşağıda fenolojinin ne olduğunu, nasıl çalıştığını, nerede yanıltabileceğini ve kendi bahçeniz için nasıl bir gözlem tablosu kuracağınızı anlattık.
+
+## Fenoloji nedir, neden çalışır?
+
+Fenoloji, bitkilerin ve hayvanların mevsimsel olaylarını, yani çiçek açma, yaprak çıkarma, göç ve yumurtadan çıkma gibi olayları ve bunların hava ile ilişkisini inceler. Bir bitki çiçeğini açtığında, aslında o yılki birikmiş sıcaklığa yanıt veriyordur. Hava ısındıkça biyolojik saat ilerler.
+
+Bu yüzden doğa aynı zamanda bir termometredir. Toprak sıcaklığı bir ekim ölçütü olarak bildiğimiz bir kavramdır, ancak toprağa termometre sokmak yerine, aynı ısı birikimini bir ağaç çiçeğinin açılmasından da okuyabilirsiniz. Wisconsin Üniversitesi Extension'ın fenoloji yazısı, bahçıvanların bu yöntemi yıllardır kullandığını ve bitki gelişiminin takvimden çok sıcaklık birikimiyle uyumlu olduğunu anlatıyor ([University of Wisconsin Extension, fenoloji](https://hort.extension.wisc.edu/articles/phenology/)).
+
+## Klasik örnek: leylak ve ekim
+
+En bilinen örnek, Kuzey Amerika'nın bahçıvanlık geleneğinden gelir. Wisconsin kaynağına göre leylak ilk yaprağını çıkardığında pancar, havuç, lahanagiller, marul ve ıspanak ekilir; leylak tam çiçeğe geldiğinde ise fasulye, salatalık ve kabak tohumları toprağa verilir ([University of Wisconsin Extension](https://hort.extension.wisc.edu/articles/phenology/)). Aynı üniversitenin Master Gardener belgesinde, yaklaşık 55 °F (yaklaşık 13 °C) toprak sıcaklığının, yaygın leylağın erken çiçeklenme dönemine denk geldiği not ediliyor ([Wisconsin Master Gardener, fenoloji notu](https://mastergardener.extension.wisc.edu/files/2015/12/phenology.pdf)).
+
+Bu örnek size iki şeyi gösterir. Birincisi, işaret bitkisi bir ekim tarihi değil, bir sıcaklık eşiğidir. İkincisi, her bölge kendi bitkisini ister: Wisconsin'deki leylak, Türkiye'nin çoğu yerinde aynı zamanda çiçek açmaz. Sizin işaretiniz yörenizde bolca bulunan, her yıl düzenli açan bir ağaç ya da çalı olmalıdır.
+
+## Fenolojinin sınırları
+
+Her yöntem gibi fenolojinin de tuzakları var. Cornell Üniversitesi'nden bir bahçe yazısı, bu yöntemin tohum ekiminde her zaman işlemediğini hatırlatıyor: Erken, orta ve geç çiçek açan leylaklar bulunduğu için hangisini izlediğiniz sonucu kaydırıyor ([Cornell, doğa işaretleriyle ekim](https://blogs.cornell.edu/fruition/2023/05/10/phenology)). Aynı yazı, fenolojinin tek bir bölgeye sığmadığını, yerel Extension ofislerinin kendi bölge işaretlerini en iyi bildiğini de söylüyor.
+
+Pratikte bu şu anlama gelir:
+
+- Aynı bitkinin aynı çeşidini izleyin; "bir leylak" demek yetmez, kendi bahçenizdeki ağacı seçin.
+- Güneş ve rüzgâr yönü çiçeklenmeyi birkaç gün kaydırır; hep aynı ağaca bakın.
+- İşareti sıcaklıkla doğrulayın. Toprağa bir termometre sokun; ekilecek tohumun eşiği ile karşılaştırın.
+- Kendi yılınızı kaydedin. Üç dört yıl sonra tablonuzun güvenilirliği artar.
+
+Fenoloji tahminden daha iyi bir yöntem, ama ölçümün yerini tutmaz. En sağlam hali, doğa işaretini ve termometreyi birlikte kullanmaktır.
+
+## Kendi bahçe fenoloji tablonuzu kurmak
+
+Yöntemin en güzel yanı, hiç para gerektirmemesi. Elinize bir defter alın, haftada iki kez bahçeye bakın ve neler olduğunu yazın. Zaman içinde bahçenizin takvimi ortaya çıkar.
+
+::: adimlar
+Üç işaret bitkisi seçin | Bahçenizde ya da yakınında düzenli çiçek açan bir ağaç, bir çalı ve bir soğanlı çiçek seçin (ör. badem, kuşburnu, nergis).
+Her yıl aynı olayı kaydedin | "İlk çiçek", "tam çiçek" ve "yaprak dökümü" gibi tanımlı olayları tarihle yazın.
+Ekim ve dikim tarihlerini ekleyin | Hangi gün ne ekilip dikildiğini, ne kadar sürede çıktığını not edin.
+Sonucu karşılaştırın | Her yıl sonunda "İşaret olunca ektiğim bitki nasıl gitti?" sorusunu yanıtlayın.
+Toprak sıcaklığını doğrulayın | Her işarette 10 cm derinlikte toprak sıcaklığını ölçüp yazın.
+:::
+
+Bu tabloyu bir sezon sonra gözden geçirdiğinizde kendi bahçenizin işaretlerini görmeye başlarsınız. Bahçe defteri tutmanın kendi başına yararı için [bahçe defteri](/bahce-defteri) yazısına bakabilirsiniz.
+
+## Örnek bir gözlem tablosu
+
+Aşağıdaki tablo, kendi tablonuzu kurarken kullanabileceğiniz boş bir çerçevedir. Sütunları kendi bahçenize göre değiştirin; sayılar yalnızca fikir vermek içindir.
+
+| Doğa işareti | Gözlediğiniz tarih (örnek) | Bu işarette ektiğim | Sonuç |
+|---|---|---|---|
+| Bademin tam çiçeği | 2 Mart | Bezelye tohumu | İyi, ilk hafta çıktı |
+| Kayısı yapraklanması | 28 Mart | Marul, roka | İyi |
+| Kuşburnu ilk yaprak | 1 Nisan | Havuç, turp | Orta, serin gece |
+| Ayva çiçeği | 20 Nisan | Fasulye | Hasat erken |
+| Kiraz yaprak dökümü | Ekim | Sarımsak | — |
+
+Tablodaki isim ve tarihler yalnızca örnek: Sizin bahçenizde işaret ağacı ve tarih farklı olacak. Önemli olan, her yıl aynı yerde aynı olayı aynı ölçütle yazmak.
+
+[ürün:altinvadi-bezelye-tohumu-25-gr,arzuman-oz-ayse-fasulye-tohumu-50-gr]
+
+## Takvim, termometre ve doğa: üçü birlikte
+
+Fenolojinin yanına iki ayak ekleyin. Birincisi, bölge takvimi: Yörenizde genel olarak ne zaman ne ekileceği. Bunun için [nisan ayında ne ekilir](/nisan-ayinda-ne-ekilir) ve bölgenizin ekim takvimi (örneğin [İç Anadolu bahar ekimi](/ic-anadolu-bahar-ekimi-ne-zaman-baslar)) iyi bir başlangıçtır. İkincisi, termometre: toprağın ekim eşiğini aşıp aşmadığını bilmek için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısına, fasulye için [fasulye ne zaman ekilir](/fasulye-ne-zaman-ekilir-toprak-sicakligi-esigi) yazısına bakın. Gece sıcaklığını ölçmek için de [min-maks termometre](/min-maks-termometre-bahcede-gece-sicakligini-olcmek) yöntemi var.
+
+Üç kaynak birbirini destekler. Takvim size genel bir pencere verir, fenoloji yılın seyrini söyler, termometre ise kararı kesinleştirir. Üçü aynı yöne işaret ettiğinde ekimi rahatça yaparsınız; ikisi çeliştiğinde bir iki hafta beklemek kayıpsız bir ihtiyattır.
+
+## Erken çiçek, geç don: yanlış alarm
+
+Fenolojinin en sinsi tuzağı, ılık bir şubat ya da mart sonrası gelen yanıltıcı bahardır. Ağaçlar erken çiçek açar, siz de işareti görüp ekime hazırlanırsınız; sonra nisanda bir don gecesi gelir. Doğa işareti o ana kadar toplanan sıcaklığı gösterir, gelecekteki soğuğu değil.
+
+Bu yüzden fenoloji ile hava tahminini ve son don tarihini birlikte okuyun. Hassas fideler, yani domates, biber, fasulye ve kabak, işaret ne derse desin bölgenizin son don tarihinden sonra dışarıya çıkar; ayrıntı için [son don tarihi](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısına bakın. Serin hava sebzeleri, yani marul, bezelye ve turp ise hafif donu tolere ettiği için fenolojik işaretle erken ekime daha uygundur.
+
+İlk yıl bu kuralı denemek için küçük bir ayrım yapın: Serin sebzelerde işarete güvenin, sıcak sebzelerde işareti ve son don tarihini birlikte arayın. Bir sezon sonra elinizde kendi yöreniz için bu eşleştirmenin ne kadar tuttuğunu gösteren somut bir tablo olur.
+
+## Hayvanlar ve böcekler de işaret verir
+
+Fenoloji yalnızca bitkilerle sınırlı değildir. Kuşların dönüşü, arıların ilk uçuşu, ilk uğur böceğinin görülmesi de mevsimin ilerleyişini anlatır. Bazı bahçıvanlar yaprak bitlerinin ilk göründüğü tarihi de not eder; böylece hangi ayda koruyucu kontrole başlayacaklarını bilirler. Kuşlar için yuvalama dönemini ise [kuş yuvası dönemi](/kus-yuvasi-donemi-cit-ve-agac-budarken-dikkat) yazısında anlattık.
+
+Bu gözlemlerin de değeri, bir kez değil yıllarca kaydedildiğinde ortaya çıkar. Bir yıl yanıltıcı olabilir, beş yıl ise örüntüdür.
+
+## Başlamak için bu hafta ne yapılır?
+
+Bu hafta çıkıp bahçenize ya da yürüyüş yolunuza bakın. Çiçek açmış, yaprağı çıkmış üç bitki seçin ve tarihini yazın. Sonra bir sonraki bahara kadar sürdürün. Birkaç yıl sonra, komşunuza "nisanın ilk haftası" demek yerine, "şu ağaç çiçek açınca fasulye ekiyorum" diyebileceksiniz.
+@sss
+S: Fenoloji nedir?
+C: Bitki ve hayvanların çiçek açma, yaprak çıkarma, göç gibi mevsimsel olaylarını ve bunların hava ile ilişkisini inceleyen bilimdir. Bahçıvanlar için bu, ekim zamanını takvim yerine doğadaki işaretlerden okumak demektir.
+
+S: Fenoloji ile ekim zamanı nasıl belirlenir?
+C: Yörenizde düzenli çiçek açan bir bitki seçip her yıl aynı olayı (ilk çiçek ya da tam çiçek) kaydedersiniz. Wisconsin kaynağı örneğin, leylak ilk yaprakta serin mevsim sebzelerini, tam çiçekte fasulye ve kabağı ekmeyi öneriyor.
+
+S: Fenoloji her zaman doğru sonuç verir mi?
+C: Hayır. Aynı bitkinin erken ve geç çeşitleri vardır, bölgeye göre de değişir. Doğa işaretini toprak sıcaklığı ölçümüyle birlikte kullanın ve üç dört yıl kayıt tutarak kendi bahçenize uyarlayın.
+
+S: Fenoloji için hangi bitkiyi izlemeliyim?
+C: Yörenizde bol bulunan, her yıl düzenli çiçek açan ve gözlemi kolay bir ağaç ya da çalı seçin; örneğin badem, kayısı, ayva ya da kuşburnu. Aynı bitkiyi izleyin ve ilk çiçek ile tam çiçek tarihlerini defterinize yazın.
+
+### SORU
+yayin: 2027-04-17 12:15
+kategori: ekim-takvimi
+baslik: Bu yıl bahar erken geldi, fasulyeyi nisan başında ekebilir miyim?
+metin: Mart ılık geçti, ağaçlar iki hafta önce çiçek açtı. Balkondaki saksılara fasulye ekmek için takvimi beklemem gerekir mi?
+@cevap Muhammed Hamza Çelik | 2
+Erken bahar, geç donu ortadan kaldırmaz. Fasulye soğuğa hassastır; toprak sıcaklığı sürekli 12-15 derecenin üzerine çıkmadıkça çimlenme zayıf olur. Termometreyle sabah toprağını ölçün; art arda birkaç gün bu değerin üstündeyse ekin. Gece donu tahmini varsa saksıyı içeri alın ya da üzerini örtün. Birkaç tohumu erkenden, kalanını iki hafta sonra ekmek de iyi bir sigortadır.
+
+### SORU
+yayin: 2027-04-17 16:20
+kategori: bahce-ipuclari
+baslik: Bahçe defteri tutmaya nasıl başlayabilirim, ne yazmalıyım?
+metin: Bu yıl ilk kez sebze yatağı kurdum. Not almak istiyorum ama neyi yazacağımı bilmiyorum. Basit bir yöntem var mı?
+@cevap Hatice Kübra Çelik | 2
+Üç şeyi yazmanız yeterli: tarih, yapılan iş (ekim, dikim, gübre, sulama) ve gözlem (çıkış, çiçek, zararlı, hasat). Her bitkiye ayrı satır ayırın. Yanında hava notu ve toprak sıcaklığı da olursa bir sonraki yıl kıyaslama yapabilirsiniz. Haftada iki kez beş dakika ayırmak yeter; fotoğraf eklemek notları daha anlaşılır yapar.

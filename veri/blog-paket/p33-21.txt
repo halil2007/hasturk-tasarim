@@ -1,0 +1,427 @@
+### YAZI
+slug: rekolte-tahmini-agac-ve-parsel-bazinda-basit-yontem
+baslik: Rekolte Tahmini: Ağaç ve Parsel Bazında Basit Yöntem
+yayin: 2027-04-21 09:10
+yazar: Mehmet Fatih Çelik
+kategori: gundem
+odak: rekolte tahmini
+seo_baslik: Rekolte Tahmini: Ağaç ve Parsel Bazında Yöntem
+seo_aciklama: Rekolte tahmini nasıl yapılır? Örnek ağaçlarda meyve sayımı, ortalama meyve ağırlığı ve kayıp payıyla parselin ürününü önceden hesaplamanın adımları.
+ozet: Rekolte tahmini, hasattan önce parselden kaç kilo ürün çıkacağını örnek ağaç sayımıyla hesaplamaktır. Ağaç başına ortalama meyve sayısını, ortalama meyve ağırlığını ve ağaç sayısını çarpıp kayıp payını düşersiniz; örnek sayısı arttıkça hata azalır.
+etiketler: rekolte tahmini, verim tahmini, meyve sayımı, parsel, örnekleme, hasat planı
+gorsel: bekliyor
+gorsel_alt: Meyve bahçesinde dalındaki meyveleri sayan çiftçi elinde not defteriyle ağacın yanında
+urunler: hasturk-kati-solucan-gubresi, hg-fidan-topragi, leonardit-organik-toprak-duzenleyici
+kisaca: Rekolte tahmini için parseli benzer bloklara ayırın, her blokta mümkün olduğunca çok ağacın birkaç dalında meyve sayın, ağaç başına ortalamayı bulun. Ortalama meyve sayısı × ortalama meyve ağırlığı × ağaç sayısı ham tahmini verir; dökülme ve hasat kaybı düşülür.
+@govde
+Hasat başlamadan önce kaç kasa lazım, kaç işçi çağrılacak, hangi alıcıya ne kadar ürün sözü verilebilir? Bunların hepsi tek bir sayıya bağlıdır: Parselden çıkacak ürün. Rekolte tahmini kimi bahçıvanda "bu yıl iyi görünüyor" cümlesiyle biter; oysa ağaçları saymak yarım gün sürer ve tahmini çok daha sağlam yapar. Aşağıda meyve bahçesi için ağaç ve parsel bazında basit bir hesap yöntemi, örnek bir sayısal çalışma ve hata nedenleri var.
+
+## Rekolte tahmini neden örnekleme ister?
+
+Her ağacı tek tek saymak zaman alır, bu yüzden bir örnek alıp bütüne yayarsınız. Pennsylvania State Üniversitesi yayım servisi bu mantığı açıkça yazar: Ağaç başına ortalama meyve sayısını iyi tahmin ederseniz, bunu birim alandaki ağaç sayısıyla çarparak alan başına meyve sayısını bulursunuz. Aynı kaynak, bir ağacın yalnızca bir iki dalını sayarak tahmin yapmanın genellikle yetersiz kaldığını, ağaç ve blok sayısı arttıkça tahminin güvenilirleştiğini vurgular ([Penn State Extension, elma verimi ve meyve iriliği tahmini](https://extension.psu.edu/fruit-harvest-estimating-apple-yield-and-fruit-size)).
+
+Wisconsin Üniversitesi'nin meyvecilik sayfası genç ağaçlarda gövde çapına göre hedef meyve sayısı belirleme tablosunu, yetişkin seyrek bahçelerde ise dalları ölçerek toplama yaklaşımını anlatır ([Wisconsin Üniversitesi, elmada optimum meyve yükü](https://fruit.wisc.edu/?p=13027)). Mantık aynıdır: Ağaçtan ağaca ve ağaç içinde dalga dalga değişen yükü örnekle yakalamak.
+
+## Basit yöntem: adım adım
+
+::: adimlar
+Parseli bloklara bölün | Aynı çeşit, benzer yaş ve benzer bakımdaki ağaçlar bir blok olsun.
+Örnek ağaçları seçin | Blok içinde zikzak yürüyüşle dağılımı kapsayan ağaçlar seçin; kenar ağaçları ve en iyi ağaçları seçmeyin.
+Meyve sayın | Her örnek ağaçta dalları ayrı sayın ya da bir dalı sayıp ağaçtaki dal sayısıyla çarpın.
+Ortalama bulun | Ağaç başına ortalama meyve sayısını hesaplayın.
+Meyve ağırlığını ölçün | Örnekten 20-30 meyveyi tartıp ortalama ağırlığı bulun.
+Bütüne yayın | Ortalama sayı × ortalama ağırlık × ağaç sayısı = ham tahmin.
+Kayıp payını düşün | Dökülme, hastalık, don, kuş ve hasat kayıplarını çıkarın.
+:::
+
+## Örnek hesap
+
+Bir bloktaki 120 ağaçtan 12'sinde yapılan sayımda ağaç başına ortalama 400 meyve bulunsun; örnekten tartılan meyvelerin ortalaması 180 gram olsun.
+
+| Adım | Hesap | Sonuç |
+|---|---|---|
+| Blok toplam meyve | 400 × 120 | 48.000 meyve |
+| Ham tahmin | 48.000 × 0,18 kg | 8.640 kg |
+| Kayıp payı (%15 varsayım) | 8.640 × 0,85 | 7.344 kg |
+| Dekar başına | 7.344 ÷ blok dekarı | Alanla bölünür |
+
+Kayıp payı bahçeye göre değişir; yüzde 15 yalnızca örnektir. Geçmiş yıllardaki kendi kayıtlarınız en iyi referanstır. Birim alan başına maliyeti ve verimi birlikte görmek için [dekar başına maliyet ve verim hesabı](/dekar-basina-maliyet) yazısına bakın.
+
+## Zamanlama: bir kez değil, birkaç kez
+
+Rekolte tahmini tek seferlik değildir. Çiçeklenme sonrası yapılan sayım, meyve tutumu ve dökülmeden önce çok yüksek çıkar. Meyve ceviz iriliğine geldiğinde, hasattan bir iki ay önce ve hasada yakın üç ayrı zamanda sayım yaparsanız tahmin yakınsar. Washington State Üniversitesi'nin meyve sayfası, elle sayımın ağaçların yalnızca bir kısmına dayandığını ve otomatik sistemlerin bazı bloklarda büyük hatalar yapabildiğini gösterir ([Washington State Üniversitesi, meyve tahmini](https://treefruit.wsu.edu/?p=41871)); yani basit sayım bile iyi bir temeldir, ama hata payı vardır.
+
+Bölgeye göre de zamanlama değişir. Ege ve Akdeniz'de narenciye ve zeytin meyve tutumu ilkbaharda, sonbahar hasadına yakın bir tahmin ise yazın yapılır. İç Anadolu'da kayısı, kiraz ve elma kış sonu don olaylarından sonra yeniden değerlendirilir; bu yüzden zirai don sonrası tahmin yenilenmelidir; don zararını tanımak için [don zararı belirtileri](/don-zarari-belirtileri) yazısına, hastalığa bağlı kayıplar için [elma ağacı hastalıkları](/elma-agaci-hastaliklari) yazısına bakın.
+
+## Fotoğrafla sayım
+
+Dalları saymak zorsa fotoğraf yardımcı olur. USDA'nın bir çalışması, örnek dalların fotoğraflarından meyve saymanın tatmin edici bir tahmin verebildiğini ve ağaçta saymaktan daha az yorucu olduğunu gösterir ([USDA NASS, ağaç başına meyve sayısı için fotoğraf örneklemesi](https://data.nass.usda.gov/Education_and_Outreach/Reports,_Presentations_and_Conferences/Yield_Reports/Use%20of%20Photography%20in%20Sampling%20for%20Number%20of%20Fruit%20per%20Tree.pdf)). Telefonla yaprak ve meyveyi aynı çerçeveye alıp ağaç numarasını not edin. Fotoğrafta arkada kalan meyveler görünmez; bu yüzden sonucu biraz yukarı düzeltmek gerekebilir.
+
+## Zeytin ve periyodisite
+
+Zeytinde, bir yıl çok bir yıl az ürün veren periyodisite olduğu için geçen yılın rekoltesi yeni yılı tahmin etmeye yetmez. Önceki yıl çok yüklenen ağaç, bu yıl az meyve verir. Ayrıntı için [zeytinde periyodisite](/zeytinde-periyodisite) yazısına bakın. Her ağaçta önce çiçek salkımı ve meyve tutumunu sayıp ardından yaz sonunda meyve iriliğini ölçmek, daha doğru bir tablo verir.
+
+## Tarla bitkilerinde
+
+Tarla ürününde birim alan örneklemesi yapılır: Parselin farklı noktalarından birer metrekarelik kare alın, içindeki bitki ya da başak sayısını sayın, ortalamayı parsel alanıyla çarpın. Her noktadaki tane ağırlığını örnekten hesaplayıp dekar verimine çevirebilirsiniz. Yöntem benzerdir; yalnız örnek sayısı ne kadar fazlaysa o kadar güvenilirdir.
+
+## Tahmini nerede kullanırsınız?
+
+Hesapladığınız sayıyı üç işte kullanırsınız. Birincisi hasat lojistiği: Kasa, ambalaj, işçi ve taşıma planı rekolteye bağlıdır; tahmin düşük kalırsa hasatta kasa yetmez, yüksek kalırsa gereksiz yatırım yapılır. İkincisi satış planı: Alıcıya söz vereceğiniz miktarı tahminin alt sınırına göre yazın; üst sınırı değil. Üçüncüsü bakım kararları: Meyve yükü ağaç gücünün üstündeyse seyreltmek, altındaysa gübre ve sulamayı sürdürmek gerekir. Tahmin bir aralık olarak düşünülmelidir: Örneğin 7,3 ton yerine "6,5 ile 8 ton arası" demek, hem dürüsttür hem de plan yaparken emniyet bırakır. Depolama ve nakliye planında hasat sonrası ürünün nasıl bekletileceği ayrı konudur; ürünün kendi ağırlığı ve kasası için yer ayırmadan önce tahmini iki kez gözden geçirin.
+
+## Hata nedenleri ve kayıt
+
+- Yalnızca iyi görünen ağaçları saymak.
+- Bir iki daldan ağacın tamamını tahmin etmek.
+- Ağırlık için tek bir iri meyveyi tartmak.
+- Kayıp payını hiç düşmemek.
+- Tahmini bir kere yapıp güncellememek.
+- Sonuçları not tutmamak: Kayıtsız yıllar karşılaştırılamaz.
+
+Her yıl aynı yöntemle sayım yapar ve gerçek hasat sonucunu yazarsanız, "benim bahçemin sapma oranı" belli olur. Birkaç yıl sonra tahmininizin hep yüzde 10 yüksek çıktığını fark ederseniz ona göre düzeltme katsayısı kullanırsınız. Böylece rekolte tahmini sezgiden çıkar, kendi bahçenize ait bir ölçüm aracına dönüşür.
+
+@sss
+S: Rekolte tahmini nasıl yapılır?
+C: Parseli benzer bloklara bölüp her blokta birçok ağaçta meyve sayın, ağaç başına ortalamayı bulun. Ortalama meyve sayısını ortalama meyve ağırlığıyla ve ağaç sayısıyla çarpın, sonra kayıp payını düşün.
+
+S: Kaç ağaç saymak gerekir?
+C: Penn State kaynağı örnek sayısı arttıkça tahminin iyileştiğini, bir iki dal saymanın yetersiz kaldığını belirtir. Pratikte blok başına mümkün olduğunca çok ağaç, ağaç başına birkaç dal sayın.
+
+S: Rekolte tahmini hangi dönemde yapılır?
+C: Tek sefer yetmez. Meyve tutumundan sonra, meyve ceviz iriliğindeyken ve hasada yakın birkaç kez yapılır. Don, dolu ya da kuraklık sonrası tahmin yeniden değerlendirilmelidir.
+
+S: Meyve ağırlığını nasıl bulurum?
+C: Örnek ağaçlardan rastgele 20-30 meyve toplayıp birlikte tartın ve sayıya bölün. Tek bir iri meyveye bakarsanız tahmin şişer. Hasat yaklaştıkça ağırlığı yeniden ölçün.
+### YAZI
+slug: polen-propolis-nedir-kovandaki-rolu
+baslik: Polen Propolis Nedir? Kovandaki Rolü ve Arıcılıkta Kullanımı
+yayin: 2027-04-21 11:35
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: polen propolis nedir
+seo_baslik: Polen Propolis Nedir? Kovandaki Rolü
+seo_aciklama: Polen propolis nedir? Polen koloninin protein kaynağı, propolis reçineden yapılan koruyucu tabakadır; kovandaki işlevleri ve arıcının dikkat edeceği noktalar.
+ozet: Polen, çiçeklerden toplanan ve koloninin protein ihtiyacını karşılayan tozdur; arılar onu işleyip arı ekmeğine çevirir. Propolis ise bitki reçinesinin mum ve salgıyla karışmış hâlidir; kovan içinde koruyucu bir tabaka oluşturur. İkisi de kovanın sağlığı için vazgeçilmezdir.
+etiketler: polen, propolis, arı ekmeği, kovan, arıcılık, bal arısı
+gorsel: bekliyor
+gorsel_alt: Arının arka bacaklarında sarı polen topakları taşıyarak kovana dönüşü
+urunler: galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm, galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm
+kisaca: Polen propolis nedir sorusunun kısa cevabı: Polen, arıların çiçeklerden topladığı ve koloninin ana protein kaynağı olan tozdur; arılar onu nektar ve salgıyla karıştırıp petek gözlerinde arı ekmeğine dönüştürür. Propolis, bitki reçinesini mum ve salgıyla karıştırarak yaptıkları, kovan içini koruyan yapışkan tabakadır.
+@govde
+Kovan açıldığında göze ilk çarpan şey baldır; oysa kolonide iki sessiz ürün daha çalışır. Polen arılar için et, süt ve yumurta işlevi görür; propolis ise kovanın duvarına çekilmiş bir koruma boyası gibidir. Polen propolis nedir diye soranlar çoğunlukla ikisini aynı şey sanır; halbuki kaynakları, işlevleri ve kovandaki yerleri birbirinden çok farklıdır. Aşağıda ikisini ayrı ayrı, arıcılık uygulamasıyla birlikte anlatıyoruz.
+
+## Polen propolis nedir: kısa karşılaştırma
+
+| Ürün | Kaynağı | Kovandaki rolü | Nerede durur |
+|---|---|---|---|
+| Polen | Çiçeklerin erkek organı | Protein ve besin kaynağı | Arıların bacaklarında, petek gözlerinde |
+| Arı ekmeği | Polenin nektar ve salgıyla işlenmiş hâli | Larva ve genç arıların gıdası | Petek gözlerinde sıkıştırılmış |
+| Propolis | Ağaç ve bitki reçinesi + mum + salgı | Koruyucu ve antimikrobiyal tabaka | Kovan duvarları, çerçeve araları, delikler |
+| Bal | Nektar | Enerji deposu | Üstü mumla kapalı gözlerde |
+
+## Polen: koloninin protein deposu
+
+Texas A&M Üniversitesi yayım servisi, arı ekmeği hâlindeki polenin bal arısının ana protein kaynağı olduğunu belirtir ([Texas A&M AgriLife Extension, polenin bal arılarına yararları](https://extensionentomology.tamu.edu/wp-content/uploads/sites/5/2015/04/The-Benefits-of-Pollen-to-Honey-Bees.pdf)). Florida Üniversitesi'nin aynı başlıklı yayını, bal arıları için asgari protein düzeyinin yaklaşık yüzde 20-25 ham protein olarak tahmin edildiğini yazar ([UF/IFAS, polenin bal arılarına yararları](https://ask.ifas.ufl.edu/publication/IN868)). Michigan State Üniversitesi, bir larvayı büyütmenin yaklaşık 25-37,5 mg protein, yani 125-187,5 mg polen gerektirdiğini hesaplar ([Michigan State Üniversitesi, bal arısı beslenmesi](https://bees.msu.edu/wp-content/uploads/2018/03/Honey_bee_nutrition_and_feeding-handout.pdf)). Yani kovanda yavru yetiştirmek, polen akışına doğrudan bağlıdır.
+
+Toplayıcı arılar polen taneciklerini nektarla hafifçe nemlendirip arka bacaklarındaki sepetlerde top hâlinde taşır. Kovana gelen polen petek gözlerine sıkıştırılır, nektar ve arı salgısıyla karışır ve kısmen fermente olur; bu ürüne arı ekmeği denir. Purdue Üniversitesi'nin yayını, genç işçi arıların poleni daha sindirilebilir hâle getirdiğini anlatır ([Purdue, bal arısının karmaşık yaşamı](https://ag.purdue.edu/department/extension/ppp/resources/ppp-publications/mobile/ppp-116-pol-91.html)). Michigan State, arıların topladığı polenin hiçbir polen ikamesinden üstün olduğunu belirtir.
+
+Pratik anlamı şudur: Çiçek çeşitliliği az olan bölgelerde, özellikle ilkbaharda koloninin büyüme döneminde, çevredeki bitkilerin polen akışı kolonin gücünü belirler. Bahçenizde arıya yararlı çiçekler dikmek, yani meyve ağaçları, kır çiçekleri ve ilaçsız bir alan sunmak kovanlara doğrudan katkıdır; arı dostu çevre için [yabani arılar ve tozlaşma](/yabani-arilar) yazısı bu konuyu başka bir açıdan işler.
+
+## Propolis: kovanın koruyucu tabakası
+
+Minnesota Üniversitesi ve USDA araştırmacılarının hazırladığı derleme, propolisi arıların topladığı bitki reçineleri olarak tanımlar ve kolonide bir tür toplumsal bağışıklık olarak propolis zarfının kovan içinde antimikrobiyal bir katman oluşturduğunu belirtir ([USDA ARS, böceklerde propolis derlemesi](https://ars.usda.gov/ARSUserFiles/60500500/PDFFiles/501-600/561-Simone-Finstrom--Propolis%20Insects%20review.pdf)). Aynı derlemeye göre propolis, reçinenin mum ve salgı enzimleriyle karıştırılmasıyla yapılır ve bileşimi kovandan kovana, bölgeden bölgeye, mevsimden mevsime değişir. Çünkü arılar bulundukları çevrenin reçine veren bitkilerinden toplar; bu yüzden kovanın yakınındaki ağaç ve çalı türleri bileşimi etkiler.
+
+Arıcılıkta propolis, kovan yüzeylerindeki çatlakları ve delikleri kapatan, kapak ve çerçevelerin birbirine yapıştığı yapışkan madde olarak görülür. Soğuk günlerde sert, sıcakta yumuşaktır; bu yüzden çerçeve çıkarırken zorlanırsınız. Kovan aletiyle yavaşça ayırın, çerçeveyi sert hareketle çekmeyin.
+
+## Mevsime göre polen akışı
+
+Polen akışı mevsime ve bölgeye göre farklıdır. Akdeniz ve Ege kıyısında çiçeklenme erken başlar; iç bölgelerde ve yaylalarda geç başlar ve daha kısadır. Kovanınızın bulunduğu yerde ilkbaharda hangi bitkilerin ilk çiçek açtığını bir sezon boyunca not edin: Meyve ağaçları, söğüt, badem ve kır çiçekleri ilk polen kaynaklarıdır. Polen akışı kesintiye uğrarsa (soğuk, yağış ya da çiçek eksikliği) koloni yavru yetiştirmeyi yavaşlatır; bu dönemde kovanın içine bakıp arı ekmeği stoğunu görmek önem kazanır. Polen propolis nedir sorusunu bu açıdan düşünürseniz, birincisi koloninin gelişim yakıtı, ikincisi ise kovanın hastalıklara karşı kalkanıdır. İkisi birlikte sağlıklı kovanı oluşturur. Bahçenize ya da yakın alana arıların kolay ulaşacağı çiçekler ve temiz su kaynağı sağlamak, hem kendi kolonilerinizi hem de çevredeki yabani tozlayıcıları destekler.
+
+## Arıcı polen ve propolisle ne yapar?
+
+Kovan bakımında birkaç alışkanlık fark yaratır.
+
+1. İlkbaharda çiçek akımı başlamadan koloninin polen stoğuna bakın; çerçevelerde renkli arı ekmeği görüyorsanız beslenme yeterlidir.
+2. Yavru bölgesindeki çerçevelerde polen halkasını gözleyin. Yavrunun etrafında polen yoksa koloni zayıflayabilir.
+3. Polen eksikliği şüphesinde yerel arıcılık kayıt ve danışmanlık birimine, deneyimli arıcılara ve il ya da ilçe tarım müdürlüğüne danışın; destek yemi yalnızca gerektiğinde ve yetkililerin önerdiği biçimde verilir.
+4. Propolisi çerçeve araları ve kapak kenarlarında olduğu gibi bırakın; kovanın kendi koruma tabakasıdır. Çerçeveleri ayırmak için gereken kadarını kazıyın.
+5. Kovan sağlığı konusunda veteriner hekime ve arıcılık danışmanına başvurun.
+
+[ürün:galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm]
+
+Kovanı yerden kaldırmak nemi azaltır; kovan sehpası ürün açıklamasına göre kovanı yerden yaklaşık 50 cm yükseğe kaldırır, kovan tabanını nemden, karıncadan ve kemirgenlerden uzak tutar. Sehpa yalnızca iskelet olarak gelir, kovan ve arıcılık ekipmanı pakete dahil değildir. Kovanın yeri ve konumu için [arı kovanı yerleşimi](/ari-kovani-yerlesimi) yazısı rehberdir.
+
+## Ürün olarak polen ve propolis
+
+Arı poleni ve propolis gıda takviyesi olarak da satılır. Bu yazı bir sağlık tavsiyesi vermez; insan sağlığına yönelik faydalar iddiasını bilimsel olarak değerlendirmek hekimin ve yetkili kurumların işidir. Alerjisi olanlar polen ürünlerinden uzak durmalı, polen ya da propolis kullanmak isteyen biri hekime danışmalıdır. Satışa yönelik üretim yapacaksanız etiket ve hijyen kuralları için il ya da ilçe tarım müdürlüğüne başvurun. Kovandan alınan her ürün koloninin kendi ihtiyacından alınan paydır; polen tuzağı gibi aletler kolonide protein açığına yol açabileceği için kullanımı yakından izlenmelidir.
+
+## Sık yapılan hatalar
+
+- Propolisi bütünüyle temizleyip kovan içini çıplak bırakmak.
+- İlkbaharda polen stoğunu kontrol etmeden koloniyi güçlü saymak.
+- Çiçek açan bitkilere ilaç sıkıp arıların polen kaynağını zehirlemek.
+- Polen ya da propolis ürününü hekime sormadan sağlık amaçlı kullanmak.
+- Kovan bakımında protein desteğini kendi başına, yetkili tavsiye almadan vermek.
+
+İlk kovanı kuracaklar için [ilk arı kovanı hazırlığı](/ilk-ari-kovani-hazirligi-nisanda-yapilacaklar) yazısı, balın ne zaman alınacağı için [bal hasat zamanı](/bal-hasat-zamani-petek-doluluk-ve-nem-olcutleri) yazısı sonraki adımlardır.
+
+@sss
+S: Polen propolis nedir, ikisi aynı mı?
+C: Hayır. Polen, çiçeklerden toplanan ve koloninin protein ihtiyacını karşılayan tozdur. Propolis ise bitki reçinesinin mum ve salgıyla karışmasıyla oluşan, kovanı koruyan yapışkan tabakadır. Biri besin, diğeri koruma işi görür.
+
+S: Arı ekmeği nedir?
+C: Arıların petek gözlerine sıkıştırdığı polenin nektar ve salgıyla karışıp kısmen fermente olmuş hâlidir. Larvaların ve genç arıların başlıca besinidir. Michigan State yayınına göre arıların topladığı polen hiçbir ikameden üstün değildir.
+
+S: Propolis hangi bitkilerden toplanır?
+C: Arılar çevrelerindeki bitkilerin tomurcuk ve gövde reçinesini toplar. Bileşim bölgeye ve mevsime göre değişir. Bu yüzden aynı kovanın propolisi her yıl aynı olmaz; USDA ARS derlemesi de bunu belirtir.
+
+S: Kovandan propolisi tamamen temizlemek doğru mu?
+C: Hayır. Propolis kovan içinde koruyucu bir zarf oluşturur. Çerçeveleri ayırırken gereken kısmı kazıyın ama kovanı çıplak bırakmayın. Kovan sağlığıyla ilgili kararlar için arıcılık danışmanına başvurun.
+### YAZI
+slug: cayir-mera-islahi-ot-karisimi-secimi
+baslik: Çayır Mera Islahı: Ot Karışımı Seçimi ve Islah Yöntemleri
+yayin: 2027-04-21 14:05
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: çayır mera ıslahı
+seo_baslik: Çayır Mera Islahı: Ot Karışımı ve Yöntemler
+seo_aciklama: Çayır mera ıslahı nasıl yapılır? Önce otlatma düzeni, sonra gübreleme, üst tohumlama ve ot karışımı seçimi; buğdaygil ve baklagil dengesi ile adım adım plan.
+ozet: Çayır mera ıslahı, doğal bitki örtüsünü verimli hâle getirme çalışmasıdır. İlk adım otlatmayı düzenlemek, sonra gübreleme, üst tohumlama ve gerekirse yeni ekimdir. Ot karışımında buğdaygil ve baklagil dengesi bölgenin iklim ve toprağına göre seçilir.
+etiketler: çayır mera ıslahı, mera, çayır, ot karışımı, üst tohumlama, otlatma
+gorsel: bekliyor
+gorsel_alt: İlkbaharda yeşeren geniş bir mera yamacında otlayan koyun sürüsü ve çayır çiçekleri
+urunler: sus-yoncasi-tohumu-ak-ucgul, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Çayır mera ıslahı, önce otlatmanın düzenlenmesiyle başlar; ardından gübreleme, boşluklara üst tohumlama ve gerekirse yeni ekim uygulanır. Ot karışımı iklime ve toprağa uygun buğdaygil ve baklagillerden seçilir. Mera kamu mülküdür; ıslah kararları il ya da ilçe tarım müdürlüğüyle yürütülür.
+@govde
+Köyün mera yamacı her yıl biraz daha seyrek, otlar biraz daha kısa, dikenli bitkiler biraz daha fazla. Böyle bir yerde sorun çoğunlukla "toprak yoruldu" değil, otlatmanın yönetilmemesidir. Çayır mera ıslahı bu yüzden gübre ya da tohumla değil, düzenle başlar. Çayır biçilen, mera otlatılan yerdir; ikisinin ıslahı birbirine benzer ama hedefleri farklıdır. Aşağıda yöntemleri sırasıyla, ot karışımı seçimini ve yıllık işleri anlatıyoruz.
+
+## Çayır ile mera arasındaki fark
+
+| Özellik | Çayır | Mera |
+|---|---|---|
+| Kullanım | Biçilir, kuru ot yapılır | Hayvan otlatılır |
+| Beklenen yönetim | Biçim zamanı, gübre | Otlatma süresi ve yükü |
+| Islahta öncelik | Biçim sıklığı ve gübreleme | Otlatma düzeni, üst tohumlama |
+| Hedef | Kuru ot üretimi | Hayvanı otlatarak beslemek |
+
+## Önce otlatmayı düzenleyin
+
+Ankara Üniversitesi açık ders notları mera ıslahını kültürel yöntemler olarak anlatır: özel otlatma sistemleri, yapay tohumlama, yabani ot ve zararlı bitki kontrolü, gübreleme, toprak ve su koruma önlemleri ([Ankara Üniversitesi açık ders, mera ıslahı](https://acikders.ankara.edu.tr/mod/resource/view.php?id=71666)). FAO'nun AGRIS kaydında yer alan "Türkiye'de sürdürülebilir mera ıslahı olanakları" çalışması da kötü otlatma yönetiminin önce sona erdirilmesi gerektiğini, baklagillerin payının artırılarak gübre ihtiyacının azaltılabileceğini vurgular ([FAO AGRIS, Türkiye'de sürdürülebilir mera ıslahı](https://agris.fao.org/search/en/records/67598199c7a957febdf998a2)).
+
+Pratik anlamı şudur: Meraya aynı sürü yıl boyu, otlar tohuma gitmeden ve yer sert kuruyunca girmeye devam ediyorsa tohum ekmek ya da gübre atmak boşa gider. Otlatmanın başlangıç ve bitiş tarihini, hayvan sayısını ve bölmelerin dönüşümünü düzenlemek ilk ve en ucuz ıslahtır. Hayvan başına düşen mera alanını ve otlatma süresini il ya da ilçe tarım müdürlüğüyle belirleyin.
+
+## Çayır mera ıslahı yöntemleri
+
+| Yöntem | Ne zaman uygun | Dikkat |
+|---|---|---|
+| Otlatma düzeni | Her durumda ilk adım | Hayvan sayısını ve süreyi alana uydurun |
+| Gübreleme | Bitki örtüsü var ama verim düşük | Toprak analizine göre, aşırıdan kaçının |
+| Üst tohumlama | Zemin örtüsü seyrek, yağış yeterli | Mevcut otu bozmadan boşluklara serpin |
+| Yabancı ot kontrolü | Zararlı ve dikenli bitkiler yaygın | Tohumlanmadan önce temizleyin |
+| Yapay mera kurma | Örtü çok bozuk, erozyon var | Toprak sürümü erozyon riskini artırabilir |
+| Toprak-su koruma | Eğim ve erozyon sorunu | Teras, çit ve bölme kullanın |
+
+Çayır mera ıslahı işlemlerini sıralayan bir Türkçe çalışma, bunları gübreleme, üst tohumlama, yapay mera tesisi ve otlatma kontrolü olarak verir; üst tohumlamanın örtünün az ve yağışın yüksek olduğu yerde uygun olduğunu belirtir. Gübrelemenin verimi ve ot kalitesini artırdığı, üretimi otlatma sezonuna eşit yaydığı yaygın bulgudur.
+
+## Ot karışımı nasıl seçilir?
+
+İyi bir karışım iki ana grubu bir araya getirir: buğdaygiller (kök ağı yoğun, yem hacmi yüksek) ve baklagiller (havadan azot bağlar, protein oranı yüksek). Baklagiller toprağa azot kazandırdığı için gübre ihtiyacını azaltır. Tür seçimi bölgeye göre yapılır; Akdeniz kıyısında kuraklığa dayanıklı, iç ve yüksek bölgelerde soğuğa dayanıklı türler seçilir. Karışımın ömrü de önemlidir: Çok yıllık türler kalıcı bir örtü kurar, tek yıllıklar ilk yıl hızlı ürün verir ama her yıl yeniden ekim ister.
+
+1. Bölgenin iklim verisini ve yağış miktarını belirleyin.
+2. Toprak analizi yaptırın; pH ve organik madde kritik.
+3. Yerel ya da bölge araştırma enstitülerince önerilen türleri sorun.
+4. Karışımı buğdaygil ağırlıklı, baklagil katkılı kurun.
+5. Tohum etiketindeki çimlenme ve saflık oranına bakın.
+6. Kaplı ya da hazır karışım aldıysanız ekim miktarını etiketten okuyun.
+
+Serin mevsim baklagil yemleri için [fiğ ekimi](/fig-ekimi) ve çok yıllık yem için [yonca ekimi](/yonca-ekimi) yazılarına bakabilirsiniz; yaz için [sudan otu yetiştirme](/sudan-otu-yetistirme-yazlik-yem-bitkisi-ekimi-ve-bicim) yazısı farklı bir seçenektir. Hangi tohumun ne kadar kullanılacağını ve ekim derinliğini [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazısında bulursunuz.
+
+## Adım adım çayır mera ıslahı planı
+
+::: adimlar
+Durumu saptayın | Bitki örtüsü, çıplak yerler, yabancı otlar ve erozyon izlerini not edin.
+Otlatmayı düzenleyin | Hayvan sayısı, giriş-çıkış tarihi ve bölme düzeni belirleyin.
+Toprağı analiz ettirin | pH, fosfor ve organik madde değerlerini öğrenin.
+Zararlı bitkileri temizleyin | Dikenli ve istilacı bitkileri tohumlanmadan kontrol altına alın.
+Gübreleyin | Analiz sonucuna göre, aşırıya kaçmadan uygulayın.
+Üst tohumlayın | Boşluklara uygun ot karışımını ekin, hayvanı bir süre uzak tutun.
+İzleyin | Her yıl aynı noktada örtü yüzdesini ve verimi karşılaştırın.
+:::
+
+## Islahın sonucunu nasıl ölçersiniz?
+
+Çayır mera ıslahı bir yılda bitmez; sonuçlar iki üç yılda görünür. İlerlemeyi ölçmek için meranın sabit noktalarını seçin, her yıl aynı ayda fotoğraf çekin, bir metrekarelik çerçevede toprağın yüzde kaçının bitkiyle örtülü olduğunu, hangi türlerin çoğaldığını ve dikenli ya da zararlı bitkilerin payını not edin. Yem veriminde de aynı çerçevede ot biçip tartarak yıllar arasında karşılaştırma yapabilirsiniz. Baklagil payı artıyor, çıplak toprak azalıyorsa çayır mera ıslahı doğru yönde ilerliyor demektir. Aksine, dikenli bitkiler çoğalıyorsa otlatma yükü ya da zamanı hâlâ fazladır. Kayıtlı ve fotoğraflı izleme, ilgili kurumlara ıslah talebi sunarken de elinizde somut veri bırakır.
+
+## Yıllık iş takvimi
+
+::: takvim
+Durum tespiti ve toprak örneği | 3-4
+Üst tohumlama | 3-4,9-10
+Gübreleme | 3-4
+Yabancı ot ve zararlı bitki kontrolü | 5-6
+Biçim ya da ilk otlatma | 5-6
+Otlatma bitişi ve dinlendirme | 10-11
+:::
+
+Bu takvim ılıman bölge için kabaca bir çerçevedir; yüksek yerlerde işler bir iki ay kayar. Toprak örneği alırken [toprak örneği alma](/toprak-ornegi-alma) yazısı, sonuçları okumak için [toprak analizi sonuçları nasıl okunur](/toprak-analizi-sonuclari) yazısı yol gösterir.
+
+## Yasal çerçeve
+
+Mera, kanunla korunan bir arazi türüdür. Mera Kanunu (4342 sayılı) 1998'de yürürlüğe girmiştir; Tarım ve Orman Bakanlığı kanunun uygulamalarını yürütür ve bu konuda toplantılar düzenler ([Tarım ve Orman Bakanlığı, Mera Kanunu uygulamaları toplantısı](https://www.tarimorman.gov.tr/BUGEM/Haber/921/Mera-Kanunu-Uygulamalarina-Yonelik-Toplanti-Ankarada-Yapildi)). Meranın kullanımı kanunla düzenlendiği için tarla açma ya da sürme gibi işlemleri izinsiz yapmayın. Islah projesi için il ya da ilçe tarım müdürlüğüne başvurun.
+
+## Küçük alanda bahçe çayırı
+
+Bahçede ya da küçük arazide çayır oluşturmak isteyenler için baklagil ağırlıklı bir örtü de seçenek olabilir.
+
+[ürün:sus-yoncasi-tohumu-ak-ucgul]
+
+Gold Valley Süs Yoncası (Ak Üçgül) tohumu, ürün açıklamasında yayılarak büyüyen, sık biçme ve yoğun gübreleme istemeyen, zayıf toprakta azot bağlayan bir örtü bitkisi olarak tanıtılıyor. Bahçe için bu tohum süsleme amaçlıdır; mera ıslahı için bölge araştırma kurumlarının önerdiği yem bitkileri seçilir.
+
+## Sık yapılan hatalar
+
+- Otlatmayı düzenlemeden tohum ekmek.
+- Toprak analizi yapmadan gübre atmak.
+- Meranın tamamını sürüp yeniden ekmek.
+- Bölgeye uygun olmayan tohum karışımı almak.
+- Üst tohumlanan alana hemen hayvan sokmak.
+- Islah sonrası sonuçları izlememek.
+
+@sss
+S: Çayır mera ıslahı nereden başlar?
+C: Otlatmayı düzenlemekten. FAO AGRIS kaydındaki Türkiye çalışması, kötü otlatma yönetiminin önce sona erdirilmesi gerektiğini vurgular. Sonra toprak analizi, gübreleme ve üst tohumlama gelir.
+
+S: Üst tohumlama ne zaman yapılır?
+C: Zemin örtüsü seyrek ve yağış yeterli olduğunda uygundur. Mevcut otu bozmadan boşluklara uygun ot karışımı serpilir. Serin bölgelerde ilkbahar ve sonbahar tercih edilir.
+
+S: Ot karışımında neden baklagil olmalı?
+C: Baklagiller havadaki azotu toprağa bağlar, protein oranını yükseltir ve gübre ihtiyacını azaltır. Buğdaygillerle birlikte kullanıldığında verim ve yem kalitesi dengeli olur.
+
+S: Merayı sürüp yeniden ekebilir miyim?
+C: Mera kanunla korunur; kendi başınıza sürmeyin. Islah projesi ve ekim için il ya da ilçe tarım müdürlüğüne başvurun. Yapay mera kurma ancak yetkili kurumun bilgisiyle yapılır.
+### YAZI
+slug: biber-topragi-saksi-ve-bahce-icin-karisim
+baslik: Biber Toprağı: Saksı ve Bahçe İçin Karışım
+yayin: 2027-04-21 19:30
+yazar: Hatice Kübra Çelik
+kategori: toprak-rehberi
+odak: biber toprağı
+seo_baslik: Biber Toprağı: Saksı ve Bahçe İçin Karışım
+seo_aciklama: Biber toprağı nasıl olmalı? Süzek, organik maddeli ve hafif asidik ortamın pH aralığı, saksı hacmi, karışım oranları ve bahçede toprak hazırlama adımları.
+ozet: Biber, nemli ama su tutmayan, organik maddeli ve hafif asidik bir toprakta rahat eder. Üniversite yayım servisleri yaklaşık pH 6,0-6,8 aralığını önerir. Saksıda hacim ve drenaj, bahçede ise toprağın gevşekliği ve ısınması belirleyicidir.
+etiketler: biber toprağı, biber saksı toprağı, biber pH, sebze toprağı, saksı karışımı, balkon biber
+gorsel: bekliyor
+gorsel_alt: Balkondaki kapta dolgun, koyu renkli toprakta dikilmiş genç biber fideleri
+urunler: hg-bol-verimli-sebze-topragi, moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60, tarim-perliti
+kisaca: Biber toprağı süzek, organik maddece zengin ve hafif asidik olmalıdır; yayım servisleri çoğunlukla pH 6,0-6,8 aralığını önerir. Bahçede toprağı derin gevşetip olgun kompost karıştırın; saksıda yaklaşık 25 litrelik, drenaj delikli bir kapta havadar bir sebze toprağı karışımı kullanın.
+@govde
+Biber fidesi iki hafta içinde toprağa tutunur görünür, sonra yapraklar sararır ya da çiçekler dökülür. Çoğu zaman bunun arkasında ağır, havasız ya da dengesiz nemli bir toprak yatar. Biber toprağı ne fazla ağır ne fazla gevşek olmalıdır: Kökler su bulmalı, ama suyun içinde kalmamalıdır. Aşağıda pH aralığını, saksı hacmini, saksı ve bahçe karışımını ve toprağın belirtilerini okuma yolunu anlatıyoruz. Gübre programı için ayrı bir yazı var; burada yalnız toprağa odaklanıyoruz.
+
+## Biber toprağı nasıl olmalı?
+
+Oklahoma State Üniversitesi yayım servisi, biberin iyi süzen, kumlu tınlı bir toprakta ve 6,0-6,8 pH aralığında en iyi sonucu verdiğini, 5,5'e kadar inen pH'a da oldukça toleranslı olduğunu belirtir ([OSU Extension, biber üretimi](https://extension.okstate.edu/fact-sheets/pepper-production.html)). Ohio State Üniversitesi, biber için sezon boyunca altı sekiz saat tam güneşi ve organik maddece zengin, iyi süzen toprağı önerir ([Ohio State Üniversitesi, biber](https://ohioline.osu.edu/factsheet/hyg-1618)). Georgia Üniversitesi ve Clemson Üniversitesi 6,0-6,5 arasını, West Virginia Üniversitesi 6,5-7 arasını anar ([UGA, ev bahçesinde biber](https://fieldreport.caes.uga.edu/publications/C1005/home-garden-peppers/); [WVU Extension, biber yetiştirme](https://extension.wvu.edu/lawn-gardening-pests/gardening/wv-garden-guide/growing-peppers-in-west-virginia)). Aralıklar küçük farklarla birbirine yakındır: Hafif asidik ile nötr arası.
+
+| Özellik | Hedef | Sebep |
+|---|---|---|
+| pH | Yaklaşık 6,0-6,8 | Besin alımı bu aralıkta rahat |
+| Doku | Kumlu tınlı, gevşek | Kök nefes alır |
+| Organik madde | Bol, olgun | Nem ve besin deposu |
+| Süzme | Su dibinde birikmemeli | Kök çürümesini önler |
+| Isı | Isınmış toprak | Biber sıcak ister |
+| Güneş | 6-8 saat | Verim ve çiçek tutumu |
+
+pH'ı ölçmek için [toprak pH değeri nedir](/toprak-ph-nedir) yazısındaki şerit ya da elektronik ölçüm yöntemlerinden birini kullanabilirsiniz. Sonuç aralığın çok dışındaysa dikimden önce düzeltin; bitki yerleştikten sonra pH ayarlamak zordur.
+
+## Bahçede biber toprağı hazırlığı
+
+Bahçe toprağını ilkbaharda biber dikiminden birkaç hafta önce işleyin. Toprağı bir kürek derinliğinde (20-30 cm) kazıp kesekleri ufalayın. Olgun kompost ya da solucan gübresi ekleyerek organik maddeyi artırın; taze gübre kullanmayın, köklere zarar verir. Ağır ve killi bahçede yükseltilmiş yatak biberi kurtarır: Su çabuk uzaklaşır, toprak ilkbaharda daha çabuk ısınır. Kil ve kum konusunda [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) ve [kumlu toprak ıslahı](/kumlu-toprak-islahi) yazıları ayrıntı verir.
+
+Karadeniz ve Marmara'nın nemli, serin bahçelerinde toprak geç ısınır; siyah malç ya da örtü topraktaki soğuğu giderir. Akdeniz ve Ege'de ise toprak çabuk ısınıp çabuk kurur; kalın bir organik malç ve düzenli sulama biberi korur. Fide dikimini toprak ısındıktan sonra yapın; dikim zamanı için [fide dikim zamanı](/fide-dikim-zamani) yazısına bakın.
+
+## Saksı ve kasa için hacim
+
+Biber saksıda yetişir, ama hacim kısıtlıysa bitki küçük kalır. Alabama Üniversitesi'nin bahçe kartı biber için yaklaşık 7 galonluk (yaklaşık 26 litre) bir kabı önerir. Bu rakamı kendi balkonunuz için bir başlangıç olarak düşünün: Büyük kap suyu ve besini daha uzun tutar, kök daha rahat yayılır. Kabın dibinde yeterli drenaj deliği olmalı. Hacim hesabı için [saksıya kaç litre toprak gider](/saksiya-kac-litre-toprak-gider) yazısı kolaylık sağlar.
+
+[ürün:hg-bol-verimli-sebze-topragi, moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60]
+
+Hazır karışım isteyenler için HG Premium Sebze Yetiştirme Toprağı, ürün açıklamasında balkon ve bahçedeki sebzeler için solucan gübresi ve leonardit içeren bir toprak olarak tanıtılıyor. Balkonda daha geniş bir alan arayanlar için Modüler Balkon ve Teras Sebze Yatağı No:4 (110×60 cm), ürün sayfasına göre 30 cm toprak derinliği ve yaklaşık 198 litre hacim sunuyor; tabanında drenaj kanalları ve su zemine akmasın diye alt tepsi var, domates ve biber gibi bitkiler için tanıtılıyor.
+
+## Saksı için biber toprağı karışımı
+
+::: karisim
+Sebze ya da torflu saksı toprağı | 50
+Olgun kompost ya da solucan gübresi | 25
+Perlit | 15
+Kokopit | 10
+:::
+
+Kendi karışımınızı hazırlıyorsanız [kendi toprak karışımını oluşturma](/kendi-toprak-karisimini-olusturma) yazısı oran mantığını anlatır. Karışım nemlendirilince elinizde sıkıldığında topak olmalı, hafif dokunuşta dağılmalıdır. Su akıp gidiyorsa karışım fazla gevşek, uzun süre sızmıyorsa fazla ağırdır; ona göre perlit ya da kompostu değiştirin. Saksı toprağının hazırlığı için [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısını da okuyun.
+
+## Toprak nemi ve sulama düzeni
+
+Doğru karışım, doğru sulamayla tamamlanır. Biberin kökü derine değil, yatay yayılır; bu yüzden toprağın üst 10-15 cm'lik katmanı kurumadan nemli tutulmalıdır. Sık ve az sulama köklerin yüzeyde kalmasına, seyrek ve çok sulama ise suyun çabuk kaçmasına yol açar. Sabahları toprağa parmağınızı bir boğum daha sokun: Kuruysa sulayın, nemliyse bekleyin. Saksıda sıcak günlerde sabah ve akşam kontrol gerekebilir. Toprağın üstünü 3-5 cm kalınlıkta saman ya da kuru yaprakla örtmek, nemi tutar, sıcak toprağı soğutur ve yağmurda toprağın sıçramasını azaltır. Nem ölçümü için [toprak nemi ölçme](/toprak-nemi-olcme) yazısı basit yöntemleri gösterir. Düzensiz sulanan biber toprağı, bir ıslanıp bir kuruyan topraktır; çiçek dökümü ve meyve çürümeleri çoğunlukla bu dalgalanmadan doğar.
+
+## Dikim adımları
+
+1. Toprağı ısıtın ve nemlendirin; kuru toprakta fide kökü zarar görür.
+2. Fideyi viyolden çıkarırken kök topağını bozmadan alın.
+3. Dikim çukurunu fide kök topağından biraz geniş açın.
+4. Fideyi aynı derinlikte dikin; biberi domates gibi gövdesinden derine gömmeyin.
+5. Dikimden sonra bol su verin, ilk haftada gölge bırakın.
+6. Toprağın üstüne ince bir malç serin.
+
+## Toprağın verdiği belirtiler
+
+::: belirti
+Yapraklar sararıyor, toprak sürekli ıslak | Süzme zayıf, kök boğuluyor | Sulamayı azaltın, karışıma perlit ekleyin
+Fide boylanmıyor, yapraklar mor | Toprak soğuk ya da pH uygun değil | Toprak ısınana kadar bekleyin, pH'ı ölçün
+Çiçek ve küçük meyve dökülüyor | Düzensiz nem ve sıcaklık stresi | Sulamayı düzenli yapın, malç serin
+Yapraklar soluk, büyüme yavaş | Toprak tükenmiş ya da besin yetersiz | Kompost verin, besleme programına bakın
+:::
+
+Hastalık belirtilerini tanımak için [biber hastalıkları](/biber-hastaliklari), beslenme programı için [biber gübreleme](/biber-gubreleme) yazısına bakın. Saksıda biber yetiştirmenin diğer yönlerini [saksıda biber yetiştirme](/saksida-biber-yetistirme) yazısında anlattık.
+
+## Sık yapılan hatalar
+
+- Saksıya bahçeden kazılmış ağır toprak doldurmak.
+- Küçük bir saksıda birden çok biber dikmek.
+- Dibinde drenaj deliği olmayan bir kaba biber dikmek.
+- Taze gübreyi dikim çukuruna koymak.
+- Toprak soğukken fide dikmek.
+- Aynı yatağa her yıl patlıcangiller (domates, biber, patlıcan) dikmek; nöbetleşe ekim toprağı dinlendirir.
+
+@sss
+S: Biber toprağı pH'ı kaç olmalı?
+C: Oklahoma State yaklaşık 6,0-6,8 önerir; biber 5,5'e kadar toleranslıdır. Georgia ve Clemson 6,0-6,5, West Virginia 6,5-7 aralığını anar. Yani hafif asidik ile nötr arası uygundur. Dikimden önce pH'ı ölçün.
+
+S: Saksıda biber için kaç litrelik kap gerekir?
+C: Alabama Üniversitesi kartı biber için yaklaşık 7 galonluk (yaklaşık 26 litre) kabı önerir. Daha küçük kapta bitki daha küçük kalır. Kabın dibinde yeterli drenaj deliği bulunmalı.
+
+S: Biber için bahçe toprağı mı hazır sebze toprağı mı daha iyi?
+C: Bahçe toprağı gevşek ve organik maddeliyse uygundur. Ağır ya da killi bahçede yükseltilmiş yatak ve olgun kompost gerekir. Saksıda ise bahçe toprağı tek başına kullanılmaz; havadar bir sebze toprağı karışımı seçilir.
+
+S: Biber toprağı ne kadar sık yenilenir?
+C: Saksıda her yıl üst katmanı yenileyin, iki üç yılda bir tamamını değiştirin. Bahçede ise her yıl kompost ekleyin ve biberi aynı yere art arda dikmeyin.
+
+### SORU
+yayin: 2027-04-21 10:20
+kategori: gundem
+baslik: Elma bahçemin rekoltesini önceden nasıl tahmin ederim?
+metin: Kırk ağaçlık elma bahçem var. Hasattan önce kaç kasa lazım olacağını bilmek istiyorum. Her ağacı saymadan tahmin edilir mi?
+@cevap Mehmet Fatih Çelik | 2
+Edilir. Ağaçların hepsini saymak yerine bahçeden dağılımı kapsayan on kadar ağaç seçin, her birinde birkaç dalı sayıp ağaç başına ortalama meyve sayısını bulun. Ortalamayı ağaç sayısıyla ve örnekten tarttığınız ortalama meyve ağırlığıyla çarpın, sonra dökülme ve hasat kaybı için bir pay düşün. Bir iki daldan tahmin yapmak yetersiz kalır; hasada yaklaştıkça sayımı yenileyin.
+
+### SORU
+yayin: 2027-04-21 15:10
+kategori: sebze-meyve
+baslik: Kovandan propolisi tamamen temizlemeli miyim?
+metin: Çerçeveleri ayırırken kenarlarda çok propolis birikti. Hepsini kazıyıp temizlemeli miyim?
+@cevap Mikdat Çelik | 2
+Gereken kadarını kazıyın ama kovanı çıplak bırakmayın. Propolis, arıların reçineyi mumla karıştırarak yaptığı koruyucu tabakadır ve kovan içinde antimikrobiyal bir zarf oluşturur. Çerçeveleri rahat ayırmanız için kenarları kovan aletiyle yavaşça açmanız yeter. Kovan sağlığıyla ilgili şüpheniz olursa arıcılık danışmanına ya da veteriner hekime başvurun.
+
+### SORU
+yayin: 2027-04-21 20:40
+kategori: toprak-rehberi
+baslik: Balkonda biber için saksı kaç litre olmalı?
+metin: Balkonda iki biber fidesi dikeceğim. Kaç litrelik saksı alayım, toprak olarak ne kullanayım?
+@cevap Hatice Kübra Çelik | 2
+Alabama Üniversitesi'nin bahçe kartı biber için yaklaşık 7 galonluk, yani yaklaşık 26 litrelik bir kap öneriyor. Her fideye ayrı kap ayırmak en rahatıdır. Karışımı sebze toprağı, olgun kompost ve perlitle hazırlayın; dipte bol drenaj deliği olsun. Toprağı sürekli ıslak bırakmayın, üst katmanı kurudukça sulayın.

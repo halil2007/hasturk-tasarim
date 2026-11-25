@@ -1,0 +1,674 @@
+{
+ "site": "hasturk",
+ "kategoriler": [],
+ "urunler": [
+  {
+   "kaynak": "https://serakulit.com/urun/premium-vermikulit-5-litre-serakulit",
+   "ad": "Serakülit Premium Vermikülit (+11 mm, İri Tane)",
+   "kategoriler": [
+    "Vermikülit"
+   ],
+   "gorseller": [],
+   "metaData": {
+    "slug": "serakulit-premium-vermikulit",
+    "pageTitle": "Premium Vermikülit +11 mm İri Tane | HasTürk Gübre",
+    "description": "Serakülit Premium vermikülit: +11 mm iri tane, yanmaz ve yalıtkan doğal mineral. Çatı izolasyonu, ambalaj ve dolgu için 5 – 100 litre paketler."
+   },
+   "aciklama": "<p><strong>Serakülit Premium Vermikülit</strong>, +11 mm üzerindeki ham vermikülitin genleştirilip elenmesiyle elde edilen, serinin en iri taneli boyudur. Vermikülitin yanmaz ve yalıtkan yapısından en çok yararlanılan boydur.</p>\n<h2>Nerelerde kullanılır?</h2>\n<ul>\n<li>Evlerde çatı ve tavan arası izolasyonunda dolgu malzemesi olarak</li>\n<li>Elektrik motorlarında elektrik aksamını korumak ve oluşabilecek arızaların yangına dönüşmesini önlemek amacıyla</li>\n<li>Hassas ürünlerin ve özel lenslerin paketlenmesinde, ambalaj sektöründe darbe ve ısı koruması için</li>\n</ul>\n<p>Bitki yetiştirmede daha ince boylar tercih edilir; saksı ve fide için <a href=\"/serakulit-fine-vermikulit\">Fine</a> ya da <a href=\"/serakulit-medium-vermikulit\">Medium</a> boyuna bakabilirsiniz.</p>\n<h2>Vermikülit nedir, neden kullanılır?</h2>\n<p>Vermikülit, ısıl işlemle genleştirilerek hafif ve gözenekli hâle getirilen doğal bir mineraldir. Gözenekli yapısı sayesinde suyu ve besin maddelerini tutar, toprağı gevşetir ve köklerin hava almasına yardımcı olur. Saksı ve bahçe toprağına karıştırıldığında sulama aralıklarının uzamasına katkı sağlar.</p>\n<h2>Teknik bilgiler</h2>\n<ul>\n<li>Birim hacim ağırlığı: yaklaşık 78 g/L (31,5 g ≈ 400 ml)</li>\n<li>1 kg ≈ 12,6 litre · 1 ton ≈ 1.260 litre</li>\n<li>Bütün boylar aynı mineraldir; boylar arasında kimyasal fark yoktur, yalnızca tane büyüklüğü farklıdır.</li>\n<li>Üretici: Serakülit (yerli vermikülit)</li>\n</ul>\n<h2>Paket seçenekleri</h2>\n<p>Ürün sayfasındaki \"Farklı Paket Seçeneği\" alanından ihtiyacınız olan litreyi seçebilirsiniz. Hangi boyun ve ne kadar vermikülitin size uygun olduğundan emin olamazsanız müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz. Diğer toprak düzenleyiciler için <a href=\"/toprak-duzenleyiciler-ve-katki-maddeleri\">toprak düzenleyiciler ve katkı maddeleri</a> sayfamıza, perlitle birlikte kullanım için <a href=\"https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir\">perlit nedir, nasıl kullanılır</a> yazımıza göz atabilirsiniz.</p>",
+   "fiyat": 405.0,
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "25 Lt",
+     "50 Lt",
+     "100 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 405.0,
+     "alis": 300.0,
+     "stok": 8,
+     "sku": "SK-serapre5",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2023/03/premium-moc.png",
+      "https://serakulit.com/wp-content/uploads/2023/03/5-litre-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/5-litre-2.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre1.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre2.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre3.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre4.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre5.jpg"
+     ]
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 675.0,
+     "alis": 500.0,
+     "stok": 26,
+     "sku": "SK-serapre10",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1991197_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991197_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991197_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991197_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991197_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991197_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991197_6.jpg"
+     ]
+    },
+    {
+     "deger": "25 Lt",
+     "fiyat": 877.5,
+     "alis": 650.0,
+     "stok": 15,
+     "sku": "SK-serapre25",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/07/1835340_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835340_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835340_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835340_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835340_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835340_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835340_6.jpg"
+     ]
+    },
+    {
+     "deger": "50 Lt",
+     "fiyat": 1161.0,
+     "alis": 860.0,
+     "stok": 18,
+     "sku": "SK-pre50",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2023/03/premium-moc.png",
+      "https://serakulit.com/wp-content/uploads/2023/03/50-litre-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/50-litre-2.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre1.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre2.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre3.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre4.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/pre5.jpg"
+     ]
+    },
+    {
+     "deger": "100 Lt",
+     "fiyat": 1620.0,
+     "alis": 1200.0,
+     "stok": 70,
+     "sku": "SK-pre100",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1949352_0-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1949352_1-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1949352_2-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1949352_3-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1949352_4-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1949352_5-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1949352_6-1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "kaynak": "https://serakulit.com/urun/coarse-vermikulit-5-litre-serakulit",
+   "ad": "Serakülit Coarse Vermikülit (+5 mm, Kalın Tane)",
+   "kategoriler": [
+    "Vermikülit"
+   ],
+   "gorseller": [],
+   "metaData": {
+    "slug": "serakulit-coarse-vermikulit",
+    "pageTitle": "Coarse Vermikülit +5 mm Kalın Tane | HasTürk Gübre",
+    "description": "Serakülit Coarse vermikülit: +5 mm kalın tane. Açık bahçe ve tarlada toprak havalandırma, köklenme; yalıtım ve yangın paneli dolgusu. 5 – 100 litre."
+   },
+   "aciklama": "<p><strong>Serakülit Coarse Vermikülit</strong>, +5 mm üzerindeki ham vermikülitin genleştirilip elenmesiyle üretilen kalın taneli boydur. 5 mm'den büyük tanelerden oluşur.</p>\n<h2>Nerelerde kullanılır?</h2>\n<ul>\n<li><strong>Bahçe ve tarla:</strong> Açık bahçe ve tarlalarda toprağı havalandırmak, bitkiyi beslemek ve köklenmeyi desteklemek için</li>\n<li><strong>Ağır topraklar:</strong> Sıkışan, geç süzülen topraklarda iri taneler toprak yapısını gevşetmeye yardımcı olur</li>\n<li><strong>Yapı ve izolasyon:</strong> Çatı izolasyonu, inşaatta yalıtım malzemesi ve dolgu tipi yangın paneli imalatı</li>\n</ul>\n<h2>Vermikülit nedir, neden kullanılır?</h2>\n<p>Vermikülit, ısıl işlemle genleştirilerek hafif ve gözenekli hâle getirilen doğal bir mineraldir. Gözenekli yapısı sayesinde suyu ve besin maddelerini tutar, toprağı gevşetir ve köklerin hava almasına yardımcı olur. Saksı ve bahçe toprağına karıştırıldığında sulama aralıklarının uzamasına katkı sağlar.</p>\n<h2>Teknik bilgiler</h2>\n<ul>\n<li>Birim hacim ağırlığı: yaklaşık 78 g/L (31,5 g ≈ 400 ml)</li>\n<li>1 kg ≈ 12,6 litre · 1 ton ≈ 1.260 litre</li>\n<li>Bütün boylar aynı mineraldir; boylar arasında kimyasal fark yoktur, yalnızca tane büyüklüğü farklıdır.</li>\n<li>Üretici: Serakülit (yerli vermikülit)</li>\n</ul>\n<h2>Paket seçenekleri</h2>\n<p>Ürün sayfasındaki \"Farklı Paket Seçeneği\" alanından ihtiyacınız olan litreyi seçebilirsiniz. Hangi boyun ve ne kadar vermikülitin size uygun olduğundan emin olamazsanız müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz. Diğer toprak düzenleyiciler için <a href=\"/toprak-duzenleyiciler-ve-katki-maddeleri\">toprak düzenleyiciler ve katkı maddeleri</a> sayfamıza, perlitle birlikte kullanım için <a href=\"https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir\">perlit nedir, nasıl kullanılır</a> yazımıza göz atabilirsiniz.</p>",
+   "fiyat": 405.0,
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "25 Lt",
+     "50 Lt",
+     "100 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 405.0,
+     "alis": 300.0,
+     "stok": 10,
+     "sku": "SK-seracoa5",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/05/1991193_0-scaled.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/05/1991193_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/05/1991193_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/05/1991193_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/05/1991193_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/05/1991193_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/05/1991193_6.jpg"
+     ]
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 675.0,
+     "alis": 500.0,
+     "stok": 20,
+     "sku": "SK-seracoa10",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1991194_0-4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991194_1-4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991194_2-4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991194_3-4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991194_4-4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991194_5-4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991194_6-4.jpg"
+     ]
+    },
+    {
+     "deger": "25 Lt",
+     "fiyat": 877.5,
+     "alis": 650.0,
+     "stok": 23,
+     "sku": "SK-seracoa25",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1902287_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1902287_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1902287_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1902287_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1902287_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1902287_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1902287_6.jpg"
+     ]
+    },
+    {
+     "deger": "50 Lt",
+     "fiyat": 1161.0,
+     "alis": 860.0,
+     "stok": 9,
+     "sku": "SK-seracoa50",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1751064_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1751064_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1751064_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1751064_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1751064_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1751064_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1751064_6.jpg"
+     ]
+    },
+    {
+     "deger": "100 Lt",
+     "fiyat": 1620.0,
+     "alis": 1200.0,
+     "stok": 58,
+     "sku": "SK-coarse100",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2023/03/coarse-moc.png",
+      "https://serakulit.com/wp-content/uploads/2024/07/1948031_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1948031_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1948031_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1948031_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1948031_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1948031_6.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "kaynak": "https://serakulit.com/urun/medium-vermikulit-5-litre-serakulit",
+   "ad": "Serakülit Medium Vermikülit (Orta Tane)",
+   "kategoriler": [
+    "Vermikülit"
+   ],
+   "gorseller": [],
+   "metaData": {
+    "slug": "serakulit-medium-vermikulit",
+    "pageTitle": "Medium Vermikülit Orta Tane: Saksı ve Bahçe | HasTürk",
+    "description": "Serakülit Medium vermikülit: Coarse ile Fine arası orta tane. Saksı ve bahçe toprağını havalandırır, su tutar, köklenmeyi destekler. 5 – 100 litre."
+   },
+   "aciklama": "<p><strong>Serakülit Medium Vermikülit</strong>, iri taneli Coarse ile ince taneli Fine arasında yer alan orta boydur. Hem saksı hem bahçe toprağında dengeli bir havalanma ve su tutma sağlamak isteyenler için çok yönlü bir seçimdir.</p>\n<h2>Nerelerde kullanılır?</h2>\n<ul>\n<li><strong>Saksı toprağı:</strong> Salon ve balkon bitkilerinin toprağına karıştırılarak toprağı gevşetir, suyu dengeli tutar</li>\n<li><strong>Bahçe ve sebze yatağı:</strong> Toprağın havalanmasına ve köklerin rahat gelişmesine yardımcı olur</li>\n<li><strong>Çelik köklendirme ve dikim:</strong> Nemli kalan, gözenekli bir ortam oluşturur</li>\n</ul>\n<h2>Vermikülit nedir, neden kullanılır?</h2>\n<p>Vermikülit, ısıl işlemle genleştirilerek hafif ve gözenekli hâle getirilen doğal bir mineraldir. Gözenekli yapısı sayesinde suyu ve besin maddelerini tutar, toprağı gevşetir ve köklerin hava almasına yardımcı olur. Saksı ve bahçe toprağına karıştırıldığında sulama aralıklarının uzamasına katkı sağlar.</p>\n<h2>Teknik bilgiler</h2>\n<ul>\n<li>Birim hacim ağırlığı: yaklaşık 78 g/L (31,5 g ≈ 400 ml)</li>\n<li>1 kg ≈ 12,6 litre · 1 ton ≈ 1.260 litre</li>\n<li>Bütün boylar aynı mineraldir; boylar arasında kimyasal fark yoktur, yalnızca tane büyüklüğü farklıdır.</li>\n<li>Üretici: Serakülit (yerli vermikülit)</li>\n</ul>\n<h2>Paket seçenekleri</h2>\n<p>Ürün sayfasındaki \"Farklı Paket Seçeneği\" alanından ihtiyacınız olan litreyi seçebilirsiniz. Hangi boyun ve ne kadar vermikülitin size uygun olduğundan emin olamazsanız müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz. Diğer toprak düzenleyiciler için <a href=\"/toprak-duzenleyiciler-ve-katki-maddeleri\">toprak düzenleyiciler ve katkı maddeleri</a> sayfamıza, perlitle birlikte kullanım için <a href=\"https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir\">perlit nedir, nasıl kullanılır</a> yazımıza göz atabilirsiniz.</p>",
+   "fiyat": 405.0,
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "25 Lt",
+     "50 Lt",
+     "100 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 405.0,
+     "alis": 300.0,
+     "stok": 39,
+     "sku": "SK-seramed5",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/07/1770895_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1770895_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1770895_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1770895_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1770895_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1770895_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1770895_6.jpg"
+     ]
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 675.0,
+     "alis": 500.0,
+     "stok": 30,
+     "sku": "SK-seramed10",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1836414_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836414_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836414_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836414_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836414_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836414_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836414_6.jpg"
+     ]
+    },
+    {
+     "deger": "25 Lt",
+     "fiyat": 877.5,
+     "alis": 650.0,
+     "stok": 23,
+     "sku": "SK-seramed25",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_6.jpg"
+     ]
+    },
+    {
+     "deger": "50 Lt",
+     "fiyat": 1161.0,
+     "alis": 860.0,
+     "stok": 23,
+     "sku": "SK-seramed50",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/07/1835338_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835338_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835338_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835338_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835338_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835338_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835338_6.jpg"
+     ]
+    },
+    {
+     "deger": "100 Lt",
+     "fiyat": 1620.0,
+     "alis": 1200.0,
+     "stok": 0,
+     "sku": "SK-seramed100",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2023/03/medium-moc.png",
+      "https://serakulit.com/wp-content/uploads/2024/07/1794440_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1794440_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1794440_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1794440_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1794440_6.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1777754_1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "kaynak": "https://serakulit.com/urun/fine-vermikulit-5-litre-serakulit",
+   "ad": "Serakülit Fine Vermikülit (1 – 2 mm, Fide ve Tohum)",
+   "kategoriler": [
+    "Vermikülit"
+   ],
+   "gorseller": [],
+   "metaData": {
+    "slug": "serakulit-fine-vermikulit",
+    "pageTitle": "Fine Vermikülit 1–2 mm: Fide ve Tohum İçin | HasTürk",
+    "description": "Serakülit Fine vermikülit: 1–2 mm, fide yetiştiriciliğinde en çok tercih edilen boy. Tohum kapağı, köklendirme ve toprak havalandırma. 5 – 100 litre."
+   },
+   "aciklama": "<p><strong>Serakülit Fine Vermikülit</strong>, 1 mm'den büyük, 2 mm'den küçük ham vermikülitin genleştirilip elenmesiyle üretilir. Ülkemizde en çok kullanılan vermikülit boyudur ve özellikle fide yetiştiricileri tarafından tercih edilir.</p>\n<h2>Nerelerde kullanılır?</h2>\n<ul>\n<li><strong>Fide yetiştiriciliği:</strong> Fide harcına karıştırılarak kökün nemli ve havalı bir ortamda gelişmesine yardımcı olur</li>\n<li><strong>Tohum kapağı:</strong> Ekimden sonra tohumun üstüne ince bir tabaka olarak serilir; tohumdan en iyi verimi almak için kullanılır</li>\n<li><strong>Sera ve tarla:</strong> Toprağı havalandırmak, bitkiyi beslemek ve köklenmeyi desteklemek için</li>\n<li><strong>Endüstri:</strong> İnşaat ve boya sektöründe yalıtım malzemesi ve yanmaz panel yapımı</li>\n</ul>\n<p>Tohum ekimi için <a href=\"/saksi-ve-viyoller\">fide viyollerimize</a> ve <a href=\"/sebze-tohumu\">sebze tohumlarımıza</a> göz atabilirsiniz.</p>\n<h2>Vermikülit nedir, neden kullanılır?</h2>\n<p>Vermikülit, ısıl işlemle genleştirilerek hafif ve gözenekli hâle getirilen doğal bir mineraldir. Gözenekli yapısı sayesinde suyu ve besin maddelerini tutar, toprağı gevşetir ve köklerin hava almasına yardımcı olur. Saksı ve bahçe toprağına karıştırıldığında sulama aralıklarının uzamasına katkı sağlar.</p>\n<h2>Teknik bilgiler</h2>\n<ul>\n<li>Birim hacim ağırlığı: yaklaşık 78 g/L (31,5 g ≈ 400 ml)</li>\n<li>1 kg ≈ 12,6 litre · 1 ton ≈ 1.260 litre</li>\n<li>Bütün boylar aynı mineraldir; boylar arasında kimyasal fark yoktur, yalnızca tane büyüklüğü farklıdır.</li>\n<li>Üretici: Serakülit (yerli vermikülit)</li>\n</ul>\n<h2>Paket seçenekleri</h2>\n<p>Ürün sayfasındaki \"Farklı Paket Seçeneği\" alanından ihtiyacınız olan litreyi seçebilirsiniz. Hangi boyun ve ne kadar vermikülitin size uygun olduğundan emin olamazsanız müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz. Diğer toprak düzenleyiciler için <a href=\"/toprak-duzenleyiciler-ve-katki-maddeleri\">toprak düzenleyiciler ve katkı maddeleri</a> sayfamıza, perlitle birlikte kullanım için <a href=\"https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir\">perlit nedir, nasıl kullanılır</a> yazımıza göz atabilirsiniz.</p>",
+   "fiyat": 405.0,
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "25 Lt",
+     "50 Lt",
+     "100 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 405.0,
+     "alis": 300.0,
+     "stok": 10,
+     "sku": "SK-serafin5",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1991188_0-scaled.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991188_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991188_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991188_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991188_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991188_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991188_6.jpg"
+     ]
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 675.0,
+     "alis": 500.0,
+     "stok": 29,
+     "sku": "SK-serafin10",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1836408_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836408_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836408_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836408_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836408_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836408_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1836408_6.jpg"
+     ]
+    },
+    {
+     "deger": "25 Lt",
+     "fiyat": 877.5,
+     "alis": 650.0,
+     "stok": 19,
+     "sku": "SK-serafin25",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1853444_0-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1853444_1-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1853444_2-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1853444_3-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1853444_4-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1853444_5-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1853444_6-1.jpg"
+     ]
+    },
+    {
+     "deger": "50 Lt",
+     "fiyat": 1161.0,
+     "alis": 860.0,
+     "stok": 22,
+     "sku": "SK-serafin50",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/07/1793844_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1793844_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1793844_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1793844_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1793844_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1793844_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1793844_6.jpg"
+     ]
+    },
+    {
+     "deger": "100 Lt",
+     "fiyat": 1620.0,
+     "alis": 1200.0,
+     "stok": 117,
+     "sku": "SK-serafine100",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/07/1835337_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835337_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835337_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835337_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835337_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835337_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1835337_6.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "kaynak": "https://serakulit.com/urun/superfine-vermikulit-5-litre-serakulit",
+   "ad": "Serakülit Superfine Vermikülit (0,5 – 1 mm, İnce Tane)",
+   "kategoriler": [
+    "Vermikülit"
+   ],
+   "gorseller": [],
+   "metaData": {
+    "slug": "serakulit-superfine-vermikulit",
+    "pageTitle": "Superfine Vermikülit 0,5–1 mm İnce Tane | HasTürk Gübre",
+    "description": "Serakülit Superfine vermikülit: 0,5–1 mm ince tane. Yanmaz boya, macun ve panel üretimi, yalıtım malzemesi; ince dokulu karışımlar için. 5 – 100 litre."
+   },
+   "aciklama": "<p><strong>Serakülit Superfine Vermikülit</strong>, 0,5 mm'den büyük, 1 mm'den küçük ham vermikülitin genleştirilip elenmesiyle üretilen ince taneli boydur. Her tane ham maddeden doğrudan genleştirilir; iri tanelerin kırılmasıyla elde edilmez.</p>\n<h2>Nerelerde kullanılır?</h2>\n<ul>\n<li><strong>Yapı ve boya sektörü:</strong> Yalıtım malzemesi, yanmaz boya, yanmaz macun ve yanmaz panel yapımı</li>\n<li><strong>Yanmaz kimyasallar:</strong> Isıya dayanıklı karışımların üretiminde dolgu olarak</li>\n<li><strong>İnce dokulu karışımlar:</strong> Çok ince tohumların ve küçük çeliklerin ortamında ince bir doku istendiğinde</li>\n</ul>\n<h2>Vermikülit nedir, neden kullanılır?</h2>\n<p>Vermikülit, ısıl işlemle genleştirilerek hafif ve gözenekli hâle getirilen doğal bir mineraldir. Gözenekli yapısı sayesinde suyu ve besin maddelerini tutar, toprağı gevşetir ve köklerin hava almasına yardımcı olur. Saksı ve bahçe toprağına karıştırıldığında sulama aralıklarının uzamasına katkı sağlar.</p>\n<h2>Teknik bilgiler</h2>\n<ul>\n<li>Birim hacim ağırlığı: yaklaşık 78 g/L (31,5 g ≈ 400 ml)</li>\n<li>1 kg ≈ 12,6 litre · 1 ton ≈ 1.260 litre</li>\n<li>Bütün boylar aynı mineraldir; boylar arasında kimyasal fark yoktur, yalnızca tane büyüklüğü farklıdır.</li>\n<li>Üretici: Serakülit (yerli vermikülit)</li>\n</ul>\n<h2>Paket seçenekleri</h2>\n<p>Ürün sayfasındaki \"Farklı Paket Seçeneği\" alanından ihtiyacınız olan litreyi seçebilirsiniz. Hangi boyun ve ne kadar vermikülitin size uygun olduğundan emin olamazsanız müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz. Diğer toprak düzenleyiciler için <a href=\"/toprak-duzenleyiciler-ve-katki-maddeleri\">toprak düzenleyiciler ve katkı maddeleri</a> sayfamıza, perlitle birlikte kullanım için <a href=\"https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir\">perlit nedir, nasıl kullanılır</a> yazımıza göz atabilirsiniz.</p>",
+   "fiyat": 405.0,
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "25 Lt",
+     "50 Lt",
+     "100 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 405.0,
+     "alis": 300.0,
+     "stok": 10,
+     "sku": "SK-serasup5",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1898314_0-scaled.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1898314_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1898314_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1898314_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1898314_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1898314_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1898314_6.jpg"
+     ]
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 675.0,
+     "alis": 500.0,
+     "stok": 53,
+     "sku": "SK-serasup10",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1991191_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991191_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991191_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991191_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991191_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991191_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991191_6.jpg"
+     ]
+    },
+    {
+     "deger": "25 Lt",
+     "fiyat": 877.5,
+     "alis": 650.0,
+     "stok": 20,
+     "sku": "SK-serasup25",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1870321_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1870321_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1870321_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1870321_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1870321_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1870321_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1870321_6.jpg"
+     ]
+    },
+    {
+     "deger": "50 Lt",
+     "fiyat": 1161.0,
+     "alis": 860.0,
+     "stok": 3,
+     "sku": "SK-serasup50",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1798815_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1798815_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1798815_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1798815_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1798815_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1798815_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1798815_6.jpg"
+     ]
+    },
+    {
+     "deger": "100 Lt",
+     "fiyat": 1620.0,
+     "alis": 1200.0,
+     "stok": 33,
+     "sku": "SK-serasup100",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/07/1776310_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1776310_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1776310_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1776310_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1776310_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1776310_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/07/1776310_6.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "kaynak": "https://serakulit.com/urun/micron-vermikulit-5-litre-serakulit",
+   "ad": "Serakülit Micron Vermikülit (300 – 700 Mikron)",
+   "kategoriler": [
+    "Vermikülit"
+   ],
+   "gorseller": [],
+   "metaData": {
+    "slug": "serakulit-micron-vermikulit",
+    "pageTitle": "Micron Vermikülit 300–700 Mikron | HasTürk Gübre",
+    "description": "Serakülit Micron vermikülit: 300–700 mikron, 6 kez elenmiş en ince boy. Yanmaz kumaş, yanmaz boya ve yangına dayanıklı ürünlerin üretimi için. 5 – 100 litre."
+   },
+   "aciklama": "<p><strong>Serakülit Micron Vermikülit</strong>, 300 mikrondan büyük, 700 mikrondan küçük ham vermikülitin genleştirilip altı kez elenmesiyle üretilen en ince boydur.</p>\n<h2>Nerelerde kullanılır?</h2>\n<ul>\n<li>Yanmaz kumaş ve yanmaz boya üretimi</li>\n<li>Yangına dayanıklı ürünlerin üretimi; vermikülit doğal ve yanmaz bir mineraldir</li>\n<li>Sanayi ve endüstriyel uygulamalarda dolgu malzemesi</li>\n</ul>\n<p>Bitki yetiştirme için daha iri boylar uygundur; saksı ve fide için <a href=\"/serakulit-fine-vermikulit\">Fine</a> ya da <a href=\"/serakulit-medium-vermikulit\">Medium</a> boyuna bakabilirsiniz.</p>\n<h2>Vermikülit nedir, neden kullanılır?</h2>\n<p>Vermikülit, ısıl işlemle genleştirilerek hafif ve gözenekli hâle getirilen doğal bir mineraldir. Gözenekli yapısı sayesinde suyu ve besin maddelerini tutar, toprağı gevşetir ve köklerin hava almasına yardımcı olur. Saksı ve bahçe toprağına karıştırıldığında sulama aralıklarının uzamasına katkı sağlar.</p>\n<h2>Teknik bilgiler</h2>\n<ul>\n<li>Birim hacim ağırlığı: yaklaşık 78 g/L (31,5 g ≈ 400 ml)</li>\n<li>1 kg ≈ 12,6 litre · 1 ton ≈ 1.260 litre</li>\n<li>Bütün boylar aynı mineraldir; boylar arasında kimyasal fark yoktur, yalnızca tane büyüklüğü farklıdır.</li>\n<li>Üretici: Serakülit (yerli vermikülit)</li>\n</ul>\n<h2>Paket seçenekleri</h2>\n<p>Ürün sayfasındaki \"Farklı Paket Seçeneği\" alanından ihtiyacınız olan litreyi seçebilirsiniz. Hangi boyun ve ne kadar vermikülitin size uygun olduğundan emin olamazsanız müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz. Diğer toprak düzenleyiciler için <a href=\"/toprak-duzenleyiciler-ve-katki-maddeleri\">toprak düzenleyiciler ve katkı maddeleri</a> sayfamıza, perlitle birlikte kullanım için <a href=\"https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir\">perlit nedir, nasıl kullanılır</a> yazımıza göz atabilirsiniz.</p>",
+   "fiyat": 405.0,
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "25 Lt",
+     "50 Lt",
+     "100 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 405.0,
+     "alis": 300.0,
+     "stok": 10,
+     "sku": "SK-seramic5",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1991192_0-1-scaled.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991192_1-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991192_2-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991192_3-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991192_4-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991192_5-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991192_6-1.jpg"
+     ]
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 675.0,
+     "alis": 500.0,
+     "stok": 24,
+     "sku": "SK-seramic10",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1991190_0-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991190_1-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991190_2-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991190_3-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991190_4-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991190_5-1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1991190_6-1.jpg"
+     ]
+    },
+    {
+     "deger": "25 Lt",
+     "fiyat": 877.5,
+     "alis": 650.0,
+     "stok": 9,
+     "sku": "SK-seramic25",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1941473_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1941473_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1941473_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1941473_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1941473_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1941473_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1941473_6.jpg"
+     ]
+    },
+    {
+     "deger": "50 Lt",
+     "fiyat": 1161.0,
+     "alis": 860.0,
+     "stok": 20,
+     "sku": "SK-seramic50",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2024/03/1750787_0.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1750787_1.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1750787_2.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1750787_3.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1750787_4.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1750787_5.jpg",
+      "https://serakulit.com/wp-content/uploads/2024/03/1750787_6.jpg"
+     ]
+    },
+    {
+     "deger": "100 Lt",
+     "fiyat": 1620.0,
+     "alis": 1200.0,
+     "stok": 0,
+     "sku": "SK-seramed100-1",
+     "gorseller": [
+      "https://serakulit.com/wp-content/uploads/2023/03/micron-moc.png",
+      "https://serakulit.com/wp-content/uploads/2023/03/mic5.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/mic4.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/mic3.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/mic2.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/mic1.jpg",
+      "https://serakulit.com/wp-content/uploads/2023/03/100-litre-2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "kaynak": "https://serakulit.com/urun/agroboy-vermikulit-100-litre-serakulit-2/",
+   "ad": "Serakülit Agroboy Vermikülit 100 Litre (1 – 2,5 mm)",
+   "kategoriler": [
+    "Vermikülit"
+   ],
+   "gorseller": [
+    "https://serakulit.com/wp-content/uploads/2024/07/1776310_0.jpg",
+    "https://serakulit.com/wp-content/uploads/2024/03/2655480_1-scaled.jpg",
+    "https://serakulit.com/wp-content/uploads/2024/03/2655480_3.jpg",
+    "https://serakulit.com/wp-content/uploads/2024/03/2655480_2.jpg",
+    "https://serakulit.com/wp-content/uploads/2024/03/2655480_5.jpg"
+   ],
+   "metaData": {
+    "slug": "serakulit-agroboy-vermikulit-100-litre",
+    "pageTitle": "Agroboy Vermikülit 100 Litre, 1–2,5 mm | HasTürk Gübre",
+    "description": "Serakülit Agroboy vermikülit 100 litre: 1–2,5 mm, Medium ile Fine arası tane. Tarım ve bahçe toprağında havalandırma, su tutma ve köklenme için."
+   },
+   "aciklama": "<p><strong>Serakülit Agroboy Vermikülit</strong>, Medium ile Fine boyları arasında, 1 – 2,5 mm tane büyüklüğünde bir vermikülittir. Yoğun talep üzerine tarım kullanımı için ayrıca üretilen bu boy, toprağınızın durumuna göre Medium ve Fine'a bir alternatif olarak kullanılabilir.</p>\n<h2>Nerelerde kullanılır?</h2>\n<ul>\n<li><strong>Tarım ve bahçe:</strong> Toprağı havalandırmak, suyu tutmak ve köklenmeyi desteklemek için</li>\n<li><strong>Fide ve dikim:</strong> Fide harcına ve dikim çukuruna karıştırılarak</li>\n<li><strong>Saksı toprağı:</strong> Toprağın sıkışmasını azaltmak için</li>\n</ul>\n<h2>Vermikülit nedir, neden kullanılır?</h2>\n<p>Vermikülit, ısıl işlemle genleştirilerek hafif ve gözenekli hâle getirilen doğal bir mineraldir. Gözenekli yapısı sayesinde suyu ve besin maddelerini tutar, toprağı gevşetir ve köklerin hava almasına yardımcı olur. Saksı ve bahçe toprağına karıştırıldığında sulama aralıklarının uzamasına katkı sağlar.</p>\n<h2>Teknik bilgiler</h2>\n<ul>\n<li>Birim hacim ağırlığı: yaklaşık 78 g/L (31,5 g ≈ 400 ml)</li>\n<li>1 kg ≈ 12,6 litre · 1 ton ≈ 1.260 litre</li>\n<li>Bütün boylar aynı mineraldir; boylar arasında kimyasal fark yoktur, yalnızca tane büyüklüğü farklıdır.</li>\n<li>Üretici: Serakülit (yerli vermikülit)</li>\n</ul>\n<h2>Paket seçenekleri</h2>\n<p>Ürün sayfasındaki \"Farklı Paket Seçeneği\" alanından ihtiyacınız olan litreyi seçebilirsiniz. Hangi boyun ve ne kadar vermikülitin size uygun olduğundan emin olamazsanız müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz. Diğer toprak düzenleyiciler için <a href=\"/toprak-duzenleyiciler-ve-katki-maddeleri\">toprak düzenleyiciler ve katkı maddeleri</a> sayfamıza, perlitle birlikte kullanım için <a href=\"https://blog.hasturkgubre.com.tr/perlit-nedir-nasil-kullanilir\">perlit nedir, nasıl kullanılır</a> yazımıza göz atabilirsiniz.</p>",
+   "fiyat": 1620.0,
+   "alis": 1200.0,
+   "stok": 15,
+   "sku": "SK-seragro100"
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+### YAZI
+slug: dunya-su-gunu-bahcede-sebzenin-haftalik-su-ihtiyaci-ve-tasarruf
+baslik: Dünya Su Günü: Bahçede Sebzenin Haftalık Su İhtiyacı ve Tasarruf
+yayin: 2027-03-15 08:45
+yazar: Rümeysa Altınova
+kategori: gundem
+odak: dünya su günü
+seo_baslik: Dünya Su Günü: Bahçede Su İhtiyacı ve Tasarruf
+seo_aciklama: Dünya Su Günü 22 Mart'ta anılır; tarım tatlı su çekimlerinin yaklaşık %70'ini kullanır. Sebze bahçesinin haftalık su ihtiyacı ve beş tasarruf yolu.
+ozet: 22 Mart Dünya Su Günü'nde bahçede en çok işe yarayan soru şu: sebzem haftada gerçekte ne kadar suya ihtiyaç duyar? FAO'nun tarım ve su verisini, üniversite kaynaklarındaki haftalık 25 mm başlangıç değerini, litre hesabını ve beş somut tasarruf yöntemini anlattık.
+etiketler: dünya su günü, su tasarrufu, bahçe sulama, malç, damla sulama, sebze su ihtiyacı
+gorsel: bekliyor
+gorsel_alt: Damla sulama hattından sebze sırasına sızan su damlaları ve malçla örtülü toprak
+urunler: leonardit-organik-toprak-duzenleyici, chrysamed-envira-subon-akilli-su-boncuklari-400-gr, moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-38-190x85
+kisaca: Dünya Su Günü her yıl 22 Mart'ta anılır. FAO, tarımın tatlı su çekimlerinin yaklaşık yüzde 70'ini kullandığını belirtir. Bahçede çoğu sebze için haftalık yaklaşık 25 mm (metrekareye 25 litre) su başlangıç değerdir; kumlu toprakta ve sıcak rüzgârda daha fazlası gerekir. Derin ve seyrek sulama, malç ve damla sulama suyu en çok koruyan üç yoldur.
+@govde
+Dünya Su Günü, her yıl 22 Mart'ta suyun nasıl kullanıldığını düşünmek için iyi bir tarihtir. Bahçıvan için bu düşünce somut bir soruya dönüşür: sebzem haftada gerçekte ne kadar suya ihtiyaç duyar, ben ne kadar veriyorum? Genellikle fazla vermek ile az vermek aynı derecede yaygındır. Aşağıda tarımın su kullanımındaki yerini, sebzelerin haftalık su ihtiyacını, litre hesabını ve beş tasarruf yolunu anlattık. Sonunda bu hafta yapabileceğiniz küçük işlerin bir listesi var.
+
+## Dünya Su Günü ve tarımın su payı
+
+Birleşmiş Milletler'in ilan ettiği Dünya Su Günü her yıl 22 Mart'ta kutlanır. Gıda ve Tarım Örgütü (FAO), tarımı tatlı su ve yağmur suyunun en büyük kullanıcısı olarak tanımlar. FAO'nun [Dünya Su Günü yazısı](https://www.fao.org/newsroom/detail/make-every-drop-of-water-count/en), tarımın küresel tatlı su çekimlerinin yüzde 70'inden fazlasını kullandığını belirtir. FAO'nun [su kıtlığı çerçevesi](https://www.fao.org/4/i3015e/i3015e.pdf) aynı oranı yüzde 70 olarak verir ve tarımın tüketimli kullanımdaki payının yüzde 90'ın üzerinde olduğunu ekler.
+
+Bu rakamlar küresel ölçektedir, ama bahçe düzeyindeki sonucu açıktır: tarımın su kullanımında yapılacak küçük iyileştirmeler büyük toplamlar yaratır. Küçük bir sebze bahçesinde bile sulamayı yağış ve toprak durumuna göre ayarlamak, yılda yüzlerce litreyi kurtarır. Kuraklıkla mücadelenin tarla ve bahçe uygulamalarına [kuraklıkla mücadele](/kuraklikla-mucadele) yazısından ulaşabilirsiniz.
+
+## Sebzeler haftada ne kadar su ister?
+
+Üniversite kaynaklarının çoğu sebze bahçesi için haftada yaklaşık 1 inç (25 mm) su önerir. Iowa State Extension, çoğu sebze bahçesinin haftalık yaklaşık 1 inç suya yağmur ya da sulamayla ihtiyaç duyduğunu yazar. Mississippi State Extension, kumlu toprakta 2 inçe kadar su gerekebileceğini belirtir. Penn State Extension aşırı sıcak ve rüzgârlı havada bitkilerin haftada 1,5 inçten fazla suya ihtiyaç duyabileceğini not eder.
+
+Utah State Extension'ın [sebzeler için su önerileri](https://extension.usu.edu/yardandgarden/research/water-recommendations-for-vegetables) domatesin derin ve seyrek sulanmasını, haftalık 1-2 inç su verilmesini önerir; marulun daha hassas olduğunu ve haftada 1-2 inç ile malçla nemin korunması gerektiğini ekler. Ürün bilgilerinde de benzer bir değer görülür: fide bilgi sayfalarında haftalık yaklaşık 2,5 cm su (metrekareye yaklaşık 25 litre) tavsiyesi yer alır.
+
+| Durum | Haftalık su (yaklaşık) | Metrekareye litre |
+|---|---|---|
+| Genel sebze bahçesi | 25 mm | 25 litre |
+| Kumlu, hızlı süzülen toprak | 25-50 mm | 25-50 litre |
+| Sıcak ve rüzgârlı hafta | 38 mm ve üzeri | 38 litre ve üzeri |
+| Serin ve bulutlu hafta | 15-25 mm | 15-25 litre |
+
+Bu değerler yağışı da kapsar. Haftalık yağışı ölçerseniz eksik miktarı hesaplayabilirsiniz; yöntemi [yağmur ölçer](/yagmur-olcer-bahcede-sulamayi-yagis-miktarina-gore-ayarlamak) yazısında anlattık.
+
+## Küçük bir yatağın haftalık su hesabı
+
+Hesap basittir: alanı metrekare olarak bulun, haftalık hedef mm ile çarpın ve litreye çevirin. 1 mm yağış, metrekareye 1 litredir. 190 × 85 cm ölçüsündeki bir yükseltilmiş yatağın ekim alanı yaklaşık 1,6 m² olduğundan haftalık 25 mm için yaklaşık 40 litre su gerekir. Bu 40 litreyi ikiye bölüp haftada iki kez 20 litre vermek, tek seferde 40 litre dökmekten daha az kayıpla sonuç verir.
+
+Hortumdan ne kadar su verdiğinizi ölçmek için 10 litrelik bir kovayı doldurma süresini ölçün. Kova 30 saniyede doluyorsa hortum dakikada 20 litre verir; 20 litre için bir dakika yeter. Damla sulamada hat debisini bilmek aynı hesabı verir; Penn State Extension damla sistemin ne kadar çalışacağını belirlemek için hat debisinin, kök yapısının ve toprak dokusunun bilinmesini ister. Dönüm ve metrekare ilişkisi için [1 dönüm kaç metrekare](/1-donum-kac-metrekare-dekar-ve-hektar-cevirisi) yazısına bakın.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-38-190x85]
+
+## Suyu en çok koruyan beş yol
+
+Su tasarrufunun mantığı kayıpları kesmektir: buharlaşma, akıntı, derine kaçma ve fazla sulama. Aşağıdaki beş yöntem bu kayıpların çoğuna cevap verir.
+
+::: adimlar
+Derin ve seyrek sulayın | Iowa State, yüzeysel ve sık sulama yerine derin sulamayı önerir; çünkü bu kökleri aşağı büyütür ve bitkiyi kuraklığa daha dayanıklı yapar.
+Malç serin | Utah State sebze çevresine 1-2 inç (yaklaşık 2,5-5 cm) malç serilmesini önerir; buharlaşmayı azaltır. Saman, çim kırpıntısı ya da kıyılmış yaprak kullanılabilir.
+Damla sulamaya geçin | Iowa State, damla sistemleri ve ıslatma hortumlarının sebze bahçesinde özellikle iyi çalıştığını belirtir; suyu doğrudan kök bölgesine verir.
+Sabah erken sulayın | Güneş yükselmeden önce yapılan sulama buharlaşma kaybını azaltır; yöntemi [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısında anlattık.
+Yağmuru değerlendirin | Çatıdan akan suyu biriktirip kullanın; [yağmur suyu toplama](/yagmur-suyu-toplama) yazısı depo ve filtre ayrıntılarını veriyor.
+:::
+
+Utah State damla sulamanın kabakgillerde külleme sıklığını da azaltabileceğini yazar; çünkü yaprağı ıslatmaz. Damla sistemin kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısına bakabilirsiniz.
+
+## Toprak su tutarsa sulama azalır
+
+Toprağın su tutma gücü, sulama sıklığını belirler. Organik maddesi yüksek bir toprak sünger gibi davranır ve suyu daha uzun süre bırakır. Bu yüzden bahçeye olgun kompost, solucan gübresi ya da leonardit gibi organik toprak düzenleyiciler eklemek, su tasarrufunun toprak tarafındaki parçasıdır. Ürün bilgisine göre leonardit toprağın su tutma kapasitesini artırmaya yönelik bir organik toprak düzenleyicidir; ama su ihtiyacını sıfırlamaz, yalnız yardımcı olur.
+
+Saksı ve balkonda hidrojel polimer içeren su boncukları nemi dengelemek için kullanılabilir. Ürün bilgisine göre su boncukları toprak nemi azaldığında suyu kademeli olarak bırakır. Kullanımı ve sınırları için [su boncuğu nasıl kullanılır](/su-boncugu-hidrojel-nasil-kullanilir) yazısına bakın.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Az su isteyen bitkiler seçin
+
+Bahçeyi kurarken bitki seçimi, yıllık su harcamasını belirler. Lavanta, biberiye, kekik, adaçayı, zeytin ve incir gibi Akdeniz bitkileri kurak koşulu kaldırır. Sebzelerde marul ve ıspanak gibi serin mevsim sebzeleri ilkbaharda doğal yağışla yetişirken, yaz sebzeleri daha çok su ister. Kuraklığa dayanıklı bahçe tasarımı için [kuraklığa dayanıklı bahçe](/kurakliga-dayanikli-bahce) yazısına göz atabilirsiniz.
+
+Evde kullanılan suyun bir bölümü de bahçede ikinci hayat bulabilir. Ev kullanımındaki hafif kirli suyun (gri su) bitkiye uygunluğu konusunda dikkatli olmak gerekir; [gri su ile sulama](/gri-su-ile-sulama) yazısı hangi suyun kullanılabileceğini anlatıyor.
+
+## Saksı ve balkonda su tasarrufu
+
+Bahçesi olmayanlar için su tasarrufu saksıda başlar. Saksının dibine drenaj deliği açmak şarttır, ama tabakta biriken suyu çöpe değil, bitkiye ya da başka bir saksıya geri verin. Sulamayı sabaha çekmek, saksı yüzeyine ince bir malç ya da kabuk katmanı sermek buharlaşmayı azaltır. Saksıyı büyütmek de sulamayı seyrekleştirir; çünkü büyük hacim suyu daha uzun tutar.
+
+Balkon damla sulama seti, tatilde ve yoğun günlerde sulamayı düzenli yapmanın yoludur; ayrıntı için [balkon damla sulama seti](/balkon-damla-sulama-seti) yazısına bakabilirsiniz. Kurumuş saksıya bir kerede çok su dökmek yerine kabı suya batırıp bekletmek, suyun toprağa eşit yayılmasını sağlar. Bunlar küçük adımlardır ama toplamda bir yıl boyunca yüzlerce litre fark yaratır.
+
+## Bu hafta yapabileceğiniz on küçük iş
+
+Dünya Su Günü'nü bir bildiriden çıkarıp eyleme dönüştürmek için şu listeden birkaç madde seçin:
+
+1. Bir yağmur ölçer yapın ya da alın ve haftalık yağışı deftere yazın.
+2. Sulama hortumunun ve musluk bağlantılarının damlatıp damlatmadığını kontrol edin.
+3. Bahçenizin sulama debisini kova testiyle ölçün.
+4. Sebze tarhlarının çevresine malç serin.
+5. Sulamayı sabaha taşıyın.
+6. Kompost ya da organik madde ekleyerek toprağın su tutmasını artırın.
+7. Çatı suyunu toplayacak bir varil yerleştirin.
+8. Yoğun sulanan bitkileri kümeleyip az sulananları ayırın.
+9. Saksılarda su boncuğu ya da malç kullanın.
+10. Komşunuzla yağmur ölçer verilerini paylaşın.
+
+Dünya Su Günü, suyun kıt olduğu bir dünyada her bahçıvanın küçük ama sürekli kazançlar elde edebileceğini hatırlatan bir tarihtir.
+@sss
+S: Dünya Su Günü ne zaman kutlanır?
+C: Her yıl 22 Mart'ta. Tarım ve su ilişkisini vurgulayan bu günde FAO tarımın küresel tatlı su çekimlerinin yaklaşık yüzde 70'ini kullandığını hatırlatır.
+
+S: Sebze bahçesi haftada ne kadar su ister?
+C: Birçok üniversite kaynağında yaklaşık 25 mm (metrekareye 25 litre) başlangıç değeridir. Kumlu toprakta ve sıcak, rüzgârlı havada daha fazlası gerekir. Bu miktar yağışı da kapsar.
+
+S: Bahçede su tasarrufu nasıl yapılır?
+C: Derin ve seyrek sulama, malç, damla sulama, sabah sulaması ve yağmur suyunu değerlendirmek en etkili beş yoldur. Toprağın organik maddesini artırmak da suyun tutulmasını destekler.
+
+S: 1 mm yağış kaç litre eder?
+C: 1 mm yağış, düz bir yüzeyin metrekaresine 1 litre su düşmesi demektir. Yani 25 mm yağış metrekareye 25 litre, 10 m² bahçeye 250 litre eder.
+
+### SORU
+yayin: 2027-03-15 21:05
+kategori: gundem
+baslik: Sebze bahçemi her gün sulasam su israfı olur mu, ne sıklıkta sulamalıyım?
+metin: Her akşam yarım saat hortumla sebze bahçesini sulayan komşum var. Ben de aynısını yapıyorum. Sebzeler için bu çok mu, ne sıklıkla sulamak gerekir?
+@cevap Rümeysa Altınova | 2
+Çoğu sebze için haftalık yaklaşık 25 mm suyun yağış dahil yeterli olduğu söylenir. Her akşam sulamak yüzeyde nem tutup kökleri sığ bırakır ve buharlaşmayı artırır. Haftada iki üç kez, derin ve sabah saatlerinde sulamak daha verimlidir. Hortumdan dakikada kaç litre aktığını ölçün; haftalık miktarı buna göre bölün. Toprağı parmakla yoklayın.
+
+### SORU
+yayin: 2027-03-15 21:40
+kategori: gundem
+baslik: Kumlu toprakta bahçe suyu çok çabuk kuruyor, tasarruf için ne yapabilirim?
+metin: Bahçemin toprağı kumlu ve sulandıktan hemen sonra kuruyor. Çok su harcıyorum. Su tasarrufu yapmak için ne önerirsiniz?
+@cevap Rümeysa Altınova | 2
+Kumlu toprak suyu tutmaz; sulama sıklığı artar. Çözüm toprağın su tutma gücünü artırmaktır: olgun kompost, solucan gübresi ya da yanmış ahır gübresi ekleyin, yüzeye 2,5-5 cm malç serin. Sulamayı sabah ve birkaç kısa seansa bölerek yapın. Damla sulama kaybı azaltır. İlk sezonda organik madde eklemeyi sürdürün; etkisi birkaç ay içinde belirgin olur.
+
+### YAZI
+slug: cim-kirpintisi-ne-yapilir-cimde-birakma-malc-ve-kompost
+baslik: Çim Kırpıntısı Ne Yapılır? Çimde Bırakma, Malç ve Kompost
+yayin: 2027-03-15 14:30
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: çim kırpıntısı
+seo_baslik: Çim Kırpıntısı Ne Yapılır? Bırakma, Malç, Kompost
+seo_aciklama: Çim kırpıntısı çoğu zaman çimde bırakılır ve gübre ihtiyacının bir bölümünü karşılar. İnce malç, kompost kullanımı ve ilaçlanmış çim uyarıları.
+ozet: Biçtikten sonra kırpıntıyı toplamak mı, bırakmak mı daha iyi? Üniversite kaynaklarına göre kısa kırpıntı çimde kalabilir ve azot ile organik madde geri verir. İnce malç olarak nasıl serileceğini, komposta nasıl katılacağını ve hangi durumda kullanılmaması gerektiğini anlattık.
+etiketler: çim kırpıntısı, çim biçme, malç, kompost, çim bakımı, bahçe atığı
+gorsel: bekliyor
+gorsel_alt: Biçilmiş çimenin üzerinde kısa, ince yeşil kırpıntı katmanı ve yanında bir tırmık
+urunler: sgs-profesyonel-plastik-tirmik, hasturk-kati-solucan-gubresi, cim-kapama-topragi-leonarditli-formul
+kisaca: Kısa çim kırpıntısı çoğu zaman çimde bırakılır; Minnesota Extension bir inç (yaklaşık 2,5 cm) ve altındaki kırpıntının çimde kalabileceğini söyler. Kırpıntı gübre ihtiyacının bir bölümünü karşılar. Uzunsa ince tabaka malç ya da kuru malzemeyle karışık kompost olur. İlaçlanmış çimin kırpıntısı etiketteki süre dolana kadar malç ve komposta konmaz.
+@govde
+Çim kırpıntısı, biçimden sonra çoğu bahçıvanın "ne yapayım şimdi bunu" diye düşündüğü şeydir. Cevap çoğu zaman en kolay seçenektir: çimde bırakın. Kısa kırpıntı çabuk çürür, azot ve organik madde geri verir. Uzun ya da ıslak olduğunda ise tırmıklayıp ince malç ya da kompost malzemesi olarak kullanmak daha uygundur. Aşağıda üniversite kaynaklarına dayanarak üç seçeneği, kalınlık sınırlarını ve çimin ilaçlanmış olduğu durumları anlattık.
+
+## Çim kırpıntısı çimde bırakılır mı?
+
+Evet. Minnesota Üniversitesi Extension'ın [çim kırpıntısı yazısı](https://extension.umn.edu/lawn-care/what-do-lawn-clippings) bir inç (yaklaşık 2,5 cm) ya da daha kısa kırpıntının çimde kalabileceğini; daha uzun kırpıntının altındaki çimi gölgeleyip boğabileceğini belirtir. Missouri Üniversitesi Extension kırpıntının besin ve organik madde olarak toprağa döndüğünü ve çimin toplam gübre ihtiyacının yüzde 25'ine kadarını karşılayabildiğini yazar. Oregon State Extension da kırpıntıyı kırpan tipte makineyle çimde bırakmanın gübre miktarını neredeyse yarıya indirebileceğini söyler.
+
+Kırpıntının çim keçesi (thatch) oluşturduğu inancı yanlıştır. Araştırma özetleri kırpıntının serin ve sıcak iklim çimlerinde keçe birikimine katkı yapmadığını gösterir; keçe aslında canlı kök ve sap artıklarından oluşur. Missouri yine de yarım inçten kalın bir keçe katmanı varsa önce onu gidermek gerektiğini ekler. Çim bakımının temeli için [çim biçme yüksekliği](/cim-bicme-yuksekligi) ve biçim zamanı yazıları ayrı ayrı ele alınıyor.
+
+## Kırpıntı çimde kalacaksa nasıl biçilir?
+
+Kırpıntının çimde kalabilmesi biçim şeklinizle ilgilidir. Sık biçip kısa kırpıntı elde edin: yaygın öneri, her biçimde çimin boyunun üçte birinden fazlasını kesmemektir. Çim kuruyken biçin; ıslak kırpıntı kümeler. Keskin bıçak temiz kesim yapar ve kırpıntıyı küçük parçalar. Kırpan (mulching) bıçaklı ya da kırpma kapağı olan bir biçme makinesi kırpıntıyı daha da ufaltır. Makine seçimi için [çim biçme makinesi seçimi](/cim-bicme-makinesi-secimi) yazısına bakabilirsiniz.
+
+Kırpıntı kümeleri çimin üstünde bırakılırsa altındaki çimi sarartır. Biçimden sonra tırmıkla ya da süpürgeyle dağıtın. İyi dağılmış, küçük parçalı kırpıntı birkaç gün içinde göze görünmez olur.
+
+[ürün:sgs-profesyonel-plastik-tirmik]
+
+## Çim kırpıntısı malç olarak kullanılır mı?
+
+Evet ama ince tabaka halinde. Kırpıntı nem ve azot bakımından zengindir; kalın ve ıslak serildiğinde havasız ortamda çürür, kokar ve ısınabilir. Missouri Extension kuru çim kırpıntısıyla yavaş yavaş bir inçlik (yaklaşık 2,5 cm) bir katmana çıkmayı önerir. New Hampshire Üniversitesi Extension ise taze kırpıntı için çok daha ince, yaklaşık çeyrek inçlik (yaklaşık 6 mm) bir tabaka söyler. İki öneri arasındaki fark, kırpıntının taze mi kuru mu olduğundan gelir: taze kırpıntıyı çok ince serin, ya da önce bir iki gün serip kurutun.
+
+::: adimlar
+Kırpıntıyı kurutun | Bir iki gün gölgede ince bir kat yayın; hafif solsun.
+Ot ve tohum kontrolü yapın | Ot tohumu içeren ya da ilaçlanmış çimin kırpıntısını kullanmayın.
+İnce katman serin | Sebze fidelerinin ya da ağaç dibinin çevresine ince bir katman yayın; gövdeye yaslamayın.
+Zamanla ekleyin | Kırpıntı çöktükçe yeni ince katmanlar ekleyin; Missouri toplam malç kalınlığının 3-4 inci (yaklaşık 7,5-10 cm) geçmemesini önerir.
+Nem kontrolü yapın | Altındaki toprağın nemini ve çürüme kokusunu kontrol edin.
+:::
+
+Başka malç türleri ve kullanım yerleri için [malç çeşitleri](/malc-cesitleri) yazısına göz atabilirsiniz. Ağaç dibinde malç uygulaması için [ağaç dibi malçlama](/agac-dibi-malclama) rehberi yol gösterir.
+
+## Çim kırpıntısı kompostta nasıl kullanılır?
+
+Çim kırpıntısı kompostun "yeşil" azot kaynağıdır. Tek başına bırakılırsa yoğun, nemli bir yığın olur ve kokar. Minnesota Extension, kompost yığınında kalın bir kırpıntı tabakasının havasız çürümeyle kötü koku yapacağını belirtir. Çözüm, kırpıntıyı kuru ve "kahverengi" malzemeyle karıştırmaktır: kuru yaprak, saman, parçalanmış karton ya da talaş gibi. Yığına kırpıntıyı ince tabakalar halinde ekleyin.
+
+| Malzeme | Rolü | Karışım |
+|---|---|---|
+| Çim kırpıntısı | Yeşil, azot ve nem | İnce tabakalar halinde |
+| Kuru yaprak | Kahverengi, karbon ve hava | Kırpıntıdan daha çok |
+| Saman ya da karton | Kahverengi, yapı | Parçalanmış, kırpıntıyla dönüşümlü |
+| Mutfak atığı | Yeşil | Kırpıntıyla birlikte kuru malzemeyle |
+
+Kompostu çevirmek hava verir ve kokuyu önler. Kompost kokusu için [kompost kokusu](/kompost-kokusu) yazısına, yığın kurulumu için [bahçede kompost yığını](/bahcede-kompost-yigini) rehberine bakın. Olgunluk testi için [kompost ne zaman hazır olur](/kompost-ne-zaman-hazir-olur) yazısı işe yarar.
+
+## Mevsime göre çim kırpıntısı miktarı
+
+Kırpıntının miktarı mevsimle değişir. İlkbaharda çim hızlı büyür; hafta içinde bir iki kez biçmek gerekebilir ve kırpıntı çok olur. Bu dönemde kırpıntıyı çimde bırakmak, fazla birikim olmasın diye sık biçmeyi gerektirir. Yaz sıcağında çim yavaşlar, kırpıntı azalır ve kuruyan kırpıntı yaprak yüzeyinde daha görünür kalır. Sonbaharda çim yeniden canlanır ve kırpıntıya yaprak da karışır.
+
+Bu karışımı bahçe için kullanın: sonbaharda dökülen yapraklar ile ilkbahar kırpıntısı, kompost yığınının kuru ve yeşil kısımlarını tamamlar. Yaprakları ayrı bir köşede biriktirip kırpıntı geldikçe aralarına karıştırın. Yaprak kompostu için [yaprak kompostu](/yaprak-kompostu) yazısına bakabilirsiniz; bahçe atıkları için [bahçe atıkları](/bahce-atiklari) rehberi dal, yaprak ve ot değerlendirme yollarını anlatıyor.
+
+## Sebze tarhında çim kırpıntısı
+
+Domates, biber, patlıcan ve kabak gibi gübre isteyen sebzelerin diplerine serilen ince bir kırpıntı tabakası toprağı serin tutar, nemi korur ve yabani otu bastırır. Kırpıntı çürüdükçe toprağa azot verir; bu yüzden kalın bir tabaka yerine zamanla ince katmanlar eklemek daha güvenlidir. Gövdeye ve yapraklara yaslamayın; çürüme ve mantar riskini artırır.
+
+Fide dikiminden hemen sonra ince bir malç serin. Fidelerin çevresindeki toprağı açık bırakıp birkaç santim dışına kırpıntı yayın. Birkaç hafta sonra sebze büyüdükçe malçı genişletin. Ağaç dibi ya da çalı dibinde de aynı ince tabaka mantığı geçerlidir.
+
+## İlaçlanmış çimin kırpıntısını kullanmayın
+
+Çimi yabani ot ilacıyla ya da başka bir ürünle uyguladıysanız kırpıntıyı malç ya da kompost olarak sebze tarhına kullanmayın. Kaynaklar bekleme süresinde farklı sayılar verir. Missouri en az üç biçime kadar kırpıntının çimde bırakılmasını, Oklahoma State son iki hafta içinde ilaçlanmış çimin kırpıntısıyla malç yapılmamasını önerir. Minnesota ise ürünün etiketine bakılmasını söyler; etiket en güvenilir kaynaktır.
+
+İlaç etiketlerini okuma konusunda [zirai ilaç etiketi nasıl okunur](/zirai-ilac-etiketi) yazısına bakabilirsiniz. Şüpheniz varsa kırpıntıyı sebze tarhına koymayın, çimde bırakın.
+
+## Çimde bırakılan kırpıntı ve gübre ayarı
+
+Kırpıntıyı çimde bırakıyorsanız çimin gübre ihtiyacı azalır; ama bu, gübrelemeyi tamamen bırakmak demek değildir. Missouri Extension kırpıntının ihtiyacın yüzde 25'ine kadarını karşılayabildiğini söyler; Oregon State ise gübre miktarının neredeyse yarıya inebileceğini yazar. Bu yüzden kırpıntıyı bırakmaya başladığınız ilk sezonda gübre dozunu etiketin altına çekin, çimin rengine bakarak ayarlayın. Çim koyu yeşil ve gürse dozu azaltmaya devam edin.
+
+Ayrıca kırpıntı bırakıyorsanız çim daha sık biçilir ve bu da çimi sıkı ve sağlıklı tutar. Her biçimde çimin üstünü tırmıkla ya da süpürgeyle kontrol edin; yığılmış kümeleri dağıtın. Böylece kırpıntı altındaki çimi boğmaz.
+
+## Çim kırpıntısı ne zaman toplanmalı?
+
+Çimde bırakmak varsayılandır; ama bazı durumlarda toplamak daha doğrudur:
+
+- Çim çok uzamış ve kırpıntı iri parçalıysa.
+- Çim ıslakken biçilmiş ve kırpıntı kümelenmişse.
+- Çimde hastalık ya da yoğun yabani ot tohumu varsa.
+- İlaç uygulaması yapılmışsa ve etiketteki bekleme süresi dolmamışsa.
+
+Toplanan kırpıntıyı komposta, ince malç olarak ya da gübre ihtiyacı olan çalı diplerine yayabilirsiniz. Çıplak kalan çim yamalarını kapatma işi için yeni tohum ekecekseniz [çimdeki boş alanlar nasıl kapatılır](/cimdeki-bos-alanlar-nasil-kapatilir) rehberi yararlı olur.
+
+Çim kırpıntısı, doğru kullanıldığında bahçe atığı olmaktan çıkıp çimin, tarhın ve kompostun yararlı bir parçası olur.
+
+[ürün:hasturk-kati-solucan-gubresi]
+@sss
+S: Çim kırpıntısı çimde bırakılmalı mı?
+C: Evet. Bir inç (yaklaşık 2,5 cm) ve daha kısa kırpıntı çimde kalabilir; azot ve organik madde olarak toprağa döner. Uzun ve ıslak kırpıntı kümelenir, tırmıkla dağıtılmalı ya da toplanmalıdır.
+
+S: Çim kırpıntısı gübre yerine geçer mi?
+C: Kısmen. Missouri Extension kırpıntının çimin toplam gübre ihtiyacının yüzde 25'ine kadarını karşılayabildiğini söyler. Tüm gübrenin yerine geçmez ama ihtiyacı azaltır.
+
+S: Çim kırpıntısı malç olarak nasıl serilir?
+C: İnce tabaka halinde. Taze kırpıntıyı çok ince (yaklaşık 6 mm), kuru kırpıntıyı daha kalın (yaklaşık 2,5 cm) serin. Kalın ıslak kırpıntı kokar ve ısınır; gövdeye yaslamayın.
+
+S: İlaçlanmış çimin kırpıntısı kullanılır mı?
+C: Sebze tarhına malç ya da komposta konmamalıdır. Bekleme süresi ürüne göre değişir; ürün etiketindeki süreyi izleyin. Şüphede kırpıntıyı çimde bırakın.

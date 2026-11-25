@@ -1,0 +1,180 @@
+### YAZI
+slug: cit-makasi-secimi
+baslik: Çit Makası Seçimi: Elektrikli, Akülü ve Benzinli
+yayin: 2027-02-19 12:10
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: çit makası seçimi
+seo_baslik: Çit Makası Seçimi: Elektrikli, Akülü ve Benzinli
+seo_aciklama: Çit makası seçimi nasıl yapılır? Elektrikli, akülü ve benzinli modellerin güç, ağırlık ve bakım farkı, bıçak boyu, diş yapısı ve güvenlik kuralları.
+ozet: Çit makası seçimi, çitinizin uzunluğuna, dal kalınlığına ve elektrik erişimine göre yapılır. Elektrikli, akülü ve benzinli tipin güç, ağırlık ve bakım farkını, bıçak boyu ve diş yapısının etkisini, güvenlik kurallarını ve bakım adımlarını anlattık.
+etiketler: çit makası, akülü çit makası, benzinli çit makası, elektrikli çit makası, bıçak boyu, çit bakımı
+gorsel: bekliyor
+gorsel_alt: Düzgün kesilmiş yeşil çit boyunca iki elle çit makası tutan bahçıvan
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Çit makası seçimi çitin uzunluğuna ve dal kalınlığına bağlıdır. Benzinli model en güçlü ama en ağır olandır; kablolu elektrikli hafif ve sessizdir ama kabloyla sınırlıdır; akülü model kablo ve yakıt gerektirmez, küçük ve orta çitte pratiktir. Kısa bıçak (45-60 cm) ince şekillendirmeye, uzun bıçak uzun çite uygundur.
+@govde
+Şimşir topu, leylandi duvarı ya da mazı sırası: Çit her yıl birkaç kez kesilmeye ihtiyaç duyar ve elle makasla yapılan kesim, uzun bir çitte saatler alır. Motorlu çit makası bu işi kısaltır ama yanlış model seçimi hem yorar hem de çiti bozar. Çit makası seçimi dört soruya dayanır: Çit ne kadar uzun? Dallar ne kadar kalın? Elektrik erişimi var mı? Makineyi kim, ne kadar süre taşıyacak? Aşağıda güç kaynağı türlerini, bıçak uzunluğu ve diş yapısını, güvenlik kurallarını ve bakımı anlatıyoruz. Çit bitkilerinin kendisi için [çit bitkileri](/cit-bitkileri) yazısına da bakabilirsiniz.
+
+## Çit makası seçimi: güç kaynağına göre üç tip
+
+Üniversite uzantı yayınları güç kaynağı farkını sade biçimde anlatır. Virginia Tech'in motorlu el aletleri güvenliği rehberi, benzinli aletlerin elektriklilerden genellikle daha güçlü, ama daha ağır ve çalıştırması zor olabildiğini; elektrikli aletlerin ise daha hafif ve daha az kirletici olduğunu ama daha az güçlü olduğunu, üstelik uzun bir kabloyu sürüklemenin kullanıcıyı yorduğunu belirtir ([Virginia Tech Extension: motorlu el aletleri güvenliği](https://www.pubs.ext.vt.edu/BSE/BSE-50/BSE-50.html)).
+
+| Tip | Güçlü yanı | Zayıf yanı | Uygun çit |
+|---|---|---|---|
+| Kablolu elektrikli | Hafif, sessiz, bakımı az | Kablo menzili, kabloya takılma | Küçük bahçe, priz yakın |
+| Akülü | Kablosuz, yakıtsız, sessiz | Akü süresi, pahalı akü | Küçük ve orta çit |
+| Benzinli | En güçlü, süresiz çalışma | Ağır, gürültülü, bakım ister | Uzun ve kalın çit |
+| Elle (el makası) | Hassas, sessiz | Yorucu, yavaş | Şimşir, küçük şekil |
+
+Akülü modellerde karşılaştırma yaparken akünün kapasitesine ve çalışma süresine bakın; üreticilerin verdiği süre en düşük yük için ölçülmüş olabilir ve kalın dalda kısalır. Aynı akü ailesinden başka bahçe aletiniz varsa onu paylaşmak maliyeti düşürür. Fırçalı motorların daha basit ve ucuz olduğu, ama zamanla aşınıp daha fazla bakım istediği; fırçasız motorların ise daha uzun ömürlü olduğu yaygın bilgidir.
+
+## Bıçak uzunluğu ve diş yapısı
+
+Çit makası seçimi yaparken bıçak boyu çoğu zaman güç kaynağından daha belirleyicidir.
+
+Bıçak boyu, hem hızı hem kontrolü etkiler. Kısa bıçak (yaklaşık 45-60 cm) daha çevik ve hassastır, şekillendirme ve ince iş için uygundur; uzun bıçak (yaklaşık 60-90 cm) bir geçişte daha geniş alan keser ve uzun düz çitte hız kazandırır, ama daha ağırdır ve kolu daha çok yorar. Uzun çitte bile yorgunluk, kesimin düzgünlüğünü bozar; bu yüzden en uzun bıçağı almak çoğu zaman iyi seçim değildir.
+
+Diş yapısı kesilecek dala göre seçilir. Sivri ve geniş aralıklı dişler daha kalın dalları keser; ince, dar aralıklı ve düz dişler yaprakta temiz ve düzgün yüzey bırakır. Şimşir gibi ince yapraklı bitkilerde dar aralıklı bıçak, leylandi ve servi gibi daha kaba sürgünlerde kalın dal alabilen bıçak tercih edilir. Çit türüne göre kesim zamanı ve miktarı için [şimşir bakımı](/simsir-bakimi), [leylandi bakımı](/leylandi-bakimi), [mazı bakımı](/mazi-bakimi) ve [servi bakımı](/servi-bakimi) yazılarına bakabilirsiniz.
+
+## Güvenlik: iki el, kablo ve yakıt
+
+Motorlu çit makası bıçaklı bir alettir ve kazaların çoğu dikkatsizlikten çıkar. Üniversite uzantıları şu noktaları öne çıkarır: İki elle tutulmadıkça çalışmayan güvenlik düzeni olan modelleri tercih edin. Elektrikli modelde kablo yönetimi ana tehlikedir; kabloyu bıçaktan uzakta ve arkanızda tutun, topraklı ve koruma şalterli (RCD/GFCI) bir prizden kullanın ve elektrikli çit makasını baş üstünde kullanmayın. Benzinli modelde motor sıcakken yakıt doldurmayın, kapalı alanda çalıştırmayın (karbonmonoksit riski).
+
+Her kullanımdan önce vida, bıçak ve bağlantıların sıkı olduğunu kontrol edin; titreşimli aletlerde bağlantılar gevşeyebilir. Bakım ya da bıçak temizliği öncesinde aleti kapatın ve fişten çekin ya da bujiyi/aküyü çıkarın. Gözlük, kulaklık ve eldiven her zaman takılır; merdiven üzerinde çalışırken motorlu çit makasını bırakıp iki elle tutacağınız kararlı bir zemin yaratın.
+
+::: adimlar
+Çiti ölçün | Toplam uzunluğu ve en yüksek noktasını öğrenin.
+Dal kalınlığını belirleyin | Yıllık kesim mi, kalın dal temizliği mi gerektiğini görün.
+Güç kaynağını seçin | Priz var mı, yakıt kullanmak ister misiniz, akü yeterli mi?
+Bıçak boyunu seçin | Kısa bıçak şekil için, uzun bıçak düz çit için.
+Ağırlığı elde deneyin | Mümkünse bayide iki elle tutup deneyin; yorgunluk kesimi bozar.
+Güvenlik donanımını alın | Gözlük, kulaklık, eldiven ve gerekirse sağlam bir merdiven.
+:::
+
+## Çit kesiminin zamanı ve şekli
+
+Makine kadar kesimin zamanı da önemlidir. Çitleri çoğunlukla ilkbahar sonu ile yaz başında, ana büyüme tamamlandıktan sonra ve kuş yuvalama dönemine dikkat ederek kesmek yaygın bir uygulamadır; bölgenize ve çit türüne göre değişir. Çiti hafif yamuk, yani üstü alttan biraz dar bir kesitle kesmek, alt dalların da ışık almasını sağlar ve çitin dipten seyrelmesini engeller. Sıkı bir çit için yılda birkaç hafif kesim, yılda bir ağır kesimden daha iyidir. Çok sert kesimden sonra özellikle iğne yapraklılar çıplak kalabilir ve toparlanmayabilir.
+
+Kesimden sonra çit toparlanırken besin desteği gerekir. Çit bitkisi gübrelemesi için [çit bitkisi gübreleme](/cit-bitkisi-gubreleme) yazısına bakabilirsiniz; ürün bilgisinde katı solucan gübresinin toprağın organik madde içeriğini artırdığı ve kök gelişimini desteklediği belirtilir. Yıl sonunda aleti temizleyip saklamak için [bahçe aletleri kış bakımı](/bahce-aletleri-kis-bakimi) yazısındaki adımlar bıçak için de geçerlidir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Bakım: bıçak temizliği ve yağlama
+
+Bıçak her kullanımdan sonra temizlenir; reçine ve yaprak artığı kesim kalitesini düşürür. Temiz bir bezle silin, bıçak yağıyla hafifçe yağlayın ve bıçak kılıfına koyun. Köreldiğinde bıçağı bilemek ya da değiştirmek gerekir; körelmiş bıçak dalı keser gibi değil, parçalayıp çiti hastalığa açık yapar. Benzinli modelde yağ ve bujiyi, hava filtresini düzenli kontrol edin; akülü modelde aküyü serin ve kuru yerde, yaklaşık yarım doluyken saklayın.
+@sss
+S: Çit makası seçimi nasıl yapılır?
+C: Çitin uzunluğuna, dal kalınlığına, elektrik erişimine ve kullanıcının gücüne göre yapılır. Küçük bahçede kablolu ya da akülü, uzun ve kalın çitte benzinli model uygundur. Bıçak boyunu çite ve kendi gücünüze göre seçin.
+
+S: Akülü mü benzinli mi çit makası alınmalı?
+C: Küçük ve orta çitte akülü model kablo ve yakıt gerektirmediği için pratiktir, sessizdir ve bakımı azdır. Uzun, kalın dallı çitte benzinli model güç ve süresiz çalışma sağlar ama ağırdır ve bakım ister. Akü süresini işinize göre hesaplayın.
+
+S: Çit makası bıçak boyu kaç cm olmalı?
+C: Şekillendirme ve ince iş için 45-60 cm, uzun düz çitte 60-90 cm yaygındır. Uzun bıçak daha hızlıdır ama ağırdır ve yorar. Yorgunluk kesimi bozduğu için, ağırlığı elde deneyerek seçin.
+
+S: Çit makasıyla çalışırken hangi güvenlik önlemleri alınır?
+C: İki elle çalışma düzeni olan model seçin; gözlük, kulaklık ve eldiven kullanın. Elektrikli modelde kabloyu arkanızda tutun ve koruma şalterli prizden çalışın. Benzinli modelde sıcakken yakıt doldurmayın ve kapalı yerde çalıştırmayın.
+
+### YAZI
+slug: azot-kaybi
+baslik: Azot Kaybı: Yıkanma ve Buharlaşmayla Giden Gübre ve Zamanlama
+yayin: 2027-02-19 16:55
+yazar: Ahmet Sacit Çelik
+kategori: gubreleme
+odak: azot kaybı
+seo_baslik: Azot Kaybı: Yıkanma, Buharlaşma ve Zamanlama
+seo_aciklama: Azot kaybı nasıl olur? Yıkanma, üre buharlaşması ve denitrifikasyon, kumlu ve killi toprakta fark, bölerek verme ve zamanlama ile kaybı azaltma yolları.
+ozet: Azot kaybı, verdiğiniz gübrenin bitkiye ulaşmadan yıkanma, buharlaşma ve denitrifikasyonla toprağı terk etmesidir. Her yolun nasıl işlediğini, kumlu ve killi toprakta farkı, üreyi yağmura ve toprağa karıştırma zamanlamasını ve gübreyi bölerek verme mantığını anlattık.
+etiketler: azot kaybı, yıkanma, üre buharlaşması, denitrifikasyon, gübre zamanlaması, bölerek gübreleme
+gorsel: bekliyor
+gorsel_alt: Yağmurdan sonra su dolu tarla izlerinde ve üstte serpilmiş beyaz gübre taneleri
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Azot kaybı dört yolla olur: yıkanma, üre ve amonyağın buharlaşması, havasız toprakta denitrifikasyon ve yüzey akışı. Kumlu toprakta yıkanma, killi ve sulak toprakta denitrifikasyon, serpilmiş ürede buharlaşma baskındır. Gübreyi bölerek vermek, toprağa karıştırmak ve yağmuru gözetmek kaybı azaltır.
+@govde
+Gübre fiyatının yüksek olduğu yıllarda azot en pahalı besindir; en çok kaybolan besin de odur. Toprağa verilen azotun bir kısmı bitkiye gider, bir kısmı toprakta kalır, bir kısmı ise hiç görülmeden gider. Azot kaybı, çiftçinin ve bahçıvanın para harcayıp karşılığını alamadığı en sessiz yoldur. Aşağıda kaybın dört yolunu, toprak türüne göre farkı ve kaybı azaltacak zamanlama adımlarını anlatıyoruz. Azot noksanlığının bitkideki görünümü için [azot eksikliği](/azot-eksikligi) yazısına bakabilirsiniz.
+
+## Azot kaybı hangi yollarla olur?
+
+Alabama uzantısı kullanılmayan azotun yıkanma, denitrifikasyon, buharlaşma ve yüzey akışıyla kaybolabileceğini sayar ([Alabama Extension: mısırda azot uygulama zamanı](https://www.aces.edu/blog/topics/crop-production/best-timing-for-nitrogen-application-in-corn-production/)). Dört yol şöyle işler:
+
+- **Yıkanma:** Azot toprakta çabuk nitrata dönüşür; nitrat suda çözünür ve yağmur ya da bol sulamayla köklerin ulaşamadığı derinliğe iner.
+- **Buharlaşma (volatilizasyon):** Yüzeye serpilmiş üre amonyak gazına dönüşüp havaya karışır.
+- **Denitrifikasyon:** Su basmış, havasız toprakta nitrat gaz hâline dönüşür ve kaybolur.
+- **Yüzey akışı ve erozyon:** Eğimli tarlada şiddetli yağmurda gübre ve üst toprak birlikte akıp gider.
+
+Purdue uzantısı bu mekanizmaları ve azot kullanım verimliliği ilişkisini ayrıntılı anlatır ([Purdue Extension: azot kaybı mekanizmaları ve azot kullanım verimi](https://www.agry.purdue.edu/ext/pubs/2006NLossMechanisms.pdf)). Hangi yolun baskın olacağı toprağa, havaya ve gübre türüne bağlıdır.
+
+## Toprağa göre fark
+
+Alabama uzantısı kumlu toprakların yıkanmaya daha yatkın olduğunu, bu yüzden bölerek gübre vermenin çoğu zaman yararlı olduğunu; killi ya da kötü drene olan topraklarda, özellikle uzun süre ıslak kaldığında denitrifikasyon riskinin arttığını ve ekim öncesi yüksek azot dozlarının daha az verimli olabildiğini yazar.
+
+| Toprak | Baskın kayıp | Yönetim |
+|---|---|---|
+| Kumlu | Yıkanma | Bölerek ver, bitkinin tükettiği hızda ver |
+| Tınlı | Orta düzey | Dengeli zamanlama |
+| Killi, sulak | Denitrifikasyon | Ekim öncesi yüksek doz verme, drenaj |
+| Eğimli | Yüzey akışı | Toprağa karıştır, bitki örtüsünü koru |
+
+Toprak türünüzü bilmiyorsanız [kum mil kil oranı](/kum-mil-kil-orani) yazısındaki bünye testiyle sınıflandırabilirsiniz. Kumlu toprağın ıslahı için [kumlu toprak ıslahı](/kumlu-toprak-islahi) yazısına bakın.
+
+## Üre ve buharlaşma
+
+Üre, azotlu gübrenin en yaygın biçimidir ve yüzeyde bırakılırsa kaybı hızlıdır. Ohio State uzantısı üreden amonyak buharlaşmasının çoğunun uygulamadan sonraki ilk haftada olduğunu ve serin hava olmadıkça 48 saat içinde yarım inç (yaklaşık 12 mm) yağmur gerektiğini belirtir; Minnesota uzantısı toprağa karışma için çeyrek inç (yaklaşık 6 mm) eşik verir ([OSU Extension: buğdayda ne zaman ve ne kadar azot](https://agcrops.osu.edu/newsletter/corn-newsletter/2023-07/when-and-how-much-nitrogen-apply-wheat)). Purdue ise üre uygulamadan sonra mekanik olarak toprağa karıştırılırsa buharlaşma riskinin neredeyse sıfır olduğunu yazar.
+
+Pratik sonuç: Üreyi serpip bırakmayın. Serpmeden hemen sonra toprağı karıştırın ya da sulayarak içeri yıkayın; ılık ve rüzgârlı günde serpmekten kaçının. Kaplamalı üre ve üreaz inhibitörlü ürünler kaybı azaltabilir; mevcut ürünlerin kullanımı ve dozu için etiket ve ziraat mühendisi görüşü gerekir. Serpici ile gübre dağıtımı için [gübre serpme makinesi](/gubre-serpme-makinesi) yazısına bakabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Bölerek verme: faydası ve sınırı
+
+Gübreyi tek seferde değil, bitkinin ihtiyacı arttıkça parçalara bölmek, özellikle kumlu toprakta ve yağışlı mevsimde kayıp riskini azaltır. Alabama uzantısı bölünmüş uygulama ya da sezon içi ayar yapılan azot programlarının değişken koşullara tek seferlik uygulamadan çoğu zaman daha uygun olduğunu söyler. Ama kanıtlar tümüyle tek yönlü değildir: Ohio State araştırmaları, yeşillenmeden sonra tek seferlik uygulamaya kıyasla bölmenin verimi artırmadığını bildirir; Minnesota ise güçlü bir kayıp gerekçesi olmadıkça zamanlamayı geciktirmemeyi önerir. Ancak yaş bir ilkbaharda ekimle birlikte ya da erken bölünmüş verilen üre toprakta zayıf tutunur; bu durumda bölünmüş dozu birkaç hafta geciktirmek ilkbahar yıkanmasını azaltabilir.
+
+Bu yüzden genel kural şöyle olur: Kumlu toprakta ve yağışlı bölgede böl, killi ve sulak toprakta ekim öncesi ağır doz verme, serinde ve kuru dönemde tek uygulama yeterli olabilir. Doz ve zamanlama bitkiye, bölgeye ve toprak analizine göre değişir; mühendis önerisi alın.
+
+::: adimlar
+Toprak türünüzü belirleyin | Kum, tın ya da kil olduğunu bilin; baskın kayıp yolu buna bağlıdır.
+Hava tahminine bakın | Şiddetli yağış öncesi azotlu gübre vermeyin.
+Üreyi toprağa karıştırın | Serptikten hemen sonra karıştırın ya da hafif sulayın.
+Dozu bölün | Kumlu toprakta ve yağışlı bölgede iki ya da üç parçaya ayırın.
+Bitkinin ihtiyacını izleyin | Hızlı büyüme döneminde verin, durgun dönemde vermeyin.
+Organik madde ekleyin | Yavaş salınımlı organik kaynaklar kaybı yavaşlatır.
+:::
+
+## Azot kaybının maliyeti
+
+Azot kaybı yalnız cebinizden çıkan paradır diye düşünmek eksiktir. Yıkanan nitrat yer altı ve yüzey sularına karışarak içme suyu ve dere ekosistemi için sorun yaratır; buharlaşan amonyak havaya, denitrifikasyonla kaçan gazlar ise atmosfere karışır. Bu yüzden azotu doğru yönetmek hem verim hem çevre açısından önemlidir. Küçük bahçede bile fark edilir: Çim sarardı diye üst üste gübre atmak, bitkiye yaramadan toprağı ve suyu yükler. Önce nedenini, yani eksik azot mu yoksa su, ışık ya da hastalık mı olduğunu belirleyin; sonra gerekirse ölçülü ve zamanında gübreleyin.
+
+## Organik madde ve yavaş salınım
+
+Organik madde, azotun bir bölümünü yavaşça serbest bırakan bir depo gibi çalışır. Ürün bilgisinde katı solucan gübresinin besinleri yavaş salınımla verdiği ve toprağın su tutma kapasitesini artırdığı belirtilir; leonarditin de suyu sünger gibi tuttuğu ve nem kaybını önlediği yazılır. Bu özellikler, tek başına azot kaybını sıfıra indirmez; ama toprağın su ve besin tutumunu iyileştirerek kayıpları azaltmaya yardımcı olur. Kaybı azaltmak için organik madde artırmanın mantığı [toprakta organik madde](/toprakta-organik-madde) yazısında anlatılıyor.
+
+Sulamanın zamanlaması da önemlidir: Gübre verildikten sonra aşırı sulamak nitratı derine taşır. Sulama aralığı ve miktarı için [toprak nemi ölçme](/toprak-nemi-olcme) yazısına bakabilirsiniz; gübrenin saat ve havaya göre zamanlaması için de [gübreleme zamanı](/gubreleme-zamani) yazısına.
+@sss
+S: Azot kaybı nasıl olur?
+C: Dört yolla olur: Nitratın yağmur ve sulamayla köklerin altına yıkanması, yüzeydeki üreden amonyak buharlaşması, su basmış havasız toprakta denitrifikasyon ve eğimde yüzey akışı. Hangi yolun baskın olacağı toprağa, havaya ve gübre türüne bağlıdır.
+
+S: Üre gübresi ne zaman buharlaşır?
+C: Buharlaşmanın çoğu uygulamadan sonraki ilk haftada olur; Ohio State serin hava olmadıkça 48 saat içinde yaklaşık 12 mm yağmuru gerekli sayar. Serptikten hemen sonra toprağa karıştırmak ya da sulamak kaybı büyük ölçüde azaltır.
+
+S: Kumlu toprakta azot neden daha çabuk kaybolur?
+C: Kumlu toprak az su tutar ve hızlı süzer; nitrat suyla birlikte köklerin altına iner. Bu yüzden kumlu toprakta gübreyi bölerek, bitkinin tükettiği hızda vermek ve organik madde artırmak önerilir. Killi toprakta ise sorun genellikle denitrifikasyondur.
+
+S: Azotu bölerek vermek her zaman yararlı mı?
+C: Hayır. Kumlu toprakta ve yağışlı mevsimde kayıp riskini azaltır; ama bazı araştırmalar tek uygulamaya göre verim artışı bulmamıştır. Güçlü bir kayıp gerekçesi yoksa zamanlamayı gereksiz geciktirmeyin. Karar toprağa, bitkiye ve havaya göre verilir.
+
+### SORU
+yayin: 2027-02-19 14:40
+kategori: bahce-ipuclari
+baslik: Leylandi çitini yılda kaç kez kesmeliyim, ağır kesim zarar verir mi?
+metin: Üç metre boyunda leylandi çitim yeniden sıklaştı. Bu yıl çok sert kesmeyi düşünüyorum. Zarar görür mü, yılda kaç kez kesilir?
+@cevap Mikdat Çelik | 2
+Ağır kesim, özellikle iğne yapraklılarda çitin dipten çıplak kalmasına ve toparlanamamasına yol açabilir; çünkü iğne yapraklılar eski odundan kolay sürgün vermez. Bu yüzden yılda birkaç hafif kesim, yılda bir ağır kesimden daha güvenlidir. Çiti hafif yamuk, üstü dar bir kesitle kesin ki alt dallar da ışık alsın. Yoğun yapraklı kısmın içine kadar kesmeyin. Zamanlama için ana büyüme tamamlandıktan sonra, ilkbahar sonu ile yaz başı yaygındır; kuş yuvalama dönemine dikkat edin. Çit çok yükseldiyse yüksekliği birkaç yılda kademeli indirmeyi planlayın.
+
+### SORU
+yayin: 2027-02-19 18:20
+kategori: gubreleme
+baslik: Üre attım, ertesi gün yağmur yağdı, gübrem boşa gitti mi?
+metin: Buğday tarlasına üre serptim. Ertesi gün hafif yağmur yağdı. Azot yıkanıp gitti mi diye endişeliyim.
+@cevap Ahmet Sacit Çelik | 3
+Hafif yağmur çoğu zaman endişe edilecek bir şey değildir; aksine üre yüzeyde kalırsa buharlaşarak kaybolabileceği için yağmurun gübreyi toprağa taşıması yararlıdır. Üniversite uzantıları buharlaşmayı azaltmak için 48 saat içinde yaklaşık 6-12 mm yağmur ya da toprağa karıştırma gerektiğini belirtir. Asıl risk şiddetli ve uzun yağmurdur; o durumda nitrat yıkanabilir ya da yüzey akışı olabilir, özellikle kumlu ve eğimli tarlada. Bitkide sararma izlerseniz ve bölünmüş doz planınız varsa, sonraki dozu bitkinin ihtiyacına göre ayarlayın. Doz için toprak analizi ve yerel öneriye bakın.

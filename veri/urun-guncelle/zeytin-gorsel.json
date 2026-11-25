@@ -1,0 +1,10 @@
+{
+ "not": "HG Zeytin Ağacı Toprağı: ürün eklenirken görsel henüz yayında olmadığı için yüklenemedi; yalnız görsel eklenir, fiyata dokunulmaz",
+ "urunler": [
+  {
+   "slug": "hg-zeytin-agaci-topragi",
+   "ad": "HG Zeytin Ağacı Toprağı",
+   "gorsel": { "ortak": ["https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-zeytin-agaci-topragi.webp"] }
+  }
+ ]
+}

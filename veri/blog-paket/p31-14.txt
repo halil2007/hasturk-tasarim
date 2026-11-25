@@ -1,0 +1,188 @@
+### YAZI
+slug: ilaclama-saati-ruzgar
+baslik: İlaçlama Saati Rüzgar Kuralı: Sabah, Akşam ve Rüzgâr Hızı
+yayin: 2027-03-27 14:05
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: ilaçlama saati rüzgar
+seo_baslik: İlaçlama Saati Rüzgar Kuralı: Sabah mı, Akşam mı?
+seo_aciklama: İlaçlama saati rüzgar durumuna göre nasıl seçilir? Sabah ve akşam saatleri, rüzgâr hızı sınırı, sıcaklık, savrulma riski, arı ve komşu güvenliği.
+ozet: İlaçlama saati rüzgar hızına, sıcaklığa ve çevreye göre belirlenir. Sabah ve akşamın neden tercih edildiğini, rüzgâr hızının neden sınır olduğunu, savrulmayı azaltan ayarları ve arı ile komşu güvenliğini ilaç adı ve dozu vermeden anlattık.
+etiketler: ilaçlama saati, rüzgar, savrulma, sırt pompası, arı güvenliği, püskürtme, bitki koruma
+gorsel: bekliyor
+gorsel_alt: Sabah erken saatte sakin havada sırt pompasıyla bahçede püskürtme yapan kişi
+urunler: uzman-16-lt-manuel-ilaclama-pompasi-k-103, uzman-pomsan-delta-uyumlu-plastik-tetik, uzman-pomsan-delta-uyumlu-ilaclama-hortumu-yedek-parca
+kisaca: İlaçlama saati rüzgar durumuna göre seçilir: sabah erken ya da akşamüstü, rüzgârın hafif olduğu (yaklaşık 5–16 km/sa) ve sıcaklığın yüksek olmadığı saatte yapılır. Rüzgârlı havada ve sıcak öğlede püskürtme komşu bahçeye, arıya ve yanındaki bitkiye savrulur. Ürünün etiketi, rüzgâr sınırı konusunda son sözdür.
+@govde
+Aynı ilaçlama pompasıyla, aynı karışımla, aynı bahçede iki ayrı gün püskürtme yaptığınızda sonuç tamamen farklı olabilir: Sakin bir sabahta damlalar yapraklara oturur; rüzgârlı bir öğle saatinde yarısı komşunun çiti, kapının önündeki saksı ve arılar üzerine uçar. İlaçlama saati rüzgar durumuna bağlı olarak seçildiğinde hem koruma ürününün işe yaraması hem çevreye zarar vermemesi mümkün olur. Bu yazı yalnızca ilaçlama zamanını ele alır; hangi ürünün ne dozda kullanılacağı konusunda ziraat mühendisi ve il ya da ilçe tarım müdürlüğü yetkilidir.
+
+## İlaçlama saati rüzgar neden bu kadar önemli?
+
+Püskürtülen damlalar havada kısa bir süre asılı kalır. Rüzgâr bu damlaları hedef bitkiden başka yere taşır; bu olaya savrulma (drift) denir. Savrulan ürün komşu bahçedeki sebzeye, çiçekteki arıya, su kaynağına, evcil hayvana ve sizin kendi yüzünüze ulaşabilir. Kentucky Üniversitesi'nin [pestisit savrulması belgesi](https://www.uky.edu/Ag/Entomology/PSEP/65drift.html), savrulmayı etkileyen en önemli etkenin rüzgâr olduğunu belirtir ve püskürtmenin rüzgâr hızı saatte 3 ile 10 mil arasındayken (yaklaşık 5–16 km/sa) yapılmasını önerir. Rüzgârın hızı ya da yönü değiştikçe savrulma riski artar. Aynı belge, ürün etiketlerinin asgari ve azami rüzgâr hızını da belirtebildiğini ve etiketin son söz olduğunu hatırlatır.
+
+Rüzgâr yok denecek kadar durgunken de sorun çıkar: Sakin ve soğuk havada, özellikle sabah erken ve akşamda, sıcak hava tabakasının altında ince damlalar yer seviyesinde asılı kalıp uzağa yavaşça sürüklenebilir. Bu duruma "sıcaklık terselmesi" denir. Bu yüzden hafif ve belirli yönden esen rüzgâr, tam durgunluktan daha güvenli olabilir.
+
+## Sabah mı akşam mı?
+
+Aynı kaynak, sıcaklık terselmesi olmadığı sürece sabah erken ve akşamın çoğu zaman en uygun saatler olduğunu belirtir. Bunun nedenleri pratik: Gün ortasında sıcaklık yüksektir, damlalar hızla buharlaşır, sıcak hava yükselir ve ince damlaları yukarıya taşır; ayrıca bitki yaprağı strese girer ve ürün yaprakta yanık yapabilir. Sabah ve akşamın serinliğinde buharlaşma yavaştır, damlalar yaprakta daha uzun süre kalır.
+
+| Zaman | Avantaj | Dikkat |
+|---|---|---|
+| Sabah erken (çiğ kalktıktan sonra) | Rüzgâr çoğu zaman hafif, sıcaklık düşük | Islak yaprağa püskürtmek ürünü sulandırabilir; sabah terselmesi |
+| Akşamüstü | Arılar eve dönmüş, sıcaklık düşüyor | Yaprakların gece ıslak kalması mantar riski |
+| Öğle | Yok | Yüksek sıcaklık, savrulma ve yanık riski |
+| Yağmur öncesi/sonrası | Yok | Ürün yıkanır; yağmurdan hemen önce ve sonrasında püskürtmeyin |
+
+Çiçekteki bitkilere ve çiçek açmış bitkilerin yakınında ilaçlama yapılacaksa, arıların faaliyetlerinin azaldığı akşam saatleri tercih edilir; ama bu karar bitki koruma ürününün etiketine ve ziraat mühendisinin önerisine göre verilir. Arılar için [yabani arılar](/yabani-arilar) yazısı, toprağa yuva yapan arıları da ilaçtan koruma konusunda bilgi verir.
+
+## Rüzgâr hızını evde nasıl anlarsınız?
+
+Bahçıvanın anemometresi olmak zorunda değil. Yaklaşık rüzgâr hızını doğada gözleyerek tahmin edebilirsiniz.
+
+::: belirti
+Duman ya da toz dik yükseliyor, yapraklar hareketsiz | Tam durgunluk; terselme riski | Sakin havada özellikle sabah erken dikkatli olun, ince damla tercih etmeyin
+Yapraklar hafifçe kımıldıyor, yüzünüzde esinti hissediliyor | Yaklaşık 5–10 km/sa | Genellikle ilaçlama için uygun
+Küçük dallar sürekli sallanıyor, yapraklar hışırdıyor | Yaklaşık 15–20 km/sa | Sınırda; etiketteki üst sınıra bakın, mümkünse erteleyin
+Orta dallar sallanıyor, toz ve kâğıt uçuşuyor | 20 km/sa üzeri | Püskürtme yapmayın
+:::
+
+Hava tahmini için [Meteoroloji Genel Müdürlüğü](https://www.mgm.gov.tr) sayfasındaki rüzgâr hızı ve yönünü kontrol edin. Aynı gün içinde rüzgârın değişebileceğini unutmayın; sabah sakin olan hava öğleye doğru kuvvetlenebilir.
+
+## Savrulmayı azaltan ayarlar
+
+Rüzgâr sınırını tutturamadığınız günlerde bile ekipman ayarlarıyla savrulma riskini azaltabilirsiniz. İri damlalar rüzgâra daha az savrulur; bu yüzden meme (nozul) ayarını ya da tipini iri damla üretecek biçimde seçmek gerekir. Nozul seçimi için [ilaçlama pompası memesi](/ilaclama-pompasi-memesi) yazısı, farklı meme türlerini anlatıyor. Pompa basıncını fazla yükseltmeyin; yüksek basınç ince damla üretir. Püskürtme çubuğunu bitkiye yakın tutun; yüksekten sıkılan damla rüzgâra uzun süre maruz kalır. Püskürtmeyi rüzgârı arkanıza alarak yapın, böylece damlalar yüzünüze gelmez ve hedeften uzağa gitmez.
+
+Pompanın ayarlı ve temiz olması da önemlidir. Basıncı düşük ya da tıkalı pompa düzensiz damla çıkarır; bu konuda [ilaçlama pompası basınç düşmesi](/ilaclama-pompasi-basinc-dusmesi) yazısı arızaları ve çözümlerini sıralıyor. Kalibrasyon için [ilaçlama pompası kalibrasyonu](/ilaclama-pompasi-kalibrasyonu) yazısına bakın.
+
+[ürün:uzman-16-lt-manuel-ilaclama-pompasi-k-103]
+
+## Sıcaklık ve nem
+
+Rüzgâr kadar sıcaklık da önemlidir. Çok sıcak günlerde damlalar buharlaşır ve etkisi azalır; ayrıca bitki stres altındayken yapraklar ürüne hassas olur. Çok soğuk günlerde ise bazı ürünler etkili çalışmaz. Çok düşük nemli ortamda ince damlalar çabuk kurur ve savrulur. Etiket, uygun sıcaklık aralığını belirtir; ona uyun. Yaprak ıslakken ve yağmur tehdidi varken de püskürtme yapmayın; ürün yıkanır.
+
+## Çevreyi düşünmek: komşu, su ve hayvan
+
+Püskürtme yaparken komşu bahçe sınırından yeterince uzak durun; rüzgâr o yönden esiyorsa daha da dikkatli olun. Su kaynaklarına, havuza, kuyuya ve sulama kanalına yakın ilaçlama yapmayın; artık ve temizlik suyunu bu kaynaklara dökmeyin. Evcil hayvanları ve çocukları ilaçlanan alandan uzak tutun; ürün kuruyana kadar girmelerine izin vermeyin. Yiyecek kapları, oyuncaklar ve çamaşırlar dışarıda kalmamalıdır. Kendinizi eldiven, gözlük, maske ve uzun kollu giysiyle koruyun; ilaçlama sonrası ellerinizi ve yüzünüzü yıkayın.
+
+Yenilen sebze ve meyvede ürünün bekleme süresine uymak gerekir; bu süre etikette yazılıdır. Sağlık ve güvenlik konusunda emin olamadığınız her durumda il ya da ilçe tarım müdürlüğüne danışın.
+
+## Püskürtme öncesi kontrol listesi
+
+::: adimlar
+Hava durumunu kontrol edin | Rüzgâr hızını ve yönünü, yağmur ihtimalini, sıcaklığı bakın.
+Saati seçin | Sabah erken ya da akşamüstü; öğle sıcağından kaçının.
+Etiketi okuyun | Rüzgâr ve sıcaklık sınırlarını, bekleme süresini ve koruma önlemlerini doğrulayın.
+Ekipmanı hazırlayın | Pompayı, memeyi, filtreyi ve basıncı kontrol edin; iri damla ayarı yapın.
+Çevreyi kontrol edin | Komşu, su kaynağı, arı ve hayvan durumuna bakın.
+Rüzgârı arkanıza alın | Püskürtmeye rüzgârın estiği yöne doğru değil, rüzgârı arkanıza alarak yapın.
+Temizleyin | Pompayı bol suyla yıkayın, artığı güvenle imha edin.
+:::
+
+## Sık yapılan hatalar
+
+Rüzgârlı bir öğle saatinde ilaçlama yapmak en yaygın hatadır. İkincisi, rüzgâr yönünü dikkate almadan komşu bahçeye doğru püskürtmektir. Üçüncüsü, yüksek basınçla ince damla üretmektir. Dördüncüsü, yağmur öncesi ve sonrasında püskürtmektir. Beşincisi, etiketteki rüzgâr ve sıcaklık sınırlarını okumamaktır. Altıncısı, çiçek dönemindeki bitkiye gündüz arı yoğunken sıkmaktır. İlaçlama saati rüzgar durumuna göre seçildiğinde ürün hedefe ulaşır ve çevreye zarar azalır.
+@sss
+S: İlaçlama saati rüzgar durumuna göre nasıl seçilir?
+C: Sabah erken ya da akşamüstü, rüzgârın hafif olduğu ve sıcaklığın yüksek olmadığı saatler tercih edilir. Kentucky Üniversitesi rüzgâr hızının yaklaşık 5–16 km/sa arasında olmasını önerir. Etiketteki sınır geçerlidir.
+
+S: Rüzgârlı havada neden ilaçlama yapılmaz?
+C: Rüzgâr damlaları hedeften uzağa taşır; bu savrulma komşu bahçeye, arıya, suya ve size zarar verebilir. Aynı zamanda ürünün hedef bitkiye ulaşan miktarı azalır.
+
+S: Hiç rüzgâr yoksa ilaçlama güvenli mi?
+C: Tam durgun ve soğuk havada, özellikle sabah ve akşam, ince damlalar havada asılı kalıp yavaşça uzağa sürüklenebilir. Bu sıcaklık terselmesi riski nedeniyle hafif esinti, tam durgunluktan daha güvenli olabilir.
+
+S: İlaçlamadan önce hangi hava durumuna bakılır?
+C: Rüzgâr hızı ve yönü, sıcaklık, nem ve yağmur ihtimali. Yağmurdan hemen önce ve sonra ilaçlama yapılmaz; ürün yıkanır. Etiket, uygun koşulları belirtir.
+
+### YAZI
+slug: sardunya-bahar-budamasi
+baslik: Sardunya Bahar Budaması: Kışlama Sonrası Toparlama
+yayin: 2027-03-27 16:40
+yazar: Hatice Kübra Çelik
+kategori: bitki-bakimi
+odak: sardunya bahar budaması
+seo_baslik: Sardunya Bahar Budaması: Kışlama Sonrası Toparlama
+seo_aciklama: Sardunya bahar budaması nasıl yapılır? Kışlamış sardunyayı kontrol, kökü suda bekletme, sapları kısaltma, uç alma, yeni toprak ve ilk hafta sulaması.
+ozet: Sardunya bahar budaması, kışı geçirmiş uzamış sardunyayı toparlayıp yeniden gür çiçeklenmeye hazırlar. Kontrolü, kökü suda bekletmeyi, budama boyunu, uç almayı, yeni toprağı ve ilk haftalardaki bakımı anlattık.
+etiketler: sardunya budama, kışlatılmış sardunya, uç alma, saksı değiştirme, bahar bakımı, çiçeklenme
+gorsel: bekliyor
+gorsel_alt: Kışlamış sardunyanın sapları kısaltılmış, yeni toprağa dikilmiş ve ilk yapraklarını veren hali
+urunler: sardunya-pelargonium-cicegi-topragi, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini, budama-makasi
+kisaca: Sardunya bahar budaması, kışlamış sardunyanın kökünü birkaç saat suda bekletip yeni toprağa dikmek ve sapları yaklaşık 10 cm'ye kadar kısaltmaktır. Filiz verince uçlar alınarak dallanma sağlanır. Budamadan sonra bitki filiz verene kadar çok az sulanır; hava ısınınca besleme başlar.
+@govde
+Kış boyu pencere önünde ya da serin bir odada bekleyen sardunya mart ayında genellikle perişan görünür: Sapları uzamış ve çıplaklaşmış, yaprakları azalmış, bazı dalları kurumuştur. Çoğu kişi bu görüntü karşısında bitkiyi atar; oysa sardunya sert bir budamaya dayanıklı bir bitkidir. Sardunya bahar budaması, bu bitkiyi yeniden canlandırıp yaz boyu çiçek verir hâle getirmek için en etkili işlemdir.
+
+## Sardunya bahar budaması: önce kontrol
+
+Kraliyet Bahçıvanlık Derneği'nin [sardunya yetiştirme rehberi](https://www.rhs.org.uk/plants/popular/pelargonium/growing-guide), kışlamış bitkilerin erken ilkbaharda incelenmesini ve büyüme belirtisi gösterenlerin saklanmasını önerir. Yani önce hangi bitkinin kurtarılabileceğine bakın. Dallarını hafifçe kazıyarak canlı olup olmadığına bakın: Yeşil ve nemli doku canlıdır, kahverengi ve kuru doku ölüdür. Gövdesi tamamen kurumuş ve yumuşayıp çürümüş bitki kurtarılamaz; ama dipte bir iki yeşil nokta varsa umut vardır.
+
+Aynı zamanda bitkide hastalık belirtisi (siyah, yumuşak gövde, küf) olup olmadığına bakın. Hastalıklı bitkiyi sağlam bitkilerden ayırın. Sardunyanın hastalıkları için [sardunya hastalıkları](/sardunya-hastaliklari) yazısı belirtileri anlatıyor.
+
+## Zaman: ne zaman budanır?
+
+Sardunya bahar budaması, büyümenin yeniden başlayacağı erken ilkbaharda, genellikle mart ile nisan arasında yapılır. Bitki ışığa ve sıcaklığa kavuştuğunda yeni sürgün vermeye hazırdır. Çok erken budamak, soğuk havada yeni sürgünlerin üşümesine yol açabilir; çok geç budamak ise çiçeklenmeyi geciktirir. Bitkiyi yeni sürgün veren bir ışıklı yerde tutun, hava ısındıkça dışarı çıkarın.
+
+Kışı dışarıda ılık bölgede geçiren sardunyalar da aynı şekilde ilkbaharda toparlanır. Don riski devam ediyorsa budanan bitkiyi dışarı çıkarmayın; evde koruyun.
+
+## Budama adım adım
+
+::: adimlar
+Kökü suda bekletin | RHS, yeniden saksıya almadan önce kökleri birkaç saat suya yatırmayı önerir.
+Eski toprağı silkeleyin | Kökleri hafifçe temizleyin; çürük ve kurumuş kökleri keskin makasla kesin.
+Sapları kısaltın | Bütün sapları yaklaşık 10 cm kalacak biçimde kesin; yaprak düğümünün hemen üstünden kesmek yeni sürgünü teşvik eder.
+Kuru ve hasta dalları çıkarın | Siyah, kahverengi ve yumuşak dalları tamamen alın.
+Yeni toprağa dikin | Süzek bir sardunya toprağıyla bir boy küçük ya da aynı boyda saksıya dikin.
+Hafifçe sulayın | İlk sulamadan sonra filiz verene kadar çok az su verin.
+:::
+
+RHS, budanan bitkilerin büyüme yeniden başlayana kadar çok az suya ihtiyaç duyduğunu belirtir. Zonal tip sardunyalarda eski bitkilerin ilkbaharda sert budamayla yeniden gençleştirilebileceğini de hatırlatır. Ancak her çeşit sert budamayı aynı şekilde kaldırmaz; kendi çeşidinizin özelliğini kontrol edin.
+
+[ürün:sardunya-pelargonium-cicegi-topragi]
+
+## Uç alma: gür ve dallı bitki
+
+Budamadan sonra yeni sürgünler birkaç santim uzayınca uçlarını parmakla ya da makasla almak (kesmek), bitkiyi dallandırır ve daha gür, daha çok çiçek açan bir bitki oluşturur. Çiçek tomurcuğu belirmeden önce uç almak en iyi sonucu verir. Uç almak için [uç alma](/uc-alma) yazısına bakabilirsiniz. Uç aldığınız kısımlar çelik olarak da kullanılabilir; çoğaltma için [sardunya çoğaltma](/sardunya-cogaltma) yazısı adımları anlatıyor.
+
+## Budama aletinin temizliği ve kesim tekniği
+
+Budama makasını kullanmadan önce keskin ve temiz olduğundan emin olun. Körelmiş makas sapı ezer; ezilmiş dokuda çürüme başlar. Her bitkiden sonra makasın bıçaklarını alkolle ya da sabunlu suyla silmek, hastalığın bitkiler arasında taşınmasını önler. Kesimi hafif eğimli yapın; böylece su kesim yüzeyinde birikmez. Kalın ve odunsu gövdelerde kesim, düğüme yakın ama düğümü zedelemeden yapılır. Kesik yüzeylerin kuruması için bitkiyi yağmurdan ve fazla nemden koruyun; budama sonrası ilk günlerde sulama azaltılır. Eğer budanan dalda sağlam uçlar varsa, bunları atmayın; çelik olarak köklendirmek hem yedek bitki hem de yaz boyu bol sardunya sağlar. Budama makası seçimi ve bileme için [budama makası seçimi](/budama-makasi-secimi) yazısına bakabilirsiniz.
+
+## Çok uzamış ve kurumuş bitkiyi kurtarmak
+
+Bazı sardunyalar kış sonunda tamamen yapraksız, odunsu bir sap yığınına dönmüştür. Bu bitkilerde önce saplar kısaltılır; yeşil doku varsa yeni sürgünler birkaç haftada gelişir. Dipte sağlam göz yoksa bitkiyi kurtarmanın yolu çelik almaktır: Sağlıklı bir sap parçasından alınan çelik yeni bitki verebilir. Çeliği sağlam, hastalıksız ve çiçek açmamış bir uçtan alın. Büyümenin yeniden başlaması bir ay kadar sürebilir; sabırlı olun ve fazla sulayıp çürütmeyin. Yaşlı sardunyalarda üç dört yılda bir yeni bitkiyle yenilemek, daha gür ve dengeli bir çiçeklenme sağlar.
+
+## Toprak, saksı ve ışık
+
+Sardunya, suyu bekletmeyen bir toprağı sever. Toprağı yenilemek ya da üst katını tazelemek hem besin hem drenaj açısından yararlıdır; sardunya toprağı karışımı için [sardunya toprağı](/sardunya-topragi) yazısı oranları gösterir. Saksı mutlaka dibi delikli olmalı, tabakta su bekletilmemelidir. Işık için bol güneşli bir yer seçin; ışıksız yerde sürgünler uzar. Budanmış bitkiyi ilk haftalar serin ve aydınlık bir ortamda tutup, ısıtmadan kademeli olarak güneşe alıştırın.
+
+## Sulama ve besleme
+
+Budama sonrasında bitkinin su ihtiyacı çok azalır. Yaprak yoksa su buharlaşmaz; toprağı ıslak tutmak çürümeye yol açar. Toprak tamamen kuruduktan sonra hafifçe sulayın; filiz belirdikten sonra düzenli sulamaya geçin. Beslemeye yeni yapraklar belirdikten ve hava ısındıktan sonra başlayın: Çiçek açma dönemine kadar seyreltik bir çiçek besini iki üç haftada bir yeterlidir. Çok erken ve çok yoğun besleme yumuşak sürgün yapar ve gövdeyi çürütür. Besleme programı için [sardunya bakımı](/sardunya-bakimi) yazısına bakabilirsiniz.
+
+## Dışarı çıkarma zamanı
+
+Budanıp yeni sürgün veren bitkiyi dışarı çıkarmadan önce yedi on gün kademeli alıştırın. Son don geçmeden balkona koymayın; sardunya dona hassastır. Nisan sonu ya da mayıs başı kıyılarda ve iç bölgelerde dışarı çıkarma için genelde güvenli zamandır. Soğuk geceler bekleniyorsa saksıyı içeri alın. Güneşe çıkarırken ilk günlerde öğle güneşinden koruyun; yapraklar yanabilir.
+
+## Sık yapılan hatalar
+
+Budamadan sonra bitkiyi çok sulamak en yaygın hatadır; yapraksız bitki suyu kullanamaz ve kök çürür. İkincisi, çok erken ve soğukta budamaktır. Üçüncüsü, sapları dibe kadar kesip düğümsüz bırakmaktır. Dördüncüsü, hastalıklı dalları budamayıp bırakmaktır. Beşincisi, uç almayı unutup uzun ve seyrek bir bitki elde etmektir. Altıncısı, budanmış bitkiyi hemen dışarı çıkarmaktır. Sardunya bahar budaması doğru zamanda ve doğru boyda yapıldığında bitkiyi bir iki ay içinde yeniden çiçeğe taşır.
+@sss
+S: Sardunya bahar budaması ne zaman yapılır?
+C: Erken ilkbaharda, genellikle mart ile nisan arasında, bitkinin yeniden büyümeye hazırlandığı dönemde yapılır. Çok soğukta budamak yeni sürgünleri üşütebilir.
+
+S: Sardunya budanırken ne kadar kısaltılır?
+C: RHS rehberi kışlamış sardunyanın bütün saplarının yaklaşık 10 cm kalacak biçimde kısaltılmasını önerir. Düğümün hemen üstünden kesmek yeni sürgünü teşvik eder; çeşidinizin sert budamaya dayanıklı olup olmadığını kontrol edin.
+
+S: Budanan sardunya ne kadar sulanır?
+C: Filiz verene kadar çok az sulanır; yapraksız bitki suyu kullanamaz. Toprak tamamen kuruyunca hafifçe sulayın, filiz belirince düzenli sulamaya geçin.
+
+S: Sardunya uç alma gerekir mi?
+C: Evet. Yeni sürgünler birkaç santim olunca uçlarını almak bitkiyi dallandırır ve daha gür, çok çiçekli yapar. Çiçek tomurcuğu çıkmadan önce yapın.
+
+### SORU
+yayin: 2027-03-27 08:40
+kategori: bahce-ipuclari
+baslik: Sırt pompasıyla öğleden sonra rüzgâr hafifken püskürtme yapsam olur mu?
+metin: Hava bu hafta rüzgârlı, ama öğleden sonra rüzgâr çok azalıyor. Bahçede sırt pompasıyla püskürtme yapmak istiyorum. Saat önemli mi, öğleden sonra olur mu?
+@cevap Ahmet Sacit Çelik | 4
+Rüzgâr hızı kadar sıcaklık da önemli: Öğleden sonra sıcaklık yüksekse damlalar çabuk buharlaşır ve yaprakta yanık riski artar. Sabah erken ya da akşamüstü, rüzgârın hafif ve sıcaklığın düşük olduğu saat daha güvenli. Ürünün etiketinde rüzgâr ve sıcaklık sınırları yazılıdır; ona uyun. Hangi ürünün kullanılacağı ve dozu için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın.

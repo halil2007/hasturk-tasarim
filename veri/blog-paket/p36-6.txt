@@ -1,0 +1,106 @@
+### YAZI
+slug: cilek-stolonu-kamcilari-kesmek-mi-koklendirmek-mi
+baslik: Çilek Stolonu: Kamçıları Kesmek mi, Köklendirmek mi?
+yayin: 2027-02-24 19:40
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: çilek stolonu
+seo_baslik: Çilek Stolonu: Kamçıları Kesmek mi, Köklendirmek mi?
+seo_aciklama: Çilek stolonu (kamçı) kesilir mi, köklendirilir mi? Saksıda ve yatakta ne yapılır, yavru bitki ne zaman ayrılır, gün nötr çeşitte neden az çıkar.
+ozet: Çilek stolonu, ana bitkiden uzayan ve ucunda yavru bitki oluşturan ince daldır. Saksıda ve yükseltilmiş yatakta çoğu yayım kesmeyi, yeni fide istiyorsanız ise küçük bir kapta köklendirmeyi öneriyor. Zamanlamayı, ayırma yöntemini ve gün nötr çeşitlerin farkını anlattık.
+etiketler: çilek stolonu, çilek kamçısı, çilek çoğaltma, saksıda çilek, yavru fide, gün nötr çilek
+gorsel: bekliyor
+gorsel_alt: Saksıdaki çilek bitkisinden dışarı uzanıp küçük bir kapın toprağına tutturulmuş ince bir stolon ve ucundaki yavru yaprak
+urunler: albion-cilek-fidesi-6-adet, hg-cilek-topragi
+kisaca: Çilek stolonu, ana bitkiden yatay uzanan ve ucunda yavru bitki yapan ince daldır. Saksıda ve yükseltilmiş yatakta çoğu zaman kesilir, çünkü yavru bitki ana bitkinin enerjisini harcar. Yeni fide isterseniz yavru bitki iki üç yaprak yaptığında, köklenmeden önce küçük bir kapta toprağa tutturulur ve birkaç gün sonra ayrılır.
+@govde
+Mayıs sonunda saksıdaki çilek bitkinizden ince, ip gibi bir dal uzayıp yere sarkıyor, ucunda minik bir yaprak rozeti var. Bırakırsanız birkaç hafta içinde saksının dışına dönüp toprağa kök salacak. İşte çilek stolonu bu. Kimi bahçıvan ona dokunmaz, kimi acıyarak keser; ikisinin de haklı olduğu durumlar vardır. Önce neden oluştuğuna, sonra ne zaman kesilip ne zaman köklendirileceğine bakalım.
+
+## Çilek stolonu nedir, bitkiye ne yaptırır?
+
+Stolon (halk dilinde kamçı ya da sürgün), çileğin kendini çoğaltma yoludur. Ana bitkiden yatay uzar, ucunda yavru bitki oluşur; yavru toprağa değerse kök salar ve ana bitkiden bağımsız yaşamaya başlar. Minnesota Üniversitesi'nin çilek büyümesi yazısı, çileğin hem taç sürgünü hem de stolonla çoğaldığını ve stolonların ana bitkiden bağımsız yeni bitki oluşturduğunu anlatıyor ([Minnesota Extension, çilek bitkisi nasıl büyür](https://extension.umn.edu/strawberry-farming/how-strawberry-plants-grow)).
+
+Sorun şu: Yavru bitkiyi ana bitki besler. Oregon Eyalet Üniversitesi'nin ev bahçesi çileği yayımı, tepe ya da kap sistemlerinde stolonların kesildiğini, çünkü kök salamayan yavruların ana bitkiden enerji çektiğini belirtiyor ([Oregon State Extension, ev bahçesinde çilek yetiştirme](https://extension.oregonstate.edu/catalog/ec-1307-growing-strawberries-your-home-garden)). Meyve çıkması beklenen dönemde bol stolon, daha az ve küçük meyve demektir.
+
+## Stolonu kesmek mi, bırakmak mı?
+
+Cevap, çileği nasıl yetiştirdiğinize bağlı. Aşağıdaki tablo kaynakların çizdiği çerçeveyi özetliyor:
+
+| Yetiştirme biçimi | Stolonla ne yapılır | Gerekçe |
+|---|---|---|
+| Saksı, kule, askılı kap | Kesilir | Yavrunun kökleneceği toprak yok; ana bitkiyi zayıflatır |
+| Yükseltilmiş yatak, tek sıra, aralıklı dikim | Kesilir | Bitkinin gücü meyveye yönelir |
+| Sık dikimli "halı" yatak | Erken stolonlar köklendirilir, geç olanlar kesilir | Boşluğu doldurmak için erken yavru işe yarar |
+| Gün nötr (yediveren) çeşit | Çok az stolon yapar; çıkanı kesin | Bu çeşitlerde stolon beklenmez |
+
+Oregon yayımı, halı düzeninde ilk stolonların (eylül başından önce oluşanların) köklendirilmesini, sıra genişliğini 30-45 cm (12-18 inç) arasında tutmak için de yavruların sıraya doğru yönlendirilmesini öneriyor. Geç stolonlar ise daha az verimli sayılıyor ve yol aralığını temiz tutmak için kesiliyor. Kaynağın "eylül" tarihini Türkiye'ye uyarlarken ılık kıyı kuşağında ağustos sonunu, iç bölgelerde temmuz sonunu referans almak daha güvenli olur; ama kesin tarih çeşide ve iklime göre değişir.
+
+Gün nötr çeşitlerde durum farklıdır. Ürün bilgisine göre Albion yediveren, yani gün nötr bir çeşittir; çiçeklenmesi gün uzunluğuna bağlı olmadığı için sonbahar donlarına kadar çiçek ve meyve vermeye devam eder. Bu tür çeşitler az stolon yapar; Oregon yayımı da gün nötr çileklerin stolona gereksinimi olmadığını ve sezon boyunca kesilmesini öneriyor.
+
+[ürün:albion-cilek-fidesi-6-adet]
+
+## Stolon ne zaman kesilir?
+
+Zamanlama konusunda küçük bir ayrıntı var. Oregon yayımının aktardığına göre stolonlar yavru yapmadan kesilirse bitki daha çok stolon üretebilir. Yani en erken görüp hemen kesmek en iyisi değil. Yavru bitki iki üç yaprağa ulaşıncaya kadar bekleyip, daha kök salmadan kesmek daha makul. Bazı yayımlar saksı ve tepe sistemlerinde stolonların iki üç haftada bir tamamen temizlenmesini önerir.
+
+Kesim için temiz bir bahçe makası ya da keskin bir bıçak yeterli. Kesimi ana bitkinin taç kısmından birkaç santim uzaktan yapın; tacın dibinden kesmek ana bitkiyi yaralar. Kesilen stolonları ve yavruları kompost yığınına atmadan önce hastalık belirtisi (yaprak lekesi, küf) olup olmadığına bakın; hasta bitki parçalarını [çilek hastalıkları](/cilek-hastaliklari) yazısındaki belirtilere göre ayıklayın.
+
+## Yeni fide istiyorsanız köklendirme
+
+Çilek, bahçede kendi kendini çoğaltan kolay bir bitkidir. Yeni fide istiyorsanız stolonu kesmeyin; yavruyu kontrollü biçimde köklendirin. Kaynaklarda tarif edilen yöntem şu: Yavruyu, stolonla ana bitkiye bağlıyken küçük bir saksının toprağına tutturmak, bir süre sonra stolonu keserek bağımsız bir bitki yapmak.
+
+::: adimlar
+Hazırlık yapın | Küçük bir saksıyı (8-10 cm) hafif, süzek bir toprakla doldurup ana bitkinin yanına yerleştirin.
+Yavruyu seçin | İki üç yaprak yapmış, henüz köklenmemiş bir yavru bitkiyi belirleyin; en iyisi ana bitkiye yakın olandır.
+Toprağa tutturun | Yavrunun alt kısmını saksı toprağına bastırın, tel ya da toka ile sabitleyin; stolonu kesmeyin.
+Nemli tutun | Toprağı birkaç gün nemli tutun; yavru kök salınca yeni yapraklar çıkarır.
+Ayırın | Yavru yeni yaprak çıkarıp kök tuttuğunu gösterince stolonu ana bitkiden kesin ve yavruyu bağımsız bırakın.
+:::
+
+Bir extension cevabı, yavrunun ana bitkiye bağlıyken köklendirilmesinin daha hızlı olduğunu ve birkaç gün sonra kesilip ayrı dikilebileceğini söylüyor. Yavrular kök salmadan toprağa konursa ana bitkiyi zayıflatırlar; bu nedenle yavruyu kökleninceye kadar bağlı bırakın, sonra ayırın. Köklendirilen fideleri sonbaharda ya da erken ilkbaharda dikmek için [sonbaharda çilek fidesi dikimi](/sonbaharda-cilek-fidesi-dikimi) yazısı dikim derinliği ve aralığı konusunda yardımcı olur.
+
+Toprak seçiminde çilek hafif asidik ve süzek isteyen bir bitkidir. Ürün bilgisine göre HG Çilek Toprağı özel karışım, çilek için hazırlanmış bir toprak. Saksıda yavru yetiştirirken ya da yenilediğiniz ana bitkinin toprağını tazelerken kullanılabilecek hazır bir seçenek; kendi karışımınızı yapacaksanız [çilek toprağı nasıl olmalı](/cilek-topragi) yazısındaki oranlara bakın.
+
+## Köklendirilen yavrular ne kadar verimli olur?
+
+Ana bitki yıllar içinde yorulur ve meyveler küçülmeye başlar. Bu yüzden her yıl iki üç sağlıklı yavruyu köklendirmek, yedek fide demektir. Ana bitkiye benzer yavru, ana bitki hastalıksızsa hastalıksız olur; ama virüs ve mantar taşıyan bir bitkinin yavrusu da hastalık taşır. Hasta ana bitkiden yavru almayın.
+
+Yavru bitkiyi ana bitkiden almadan önce, ana bitkinin o sezon iyi meyve verdiğinden emin olun. En iyi meyve veren, en sağlıklı ve en az hastalık belirtisi gösteren bitkilerden yavru seçmek, çoğaltmayı bir kalite seçimine dönüştürür.
+
+## Sık yapılan hatalar
+
+- Saksıdaki çileğin stolonunu bırakıp meyve veriminin düşmesine şaşırmak.
+- Stolonu yavru oluşmadan hemen kesmek; bitki daha çok stolon üretebilir.
+- Yavruyu köklenmeden ana bitkiden ayırmak; yavru kurur.
+- Hasta ya da lekeli bitkiden yavru almak.
+- Gün nötr çeşitte stolon beklemek; bu çeşitler az stolon yapar.
+
+Çilek stolonuna "kes" ya da "bırak" demenin tek doğrusu yoktur; yalnızca hedefiniz vardır. Meyve istiyorsanız kesin, yeni fide istiyorsanız köklendirin. Yaz sonunda saksınızın yanında küçük bir kapta kök tutmuş birkaç yavru görürseniz, gelecek yılın meyvesinin yarısını şimdiden hazırlamış olursunuz. Saksıda çileğin diğer ihtiyaçları için [balkonda çilek yetiştirme](/balkonda-cilek-yetistirme) yazısına, gübre programı için [çilek gübreleme](/cilek-gubreleme) yazısına bakabilirsiniz.
+@sss
+S: Çilek stolonu kesilmeli mi?
+C: Saksı, kule ve yükseltilmiş yatakta çoğu yayım keser, çünkü yavru bitki ana bitkinin enerjisini harcar. Yeni fide istiyorsanız stolonun ucundaki yavruyu iki üç yapraklıyken kontrollü köklendirin.
+
+S: Çilek stolonu ne zaman kesilir?
+C: Yavru iki üç yaprak yaptıktan sonra, kök salmadan önce kesin. Çok erken kesilirse bitki daha çok stolon üretebilir. Saksı sistemlerinde bazı yayımlar iki üç haftada bir tüm stolonların temizlenmesini önerir.
+
+S: Çilek stolonunu nasıl köklendiririm?
+C: Yavruyu, ana bitkiye bağlıyken yanındaki küçük bir saksıya tutturun, toprağı nemli tutun ve kök tutunca stolonu kesin. Yeni yaprak çıkması kök tuttuğunun işaretidir; ayırdıktan sonra fide kendi saksısında gelişir.
+
+S: Gün nötr çeşitte neden az stolon çıkıyor?
+C: Gün nötr (yediveren) çilekler stolon yerine çiçek ve meyveye yönelir. Oregon yayımı bu çeşitlerde stolona gereksinim olmadığını ve sezon boyunca kesilmesini önerir.
+
+### SORU
+yayin: 2027-02-24 21:40
+kategori: sebze-meyve
+baslik: Çileğimin dört beş stolonu saksının dışına sarktı, hepsini kesebilir miyim?
+metin: Saksıdaki çileğim meyve verirken uzun stolonlar çıkardı. Hepsini hemen kesersem bitki zarar görür mü?
+@cevap Halil İbrahim Çelik | 2
+Kesebilirsiniz; saksıda stolonlar bitkiyi yorar. Yavru oluşmadan çok erken keserseniz bitki yenisini üretebilir; yavru iki üç yaprak yapınca kesmek daha iyidir. Kesimi tacın birkaç santim uzağından yapın. Bir iki yavruyu yedek fide olarak küçük kaplarda köklendirebilirsiniz.
+
+### SORU
+yayin: 2027-02-24 22:20
+kategori: sebze-meyve
+baslik: Stolondan çıkan yavru çilek bitkisi aynı yıl meyve verir mi?
+metin: Geçen yıl köklendirdiğim yavru çilekler bu yıl meyve verir mi, yoksa bir yıl mı beklemek lazım?
+@cevap Mikdat Çelik | 2
+Bu çeşide ve köklendirme zamanına bağlı. Erken köklenen güçlü yavrular ertesi sezon meyve verir; geç ve zayıf olanlar bir yıl daha gelişmeye ihtiyaç duyar. Gün nötr çeşitler daha hızlı meyveye yönelir. İlk sezon çiçekleri alıp bitkinin kök salmasına izin vermek de uzun vadede daha iyidir.

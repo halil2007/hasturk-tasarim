@@ -1,0 +1,101 @@
+### YAZI
+slug: bahce-traktoru-secimi
+baslik: Bahçe Traktörü Seçimi: 20–30 HP, Paletli ve Dar Tip Farkı
+yayin: 2027-02-17 16:55
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: bahçe traktörü seçimi
+seo_baslik: Bahçe Traktörü Seçimi: 20-30 HP, Paletli ve Dar Tip
+seo_aciklama: Bahçe traktörü seçimi nasıl yapılır? Arazi büyüklüğüne göre beygir gücü, lastikli, paletli ve dar tip farkı, PTO, emniyet ve eklenecek aletler.
+ozet: Bahçe traktörü seçimi, arazinizin büyüklüğüne, topraklarınıza ve eklemek istediğiniz aletlere göre yapılır; beygir gücü tek başına ölçü değildir. 20-30 HP aralığının ne zaman yettiğini, lastikli, paletli ve dar tipin farkını, PTO ve emniyet ayrıntılarını ve seçim sırasını anlattık.
+etiketler: bahçe traktörü, küçük traktör, 20-30 hp, paletli traktör, dar tip traktör, pto, toprak işleme
+gorsel: bekliyor
+gorsel_alt: Meyve ağaçları arasında çalışan küçük, dar gövdeli bir bahçe traktörü ve arkasında rotavatör
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Bahçe traktörü seçimi, önce işleri sonra beygiri belirlemekle başlar. Üniversite uzantıları 10 dönümden küçük arazide yaklaşık 20-40 HP aralığını, en küçük parsellerde ise yürüyen traktörleri yeterli bulur. Eklenecek alet (rotavatör, pulluk, biçme) gerekli gücü belirler; dar sıra arası için dar tip, eğimli ve yumuşak toprak için paletli düşünülür.
+@govde
+Küçük bir bahçe ya da meyve arazisi alan birinin ilk sorusu çoğu zaman şudur: Hangi traktör? Cevap "en güçlüsü" değildir; çünkü gereğinden büyük traktör hem pahalı hem de dar bahçede kullanışsızdır, gereğinden küçük traktör ise ilk ağır işte yetersiz kalır. Bahçe traktörü seçimi, arazinin büyüklüğü, toprağın yapısı, sıra aralığı ve takılacak aletlerle belirlenir. Aşağıda beygir gücü aralıklarını, lastikli, paletli ve dar tip farkını ve seçim sırasında bakılacak ayrıntıları anlatıyoruz. Bahçe aletlerinin bakım tarafı için [bahçe aletleri kış bakımı](/bahce-aletleri-kis-bakimi) ve [çapa makinesi kış bakımı](/capa-makinesi-kis-bakimi) yazılarına da göz atabilirsiniz.
+
+## Bahçe traktörü seçimi: önce işi, sonra makineyi belirleyin
+
+Üniversite uzantıları aynı sırayı önerir: Önce ne iş yapacağınızı listeleyin, sonra o işe uygun aleti, en son o aleti çalıştıracak traktörü seçin. Cornell Üniversitesi küçük çiftlikler programı, en çok zaman alan işlerin listelenmesini ve alet seçiminin buna göre yapılmasını önerir; aynı kaynak gereğinden fazla beygir gücünün kullanmayacağınız kapasite için para ödemek anlamına geldiğini ve ağır traktörün küçük arazi düzenine uymayabileceğini belirtir ([Cornell Small Farms: size uygun traktörü bulmak](https://smallfarms.cornell.edu/2026/01/finding-the-tractor-that-fits-your-farm/)). ATTRA'nın ulusal sürdürülebilir tarım bilgi servisi de en iyi traktörün arazinin büyüklüğüne, düzenine, toprağa ve takılacak aletlere bağlı olduğunu, küçük çiftliklerin toprak işleme ve çapa için yüksek beygir gücüne ihtiyaç duymadığını yazar ([ATTRA: küçük çiftlik için mekanizasyon](https://rvs.umn.edu/Uploads/EducationalMaterials/120f728b-1af4-4fad-8cb8-12703fc60af5.pdf)).
+
+Bunu pratiğe çevirmek için üç soru yeterlidir: Kaç dönümlük alanı işleyeceksiniz? Hangi işleri yapacaksınız (toprak işleme, çim ve ot biçme, yük taşıma, ilaçlama)? Bahçenin en dar geçidi kaç metre?
+
+## Kaç beygir yeter? 20-30 HP aralığı
+
+Uzantı kaynaklarında küçük arazi için sık geçen aralık 20-40 HP'dir. Cornell'in 2026 rehberi, yaklaşık 10 dönümden küçük (kaynakta 10 akre; yaklaşık 40 dekardan küçük) işletmeler için biçme, hafif yükleyici işi, hafif taşıma ve toprak işleme yapabilen 20-40 HP'lik bir traktörü makul sayar. Bu rakam akre ve ABD işletmeleri için verilmiştir; bizim bahçe ölçeğimizde, yani birkaç dönümlük meyve bahçesi ya da sebze arazisinde, alt aralık yani 20-30 HP çoğu zaman yeterlidir.
+
+En küçük parsellerde yürüyen traktör (çift tekerlekli, motorlu çapa benzeri) de bir seçenektir. ATTRA, yürüyen traktörlerin yaklaşık 5-14 HP aralığında olduğunu ve yaklaşık iki akrelik (yaklaşık 8 dekar) bir çiftliğin toprak işleme ve çapa ihtiyacını karşılayabildiğini belirtir. Bahçenizin boyutu 1-2 dönümse ve çoğunlukla toprak işleyeceksiniz, ilk bakılacak seçenek traktör değil yürüyen traktördür.
+
+| Arazi ve iş | Genel eğilim |
+|---|---|
+| Birkaç yüz metrekare, sebze tarhı | Motorlu çapa ya da küçük yürüyen traktör |
+| 1-8 dekar, sebze ve çiçek | Yürüyen traktör ya da küçük traktör |
+| 8-40 dekar, meyve ve sebze karışık | Yaklaşık 20-40 HP küçük traktör |
+| Ağır pulluk, balya ya da yükleyici işi | Daha yüksek HP ve ağır gövde |
+
+Tablodaki aralıklar genel yönlendirmedir; kendi alet listenizle ve toprağınızla doğrulayın.
+
+## Alet güç ihtiyacını belirler
+
+Bahçe traktörü seçimi yapılırken en sık atlanan adım, aletin gücünü hesaba katmaktır.
+
+Beygir gücünün asıl hesabı alette saklıdır. Connecticut Üniversitesi uzantısının traktör rehberi yaklaşık değerler verir: Döner çapa (rotavatör) işlem genişliğinin her inçi için yaklaşık 3/4 HP, tandem diskli tırmık her ayak genişlik için yaklaşık 5 HP, püskürtücü ise ayak başına 1 HP'nin altında güç ister ([UConn: pazar çiftliği için traktör rehberi](https://newfarms.extension.uconn.edu/wp-content/uploads/sites/848/2015/07/Tractor-Primer-for-the-Market-Farm.pdf)). Bu kaynak yaklaşık bir on yıl öncesine aittir ve rakamlar yalnız bir fikir verir; yine de mantık sağlamdır: İşi önce seçin, alete sığacak gücü sonra hesaplayın.
+
+::: adimlar
+İş listesini yazın | Toprak işleme, biçme, taşıma, ilaçlama gibi yıl boyu yapacağınız işleri sıralayın.
+Aletleri belirleyin | Her iş için çalışma genişliğini ve gücünü üreticinin teknik bilgisinden öğrenin.
+En ağır aleti baz alın | Yıl içinde bir kez bile kullanacağınız en ağır alet, gerekli minimum gücü belirler.
+Bahçe geçitlerini ölçün | Ağaç sıraları ve kapı genişliği, traktör genişliğini sınırlar.
+Toprak ve eğimi düşünün | Yumuşak ya da eğimli toprakta çekiş ve denge önemlidir.
+Bütçe ve servis ağını kontrol edin | Yedek parça ve servis ulaşılabilir olmalıdır.
+:::
+
+## Lastikli, paletli, dar tip
+
+Lastikli traktör en yaygın tiptir: Yola çıkabilir, hızlıdır, bakımı bilinir ve ikinci el piyasası geniştir. Dar tip (bağ ve meyve bahçesi tipi), gövdesi ve tekerlek aralığı dar tutulmuş traktördür; ağaç ya da bağ sıraları arasında çalışmak için tasarlanır. Sıra aralığı dar olan meyve bahçelerinde dar tip, geniş bir traktörün ağaç gövdesine ve dalına zarar vermesini önler. Bu tipte tekerlek aralığını ve toplam genişliği önceden ölçmek zorunludur.
+
+Paletli traktörde tekerlek yerine palet vardır; zemin basıncı düşük, çekişi yüksektir. Yumuşak, çamurlu, eğimli ya da toprağı sıkıştırmak istemediğiniz arazide avantaj sağlar; karşılığında fiyatı ve bakımı daha yüksektir ve yolda kullanım kısıtlıdır. Bu aralığı seçerken kendi arazinizin zeminini düşünün; sıkıştırma riski için [toprak erozyonu](/toprak-erozyonu) yazısında toprağın yapısal kaybı konusunu da bulabilirsiniz.
+
+Bu tiplerin hangisinin sizin için uygun olduğu bahçenizin koşuluna bağlıdır; satın almadan önce bölgenizdeki bayiden ve aynı tip kullanan komşu bahçelerden fikir almak, uzantıların da önerdiği bir yoldur.
+
+## PTO, kabin ve emniyet
+
+Seçilecek traktörde iki ayrıntıya özellikle bakılmalıdır. İlki canlı PTO'dur (güç aktarma mili). Cornell ve UConn kaynakları, canlı PTO'su ve devrilmeye karşı koruma yapısı (ROPS) ya da kabini olan traktörlerin öncelikli olduğunu vurgular. Canlı PTO, traktör hareket etmese bile aletin çalışmasını sürdürmenize olanak verir; rotavatör, biçme gibi aletlerde işi kolaylaştırır. ROPS ise devrilme durumunda sürücüyü korur; kemerle birlikte kullanılır. Küçük traktörlerde devrilme, ciddi ve ölümcül kazaların başında gelir; bu yüzden korumasız eski traktör satın alıyorsanız bile koruma yapısını ve emniyet kemerini ekleyin.
+
+İkinci olarak, bakımı iyi yapılmış ikinci el traktörün küçük işletmeler için uygun maliyetli olabildiği uzantı kaynaklarında sık geçer; ama sağlam bir kontrol (motor, hidrolik, şanzıman, yağ kaçakları) şarttır. Yeni ya da ikinci el karar vermeden önce çalışır hâlde deneyin.
+
+## Toprakla ilişkisi: ağır makineden korunun
+
+Traktör toprağı işler ama aynı zamanda sıkıştırır. Islak toprakta çalışmak, tabana sert bir tabaka oluşturur ve kök gelişimini engeller; bu yüzden toprak tavına gelmeden traktör sokmayın. Her yıl aynı derinlikte sürmek de taban taşı (pulluk tabanı) yaratır. Toprak işlemenin gerekliliği ve zamanı için [sonbaharda tarla sürümü](/sonbaharda-tarla-surumu) yazısını okuyabilirsiniz. İşlemeden sonra toprağın organik maddesini korumak için olgun kompost ya da solucan gübresi gibi organik kaynaklar karıştırılabilir; ürün bilgisinde katı solucan gübresinin toprağın organik madde içeriğini artırdığı ve havalanmayı desteklediği belirtilir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+@sss
+S: Küçük bahçe için kaç beygir traktör yeter?
+C: Üniversite uzantıları yaklaşık 10 akreden (kabaca 40 dekar) küçük arazilerde 20-40 HP aralığını makul bulur; birkaç dönümlük bahçede alt sınır, yani 20-30 HP çoğu zaman yeterlidir. Asıl ölçü, kullanacağınız en ağır aletin gücüdür.
+
+S: Yürüyen traktör mü küçük traktör mü?
+C: Bir iki dönüme kadar ve çoğunlukla toprak işleme ve çapa için yürüyen traktör (yaklaşık 5-14 HP) yeterli olabilir; ATTRA yaklaşık iki akreye kadar bu işi karşıladığını yazar. Daha büyük arazide, biçme, taşıma ve çok yönlü iş için küçük traktör uygundur.
+
+S: Dar tip traktör ne zaman gerekir?
+C: Meyve ağacı ya da bağ sıraları arası dar olduğunda. Dar gövdeli ve dar tekerlek aralıklı traktör, ağaç gövdesine ve dallarına zarar vermeden sıra arasında çalışır. Satın almadan önce sıra aralığınızı ve traktör toplam genişliğini ölçün.
+
+S: Traktörde ROPS ve canlı PTO neden önemli?
+C: ROPS devrilmede sürücüyü korur ve küçük traktörlerde devrilme ciddi kazaların başında gelir. Canlı PTO, traktör dururken bile aletin çalışmasını sürdürür; rotavatör ve biçme işini kolaylaştırır. Her iki özelliği öncelikle arayın.
+
+### SORU
+yayin: 2027-02-17 10:30
+kategori: bahce-ipuclari
+baslik: 15 dönümlük meyve bahçesi için traktör alacağım, 60 beygir fazla olur mu?
+metin: Dar sıralı bir meyve bahçem var ve toprak işleme, ilaçlama ve biraz taşıma yapacağım. Bayi 60 HP öneriyor. Fazla olmaz mı?
+@cevap Muhammed Hamza Çelik | 2
+Üniversite uzantılarının küçük arazi için sık verdiği aralık 20-40 HP'dir ve gereğinden fazla beygir gücü kullanmayacağınız kapasite için para ödemek anlamına gelir. Dar sıralı bahçede ağır ve geniş bir traktör ağaçlara zarar verebilir. Önce kullanacağınız en ağır aleti (rotavatör, pulluk, ilaçlama pompası) ve çalışma genişliğini belirleyin; gerekli gücü ona göre hesaplayın. Sıra aralığınızı ve traktör toplam genişliğini ölçün; gerekirse dar tip modelleri sorun. Bayinin önerisini kendi alet listenizle karşılaştırın ve mümkünse aynı bahçe tipinde kullanan komşunuzdan fikir alın.
+
+### SORU
+yayin: 2027-02-17 13:45
+kategori: bahce-ipuclari
+baslik: Eski bir traktör aldım ama emniyet kemeri ve koruma çerçevesi yok, eklemek gerekir mi?
+metin: Küçük bir ikinci el traktör aldım. Üzerinde devrilme koruması ya da emniyet kemeri yok. Bahçede kullanıyorum, gerek var mı?
+@cevap Ahmet Sacit Çelik | 3
+Evet, gerek vardır. Küçük traktörlerde devrilme ciddi ve ölümcül kazaların başında gelir; devrilme koruma yapısı (ROPS) ve emniyet kemeri birlikte çalışır ve sürücüyü ezilmeye karşı korur. Üniversite uzantıları da koruma yapısı ve canlı PTO'su olan traktörlerin öncelikli olduğunu belirtir. Eski traktöre uygun bir koruma yapısı ve kemer eklenip eklenemeyeceğini üretici bayisinden ya da yetkili servisten öğrenin; eğimli ve çukurlu arazide çalışırken ek dikkat gösterin ve yetkisiz kişileri traktöre bindirmeyin.

@@ -1,0 +1,418 @@
+### YAZI
+slug: fidanlik-kurma-kucuk-olcekli-celik-tohum-ve-asi-yataklari
+baslik: Fidanlık Kurma: Küçük Ölçekli Çelik, Tohum ve Aşı Yatakları
+yayin: 2027-04-23 09:10
+yazar: Ahmet Sacit Çelik
+kategori: toprak-rehberi
+odak: fidanlık kurma
+seo_baslik: Fidanlık Kurma: Çelik, Tohum ve Aşı Yatakları
+seo_aciklama: Fidanlık kurma rehberi: su ve yer seçimi, tohum yatağı, çelik yatağı ve aşı alanı düzeni, gölgeleme, sulama ve satıştan önce fidan üretici belgesi konusu.
+ozet: Küçük bir fidanlık, su kaynağına yakın, korunaklı ve düz bir alanda tohum yatağı, çelik yatağı ve şaşırtma-aşı bölümleriyle kurulur. Her bölümün toprağı, gölgesi ve sulaması farklıdır. Satış amaçlı fidan üretimi için fidan üretici belgesi konusu il müdürlüğünden öğrenilmelidir.
+etiketler: fidanlık kurma, fidanlık, tohum yatağı, çelik yatağı, aşı, şaşırtma, fidan üretimi
+gorsel: bekliyor
+gorsel_alt: Hafif gölgelikle örtülmüş sıralı çelik yatakları ve tüplere dizilmiş genç fidanlar
+urunler: hg-fidan-topragi, galvaniz-saksi-ve-sasirtma-tezgahi-iskeleti-2-katli-128x66x88-cm, 45-goz-yuvarlak-fide-viyolu
+kisaca: Fidanlık kurma işi önce su ve yer seçimiyle başlar: Düz, korunaklı, taşkın olmayan ve temiz suya yakın bir yer seçin. Sonra tohum yatağı, çelik yatağı ve şaşırtma-aşı alanını ayrı bölümler olarak kurun; her yatağı gölgeleyin ve sulayın. Satış yapacaksanız fidan üretici belgesi için il müdürlüğüne başvurun.
+@govde
+Bahçesindeki iki üç meyve ağacından çelik alıp çoğaltan biri, bir süre sonra "bunu düzenli bir yerde yapsam" diye düşünür. Küçük bir fidanlık, bu düşüncenin planlı hâlidir: Tohum, çelik ve aşılı fidanların hepsinin kendi yatağı ve bakım düzeni vardır. Fidanlık kurma kararı verince en önemli sorular şunlardır: Yer neresi, su nereden gelecek, hangi yatak ne kadar yer kaplayacak ve ürettiğiniz fidanı satacak mısınız? Aşağıda küçük ölçekli bir fidanlık için adımları sırayla veriyoruz.
+
+## Fidanlık kurma: yer ve su seçimi
+
+FAO'nun fidanlık planlama rehberi, fidanlığın yeterli su kaynağının yakınında, ama taşkın riski olmayan bir yerde kurulmasını önerir ([FAO, fidanlık planlama](https://www.fao.org/4/ad228e/AD228E03.htm)). ABD Orman Servisi'nin fidanlık kitabı da su kalitesini yer seçiminde en kritik etken olarak sayar ([USDA Orman Servisi, fidanlık uygulamaları](https://www.fs.usda.gov/nsl/Wpsm/Chapter7.pdf)). Pratikte seçim ölçütleri şunlardır:
+
+| Ölçüt | İyi seçim | Kaçınılacak durum |
+|---|---|---|
+| Su | Temiz ve yıl boyu ulaşılabilir | Tuzlu, kireçli ya da kesilen su |
+| Arazi | Düz ya da hafif eğimli, süzek | Su toplayan çukur |
+| Rüzgâr | Korunaklı | Açık ve savuran rüzgâr alan tepe |
+| Işık | Güneşli, yaz için gölgelik kurulabilir | Sürekli gölge |
+| Ulaşım | Araç ve taşıma kolaylığı | Çamurlu yol |
+| Toprak | Gevşek, tınlı | Ağır kil ya da taşlı toprak |
+
+Sulama suyunun tuz ve kireç durumu fidan için önemlidir; kuyu suyunuzu test ettirmek için [sulama suyu kalitesi](/sulama-suyu-kalitesi) yazısına bakın.
+
+## Bölümleri planlayın
+
+Küçük bir fidanlık dört bölümden oluşur. Alanı kâğıtta çizin; bölümler arasında yürüme yolu bırakın.
+
+1. Tohum yatağı: Tohumun ekileceği ince, süzek ve hafif gölgeli alan.
+2. Çelik yatağı: Odun ya da yarı odunsu çeliklerin köklendirileceği yatak.
+3. Şaşırtma ve aşı alanı: Fidanların viyolden tüp ya da tarlaya alındığı, aşı yapıldığı alan.
+4. Ana bitki yatağı: Çelik alınacak sağlıklı ana bitkiler. USDA kitabı, çelik veren bu ana bitki sıralarını "stool bed" olarak anar.
+
+Yatağın genişliğini kolay uzanılacak ölçüde (yaklaşık 1 metre) tutun, yatak arası yolu 40-50 cm bırakın; ölçüleri kendi alanınıza göre ayarlayın.
+
+## Tohum yatağı
+
+Tohum yatağının toprağı ince, hafif ve süzek olmalıdır. Ağır toprağı perlit ya da kumla gevşetin. Tohumu ekim derinliği tablosuna göre ekin; ince tohumu yüzeye yakın tutun. Ekimden sonra hafif gölgelik koyun: FAO rehberi, ekimden sonra yatağın ya da kapların ot ya da file gibi malzemeyle hafifçe gölgelenmesini önerir. Sert kabuklu ya da soğuklama isteyen tohumlar için ayrı hazırlık gerekir; [tohum soğuklama](/tohum-soguklama-stratifikasyon) yazısı yöntemi anlatır.
+
+## Çelik yatağı
+
+Çelikle çoğaltma, fidanlıkta en yaygın yöntemdir. USDA kitabına göre açık köklü fidanlıklarda çelikler hazırlanmış yataklara sıra hâlinde dikilir, konteyner fidanlıklarda ise özel tepsilerde köklendirilir ya da doğrudan kaplara dikilir. Küçük fidanlıkta hem yatak hem kap yöntemi uygulanabilir. Çelik dikildikten sonra en az iki hafta güneşten ve rüzgârdan korunmalıdır; USDA kaynağı bu süreyi bir gölgelik altında geçirmeyi önerir. Hormon ve ortam konusunda [odun çeliği ile çoğaltma](/odun-celigi), [perlitte çelik köklendirme](/perlitte-celik-koklendirme) ve [gül çeliği köklendirme](/gul-celigi-koklendirme) yazıları ayrıntı verir.
+
+[ürün:hg-fidan-topragi]
+
+Fidan toprağı ihtiyacı için HG Fidan Toprağı, ürün açıklamasında tohumdan çıkan, tüplü ya da açık köklü fidanların ilk gelişim dönemi için hazırlanan, orman toprağı, solucan gübresi, leonardit, pomza ve perlit içeren bir karışım olarak tanıtılıyor.
+
+## Şaşırtma ve aşı alanı
+
+Fide ya da köklenmiş çelik, boyutu arttıkça daha büyük kaplara ya da tarlaya şaşırtılır. Bu alanda sulama, gölge ve çalışma yüksekliği önemlidir. Aşı yapmak için temiz bir tezgâh, keskin bıçak ve aşı bandı gerekir. Aşılı fidanın anaç ve kalem ilişkisini [aşılı fidan nedir](/asili-fidan-nedir) yazısında anlattık.
+
+Galvaniz Saksı ve Şaşırtma Tezgâhı İskeleti (2 katlı, 128×66×88 cm), ürün açıklamasına göre bel hizasında 88 cm çalışma yüksekliği sağlar, saksı doldurma ve şaşırtma için tasarlanmıştır ve altında depolama yeri bulunur; tablalar pakete dahil değildir. 45 Göz Yuvarlak Fide Viyolü ise kök sarmasını önleyen yapısıyla tohum çimlendirme ve fide yetiştirme için tanıtılıyor.
+
+## Gölgeleme, sulama ve hijyen
+
+Çelik ve genç fidanlar için hafif gölge yararlıdır. USDA kitabı, taze dikilen çeliklerin sıcak günlerde sıkça ama az sulanarak serinletilmesini ("su gölgeleme") anlatır; amaç ortamı ıslatmak değil, sıcağı dağıtmaktır. Her yatağın sulama düzeni ayrı olmalıdır: Tohum yatağı sık ve hafif, çelik yatağı nemli ama ıslak olmayan, tüplü fidan derin ve seyrek. Hijyen için aletleri her kullanımdan sonra temizleyin; hastalıklı materyali yataktan uzak tutun ve aynı toprağı yıllarca tekrarlamayın.
+
+## Başlangıç için sade bir plan
+
+İlk yıl büyük hedefler koymayın. Fidanlık kurma işini küçük başlatın: Bir tohum yatağı, bir çelik yatağı ve birkaç yüz tüplük bir şaşırtma alanı, iki kişinin yönetebileceği bir düzendir. Önce yalnızca bir iki türle çalışın (örneğin asma çeliği ve bir meyve türünün çöğürü) ve her türün çıkış oranını not edin. İkinci yıl, hangi türün sizin su, toprak ve iklim koşullarınızda iyi tuttuğunu görürsünüz; yatağı o türlere göre genişletirsiniz. Her fidan partisine etiket koyun; tür, çeşit, çelik ya da tohum tarihi ve kaynağı yazılsın. Etiket ve kayıt hem karışıklığı önler hem de ileride satış ve belge işlemlerinde gereken izlenebilirliği sağlar. Fidanlık kurma sürecinde bölgenizdeki başarılı fidancıları ziyaret etmek, kendi yatak ve takvim düzeninizi kurarken size zaman kazandırır.
+
+## Yıllık iş takvimi
+
+::: takvim
+Tohum soğuklama ve ekim | 11-3
+Odun çeliği alma ve dikme | 12-2
+Aşı | 2-4
+Şaşırtma ve tüpe alma | 3-5
+Gölgeleme ve sık sulama | 5-9
+Fidan sökümü ve satış | 10-12
+:::
+
+Takvim ılıman bölgeler için bir çerçevedir; soğuk yerlerde işler bir iki ay kayar, Akdeniz'de daha erken başlar.
+
+## Satış için belge konusu
+
+Kendi bahçenizde kullanacağınız fidan ile satışa sunduğunuz fidan aynı değildir. Satış amaçlı fidan üretimi, mevzuatta fidan üretici belgesi gibi şartlara bağlanmıştır. Tohumculuk sektöründe yetkilendirme ve denetleme yönetmeliği belge türlerini ve ilgili il müdürlüğünün rolünü tanımlar ([Mevzuat Bilgi Sistemi, Tohumculuk Sektöründe Yetkilendirme ve Denetleme Yönetmeliği](https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13052&MevzuatTertip=5)); il müdürlükleri başvuru sayfalarını yayımlar ([İstanbul İl Tarım ve Orman Müdürlüğü, fidan üretici belgesi](https://istanbul.tarimorman.gov.tr/Sayfalar/Detay.aspx?SayfaId=42)). Belge koşullarını, süresini ve gerekli evrakı kendi il müdürlüğünüzden öğrenin; güncel şartlar zamanla değişir.
+
+## Sık yapılan hatalar
+
+- Su kaynağını planlamadan yer seçmek.
+- Tohum, çelik ve şaşırtma işini aynı yatakta yapmak.
+- Taze çeliği gölgesiz bırakmak.
+- Hastalıklı ana bitkiden çelik almak.
+- Kap ve aletleri temizlemeden yeniden kullanmak.
+- Satışa başlamadan belge ve kayıt konusunu öğrenmemek.
+
+@sss
+S: Fidanlık kurma işine nereden başlanır?
+C: Su ve yer seçiminden. FAO rehberi fidanlığın yeterli su yakınında ve taşkın riski olmayan bir yerde olmasını önerir. Ardından tohum yatağı, çelik yatağı ve şaşırtma-aşı alanını ayrı planlayın.
+
+S: Çelikler dikildikten sonra ne kadar gölgede tutulmalı?
+C: USDA fidanlık kitabı, çelikleri dikimden sonra en az iki hafta güneş ve rüzgârdan korumayı, yani gölgelik altında tutmayı önerir. Sulamayı sık ama az yaparak sıcağı dağıtın.
+
+S: Küçük fidanlıkta satış yapmak için belge gerekir mi?
+C: Satış amaçlı fidan üretimi, fidan üretici belgesi gibi mevzuat şartlarına bağlıdır. Belgeyi il tarım müdürlüğü verir; koşullar için kendi müdürlüğünüze ve Mevzuat Bilgi Sistemi'ndeki yönetmeliğe bakın.
+
+S: Fidanlıkta yatak genişliği ne olmalı?
+C: Yatak ortasına rahat uzanabileceğiniz genişlikte, yaklaşık 1 metre olması pratiktir. Yataklar arasında 40-50 cm yürüme yolu bırakın; ölçüyü alanınıza göre ayarlayın.
+### YAZI
+slug: motorlu-tirpan-secimi-benzinli-mi-akulu-mu
+baslik: Motorlu Tırpan Seçimi: Benzinli mi, Akülü mü?
+yayin: 2027-04-23 11:35
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: motorlu tırpan seçimi
+seo_baslik: Motorlu Tırpan Seçimi: Benzinli mi, Akülü mü?
+seo_aciklama: Motorlu tırpan seçimi nasıl yapılır? Benzinli ve akülü tırpanın alan, süre, ağırlık, gürültü ve bakım farkı; misina ve bıçak başlığı ile güvenlik kuralları.
+ozet: Motorlu tırpan seçiminde karar, alanın büyüklüğüne, otun cinsine ve çalışma süresine bağlıdır. Akülü tırpan küçük ve orta bahçede sessiz ve bakımsızdır; benzinli tırpan geniş alan ve sert ot için süre ve güç sunar. Hangisini seçerseniz seçin gözlük ve kulak koruması şarttır.
+etiketler: motorlu tırpan, tırpan seçimi, benzinli tırpan, akülü tırpan, misina, ot biçme, bahçe aletleri
+gorsel: bekliyor
+gorsel_alt: Bahçe kenarında yabani otları kesen omuz askılı tırpan ve yanında yedek akü
+urunler: raco-plastik-kenar-citi-bahce-cim-ve-cicek-ayraci-20-cm-x-9-m, envaplas-esnek-yesil-cim-ayirici-ve-sinirlayici-25-metre, raco-bahce-el-kuregi
+kisaca: Motorlu tırpan seçimi için üç soruya cevap verin: Alan ne kadar büyük, hangi ot kesilecek ve kaç saat çalışılacak? Küçük ve orta bahçe için akülü sessiz ve bakımsız bir seçimdir; geniş alan, sık çalı ve uzun çalışma için benzinli tırpan güç ve süre sunar. Gözlük, kulaklık ve güvenli mesafe her ikisinde de gereklidir.
+@govde
+Bahçenin kenarındaki otlar, ağaç dipleri, çit altları ve çim makinesinin giremediği köşeler için bir tırpan lazım olur. Ama mağazada iki ayrı raf vardır: benzinli ve akülü. Motorlu tırpan seçimi çoğu kişide fiyat ve marka karşılaştırmasına dönüşür; oysa asıl belirleyici, aleti nerede ve ne kadar süre kullanacağınızdır. Aşağıda iki tipi karşılaştırıyor, kesici başlıkları, ergonomiyi, bakımı ve güvenlik kurallarını anlatıyoruz.
+
+## Motorlu tırpan seçimi: hangi sorular sorulur?
+
+Üç soru işi çözer. Birincisi alan: Kaç metrekarelik ve nasıl bir yer? İkincisi ot: İnce çim ve ot mu, kalın ve odunsu yabani otlar ve çalılar mı? Üçüncüsü süre: Tek seferde kaç saat çalışacaksınız? Kendi cevaplarınızı yazın; sonra tabloya bakın.
+
+| Ölçüt | Akülü tırpan | Benzinli tırpan |
+|---|---|---|
+| Çalışma süresi | Akü kapasitesiyle sınırlı, yedek akü gerekebilir | Yakıt olduğu sürece çalışır |
+| Güç | İnce ve orta ot için yeterli | Kalın ot ve çalıda daha güçlü |
+| Ağırlık | Genelde hafif | Genelde daha ağır |
+| Gürültü | Daha sessiz | Yüksek |
+| Bakım | Az: akü bakımı ve başlık | Yakıt karışımı, filtre, buji, karbüratör |
+| Başlatma | Düğmeyle | İp çekme, soğukta zor olabilir |
+| Egzoz | Yok | Var |
+| Soğuk havada | Akü performansı düşebilir | Soğukta çalıştırmak zorlaşabilir |
+
+Bu tablo genel özelliklerdir; model ve markaya göre farklılık gösterir. Satın almadan önce çalışma süresini ve ağırlığı ürün sayfasında kontrol edin.
+
+## Alan ve ota göre karar
+
+Bu bölüm bizim pratik çerçevemizdir; kesin sınır değildir. Küçük ev bahçesi, balkon ve çit kenarları için akülü tırpan yeterli ve rahattır: Sessiz çalışır, kolay başlar ve bakım gerektirmez. Orta büyüklükte bahçe ve kısa süreli işlerde de akülü seçenek işinizi görür; uzun çalışacaksanız yedek akü planlayın. Geniş bahçe, meyve bahçesi altı, tarla kenarı, yoğun çalı ve sert ot için benzinli tırpan daha uygundur: Güç ve çalışma süresi sorun çıkarmaz. Zaman zaman kullanılacak bir tırpan için akülü seçenek bakım yükünü azaltır; yazın her gün kullanılacak ise benzinli, uzun çalışma ve ağır ot için daha kullanışlı olabilir.
+
+## Kesici başlık: misina mı, bıçak mı?
+
+İnce ot ve çim kenarları için misina (naylon tel) başlık kullanılır. Daha kalın ve odunsu otlar ve çalılar için metal bıçak ya da çok dişli bıçak tercih edilir. Bıçakla çalışmak daha güçlü ama daha tehlikelidir: Geri tepme ve taş fırlatma riski yüksektir ve fide, ağaç gövdesi gibi hassas yerlere yaklaşırken dikkat gerekir. Ağaç dibinde misina ile çalışırken gövde yaralanması sık görülen bir hatadır; gövdeyi korumak için [ağaç gövdesi koruma](/agac-govdesi-koruma) yazısına bakın.
+
+## Ergonomi: ağırlık, askı ve tutma
+
+Tırpanı saatlerce taşıdığınız için ağırlık ve denge önemlidir. Omuz askısı ya da sırt askısı yükü dağıtır. Çift saplı ya da bisiklet tipi sap, geniş alanlarda sallanarak çalışmayı kolaylaştırır. Sap boyunu boyunuza göre ayarlayabilmeli; boyunuza uygun olmayan tırpan bileği ve beli yorar. Bir mağazada elinize alıp omuz askısını takarak deneyin.
+
+## Güvenlik: gözlük, kulaklık, mesafe
+
+Tırpan, taş ve çakıl fırlatan bir alettir. Connecticut Üniversitesi'nin güvenlik kısa notu, tırpan kullanırken gözlük takılmasını ve üstüne yüz siperi eklenmesini önerir ([UConn, tırpanın güvenli kullanımı](https://www.cti.uconn.edu/Document.asp?DocID=8862)). Virginia Tech'in yayım servisi, tırpan yaralanmalarının yaklaşık üçte birinin göz yaralanması olduğunu belirtir ([Virginia Tech Extension, elektrikli el aletleri güvenliği](https://www.pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu/BSE/BSE-50/BSE-322.pdf)). Buffalo State Üniversitesi'nin güvenlik kuralı, tırpan ve çalı kesici kullanırken kulak koruması takılmasını ister ve kulaklık ya da müzik kulaklığı takmayı yasaklar ([Buffalo State, çim biçme makinesi ve tırpan güvenliği](https://environmentalhealth.buffalostate.edu/sites/environmentalhealth/files/documents/mowerandtrimmersafetyrev2.pdf)). UConn kaynağı, yakındaki kişilerin en az yaklaşık 9 metre (30 fit) uzakta olmasını belirtir.
+
+::: adimlar
+Gözlük ve yüz siperi takın | Fırlayan taş ve parçalara karşı.
+Kulak koruması kullanın | Özellikle benzinli tırpanda gürültü yüksektir.
+Uzun pantolon ve kapalı ayakkabı giyin | Bacaklar ve ayaklar korunur.
+Alanı kontrol edin | Taş, tel ve cam parçalarını toplayın.
+Çocuk ve hayvanları uzak tutun | En az birkaç metre mesafe bırakın.
+Yakıtı soğuk motorla, açık havada doldurun | Benzinli tırpanda yangın riskine karşı.
+:::
+
+## Benzinli tırpanda yakıt
+
+Benzinli tırpanların çoğunda iki zamanlı motor bulunur ve yakıt ile yağ karışımı gerekir. Kaliforniya Üniversitesi'nin WeedCUT sayfası, iki zamanlı makinelerde doğru oktanlı yakıtın belirtilen yağ oranıyla karıştırılmasını ister ([UCANR WeedCUT, tırpanla kesme](https://weedcut.ipm.ucanr.edu/management-practices/cutting-string-trimmers-brush-cutters/)). Oran, motorun el kitabında yazılıdır; kendi tahmininizle karıştırmayın. Ohio State Üniversitesi yayını da yakıtı motor soğukken ve dışarıda doldurmayı, ateşten uzak durmayı önerir ([Ohio State, el tırpanları ve çalı kesiciler](https://ohioline.osu.edu/factsheet/aex-79037)). Yakıt karışımını uzun süre depoda bekletmeyin.
+
+## Akülü tırpanda akü yönetimi
+
+Akülü tırpanda çalışma süresi aküye bağlıdır. Aküyü kullanmadan önce tam şarj edin, yedek akü kullanıyorsanız dönüşümlü şarj edin. Aküyü aşırı sıcakta ve soğukta saklamayın; kışın ısıtılmayan bir depoda bırakmak ömrünü kısaltabilir. Akü bakımı ve kışlatma konusunda [akülü pompa bakımı ve kışlatma](/akulu-pompa-bakimi-ve-kislatma) yazısındaki ilkeler, aletlerin akülerine de uyar.
+
+## Satın almadan önce kontrol listesi
+
+Motorlu tırpan seçimi için mağazada ya da ürün sayfasında şunlara bakın: ağırlık ve denge, omuz askısı varlığı, sap ayarı, kesici başlık seçeneklerinin (misina ve bıçak) birlikte gelip gelmediği, akülü modelde akü kapasitesi ve şarj süresi, benzinli modelde yakıt deposu ve motor hacmi, yedek parça ve servis kolaylığı. Aynı marka akülerin başka aletlerinizle uyumlu olması, ek yatırımı azaltır. Mümkünse bir iki dakika elinizde tutup denemek, yorgunluğu önceden gösterir. Motorlu tırpan seçimi sırasında garanti ve kullanım kılavuzunun Türkçe olup olmadığına da bakın; güvenlik talimatları kılavuzda yer alır.
+
+## Sık yapılan hatalar
+
+- Alan ve süreyi düşünmeden marka seçmek.
+- Küçük bahçe için gereğinden ağır benzinli aleti almak.
+- Geniş alan için tek akü ile çalışmaya kalkmak.
+- Bıçak ile fide ya da ağaç gövdesine yaklaşmak.
+- Gözlük ve kulak koruması kullanmamak.
+- Yakıt karışımını gözle ayarlamak.
+
+Kenar çimlerini sürekli tırpanlamak istemeyenler için kenar çiti de bir seçenektir.
+
+[ürün:raco-plastik-kenar-citi-bahce-cim-ve-cicek-ayraci-20-cm-x-9-m]
+
+Raco Plastik Kenar Çiti (20 cm × 9 m), ürün açıklamasına göre bahçedeki çim, bitki ve çiçek bölümlerini ayırmak ve belirginleştirmek için tasarlanmış kalın plastik bir çit. Çim ile yatak arasında net bir sınır, kenar kesimini kolaylaştırabilir. Çim makinesi için [çim biçme makinesi bakımı ve bıçak bileme](/cim-bicme-makinesi-bakimi) yazısına, çimi kaç santimde biçeceğiniz için [çim biçme yüksekliği](/cim-bicme-yuksekligi) yazısına bakın.
+
+@sss
+S: Motorlu tırpan seçimi için ilk kriter nedir?
+C: Alanın büyüklüğü ve otun cinsi. Küçük ve orta bahçede ince ot için akülü tırpan sessiz ve bakımsızdır; geniş alan, çalı ve uzun çalışma için benzinli tırpan daha güçlü ve sürelidir.
+
+S: Tırpan kullanırken hangi koruyucu ekipman gerekir?
+C: Gözlük ve üstüne yüz siperi, kulak koruması, uzun pantolon ve kapalı ayakkabı. UConn gözlük ve yüz siperini, Buffalo State kulak korumasını önerir. Yakındaki kişileri en az yaklaşık 9 metre uzakta tutun.
+
+S: Benzinli tırpanda yakıt nasıl karıştırılır?
+C: İki zamanlı motorlarda yakıt ile yağ, el kitabında belirtilen oranda karıştırılır. Kaliforniya Üniversitesi WeedCUT sayfası doğru oktanlı yakıt ve belirtilen yağ oranını ister. Oranı gözle ayarlamayın.
+
+S: Misina mı bıçak mı kullanmalıyım?
+C: İnce ot ve çim kenarları için misina yeterlidir ve daha güvenlidir. Kalın, odunsu ot ve çalı için bıçak kullanılır ama geri tepme ve taş fırlatma riski artar; ağaç gövdesi ve fideye yaklaşırken dikkat edin.
+### YAZI
+slug: sebze-kok-derinligi-tablosu-saksi-ve-yatak-derinligi-secimi
+baslik: Sebze Kök Derinliği Tablosu: Saksı ve Yatak Derinliği Seçimi
+yayin: 2027-04-23 14:05
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: kök derinliği tablosu
+seo_baslik: Sebze Kök Derinliği Tablosu: Saksı ve Yatak
+seo_aciklama: Sebze kök derinliği tablosu: sığ, orta ve derin köklü sebzeler, santimetre karşılıkları ve saksı ile yükseltilmiş yatak derinliğinin nasıl seçileceği.
+ozet: Sebzeler kök derinliğine göre üç gruba ayrılır: sığ (yaklaşık 30 cm'ye kadar), orta (30-90 cm) ve derin (90 cm ve fazlası). Saksı ya da yatak derinliği kök grubuna uymazsa bitki küçük kalır ya da susuzluktan zarar görür. Tablo hangi sebzeye ne kadar derinlik gerektiğini gösterir.
+etiketler: kök derinliği, sebze kökü, saksı derinliği, yükseltilmiş yatak, sığ köklü, derin köklü, balkon sebze
+gorsel: bekliyor
+gorsel_alt: Toprak kesiti gösterilen bir kap içinde marul, havuç ve domatesin farklı derinliklere inen kökleri
+urunler: moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60, moduler-yukseltilmis-bahce-yatagi-153-litre, hg-bol-verimli-sebze-topragi
+kisaca: Kök derinliği tablosuna göre marul, ıspanak, turp, soğan ve lahana sığ; fasulye, havuç, salatalık ve biber orta; domates, kabak ve karpuz derin köklüdür. 30 cm'lik bir yatak ya da saksıda sığ köklüler rahat eder; derin köklü sebzeler için daha derin kap ya da doğrudan toprağa dikim gerekir.
+@govde
+Balkona ya da yükseltilmiş yatağa sebze dikerken çoğu kişi "yer var mı" diye bakar, "derinlik var mı" diye bakmaz. Oysa marul 15 cm toprakta yeşerirken domates aynı toprakta sulamaya yetişemez, kabak yaprakları sarkar. Kök derinliği tablosu, hangi sebzenin hangi derinliği istediğini gösterir ve kap seçimini bilgiye bağlar. Aşağıda üç gruptaki sebzeleri, santimetre karşılıklarını ve bunu saksı ile yatağa nasıl uygulayacağınızı anlatıyoruz.
+
+## Kök derinliği tablosu: üç grup
+
+Washington State Üniversitesi'nin yayım servisi sebzeleri kök derinliğine göre üçe ayırır: sığ (yaklaşık 30 cm ya da daha az), orta (30-90 cm) ve derin (90-180 cm ve üzeri) ([WSU Extension, sebze bahçeciliği](https://extension.wsu.edu/pnw-gardeners-handbook/chapter-7-vegetable-gardening/)). Nebraska Üniversitesi aynı mantığı biraz farklı sınırlarla verir: sığ 30-45 cm, orta 45-60 cm, derin 60 cm ve üzeri ([Nebraska Extension, meyve ve sebze üretimi](https://extensionpubs.unl.edu/publication/g2189/na/html/view)).
+
+| Grup | Yaklaşık kök bölgesi (WSU) | Sebzeler |
+|---|---|---|
+| Sığ | 30 cm'ye kadar | Brokoli, lahana, marul, soğan, patates, turp, ıspanak |
+| Orta | 30-90 cm | Fasulye, pancar, havuç, salatalık, biber, şalgam |
+| Derin | 90-180 cm | Enginar, kuşkonmaz, geniş taneli fasulye, kabak, domates, karpuz |
+
+Kaynaklar sınır sebzelerinde farklı sonuç verir: Örneğin biber ve patlıcan WSU'da orta, bazı kaynaklarda orta-derin sayılır. Kendi yatağınız sığsa, sığ köklü sebzeleri öne çıkarın; derin köklülere bol ve düzenli su verin.
+
+## Neden derinlik önemli?
+
+Kökün işi su ve besini bulmaktır. Derinlik, bitkinin su rezervine ulaşabilmesini belirler. Sığ köklü sebzeler toprağın üst katmanındaki nemi kullanır; bu yüzden sık ve hafif sulama ister. California Üniversitesi master bahçıvan sayfası, ideal koşullarda sığ köklü sebzelerin kökünün toprağın üst 15-30 cm'sinde kaldığını ve aynı ilkelerin yükseltilmiş yataklar ile 30-60 cm toprağın bulunduğu kentsel alanlar için de geçerli olduğunu belirtir ([UC Master Gardeners, sulama](https://ucanr.edu/program/uc-master-gardener-program/irrigation)). Derin köklü sebzeler ise aşağıdaki nemden yararlandıkları için seyrek ve derin sulama ile iyi gelişir; yetersiz derinlikte susuzluğa ve besin eksikliğine daha çabuk girerler.
+
+Sulama sıklığı ve miktar için [toprak nemi ölçme](/toprak-nemi-olcme) ve [bahçe sulama saatleri](/bahce-sulama-saatleri) yazıları yardımcıdır.
+
+## Saksı ve konteyner için minimum derinlik
+
+New Mexico State Üniversitesi'nin konteyner bahçeciliği çizelgesi, sebzelere göre minimum kap derinliklerini verir: turp için yaklaşık 10 cm, Asya yeşillikleri için 10-15 cm, fesleğen ve maydanoz için yaklaşık 20 cm ([NMSU, konteynerde sebze ve çeşitler çizelgesi](https://ican.nmsu.edu/documents/nmsu-ican-container-gardening---vegetables-and-varieties-chart-7-2020.pdf)). Genel olarak 30-60 cm derinlikte bir kap birçok sebze için yeterlidir.
+
+| Bitki | Önerilen minimum kap derinliği |
+|---|---|
+| Turp | Yaklaşık 10 cm |
+| Asya yeşillikleri, roka, marul | 10-15 cm |
+| Fesleğen, maydanoz | Yaklaşık 20 cm |
+| Havuç, fasulye, biber | 30 cm ve üzeri tercih edilir |
+| Domates, kabak | Mümkünse en az 40-50 cm ve geniş hacimli kap |
+
+Son iki satırı kendi pratiğimiz olarak yazıyoruz; kaynaklardaki grup bilgisinden çıkan, ama ayrı bir rakam gerektirmeyen bir çerçevedir. Domates ve kabak gibi derin kök yapanlar için kap hacmi de önem taşır; küçük kapta sulama sorunu hızla yaşanır.
+
+## Yükseltilmiş yatakta uygulama
+
+Yükseltilmiş yatağın tabanı toprağa açıksa kökler derine inebilir; tabanı kapalıysa derinlik yatağın yüksekliğiyle sınırlıdır. Yaygın yataklar 30 cm civarı toprak derinliği sağlar. Bu derinlik sığ köklüler için rahat, orta köklüler için yeterli ama dikkat gerektiren, derin köklüler için sıkıntılı bir derinliktir.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60, moduler-yukseltilmis-bahce-yatagi-153-litre]
+
+Modüler Balkon ve Teras Sabit Sebze Yatağı No:4 (110×60 cm), ürün açıklamasına göre 30 cm toprak derinliği ve yaklaşık 198 litre toprak hacmi sunuyor; tabanında drenaj kanalları ve alt tepsi var. Modüler Yükseltilmiş Bahçe Sebze Yatağı No:2 (85×60×30 cm) ise 153 litre hacimli ve ek parçalarla genişletilebiliyor. Bu ölçüler, tablodaki sığ köklü sebzeler için uygun; derin köklü bitkiler için daha geniş toprak hacmi ya da yatağın toprağa açık kullanımı düşünülmelidir.
+
+## Karışık ekim planı
+
+Aynı yatakta farklı kök derinliklerini birleştirmek, toprağı verimli kullanır. Sığ köklü marul ya da turpu, derin köklü domatesin gölgesine, ayrı derinliklerden besin ve su almasına dikmek mümkündür. Ama komşu bitkilerin su ihtiyacı farklıdır; sığ köklü bitkiyi seyrek ve derin sulamaya zorlamayın. Bitki ailelerini ve rotasyon mantığını [ekim nöbeti](/ekim-nobeti) yazısında bulabilirsiniz. Aralık düzeni için [sebze ekim aralıkları](/sebze-ekim-araliklari) yazısı, her sebzenin sıra arası ve üzeri ölçülerini verir.
+
+## Kendi bahçenizde kök derinliğini kontrol edin
+
+Tablo bir rehberdir; gerçek derinlik toprağınıza ve sulama alışkanlığınıza göre değişir. Sulama sonrası bir sebzenin yanında küçük bir çukur açarak nemin ne kadar derine indiğini kontrol edin; nem yalnızca birkaç santime iniyorsa kökler de yüzeyde kalır. Killi ya da sıkışmış toprakta kökler tablodaki derinliğe ulaşamaz, kumlu toprakta ise su çabuk geçtiği için kökler derine su arar. Bir sezon sonunda söktüğünüz bitkinin köklerine bakmak da fikir verir: Domatesin kökünün kaç santime indiğini, marulun kök topağının ne kadar küçük kaldığını gözünüzle görürsünüz. Kök derinliği tablosunu bu gözlemlerle zenginleştirirseniz, bir sonraki yıl yatak planını kendi verinize göre yaparsınız. Ağır ve ıslak topraklarda kökler sığda kalma eğilimindedir, kumlu ve kuru topraklarda derine uzanır; bu yüzden Karadeniz ile Ege gibi farklı bölgelerde aynı sebzeye farklı sulama düzeni gerekebilir.
+
+## Toprak karışımı da derinliği etkiler
+
+Derinlik kadar toprak yapısı da kökü yönlendirir. Sıkışmış toprakta kök, derinliğe inmeye çalışsa bile ilerleyemez. Saksıda ve yatakta hafif, havadar ve organik maddeli bir karışım kullanın. Karışım hazırlığı için [bahçe yatağı toprağı](/bahce-yatagi-topragi) ve [saksıya kaç litre toprak gider](/saksiya-kac-litre-toprak-gider) yazılarına bakabilirsiniz. Kapalı tabanlı kapta drenaj çok önemlidir; derin kök bölgesinde su birikirse kökler çürür.
+
+## Sık yapılan hatalar
+
+- Domates ya da kabağı 20 cm'lik saksıya dikmek.
+- Sığ köklü marulu derin sulayıp toprağı sürekli ıslak bırakmak.
+- Yatak derinliğini ölçmeden sebze seçmek.
+- Sığ ve derin köklüleri aynı sulama düzenine bağlamak.
+- Tabanı kapalı yatakta derin köklüleri bol gübreyle zorlamak.
+
+@sss
+S: Kök derinliği tablosuna göre hangi sebzeler sığ köklüdür?
+C: WSU'ya göre brokoli, lahana, marul, soğan, patates, turp ve ıspanak sığ köklüdür; kökleri yaklaşık 30 cm derinliğe kadar iner. Bu sebzeler 30 cm'lik saksı ya da yatakta rahat yetişir.
+
+S: Domates için saksı ne kadar derin olmalı?
+C: Domates derin köklü sebzeler grubundadır (WSU, 90 cm ve üzeri). Saksıda mümkün olduğunca derin ve geniş bir kap seçin; küçük kapta sulama ve beslenme sorunu çabuk görülür.
+
+S: 30 cm derinlikteki yükseltilmiş yatakta hangi sebzeler yetişir?
+C: Marul, ıspanak, turp, soğan, roka, fesleğen ve maydanoz rahat yetişir. Havuç, fasulye ve biber de uygun olabilir. Domates, kabak ve karpuz gibi derin köklülerde verim sınırlı kalabilir.
+
+S: Sığ köklü sebzeler nasıl sulanmalı?
+C: Kökleri toprağın üst 15-30 cm'sinde kaldığı için sık ve hafif sulama gerekir. Üst toprak kuruduğunda sulayın; derin sulama suyun kök bölgesinin altına gitmesine neden olur.
+### YAZI
+slug: 23-nisan-cocuk-tohum-etkinligi-cocuklarla-tohum-ekimi-fikirleri
+baslik: 23 Nisan Çocuk Tohum Etkinliği: Çocuklarla Tohum Ekimi Fikirleri
+yayin: 2027-04-23 19:30
+yazar: Mehmet Fatih Çelik
+kategori: gundem
+odak: 23 nisan çocuk tohum
+seo_baslik: 23 Nisan Çocuk Tohum Etkinliği: Ekim Fikirleri
+seo_aciklama: 23 Nisan çocuk tohum etkinliği fikirleri: poşette fasulye, yumurta kabuğunda tere, ayçiçeği ve çimlenme yarışı; yaşa göre etkinlikler ve güvenlik notları.
+ozet: 23 Nisan'da çocuklarla tohum ekmek, hem bayram eğlencesi hem de ilk bilim deneyidir. Poşette fasulye, yumurta kabuğunda tere, ayçiçeği ve çimlenme yarışı gibi etkinlikler birkaç gün ya da hafta içinde sonuç verir. Tohumlar küçüktür; yaşa göre güvenlik kurallarına dikkat edin.
+etiketler: 23 Nisan, çocuklarla bahçe, tohum ekimi, çimlenme deneyi, çocuk etkinliği, fasulye, tere
+gorsel: bekliyor
+gorsel_alt: Çocuk elleriyle yumurta kabuğuna tohum ekiyor, yanında çizim defteri ve kırmızı beyaz saksılar
+urunler: altinvadi-tere-tohumu-10-gr, altinvadi-gelincik-cicegi-tohumu, hg-fide-topragi
+kisaca: 23 Nisan çocuk tohum etkinliği için en kolay üç fikir poşette fasulye çimlendirme, yumurta kabuğunda tere ve saksıda ayçiçeği ya da gelincik ekimidir. Fasulye bir haftada filizlenir, tere birkaç günde çıkar. Küçük tohumlar çocuklar için yutma riski taşır; kaplı ya da ilaçlı tohumları çocukla kullanmayın.
+@govde
+Bayram sabahı çocuk evde oyun arıyor, balkonda bir paket tohum duruyor. 23 Nisan çocuk tohum etkinliği, bu iki şeyi buluşturur: Çocuk bayramı kutlanırken bir saksıya ya da bir yumurta kabuğuna tohum ekmek, ertesi gün büyümeyi izlemeye başlamak demektir. Kısa sürede sonuç veren tohumları seçerseniz çocuğun ilgisi dağılmaz. Aşağıda yaş gruplarına göre etkinlikleri, malzemeleri, güvenlik kurallarını ve küçük bir tohum günlüğü fikrini anlatıyoruz.
+
+## 23 Nisan çocuk tohum etkinliği için hangi tohum?
+
+Üniversite yayım servisleri çocuklarla çalışırken iri ve hızlı çimlenen tohumları önerir. Royal Horticultural Society, küçük çocuklar için bezelye, fasulye, ayçiçeği ya da latin çiçeği önerir ([RHS, ailelerle bahçecilik etkinlikleri](https://rhs.org.uk/education-learning/gardening-children-schools/family-activities/grow-it)). Missouri Üniversitesi'nin makalesi, fasulye ve ayçiçeği gibi büyük tohumların çocukların kolay tutup doğrudan bahçeye ekebileceği tohumlar olduğunu belirtir ([Missouri Üniversitesi IPM, çocukları bahçecilikle büyütmek](https://ipm.missouri.edu/meg/2012/4/Helping-Kids-Grow-Through-Gardening/)).
+
+| Etkinlik | Tohum | Sonuç süresi | Yaş |
+|---|---|---|---|
+| Poşette fasulye | Kuru fasulye | Yaklaşık bir hafta | 4+ |
+| Yumurta kabuğunda tere | Tere tohumu | Birkaç gün, 1-2 haftada hasat | 3+ (gözetimle) |
+| Saksıda ayçiçeği | Ayçiçeği çekirdeği | Haftalar, aylar | 5+ |
+| Çimlenme yarışı | Farklı tohumlar | 1-2 hafta | 7+ |
+| Kırmızı-beyaz saksı | Gelincik, papatya | Haftalar | 6+ |
+
+## Etkinlik 1: Poşette fasulye
+
+Penn State Üniversitesi'nin "Mighty Seed" etkinliği ve Güney Dakota yayım servisinin tohum etkinliği basit bir düzen anlatır: Nemli kâğıt havluyu poşete yerleştirin, birkaç fasulye koyun, poşeti kapatıp güneşli bir pencereye yapıştırın ([Penn State Extension, güçlü tohum etkinliği](https://extension.psu.edu/growing-gardeners-mighty-seed-activity); [SDSU Extension, tohum ekin](https://extension.sdstate.edu/plant-seed)). Tohumu bir gece önce suda bekletmek isteğe bağlıdır ve işi hızlandırabilir. Çocuk önce kökün çıktığını, sonra sürgünün yükseldiğini gözlemler. Çimlenmenin bu sırasını daha önce [tohum yapısı](/tohum-yapisi-kabuk-besin-deposu-ve-embriyo) yazısında anlatmıştık; çocuğa "içinde küçük bir bitki saklı" demek yeterlidir.
+
+## Etkinlik 2: Yumurta kabuğunda tere
+
+RHS'nin "tere kafası" etkinliği, süslenmiş bir yumurta kabuğunu nemli pamukla doldurup tere tohumu serpmeyi ve pencere kenarına koymayı anlatır ([RHS, tere kafası yap](https://www.rhs.org.uk/education-learning/school-gardening/resources/getting-started/make-a-cress-head)). Tere birkaç günde çıkar ve yedi on dört günde hasat edilir. Çocuk kabuğa yüz çizer ve "saç"ın büyümesini izler. Sebze olarak tere, ürün açıklamasına göre 0,5-1 cm derinliğe ekilen ve yaklaşık 3-5 günde çimlenen bir bitkidir.
+
+[ürün:altinvadi-tere-tohumu-10-gr]
+
+Altınvadi Tere Tohumu (10 gr), ürün açıklamasına göre ılıman iklim sebzesi olarak tanıtılıyor, tahmini çimlenme süresi 3-5 gün, ekimden 25-30 gün sonra hasat yapılabiliyor. Bu etkinlikte yeşil kısmı çocukla birlikte kesmek istiyorsanız tohumun etiketini ve ekim koşullarını kontrol edin.
+
+## Etkinlik 3: Çimlenme yarışı
+
+Daha büyük çocuklar için RHS'nin çimlenme yarışı etkinliği matematik ve bilim ekler: Çocuklar tohum eker, kaç tanesinin çimlendiğini sayar, her saksı için yüzde hesaplar ve neden bazılarının çimlenmediğini tartışır. RHS, kötü çimlenmenin sık nedeninin fazla sulama olduğunu not eder; bu, çocuklara öğretici bir ders olur. Farklı tohumları (fasulye, turp, tere, ayçiçeği) yan yana ekip hangisinin ilk çıktığını kaydedin. Çimlenme oranını ölçme mantığını [tohum çimlenme testi](/tohum-cimlenme-testi) yazısında bulabilirsiniz.
+
+## Etkinlik 4: Kırmızı-beyaz saksı
+
+23 Nisan'ın renkleri kırmızı ve beyazdır. Gelincik kırmızı, papatya beyaz çiçek açar; saksıda ya da bahçede yan yana ekmek, çocuğa bayram rengini bitkiyle gösterir. Gelincik tohumunun ekim zamanı ve bakımı için [gelincik tohumu ekimi](/gelincik-tohumu-ekimi) yazısı, papatya için [papatya yetiştirme](/papatya-yetistirme) yazısı yol gösterir. Altınvadi Gelincik Çiçeği Tohumu ürün açıklamasında koyu kırmızı çiçekli ve arı dostu bir tür olarak tanıtılıyor.
+
+## Yaşa göre planlayın
+
+::: adimlar
+Tohumları seçin | 3-5 yaş için iri ve hızlı çimlenenler; büyük çocuklara karışık seçenek.
+Malzemeyi hazırlayın | Poşet, kâğıt havlu, yumurta kabuğu, saksı, toprak, etiket.
+Birlikte ekin | Çocuk tohumu kendisi serpsin, siz derinliği ve miktarı ayarlayın.
+Etiketleyin | Tohum adı ve ekim tarihini çocukla yazın.
+Her gün izleyin | Küçük bir çizim defterine gördüklerini çizdirin.
+Sonucu kutlayın | İlk filiz ya da ilk yaprak geldiğinde fotoğraf çekin.
+:::
+
+## Bayram gününe nasıl yerleştirilir?
+
+Bayram programı kalabalık olduğu için etkinliği kısa tutun: Ekim yirmi otuz dakikada biter. Sabah ekimi yapıp akşam ilk gözleme dönmek, çocuğun merakını canlı tutar. Aile büyüklerini ve kardeşleri de çağırın; farklı yaşlardaki çocuklar birbirine yardım eder. 23 Nisan çocuk tohum etkinliği, kutlamanın sonunda eve götürülecek küçük bir hatıra da olabilir: Her çocuğa adı yazılı bir yumurta kabuğu ya da bardak verin. Okul ve kreşlerde sınıf penceresine bir "büyüme rafı" kurup haftalık fotoğrafla ilerlemeyi gösterebilirsiniz. Böylece bayram bir günlük bir kutlama olmaktan çıkar, bir sezonluk gözlem projesine dönüşür; çocuk ekimden sonra da bitkisine bakmaya devam eder.
+
+## Güvenlik ve hijyen
+
+Küçük tohumlar 3 yaş altındaki çocuklar için yutma riski taşır; küçük çocuklarla mutlaka gözetim altında çalışın. Paketlenmiş bazı tohumlar kaplı ve ilaçlıdır; bu tohumları çocukla kullanmayın ve yutmaya karşı elleri ağza götürmemelerini sağlayın. Kaplı tohumlar için [kaplı tohum nedir](/kapli-tohum-nedir) yazısına bakın. Etkinlik sonunda eller sabunla yıkanmalı; toprak ve su ile temastan sonra hijyen kuralını alışkanlık yapın. Bahçede çalışırken keskin aletleri çocuktan uzak tutun, el küreği ve plastik tırmık gibi güvenli aletler seçin.
+
+## Evde ve balkonda alternatifler
+
+Bahçe yoksa etkinliği balkonda ya da pencere önünde yapın. Plastik bardak, süt kutusu ve yumurta kolisi ucuz ekim kaplarıdır. Yağmurlu bir bayramda poşet etkinliği iç mekânda sürer. Okul ya da site bahçesinde yapılacak toplu etkinlikte her çocuğa bir kap verip adını yazın; yarışma değil, birlikte büyütme havası yaratın. Genel çocuk-bahçe fikirleri için [çocuklarla bahçe](/cocuklarla-bahce) yazısına, kavanozda filiz için [evde filiz çimlendirme](/evde-filiz-cimlendirme) yazısına bakabilirsiniz.
+
+## Tohum günlüğü
+
+Çimlenen her bitkiyi bir defterde izleyin. Her gün tarih, boy ve çizim yazılsın. Bu günlük çocuğun gözlem ve sayı becerisini geliştirir; sonunda "ilk yaprak kaç günde çıktı" sorusunu cevaplar. Fotoğrafı büyüklerle birlikte bir kolaja dönüştürüp bayram hatırası yapabilirsiniz.
+
+## Sık yapılan hatalar
+
+- Çok küçük tohumla küçük çocuğu başlatmak.
+- Fazla sulayıp tohumu çürütmek.
+- Çimlenmeyi beklemeden hayal kırıklığına düşmek: Fasulye bir hafta, ayçiçeği daha uzun sürer.
+- İlaçlı ve kaplı tohumları çocukla kullanmak.
+- Etkinliği tek günlük sanmak: Büyümeyi izlemek asıl eğlencedir.
+
+@sss
+S: 23 Nisan çocuk tohum etkinliği için hangi tohum seçilmeli?
+C: İri ve hızlı çimlenen tohumlar uygundur: fasulye, bezelye, ayçiçeği, tere. RHS küçük çocuklar için bezelye, fasulye, ayçiçeği ve latin çiçeğini önerir. Fasulye yaklaşık bir haftada filizlenir.
+
+S: Poşette fasulye çimlendirme nasıl yapılır?
+C: Nemli kâğıt havluyu poşete koyup birkaç fasulye yerleştirin, poşeti kapatıp güneşli bir pencereye yapıştırın. Penn State ve Güney Dakota yayım servisleri bu düzeni anlatır. Kök önce, sürgün sonra çıkar.
+
+S: Çocuklarla tohum ekerken nelere dikkat edilmeli?
+C: Küçük tohumlar yutma riski taşır; gözetim altında çalışın. Kaplı ve ilaçlı tohumları kullanmayın, etkinlik sonunda elleri yıkayın ve keskin aletleri çocuktan uzak tutun.
+
+S: Çimlenmeyen tohum için ne yapmalı?
+C: RHS fazla sulamanın sık bir neden olduğunu belirtir. Toprağı nemli ama ıslak olmayacak biçimde tutun, tohumu derine gömmeyin. Çocuğa neden çimlenmediğini birlikte araştırtmak da etkinliğin parçasıdır.
+
+### SORU
+yayin: 2027-04-23 10:30
+kategori: toprak-rehberi
+baslik: Çelikle ürettiğim fidanları nerede köklendirmeliyim, gölge gerekir mi?
+metin: Bahçemden aldığım çelikleri köklendireceğim. Doğrudan toprağa mı dikeyim, gölge gerekir mi?
+@cevap Ahmet Sacit Çelik | 2
+Çelikleri iyi süzen, hafif bir ortamda (perlitli karışım ya da hazırlanmış yatak) köklendirin. USDA fidanlık kitabı, çelikleri dikimden sonra en az iki hafta güneş ve rüzgârdan korumayı, yani gölgelik altında tutmayı önerir. Ortamı nemli ama ıslak olmayacak biçimde tutun, hafif ve sık sulayın. Çeliğin türüne göre yöntem değişir; hangi dönemde alındığına da bakın.
+
+### SORU
+yayin: 2027-04-23 15:20
+kategori: bahce-ipuclari
+baslik: 400 metrekare bahçe için akülü tırpan yeter mi?
+metin: Yaklaşık 400 metrekarelik bahçem var, çit kenarlarını ve ağaç diplerini keseceğim. Akülü tırpan yeter mi, benzinli mi alayım?
+@cevap Hatice Kübra Çelik | 2
+Çit kenarı ve ağaç dibi gibi işler için çoğu zaman akülü yeterli olur: Sessiz çalışır, kolay başlar ve bakım gerektirmez. Çalışma süresi aküye bağlıdır; uzun çalışacaksanız yedek akü planlayın. Sık çalı ve kalın otlar varsa benzinli daha güçlüdür. Hangisini alırsanız alın gözlük ve kulak koruması kullanın, yakındaki kişileri uzak tutun.
+
+### SORU
+yayin: 2027-04-23 20:45
+kategori: bahce-ipuclari
+baslik: 30 cm derinlikteki yatağa domates dikilir mi?
+metin: Balkondaki sebze yatağım 30 cm derinliğinde. Domates dikmek istiyorum, olur mu?
+@cevap Muhammed Hamza Çelik | 2
+Dikilebilir ama verim sınırlı kalabilir. Washington State'e göre domates derin köklü sebzeler arasında; kökleri 90 cm ve daha derine inebilir. 30 cm'de kökler yatağın sınırına dayanır, su ve besin çabuk biter. Mümkünse daha büyük hacimli bir kap seçin, düzenli sulayın ve bodur çeşitleri tercih edin. Marul, ıspanak, turp gibi sığ köklüler ise 30 cm'de rahat eder.

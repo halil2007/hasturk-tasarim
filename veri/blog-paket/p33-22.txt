@@ -1,0 +1,529 @@
+### YAZI
+slug: mikroklima-nedir-ayni-bahcede-farkli-iklim-koseleri
+baslik: Mikroklima Nedir? Aynı Bahçede Farklı İklim Köşeleri
+yayin: 2027-04-22 09:10
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: mikroklima
+seo_baslik: Mikroklima Nedir? Bahçede Farklı İklim Köşeleri
+seo_aciklama: Mikroklima nedir? Bahçede soğuk hava gölü, güneye bakan duvar, rüzgâr ve gölge köşelerinin bitkiye etkisi; kendi bahçenizin iklim haritasını çıkarma adımları.
+ozet: Mikroklima, aynı bahçenin içinde bile farklı sıcaklık, rüzgâr, nem ve ışık koşullarına sahip küçük alanlardır. Güneye bakan duvar sıcak, çukur köşe soğuk, çit arkası rüzgârsızdır. Bu köşeleri tanıyan bahçıvan hassas bitkiyi doğru yere dikip don zararından korunur.
+etiketler: mikroklima, bahçe iklimi, soğuk hava gölü, don cebi, güneye bakan duvar, rüzgâr
+gorsel: bekliyor
+gorsel_alt: Güneşli taş duvar dibinde açmış bitkiler ve gölgede kalan serin bahçe köşesi
+urunler: moduler-yukseltilmis-bahce-yatagi-153-litre, hg-fide-topragi, solucan-gubreli-sebze-topragi
+kisaca: Mikroklima, bir bahçenin içindeki küçük alanların kendine özgü sıcaklık, rüzgâr, nem ve ışık koşuludur. Güneye bakan duvar dibi daha sıcak, alçak köşe ve çukur daha soğuk, çit arkası daha korunaklıdır. Bu farkları ölçüp haritalamak, hassas bitkiyi doğru yere dikmenin en ucuz yoludur.
+@govde
+Aynı bahçede domates duvar dibinde erken olgunlaşır, çukur köşedeki fide ise sabah donuyla kararır. Aynı hava tahmini, aynı toprak, aynı bakım; ama sonuç farklı. Bunun adı mikroklimadır. Mikroklima, bahçenin her köşesinin kendi küçük iklimini yaşamasıdır ve çoğu zaman haritadaki "bölge iklimi"nden daha belirleyicidir. Aşağıda mikroklimayı oluşturan etkenleri, tipik köşeleri, ölçme yöntemini ve bu köşelerin bahçıvanın lehine nasıl kullanılacağını anlatıyoruz.
+
+## Mikroklima nedir, neden önemlidir?
+
+İklim bölge ölçeğinde konuşur; mikroklima ise birkaç metrekarelik alanın hava koşuludur. Royal Horticultural Society'nin bahçe değerlendirme sayfası, bahçedeki bu küçük iklim farklarını değerlendirmeyi önerir ve soğuk havanın ağaç gibi serinleyen nesneler üzerinde oluşup yere indiğini, yokuş aşağı akıp alçak noktalarda biriktiğini anlatır ([RHS, mikroklimalar: bahçenizi değerlendirin](https://www.rhs.org.uk/garden-design/microclimates-assessing-garden)). Yani yamaçtaki bir bahçede üst kısım don yemezken alt köşe birkaç derece daha soğuk kalabilir.
+
+Pratik anlamı: Hava durumu "gece 3 derece" yazsa bile bahçenizin her yeri aynı sıcaklığı yaşamaz. Bu farkı bilmek, fide dikim tarihini, hassas bitkinin yerini ve örtü planını belirler. Gecelik don tahmini için [don uyarısı tahmin](/don-uyarisi-tahmin-zirai-don-icin-hava-tahmini-nasil-okunur) yazısı, bölgesel son don tarihi için [son don tarihi nedir](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısı tamamlayıcıdır.
+
+## Bahçedeki tipik mikroklimalar
+
+| Köşe | Özelliği | Uygun bitki |
+|---|---|---|
+| Güneye bakan duvar dibi | Gündüz ısı depolar, daha sıcak | Hassas ve sıcak seven bitkiler, erken sebze |
+| Çukur ya da alçak köşe | Soğuk hava birikir, don cebi olur | Dona dayanıklı bitkiler, geç dikim |
+| Çit ya da duvar arkası | Rüzgâr kesilir, ama gölge de olur | Hassas ve uzun bitkiler, rüzgârdan hoşlanmayanlar |
+| Ağaç altı | Gölge, kök rekabeti, daha nemli | Gölge bitkileri |
+| Taş ya da beton yüzey yanı | Isıyı toplar ve yansıtır | Kuraklığa ve sıcağa dayanıklı bitkiler |
+| Açık yamaç | Rüzgâr alır, çabuk kurur | Dayanıklı çalılar |
+
+## Soğuk hava gölü ve don cebi
+
+RHS kaynağına göre soğuk hava eğim boyunca aşağı akar ve çukurda birikir; böyle yerlerde bahçıvan geç ve erken don riskiyle karşılaşır, don arası dönem kısalır. Üstelik yamaçta bir çit ya da yoğun duvar bu akışı engellerse soğuk hava duvarın arkasında göllenebilir; RHS, bu durumda bariyerde boşluk bırakmanın soğuk havanın akıp gitmesini sağlayabileceğini söyler. Bu bilgi, bahçede don cebini düzeltmek için ucuz bir çözümdür.
+
+Hangi köşede don olduğunu anlamanın yolu basit: Soğuk bir bahar sabahı bahçeyi dolaşın ve kırağının nerede kaldığını, nerede erken eridiğini not edin. Kırağının geç eridiği, yaprakların donmuş durduğu yer soğuk köşenizdir. Dona yakalanan bitkiyi tanımak için [don zararı belirtileri](/don-zarari-belirtileri) yazısına bakabilirsiniz.
+
+## Sıcak köşe: duvar, taş ve yansıma
+
+RHS kaynağında güneye bakan duvarın yakın toprağı ısıttığı, taş ve beton gibi kütlelerin gündüz ısı depolayıp gece vermesinin yararlı olabildiği, ancak etkisinin geceden geceye değişebileceği belirtilir. Açık renkli duvarın yansıttığı ısı da bazı bitkileri yakabilir. Hassas bitkiyi güneye bakan bir duvarın dibine ya da gece açık gökyüzünü kapatan bir saçağın altına dikmek, don riskini azaltabilir. Kentte binalar ve kaldırım ısı adası etkisi yaratır; bahçenin bu kenarı daha sıcak, daha kuru olur ve sulama ihtiyacı artar.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-153-litre]
+
+Köşelerin koşullarını denemek için hareketli düzenler işe yarar. Modüler Yükseltilmiş Bahçe Sebze Yatağı No:2 (85×60×30 cm, 153 litre), ürün açıklamasına göre topraktan yükseltilmiş yapıda, ek parçalarla genişletilebilen ve bahçe, balkon ya da terasta kullanılabilen bir yatak; farklı köşelerde yetiştirme denemesi yapmak isteyenler için bir seçenek.
+
+## Bahçenizin mikroklima haritasını çıkarın
+
+::: adimlar
+Bir kâğıda bahçenin planını çizin | Duvar, çit, ağaç ve eğimi işaretleyin.
+Güneş saatlerini not edin | Sabah, öğle ve akşam hangi köşe ne kadar güneş alıyor?
+Rüzgâr yönünü izleyin | Hangi köşe korunaklı, hangisi açık?
+Soğuk sabahta dolaşın | Kırağının kaldığı ve geç eridiği yerleri işaretleyin.
+Min-maks termometre koyun | Üç dört noktada gece ve gündüz değerlerini kaydedin.
+Haritayı yıllık kullanın | Kayıtlarla hassas bitkiyi ve fide dikimini planlayın.
+:::
+
+Haritanızı birkaç hafta takip ettikten sonra sıcak ve soğuk köşeleri sayılarla görürsünüz. Bu veriyi bahçe takvimiyle birleştirirseniz "domatesi hangi tarihte nereye dikmeliyim" sorusunun cevabı kendi bahçenize özel olur.
+
+## Mikroklimayı bahçıvanın lehine çevirmek
+
+- Rüzgârlı köşeye çit ya da çalı sırası dikin; gerekirse yoğun olmayan, rüzgârı azaltan bir örgü kullanın.
+- Soğuk hava göllenen yerde bariyere boşluk bırakın.
+- Çukur köşeye hassas bitki dikmeyin; oraya dona dayanıklı bitkileri koyun.
+- Sıcak duvar dibini erken sebze ve akdeniz bitkileri için kullanın.
+- Toprağı malçla örtün; sıcaklık dalgalanmasını azaltır.
+- Ağaç altı gölge bitkilerine ayrılsın; gölge bitkileri için [gölge bahçe bitkileri](/golge-bahce-bitkileri) yazısına bakın.
+
+Don anında bitkileri örtmek için [agril örtü kullanımı](/agril-ortu-kullanimi) yazısı yararlıdır. Dönemsel koruma için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına başvurun.
+
+## Balkon ve teras mikroklimaları
+
+Balkonda da mikroklima vardır. Üst kat balkonlar rüzgâr alır ve çabuk kurur; zemin kat balkonlar daha nemli ve serindir. Güneye bakan beton parapet gün boyu ısı depolar ve bitkileri sıcaktan zorlayabilir; kuzeye bakan balkon ise gölgeli ve serindir. Balkonda bitkiyi köşeye ya da duvara yakın koymak sıcaklığı değiştirir; saksıları hareket ettirerek kendi balkonunuzun en iyi köşesini deneyebilirsiniz. Evlerde pencere önü de başka bir mikroklimadır: Cam soğuk geceler boyunca yaprakları üşütebilir, bu yüzden kışın bitkileri camdan biraz uzaklaştırın.
+
+## Mevsime göre değişen köşeler
+
+Mikroklima sabit değildir. Kışın güneş açısı düşük olduğu için güneye bakan duvar dibi en değerli köşedir; yazın aynı köşe sıcaktan bunaltır. Yaprağını döken bir ağacın altı kışın ışık alır, yazın gölgedir. Bu nedenle haritayı tek mevsimde değil, ilkbahar, yaz ve sonbaharda ayrı ayrı çıkarmak gerekir. Bir köşe ilkbaharda fide için ideal olabilir ama temmuzda sulama ihtiyacını katlayabilir. Kayıt tuttuğunuzda, bir köşenin hangi aylarda avantaj sağladığını görürsünüz ve bitkiyi mevsime göre taşımayı öğrenirsiniz. Saksıda yetiştirmek bu esnekliği artırır: Fideyi ilkbaharda sıcak duvar dibinde başlatıp yazın serin köşeye almak mikroklimayı zamanlamayla kullanmanın en basit yoludur.
+
+## Sık yapılan hatalar
+
+- Bütün bahçeyi tek iklim sanıp aynı gün dikim yapmak.
+- Çukura ilk dikimi yapmak ve don cebini fark etmemek.
+- Sıcak duvar dibine serin mevsim bitkisi dikmek; yaz sıcağında yanar.
+- Gölgeli köşeye güneş seven bitki koymak.
+- Rüzgâr yönünü gözlemeden çit ya da örtü kurmak.
+
+@sss
+S: Mikroklima nedir?
+C: Bir bahçenin ya da balkonun içindeki küçük bir alanın kendine özgü sıcaklık, rüzgâr, nem ve ışık koşuludur. Aynı bahçede güneye bakan duvar dibi sıcak, çukur köşe soğuk olabilir. RHS bu farkları değerlendirmeyi önerir.
+
+S: Don cebi nedir, nasıl anlaşılır?
+C: Soğuk havanın eğimden akıp biriktiği alçak köşedir. Soğuk bir sabah dolaşın; kırağının geç eridiği, bitkilerin donmuş durduğu yer don cebidir. Bariyerde boşluk bırakmak soğuk havanın akmasına yardımcı olabilir.
+
+S: Hassas bitkiyi nereye dikmeliyim?
+C: Güneye bakan duvar dibi ya da gece açık gökyüzünü kapatan bir saçak altı daha sıcaktır. RHS hassas bitkilerin böyle yerlere dikilmesini önerir. Çukur köşeden uzak durun.
+
+S: Mikroklimayı nasıl ölçerim?
+C: Üç dört farklı noktaya min-maks termometre koyup gece ve gündüz değerlerini birkaç hafta kaydedin. Soğuk sabah kırağının nerede kaldığını da not edin. Sonra bahçenin planına işleyin.
+### YAZI
+slug: pergola-yapimi-ahsap-pergola-olculeri-ve-baglanti
+baslik: Pergola Yapımı: Ahşap Pergola Ölçüleri ve Bağlantı
+yayin: 2027-04-22 11:35
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: pergola yapımı
+seo_baslik: Pergola Yapımı: Ahşap Ölçüler ve Bağlantılar
+seo_aciklama: Pergola yapımı nasıl yapılır? Ahşap direk, kiriş ve mertek ölçüleri, mertek aralığı, temel ve bağlantı detayları ile 3 x 3 metrelik örnek malzeme listesi.
+ozet: Ahşap pergola, dört direk, iki kiriş ve üst mertek sırasından oluşur. Direk kesiti, direk aralığı ve mertek aralığı yapının dayanımını ve gölge miktarını belirler. Bağlantılar civata ve köşebentle, direk ayağı toprakla temas etmeyecek biçimde yapılır.
+etiketler: pergola yapımı, ahşap pergola, pergola ölçüleri, direk, kiriş, mertek, bahçe gölgeliği
+gorsel: bekliyor
+gorsel_alt: Bahçede dört direk üzerine kurulmuş, üstü ince merteklerle örtülü ahşap pergola iskeleti
+urunler: galvaniz-kutu-profil-30x30x1-2-mm-150-cm, 30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-1, m6-x-35-bombe-basli-civata-ve-flansli-somun-seti-galvaniz-profil-baglantisi
+kisaca: Pergola yapımında dört ana parça vardır: direkler, ana kirişler, mertekler ve bağlantılar. 3 x 3 metrelik bir ahşap pergola için pratikte en az 10 x 10 cm direk, 5 x 15 cm kiriş ve 30-50 cm aralıklı mertek kullanılır; direk ayağı toprağa gömülmez, temel üzerine metal ayakla bağlanır. Kesin ölçüler yerel yük ve yönetmeliğe bağlıdır.
+@govde
+Bahçede gölge istediğinizde en çabuk akla gelen çözüm pergoladır; ama rüzgârda sallanan, ilk kışta çürüyen, bitki ağırlığını taşıyamayan pergola yapmak da çok kolaydır. Pergola yapımı bir marangoz işi gibi görünse de arkasındaki mantık basittir: Yükü direklere taşıtmak, direkleri çürümeden zemine bağlamak ve bağlantıları rüzgâra karşı sağlam yapmak. Aşağıda ahşap pergola için pratik ölçüleri, bağlantı yöntemlerini, bir örnek malzeme listesini ve sık yapılan hataları anlatıyoruz.
+
+## Pergola yapımı: bölümler ve görevleri
+
+| Parça | Görevi | Yaygın ölçü |
+|---|---|---|
+| Direk | Düşey yükü zemine taşır | 10 x 10 cm ya da 12 x 12 cm |
+| Ana kiriş | Direkleri birbirine bağlar, merteği taşır | 5 x 15 cm |
+| Mertek | Gölge ve bitki desteği sağlar | 4 x 8 cm |
+| Çapraz destek | Yanal rüzgâra karşı sabitler | 4 x 8 cm, köşede 45 derece |
+| Temel ve ayak | Direği zemine bağlar ve çürümeden korur | Beton temel, galvaniz ayak |
+
+Bu ölçüler pratikte sık görülen değerlerdir; yük (kar, rüzgâr, bitki ağırlığı), ahşabın cinsi ve açıklık değiştiğinde kesitler de değişir. Büyük açıklıklarda (4 metreyi aşan) ya da üstü kapatılacak pergolalarda inşaat mühendisine ve belediyenin kurallarına danışın.
+
+## Ölçüleri belirlemek
+
+Önce pergolanın boyutunu seçin. Oturma alanı için 3 x 3 metre, iki kişilik bir bank için 2 x 2,5 metre genellikle yeterlidir. Yükseklik, altından rahat geçilecek ve üstte bitki ağırlığını taşıyacak kadar olmalı; serbest geçiş yüksekliği için 2,2-2,5 metre yaygındır.
+
+- Direk aralığı çoğunlukla 2,5-3 metredir; daha geniş aralıkta kirişleri kalınlaştırmak gerekir.
+- Mertek aralığı gölge miktarını belirler: 30-50 cm aralık hem bitkiye destek olur hem de yeterli gölge verir. Daha sık mertek daha fazla gölge, daha az hava sağlar.
+- Kirişler direklerin dışına taşırsa bağlantı noktası kolaylaşır; 30-40 cm taşma yaygındır.
+
+## Temel ve direk ayağı
+
+Ahşabın en büyük düşmanı toprakla temas eden nemdir. Direği doğrudan toprağa gömmek yerine betonun üstüne galvaniz bir direk ayağı (post base) ile sabitlemek en sağlam çözümdür. Direği yine de gömmek zorundaysanız, ABD'deki LSU AgCenter'ın pergola rehberi gömme derinliğinin direk boyunun yaklaşık üçte biri kadar olması gerektiğini ve direğin beton bir temel üzerine oturtulmasının iyi uygulama olduğunu belirtir. Gömülecek bölümü emprenye edin ve çevresine çakıl koyarak suyun uzaklaşmasını sağlayın.
+
+Donun derin olduğu İç ve Doğu Anadolu'da temel derinliği donma derinliğinin altına inmelidir; Ege ve Akdeniz'in ılık kıyılarında ise sorun donmaktan çok yağmur ve rüzgârdır. Bölgenizdeki gömme derinliği için belediye ya da yerel inşaat usulünü sorun.
+
+## Bağlantılar
+
+Bağlantı, pergolanın dayanıklılığını belirler. Yalnız çivi ile yetinmeyin.
+
+1. Direk ile kirişi, direkten geçen M10-M12 galvaniz civata ve rondelayla birleştirin.
+2. Kiriş ile merteği, her bağlantıda iki galvaniz vida ya da köşebentle sabitleyin.
+3. Köşelere 45 derecelik çapraz destek takın; rüzgârda yanal sallanmayı engeller.
+4. Ahşap kesim uçlarını yağ ya da koruyucu vernikle yeniden kaplayın; kesilen uç nemi çeker.
+5. Vida ve civatalarda galvaniz ya da paslanmaz seçin; çıplak demir hızla paslanır ve ahşabı lekeler.
+
+| Bağlantı | Ne zaman | Dikkat |
+|---|---|---|
+| Civata ve somun | Direk-kiriş | Rondela kullanın, ahşabı ezmeyin |
+| Köşebent (L) | Kiriş-mertek | Her mertek ucuna ikişer vida |
+| Yarım geçme | Mertek-kiriş yüzeyi | Geçme yeri nemi toplayabilir, vernikleyin |
+| Çapraz destek | Direk köşeleri | 45 derece, civatayla |
+
+## Örnek: 3 x 3 metre pergola yapımı
+
+| Parça | Adet | Ölçü |
+|---|---|---|
+| Direk | 4 | 10 x 10 cm, 2,5 m |
+| Ana kiriş | 2 | 5 x 15 cm, 3,5 m |
+| Mertek | 8 | 4 x 8 cm, 3,5 m |
+| Çapraz destek | 4 | 4 x 8 cm, 1 m |
+| Galvaniz ayak | 4 | Direk kesitine uygun |
+
+Mertek adedi 40 cm aralıkla 3 metrelik açıklıkta yaklaşık 8 adet eder; aralığı sıklaştırırsanız adet artar. Hesabı kendi ölçünüze göre güncelleyin ve kerestelerin yüzde 10 kadarını kesim payı olarak ayırın.
+
+## Adım adım yapım
+
+::: adimlar
+Yeri işaretleyin | Köşelere kazık çakın, çapraz ölçüleri eşitleyerek kareyi doğrulayın.
+Temelleri atın | Direk ayakları için beton bloklar ya da temel döküp ayağı gömün.
+Direkleri dikin | Düşeyliği su terazisiyle kontrol edin, geçici çaprazla sabitleyin.
+Kirişleri bağlayın | Direklerin üstüne ana kirişleri civatalayın.
+Merteği çakın | Eşit aralıkla yerleştirip köşebentle bağlayın.
+Çapraz destekleri takın | Köşelere 45 derecelik destek ekleyin.
+Boyayın ve koruyun | Tüm yüzeyleri ve kesim uçlarını vernik ya da yağla işleyin.
+:::
+
+## Metal iskelet seçeneği
+
+Ahşabın bakım gerektirmesinden çekinenler için galvaniz profil iskeleti bir seçenektir.
+
+[ürün:galvaniz-kutu-profil-30x30x1-2-mm-150-cm, 30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-1]
+
+Galvaniz Kutu Profil 30x30x1,2 mm (150 cm), ürün açıklamasına göre gölgelik ve kafes gibi kaynaksız yapı projelerinde kullanılan bir profildir; kare delikleri M6 civatalı konnektörlerle birleşir. Dört kollu profil konnektörü aynı profillerle kaynaksız birleşim sağlar. Bu parçaların yük taşıma sınırları üründe verilmediği için büyük açıklıklı bir pergolada kullanmadan önce tasarımınızı doğrulayın; hafif gölgelik ve kemer gibi yapılar için uygun olabilir.
+
+## Pergolaya bitki yetiştirmek
+
+Pergola bitkiyle tamamlanır. Gül, morsalkım ve sarmaşık gibi bitkiler pergolanın direklerine ve mertekleri sararak gölge yapar. Bitki seçimi için [morsalkım yetiştirme](/morsalkim-yetistirme) ve [sarmaşık bitkiler](/sarmasik-bitkiler) yazılarına, gül için [gül kemeri nasıl yapılır](/gul-kemeri) yazısına bakın. Bitki ağırlığını hesaba katın: Gelişmiş bir morsalkım ya da asma, kış-yaz dönemlerinde mertekleri ve direkleri ciddi biçimde zorlar.
+
+## İzin ve güvenlik
+
+Bahçe pergolası, çoğu durumda üstü açık bir gölgelik olarak düşünülür; ancak üstünün kapatılması, boyutu ve konumu yapı olarak değerlendirilmesine yol açabilir. Pergola yapımına başlamadan önce belediye imar müdürlüğüne yazılı sorun. Çocukların tırmanabileceği bir yapıysa köşebent uçlarını ve vida başlarını düzgün bırakın; ahşabın zımparalı olması da yaralanmayı önler.
+
+## Sık yapılan hatalar
+
+- Direği doğrudan toprağa gömüp ahşabı çürütmek.
+- Çapraz destek koymadan rüzgâra karşı yapı kurmak.
+- Mertek aralığını bitki yükünü düşünmeden seçmek.
+- Çıplak demir vida kullanmak.
+- Kesim uçlarını boyamamak.
+- İzin sorgulamadan geniş ve kapalı bir yapı kurmak.
+
+@sss
+S: Pergola yapımı için hangi ölçü direk kullanılır?
+C: 3 x 3 metrelik bir pergola için pratikte en az 10 x 10 cm, daha geniş ya da yüksek yapılarda 12 x 12 cm direk kullanılır. Ahşap cinsine ve yüke göre değişir; büyük açıklıkta mühendise danışın.
+
+S: Mertekler arası kaç cm olmalı?
+C: Gölge ve bitki desteği için 30-50 cm aralık yaygındır. Daha sık mertek daha fazla gölge verir ama hava akışını azaltır. Bitki yükü yüksekse aralığı daraltmak yerine kesiti kalınlaştırın.
+
+S: Direk toprağa gömülür mü yoksa beton üstüne mi bağlanır?
+C: Çürümeye karşı en sağlam çözüm, direği beton temel üzerine galvaniz ayakla bağlamaktır. Gömmek zorundaysanız LSU AgCenter rehberine göre gömme derinliği direk boyunun yaklaşık üçte biridir; gömülecek kısmı emprenye edin.
+
+S: Pergola yapmak için izin gerekir mi?
+C: Duruma göre değişir. Üstü açık küçük bir gölgelik ile kapalı bir yapı farklı değerlendirilebilir. Kurmadan önce belediye imar müdürlüğüne yazılı sorun.
+### YAZI
+slug: urun-depolama-kosullari-sebze-ve-meyve-icin-sicaklik-ve-nem-tablosu
+baslik: Ürün Depolama Koşulları: Sebze ve Meyve İçin Sıcaklık ve Nem Tablosu
+yayin: 2027-04-22 14:05
+yazar: Mehmet Fatih Çelik
+kategori: gundem
+odak: ürün depolama koşulları
+seo_baslik: Ürün Depolama Koşulları: Sıcaklık ve Nem Tablosu
+seo_aciklama: Ürün depolama koşulları sebze ve meyveye göre değişir. Marul, lahana, soğan, elma, armut, domates ve kabak için sıcaklık ve nem tablosu ile etilen uyarıları.
+ozet: Sebze ve meyve aynı depoda aynı koşulda saklanmaz: Yaprak ve lahana sıfıra yakın ve çok nemli, kuru soğan sıfıra yakın ama kuru, domates ve kabak ise daha ılık ister. Tablo, her ürünün sıcaklık ve nem aralığını kaynaklarıyla verir.
+etiketler: ürün depolama koşulları, depolama sıcaklığı, nem oranı, etilen, soğuk zararı, sebze saklama, meyve saklama
+gorsel: bekliyor
+gorsel_alt: Serin depoda kasalara dizilmiş elmalar ve yanda asılı duran kuru soğan örgüleri
+urunler: galvaniz-depo-rafi-iskeleti-4-katli-191x66x213-cm, galvaniz-kurutma-tezgahi-107-5-x-67-5-cm-kapakli-1-bolmeli, hasturk-kati-solucan-gubresi
+kisaca: Ürün depolama koşulları tek değerle verilemez: Yaprak sebzeler, lahana, elma ve armut sıfıra yakın sıcaklıkta ve yüksek nemde, kuru soğan sıfıra yakın ama düşük nemde, domates ve kış kabağı ise daha ılık saklanır. Etilen veren meyveyi sebzeden ayırın, soğuktan zarar gören ürünü sıfıra yakın depoya koymayın.
+@govde
+Hasat ettiğiniz ürünün raf ömrü, hasadın bittiği andan itibaren depodaki sıcaklık ve nemle belirlenir. Aynı soğuk odada marul parlar, domates tadını yitirir; aynı kuru odada soğan günlerce durur, havuç buruşur. Ürün depolama koşulları ürüne göre ayrı yazıldığı için kaynaklı değerlerden bir karşılaştırma tablosu çıkardık ve her değerin hangi yayından geldiğini belirttik. Değerler Amerikan çalışmalarının Fahrenheit tablolarının Celsius karşılığıdır; yerel çeşit ve bölgeye göre küçük farklar olabilir.
+
+## Ürün depolama koşulları tablosu
+
+| Ürün | Sıcaklık | Bağıl nem | Not |
+|---|---|---|---|
+| Marul | Yaklaşık 0 °C | %95 ve üzeri | Etilene duyarlı, kahverengi benek yapabilir |
+| Lahana | Yaklaşık 0 °C | %95'in üzeri (%90-95 de verilir) | Ortalama 3-6 hafta |
+| Havuç (yaprağı kesilmiş) | 0-4 °C | %95-100 | Susuzlukta kırışır |
+| Kuru soğan | Yaklaşık 0 °C | %65-70 | Hava dolaşımı şart; tatlı soğan yaklaşık bir ay, acı soğan 6-9 ay |
+| Tatlı patates (kürlendikten sonra) | 13-15 °C | %85-90 | Önce yaklaşık 27-29 °C'de bir hafta kürlenir |
+| Olgun domates | 10-21 °C | %95 ve üzeri | Soğuktan zarar görür, 10 °C altına koymayın |
+| Kış kabağı (butternut, acorn) | 10-16 °C | Yaklaşık %60 | Serin ve kuru |
+| Elma | -1 ile 0 °C arası | %90-95 | Etilen yayar |
+| Armut | -1 ile 0 °C arası | Yaklaşık %90 | Yaklaşık -1,7 °C'de donar |
+
+Değerler Georgia Üniversitesi'nin sebze depolama rehberinden ([UGA, sebzeler için hızlı depolama rehberi](https://fieldreport.caes.uga.edu/publications/C1205/quick-storage-guide-for-vegetable-crops/)), Iowa State ve Oregon State yayım servislerinin elma ve armut yazılarından ([Iowa State Extension, elma ve armut](https://www.extension.iastate.edu/news/yard-and-garden-apples-and-pears); [Oregon State Extension, elma ve armut toplama ve saklama](https://extension.oregonstate.edu/catalog/fs-147-picking-storing-apples-pears)) ve UC Davis'in meyve-sebze depolama grubu tablosundan derlenmiştir ([UC Davis Postharvest, depolama grupları](https://postharvest.ucdavis.edu/node/5101)).
+
+## Üç depolama grubu
+
+UC Davis, meyve ve sebzeyi sıcaklık gruplarına ayırır. Birinci grup yaklaşık 0-2 °C ve yüzde 90-98 nemde saklanan yaprak sebzeleri, lahanagilleri ve ılıman iklim meyvelerini içerir. İkinci grup yaklaşık 7-10 °C ve yüzde 85-95 nemde saklanan turunçgilleri, subtropik meyveleri ve bazı meyve-sebzeleri kapsar. Üçüncü grup yaklaşık 13-18 °C'de saklanan kış kabaklarını, tropik meyveleri ve kavun gibi ürünleri içerir. UC Davis kaynağı, daha ılık gruplarda ürünün suyunu daha yavaş kaybettiği için nemin biraz daha düşük tutulabildiğini belirtir.
+
+Pratik kural: Ürünün yetiştiği ortam ne kadar sıcaksa soğuğa hassasiyeti o kadar yüksektir. Domates, patlıcan ve kabak soğuk zararı görür; yaprak sebzeler ve lahana ise sıfıra yakın saklanabilir.
+
+## Etilen: aynı odada saklamayın
+
+Elma ve armut gibi bazı meyveler etilen gazı yayar; bu gaz etilene duyarlı sebzelerin sararmasına, tatlarının bozulmasına yol açabilir. Purdue Üniversitesi'nin evde saklama yayını, meyveleri özellikle elma ve armudu sebzelerden ayrı bir alanda tutmayı önerir ([Purdue, sebze ve meyvelerin evde saklanması](https://ag.purdue.edu/department/hla/extension/extension-publications-library/ext-pubs/ho-125-w.html)). UGA rehberi de etilene duyarlı sebzeleri etilen veren ürünlerle karıştırmamayı ve depoyu iyi havalandırmayı basit önlemler olarak sayar. Zedelenmiş ya da çürümeye başlayan meyve daha çok etilen çıkarır; bu yüzden depoya yalnızca sağlam ürün koyun.
+
+## Soğuk zararı
+
+Her ürün "soğuk iyidir" kuralına uymaz. UC Davis küçük çiftlik kaynağı, çok düşük sıcaklığın hassas ürünlerde çürüme, renk değişimi, çukurlaşma ve olgunlaşma yeteneğinin kaybına yol açabileceğini belirtir. Oregon State kaynağı bazı elma çeşitlerinin soğuk zararına yatkın olduğunu ve onların yaklaşık 3 °C'de saklanması gerektiğini yazar. Yani çeşidini bilmediğiniz ürünü sıfıra yakın bir depoya hemen koymayın; küçük bir kasa ile deneyin.
+
+## Depo hazırlığı: adım adım
+
+::: adimlar
+Depoyu temizleyin | Eski ürün kalıntılarını çıkarın, yüzeyleri temizleyin ve kurutun.
+Ürünü ayıklayın | Zedelenmiş, çatlak ve hastalıklı ürünü ayırın.
+Ürünü kürleyin ya da kurutun | Soğan, sarımsak ve patates önce kabuğunu kurutmalıdır.
+Gruplara ayırın | Etilen verenleri ve duyarlıları ayrı bölümlere koyun.
+Sıcaklığı ve nemi ölçün | Termometre ve higrometre ile günlük okuma yapın.
+Havalandırın | Kasaları yere koymayın; hava dolaşımına izin verin.
+Düzenli kontrol edin | Haftada bir çürüyeni ayıklayın.
+:::
+
+Kasa ve rafla depo düzeni sağlamak ürünü yerden ve nemden korur. Galvaniz Depo Rafı İskeleti (4 katlı, 191×66×213 cm), ürün açıklamasına göre depo ve dükkân stoğu gibi alanlarda eşyaları yerden kaldırır, nemli ortamda paslanmaya karşı galvaniz kaplamalıdır; tablalar pakete dahil değildir.
+
+[ürün:galvaniz-depo-rafi-iskeleti-4-katli-191x66x213-cm]
+
+Depoda tablaların yerini ve kasaların aralığını, hava akışını engellemeyecek biçimde yapın; kasaları duvara yaslamak nem birikmesine yol açar.
+
+## Evde ve küçük işletmede çözümler
+
+Büyük soğuk oda olmayan yerde buzdolabının sebze çekmecesi, kiler, serin bodrum ya da toprak kiler birer seçenektir. Dolabın çekmecesinde yaprak sebzeleri delikli poşette saklamak nemi korur; kiler ve bodrumda kuru soğan, sarımsak, kış kabağı ve patatesi havadar kasada tutun. Yağışlı Karadeniz'de depo nemi yüksek olur; kuru soğan ve sarımsak için havalandırmayı artırın. İç Anadolu'nun kuru ve soğuk kışında ise donma ve kırışma riski öne çıkar; donmaya karşı depoyu yalıtın. Ege ve Akdeniz'in ılık depolarında soğutma olmadan uzun süre saklama zordur; kurutma ya da işleme gibi seçenekleri düşünün ([kurutma tezgâhı](/kurutma-tezgahi) yazısı güneşte kurutmayı anlatır).
+
+Ürüne özel ayrıntılar için [kışlık sebze saklama](/kislik-sebze-saklama) ve [patates depolama](/patates-depolama) yazıları rehberdir. Hasat öncesi ne kadar ürün çıkacağını [rekolte tahmini](/rekolte-tahmini-agac-ve-parsel-bazinda-basit-yontem) yazısındaki yöntemle hesaplayabilirsiniz.
+
+## Ölçüm ve kayıt: depoyu yönetmek
+
+Ürün depolama koşulları kâğıt üzerinde yazılı olsa da depo içinde gerçekleşen değerler farklı olabilir. Soğutucunun yanındaki kasa ile kapı yanındaki kasa arasında birkaç derece fark çıkar; nem de üst raf ile alt rafta farklıdır. Bu yüzden depoda en az iki farklı noktaya termometre ve higrometre yerleştirin, sabah ve akşam okuyun ve bir deftere yazın. Ürün depolama koşulları hedefinden sapıyorsa havalandırmayı, kasa yerleşimini ya da yalıtımı değiştirin. Kayıt ayrıca satış sırasında alıcıya depolama düzenini göstermek için de işe yarar: Hangi partinin hangi tarihte hangi koşulda tutulduğu bellidir. Ürünün erken satılması gerekiyorsa, hasat ve satış tarihi arasındaki bekleme süresini bu kayıtlara göre hesaplayın.
+
+## Sık yapılan hatalar
+
+- Bütün ürünü aynı soğuk odaya koymak.
+- Domates ve kabağı sıfıra yakın depoya koymak.
+- Kuru soğanı yüksek nemli yerde saklamak.
+- Elma ve armudu sebzelerle aynı kasaya koymak.
+- Ürünü hasattan sonra uzun süre güneşte ve sıcakta bırakmak.
+- Nemi ölçmeden "serin" yeterli saymak.
+
+@sss
+S: Ürün depolama koşulları her sebze için aynı mıdır?
+C: Hayır. Yaprak sebzeler ve lahana sıfıra yakın ve çok nemli, kuru soğan sıfıra yakın ama düşük nemli, domates ve kış kabağı ise daha ılık saklanır. Ürüne özel sıcaklık ve nem tablosuna bakın.
+
+S: Elma ve armut sebzelerle aynı yerde saklanır mı?
+C: Önerilmez. Elma ve armut etilen gazı yayar; bu gaz etilene duyarlı sebzelere zarar verebilir. Purdue ve UGA rehberleri bunları ayrı alanlarda tutmayı önerir.
+
+S: Domates buzdolabında saklanır mı?
+C: Olgun domates yaklaşık 10-21 °C aralığında ve yüksek nemde saklanır; 10 °C altına inmesi soğuk zararına yol açabilir. Mümkünse buzdolabına koymadan serin yerde tutun.
+
+S: Kuru soğan için nem kaç olmalı?
+C: UGA rehberine göre kuru soğan yaklaşık 0 °C ve yüzde 65-70 nemde, iyi havalandırılan bir ortamda saklanır. Tatlı soğan yaklaşık bir ay, acı soğan 6-9 ay dayanır.
+### YAZI
+slug: bal-mumu-nedir-nasil-olusur-petegin-yapisi
+baslik: Bal Mumu Nedir? Nasıl Oluşur ve Peteğin Yapısı
+yayin: 2027-04-22 16:40
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: bal mumu nedir
+seo_baslik: Bal Mumu Nedir? Nasıl Oluşur, Peteğin Yapısı
+seo_aciklama: Bal mumu nedir? İşçi arıların mum bezlerinden salgıladığı mumun oluşumu, altıgen petek gözlerinin yapısı, gereken sıcaklık ve arıcı için pratik anlamı.
+ozet: Bal mumu, işçi arıların karnının altındaki mum bezlerinden salgıladığı ve petek yapımında kullandığı doğal maddedir. Arılar mumu pul pul çıkarır, çiğneyip şekillendirir ve altıgen gözlerden oluşan peteği örer. Mum üretimi arıya çok enerjiye mal olduğu için arıcı peteği korur.
+etiketler: bal mumu, petek, mum bezi, arıcılık, altıgen göz, çerçeve
+gorsel: bekliyor
+gorsel_alt: Çerçevede taze örülmüş açık renkli petek ve altıgen göz dizisi
+urunler: galvaniz-ari-kovani-sehpasi-2-li-2-katli-4-kovanlik-128x41x152-cm, galvaniz-ari-kovani-sehpasi-6-li-tek-katli-6-kovanlik-378x41x49-5-cm
+kisaca: Bal mumu nedir sorusunun cevabı: İşçi arıların karın altındaki bezlerden salgıladığı, hava ile temas edince pul gibi katılaşan ve petek yapımında kullanılan doğal maddedir. Arılar mum pullarını çiğneyip şekillendirir ve altıgen gözlerden oluşan peteği örer. Mum üretimi çok bal tükettiği için arıcı petek ömrünü uzatmaya çalışır.
+@govde
+Kovanı açtığınızda gördüğünüz bütün düzen, arıların kendi vücutlarından çıkardığı bir malzemenin üzerine kurulur: bal mumu. Petek, balın, poleninin ve yavrunun üzerinde durduğu rafın tamamıdır. Bal mumu nedir diye soranlar çoğu zaman mumu "petekteki sarı şey" olarak bilir; oysa o, bir canlının salgısı olan, belli sıcaklıkta işlenen ve arıya pahalıya mal olan bir yapı malzemesidir. Aşağıda mumun nasıl oluştuğunu, petek gözlerinin yapısını, arıcı için sonuçlarını ve güvenli kullanımını anlatıyoruz.
+
+## Bal mumu nedir ve nereden gelir?
+
+Kentucky State Üniversitesi'nin arıcılık yayını, her işçi arının karın altında sekiz küçük mum bezi bulunduğunu anlatır ([Kentucky State Üniversitesi, arıcılık yayını](https://www.kysu.edu/documents/college-of-agriculture-communities-the-sciences/bees_01_2019.pdf)). Bu bezler, genç işçi arılarda gelişir; arı bal ve nektar tükettiğinde mum, karnın altındaki ince plakalarda küçük, şeffaf pul biçiminde belirir. Pul, hava ile temas edince sertleşir. Arı bu pulu arka bacaklarıyla alıp ağzına taşır, çiğneyerek yumuşatır ve peteğe ekler.
+
+Vikipedi'nin bal mumu maddesine göre arıların mum salgılayabilmesi için kovanın içinin yaklaşık 33-36 °C sıcaklıkta olması gerekir ([Vikipedi, Beeswax](https://en.wikipedia.org/wiki/Beeswax)). Aynı madde, bir kilo mum için arının tükettiği bal miktarının kaynaklara göre farklı verildiğini belirtir; değer yirmi kilonun üzerindedir ve başka kaynaklar daha düşük rakamlar verir. Ortak sonuç şudur: Mum üretimi çok bal ister; bu yüzden bal akımı olmayan, soğuk ya da zayıf bir kolonide petek örülmez.
+
+## Peteğin yapısı
+
+Petek, mumdan örülmüş altıgen gözler dizisidir. Kentucky State kaynağı arıların gözleri ölçmek için kendi vücutlarını kullandığını söyler. Altıgen biçim, en az mumla en çok hacim sağlar ve komşu gözler ortak duvar kullanır. Petek iki yüzlüdür: Her yüzde gözler ters yönde dizilir ve ortada ince bir taban bulunur.
+
+| Göz türü | Boyut | Ne için kullanılır |
+|---|---|---|
+| İşçi gözü | Daha küçük | İşçi yavru, bal, polen |
+| Erkek arı gözü | Daha büyük | Erkek arı yavrusu, bal |
+| Ana arı gözü | Armut biçimli, aşağı sarkar | Ana arı yetiştirme |
+| Bal gözü | Üstü mumla kapalı | Olgun bal (kapak mumdur) |
+
+Peteğin rengi yeni örüldüğünde beyaz ya da açık sarıdır; yavru yetiştirildikçe ve kozalar birikince koyulaşır ve kahverengi-siyaha döner. Eski petek bu yüzden daha ağır ve koyu görünür.
+
+## Arıcı için mumun anlamı
+
+Mumun arıya bu kadar pahalıya mal olması, arıcılıkta birkaç pratik sonuç doğurur.
+
+1. Dolu ve sağlam peteği gereksiz yere bozmayın; süzme sırasında mum kapakları sıyırın ama petek gözlerini yırtmayın.
+2. Çerçevelerde petek temeli (mum ya da plastik temel levha) kullanmak, arıların mum harcamasını azaltır ve düzgün petek örmelerini sağlar.
+3. Bal akımı sırasında kovana yeni çerçeve eklemek, arıların mum üretmesi için uygun zamandır.
+4. Çok eskimiş, siyahlaşmış peteği kovandan zamanla çıkarmak sağlık açısından yararlı olabilir; hangi sıklıkta yenileneceği için yerel arıcılık danışmanlarına ve veteriner hekime danışın.
+5. Mum kapakları süzme sonrasında toplayıp ayrı değerlendirmek mum üretimine katkı sağlar.
+
+Balı hasat ederken mum kapakların da toplandığını unutmayın; hasat zamanı ve nem ölçütleri için [bal hasat zamanı](/bal-hasat-zamani-petek-doluluk-ve-nem-olcutleri) yazısına bakın. Kovandaki diğer iki doğal madde, polen ve propolis için [polen ve propolis nedir](/polen-propolis-nedir-kovandaki-rolu) yazısı yol gösterir.
+
+## Mum ve petek yenileme
+
+Bal mumu nedir sorusunun arıcılıktaki karşılığı bir bakıma kovanın "yatırımı"dır. Her çerçevede biriken petek, arıların aylar süren emeğidir; bu yüzden peteği korumak ve yenilemek bilinçli yapılmalıdır. Yeni petek açık renkli, yumuşak ve kokusu hoştur; yavru yetiştirilen eski peteğin gözleri kozalarla daralır, küçük arı doğar ve petek koyulaşır. Bazı arıcılar eski peteği yıllar içinde kademeli olarak kovandan çıkarıp yeniden mum eritme, yenisini ekleme yoluna gider. Hangi sıklıkla ve hangi yöntemle yenileme yapılacağı iklime, koloni gücüne ve hastalık durumuna bağlıdır; bu kararı bölgenizdeki deneyimli arıcılara ve il ya da ilçe tarım müdürlüğüne danışarak verin. Yeni çerçeve eklerken kovanın çevresinde yeterli çiçek akımının olması, arıların mum üretmek için bal tüketmesini kolaylaştırır; çiçek akımı sönükse peteği zorlamayın.
+
+## Mum ve sıcaklık
+
+Mum sıcaklığa duyarlıdır. Yaz sıcağında kovan içi çok ısınırsa petek yumuşar, çerçeveden sarkabilir ya da düşebilir; kış soğuğunda mum sertleşir ve kırılgan olur. Bu yüzden kovan yerleşimi gölge ve yüksekliğe göre düşünülmelidir. Kovanı tam güneş altında ve doğrudan zemine koymak yerine yükseltilmiş, havalandırılmış bir sehpa kullanmak sıcağı ve nemi azaltır; kovanın yeri için [arı kovanı yerleşimi](/ari-kovani-yerlesimi) yazısı ayrıntı verir.
+
+## Bal mumu nerelerde kullanılır?
+
+Bal mumu insanlar tarafından da yüzyıllardır kullanılır. Mum, süs ve yaşam mumu yapımında, temel petek levhası üretiminde, bazı bez kaplamalarda, cilt ve dudak bakım ürünlerinde ve ahşap cilalamada kullanılır. Vikipedi maddesi bal mumunun gıda katkı maddesi olarak E901 koduyla geçtiğini de belirtir. FAO'nun arıcılık el kitabındaki mum bölümü, arıcılıkta mumun işlenmesi ve kullanımı konusunda ayrıntılı bilgi verir ([FAO, mum bölümü](https://www.fao.org/4/w0076e/w0076e12.htm)). Satışa yönelik üretimde etiket, hijyen ve gıda mevzuatı için il ya da ilçe tarım müdürlüğüne başvurun.
+
+## Mum eritirken dikkat
+
+Mumu eritmek isteyen amatör arıcılar kolayca yangın çıkarabilir; mum çok yanıcıdır ve doğrudan alevde ısıtılmamalıdır. Güvenli yöntem benmari usulüdür: Mumu bir kabın içinde, kaynar suyun üzerinde ısıtın. Kabı terk etmeyin, yanında yangın söndürme aracı bulundurun, nemli mumu ısıtırken su sıçramasına dikkat edin. Eritme kaplarını başka işler için kullanmayın; mum yapışır ve temizlenmesi zordur. Çocukları uzak tutun.
+
+## Sık yapılan hatalar
+
+- Peteği hasat sırasında gereksiz yere parçalamak.
+- Mumu doğrudan ateşte eritmek.
+- Soğuk ve bal akımı olmayan zamanda yeni çerçeve eklemek.
+- Çok eski ve koyu peteği yıllarca kovanda tutmak.
+- Mum kapakları atmak: Küçük miktarlarda bile birikince değerli olur.
+
+@sss
+S: Bal mumu nedir?
+C: İşçi arıların karın altındaki mum bezlerinden salgıladığı, petek yapımında kullandığı doğal maddedir. Mum, hava ile temas edince pul biçiminde katılaşır; arılar onu çiğneyip altıgen gözlere şekillendirir.
+
+S: Bal mumu için sıcaklık kaç derece olmalı?
+C: Vikipedi'ye göre kovan içinin yaklaşık 33-36 °C olması gerekir. Daha soğuk kolonide mum salgısı ve petek örme zayıflar. Bu yüzden zayıf koloniler soğukta petek yapamaz.
+
+S: Bal mumu için arı ne kadar bal harcar?
+C: Kaynaklara göre değişir. Vikipedi bir kilo mum için yirmi kilonun üzerinde bal tükenebileceğini belirtir, başka kaynaklar daha düşük değerler verir. Her durumda mum üretimi arıya pahalıya mal olur.
+
+S: Petek neden altıgendir?
+C: Altıgen göz, en az mumla en fazla hacim sağlar ve komşu gözler ortak duvar kullanır. Kentucky State yayınına göre arılar gözleri kendi vücutlarıyla ölçer; sonuç düzenli bir altıgen ağdır.
+### YAZI
+slug: cicek-cayiri-kurmak-yaban-cicegi-tohum-karisimi-ve-bakim
+baslik: Çiçek Çayırı Kurmak: Yaban Çiçeği Tohum Karışımı ve Bakım
+yayin: 2027-04-22 19:30
+yazar: Rümeysa Altınova
+kategori: cicekler
+odak: çiçek çayırı
+seo_baslik: Çiçek Çayırı Kurmak: Tohum Karışımı ve Bakım
+seo_aciklama: Çiçek çayırı nasıl kurulur? Gübre vermeden fakir toprakta yaban çiçeği tohum karışımı ekimi, doğru ekim zamanı, ilk yıl bakımı ve sonbahar biçimi adım adım.
+ozet: Çiçek çayırı, yaban çiçeklerinin bir arada açtığı, az bakımlı ve arı dostu bir alandır. Güneşli, gübrelenmemiş toprakta, toprağa uygun bir tohum karışımıyla kurulur. İlk yıl yabani ot kontrolü, sonrasında yılda bir ya da birkaç kez biçim yeterlidir.
+etiketler: çiçek çayırı, yaban çiçeği, tohum karışımı, gelincik, papatya, arı dostu bahçe, çayır bakımı
+gorsel: bekliyor
+gorsel_alt: Gelincik, papatya ve sarı kız gözlerinin karışık açtığı küçük bir bahçe çayırı
+urunler: altinvadi-gelincik-cicegi-tohumu, arzuman-kiz-gozu-cicegi-tohumu-100-adet, bahce-yatagi-ciceklik-no-1v2-85x35x30-cm
+kisaca: Çiçek çayırı kurmak için güneşli bir alan seçin, çimi ve ağır otları temizleyin, gübre vermeyin ve toprağınıza uygun bir yaban çiçeği tohum karışımını ilkbaharın ortasında ya da sonbahar başında serpin. Yıllık çayırlar aynı yıl çiçek açar; yıl sonunda tohum döküldükten sonra biçip tırmıkla toplayın.
+@govde
+Çimin yerine ne ekilirse biçmeden, sulamadan, gübrelemeden yaz boyu renk verir? Çoğu bahçıvanın cevabı artık çiçek çayırı. Kırmızı gelincik, beyaz papatya, sarı kız gözü ve mavi çiçekler bir arada açtığında hem göz doyar hem de arılar ve kelebekler bahçeye gelir. Ama çiçek çayırı kurmak, "tohumu savur, bırak" kadar basit değildir: Toprak yanlış hazırlanır ya da bakım unutulursa çayır ilk yıl otlara yenilir. Aşağıda yer seçiminden sonbahar biçimine kadar adımları anlatıyoruz.
+
+## Çiçek çayırı nedir, kaç türü var?
+
+Çiçek çayırı, çimin yerini alan, yaban çiçeklerinden ve bazen ince çimlerden oluşan bir bitki örtüsüdür. İki ana türü vardır: yıllık çayır ve çok yıllık çayır.
+
+| Özellik | Yıllık çayır | Çok yıllık çayır |
+|---|---|---|
+| Ömür | Bir sezon, tohum dökerek devam eder | Yıllarca |
+| Çiçeklenme | Ekimden aynı yıl | İlk yıl az, sonra bol |
+| Bakım | Yılda bir kez sökme ya da yeniden ekim | Yılda birkaç biçim |
+| Toprak | Hafif verimli toprakta da açar | Fakir toprakta daha dayanıklı |
+| Kuruluş hızı | Hızlı | Yavaş, sabır ister |
+
+Royal Horticultural Society, çiçek çayırı için gübre vermeye gerek olmadığını ve toprağınız ister verimli ister fakir olsun, toprak tipinize uygun bir tohum karışımı seçilmesi gerektiğini belirtir ([RHS, yaban çiçeği çayırı oluşturma](https://www.rhs.org.uk/lawns/creating-wildflower-meadows)). Verimli toprakta güçlü otlar çiçekleri bastırır; çayır için fakir toprak bir dezavantaj değil, avantajdır.
+
+## Yer seçimi ve toprak hazırlığı
+
+Çiçek çayırı güneşli ve açık bir alan ister; yarı gölgede çiçek sayısı azalır. Alan seçtikten sonra mevcut çimi, kök yapan ağır yabani otları (ısırgan ve ayrık gibi) kazıp kaldırın. Üst toprağı hafifçe tırmıklayıp ince bir tohum yatağı hazırlayın; çok ince eleme gerekmez, ama kesekleri ufalayın. Gübre ve kompost atmayın; toprak yeterince verimliyse otlar çiçekleri bastırır. Toprağın killi ve ıslak ya da çok kumlu olması durumunda toprak tipine uygun karışım seçin.
+
+Ekimden önce yabani otların çimlenmesini beklemek, üç dört hafta içinde çıkan otları kazıyıp temizlemek başlangıç otunu azaltır. Bu işleme "yalancı tohum yatağı" denir ve çiçek çayırının başarısındaki en etkili adımlardan biridir.
+
+## Tohum karışımı nasıl seçilir?
+
+Hazır karışımlar yıllıkları, bazen çok yılları birlikte içerir. Seçerken şunlara bakın: Karışım güneşli ve gübrelenmemiş toprağa uygun mu, bölgenin iklimine uyuyor mu, yerli ya da yerleşmiş türlerden mi oluşuyor? Tek tür tohum (gelincik tek başına gibi) çok kısa süreli güzellik verir; birkaç türü karıştırmak çiçeklenmeyi aylara yayar.
+
+[ürün:altinvadi-gelincik-cicegi-tohumu, arzuman-kiz-gozu-cicegi-tohumu-100-adet]
+
+Altınvadi Gelincik Çiçeği Tohumu, ürün açıklamasında koyu kırmızı çiçekli, 25-60 cm boylanabilen, arı dostu bir tür olarak tanıtılıyor; Arzuman Kız Gözü Tohumu (100 adet) ise tek yıllık, kuraklığa dirençli ve arı ile kelebeklerin uğradığı sarı çiçekli bir bitki olarak anlatılıyor. Kendi karışımınızı hazırlıyorsanız bunlara papatya ve benzeri türleri ekleyebilirsiniz; [papatya yetiştirme](/papatya-yetistirme) ve [gelincik tohumu ekimi](/gelincik-tohumu-ekimi) yazıları ayrıntı verir.
+
+## Ekim zamanı
+
+RHS, yaban çiçeği tohumları için en iyi ekim zamanının ilkbahar ortası ya da sonbahar başı olduğunu, yıllık çayırlar için ise erken ilkbahar (ya da ilk yılın sonbaharı) ekimini önerdiğini yazar. Türkiye'de bunun karşılığı bölgeye göre değişir: Ege ve Akdeniz kıyısında sonbahar ekimi kış yağmurundan yararlanır; İç Anadolu ve Doğu Anadolu'da son don geçtikten sonra ilkbahar ekimi ya da soğuğa dayanıklı türler için sonbahar ekimi uygundur. Karadeniz'in nemli ilkbaharında ekim sonrası yabani otlar hızlı çıkar, bu yüzden ek kontrol gerekir. Nisan için çiçek listesine [nisan ayında hangi çiçekler ekilir](/nisan-ayinda-hangi-cicekler-ekilir) yazısından bakabilirsiniz.
+
+## Ekim adımları
+
+::: adimlar
+Alanı seçin ve temizleyin | Güneşli alanda çimi ve ağır otları sökün.
+Toprağı tırmıklayın | İnce bir tohum yatağı hazırlayın, gübre vermeyin.
+Tohumu kumla karıştırın | Küçük tohumları eşit dağıtmak için kuru kumla birleştirin.
+Serpin | Tohumu iki yönde (bir kere yatay, bir kere dikey) serpin.
+Toprakla temasını sağlayın | Tırmıkla hafifçe karıştırın ya da yürüyerek bastırın.
+Sulayın | İlk iki üç hafta toprağı nemli tutun.
+:::
+
+Tohumları derin gömmeyin; çoğu yaban çiçeği ışıkla çimlenir veya çok sığ ister. Ekim derinliği için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazısına bakın.
+
+## İlk yıl ve sonraki yıllarda bakım
+
+İlk haftalarda sulama önemlidir; fide boyu birkaç santimetre olana kadar toprağı nemli tutun, sonra sulamayı bırakın ya da çok seyrekleştirin. İlk yıl yabani otlar çayırı bastırabilir: Çiçek açmayan, hızlı büyüyen otları görürseniz çiçek çayırı dışına çıkana kadar elle sökün. Çiçeklenme sona erip tohum olgunlaşınca (yaz sonu ya da sonbahar başı) çayırı biçin. RHS, kesilen malzemeyi birkaç gün yerinde bırakmayı ki tohumlar dökülsün, sonra tırmıkla toplamayı önerir; böylece toprağın verimi düşer ve ertesi yıl çiçekler güçlenir. Yıllık çayırda bu aşamada yeniden hafifçe tırmıklamak, bir sonraki yıl için tohum yatağı hazırlar.
+
+Çok yıllık karışımlar daha sık biçimi gerektirir; RHS bakım sayfası ayrıntılı programı verir ([RHS, yaban çiçeği çayırı bakımı](https://www.rhs.org.uk/lawns/wildflower-meadow-maintenance)).
+
+## Küçük alan ve balkon için
+
+Geniş alan yoksa çiçek çayırı mantığını bir yükseltilmiş yatakta ya da çiçeklikte uygulayabilirsiniz.
+
+Modüler Yükseltilmiş Bahçe Yatağı Çiçeklik No:1V2 (85×34×30 cm), ürün açıklamasına göre çiçek, aromatik bitki ve mevsimlik ürünler için tasarlanmış, balkon ve terasta kullanılabilen modüler bir çiçeklik. Dar bir şerit çayır için uygun olabilir; kap toprağında gübre ve kompostu yine azaltın.
+
+## Arılar ve çevre
+
+Çiçek çayırı, bahçeye arı ve kelebek getirir. Bu yararı artırmak için çiçeklenmenin farklı aylara yayılmasını sağlayın. Çayır alanında ilaç kullanmaktan kaçının; ilaç arıları da etkiler. Arı dışındaki tozlayıcılar için [yabani arılar ve tozlaşma](/yabani-arilar) yazısı bilgi verir. Meyve ağaçlarının yakınında çiçek çayırı, tozlaşmayı da destekler.
+
+## Sık yapılan hatalar
+
+- Çayırı gübrelemek: Otlar çiçekleri bastırır.
+- Çimi sökmeden üzerine tohum atmak.
+- Tohumu derine gömmek.
+- Çiçek bitmeden biçmek: Tohum dökülmez.
+- Biçileni yerinde bırakmak: Toprak zenginleşir ve otlar artar.
+- İlk yıl çıplak kalan yerleri hemen hayal kırıklığı sayıp bırakmak; ikinci yıl çoğu çayır daha güçlüdür.
+
+@sss
+S: Çiçek çayırı için toprağa gübre atmalı mıyım?
+C: Hayır. RHS, çiçek çayırı için gübre gerekmediğini ve toprağınıza uygun bir tohum karışımı seçmenin yeterli olduğunu belirtir. Verimli toprakta güçlü otlar çiçekleri bastırır.
+
+S: Çiçek çayırı ne zaman ekilir?
+C: RHS ilkbahar ortası ya da sonbahar başını önerir; yıllık çayırlar için erken ilkbahar ya da ilk yılın sonbaharı uygundur. Ege ve Akdeniz'de sonbahar, İç Anadolu'da son don sonrası ilkbahar ekimi yaygındır.
+
+S: Çiçek çayırı ne zaman biçilir?
+C: Çiçeklenme bitip tohumlar döküldükten sonra, yaz sonu ya da sonbahar başında. RHS, kesilen malzemeyi birkaç gün bırakıp sonra tırmıkla toplamayı önerir; bu toprağın verimini düşürür.
+
+S: Çiçek çayırı küçük bahçeye ya da balkona uyar mı?
+C: Evet. Yükseltilmiş bir çiçeklikte ya da geniş bir kapta yıllık yaban çiçeği karışımı ekebilirsiniz. Gübreyi ve zengin toprağı yine azaltın; sığ ekim yapın ve ilk haftalarda nemli tutun.
+
+### SORU
+yayin: 2027-04-22 10:30
+kategori: bahce-ipuclari
+baslik: Bahçemin alt köşesinde fideler hep donuyor, neden?
+metin: Bahçemin alt kısmındaki köşeye dikilen fideler diğer yerlerden daha sık donuyor. Aynı bahçe, aynı tarih. Neden olabilir?
+@cevap Muhammed Hamza Çelik | 2
+Büyük ihtimalle orası bir don cebi. Soğuk hava ağırdır, yamaçtan aşağı akıp alçak noktalarda birikir. RHS'nin mikroklima rehberi bu akışı anlatır; yamaçta bir çit ya da duvar akışı kesiyorsa soğuk hava duvarın arkasında göllenir. Çözüm olarak engelde boşluk bırakın, hassas fideleri yüksek ve güneye bakan bir köşeye dikin, alçak köşeyi dona dayanıklı bitkilere ayırın.
+
+### SORU
+yayin: 2027-04-22 15:20
+kategori: gundem
+baslik: Soğanları ve domatesleri aynı odada saklayabilir miyim?
+metin: Hasat ettiğim soğan ve domatesi kiler odasında aynı yerde saklıyorum. Sakıncası var mı?
+@cevap Mehmet Fatih Çelik | 2
+Ayrı saklamak daha iyidir. Georgia Üniversitesi rehberine göre kuru soğan yaklaşık 0 °C ve yüzde 65-70 nemde, iyi havalanan bir ortamda saklanır. Olgun domates ise yaklaşık 10-21 °C ve yüksek nem ister; 10 °C altına inmemelidir. Yani ikisinin ihtiyacı farklıdır. Soğanı havadar bir kasada kuru yerde, domatesi daha nemli ve serin ama soğuk olmayan yerde tutun.
+
+### SORU
+yayin: 2027-04-22 20:40
+kategori: cicekler
+baslik: Çiçek çayırı için tohumu çim üzerine serpsem tutar mı?
+metin: Çim alanımın bir köşesini çiçek çayırına çevirmek istiyorum. Tohumu doğrudan çimin üzerine atsam olur mu?
+@cevap Rümeysa Altınova | 2
+Tutma şansı düşük. Çim sık olduğunda tohum toprağa değemez ve çimlenen fideler çimle rekabet edemez. Önce çimi köküyle sökün ya da kazıyıp kaldırın, toprağı hafifçe tırmıklayın, gübre vermeden tohum karışımını serpin ve toprakla temasını sağlayın. RHS, gübre gerekmediğini ve toprağınıza uygun karışım seçmeyi önerir.

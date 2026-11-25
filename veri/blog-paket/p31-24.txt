@@ -1,0 +1,171 @@
+### YAZI
+slug: sera-otomasyonu
+baslik: Sera Otomasyonu: Termostatlı Fan ve Otomatik Pencere Açıcı ile Sıcaklık Kontrolü
+yayin: 2027-03-29 09:10
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: sera otomasyonu
+seo_baslik: Sera Otomasyonu: Termostatlı Fan ve Pencere
+seo_aciklama: Sera otomasyonu hobi serasında sıcaklığı siz yokken yönetir: termostatlı fan, otomatik pencere açıcı ve kademeli kontrolcü. Hangisi nerede işe yarar?
+ozet: Sera otomasyonu, siz yokken seranın aşırı ısınmasını önleyen termostatlı fan, elektriksiz otomatik pencere açıcı ve kademeli kontrolcü gibi çözümleri kapsar. Üniversite yayımına göre kademeli kontrol basit termostattan daha dengelidir. Seçim kriterlerini, giriş menfezi ihtiyacını ve elektrik güvenliğini anlattık.
+etiketler: sera otomasyonu, termostatlı fan, otomatik pencere açıcı, sera sıcaklığı, kademeli kontrol, menfez, hobi serası
+gorsel: bekliyor
+gorsel_alt: Sera tepesindeki otomatik pencere açıcı ve duvardaki termostatlı egzoz fanı
+urunler: galvaniz-moduler-sera-iskeleti-olimpos-1-58-x-2-35-m-3-7-m2-hobi-bahce-serasi, yaprak-mentese-6-vidali-galvaniz-yapi-kapi-ve-pencere-kanatlari-icin
+kisaca: Sera otomasyonu üç basamakta düşünülür: elektriksiz ısıya duyarlı pencere açıcı, termostatla çalışan egzoz fanı ve fanı kademeli çalıştıran kontrolcü. Fan kullanıyorsanız dışarıdan hava alacak bir giriş menfezi şarttır; elektrik bağlantısını kaçak akım korumalı ve su geçirmez yapın.
+@govde
+Sera, güneşli bir nisan öğleni on beş dakikada kırk dereceyi aşabilir; siz işteyken fideler pişer. Sera otomasyonu bu sorunu çözmek için sıcaklığa bakıp pencere ya da fanı kendi kendine açıp kapatan düzenlerin genel adıdır. Pahalı bir bilgisayar sistemi şart değildir: Hobi serası için basit bir termostat ve fan ya da elektriksiz bir pencere açıcı çoğu zaman yeterlidir. Bu yazı üç yaygın çözümü, hangisinin hangi serada işe yaradığını ve kurarken yapılan hataları anlatıyor.
+
+## Neden sera otomasyonu?
+
+Seranın en büyük riski, ısı ve nemin kontrolsüz yükselmesidir. Havalandırma elle yapılıyorsa, sabah açıp akşam kapatma sorumluluğu sizdedir; tatile çıkarsanız ya da işte uzun kalırsanız bitkiler zarar görür. Otomasyon, bu sorumluluğu bir cihaza devreder. Sulama programı için [sera sulama programı](/sera-sulama-programi) yazısı, nem ve sıcaklık dengesini sulamadan nasıl yönettiğinizi anlatıyor; havalandırmanın temel mantığı için [sera havalandırması ve nem kontrolü](/sera-havalandirmasi-nem-kontrolu) yazısına bakabilirsiniz. Bu yazı, o ilkelerin cihazlarla uygulanmasına odaklanıyor.
+
+## Üç yaygın çözüm
+
+| Çözüm | Çalışma şekli | Elektrik | Uygun olduğu yer |
+|---|---|---|---|
+| Elektriksiz pencere açıcı | Isıyla genleşen mum ya da gaz silindiri pencereyi iter | Gerekmez | Küçük serada çatı penceresi |
+| Termostatlı egzoz fanı | Sıcaklık eşiğinde fan açılır, düşünce kapanır | Gerekir | Orta boy sera, hızlı ısınan yer |
+| Kademeli kontrolcü | Sıcaklığa göre pencere, fan ve menfezi aşamalı yönetir | Gerekir | Büyük sera, hassas ürün |
+
+Elektriksiz pencere açıcılar çoğunlukla mum ya da gaz silindiri ile çalışır ve açılma sıcaklıkları üretim sırasında ya da bir ayar düğmesiyle belirlenir; birçok model dar bir sıcaklık aralığında açılır. Açılma sıcaklığını ürün özelliğinden öğrenmeden satın almayın: Bazı modellerde ayar yoktur ve sizin bitkinizin istediği sıcaklıkla uyuşmayabilir. Çatı penceresine ağır bir kanat bağlayacaksanız açıcının taşıma kapasitesini kontrol edin.
+
+## Termostatlı egzoz fanı
+
+Termostatlı fan, seranın bir duvarına ya da tepesine takılan ve sıcaklık ayarlanan değere ulaşınca çalışan bir egzoz fanıdır. Fan sıcak havayı dışarı çeker; bunun için karşı tarafta dışarıdan hava alacak bir giriş menfezi bulunmalıdır. Menfez yoksa fan ya vakumlar ya da çalışsa bile hava dolaşımı olmaz. Pratikte fanı seranın bir ucuna, menfezi diğer ucuna ve mümkünse alçak noktaya yerleştirin; böylece hava, seranın içinden geçerek bitkileri tarar. Fan kapasitesi seranın hacmine ve iklimine göre seçilir; üretici kataloğundaki debi (saatte metreküp) bilgisini ve serinin hacmini karşılaştırın.
+
+Basit bir termostat, eşik sıcaklıkta fanı açıp kapatır; sık aç-kapa yapmaması için açma ile kapanma arasında bir fark (histerezis) bırakır. Bu fark çok dar olursa fan sürekli devreye girer; çok geniş olursa sıcaklık dalgalanır. Ürün ayarlarında bu farkı görebiliyorsanız birkaç derece bırakın ve denemekle ince ayar yapın.
+
+## Kademeli kontrol neden daha dengeli?
+
+Amerika'daki üniversite yayım ağının çiftlik enerjisi sayfası, kademeli (step) kontrolcünün serayı mekanik bir termostattan daha iyi kontrol edebildiğini ve uzun vadede para tasarrufu sağlayabildiğini anlatır; çalışma mantığı da şöyledir: Fan önce düşük hızda ilk kademede çalışır, yetmezse ikinci kademeye geçip yüksek hıza çıkar. Aynı yayım, seranın ısıtılan sıcaklığının ayar değerinin her 1 °F üzerine çıkışında enerji kullanımının yüzde 3 arttığını da belirtir ([kademeli kontrolcüler sera enerjisini optimize eder](https://farm-energy.extension.org/step-controllers-optimize-greenhouse-energy-use/)). Bu bilgi, gereksiz yere ısıtmayı ve aşırı soğutmayı önlemek için kontrolün önemini gösterir.
+
+Hobi serası için kademeli kontrolcü ilk seçim olmayabilir; ama seranız büyükse ya da ürününüz değerliyse (domates, biber, fide üretimi) düşünmeye değer. Daha basit bir çözümde bile "önce pencere, sıcaklık artarsa fan" gibi iki kademeyi birlikte kurabilirsiniz.
+
+[ürün:galvaniz-moduler-sera-iskeleti-olimpos-1-58-x-2-35-m-3-7-m2-hobi-bahce-serasi]
+
+## Pencere ve menteşe tarafı
+
+Otomatik açıcı kullanacaksanız pencere kanadının rahat ve sürtünmesiz açılması gerekir. Menteşeler paslı ya da sıkışıksa açıcı kanadı itmeye yetmez. Üretici bilgisine göre bu galvaniz yaprak menteşe, kapı ve pencere kanatları için 6 vidalı yapıdadır. Kanadın ağırlığını ve açılma yönünü hesaplayın; rüzgârda pencerenin savrulmaması için açılma sınırlayıcı kullanın. Seranın iskelet ve kapı tarafında yapı detayları için [hobi serası kurulumu](/hobi-serasi-kurulumu) yazısı yardımcı olur.
+
+[ürün:yaprak-mentese-6-vidali-galvaniz-yapi-kapi-ve-pencere-kanatlari-icin]
+
+## Kurulum adımları
+
+::: adimlar
+Sıcaklık hedefini belirleyin | Yetiştirdiğiniz bitkinin ideal ve azami sıcaklığını öğrenin.
+Menfez ve açıklıkları planlayın | Fan için giriş menfezini, pencere için açık alanı belirleyin.
+Cihazı seçin | Elektriksiz açıcı, termostatlı fan ya da kademeli kontrolcü.
+Sensörü doğru yere koyun | Termostat sensörünü gölgede, bitki yüksekliğinde ve doğrudan güneş almayan yere asın.
+Elektrik bağlantısını güvenli yapın | Kaçak akım korumalı, su geçirmez bağlantı kullanın; gerekirse elektrikçiye yaptırın.
+Deneme çalıştırması yapın | Güneşli bir günde seranın nasıl tepki verdiğini izleyin, eşikleri ayarlayın.
+:::
+
+## Elektrik güvenliği
+
+Serada nem ve su vardır; elektrik bağlantısı bu ortama uygun olmalıdır. Prizler ve bağlantılar su geçirmez muhafazalarda olmalı, hat kaçak akım rölesiyle korunmalıdır. Uzatma kablosuyla geçici bağlantı yapmak yerine, sabit ve uygun kesitli bir hat çekin. Cihazların etiketindeki koruma sınıfını (IP değeri) kontrol edin ve emin değilseniz yetkili bir elektrikçiden destek alın. Fan kanatlarını ve açık parçaları çocuk ve hayvanların erişimine karşı koruyun. Bu güvenlik notları genel bilgidir; yerel yönetmelikler ve cihaz kılavuzu esastır.
+
+## Sensör yeri ve ayar
+
+Termostatın verdiği karar, sensörün nerede durduğuna bağlıdır. Doğrudan güneş alan bir yere asılırsa gerçek hava sıcaklığından fazla okur ve fan gereksiz çalışır; yerde ya da toprağa yakın bir yerde ise düşük okur. Sensörü bitki yüksekliğinde, gölgede, hava dolaşan bir noktaya asın. İlk hafta sıcaklığı ayrıca bir minimum-maksimum termometreyle izlemek, cihazın ayarının doğruluğunu gösterir. Nem de önemlidir: Yalnızca sıcaklığa göre çalışan cihaz nem birikimini her zaman çözmez; sulama sonrası nem yükseliyorsa menfezi açmak ve sulama saatini değiştirmek gerekebilir.
+
+## Otomasyonun sınırları
+
+Otomasyon, sorumluluğu tamamen ortadan kaldırmaz. Cihaz bozulabilir, elektrik kesilebilir, fan tıkanabilir; bu yüzden kritik dönemlerde (fide, hassas ürün) yedek bir plan ve düzenli kontrol gerekir. Gece soğuyunca penceresi açık kalan sera de bitkiyi dondurabilir; açılma ve kapanma eşiklerini hem sıcak hem soğuk için düşünün. Kış serası için ısıtma ve havalandırma ilişkisini [kış serası: ısıtma, havalandırma ve nem dengesi](/kis-serasi-isitma-havalandirma) yazısı anlatıyor; genel dijital takip fikirleri için [akıllı tarım](/akilli-tarim) yazısına bakabilirsiniz. Gölgeleme ile sıcaklığı düşürmek de otomasyonun tamamlayıcısıdır: [gölge filesi](/golge-filesi) yazısı seçim ve kurulumu gösteriyor.
+
+## Sık yapılan hatalar
+
+Fan takıp giriş menfezi bırakmamak en yaygın hatadır. İkincisi, termostat sensörünü güneş alan yere asmaktır. Üçüncüsü, açıcı ayar sıcaklığını bitkinin ihtiyacına bakmadan almaktır. Dördüncüsü, menteşeleri ve pencereyi bakımsız bırakıp açıcıyı zorlamaktır. Beşincisi, elektrik bağlantısını su geçirmez ve korumalı yapmamaktır. Altıncısı, cihaza körü körüne güvenip kontrol etmemektir. Sera otomasyonu, doğru kurulduğunda hobi serasının güvenle yönetilmesini sağlayan sade ama çok işe yarar bir yatırımdır.
+@sss
+S: Sera otomasyonu için en basit çözüm nedir?
+C: Elektrik gerektirmeyen mum ya da gaz silindirli otomatik pencere açıcı en basit çözümdür. Isı arttıkça pencereyi iter. Açılma sıcaklığını ve taşıma kapasitesini ürün bilgisinden kontrol edin.
+
+S: Serada fan takarken menfez gerekir mi?
+C: Evet. Egzoz fanı sıcak havayı dışarı çektiğinde yerine giren havanın geleceği bir giriş menfezi ya da açıklığı olmalıdır; yoksa hava dolaşımı sağlanamaz.
+
+S: Termostat sensörü nereye asılmalı?
+C: Gölgede, bitki yüksekliğinde ve hava dolaşan bir noktaya. Doğrudan güneş alan yer yanlış yüksek okuma verir ve fan gereksiz çalışır.
+
+S: Kademeli kontrolcü basit termostattan daha mı iyi?
+C: Amerikan üniversite yayımına göre kademeli kontrol seranın sıcaklığını mekanik termostattan daha iyi yönetebilir ve uzun vadede tasarruf sağlayabilir. Küçük hobi serası için basit termostat çoğu zaman yeterlidir.
+
+### YAZI
+slug: fulvik-asit
+baslik: Fulvik Asit Nedir? Hümik Asitten Farkı ve Yapraktan Kullanımı
+yayin: 2027-03-29 14:05
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: fulvik asit
+seo_baslik: Fulvik Asit Nedir? Hümik Asitten Farkı
+seo_aciklama: Fulvik asit hümik asitle aynı ailedendir ama molekülü daha küçüktür. İkisinin farkı, toprağa ve yapraktan uygulama, araştırmaların söyledikleri.
+ozet: Fulvik asit, hümik asitle aynı organik madde ailesinden, daha küçük moleküllü ve suda her koşulda çözünen bir bileşiktir. Yapraktan kullanımına dair bazı çalışmalar olumlu sonuçlar verse de kanıt sınırlı ve değişkendir. Farkı, kullanım şekillerini ve beklentiyi anlattık.
+etiketler: fulvik asit, hümik asit, leonardit, yapraktan gübre, organik madde, toprak düzenleyici, biyostimülant
+gorsel: bekliyor
+gorsel_alt: Koyu renkli sıvı hümik madde şişesi ve yaprağa püskürtülen sprey
+urunler: hasturk-humix-sivi-humik-asit, leonardit-organik-toprak-duzenleyici
+kisaca: Fulvik asit, hümik asitle birlikte leonarditte ve topraktaki organik maddede bulunan, daha küçük moleküllü bir hümik maddedir; ikisi de besin değil, toprak ve kök ortamını destekleyen katkılardır. Yapraktan kullanımına dair küçük çalışmalar olumlu sonuç bildirse de etki kaynağa, bitkiye ve dozaja göre değişir; gübrenin yerine geçmez.
+@govde
+Gübre rafında "fulvik asit" yazan bir şişeyle "hümik asit" yazan bir çuvalı yan yana görünce ikisinin aynı şey olup olmadığını merak etmek doğaldır. Cevap kısmen evet, kısmen hayır: İkisi aynı ailedendir ama kimyasal özellikleri ve kullanım şekilleri farklıdır. Bu yazı fulvik asidin ne olduğunu, hümik asitten farkını, yapraktan uygulama konusunda araştırmaların ne dediğini ve neyi söylemediğini sade bir dille anlatıyor. Hümik asidin genel tanıtımı için [humik asit nedir, ne işe yarar](/humik-asit-nedir-ne-ise-yarar) yazısına bakabilirsiniz.
+
+## Fulvik asit nedir?
+
+Bu madde, toprakta ölü bitki ve hayvan kalıntılarının mikroorganizmalarla ayrışması sonucu oluşan hümik maddelerin bir parçasıdır. Hümik maddeler genellikle hümik asit, fulvik ve hümin olmak üzere üç ana grupta anılır. Leonardit gibi kömürleşmenin ilk basamağındaki kaynaklar bu maddelerce zengindir; leonarditin yapısı ve kullanımı için [leonardit nedir](/leonardit-nedir) yazısına bakın. Kimyasal olarak fulvik olanı, hümik asitten daha küçük molekül ağırlığındadır ve daha açık renklidir. Hümik asit asidik ortamda çökebilirken, fulvik olanı her pH koşulunda suda çözünür; bu özellik onu sıvı ürünlerde ve yapraktan uygulamalarda ilgi çekici kılar.
+
+Bunların hiçbiri klasik anlamda besin maddesi değildir; yani azot, fosfor ve potasyum yerine geçmez. Rolleri toprağın yapısını, su tutma kapasitesini ve bitkinin besin alımını destekleyen yardımcı maddeler olmaktır.
+
+## Fulvik asit ile hümik asit arasındaki fark
+
+| Özellik | Hümik asit | Fulvik asit |
+|---|---|---|
+| Molekül boyutu | Daha büyük | Daha küçük |
+| Suda çözünürlük | Asidik ortamda çökebilir | Her pH'da çözünür |
+| Renk | Koyu kahverengi-siyah | Daha açık (sarı-kahverengi) |
+| Tipik kullanım | Toprağa, kök bölgesine | Toprağa ve yapraktan |
+| Rol | Toprak yapısı, su ve besin tutma | Besin taşıma desteği, yaprakta uygulama ilgisi |
+
+Bu fark genel kimyasal bilgidir. Pratikte ürünler çoğu zaman her ikisini birlikte içerir; etikette hangisinin ne oranda olduğunu üretici belirtir. Leonardit gibi kaynaklar da hem hümik hem fulvik madde içerir; toprak düzenleyici ürünlerin özelliği için [leonardit dekara ne kadar atılır](/leonardit-dekara-ne-kadar) ve [leonardit ve kireçli toprak](/leonardit-ve-kirecli-toprak) yazıları kullanım ayrıntısı veriyor.
+
+## Yapraktan kullanım: araştırmalar ne diyor?
+
+Bu maddenin yapraktan kullanımı üzerine küçük ve değişken sonuçlu çalışmalar vardır. Tennessee Eyalet Üniversitesi'nin araştırma sempozyumu özeti ([TSU sempozyum özeti](https://www.tnstate.edu/researchsymposium/documents/2022abstracts/A049-AGSC.pdf)), organik biber yetiştiriciliğinde yapraktan fulvik uygulamanın pazarlanabilir verimi artırmada etkili olabildiğini bildirir; bu ön sonuçlara dayanan bir çalışma özetidir. Başka araştırma makaleleri de hümik ve fulvik maddelerle yapraktan uygulamaların domates gibi bitkilerde büyümeyi destekleyebildiğini göstermiştir; ancak sonuçlar kaynağa, bitkiye, dozaja ve uygulama zamanına göre değişir. Ayrıca bazı çalışmalarda yüksek doz uygulamaların olumsuz etki yapabildiği de bildirilmiştir.
+
+Yani "yaprağa sıkılınca bitkiyi büyütür" demek için kanıt çok güçlü değildir. Doğru ifade şudur: Bazı deneylerde yararlı sonuçlar alınmıştır; ama bu sonuçlar her bahçeye ve her bitkiye genellenemez, ve bu ürünler gübrenin ve iyi toprak yönetiminin yerini tutmaz. Üreticinin vaatleri ile yayımlanmış kanıt arasındaki farkı akılda tutun.
+
+## Toprağa mı yapraktan mı?
+
+Toprağa uygulama, hümik maddelerin klasik kullanım şeklidir: toprak yapısı, su tutma ve besin alımı desteklenir. Yapraktan uygulama ise sıvı ve çözünür bir ürünle yaprağın püskürtülmesidir; bu madde bu amaçla öne çıkar. Yapraktan uygulama yaparken yanma riskine dikkat edin: Doz fazla ya da hava sıcak ise yaprak lekelenebilir ve yanabilir. Sabah erken ya da akşamüzeri, rüzgârsız havada ve üretici dozunda uygulayın; önce birkaç yaprakta deneyin. İlaçlama pompasıyla sıvı gübre uygulamanın ayrıntıları için [pompayla sıvı gübre uygulaması](/pompayla-sivi-gubre-uygulamasi) yazısına, sıvı ve katı gübre tercihine dair [sıvı gübre mi katı gübre mi](/sivi-gubre-mi-kati-gubre-mi) yazısına bakabilirsiniz. Yanık belirtileri için [gübre yakması](/gubre-yakmasi) yazısı faydalıdır.
+
+[ürün:hasturk-humix-sivi-humik-asit]
+
+Üretici bilgisine göre HasTürk Hümix Sıvı Hümik Asit, toprağın fiziksel yapısını desteklemeye, kök bölgesinde daha elverişli bir ortam oluşturmaya ve bitkilerin besinlerden daha iyi yararlanmasına yardımcı olduğu belirtilen sıvı bir hümik asit ürünüdür; adından da anlaşılacağı gibi bu bir hümik asit ürünüdür, fulvik asit ürünü değildir. Ürün etiketindeki doz ve uygulama talimatına uyun.
+
+## Fulvik asit demir ve eser elementlerle ilişkisi
+
+Bu madde, düşük molekül ağırlığı nedeniyle metal iyonlarıyla bağ kurup onların bitkiye taşınmasını kolaylaştırabildiği için demir ve çinko gibi eser elementlerle birlikte tartışılır. Bu konudaki bulgular da değişkendir ve çoğu çalışma kontrollü koşullarda yapılmıştır. Bitkilerde demir eksikliği belirtilerini ve nedenlerini tanımak, sorunu gerçekten bir besin eksikliği mi, yoksa pH ve kireç kaynaklı bir alım sorunu mu olduğunu ayırt etmek açısından önemlidir; bunun için [bitkilerde demir eksikliği](/bitkilerde-demir-eksikligi) yazısına bakın. Yapraktaki sararma için önce toprağı ve sulamayı gözden geçirmeden bir ürün almak, parayı ve zamanı boşa harcamaktır.
+
+## Fulvik asit ne zaman düşünülmeli?
+
+Yoğun üretimin yapıldığı ve toprağın organik maddesinin düşük olduğu bahçelerde, hümik madde takviyesi toprağa kazandırılan bir destek olarak düşünülebilir. Ama önce toprağın organik maddesini kompost, yeşil gübre ve olgun gübreyle artırmak çok daha etkili bir temeldir. Sonra analize göre besin dengesi kurulur. Hümik ve fulvik asitler bu temelin üstüne eklenen küçük bir katkıdır. Yapraktan beslemeyi ise bitkide eksiklik belirtisi varsa ve nedenini tespit ettiyseniz düşünün. Deniz yosunu gibi başka biyostimülan kaynaklar için [deniz yosunu gübresi](/deniz-yosunu-gubresi) yazısı fikir verir.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Satın almadan önce etiket kontrolü
+
+Etikette fulvik ve hümik asit oranı yazılı mı? Kaynak (leonardit, kömür, kompost) belirtilmiş mi? Kullanım şekli (toprak, yaprak, damla) ve doz yazılı mı? Uyarı ve saklama bilgisi var mı? Abartılı vaatler (her bitkiyi iki katına çıkarır, hastalığı yok eder) yazan ürünlerden uzak durun; üniversite çalışmaları bu kadar kesin sonuçları desteklemiyor. Şüphede ziraat mühendisine ya da il ve ilçe tarım müdürlüğüne danışın.
+
+## Sık yapılan hatalar
+
+Bu maddeyi gübre sanmak en yaygın hatadır; besin maddesi yerine geçmez. İkincisi, yapraktan yüksek doz uygulayıp yaprağı yakmaktır. Üçüncüsü, hümik ve fulvik asidi aynı şey saymaktır. Dördüncüsü, sorunun nedenini (pH, sulama, hastalık) araştırmadan ürün almaktır. Beşincisi, tek bir çalışmadan genel sonuç çıkarmaktır. Altıncısı, etiketteki dozu aşmaktır. Doğru beklentiyle kullanıldığında toprak yönetimine küçük bir destek olabilir; mucize beklemek ise yanlış olur.
+@sss
+S: Fulvik asit ile hümik asit aynı şey mi?
+C: Aynı hümik madde ailesindendir ama aynı değildir. Fulvik asidin molekülü daha küçüktür ve her pH'da suda çözünür; hümik asit daha büyük moleküllüdür ve asidik ortamda çökebilir. Pek çok ürün ikisini birlikte içerir.
+
+S: Yapraktan uygulanır mı?
+C: Uygulanır ve bazı çalışmalar olumlu sonuç bildirmiştir; Tennessee Eyalet Üniversitesi özeti organik biberde pazarlanabilir verim artışı bildirir. Ama kanıt sınırlıdır ve sonuçlar bitkiye, dozaja ve ürüne göre değişir.
+
+S: Gübrenin yerine geçer mi?
+C: Hayır. Besin maddesi değil, toprak ve besin alımını destekleyen yardımcı bir maddedir. Azot, fosfor ve potasyum ihtiyacı yine gübre ve toprak yönetimiyle karşılanır.
+
+S: Yapraktan uygulamada nelere dikkat edilir?
+C: Üretici dozunu aşmayın, sabah erken ya da akşamüzeri rüzgârsız havada uygulayın ve önce birkaç yaprakta deneyin. Sıcakta ve yüksek dozda yaprak yanması görülebilir.
+

@@ -1,0 +1,466 @@
+### YAZI
+slug: ariciliga-baslamak-ilk-kovan
+baslik: Arıcılığa Başlamak: İlk Kovan İçin Bilinmesi Gerekenler
+yayin: 2027-02-07 09:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: arıcılığa başlamak
+seo_baslik: Arıcılığa Başlamak: İlk Kovan İçin Bilinmesi Gerekenler
+seo_aciklama: Arıcılığa başlamak için önce eğitim, sonra ekipman: ilk yıl hedefi bal değil kolonin sağ çıkması, kaç kovanla başlanır, kovan türü ve zamanlama.
+ozet: Arıcılığa başlamak, kovan almaktan önce bilgi edinmektir. Üniversite yayımlarına göre ilk yılın hedefi bal değil kolonin sağ çıkmasıdır. Eğitim ve usta arıcı desteğini, kaç kovanla başlanacağını, kovan türünü, koruyucu giysiyi, zamanlamayı ve kayıt işlerini anlattık.
+etiketler: arıcılık, ilk kovan, Langstroth, arı yetiştirme, koruyucu giysi, kovan sehpası, hobi arıcılığı
+gorsel: bekliyor
+gorsel_alt: Beyaz koruyucu giysili bir kişi çayırlık bahçede açık bir kovanın çerçevesini inceliyor
+urunler: galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm, arzuman-lavanta-tohumu-100-adet, arzuman-papatya-tohumu-100-adet
+kisaca: Arıcılığa başlamak için önce bir başlangıç eğitimi alın ve deneyimli bir arıcıyla çalışın; ekipman ve arıyı ondan sonra alın. İlk yıl hedef bal değil, kolonin kışı geçirmesidir. Yeni başlayana iki–beş kovan, sekiz ya da on çerçeveli standart kovan, koruyucu giysi ve kovan aleti önerilir. Hazırlık ilkbahardan değil, önceki sonbahar ve kıştan başlar.
+@govde
+Bir bahçıvanın arıyla ilgisi çoğunlukla meyve ağacının çiçeklenmesine bakmakla başlar. Bir süre sonra "kendi kovanım olsa" düşüncesi gelir. Arıcılığa başlamak güzel bir hevestir, ama sebze yetiştirmekten çok farklı bir iştir: Karşınızda bir canlı koloni var, onun hastalıkları, mevsimleri ve kayıtları var. Bu yazı bir ilk kovan için gereken temel bilgileri, üniversite yayımlarının ortak noktalarına dayanarak sıralıyor.
+
+## Arıcılığa başlamak için önce ne yapılır?
+
+Amerika'daki yayım servislerinin ortak önerisi şudur: Kovan ve arı almadan önce bir başlangıç kursuna gidin. Missouri Üniversitesi'nin yayını, arı yönetim bilgisinin varroa akarı gibi sorunlar yüzünden vazgeçilmez olduğunu söylüyor ve başlangıç dersini alıp ekipman ve arıyı sonra almayı öneriyor ([Missouri Üniversitesi arıcılık rehberi](https://extension.missouri.edu/publications/g7600)). Mississippi Eyalet Üniversitesi de hazırlığın arıların geleceği ilkbahardan değil, en geç önceki sonbahar ya da kıştan başlaması gerektiğini yazıyor ([Mississippi State başlangıç rehberi](https://extension.msstate.edu/publications/beginning-beekeeping-mississippi)).
+
+Türkiye'de bu, yerel arıcılar birliğine üye olmak, il ya da ilçe tarım müdürlüğünün ya da birliklerin açtığı kurslara katılmak ve bir deneyimli arıcının kovanlarında bir sezon yardım etmek demektir. Kitap ve video yararlıdır, ama arı bakmanın birçok kısmı elde öğrenilir: kovanı açma, çerçeveyi tutma, ana arıyı ve yavruyu tanıma, dumanı kullanma.
+
+## İlk yılın hedefi: bal değil, hayatta kalmak
+
+Georgia Üniversitesi'nin yayım servisi, ilk yıl için hedefin bal değil, kolonin hayatta kalması olduğunu söylüyor ve sezon sonuna doğru bal alınacaksa en fazla bir iki çerçeve almayı öneriyor ([Georgia Üniversitesi yeni arıcı rehberi](https://fieldreport.caes.uga.edu/beginners-guide-to-beekeeping/)). Yeni bir koloni kovanını kurmak, petek örmek, yavru yetiştirmek ve kış stokunu depolamakla meşguldür. İlk yıl bal beklemek hem koloniyi zayıflatır hem hayal kırıklığı yaratır.
+
+Bu yüzden beklenti ayarını baştan yapın. İlk sezonda kovanı büyütme, hastalık ve akar kontrolü, kışa girerken yeterli yiyecek ve kalabalık bir koloni bırakma asıl işlerdir. Bal, ikinci yıldan itibaren kendiliğinden gelir.
+
+## Kaç kovanla başlanır?
+
+Missouri yayını yeni başlayan için iki ila beş kovanı ideal buluyor; çünkü kış kayıpları için pay bırakıyor ve iki kovan birbirini karşılaştırma imkânı veriyor. Tek kovanla başlarsanız o kovan çökerse hem deneyim hem arı kaybı yaşarsınız. Yine de masrafı ve zamanı düşünerek iki kovan makul bir başlangıçtır. İki kovan bir sorun çıktığında (örneğin yavru eksik olan bir kovana diğerinden çerçeve vermek) size esneklik de sağlar.
+
+## Hangi kovan türü seçilir?
+
+Utah Eyalet Üniversitesi yeni başlayanlara Langstroth tipi kovanı öneriyor; Missouri sekiz ya da on çerçeveli standart Langstroth'u yeterli görüyor. Langstroth, üst üste dizilen kutulardan oluşur ve içindeki çerçeveler tek tek çıkarılabilir; bu da kolonin incelenmesini, bal alınmasını ve hastalık kontrolünü kolaylaştırır. Türkiye'de de Langstroth ve Dadant yaygındır. Kovan seçerken yerel arıcıların kullandığı tipe uymak, çerçeve ve ekipman alışverişini ve yardım almayı kolaylaştırır.
+
+| Kovan türü | Özellik | Yeni başlayan için |
+|---|---|---|
+| Langstroth (8 ya da 10 çerçeve) | Standart, yaygın, çerçeveleri hareketli | En çok önerilen |
+| Dadant | Geniş çerçeveli, daha büyük yavru odası | Yerel arıcılar kullanıyorsa uygun |
+| Üstten çubuklu kovan | Basit, ekipman azdır | Deneyim gerektirir, kontrol zor |
+
+Kovan boyutu ve ağırlığı da önemlidir. Dolu bir bal süpermi çok ağırdır; bel sağlığı için yükseltilmiş bir sehpa ya da standart yararlıdır. Ürün açıklamasına göre bir galvaniz arı kovanı sehpası kovanı yerden yaklaşık 50 cm kaldırır, tabanı nemden, karıncadan ve kemirgenlerden uzak tutar ve alttan hava alır.
+
+[ürün:galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm]
+
+## Temel ekipman
+
+Yeni bir arıcının ihtiyaç duyduğu temel ekipman şunlardır:
+
+- **Koruyucu giysi:** Şapka ve peçe, tulum ya da ceket, eldiven. Mississippi yayını, yeni arıcıların güven kazandıkça eldiven kalınlığını azaltabileceğini söylüyor; ama ilk günlerde tam koruma önemlidir.
+- **Kovan aleti:** Georgia rehberine göre kovanı açmak, çerçeveleri ayırmak ve mum ile propolis kazımak için kullanılır.
+- **Dumancı:** Arıları sakinleştirmek için duman verilir.
+- **Arı fırçası:** Çerçevedeki arıları nazikçe uzaklaştırmak için.
+- **Besleme kabı:** Koloni kurulurken ve nektar azken şurup vermek için.
+
+Alerji önemli bir konudur: Arı sokmasına alerjisi olan biri arıcılığa başlamadan önce bir doktora danışmalı. Sokma, ciddi alerjik reaksiyona yol açabilir; yanınızda yardım edecek biri olmadan kovanla çalışmayın.
+
+## Zamanlama: hangi ay ne yapılır?
+
+Arıcılık yıllık bir döngüdür. Kış sonunda eğitim, ekipman ve arı siparişi; ilkbaharda koloninin kurulması ve beslenmesi; yazın büyüme ve kovan genişletme; sonbaharda kışa hazırlık. Georgia'nın mevsimsel özeti, arıları yerleştirip nektar gelene kadar beslemeyi, oğul işaretlerini izlemeyi ve koloni büyüdükçe kutu eklemeyi içeriyor; yer eklemek oğul vermeyi azaltır.
+
+::: takvim
+Eğitim ve ekipman hazırlığı | 11-2
+Koloni kurulumu ve besleme | 3-4
+Koloni büyümesi, oğul takibi | 4-6
+Bal akımı ve kovan genişletme | 5-8
+Kışa hazırlık, kontrol | 9-10
+:::
+
+Bu takvim ılıman bölge için genel çerçevedir; Türkiye'de kıyı bölgelerde mevsim erken, yaylalarda geç başlar. Yerel arıcıların takvimi daha doğru bir kılavuzdur.
+
+## Arıcılığa başlamak ve bahçedeki yaban arıları
+
+Kovan arısı ile bahçede kendiliğinden yaşayan yaban arıları birbirinden farklıdır; kovan almadan önce bahçenizde hangi arıların zaten bulunduğuna bakın. Yalnız yaşayan yaban arıları için kolay bir yardım böcek oteli kurmaktır; yapımını [böcek oteli nasıl yapılır](/bocek-oteli-nasil-yapilir) yazısında anlattık. Kovan arısı ve yaban arısı aynı çiçekler için yarışabilir; bu yüzden bahçede çiçek çeşitliliğini artırmak her ikisine de yarar. Arıcılığa başlamak isteyenler için bir diğer ilk adım da, bölgedeki bitki örtüsünün nektar akımı takvimini öğrenmektir: Hangi aylarda ne çiçek açtığını bilmek koloniye ne zaman destek şurubu vereceğinizi ve bal akımının ne zaman geleceğini gösterir.
+
+Koloninin kışlamasına ilişkin kararları da erkenden düşünün: Kovanı kışın rüzgâr ve nemden korumak, havalandırmayı korumak, yeterli kış stoku bırakmak ilk kış kaybını azaltan ana tedbirlerdir. Ayrıntılı kış yönetimi için yerel arıcınızın bölgeye özgü uygulamasına güvenin.
+
+## Kayıt ve resmî işler
+
+Türkiye'de arı yetiştiriciliği kayıt altındadır; kovan sahibi olmak, kovanlarla gezginci ya da sabit arıcılık yapmak, arı hastalıkları ve ilaç kullanımı kurallara bağlıdır. Güncel şartlar için Tarım ve Orman Bakanlığı'nın sitesine ve il ya da ilçe tarım müdürlüğüne başvurun ([Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr)). Belediye ve apartman sınırları içinde arı beslemenin de komşuluk ve yönetmelik boyutu vardır; konutların yakınında kovan koymadan önce komşularla konuşun.
+
+Arı hastalıkları ve akar mücadelesi için ilaç adı ve dozu bu yazıda verilmez; bu konuda yerel arıcılar birliği, tarım müdürlüğü ya da veteriner hekim yönlendirmesi esastır.
+
+## Arıya uygun bir bahçe
+
+Arıcılık yalnızca kovan değildir; çevrede nektar ve su kaynağı da gerekir. Bahçede çiçek açan bitkiler, özellikle erken ilkbahardan sonbahara kesintisiz çiçek sunan bir bitki programı, arıyı destekler. Hangi bitkilerin arı çektiğini [arı dostu bitkiler](/ari-dostu-bitkiler) yazısında anlattık; faydalı böcekler için [bahçede faydalı böcekler](/faydali-bocekler) yazısı bir çerçeve sunar. Kovanın yerini seçmeyi ayrıca ele alacağız; şimdilik güneşli, rüzgârdan korunaklı, su kaynağına yakın bir yer aramak yeterli bir başlangıçtır.
+
+[ürün:arzuman-lavanta-tohumu-100-adet]
+
+## Kovan almadan önce yapılacaklar
+
+Üç soruyu cevaplayın: Eğitim aldınız mı? Yakın bir arıcı sizinle çalışabilir mi? İlk iki kovan için yer, ekipman ve zamanınız var mı? Cevap evetse, sonbahar ya da kış boyunca ekipmanı hazırlayın, kovanı monte edin ve arıyı (oğul, paket ya da çekirdek koloni) güvenilir bir üreticiden alın. Arı kaynağı konusunda deneyimli arıcının önerisine güvenin; hastalıklı ya da zayıf koloni baştan sorun çıkarır.
+@sss
+S: Arıcılığa başlamak için ne gerekir?
+C: Önce başlangıç eğitimi ve deneyimli bir arıcıyla çalışma, sonra kovan, koruyucu giysi, kovan aleti ve dumancı gerekir. Missouri Üniversitesi kovan ve arı almadan önce kurs almayı öneriyor.
+
+S: İlk yıl arıcılıkta bal alınır mı?
+C: Georgia Üniversitesi ilk yıl hedefin bal değil, kolonin hayatta kalması olduğunu söylüyor. Gerekirse sezon sonunda en fazla bir iki çerçeve alınır. Asıl iş koloninin kışa güçlü girmesidir.
+
+S: Yeni başlayan kaç kovanla başlamalı?
+C: Missouri Üniversitesi yeni başlayan için iki ila beş kovanı ideal buluyor; kış kayıplarına pay bırakır ve kovanları karşılaştırmayı sağlar. Tek kovanla başlamak riskli, iki kovan makul bir başlangıçtır.
+
+S: Hangi kovan türüyle başlanır?
+C: Utah Eyalet Üniversitesi yeni başlayanlara Langstroth tipi kovanı, Missouri sekiz ya da on çerçeveli standart Langstroth'u öneriyor. Yerel arıcıların kullandığı tipe uymak ekipman ve yardım bulmayı kolaylaştırır.
+
+### YAZI
+slug: akvaryum-bitkileri-kolay-turler
+baslik: Akvaryum Bitkileri: Başlangıç İçin Kolay Türler
+yayin: 2027-02-07 11:35
+yazar: Mikdat Çelik
+kategori: bitki-bakimi
+odak: akvaryum bitkileri
+seo_baslik: Akvaryum Bitkileri: Başlangıç İçin Kolay Türler
+seo_aciklama: Akvaryum bitkileri başlangıç için hangileri kolay? Anubias, java eğreltisi, java yosunu ve kriptokorin için ışık, zemin, gübre ve yeni başlayanın hataları.
+ozet: Akvaryum bitkileri balığa barınak olur ve suyu temiz tutmaya yardım eder. Zemine ihtiyaç duymayan anubias ve java eğreltisi, java yosunu, kökle beslenen kriptokorin gibi kolay türleri, ışık ve gübre ayarını ve yeni başlayanın en sık hatalarını anlattık.
+etiketler: akvaryum bitkileri, anubias, java eğreltisi, java yosunu, kriptokorin, su bitkisi, akvaryum ışığı
+gorsel: bekliyor
+gorsel_alt: Dolu akvaryumda taşa bağlı anubias, odun üzerinde java eğreltisi ve zeminde kriptokorin yaprakları
+urunler: genel-saksi-topragi-ozel-karisim, hg-cicek-topragi, florist-tum-bitkiler-genel-kullanim-bitki-besini
+kisaca: Başlangıç için en kolay akvaryum bitkileri anubias, java eğreltisi ve java yosunudur: Üçü de zemine gömülmeden taşa ya da odunun üzerine bağlanır, düşük ışıkta yaşar. Kriptokorin gibi köklü bitkiler zeminde yetişir ve besine daha çok ihtiyaç duyar. Yeni başlayanın en büyük hatası fazla ışık ve fazla gübredir; ikisi yosunu çoğaltır.
+@govde
+Bir akvaryumun içindeki yeşil, yalnızca görüntü için değildir. Su bitkileri nitrat gibi balık atığından çıkan besinleri alır, yosunla yarışır, balığa saklanacak yer ve yavruya barınak sağlar. Akvaryum bitkileri bu yüzden küçük bir su ekosisteminin parçasıdır. İyi haber şu: Başlangıç için birkaç dayanıklı tür vardır ve bunların hiçbiri özel ekipman gerektirmez. Aşağıda onları, zemin ve ışık ihtiyaçlarıyla birlikte tanıtıyoruz.
+
+## Akvaryum bitkileri: neden önemli?
+
+Balık atığı, yem artığı ve çürüyen bitki parçaları suyu besinle doldurur. Bitkiler bu besini kullandıkça yosunun işine yarayacak azalır. Ayrıca bitkiler gün ışığında oksijen üretir (geceleri tüketir), balığa gölge ve saklanma noktası sağlar, bazı balıklar da bitkiye yumurtasını bırakır. Gerçekçi olmak gerekirse, bitkiler tek başına akvaryumu "temizlemez"; filtre ve düzenli su değişimi hâlâ gereklidir. Bitkiler dengeyi destekler.
+
+Bitkileri üç gruba ayırabiliriz: Zemine ihtiyaç duymayanlar (taşa ya da odunun üzerine bağlananlar), zeminde köklenenler ve suda serbest yüzenler. Başlangıçta ilk gruptan iki üç tür seçmek en az sorun çıkaran yoldur.
+
+## Zemine gömülmeyen bitkiler: anubias, java eğreltisi, java yosunu
+
+Anubias ve java eğreltisi, bitki dünyasının en dayanıklı akvaryum bitkilerindendir. İkisinin de gövdesi (rizom) zemine gömülmez; gömülürse çürür. Bunun yerine taşa, odun parçasına ya da dekoratif bir nesneye ince bir iple ya da yapıştırıcıyla bağlanır. Düşük ışıkta yaşarlar ve yavaş büyürler; bu da yeni başlayan için avantajdır, çünkü sık budama gerektirmez. Ansiklopedi kaynaklarında anubias Afrika kökenli bir su bitkisi olarak, java eğreltisi ise Güneydoğu Asya kökenli bir eğrelti olarak anılır ([Vikipedi anubias maddesi](https://en.wikipedia.org/wiki/Anubias), [Vikipedi java eğreltisi maddesi](https://en.wikipedia.org/wiki/Microsorum_pteropus)).
+
+Java yosunu da çok bağışıklıdır: Işığa, gübreye ve konuma fazla bakmaz, ancak fazla ışıkta yoğun bir yumak hâline gelir ve temizlik ister. Taşa, köke ya da ağ üstüne bağlanabilir. Yosun gibi görünür ama bir su bitkisidir; kendi başına çoğalır.
+
+| Bitki | Zemin | Işık | Zorluk | Not |
+|---|---|---|---|---|
+| Anubias | Gerekmez; taşa/odunun üzerine bağlanır | Düşük–orta | Çok kolay | Rizomu gömmeyin |
+| Java eğreltisi | Gerekmez; odun ya da taşa | Düşük | Çok kolay | Çatlağa sıkıştırılabilir |
+| Java yosunu | Gerekmez | Düşük–orta | Çok kolay | Fazla ışıkta yumak yapar |
+| Kriptokorin | Köklenir; kum ya da ince çakıl | Düşük–orta | Kolay | Taşındığında yaprak dökebilir |
+
+## Zeminde köklenen bitkiler: kriptokorin
+
+Kriptokorin, zemine kökleyen ve yavaş büyüyen bir su bitkisidir. Kaynaklar ışık ihtiyacında birbirinden farklı fikirdedir: Kimi onu düşük ışık sevenler arasında sayar, kimi orta ve yüksek ışıkta daha iyi performans gösterdiğini söyler; bu nedenle ışık orta düzeyde tutulur. Kriptokorinin ilk haftalarda "erimesi" (yaprakların dökülmesi) yaygın bir olgudur; yeni ortama uyum sağladığında yeniden filiz verir. Dikerken kökleri zemine yerleştirin ama gövdeyi gömmeyin. Zeminde besin kaynağı (kök gübresi ya da zengin bir akvaryum zemini) kriptokorinin gelişmesini destekler. Zemin seçimi konusunu ayrı bir yazıda ayrıntılı ele alıyoruz; şimdilik kum ya da ince çakıl yeterli bir başlangıçtır.
+
+## Işık: ne kadar ve ne kadar süre?
+
+Akvaryum bitkileri için ışık, kaynağı ne olursa olsun, düzenli olmalıdır. Pencere önünde doğrudan güneşe maruz kalan bir akvaryum çok hızlı yosun tutar; ışığı bir lamba ve zamanlayıcıyla yönetmek daha güvenlidir. Yaygın uygulama günde 8 saat civarı ışık verip başlamak ve yosun gelişmiyorsa artırmaktır. Kesin süre lambanın gücüne, tank derinliğine ve bitki yoğunluğuna bağlıdır; yosun çıkarsa süreyi azaltın.
+
+Düşük ışıklı bir akvaryumda anubias, java eğreltisi ve java yosunu rahat eder. Daha yoğun ışığı gerektiren bitkiler (kırmızı yapraklılar, çim gibi yer örtücüler) yeni başlayan için ikinci aşamadır.
+
+## Gübre: azıyla başlayın
+
+Düşük ışıkta bitkiler az büyür ve az besin tüketir. Kaynaklar düşük ışıklı tankta gübrelemeyi azaltmayı öneriyor; bazı kaynaklar ise düşük ışığı seven bitkilerin de zaman zaman ek besine ihtiyaç duyabileceğini söylüyor. Bu nedenle bir hekim gibi temkinli olun: Balık yemi ve atığı zaten besin sağlar. Yosun çıkıyorsa gübreyi azaltın; bitkinin yaprakları soluk ve yavaş büyüyorsa küçük miktarlarda akvaryum gübresi deneyin. Ev bitkisi gübresini akvaryuma doğrudan eklemeyin; balık için tehlikeli olabilir.
+
+Su değişiminde çıkan akvaryum suyu azot ve fosfor içerir; bu su saksı bitkilerinin sulanması için çok iyi kullanılır. Balığın tedavi amacıyla ilaç eklenmiş suyunu bitkiye vermeyin. Saksı bitkilerinin toprak seçimi için [hangi bitki hangi toprağı sever](/hangi-bitki-hangi-topragi-sever), sulama sıklığı için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazılarına bakabilirsiniz.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+## Akvaryumda bitkiyi nasıl yerleştirirsiniz?
+
+Yerleştirme düzeni bitkilerin ışığa ve akıma uyumunu belirler. Arka plana uzun boylu bitkileri, ortaya orta boyluları, ön tarafa kısa ve yer örtücüleri koyun. Taşa ve odunun üstüne bağlanan bitkiler arkadaki dekoratif öğeleri kaplayabilir. Çok sık yerleştirme su akışını kısıtlar ve yaprak arasında detritus birikmesine yol açar. Filtrenin çıkış akıntısı bitkileri sert sallamamalı; yumuşak yapraklı bitkiler güçlü akıntıda zarar görür.
+
+Taşa bağlarken ince bir pamuk ya da naylon ipten, yapıştırıcıdan ya da özel bağlardan yararlanabilirsiniz. İp zamanla çürüyüp bitki taşa kendi köküyle tutunur. Bitkiyi akvaryuma koymadan önce suyun klorunu giderin ve su ısısını dengeleyin; ani ısı farkı bitki yapraklarını bozar. Akvaryum balığı için gerekli olan klor giderici su düzenleyiciler aynı zamanda bitkiye de uygundur. Akvaryum bitkileri ilk iki hafta boyunca kendi ortamına alışır; bu dönemde yaprak kayıpları normaldir.
+
+## Su sertliği ve sıcaklık
+
+Çoğu başlangıç bitkisi geniş bir sıcaklık aralığına uyar. Tropik balık akvaryumlarında su ısısı genelde balığın ihtiyacına göre ayarlanır ve bitkiler buna uyum sağlar. Su sertliği ve pH sert ya da yumuşak olabilir; anubias ve java eğreltisi çoğu su türüne uyum sağlayan dayanıklı bitkilerdir. Yeni başlayan için balığın tercih ettiği su koşullarını izlemek, bitkinin tercihinden daha önemlidir; bitki seçimi balık ve su parametrelerine göre yapılır.
+
+Bitki yetiştirme ilkelerini nemli ortamda deneyen hobiciler için, topraksız bitki bakımı üzerine [Kratky yöntemi](/kratky-yontemi) ve [hidroponik ortamlar](/hidroponik-ortamlar) yazıları akvaryum bitkilerinin su temelli yetiştirme mantığıyla benzer bir çerçeve sunar.
+
+## Yeni başlayanın yaptığı hatalar
+
+- **Çok ışık:** Yosunun en büyük nedeni fazla ışıktır. Güneşe açık pencere akvaryum için uygun değildir.
+- **Rizomu gömmek:** Anubias ve java eğreltisi zemine gömülürse çürür.
+- **Çok fazla bitki, çok çabuk:** Bir seferde çok bitki eklemek akvaryum dengesini bozar; üç dört türle başlayıp yavaş artırın.
+- **Hızlı büyüyenleri unutmak:** Hızlı büyüyen bitki bakım ister; yeni başlayan için yavaş büyüyenler daha rahat.
+- **Karantinasız bitki:** Mağazadan alınan bitkiyle birlikte salyangoz, yosun sporu ya da hastalık gelebilir. Bitkiyi durulayıp birkaç gün ayrı bir kapta tutun.
+- **Balığa zararlı ilaç ve gübre:** Bakır içeren ilaçlar bitkiye, bazı bitki gübreleri balığa zarar verir.
+
+## Bitki alırken nelere dikkat edilir?
+
+Yaprakları sağlam, renkleri canlı, rizomu ya da kökü sert ve kokusuz bitkiyi seçin. Su dışında satılan bitkiler (örneğin nemli ortamda) yeni suya alışırken yaprak dökebilir; bu bir süre sonra düzelir. Bitkiyi akvaryuma koymadan önce yapraklarını hafifçe silkeleyip yapışmış salyangoz yumurtası ya da yosun var mı bakın. Evde kullandığınız bitki toprağı akvaryuma karıştırılmaz; akvaryum bitkisi için özel zemin gerekir.
+@sss
+S: Akvaryum için en kolay bitkiler hangileri?
+C: Anubias, java eğreltisi ve java yosunu en kolay olanlardır. Zemine gömülmez, taşa ya da odunun üzerine bağlanır ve düşük ışıkta yaşar. Köklü bir tür olarak kriptokorin de yeni başlayan için uygundur.
+
+S: Anubias neden çürür?
+C: En sık neden, rizomun zemine gömülmesidir. Anubias ve java eğreltisinin kalın gövdesi taş ya da odun üzerine bağlanmalı, zemine gömülmemelidir. Aşırı gübre ve fazla ışık da yaprağı bozar.
+
+S: Akvaryumda yosun neden çoğalır?
+C: Başlıca nedenler fazla ışık, fazla besin ve az bitkidir. Işık süresini azaltmak, pencereden doğrudan güneşi kesmek, yemlemeyi ölçmek ve bitkiyi artırmak yosunu azaltır.
+
+S: Akvaryum suyu saksı bitkisine verilebilir mi?
+C: Evet. Su değişiminde çıkan su azot ve fosfor taşır; saksı bitkileri için iyi bir sulama suyudur. İlaç eklenmiş ya da tedavi amacıyla kullanılmış suyu bitkiye vermeyin.
+
+### YAZI
+slug: agaclar-ne-zaman-uyanir-goz-kabarmasi
+baslik: Ağaçlar Ne Zaman Uyanır? Göz Kabarmasından Çiçeğe
+yayin: 2027-02-07 16:40
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: ağaçlar ne zaman uyanır
+seo_baslik: Ağaçlar Ne Zaman Uyanır? Göz Kabarmasından Çiçeğe
+seo_aciklama: Ağaçlar ne zaman uyanır? Soğuklama saati, göz kabarması, yeşil uç ve çiçeklenme aşamaları ile erken uyanmanın don riski ve bahçede yapılacak işler.
+ozet: Meyve ağaçları kışı dinlenme hâlinde geçirir; yeterli soğuğu aldıktan sonra ısınmayla uyanır. Soğuklama saatini, göz kabarması, yeşil uç, pembe tomurcuk ve çiçeklenme aşamalarını, uyanmanın erken gelmesindeki don riskini ve her aşamada bahçede yapılacakları anlattık.
+etiketler: ağaç uyanması, göz kabarması, soğuklama saati, çiçeklenme, don riski, meyve ağacı, fenoloji
+gorsel: bekliyor
+gorsel_alt: Elma dalında şişmiş gözlerden çıkan ilk yeşil uç ve yanında kapalı çiçek tomurcukları
+urunler: hasturk-kati-solucan-gubresi, hg-fidan-topragi, leonardit-organik-toprak-duzenleyici
+kisaca: Meyve ağaçları önce belirli bir süre soğuğu (soğuklama saati) alarak dinlenmeyi tamamlar; ardından ısınan havayla uyanır: gözler kabarır, yeşil uç görünür, tomurcuk açılır ve çiçek patlar. Her aşamada soğuğa dayanım düşer; bu yüzden şubat–mart sıcak dalgalarından sonra gelen don en çok zarar verir.
+@govde
+Şubatın sıcak bir haftasında bahçeye çıktığınızda dalların ucunda küçük şişkinlikler görmek hem sevindirir hem ürkütür. Ağaçlar ne zaman uyanır sorusu, bahçıvan için bir merak değil, bir risk sorusudur: Çok erken uyanan ağaç, ardından gelen donda çiçeğini kaybeder. Aşağıda ağaçların dinlenme ve uyanma mantığını, aşamalarını ve her aşamada yapılacakları anlatıyoruz.
+
+## Ağaçlar ne zaman uyanır? Önce dinlenme gerekir
+
+Ağaçlar sonbaharda yaprak döktükten sonra dinlenme hâline girer. Bu dinlenme yalnızca soğuk havaya tepki değil, ağacın iç mekanizmasıdır; belirli bir süre soğuk almadan uyanmaz. Buna soğuklama ihtiyacı denir ve genellikle "soğuklama saati" olarak ölçülür. Batı Virginia Üniversitesi'nin yayım servisi, soğuklama hesabının farklı modellerle yapılabildiğini ve tahmin amaçlı kullanıldığını yazıyor ([WVU meyve ağacı soğuklama yayını](https://extension.wvu.edu/lawn-gardening-pests/plant-disease/fruit-vegetable-diseases/fruit-tree-chilling)).
+
+Soğuklama gereksinimi türe ve çeşide göre büyük farklılık gösterir. Climate Central'ın derlemesinde şeftali için 400–1050, elma için 800–1100 ve kiraz için 1000'in üzerinde saat (45 °F ve altında sayılan) veriliyor; bazı düşük soğuklamalı elma çeşitleri ise yaklaşık 400 saat istiyor. Bu rakamlar yön gösterici bir aralıktır; kendi çeşidinizin ihtiyacı fidan etiketinde ya da üretici bilgisinde yazar. Bu yüzden ılık kıyıda soğuk isteyen bir çeşit zayıf çiçeklenir, çok soğuk bölgede düşük soğuklamalı çeşit erken uyanıp donar.
+
+## Soğuklama tamamlanınca: sıcaklık uyanışı belirler
+
+Soğuklama tamamlandığında ağaç dinlenmeden çıkar ve ısınmaya tepki verir; bu aşamaya zorunlu olmayan dinlenme (ekodormansi) denir. Artık gözler sıcak günlerde gelişmeye başlar. Ağaç sıcak bir hafta için "bahar geldi" diye karar verir; sonraki soğuk haftayı bilemez. İlk gelişme dönemi bu yüzden risklidir. Climate Central, sıcaklığın 21 °C'yi (70 °F) aştığı ve dört saat ya da daha uzun sürdüğü sıcak anların önceki 24–36 saatte birikmiş soğuklamayı iptal edebildiğini de belirtiyor.
+
+Türkiye'de bahar sürgünü, çiçeklenme ve diğer fenolojik evrelerle ilgili ayrıntılı gözlemler Meteoroloji Genel Müdürlüğü'nün fenoloji atlasında derlenmiştir ([MGM Fenoloji Atlası](https://mgm.gov.tr/FILES/genel/kitaplar/Fenoloji_atlasi.pdf)). Atlas, bölgelere göre bitki gelişim zamanlarının nasıl kaydedildiğini gösteriyor.
+
+## Uyanma aşamaları: göz kabarmasından çiçeğe
+
+Uyanma, kademeli bir süreçtir ve her aşama dış görünümden tanınır:
+
+| Aşama | Ne görülür? | Don dayanımı |
+|---|---|---|
+| Kış dinlenmesi | Gözler kapalı, sert | En yüksek |
+| Göz kabarması | Gözler şişer, pul yaprakları gevşer | Yüksek |
+| Yeşil uç | Gözün ucunda ilk yeşil | Düşmeye başlar |
+| Tomurcuk açılması (pembe tomurcuk) | Çiçek tomurcukları belirir, renk görünür | Düşük |
+| Çiçeklenme | Çiçekler açılır | En düşük |
+| Meyve tutumu | Taç yapraklar dökülür | Çok düşük |
+
+Vermont Üniversitesi'nin elma yayını yeşil uçtan çiçeğe kadar her aşamada soğuğa dayanımın düştüğünü, meyve gözlerinin hafif donda (−2 ile 0 °C arası, yani 28–32 °F) genelde dayandığını, daha düşük sıcaklıkta zarar riskinin arttığını anlatıyor ([Vermont Üniversitesi elma soğuk dayanımı yayını](https://uvm.edu/~orchard/fruit/treefruit/tf_horticulture/AppleHortBasics/coldhardiness.html)). Her aşama için ayrıntılı kritik sıcaklık tabloları üniversite yayımlarında yer alır; bu tablolar bölgesel araştırma ve türlere göre güncellenir.
+
+## Erken uyanmak ve geç don
+
+Şubat sıcaklığında ağacın uyanması tehlikelidir. Climate Central, 2017 şubatında Güneydoğu ABD'de erken ısınmanın elma ve şeftali ağaçlarını üç hafta erken çiçeklendirdiğini, ardından gelen donun ağır hasara yol açtığını örnek gösteriyor. Aynı mantık Türkiye'de de geçerlidir: Mart sonundaki zirai don en çok sıcak bir şubat–mart geçirmiş bahçelere zarar verir. MGM bu nedenle zirai don uyarı ve risk haritaları yayımlar; son don tarihini kendi bölgeniz için bulma yöntemini [son don tarihi](/son-don-tarihi-nedir-bolgeniz-icin-nasil-bulunur) yazısında anlattık.
+
+Çiçeklenmesi erken olan türler (kayısı, badem, erik) bu riske en açıktır. Geç çiçek açan çeşitleri seçmek, kuzey ya da doğu bakılı yamaçlar, soğuk havanın biriktiği çukurlardan kaçınmak uzun vadeli korunma yoludur.
+
+## Ağaçlar ne zaman uyanır? Türlere göre sıra
+
+Bütün meyve ağaçları aynı anda uyanmaz. Kayısı, badem ve erik genellikle ilk uyananlardır ve ilk çiçek açanlardır; şeftali ve kiraz onları izler; elma, armut ve ceviz ise daha geç uyanır. Bu sıra yılların çoğunda sabittir, ama tarihler değişir. Bu yüzden aynı bahçede kayısı donla zarar görürken elma bir şey olmadan kurtulabilir. Ağaçlar ne zaman uyanır sorusunun yaşamsal cevabı, türün çiçeklenme sırasını bilmek ve en erkenden en geç türe bahçe planı yapmaktır.
+
+Genç ağaçlar yaşlı ağaçlara göre bazen biraz daha geç uyanır; hastalıklı ya da zayıf ağaç ise daha geç ve düzensiz uyanır. Göz kabarması ağaçta eşit olmayabilir; güneye bakan dallar ve gövdeye yakın gözler önce kabarır. Bu ayrıntıyı izlemek ağacın sağlığı hakkında da ipucu verir.
+
+## Her aşamada bahçede yapılacaklar
+
+::: adimlar
+Dinlenme dönemi | Kış budamasını bitirin; kuru ve hastalıklı dalları alın, toprak donmamışsa gübre hazırlığı yapın.
+Göz kabarması | Gübreyi taç izdüşümüne verin, toprağı hafifçe karıştırın; kış ilaçlaması ya da tedbirleri bu aşamada son bulur.
+Yeşil uç–pembe tomurcuk | Don tahminini izleyin; çiçek dönemine yaklaşırken ağaç altındaki otları temizleyin.
+Çiçeklenme | Ağacı rahatsız etmeyin; don uyarısında gerektiğinde örtü ya da koruma önlemi alın.
+Meyve tutumu | Düzenli sulamaya geçin, aşırı meyveyi seyreltmeyi planlayın.
+:::
+
+Ağaçlara göz kabarması öncesi gübre vermenin zamanlaması için [bahar gübresi ne zaman atılır](/bahar-gubresi-ne-zaman-atilir) yazısını, çiçek gözü oluşumu ile gübrelemenin ilişkisi için [meyve gözü oluşumu için gübreleme](/meyve-gozu-olusumu-icin-gubreleme) yazısını, kış budamasının zamanı için [kış budaması](/kis-budamasi) yazısını okuyabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Don olursa ne yapılır?
+
+Çiçeklenmedeki bir don tehdidinde küçük ağaçları gece örtmek mümkündür; büyük ağaçlarda yapılacak şey sınırlıdır. Zarar görmüş çiçeğin içi kararır; bunu kesit alarak görebilirsiniz. Meyve tutumuna bakarak kaybı tahmin edin. Ağaç ölmez, ama o yılki ürün azalır. Sulama ve beslenmeyi sürdürmek ağacın toparlanmasına yardımcı olur. Dondan koruma yöntemleri için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısına bakın.
+
+## Kayıt tutmak
+
+Her yıl ağaçların göz kabarması, çiçeklenme ve yaprak açma tarihlerini bir deftere yazmak, kendi bahçenizin fenolojisini öğrenmenin en kolay yoludur. Birkaç yıl sonra hangi türün hangi tarihte uyandığını ve hangi yıllar erken olduğunu görürsünüz; bu da don riskini ve gübre ile ilaç zamanlamasını planlamayı kolaylaştırır.
+@sss
+S: Ağaçlar ne zaman uyanır?
+C: Soğuklama ihtiyacını tamamladıktan sonra ısınan havayla uyanır. Türkiye'de bu çoğunlukla şubat sonu ile mart arasındadır; tür, çeşit ve bölgeye göre kayar. Sıcak bir şubat uyanmayı öne çeker ve don riskini artırır.
+
+S: Soğuklama saati nedir?
+C: Meyve ağacının dinlenmeyi tamamlaması için almak zorunda olduğu soğukta geçirilen süredir. Elma, şeftali ve kiraz gibi türler yüzlerce saat ister; ihtiyaç çeşide göre değişir. Düşük soğuklamalı çeşitler ılık bölgelere uygundur.
+
+S: Göz kabarması ne zaman başlar?
+C: Soğuklama bittikten sonra sıcak günlerin gelmesiyle başlar. Gözler şişer, pul yaprakları gevşer ve ardından yeşil uç görünür. Her aşamada don dayanımı azalır, bu nedenle uyarı sistemlerini izlemek önemlidir.
+
+S: Çiçeklenmede don olursa ne yapılır?
+C: Küçük ağaçlar geceleri örtülebilir ve kitle hâlinde koruma önlemi alınabilir. Zarar gören çiçeğin içi kararır. Ağaç ölmez ama o yılki ürün azalır; düzenli sulama ve beslenme toparlanmayı destekler.
+
+### YAZI
+slug: tohumluk-patates-nasil-secilir
+baslik: Tohumluk Patates Nasıl Seçilir? Sertifikalı ve Kendi Tohumluğu
+yayin: 2027-02-07 19:30
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: tohumluk patates nasıl seçilir
+seo_baslik: Tohumluk Patates Nasıl Seçilir? Sertifikalı mı, Kendi mi?
+seo_aciklama: Tohumluk patates nasıl seçilir? Sertifikalı ve kendi tohumluğun farkı, virüs ve hastalık riski, yumru boyutu, dikim öncesi bekletme ve market patatesi.
+ozet: Patates tohumdan değil yumrudan çoğalır ve yumrular hastalığı bir sezondan ötekine taşır. Sertifikalı tohumluk ile kendi yumrunu ayırmanın farkını, hastalık birikimini, yumru boyutu ve sağlığını, market patatesi kullanmanın riskini ve ilkbahar dikimine hazırlığı anlattık.
+etiketler: tohumluk patates, sertifikalı tohumluk, patates dikimi, virüs, yumru seçimi, patates yetiştirme
+gorsel: bekliyor
+gorsel_alt: Ahşap kasada filizlenmeye başlamış sağlam tohumluk patates yumruları ve yanında dikim çuvalı
+urunler: hg-bol-verimli-sebze-topragi, hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Tohumluk patates için sertifikalı, hastalıktan ari yumru en güvenli seçimdir; çünkü patates yumruyla çoğaldığı için virüs ve hastalıklar nesilden nesile birikir. Kendi tohumluğunuzu ayırıyorsanız sağlıklı bitkilerden alın, bir ya da birkaç yılda bir sertifikalı tohumlukla yenileyin. Market patatesi tohumluk olarak önerilmez.
+@govde
+Patates dikim zamanı yaklaşırken en çok sorulan soru şudur: Mutfaktaki filizlenmiş patatesi dikebilir miyim, yoksa tohumluk almalı mıyım? Cevap, yumrunun nereden geldiğine bağlıdır. Tohumluk patates nasıl seçilir sorusu aslında bir hastalık yönetimi sorusudur: Patates yumruyla çoğalır ve yumru hastalığı bir sonraki nesle taşır. Doğru seçim, yılın verimini belirler.
+
+## Tohumluk patates nasıl seçilir? Önce sertifikayı anlayın
+
+Patates, tohumla değil yumruyla çoğaltılır. Yumru bitkinin bir parçasıdır; dolayısıyla bitkideki virüs ve diğer hastalıklar yumruya geçer ve bir sonraki dikimde yeniden ortaya çıkar. Bitki sağlıklı görünse bile yumru içinde virüs taşıyabilir. Sertifikasyon programları, Wisconsin Üniversitesi'ne göre çoğunlukla yayım servisi personeli tarafından, esas olarak virüs hastalıklarının görülme sıklığını azaltmak için başlatılmıştır ([Wisconsin tohumluk patates yayını](https://seedpotato.russell.wisc.edu/wp-content/uploads/sites/255/2015/09/why-use-certified-seed-potatoes.pdf)). Sertifikalı tohumlukta yumrular, kontrollü tarlalarda üretilmiş, denetlenmiş ve hastalık düzeyi belirli sınırların altında kalmış olan yumrulardır.
+
+Türkiye'de tohumluk üretimi ve sertifikasyonu 5553 sayılı Tohumluk Tescil, Kontrol ve Sertifikasyon Kanunu çerçevesinde Tarım ve Orman Bakanlığı tarafından denetlenir; güncel bilgi için [Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr) sayfalarına bakabilirsiniz. Etiketi olan, kaynağı belli, kasa ya da çuvalda sertifika bilgisi taşıyan tohumluk güvenli seçimdir.
+
+## Neden market patatesi olmaz?
+
+Mutfakta filizlenen patates ya da marketten alınan patates tohumluk olarak kullanılabilir gibi görünür, ama birkaç sorun taşır. Market patatesi hastalıktan ari olmak zorunda değildir; virüs, mantar ya da bakteriyel çürük taşıyabilir. Bazı ürünlerde filizlenmeyi engelleyici işlem yapılmış olabilir, bu yüzden filizlenmez ya da düzensiz filizlenir. Boyutu ve çeşidi bilinmeyebilir. Iowa Eyalet Üniversitesi, önceki sezondan kalan patateslerin fark edilemeyen hastalıklar taşıyabileceğini söylüyor ve sertifikalı, hastalıksız patates almayı öneriyor ([Iowa State sertifikalı tohumluk yayını](https://yardandgarden.extension.iastate.edu/faq/when-planting-potatoes-do-i-need-purchase-certified-seed-potatoes)).
+
+Bu, market patatesinin hiç büyümeyeceği anlamına gelmez; çoğu zaman filiz verir ve ürün alırsınız. Ama verim ve sağlık riski yüksektir. Küçük bir deneme için kullanılabilir, ancak bahçenin tamamını riske atmayın.
+
+## Kendi tohumluğunu ayırmak: ne zaman mantıklı?
+
+Her yıl sertifikalı tohumluk almak pahalı ve zahmetli olabilir; birçok bahçıvan kendi ürününden tohumluk ayırır. Bu mümkündür ama risk taşır: Hastalıklar birikir. Kaynaklardan biri, yumrunun nesil kırılması yaşamadığı için hastalıkları sürekli taşıdığını anlatıyor; tohumluk bozulması denen bu süreçte virüsler nesiller içinde artar. Bir diğer kaynak, çiftlikte ayrılan tohumluğun bir ila üç nesilde bir sertifikalı tohumlukla yenilenmesini öneriyor. Kendi tohumluğunu kullanmanın bir avantajı da yeni yumru getirmediğiniz için toprak kaynaklı hastalıkların (örneğin pudra uyuzu) bahçeye girme riskini azaltmasıdır.
+
+| Seçenek | Avantaj | Risk |
+|---|---|---|
+| Sertifikalı tohumluk | Hastalık düzeyi denetimli, çeşit belli, verim tutarlı | Her yıl alım gerekir |
+| Kendi tohumluğu | Ucuz, bahçeye uyum sağlamış | Virüs ve hastalık birikimi |
+| Market patatesi | Kolay bulunur | Hastalık, işlem, çeşit belirsizliği |
+
+Kendi tohumluğunuzu ayıracaksanız sağlıklı, güçlü, verimli ve hastalık belirtisi göstermeyen bitkilerin yumrularından seçin. Dikim sezonu boyunca hastalıklı görünen bitkilerden asla tohumluk ayırmayın.
+
+## Yumru boyutu ve sağlığı
+
+Michigan Eyalet Üniversitesi'nin tohumluk parçası sağlığı yayını, evde ayrılan, fazla büyük ya da küçük ya da genel olarak sertifikasız tohumluğun sezon içinde sorun çıkaracağını uyarıyor ([Michigan State tohumluk parçası sağlığı bülteni](https://www.canr.msu.edu/resources/potato_diseases_potato_seed_piece_health_management_e2995)). Bu nedenle orta boy, sağlam yumruları seçin: Yumurta büyüklüğünde yumrular çoğu bahçe için uygundur. Çok küçük yumru az enerji taşır, çok büyük yumru kesilmeli ve parçalar kuruyup yara dokusu oluşturmalıdır.
+
+Seçerken şu işaretlere bakın:
+- **Yüzey:** Çürük, ezik, çatlak, yeşil ve yumuşak olmamalı.
+- **Hastalık belirtisi:** Lekeli, kabuklu, yara ya da uyuz belirtisi olan yumruyu ayırın.
+- **Koku:** Ekşi ya da küf kokusu çürümeyi gösterir.
+- **Filiz:** Kısa, sağlam, mor ya da yeşilimsi filiz iyi; uzun, beyaz, ince filiz zayıf depolamadan gelir.
+
+## Tohumluk patates nasıl seçilir? Çeşit ve dikim zamanı
+
+Çeşit seçerken erkenci, orta erkenci ve geççi diye ayırın; erkenci çeşitler çabuk hasat verir, ama saklama süreleri kısadır; geççi çeşitler depolamaya uygundur. Bölgenizin iklimini, sulama imkânını ve dikim tarihini düşünerek seçin. Tohumluk patates nasıl seçilir sorusunun bir cevabı da çeşit etiketinin okunmasıdır: Çeşit adı, sınıfı, boy sınıfı ve üretim yılı etikette yazar. Birkaç farklı çeşit denemek, kendi bahçenizin toprak ve iklimine en uygununu bulmanın yoludur.
+
+Dikim zamanı toprağın sıcaklığına ve don riskine bağlıdır. Patates serin iklim sebzesi olsa da çıkış sonrası don yapraklarını yakar. Toprağın en az birkaç derece ısınması beklenir; kıyı bölgelerde şubat sonu, iç bölgelerde nisan, yüksek yerlerde nisan sonu–mayıs uygun olabilir. Kendi bölgeniz için yerel tarım müdürlüğünün ve komşu üreticilerin takvimine bakın.
+
+## Dikimden önce bekletme
+
+Patatesi dikmeden önce 2–4 hafta ışıklı ve serin (donmayan) bir yerde bekletmek, kısa ve güçlü filiz çıkarmasını sağlar. Bu işlem dikim öncesi filizlendirme olarak bilinir. Yumruları tek sıra hâlinde kasalara dizip aydınlık ama güneş görmeyen bir odada tutun. Kesin süre ve sıcaklık için tohumluğu satın aldığınız yerin önerisine bakın; bu konuda elimizde ayrıntılı bir üniversite kaynağı bu yazıda yok. Toprak hazırlığı için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısına bakarak dikim zamanını netleştirin.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Dikim sonrası: hastalıktan korunma
+
+Seçim kadar dikim sonrası bakım da önemlidir. Patates hastalıkları için [patates hastalıkları](/patates-hastaliklari) yazısına, gübreleme için [patates gübreleme](/patates-gubreleme) yazısına, balkon ve kovada patates için [saksıda patates yetiştirme](/saksida-patates-yetistirme) yazısına bakabilirsiniz. Hasattan sonra depolama için [patates depolama](/patates-depolama) yazısı bir sonraki adımı anlatıyor. Tel kurdu gibi toprak zararlıları yumruda delik açar; ayrıntısı [tel kurdu](/tel-kurdu) yazısında.
+
+## Kısa karar rehberi
+
+Bahçenizde patates ilk kez yetişiyorsa sertifikalı tohumluk alın ve deneyin. İkinci yıl kendi ürününüzden ayırmak istiyorsanız yalnızca sağlıklı bitkilerden alın ve üç yılda bir sertifikalı tohumlukla yenileyin. Market patatesini yalnızca küçük bir deneme için kullanın. Aynı arazide art arda patates ekmeyin; ekim nöbeti için [ekim nöbeti](/ekim-nobeti) yazısına bakın.
+@sss
+S: Tohumluk patates nasıl seçilir?
+C: Sertifikalı, kaynağı belli, hastalıktan ari tohumluk en güvenli seçimdir. Orta boy, sağlam, çürüksüz ve lekesiz yumruları seçin; kısa ve güçlü filizi olanlar iyidir. Market patatesi önerilmez.
+
+S: Kendi patatesimi tohumluk olarak kullanabilir miyim?
+C: Kullanabilirsiniz ama hastalık birikir. Yalnızca sağlıklı bitkilerden ayırın ve bir ila üç nesilde bir sertifikalı tohumlukla yenileyin. Hastalık belirtisi gösteren bitkilerden tohumluk almayın.
+
+S: Market patatesi tohumluk olarak dikilir mi?
+C: Dikilebilir ve çoğu zaman filiz verir, ama hastalıksızlık garantisi yoktur ve filizlenmeyi engelleyici işlem görmüş olabilir. Iowa State Üniversitesi sertifikalı tohumluk almayı öneriyor. Büyük bir ekim için riskli bir seçimdir.
+
+S: Sertifikalı tohumluk neden gerekli?
+C: Patates yumruyla çoğaldığı için virüs ve hastalıklar nesilden nesile aktarılır. Sertifikasyon programları esas olarak virüs hastalıklarını azaltmak için başlatıldı. Sertifikalı tohumluk bu birikimi sıfırlar.
+
+### YAZI
+slug: bahce-citi-yapimi-tel-orgu-direk-aralik
+baslik: Bahçe Çiti Yapımı: Tel Örgü Seçimi, Direk Aralığı ve Gerginlik
+yayin: 2027-02-07 14:05
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: bahçe çiti yapımı
+seo_baslik: Bahçe Çiti Yapımı: Tel Örgü, Direk Aralığı, Gerginlik
+seo_aciklama: Bahçe çiti yapımı için tel örgü seçimi, 3–3,7 m direk aralığı, köşe ve uç direk takviyesi, tel gerginliği ve zımba kuralları.
+ozet: Bahçe çiti yapımında çitin ömrünü köşe ve uç direkleri belirler: tel gerildiğinde köşeye yüzlerce kilogramlık çekme gelir. Ara direkler 3–3,7 m aralıkla dikilir; küçük hayvan için tel dikme araları 15 cm olmalıdır. Köşe takviyesi, zımba boyu, gerginlik ve yıllık bakım için Georgia, Iowa State, Purdue ve Oklahoma State yayınlarına dayandık.
+etiketler: bahçe çiti, tel örgü, çit direği, köşe takviyesi, H-takviye, tel germe, çit yapımı
+gorsel: bekliyor
+gorsel_alt: Bahçe sınırında gerilmiş tel örgü, köşede eğik takviye direği ve düzenli aralıkla dikilmiş ara direkler
+urunler: galvaniz-gezinmeli-kopek-kulubesi-iskeleti-1-05-x-2-08-m-rafli-kulube-ve-tel-alan
+kisaca: Bahçe çiti yapımında çitin gücü köşe ve uç direklerindedir: Georgia Üniversitesi tel ilk gerildiğinde köşeye yaklaşık 1360 kg (3000 lb) çekme geldiğini, kışın soğukta 2040 kg'a (4500 lb) çıkabildiğini yazıyor. Ara direkler 3–3,7 m (10–12 ft) arayla dikilir; tel yılda en az bir kez, özellikle ilkbaharda yeniden gerilir.
+@govde
+Bir çit, ara direklerinin sağlamlığından değil köşe direklerinin sağlamlığından düşer. Yeni gerilmiş tel örgü çok sıkı görünür, ama birkaç ay sonra bir yanda sarkar, bir köşede direk eğilir; çünkü tel, gerildiği her yerden köşelere ve uç direklere dev bir çekme uygular. Bahçe çiti yapımı bu yüzden önce köşenin hesabıdır, tel ve direk aralığı ondan sonra gelir. Aşağıda tel örgü seçimini, direk aralığını, köşe ve uç takviyesini, tel germeyi ve bakımı üniversite yayım kaynaklarının verdiği ölçülerle anlatıyoruz. Önemli bir not: Aradığımız kaynaklar çoğunlukla hayvan çitleri (büyük ve küçük baş hayvan, at) içindir; bahçe çiti için ilkeler aynıdır ama ölçü ve mesh seçimi amaca göre küçülür. Ayrıca komşu sınırı, çit yüksekliği ve imar kuralları belediyeye ve tapu kayıtlarına bağlıdır; bu yazı hukuki bir rehber değildir.
+
+## Bahçe çiti yapımında ne için çit yapıyorsunuz?
+
+Seçimleri amaç belirler. Tavşan ve küçük kemirgenleri sebze bahçesinden uzak tutmak, köpeğin bahçeden kaçmasını önlemek, komşu sınırını işaretlemek ve büyük hayvanın girmesini engellemek ayrı ayrı çit gerektirir. Oklahoma Eyalet Üniversitesi'nin çit bölümü, tel örgüde dikme tellerinin (stay) aralığını küçük hayvanlar için 6 inç (yaklaşık 15 cm), büyük hayvanlar için 12 inç (yaklaşık 30 cm) olarak öneriyor ([Oklahoma State: çit bölümü](https://extension.okstate.edu/programs/meat-goat-production/site-files/docs/chapter-11-fencing.pdf)). Bahçede tavşan ya da küçük köpek söz konusuysa sık aralıklı tel seçmek yerinde olur; dar aralık, hayvanın başını ya da bacağını sıkıştırma riskini de azaltır.
+
+| Amaç | Tel örgü seçimi | Dikkat |
+|---|---|---|
+| Tavşan, kedi, küçük hayvan | Sık aralıklı dikme teli (yaklaşık 15 cm), alt kısmı sık | Alt kenarı toprağa gömün ya da yere yatırın |
+| Köpek, orta boy hayvan | Orta aralık, yüksekliği hayvanın sıçrayışına göre | Alt kenar boşluk bırakmasın |
+| Sınır çiti, hayvansız | Daha seyrek örgü yeterli | Yükseklik ve izin için belediyeye bakın |
+
+## Direk aralığı: 3 ile 3,7 metre
+
+Purdue Üniversitesi'nin bülteni çoğu çitte ara direklerin yaklaşık 10–12 fit (3–3,7 m) arayla dikilmesini, yüksek gerginlikli tel çitlerde ise 25 fit (yaklaşık 7,6 m) aralığa çıkılabildiğini yazıyor ([Purdue: çit yayını](https://www.extension.purdue.edu/extmedia/FNR/FNR-486-W.pdf)). Iowa State Üniversitesi'nin tel örgülü çit örneğinde ise bütün direkler 12 fit (yaklaşık 3,7 m) arayla yerleştiriliyor; uçlarda iki 8 inçlik direk ve bir 4 inçlik çapraz takviye kullanılıyor, arada çelik T-direkler ile 4 inç çaplı basınçlı ağaç direkler dönüşümlü dikiliyor ve üstte tek sıra dikenli tel çekiliyor ([Iowa State: hayvan çiti maliyetleri](https://www.extension.iastate.edu/AGDM/livestock/html/b1-75.html)). Bahçe ölçeğinde bu iki bilgi birlikte okunur: Ara direklere 3–3,7 m aralık vermek standart bir başlangıçtır; hafif bir bahçe çitinde daha sık direk koymak çiti sağlamlaştırır, ama köşeleri güçlendirmenin yerini tutmaz.
+
+## Köşe ve uç direkleri: çitin gerçek omurgası
+
+Georgia Üniversitesi Uzantı Servisi, köşe ve uç düzeneklerinin yükün çoğunu taşıdığını vurguluyor: Tel ilk gerildiğinde köşe ya da uç direğe gelen çekme kuvveti 3000 libre (yaklaşık 1360 kg) olabilir ve kış soğuğunda 4500 libreye (yaklaşık 2040 kg) çıkabilir ([Georgia: atlar için çit](https://extension.uga.edu/publications/detail.html?number=B1192&title=fences-for-horses)). Tel soğukta kısalıp gerildiği için yaz ortasında sıkı görünen çit kışın direği çeker. Bu yüzden köşe direği, ara direklerin üç katı kadar özen ister.
+
+Georgia yayınına göre H-takviye (iki direk ve aralarında yatay bir kiriş ve çapraz tel) uzun mesafelerde standarttır: Çit aralığı 200 fitten (yaklaşık 61 m) uzunsa çift açıklıklı H-takviye, köşeler arası 650 fitten (yaklaşık 198 m) uzunsa her 650 fitte bir takviyeli ara direk düzeneği önerilir. H-takviyedeki yatay direk çit yüksekliğinin 2–2,5 katı uzunlukta olmalı; çapraz tel 12,5 numara yüksek gerilimli tel olmalı. Daha ucuz seçenek açı takviyesidir: Uç direğin yaklaşık 4 fit (yaklaşık 1,2 m) derine gömülmesi, takviye direğinin altına 1–2 fit kare bir kaya ya da beton parçası konması ve gerilim telinin iyice sıkılması gerekir.
+
+Bahçe çiti için pratik anlam şu: Kısa mesafede (birkaç on metre) ve hafif örgüde çift açıklıklı H-takviyeye gerek olmayabilir; ama her köşede, kapı yanında ve çitin uçlarında diğer direklerden daha kalın ve daha derin gömülü direk ile eğik takviye şart. Georgia yayını ayrıca köşeye gelen her çit hattı için ayrı bir takviye düzeneği gerektiğini belirtiyor; yani eski çite ek yapıyorsanız yeni köşeyi sadece eski direğe bağlamak yetmez, kendi takviyesini kurun.
+
+::: adimlar
+Hattı belirleyin | Sınır tapusunu, komşu sınırını ve imar kurallarını öğrenin; ipi çekin.
+Köşe ve uç direklerini dikin | Kalın direkler, derin gömme (yaklaşık 1,2 m), eğik ya da H-takviye.
+Ara direkleri dikin | 3–3,7 m aralıkla, aynı yükseklikte.
+Teli açın ve köşeden bağlayın | Önce bir uca sabitleyin, sonra diğer uca doğru gerin.
+Gerin | Kısa bölümlerde, tek seferde aşırı gerdirmeyin.
+Zımbayla tutturun | Dikme tellerine değil yatay tellere; zımba boyuna dikkat.
+Yıl içinde kontrol edin | İlkbaharda yeniden gerin, sarkan yerleri sıkın.
+:::
+
+## Tel gerginliği ve zımba
+
+Tel örgülerde tel çok gerilmez; Oklahoma yayını örgü telin genellikle yüksek gerginlikli tellerdeki gibi gerdirilmediğini belirtiyor. Colorado kaynağı, tel örgüde köşeler arası bölümleri kısa tutmayı ve her bölüm için bir cırcırlı gerdirici takmayı öneriyor. Çit tek bir uzun hat hâlinde değil, birkaç kısa bölümde gerilirse, bir bölümde sorun çıksa diğerleri etkilenmez.
+
+Zımba konusunda Georgia yayını iki kural veriyor: Zımba hiçbir zaman 1,5 inçten (yaklaşık 3,8 cm) kısa olmamalı, tercihen 1,75–2 inç (yaklaşık 4,5–5 cm) olmalı; ayrıca örgü telin dikey dikme tellerine zımba çakılmamalı, yalnızca yatay tellere çakılmalı. Dikey tele çakılan zımba teli keser ya da zayıflatır. Ahşap direklerde zımbayı direğin lif yönüne çapraz çakın; çeliğe T-direklerde ise klips kullanılır.
+
+Georgia yayını ayrıca tellerin en az yılda bir kez, özellikle ilkbaharda, yeniden gerilmesini öneriyor. Kışın soğukta ve yazın sıcakta tel genleşip büzülür; yıllık gerginlik ayarı çiti hem düzgün hem sağlam tutar.
+
+## Direk malzemesi ve gömme
+
+Bahçe çiti yapımında malzeme seçimi ömrü belirler; ucuz ve hızlı çözüm ile uzun ömürlü çözüm arasında takas vardır.
+
+Iowa State örneğinde ara direkler çelik T-direkler ile basınçlı ağaç direklerin dönüşümlü kullanımından oluşuyor. Çelik direk çabuk takılır ve çürümez; ahşap direk ise zımba tutar ve köşelerde daha sağlamdır. Toprak ile temas eden ahşap çürür; basınçlı emdirilmiş (tanalize) ağaç kullanmak ömrü uzatır. Direkleri doğru yükseklikte ve aynı hizada dikmek için ip ya da lazer çizgi kullanın. Gömme derinliği için kaynaklarda uç direk için yaklaşık 4 fit (1,2 m) verildi; ara direklerde derinlik toprağa ve çit yüksekliğine göre değişir ve elimizdeki kaynaklar sayı vermiyor.
+
+Direk çukurunu kazarken toprağı kenarda tutun ve direğin etrafına kademeli doldurup sıkıştırın; aksi hâlde direk zamanla eğilir. Zemin kayalıksa ya da çok sert ise çukur açmak ayrı alet gerektirir; bu iş için tarım makinesi ya da çukur burgusu kiralanabilir. Bahçe küçükse el aletleri ve sabır yeterlidir.
+
+## Evcil hayvan için tel kafesli alan
+
+Bahçe çitinin bir türevi, köpek ya da başka evcil hayvan için tel kafesle çevrilmiş küçük bir alandır. Galvaniz Gezinmeli Köpek Kulübesi İskeleti (1,05 × 2,08 m) ürün açıklamasına göre kulübe bölümünde zeminden 30 cm yüksekte bir yatak rafı ve önünde 1,03 m uzunluğunda, 1,50 m yüksekliğinde gezinme alanı bulunuyor; gezinme alanının yan ve ön yüzlerine tel kafes sabitlenmesi gerekiyor. Tel kafes, duvar kaplaması, raf tablası, çatı örtüsü ve zemin sabitleme malzemesi pakete dahil değil; kutudan galvaniz iskelet ve kapı çıkıyor. Bu, çit yapımının küçük ölçekli bir örneğidir: İskelet direkleri, tel ise dolgu görevi görür, ve burada da tel gerginliği ve zımba/klips bağlantısı aynı ilkelerle uygulanır.
+
+[ürün:galvaniz-gezinmeli-kopek-kulubesi-iskeleti-1-05-x-2-08-m-rafli-kulube-ve-tel-alan]
+
+## Çit yerine canlı çit
+
+Tel çit yerine bitki çit düşünüyorsanız seçenekler vardır; çok hızlı büyüyenler bakım ister. Canlı çit bitkilerini karşılaştırmak için [çit bitkileri](/cit-bitkileri) yazısına bakabilirsiniz. Kuşların meyveye girmesini engellemek için çit yerine ağ ve kovucuların daha uygun olduğunu [meyveleri kuşlardan koruma](/meyveleri-kuslardan-koruma) yazısında anlattık. Ağaç fidanı korumak için kazık ve destek konusu ise [fidan kazığı](/fidan-kazigi) yazısında.
+
+## Sık yapılan hatalar
+
+Bahçe çiti yapımında hatalar genellikle aynı yerde toplanır. Birincisi, köşeyi ihmal etmek: Ara direkler sıkı, köşe zayıf ise çit birkaç ayda sarkar. İkincisi, teli çok gerip bir yerde bırakmak; kışın soğukta tel kısalır ve direği çeker. Üçüncüsü, dikey tellere zımba çakmak. Dördüncüsü, aralığı amaca uymayan tel seçmek: Tavşan için geniş örgü, işe yaramaz. Beşincisi, yıllık gerginlik ayarını atlamak. Altıncısı, sınır ve izin konusunu atlamak; belediye ve komşuyla çit yüksekliği ve konumu hakkında önceden konuşmak ileride uyuşmazlığı önler.
+@sss
+S: Bahçe çitinde direkler kaç metre arayla dikilir?
+C: Purdue Üniversitesi çoğu çitte ara direkler için yaklaşık 10–12 fit (3–3,7 m) aralık veriyor; Iowa State örneğinde de 12 fit (3,7 m). Yüksek gerginlikli tel çitte aralık 25 fite (7,6 m) çıkabilir. Hafif bahçe çitinde daha sık dikmek çiti sağlamlaştırır.
+
+S: Çitin köşe direği neden bu kadar önemli?
+C: Georgia Üniversitesi, tel ilk gerildiğinde köşe ya da uç direğe yaklaşık 3000 libre (1360 kg) çekme geldiğini, kışın soğukta 4500 libreye (2040 kg) çıkabildiğini belirtiyor. Bu yük ara direklere değil köşelere biner; bu yüzden köşeler derin gömülür ve eğik ya da H-takviye yapılır.
+
+S: Tel örgü zımbayla nasıl tutturulur?
+C: Georgia yayınına göre zımba en az 1,5 inç (3,8 cm), tercihen 1,75–2 inç olmalı ve örgü telin dikey dikme tellerine çakılmamalı. Yatay tellere çakın.
+
+S: Çit teli yeniden gerilir mi?
+C: Evet. Georgia yayını tellerin en az yılda bir kez, özellikle ilkbaharda yeniden gerilmesini öneriyor; sıcak ve soğukta tel boyu değişir. Kısa bölümlerde gerilen çitte bu iş daha kolaydır.

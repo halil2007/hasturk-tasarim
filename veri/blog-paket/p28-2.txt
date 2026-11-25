@@ -1,0 +1,559 @@
+### YAZI
+slug: hidroponik-besin-cozeltisi-ec-ph
+baslik: Hidroponik Besin Çözeltisi: EC ve pH Nedir?
+yayin: 2027-02-02 08:45
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: hidroponik besin çözeltisi
+seo_baslik: Hidroponik Besin Çözeltisi: EC ve pH Nedir, Nasıl Ayarlanır?
+seo_aciklama: Hidroponik besin çözeltisi nasıl hazırlanır? EC ve pH ne demek, marul ve domates için hedef aralıklar, ölçüm sırası, çökelme ve yenileme zamanı.
+ozet: Hidroponik besin çözeltisi, topraksız bitkinin tek besin kaynağıdır ve iki sayıyla izlenir: EC (tuz yoğunluğu) ve pH (asitlik). Marul, otlar ve domates için hedef aralıkları, ölçüm sırasını, çözeltinin neden çöktüğünü ve ne zaman yenileneceğini anlattık.
+etiketler: hidroponik, besin çözeltisi, EC, pH, topraksız tarım, TDS, çözelti yenileme
+gorsel: bekliyor
+gorsel_alt: Su dolu şeffaf bardakta dijital pH ölçerin ucu ve yanında EC ölçüm cihazı
+urunler: kullanima-hazir-cocopeat-torfu, hindistan-cevizi-torfu-tablet-cocopeat-12-adet, tarim-perliti
+kisaca: Hidroponik besin çözeltisi, bitkinin ihtiyaç duyduğu besinleri suda çözünmüş halde veren karışımdır. İki sayıyla izlenir: pH çoğu bitkide 5,5–6,5 arasında, EC ise marulda yaklaşık 1,2–1,5, domateste 2–4 mS/cm olmalıdır. Önce çözeltiyi karıştırın, sonra pH'ı ayarlayın; her ayarda yeniden ölçün.
+@govde
+Toprakta bitki, besini toprağın tamponundan alır. Toprak ona hata payı tanır. Hidroponikte bu pay yoktur: Bitkinin ne yiyeceğini siz suya katarsınız. Hidroponik besin çözeltisi bu yüzden iki sayıyla izlenir. Biri çözeltideki toplam tuz yoğunluğunu gösteren EC, diğeri çözeltinin asitliğini gösteren pH'tır. İkisi de yanlışsa, bitki sağlıklı görünse bile besin alamaz.
+
+## Hidroponik besin çözeltisi hangi besinleri içerir?
+
+Bitkinin topraktan aldığı her şeyi çözelti sağlamak zorundadır. Azot, fosfor, potasyum, kalsiyum, magnezyum ve kükürt büyük miktarda gereken makro elementlerdir. Demir, mangan, çinko, bakır, bor ve molibden ise çok az gereken ama yokluğunda büyümeyi durduran mikro elementlerdir. Hazır hidroponik besinler bu elementleri dengeli oranlarda taşır; tek şişe ya da iki üç ayrı kap hâlinde satılır. Ev tipi bahçe gübresiyle hidroponik yapılmaz: Toprak gübresindeki kalsiyum ve mikro element dengesi topraksız ortamda yetersiz kalır, tuz yükü ise yüksektir.
+
+Kendi karışımınızı yapmak mümkündür ama tartı ve kimya bilgisi ister. Başlangıçta hazır ürünün etiket dozunu izleyin, bitkinin tepkisine göre ayarlayın. Marul gibi hafif besleyen bitkide etiketin yarı dozuyla başlayıp artırmak, yanık riskini düşürür.
+
+## Su kalitesi: çözeltinin ilk içeriği
+
+Aynı besin farklı sularda farklı sonuç verir. Musluk suyu zaten kalsiyum, magnezyum ve bikarbonat taşır. Sert su bölgelerinde (özellikle kireçli iç bölgelerde) bu bikarbonat pH'ı yükseltir ve besin ekledikten sonra EC'yi hedefin üstüne taşıyabilir. Yumuşak su bölgesinde ise çözelti başlangıçta çok az tuz içerir ve besin dozunu rahatça kontrol edersiniz.
+
+Yağmur suyu pH ve EC bakımından genellikle temizdir; temiz bir kapta toplanırsa ve saklama süresi kısa tutulursa iyi bir seçenektir. Arıtma sistemlerinin çıkış suyu çok düşük EC taşır ama mineral dengesi sıfıra yakındır; bu durumda kalsiyum ve magnezyum eklemek gerekebilir. Kullandığınız suyun kendi değerlerini ilk gün ölçüp deftere yazın; her sezonda bu değer değişebilir.
+
+## EC nedir, TDS ile aynı mı?
+
+EC (elektriksel iletkenlik), çözeltinin elektriği ne kadar iyi ilettiğini ölçer. Suda çözünen besin tuzları iyon verir; iyon çoğaldıkça iletkenlik artar. Birimi çoğunlukla mS/cm (milisiemens) ya da µS/cm'dir; 1 mS/cm, 1000 µS/cm eder. Piyasadaki bazı ucuz ölçerler ise aynı ölçümü ppm (TDS) olarak gösterir. İki değer arasında sabit bir çarpan vardır ama üretici ve cihaza göre değişir; Florida Üniversitesi'nin marul rehberi 1250 µS/cm değerini yaklaşık 800 ppm TDS'ye karşılık getiriyor. Yani cihazınızın hangi ölçeği kullandığını bilmeden sayıları karşılaştırmayın.
+
+EC'nin toprak tarafındaki karşılığı ve tuzluluk ile ilişkisini [EC nedir](/ec-nedir-toprak-tuzlulugu-olcumu) yazısında anlattık. Hidroponikte konu daha hassastır: Tuz yoğunluğu hem besin hem stres kaynağıdır.
+
+## pH neden besini kilitler?
+
+pH, çözeltinin asitlik düzeyidir. Çözeltide besin var ama pH uygun değilse, bitkinin kökleri o besini alamaz. Missouri Üniversitesi'nin hidroponik yayını çoğu bitki için 5,5–6,5 aralığını temel kural olarak veriyor ([Missouri Extension hidroponik rehberi](https://extension.missouri.edu/publications/g6984)). Bu aralığın dışında önce demir ve mangan gibi mikro elementler, sonra diğerleri çökelip kullanılamaz olur. Yaprakta bunun ilk işareti, yeni yapraklarda damar arası sararmasıdır.
+
+Çözelti zamanla bazikleşme eğilimindedir, çünkü bitki asidik iyonları alırken bazik iyonlar kalır; bu yüzden pH genelde yükselir ve çoğu zaman aşağı çekilmesi gerekir. Florida Üniversitesi'nin küçük ölçekli düzeneğinde bu iş için beyaz damıtılmış sirke kullanılıyor ([UF/IFAS marul rehberi](https://edis.ifas.ufl.edu/publication/HS1488)). Hedef aralığa gelince ölçümü bir süre sonra tekrarlamak gerekir, çünkü çözelti kendine geri döner.
+
+## Bitkiye göre hedef değerler
+
+Kaynaklar arasında EC hedefi tam örtüşmez; bu yüzden aşağıdaki değerleri başlangıç noktası sayın.
+
+| Bitki | pH | EC (mS/cm) | Kaynak ve not |
+|---|---|---|---|
+| Marul | 5,5–6 | yaklaşık 1,2–1,5 | UF/IFAS 1,25 mS/cm; Kratky denemesi 1,5 |
+| Fesleğen, adaçayı | 5,5–6,5 | yaklaşık 1,0–1,6 | Oklahoma State tablosu |
+| Domates | 6,0–6,5 | 2,0–4,0 | Oklahoma State tablosu |
+
+Oklahoma State Üniversitesi'nin EC ve pH tablosu bu bitki gruplarını yan yana gösteriyor ([Oklahoma State hidroponik rehberi](https://extension.okstate.edu/fact-sheets/electrical-conductivity-and-ph-guide-for-hydroponics)). Yaprağı yenen bitkilerde EC düşük, meyveli bitkilerde yüksek tutulur; çünkü meyve besin ister.
+
+## Çözeltiyi hazırlama sırası
+
+::: adimlar
+Suyu hazırlayın | Önce musluk suyunun kendi EC ve pH'ını ölçün; sert su başlangıçta zaten tuz taşır.
+Besini ekleyin | Etiketteki oranı izleyin. İki ayrı kutu geliyorsa (A ve B), her birini ayrı ayrı ve karıştırarak ekleyin, hiçbir zaman ikisini birbirine doğrudan karıştırmayın; kalsiyum ile fosfat/sülfat yoğunken çöker.
+Karıştırıp bekleyin | Birkaç dakika karıştırın, çözeltinin dengelenmesini bekleyin.
+EC ölçün | Hedefin altındaysa az besin ekleyin; üstündeyse su ekleyip seyreltin.
+pH'ı ayarlayın | Gerekirse küçük miktarlarda ayarlayıcı verin ve her seferinde karıştırıp yeniden ölçün.
+:::
+
+Sıralama önemlidir: Önce besin, sonra pH. Besin pH'ı değiştirdiği için ters sırada yapılan ayar boşa gider.
+
+## Ölçerleri kalibre etmek
+
+Ölçerin sayıyı yanlış göstermesi, bitkiyi yanlış beslemekten daha sinsi bir sorundur. pH elektrotu zamanla yaşlanır ve sapar; çoğu üretici standart tampon çözeltileriyle düzenli kalibrasyon önerir. EC cihazlarında ise elektrodun temiz olması yeterlidir. Her ölçümden sonra ucu saf suyla durulayın ve kuru bırakmayın (pH elektrodu genelde saklama sıvısında durur).
+
+Cihaz yoksa ucuz bir pH kâğıdı ya da sıvı test seti başlangıç için işe yarar, ama marul gibi hassas bitkide ondalık farkı göremez. Haftalık ölçüm alışkanlığı ve küçük bir deftere not düşmek, çözeltinin gidişatını görmenizi sağlar.
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+## Çözelti ne zaman yenilenir?
+
+Çözelti iki şekilde bozulur: Bitki bazı besinleri diğerlerinden hızlı tüketir, dengesiz kalır; ayrıca sıcaklıkla ve ışıkla yosun ve bakteri çoğalır. Kratky yönteminde çözelti hasada kadar yetecek şekilde hazırlandığından araya yenileme yapılmaz; Hawaii Üniversitesi'nin yayını yaklaşık üç üründe bir tümüyle yenilemeyi öneriyor. Sirkülasyonlu sistemlerde (NFT, DWC) çözelti çoğu zaman iki–üç haftada bir tümüyle değiştirilir; yine de kendi EC ve pH kaydınız asıl göstergedir.
+
+Su azaldığında önce saf su ekleyin; çünkü buharlaşma sırasında su gider, tuz kalır ve EC yükselir. Çözelti yarıya düştüğünde taze karışım ekleyin. Kök bölgesindeki sorunlarda [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısı, sistem temizliğinde [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısı yol gösterir.
+
+## Sık yapılan hatalar
+
+- **Dozu aşmak:** "Bitki hızlı büyüsün" diye etiketten fazla besin eklemek, yaprak kenarlarını yakar.
+- **Ölçmeden pH düşürmek:** Gözle ayar yapmak çözeltiyi ters yöne iter.
+- **Aynı kapta farklı bitkiler:** Marul ve domatesin hedefi farklıdır; ayrı kaplarda yetiştirin.
+- **Besin ve pH ayarlayıcıyı doğrudan birbirine karıştırmak:** Kaplarda ayrı ayrı seyreltin.
+
+Kısacası hidroponik besin çözeltisi bir kez kurulup bırakılan değil, haftalık izlenen bir karışımdır; bir ölçüm alışkanlığı iyi bir çözeltiden daha değerlidir. Marulun uygulamalı örneği için [hidroponik marul yetiştirme](/hidroponik-marul-evde-basit-duzenek) yazısına, pompasız bir başlangıç için [Kratky yöntemi](/kratky-yontemi) yazısına bakın.
+@sss
+S: Hidroponik besin çözeltisinde EC kaç olmalı?
+C: Bitkiye göre değişir. Marulda yaklaşık 1,2–1,5 mS/cm, fesleğende 1,0–1,6, domateste 2,0–4,0 mS/cm aralığı kaynaklarda geçiyor. Etiket dozunu aşmayın ve cihazın ölçeğine (mS/cm ya da ppm) dikkat edin.
+
+S: Hidroponik çözeltinin pH'ı kaç olmalı?
+C: Çoğu bitki için 5,5–6,5 arası uygundur. Marulda 5,5–6, domateste 6,0–6,5 kaynaklarda geçer. Bu aralığın dışında mikro elementler çöker ve bitki besini alamaz.
+
+S: pH yükselirse ne yapmalıyım?
+C: Çözelti zamanla bazikleşir. Küçük miktarda asidik ayarlayıcı ekleyip karıştırın, sonra yeniden ölçün. Florida Üniversitesi'nin ev düzeneğinde bu iş için beyaz damıtılmış sirke kullanılıyor.
+
+S: Çözeltiyi ne kadar sürede yenilemeliyim?
+C: Kratky yönteminde yaklaşık üç üründe bir; sirkülasyonlu sistemlerde çoğu zaman iki–üç haftada bir. Ölçüm kaydınız asıl göstergedir; EC ve pH hedeften sapıyorsa çözelti yenilenir.
+
+### YAZI
+slug: nft-sistemi-nedir
+baslik: NFT Sistemi Nedir? Topraksız Tarımda Su Kanalı Yöntemi
+yayin: 2027-02-02 10:20
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: nft sistemi
+seo_baslik: NFT Sistemi Nedir? Su Kanalı Yöntemi Nasıl Kurulur?
+seo_aciklama: NFT sistemi nedir, nasıl çalışır? Kanal eğimi, debi, hangi bitkiler uyar, pompa arızasına karşı önlemler ve evde küçük bir düzeneğin kurulumu.
+ozet: NFT sistemi, ince bir besin çözeltisi filminin eğimli kanallarda sürekli akarak köklere ulaştığı topraksız yöntemdir. Çalışma mantığını, kanal eğimi ve debi ayarını, hangi bitkilere uyduğunu, riskleri ve evde kurulum adımlarını anlattık.
+etiketler: NFT, topraksız tarım, hidroponik, besin filmi, eğimli kanal, marul yetiştirme
+gorsel: bekliyor
+gorsel_alt: Eğimli beyaz plastik kanallarda sıra sıra büyüyen marul fideleri ve kanal ucunda çözelti haznesi
+urunler: tarim-perliti, hindistan-cevizi-torfu-tablet-cocopeat-12-adet, kullanima-hazir-cocopeat-torfu
+kisaca: NFT (besin filmi tekniği) sistemi, besin çözeltisinin hafif eğimli kanallarda ince bir film olarak sürekli akıp kök uçlarını ıslattığı topraksız yöntemdir. Kanal eğimi en az yüzde 2 olmalı; marul, fesleğen ve çilek gibi hafif bitkiler uyar. Pompa durursa kökler dakikalar içinde kurur; bu yüzden en riskli kısmı elektriktir.
+@govde
+NFT sistemi, hidroponiğin en tanınmış ticari yöntemlerinden biridir. Fikir basittir: Bir kanal hafif eğimli yerleştirilir, kanaldan besin çözeltisi ince bir film hâlinde akar, bitkilerin kök uçları bu filmin içinde durur. Kanalın dibi akıntıyla ıslanırken üst tarafı havadır; kökün bir kısmı su, bir kısmı oksijen alır. Pompa çözeltiyi hazneden kanalın yüksek ucuna taşır, çözelti yerçekimiyle akar ve hazneye geri döner.
+
+## NFT sistemi nasıl çalışır?
+
+Sistemin dört bileşeni var: Bir hazne, bir pompa, eğimli kanallar ve geri dönüş hattı. Hazne besin çözeltisini tutar. Pompa onu kanalın en yüksek ucuna iter. Kanal içinde çözelti ince bir tabaka olarak akarken bitkinin kökleri onu emer. Kanalın düşük ucundan çıkan çözelti haznede toplanır ve döngü yeniden başlar.
+
+Kökler suyun içinde boğulmaz, çünkü akan film çok incedir (birkaç milimetre) ve kökün üst kısmı hava alır. Aynı sebepten, NFT'nin bir zayıf yanı da vardır: Akış kesilirse kökler kuruyabilir. Bu yüzden elektrik kesintisi ve pompa arızası en büyük risk kaynağıdır.
+
+## Eğim ve debi: sayılar ne diyor?
+
+Oregon State Üniversitesi'nin NFT yayını, besin filminin düzgün akması için yatay kanallarda en az yüzde 2 eğim bulunmasını öneriyor ([Oregon State NFT yayını](https://extension.oregonstate.edu/catalog/pub/em-9457-hydro-hints-nutrient-film-technique)). Yani 5 metrelik bir kanalın bir ucu diğerinden en az 10 cm yüksek olmalıdır. Daha az eğim suyu kanalda biriktirir ve kökler boğulur; fazla eğim suyun çok hızlı akmasına yol açar.
+
+Akış hızı için kaynaklar tam örtüşmüyor. Marul üzerinde yapılan bir hidroponik çalışmada 0,5, 1,0, 1,5 ve 2,0 litre/dakika denenmiş; iki marul çeşidi için en iyi sonuç 1,5 litre/dakika'da bulunmuş ([FAO AGRIS kaydı](https://agris.fao.org/search/es/records/67dadded5d48c9a74a09073e)). Ev ölçeğinde bu bilgiyi başlangıç kabul edin, kendi pompanızı kanala bağlayıp ölçerek ayarlayın.
+
+## Hangi bitkiler NFT'ye uyar?
+
+| Bitki grubu | NFT uyumu | Neden |
+|---|---|---|
+| Marul, roka, ıspanak | Çok uygun | Kökler küçük, besin ihtiyacı düşük |
+| Fesleğen, nane | Uygun | Hızlı büyür, hafiftir |
+| Çilek | Uygun | Düşük ağırlık, meyveyi kanal dışında tutmak kolay |
+| Domates, hıyar | Zor | Ağır bitki, güçlü kök, kanalı tıkar; ek destek ister |
+| Kök sebzeler | Uygun değil | Kök gelişimi için derinlik ister |
+
+Hafif ve kısa süreli bitkiler NFT için biçilmiş kaftandır. Domates gibi ağır bitkilerde kanal tıkanır ve gövdeyi tutmak için sağlam bir çatı gerekir.
+
+## Evde küçük bir NFT düzeneği kurmak
+
+::: adimlar
+Haznesini seçin | Kapaklı, ışık geçirmeyen bir kap (10–20 litre) seçin; pompa içine sığmalı.
+Kanalı hazırlayın | Dikdörtgen ya da yarım yuvarlak profil kullanın; yüzde 2 eğim verin, akış boyunca takozla sabitleyin.
+Net potları yerleştirin | Kanalın kapağındaki deliklere fide sepeti oturtup içine perlit ya da kokopit doldurun.
+Pompayı bağlayın | Kanalın yüksek ucuna ince bir hortumla çözeltiyi taşıyın, düşük uçtan haznenin üzerine akıtın.
+Debiyi ayarlayın | Kanal çıkışından dakikada akan suyu bir ölçü kabıyla ölçün ve hedefe getirin.
+:::
+
+Kanal uzunluğuna dikkat edin: Uzun kanalda son bitkiye ulaşan çözeltide besin ve oksijen azalır. Küçük bir düzenekte kanalı kısa tutmak ve birkaç paralel kanal kurmak daha dengelidir.
+
+[ürün:tarim-perliti]
+
+## NFT sisteminde ortam, fide ve nakil
+
+NFT'de bitki kanalın üzerinde bir fide sepeti içinde durur; sepetin içinde kök başlangıcını tutan az miktarda perlit, kokopit ya da kaya yünü bulunur. Ortamın görevi bitkiyi dik tutmak ve çok genç kökü korumaktır; asıl beslenme akan çözeltiden olur. Fidenin kökü sepetin altından çıkıp kanalın tabanına ulaşana kadar ilk günlerde sepete elle su püskürtmek gerekebilir. Aksi halde genç kök akıntıya erişemeden kurur.
+
+Fideyi tohumdan tablet ya da küpte yetiştirip kökler dışarı çıkınca kanala taşımak en pratik yoldur. Çıplak köklü fideyi (topraktan söküp yıkayarak) NFT'ye taşırsanız kökler zarar görür ve bitki birkaç gün duraksar. Fide başlatma işi için [hidroponik fide küpü](/hidroponik-fide-kupu) yazısına bakın.
+
+## Pompa ve zamanlayıcı: sürekli mi, aralıklı mı?
+
+Klasik NFT'de pompa sürekli çalışır; kök hiç kurumamalıdır. Bazı küçük ev düzeneklerinde pompa saatlik zamanlayıcıyla çalıştırılır, ama bu sistemi NFT'den çok gelgit yöntemine yaklaştırır ve kök kuruması riskini artırır. Sürekli çalışma elektrik tüketimi demektir; küçük akvaryum pompası ev ölçeği için yeterlidir. Pompanın tıkanmaması için girişine ince bir filtre koyun ve haznede çözeltinin altında kalmasına dikkat edin. Hazne boşalırsa pompa kuru çalışıp yanar.
+
+Çözelti hacmi, sistem boyutuna göre seçilir. Hazne ne kadar büyükse EC ve pH o kadar yavaş değişir; çünkü bitki tükettiği suyu ve besini büyük hacme dağıtır. Küçük hazneli sistemde ise günlük ölçüm ve ek su kaçınılmaz olur. Çözelti ayarı için [hidroponik besin çözeltisi](/hidroponik-besin-cozeltisi-ec-ph) yazısına başvurun.
+
+## Riskler ve önlemler
+
+- **Pompa arızası:** Kökler dakikalar içinde kurur. Yedek pompa ve kesintiye karşı küçük bir güç kaynağı riski azaltır; bitkiyi kısa kesintiyi tolere eden ortam dolu sepetlerde (perlit, kokopit) büyütmek de köke birkaç saatlik nem tamponu sağlar.
+- **Tıkanma:** Kök yoğunlaşması ve yosun kanalı doldurabilir. Kanalın düzenli temizliği için [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısına bakın.
+- **Sıcak su:** Çözelti ısınırsa oksijen azalır. Hazneyi gölgede tutun.
+- **Kök çürüklüğü:** Durgun yer kalırsa kök boynu çürür; nedenleri [hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısında.
+
+## NFT, DWC ve Kratky arasında nasıl seçilir?
+
+Kısacası NFT sistemi, hızlı ve temiz bir hasat isteyen ama elektrik altyapısını sağlayabilen kişiler içindir. Pompasız ve elektriksiz bir başlangıç için [Kratky yöntemi](/kratky-yontemi) daha güvenlidir. Marul ve otlarla küçük bir üretim kurmak isteyen, elektrik ve pompaya hâkim biri için NFT yüksek verimlidir. Kökleri doğrudan suyun içinde taşıyan yöntemler ise aynı işi derin su kültürü ile yapar; bir sonraki yazıda onu anlatıyoruz.
+@sss
+S: NFT sistemi nedir?
+C: Besin çözeltisinin hafif eğimli kanalda ince bir film hâlinde sürekli aktığı, köklerin bu filmden beslendiği topraksız yetiştirme yöntemidir. Pompa çözeltiyi yüksek uçtan verir, yerçekimiyle akıp hazneye döner.
+
+S: NFT kanalının eğimi ne kadar olmalı?
+C: Oregon State Üniversitesi en az yüzde 2 eğim öneriyor; 5 metrelik kanalda uçlar arası en az 10 cm fark demektir. Eğim az olursa su birikir, çok olursa hızlı akar.
+
+S: NFT sisteminde elektrik kesilirse ne olur?
+C: Akış durur ve kökler kurumaya başlar. Marul gibi hafif bitkilerde bu birkaç saatte zarar verir. Yedek güç, zamanlayıcı ya da kanalda nemi tutan ortam kullanmak riski azaltır.
+
+S: NFT'de domates yetişir mi?
+C: Zor yetişir. Ağır gövde ve güçlü kök kanalı tıkar; ek destek ve geniş kanal gerekir. Marul, fesleğen ve çilek gibi hafif bitkiler NFT için daha uygundur.
+
+### YAZI
+slug: derin-su-kulturu-dwc-sebze
+baslik: Derin Su Kültürü (DWC) ile Sebze Yetiştirme
+yayin: 2027-02-02 12:10
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: derin su kültürü
+seo_baslik: Derin Su Kültürü (DWC) ile Sebze Yetiştirme Rehberi
+seo_aciklama: Derin su kültürü (DWC) nedir? Köklerin çözeltide durduğu, hava taşıyla oksijenlenen sistemin kurulumu, su sıcaklığı, hangi sebzeler uyar ve riskler.
+ozet: Derin su kültürü, bitki köklerinin hava taşıyla oksijenlenen besin çözeltisinin içinde durduğu topraksız yöntemdir. Kurulumu, su sıcaklığı ve oksijen ihtiyacını, hangi sebzelerin uyduğunu, elektrik kesintisi riskini ve bakım rutinini anlattık.
+etiketler: DWC, derin su kültürü, hidroponik, hava taşı, besin çözeltisi, evde marul
+gorsel: bekliyor
+gorsel_alt: Su dolu siyah kovada köpük levha üzerinde yetişen marul fideleri ve çözeltiye sarkan beyaz kökler
+urunler: hg-kil-bilyesi, hindistan-cevizi-torfu-tablet-cocopeat-12-adet, tarim-perliti
+kisaca: Derin su kültürü (DWC), bitki köklerinin hava taşı ya da pompayla oksijenlenen besin çözeltisinde asılı durduğu topraksız yöntemdir. Marul, fesleğen ve çilek gibi hafif bitkiler uyar. Su sıcaklığı yaklaşık 18–24 °C'de tutulmalı; ısınan su oksijeni azaltır, elektrik kesilirse kökler birkaç saatte zarar görür.
+@govde
+Derin su kültürü topraksız tarımın en doğrudan hâli: Kökler bir kovanın ya da küvetin içindeki besin çözeltisine dalar, bir hava pompası çözeltiye sürekli oksijen üfler, bitki kapakta durur. Pompa yok, kanal yok, fitil yok. Sistemin kendisi basittir; asıl iş su sıcaklığı, oksijen ve temizlik ayarındadır. Bu yöntem hem en kolay hem en çabuk bozulabilen yöntemlerden biridir.
+
+## Derin su kültürü nasıl çalışır?
+
+Bitki, kapaktaki bir delikte fide sepetinin içinde durur. Fide sepetinin tabanı çözeltiye değer ya da kökler doğrudan çözeltiye uzanır. Kök bölgesindeki suyu hava taşı karıştırır; taşın küçük kabarcıkları suya oksijen verir. Oregon State Üniversitesi'nin DWC yayınına göre bu sistemde su hareketi ve hava alışverişi az olduğu için etkili havalandırma şarttır ([Oregon State DWC yayını](https://extension.oregonstate.edu/catalog/pub/em-9455-hydro-hints-deep-water-culture)). Aynı kaynak, düzenli pH, besin yoğunluğu ve havalandırma ekipmanı kontrolünü öneriyor.
+
+Kratky yöntemiyle benzerdir ama bir farkı var: Kratky'de hava yoktur ve çözelti azaldıkça kökler hava boşluğuyla buluşur; derin su kültüründe kökler hep suda kalır ve oksijen dışarıdan verilir. Pompasız seçeneği [Kratky yöntemi](/kratky-yontemi) yazısında anlattık.
+
+## Su sıcaklığı: sistemin görünmeyen sınırı
+
+Soğuk su sıcak sudan daha fazla çözünmüş oksijen tutar. Bu yüzden DWC'de sıcaklık, oksijenin kendisi kadar önemlidir. Wikipedia'nın derin su kültürü maddesi 18–24 °C aralığını veriyor ve marul için çözünmüş oksijenin 7 mg/litre üstünde tutulmasını yazıyor ([derin su kültürü maddesi](https://en.wikipedia.org/wiki/Deep_water_culture)). Bu değerler ikincil kaynaktan geliyor; kendi ölçümünüze bakın.
+
+Büyük su hacmi bir tampon görevi görür: Gece–gündüz farklarını yumuşatır. Ama yazın balkonda siyah bir kova güneşle hızla ısınır. Kovayı gölgeye almak ve dış yüzeyini yansıtıcı malzemeyle sarmak, sıcaklığı düşüren en basit önlemdir.
+
+## Hangi sebzeler DWC'ye uyar?
+
+| Bitki | Uyum | Not |
+|---|---|---|
+| Marul, roka | Çok iyi | Serin, hızlı büyür |
+| Fesleğen, nane | İyi | Sıcağı sever ama su ısınırsa çürür |
+| Çilek | Orta | Yüksek besin ve ışık ister |
+| Domates, biber | Zor | Büyük kök, ağır gövde; geniş kova ve destek gerekir |
+| Kök sebzeler | Uygun değil | Kökü derinlik ve katı ortam ister |
+
+Yeni başlıyorsanız marulla deneyin. Düzenek ayrıntıları için [hidroponik marul yetiştirme](/hidroponik-marul-evde-basit-duzenek) yazısı kutu ve fide sepeti ölçülerini veriyor.
+
+Isı kontrolü sağlanabiliyorsa fesleğen ve nane gibi aromatik otlar da DWC'de çok hızlı büyür; yalnızca kesimle yenilenmelerine izin verin ve çiçek tomurcuğunu erken koparın. Çilek ise yoğun ışık ve düzenli besin istediği için ikinci adım olarak denenmelidir.
+
+## Evde DWC kurmak adım adım
+
+::: adimlar
+Kovayı seçin | Işık geçirmeyen, kapaklı bir kap; 10–20 litre bir kova küçük ölçek için yeter.
+Kapağı delin | Fide sepeti çapında delikler açın; sepetler kovada çözeltiye 1–2 cm dalacak şekilde oturmalı.
+Hava taşını yerleştirin | Pompayı kovanın dışına koyun, hortumla tabana taş indirin; taş kökleri doğrudan üflemesin.
+Çözeltiyi hazırlayın | Besin ekleyin, EC ve pH'ı ölçün; ayrıntı [hidroponik besin çözeltisi](/hidroponik-besin-cozeltisi-ec-ph) yazısında.
+Fideyi taşıyın | Kökleri kil bilyesi ya da perlitle sarıp fide sepetine yerleştirin.
+:::
+
+Üstü kapalı çözelti, yosunun çoğalmasını engeller. DWC düzeneğinde ışık sızması en sık gözden kaçan hatadır. Kapağın ışık sızdıran kenarlarını siyah bantla kapatın.
+
+[ürün:hg-kil-bilyesi]
+
+## Su seviyesi ve kök boyu
+
+DWC'de bitkiyi kuran şey su seviyesidir. Fide ilk günlerde kökleri henüz kısadır; çözelti seviyesi fide sepetinin tabanına değecek kadar yüksek tutulur. Kökler uzadıkça seviyeyi bir iki santim düşürmek, üst kök bölgesinde hava ve nem karışımı sağlar ve köklerin boğulmasını önler. Bu üst kısım "nemli hava bölgesi" olarak işe yarar, çünkü kök oksijeni oradan da alır.
+
+Kökler çok uzar ve kovayı doldurursa hava taşından uzak kalan kısımlar çürüyebilir. Bu durumda büyük bir kova ya da küvet seçmek, ya da kökleri hasat dönemine yaklaşırken kısaltmak gerekir. Bitkiler arası mesafeyi marul için 15–20 cm tutarsanız kökler birbirine dolanmaz.
+
+## Yosun, kök sağlığı ve temizlik
+
+Işık ve besin birleşince yosun çoğalır. Yosun kovada çözünmüş oksijeni tüketir ve köklere yapışarak beslenmelerini engeller. Çözeltinin üstü kapalı, kova siyah ya da koyu olmalıdır. Kök sağlıklıysa beyaz ve sert görünür; kahverengi, yapışkan ve kokulu kök çürüme belirtisidir. Çürük kökleri temiz makasla kesin, kovayı boşaltıp yıkayın ve çözeltiyi yenileyin.
+
+Düzenek temizliği için sirkeli su ya da seyreltik çamaşır suyu kullanılıp bol su ile durulanır; kalıntı bırakmamak şarttır. Ayrıntılı temizlik adımları [hidroponik sistem temizliği](/hidroponik-sistem-temizligi) yazısında.
+
+## Fideyi kovaya taşırken ilk hafta
+
+DWC'de fide, tohumdan çimlenmiş ve kökleri sepetin altından görünmeye başlamış hâlde kovaya geçer. Taşıdıktan sonraki ilk hafta bitki yeni ortama alışır; yaprakta hafif solgunluk görmek olağandır. Bu dönemde çözelti konsantrasyonunu hedefin alt sınırında tutmak, genç kökü yakmamak için güvenli yoldur. Işığı kademeli artırın ve çözeltiyi her gün gözle kontrol edin. Köklerin beyazlaşıp uzaması, bitkinin yeni ortamı kabul ettiğini gösterir.
+
+## Elektrik kesintisi ve oksijen: asıl risk
+
+DWC'nin en büyük zayıflığı, pompa durduğunda oksijenin tükenmesidir. Oregon State, elektrik kesintisi ve pompa arızasının köklerin düşük oksijenli çözeltide kalmasına yol açtığını ve sıcaklığı sabit tutmanın zor olduğunu başlıca riskler arasında sayıyor. Küçük düzenekte ne yapabilirsiniz?
+
+- Pompanın gücü kesintiye karşı bataryalı bir yedekle desteklenebilir.
+- Tatile gitmeden önce marul gibi kısa süreli bitkiyi hasat edin.
+- Pompanın çıkışını arada kontrol edin; hava taşı tıkandığında kabarcık azalır.
+
+## Bakım rutini
+
+Haftalık bakım dörde ayrılır: pH ölçümü, EC ölçümü, su seviyesi ve kök kontrolü. Kökler beyaz ve sağlam olmalı; kahverengi, kokulu, yapışkan kökler çürüme belirtisidir ([hidroponikte kök çürüklüğü](/hidroponikte-kok-curuklugu) yazısında nedenler var). Çözeltiyi iki–üç haftada bir yenileyin ve kovayı ılık suyla yıkayın.
+@sss
+S: Derin su kültürü nedir?
+C: Bitki köklerinin hava taşı ya da pompayla oksijenlenen besin çözeltisinde durduğu topraksız yöntemdir. Kökler suda kalır; bu yüzden oksijen dışarıdan sürekli verilir.
+
+S: DWC için su sıcaklığı ne olmalı?
+C: Yaklaşık 18–24 °C aralığı yaygın olarak anılıyor. Su ısındıkça çözünmüş oksijen azalır ve kökler çürümeye başlar. Kovayı gölgede tutmak sıcaklığı düşürür.
+
+S: Derin su kültüründe hava taşı şart mı?
+C: Evet. Oregon State Üniversitesi'ne göre DWC'de su hareketi ve hava alışverişi az olduğu için etkili havalandırma şarttır. Hava taşı küçük kabarcıklarla suya oksijen verir.
+
+S: DWC ile domates yetişir mi?
+C: Yetişir ama zordur. Büyük kök, ağır gövde ve yüksek besin ihtiyacı için geniş kova, sağlam destek ve sürekli havalandırma gerekir. Yeni başlayan için marul ve fesleğen daha kolaydır.
+
+### YAZI
+slug: yeni-dikilen-fidan-sulama-ilk-yil
+baslik: Yeni Dikilen Fidan Sulama: Ne Sıklıkla? İlk Yıl Planı
+yayin: 2027-02-02 16:55
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: yeni dikilen fidan sulama
+seo_baslik: Yeni Dikilen Fidan Sulama: İlk Yıl Planı ve Sıklık
+seo_aciklama: Yeni dikilen fidan sulama sıklığı nedir? İlk haftalar, ilk ay ve ilk yıl için sulama planı, litre hesabı, toprak parmak testi ve aşırı sulama riski.
+ozet: Yeni dikilen fidan ilk haftalarda sık, sonra aralıklı ve derin sulanır. Üniversite yayımlarına göre ilk hafta sık, ilk aydan sonra haftada bir derin sulama temel çerçevedir. Su miktarını, parmak testini, malçı ve fazla sulamanın zararını anlattık.
+etiketler: fidan sulama, yeni dikilen fidan, ilk yıl bakımı, derin sulama, malç, damla sulama
+gorsel: bekliyor
+gorsel_alt: Yeni dikilmiş fidanın çevresinde sulama çanağı ve hortumdan akan su, üzerinde saman malç
+urunler: sgs-3-fonksiyonlu-sulama-tabancasi, sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu, hg-fidan-topragi
+kisaca: Yeni dikilen fidan sulama, dikim gününde bol can suyuyla başlar; ilk 1–2 hafta sık, ilk aydan sonra haftada bir derin sulama yapılır. Minnesota Üniversitesi gövde çapının her 2,5 cm'si için yaklaşık 4–6 litre su önerir; asıl ölçüt sulama öncesi toprağın parmakla yoklanmasıdır. Aşırı sulama da fidanı öldürür.
+@govde
+Fidanı dikmek işin yarısıdır. İkinci yarısı ilk bir yıldır ve en çok fidan bu yılda kaybedilir. Kök topu dikimde bozulduğu ya da kökler kopmuş olduğu için fidan, doğal yağışa güvenemeyecek kadar zayıftır. Yeni dikilen fidan sulama kuralının iki yanı var: Çok az su kökü kurutur, çok fazla su kökü çürütür. Orta yolu bulmak için takvimden çok toprağa bakmak gerekir.
+
+## Yeni dikilen fidan sulama: ilk haftalar
+
+Dikim günü fidana bol bir "can suyu" verilir; bu su toprağı kök topuna yapıştırır ve hava boşluklarını kapatır. Minnesota Üniversitesi'nin yayını, dikimden sonraki 1–2 hafta boyunca sulamanın sık yapılmasını (günlük) önerir ve her sulamada gövde çapının her inç'i (2,5 cm) için 1–1,5 galon (yaklaşık 4–6 litre) su verilmesini yazıyor ([Minnesota Üniversitesi fidan sulama rehberi](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs)). Kansas State Üniversitesi ilk ay haftada bir ya da iki kez sulamayı, ardından haftalık yaklaşık 10 galonluk (yaklaşık 38 litre) derin sulamayı öneriyor ([Kansas State yayını](https://bookstore.ksre.ksu.edu/download/watering-newly-planted-and-young-trees-and-shrubs_MF2800)).
+
+Kaynaklar sıklık ve miktar konusunda biraz ayrılıyor. Ortak nokta şu: İlk haftalar sık ve hafif, sonra seyrek ve derin sulama yapılır.
+
+## İlk yıl sulama takvimi
+
+| Dönem | Sıklık | Not |
+|---|---|---|
+| Dikim günü | Bol can suyu | Toprağı kök topuna oturtur |
+| 1–2. hafta | Günde bir, kuru ve sıcakta | Kök topu hiç kurumamalı |
+| 3.–4. hafta | Haftada 2–3 kez | Toprak tavına bakarak |
+| 2.–3. ay | Haftada bir derin sulama | Yağış yoksa |
+| Yaz sıcakları | Haftada 1–2 derin sulama | Sıcak dalgasında artırın |
+| Sonbahar | Yağışa bakarak seyreltin | Kışa girmeden toprağı nemli bırakın |
+
+Kansas State Üniversitesi, bir ağacın yerleşmesinin ilk üç büyüme mevsimine yayıldığını söylüyor. Yani ikinci ve üçüncü yılda da yaz kuraklığında sulamayı bırakmayın.
+
+## Parmak testi: ne zaman sulanır?
+
+Takvime körü körüne uymak yerine toprağa bakmak daha güvenilirdir. Fidanın dibine, kök topunun hemen yanına işaret parmağınızı 5–8 cm sokun. Toprak kuru ve ufalanıyorsa sulama zamanıdır; nemli ve elinize yapışıyorsa bekleyin. Kök topunun içi ile çevresindeki toprak aynı hızda kurumaz: Torbalı ya da saksılı fidanda kök topu çabuk kurur, çevre toprak nemli kalır. Bu durumda su, kök topuna gitmeden çevreye yayılır. Sulamayı doğrudan kök topuna yönlendirmek bu yüzden önemlidir.
+
+[ürün:sgs-3-fonksiyonlu-sulama-tabancasi]
+
+## Ne kadar su?
+
+Su miktarı gövde çapına göre değişir. Minnesota'nın ölçüsü gövde çapı başına inç başına 1–1,5 galon; yani 3 cm çapında bir fidan için yaklaşık 5–7 litre. Colorado State gibi bazı kaynaklar daha yüksek miktar yazıyor. Ev bahçesinde kolay uygulama: fidan dibinde sulama çanağı açın, bir kova suyu yavaşça boşaltın, suyun toprağa çekilmesini bekleyin, gerekirse tekrar edin. Yüzeyde göllenme varsa su çok hızlı veriliyor demektir.
+
+Kumlu toprakta su çabuk iner, bu yüzden haftalık miktarı iki seferde verin. Killi toprakta ise su yavaş sızar ve sulama aralığını uzatın. Toprak tipi bilmiyorsanız [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısında toprağı tanımanın pratik yolları var.
+
+## Çanak, malç ve damla sulama
+
+Fidanın çevresine 60–90 cm çapında bir sulama çanağı açın. Çanak, suyu fidan dibinde tutar ve akıp gitmesini önler. Üzerine 5–8 cm kalınlıkta saman, yaprak ya da çam kabuğu malç serin ama gövdeye yaslamayın; gövdeye yaslanan malç çürüme ve kemirgen çağırır. Malç toprağın nemini korur, sıcaklığını dengeler ve sulama aralığını uzatır. Ayrıntılar için [ağaç dibi malçlama](/agac-dibi-malclama) yazısına bakın.
+
+Çok sayıda fidanınız varsa damla sulama düzeni hem iş yükünü hem su kaybını azaltır. Hortumun ucunu fidanın yakınında yavaş damlatacak biçimde bırakmak da işe yarar.
+
+## Kuru ve sıcak havada yeni dikilen fidan sulama
+
+Yaz ortasında yeni dikilmiş fidan, sıcak ve rüzgârlı bir günde saatler içinde bitkiyi kaybedebilir. Solgun yaprak ilk işarettir. Fidan öğle sıcağında hafif sarkabilir ve akşam toparlanabilir; bu normaldir. Ama akşam da toparlanmazsa su stresi vardır. Gölgeleme file ya da kenarında bir çuval ile öğle güneşini kesmek, genç fidanı korur. Sulamayı sabah erken veya akşam geç saatte yapın; öğle saatinde sulamak suyun büyük kısmını buharlaştırır.
+
+Damla sulama ya da ağaç dibinde delikli bir bidon kullanmak suyu yavaş ve derinden verir. Yüzeyden sık sık verilen az su ise kökleri yüzeye çeker ve fidanı kuraklığa daha duyarlı yapar. Kök derine inecekse su da derine inmelidir.
+
+## Kış ve ilkbahar dikiminde sulama farkı
+
+Kış sonunda dikilen çıplak köklü fidan yaprak taşımadığı için su kaybı çok azdır. Bu dönemde yağış çoğunlukla yeter ve sulama yalnızca can suyu ve kuru geçen haftalarda gerekir. Şubat sonu ile mart başında dikilen fidanlar, ilkbaharda yaprak açınca suya ihtiyaç duymaya başlar; bu tarihten itibaren haftalık düzeni izleyin. Torbalı ya da tüplü fidanlar kış sonunda da kök topunu taşıdığı için daha çabuk kurur ve daha sık sulama ister. Dikim yöntemleri için [tüplü fidan dikimi](/tuplu-fidan-dikimi) yazısına bakabilirsiniz.
+
+## Ne zaman sulamayı seyreltirsiniz?
+
+Fidan ilk yıldan sonra bile birkaç yıl sulama destekli büyür. İkinci yıl ve sonrasında yağış bol olan bölgelerde sulama yalnızca yaz kuraklığına bırakılabilir. Bunun işareti, fidanın yeni sürgün vermesi ve yaprak renginin yeşil ve dolgun kalmasıdır. Büyüyen ağaç kök sistemini genişlettikçe tek bir çanaktan çok daha geniş alandan su alır; bu yüzden su vermeyi gövdenin dibinden taç izdüşümüne doğru genişletmek gerekir. Kök büyümesini teşvik etmek için sulamayı seyrek ama derin yapmak yine ana kuraldır.
+
+## Fazla sulama: görünmeyen düşman
+
+Maryland Üniversitesi, birçok insanın yeni dikilmiş ağacı fazla sulayarak boğduğunu belirtiyor. Fazla su toprağın hava boşluklarını doldurur ve kökler nefes alamaz. Belirtisi, yaprakların sararması ve solması; yani susuzlukla aynı görünür. Bu yüzden solgun fidanı gördüğünüzde hemen sulamak yerine toprağı yoklayın. Toprak ıslaksa sulamayı durdurun, drenajı kontrol edin. Fidan seçiminden dikime kadar olan adımlar için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) ve [fidan gübreleme](/fidan-gubreleme) yazılarına bakabilirsiniz.
+@sss
+S: Yeni dikilen fidan ne sıklıkla sulanır?
+C: Dikimden sonra ilk 1–2 hafta sık (kuru havada günlük), ilk aydan sonra haftada bir derin sulama yapılır. Üniversite yayımları sıklık ve miktarda biraz ayrılıyor; en güvenilir ölçüt toprağı parmakla yoklamaktır.
+
+S: Yeni dikilen fidana bir seferde kaç litre su verilir?
+C: Minnesota Üniversitesi gövde çapının her inç'i (2,5 cm) için 1–1,5 galon (yaklaşık 4–6 litre) öneriyor. Kansas State haftalık yaklaşık 10 galon (38 litre) derin sulamayı öneriyor. Kumlu toprakta iki seferde verin.
+
+S: Fidan fazla sulanırsa ne olur?
+C: Toprağın hava boşlukları dolar, kökler nefes alamaz ve çürür. Belirti, yaprakların sararması ve solmasıdır; susuzlukla karışır. Sulamadan önce toprağı yoklayın ve su birikmesini önleyin.
+
+S: Fidan dibine malç serilmeli mi?
+C: Evet. 5–8 cm kalınlıkta malç toprağın nemini korur ve sulama aralığını uzatır. Gövdeye yaslanmamalı, çünkü çürüme ve kemirgen riski artar. Gövdeden birkaç santim uzakta bırakın.
+
+### YAZI
+slug: meyve-agaclarinda-humik-asit-ne-zaman
+baslik: Meyve Ağaçlarında Hümik Asit Ne Zaman Verilir?
+yayin: 2027-02-02 19:40
+yazar: Hatice Kübra Çelik
+kategori: gubreleme
+odak: meyve ağaçlarında hümik asit
+seo_baslik: Meyve Ağaçlarında Hümik Asit Ne Zaman Verilir?
+seo_aciklama: Meyve ağaçlarında hümik asit ne zaman verilir? Kış sonu ve ilkbahar uygulaması, taç izdüşümü, damla ile verme, kanıtlar ve sınırlar tarafsız anlatıldı.
+ozet: Hümik asit gübre değil, toprak düzenleyicidir; meyve ağaçlarında kış sonu ve ilkbaharda kök bölgesine verilir. Araştırma sonuçlarının karışık olduğunu, hangi toprakta işe yaradığını, uygulama zamanını ve yöntemini ve beklentiyi nasıl ayarlayacağınızı anlattık.
+etiketler: meyve ağacı bakımı, kış sonu uygulaması, taç izdüşümü, damla sulama, uygulama zamanı, kök bölgesi
+gorsel: bekliyor
+gorsel_alt: Meyve ağacı altında taç hizasında toprağa serpilen koyu renkli leonardit ve toprak yüzeyi
+urunler: hasturk-humix-sivi-humik-asit, leonardit-organik-toprak-duzenleyici, hasturk-kati-solucan-gubresi
+kisaca: Meyve ağaçlarında hümik asit, kış sonundan çiçeklenmeye kadar kök bölgesine, taç izdüşümüne verilir; damla sulamayla da uygulanır. Hümik asit gübre değil toprak düzenleyicidir ve etkisi toprağa göre değişir: bazı meyve çalışmaları olumlu, sebze tarlalarındaki bir Kaliforniya çalışması ise düşük ve kayda değer olmayan etki gösterdi.
+@govde
+Hümik asit, son yıllarda her bahçe mağazasının rafında yer alan ve çoğu zaman "kök gelişimini artırır" cümlesiyle satılan bir malzeme. Gerçekte bilimsel veri daha karmaşıktır. Meyve ağaçlarında hümik asit bazı toprak ve türlerde işe yarar, bazılarında fark yaratmaz. Aşağıda önce neyin kanıtlandığını, sonra ne zaman ve nasıl verileceğini ayrı tutuyoruz; böylece beklentiniz doğru başlar.
+
+## Gübre değil, toprak desteği
+
+Hümik asit, toprakta organik maddenin ayrışmasından oluşan koyu renkli bileşiklerden biridir. Ticari ürünler kömürleşmiş organik kaynaklardan elde edilir. Bir gübre değildir: İçinde bitkinin ihtiyaç duyduğu azot, fosfor, potasyum gibi besinlerin anlamlı miktarı yoktur. Görevi toprağın yapısını ve besinleri tutma kapasitesini desteklemektir. Bu yüzden eksik bir gübre programının yerini tutmaz; gübrenin yanına eklenir.
+
+Organik madde dengesi ve toprak canlılığı üzerine daha fazla bilgi için [toprakta organik madde](/toprakta-organik-madde) yazısına bakabilirsiniz. Toprak düzenleyici ürünlerin açıklamalarında su tutma kapasitesini artırdığı belirtiliyor.
+
+## Kanıtlar ne diyor?
+
+Meyve ağaçlarında yapılan saha çalışmalarında olumlu sonuçlar bildirilmiş: Bir derlemede anılan Çin'deki bir elma bahçesi denemesinde kimyasal gübreye hümik asit eklenmesi verimi yüzde 12–35 oranında artırmış; bir Kalamata zeytin çalışmasında besin durumu ve kök gelişimi iyileşmiş. Nektarin üzerinde taç izdüşümüne yapılan uygulamada toprakta fosfor, potasyum, kalsiyum ve çinko değişmiş ama azot değişmemiş.
+
+Öte yandan Kaliforniya Üniversitesi'nin domates ve marul üzerindeki saha çalışması, tipik ticari dozlarda hümik asidin sebze verimini ve besin alımını anlamlı biçimde artırmasının pek olası olmadığı sonucuna varmıştır ([UC saha çalışması](https://ucanr.edu/sites/nm/files/76748.pdf)). Derlemeler de hümik asit için saha denemelerinin farklı ürün, toprak ve iklimlerde yeterince yapılmadığını belirtiyor.
+
+Yani dürüst özet şu: meyve ağaçlarında hümik asit bir mucize değil, ihtimali olan bir destektir. Bazı ağaç denemelerinde olumlu sinyal var, ama sonuç toprağa, dozaja ve yönteme göre değişiyor. Hümik asit "garanti verim" değil, düşük riskli bir toprak desteğidir.
+
+## Meyve ağaçlarında hümik asit ne zaman verilir?
+
+Zamanlama genellikle bitkinin kök faaliyetine bağlanır:
+
+::: takvim
+Kış sonu hazırlık uygulaması | 2-3
+Göz kabarması ve çiçeklenme öncesi | 3-4
+Meyve tutumu ve sürgün dönemi | 4-6
+Sonbahar toprak hazırlığı | 9-11
+:::
+
+En yaygın öneri, kök faaliyeti başlarken (kış sonu–ilkbahar) uygulamaktır; böylece köklere ulaşabilir. Sıcak yaz ortasında yapılan uygulamalarda damla sulama ile verilebilir; ama aşırı sıcakta toprak kuruyor ve etkisi azalıyor. Sonbahar uygulaması, kökün kışa hazırlanırken toprağa karışmasını sağlar. Kesin bir ay yoktur; ürünün etiketi ve toprak analizi asıl rehberdir.
+
+Pratikte iki zaman dilimi öne çıkar. Kış sonu uygulaması, çiçeklenmeden önce kökleri hazırlar; hasattan sonraki sonbahar uygulaması ise ağacın kış öncesi depolama dönemini destekler. Aynı yıl içinde ikisini de yapmak zorunda değilsiniz; tek zamanı seçip sonuçları izlemek daha öğreticidir.
+
+## Nasıl verilir?
+
+::: adimlar
+Taç izdüşümünü bulun | Dalların uç hizasında toprağa halka çizin; hümik madde kök bölgesine verilir, gövdeye değil.
+Ürünün formuna bakın | Sıvı ürün damla sulamayla ya da suya karıştırılarak, katı ürün toprağa serpilip karıştırılarak uygulanır.
+Toprağa karıştırın ya da sulayın | Katı ürünü üst toprağa karıştırın; sıvıyı sulama suyuyla toprağa verin.
+Bol su verin | Nemli toprak etkiyi taşır; kuru toprakta sonuç alınmaz.
+:::
+
+Katı toprak düzenleyici ürünün açıklamasında bahçe ve tarla için metrekareye 1 litre/kg, saksıda saksı toprağının yüzde 10–20'si oranında karıştırma öneriliyor. Sıvı hümik asit açıklamasında damla sulama ve toprak uygulaması anılıyor; meyve bahçelerinde kök bölgesini desteklemek için kullanılabileceği yazıyor. Doz için etikete bakın; ağaç başına bir miktar yazılı değilse tahminle artırmayın.
+
+[ürün:hasturk-humix-sivi-humik-asit]
+
+## Hümik asit ne zaman yetmez?
+
+Hümik asit, ağacın başka bir sorununu çözmez. Yaprak sararması demir eksikliğinden, meyve dökümü su stresinden ya da tozlanmadan kaynaklanıyorsa hümik asitle düzelmez. Önce toprak analizi yaptırın: pH, kireç, organik madde ve besin düzeyi. Hümik asit organik maddesi düşük, sıkışık ve kumlu topraklarda daha olası bir fayda sağlar; organik madde zaten yüksekse etkisi azalır. Analiz okumayı [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısında anlattık.
+
+## Elma, zeytin, ceviz: türe göre veri
+
+Verilerin çoğu elma, zeytin, nektarin ve erik gibi yaygın türlerde toplanmış. Ceviz, kiraz ve narenciye gibi türlerde elimizde daha az saha denemesi var. Ağaç başına etkiyi tahmin etmek zor; bu yüzden uygulamayı pahalı bir ek değil, küçük bir deneme olarak düşünün. Kireçli ve alkali topraklarda hümik asit mikro element alımını destekleyebilir; ama bunun kanıtı bölgeden bölgeye ve çeşitten çeşide değişiyor.
+
+Genç fidanda dikim çukuruna karışan organik madde ve olgun gübre zaten kök gelişimini destekler; bu aşamada hümik asit zorunlu değildir. Yetişkin ve verimde ağaçlarda, özellikle organik maddesi düşük bahçelerde, bakım programının bir halkası olabilir.
+
+## Etikette hangi bilgi aranır?
+
+Hümik asit ürünleri sıvı, granül ya da toz hâlinde satılır ve içerikleri farklı kaynaklardan gelir. Etikette hümik madde yüzdesini, kaynağını, çözünürlüğünü ve önerilen kullanım miktarını arayın. Yüzde değeri belirtilmemiş ürünün gücünü karşılaştıramazsınız. Sıvı ürün damla sulamaya kolay uyar; katı materyal ise toprağa karışarak yavaş çalışır. Organik tarım yapıyorsanız ürünün organik girdi listesinde yer alıp almadığına bakın. Hiçbir hümik asit ürünü bir gübrenin yerine geçmez.
+
+## Solucan gübresiyle ve toprak analiziyle birlikte
+
+Hümik asit, diğer organik gübrelerle birlikte düşünülür. Solucan gübresi organik madde ve besin verirken hümik asit toprağın tutma kapasitesini destekler. Meyve ağacına katı solucan gübresi uygulaması için [meyve ağacına solucan gübresi](/meyve-agacina-solucan-gubresi-tac-izdusumu) yazısına bakın. Gübre türleri arasındaki farklar için [organik gübre çeşitleri](/organik-gubre-cesitleri) yazısı yol gösterir.
+
+Beklentiyi ayarlamak için bir ağaç ya da bir sıra seçin ve hümik asit uygulamadığınız bir komşusuyla karşılaştırın. Sürgün uzunluğu, yaprak rengi ve meyve tutumunu sezon boyunca not edin. Bu basit deneme, uygulamanın sizin toprağınızda ne işe yaradığını gösterir.
+@sss
+S: Meyve ağaçlarında hümik asit ne zaman verilir?
+C: Çoğunlukla kış sonu ile ilkbahar başında, kökler uyanırken verilir. Sıvı hümik asit damla sulamayla, katı ürünler taç izdüşümüne serpilip toprağa karıştırılarak uygulanır. Sonbahar uygulaması da yaygındır.
+
+S: Hümik asit gübre midir?
+C: Hayır. Hümik asit bir toprak düzenleyicisidir; azot, fosfor ve potasyum gibi besinleri anlamlı miktarda taşımaz. Toprak yapısını ve besin tutmayı destekler. Eksik gübre programının yerini tutmaz.
+
+S: Hümik asit meyve ağaçlarında verimi artırır mı?
+C: Sonuçlar karışıktır. Bazı elma ve zeytin çalışmalarında olumlu etki bildirilmiş, Kaliforniya'daki bir sebze çalışmasında ise tipik dozlarda kayda değer artış bulunmamış. Etki toprağa ve dozaja göre değişir.
+
+S: Hümik asit hangi toprakta işe yarar?
+C: Organik maddesi düşük, sıkışık ya da kumlu topraklarda faydası daha olasıdır. Organik maddesi yüksek bir toprakta etkisi azalır. Karar vermeden önce toprak analizi yaptırmak doğrudur.
+
+### YAZI
+slug: tarla-toprak-isleme-aletleri-pulluk-diskaro
+baslik: Tarla Toprak İşleme Aletleri: Pulluk, Diskaro, Kültivatör ve Rotovatör Ne İşe Yarar?
+yayin: 2027-02-02 14:30
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: tarla toprak işleme aletleri
+seo_baslik: Tarla Toprak İşleme Aletleri: Pulluk, Diskaro, Rotovatör
+seo_aciklama: Tarla toprak işleme aletleri ne işe yarar? Pulluk, diskaro, kültivatör ve rotovatör farkı, birincil ve ikincil işleme, derinlik ve aşırı işleme riski.
+ozet: Tarla toprak işleme aletleri birincil (pulluk, riper) ve ikincil (diskaro, kültivatör, rotovatör) olarak ayrılır. Pulluk toprağı 20–30 cm derinlikte çevirir, rotovatör son tohum yatağını hazırlar. Alet farklarını, derinlik ve anız örtüsü etkisini, aşırı işleme ve sıkışma riskini üniversite kaynaklarıyla anlattık.
+etiketler: pulluk, diskaro, kültivatör, rotovatör, toprak işleme, tohum yatağı, anız, tarla hazırlığı
+gorsel: bekliyor
+gorsel_alt: Tarlada traktöre bağlı pulluk ve arkasında çevrilmiş kahverengi toprak şeritleri
+urunler: raco-iki-disli-bahce-el-capasi
+kisaca: Tarla toprak işleme aletleri birincil ve ikincil diye ayrılır: Kulaklı pulluk toprağı yaklaşık 20–30 cm derinlikte çevirir ve en agresif alettir; riper (iskelet pulluk) toprağı kırar ama bütünüyle çevirmez; diskaro ve kültivatör ikincil işlemde, rotovatör ise son tohum yatağı için kullanılır. Aşırı ve ıslak toprakta işleme yapı bozar.
+@govde
+Traktör kapıdan çıkıp tarlaya girdiğinde, arkasındaki alet işin sonucunu belirler: Aynı toprak pullukla çevrildiğinde farklı, riperle kırıldığında farklı, rotovatörle ufalandığında yine farklı bir hâle gelir. Tarla toprak işleme aletleri, ilk bakışta birbirine benzeyen demir parçaları gibi görünür; oysa her biri toprağın başka bir katmanında, başka bir amaçla çalışır. Aşağıda pulluk, diskaro, kültivatör ve rotovatörün ne yaptığını, hangi sırayla kullanıldığını ve toprağa nasıl etki ettiğini üniversite ve kamu kurumu kaynaklarıyla anlatıyoruz.
+
+## Tarla toprak işleme aletleri: birincil ve ikincil işleme
+
+Tarla toprak işleme aletleri iki aşamalı bir işin parçasıdır. Toprak işleme iki aşamada düşünülür. Birincil işleme, toprağı derinlemesine gevşetir ya da çevirir; anızı ve bitki artıklarını toprağa gömer ya da kırar. İkincil işleme ise birincil işlemeden sonra yüzeyi tohum yatağına uygun hâle getirir: kesekleri ufalar, yüzeyi düzler, yabani otları keser. Minnesota Üniversitesi'nin toprak işleme aletleri rehberi bu ayrımı temel alıyor ([UMN toprak işleme aletleri: amaç ve ideal kullanım](https://extension.umn.edu/soil-management-and-health/tillage-implements-purpose-and-ideal-use)).
+
+| Alet | Aşama | Ne yapar? | Derinlik (kaynaktan) |
+|---|---|---|---|
+| Kulaklı pulluk | Birincil | Toprağı çevirir, anızı gömer | Yaklaşık 20–30 cm (8–12 inç) |
+| Riper (iskelet pulluk) | Birincil | Toprağı kırar, anızı kısmen yüzeyde bırakır | Yaklaşık 15–20 cm (6–8 inç) |
+| Diskaro | İkincil | Keser, karıştırır, ufalar | Yüzeyel |
+| Kültivatör | İkincil | Yüzeyi gevşetir, ot kontrolü | Yüzeyel |
+| Rotovatör | İkincil/son | Hızlı, ince tohum yatağı | Yüzeyel |
+
+Derinlikler Minnesota Üniversitesi yayınındaki rakamlardır; çeşit ve ayara göre değişir. Ülkemizde kullanılan adlar ("riper", "kazayağı", "dip kazan") bölgeye göre karışabilir; burada işlevlerine göre gruplandırdık.
+
+## Kulaklı pulluk: en agresif birincil alet
+
+Kulaklı pulluk (moldboard plow), toprağı yaklaşık 8–12 inç (20–30 cm) derinlikte çevirir. Minnesota Üniversitesi, bu aletin en agresif seçenek olduğunu ve toprak yüzeyinde yüzde 15'ten az bitki artığı bıraktığını belirtiyor. Anız gömmek, kesek yapmak ve ağır yabani ot baskısını kırmak için etkilidir. Ama bir bedeli vardır: Toprak yapısını bozar, erozyon riskini artırır, yakıt ve zaman harcar, aynı derinlikte tekrar tekrar sürüldüğünde pulluk tabanı denen sıkışık bir katman oluşturabilir. Sonbaharda tarla sürümünün avantaj ve risklerini [sonbaharda tarla sürümü gerekli mi](/sonbaharda-tarla-surumu) yazısında ayrıca ele aldık.
+
+## Riper: kırar ama çevirmez
+
+Riper (chisel plow), sıra sıra dizilmiş ve şaşırtmalı bacaklarla toprağı yaklaşık 6–8 inç (15–20 cm) derinlikte kırar; anızı gömmeden yüzeyde bırakır. Kaynaklar, bu tür aletlerin daha az toprak karıştırdığını, kulaklı pulluğa göre sıkışma katmanı oluşturma eğiliminin daha düşük olduğunu ve daha fazla bitki artığı bıraktığını söylüyor. Erozyon riski olan ya da nemi korumak isteyen alanlarda riper bu yüzden tercih edilir. Sıkışmış alt katmanı kırmak için daha derin çalışan aletler de kullanılır; toprak sıkışması ve belirtileri için [toprak sıkışması](/toprak-sikismasi) yazısına bakabilirsiniz.
+
+## Diskaro: kesen, karıştıran ve ufalayan
+
+Diskaro, çanak biçimli (içbükey) disk dizileriyle toprağı keser, karıştırır ve ufalar. Genellikle ikincil işlemede, tohum yatağı hazırlığında kullanılır. Disk dizilerinin düzenine göre iki tür sık anılır: Disk grupları iki bölümlü ve bir yanda birleşikse ofset diskaro; dört bölümlü ve X ya da elmas biçiminde dizilmişse tandem diskaro denir. Kaynaklarda bir uyarı da var: Disk aletleri bazı topraklarda aynı derinlikte tekrar tekrar kullanıldığında yoğunlaşmış bir "işleme tabanı" yaratabilir. Bu yüzden diskaroyu da her yıl aynı derinlikte, aynı toprak neminde kullanmamak gerekir.
+
+## Kültivatör: yüzeyi gevşetir, ot keser
+
+Kültivatör, uçlarında kanatlı (süpürücü) uçlar bulunan bacaklarla çalışır ve bitki artığını yüzeyde bırakmakta diskaro ve pulluktan daha iyidir. NRCS'nin organik tarım toprak işleme rehberi, bu tür aletlerin toprağı gevşek bıraktığını, bu yüzden yabani ot kontrolü için etkili olduğunu ama sıkı bir tohum yatağı yapmadığını belirtiyor ([USDA NRCS: organik sistemlerde toprak işleme araçları ve uygulamaları](https://www.nrcs.usda.gov/sites/default/files/2024-07/tillage-tools-and-practices-in-organic-farming-systems-nrcs-ofrf-guide.pdf)). Sıralı ekimlerde bitkiler arası ot temizliği (çapa işi) için kültivatör bu nedenle kullanılır. Ekimden önce tohum yatağı hazırlamak için başka bir alet (ör. diskaro ya da merdane) eklenmesi gerekebilir.
+
+## Rotovatör: hızlı, ince ama dikkat
+
+Rotovatör, dönen bıçaklarla toprağı ufalar ve kısa sürede ince bir tohum yatağı yapar; sebze tarhı ve küçük parsellerde çok yaygındır. Minnesota yayını, rotovatörün özellikle toprak çok ıslak ya da çok kuruysa toprak yapısını yok edebileceğini uyarıyor. İnce ufalanmış toprak yağmurdan sonra kabuk bağlar ve su geçirimini azaltır. Bu yüzden rotovatörü uygun tavda (toprak ne ıslak ne kuru) ve gerektiğinden fazla geçmeden kullanın. Toprağın tava gelip gelmediğini anlamak için avuçta sıkıp bırakma testi uygulanır; bu konuya bahçe ölçeğinde [toprak sıkışması](/toprak-sikismasi) ve [toprak dokusu](/toprak-teksturu) yazıları değinir.
+
+## Hangi alet, hangi iş için?
+
+Tarla toprak işleme aletleri arasında seçim yaparken önce işin amacını belirleyin.
+
+Bir alet seçerken sorulacak sorular şunlardır. Anızı gömmek mi, yüzeyde bırakmak mı istiyorsunuz? Gömmek istiyorsanız pulluk, yüzeyde bırakmak istiyorsanız riper ya da kültivatör. Toprak sıkışmış mı? O zaman derin çalışan bir alet gerekebilir. Erozyon riski var mı? Daha az işleme ve daha fazla artık daha güvenlidir. Hızlı ince tohum yatağı mı lazım? Rotovatör ya da diskaro.
+
+::: adimlar
+Hedefi belirleyin | Anız yönetimi, sıkışma giderme, ot kontrolü ve tohum yatağı arasından hangisi öncelikli?
+Toprak nemini kontrol edin | Toprak ne çok ıslak ne çok kuru olmalı; avucunuzda sıkıp bırakınca ufalanıyorsa uygundur.
+Birincil aleti seçin | Çevirme gerekiyorsa pulluk, kırma yeterliyse riper.
+İkincil aleti seçin | Yüzey hazırlığı için diskaro, kültivatör ya da rotovatör.
+Geçiş sayısını azaltın | Her ek geçiş yakıt, zaman ve toprak yapısı kaybıdır.
+Derinliği değiştirin | Her yıl aynı derinlikte çalışmayın; işleme tabanı oluşur.
+:::
+
+## Az işleme eğilimi
+
+Üniversite ve NRCS kaynaklarında genel eğilim, toprak işleme yoğunluğunu azaltmaktır. Yoğun işleme toprak yapısını, organik maddeyi ve nem tutmayı olumsuz etkiler; yakıt ve işçilik maliyeti de artar. Bu yüzden birçok çiftçi pulluğu seyrek kullanıp riper, kültivatör ya da doğrudan ekimle çalışmayı tercih eder. Ancak az işleme her toprak ve her bitki için uygun değildir; ağır killi topraklarda, yabani ot baskısı yüksek alanlarda ya da soğuk ve nemli bölgelerde işleme yine gerekebilir. Karar için toprak tipinizi bilmeniz önemlidir; [toprak dokusu](/toprak-teksturu) ve [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazıları işinize yarar.
+
+## Küçük alanda el aletleri
+
+Tarla ölçeğindeki bu aletler traktör gerektirir; sebze tarhı ve saksı gibi küçük alanlarda ise el aletleri aynı mantıkla çalışır: Kazayağı ve çapa gevşetir, tırmık yüzeyi düzler. Raco Kök Çapası ürün açıklamasına göre saksı ve bahçelerde toprak havalandırma, çapalama ve temizleme için tasarlanmış bir el aleti; 285 mm boyunda ve 220 gram ağırlığında. Büyük tarla işine uygun değildir, ama küçük tarh hazırlığında kullanılabilir.
+
+[ürün:raco-iki-disli-bahce-el-capasi]
+
+## Bakım ve güvenlik
+
+Toprak işleme aletleri keskin kenarlı ve ağırdır; traktörle çalışma sırasında alet bağlantılarının, pimlerin ve koruyucuların kontrolü gerekir. Çalışırken alete yaklaşmayın, ayar ve temizliği motor kapalıyken yapın. Sezon sonunda aletleri çamurdan temizleyip paslanmaya karşı yağlamak ömrünü uzatır. Bu aletlerin kullanım ve bakım ayrıntıları için üretici kılavuzuna ve yerel tarım müdürlüğü eğitimlerine başvurun.
+@sss
+S: Tarla toprak işleme aletleri nelerdir?
+C: Birincil işlemede kulaklı pulluk ve riper; ikincil işlemede diskaro, kültivatör ve rotovatör. Pulluk toprağı çevirir, riper kırar, diskaro keser ve ufalar, kültivatör yüzeyi gevşetir, rotovatör ince tohum yatağı yapar.
+
+S: Pulluk toprağı ne kadar derin işler?
+C: Minnesota Üniversitesi kulaklı pulluğun toprağı yaklaşık 8–12 inç (20–30 cm) derinlikte çevirdiğini, riperin ise yaklaşık 6–8 inç (15–20 cm) derinlikte çalıştığını belirtiyor. Gerçek derinlik alet ayarına ve toprağa göre değişir.
+
+S: Rotovatör toprağa zarar verir mi?
+C: Ayarsız ya da yanlış nemde kullanıldığında verebilir. Minnesota yayını rotovatörün toprak çok ıslak ya da çok kuruysa yapıyı bozabileceğini söylüyor. Uygun tavda ve az geçişle kullanın.
+
+S: Her yıl pullukla sürmek gerekir mi?
+C: Gerekmez. Kaynaklarda genel eğilim işleme yoğunluğunu azaltmak yönünde; riper, kültivatör ya da doğrudan ekim bazı topraklarda yeterli olur. Ağır killi ve yabani otlu alanlarda işleme yine gerekebilir.

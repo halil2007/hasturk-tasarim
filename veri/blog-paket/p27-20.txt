@@ -1,0 +1,297 @@
+### YAZI
+slug: teleskopik-budama
+baslik: Teleskopik Budama: Yüksek Dallar İçin Testere ve Güvenli Çalışma
+yayin: 2027-01-28 14:30
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: teleskopik budama
+seo_baslik: Teleskopik Budama: Yüksek Dallar İçin Güvenli Çalışma
+seo_aciklama: Teleskopik budama: merdivensiz yüksek dal kesimi için alet seçimi, üç kesim yöntemi, elektrik hattı mesafesi ve baret ve gözlük gibi güvenlik kuralları.
+ozet: Teleskopik budama, uzayan saplı makas ve testereyle merdiven kullanmadan yüksek dalları kesmektir. Hangi alet hangi dala uygun, ağır dalda üç kesim yöntemi, elektrik hattı ve düşen dal riski, koruyucu ekipman, kış sonu budama sezonunda çalışma düzeni ve alet bakımını üniversite güvenlik yayınlarına dayanarak yazdık.
+etiketler: teleskopik budama, yüksek dal budama, uzun saplı testere, budama güvenliği, kış budaması, meyve ağacı budama
+gorsel: bekliyor
+gorsel_alt: Bahçede uzun saplı teleskopik testereyle yüksek bir meyve ağacı dalını kesen kişi ve yerde duran baret
+urunler: budama-makasi
+kisaca: Teleskopik budama, yüksek dalları merdiven kullanmadan uzayan saplı makas ya da testereyle kesmektir; ince dallar için makas, kalın dallar için testere başlığı kullanılır. En büyük risk elektrik hattıdır: Ohio State Extension akım olduğunu varsayıp en az yaklaşık 3 metre uzak durmayı önerir; üretici kılavuzları daha geniş mesafe isteyebilir.
+@govde
+Kış sonu budama sezonunda bahçedeki herkes aynı sorunla karşılaşır: dallar elin yetişeceğinden yüksektir. Merdiven akla ilk gelen çözümdür ama merdivende elinde testereyle çalışmak, budamanın en tehlikeli yoludur. Teleskopik budama bu soruna sapı uzatarak çözüm getirir: yerde durarak, ağacın altından ve güvenli bir mesafeden dal kesersiniz. Yine de aletin uzaması riskleri ortadan kaldırmaz, yalnız bazılarını değiştirir. Bu yazı alet seçimini, kesim tekniğini ve en çok önemsenmesi gereken güvenlik kurallarını anlatıyor. Budamanın zamanlaması ve hangi dalın kesileceği için [kış budaması](/kis-budamasi), el makası seçimi için [budama makası seçimi](/budama-makasi-secimi) yazılarına bakabilirsiniz.
+
+## Teleskopik budama nedir, hangi aletler vardır?
+
+Teleskopik budama aletleri, uzunluğu ayarlanabilen bir sapın ucuna takılı bir kesici başlıktan oluşur. Başlığa göre üç ana tip vardır:
+
+| Alet | Nasıl çalışır? | Ne için uygun? |
+|---|---|---|
+| Teleskopik budama makası | Makas başlığı ip ya da kolla kapanır | İnce dallar ve sürgünler |
+| Teleskopik el testeresi | Kavisli testere başlığı çekerek keser | Orta kalınlıkta dallar |
+| Motorlu teleskopik testere (akülü, elektrikli, benzinli) | Zincir ya da bıçak motorla döner | Daha kalın dallar; en yüksek risk |
+
+Başlık seçimi dalın kalınlığına bağlıdır: makas ince dallarda iyi çalışır, kalın dalda zorlanır ve dalı ezer; kalın dal için testere gerekir. Sapın uzunluğu arttıkça alet ağırlaşır ve ucunu kontrol etmek zorlaşır; çok uzun sapla hassas kesim yapmak yorucudur. Bu yüzden her dal için en uzun sapı çıkarmayın: dala yetişen en kısa uzunluğu kullanın. Alçaktaki dallar için normal el makası ve testere yine daha güvenlidir.
+
+[ürün:budama-makasi]
+
+## Elektrik hattı: en önemli kural
+
+Teleskopik budamada en ciddi tehlike, aletin ya da kesilen dalın elektrik hattına değmesidir. Ohio State Üniversitesi Extension'ın ağaç ve dal kesme güvenliği yayını, hatların akım altında olduğunu varsaymayı, hatlardan en az yaklaşık 3 metre (10 fit) uzak durmayı ve ağaç kesmeden ya da dal budamadan önce yakında havai hat olup olmadığını kontrol etmeyi, emin değilseniz yerel elektrik şirketine danışmayı önerir ([Ohio State Extension, ağaç ve dal kesme güvenliği](https://ohioline.osu.edu/factsheet/aex-79016)). Bazı üretici kılavuzları çok daha geniş mesafe ister; örneğin bazı akülü teleskopik testere kılavuzlarında 10 ile 15 metre arasında güvenli uzaklıklar verilir. Aletinizin kılavuzundaki mesafe, bu genel değerden büyükse kılavuz esastır.
+
+Pratikte uygulayın:
+
+- Çalışmaya başlamadan önce ağacın çevresine ve tepesine bakın; hat varsa o dala dokunmayın.
+- Metal saplı aleti hattın yakınında kullanmayın; elektriği ileten metal saplar en büyük risktir. Yalıtkan saplı tipler tek başına hattın yakınında çalışmayı güvenli kılmaz.
+- Kesilen dalın düşerken hatta çarpabileceğini hesaba katın; dalı hatta doğru değil, uzağa düşecek biçimde kesin.
+- Hattın yakınındaki ağaçları kendiniz budamayın; elektrik dağıtım şirketine ya da ehliyetli bir ağaç bakım ekibine bırakın.
+
+## Kesim tekniği: ağır dalda üç kesim
+
+Yüksekteki dal düşerken ya da kesilirken kabuğu yırtabilir ve ağacın gövdesine zarar verebilir. Bunu önlemek için ağır dallar üç kesimle alınır. Yöntem genel bir budama tekniğidir ve teleskopik alette de geçerlidir:
+
+::: adimlar
+Alt kesim | Dalın gövdeden yaklaşık bir iki karış uzağında, altından dalın çapının üçte birine kadar kesin; dal düşerken kabuğu yırtmaz.
+Üst kesim | Alt kesimin biraz dışından yukarıdan keserek dalı düşürün; dal geride sap bırakır.
+Son kesim | Kalan sapı dal yakasının (gövdeye bağlandığı kabarık halka) hemen dışından temizce kesin.
+Yarayı kontrol edin | Düzgün kesilen yara kendini kapatır; kabuğu yırtılmış yarayı temizce düzeltin.
+:::
+
+Dal yakasını kesmeyin ve gövdeye yapışık bırakmayın: yaka, ağacın yarayı kapatmasını sağlayan dokudur. Kesimlerde aletin keskin olması gerekir; körelmiş uç dalı ezer. Büyük yarada aşı macunu kullanımı konusunda [aşı macunu nedir](/asi-macunu) yazısına bakın. Meyve ağaçlarında hangi dal kalır, hangisi gider sorusu için [kış budaması](/kis-budamasi), su sürgünleri için [su sürgünü nedir](/su-surgunu-nedir), tür bazlı rehber için [elma ağacı budama](/elma-agaci-budama) ve [ceviz budama](/ceviz-budama) yazılarına bakabilirsiniz.
+
+## Düşen dal ve çevre güvenliği
+
+Teleskopik budamada kesilen dal tam olarak sizin üzerinize düşer; çünkü çoğu zaman ağacın altında durursunuz. Alt kesim yapmak ve dalı parça parça almak bu riski azaltır. Ohio State yayını, çalışma alanından çocukların, evcil hayvanların ve başkalarının uzak durmasını önerir; düşen dal yaralayabilir. Ayrıca şunları uygulayın:
+
+- Sert bir baret ve koruyucu gözlük kullanın; yukarıya kesimde talaş ve kırıntı yüzünüze yağar.
+- Eldiven ve sağlam, kaymaz ayakkabı giyin.
+- Dalın düşeceği yeri ve kendi çıkış yolunuzu önceden belirleyin; düşen dalın arkasına çekilin.
+- Aşırı uzanmayın; dengenizi kaybedecek kadar yukarı kesim yapmayın. Dalın ucuna yetişmiyorsanız yerinizi değiştirin.
+- Rüzgârlı ve yağmurlu havada, özellikle elektrikli ve akülü aletlerle çalışmayın.
+- Kısmen kesilmiş ya da kırılmış, askıda kalan dalları gözlemleyin; bunlar beklenmedik düşer.
+
+## Motorlu teleskopik testere: ekstra dikkat
+
+Akülü, elektrikli ve benzinli teleskopik testereler daha kalın dalları kolayca keser ama zincirin geri tepmesi ve kontrol kaybı riski taşır. Kılavuzu okuyun, zinciri yağlayın, iki elle sıkı tutun, aleti omuz yüksekliğinin üstüne çıkarmadan kullanın ve yorulduğunuzda mola verin. Motorlu aletleri kalın ve yüksek dalda kullanmayı düşünüyorsanız, yerinde bir ağaç bakım ekibine danışmak daha güvenlidir. Çok büyük, ölü ya da çürük, evin ya da hatların üstüne uzanan dalları kendiniz kesmeyin.
+
+## Bakım ve saklama
+
+Teleskopik aletin bağlantı noktaları (kilit, kelepçe, uzatma mafsalı) sağlam olmalıdır; gevşek bir kilit sapın çalışırken kısalmasına yol açar. Kullanımdan sonra başlığı silin, reçine ve kiri temizleyin, kesici yüzeyi yağlayın ve kuru bir yerde saklayın. Bıçağı keskin tutun; körelmiş bıçak zorlar ve kayar. Hasta bir ağaçta kullandığınız aleti diğer ağaca geçmeden önce temizlemek hastalığın yayılmasını önler; temizlik yöntemi için alet bakımını anlatan yazılarımıza bakabilirsiniz ([bahçe aletleri kış bakımı](/bahce-aletleri-kis-bakimi)).
+
+## Ne zaman teleskopik budamayı bırakıp profesyonela vermeli?
+
+Teleskopik budama, bahçedeki küçük ve orta ağaçlarda, elektrik hattından uzak dallarda uygun bir yöntemdir. Şu durumlarda kendiniz uğraşmayın:
+
+- Dal elektrik hattına ya da yapıya (çatı, baca, tel) yakınsa.
+- Dal çok kalın, ağır ya da ölü ve çürükse.
+- Ağaç çok yüksek ve tüm taç yenilenecekse.
+- Kendinizi alet veya yükseklik konusunda güvende hissetmiyorsanız.
+
+Bu durumlarda yerel belediyenin ya da ehliyetli bir ağaç bakım ekibinin desteğini alın. Ağacı kökünden kesme ya da ağaç kesme işlemleri için ayrıca izin gerekebilir; kendi bahçenizdeki ağaç için de yerel kuralları öğrenin. Bahçede çalışırken aletin ve ağacın güvenli kullanımı hakkında takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Teleskopik budama nedir?
+C: Uzunluğu ayarlanabilen saplı makas ya da testereyle yüksek dalları merdiven kullanmadan yerden kesme yöntemidir. İnce dallar için makas başlığı, daha kalın dallar için testere başlığı kullanılır.
+
+S: Teleskopik budamada elektrik hattına ne kadar yaklaşılabilir?
+C: Ohio State Extension, hatları akım altında varsayıp en az yaklaşık 3 metre (10 fit) uzak durmayı önerir; üretici kılavuzları daha geniş mesafe isteyebilir. Hattın yakınındaki dalı kendiniz kesmeyin, elektrik şirketine ya da ağaç bakım ekibine bırakın.
+
+S: Kalın dal teleskopik testereyle nasıl kesilir?
+C: Üç kesimle: önce dalın altından kesin, sonra biraz dışından yukarıdan düşürün, en sonda kalan sapı dal yakasının dışından temizce kesin. Böylece dal düşerken kabuğu yırtmaz.
+
+S: Teleskopik budamada hangi koruyucu ekipman gerekir?
+C: Baret, koruyucu gözlük, eldiven ve kaymaz ayakkabı. Çalışma alanından çocuk ve hayvanları uzak tutun, aşırı uzanmayın, yağmurlu ve rüzgârlı havada elektrikli aletle çalışmayın.
+
+### SORU
+yayin: 2027-01-28 10:40
+kategori: bahce-ipuclari
+baslik: Ceviz ağacımın yüksek dalları elektrik teline yakın, teleskopik testereyle keseyim mi?
+metin: Bahçemdeki ceviz ağacının bazı dalları evin elektrik hattına bir iki metre uzaklıkta. Teleskopik testereyi aldım. Kesmem güvenli mi, kendim yapmalı mıyım?
+@cevap Rümeysa Altınova | 2
+Hattan bir iki metre uzaklıktaki dalı kendiniz kesmeyin. Ohio State Extension, hatları akım altında kabul edip en az yaklaşık 3 metre (10 fit) uzak durmayı önerir; bazı testere kılavuzları 10 metre ve üstünü ister. Bir iki metre bu sınırın altındadır. Teleskopik saplı alet de, kesilen dal da hatta değebilir; metal sap ve ıslak dal elektriği iletir. Yapılacak iş: dalı kesmeden önce yerel elektrik dağıtım şirketine hattın yakınında budama için başvurun, şirket çoğu zaman ya kendisi keser ya da güvenli yöntemi bildirir. Hattan uzak dalları ise ayrıca sezonda kendiniz üç kesim yöntemiyle alabilirsiniz. Şüpheli durumda ehliyetli bir ağaç bakım ekibine bırakın.
+
+### SORU
+yayin: 2027-01-28 18:20
+kategori: bahce-ipuclari
+baslik: Teleskopik budama makasıyla kalın dal kesmeye çalışınca dalı ezdi, ne yapmalıyım?
+metin: Armut ağacının iki parmak kalınlığındaki dalını teleskopik makasla kesmeye çalıştım. Dal ezildi, kabuğu soyuldu. Bu yaraya ne yapılır, doğru alet hangisiydi?
+@cevap Ahmet Sacit Çelik | 2
+Teleskopik makas başlığı ince dallar için tasarlanmıştır; kalın dalda keser yerine ezer. İki parmak kalınlığındaki dal için testere başlıklı teleskopik alet ya da kısa saplı el testeresi uygundur. Ezilen yarayı temizleyin: yırtılmış kabuğu ve ezik odunu keskin bir aletle düzgün bir kesimle düzeltin ve dal yakasını koruyun. Büyük yarada aşı macunu kullanımı için [aşı macunu nedir](/asi-macunu) yazısına bakabilirsiniz; küçük yaralar çoğu zaman kendini kapatır. Bir dahaki seferde kalın dalı üç kesimle alın: önce altından, sonra yukarıdan, en son yakanın dışından. Aletinizin keskin ve ayarlı olduğundan emin olun. Ağaç gelişimini izleyin; yaradan akıntı ya da çürüme görürseniz ziraat mühendisine danışın.
+
+### YAZI
+slug: ure-dap-amonyum-nitrat-farki
+baslik: Üre DAP Amonyum Nitrat Farkı: Tarla Gübreleri Hangi Dönemde Nasıl Kullanılır?
+yayin: 2027-01-29 10:20
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: üre dap amonyum nitrat farkı
+seo_baslik: Üre, DAP ve Amonyum Nitrat Farkı: Hangi Dönemde?
+seo_aciklama: Üre DAP amonyum nitrat farkı: azot ve fosfor oranları, kardeşlenme ve sapa kalkmada hangisi, kireçli toprakta DAP ve gübre miktarı hesabını anlattık.
+ozet: Üre DAP amonyum nitrat farkı, gübrenin içindeki besin ve etki hızıyla başlar: üre yaklaşık yüzde 46 azot, amonyum nitrat yaklaşık yüzde 33 azot, DAP yüzde 18 azot ve yüzde 46 P2O5 içerir. Hangisinin taban, hangisinin üst gübre olarak kullanıldığını, kireçli toprağı, miktar hesabını ve güvenli kullanımı kaynaklara dayanarak yazdık.
+etiketler: üre, DAP, amonyum nitrat, taban gübresi, üst gübre, azotlu gübre, fosforlu gübre
+gorsel: bekliyor
+gorsel_alt: Üç ayrı çuvalda üre, DAP ve amonyum nitrat granülleri ve yanında ölçü kabı
+urunler: leonardit-organik-toprak-duzenleyici
+kisaca: Üre yaklaşık yüzde 46, amonyum nitrat yaklaşık yüzde 33 azot içerir; DAP (18-46-0) ise yüzde 18 azot ve yüzde 46 fosfor (P2O5) taşır. DAP ekimde taban gübresi olarak, üre ve amonyum nitrat ilkbaharda üst gübre olarak kullanılır; ders kaynaklarında kardeşlenmede üre, sapa kalkmada amonyum nitrat anılır. Dozu toprak analizi belirler.
+@govde
+Gübre çuvalına bakıp "hangisi hangisinden iyi" diye sormak yanlış sorudur: üre, DAP ve amonyum nitrat farklı işler için üretilmiş ürünlerdir. Üre DAP amonyum nitrat farkı, içlerindeki besin oranından, bitkiye ulaşma hızından ve toprak üzerindeki etkisinden doğar. Bu yazı buğday, arpa, mısır gibi tarla bitkilerinde en çok kullanılan üç gübrenin farklarını, hangi dönemde hangisinin tercih edildiğini ve miktarın nasıl hesaplandığını anlatıyor. Çuvaldaki üç gübre birbirinin yerine geçmez; üre DAP amonyum nitrat farkı tam da bu yüzden önemlidir. Dozlar toprak ve ürüne göre değiştiği için kesin değeri toprak analizi ve ilinizin tarım müdürlüğü verir. Etiket okumanın temeli için [NPK nedir, gübre etiketi nasıl okunur](/npk-nedir-gubre-etiketi) ve [gübre etiketi okuma](/gubre-etiketi-okuma) yazılarına bakabilirsiniz.
+
+## Üre DAP amonyum nitrat farkı: üç gübre, üç farklı görev
+
+Üre DAP amonyum nitrat farkını anlamanın ilk adımı besin oranlarına bakmaktır; üç gübrenin oranları aşağıdaki gibidir; üniversite ders kaynaklarında bu değerler aynı biçimde verilir:
+
+| Gübre | İçeriği | Ne için kullanılır? | Başlıca özellik |
+|---|---|---|---|
+| Üre | Yaklaşık %46 azot (N) | Üst gübre | En yüksek azot oranı, nötr yapıda ama toprakta asit etkisi yapar |
+| Amonyum nitrat (AN) | Yaklaşık %33 azot | Üst gübre | Azotun yarısı nitrat, yarısı amonyum biçimindedir; hızlı etkir |
+| DAP (18-46-0) | %18 azot ve %46 fosfor (P2O5) | Taban gübresi | Fosfor kaynağıdır, azotu amonyum biçimindedir |
+
+Kireçli amonyum nitrat (CAN) gibi ürünler azotu daha düşük oranda içerir (yaklaşık %25–28) ve ayrı bir ürün olarak değerlendirilir; kaynaklar arasında kireçli toprakta bu gübrenin uygunluğu konusunda farklı görüşler bulunduğundan ürününüzün etiketine ve yerel öneriye bakın.
+
+## DAP: ekimde fosfor ve başlangıç azotu
+
+DAP, fosforun yanında ilk gelişme dönemi için azot da sağlar. Ders kaynaklarına göre DAP'taki azot amonyum formundadır ve özellikle kışlık kardeşlenme dönemine kadar bitkinin azot gereksinimini karşılar. Fosfor tohumun yakınında kök gelişimini destekler; bu yüzden DAP ekimle birlikte taban gübresi olarak verilir. Kireçli topraklarda dikkat gerekir: fosfor toprakta bol kalsiyumla birleşip bitkinin alamayacağı forma dönüşebilir. Bu nedenle kaynaklar DAP'ı yüzeye serpmek yerine toprağa karıştırarak ya da ekimle birlikte sıra altına vermeyi önerir. Fosforun toprakta tutulması konusu ayrı bir yazının konusudur; burada yalnız DAP'ın taban gübresi olarak kullanıldığını bilmeniz yeterli. Fosfor eksikliği belirtileri için [fosfor eksikliği](/fosfor-eksikligi) yazısına bakabilirsiniz.
+
+## Üre ve amonyum nitrat: üst gübrede hangisi?
+
+Üst gübrede amaç, bitki en çok azota ihtiyaç duyduğunda azotu sağlamaktır. Ders notlarında hububatta kardeşlenme devresinde üre, sapa kalkma devresinde ise amonyum nitrat ile üst gübreleme yapılması anılır. Neden? Amonyum nitratın azotunun yarısı nitrat biçimindedir ve bitkiye hızlı ulaşır; sapa kalkmada bitkinin azotu ani ve yoğun istemesi bu hızla örtüşür. Üre ise toprakta önce amonyuma, sonra nitrata dönüşür; bu dönüşüm bir süre alır, dolayısıyla biraz daha yavaş etkir. Üreyi yüzeyde bırakmak sıcak ve nemli havada azot kaybına yol açabilir; toprağa karıştırmak ya da yağış öncesi serpmek bu kaybı azaltır. Her iki gübrede de yağışla yıkanma ve fazla doz riski vardır. Hububat üst gübresinin zamanlaması için [tahıllarda kardeşlenme ve ekim sıklığı](/tahillarda-kardeslenme) ve [buğday ekim zamanı ve tohum miktarı](/bugday-ekim-zamani) yazılarına bakın.
+
+## Toprağa etkisi: asit ve pH
+
+Azotlu gübreler toprağı farklı etkiler. Üre ve amonyum nitrat toprakta asit etkisi yapabilir; ders kaynaklarında 100 kg üre ya da amonyum nitratın etkisini dengelemek için belirli miktarda kireç gerektiği hesapları verilir. Kireçli ve pH'sı yüksek topraklarda bu etki sorun olmaz; asit topraklarda uzun süre aşırı kullanım pH'ı düşürür. Bu yüzden toprak pH'ını bilmek şarttır. Toprak analizi sonuçlarını okumak için [toprak analizi sonuçları nasıl okunur](/toprak-analizi-sonuclari), numune almak için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazılarına bakın.
+
+## Gübre miktarı nasıl hesaplanır?
+
+Analiz ya da tavsiye "dekara şu kadar saf azot" der; çuvala kaç kilo konacağını gübrenin azot oranı belirler. Tarım ve Orman Bakanlığı TAGEM'in toprak ve gübre tavsiye verilerinde, saf azot ihtiyacını gübre miktarına çevirmek için amonyum nitratta (yüzde 33 azot) 3,0 ile, üre de (yüzde 46 azot) 2,2 ile çarpılır ([TAGEM toprak ve su gübre tavsiye verileri](https://www.tarimorman.gov.tr/TAGEM/Belgeler/yayin/TOPRAKSU%20G%C3%9CBRE%20TAVS%C4%B0YE%20%20Verileri.pdf)). Bir hesap örneği:
+
+| Hedef | Hesap | Gübre miktarı |
+|---|---|---|
+| Dekara 8 kg saf azot, amonyum nitrat ile | 8 × 3,0 | yaklaşık 24 kg AN |
+| Dekara 8 kg saf azot, üre ile | 8 × 2,2 | yaklaşık 17,6 kg üre |
+| Dekara 10 kg DAP | 10 × 0,18 azot, 10 × 0,46 fosfor | 1,8 kg azot ve 4,6 kg P2O5 |
+
+DAP kullandıysanız içindeki azotu üst gübre hesabından düşün: bu hem çifte doz hem de bitkinin yatması riskini önler. Örnek yalnız hesap yöntemini gösterir; kendi dozunuzu analizle belirleyin.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Güvenli kullanım ve saklama
+
+Gübreler kimyasal maddelerdir. Üre, DAP ve amonyum nitratı orijinal çuvalında, kuru, serin ve havalanan bir yerde, yem ve yanıcı maddelerden uzakta saklayın; nem gübreyi topaklar. Uygularken eldiven ve maske kullanın, gözlere ve cilde temasından kaçının, çocuklardan uzak tutun. Suya ve dereye doğrudan gübre bulaşmasını önleyin; fazla azot su kaynağını kirletir. Gübreyi yağışsız, rüzgârsız bir günde eşit dağıtın; serpme makinesinin ayarını kontrol edin. Gübre kullanımına ilişkin bölgesel kurallar ve destek koşulları için il ya da ilçe tarım müdürlüğüne danışın. Yakmayı önlemek için [gübre yakması](/gubre-yakmasi) yazısına bakın.
+
+## Üre DAP amonyum nitrat farkına göre seçim: hangisi ne zaman?
+
+::: adimlar
+Analizi yaptırın | Toprak analizi azot, fosfor ve pH durumunu gösterir.
+Taban gübresini seçin | Fosfor gerekiyorsa DAP ya da başka fosforlu gübre; kireçli toprakta toprağa karıştırarak verin.
+Üst gübre planını yapın | Kardeşlenme ve sapa kalkma gibi evreleri belirleyin; üre ya da amonyum nitratı evreye göre seçin.
+Miktarı hesaplayın | Saf azot ihtiyacını gübre oranına bölün ya da katsayıyla çarpın; DAP'taki azotu düşün.
+Güvenle uygulayın | Eşit dağıtın, yağışa göre zamanlayın, kaydedin.
+:::
+
+Gübre ve toprak düzenleyici konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Üre DAP amonyum nitrat farkı nedir?
+C: Üre yaklaşık %46 azot, amonyum nitrat yaklaşık %33 azot içerir ve üst gübre olarak kullanılır. DAP %18 azot ve %46 fosfor (P2O5) taşır ve ekimde taban gübresi olarak kullanılır.
+
+S: Üre mi amonyum nitrat mı üst gübre olarak daha iyi?
+C: İkisi de üst gübredir; amonyum nitrat hızlı etkir, üre biraz daha yavaş dönüşür. Ders kaynaklarında hububatta kardeşlenmede üre, sapa kalkmada amonyum nitrat anılır. Kesin seçim toprak, ürün ve bölgeye bağlıdır.
+
+S: Kireçli toprakta DAP nasıl verilir?
+C: Kireçli toprakta fosfor kalsiyumla bağlanabildiği için DAP'ı yüzeye serpmek yerine toprağa karıştırarak ya da ekimle birlikte sıra altına vermek önerilir. Toprak analizi ve yerel öneriyle dozu belirleyin.
+
+S: Dekara 8 kg azot kaç kg üre eder?
+C: TAGEM katsayısıyla 8 × 2,2 yaklaşık 17,6 kg üre eder; amonyum nitratla 8 × 3,0 yaklaşık 24 kg. DAP kullandıysanız içindeki azotu hesaptan düşün.
+
+### YAZI
+slug: ilkbaharda-tarla-hazirligi
+baslik: İlkbaharda Tarla Hazırlığı: Toprak Tavı, Gübre ve Ekim Öncesi Kontrol Listesi
+yayin: 2027-01-29 19:40
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: ilkbaharda tarla hazırlığı
+seo_baslik: İlkbaharda Tarla Hazırlığı: Tav, Gübre, Kontrol Listesi
+seo_aciklama: İlkbaharda tarla hazırlığı: toprak tavı, tohum yatağı, gübre planı, alet ve mibzer bakımı, drenaj ve sulama kontrolü için ekim öncesi kontrol listesi.
+ozet: İlkbaharda tarla hazırlığı, toprağın tavına gelmesini beklemek, iyi bir tohum yatağı hazırlamak, gübreyi analize göre planlamak ve ekim öncesi aletleri, drenajı ve sulamayı kontrol etmektir. Tavı elle anlamayı, alet sırasını, gübre ve tohum hazırlığını ve kontrol listesini yazdık.
+etiketler: ilkbahar tarla hazırlığı, toprak tavı, tohum yatağı, ekim öncesi kontrol, toprak işleme, tarla işleri
+gorsel: bekliyor
+gorsel_alt: Erken ilkbaharda tavına gelmiş tarlada tırmıkla düzeltilmiş tohum yatağı ve arkada traktör
+urunler: leonardit-organik-toprak-duzenleyici
+kisaca: İlkbaharda tarla hazırlığı, toprağın tavına gelmesini beklemekle başlar: Bakanlık broşürü, toprak tavındayken iyi bir tohum yatağı hazırlamanın yüksek verimin en önemli bileşenlerinden biri olduğunu söyler. Sonra gübre planı, alet ve mibzer bakımı, drenaj ve sulama kontrolü gelir. Islak toprakta işleme sıkışma yapar; acele etmeyin.
+@govde
+Kış bitince tarlaya koşmak istersiniz; ama ilkbaharda tarlayı bozacak en büyük hata erken girmektir. İlkbaharda tarla hazırlığı, "ne zaman"ın "ne" kadar önemli olduğu bir işdir: aynı pulluk ya da tırmık, tavında toprakta tohum yatağı yapar, ıslak toprakta sıkıştırır ve topak bırakır. Bu yazı sezon açılışını bir kontrol listesi olarak ele alıyor: toprak, gübre, alet, tohum, su ve kayıt başlıklarında ne yapılacağını sıralıyor. Bölgenizin iklimi ve toprağı farklı olacağı için tarihleri değil sırayı ve ölçütleri verdik; yerel zamanlama için il ya da ilçe tarım müdürlüğüne danışın.
+
+## Önce tavı bekleyin: toprak ne zaman işlenir?
+
+Tav, toprağın işlenmeye en uygun nem durumudur: ne çok ıslak ne çok kuru. Alata Bahçe Kültürleri Araştırma Enstitüsü'nün toprak işleme broşürü, toprak tavında iken iyi bir tohum yatağı hazırlamanın tarla tarımında birim alanda yüksek verim almanın en önemli bileşenlerinden biri olduğunu belirtir ([Alata Enstitüsü, toprak işleme ve önemi](https://arastirma.tarim.gov.tr/alata/Belgeler/brosurler/brosur2022/Toprak%20%C4%B0%C5%9Fleme%20ve%20%C3%96nemi-OrhanKARA.pdf)). Ders kaynakları da uygun tarla nem koşullarında çalışmanın sıkışmayı azalttığını hatırlatır. Islak toprakta tekerlek izi derinleşir, toprak kesek kesek kalır ve ekim sonrası çıkış zayıflar.
+
+Tavı elle anlamak mümkündür: toprağı bir yumruk derinliğinde alıp avucunuzda sıkın. Yumruk yapışkan bir hamur gibi şekil koruyorsa çok ıslaktır; açınca kolayca ufalanıyorsa tavdadır; toz gibi dağılıyorsa fazla kurudur. Bu kaba bir ölçüttür; yine de bölgenizdeki çiftçilerle ve il müdürlüğüyle teyit edin.
+
+| Toprak durumu | Elde nasıl hissedilir? | Ne yapılır? |
+|---|---|---|
+| Çok ıslak | Sıkınca su verir, yapışkan hamur olur | Girmeyin, bekleyin |
+| Tavında | Sıkınca topaklanır, dokununca kolay ufalanır | İşleyin, ekime hazırlayın |
+| Fazla kuru | Toz ve sert kesekler | Yağış bekleyin ya da dikkatle işleyin |
+
+## İlkbaharda tarla hazırlığı: toprak işleme sırası
+
+Toprak işleme yöntemi, toprak tipine, işleme zamanına, ekim nöbetine, ekilecek bitkiye, iklime ve mekanizasyon düzeyine göre değişir. Ders kaynaklarında ilkbaharda yapılan işlemenin su kaybına yol açtığı, bu yüzden sonbahar işlemesinin tercih edilebildiği anılır; sonbaharda sürüm yapılmışsa ilkbaharda yalnız tohum yatağı hazırlığı gerekir. Sonbahar sürümünün artı ve eksileri için [sonbaharda tarla sürümü](/sonbaharda-tarla-surumu) yazısına, yöntem tartışması için [toprak işleme](/toprak-isleme) yazısına bakın. Arpa için bir kaynakta alet sırası şöyle verilir: önce yaylı tırmıkla (yaylı tiller) işleme, gerekirse tekrar, en son tırmık ve tapan çekerek ekime hazırlama. Sebze ve diğer ürünlerde alet sırası ürüne göre değişir.
+
+Amaç iyi bir tohum yatağıdır: tohumun nemle temas ettiği, çok toz ya da iri kesek olmayan, düzgün bir yüzey. Araştırmalarda tohum yatağı hazırlığının tarlada çıkış oranını doğrudan etkilediği belirtilir. Fazla işleme toprağı toz haline getirir ve yağışta yüzey kabuğu bağlar; gereksiz geçişten kaçının.
+
+## Gübre planı: analiz önce gelir
+
+Gübre alırken göz kararı değil analiz esas alınmalıdır. Toprak numunesi alma, tavı beklerken bile yapılabilecek bir işlemdir ([toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir)); sonuçları okumak için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısına bakın. Taban gübresini ekimle birlikte, üst gübreyi bitkinin evresine göre planlayın; azotlu gübrelerin farkları için [üre DAP amonyum nitrat farkı](/ure-dap-amonyum-nitrat-farki) yazısına, zamanlama için [gübreleme zamanı](/gubreleme-zamani) yazısına bakabilirsiniz. Organik madde de toprak yapısını destekler ([toprakta organik madde](/toprakta-organik-madde)).
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Alet, makine ve mibzer kontrolü
+
+Tarlaya girmeden önce makineleri hazırlayın: pullukta ve tırmıkta aşınmış uçları değiştirin, yağlamaları yapın, lastik basıncını kontrol edin, hidrolik bağlantılarda sızıntıya bakın. Mibzer ya da ekim makinesinin ekim ayarı ve kalibrasyonu ekim öncesi yapılmalıdır; adımlar için [mibzer ayarı](/mibzer-ayari) yazısına bakın. Gübre serpme makinesinin ayarını da kontrol edin. Hasarlı ya da aşınmış bir parça, ekim günü yarım gün kaybettirir. İlaçlama pompalarının bakımı için [ilaçlama pompası temizliği ve bakımı](/ilaclama-pompasi-temizligi-ve-bakimi) yazısına göz atın.
+
+## Tohum ve koruma hazırlığı
+
+Tohumluğu ekimden önce kontrol edin: sertifikalı mı, çimlenme gücü, etiketindeki ekim önerisi ([sertifikali tohum nedir](/sertifikali-tohum-nedir)). Tahıllarda tohum ilaçlaması ekimden önce yapılır; ayrıntı için [tahılda tohum ilaçlama](/tahilda-tohum-ilaclama) yazısına bakın. Tohumu ekim gününe kadar kuru ve serin saklayın. Ekim tarihi için toprak ısısına ve don riskine bakın; sebzelerde dikim tarihi ve fide için [tarla domatesi yetiştirme](/tarla-domatesi-yetistirme) ve [açıkta biber yetiştirme](/acikta-biber-yetistirme) yazılarındaki yaklaşımlar geçerlidir.
+
+## Su: drenaj ve sulama sistemi
+
+Kışın göllenen bir parselde ekimi geciktirmek ve drenajı düzeltmek gerekebilir ([tarlada su göllenmesi](/tarlada-su-gollenmesi)). Sulama hatlarını, vanaları, pompaları ve damla borularını ekimden önce deneyin; donla çatlamış boruyu ekimden önce fark etmek, sonradan fark etmekten ucuzdur. Su tasarrufu ve kuraklık için [kuraklıkla mücadele](/kuraklikla-mucadele) yazısına bakın. Yabancı ot çıkışlarını işleme ya da kontrol yöntemleriyle ekim öncesi bastırın ([tarlada yabancı ot yönetimi](/tarlada-yabanci-ot-yonetimi)).
+
+## Ekim öncesi son hafta: sık yapılan hatalar
+
+İlkbaharda tarla hazırlığı sırasında hatalar genellikle acele yüzünden olur. En sık hata ıslak toprağa girmektir; ikincisi gereksiz sayıda geçiş yaparak toprağı toz hâline getirmektir; üçüncüsü gübreyi analiz yapmadan, komşunun dozuyla almaktır; dördüncüsü mibzeri kalibre etmeden tarlaya çıkmaktır. Beşincisi drenaj ve sulama hatlarını ekimden sonra denemek, altıncısı tohumun etiketini ve çimlenme bilgisini okumamaktır. İlkbaharda tarla hazırlığını bir kontrol listesine bağlamak bu hataların çoğunu önler: listeyi yazılı tutun ve her kalemi işaretleyin.
+
+## Ekim öncesi kontrol listesi
+
+::: adimlar
+Tavı kontrol edin | Toprağı avucunuzda sıkın; ıslaksa bekleyin, tavındaysa işlemeye başlayın.
+Tohum yatağı hazırlayın | Gereksiz geçiş yapmadan, düzgün ve nemli bir tohum yatağı elde edin.
+Gübre planını yapın | Analize göre taban ve üst gübreyi belirleyin, gübreyi tedarik edin.
+Makineleri hazırlayın | Aşınmış parçaları değiştirin, mibzer ve serpme makinesini ayarlayın.
+Tohumu ve ilacı hazırlayın | Sertifikalı tohumu alın, gerekiyorsa tohum ilaçlamasını planlayın.
+Su sistemini deneyin | Drenajı, sulama hatlarını ve pompaları kontrol edin.
+Kayıt tutun | İşleme tarihini, gübre ve tohum bilgisini deftere yazın.
+:::
+
+Tarla işlerinde kayıt tutmak, sonraki yıl aynı işi daha kolay planlamanızı sağlar; bahçe ölçeğinde bu alışkanlık için [bahçe defteri](/bahce-defteri) yazısına bakabilirsiniz. Gübre ve toprak konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: İlkbaharda tarla hazırlığı ne zaman başlar?
+C: Toprağın tavına gelmesiyle başlar, takvimle değil. Toprak çok ıslakken girmek sıkışma yapar. Bakanlık broşürü, toprak tavındayken iyi bir tohum yatağı hazırlamanın verimin en önemli bileşenlerinden olduğunu belirtir.
+
+S: Toprağın tavına geldiği nasıl anlaşılır?
+C: Toprağı avucunuzda sıkın: yapışkan hamur olursa çok ıslak, ufalanırsa tavında, toz olursa fazla kuru demektir. Bu kaba bir ölçüttür; bölgenizdeki çiftçi ve tarım müdürlüğüyle teyit edin.
+
+S: Tohum yatağı nasıl olmalı?
+C: Düzgün, çok toz ya da iri kesek içermeyen, tohumun nemle temas edebildiği bir yüzey olmalıdır. Tohum yatağı hazırlığı tarlada çıkış oranını doğrudan etkiler; gereksiz işlemeden kaçının.
+
+S: Ekimden önce hangi kontroller yapılır?
+C: Toprak analizi ve gübre planı, makine ve mibzer ayarı, sertifikalı tohum ve gerekiyorsa ilaçlama, drenaj ve sulama sistemi ile kayıt tutma. Kontrol listesini tarla işi başlamadan tamamlayın.
+
+### SORU
+yayin: 2027-01-29 12:30
+kategori: gubreleme
+baslik: Buğdaya ekimde DAP verdim, şimdi üst gübreye de DAP atabilir miyim?
+metin: Sonbaharda 20 kg/da DAP verdim. Şimdi kardeşlenme döneminde üst gübre olarak yine DAP ya da üre düşünüyorum. Hangisi daha doğru?
+@cevap Halil İbrahim Çelik | 2
+DAP, fosforu ve başlangıç azotu sağlayan bir taban gübresidir; ilkbaharda üst gübre olarak tekrar DAP vermek gereksiz fosfor yükler. Üst gübrede amaç azottur: ders kaynaklarında kardeşlenmede üre, sapa kalkmada amonyum nitrat anılır. Ayrıca sonbaharda verdiğiniz 20 kg/da DAP, 3,6 kg azot demektir (20 × 0,18); üst gübre dozunu hesaplarken bunu düşün. Dozu toprak analizi ve ilinizin tarım müdürlüğünün önerisi belirler; analiz yoksa numune alıp yaptırın. Üre kullanırsanız yağış öncesi serpmek ya da toprağa karıştırmak azot kaybını azaltır. Tek seferde fazla vermek yatmaya yol açabilir.
+
+### SORU
+yayin: 2027-01-29 15:50
+kategori: sebze-meyve
+baslik: Tarla çamurlu ama ekim zamanı geliyor, yine de işleyeyim mi?
+metin: Yağışlar nedeniyle tarla hâlâ çamurlu. Komşular başladı. Ben de tırmıkla işleyip ekmeyi düşünüyorum. Sakıncası var mı?
+@cevap Ahmet Sacit Çelik | 2
+Çamurlu toprakta işleme genellikle zarar verir: tekerlek izi derinleşir, toprak sıkışır ve kesek bırakır; Bakanlık broşürü iyi tohum yatağı için toprağın tavında olmasını vurgular. Avucunuzda sıkıp bırakın: yapışkan hamur kalıyorsa bekleyin. Ekim tarihi ürüne göre biraz geciktirilebilir; çıkış zayıf olursa kayıp daha büyüktür. Beklerken drenajı kontrol edin, makineleri ve mibzeri ayarlayın, tohum ve gübreyi hazırlayın. Tarlanız su tutuyorsa göllenmeyi çözmeyi düşünün. Komşunun toprağı farklı olabilir; kendi tarlanızın tavını esas alın ve il ya da ilçe tarım müdürlüğünden bölgeniz için ekim penceresini öğrenin.

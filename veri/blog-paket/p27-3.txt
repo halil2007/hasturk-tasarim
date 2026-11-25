@@ -1,0 +1,469 @@
+### YAZI
+slug: topraksiz-domates
+baslik: Topraksız Domates: Evde ve Hobi Serasında Hidroponik Domates
+yayin: 2027-01-20 08:30
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: topraksız domates
+seo_baslik: Topraksız Domates Yetiştirme: Hobi Serası Rehberi
+seo_aciklama: Topraksız domates nasıl yetiştirilir? Kokopit ve perlit ortamı, çözelti pH ve EC hedefi, çeşit seçimi, destek, uç alma ve tozlaşma için hobi serası rehberi.
+ozet: Topraksız domates, kokopit ve perlit gibi inert bir ortamda besin çözeltisiyle yetiştirilen domatestir. Hangi sistemin uyduğunu, çeşit seçimini, çözelti hedeflerini, destek ve tozlaşmayı, sık görülen kalsiyum sorununu anlattık.
+etiketler: topraksız domates, hidroponik domates, kokopit, perlit, hobi serası, besin çözeltisi
+gorsel: bekliyor
+gorsel_alt: Serada kokopit dolu torbada yetişen, ipe sarılı ve salkımında yeşil ve kırmızı meyveler olan domates bitkisi
+urunler: kullanima-hazir-cocopeat-torfu, tarim-perliti, coco-husk-chips-blok-5-kg
+kisaca: Topraksız domates, kokopit ve perlit gibi inert ortamda, pH 5,5–6,5 aralığında tutulan besin çözeltisiyle yetiştirilir. Fitilli ve Kratky gibi küçük sistemler domatese yetmez; en az 10–20 litrelik ortam hacmi, damlama ya da gelgit düzeni, güçlü ışık ve ipe sarılan sırık çeşit gerekir. Kiraz domates ev ve hobi serası için en kolay başlangıçtır.
+@govde
+Domates, hidroponik yeşilliklerden bambaşka bir iştir. Fesleğen bir bardak çözeltide yaşar; domates ise metrelerce boy atar, ağır meyve taşır ve günde litrelerce su çeker. Topraksız domates bu yüzden küçük pencere düzeneklerine değil, hacimli ortamı ve güçlü ışığı olan bir hobi serasına ya da güneşli bir cam balkona göre planlanır. Aşağıda sistemi, çeşidi ve çözeltiyi sırayla ele alıyoruz.
+
+## Topraksız domates için hangi sistem uyar?
+
+Kratky kabı ve fitil, domatesin su ihtiyacına yetişemez. Domates için iki yol vardır: büyük ortam hacimli torba ya da kova (kokopit-perlit karışımı) ve gelgit gibi periyodik dolum yapan düzenler. Torba ya da kovada her bitkiye 10–20 litre ortam ayırın; küçük hacim hem çözeltinin hızla tuzlanmasına hem de ısınmasına yol açar. Ortamı çözeltiyle damla damla ya da pompalı kısa dolumla ıslatmak, kökü hem ıslak hem havalı tutar.
+
+| Sistem | Domates için | Not |
+|---|---|---|
+| Kratky ve fitilli | Uygun değil | Su tüketimi taşıma gücünü aşar |
+| Gelgit sistemi | Orta | Derin tabla ve güçlü destek gerekir |
+| Torba/kova + damlama | Uygun | Hobi serasında en yaygın düzen |
+| Kokopit + perlit karışımı | Ortam olarak uygun | Oran için [kokopit perlit karışımı](/kokopit-perlit-karisimi) |
+
+Ortamların hava ve su dengesini [hidroponik ortamlar](/hidroponik-ortamlar) yazısında karşılaştırdık; domateste suyu tutan kokopit ile havalandıran perlitin birlikte kullanılması dengeli sonuç verir. Kokopit tuz taşıyabilir; kullanmadan önce [cocopeat yıkama](/cocopeat-yikama) adımlarını uygulayın.
+
+## Çeşit seçimi: kiraz domatesle başlayın
+
+Domates iki büyüme biçiminde olur. Bodur (determinat) çeşitler belirli bir boyda durur, bir anda meyve verir; sırık (indeterminat) çeşitler ise büyümeye devam eder ve sezon boyunca salkım yapar. Hidroponik düzende çoğunlukla sırık çeşitler tercih edilir; çünkü aynı sistem aylarca verim alır. Başlangıç için kiraz domates en bağışlayıcı seçimdir: çok sayıda küçük meyve verir, kalsiyum bozukluğuna daha az yatkındır ve yanlış sulamaya karşı daha toleranslıdır. Büyük etli çeşitler ise ışık, sıcaklık ve çözelti dengesinde daha çok hata payı bırakır. Çeşitlerin farkı için [domates çeşitleri](/domates-cesitleri) yazısına bakabilirsiniz.
+
+## Tohumdan ekilene kadar
+
+Tohum, küpte ya da küçük tablette çimlendirilir; çimlenme sıcaklığı 23–25 derece civarıdır (Arizona Üniversitesi'nin hidroponik domates bölümü, çimlenme ve çıkış sonrası için bu aralığı verir: [Arizona CEAC hidroponik domates bölümü](https://ceac.arizona.edu/sites/default/files/Chapter%2010.pdf)). Fidenin hazırlanması için [hidroponik fide küpü](/hidroponik-fide-kupu) ve [domates fidesi yetiştirme](/domates-fidesi-yetistirme) yazılarındaki adımlar geçerlidir. Fide 4–6 gerçek yaprak açıp kökler küpten çıkınca torbaya taşınır.
+
+## Çözelti: pH ve yoğunluk
+
+Ohio State Üniversitesi'nin hidroponik domates çözeltisi bilgi notu, besinlerin çoğunun pH 5,5–6,5 arasında bitkiye alınabilir olduğunu belirtir ve pH ile EC'nin düzenli ölçülmesini önerir ([Ohio State hidroponik domates çözeltisi](https://cfaes.osu.edu/fact-sheet/hydroponic-nutrient-solution-optimized-greenhouse-tomato-production)). Domates meyve verdikçe besin ihtiyacı yeşilliklere göre çok daha yüksektir; bu yüzden hazır domates formülleri yeşillik formüllerinden farklıdır ve evrelere göre (fide, çiçeklenme, meyve) yoğunluk artar. Ev ölçeğinde etiket oranına uymak, çözeltiyi sık yenilemek ve pH'ı haftada en az bir ölçmek yeterlidir. Sararma ve eksiklik belirtilerini [hidroponikte besin eksikliği belirtileri](/hidroponikte-besin-eksikligi-belirtileri) tablosuyla eşleştirin.
+
+[ürün:kullanima-hazir-cocopeat-torfu,tarim-perliti]
+
+## Destek, yan sürgün ve uç alma
+
+Sırık domates tek gövdeye ve ipe alınır. Bitkinin dibinden bir ip salıp gövdeyi her hafta ipe sarın; yan sürgünleri (yaprak koltuğundan çıkan dallar) 3–5 cm iken koparın. Böylece enerji tek gövdeye ve meyveye gider. Bitki serbest tel ya da çatıya kadar uzayınca ucu alarak büyüme durdurulur; uç alma tekniği için [uç alma](/uc-alma) yazısına bakabilirsiniz. Salkımda meyve sayısını ayarlamak (4–6 meyve bırakmak) meyve irisini artırır.
+
+## Tozlaşma ve meyve tutumu
+
+Kapalı ortamda rüzgâr ve böcek olmadığı için domates çiçeği kendiliğinden tozlaşmaz. Çiçek salkımına her gün ya da gün aşırı hafifçe vurmak ya da salkımı nazikçe sallamak polen dağıtımını sağlar. Ticari seralarda titreşimli tozlaştırıcı aletler kullanılır. Sıcaklık gece 13 derecenin altına ya da gündüz 30 derecenin üstüne çıkarsa çiçek tutmaz; bu aralığı sera içinde izleyin.
+
+## Kalsiyum ve çiçek burnu çürüklüğü
+
+Domateste hidroponikte en sık görülen fizyolojik sorun, meyvenin çiçek ucunun kararıp çökmesidir. Nedeni çoğu zaman çözeltideki kalsiyum azlığı değil, kalsiyumun düzensiz su ve yüksek tuzluluk nedeniyle meyveye taşınamamasıdır. Çözeltiyi çok koyu yapmamak, ortamın kuruyup tekrar aşırı ıslanmasını önlemek ve havalandırmak sorunu azaltır. Detaylı anlatım için [domateste çiçek burnu çürüklüğü](/cicek-burnu-curuklugu-domates) ve [kalsiyum eksikliği](/kalsiyum-eksikligi) yazılarına bakın.
+
+## Isı ve ışık: kışın domates
+
+Domates ışık ister; ocak ayında pencere önü ya da sade bir cam balkon ışığı meyve vermeye yetmez. Seralı ortamda bile kış ışığı ve sıcaklığı sınırlıdır: gece ısınmayan bir serada ocak ayında domates tutmaz. Bu nedenle hobi ölçeğinde topraksız domatesin ana sezonu, fidenin şubat–mart aylarında başlayıp mayıs–ekimde meyve verdiği dönemdir. Kış ayını fide hazırlama ve sistemi kurma süresi olarak kullanın. Serayı ekonomik ısıtma ve kışlık sebze önerileri için [kış serası ısıtma ve havalandırma](/kis-serasi-isitma-havalandirma) ile [kışın serada ne yetiştirilir](/kisin-serada-ne-yetistirilir) yazılarına bakabilirsiniz.
+
+## Hangi hatalar domatesi bozar?
+
+- **Küçük ortam hacmi:** Ortam kuruyunca tuz yoğunlaşır, kök yanar. Bitki başına 10 litre altına inmeyin.
+- **Düzensiz sulama:** Kuruyup aniden sulanan ortam meyve çatlamasına ve çiçek burnu çürüklüğüne yol açar.
+- **Işıksız ortamda erken ekim:** Pencere ışığında şubat başı ekilen fide uzar ve zayıf kalır.
+- **Çözeltiyi hiç yenilememek:** Tuz birikimi köke ve meyveye zarar verir.
+
+## Hasat ve çözeltiyi yenileme düzeni
+
+Topraksız domateste ilk meyve, fide dikiminden 8–10 hafta sonra olgunlaşmaya başlar; sırık çeşitte hasat haftalarca sürer. Meyveyi tam renk aldığında, sapıyla birlikte kesin; çatlayan ve çok sulu meyveler düzensiz sulamadan gelir. Çözeltiyi iki üç haftada bir tamamen yenileyin; yoğun meyve dönemlerinde bitki çok besin tükettiği için haftada bir yenileme gerekebilir. Ortamın drenaj suyunun yoğunluğu çözeltiden çok yüksekse tuz birikmiştir: bir kez saf suyla ortamı durulayın. Yaprakları alttan başlayarak kesmek (yaşlanan ve gölgeleyen yapraklar) hava akışını ve ışık girişini artırır; ama bitkiden bir seferde üç yapraktan fazlasını almayın.
+
+[ürün:coco-husk-chips-blok-5-kg]
+
+Domates hastalıkları hidroponikte de görülür; mantar ve virüs belirtileri için [domates hastalıkları](/domates-hastaliklari) yazısına, genel bilgi için [Vikipedi hidroponik maddesine](https://tr.wikipedia.org/wiki/Hidroponik) bakabilirsiniz. Ortam ve ekipman seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Topraksız domates evde yetişir mi?
+C: Yetişir ama pencere önü yetmez. Domates güçlü ışık, büyük ortam hacmi ve ipe alınan bir destek ister; güneşli cam balkon ya da hobi serası uygundur. Yeşillikler gibi küçük kaplarda yetiştirilemez.
+
+S: Topraksız domates için hangi ortam kullanılır?
+C: Kokopit ve perlit karışımı hobi ölçeğinde en yaygın ortamdır. Kokopit suyu tutar, perlit havalandırır; tuz içeriği nedeniyle kokopitin kullanmadan önce yıkanması gerekir.
+
+S: Hidroponik domateste çözelti pH'ı kaç olmalı?
+C: pH'ı 5,5–6,5 aralığında tutmak hedeflenir. Bu aralıkta besinlerin çoğu bitkiye alınabilir; aralığın dışında eksiklik belirtileri çıkar. pH haftada en az bir kez ölçülür.
+
+S: Topraksız domateste meyve neden tutmaz?
+C: Kapalı ortamda rüzgâr olmadığı için çiçekler kendiliğinden tozlaşmaz; salkımı sallamak gerekir. Gece 13 derecenin altı ya da gündüz 30 derecenin üstü de çiçek tutumunu bozar.
+
+### YAZI
+slug: ogrenci-evi-icin-bitkiler
+baslik: Yurt ve Öğrenci Evi İçin Bitkiler: Az Işık, Az Bakım, Küçük Masa
+yayin: 2027-01-20 11:25
+yazar: Mikdat Çelik
+kategori: bitki-bakimi
+odak: öğrenci evi için bitkiler
+seo_baslik: Öğrenci Evi İçin Bitkiler: Az Işık ve Az Bakım
+seo_aciklama: Öğrenci evi için bitkiler: yurt odası, loş oda ve küçük masa için az ışıkla yaşayan, ihmale dayanan türler ile hafta sonu ve tatil sulama önlemleri.
+ozet: Öğrenci evi için bitkiler az ışık, az su ve küçük alan koşuluna dayanmalıdır. Yurt ve kiralık odada yaşayan türleri, tatilde ve hafta sonunda bitkinin susuz kalmaması için önlemleri, taşınırken bitkiyi korumanın yollarını anlattık.
+etiketler: öğrenci evi bitkileri, yurt odası bitkisi, az ışık, kolay bitki, küçük masa bitkisi, kiracı
+gorsel: bekliyor
+gorsel_alt: Öğrenci odasında çalışma masası üzerinde küçük bir sukulent ve pencere kenarındaki salon sarmaşığı
+urunler: kaktus-ve-sukulent-topragi, salon-bitkilerine-ozel-toprak-karisimi
+kisaca: Öğrenci evi için en uygun bitkiler az ışıkta ve haftalarca ihmalde yaşayan türlerdir: salon sarmaşığı, paşa kılıcı, ZZ bitkisi, sukulentler ve haworthia. Yurt odasında pencere yoksa ya da ışık zayıfsa bitki lambası ekleyin; hafta sonu ve tatilde sulama için sulu toprak yerine hacmi büyük saksı ve su tutan karışım seçin.
+@govde
+Öğrenci evi bitkiye pek uygun görünmez: oda küçük, pencere kuzeye bakıyor, sulamayı hatırlayacak biri yok ve dönem bitince ev boşalıyor. Buna rağmen küçük bir yeşil köşe, dersi bitirmeyi bekleyen bir masada fark yaratır. Öğrenci evi için bitkiler bu yüzden "güzel olan" yerine "zor ölmeyen" kriterine göre seçilir. Aşağıda hangi türlerin dayandığını, nasıl bakılacağını ve taşınma dönemini nasıl atlatacağınızı yazdık.
+
+## Öğrenci evi için bitkiler: önce odanızın ışığına bakın
+
+Bitkinin hayatta kalması, ışığa bağlıdır; ışık yoksa en dayanıklı tür bile sararır. Odaya bakın: pencere hangi yöne bakıyor, bitkiyi pencerenin ne kadar yakınına koyabilirsiniz? Güney ve doğu pencereleri aydınlıktır; kuzey penceresi loş sayılır. Yurt odalarında çoğunlukla tek küçük pencere ve ortak aydınlatma vardır. Işığı okumak için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazısındaki "az, orta, bol" ayrımına bakın; masa lambanız bile küçük bir sukulentin ışığını destekleyebilir.
+
+| Oda ışığı | Uygun bitkiler | Bakım düzeyi |
+|---|---|---|
+| Aydınlık pencere önü | Sukulentler, haworthia, aloe | Çok az sulama |
+| Orta ışık (pencereden 1–2 m) | Salon sarmaşığı, philodendron | Haftada bir |
+| Loş köşe | Paşa kılıcı, ZZ bitkisi | İki haftada bir |
+| Pencere yok | Yalnızca bitki lambasıyla | Her tür lambaya bağlı |
+
+## Zor ölmeyen beş bitki
+
+**Salon sarmaşığı (pothos):** Loş ışığı, düzensiz sulamayı ve kuru havayı tolere eder. Sarkan dalları raf kenarında güzel durur ve sudan köklenir; detay için [salon sarmaşığı bakımı](/salon-sarmasigi-pothos-bakimi) yazısına bakın.
+
+**Paşa kılıcı:** Haftalarca sulanmasa da dayanır; sulama sıklığı için kural basittir: toprak tamamen kurumadan sulamayın. Bakımı [paşa kılıcı bakımı](/pasa-kilici-bakimi) yazısında.
+
+**Haworthia:** Küçük boyuyla masaya uyar ve az ışığı sukulentler içinde en iyi karşılayan türlerdendir. Bkz. [haworthia bakımı](/haworthia-bakimi).
+
+**Peperomia:** Küçük, etli yaprakları suyu depolar ve fazla suyu sevmez. Bkz. [peperomia bakımı](/peperomia-bakimi).
+
+**Aglaonema:** Az ışıkta bile rengini koruyan, bakım isteyen ama yavaş büyüyen bir tür. Bkz. [aglaonema bakımı](/aglaonema-bakimi).
+
+## Haftalık kontrolü bir alışkanlığa çevirin
+
+Bitkiyi unutmanın en kolay yolu sulama gününü belirlememektir. Telefona haftalık bir hatırlatma koyun ve gün başında bir parmağınızla toprağın birkaç santimetre derinliğine bakın: kuru ise sulayın, nemliyse bekleyin. Bu basit kural, aşırı sulama kaynaklı ölümlerin çoğunu önler; öğrenci evinde bitkiyi en çok öldüren şey susuzluk değil, "iyilik olsun" diye yapılan fazla sulamadır. Belirtiler için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına göz atın.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+
+## Hafta sonu ve tatilde: bitkiyi aç bırakmamak
+
+Öğrenci hayatı hareketlidir: hafta sonu memlekete gitmek, bir hafta sınav, iki haftalık yarıyıl tatili. Bitkinin bu süreleri atlatması için şu önlemler yeterlidir:
+
+- **Gitmeden önce bir kez bol sulayın,** fazlasını tabaktan boşaltın.
+- **Bitkiyi pencere dibinden iki üç adım geri alın;** böylece güneşte kuruma yavaşlar.
+- **Büyük saksı kullanın:** hacmi büyük toprak daha geç kurur.
+- **Sukulent ve paşa kılıcı gibi su depolayan türleri seçin:** iki üç hafta susuz kalabilir.
+- **Tatil uzunsa** bitkiyi bir arkadaşa emanet edin ya da su tutan toprak karışımı ve hidrojel gibi yardımcılar kullanın. Hidrojel kullanımı için [su boncuğu (hidrojel) nasıl kullanılır](/su-boncugu-hidrojel-nasil-kullanilir) yazısına bakın.
+
+## Kiralık evde ve yurtta pratik ipuçları
+
+Saksıyı bir tabağın üstüne koyun; kiralık parkeye su sızarsa ev sahibiyle sorun çıkar. Delik açmadan duvara asılacak bitki istiyorsanız saksıyı tavandan değil, rafın üstüne koyun. Taşınırken bitkiyi nakliye için nemli gazete ya da bezle sarıp dik taşıyın; yaprakları kırılmasın. Soğuk havada bitkiyi arabada bırakmayın, 5 derecenin altında birçok salon bitkisi zarar görür.
+
+Gece ısıtmanın kapalı olduğu yurtlarda, kalorifer hava akımına karşı bitkiyi korumak gerekir. Kışın evlerde bitkinin ısı ve nem dengesini [kışın salon bitkisi bakımı](/kisin-salon-bitkisi-bakimi) yazısı anlatır.
+
+## Mutfak masasında yenilebilir seçenek
+
+Öğrenci evinde pencere kenarına bir fesleğen ya da nane koymak, hem yemeğe taze ot sağlar hem de bitki bakımına başlamak için güzel bir adımdır. Fesleğen daha çok ışık ister; kış ayında pencere kenarında yeterli olmayabilir. Nane ve frenk soğanı daha bağışlayıcıdır. Frenk soğanı için [frenk soğanı yetiştirme](/frenk-sogani-yetistirme) yazısına bakabilirsiniz.
+
+## Dönem sonu: bitkiyle ne yapılır?
+
+Öğrenci evi sürekli değişir: dönem biter, ev boşalır, bitki ortada kalır. Üç yol vardır. Birincisi bitkiyi yeni eve taşımaktır; küçük saksılar için en kolayıdır. İkincisi bitkiyi arkadaşa ya da akrabaya emanet etmektir. Üçüncüsü bitkiyi çoğaltıp çelikleri dağıtmaktır: pothos gibi bir bitkiden alınan bir dal suda köklenir ve cebe sığar. Yeni eve taşırken bitkiyi sıcaktan ve soğuktan koruyun; kışın dışarıda birkaç dakika bile kalmak yaprakları dondurabilir. Taşıma sonrası bitki yaprak dökerse paniğe gerek yoktur; yeni ışığa alışması iki üç hafta sürer.
+
+## Ne kadar para ve zaman harcamalısınız?
+
+Öğrenci evi için bitkiler ucuz başlangıçlardır: küçük bir saksı, bir paket toprak ve bir sukulent ya da pothos yeter. Büyük, pahalı bitki almayın; taşınma ve ihmal riski yüksektir. Bakım zamanı haftada beş dakikadır. Bunu ders programına yerleştirmek zor değildir: pazar akşamı sulama, ayın ilk gününde yaprak silme. Bu alışkanlık, aynı zamanda ders çalışırken küçük bir mola ritmi de verir.
+
+## Küçük bütçeyle ilk bitki seti
+
+Başlangıç için üç bitkilik bir set yeter: masaya bir sukulent ya da haworthia, rafa bir salon sarmaşığı, penceresiz köşeye bir paşa kılıcı. Saksıyı delikli seçin ve altına tabak koyun. Toprak olarak bitkiye uygun hazır karışım alın; bahçeden getirilen toprak zararlı taşıyabilir ve ağır olduğu için saksıda sıkışır. Sukulentlere sukulent toprağı, diğerlerine hafif bir salon bitkisi toprağı yeter. Her biri için ilk iki ay bakım notu tutun; hangi bitkinin hangi sıklıkta sulandığını yazmak, taşınma sonrası da işinize yarar.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+Bitki seçimi ve toprak konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Öğrenci evi için hangi bitki en kolaydır?
+C: Salon sarmaşığı, paşa kılıcı, haworthia, ZZ bitkisi ve sukulentler en kolay türlerdir. Az ışığa ve haftalarca ihmale dayanır; sulamayı toprak kuruyunca yapmak yeterlidir.
+
+S: Pencere olmayan yurt odasında bitki yaşar mı?
+C: Doğal ışık yoksa yaşamaz; bitki lambası gerekir. Küçük bir masa lambası bile sukulent ya da paşa kılıcına destek olabilir; yine de pencere ışığı her zaman daha etkilidir.
+
+S: Tatilde bitkiyi nasıl susuz bırakmadan giderim?
+C: Gitmeden bir kez bol sulayın, fazlasını tabaktan boşaltın ve bitkiyi pencere dibinden biraz geri alın. Sukulent ve paşa kılıcı gibi türler iki üç hafta susuz kalabilir; yine de uzun tatilde bir arkadaşa emanet edin.
+
+S: Öğrenci evinde bitkiyi ne sıklıkla sulamalıyım?
+C: Sıklık sabit değildir; toprak birkaç santimetre derinlikte kuruduğunda sulanır. Çoğu bitki için bu haftada bir ya da iki haftada birdir; sukulentlerde daha seyrektir.
+
+### YAZI
+slug: bitkilerle-ev-dekorasyonu
+baslik: Bitkilerle Ev Dekorasyonu: Salon, Mutfak ve Yatak Odası İçin Yerleşim
+yayin: 2027-01-20 13:10
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: bitkilerle ev dekorasyonu
+seo_baslik: Bitkilerle Ev Dekorasyonu: Oda Oda Yerleşim Rehberi
+seo_aciklama: Bitkilerle ev dekorasyonu için salon, mutfak ve yatak odasında hangi bitkinin nereye konacağını; ışık, saksı yüksekliği ve grup düzeniyle yerleşim önerileri.
+ozet: Bitkilerle ev dekorasyonu güzel görünmekten önce ışığa uymak zorundadır. Salon, mutfak, yatak odası ve banyo için hangi bitkinin nereye uyduğunu, yükseklik ve grup düzenini, saksı seçimini ve yerleşimde yapılan hataları yazdık.
+etiketler: bitkilerle ev dekorasyonu, salon bitkisi yerleşimi, saksı düzeni, ev bitkileri, oda bitkileri, iç mekan bitki
+gorsel: bekliyor
+gorsel_alt: Salonda büyük yapraklı bitki, rafta sarkan sarmaşık ve sehpada küçük saksı gruplarıyla düzenlenmiş köşe
+urunler: salon-bitkilerine-ozel-toprak-karisimi, hg-monstera-deve-tabani-topragi
+kisaca: Bitkilerle ev dekorasyonu ışıkla başlar: bitkiyi güzel durduğu yere değil, ışığın olduğu yere koyun; sonra yükseklik ve grup düzeniyle şekillendirin. Salonda büyük bir bitkiyi köşeye, mutfakta otları pencereye, yatak odasında az ışıkla yaşayanları rafa yerleştirmek bakımı da dekoru da kolaylaştırır.
+@govde
+Bir bitkiyi güzel görünsün diye karanlık bir köşeye koyarsanız iki hafta içinde güzel görünmeyi bırakır. Bitkilerle ev dekorasyonu bu yüzden bir iç mimarlık işi olduğu kadar bir ışık haritası çıkarma işidir. Önce odanızın ışığına, sonra bitkinin boyuna, en sonunda rengine ve saksısına karar verirsiniz. Bu sıra bozulursa dekor çabuk dağılır.
+
+## Önce ışık haritası çıkarın
+
+Evde bir gün boyunca odaları gözlemleyin: hangi pencereden ne zaman güneş giriyor, bitkiyi pencereye kaç adım uzağa koyabilirsiniz? Işık pencereden uzaklaştıkça hızla azalır; bir metre geride kalan bitki, pencere önündekinin çok daha azını alır. Güney ve doğu pencereleri iyi ışık, kuzey pencereleri zayıf ışık verir. Işığı okumak için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazısındaki az, orta ve bol ayrımını kullanın.
+
+## Oda oda yerleşim
+
+| Oda | Işık durumu | Uygun bitkiler | Yerleşim fikri |
+|---|---|---|---|
+| Salon | Genelde en aydınlık | Monstera, ficus, kauçuk, yuka | Büyük bitki köşede ya da pencere yanında |
+| Mutfak | Orta, nemli | Aromatik otlar, pothos | Pencere kenarı, tezgâh üstü |
+| Yatak odası | Genelde az | Paşa kılıcı, ZZ, barış çiçeği | Gece sehpası ve raf, ışığı en az ihtiyaç duyanlar |
+| Banyo | Az–orta, nemli | Eğrelti, barış çiçeği | Pencere varsa, nemi seven türler |
+| Çalışma odası | Orta | Sukulent, pothos | Masa üstü küçük saksı |
+
+Salon için gösterişli türler [büyük salon bitkileri](/buyuk-salon-bitkileri) yazısında, banyonun nemli ve loş ortamı için uygun türler [banyo bitkileri](/banyo-bitkileri) yazısında anlatılıyor. Yatak odasında karanlık köşeler için [az ışıkta yaşayan salon bitkileri](/az-isikta-yasayan-salon-bitkileri) yazısına bakın.
+
+## Bitkilerle ev dekorasyonunda yükseklik katmanları
+
+Düz sıralı saksılar dekor değil, depo gibi durur. Odada üç yükseklik kullanın: zemin (büyük, boy atan bitki), orta (sehpa, tabure, raf) ve yüksek (askı, duvar rafı). Aynı boydaki saksıları farklı yüksekliklere dağıtmak, gözün gezmesini sağlar. Küçük bitkileri üç kişilik bir gruba toplamak tek tek dağıtmaktan daha düzenli görünür; tek sayıda grup (3 ya da 5) çoğu zaman daha dengeli durur.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+
+## Saksı seçimi: dekor ve bitki sağlığı birlikte
+
+Saksı bitkiyi bütünler, ama delik ve boyut önceliklidir. Dekoratif saksının deliği yoksa bitki plastik bir iç saksıda dursun ve dış saksıya yerleşsin; sulamadan sonra suyu boşaltmak kökü korur. Aynı oda içinde iki üç saksı rengi ve malzemesi kullanmak, çok farklı tarzların karışmasından daha uyumludur. Saksı çapı, bitkinin kökünden 2–4 cm büyük olmalıdır; çok büyük saksıda toprak geç kurur ve kök çürür. Saksı toprağında genel karışım yerine bitkinin türüne uygun, süzek bir toprak seçmek köklerin sağlığını korur.
+
+## Sarkan, dik ve dolgun: üç form dengesi
+
+Odada bir dik form (kılıç yapraklı), bir geniş yapraklı form (monstera) ve bir sarkan form (sarmaşık) bulundurmak görsel dengeyi kurar. Raf kenarlarında sarkan bitkiler, odanın üst seviyesini yumuşatır; sarkan bitki seçimleri için [sarkan ev bitkileri](/sarkan-ev-bitkileri) yazısına bakabilirsiniz. Asılı bitkiler için doğrudan [kokedama](/kokedama) gibi saksısız seçenekler de dekora farklı bir hava katar.
+
+## Yerleşimde en sık yapılan hatalar
+
+- **Işıksız köşeye bitki koymak:** Köşe boş göründüğü için doldurulur ama bitki yaşamaz. Gerekirse bitki lambası ya da suni bitki kullanın.
+- **Kalorifer ve klima önü:** Sıcak ya da soğuk hava akımı yaprakları kurutur. Bitkiyi en az bir metre uzakta tutun.
+- **Çok sık düzen değiştirmek:** Bitki yer değiştirmeye tepki verir; yaprak dökebilir. Yeni yeri kalıcı seçin.
+- **Hepsini aynı yere toplamak:** Işık yetmez, hastalık ve zararlı birbirine geçer.
+- **Bakım erişimini unutmak:** Sulayamayacağınız yerdeki bitki ihmal edilir.
+
+## Küçük başlayıp yavaş büyütün
+
+Tek seferde on bitki almak yerine üç bitkiyle başlayın. İlk aylarda hangi bitkinin sizin ışığınızda ve bakım temponuzda mutlu olduğunu görürsünüz; sonra benzerlerini ekleyin. Başlangıçta ışığa uyan bir bitki bulduğunuzda onu çoğaltmak (bkz. [salon bitkisi çoğaltma](/salon-bitkisi-cogaltma)) hem tasarruf hem uyum sağlar: aynı bitkiden birkaç saksı, odalar arası görsel bir bağ kurar.
+
+## Renk ve doku: yeşilin tonları
+
+Bitkilerle ev dekorasyonunda renk, çoğu zaman yeşilin tonlarıyla kurulur. Koyu yeşil, parlak yapraklı bitkiler (kauçuk, monstera) odaya ağırlık verir; açık yeşil ve ince yapraklı bitkiler (eğrelti, çim yapraklı türler) hafiflik katar. Yapraklarda krem, pembe ya da bordo ton taşıyan türler, tek başına bir "renk lekesi" gibi davranır; çok sayıda karışmaz. Doku da önemlidir: geniş ve düz yaprak ile ince ve tüylü yaprağı birlikte kullanmak göze çeşitlilik verir. Duvar rengi koyuysa açık yeşil bitki öne çıkar; açık duvarda koyu yeşil bitki derinlik sağlar.
+
+## Bakım pratiği: dekoru yaşatmak
+
+Dekoru yaşatmanın yolu, bakımı kolaylaştırmaktır. Sulama günü belirleyin ve bitkileri aynı bölgede toplayın; her odaya dağılmış bitki, sulama turunu zorlaştırır. Bitkilerin altına su tahliyesi için tepsi koyun. Yaprak tozunu nemli bezle ayda bir silin; tozlu yaprak hem ışığı keser hem dekoru kirli gösterir. Bitki bakımını bir iş değil, bir rutin olarak görün: haftalık beş dakika tur, çoğu sorunu daha doğmadan yakalar. Bitkinin ışığa doğru eğilmesi gibi belirtilerde yer değiştirme gerekebilir; nedenini [bitki neden eğilir](/bitki-neden-egilir) yazısında bulabilirsiniz.
+
+## Mevsim değişince düzeni güncellemek
+
+Bitkilerin ışık ihtiyacı yıl boyunca aynı kalır ama güneşin açısı değişir. Yazın doğrudan güneş alan bir pencere önü, kışın loş kalabilir; kışın güneşi bol alan güney penceresi ise yazın bitkiyi yakabilir. Mevsim değişiminde bitkileri pencereye yaklaştırıp uzaklaştırarak yerleşimi güncelleyin. Kış başında ışığa muhtaç bitkileri pencereye alın, yazın hassas yapraklıları cam önünden çekin. Düzeni yılda iki kez gözden geçirmek, bitkilerin sağlığını da dekorun tazeliğini de korur.
+
+[ürün:hg-monstera-deve-tabani-topragi]
+
+Bitki seçimi ve toprak konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Bitkilerle ev dekorasyonunda nereden başlanır?
+C: Işıktan başlanır. Odanın pencerelerini ve ışık alan köşelerini belirleyin, bitkiyi güzel göründüğü yere değil ışık aldığı yere koyun. Sonra bitkinin boyuna ve grup düzenine karar verin.
+
+S: Yatak odasına hangi bitki konur?
+C: Az ışığa dayanan paşa kılıcı, ZZ bitkisi ve barış çiçeği gibi türler uygundur. Yatak odası genelde loştur; ışığı çok az olan köşelerde bitki lambası gerekebilir.
+
+S: Delikli olmayan dekoratif saksıya bitki dikilir mi?
+C: Doğrudan dikilmesi önerilmez; su birikir ve kök çürür. Bitkiyi delikli plastik bir iç saksıda tutup dekoratif saksıya yerleştirin ve sulamadan sonra fazla suyu boşaltın.
+
+S: Saksıları aynı boyda mı dizmeli?
+C: Hayır. Zemin, orta ve yüksek olmak üzere üç yükseklik kullanmak ve küçük saksıları üçlü ya da beşli gruplamak, dekoru daha dengeli gösterir.
+
+### YAZI
+slug: koleksiyonluk-ev-bitkileri
+baslik: Koleksiyonluk Ev Bitkileri: Alacalı ve Nadir Türlere Başlarken
+yayin: 2027-01-20 17:20
+yazar: Hatice Kübra Çelik
+kategori: bitki-bakimi
+odak: koleksiyonluk ev bitkileri
+seo_baslik: Koleksiyonluk Ev Bitkileri: Alacalı ve Nadir Türler
+seo_aciklama: Koleksiyonluk ev bitkileri nedir? Alacalı yaprağın nasıl oluştuğunu, nadir bitki alırken dikkat edilecekleri, karantina ve ilk bakım kurallarını anlattık.
+ozet: Koleksiyonluk ev bitkileri, alacalı ya da nadir türlerdir ve çoğu normal ev bitkisinden daha çok bakım ister. Alacalığın nasıl oluştuğunu, nadir bitki alırken nelere bakılacağını, karantina süresini ve ilk koleksiyon için güvenli bir sırayı anlattık.
+etiketler: koleksiyonluk bitkiler, alacalı bitki, nadir ev bitkisi, variegata, bitki koleksiyonu, karantina
+gorsel: bekliyor
+gorsel_alt: Beyaz ve yeşil alacalı yapraklı bir monstera ile yanında krem benekli bir philodendron
+urunler: hg-monstera-deve-tabani-topragi, salon-bitkilerine-ozel-toprak-karisimi
+kisaca: Koleksiyonluk ev bitkileri; alacalı yapraklı, nadir ya da zor bulunan türlerdir. Alacalılık bir kimera, yani aynı bitkide iki farklı doku demektir ve kararsızdır; bitki yeşile dönebilir. Yeni bir koleksiyoncu önce sağlam ve bol bulunan türlerle başlamalı, aldığı her bitkiyi 2–4 hafta ayrı bir yerde karantinaya almalıdır.
+@govde
+Bir bitki fidanlıkta dizili dururken "sıradan" bir yeşildir; yaprağında krem renkli bir leke taşıdığı anda koleksiyoncunun hayalidir. Koleksiyonluk ev bitkileri bu cazibe üzerine kuruludur: Alacalı yapraklar, nadir türler, kısa sürede çoğaltılamayan bitkiler. Güzelliklerinin bir bedeli vardır: daha çok ışık, daha dikkatli bakım ve bazen hayal kırıklığı. Başlarken neyi bilmek gerektiğini sırayla yazdık.
+
+## Alacalı yaprak nasıl oluşur?
+
+Alacalılık çoğu zaman bir kimeradır: Aynı bitkinin dokularında iki farklı genetik yapı yan yana yaşar; biri klorofil üretir, diğeri üretmez ya da az üretir. Yaprakta beyaz, krem veya sarı alanlar böyle oluşur. Florida Üniversitesi'nin bitki üretim materyali, kimeraların kararsız olabildiğini ve yeşil dokunun baskın hâle gelerek bitkiyi eski hâline döndürebileceğini anlatır ([UF/IFAS kimera ve geri dönüş](https://propg.ifas.ufl.edu/03-genetic-selection/05-genetic-chimeralreversion.html)). RHS ise geri dönen (reversion) sürgünlerin saf yeşil olduğunu, daha fazla klorofil içerdiği için daha güçlü büyüdüğünü ve zamanla bitkiyi ele geçirebileceğini; bu nedenle alacalı kısma kadar geriye kesilmesi gerektiğini bildirir ([RHS alacalılıktan geri dönüş](https://www.rhs.org.uk/problems/reversion)).
+
+Pratik anlamı şudur: Alacalı bir bitkide tamamen yeşil bir sürgün çıkarsa, onu hemen kesin. Yoksa alacalı yapraklar azalır.
+
+## Alacalı bitkiyi yeşilinden farklı yapan bakım
+
+Alacalı yaprakta klorofil az olduğu için bitki ışığı daha az verimli kullanır. Aynı türün yeşili az ışıkta idare eder; alacalısı büyümek için daha çok aydınlık ister. Ama doğrudan güneş, beyaz alanları yakar. Parlak, dolaylı ışık en güvenli seçimdir. Alacalı bitkinin büyümesi daha yavaş olduğundan sulama ve gübre de daha ölçülü yapılmalıdır; fazla gübre hızlı yeşil büyüme yaparak alacalılığı baskılar.
+
+| Konu | Yeşil tür | Alacalı tür |
+|---|---|---|
+| Işık | Orta–az | Parlak, dolaylı |
+| Büyüme hızı | Hızlı | Yavaş |
+| Gübre | Normal | Hafif |
+| Sulama | Normal | Toprak kurudukça, aşırıdan kaçının |
+| Çoğaltma | Kolay | Alacalı düğümü olan çelik gerekir |
+
+## Nadir bitki alırken dikkat edilecekler
+
+Nadir bitki satışı, çoğu zaman aşırı fiyat ve belirsiz kaynak demektir. Satın almadan önce şunlara bakın:
+
+1. **Kök ve gövde sağlığı:** Kökler beyaz ve sertse sağlıklıdır; kahverengi, yumuşak ve kokulu köke sahip bitkiyi almayın.
+2. **Zararlı belirtisi:** Yaprak altında pamuksu örtü, yapışkan bal özü ya da küçük hareketli noktalar zararlı işaretidir. Belirtiler için [salon bitkilerinde zararlılar](/salon-bitkilerinde-zararlilar) yazısına bakın.
+3. **Kaynak:** Bitkinin üretilmiş (doku kültürü ya da çelik) olduğunu sorun. Doğadan toplanan bitki, hem türü hem doğayı tehdit eder; bazı türlerin uluslararası ticareti CITES sözleşmesiyle denetlenir.
+4. **Fotoğraf yerine gerçek bitki:** Alacalılığın yoğunluğu fotoğrafta abartılabilir. Yapraktaki dağılımı kendiniz görün.
+5. **Bakım koşulu:** Bitkinin ışık, nem ve sıcaklık ihtiyacını satın almadan öğrenin; bunları evinizde sağlayabilir misiniz?
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+
+## Karantina: yeni bitkiyi kolleksiyondan ayırın
+
+Yeni gelen her bitki, 2–4 hafta ayrı bir odada bekletilmelidir. Bu süre içinde zararlı ve hastalık belirtilerini izleyin: yaprak altına, gövde diplerine ve toprak yüzeyine haftada iki kez bakın. Karantinasız bitki, bütün koleksiyonunuza zararlı bulaştırabilir. Yeni bitkinin toprağını ve saksısını değiştirmek, bu sürede iyi bir hamledir; çünkü satın alınan toprak çoğu zaman bitkinin ihtiyacına uygun değildir ve zararlı yumurtası taşıyabilir. Karantinada sulamayı normal yapın ama gübre vermeyin; bitki yeni ortama alışırken stres altındadır.
+
+## Koleksiyonluk ev bitkileri: nereden başlanır?
+
+Önce bol bulunan, düşük riskli bir koleksiyonluk türle başlayın. Yeşil yapraklı bir monstera ya da philodendron ile iki yıl bakım pratiği kazanın; ardından alacalısına geçin. [Monstera bakımı](/monstera-deve-tabani-bakimi) ve [philodendron bakımı](/philodendron-bakimi) bu geçiş için sağlam bir temel verir. Bitkiyi kaybetmek, nadir bitkide hem maddi hem duygusal olarak ağırdır; bu yüzden ilk tür sizi öğretecek bir tür olmalı.
+
+Koleksiyonu çoğaltmak da bir yöntemdir: aynı türden bir çelik alıp köklendirmek, bitkiyi kaybetme riskini hafifletir. Çoğaltma yöntemleri için [salon bitkisi çoğaltma](/salon-bitkisi-cogaltma) yazısına bakın.
+
+## Evcil hayvan ve çocuk güvenliği
+
+Koleksiyonluk bitkilerin birçoğu aroid ailesindendir ve yapraklarında tahriş edici maddeler bulunur. Evde çocuk ve evcil hayvan varsa bitkileri erişilemeyecek yerde tutun. Hangi bitkilerin riskli olduğunu [zehirli ev bitkileri](/zehirli-ev-bitkileri) yazısında bulabilirsiniz.
+
+## Beklentinizi ayarlayın: yavaş ve sabırlı bir hobi
+
+Koleksiyonluk ev bitkileri, bir çiçek almak gibi tek seferlik bir iş değildir. Alacalı ve nadir bitkiler yavaş büyür; bir yaprağın açılması haftalar sürebilir. Bu yüzden her gün bitkiyi kurcalamak yerine sabit bir bakım düzeni kurmak daha iyi sonuç verir. Nem ve ısı sabit kalmalı, saksı sık değiştirilmemeli, yer değiştirme asgariye indirilmelidir. Bakım defteri tutmak burada gerçekten işe yarar: ne zaman sulandı, ne zaman yeni yaprak açıldı, ne zaman gübre verildi. Defter, bir sorun çıktığında nedeni bulmanın en hızlı yoludur.
+
+## Çoğaltma ve paylaşma kültürü
+
+Koleksiyoncular nadir bitkilerini çelik ve yavru paylaşarak çoğaltır; bu hem bitkiyi kaybetme riskini azaltır hem de topluluk kurar. Bir bitkiyi tek bir saksıda tutmak yerine yedeğini çıkarmak koleksiyonun güvenliğidir. Paylaşım yaparken sağlıklı çelik verin, hastalıklı ya da zararlı belirtisi olan parçayı paylaşmayın ve karşı tarafa bakım koşullarını anlatın. Çoğaltma yöntemleri farklı türlerde değişir; kimi bitkiler sudan, kimi perlitten köklenir.
+
+## Nem, ısı ve toprak: koleksiyonluk bitkinin üç ayarı
+
+Nadir ve alacalı aroidlerin çoğu orman tabanında yetişen türlerin akrabasıdır; ılık, nemli ve hava akışı olan bir ortam isterler. Kış aylarında kaloriferli evde nem düşer ve yaprak uçları kurur; bitkileri gruplamak, nem tepsisi kullanmak ve sabit sıcaklıkta tutmak yardımcı olur. Toprak havadar ve süzek olmalıdır: kabuk, perlit ve torf karışımları bu işi görür. Ağır toprak, yavaş büyüyen bir kökün çürümesine yol açar. Saksı değiştirmeyi yalnızca kökler saksıya sığmadığında ve bitki aktif büyürken, ilkbaharda yapın.
+
+[ürün:hg-monstera-deve-tabani-topragi]
+
+Bitki ve toprak seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Koleksiyonluk ev bitkisi nedir?
+C: Alacalı yapraklı, nadir bulunan ya da çoğaltılması yavaş olan ev bitkilerine denir. Bu türler genelde daha çok ışık, daha dikkatli bakım ve daha fazla ilgi ister; yeni başlayanlar için önce bol bulunan türlerle başlamak önerilir.
+
+S: Alacalı bitki neden yeşile döner?
+C: Alacalılık çoğu zaman kararsız bir kimeradır; yeşil doku daha çok klorofil içerdiği için daha güçlü büyür ve baskın hâle gelebilir. Tamamen yeşil sürgünü alacalı kısma kadar geri keserek bitkiyi korursunuz.
+
+S: Yeni aldığım nadir bitkiyi ne kadar karantinaya almalıyım?
+C: 2–4 hafta ayrı bir odada bekletin. Bu sürede yaprak altlarını, gövde diplerini ve toprağı haftada iki kez zararlı ve hastalık belirtisi için kontrol edin; sonra diğer bitkilerin yanına alın.
+
+S: Alacalı bitkiye doğrudan güneş verilir mi?
+C: Hayır. Beyaz ve krem alanlar klorofil içermediğinden güneşte yanar. Parlak, dolaylı ışık alacalı bitki için en güvenli seçimdir.
+
+### YAZI
+slug: kus-evi-nasil-yapilir
+baslik: Kuş Evi Nasıl Yapılır? Delik Çapı ve Asma Yüksekliği
+yayin: 2027-01-20 19:50
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: kuş evi nasıl yapılır
+seo_baslik: Kuş Evi Nasıl Yapılır? Delik Çapı ve Yükseklik
+seo_aciklama: Kuş evi nasıl yapılır? İşlem görmemiş ahşap, doğru delik çapı, drenaj ve havalandırma, tünek koymama kuralı, asma yüksekliği ve yönünü adım adım anlattık.
+ozet: Kuş evi, doğru ölçüyle yapılınca baştankara gibi küçük kuşlara yuva olur. Delik çapını, tahta kalınlığını, drenaj ve havalandırmayı, tünek koymama kuralını, asma yüksekliğini, yönünü ve temizliğini şubattan önce hazırlanacak şekilde anlattık.
+etiketler: kuş evi, yuva kutusu, delik çapı, baştankara, kuş dostu bahçe, kendin yap
+gorsel: bekliyor
+gorsel_alt: Ağaç gövdesine asılmış, küçük yuvarlak girişli işlenmemiş ahşap kuş yuvası kutusu
+urunler: raco-bahce-el-tirmigi, sgs-bahce-seti-3-parca
+kisaca: Kuş evi, işlem görmemiş ve kalın ahşaptan, küçük kuşlar için 28–29 mm çapında yuvarlak girişle yapılır. Tünek konmaz, tabana drenaj, yanlara havalandırma delikleri açılır ve çatı öne taşırılır. Kutu 1,5–4,5 metre yüksekliğe, kedilerin erişemediği ve rüzgâr almayan bir yere asılır; yuva mevsimi öncesi, ocak–şubatta hazır olmalıdır.
+@govde
+Ocak sonu, kuş evi yapmak için tam zamanıdır: kuşlar şubat–mart aylarında yuva yeri aramaya başlar ve hazır bir kutuyu gören çift, o yılın yuva yerini seçmiş olur. Kuş evi nasıl yapılır sorusunun cevabı üç ölçüye sığar: delik çapı, kutunun iç boyutu ve asma yüksekliği. Yanlış çapta açılan delik ya hiçbir kuşu içeri sokmaz ya da yırtıcıların ve rakiplerin girmesine izin verir. Aşağıda ölçüleri ve yapım adımlarını sıralıyoruz.
+
+## Hangi kuş için, hangi ölçü?
+
+Yuva kutusunu kuş türüne göre yapmak gerekir; çünkü her tür belli bir giriş çapını kabul eder. Missouri Üniversitesi Extension yayını, baştankaralar (chickadee) için 1⅛ inç (yaklaşık 28–29 mm) giriş deliği, zeminden 6–7 inç (15–18 cm) yukarıda açılan delik, 4×4 ile 5×5 inç (yaklaşık 10×10 ile 13×13 cm) taban ve 5–15 fit (1,5–4,5 m) asma yüksekliği verir ([Missouri Extension yuva kutuları](https://extension.missouri.edu/media/wysiwyg/Extensiondata/Pub/pdf/agguides/wildlife/g09413.pdf)). Daha büyük kuşlar daha geniş delik ister; kaynaklar türe göre farklı değerler verir, bu yüzden yapmadan önce hedeflediğiniz kuşun türüne ait ölçüyü kontrol edin.
+
+| Ölçü | Küçük kuşlar (baştankara boyu) | Not |
+|---|---|---|
+| Giriş deliği çapı | 28–29 mm | Büyük kuşların girmesini engeller |
+| Delik yüksekliği (tabandan) | 15–18 cm | Yavruların düşmesini önler |
+| Taban | 10×10 ile 13×13 cm | Küçük kuşlara yeter |
+| Asma yüksekliği | 1,5–4,5 m | Kedi ve kemirgenlerden uzak |
+
+Türkiye'de baştankara, sıvacı kuşu ve serçe gibi kuşlar kutu yuvalarına gelir; ancak kesin ölçü için bölgenizdeki kuş gözlem derneğine ya da yerel doğa koruma kuruluşuna danışabilirsiniz.
+
+## Kuş evi nasıl yapılır: malzeme ve ölçüler
+
+Kuş evi için 15–20 mm kalınlığında, işlem görmemiş ahşap (çam, ladin, ardıç ya da meşe) kullanın. İnce tahta yazın ısınır, kışın soğuk geçirir. NC State Extension, kutunun içine kimyasal sürülmemesi ve dışının doğal renklerle boyanabileceği gibi genel ilkeleri verir; ayrıca Güney Karolina doğal kaynakları kurumu, yeşil koruyucu (emprenye) maddelerinin kuşlar için zehirli olduğunu belirtir ([NC State Extension yuva kutusu yapımı](https://content.ces.ncsu.edu/building-songbird-boxes)). Bu yüzden basınçlı emprenye edilmiş ya da vernikli tahta kullanmayın. Dışı için su bazlı, açık renk bir boya yeterlidir; içi boyasız kalmalıdır.
+
+## Adım adım yapım
+
+::: adimlar
+Parçaları kesin | Ön ve arka tahtayı, iki yan tahtayı, taban ve çatıyı ölçüye göre kesin; çatı ön tarafta 5 cm taşmalıdır.
+Girişi açın | Ön tahtaya, tabandan 15–18 cm yukarıda, 28–29 mm çapında yuvarlak bir delik açın; delik kenarlarını zımparalayın.
+Drenaj ve havalandırma delikleri açın | Tabana dört küçük delik, yan tahtaların üst kısmına birkaç havalandırma deliği açın.
+Kutuyu birleştirin | Parçaları vida ya da galvaniz çivi ile birleştirin; tutkal ve zehirli yapıştırıcı kullanmayın.
+Temizlik kapağı yapın | Çatıyı ya da bir yan tahtayı menteşeyle bağlayın; temizlik için açılabilmelidir.
+Tünek koymayın | Giriş deliğinin altına tünek takmayın; kuşların ihtiyacı yoktur ve yırtıcıların işini kolaylaştırır.
+:::
+
+NC State Extension'a göre tabana en az dört küçük drenaj deliği açılmalı, tünek konmamalı ve temizlik için çatı ya da yan kapak menteşelenmelidir (aynı yayın). Bu üç ayrıntı, kutunun kullanılabilir ve sağlıklı olmasını belirleyen en önemli noktalardır.
+
+[ürün:sgs-bahce-seti-3-parca]
+
+## Nereye, ne yükseklikte asılır?
+
+Kutuyu kediler, sincaplar ve rakun gibi yırtıcıların kolay erişemediği yere asın. Missouri Extension, baştankara için 1,5–4,5 metrelik bir yükseklik aralığı verir. Pratikte 2 metrenin üstü iyi bir başlangıçtır; böylece kedi sıçraması engellenir ve siz de temizlik için kolay uzanabilirsiniz. Giriş deliği, hâkim rüzgâr ve yağmurun tersine, genelde doğuya ya da güneydoğuya baksın. Kutu hafifçe öne eğik olursa yağmur girişten içeri sızmaz. Dal ucuna ya da sallanan yerlere asmayın; sağlam bir gövdeye ya da direğe sabitleyin.
+
+Bir bahçede birden fazla kutu varsa aralarında mümkün olduğunca mesafe bırakın; kuşlar yuva çevresini savunur ve birbirine çok yakın kutulara yerleşmez. Ayrıca kutuyu yem istasyonundan biraz uzak tutun; yem istasyonunun kalabalığı yuvaya yerleşecek çifti rahatsız eder. Bahçeyi kuşlar için daha elverişli hâle getirmek için [kuş dostu bahçe](/kus-dostu-bahce) yazısındaki bitki ve su önerilerine bakabilirsiniz.
+
+## Ne zaman asılır, ne zaman temizlenir?
+
+Yuva kutusunu yuva mevsiminden önce asmak en iyisidir; Türkiye'nin ılık kıyılarında ocak sonu, iç bölgelerde şubat başı uygun zamandır. Yuva mevsimi bittikten sonra, sonbaharda kutunun içini boşaltıp temizleyin: eski yuva malzemesi parazit ve nem taşır. Temizlik sırasında eldiven ve maske takın, içini kuru bir fırçayla süpürün; kimyasal temizleyici kullanmayın. Kış boyunca kutuyu yerinde bırakın; bazı kuşlar soğuk gecelerde barınak olarak kullanır.
+
+## Yapım hataları
+
+- **Tünek eklemek:** Rakip ve yırtıcıya yardım eder.
+- **Büyük delik açmak:** Serçe gibi rakipler ya da yırtıcılar içeri girer.
+- **Boyalı ya da emprenyeli ahşap kullanmak:** Kimyasal zehirlenmesine yol açar.
+- **Drenajsız yapmak:** Yağmur suyu içeride birikir, yavrular donar ya da çürür.
+- **Çatıyı kısa bırakmak:** Yağmur girişe sızar.
+- **Çok alçağa asmak:** Kedi ve diğer yırtıcılar erişir.
+
+## Kuş evi nasıl yapılır? Bahçeyi kuşlara hazırlamak
+
+Kutuyu yapmak işin yarısıdır; kuşun yuvayı seçmesi için çevrenin de uygun olması gerekir. Yakında su (sığ bir kap), çalı ya da ağaç örtüsü ve kış boyunca yiyecek bulunmalıdır. Böcek yiyen kuşlar için ilaçsız bir bahçe en iyi besindir: bahçenizi kimyasal ilaçlamadan uzak tutmak yavruların beslenmesini sağlar. Kuş dostu bitkiler, kutunun etrafındaki yaşam alanını zenginleştirir; [alıç yetiştirme](/alic-yetistirme) ve [kuşburnu yetiştirme](/kusburnu-yetistirme) yazıları kuşların sevdiği meyveli çalıları anlatır. Çiçekli bitkiler böcek çağırdığı için yavru beslenmesine katkı yapar; [arı dostu bitkiler](/ari-dostu-bitkiler) yazısı bu açıdan bakmaya değer.
+
+## Yuva mevsiminde ne yapılır, ne yapılmaz?
+
+Kutu asıldıktan sonra yuvaya fazla yaklaşmayın. Kuşlar insanın yakınlığından rahatsız olur ve yuvayı terk edebilir. Yuvanın içine bakmak gerekiyorsa (kontrol için) bunu kısa tutun ve yalnızca yavrular henüz tüylenmemişken yapın; çoğu zaman uzaktan gözlem yeterlidir. Yem vermek isterseniz yuvaya yakın değil, uzaktaki bir yem istasyonunu seçin. Yuvaya giren kuşun türü beklediğinizden farklı çıkarsa kutuyu sökmeyin; yerel kuşlar için bir yuva, hangi kuş yerleşirse onun içindir.
+
+[ürün:raco-bahce-el-tirmigi]
+
+Bahçe aleti ve malzeme seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Kuş evi deliği kaç milimetre olmalı?
+C: Baştankara gibi küçük kuşlar için yaklaşık 28–29 mm yeterlidir. Delik büyürse serçe gibi rakip ve yırtıcıların girmesi kolaylaşır; hedeflediğiniz kuş türüne göre ölçüyü kontrol edin.
+
+S: Kuş evine tünek konur mu?
+C: Hayır. Yuvada yaşayan kuşların tünek ihtiyacı yoktur; tünek yırtıcılara ve rakip kuşlara girişi kolaylaştırır. Giriş deliğinin altı düz bırakılır.
+
+S: Kuş evi kaç metre yüksekliğe asılır?
+C: Küçük kuşlar için 1,5–4,5 metre arası önerilir; pratikte 2 metrenin üstü kedilerden korur. Kutuyu yağmur ve rüzgârdan uzak, sağlam bir gövdeye ya da direğe sabitleyin.
+
+S: Kuş evinde hangi ahşap kullanılır?
+C: İşlem görmemiş, 15–20 mm kalınlığında çam, ladin ya da meşe uygundur. Emprenye edilmiş, verniklenmiş ya da boyalı iç yüzey kuşlar için zehirlidir; içeriye hiçbir boya ya da koruyucu sürülmez.
+
+### SORU
+yayin: 2027-01-20 10:30
+kategori: bitki-bakimi
+baslik: Salon sarmaşığı yaprak uçları kahverengi oluyor, kalorifer yüzünden mi yoksa sulama mı?
+metin: Salondaki salon sarmaşığının yaprak uçları kuruyup kahverengileşiyor, bazı yapraklar da sarardı. Kalorifere yakın bir rafta duruyor. Haftada iki kez sulayıp yapraklarını da suyla püskürtüyorum. Sorun hava kuruluğu mu, fazla su mu?
+@cevap Ahmet Sacit Çelik | 2
+İki nedenin bir arada olması muhtemel. Yaprak uçlarının kuruyup kahverengileşmesi çoğu zaman kuru hava ve kalorifer sıcağının işaretidir; sararan yapraklar ise genellikle fazla sulamadan gelir. Haftada iki kez sulama salon sarmaşığı için sık olabilir, özellikle kış aylarında büyüme yavaşladığında. Toprağın üst iki üç santimetresini parmağınızla yoklayın; hâlâ nemliyse sulamayı erteleyin. Sulamayı toprak orta derinlikte kurduğunda yapın ve fazla suyun saksıdan akmasını bekleyip tabakta su bırakmayın. Bitkiyi kaloriferden en az bir metre uzağa alın ya da altına kalorifer ısısını emen bir tezgâh koyun; sıcak hava akımı yaprak uçlarını doğrudan kurutur. Yaprakları püskürtmek nem sorununu çözmez; su çabuk buharlaşır ve yaprağın üstünde kalan ıslaklık mantar riskini artırır. Nem için bitkileri gruplamak ya da saksının altına çakıl dolu bir tepsi koymak daha kalıcıdır. Kahverengi uçları temiz makasla yaprağın doğal şeklini bozmadan kesebilirsiniz; ama kesmek nedeni gidermez, ortam düzelince yeni yapraklar sağlıklı çıkar.
+
+### SORU
+yayin: 2027-01-20 16:20
+kategori: bahce-ipuclari
+baslik: Balkonumuza kuş evi asmak istiyoruz ama kediler var, nasıl yapmalıyız?
+metin: Üçüncü katta balkonumuz var ve karşıdaki ağaca kuşlar geliyor. Balkon korkuluğuna ya da duvara bir kuş evi asmayı düşünüyoruz ama bir komşunun kedisi sık sık balkonlara tırmanıyor. Kuş evi kediler için tehlike olur mu, nereye asmalıyız?
+@cevap Muhammed Hamza Çelik | 3
+Kediye erişilebilen bir balkon, yuva kutusu için riskli bir yerdir; yavrular ya da yuvaya giren kuş kedinin ulaşabileceği yerde kalırsa kedi bunu bir av fırsatı olarak görür. Üçüncü katta olmanız avantajdır ama kedinin balkonlar arasında tırmanabildiğini söylüyorsunuz; bu durumda korkulukta ya da kedinin sıçrayabileceği bir yükseklikte asmayın. Kutuyu mümkünse kedinin kolayca ulaşamayacağı, düz ve kayan yüzeyli bir direğe ya da duvara, yerden ve komşu balkon korkuluğundan uzak bir noktaya sabitleyin. Giriş deliği çapı, hedef kuşa göre ölçülmelidir ve kutuda tünek bulunmamalıdır. Balkonlar rüzgâr ve güneş açısından da değişkendir; kutunun içi yazın aşırı ısınabilir, bu yüzden gölgeli ve rüzgârdan korunaklı bir yön seçin. Yuva mevsiminde kutunun etrafında yem istasyonu kurmayın; kediyi de kuşu da bir arada çeker. Balkon yuva kutusu için her zaman ideal bir yer değildir; dilerseniz kutuyu çevrede ağaç ve çalı bulunan bir bahçe ya da parkta asmak daha güvenli olur. Her durumda kutuyu yuva mevsiminden önce asın ve yuva mevsimi boyunca yakından kontrol etmeyin.

@@ -1,0 +1,440 @@
+### YAZI
+slug: acur-yetistirme
+baslik: Acur Yetiştirme: Yazın Serin Kalan Kabakgil
+yayin: 2027-03-06 09:10
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: acur yetiştirme
+seo_baslik: Acur Yetiştirme: Ekim, Destek ve Hasat Rehberi
+seo_aciklama: Acur yetiştirme için ekim zamanı, toprak ısısı, ip ya da kafes desteği, sulama ve hasat boyu. Yılan hıyarı da denen acuru bahçede ve balkonda yetiştirmek.
+ozet: Acur, uzun ince meyveli, salatalığa benzeyen ama aslında kavun akrabası bir kabakgildir. Acur yetiştirmenin ekim zamanını, destek sistemini, sulamasını, dikey büyütmeyi ve meyveyi ne zaman toplayacağınızı, hasatta sık yapılan hataları anlattık.
+etiketler: acur, yılan hıyarı, kabakgil, dikey yetiştirme, yaz sebzesi, salatalık alternatifi
+gorsel: bekliyor
+gorsel_alt: Telli desteğe tırmanmış asmadan aşağı sarkan uzun, ince, açık yeşil ve yivli acur meyveleri
+urunler: sebze-yatagi-bitki-destek-unitesi-85-cm-genislikteki-yataklar-icin, hg-bol-verimli-sebze-topragi
+kisaca: Acur yetiştirme için toprak ısındıktan sonra, genellikle nisan sonu ile mayıs arasında tohum ekilir ya da fide dikilir. Bitki tırmanıcıdır; ip ya da kafes desteğinde uzun, düz meyve verir. Güneş, derin sulama ve düzenli hasat gerekir. Meyveler 30–40 cm civarında, tohumları sertleşmeden toplanır.
+@govde
+Acur, salatalığa benzeyen ama ona göre daha uzun, daha ince ve kabuğu yivli bir sebzedir. Botanik olarak salatalık değil, kavunun bir formudur. Bu yüzden sıcağa salatalıktan daha iyi dayanır ve çoğu zaman daha az acılaşır. Acur yetiştirme yeni başlayanlar için kolay sayılır; yeter ki ısı, destek ve su düzenli olsun.
+
+## Acur nedir, salatalıktan farkı ne?
+
+Acur (Cucumis melo var. flexuosus), kavunla aynı türe aittir; aslında bir tür tatlandırılmamış, uzamış kavundur. Meyvesi 30–60 cm'ye kadar uzayabilir, kıvrılabilir ve genellikle açık yeşil, yivli bir kabuğa sahiptir. Taze salatalık gibi yenir, kabuğu soyulmaz, salatalarda ve cacıkta kullanılır. Kabuğu ince olduğu için ve salatalığa göre hoşgörülü olduğu için bahçe sebzesi olarak sevilir.
+
+Bu kavun akrabalığı iki sonucu doğurur. Birincisi, sıcak toprak ve sıcak hava ister; kavun gibi soğuğu sevmez. İkincisi, bitki bahçede kavunla çapraz tozlaşabilir. Aynı yerde yetişen kavun ile acurun tohumunu saklamak istiyorsanız karışma ihtimalini hesaba katın; salatalıkla çapraz tozlaşma ise olmaz.
+
+## Acur yetiştirme için ekim zamanı ve ısı
+
+Acur don görmeyen, ılık toprağı sever. Toprak sıcaklığı 18–20 °C'ye yaklaşmadan ekim yapmayın; soğuk ve ıslak toprakta tohum çürür. Çoğu bölgede bu nisan sonu ile mayıs ayına denk gelir. Ilık kıyılarda mart sonunda ve sera ya da tünel altında daha erken başlanabilir. Soğuk iç bölgelerde fideyle başlamak güvenlidir; kabakgil genelinde olduğu gibi kök sarsıntısını sevmez, bu nedenle fideyi saksıdan çıkarırken kökü bozmayın.
+
+Toprak ısısını takvim yerine ölçerek belirleyin. [Toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısında ölçüm için sabah, 8–10 cm derinlik kuralı anlatılıyor; [fide dikim zamanı](/fide-dikim-zamani) yazısı da kabakgil için eşikleri veriyor. Kabakgil ekimi için daha ayrıntılı bilgiyi [kabak tohumu ekimi](/kabak-tohumu-ekimi) ve [karpuz tohumu ekimi](/karpuz-tohumu-ekimi) yazılarında bulabilirsiniz; acur tohumu bu ikisinin arasındaki bir davranış gösterir.
+
+Fide için tohumu dikimden üç dört hafta önce 8–10 cm'lik saksıya ekin. Tohumu 2–3 cm derinliğe, yassı yüzü yan gelecek şekilde yerleştirin ve ılık, ışıklı bir yerde çimlendirin. Doğrudan ekimde ocak başına iki üç tohum bırakın, çıkışta güçlü olanı seçin.
+
+## Toprak ve yer seçimi
+
+Acur güneşli ve rüzgârdan korunaklı bir yer ister. Toprak derin, süzek ve organik maddece zengin olmalı. Florida Üniversitesi (UF/IFAS) uzatma servisinin acur (Armenian cucumber) yazısı, bitkinin gün boyu güneşi, süzek ve verimli toprağı ve 6,0–6,8 pH aralığını sevdiğini belirtir. Ağır, su tutan toprakta kökler çürür; çok kumlu toprakta ise sulama sıklaşır. Dikimden önce olgun kompost ya da solucan gübresini toprağa karıştırmak başlangıç için yeterlidir. Kaynak: [UF/IFAS acur yetiştirme yazısı](https://blogs.ifas.ufl.edu/duvalco/2025/03/12/armenian-cucumber-a-warm-season-crop-to-try).
+
+Bahçe yatağında ya da büyük saksıda da yetişir. Saksıda en az 30–40 litrelik bir kap seçin, çünkü bitki büyük yaprak yüzeyi taşır ve çok su harcar. Balkonda yetiştirme için sulama düzenini ve kabın ağırlığını hesaplayın; dolu 40 litrelik saksı oldukça ağırdır.
+
+## Dikey yetiştirme: ip, kafes, destek ünitesi
+
+Acurun en önemli ihtiyacı destektir. Yerde sürünebilir, ama UF/IFAS yazısına göre dikey yetiştirmek meyveyi daha düz yapar, yer kazandırır ve havalanmayı artırır. Aynı kaynak sığır paneli, tel çit, A biçimli kafes, naylon ağ ve bahçe kemerini destek seçenekleri olarak sayar ve yetiştiricileri sürgünleri erken dönemde desteğe yönlendirmeye çağırır. Yerde kalan meyve yere değip kıvrılır, çürür ve kabuğu lekelenir. Bunun üç yolu vardır: tele ya da ipe sarmak, kafese yönlendirmek ya da yatağın kenarındaki bir destek çerçevesine ip germek.
+
+::: adimlar
+Desteği önceden kurun | Fidanı dikmeden önce direk ya da çerçeveyi yerleştirin; sonradan kurmak kökleri zedeler.
+İpleri gerin | Dikey ipleri yaklaşık 20 cm aralıkla, yukarıdaki kirişe bağlayın; ip çürüyen bir malzeme olursa sezon sonunda bitkiyle birlikte kompostlanabilir.
+Asmayı yönlendirin | Genç sürgünü ipe dolayın; sülükler kendisi tutunacaktır, ama ilk haftalarda elle yönlendirmek gerekir.
+Yan sürgünü ayıklayın | Zemine yakın ilk 40–50 cm'deki yan sürgünleri alın; hava dolaşımı ve temiz meyve sağlar.
+Ucu kısaltın | Asma kirişe ulaşınca ucunu alın; bitki yana dallanır ve meyve tutar.
+:::
+
+Yatağın boyuna takılan hazır destek çerçeveleri bu iş için pratik bir çözümdür. Böyle bir ünite yatağın üstünde yaklaşık 150 cm yükselir ve aralıklı iplerle domates, salatalık, fasulye ve benzeri tırmanıcıları taşır; acur da bu gruba girer. Ağır meyve çok olursa ip ve çerçevenin yükü taşıyabildiğinden emin olun.
+
+[ürün:sebze-yatagi-bitki-destek-unitesi-85-cm-genislikteki-yataklar-icin]
+
+## Sulama ve besleme
+
+Acur çok yapraklı bir bitkidir ve sıcakta çok su ister. Derin ve düzenli sulama, kök bölgesinin sürekli nemli ama sırılsıklam olmamasını hedefler. Sulamayı sabah erken ya da akşam yapın, yaprağı mümkün olduğunca ıslatmayın; nemli yaprak külleme ve mildiyö hastalıklarını çağırır. Dengesiz sulama meyvede acılaşma ve çatlama yapabilir. Yazın en sıcak haftalarında yüksek sıcaklık ve su stresi bir araya gelince acılık riski artar; sulamayı aksatmamak bunun en basit önlemidir.
+
+Besleme için dikimde toprağa karışan organik madde ilk haftalara yeter. Çiçek ve meyve döneminde iki üç haftada bir dengeli, potasyumu yeterli bir sebze besini verilebilir; aşırı azot asmayı uzatır, meyveyi geciktirir. Salatalık beslemesi için hazırlanmış [salatalık gübreleme](/salatalik-gubreleme) takvimindeki mantık acur için de büyük oranda geçerlidir. Çiçek dökümü ya da yaprak lekeleri görürseniz [salatalık hastalıkları](/salatalik-hastaliklari) yazısındaki belirti listesine bakabilirsiniz.
+
+## Tozlaşma ve meyve tutumu
+
+Acur ayrı erkek ve dişi çiçek açar. Dişi çiçeğin arkasında küçük bir meyve şişkinliği bulunur. Arılar ve diğer böcekler tozlaşmayı yapar; balkonda ve kapalı alanda arı azsa sabah saatlerinde erkek çiçeği alıp dişi çiçeğin tepesine sürmek meyve tutumunu artırır. Aynı yöntemi kabak ve kavun için de kullanabilirsiniz. Bazı salatalık çeşitlerinin aksine acur tozlaşma gerektirir; çiçek açıp meyve tutmuyorsa önce arı eksikliğine bakın.
+
+Hava çok sıcak ya da çok nemliyse polen canlılığı düşer ve çiçek dökülür. Bu durum geçicidir; hava dengelenince meyve tutumu da düzelir. Bitki üzerinde çok fazla meyve bırakmak yeni meyve tutumunu yavaşlatır; bu yüzden düzenli hasat önemlidir. Asmalar büyük alana yayılabilir; sağlam bir destek planlayın, ince bir ip hasat dönemindeki ağırlığı taşımayabilir.
+
+## Hasat: ne zaman, nasıl?
+
+Acuru gençken toplamak en lezzetli sonucu verir. Meyve genellikle 30–40 cm boya ulaşınca, kabuğu hâlâ açık yeşil ve ince, tohumları yumuşakken toplanır. Aşırı olgunlaşan meyve sararır, kabuğu sertleşir ve tohumları büyüyüp acılaşır. Tohum için ayrılan meyveyi ise bitkide bırakıp sararıncaya kadar bekleyin.
+
+Hasat sırasında meyveyi sapıyla birlikte makasla kesin; çekip koparmak asmayı zedeler. Sık hasat yeni meyve oluşumunu destekler; bitkide meyve bırakmak üretimi durdurur. Hasat edilen acuru serin yerde bekletin; kısa sürede tüketilmelidir.
+
+## Yaygın sorunlar
+
+Acur yetiştirmede en sık karşılaşılan sorunlar şunlardır:
+
+- **Soğuk toprağa ekim:** Çimlenme düzensiz ve çürüme artar; toprak ısınana kadar bekleyin.
+- **Destek eksikliği:** Meyve yerde kıvrılır ve çürür; asmayı baştan yukarı alın.
+- **Düzensiz sulama:** Meyve acılaşır ya da çatlar; sulamayı düzenli yapın.
+- **Külleme:** Yapraklarda beyaz toz; havalanmayı artırın, yaprağı ıslatmayın.
+- **Geç hasat:** Meyve sertleşir ve tohumlanır; 30–40 cm'de toplayın.
+
+İlaç gerektiren hastalık ve zararlı sorunlarında ilaç adı ve dozu için il ya da ilçe tarım müdürlüğündeki ziraat mühendisine başvurun. Dikey kule ya da yatak sisteminde yetiştirmek isteyenler için [küçük bahçe tasarımı](/kucuk-bahce-tasarimi) yazısındaki alan planlaması işe yarar.
+@sss
+S: Acur ne zaman ekilir?
+C: Toprak sıcaklığı yaklaşık 18–20 °C'ye ulaşınca, çoğu bölgede nisan sonu ile mayıs ayında ekilir. Soğuk bölgelerde fideyle başlamak ve dikimi son donlardan sonra yapmak güvenlidir.
+
+S: Acur dikey yetiştirilir mi?
+C: Evet, hatta önerilir. Meyveler yere değerse kıvrılır ve çürür; ip, kafes ya da destek çerçevesiyle asmayı yukarı alın. Kafes yüksekliği ve ipin yük taşıması önemlidir.
+
+S: Acur ne zaman toplanır?
+C: Meyve 30–40 cm boya ulaşıp kabuğu açık yeşil ve ince, tohumları yumuşakken toplanır. Geç kalınırsa kabuk sertleşir, tohumlar büyür ve tat acılaşabilir.
+
+S: Acur salatalıkla çapraz tozlaşır mı?
+C: Hayır. Acur kavunun bir formudur ve kavunla çapraz tozlaşabilir; salatalıkla karışmaz. Tohum saklamak istiyorsanız yakında kavun yetişiyorsa dikkat edin.
+
+### YAZI
+slug: moringa-yetistirme
+baslik: Moringa Yetiştirme: Moringa Ağacı Saksıda Yetiştirilir mi?
+yayin: 2027-03-06 11:35
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: moringa yetiştirme
+seo_baslik: Moringa Yetiştirme: Saksıda Ağaç Mümkün mü?
+seo_aciklama: Moringa yetiştirme Türkiye'de mümkün mü? Don sınırı, saksıda yetiştirme, sıcak ve ışıklı yer, tohumdan çıkarma, budama ve kışı geçirmek için gerçekçi rehber.
+ozet: Moringa tropikal, hızlı büyüyen bir ağaçtır ve donu hiç sevmez. Moringa yetiştirmenin Türkiye'de nerede mümkün olduğunu, saksıda yetiştirmeyi, tohumdan çıkarmayı, budama ve kışlatmayı, su ve toprak isteğini ve gerçekçi beklentileri anlattık.
+etiketler: moringa, moringa ağacı, Moringa oleifera, tropikal ağaç, saksıda ağaç, tohumdan ağaç
+gorsel: bekliyor
+gorsel_alt: Pencere önünde saksıda büyüyen ince gövdeli, küçük yapraklı genç moringa ağacı
+urunler: genel-saksi-topragi-ozel-karisim, hg-vermikulit
+kisaca: Moringa yetiştirme sıcak ve donsuz iklim ister; dona dayanmaz. Türkiye'de güney kıyılarda dışarıda, diğer bölgelerde saksıda yetiştirilip kışın ışıklı ve ısıtılan bir yere alınır. Tohum ılık ortamda çabuk çimlenir. Fazla uzayan gövdeyi budamak dallanmayı artırır. Su tutan toprağı sevmez, drenaj şarttır.
+@govde
+Moringa (Moringa oleifera), ince dallı, küçük yapraklı ve çok hızlı büyüyen bir tropikal ağaçtır. Son yıllarda sosyal medyada "mucize ağaç" gibi sözlerle anılır; biz bu tür vaatlere girmeden yalnızca bahçıvanlığı anlatıyoruz. Moringa yetiştirme sorusunun cevabı çoğu zaman şudur: sıcaklık ve don sınırı sizin yerinize karar verir.
+
+## Moringa nasıl bir bitki?
+
+Moringa tropik ve yarı tropik iklimlerin bitkisidir. Hindistan kökenlidir ve ılık, kuru mevsimli bölgelerde yayılmıştır. Hızlı büyür, kısa sürede birkaç metre uzar ve yumuşak odunludur. Bu yüzden gövdesi rüzgârda ve karda kolay kırılır. Yaprakları küçük, tüy gibi bileşik yapraklardır; uzun, ince meyveleri (kapsüller) bitkinin adıyla anılır.
+
+Don en büyük sınırdır. Moringa tropikal bir ağaçtır ve donla zarar görmesi beklenir; bu konuda moringa'ya özgü bir üniversite sayısı bulamadık, bu yüzden kesin eşik vermiyoruz. Florida Üniversitesi uzatma servisinin kış koruma notu, soğuğa duyarlı bitkiler için örtünün yere kadar uzanması ve yaprağa değmemesi gerektiğini, kaptaki bitkilerin korunaklı yere alınmasını ya da bir araya toplanıp malçlanmasını önerir. Kaynak: [UF/IFAS kış bitki koruma notu](https://sfyl.ifas.ufl.edu/lawn-and-garden/winter-plant-protection/). Don almış bitki dipten yeniden sürebilir; bu kesin değildir. Bu yüzden Türkiye'de dışarıda yetiştirme yalnızca kışı donsuz geçen güney kıyı şeritlerinde mümkündür; diğer yerlerde saksı ve kışlatma düzeni gerekir.
+
+## Moringa yetiştirme: dışarıda mı, saksıda mı?
+
+Moringa yetiştirme kararı için bölgenizin kış sıcaklığına bakın. Don olmayan ya da çok nadir görülen ılık kıyılarda moringa güneşli, korunaklı bir yere dikilebilir. Marmara, iç bölgeler ve soğuk kıyılarda ise saksıda yetiştirilir; yaz boyunca dışarıda, soğuk başlamadan önce içeride durur. Saksı bitkisi olarak moringa oldukça ışık ister; loş bir odada yaprak döker ve uzar.
+
+Saksıda yetiştirmenin avantajı budama ve kışlatmayı kolaylaştırmasıdır. Dezavantajı, ağacın saksı boyuyla sınırlanmasıdır; birkaç metrelik ağaç beklenmemelidir. Saksıda boy 1–2 metre aralığında tutulur. Bu yüzden saksıdaki moringayı meyve ağacı gibi değil, yaprak veren bir bitki gibi düşünün.
+
+## Tohumdan çıkarma
+
+Moringa genellikle tohumla başlatılır. Tohum iri, kanatlı ve yağlıdır; taze tohum çabuk çimlenir, eski tohumun çimlenme gücü düşer. Çimlenme için sıcaklık önemlidir: tohumu ılık, nemli ve havalı bir ortamda tutun. Soğuk toprakta çürür. Tohumun kanatlı kabuğunu soyup birkaç saat ılık suda bekletmek çimlenmeyi hızlandırabilir; ama uzun süre suda bırakmayın.
+
+Ekimi doğrudan saksıya yapmak, kök sarsıntısını önler. Moringa kazık kökü uzun olduğu için fidenin yer değiştirmesini sevmez. Derin bir saksı seçin ya da uzun fide tüpü kullanın.
+
+::: adimlar
+Tohumu hazırlayın | Taze tohum seçin; kanatlı dış kabuğu nazikçe sıyırın, birkaç saat ılık suda bekletin.
+Derin saksıya ekin | 20–25 cm derinlikte, delikli saksıyı süzek karışımla doldurun; tohumu 1–2 cm derinliğe koyun.
+Isıtın | Saksıyı çok ılık ve ışıklı bir yerde, 25 °C ve üzeri ortamda tutun.
+Nemli tutun | Toprak ıslak değil, hafif nemli kalsın; çürüme riskine dikkat edin.
+Fideyi gözleyin | Yaklaşık iki hafta içinde filiz çıkar; ışığı bol verin ve ilk ay sık yer değiştirmeyin.
+:::
+
+Süzek toprak için genel saksı toprağına perlit ya da vermikülit katmak iyi bir seçimdir. Karışımın mantığını [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir) yazısında anlattık.
+
+## Toprak, ışık ve sulama
+
+Moringa tam güneşi sever ve gün boyu ışık aldığında hızlı büyür. Pencere önünde yetişen bitki güney cam önünde en iyi sonucu verir; yetersiz ışıkta ince ve uzun büyür. Toprak süzek olmalı; moringa su tutan, killi ve soğuk toprakta kök çürümesine uğrar. Saksıda mutlaka drenaj deliği olsun. Su tutan alt tabak kullanıyorsanız sulamadan sonra boşaltın.
+
+Sulama ölçülüdür. Kök bölgesinin üst birkaç santimi kuruyunca derin sulama yapın; kışın büyüme yavaşladığında sulamayı belirgin biçimde azaltın. Aşırı sulama belirtileri için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına bakabilirsiniz. Moringa kurağa kısmen dayanıklıdır, ama saksıda kök hacmi sınırlı olduğundan düzenli sulama gerekir.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+## Budama: boyu sınırlamak
+
+Doğal hâlinde moringa tek gövdeli uzar ve ucu dallanmadan yükselir. Saksıda bu istenmez. Genç bitkide boy 60–80 cm'yi bulunca ucunu kesmek dallanmayı başlatır; yan dallar çıkınca onların uçlarını da alarak çalı formu verirsiniz. Budamayı ılık mevsimde yapın; bitki hızlı toparlanır. UF/IFAS, yaz sonu ve sonbahar başında yapılan budamanın soğuğa duyarlı yeni sürgün çıkardığını ve bunun uyarısını yapar; soğuk başlamadan önce sert budamadan kaçının. Ayrıca bir seferde bitkinin yapraklarının üçte birinden fazlasını almayın. Budama için temiz ve keskin bir alet kullanın ve kesimi tomurcuğun hemen üstünde yapın.
+
+Yaprak toplamak istiyorsanız genç sürgünlerin uçlarından alın; bitkiyi aşırı yapraksız bırakmayın. Bu yazıda yenilebilirlik veya sağlıkla ilgili iddialara girmiyoruz; bitkisel bir ürünü beslenme ya da tedavi amacıyla kullanmadan önce doktorunuza ya da eczacınıza danışın.
+
+## Kışlatma
+
+Saksıdaki moringa için sonbahar planı gereklidir. Gece sıcaklığı 10 °C civarına inmeden önce bitkiyi içeriye alın; ışıklı, donsuz ve ılık bir yer seçin. Kışın büyüme yavaşlar, yapraklar dökülebilir; bu bir ölüm belirtisi sayılmaz. Sulamayı iyice azaltın, gübre vermeyin. Bahar gelip hava ısınınca yeni sürgün çıkar; ağacı yeniden dışarı çıkarmadan önce bir hafta boyunca gün içinde birkaç saat dışarıya alıştırın. Alıştırma için [fide sertleştirme](/fide-sertlestirme) yazısındaki mantık geçerlidir.
+
+Bitkiyi serin ve karanlık bir bodrumda kışlatmak, bazı yaprak döken ağaçlarda işe yarar; moringa için güvenilir değildir, çünkü ışığa ve ılıklığa ihtiyaç duyar. Dondan koruma yöntemleri için [bitkileri dondan koruma yolları](/bitkileri-dondan-koruma-yollari) yazısı da bilgi verir.
+
+## Gerçekçi beklentiler
+
+Moringa yetiştirme eğlenceli, hızlı sonuç veren bir hobidir; bir yaz boyunca tohumdan metrelerce uzayan bir ağaç görmek mümkün olabilir. Ama saksıda çiçek ve kapsül beklemeyin; bu genellikle büyük ve olgun ağaçlarda, uygun iklimde olur. Moringa ürünleriyle ilgili abartılı iddialar yaygındır; hiçbir bitki tek başına sağlık sorunlarını çözmez. Bitkiyi bahçecilik penceresinden değerlendirin: ışık, ısı, su ve budama. Soğuk bölgelerde denemek için birkaç tohumla küçük bir deneme yapmak, büyük yatırımdan çok daha mantıklıdır.
+@sss
+S: Moringa Türkiye'de yetişir mi?
+C: Güney kıyıların donsuz bölgelerinde dışarıda yetişebilir. Diğer bölgelerde saksıda yetiştirilip kışın ışıklı, ılık bir yere alınır; moringa dondan çabuk zarar görür.
+
+S: Moringa saksıda yetişir mi?
+C: Evet. Derin, delikli bir saksı, süzek toprak ve çok ışık gerekir. Saksıda boy sınırlanır; genç bitkinin ucunu kesmek dallanmayı artırır. Kışın ılık ve ışıklı bir yerde tutun.
+
+S: Moringa tohumu kaç günde çimlenir?
+C: Taze tohum ılık ortamda genellikle iki hafta içinde çimlenir. Soğuk toprakta çürüyebilir; tohumu hafif nemli, 25 °C civarı bir ortamda tutun.
+
+S: Moringa ne kadar su ister?
+C: Üst toprak kuruyunca derin sulayın; su durması kök çürümesine yol açar. Kışın büyüme yavaşladığında sulamayı belirgin biçimde azaltın.
+
+### YAZI
+slug: kapari-yetistirme
+baslik: Kapari Yetiştirme: Kayalık ve Kurak Alanların Bitkisi
+yayin: 2027-03-06 14:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: kapari yetiştirme
+seo_baslik: Kapari Yetiştirme: Kurak ve Taşlık Alanlar İçin
+seo_aciklama: Kapari yetiştirme için taşlı, süzek ve kireçli toprak, güneş, çelik ve tohumla çoğaltma, sulama, tomurcuk hasadı ve neden sabırlı olmak gerektiği.
+ozet: Kapari, duvar diplerinde ve kayalıklarda kendiliğinden biten dikenli bir çalıdır. Kapari yetiştirme için toprak ve güneş isteğini, tohum ve çelikle çoğaltmayı, sulamayı, çiçek tomurcuğunun nasıl toplandığını ve verime ulaşmak için ne kadar beklemek gerektiğini anlattık.
+etiketler: kapari, Capparis spinosa, kurak bahçe, tomurcuk, kayalık bahçe, Akdeniz bitkisi
+gorsel: bekliyor
+gorsel_alt: Taşlı yamaçta yayılarak büyüyen kapari çalısı üzerinde beyaz çiçek ve yeşil tomurcuklar
+urunler: kaktus-ve-sukulent-topragi, tarim-perliti
+kisaca: Kapari yetiştirme için tam güneş, taşlı ve çok süzek toprak, az su gerekir; kök derine iner, su durması bitkiyi çürütür. Tohum zor çimlenir, çelik ve fideyle başlamak daha pratiktir. Yenen kısım, açılmamış çiçek tomurcuklarıdır ve sık sık toplanır. Verim için bitkiyi yıllarca beklemek gerekir.
+@govde
+Kapari (Capparis spinosa), Akdeniz havzasında taş duvarların aralarında, kayalık yamaçlarda ve kıraç yol kenarlarında kendiliğinden yetişen dikenli, yayılıcı bir çalıdır. Yenen kısım açılmamış çiçek tomurcuğudur; salamura ya da tuzlu hâlde sofraya gelir. Kapari yetiştirme, bahçedeki öteki bitkilerden ters düşünmeyi gerektirir: Buraya az su, kötü toprak ve çok güneş verirsiniz.
+
+## Kapari nasıl bir bitki?
+
+Kapari çok yıllık, odunsu tabanlı bir çalıdır. Dalları yere doğru uzanır ve taş duvardan aşağı sarkar. Yaprakları yuvarlak, etli ve parlaktır; çiçekleri beyaz ya da açık pembedir ve çok sayıda uzun mor erkek organ taşır. Çiçekler genellikle bir gün açık kalır; tomurcuklar ise çiçekten önce toplanır. Kökleri derindir ve kayalardaki çatlaklara girer; bu yüzden yazın kuraklığa çok iyi dayanır.
+
+Bu özellikleri kapariyi su tasarruflu bahçeler ve kayalık bahçeler için ilginç bir bitki yapar. Kuraklığa dayanıklı bir bahçe planlıyorsanız [kuraklığa dayanıklı bahçe](/kurakliga-dayanikli-bahce) yazısındaki fikirler kapariyle birlikte düşünülebilir.
+
+## Kapari yetiştirme için iklim ve toprak
+
+Kapari ılık, kuru yazlı, hafif kışlı iklimde yetişir. Ege ve Akdeniz kıyıları doğal alanıdır. İç bölgelerde ve soğuk kışlarda bitkinin toprak üstü donabilir; ağır don riskinde köklerin yeniden sürüp sürmediğine bakmak gerekir. Soğuk bölgelerde saksıda yetiştirip kışın korumak seçeneklerden biridir.
+
+Toprak konusunda kapari kuralları tersine çevirir. İstediği toprak taşlı, kireçli, çok süzek ve fakirdir; organik maddece zengin ve nemli bahçe toprağı bitkiyi hastalığa açar. Su tutan ağır toprakta kökler çürür. Bahçede uygun bir yer yoksa yükseltilmiş, taşla karıştırılmış bir yatak ya da eğimli bir şev hazırlayın. Saksıda yetiştirecekseniz kaktüs ve sukulent toprağı ile iri perlit karışımı iyi bir tercihtir.
+
+::: takvim
+Çelik ya da fide dikimi | 3-5
+Yoğun tomurcuk hasadı | 5-9
+Çiçek ve tohum oluşumu | 6-9
+Sonbahar toparlanması | 10-11
+Kış dinlenmesi | 12-2
+:::
+
+## Çoğaltma: tohum, çelik, fide
+
+Kapari tohumu çimlenmesi güç bir tohumdur. Kaliforniya Üniversitesi'nin kapari rehberi tohumun en az 12 saat suda bekletilmesini, ardından nemli ortamda buzdolabında 65–70 gün soğutulmasını ve bu yöntemlerle yüzde 40–75 çimlenme alındığını yazar. Aynı rehber, çeliklerin serada en az bir yıl köklendirilip sonra tarlaya dikildiğini, sert odunlu çeliklerin boyunun 15–50 cm arasında değiştiğini ve genç bitkilerin ilk yıllarda kuraklığa daha duyarlı olduğunu belirtir. Bkz. [UC küçük çiftlikler ağı kapari rehberi](https://ucanr.edu/program/uc-small-farms-network/capers). Derlemeler kaparinin vejetatif çoğaltmaya da dirençli olduğunu söyler; yani hiçbir yöntem garanti değildir. Dormansinin nasıl işlediğini [dormansi nedir](/dormansi-nedir) yazısında anlattık. Hobi bahçesi için daha pratik yol, hazır fide almaktır; çelik ve tohumla denemek isterseniz birkaç tane değil, bol miktarda deneyin.
+
+Fide dikerken bitkiyi kök topağıyla birlikte, saksıdaki seviyesinde dikin. Kök topağını bozmayın; kapari kazık kökü çok hassastır. Dikimden sonra ilk sezon sulama düzenli olmalı, ardından seyreltilir. Yeni kök bırakan bitkiyi gölgeleyin. Bir iki yıl sonra bitki yerleşir ve kuraklığa dayanıklı hâle gelir.
+
+[ürün:kaktus-ve-sukulent-topragi]
+
+## Sulama ve bakım
+
+İlk yıl bitki yerleşirken derin ve seyrek sulama yapın; haftada bir derin sulama çoğu yerde yeterlidir. İkinci yıldan sonra yağışa göre ek sulama azalır. Kapari yazın en sıcak haftalarında bile çok az suyla yaşar; aşırı sulama en büyük risktir. Yaz yağışı fazla olan yerlerde kapari yetiştirmek zor olabilir. Yaprak ıslaklığı ve nemli hava mantar hastalığına yol açar.
+
+Besleme ihtiyacı çok azdır. Kapari fakir toprakta yetişir; aşırı azot sürgünü uzatır, ama tomurcuk sayısını artırmaz. Çok gerekirse ilkbaharda bir kez olgun organik madde yeterlidir.
+
+Budama kışın sonunda yapılır: Kuru ve zayıf dalları kesin, eski sürgünleri kısaltın. Kapari yeni sürgünlerde çiçek verir, bu yüzden sert budama bitkiyi gençleştirir. Dikenli dallar nedeniyle çalışırken kalın eldiven ve uzun kollu giysi kullanın.
+
+## Tomurcuk hasadı
+
+Hasat ürünü, çiçek tomurcuklarıdır. Tomurcuklar açılmadan, küçük ve sıkı iken toplanır; açılan çiçek artık kaparidir diye kullanılmaz. Hasat sabah saatlerinde yapılır ve her birkaç günde bir tekrarlanır, çünkü çok sayıda yeni tomurcuk sürekli oluşur. Küçük tomurcuk daha değerli ve incedir. Hasat çok emek isteyen bir işlemdir; bu yüzden hobi bahçesinde birkaç bitki bile bir ailenin ihtiyacını karşılayabilir.
+
+Toplanan tomurcuklar tuzla ya da salamurayla saklanır. Gıda güvenliği nedeniyle tuz oranı, kavanoz temizliği ve saklama süresine dikkat edin; konserve ve salamura için güvenilir bir tarif kaynağı kullanın. Toplayıp bekleterek bozulmaya bırakmayın; tomurcuklar çabuk sararır.
+
+## Sabırlı olmak gerekir
+
+UC rehberi, çeliklerin tarlaya dikilmeden önce serada en az bir yıl bekletildiğini yazar; yani fideyle bile başlasanız ilk yıllarda meyve değil kök ve gövde beklersiniz. Kuru ve taşlık bir bahçe köşesi için en gerçekçi plan, birkaç sağlıklı fide dikip ilk iki üç yıl sulamayı seyrek ama derin tutmak, otları temizlemek ve kendi hâline bırakmaktır. Taş duvar diplerine dikilen bitki kök salıp duvarın çatlaklarında kendi nemini bulur; bu yüzden kuruyan toprak tabanlı yataklara göre daha az bakım ister. Ayrıca dikenli dallar nedeniyle bitkiyi yürüyüş yoluna dikmeyin, çocukların ve evcil hayvanların uzak kalacağı bir köşe seçin. Su tasarruflu bir bahçe tasarlıyorsanız [damla sulama kurulumu](/damla-sulama-kurulumu) yazısı ilk iki yıl için pratik bir yol gösterir.
+
+Kapari yetiştirme hızlı sonuç beklemeye uygun değildir. Fide dikilen bitki ilk yıllarda kök sistemini geliştirir; verim birkaç yıl sonra başlar. Her yıl bir önceki sezondan daha çok tomurcuk alırsınız. Bitkinin yaşı ilerledikçe taş duvar kenarlarında ve kayalık bahçelerde hayranlık uyandıran bir kapari kütlesi oluşur. Bu yüzden kapari, yaşlı bahçe köşesini canlandırmak isteyenler için iyi bir seçenek olabilir.
+
+Hobi amacıyla üç beş bitkiyle başlayın. Tarla ölçeğinde kapari yetiştirmek isteyenler için ilçe tarım müdürlüğünden ve bölgesel üretici örgütlerinden yerel bilgi almak gerekir; bu yazı ölçek, verim ve gelir bilgisi vermez.
+@sss
+S: Kapari hangi toprakta yetişir?
+C: Taşlı, kireçli, çok süzek ve fakir toprağı sever. Organik maddece zengin, su tutan ağır toprakta kökler çürür. Bahçede uygun yer yoksa yükseltilmiş taşlı bir yatak ya da kaktüs toprağı karışımlı saksı kullanın.
+
+S: Kapari tohumdan çıkar mı?
+C: Çıkar ama zordur; tohumun sert kabuğu ve dormansisi çimlenmeyi geciktirir ve düzensiz yapar. Hobi bahçesi için fide ya da çelikle başlamak daha pratiktir.
+
+S: Kapari ne zaman toplanır?
+C: Çiçek tomurcukları açılmadan, küçük ve sıkı iken toplanır; hasat sabah yapılır ve birkaç günde bir tekrarlanır. Açılmış çiçekler tomurcuk olarak kullanılmaz.
+
+S: Kapari çok su ister mi?
+C: Hayır. Kökleri derindir ve kuraklığa çok iyi dayanır; asıl risk aşırı sulama ve su durmasıdır. İlk yıl derin ve seyrek sulayıp sonra yağışa göre azaltın.
+
+### YAZI
+slug: sumak-yetistirme
+baslik: Sumak Yetiştirme
+yayin: 2027-03-06 16:40
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: sumak yetiştirme
+seo_baslik: Sumak Yetiştirme: Toprak, Çoğaltma ve Hasat
+seo_aciklama: Sumak yetiştirme için iklim ve toprak, sürgün ve tohumla çoğaltma, fidan dikimi, budama, meyve salkımı hasadı, kurutma ve zehirli sumakla karıştırmamak.
+ozet: Sumak, kırmızımsı meyve salkımları baharat olarak kullanılan bir çalı ağaçtır. Sumak yetiştirmede toprak ve iklim isteğini, kök sürgünüyle çoğaltmayı, fidan dikimini, budamayı, salkımların ne zaman toplanıp nasıl kurutulacağını ve bitkiyi zehirli türlerle karıştırmamak için gerekenleri anlattık.
+etiketler: sumak, Rhus coriaria, baharat çalısı, kök sürgünü, sumak hasadı, kıraç bahçe
+gorsel: bekliyor
+gorsel_alt: Dalda kırmızımsı koyu, sık tüylü sumak meyve salkımları ve tüysü yaprak yapısı
+urunler: hg-fidan-topragi, leonardit-organik-toprak-duzenleyici
+kisaca: Sumak yetiştirme için tam güneş, süzek ve çoğunlukla kıraç toprak yeterlidir; çalı kuraklığa dayanıklıdır. Kök sürgünleri ve tohumla çoğalır, fide olarak dikilir. Meyve salkımları yaz sonunda kırmızı-kahverengiye döndüğünde toplanır ve gölgede kurutulur. Tür adı Rhus coriaria olmalıdır; zehirli sumakla karıştırılmamalıdır.
+@govde
+Sumak, Türk mutfağında salata, kebap ve soğan yemeklerine ekşi ve hafif buruk bir tat veren baharattır. Baharat olarak kullanılan kısım, Rhus coriaria çalısının kırmızımsı meyve salkımlarıdır. Sumak yetiştirme, kıraç ve eğimli arazisi olanlar için ilgi çekici bir seçenektir; çünkü bitki az bakımla, kuru ve taşlı toprakta yetişir. Bu yazıda kuru toprağın sevdiği bu çalıyı bahçeye nasıl alacağınızı anlatıyoruz.
+
+## Sumak nedir, hangisi yetiştirilir?
+
+Sumak adıyla birkaç farklı bitki anılır. Baharat sumağı, Rhus coriaria (Sicilya sumağı ya da kökboya sumağı olarak da bilinir) türüdür; Türkiye'nin Akdeniz ve Güneydoğu bölgelerinde doğal olarak yetişir. Bahçelerde süs için dikilen başka sumak türleri vardır; bunların meyvelerinin kullanımı farklı olabilir. Zehirli sumak (Toxicodendron) ise ayrı bir cinsin üyesidir ve ciltte ağır alerji yapar; baharat sumağıyla ilgisi yoktur, ancak ad benzerliği karışıklığa yol açar. Satın alacağınız fidanın tür adı olarak Rhus coriaria taşıdığından emin olun.
+
+Sumak iki evcikli olabilir; yani erkek ve dişi bitkiler ayrıdır. Meyve salkımı yalnızca dişi bitkilerde oluşur. Fidan satın alırken dişi ya da hermafrodit bir bitki olduğundan emin olun; gençken cinsiyet çoğu zaman anlaşılmaz, bu nedenle birkaç fidan dikmek akıllıca olabilir.
+
+## Sumak yetiştirme için iklim ve toprak: kıraç yerler için
+
+Sumak sıcak, güneşli ve kurak yerleri sever. Kayalık yamaçlarda, kıraç tarla kenarlarında, kireçli ve taşlı topraklarda yetişir. Ağır ve su tutan toprakta kökler çürür. Bu özellik, sumağı başka meyve ve sebze türlerinin yetişemediği parsellerde değerlendirmek için avantaj sayılır. Don dayanımı iyidir; ancak çok sert kışlarda genç sürgün uçları zarar görebilir. Kesin bölge sınırı için yöredeki yetiştirici ve tarım müdürlüğüne danışmak gerekir.
+
+Bahçede en uygun yer, güneş gören, rüzgâra dayanıklı ve su durmayan bir noktadır. Gölgede çiçek ve meyve verimi düşer. Sumak yetiştirme planında toprağı bol gübreleyip sulamak yerine kıraçlığı korumak daha doğrudur. Eğimli ve taşlı bir arazide erozyonu azaltmak için bitkiyi eğime dik sıralarla dikmek de yararlıdır; toprak ve eğim konusundaki genel mantık için [küçük arazi nasıl değerlendirilir](/kucuk-arazi-nasil-degerlendirilir) ve [hobi bahçesi nasıl kurulur](/hobi-bahcesi-nasil-kurulur) yazıları kullanılabilir. Çok zengin ve sulak toprakta bitki gövde yapar ama meyve vermez. Bu yüzden toprağı gübreleyip sulayarak şımartmayın; bu çalı yoksulluk ister.
+
+## Çoğaltma: kök sürgünü, tohum, fide
+
+Türkiye'deki akademik çalışmalar sumağın tohum ya da çelikle üretilebildiğini belirtir; Kahramanmaraş'ta 24 genotip üzerinde yapılan bir fenoloji çalışması da ülkede sumak yetiştiriciliği ve ıslahı konusundaki araştırmaların sınırlı olduğunu söyler. Bu yüzden çoğaltma konusunda elimizde net bir bahçıvan tarifi yok. Bitkinin dibinde çıkan kök sürgünlerinin ayrılıp dikilmesi uygulamada bilinen bir yoldur, ama bunu kaynaklı bir kural olarak sunmuyoruz; yöredeki fidanlık ve üreticilerle konuşun.
+
+Tohum sert kabukludur ve çimlenmesi düzensiz olabilir; tohumdan gelen bitkinin cinsiyeti de belli değildir. Bu yüzden hobi bahçesinde sertifikalı fidan almak en güvenli yoldur. Bakanlığın sumak yayını ve yatırımcı rehberleri bitkinin kurağa dayanıklı olduğunu, düşük verimli, eğimli ya da bozulmuş arazilerde ekonomik bir seçenek sunduğunu belirtir; ayrıntı için [Konya Yatırım Destek Ofisi sumak rehberine](https://www.konyadayatirim.gov.tr/assets/upload/dosyalar/sumak-fizibilite-raporu-ve-yatirimci-rehberi.pdf) bakabilirsiniz. Dormansi mantığı için [dormansi nedir](/dormansi-nedir) yazısına bakabilirsiniz.
+
+[ürün:hg-fidan-topragi]
+
+## Dikim: adım adım
+
+Dikim için en uygun zaman, bitkinin dinlendiği sonbahar sonu ile ilkbahar başıdır. Soğuk bölgelerde ilkbaharı tercih edin.
+
+::: adimlar
+Yeri seçin | Gün boyu güneş alan, süzek, kıraç bir yer; yakında su borusu ya da bina temeli olmasın, sürgünler yayılır.
+Çukuru açın | Köklerin rahat sığacağı genişlikte ve derinlikte çukur açın; dibini gevşetin, taşlıysa taşları bırakın.
+Fidanı yerleştirin | Köklerin sıkışmamasına dikkat edin; kök boğazını toprak hizasında tutun.
+Toprağı kapatın | Fazla gübre karıştırmayın; hafifçe bastırıp doldurun.
+İlk sulamayı yapın | Bol can suyu verin; ilk yıl seyrek ama derin sulayın, sonra yağışa bırakın.
+:::
+
+Genel fidan dikim ilkeleri için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısına bakabilirsiniz. Sumak yetiştirme yapacağınız fidanın tür adını sorarken, sertifikalı fidan seçimi için [fidan seçimi nasıl yapılır](/fidan-secimi-nasil-yapilir) yazısındaki kontrol listesini de kullanın. Sumak yayılıcı olduğu için birden çok bitki dikecekseniz aralığı geniş tutun ya da yayılma alanını kenarlarla sınırlayın.
+
+## Bakım ve budama
+
+İlk yıl bitki yerleşirken düzenli sulama gerekir; sonraki yıllarda sulama ihtiyacı azalır, bitki kuraklığa dayanır. Gübre çoğunlukla gerekmez; kıraç toprakta bile yetişir. Çok yoksul toprakta ilkbaharda bir kez hafif organik madde verilebilir.
+
+Budama kış sonunda yapılır. Kuru, kırık ve çapraz dalları alın; yoğun kök sürgünlerini istediğiniz kadarıyla sınırlayın. Sumak sert budamaya dayanır ve dipten yeniden sürer; bu özelliği yaşlı bitkiyi gençleştirmek için kullanılabilir. Sürgünler bahçenin başka yerlerine yayılmak isterse çim biçme makinesiyle ya da kazarak ayıklanır; bu yüzden bitkiyi yürüyüş yolundan ve çocuk oyun alanından uzak tutun.
+
+## Hasat ve kurutma
+
+Meyve salkımları yaz sonunda ve sonbaharın başında olgunlaşır. Olgun salkım koyu kırmızı ya da kırmızı-kahverengi renk alır ve sıkı tüylerle kaplıdır. Salkım kuru bir günde, sabah çiy kalktıktan sonra toplanır. Hasatta eldiven kullanmak, bitkinin tüylü yapısı yüzünden cildi ya da gözü rahatsız etmesini önler. Hassas ciltli ya da kaju ve mango alerjisi olan kişiler (aynı bitki ailesindedirler) toplarken dikkatli olmalıdır.
+
+Toplanan salkımlar gölgede, havadar bir yerde ince bir tabaka hâlinde serilerek kurutulur; güneş ve nem aromayı ve rengi bozar. Tam kurumadan saklanırsa küf yapar. Kuruyan meyveler elle ya da havanda ezilip tanelerinden ayrılır; baharat olarak kullanılacaksa temiz bir kavanozda kuru ve karanlıkta saklanır. Ev yapımı baharat için temizlik ve kuruluk en önemli iki kuraldır.
+
+## Gerçekçi beklentiler
+
+Sumak yetiştirme, kıraç ve eğimli arazilerde değer katan bir seçenektir; ama ilk yıllarda meyve beklemeyin. Fidan ve sürgünler kök kurup yerleşmek için birkaç yıl ister. Çok küçük bir bahçe için bir iki bitki bile mutfağın sumak ihtiyacını karşılayabilir. Tarla ölçeğinde üretim ve ticarete yönelik planlar için il ya da ilçe tarım müdürlüğü ve yerel üretici örgütleri doğru bilgi kaynağıdır; bu yazı ölçek, verim ve gelir bilgisi vermez.
+@sss
+S: Sumak nasıl yetiştirilir?
+C: Güneşli, süzek ve kıraç toprakta, kök sürgünü ya da fideyle dikilir. Çalı kuraklığa dayanır; ağır, su tutan toprakta çürür. İlk yıl derin sulama, sonra çoğunlukla yağışa bırakılır.
+
+S: Sumak ne zaman toplanır?
+C: Meyve salkımları yaz sonu ve sonbahar başında, koyu kırmızıya ya da kırmızı-kahverengiye döndüğünde, kuru bir günde toplanır. Toplanan salkımlar gölgede kurutulur.
+
+S: Sumak zehirli sumakla karıştırılır mı?
+C: Karıştırılmamalı. Baharat sumağı Rhus coriaria'dır; zehirli sumak ayrı cinstendir ve ciltte ağır alerji yapar. Fidanı tür adı yazılı satıcıdan alın, emin olmadığınız bitkiyi toplamayın.
+
+S: Sumak çoğaltması nasıl yapılır?
+C: En kolay ve güvenli yol kök sürgünüdür; sonbahar ya da erken ilkbaharda köklü sürgün kazılıp dikilir. Tohumla çoğaltma mümkündür ama sert kabuk nedeniyle çimlenme düzensizdir.
+
+### YAZI
+slug: chia-yetistirme
+baslik: Chia Yetiştirme: Evde Mümkün mü?
+yayin: 2027-03-06 19:30
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: chia yetiştirme
+seo_baslik: Chia Yetiştirme: Evde Mümkün mü? Gerçekçi Rehber
+seo_aciklama: Chia yetiştirme evde mümkün mü? Kısa gün bitkisi olması, don hassasiyeti, tohum hasadının neden zor olduğu, filiz ve süs olarak yetiştirme ve ekim adımları.
+ozet: Chia, kısa gün bitkisidir ve çiçeklenmesi günlerin kısalmasına bağlıdır; bu yüzden serin iklimlerde tohum hasadı zordur. Chia yetiştirmenin evde ve bahçede nelerin mümkün olduğunu, nelerin olmadığını, ekim zamanını, filiz ve süs olarak kullanımı ve gerçekçi beklentileri anlattık.
+etiketler: chia, Salvia hispanica, chia tohumu, chia filizi, kısa gün bitkisi, bahçede chia
+gorsel: bekliyor
+gorsel_alt: Saksıda büyüyen, kenarları dişli, koyu yeşil yapraklı genç chia bitkisi ve çiçek salkımı
+urunler: hg-aromatik-bitkiler-icin-saksi-topragi, hg-fide-topragi
+kisaca: Chia yetiştirme evde filiz ve yaprak için kolaydır, ama tohum hasadı çoğu bölgede zordur. Bitki kısa gün bitkisidir; geç çiçek açar ve tohumu olgunlaşmadan don gelebilir. Don görmeyen, uzun yaz ve sonbahar sunan sıcak bölgelerde deneme mümkündür. Yer ve ışık bol, sulama ölçülü olmalıdır.
+@govde
+Chia (Salvia hispanica), adaçayı ve fesleğenle akraba bir bitkidir. Mutfakta bildiğimiz küçük, parlak tohumları bu bitkinin ürünüdür. Chia yetiştirme sorusu çoğu zaman "tohumu evde nasıl elde ederim?" şeklinde gelir; cevap ise bölgenin iklimine bağlıdır. Burada kolay yollarla neleri yapabileceğinizi, neleri beklemeniz gerektiğini ve gerçekçi bir beklentiyi anlatıyoruz.
+
+## Chia nasıl büyür?
+
+Chia, Orta Amerika kökenli, sıcağı seven tek yıllık bir bitkidir. Dik büyür, gövdesi dört köşelidir ve yaprakları adaçayına benzer şekilde dişli ve tüylüdür. Çiçekleri mor ya da beyaz, uzun başak hâlinde açar ve tohumlar bu başaklarda olgunlaşır. Bitki kısa gün bitkisidir; yani çiçek açması günlerin kısalmasıyla tetiklenir. Kentucky Üniversitesi araştırmacıları, bitkinin ancak gün uzunluğu yaklaşık 12–13 saatin altına inince çiçeklendiğini bildirir; bu da sonbahara doğru çiçek açtığı anlamına gelir.
+
+Kısa gün bitkisi olması serin iklimlerde sorun yaratır. Aynı Kentucky çalışmaları chia'nın orta enlemlerde çok iyi büyüdüğünü, ama sezonun geç döneminde çiçek açtığı için tohum olgunlaşmadan öldüren donların geldiğini yazar; araştırmacılar bu yüzden daha erken çiçek açan hatlar geliştirmiştir. Ayrıntı için [Kentucky Üniversitesi chia araştırma yayını](https://www.uky.edu/Ag/Agronomy/PLBC/Research/pubs/Jamboonsri-12.pdf) okunabilir. Çin'in Sıçuan havzasında yapılan bir denemede de yetersiz tohum dolumu nedeniyle verim düşük kalmıştır. Ilık, uzun sonbaharlı kıyılarda şans vardır; soğuk bölgelerde ilk don tohum olgunlaşmadan gelir ve ürün kaybolur. Bu nedenle chia yetiştirme, uzun ve sıcak sonbaharlı bölgelerde deneme niteliğindedir.
+
+## Evde mümkün olanlar
+
+Tohum hasadı zor olsa da chia ile evde yapılabilecek birkaç şey vardır. Birincisi filiz ve mikro yeşillik üretmektir. Chia tohumu ıslanınca jel gibi bir tabaka oluşturur; ince bir tabaka tohum nemli bir yüzeye serpilip birkaç gün içinde minik filizler çıkarır. Bu yöntem hızlı ve ışık gerektirmeyen bir başlangıçtır. Mikro yeşillik yetiştirme düzenini [evde mikro yeşillik yetiştirme](/evde-mikro-yesillik-yetistirme) yazısında anlattık.
+
+İkincisi süs bitkisi olarak yetiştirmektir. Chia, mor çiçek başakları ve düzgün yapısıyla balkon ve bahçede süs olarak kullanılabilir; çiçek açmadan önce bile yaprakları hoştur. Çiçekleri arılar ve diğer tozlayıcılar için kaynaktır. Üçüncüsü, sıcak bölgelerde deneme niteliğinde tohum almayı denemektir.
+
+Gıda amaçlı tohum toplayacaksanız, kullandığınız tohumun gıda tohumu olduğundan ve gıda güvenliğine uygun bir kaynaktan geldiğinden emin olun. Süs ve bahçe amacıyla satılan tohum ilaçlı ya da kaplı olabilir. Tohum paketinde yazan bilgilere bakın.
+
+## Chia yetiştirme: ekim zamanı ve yer
+
+Chia don duyarlıdır. Ekimi son donlardan sonra, toprak ve hava ısındığında yapın. Soğuk bölgelerde nisan sonu ya da mayısta, ılık kıyılarda mart sonunda ekim mümkündür. Tohumu fide saksısında başlatıp dışarı geçirmek, bitkiye zaman kazandırır, ama chia kök sarsıntısını sevmez; tohumdan doğrudan başlamak da yaygındır.
+
+Işık önemlidir. Tam güneş ister; gölgede uzar ve zayıf kalır. Toprak süzek, çok zengin olmayan bir bahçe toprağı ya da saksı karışımı uygundur. Aşırı gübre yaprak çoğaltır, ama çiçek ve tohum oluşumunu geciktirir. Chia fakir toprakta bile yetişir.
+
+| Hedef | Chia ile yapılabilir mi? | Not |
+|---|---|---|
+| Filiz, mikro yeşillik | Evet, kolay | Birkaç günde, ışık az bile yeter |
+| Süs bitkisi, çiçek | Evet | Sonbaharda mor çiçek başakları |
+| Taze yaprak | Evet, sınırlı | Adaçayı akrabası; hafif aromatik |
+| Tohum hasadı | Zor, ılık bölgede deneme | Don gelmeden olgunlaşması gerekir |
+
+## Ekim adımları
+
+Tohum çok küçüktür; derine gömmeyin. Yüzeye serpip hafifçe bastırmak ya da çok ince bir toprak tabakasıyla örtmek yeterlidir.
+
+::: adimlar
+Toprağı hazırlayın | Hafif, süzek bir toprak karışımı; yüzeyi düzgün ve nemli yapın.
+Tohumu serpin | Tohumu yüzeye aralıklı serpin, çok ince örtün ya da yalnızca bastırın.
+Nemli tutun | Püskürtmeyle nemlendirin; tohum nemlenince çimlenir. Toprağı sırılsıklam yapmayın.
+Isıtın ve ışık verin | Sıcak, aydınlık bir yerde tutun; çimlenme birkaç gün sürer.
+Seyreltin | Fideler çıkınca 20–30 cm aralığa seyreltin; sıkışık bitki zayıf kalır.
+:::
+
+Aromatik bitki karışımı bu iş için uygundur; ayrıntı için [aromatik bitki toprağı](/aromatik-bitki-topragi) yazısına bakabilirsiniz.
+
+[ürün:hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## Bakım: su, destek ve çiçek
+
+Sulamayı ölçülü yapın. Fideler küçükken toprak hafif nemli kalmalı; büyüdükçe kuraklığa dayanıklı hâle gelir. Aşırı sulama kök çürümesine neden olur. Sulama sıklığı için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazısı genel bir çerçeve verir.
+
+Bitki 1–1,5 metreye ulaşabilir; rüzgârlı yerde destek çubuğu ya da hafif bağ gerekir. Çiçek başakları uzayınca ağırlaşır ve devrilebilir. Çiçeklenme sonbaharda başlar; tohum olgunlaşırken bitki sararır ve kurur. Bu sırada don gelirse ürün alınamaz.
+
+## Tohumun olgunlaşması ve hasat
+
+Chia yetiştirme boyunca en kritik tarih bitkinin çiçek açtığı gündür; çünkü çiçeklenmeden sonra tohumun dolması için haftalar gerekir. Çiçek başaklarını fark ettiğiniz gün bir not alın ve ilk don tarihine kaç hafta kaldığını sayın. Birkaç hafta kalmışsa tohum çoğunlukla dolmaz; hava soğumadan önce başakları kesip evde nemsiz bir yerde kurutmayı denemek ürünü tamamen kaybetmekten iyidir, ama tohum kalitesi düşük olur.
+
+Başaklarda tohumlar olgunlaşınca bitki kurur ve tohumlar dökülmeye hazır hâle gelir. Hasat için başakları kuru bir günde kesin, kapalı bir poşet ya da kâğıtta kurutun, sonra ovarak ya da silkeleyerek tohumları ayırın. Temizlik ve ayıklama için ince elek kullanın. Tohum küçük olduğu için kayıp çok olur; hobi bahçesindeki küçük bir parselden alınacak miktar da çok sınırlıdır.
+
+Tohum hasadını yapamıyorsanız yetiştirdiğiniz bitkiyi süs bitkisi, arı bitkisi ve taze yaprak kaynağı olarak değerlendirin. Chia adaçayı cinsindendir; çiçekleri tozlayıcıları çeker ve sonbaharın geç döneminde bahçede ilgi çekici bir yapı verir. Küçük bir deneme parseli ayırıp ilk don tarihini not ederseniz, bir sonraki yıl ekim tarihini öne çekmeniz mümkündür; ama bitkinin gün uzunluğuna bağlı çiçeklenme düzenini tarih değiştirerek tamamen aşamazsınız. Bu yüzden büyük bir tohum ekonomisi planlamadan önce yalnızca küçük bir alanda deneme yapın ve sonucu kaydedin. Chia yetiştirme deneyi için bir sezon küçük bir deneme parseli ayırın; sonuçta bölgenizin elverişli olup olmadığını görürsünüz.
+@sss
+S: Chia evde yetişir mi?
+C: Filiz, mikro yeşillik ve süs bitkisi olarak evde kolayca yetişir. Tohum hasadı ise çoğu bölgede zordur; çünkü bitki kısa gün bitkisidir ve tohumu olgunlaşmadan don gelebilir.
+
+S: Chia ne zaman ekilir?
+C: Son donlardan sonra, toprak ve hava ısındığında ekilir; soğuk bölgelerde nisan sonu ya da mayıs, ılık kıyılarda mart sonudur. Tohumu çok küçük olduğu için derine gömmeyin.
+
+S: Chia dona dayanır mı?
+C: Hayır, don duyarlıdır. Tohumun olgunlaşması için sonbaharda haftalarca don olmayan bir dönem gerekir; bu yüzden soğuk bölgelerde ürün alınamayabilir.
+
+S: Chia filizi nasıl yetiştirilir?
+C: Tohumu nemli bir yüzeye ince bir tabaka serpin, nemli tutun ve ılık bir yerde bırakın. Birkaç gün içinde filizler çıkar. Gıda amaçlı yetiştirecekseniz gıda güvenliğine uygun tohum kullanın.
+
+### SORU
+yayin: 2027-03-06 21:10
+kategori: sebze-meyve
+baslik: Acurlarım çiçek açıyor ama küçük meyveler sararıp dökülüyor, neden?
+metin: Geçen yaz balkonda iki acur fidesi yetiştirdim. Çok çiçek açtı ama küçük meyveler birkaç gün sonra sararıp döküldü. Sulamam düzenli. Nedir?
+@cevap Mikdat Çelik | 2
+Acurda ayrı erkek ve dişi çiçek bulunur; dişi çiçek tozlanmazsa arkasındaki küçük meyve sararıp düşer. Balkonda ve kapalı alanda arı az olduğu için bu sık görülür. Sabahın erken saatinde, çiçekler yeni açılmışken bir erkek çiçeği (arkasında meyve şişkinliği olmayan) koparıp taç yapraklarını çıkarın ve polenli kısmı dişi çiçeğin ortasına sürün. Birkaç gün üst üste deneyin. Aşırı sıcak ve ani su stresi de çiçek dökümüne yol açar; sulamayı sabaha taşıyın. Bitkide fazla olgun meyve bırakmamak da yeni meyvelerin tutmasına yardım eder.
+
+### SORU
+yayin: 2027-03-06 21:45
+kategori: sebze-meyve
+baslik: Chia tohumlarını mutfaktan alıp ektim, çıktı ama bu yıl tohum alabilir miyim?
+metin: Marmara'da yaşıyorum. Market chia tohumunu geçen ay evde ektim, fideler çıktı. Mayısta bahçeye dikip sonbaharda tohum toplamayı düşünüyorum. Olur mu?
+@cevap Muhammed Hamza Çelik | 2
+Fidelerin çıkması iyi, ama tohum hasadı için bu bölgede şansınız düşük. Chia kısa gün bitkisidir; gün uzunluğu yaklaşık 12–13 saatin altına inince çiçek açar, yani sonbaharın başında. Kentucky Üniversitesi çalışmaları, çiçeklenmenin sezonda geç kaldığını ve tohum olgunlaşmadan donun gelebildiğini bildirir. Marmara'da sonbahar donu ne zaman gelirse o tarihe kadar tohumun dolması gerekir; çoğu yıl yetişmeyebilir. Yine de denemeniz zarar vermez: bitki süs ve arı bitkisi olarak değerlidir. Çiçek başaklarını ilk donu beklemeden kesip kurutmayı deneyebilirsiniz; ama tohum verimi düşük olur. Market tohumunun gıda amaçlı olduğunu, ekim için ayrılmadığını da unutmayın.

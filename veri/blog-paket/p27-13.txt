@@ -1,0 +1,122 @@
+### YAZI
+slug: mikro-tarim-nedir
+baslik: Mikro Tarım Nedir? Küçük Alanda Planlı Üretim
+yayin: 2027-01-30 14:05
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: mikro tarım
+seo_baslik: Mikro Tarım Nedir? Küçük Alanda Planlı Üretim
+seo_aciklama: Mikro tarım nedir? Balkon ve küçük bahçede yoğun, planlı sebze üretiminin ilkelerini; ardışık ekim, münavebe, dikey büyüme ve kayıt tutmayı anlattık.
+ozet: Mikro tarım, balkon ve küçük bahçe gibi dar alanlarda yoğun, planlı ve kayıtlı sebze üretimidir. Planlama sorularını, ardışık ve röle ekimi, münavebeyi, dikey büyümeyi, toprak ve sulama düzenini, örnek bir plan tablosunu ve gerçekçi verim beklentisini üniversite ve bakanlık kaynaklarıyla yazdık.
+etiketler: mikro tarım, küçük alan tarımı, ardışık ekim, münavebe, yoğun üretim, dikey yetiştirme
+gorsel: bekliyor
+gorsel_alt: Küçük bir bahçede yükseltilmiş yataklarda sıralı yeşillikler, ipe sarılan fasulye ve köşede dikey kule
+urunler: yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi, moduler-yukseltilmis-bahce-yatagi-217-litre
+kisaca: Mikro tarım, küçük bir alanı (balkon, teras, birkaç metrekarelik bahçe) planlı ve yoğun işleyerek sezon boyunca sürekli sebze almaktır. Dört temel ilke vardır: ne, ne kadar, ne zaman ve nereye sorularıyla plan yapmak; hasat biter bitmez yeni ürünü ekmek (ardışık ekim); aynı bitki ailesini aynı yere üst üste ekmemek (münavebe); dikey alanı kullanmak.
+@govde
+"Mikro tarım" bir mevzuat terimi ya da resmî bir üretim biçimi değil; küçük bir alanı çok verimli ve planlı işleme yaklaşımına verilen genel addır. Bir balkonda ya da bahçenin birkaç metrekaresinde sezon boyunca sürekli sebze almak isteyen birinin yöntemi budur. Mikro tarım nedir sorusuna kısa cevap şudur: alan küçüldükçe planın önemi büyür. Her santimetrekarenin bir işi vardır, hiçbir yatak boş ya da plansız kalmaz ve her hasat yeni bir ekimle devam eder. Aşağıda bu yaklaşımın ilkelerini ve bir bahçıvanın nasıl uygulayabileceğini sıralıyoruz. Bu yazı mikro yeşillik yetiştirmeyle (filiz ve genç yeşillik) karıştırılmamalıdır; onun için [evde mikro yeşillik yetiştirme](/evde-mikro-yesillik-yetistirme) yazısına bakabilirsiniz.
+
+## Küçük alan, büyük plan: neden mümkün?
+
+İyi planlanmış küçük alan şaşırtıcı çeşitlilik verebilir. Milli Eğitim Bakanlığı'nın hobi bahçeleri modülü, iyi planlama, bakım, gübre ve sulama ile küçük bir alandan bile bol ürün alınabileceğini belirtir ([MEB peyzajda hobi bahçeleri modülü](https://megep.meb.gov.tr/mte_program_modul/moduller_pdf/Peyzajda%20Hobi%20Bah%C3%A7eleri.pdf)). Bir yüksek lisans çalışmasında 3,5 metrekarelik bir alanda bahar ve sonbahar olmak üzere iki dönemde toplam sekiz on tür sebzenin yetiştirilebildiği bildirilmiştir (Ankara Üniversitesi Fen Bilimleri Enstitüsü tezi). Bu, küçük alanın verimsizlik değil, plan meselesi olduğunu gösterir. Yine de rakamlara abartılı beklenti yüklemeyin: küçük alandan aile bütçesini karşılayacak sebze çıkmaz; amaç, mutfağa düzenli taze ürün sağlamak ve bahçeciliği öğrenmektir.
+
+## Birinci ilke: dört soruyla plan
+
+Michigan Eyalet Üniversitesi'nin küçük çiftlikler için planlama kaynağı, üretim planını dört soruya dayandırır: ne yetiştirilecek, ne kadar, ne zaman ve nerede ([Michigan State Üniversitesi planlama ve zamanlama](https://www.canr.msu.edu/hrt/uploads/535/78622/PlanningSchedulingFourSeasonFarm12pgs.pdf)). Bu sorular ticari çiftlik için yazılmıştır ama balkon için de aynen geçerlidir.
+
+| Soru | Balkon ve küçük bahçe için anlamı | Örnek cevap |
+|---|---|---|
+| Ne? | Ailenin gerçekten yediği ve yetişmesi kolay sebzeler | Marul, roka, fesleğen, domates, biber |
+| Ne kadar? | Haftalık tüketim, alan ve ışık sınırı | Haftada iki salata, 3 domates bitkisi |
+| Ne zaman? | Ekim ve hasat takvimi, ardışık dilimler | Şubat fide, nisan dikim, ağustos sonbahar ekimi |
+| Nerede? | Güneş, saksı ya da yatak, dikey alan | Güneyde domates, kuzeyde yeşillik |
+
+Ne yetiştireceğinize karar verirken balkonun ışığını ölçmek gerekir; yöntem için [balkonunuz kaç saat güneş alıyor](/balkonunuz-kac-saat-gunes-aliyor) yazısı yol gösterir. Bitki sayısını ve alanı hesaplamak için ise [bahçe yatağı dikim planı](/bahce-yatagi-dikim-plani) yazısındaki aralıklar yardımcı olur.
+
+## İkinci ilke: ardışık ve röle ekim
+
+Küçük alanı verimli tutmanın yolu, hasadı biten yere hemen yeni ürün ekmektir. Oklahoma Eyalet Üniversitesi Extension, iki tekniği ayırır: ardışık ekim (hasattan hemen sonra aynı yere yeni bitki ekmek) ve röle ekim (eski bitki hasat edilmeden yeni bitkiyi ekmeye başlamak); röle ekimde çok erken dikilen bitkinin soğuk toprak ve havada yavaş başlayabileceğini de belirtir ([Oklahoma State Extension yoğun bahçe bileşenleri](https://extension.okstate.edu/programs/gardening/site-files/docs/2020/april-19-components-of-intensive-gardens.pdf)). New Hampshire Üniversitesi Extension ise yoğun bahçeciliğin amacının sezon boyunca belirli bir alandan en yüksek verimi almak olduğunu, bir alanın bir sezonda iki üç ürün taşıyabildiğini ve bu yüzden münavebeye dikkat edilmesi gerektiğini yazar ([UNH Extension yoğun bahçecilik](https://extension.unh.edu/resources/files/Resource000612_Rep634.pdf)).
+
+| Dilim | Dönem | Örnek ürün (ılıman bölge) |
+|---|---|---|
+| Erken ilkbahar | Mart–nisan | Turp, marul, roka, ıspanak |
+| Yaz | Mayıs–eylül | Domates, biber, fasulye, salatalık, fesleğen |
+| Sonbahar | Ağustos sonu–ekim | Ispanak, marul, turp, kale, pazı |
+| Kış (ılık bölge ya da korumalı) | Kasım–şubat | Kale, pazı, yeşillik, soğanlı sebzeler |
+
+Her dilimin ekimini bir önceki dilim bitmeden hazırlayın: fide ocak ve şubatta, yazlık fide mart sonunda, sonbahar fidesi temmuz sonunda başlatılır. Bölge farkı büyüktür: Akdeniz ve Ege kıyılarında kış dilimi gerçek bir üretim mevsimidir; iç bölgelerde ve soğuk yerlerde ise kış dilimi korumalı alan (mini sera, cam balkon) gerektirir. Mevsim planı için [şubatta balkonda ne ekilir](/subatta-balkonda-ne-ekilir) ve [ocak ayında ne ekilir](/ocak-ayinda-ne-ekilir) yazıları ayları ayrıntılı gösterir.
+
+## Üçüncü ilke: münavebe
+
+Aynı bitki ailesini aynı yere üst üste ekmek toprağı yorar ve hastalık ve zararlıyı birikim yapar. Milli Eğitim Bakanlığı'nın sebzecilik modülü, aynı alanda peş peşe marul yetiştirilmemesini ve münavebede domates, ıspanak, baklagiller, soğan gibi farklı grupların yer almasını önerir ([MEB sebzecilik modülü](https://www.megep.meb.gov.tr/mte_program_modul/moduller_pdf/Sebzecilik.pdf)). Samsun İl Tarım Müdürlüğü'nün sebzecilik yayını ise lahanagillerde aynı toprakta en az üç yıl ara verilmesi gerektiğini bildirir ([Samsun İl Tarım Müdürlüğü sebzecilik](https://samsun.tarimorman.gov.tr/Belgeler/Yayinlar/Kitaplarimiz/sebzecilik.pdf)). Ege Üniversitesi Ziraat Fakültesi de Türkiye'de münavebenin yeterince uygulanmamasının üretimde ciddi sorunlara yol açtığını belirtir.
+
+Küçük alanda münavebe, bahçeyi dört bölüme ayırıp her yıl bölümleri döndürmekle yapılır. Gruplar şunlardır:
+
+1. **Lahanagiller** (lahana, brokoli, karnabahar, turp, roka, kale)
+2. **Patlıcangiller** (domates, biber, patlıcan)
+3. **Baklagiller** (fasulye, bezelye, bakla)
+4. **Kök ve yapraklı sebzeler** (havuç, pancar, marul, ıspanak, soğan)
+
+Bir yatağın bu dört grup arasında her yıl yer değiştirmesi, hem hastalığı kırar hem de baklagillerin toprağa azot kazandırma etkisinden yararlanır. Yatak sayısı azsa (iki üç yatak) en azından domates ve biberi her yıl farklı yatağa alın.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-217-litre]
+
+## Dördüncü ilke: dikey ve yoğun yerleşim
+
+Küçük alanın bir avantajı dikey alandır. Sırık fasulye, salatalık ve domates ipe ve ağa çıkarılırsa aynı yatakta başka sebzelere yer kalır; destek yöntemleri için [bahçe yatağında dikey destek](/bahce-yataginda-dikey-destek) yazısına bakın. Yeşillik ve çilek için dikey kuleler taban alanını az kullanır; yatak ve kule seçimi için [bahçe kulesi mi yükseltilmiş yatak mı](/bahce-kulesi-mi-yukseltilmis-yatak-mi) yazısı alanınıza göre rehberlik eder. Yoğun dikimde bitkiler arasındaki mesafeyi gereğinden fazla daraltmayın: sıkışık bitkiler hastalığı artırır ve verimi düşürür.
+
+## Beşinci ilke: toprak, su ve besin
+
+Yoğun üretim toprağı hızla tüketir; çünkü aynı alandan yılda iki üç ürün alınır. Bu yüzden toprağın her sezon organik madde ve besinle beslenmesi gerekir: olgun kompost, solucan gübresi ve saksı için dengeli sıvı besin bu iş içindir. Toprak yapısı için [bahçe yatağı toprağı](/bahce-yatagi-topragi) yazısındaki karışım ilkeleri uygulanır. Sulama da yoğun üretimin ayrılmaz parçasıdır: yoğun dikimde su ihtiyacı yüksektir ve düzensiz sulama verimi düşürür. Damla sulama hem su hem emek tasarrufu sağlar; balkon için [balkon damla sulama seti](/balkon-damla-sulama-seti), bahçe için [damla sulama kurulumu](/damla-sulama-kurulumu) yazılarına bakabilirsiniz.
+
+## Kayıt tutmak: planın hafızası
+
+Mikro tarımın en az akılda tutulan ama en değerli yönü kayıttır. Ne zaman ne ekildi, hangi çeşit, hangi yatak, ne zaman hasat edildi, kaç kilogram? Bu kayıt bir sonraki yıl takvimi ve münavebeyi planlarken en güvenilir kaynaktır. Defter ya da telefon notu yeterlidir; bahçe defteri alışkanlığı için [bahçe defteri](/bahce-defteri) yazısına bakabilirsiniz. Hasat kaydı verimi tahmin etmekten çok daha gerçekçi bir sonuç verir; ayrıntı için [balkonda ne kadar sebze çıkar](/balkonda-ne-kadar-sebze-cikar) yazısını inceleyin.
+
+## Örnek: 6 metrekarelik küçük bahçe planı
+
+Aşağıdaki tablo, bir bahçenin 6 metrekarelik köşesi ya da iki yatak için örnek bir yıllık plandır. Bölgeye göre tarihleri kaydırın.
+
+| Yatak | Mart–Mayıs | Haziran–Ağustos | Eylül–Kasım |
+|---|---|---|---|
+| A (güneşli) | Marul, turp | Domates (ipe), fesleğen | Ispanak, kale |
+| B (yarı güneşli) | Roka, ıspanak | Sırık fasulye, salatalık | Marul, turp |
+| C (dikey kule) | Çilek, yeşillik | Yeşillik, aromatik otlar | Yeşillik |
+
+Burada her yatak bir yıl içinde üç ürün taşır ve gelecek yıl farklı bitki ailesiyle döner. Planı ilk sezon basit tutun; ikinci yıl karmaşıklığı artırın.
+
+## Mikro tarım ve satış: gelir mi?
+
+Mikro tarımı gelir amacıyla yapmayı düşünüyorsanız önce ürün satışının mevzuatını öğrenin: tarım ürünlerinin satışı, gıda güvenliği ve kayıt kuralları vardır. Bu konuda yetkili kaynak Tarım ve Orman Bakanlığı ile il ya da ilçe tarım müdürlüğüdür ([Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr)). Küçük bir alandan gelir elde etmek için ek bilgi ve emek gerekir; bu yazı gelir iddiası taşımıyor, planlı ve yoğun ev üretimini anlatıyor.
+
+[ürün:yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi]
+
+Küçük alan ekipmanı ve toprak seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Mikro tarım nedir?
+C: Balkon, teras ya da birkaç metrekarelik bahçe gibi küçük alanı planlı ve yoğun işleyerek sezon boyunca sürekli sebze almaktır. Plan yapmak, ardışık ekim, münavebe ve dikey büyüme dört temel ilkedir; resmî bir üretim türü değil, bir yaklaşımdır.
+
+S: Ardışık ekim nedir?
+C: Bir ürünü hasat eder etmez aynı yere yeni ürün ekmektir. Röle ekimde ise yeni bitki, eski hasat edilmeden önce ekilmeye başlanır. İkisi de küçük alandan sezon boyunca daha çok ürün almayı sağlar.
+
+S: Münavebe küçük bahçede nasıl yapılır?
+C: Bahçeyi dört bölüme ayırın (lahanagiller, patlıcangiller, baklagiller, kök ve yapraklı sebzeler) ve her yıl bölümleri döndürün. Aynı ailenin aynı yere üst üste ekilmemesi hastalığı kırar; lahanagillerde en az üç yıl ara önerilir.
+
+S: Mikro tarımla ne kadar ürün alınır?
+C: Küçük alandan aile bütçesini karşılayacak miktar çıkmaz; amaç mutfağa düzenli taze sebze sağlamaktır. 3,5 metrekarelik bir alanda yıl içinde iki dönemde sekiz on türün yetiştirilebildiği bildirilmiştir, ama verim ışığa, toprağa ve bakıma bağlıdır.
+
+### SORU
+yayin: 2027-01-30 10:15
+kategori: sebze-meyve
+baslik: Küçük yatağımda marulun yerine marul ekebilir miyim, yoksa münavebe şart mı?
+metin: 3 metrekarelik küçük bir sebze yatağım var. İlkbaharda marul ektim, hasat edince yerine yine marul ekmeyi düşünüyorum. Her seferinde farklı bitki ekmek zorunda mıyım, zararı olur mu?
+@cevap Hatice Kübra Çelik | 2
+Aynı yere art arda aynı sebzeyi ekmek en sık yapılan hatalardan biridir ve zararı zamanla büyür. Milli Eğitim Bakanlığı sebzecilik modülü, aynı alanda peş peşe marul yetiştirilmemesini önerir; çünkü aynı bitkiyi besleyen hastalık ve zararlılar toprakta birikir ve toprak aynı besinlerin tükenmesiyle yorulur. Ancak bir sezon içinde kısa süreli aynı ürünü iki kez ekmek, hastalık sorunu yoksa ciddi bir sorun yaratmayabilir; asıl önemli olan yıldan yıla aynı yere aynı aileyi ekmemektir. Pratik çözüm, marulun hemen ardından farklı bir gruptan bir bitki koymaktır: örneğin turp (lahanagil), ıspanak ya da fasulye. Böylece toprağı dinlendirir ve başka besinleri kullanırsınız. Küçük yatakta münavebeyi kolaylaştırmak için bahçeyi iki ya da dört bölüme ayırıp hangi bölümde ne yetiştirildiğini deftere yazın. Marul tarafında hastalık belirtisi (çürüme, solma) görmüşseniz aynı yere o yıl marul ve benzer yeşillik ekmeyin.
+
+### SORU
+yayin: 2027-01-30 16:20
+kategori: sebze-meyve
+baslik: Balkonda ardışık ekim yapmak için ilk adım ne olmalı, takvimi nasıl çıkarırım?
+metin: Güneşli bir balkonum var ve yıl boyu sebze üretmek istiyorum. Ardışık ekim için nereden başlamalıyım, takvimi nasıl hazırlarım?
+@cevap Mehmet Fatih Çelik | 3
+Önce balkonunuzdaki ışığı ve saksı alanını netleştirin: kaç saksı ya da yatak koyabilirsiniz, hangi köşe günde kaç saat güneş alıyor? Bu bilgi hangi bitkinin nereye uyacağını belirler. Sonra mutfakta gerçekten tükettiğiniz birkaç sebzeyi seçin ve bunları dönemlere ayırın: erken ilkbaharda marul, roka ve turp; yazın domates, biber, fesleğen; sonbaharda ıspanak, marul ve kale gibi. Her dilimin ekimini bir önceki dilim bitmeden hazırlayın: fideyi önceden küçük viyolde ya da pencere önünde yetiştirin, böylece hasat biter bitmez yeni bitkiyi dikebilirsiniz. Oklahoma Eyalet Üniversitesi Extension'ın ayrımıyla bu "ardışık ekim", hasadı beklemeden başlıyorsa "röle ekim"dir; röle ekimde erken dikilen bitkinin soğuk toprakta yavaş başlayacağını unutmayın. Takvimi bölgenize göre ayarlayın: ılık kıyılarda kış dilimi etkin, iç bölgelerde korumasız balkonda kış dilimi çok sınırlıdır. Planı bir tabloya yazıp her hasat ve ekim tarihini işaretleyin; ilk sezon basit tutup sonraki sezon geliştirin. Son olarak toprağı her dilim arasında kompostla ya da solucan gübresiyle besleyin; yoğun üretim toprağı çabuk tüketir.

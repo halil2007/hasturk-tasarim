@@ -1,0 +1,270 @@
+### YAZI
+slug: sera-zemini
+baslik: Sera Zemini: Beton mu, Çakıl mı, Malç Örtü mü?
+yayin: 2027-03-22 10:20
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: sera zemini
+seo_baslik: Sera Zemini: Beton mu, Çakıl mı, Malç Örtü mü?
+seo_aciklama: Sera zemini nasıl olmalı? Beton, çakıl ve geçirgen örtünün su birikimi, soğuk, ot ve hastalık açısından karşılaştırması ile hobi serası için zemin seçimi.
+ozet: Sera zemini, suyun nereye gideceğini, hastalığın nasıl yayılacağını ve ayağınızın ne kadar rahat edeceğini belirler. Beton, çakıl ve geçirgen örtünün artı ve eksilerini, eğim ve drenajı, yürüme yolu ve yatak düzenini anlattık.
+etiketler: sera zemini, sera tabanı, çakıl zemin, beton zemin, malç örtü, drenaj, hobi serası
+gorsel: bekliyor
+gorsel_alt: Serada geçirgen örtü üzerine serilmiş çakıl yürüme yolu ve iki yanında yatak
+urunler: galvaniz-sera-iskeleti-3-8-m2-ve-u-sekilli-sebze-yatagi-seti, hg-bol-verimli-sebze-topragi, hasturk-kati-solucan-gubresi
+kisaca: Sera zemini için hobi serada en yaygın çözüm, geçirgen malç örtü (ot önleyici) üzerine serilmiş çakıldır: su süzülür, ot kontrol altında kalır, değişimi kolaydır. Düz beton su biriktirir, soğuk tutar ve nemi hastalığa dönüştürebilir; beton ancak çalışma ve saksı alanında, eğimli ve süzgeçli yapılırsa anlamlıdır.
+@govde
+Sera kurulumunda çoğu kişi iskelete, kaplamaya ve havalandırmaya odaklanır; zemin en sona kalır. Oysa serada su hortumla, damlayla ve nemle sürekli akar ve bu suyun gidecek bir yeri olmazsa, birkaç hafta içinde mantar, sinek ve çamur başlar. Sera zemini yalnızca ayağınızın bastığı yüzey değil, serinin nem ve hastalık dengesini taşıyan bir parçadır.
+
+## Sera zemini neden önemlidir?
+
+Serada her sulama, zemini ıslatır. Su süzülemezse yürüme yollarında göllenir, bitkilerin etrafında sürekli nem kalır ve mantar ile mantar sinekleri çoğalır. Tersine, çok hızlı kuruyan ve ısı veren bir zemin de serinin neminin düşmesine neden olur. İyi bir sera zemini üç işi görmelidir: fazla suyu uzaklaştırmak, yabani otu bastırmak ve temizlenmeyi kolaylaştırmak.
+
+Zemin aynı zamanda sera yapısı ve yatak düzeninin bir parçasıdır. Yatakları ve yürüme yolunu nasıl kuracağınızı [seraya sebze yatağı nasıl yerleştirilir](/seraya-sebze-yatagi) yazısında, sera yer seçimini ve kurulumunu [hobi serası kurulumu](/hobi-serasi-kurulumu) yazısında anlattık.
+
+## Üç zemin seçeneği karşılaştırması
+
+| Zemin | Artısı | Eksisi |
+|---|---|---|
+| Geçirgen örtü + çakıl | Su süzülür, ucuz ve değiştirilebilir, ot kontrolü | Zamanla çakıl toprağa karışır, ot yer yer sızar |
+| Beton | Temiz, düz, çalışma alanı için sağlam | Su biriktirir, soğuk tutar, drenaj gerektirir; sera içi toprak yatağını engeller |
+| Çıplak toprak | Bitki doğrudan toprağa dikilebilir | Çamur, ot, hastalık ve zararlı birikimi; temizlik zor |
+| Tuğla ya da beton parke (kum üzerine) | Düzgün yürüme yolu, derzlerden su süzülür | Derzlerde ot çıkar, uygulama emek ister |
+
+Oklahoma Eyalet Üniversitesi Yayım Servisi'nin [sera zeminleri ve tezgâhları belgesi](https://extension.okstate.edu/fact-sheets/print-publications/hla/greenhouse-floors-and-benches-hla-6703.pdf), geçirgen betonun drenaj sağlayabileceğini ama toprak parçacıklarının zamanla gözenekleri tıkayıp eşit drenajı bozabileceğini ve fide ile çoğaltma alanları için zayıf bir seçim olduğunu belirtir. Yani "geçirgen" malzeme bile bakım ister; temizlenmeyen bir zemin kısa sürede su tutmaya başlar.
+
+## Geçirgen örtü ve çakıl: hobi sera için pratik çözüm
+
+Hobi ve küçük seralarda en yaygın zemin, ot önleyici geçirgen malç örtü üzerine serilmiş çakıl ya da kırma taştır. Örtü, otun yukarı çıkmasını engeller ama suyun aşağı süzülmesine izin verir; çakıl ise yürüme yolunu kaplar ve bitkiye sıçrayan çamuru azaltır. Kurulum basittir: Zemini düzleyin, hafif bir eğim verin, örtüyü serip kenarlarını sabitleyin, üzerine 5–8 cm çakıl yayın.
+
+Bu çözümün avantajı değiştirilebilir olmasıdır; kiracı ya da sera yerini değiştirecek olanlar için esnektir. Çakıl her yıl kürekle karıştırılıp yıkanabilir. Dezavantajı, çakılın zamanla ince toprakla dolması ve ot çıkmasıdır; üst katmanı birkaç yılda bir yenilemek gerekir.
+
+[ürün:galvaniz-sera-iskeleti-3-8-m2-ve-u-sekilli-sebze-yatagi-seti]
+
+## Beton zemin: ne zaman anlamlı?
+
+Beton temiz ve sağlam görünür, ama sera için en riskli seçeneklerden biridir. Su akıp gideceği bir yer bulamazsa betonda birikir; soğukta buz tutar ve kaymaya yol açar. Beton ısıyı kışın serinin içinden çeker ve geceleri soğuk yayar. Bitkiler doğrudan toprağa dikilemez; yatak ya da saksı gerekir.
+
+Beton, seranın bir bölümünde çalışma, saksılama ve fide tezgâhı alanı için mantıklı olabilir: Temizlenmesi kolaydır, hijyen sağlar. Böyle bir alanda mutlaka eğim ve süzgeç yapın. Seranın bütün zemini yerine yalnız çalışma köşesini betonlamak ve yatak bölümünü toprak ya da çakıl bırakmak daha dengeli bir tasarımdır.
+
+## Eğim, drenaj ve sera kenarı
+
+Hangi zemini seçerseniz seçin, zemini hafif eğimli yapın ve suyun serinin dışına, bir drenaj hattına ya da çakıl dolu bir hendeğe çıkmasını sağlayın. Sera kenarlarında su toplamasın diye çevre zemini seranın dışına doğru eğimlendirin. Yağmur suyunu toplayacaksanız oluğu sera dışına bağlayın; ayrıntı için [yağmur suyu toplama](/yagmur-suyu-toplama) yazısına bakabilirsiniz. İklim sert yağışlıysa seranın tabanını çevre zeminden birkaç santim yüksek yapmak, su baskınını önler.
+
+::: adimlar
+Zemini düzleyin | Çim, kök ve taşı temizleyin, yüzeyi düzeltin.
+Eğim verin | Suyun çıkacağı yöne hafif eğim bırakın.
+Geçirgen örtü serin | Ot önleyici örtüyü kenarlardan sabitleyin; birleşim yerlerini bindirin.
+Çakılı yayın | 5–8 cm kalınlıkta çakıl ya da kırma taş dökün.
+Yatakları yerleştirin | Yürüme yolu ve yataklar arasında hareket alanı bırakın.
+Drenajı kontrol edin | Sulama sonrası suyun nereye gittiğini izleyin; göllenen yeri düzeltin.
+:::
+
+## Hijyen ve hastalık yönetimi
+
+Zemin ne olursa olsun düzenli temizlenmelidir. Dökülen yaprak, çürük meyve ve bitki artığı zeminde birikirse mantar ve zararlı barınağı olur. Çakıl zeminde ölü bitki kalıntısını tırmıkla toplayın; yıllık büyük temizlikte çakılı yıkayın ya da değiştirin. Beton ve tuğla yüzeyleri fırçayla temizleyip kurutun. Sezonlar arasında seranın iç yüzeylerinin ve aletlerin temizliği için [saksı dezenfeksiyonu](/saksi-dezenfeksiyonu) yazısındaki ilkeler zemin için de uyarlanabilir. Nem ve havalandırma dengesi için [sera havalandırması ve nem kontrolü](/sera-havalandirmasi-nem-kontrolu) yazısı yararlı olur.
+
+## Toprak yatak mı, zemin altı mı?
+
+Bazı seralarda bitkiler doğrudan toprak zeminde yetişir; bu durumda zemin yalnızca yürüme yolunu ilgilendirir. Toprak zeminde topraktaki hastalık yıllar içinde birikebilir; bu yüzden nöbetleşe ekim ve gerekirse toprak değişimi gerekir. Sera zeminini çakıl yapıp bitkileri yükseltilmiş yatakta ya da kasada yetiştirmek, toprağı kontrol altında tutar ve temizlik kolaylaşır. Seranın büyüklüğüne ve ne yetiştireceğinize göre, yatak ve zemin düzenini birlikte planlayın.
+
+## Yürüme yolu genişliği ve yatak düzeni
+
+Zemini döşemeden önce yatakların nerede duracağını kâğıt üzerinde çizin. Yürüme yolunu bir el arabasının ve diz çökmüş bir kişinin rahat geçeceği genişlikte bırakmak, ileride çakılı kaldırıp yeniden düzenlemeyi önler. Yol ile yatak arasındaki sınırı kenar tahtasıyla ya da düz bir taşla belirlerseniz çakıl yatağa, toprak çakıla karışmaz. Kapı girişinde zemini biraz daha sağlam tutun; en çok orası ezilir. Saksı ve fide tezgâhı için yol kenarında sabit bir alan ayırmak, çalışırken zemini kirletmenizi azaltır.
+
+## Sık yapılan hatalar
+
+Eğimsiz beton dökmek en yaygın hatadır; su serinin ortasında birikir. İkincisi, ot önleyici örtü olmadan çakıl dökmektir; otlar çakıl arasından çıkar. Üçüncüsü, örtüyü su geçirmeyen plastikle karıştırmaktır; su yüzeyde birikir. Dördüncüsü, çakıl kalınlığını fazla ince bırakmaktır. Beşincisi, kenarda su çıkışı bırakmamaktır. Sera zemini bir kez doğru kurulduğunda yıllarca bakım derdi azaltır; yanlış kurulduğunda her sulamada çamurla uğraşırsınız.
+@sss
+S: Sera zemini için en uygun malzeme hangisi?
+C: Hobi seralar için geçirgen ot önleyici örtü üzerine serilmiş çakıl en pratik çözümdür: su süzülür, ot kontrol altında kalır ve değiştirilebilir. Beton yalnız çalışma alanı için ve eğimli yapılırsa anlamlıdır.
+
+S: Seraya beton dökmek doğru mu?
+C: Genellikle önerilmez. Beton su biriktirir, soğuğu tutar ve bitkinin doğrudan toprağa dikilmesini engeller. Seranın yalnız çalışma ve saksılama köşesinde, eğimli ve süzgeçli olarak kullanılabilir.
+
+S: Sera zemininde çakıl kalınlığı ne kadar olmalı?
+C: Geçirgen örtü üzerine yaklaşık 5–8 cm çakıl ya da kırma taş yeterlidir. Çok ince tabaka ot çıkmasına ve çamurlaşmaya yol açar; çakılı birkaç yılda bir yıkayıp yenileyin.
+
+S: Sera zemini nasıl temizlenir?
+C: Bitki artığını sık toplayın, çakılı tırmıkla karıştırın, yılda bir büyük temizlikte yıkayın ya da yenileyin. Beton ve tuğla yüzeyleri fırçalayıp kurutun; birikmiş su mantar ve sinek getirir.
+
+### YAZI
+slug: balkon-yatagi-mevsim-plani
+baslik: Balkon Yatağı Mevsim Planı: Nisan–Ekim Üç Ürün Dönüşü
+yayin: 2027-03-22 12:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: balkon yatağı mevsim planı
+seo_baslik: Balkon Yatağı Mevsim Planı: Üç Ürün Dönüşü
+seo_aciklama: Balkon yatağı mevsim planı nasıl yapılır? Nisan–ekim arasında serin, sıcak ve yeniden serin mevsim sebzelerini art arda yetiştirip yatağı boş bırakmayan plan.
+ozet: Balkon yatağı mevsim planı, tek bir yatakta yılın üç ürününü art arda almanın yoludur: ilkbaharda serin mevsim sebzesi, yazda sıcak mevsim sebzesi, sonbaharda yeniden serin mevsim sebzesi. Plan örneğini, aralardaki toprak bakımını ve bölge farklarını anlattık.
+etiketler: balkon yatağı, mevsim planı, ardışık ekim, balkon sebze bahçesi, ürün dönüşü, kapalı tabanlı yatak
+gorsel: bekliyor
+gorsel_alt: Balkondaki bir sebze yatağında aynı alanda sırasıyla marul, domates ve ıspanak
+urunler: moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60, moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60, hg-bol-verimli-sebze-topragi
+kisaca: Balkon yatağı mevsim planı üç dönüştür: nisan–haziran marul, roka, turp gibi serin mevsim sebzeleri; haziran–eylül domates, biber, fesleğen gibi sıcak mevsim sebzeleri; eylül–kasım ıspanak, turp, yeşillik gibi yeniden serin mevsim sebzeleri. Dönüşler arasında yatağa kompost eklenip toprak yenilenir.
+@govde
+Balkondaki bir yatak, bir kez doldurulup domates dikildikten sonra eylüle kadar tek ürünle kalırsa yılın büyük bölümünde verimsiz çalışır. Oysa nisan–ekim arasında üç farklı dönem vardır ve her dönemin kendi sebzesi vardır. Balkon yatağı mevsim planı, bu üç dönemi sırayla kullanarak aynı toprakta üç ürün almanızı sağlar. Küçük alan için hem verim hem çeşitlilik demektir.
+
+## Balkon yatağı mevsim planı: üç dönüş mantığı
+
+Maryland Üniversitesi Yayım Servisi'nin [sebzelerde ardışık dikim belgesi](https://extension.umd.edu/resource/planting-vegetables-succession), aynı yatakta serin mevsim sebzesini sıcak mevsim sebzesi ve ardından yeniden serin mevsim sebzesi izlediği bir düzen anlatır; örnek bir yatak planında mart sonunda marul, mayıs ortasında yeşil fasulye ve ağustos başında brokoli yer alır. Sıcak mevsim sebzelerinin son don tehlikesi geçer geçmez dikilmesi önerilir. Bu üç dönemli dönüş, tek bir yatakta sezon boyu üretimi sağlar.
+
+Türkiye'ye uyarlarsak: Nisan ayında serin sever sebzeler, haziranda yazlık sebzeler, eylülde yeniden serin sever sebzeler yetiştirilir. Takvimi kendi bölgenizin son don tarihine göre kaydırın; kıyılarda tarihler bir ay önce, soğuk iç bölgelerde bir ay sonra başlar.
+
+| Dönem | Zaman (iç bölge, yaklaşık) | Ürünler |
+|---|---|---|
+| 1. dönüş: serin mevsim | Nisan – haziran | Marul, roka, turp, ıspanak, tere, yeşil soğan |
+| 2. dönüş: sıcak mevsim | Haziran – eylül | Domates (bodur), biber, fesleğen, salatalık, fasulye |
+| 3. dönüş: yeniden serin mevsim | Eylül – kasım | Ispanak, turp, marul, roka, pazı |
+
+## Yatak ölçüsü ve ne kadar bitki sığar?
+
+Balkon yatağı genellikle küçüktür; örneğin 110 × 60 cm tabanlı, 30 cm toprak derinliğinde bir yatak yaklaşık 200 litre toprak alır. Bu hacimde bir mevsimde sığacak bitki sayısı sınırlıdır: Yaprak sebzeler sık dikilir (marul 20–25 cm aralıkla), meyve sebzesi (domates, biber) aralığı geniş ister. Bu yüzden yazlık dönüşte yatağa bir domates, bir iki biber ve kenara fesleğen gibi bir kombinasyon düşünün; yatağı aşırı doldurmayın. Yatak boyutuna göre planı kâğıda çizmek, bitki sayısını belirler.
+
+Kapalı tabanlı ve ayaklı yatakların avantajı su sızdırmayıp zemini lekelememesidir; yine de tabandaki drenaj deliklerinin tıkanmamasına dikkat edin. Yatak seçimi ve kullanımı için [balkon sebze yatağı](/balkon-sebze-yatagi) yazısına, toprak karışımı için [saksıda sebze toprağı](/saksida-sebze-topragi) yazısına bakabilirsiniz.
+
+[ürün:moduler-balkon-teras-sebze-yatagi-no-4-sabit-ayakli-110x60]
+
+## 1. dönüş: nisan – haziran, serin mevsim sebzeleri
+
+Nisan başında marul, roka, turp, ıspanak ve tere tohumunu doğrudan yatağa ekin. Serin toprakta çimlenirler ve hızlı büyürler; turp dört beş haftada, marul altı sekiz haftada hasada gelir. Bu dönüşü haziran başına kadar bitirmek hedeftir; çünkü yaz sıcağı marulu çiçeğe kaldırır ve yeşillikleri acılaştırır. Sıcak sevmeyen sebzeleri sıcaklık artmadan hasat etmek, ikinci dönüşe yer açar. Nisan işlerinin genel çerçevesi için [nisan ayında bahçede yapılacaklar](/nisan-ayinda-bahcede-yapilacaklar) yazısına bakabilirsiniz.
+
+Aynı yatağa serin mevsim sebzeleri ardışık ekilebilir: İki üç haftada bir küçük parti ekmek, yeşilliği yaza kadar sürekli tutar. Ardışık ekim için [marulda ardışık ekim](/marulda-ardisik-ekim-iki-haftada-bir-ekim-plani) yazısı planı gösteriyor.
+
+## Dönüşler arası: toprağı yenilemek
+
+Birinci hasat bitince yatağı hemen yeni ekime hazırlayın: Kökleri ve bitki artığını çıkarın, toprağın üstünü tırmıkla gevşetin ve olgun kompost ya da solucan gübresi serin. Üniversite yayımlarında ürünler arasında bir kat kompost eklemek, ilk ürünün tükettiği besinleri yenilemek için önerilir. Çok az yer varsa üst 5 cm toprağı değiştirmek de yeterlidir. Balkon yatağındaki toprak sınırlı olduğundan her yıl biraz yenilenmelidir.
+
+::: adimlar
+Birinci ürünü hasat edin | Marul, turp ve roka bitince kök ve artıkları çıkarın.
+Toprağı gevşetin | Yüzeyi tırmıkla havalandırın; çok sıkışmışsa çatalla hafifçe kabartın.
+Besleyin | Üst toprağa olgun kompost ya da solucan gübresi karıştırın.
+Fideleri dikin | Son don geçtikten sonra domates, biber ve fesleğen fidesini dikin.
+Malçlayın | Yaz sıcağında nemi korumak için yüzeye malç serin.
+Sulamayı ayarlayın | Yaz boyunca derin ve düzenli sulayın; kuruyan balkon yatağı hızlı stres yapar.
+:::
+
+## 2. dönüş: haziran – eylül, sıcak mevsim sebzeleri
+
+Son don geçince yazlık sebzeler dikilir. Bodur domates ve biber balkon yatağı için en uygundur; salatalık ve fasulye destekle yukarı çıkarılır. Güney ve batı balkonlarda güneş yeterlidir; kuzey balkonda sıcak mevsim sebzeleri verim vermez. Yön konusunda [yatak güneş yönü](/yatak-gunes-yonu) yazısı yol gösterir. Yatağa destek ve ip çekmek, yer kazandırır. Yazın balkon yatağı hızlı kurur; sabah ve gerekirse akşam sulama yapın. Malç, nemi korur.
+
+Fide dikim derinliği ve sertleştirme için [fide dikim derinliği](/fide-dikim-derinligi) ve [fide tutmama](/fide-tutmama) yazıları, ilk haftanın hatalarını anlatıyor. Sıcak yaz haftalarında bitkileri rüzgârdan ve aşırı güneşten korumak için gölgelik ya da saksıyı gölgeye çekme önlemleri düşünün.
+
+## 3. dönüş: eylül – kasım, yeniden serin mevsim
+
+Yazlık ürünler eylülde azaldığında yatak yeniden serin mevsim sebzesi için hazırlanır. Ispanak, turp, marul, roka, pazı ve tere sonbaharda bol ürün verir. Yaz sonu yatağın toprağını yeniden kompostla beslemek, bu dönüşü destekler. Kasımda don bekleniyorsa yatağın üstüne örtü ya da küçük bir mini tünel kurmak hasadı uzatır. Sonbahar işleri için [balkonda kışlık sebze yetiştirme](/balkonda-kislik-sebze-yetistirme) yazısı sebze ve takvim önerir.
+
+## Yatağı doldurmadan önce küçük bir çizim yapın
+
+Plan kâğıt üstünde başlar. Yatağın tabanını bir dikdörtgen olarak çizin; yaprak sebzeleri bir yanına, meyve sebzelerini ve desteklerini arka kenara yerleştirin. Her dönüşte hangi bölümün boşaldığını, hangisinin hâlâ dolu olduğunu not edin: Örneğin marulun bir kısmını hasat ettiğiniz hafta bodur domates fidesini boşalan köşeye dikebilirsiniz. Bu, "hepsi bitsin sonra yeni ekim" yaklaşımından daha az boş zaman bırakır. Defterde ekim ve hasat tarihlerini tutarsanız ertesi yıl planı kendi balkonunuzun gerçek takvimine göre düzeltebilirsiniz.
+
+## Sık yapılan hatalar
+
+Yazlık fideleri son don geçmeden dikmek en yaygın hatadır. İkincisi, serin mevsim ürünlerini haziranı geçirerek yatakta bırakıp acılaşmasına izin vermektir. Üçüncüsü, dönüşler arasında toprağı yenilemeyip aynı toprakla üç ürün istemektir. Dördüncüsü, yatağı fazla sık doldurmak. Beşincisi, balkonun yönüne uymayan ürün seçmektir. Altıncısı, sulama ihtiyacını hafife almaktır. Doğru balkon yatağı mevsim planı, tek bir yatağı nisandan kasıma kadar sürekli üretken tutar.
+@sss
+S: Balkon yatağında üç ürün nasıl alınır?
+C: Nisan–haziran serin mevsim sebzeleri (marul, roka, turp), haziran–eylül sıcak mevsim sebzeleri (domates, biber), eylül–kasım yeniden serin mevsim sebzeleri (ıspanak, turp) ekilir. Dönüşler arasında toprağa kompost eklenir.
+
+S: Balkon yatağına yazlık fide ne zaman dikilir?
+C: Son don geçtikten sonra: kıyılarda nisan başı, iç bölgelerde nisan sonu ile mayıs başı. Dikmeden önce fideleri yedi on gün sertleştirin.
+
+S: Balkon yatağı toprağı her dönüşte değişir mi?
+C: Tamamen değişmesi gerekmez. Hasattan sonra kökleri çıkarıp üst toprağı gevşetin, olgun kompost ya da solucan gübresi ekleyin. Her yıl toprağın bir kısmını yenilemek yeterlidir.
+
+S: Kuzey balkonda hangi mevsim planı uygundur?
+C: Kuzey balkon çoğu zaman az güneş alır; yaprak sebzeler (marul, ıspanak, roka) ve aromatik bitkiler uygundur. Domates ve biber gibi sıcak mevsim sebzeleri verim vermez.
+
+### YAZI
+slug: bahce-kulesi-temizligi
+baslik: Bahçe Kulesi Temizliği: Sezon Sonu Yıkama, Toprak Boşaltma ve Dezenfeksiyon
+yayin: 2027-03-22 16:55
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: bahçe kulesi temizliği
+seo_baslik: Bahçe Kulesi Temizliği: Yıkama ve Dezenfeksiyon
+seo_aciklama: Bahçe kulesi temizliği nasıl yapılır? Katları sökme, toprağı boşaltma, kök kalıntısını yıkama, çamaşır suyuyla dezenfeksiyon ve yeniden kurulum adımları.
+ozet: Bahçe kulesi temizliği, sezon sonunda toprağı boşaltıp katları yıkayarak kök kalıntısını ve hastalık kaynağını temizlemektir. Sökme sırasını, yıkamayı, dezenfeksiyonu, durulamayı ve yeniden kurulumu Yediveren ve Yonca kuleleri için ortak adımlarla anlattık.
+etiketler: bahçe kulesi, kule temizliği, dezenfeksiyon, kat sökme, kök kalıntısı, sezon sonu bakım, dikey bahçe
+gorsel: bekliyor
+gorsel_alt: Sökülmüş dikey kule katlarının yıkanıp güneşte kurumaya bırakılması
+urunler: yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi, yonca-sabit-bahce-kulesi-6-kat-24-gozlu, hg-bol-verimli-sebze-topragi
+kisaca: Bahçe kulesi temizliği sezon sonunda yapılır: kule boşaltılır, katlar sökülür, eski toprak ve kök kalıntısı çıkarılır, parçalar sabunlu suyla fırçalanır, gerekirse seyreltik çamaşır suyuyla dezenfekte edilip bol suyla durulanır, kurutulur ve yeniden kurulur. Eski toprağı yeniden kullanmak yerine yenilemek hastalığı azaltır.
+@govde
+Bir sezon boyunca çilek, yeşillik ve aromatik bitkilerle dolu kalan kulede, sezon sonunda kat aralarında kök yumakları, dibinde tuz tabakası ve duvarlarda yosun ya da küf oluşur. Bu yapıyı yıkamadan yeni sezona girerseniz, eski hastalık ve zararlıyı yeni fidelere taşıma riskiniz vardır. Bahçe kulesi temizliği, ilkbahar ekiminden önce yapılacak en az maliyetli sağlık önlemidir.
+
+## Bahçe kulesi temizliği neden gerekir?
+
+Kule küçük bir kapalı sistemdir: Aynı toprak ve aynı kat yıllarca kullanılırsa kök ve toprak kaynaklı hastalıklar birikir. Kök kalıntıları çürür, tuz birikimi toprak üstünde beyaz kabuk yapar, suyun aktığı kanallar ve tahliye bölümleri tıkanır. Yosun ve küf tek tek dikim gözlerinde su akışını bozar. Düzenli temizlik, hem hastalığı hem tıkanmayı önler.
+
+Temizlik yılda bir sezon sonunda yapılır. Ara sıra gözle fark edilen hastalıklı bitkiyi hemen ayırmak ve o gözdeki toprağı değiştirmek de yeterli olabilir; ama sezon sonunda tam temizlik, sistemi sıfırlar. Kulenin kışlaması için [bahçe kulesi kışın](/bahce-kulesi-kisin) yazısı ayrı bir konu olarak kışlık yetiştirmeyi anlatıyor; bu yazı sezon sonu temizliğine odaklanıyor.
+
+## Sökme ve boşaltma
+
+Yediveren ve Yonca kuleleri katlı, modüler yapıdadır; üreticinin bilgisine göre uyumlu kat ilaveleriyle yükseltilebilir. Temizlik için kule yukarıdan aşağıya katlarına ayrılır. Önce bitkileri ve kök yumaklarını çıkarın; geri kalan bitki artığını komposta atmayın, hastalıklıysa uzaklaştırın.
+
+::: adimlar
+Bitkileri çıkarın | Hasat sonrası bitkileri köklerle birlikte alın; hastalıklı olanları ayırın.
+Suyu kesin | Sulama düzenini durdurun, fazla suyu tahliye tapalarından boşaltın.
+Üstten başlayarak katları sökün | En üst katı kaldırıp yan tarafa koyun; aşağıya doğru ilerleyin.
+Toprağı boşaltın | Katlardaki toprağı bir tarafa dökün; kök ve çürük parçaları ayıklayın.
+Parçaları ayırın | Tapa, sulama borusu, kapaklar ve katları ayrı ayrı yıkamak üzere toplayın.
+:::
+
+Yediveren kulenin alt kısmında iki tahliye tapası bulunur; temizlik sırasında tapaları çıkarıp bu bölümü ve içindeki tortuyu da yıkayın. Parçaları üretici kılavuzuna göre sökün; zorlamayın.
+
+[ürün:yediveren-bahce-kulesi-42-gozlu-dikey-tarim-kulesi]
+
+## Eski toprakla ne yapılır?
+
+Kuledeki toprak bir sezonda yorulur: Organik madde azalır, tuz birikir, kökler toprağı sıkıştırır. Hastalık belirtisi (kök çürüklüğü, küf, solgunluk) yaşadıysanız eski toprağı kuleye yeniden koymayın; bahçede bir yere yayıp yeni toprakla kuleyi doldurun. Hastalık yoksa, eski toprağın bir kısmını ayıklanmış kök ve parçalardan arındırıp, yeni toprak ve solucan gübresiyle karıştırarak yeniden kullanabilirsiniz. Üniversite yayımları, sezon sonunda saksı ve kap temizliğinin yanında çoğu zaman toprağı da yenilemeyi önerir. Toprak karışımı için [kendi toprak karışımınızı oluşturma](/kendi-toprak-karisimini-olusturma) yazısına bakabilirsiniz.
+
+## Yıkama ve dezenfeksiyon
+
+Iowa Eyalet Üniversitesi Yayım Servisi'nin [bitki kaplarını temizleme ve dezenfekte etme belgesi](https://yardandgarden.extension.iastate.edu/how-to/how-clean-and-disinfect-plant-containers) ile Minnesota Üniversitesi'nin [aletleri ve kapları temizleme yazısı](https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/how-to-clean-and-disinfect-gardening-tools-and-containers), önce kabı sabunlu suyla ve fırçayla yıkamayı önerir; çünkü dezenfektan kirli yüzeyde iyi çalışmaz. Çoğu yayım kaynağında dezenfeksiyon için yaklaşık 1:10 oranında seyreltilmiş çamaşır suyuna, kaynağa göre yaklaşık 10–20 dakika batırma önerilir; süre ve oran kaynaklara göre biraz farklıdır, bu yüzden ürün etiketine bakın.
+
+Güvenlik şarttır: Eldiven ve gözlük kullanın, havadar yerde çalışın, çamaşır suyunu başka temizlik ürünleriyle karıştırmayın ve seyreltilmiş çözeltiyi hazırladıktan kısa süre sonra kullanın. Dezenfeksiyondan sonra parçaları bol temiz suyla birkaç kez durulayın; kalıntı kalmasın. Kulenin plastik (polipropilen) yapısı çoğu temizlik için uygundur; yine de üreticinin bakım önerisini ve etiketlerini kontrol edin.
+
+::: belirti
+Kat aralarında kök yumağı | Aşırı kök büyümesi | Fırça ve su ile sökün; kökleri komposta atın
+Duvarda yeşil yosun | Işık ve sürekli nem | Sabunlu su ve fırça; kuleyi gölgeleyin
+Dikim gözlerinde beyaz kabuk | Tuz ve kireç birikimi | Ilık suyla ıslatıp fırçalayın; bol su ile durulayın
+Küf ve kötü koku | Hastalık ve çürük artık | Dezenfekte edin, toprağı yenileyin
+Tahliye tapasında tıkanma | Çamur ve kök parçası | Tapayı çıkarıp temizleyin
+:::
+
+## Kurutma, depolama ve yeniden kurulum
+
+Parçaları durulayıp gölgede ya da hafif güneşte tamamen kurutun. Doğrudan kuvvetli güneş plastiği ısıtabilir; kurutma için gölgeli ve havadar yer yeterlidir. Hemen yeniden kuracaksanız kuleyi yeni topraktan ve sulama borusunu kontrol ederek alttan üste doğru kurun. Kış boyunca saklayacaksanız parçaları temiz ve kuru olarak istifleyin, nemden ve hayvanlardan koruyun. Eklenti kat ilavesi ekleyecekseniz [bahçe kulesine kat eklerken dikkat edilecekler](/bahce-kulesine-kat-eklerken-dikkat-edilecekler) yazısı ağırlık ve sağlamlık konusunda bilgi verir.
+
+## Yeni sezon hazırlığı
+
+Temiz kuleye yeni toprak doldururken kat kat doldurup her katı hafifçe bastırın; toprak sıkışırsa su dağılımı bozulur. Dikim zamanı ve yerleşimi için [bahçe kulesine ne ekilir](/bahce-kulesine-ne-ekilir) yazısına bakabilirsiniz. İlk sulamada suyun tüm katlara eşit dağıldığını ve tahliyeden fazla suyun çıktığını kontrol edin. Mevsime göre taşınabilir kule için [tekerlekli bahçe kulesi](/tekerlekli-bahce-kulesi-mevsime-gore-yer-degistirme) yazısı yer değişimini anlatıyor.
+
+## Temizlik sırasında göz atılacak noktalar
+
+Katları sökerken parçaların birleşim yüzlerine bakın: Çatlak, kırık ya da deforme olmuş bir kat varsa yeni sezonda su sızdırır ya da yük altında oynar. Dikim gözlerinin kenarlarındaki sert kök artıklarını bir fırça ya da tahta çubukla çıkarın; plastiği çizecek sert metal aletlerden kaçının, çünkü çizikler yosun ve kalıntıyı daha çok tutar. Sulama borusu ya da dağıtım parçası varsa deliklerini ince bir çubukla açın ve içinden temiz suyu geçirerek tortunun çıktığından emin olun. Tahliye tapalarının contalarını kontrol edin; yıpranmışsa yenisini temin etmek sızıntıyı önler. Bu kontroller temizlik sırasında beş on dakikanızı alır ama sezon ortasında kuleyi yeniden sökmek zorunda kalmanızı engeller.
+
+## Sık yapılan hatalar
+
+Hastalıklı toprağı yeniden kullanmak en yaygın hatadır. İkincisi, dezenfektan öncesi sabunla yıkamayı atlamaktır. Üçüncüsü, çamaşır suyunu başka ürünlerle karıştırmak ya da fazla yoğun kullanmaktır; bu hem tehlikelidir hem plastiğe zarar verebilir. Dördüncüsü, durulamayı ihmal etmektir. Beşincisi, tahliye tapalarını temizlememektir. Altıncısı, kuleyi yaş ve kirli hâlde depolamaktır. Bahçe kulesi temizliği yılda bir kez, sezon sonunda yapıldığında yeni sezonu temiz başlatır.
+@sss
+S: Bahçe kulesi sezon sonunda nasıl temizlenir?
+C: Bitkiler çıkarılır, katlar üstten başlayarak sökülür, toprak boşaltılır, parçalar sabunlu suyla fırçalanır, gerekirse seyreltik çamaşır suyuyla dezenfekte edilip bol suyla durulanır ve kurutulur.
+
+S: Kuledeki eski toprak yeniden kullanılır mı?
+C: Hastalık belirtisi yoksa kök ve parçalar ayıklanıp yeni toprak ve solucan gübresiyle karıştırılarak kullanılabilir. Hastalık yaşandıysa eski toprağı kuleye koymayın, yenisiyle doldurun.
+
+S: Kuleyi dezenfekte etmek için ne kullanılır?
+C: Yayım kaynakları kabı önce sabunlu suyla yıkamayı, sonra yaklaşık 1:10 seyreltilmiş çamaşır suyuna yaklaşık 10–20 dakika batırmayı önerir. Eldiven kullanın, başka ürünle karıştırmayın ve bol suyla durulayın.
+
+S: Kule temizliği yılda kaç kez yapılır?
+C: Genellikle sezon sonunda yılda bir kez tam temizlik yeterlidir. Hastalıklı bitki çıkarsa o gözdeki toprağı hemen değiştirmek ve bölgeyi temizlemek de iyi olur.
+
+### SORU
+yayin: 2027-03-22 09:30
+kategori: bahce-ipuclari
+baslik: Hobi serama beton döşesem mi çakıl mı, hangisi daha az sorun çıkarır?
+metin: 6 m²'lik küçük bir sera kurdum, zemin yapacağım. Beton temiz olur diye düşünüyorum ama çakılı da duydum. Sulama yapınca su göllenir mi, hangisini önerirsiniz?
+@cevap Mikdat Çelik | 4
+Hobi sera için geçirgen ot önleyici örtü üzerine çakıl daha az sorun çıkarır: su süzülür, ot kontrol altında kalır, değişimi kolaydır. Beton su biriktirir ve soğuğu tutar; eğim ve süzgeç olmadan göllenme olur. Betonu isterseniz yalnız çalışma ve saksılama köşesinde, eğimli kullanın. Yatakları ayrıca toprak ya da kasa olarak kurun.

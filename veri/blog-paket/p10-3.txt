@@ -1,0 +1,899 @@
+### YAZI
+slug: kalsiyum-eksikligi
+baslik: Kalsiyum Eksikliği: Çürüyen Meyve Uçları ve Kıvrılan Genç Yapraklar
+yayin: 2026-12-12 07:15
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: kalsiyum eksikliği
+seo_baslik: Bitkilerde Kalsiyum Eksikliği: Belirtiler ve Çözüm
+seo_aciklama: Bitkilerde kalsiyum eksikliği nasıl anlaşılır? Çiçek burnu çürüklüğü, genç yaprak bozulması, düzensiz sulamanın rolü ve toprağı dengeleyerek önleme yolları.
+ozet: Domatesin dibinde siyah bir leke, marulun yaprak kenarında kahverengi bir yanık ya da kıvrılarak açılan genç yapraklar... Çoğu zaman suçlu kalsiyumun kendisi değil, onu bitkiye taşıyamayan sudur. Kalsiyum eksikliğini tanımayı ve önlemeyi anlatıyoruz.
+etiketler: kalsiyum eksikliği, çiçek burnu çürüklüğü, bitki besin eksikliği, domates bakımı, toprak verimliliği
+gorsel: p10-cicek-burnu
+gorsel_alt: Alt uçlarında koyu çürüklük lekesi bulunan kırmızı domates meyveleri
+urunler: hasturk-kati-solucan-gubresi, organik-toprak, hasturk-sivi-solucan-gubresi
+kisaca: Kalsiyum eksikliği en çok yeni oluşan dokularda görülür: meyve uçlarında çürüklük, genç yapraklarda kıvrılma ve kenar yanığı, büyüme uçlarında ölüm. Çoğu bahçede toprakta kalsiyum yeterlidir; sorun düzensiz sulama, kuruyan kökler ve aşırı azotla kalsiyumun bitkiye taşınamamasıdır. Düzenli nem, malç ve dengeli besleme en etkili önlemdir.
+@govde
+Kalsiyum eksikliği, bahçede en çok yanlış anlaşılan beslenme sorunlarından biridir. Domatesin alt ucunda siyah, çökük bir leke görenler hemen "toprağa kalsiyum lazım" diye düşünür; oysa çoğu bahçe toprağında, özellikle Anadolu'nun kireçli topraklarında, kalsiyum boldur. Asıl mesele, bu besinin bitkinin ihtiyaç duyduğu yere zamanında ulaşamamasıdır. Bu yazıda kalsiyumun bitkide ne işe yaradığını, eksikliğin nasıl tanındığını ve sulamadan toprağa kadar hangi adımlarla önlenebileceğini anlatıyoruz.
+
+## Kalsiyum bitkide ne işe yarar?
+
+Kalsiyum, hücre duvarlarının yapı taşıdır. Bir binadaki harç gibi hücreleri birbirine bağlar, dokuya sağlamlık verir. Yeni hücrelerin bölünmesi, kök uçlarının uzaması ve meyvenin sağlıklı gelişmesi için sürekli kalsiyum gerekir. Ayrıca bitkinin strese, hastalıklara ve depolama sırasında bozulmaya karşı direncini de artırır. Sağlam kabuklu, dayanıklı bir domates ya da uzun süre saklanabilen bir elma, büyük ölçüde yeterli kalsiyum sayesinde oluşur.
+
+## Kalsiyum neden genç dokularda eksik kalır?
+
+Kalsiyumun bitkideki yolculuğu onu diğer besinlerden ayırır. Kökten alınan kalsiyum, yalnızca suyla birlikte, bitkinin terlemesiyle yukarı çekilir. Bir kez yerleştiği dokudan da bir daha başka yere taşınamaz. Bu yüzden çok terleyen yaşlı yapraklar kalsiyumu kolayca toplarken, az terleyen meyveler ve yeni açılan yapraklar payını alamayabilir. Toprak bir kuru bir ıslak olduğunda, kökler zarar gördüğünde ya da hava çok nemli olup bitki terleyemediğinde bu akış kesilir ve belirtiler hep en yeni dokuda çıkar. Magnezyum ya da azot gibi bitki içinde yer değiştirebilen besinlerde ise belirtiler önce yaşlı yapraklarda görülür; bu fark teşhiste çok işe yarar. Karşılaştırma için [magnezyum eksikliği](/magnezyum-eksikligi) yazımıza bakabilirsiniz.
+
+## Kalsiyum eksikliği belirtileri
+
+**Meyvede çiçek burnu çürüklüğü:** Domates, biber, patlıcan ve karpuzda meyvenin çiçek tarafındaki ucunda önce su emmiş gibi görünen, sonra kararıp çöken bir leke oluşur. En tanıdık belirti budur.
+
+**Genç yapraklarda bozulma:** Yeni yapraklar kıvrık, buruşuk ya da kenarları yırtık görünür, bazen kenarlarından kahverengileşir.
+
+**Yapraklı sebzelerde uç yanığı:** Marul, ıspanak ve lahanada iç yaprakların kenarları kahverengi ve kâğıt gibi kurur.
+
+**Büyüme ucunun ölmesi:** Ağır durumlarda sürgün ucu kurur, kökler kısa ve kahverengi kalır.
+
+**Meyve ağaçlarında acı benek:** Elmada kabuğun altında küçük, kahverengi, acımsı lekeler görülür; çoğunlukla depoda belirginleşir.
+
+## Gerçek neden çoğu zaman sulamadır
+
+Bahçede gördüğümüz kalsiyum eksikliği vakalarının büyük kısmı düzensiz sulamadan kaynaklanır. Sıcak bir haftada toprak tamamen kuruyup ardından bol suyla doyurulduğunda, meyve hızla büyürken kalsiyum akışı geride kalır. Aşırı sulama da köklerin havasız kalmasına ve çalışamamasına yol açarak aynı sonucu doğurur; belirtilerini [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazımızda anlattık. Saksılarda bu risk daha yüksektir, çünkü küçük toprak hacmi çok çabuk kurur.
+
+Diğer tetikleyiciler şunlardır: fazla azotlu gübreyle bitkinin çok hızlı yaprak büyütmesi, yüksek potasyum ya da magnezyum uygulamalarının kalsiyum alımıyla yarışması, tuzlu toprak ve çok asidik, kumlu topraklar. Gerçekten kalsiyumu az olan topraklar genellikle yağışlı bölgelerdeki asidik topraklardır.
+
+## Kalsiyum eksikliği nasıl önlenir?
+
+**Düzenli ve derin sulayın.** Toprağı ne tamamen kurutun ne de sürekli ıslak bırakın. Damla sulama, nemi en dengeli tutan yöntemdir.
+
+**Malç kullanın.** Saman, yaprak kompostu ya da ağaç kabuğuyla toprağı örtmek, yaz sıcağında nemin dalgalanmasını azaltır.
+
+**Toprağı organik maddeyle zenginleştirin.** Organik maddesi yüksek toprak suyu daha dengeli tutar ve kökleri sağlıklı kılar. Bu konuda [toprakta organik madde](/toprakta-organik-madde) yazımız yol gösterir.
+
+**Azotu abartmayın.** Özellikle meyve tutumu döneminde yaprağa yönelik ağır gübrelemeden kaçının. Domateste dengeli besleme için [domates gübreleme](/domates-gubreleme) rehberimize göz atabilirsiniz.
+
+**Toprak analizi yaptırın.** Toprağınızın gerçekten kalsiyumca fakir olup olmadığını ve pH değerini ancak analiz gösterir. Kireçleme ya da kalsiyumlu düzenleyiciler, yalnızca analiz sonucuna ve müşteri hizmetlerimizin önerisine göre uygulanmalıdır.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Belirti görüldüğünde ne yapmalı?
+
+Çiçek burnu çürüklüğü olan meyveler iyileşmez; onları koparın ki bitki enerjisini sağlıklı meyvelere versin. Ardından sulama düzenini gözden geçirin ve toprağın üstünü malçla örtün. Genellikle sonraki meyveler sağlıklı gelir, çünkü sorun çoğu zaman ilk salkımlarda, bitki hızla büyürken ortaya çıkar. Yapraktan kalsiyum uygulamaları kısa süreli bir destek sağlayabilir, ancak kalsiyum yapraktan meyveye taşınamadığı için meyvenin kendisine ulaşması sınırlıdır. Bu tür ürünleri kullanacaksanız mutlaka etiketteki talimata uyun.
+
+[ürün:organik-toprak]
+
+## Saksıda yetiştirenler için ipuçları
+
+Balkonda domates ya da biber yetiştiriyorsanız, en az 20-30 litrelik bir saksı seçin. Küçük saksılar yaz ortasında günde iki kez sulama gerektirir ve bu tempoyu tutturmak zordur. Nemi iyi tutan, organik maddece zengin bir saksı toprağı kullanın ve toprağın üstünü ince bir malçla örtün. Sıcak günlerde sulamayı sabah erken saatlerde yapın. Sıvı solucan gübresi gibi yumuşak besinler, bitkiyi aşırı azotla zorlamadan beslemeye yardımcı olur.
+
+## Hangi bitkiler daha hassastır?
+
+Kalsiyum eksikliğine en hassas olan bitkiler, hızla büyüyen ve iri, sulu meyve ya da yaprak oluşturanlardır. Domates bu listenin başındadır; özellikle uzun ve oval, salçalık çeşitler yuvarlak çeşitlere göre daha sık etkilenir. Biber, patlıcan, karpuz, kavun ve kabakta da çiçek burnu çürüklüğü görülebilir. Yapraklı sebzelerden marul, Çin lahanası ve ıspanak; kök sebzelerden havuç ve kereviz (iç yaprakların kararması) hassastır. Meyve ağaçlarında elma ve armut, depolama sırasında beliren lekelerle bu sorunu gösterir.
+
+Bu bitkileri yetiştirirken sezon başında toprağı iyi hazırlamak, dikimden sonra kökleri zedeleyecek derin çapalardan kaçınmak ve sıcak dönemde sulamayı aksatmamak, sorunun büyük kısmını daha başlamadan önler. Sera ve tünelde ise havalandırma önemlidir: hava çok nemli ve durgun kaldığında bitki terleyemez, kalsiyum da yukarı taşınamaz.
+
+## Diğer eksikliklerle karıştırmayın
+
+Yeni yapraklarda sararma, kalsiyumdan çok demir eksikliğine işaret edebilir; damarlar yeşil kalıp aralar sararıyorsa demir ya da mangan akla gelmelidir. Birden fazla belirti bir arada görülüyorsa [mikro element eksikliği](/mikro-element-eksikligi) yazımız ayrımı kolaylaştırır.
+
+@sss
+S: Yumurta kabuğu kalsiyum eksikliğini giderir mi?
+C: Yumurta kabuğu kalsiyum içerir ama toprakta çok yavaş çözünür; o mevsimin sorununu çözmez. Üstelik çoğu zaman sorun topraktaki kalsiyum değil, sulama düzenidir. Kabukları kompostta değerlendirmek daha doğrudur.
+
+S: Çiçek burnu çürüklüğü olan domates yenir mi?
+C: Çürük kısım kesilip atıldıktan sonra sağlam kısım yenebilir. Ancak lekeye mantar bulaşmışsa meyvenin tamamını atmak daha güvenlidir.
+
+S: Kireçli toprakta da kalsiyum eksikliği olur mu?
+C: Evet. Kireçli toprakta kalsiyum bol olsa da düzensiz sulama ya da zayıf kökler yüzünden bitki yine yeterince alamayabilir. Bu durumda kireç eklemek değil, nemi dengelemek çözümdür.
+
+S: Kalsiyumlu gübreyi ne kadar vermeliyim?
+C: Miktar toprağa ve bitkiye göre çok değişir. Önce toprak analizi yaptırın, ardından müşteri hizmetlerimizin önerisine ve ürün etiketine göre uygulayın.
+
+### YAZI
+slug: cicek-topragi
+baslik: Çiçek Toprağı: Saksıda ve Balkonda Bol Çiçek İçin Doğru Zemin
+yayin: 2026-12-12 08:35
+yazar: Mikdat Çelik
+kategori: toprak-rehberi
+odak: çiçek toprağı
+seo_baslik: Çiçek Toprağı Nasıl Olmalı? Seçim ve Kullanım Rehberi
+seo_aciklama: Çiçek toprağı nasıl olmalı? Balkon ve saksı çiçekleri için süzek, verimli ve havadar toprak seçimi, perlit katkısı, yenileme zamanı ve sık yapılan hatalar.
+ozet: Aynı fideyi iki saksıya dikin; biri yaz boyu çiçek açarken diğeri sararıp küçük kalabilir. Farkı çoğu zaman toprak yaratır. Balkon ve saksı çiçekleri için doğru toprağı seçmeyi, hazırlamayı ve yenilemeyi anlatıyoruz.
+etiketler: çiçek toprağı, saksı toprağı, balkon çiçekleri, çiçek bakımı, perlit
+gorsel: p10-cicek-topragi
+gorsel_alt: Toprak dolu saksılarda açmış pembe ve mor çiçekler
+urunler: hg-cicek-topragi, tarim-perliti, hasturk-sivi-solucan-gubresi
+kisaca: İyi bir çiçek toprağı hafif, süzek, havadar ve besince zengin olmalıdır. Torf ya da kokopit nemi tutar, perlit havalandırır, solucan gübresi gibi organik besinler çiçeklenmeyi destekler. Bahçe toprağı saksıda sıkıştığı için tek başına kullanılmamalıdır. Mevsimlik çiçeklerde toprak her yıl, çok yıllık saksı çiçeklerinde bir iki yılda bir yenilenmelidir.
+@govde
+Çiçek toprağı, balkonda ve saksıda yetiştirilen çiçeklerin performansını belirleyen en temel unsurdur. Bir çiçek fidesinin kökleri saksıda sınırlı bir alana hapsolur; bahçedeki gibi derinlere uzanıp su ve besin arayamaz. Bu yüzden saksıdaki birkaç litre toprak, bitkinin hem su deposu hem kileri hem de nefes aldığı alandır. Yanlış toprakla en iyi bakım bile yetersiz kalır; doğru toprakla ise sulama ve beslemenin karşılığı kat kat alınır. Bu yazıda çiçekler için iyi bir toprağın özelliklerini, nasıl seçileceğini ve kullanım ipuçlarını anlatıyoruz.
+
+## Çiçek toprağı ile bahçe toprağı arasındaki fark
+
+Bahçe toprağı, açık alanda solucanlar, kökler ve mevsim döngüsüyle sürekli havalanan canlı bir yapıdır. Saksıya konduğunda bu döngü durur: sulamayla sıkışır, kurudukça çatlar, kökler havasız kalır. Kil oranı yüksekse suyu uzun süre tutup kökleri çürütür; kumluysa su ve besini hızla kaybeder. Ayrıca yabani ot tohumları, böcek yumurtaları ve hastalık etkenleri taşıyabilir.
+
+Saksı için hazırlanmış bir çiçek toprağı ise hafiftir, ıslandığında sıkışmaz ve fazla suyu dışarı atarken yeterli nemi elinde tutar. Bu dengeyi sağlayan, toprağın bileşenleridir.
+
+## İyi bir çiçek toprağının özellikleri
+
+**Süzek olmalı.** Sulamadan sonra fazla su birkaç dakika içinde saksının dibinden akmalı, toprak çamur gibi kalmamalıdır.
+
+**Nemi tutmalı.** Süzek olmak, suyu hemen kaybetmek anlamına gelmez. Torf ve kokopit gibi lifli bileşenler suyu sünger gibi tutar ve köklere yavaş yavaş verir.
+
+**Havadar olmalı.** Köklerin de oksijene ihtiyacı vardır. Perlit gibi gözenekli taneler toprağın içinde hava boşlukları oluşturur.
+
+**Besince zengin olmalı.** Çiçek açmak bitki için yorucu bir iştir. Organik madde ve solucan gübresi gibi doğal besin kaynakları, çiçeklenmeyi uzun süre destekler.
+
+**pH'ı dengeli olmalı.** Çoğu balkon çiçeği hafif asidik ile nötr arasındaki (yaklaşık 5,8-6,8) topraklarda en iyi gelişir.
+
+[ürün:hg-cicek-topragi]
+
+## Hazır çiçek toprağı mı, kendi karışımınız mı?
+
+Az sayıda saksı için en pratik yol, çiçekler için hazırlanmış kaliteli bir hazır toprak kullanmaktır. Bileşenleri dengelenmiş olduğu için doğrudan saksıya doldurulabilir. Çok sayıda saksınız varsa ya da farklı bitkiler için farklı yapılar istiyorsanız kendi karışımınızı hazırlayabilirsiniz. Genel mantık şudur: nem tutan bir taban (torf ya da kokopit), havalandıran bir katkı (perlit) ve besin sağlayan bir organik bileşen (solucan gübresi ya da iyi olgunlaşmış kompost). Oranları bitkiye göre ayarlamanın ayrıntılarını [kendi toprak karışımını oluşturma](/kendi-toprak-karisimini-olusturma) yazımızda bulabilirsiniz.
+
+## Hangi çiçeğe nasıl bir toprak?
+
+**Mevsimlik balkon çiçekleri** (petunya, hercai menekşe, kadife, begonya): Nemi tutan, verimli, standart bir çiçek toprağı yeterlidir.
+
+**Sardunya ve kurakçıl çiçekler:** Biraz daha süzek bir yapı isterler; toprağa ek perlit katmak faydalıdır.
+
+**Afrika menekşesi ve ince köklü salon çiçekleri:** Çok hafif ve havadar bir yapı isterler. Ayrıntılar için [menekşe toprağı](/menekse-topragi) yazımıza göz atın.
+
+**Lavanta, biberiye gibi aromatik bitkiler:** Besince daha fakir ve çok süzek bir zemin tercih ederler; bu konuyu [aromatik bitki toprağı](/aromatik-bitki-topragi) yazımızda ele aldık.
+
+**Açelya, ortanca gibi asit seven çiçekler:** Asidik torf temelli özel bir karışıma ihtiyaç duyarlar.
+
+## Perlit eklemek ne zaman gerekir?
+
+Toprağınız sulamadan sonra uzun süre ıslak kalıyorsa, saksının dibinde kötü koku oluşuyorsa ya da kurakçıl bir bitki yetiştiriyorsanız, toprağa hacimce beşte bir ile dörtte bir oranında perlit eklemek yapıyı belirgin biçimde iyileştirir. Perlit hafiftir, çürümez ve yıllarca yapısını korur. Saksının dibine çakıl dökmek ise sanıldığı kadar işe yaramaz; nedenini [saksıda drenaj tabakası](/saksida-drenaj-tabakasi) yazımızda anlattık.
+
+[ürün:tarim-perliti]
+
+## Saksı doldururken dikkat edilecekler
+
+Toprağı saksıya doldururken bastırarak sıkıştırmayın; hafifçe yerleştirip bir kez sulamak, toprağın kendiliğinden oturmasını sağlar. Saksının ağzından iki üç santimetre boşluk bırakın ki sulama suyu taşmasın. Kuru torflu topraklar ilk sulamada suyu zor emebilir; böyle durumlarda toprağı dikimden önce bir kovada hafifçe nemlendirmek işinizi kolaylaştırır. Balkon için saksı seçiminde boyut ve malzemenin etkisini merak ediyorsanız [balkon çiçekliği seçimi](/balkon-cicekligi-secimi) yazımız yardımcı olur.
+
+## Çiçek toprağı ne zaman yenilenir?
+
+Saksı toprağı zamanla yorulur: besinler tükenir, organik bileşenler ayrışıp çöker, toprak sıkışır ve sulama suyundan tuz birikir. Mevsimlik çiçeklerde her dikimde taze toprak kullanmak en iyisidir. Çok yıllık saksı çiçeklerinde bir iki yılda bir, ilkbaharda saksı değişimiyle birlikte toprağı yenileyin. Saksıyı değiştirmeyecekseniz bile üstteki birkaç santimetrelik toprağı kazıyıp taze toprakla tamamlamak bitkiye iyi gelir.
+
+## Besleme ve sulama ilişkisi
+
+En iyi çiçek toprağı bile birkaç ay sonra besin açısından zayıflar. Çiçeklenme döneminde iki üç haftada bir sulama suyuna karıştırılan sıvı solucan gübresi, çiçeklerin rengini ve sayısını korumaya yardımcı olur. Sulamada ise toprağın üst bir iki santimetresi kuruduğunda bol su verip fazlasının akmasını beklemek, saksı tabağında su bırakmamak temel kuraldır. Kış aylarında hem sulama hem besleme azaltılmalıdır.
+
+## Toprağın iyi olup olmadığını nasıl anlarsınız?
+
+Elinizdeki çiçek toprağının kalitesini basit gözlemlerle anlayabilirsiniz. Bir avuç nemli toprağı sıkın: iyi bir toprak elinizde hafifçe topaklanır ama parmağınızla dokunduğunuzda kolayca dağılır. Çamur gibi yapışıyorsa kil oranı yüksektir; hiç topaklanmadan dökülüyorsa organik madde azdır. Toprağın kokusu hoş, ormanı andıran bir koku olmalıdır; ekşi ya da çürük kokusu, havasız kalmış ve bozulmaya başlamış bir toprağa işaret eder. Saksıyı suladığınızda su birkaç saniye içinde yüzeyden çekilmeli ve dipten akmaya başlamalıdır. Su uzun süre yüzeyde göllenirse ya da hiç tutulmadan hemen akıp giderse toprağın yapısında sorun vardır.
+
+Toprağın içinde iri odun parçaları, plastik ya da taş gibi yabancı maddeler bulunmamalıdır. Kaliteli bir toprakta lifli yapı, beyaz perlit taneleri ve koyu renkli organik madde bir arada, homojen biçimde görülür.
+
+## Sık yapılan hatalar
+
+- Bahçe toprağını doğrudan saksıya doldurmak.
+- Eski, yorgun toprağı yıllarca kullanmak.
+- Deliksiz saksı kullanmak ya da tabakta sürekli su bırakmak.
+- Çok büyük saksıya küçük fide dikmek; fazla toprak uzun süre ıslak kalır.
+- Taze, olgunlaşmamış gübreyi toprağa karıştırmak.
+
+@sss
+S: Çiçek toprağı sebzelerde kullanılabilir mi?
+C: Saksıda yetiştirilen sebzeler için kullanılabilir, ancak domates ve biber gibi çok besin isteyen sebzelerde ek organik besin vermek gerekir. Sebzeler için hazırlanmış topraklar bu açıdan daha uygundur.
+
+S: Eski çiçek toprağını tekrar kullanabilir miyim?
+C: Sağlıklı bir bitkiden kalan toprak, kökleri ayıklanıp taze toprak, perlit ve solucan gübresiyle karıştırılarak yeniden kullanılabilir. Hastalıklı bitkiden kalan toprağı kullanmayın.
+
+S: Çiçek toprağında beyaz küf oluşursa ne yapmalıyım?
+C: Toprak yüzeyindeki beyaz küf genellikle fazla nem ve hava dolaşımı eksikliğinden olur. Üst tabakayı kazıyıp atın, sulamayı azaltın ve saksıyı daha havadar bir yere alın.
+
+### YAZI
+slug: sakayik-yetistirme
+baslik: Şakayık Yetiştirme: Bir Kez Dikin, Onlarca Yıl Çiçek Toplayın
+yayin: 2026-12-12 09:50
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: şakayık yetiştirme
+seo_baslik: Şakayık Yetiştirme: Dikim Derinliği, Toprak ve Bakım
+seo_aciklama: Şakayık yetiştirme rehberi: kök dikim derinliği, yer ve toprak seçimi, sulama, besleme, destekleme, çiçek açmama nedenleri ve sonbahar bakımı.
+ozet: İri, kokulu ve katmerli çiçekleriyle şakayık, doğru yere doğru derinlikte dikildiğinde elli yıl boyunca her bahar çiçek açabilir. Şakayık yetiştirmenin incelikleri, en sık yapılan dikim hatası ve yıllık bakım takvimini anlatıyoruz.
+etiketler: şakayık yetiştirme, şakayık, paeonia, çok yıllık çiçekler, bahar çiçekleri
+gorsel: p10-sakayik
+gorsel_alt: Bahçede açmış iri ve katmerli pembe şakayık çiçekleri
+urunler: organik-toprak, hasturk-kati-solucan-gubresi, budama-makasi
+kisaca: Şakayık güneşli, süzek ve verimli toprağı sever. Otsu şakayık kökleri sonbaharda ya da kış başında, göz denen pembe tomurcuklar toprak yüzeyinin en fazla 3-5 cm altında kalacak şekilde dikilir; derin dikim çiçek açmamanın bir numaralı nedenidir. Bir kez yerleşen şakayık yer değiştirilmekten hoşlanmaz ve yıllarca az bakımla çiçek verir.
+@govde
+Şakayık yetiştirme, sabırlı bahçıvanı cömertçe ödüllendiren bir uğraştır. İlk yıl biraz bekletir, ama yerleştikten sonra her mayıs ayında iri, ipeksi, çoğu zaman güzel kokulu çiçeklerle bahçenin en gösterişli köşesini oluşturur. Üstelik şakayık son derece uzun ömürlüdür; doğru yere dikilmiş bir bitki elli yıl, hatta daha uzun süre aynı yerde çiçek açabilir. Anadolu'nun dağlık bölgelerinde doğal olarak yetişen yabani şakayık türleri de bu bitkinin iklimimize ne kadar uyumlu olduğunu gösterir. Bu yazıda şakayığı nereye, ne zaman ve nasıl dikeceğinizi, yıl boyu bakımını ve çiçek açmamasının nedenlerini anlatıyoruz.
+
+## Şakayık türleri
+
+Bahçelerde en sık iki tür şakayık görülür:
+
+**Otsu şakayık:** Her sonbaharda toprak üstü kısımları kurur, ilkbaharda kalın, etli köklerden yeniden sürgün verir. Boyu 60-100 santimetreye ulaşır. Bahçelerde en yaygın olan türdür.
+
+**Ağaç şakayığı:** Odunsu gövdeli bir çalıdır, kışın yapraklarını döker ama dalları yerinde kalır. Çiçekleri daha da iri olabilir, büyümesi yavaştır.
+
+Bu ikisinin melezi olan ara (Itoh) şakayıklar ise otsu şakayık gibi kışın toprağa çekilir ama ağaç şakayığına benzer iri çiçekler verir. Bu yazıdaki bilgiler ağırlıklı olarak otsu şakayık için geçerlidir.
+
+## Şakayık ne zaman dikilir?
+
+Otsu şakayık için en uygun dikim zamanı sonbahar ve kış başıdır; toprak donmadığı sürece aralık ayında da dikim yapılabilir. Bu dönemde dikilen kökler kış boyunca toprağa yerleşir ve ilkbaharda güçlü bir başlangıç yapar. Saksıda satılan şakayıklar ise ilkbaharda da dikilebilir, ancak yazın sulamaya daha fazla özen gerekir. Sonbaharda dikilebilecek diğer çiçekler için [sonbaharda dikilecek çiçekler](/sonbaharda-dikilecek-cicekler) yazımıza göz atabilirsiniz.
+
+## Yer seçimi
+
+Şakayık güneşi sever. Günde en az altı saat doğrudan güneş alan bir yer, bol çiçek için gereklidir. Çok sıcak bölgelerde öğleden sonra hafif gölge çiçeklerin daha uzun süre dayanmasını sağlar. Şakayık köklerinin ağaç kökleriyle rekabet etmesinden hoşlanmaz; büyük ağaçların ve çitlerin dibinden uzak durun. Bitkiler arasında hava dolaşımı için en az bir metre mesafe bırakın; sık dikim, mantar hastalıklarının yayılmasını kolaylaştırır.
+
+Bir diğer önemli nokta da kalıcılıktır. Şakayık yer değiştirilmekten hoşlanmaz; taşınan bitki birkaç yıl çiçek açmayabilir. Bu yüzden dikmeden önce yeri dikkatle seçin.
+
+## Toprak hazırlığı
+
+Şakayık derin, verimli ve süzek bir toprak ister. Kökleri su içinde kalırsa çürür; bu yüzden ağır killi topraklarda dikim yerini iyi hazırlamak şarttır. Yaklaşık 40-50 santimetre derinliğinde ve genişliğinde bir çukur açın. Çıkan toprağı bol miktarda olgun kompost ya da organik maddece zengin bir toprakla karıştırın. Killi topraklarda yapıyı iyileştirmenin yolları için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazımıza bakabilirsiniz. Şakayık hafif asidik ile hafif kireçli arasında geniş bir pH aralığına uyum sağlar.
+
+[ürün:organik-toprak]
+
+## Şakayık yetiştirmede en kritik konu: dikim derinliği
+
+Şakayık yetiştirmede en sık yapılan hata, kökleri fazla derine dikmektir. Otsu şakayığın kök parçasının üzerinde "göz" denen küçük, pembe-kırmızı tomurcuklar bulunur. Bu gözler toprak yüzeyinin en fazla 3-5 santimetre altında kalmalıdır. Daha derine dikilen şakayık yaprak verir, sağlıklı görünür ama yıllarca çiçek açmaz.
+
+Dikim adımları şöyledir:
+
+1. Hazırladığınız çukuru, kök parçası doğru derinliğe gelecek kadar karışımla geri doldurun.
+2. Kökü gözler yukarı bakacak şekilde yerleştirin.
+3. Üzerini toprakla kapatıp gözlerin 3-5 santimetre altta kaldığını kontrol edin.
+4. Toprağı hafifçe bastırın ve iyice sulayın; toprak oturunca derinliği yeniden kontrol edin.
+
+Ağaç şakayığında ise kural farklıdır: aşılı fidanlarda aşı noktası toprağın 10-15 santimetre altına gelecek şekilde daha derin dikilir.
+
+## Sulama ve besleme
+
+Yeni dikilen şakayığı ilk yıl düzenli sulayın, ancak toprağı ıslak bırakmayın. Yerleştikten sonra şakayık oldukça dayanıklıdır; yalnızca kurak geçen ilkbahar ve yaz haftalarında derin sulama ister. Sulamayı yapraklara değil, bitkinin dibine yapın.
+
+Besleme konusunda şakayık az ile yetinir. İlkbaharda sürgünler çıkarken bitkinin çevresine bir avuç solucan gübresi ya da olgun kompost serpip toprağa hafifçe karıştırmak yeterlidir. Fazla azotlu gübre bol yaprak ama az çiçek demektir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Destekleme ve karıncalar
+
+Katmerli çeşitlerin iri çiçekleri, özellikle yağmurdan sonra ağırlaşıp yere eğilebilir. İlkbaharda sürgünler büyümeden bitkinin çevresine halka şeklinde bir destek yerleştirmek bu sorunu önler.
+
+Şakayık tomurcuklarının üzerinde dolaşan karıncalar sık sorulan bir konudur. Karıncalar tomurcukların salgıladığı tatlı özsuyla beslenir ve bitkiye zarar vermez. Çiçekleri vazoya keserken karıncaları silkelemek yeterlidir. Kesme çiçeklerin vazoda daha uzun dayanması için [kesme çiçek ömrü](/kesme-cicek-omru) yazımızdaki ipuçlarını deneyebilirsiniz.
+
+## Çiçeklenme sonrası ve sonbahar bakımı
+
+Solan çiçekleri sapın ilk sağlıklı yaprağına kadar kesin; tohum bağlamasına izin vermemek bitkinin gücünü köklere yönlendirir. Yaprakları ise yaz boyunca yerinde bırakın; gelecek yılın çiçekleri için köklere besin depolarlar. Sonbaharda yapraklar sarardığında otsu şakayığın sapları toprak seviyesine kadar kesilir. Kesilen yaprakları toplayıp bahçeden uzaklaştırmak, kurşuni küf gibi hastalıkların kışı geçirmesini önler.
+
+## Şakayık neden çiçek açmaz?
+
+- **Derin dikim:** Gözler 5 santimetreden daha derindeyse.
+- **Yetersiz güneş:** Gölgede kalan bitki yaprak verir, çiçek vermez.
+- **Genç bitki:** Yeni dikilen şakayık genellikle ilk bir iki yıl az çiçek açar.
+- **Yer değişikliği:** Taşınan ya da bölünen bitki birkaç yıl toparlanır.
+- **Fazla azot:** Bol gübre çiçek yerine yaprak getirir.
+- **Tomurcuk kuruması:** Geç donlar ya da kuraklık tomurcukları kurutabilir.
+
+## Bahçede şakayığa eşlik edecek bitkiler
+
+Şakayık yalnızca birkaç hafta çiçek açar; geri kalan zamanda koyu yeşil, parçalı yapraklarıyla güzel bir zemin oluşturur. Bu yüzden onu farklı zamanlarda çiçek açan bitkilerle birlikte dikmek, bahçenin her mevsim canlı görünmesini sağlar. İlkbaharın başında açan lale ve sümbül gibi soğanlılar, şakayık sürgünleri büyümeden önce renk verir; şakayık yaprakları büyüdükçe soğanlıların solan yapraklarını da gizler. Soğanlı çiçeklerin dikimi için [soğanlı çiçek dikimi](/soganli-cicek-dikimi) yazımıza göz atabilirsiniz. Yaz başında açan lavanta, adaçayı ve süsen gibi bitkiler ise şakayıktan sonra bayrağı devralır ve aynı zamanda arıları bahçeye çeker.
+
+## Şakayığı çoğaltma
+
+Otsu şakayık, yaşlanıp ortası seyreldiğinde sonbaharda kök bölünerek çoğaltılabilir. Kök kümesi dikkatle kazılıp çıkarılır ve her parçada en az üç beş göz kalacak şekilde keskin bir bıçakla bölünür. Yeni parçalar yukarıda anlattığımız derinlik kuralına uyularak dikilir.
+
+@sss
+S: Şakayık saksıda yetiştirilir mi?
+C: Yetiştirilebilir ama kökleri derin olduğu için en az 40-50 litrelik derin bir saksı gerekir. Saksıdaki şakayık kışın soğuğa daha açık olduğundan saksıyı korunaklı bir köşeye almak iyi olur.
+
+S: Şakayık hangi ayda çiçek açar?
+C: Çoğu bölgede nisan sonu ile haziran başı arasında açar. Çiçeklenme süresi birkaç haftadır; erken, orta ve geç açan çeşitleri birlikte dikerek bu süreyi uzatabilirsiniz.
+
+S: Şakayık soğuğa dayanıklı mı?
+C: Otsu şakayık soğuğa çok dayanıklıdır, hatta çiçek tomurcuğu oluşturmak için kışın soğuklamaya ihtiyaç duyar. Bu yüzden çok ılık kışlı bölgelerde daha az çiçek açabilir.
+
+S: Şakayığa ilaç gerekir mi?
+C: Çoğu zaman gerekmez. Hava dolaşımı, sonbahar temizliği ve doğru sulama hastalıkların çoğunu önler. Ciddi bir sorun görürseniz müşteri hizmetlerimize danışın.
+
+### YAZI
+slug: frenk-uzumu-yetistirme
+baslik: Frenk Üzümü Yetiştirme: Kırmızı ve Siyah Salkımlar İçin Rehber
+yayin: 2026-12-12 11:05
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: frenk üzümü yetiştirme
+seo_baslik: Frenk Üzümü Yetiştirme: Dikim, Budama ve Hasat
+seo_aciklama: Frenk üzümü yetiştirme rehberi: kırmızı, beyaz ve siyah çeşitler, kış dikimi, yer ve toprak seçimi, sulama, besleme, budama ve hasat zamanı.
+ozet: Serin iklimi seven, gölgeye toleranslı ve bakımı kolay frenk üzümü, küçük bir bahçede bile yıllarca parlak salkımlar verir. Kış dikiminden budamaya, frenk üzümü yetiştirmenin adımlarını anlatıyoruz.
+etiketler: frenk üzümü yetiştirme, kuşüzümü, siyah frenk üzümü, meyve çalıları, kış dikimi
+gorsel: p10-frenk-uzumu
+gorsel_alt: Yeşil yapraklar arasında sarkan parlak kırmızı frenk üzümü salkımları
+urunler: hasturk-kati-solucan-gubresi, organik-toprak, budama-makasi
+kisaca: Frenk üzümü serin iklimi seven, kışa dayanıklı bir meyve çalısıdır. Kışın, toprak donmadığı günlerde fidan olarak dikilir. Nemli ama süzek, organik maddece zengin toprak ve yarı gölgeli bir yer idealdir. Kırmızı çeşitler iki-üç yaşlı, siyah çeşitler bir yaşlı dallarda daha çok meyve verir; budama buna göre yapılır.
+@govde
+Frenk üzümü yetiştirme, özellikle serin ve yağışlı bölgelerde yaşayan bahçe sahipleri için hem kolay hem de verimli bir seçenektir. Kuşüzümü olarak da bilinen bu küçük meyve çalısı, Avrupa'nın kuzeyinde yüzyıllardır bahçelerin vazgeçilmezidir. Parlak kırmızı, inci gibi beyaz ya da koyu mor-siyah salkımları hem göze hoş görünür hem de reçel, şurup, jöle ve tatlılarda eşsiz bir ekşi-tatlı lezzet sunar. Siyah frenk üzümü, C vitamini bakımından en zengin meyvelerden biridir. Bu yazıda frenk üzümünü nasıl dikeceğinizi, bakımını ve en önemli konu olan budamasını anlatıyoruz.
+
+## Frenk üzümü çeşitleri
+
+**Kırmızı frenk üzümü:** En yaygın türdür. Uzun salkımlarda parlak, ekşimsi meyveler verir. Jöle ve şurup için idealdir.
+
+**Beyaz frenk üzümü:** Aslında kırmızının renksiz bir formudur; daha tatlı ve yumuşak lezzetlidir, taze tüketime uygundur.
+
+**Siyah frenk üzümü:** Yaprakları ve meyvesi kendine özgü, güçlü bir aromaya sahiptir. Reçel ve şurupta çok değerlidir. Büyüme ve budama şekli kırmızıdan farklıdır.
+
+Bektaşi üzümü ise aynı aileden, dikenli dallı ve iri taneli bir akrabadır; bakımı kırmızı frenk üzümüne çok benzer.
+
+## Frenk üzümü yetiştirmeye uygun iklim
+
+Frenk üzümü serin iklimi sever. Kışa çok dayanıklıdır ve meyve verebilmek için kışın belirli bir süre soğuklamaya ihtiyaç duyar. Karadeniz, Doğu Anadolu ve İç Anadolu'nun yüksek kesimleri ile Marmara'nın serin bölgeleri frenk üzümü için uygundur. Çok sıcak ve kurak yazlarda yapraklar yanabilir ve meyveler küçük kalır; bu bölgelerde öğleden sonra gölge alan bir yer seçmek önemlidir. İlkbaharda erken çiçek açtığı için geç donların sık görüldüğü çukur alanlardan kaçınmak da iyi olur.
+
+## Ne zaman ve nasıl dikilir?
+
+Frenk üzümü için en uygun dikim zamanı, bitkinin yapraksız olduğu sonbahar sonu ile kış sonu arasıdır. Aralık ve ocak aylarında, toprağın donmadığı ve çamurlaşmadığı günlerde dikim yapılabilir. Çıplak köklü fidanlar dikimden önce birkaç saat suda bekletilir. Çıplak köklü fidan dikiminin genel adımları için [çıplak köklü fidan dikimi](/ciplak-koklu-fidan-dikimi) yazımıza göz atabilirsiniz.
+
+Dikim için kök sistemini rahatça alacak, yaklaşık 40 santimetre derinliğinde ve genişliğinde bir çukur açın. Çıkan toprağı bol miktarda olgun kompost ya da organik toprakla karıştırın. Fidanı, fidanlıktaki toprak seviyesinden birkaç santimetre daha derine dikin; bu, toprağın altından yeni sürgünlerin çıkmasını teşvik eder ve çalının gürleşmesini sağlar. Bitkiler arasında 1,2-1,5 metre mesafe bırakın. Dikimden sonra bol su verin.
+
+[ürün:organik-toprak]
+
+## Toprak ve yer
+
+Frenk üzümü nemli ama süzek, organik maddece zengin bir toprak ister. Hafif asidik ile nötr arasındaki pH değerlerinde en iyi gelişir. Su tutan ağır topraklarda kök çürüklüğü riski artar; kumlu topraklarda ise yazın çabuk susar. Her iki durumda da toprağa bol organik madde eklemek çözümdür. Güneşli yerlerde en tatlı meyveleri verir ama yarı gölgeye de iyi uyum sağlar; bu özelliğiyle, diğer meyvelerin zorlandığı kuzey duvarlarının önü için bile iyi bir seçenektir.
+
+## Sulama ve malçlama
+
+Frenk üzümünün kökleri yüzeye yakındır; bu yüzden kuraklığa duyarlıdır. Özellikle meyve büyürken toprağı düzenli nemli tutun. Bitkinin dibini saman, yaprak kompostu ya da ağaç kabuğuyla 5-7 santimetre kalınlığında örtmek hem nemi korur hem de yabani otları bastırır. Malçlamanın ayrıntıları için [ağaç dibi malçlama](/agac-dibi-malclama) yazımıza göz atabilirsiniz. Sulamada yaprakları ıslatmamaya dikkat edin; ıslak yapraklar külleme gibi mantar hastalıklarına davetiyedir.
+
+## Besleme
+
+Frenk üzümü, özellikle siyah çeşitler, besin açısından iştahlı bir bitkidir. Her ilkbaharda, tomurcuklar uyanırken bitkinin çevresine solucan gübresi ya da olgun kompost serpip malçla örtmek yeterli bir beslemedir. Siyah frenk üzümü azotu biraz daha fazla ister; kırmızı ve beyaz çeşitlerde ise potasyum, meyve kalitesi için önemlidir. Aşırı azotlu beslemeden kaçının, çünkü yumuşak ve hastalığa açık sürgünler oluşur.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Frenk üzümü budama
+
+Budama, frenk üzümü yetiştirmenin en önemli bölümüdür ve kırmızı ile siyah çeşitler arasında farklılık gösterir. Budama kış dinlenme döneminde, yapraklar döküldükten sonra yapılır.
+
+**Kırmızı ve beyaz frenk üzümü:** Meyveyi iki üç yaşındaki dalların dip kısımlarındaki kısa sürgünlerde verir. Çalıyı, ortası açık bir vazo şeklinde, 8-10 ana dal olacak şekilde biçimlendirin. Her kış dört yaşından yaşlı birkaç ana dalı dipten kesip yerine yeni güçlü sürgünler bırakın. Yan sürgünleri iki üç göz bırakarak kısaltın.
+
+**Siyah frenk üzümü:** En iyi meyveyi bir önceki yıl çıkmış genç dallarda verir. Bu yüzden her kış, en yaşlı dalların yaklaşık üçte birini toprak seviyesinden kesin. Böylece çalı her yıl kendini yeniler.
+
+Yere yatmış, birbirine sürtünen, hastalıklı ve kurumuş dalları her iki türde de çıkarın. Kış budamasının genel ilkelerini [kış budaması](/kis-budamasi) yazımızda anlattık.
+
+## Hasat
+
+Frenk üzümü yaz başı ile ortası arasında olgunlaşır. Kırmızı çeşitlerin meyveleri parlak ve tamamen renklendiğinde, siyah çeşitlerinki ise koyu ve hafif yumuşadığında toplanır. Kırmızı ve beyaz frenk üzümü salkımıyla birlikte koparılır; böylece taneler ezilmez. Siyah çeşitlerde salkımdaki taneler aynı anda olgunlaşmayabilir, bu yüzden birkaç seferde toplamak gerekebilir. Toplanan meyveler buzdolabında birkaç gün dayanır; daha uzun saklamak için dondurulabilir. İyi bakılan bir çalı yıllarca birkaç kilogram meyve verir.
+
+## Sık karşılaşılan sorunlar
+
+**Kuşlar:** Parlak meyveleri kuşlar da sever. Olgunlaşma döneminde çalıyı ince bir file ile örtmek en etkili korumadır.
+
+**Külleme:** Yapraklarda beyaz, unlu bir tabaka. Hava dolaşımını artıran budama ve yaprakları ıslatmayan sulama en iyi önlemdir.
+
+**Yaprak biti:** Genç sürgün uçlarında kıvrılan yapraklara yol açabilir. Erken fark edilirse su ile yıkamak çoğu zaman yeterlidir; yoğun durumlarda müşteri hizmetlerimize danışın. Bitkinizin fotoğraflarını ve gözlemlerinizi paylaşmanız, size uygun önerinin daha hızlı ve doğru verilmesini sağlar.
+
+@sss
+S: Frenk üzümü saksıda yetiştirilir mi?
+C: Evet, en az 30-40 litrelik bir saksıda yetiştirilebilir. Saksıdaki bitki yazın daha sık sulama ister ve her ilkbaharda toprağın üst kısmı taze organik toprakla yenilenmelidir.
+
+S: Frenk üzümü kaç yılda meyve verir?
+C: İki yaşlı bir fidan genellikle dikimden sonraki ilk ya da ikinci yazda az miktarda meyve verir; tam verime üç dört yılda ulaşır.
+
+S: Frenk üzümü ile bektaşi üzümü aynı mı?
+C: Aynı cinsten akraba bitkilerdir ama farklıdırlar. Bektaşi üzümü dikenli dallı ve daha iri, tek tek oluşan meyveler verir; frenk üzümü ise dikensizdir ve meyvelerini salkım halinde verir.
+
+### YAZI
+slug: ficus-ginseng-bakimi
+baslik: Ficus Ginseng Bakımı: Kalın Kökleriyle Masanızdaki Minik Ağaç
+yayin: 2026-12-12 12:25
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: ficus ginseng bakımı
+seo_baslik: Ficus Ginseng Bakımı: Işık, Sulama, Toprak ve Budama
+seo_aciklama: Ficus ginseng bakımı nasıl yapılır? Işık, sulama sıklığı, toprak ve saksı seçimi, yaprak dökümünün nedenleri, budama ve kışın bonsai görünümlü ficusu korumak.
+ozet: Yere basan kalın, yumru kökleri ve küçük parlak yapraklarıyla ficus ginseng, bonsaiye başlamak isteyenlerin ilk tercihidir. Bu dayanıklı ama değişikliğe hassas bitkinin bakımını, yaprak dökümünün nedenlerini ve şekil budamasını anlatıyoruz.
+etiketler: ficus ginseng bakımı, ficus microcarpa, bonsai, salon bitkisi bakımı, yaprak dökümü
+gorsel: p10-ficus-ginseng
+gorsel_alt: Geniş bir bonsai saksısında kalın gövdeli, sık yapraklı ficus microcarpa
+urunler: hg-bonsai-saksi-topragi, hasturk-sivi-solucan-gubresi, budama-makasi
+kisaca: Ficus ginseng bol ama süzülmüş ışık, 16-24 °C sıcaklık ve sabit bir yer ister. Toprağın üst 2-3 santimetresi kuruduğunda sulanmalı, saksıda su bırakılmamalıdır. Yer değişikliği, soğuk hava akımı ve aşırı sulama yaprak dökümünün başlıca nedenleridir. Hafif ve süzek bir toprak, büyüme döneminde hafif besleme ve düzenli uç alma bitkiyi sağlıklı ve sık tutar.
+@govde
+Ficus ginseng bakımı, bonsai dünyasına adım atmak isteyenler için en iyi başlangıç noktalarından biridir. Bu bitki aslında Ficus microcarpa türünün, kökleri kalın ve yumru şeklinde gelişecek biçimde yetiştirilmiş bir formudur. Saksının üstünde yükselen bu iri kökler ginseng köklerine benzediği için bu adı almıştır. Üzerinden çıkan ince dallar ve küçük, parlak, koyu yeşil yapraklar ise ona minyatür bir ağaç görünümü verir. İyi haber şu ki ficus ginseng, klasik bonsailere göre çok daha affedicidir; ev koşullarına kolay uyum sağlar. Yine de ficus ailesinin tipik bir huyunu taşır: değişiklikten hoşlanmaz ve stres yaşadığında yapraklarını döker. Bu yazıda bitkinizi sağlıklı ve gür tutmak için gereken bakımı anlatıyoruz.
+
+## Işık
+
+Ficus ginseng bol ama süzülmüş ışık sever. Doğu ya da batıya bakan bir pencere önü idealdir. Güneye bakan pencerelerde tül perdenin arkasında durabilir; yaz öğle güneşinin camdan doğrudan vurması yapraklarda yanıklara yol açar. Işık yetersiz kaldığında dallar uzar, yapraklar seyrekleşir ve alt yapraklar dökülür. Kış aylarında bitkiyi evin en aydınlık noktasına yaklaştırmak iyi olur. Saksıyı birkaç haftada bir çeyrek tur çevirerek tacın her yöne dengeli büyümesini sağlayabilirsiniz, ama bunu sık yapmayın; ficuslar ışık yönünün sürekli değişmesinden hoşlanmaz.
+
+## Ficus ginseng bakımında sulama
+
+Sulama, bu bitkinin sağlığını en çok etkileyen konudur. Toprağın üst iki üç santimetresi kuruduğunda bitkiyi iyice sulayın ve fazla suyun saksının dibinden akmasını bekleyin. Saksı tabağında su bırakmayın. Bonsai saksıları sığ olduğu için toprak normal saksılara göre daha hızlı kurur; bu yüzden toprağı parmağınızla düzenli kontrol etmek, takvime göre sulamaktan daha güvenlidir.
+
+Kalın kökler bir miktar su depoladığı için ficus ginseng kısa süreli kuraklığa dayanabilir, ama sürekli ıslak toprağa dayanamaz. Aşırı sulama kök çürümesine yol açar; ilk belirtileri sararan ve dökülen yapraklar, yumuşayan köklerdir. Kışın büyüme yavaşladığı için sulama aralığı uzar. Sulama suyunun oda sıcaklığında olması da önemlidir. Sulamanın genel ilkeleri için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazımıza göz atabilirsiniz.
+
+## Toprak ve saksı
+
+Ficus ginseng hafif, havadar ve süzek bir toprak ister. Bonsai için hazırlanmış karışımlar ya da perlit katkılı kaliteli bir saksı toprağı uygundur. Ağır ve sıkışan topraklar kalın kökler etrafında su biriktirip çürümeye neden olur. Saksının dibinde mutlaka drenaj deliği bulunmalıdır. Bonsai toprağının özellikleri hakkında ayrıntılı bilgi için [bonsai toprağı](/bonsai-topragi) yazımıza bakabilirsiniz.
+
+[ürün:hg-bonsai-saksi-topragi]
+
+Saksı değişimi iki üç yılda bir, ilkbaharda yapılır. Bu sırada uzun ve ince kökler bir miktar kısaltılabilir, ancak kalın gövde-kökleri kesinlikle kesmeyin. Yumru köklerin görünür kalması için bitkiyi aynı seviyede yeniden dikin.
+
+## Sıcaklık ve nem
+
+Ficus ginseng 16-24 °C arasındaki sıcaklıklarda rahat eder. 12 °C'nin altındaki sıcaklıklar ve soğuk hava akımları yaprak dökümünü tetikler. Kışın sık açılan bir kapının, cereyan alan bir pencerenin ya da klimanın önünden uzak tutun. Kalorifer peteğinin hemen yanı da havayı kurutarak yaprak uçlarını kahverengileştirir.
+
+Orta düzeyde nem yeterlidir. Kışın ev havası çok kuruduğunda saksıyı çakıllı ve sulu bir tepsinin üzerine koymak ya da sabahları yaprakları hafifçe püskürtmek işe yarar. Kış aylarında nemi korumanın yolları için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımıza göz atabilirsiniz.
+
+## Yaprak dökümü: Neden olur, ne yapmalı?
+
+Ficus ginseng sahiplerinin en sık yaşadığı sorun yaprak dökümüdür. Bitki yeni alındığında ya da yeri değiştirildiğinde birkaç yaprak dökmesi normaldir; yeni ortamın ışığına alışmaya çalışır. Bu dönemde bitkiyi bir daha yerinden oynatmayın ve sulamayı abartmayın. Birkaç hafta içinde yeni yapraklar çıkar.
+
+Yaprak dökümü sürüyorsa şu nedenleri kontrol edin:
+
+- **Aşırı sulama:** Sararıp düşen yapraklar ve ıslak toprak.
+- **Susuzluk:** Kuruyup kıvrılan, çıtır yapraklar ve kupkuru toprak.
+- **Soğuk ya da cereyan:** Aniden ve topluca dökülen yeşil yapraklar.
+- **Işık yetersizliği:** İç kısımdaki yaprakların yavaş yavaş dökülmesi.
+- **Zararlılar:** Yaprak altında ince ağlar ya da yapışkan lekeler kırmızı örümcek ya da kabuklu bit belirtisi olabilir.
+
+Ficus ailesindeki benzer sorunlar için [Benjamin yaprak dökmesi](/benjamin-yaprak-dokmesi) yazımız da yol gösterici olabilir.
+
+## Besleme
+
+İlkbahardan sonbahar sonuna kadar, ayda bir ya da iki kez sulama suyuna karıştırılan seyreltilmiş bir sıvı besin yeterlidir. Kışın besleme kesilir ya da çok azaltılır. Bonsai saksısındaki az miktardaki toprak tuz birikimine açık olduğu için gübreyi asla önerilenden yoğun kullanmayın.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+## Budama ve şekil verme
+
+Ficus ginseng hızlı büyür ve düzenli budamaya çok iyi tepki verir. Yeni sürgünler altı sekiz yaprağa ulaştığında, iki üç yaprak kalacak şekilde uçlarını kısaltın. Bu uç alma işlemi bitkinin daha sık dallanmasını ve tacın yoğunlaşmasını sağlar. Ana şekil budaması ise ilkbaharda yapılır. Kesim yerlerinden beyaz, sütlü bir özsu akar; bu normaldir, ancak cilde ve göze temas etmemesine dikkat edin, budama sonrası ellerinizi yıkayın. Temiz ve keskin bir makas, dokuları ezmeden düzgün kesim yapmanızı sağlar.
+
+## Mevsimlere göre ficus ginseng bakımı
+
+**İlkbahar:** Bitkinin en hızlı büyüdüğü dönemdir. Saksı değişimi, ana şekil budaması ve beslemeye başlama zamanıdır. Günler uzadıkça sulama ihtiyacı da artar.
+
+**Yaz:** Toprağın kuruma hızı artar; sığ saksılarda sulamayı daha sık kontrol edin. Uç alma budamasını sürdürün. Çok sıcak günlerde bitkiyi öğle güneşinden koruyun.
+
+**Sonbahar:** Beslemeyi yavaş yavaş azaltın. Balkona çıkardıysanız gece sıcaklıkları 15 °C'ye yaklaşmadan içeri alın ve en aydınlık pencereye yerleştirin.
+
+**Kış:** Sulama aralığını uzatın, beslemeyi kesin, soğuk cereyandan ve kaloriferin doğrudan sıcağından koruyun. Bu dönemde birkaç yaprak dökmesi normaldir.
+
+Bu basit takvimi izlemek, ficus ginseng bakımını yıl boyunca kolaylaştırır ve bitkinin mevsim geçişlerinde yaşadığı stresi en aza indirir. Unutmayın, bu bitki için en iyi bakım çoğu zaman en az müdahale edilen bakımdır: iyi bir yer bulduktan sonra onu orada bırakın.
+
+## Evcil hayvanlar ve güvenlik
+
+Ficus türlerinin sütlü özsuyu kediler ve köpekler için tahriş edici olabilir. Evde yaprak kemiren bir dostunuz varsa bitkiyi onların ulaşamayacağı bir yere koyun.
+
+@sss
+S: Ficus ginseng ne kadar büyür?
+C: Saksıda ve düzenli budamayla genellikle 30-60 santimetre boyunda tutulur. Budanmazsa daha da uzayabilir, ama kalın kök kısmı yıllar içinde çok yavaş kalınlaşır.
+
+S: Ficus ginseng balkonda durabilir mi?
+C: Yaz aylarında, gece sıcaklıkları 15 °C'nin üzerindeyken yarı gölgeli bir balkonda durabilir. Sonbaharda hava soğumadan içeri alınmalıdır; ani yer ve ışık değişimi birkaç yaprak dökmesine neden olabilir.
+
+S: Ficus ginseng'in kökleri neden yumuşadı?
+C: Yumuşayan kökler genellikle aşırı sulamaya bağlı çürümenin işaretidir. Bitkiyi saksıdan çıkarıp çürük kısımları temizleyin, süzek ve taze bir toprağa dikin ve sulamayı azaltın.
+
+### YAZI
+slug: morsalkim-yetistirme
+baslik: Morsalkım Yetiştirme: Pergoleden Sarkan Mor Çiçek Şelalesi
+yayin: 2026-12-12 13:45
+yazar: Muhammed Hamza Çelik
+kategori: cicekler
+odak: morsalkım yetiştirme
+seo_baslik: Morsalkım Yetiştirme: Dikim, Budama ve Çiçek Açtırma
+seo_aciklama: Morsalkım yetiştirme rehberi: yer ve destek seçimi, dikim, sulama, besleme, kış ve yaz budaması, çiçek açmama nedenleri ve güvenlik notları.
+ozet: Bahar geldiğinde pergolelerden ve duvarlardan sarkan uzun, mor, kokulu salkımlarıyla morsalkım, bahçelerin en büyüleyici sarmaşığıdır. Ama bu güzellik doğru budama ister. Morsalkım yetiştirmeyi baştan sona anlatıyoruz.
+etiketler: morsalkım yetiştirme, wisteria, sarmaşık bitkiler, pergole bitkileri, budama
+gorsel: p10-morsalkim
+gorsel_alt: Dallardan sarkan uzun mor morsalkım çiçek salkımları
+urunler: budama-makasi, organik-toprak, hasturk-kati-solucan-gubresi
+kisaca: Morsalkım güneşli bir yer, sağlam bir destek ve süzek, orta verimli bir toprak ister. Kış dinlenmesinde dikilebilir. Çiçeklenmenin anahtarı budamadır: yazın uzun sürgünler beş altı yaprağa, kışın da iki üç göze kadar kısaltılır. Fazla azot ve gölge, morsalkımın yaprak verip çiçek açmamasının en yaygın nedenleridir.
+@govde
+Morsalkım yetiştirme, bahçesinde bir pergole, kameriye ya da güneşli bir duvar bulunan herkesin hayalidir. Nisan ve mayıs aylarında yapraklar daha tam açılmadan dallardan sarkan, otuz santimetreyi bulabilen mor, lila ya da beyaz salkımlar hem göz hem burun için bir şölendir. Çin ve Japonya kökenli olan bu güçlü, odunsu sarmaşık (Wisteria) doğru bakıldığında yüz yıldan uzun yaşayabilir. Ancak morsalkım aynı zamanda çok güçlü büyüyen, desteğini sıkıca saran ve budanmazsa yalnızca yaprak üreten bir bitkidir. Bu yazıda morsalkımı nasıl dikeceğinizi, neye sardıracağınızı ve her yıl çiçek açtırmanın sırrı olan budamayı anlatıyoruz.
+
+## Morsalkım türleri
+
+**Çin morsalkımı (Wisteria sinensis):** Bahçelerde en sık görülen türdür. Salkımları yapraklardan önce ve aynı anda açar, kokuludur. Gövdesi saat yönünün tersine sarılır.
+
+**Japon morsalkımı (Wisteria floribunda):** Salkımları daha uzundur ve uçtan dibe doğru sırayla açar. Gövdesi saat yönünde sarılır.
+
+Her iki tür de benzer bakım ister. Fidan alırken aşılı ya da çelikten üretilmiş, çiçek açmış bir bitkiden alınmış fidanları tercih edin. Tohumdan yetişen morsalkımlar çiçek açmak için on beş yirmi yıl bekletebilir.
+
+## Yer ve destek seçimi
+
+Morsalkım güneşi sever; bol çiçek için günde en az altı saat doğrudan güneş gerekir. Yarı gölgede yaşar ama çiçeklenmesi azalır.
+
+Destek konusu çok önemlidir. Morsalkımın gövdesi yıllar içinde bileğinizden kalın, oldukça ağır ve güçlü hale gelir. Hafif ahşap ya da ince metal yapıları zamanla ezip eğebilir. Bu yüzden sağlam, kalın direkli bir pergole ya da kameriye tercih edin. Duvara sardıracaksanız duvardan birkaç santimetre uzakta duran kalın teller kullanın. Morsalkımı oluk, yağmur borusu ve çatı kiremitlerinin yakınına dikmeyin; güçlü sürgünler bu yapıların arasına girip zarar verebilir. Diğer tırmanıcı bitkilerle karşılaştırmak için [sarmaşık bitkiler](/sarmasik-bitkiler) yazımıza göz atabilirsiniz.
+
+## Ne zaman ve nasıl dikilir?
+
+Tüplü morsalkım fidanları, toprağın donmadığı ve aşırı ıslak olmadığı her dönemde dikilebilir; ancak en uygun zaman bitkinin dinlenmede olduğu sonbahar sonu, kış ve erken ilkbahardır. Kök topundan iki kat geniş ve biraz daha derin bir çukur açın. Çıkan toprağı bir miktar olgun kompost ya da organik toprakla karıştırın. Fidanı saksıdaki seviyesinde dikin; aşılı fidanlarda aşı noktası toprak üstünde kalmalıdır. Dikimden sonra bol su verin ve ilk sürgünleri desteğe doğru yönlendirip yumuşak bir bağla tutturun. Tüplü fidan dikiminin adımları için [tüplü fidan dikimi](/tuplu-fidan-dikimi) yazımıza bakabilirsiniz.
+
+[ürün:organik-toprak]
+
+## Toprak, sulama ve besleme
+
+Morsalkım toprak konusunda seçici değildir; süzek, orta verimli topraklar onun için yeterlidir. Su biriken yerlerde kökleri zarar görür. Yeni dikilen bitkiyi ilk iki yıl kurak dönemlerde düzenli sulayın. Yerleşmiş morsalkım ise derin kökleri sayesinde kuraklığa oldukça dayanıklıdır; yine de çiçek tomurcuklarının oluştuğu yaz sonunda aşırı kuraklık, ertesi baharın çiçeklerini azaltabilir.
+
+Besleme konusunda az, çoktan iyidir. Morsalkım kökleri, baklagillerde olduğu gibi havadaki azotu bağlayan bakterilerle ortak yaşar. Bu yüzden azotlu gübre vermek yaprak ve sürgün patlamasına, çiçeklerin ise azalmasına neden olur. İlkbaharda bitkinin dibine ince bir kat solucan gübresi ya da kompost serpmek yeterlidir. Yakınındaki çimlere verilen azotlu gübrelerin de morsalkımın köklerine ulaşabileceğini unutmayın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Morsalkım yetiştirmenin sırrı: Budama
+
+Morsalkımın her yıl bol çiçek açması büyük ölçüde budamaya bağlıdır. Budama yılda iki kez yapılır.
+
+**Yaz budaması:** Çiçeklenmeden yaklaşık iki ay sonra, temmuz ya da ağustos aylarında yapılır. Ana iskelete dahil etmek istemediğiniz uzun, kamçı gibi yeşil sürgünleri, dipten itibaren beş altı yaprak kalacak şekilde kısaltın. Bu işlem bitkinin enerjisini sürgün uzatmaktan çiçek tomurcuğu oluşturmaya yönlendirir.
+
+**Kış budaması:** Yapraklar döküldükten sonra, ocak ve şubat aylarında yapılır. Yazın kısaltılan sürgünleri bu kez iki üç göz kalacak şekilde yeniden kısaltın. Kış budamasında çiçek tomurcuklarını yaprak tomurcuklarından kolayca ayırabilirsiniz: çiçek tomurcukları daha iri, tombul ve yuvarlaktır; yaprak tomurcukları ise ince ve sivridir. Kış budamasının genel ilkeleri için [kış budaması](/kis-budamasi) yazımızı okuyabilirsiniz.
+
+İlk birkaç yıl budamanın amacı sağlam bir iskelet oluşturmaktır: bir ana gövde ve desteğe yayılan birkaç güçlü yan dal seçin, diğerlerini düzenli olarak kısaltın.
+
+## Morsalkım neden çiçek açmaz?
+
+- **Genç bitki:** Aşılı fidanlar genellikle iki dört yılda, tohumdan yetişenler çok daha geç çiçek açar.
+- **Yetersiz güneş:** Gölgede kalan morsalkım yaprak üretir.
+- **Yanlış budama:** Kışın çiçek tomurcuklu kısa dalları kesmek ya da hiç budamamak.
+- **Fazla azot:** Gübreli çimlerin yanında ya da fazla gübrelenmiş bitkilerde sık görülür.
+- **Tomurcuk donması:** Geç ilkbahar donları açılmak üzere olan tomurcukları öldürebilir.
+- **Kuraklık:** Yaz sonunda tomurcuk oluşumu sırasında aşırı susuzluk.
+
+## Morsalkım yetiştirmede ilk üç yıl
+
+Yeni dikilen bir morsalkımdan ilk yıllarda çiçek beklemek yerine, bu dönemi sağlam bir iskelet kurmaya ayırmak gerekir. Morsalkım yetiştirme sürecinde ilk yıl bitki köklerini yerleştirmekle meşguldür; sürgünleri desteğe yönlendirmek ve kurak dönemde sulamak yeterlidir. İkinci yıl en güçlü sürgünü ana gövde olarak seçin ve dikey bir kazık ya da tel boyunca yukarı yönlendirin. Yan sürgünlerden pergolenin ya da tellerin üzerine yayılacak olanları belirleyip yatay olarak bağlayın, diğerlerini yazın ve kışın kısaltın. Üçüncü yıldan itibaren iskelet büyük ölçüde oluşmuştur ve budama rutin hale gelir.
+
+Bu dönemde sabırlı olmak önemlidir. Çok hızlı uzayan sürgünleri olduğu gibi bırakmak bitkiyi büyütür ama çiçeklenmeyi geciktirir ve ileride kontrol edilmesi zor, karmakarışık bir yığın oluşturur. Düzenli ve erken müdahale, yıllar sonra bile kolayca budanabilen, her bahar salkım salkım çiçek veren bir bitki demektir.
+
+## Güvenlik notu
+
+Morsalkımın tüm kısımları, özellikle bezelyeyi andıran tohum kabukları ve tohumları zehirlidir. Küçük çocukların ve evcil hayvanların bu kabuklarla oynamasına izin vermeyin; yaz sonunda oluşan kabukları budamayla toplamak iyi bir önlemdir. Bahçedeki diğer zehirli bitkiler hakkında bilgi için [zehirli ev bitkileri](/zehirli-ev-bitkileri) yazımıza göz atabilirsiniz.
+
+## Saksıda morsalkım
+
+Morsalkım büyük bir saksıda ağaççık formunda yetiştirilebilir. En az 50-60 litrelik, ağır ve sağlam bir saksı seçin. Saksıdaki bitki toprağı daha çabuk kurutur, bu yüzden yaz aylarında düzenli sulama gerekir. Gövdeyi bir kazıkla destekleyip tepeden çıkan sürgünleri düzenli budayarak, sarkan salkımlarıyla küçük bir şemsiye ağaç görünümü elde edebilirsiniz.
+
+@sss
+S: Morsalkım kaç yılda çiçek açar?
+C: Fidanlıktan alınan aşılı ya da çelikle üretilmiş bitkiler genellikle dikimden iki dört yıl sonra çiçek açar. Tohumdan yetiştirilen morsalkım ise on yıldan uzun süre bekletebilir.
+
+S: Morsalkım kışa dayanıklı mı?
+C: Evet, yerleşmiş morsalkım soğuk kışlara dayanıklıdır. Asıl risk, ilkbaharda açılmak üzere olan çiçek tomurcuklarının geç donlardan zarar görmesidir.
+
+S: Morsalkım duvara zarar verir mi?
+C: Doğrudan duvara tutunmaz, sarılarak tırmanır. Ancak güçlü gövdesi oluk, kiremit ve zayıf yapıları zorlayabilir. Bu yüzden sağlam bir telle ya da pergoleyle yönlendirilmeli, düzenli budanmalıdır.
+
+### YAZI
+slug: yer-fistigi-yetistirme
+baslik: Yer Fıstığı Yetiştirme: Çiçeği Toprağa Gömülen Tuhaf ve Lezzetli Bitki
+yayin: 2026-12-12 15:10
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: yer fıstığı yetiştirme
+seo_baslik: Yer Fıstığı Yetiştirme: Ekim, Toprak, Bakım ve Hasat
+seo_aciklama: Yer fıstığı yetiştirme rehberi: ekim zamanı, gevşek ve kumlu toprak hazırlığı, tohum seçimi, boğaz doldurma, sulama, hasat, kurutma ve saksıda üretim.
+ozet: Yer fıstığı, çiçeklerini açtıktan sonra sapını toprağa uzatıp meyvesini toprağın altında olgunlaştıran sıra dışı bir bitkidir. Sıcak bir yaz ve gevşek bir toprakla bahçenizde, hatta geniş bir saksıda bile yetiştirebilirsiniz. Ekimden hasada adım adım anlatıyoruz.
+etiketler: yer fıstığı yetiştirme, yer fıstığı ekimi, baklagiller, kumlu toprak, yazlık sebzeler
+gorsel: p10-yer-fistigi
+gorsel_alt: Bahçe toprağında büyüyen genç yer fıstığı bitkisi
+urunler: organik-toprak, hasturk-kati-solucan-gubresi, kalin-tarim-perliti
+kisaca: Yer fıstığı sıcak seven bir baklagildir; toprak sıcaklığı 16-18 °C'yi geçtiğinde, nisan sonu ile mayıs arasında ekilir. Gevşek, kumlu-tınlı ve süzek toprak ister, çünkü çiçek sapları toprağa girip fıstığı orada oluşturur. Çiçeklenmeden sonra dibine toprak çekilir ve yaklaşık 120-150 günde hasat edilir.
+@govde
+Yer fıstığı yetiştirme, bahçede en çok merak uyandıran deneyimlerden biridir. Çoğu bitki meyvesini dalında olgunlaştırırken yer fıstığı bambaşka bir yol izler: sarı çiçekleri döllendikten sonra çiçeğin dibindeki sap uzayarak aşağıya doğru kıvrılır, toprağa girer ve fıstık kabuğu orada, toprağın altında gelişir. Bu yüzden yer fıstığını yetiştirmenin sırrı, bitkinin üstünden çok altındaki toprağa özen göstermektir. Türkiye'de Osmaniye, Adana ve Aydın gibi sıcak bölgelerde geniş alanlarda yetiştirilen yer fıstığı, yazı sıcak geçen her bölgede küçük bir bahçe parselinde ya da büyük bir saksıda denenebilir. Kış aylarında bahar planı yapanlar için bu yazıda ekimden hasada kadar tüm adımları anlatıyoruz.
+
+## Yer fıstığı nasıl bir bitkidir?
+
+Yer fıstığı (Arachis hypogaea), fasulye ve nohutla aynı aileden, yani baklagillerden gelen tek yıllık bir bitkidir. Boyu 30-50 santimetre olur; bazı çeşitler dik, bazıları ise yere yayılarak büyür. Baklagillerin çoğu gibi kökleri, havadaki azotu toprağa bağlayan bakterilerle ortak yaşar. Bu nedenle yer fıstığı fazla azotlu gübre istemez; ardından ekilen bitkilere de verimli bir toprak bırakır. Baklagillerin bu özelliğini [fasulye yetiştirme](/fasulye-yetistirme) yazımızda da anlatmıştık.
+
+## İklim ve ekim zamanı
+
+Yer fıstığı sıcak seven bir bitkidir ve dondan hiç hoşlanmaz. Tohumların çimlenmesi için toprak sıcaklığının en az 16-18 °C olması gerekir. Bu genellikle sahil bölgelerinde nisan sonu, iç bölgelerde mayıs ortası demektir. Bitki ekimden hasada kadar yaklaşık 120-150 günlük sıcak bir döneme ihtiyaç duyar. Yazları kısa ve serin geçen yüksek bölgelerde fıstıklar tam olgunlaşmayabilir; bu bölgelerde erkenci çeşitleri seçmek ya da fideleri sıcak bir yerde önceden başlatmak işe yarar. Toprak sıcaklığının ekime etkisini [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazımızda ayrıntılı olarak ele aldık.
+
+## Yer fıstığı yetiştirmede toprak en önemli konudur
+
+Fıstığın toprağın altında oluşması, toprağın yapısını bu bitki için her şeyden önemli kılar. Çiçek sapının toprağa kolayca girebilmesi ve kabukların rahatça genişleyebilmesi için toprağın gevşek, kabarık ve hafif olması gerekir. Kumlu-tınlı topraklar idealdir. Ağır killi topraklarda saplar toprağa giremez, kabuklar küçük ve şekilsiz kalır, hasat sırasında da fıstıklar toprakta kopar.
+
+Toprağınız ağırsa ekim alanını derin bir şekilde işleyip bol miktarda olgun kompost, organik toprak ve kalın taneli perlit ya da yıkanmış dere kumu karıştırarak hafifletebilirsiniz. Toprak pH'ı hafif asidik ile nötr (yaklaşık 5,8-7) arasında olmalıdır. Kumlu toprakların iyileştirilmesi hakkında bilgi için [kumlu toprak ıslahı](/kumlu-toprak-islahi) yazımıza göz atabilirsiniz.
+
+[ürün:organik-toprak]
+
+## Tohum seçimi ve ekim
+
+Ekim için kavrulmamış, çiğ ve kabuklu yer fıstıkları kullanılır. Kavrulmuş fıstıklar çimlenmez. Mümkünse tohumluk olarak satılan fıstıkları tercih edin. Ekimden hemen önce kabuklar dikkatle kırılır; içteki ince, kırmızımsı zara zarar vermemeye özen gösterilir. Bazı yetiştiriciler tohumları ekimden önce birkaç saat ılık suda bekletir.
+
+Tohumlar 4-5 santimetre derinliğe, sıra üzerinde 15-20 santimetre aralıkla ekilir. Sıralar arasında 50-60 santimetre mesafe bırakılır. Ekimden sonra toprak hafifçe bastırılıp sulanır. Uygun sıcaklıkta tohumlar bir iki hafta içinde çimlenir. Kuşlar ve fareler ekilen tohumları sevdiği için ilk günlerde alanı kontrol etmek iyi olur.
+
+## Çiçeklenme ve boğaz doldurma
+
+Ekimden yaklaşık 30-40 gün sonra bitki küçük, sarı, kelebek biçimli çiçekler açar. Döllenen çiçeğin dibindeki sap (ginofor) birkaç gün içinde uzayıp toprağa doğru eğilir ve 3-7 santimetre derinliğe girer. Bu dönemde bitkinin dibine çapayla gevşek toprak çekmek, yani boğaz doldurmak, sapların toprağa ulaşmasını kolaylaştırır ve verimi artırır. Çiçeklenme başladıktan sonra bitkinin dibini derin çapalamaktan kaçının; toprağa girmiş sapları koparabilirsiniz. Yabani otları elle ya da yüzeysel çapayla temizleyin. Bitkinin dibine serilecek ince bir saman malç da hem nemi korur hem toprağı yumuşak tutar.
+
+## Sulama ve besleme
+
+Yer fıstığı kuraklığa orta düzeyde dayanıklıdır, ancak çiçeklenme ve kabuk dolum döneminde düzenli neme ihtiyaç duyar. Bu dönemde toprak kurursa kabuklar boş kalabilir. Toprağı derinlemesine ama seyrek sulayın; sürekli ıslak toprak hem kökleri hem de oluşan fıstıkları çürütür. Hasattan iki üç hafta önce sulamayı azaltmak, fıstıkların kurumasını ve olgunlaşmasını kolaylaştırır.
+
+Besleme konusunda yer fıstığı ölçülü bir bitkidir. Ekimden önce toprağa karıştırılan olgun kompost ya da solucan gübresi çoğu zaman yeterlidir. Fazla azot, bol yaprak ama az fıstık demektir. Kabukların sağlam gelişmesi için toprakta yeterli kalsiyum bulunması da önemlidir; bu konuyu [kalsiyum eksikliği](/kalsiyum-eksikligi) yazımızda ele aldık.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Hasat ve kurutma
+
+Yaprakların sararmaya başlaması hasadın yaklaştığını gösterir. Emin olmak için bir bitkiyi deneme amaçlı sökün: kabukların iç yüzeyi koyulaşmış, damarlı görünüyorsa ve fıstıklar kabuğu doldurmuşsa hasat zamanı gelmiştir. Toprak hafif nemliyken bitkiler bir bel ya da çatalla kökün altından kaldırılarak bütün halinde sökülür. Toprağı silkelenen bitkiler, fıstıklar yukarı gelecek şekilde, havadar ve gölge bir yerde bir iki hafta kurutulur. Ardından fıstıklar saplardan koparılıp birkaç hafta daha kuru ve havadar bir yerde bekletilir. İyi kurutulmayan fıstıklar küflenebilir; küflenmiş fıstıklar sağlık açısından risklidir ve kesinlikle tüketilmemelidir.
+
+## Ekim nöbeti ve bahçe planı
+
+Yer fıstığını her yıl aynı yere ekmemek, toprak kaynaklı hastalıkların birikmesini önler. Aynı alana en erken üç dört yıl sonra yeniden yer fıstığı ya da başka bir baklagil ekmek iyi bir kuraldır. Yer fıstığının toprağa bıraktığı azottan yararlanmak için hasattan sonra aynı yere lahana, marul ya da ıspanak gibi yapraklı sebzeler ekebilirsiniz. Bahçe planınızı kışın yaparken yer fıstığına, gün boyu güneş alan ve suyun birikmediği hafif eğimli bir parsel ayırın. Bu parselin toprağını kış sonunda kompostla zenginleştirip derince işlemek, ilkbaharda ekim için hazır, kabarık bir yatak sağlar.
+
+## Saksıda yer fıstığı yetiştirme
+
+Bahçeniz yoksa yer fıstığını geniş ve derin bir saksıda da yetiştirebilirsiniz. En az 30-40 santimetre derinliğinde, geniş ağızlı bir saksı ya da bahçe yatağı seçin; bir saksıya iki üç bitki yeterlidir. Toprak olarak hafif, süzek bir sebze toprağını kalın perlitle karıştırın. Saksıyı balkonun en güneşli köşesine yerleştirin. Çocuklarla birlikte yapılacak bir bahçe deneyi olarak da yer fıstığı harika bir seçimdir; hasat günü toprağın altından çıkan fıstıklar herkesi şaşırtır.
+
+@sss
+S: Marketten aldığım yer fıstığını ekebilir miyim?
+C: Yalnızca kavrulmamış, çiğ ve kabuklu fıstıklar çimlenebilir. Kavrulmuş ya da tuzlanmış fıstıklar çimlenmez. En iyi sonuç için tohumluk olarak satılan fıstıkları tercih edin.
+
+S: Yer fıstığı kaç günde hasat edilir?
+C: Çeşide ve iklime bağlı olarak ekimden yaklaşık 120-150 gün sonra hasat edilir. Yaprakların sararması ve kabuk iç yüzeyinin koyulaşması hasat zamanının işaretidir.
+
+S: Yer fıstığı soğuk bölgelerde yetişir mi?
+C: Yazları kısa ve serin bölgelerde zorlanır. Erkenci çeşitler seçmek, fideleri içeride önceden başlatmak ve en güneşli, korunaklı yeri kullanmak başarı şansını artırır.
+
+### YAZI
+slug: mandalina-gubreleme
+baslik: Mandalina Gübreleme: Tatlı, Sulu ve Bol Meyve İçin Besleme Takvimi
+yayin: 2026-12-12 16:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: mandalina gübreleme
+seo_baslik: Mandalina Gübreleme: Ne Zaman, Hangi Gübre, Nasıl?
+seo_aciklama: Mandalina gübreleme nasıl yapılır? Bahçede ve saksıda besleme zamanı, organik gübreler, demir ve magnezyum eksikliği, sulama ve sık yapılan hatalar.
+ozet: Mandalina ağacının meyvesinin tadı, iriliği ve verimi büyük ölçüde beslenmesine bağlıdır. Bahçede ve saksıda mandalina gübrelemenin zamanlamasını, organik besleme seçeneklerini ve yapraklardaki eksiklik belirtilerini anlatıyoruz.
+etiketler: mandalina gübreleme, mandalina ağacı bakımı, narenciye gübreleme, organik gübre, saksıda mandalina
+gorsel: p10-mandalina
+gorsel_alt: Koyu yeşil yapraklar arasında olgunlaşmış turuncu mandalinalar
+urunler: hasturk-kati-solucan-gubresi, hg-narenciye-topragi, hasturk-sivi-solucan-gubresi
+kisaca: Mandalina gübreleme yılda birkaç kez yapılır: kış sonunda ana besleme, çiçeklenme ve meyve tutumu sonrası destek, yaz başında son besleme. Organik madde ve solucan gübresi meyve kalitesini artırır. Sararan yapraklar demir, magnezyum ya da azot eksikliğine işaret edebilir. Miktarlar toprak analizi ve ürün etiketine göre belirlenir.
+@govde
+Mandalina gübreleme, bahçesinde ya da balkonunda bir mandalina ağacı olan herkesin merak ettiği bir konudur. Aralık, mandalinanın en güzel olduğu aydır: dallar turuncu meyvelerle yüklüdür ve hasat sürmektedir. Bu yılki meyvenin tadı ve miktarı, büyük ölçüde ağacın geçen yıl nasıl beslendiğine bağlıdır. Mandalina, narenciye ailesinin diğer üyeleri gibi yıl boyunca yapraklı kalan, sürekli besin isteyen bir ağaçtır. Doğru zamanda ve doğru miktarda yapılan besleme sağlam yapraklar, bol çiçek ve tatlı, sulu meyveler demektir; yanlış zamanlama ise meyve dökümüne, kalın kabuklu ve ekşi meyvelere yol açabilir. Bu yazıda bahçede ve saksıda mandalina ağacını beslemenin temel ilkelerini anlatıyoruz.
+
+## Mandalina ağacı hangi besinlere ihtiyaç duyar?
+
+**Azot:** Yaprak ve sürgün gelişimi için gereklidir. Eksikliğinde yaprakların tamamı açık yeşil-sarı bir renk alır. Fazlası ise yumuşak sürgünlere, zararlıların çoğalmasına ve kalın kabuklu meyvelere yol açar.
+
+**Fosfor:** Kök gelişimi ve çiçeklenme için önemlidir.
+
+**Potasyum:** Meyvenin iriliği, tadı, rengi ve kabuk kalitesi üzerinde büyük etkisi vardır.
+
+**Magnezyum:** Narenciyede sık görülen bir eksikliktir. Yaşlı yapraklarda, yaprak dibinde ters V şeklinde yeşil bir alan kalırken uçlar ve kenarlar sararır.
+
+**Demir, çinko ve mangan:** Özellikle kireçli topraklarda alınmaları zorlaşır. Demir eksikliğinde genç yaprakların damarları yeşil kalırken damar araları sararır.
+
+Bu belirtilerin ayrıntılarını [magnezyum eksikliği](/magnezyum-eksikligi) ve [mikro element eksikliği](/mikro-element-eksikligi) yazılarımızda bulabilirsiniz.
+
+## Mandalina gübreleme takvimi
+
+Mandalina ağacı yılda birkaç büyüme dalgası yaşar. Gübrelemeyi bu dalgalara göre planlamak en iyi sonucu verir.
+
+**Kış sonu (şubat-mart):** Ağaç ilkbahar sürgünlerini ve çiçeklerini hazırlamaya başlamadan önce yapılan ana beslemedir. Yıllık besin ihtiyacının önemli bir kısmı bu dönemde verilir. Organik gübreler toprakta yavaş çözündüğü için bu uygulamayı kış sonunda yapmak, besinlerin ilkbaharda köklere hazır olmasını sağlar.
+
+**Çiçeklenme sonrası (nisan-mayıs):** Meyve tutumu döneminde ağacı desteklemek için ikinci bir hafif besleme yapılır.
+
+**Yaz başı (haziran):** Meyvelerin büyüme dönemini desteklemek için son besleme yapılır. Yaz sonu ve sonbaharda azotlu beslemeden kaçınılmalıdır; geç çıkan yumuşak sürgünler kış soğuklarından zarar görür ve meyve kalitesi düşer.
+
+**Hasat dönemi (kasım-ocak):** Bu dönemde ağaç meyvelerini olgunlaştırır ve yavaş yavaş dinlenmeye geçer. Ağır besleme yapılmaz. Hasattan sonra ağacın dibine olgun organik madde serilmesi ise toprağı bir sonraki sezona hazırlar.
+
+## Organik gübrelerle mandalina beslemek
+
+Organik madde, narenciye ağaçlarının toprağı için en değerli katkıdır. Toprağın su tutma kapasitesini artırır, kökleri sağlıklı tutar ve besinleri yavaş yavaş serbest bırakır. Solucan gübresi, yanmış ahır gübresi ve olgun kompost en çok tercih edilen organik besin kaynaklarıdır.
+
+Uygulama için ağacın taç izdüşümü, yani dalların uçlarının yere düşen gölgesinin hizası esas alınır. Narenciyenin besin alan ince kökleri gövdenin dibinde değil, bu hizanın çevresinde yoğunlaşır. Gübreyi bu halka boyunca toprağa serpip yüzeysel olarak karıştırın ve ardından sulayın. Gövdenin dibine gübre yığmayın. Ahır gübresi kullanacaksanız mutlaka iyi yanmış olmasına dikkat edin; taze gübre kökleri yakabilir. Bu konuyu [ahır gübresi](/ahir-gubresi) yazımızda anlattık.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Kimyasal gübre kullanacaksanız miktar, ağacın yaşına, toprağın yapısına ve önceki yılın verimine göre değişir. Doğru miktarı belirlemek için toprak ve gerekirse yaprak analizi yaptırmak ve sonuçları müşteri hizmetlerimize danışmak en güvenli yoldur. Gübre paketlerindeki kullanım talimatına mutlaka uyun.
+
+## Saksıda mandalina gübreleme
+
+Saksıdaki mandalina ağacı, sınırlı toprağı nedeniyle bahçedekinden daha sık ama daha hafif beslenmek ister. İlkbahardan yaz sonuna kadar iki üç haftada bir, sulama suyuna karıştırılan sıvı bir organik besin yeterlidir. Her ilkbaharda toprağın üst birkaç santimetresini kazıyıp narenciyeye uygun, hafif asidik ve süzek bir toprakla yenilemek de bitkiyi besler. Kış aylarında, özellikle bitki serin bir yerde dinleniyorsa, besleme kesilir ya da çok azaltılır. Saksı narenciyesinin toprak ihtiyacı için [narenciye toprağı](/narenciye-topragi) yazımıza göz atabilirsiniz.
+
+[ürün:hg-narenciye-topragi]
+
+## Sulama ve gübreleme birlikte düşünülmeli
+
+Besinlerin köklere ulaşabilmesi için toprakta yeterli nem olmalıdır. Kuru toprağa gübre vermek kökleri yakabilir; bu yüzden gübrelemeden önce ya da hemen sonra mutlaka sulama yapın. Mandalina düzenli nem ister ama ayağının su içinde kalmasından hoşlanmaz. Yaz aylarında düzensiz sulama, meyve çatlamasına ve dökümüne yol açar. Kış aylarında ise sulamayı ağacın ihtiyacına göre azaltın; bu konuda [kışın meyve ağacı sulama](/kisin-meyve-agaci-sulama) yazımız yol gösterici olabilir.
+
+## Sık yapılan hatalar
+
+- **Sonbaharda azotlu gübre vermek:** Geç sürgünler soğuktan zarar görür, meyve kabuğu kalınlaşır.
+- **Gübreyi gövdenin dibine yığmak:** Besin alan kökler taç izdüşümündedir; gövde dibindeki gübre kabuğa zarar verebilir.
+- **Kuru toprağa gübre vermek:** Kök yanıklarına neden olur.
+- **Tek bir besine odaklanmak:** Yalnızca azot vermek dengesiz büyümeye yol açar.
+- **Kireçli toprakta demir sorununu gözden kaçırmak:** Sararan genç yapraklar çoğu zaman topraktaki demirin yokluğundan değil, alınamamasından kaynaklanır.
+
+## Genç ve yaşlı ağaçta farklar
+
+Yeni dikilmiş ya da bir iki yaşındaki genç mandalina ağaçları, meyve vermekten çok kök ve dal iskeleti kurmaya odaklanır. Bu ağaçlar az miktarda ama daha sık beslenmeyi sever; yüksek dozda gübre, genç köklere zarar verebilir. İlk yıllarda verilen çiçeklerin bir kısmının dökülmesi de normaldir. Meyve veren yaşlı ağaçlarda ise ihtiyaç, ağacın taç büyüklüğü ve önceki yılın verimiyle birlikte artar. Bol ürün veren bir yılın ardından ağaç yorgun düşebilir ve ertesi yıl az meyve verebilir; buna periyodisite denir. Dengeli mandalina gübreleme, düzenli sulama ve aşırı yüklenmiş dallarda meyve seyreltme bu iniş çıkışları yumuşatır.
+
+## Meyve kalitesini artırmak için ipuçları
+
+Tatlı ve sulu mandalinalar için gübrelemenin yanında ağacın güneş alması da çok önemlidir. Taç içinin sık olması, iç kısımdaki meyvelerin ekşi ve soluk kalmasına neden olur. Hasattan sonra yapılan hafif bir seyreltme budaması ışığın tacın içine girmesini sağlar. Ağacın dibini malçla örtmek ise hem nemi korur hem de toprağa organik madde kazandırır.
+
+@sss
+S: Mandalina ağacına hangi ayda gübre verilir?
+C: Ana besleme kış sonunda, şubat-mart döneminde yapılır. Çiçeklenme sonrası ve yaz başında daha hafif destek beslemeleri eklenir. Sonbaharda azotlu gübre verilmez.
+
+S: Mandalina yaprakları neden sararır?
+C: Tüm yaprakların açık yeşil-sarı olması azot, yaşlı yapraklarda ters V şeklinde sararma magnezyum, genç yapraklarda damar arası sararma demir eksikliğine işaret edebilir. Aşırı sulama ve kök sorunları da sararmaya yol açar.
+
+S: Kahve telvesi mandalina ağacına iyi gelir mi?
+C: Az miktarda ve kompostla karıştırılarak kullanıldığında toprağa organik madde katar. Ancak tek başına bir gübre yerine geçmez ve kalın bir tabaka halinde dökülmemelidir.
+
+### YAZI
+slug: hunnap-yetistirme
+baslik: Hünnap Yetiştirme: Kuraklığa Meydan Okuyan Unutulmuş Meyve
+yayin: 2026-12-12 18:15
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: hünnap yetiştirme
+seo_baslik: Hünnap Yetiştirme: Fidan Dikimi, Bakım ve Hasat
+seo_aciklama: Hünnap yetiştirme rehberi: iklim ve toprak isteği, fidan dikimi, sulama, besleme, budama, kök sürgünleri, hasat zamanı ve meyveyi kurutarak saklama yolları.
+ozet: Kuraklığa, sıcağa ve soğuğa dayanıklı, toprak seçmeyen ve hastalıklardan pek etkilenmeyen hünnap, az emekle bol meyve veren bir ağaçtır. Hünnap yetiştirmenin inceliklerini, dikimden hasada kadar anlatıyoruz.
+etiketler: hünnap yetiştirme, hünnap ağacı, çiğde, kuraklığa dayanıklı meyve, meyve fidanı dikimi
+gorsel: p10-hunnap
+gorsel_alt: Olgunlaşmış parlak kırmızı-kahverengi hünnap meyveleri
+urunler: hasturk-kati-solucan-gubresi, organik-toprak, budama-makasi
+kisaca: Hünnap, sıcak yazları seven ama kışın -20 °C'ye kadar soğuğa dayanabilen, kuraklığa çok dayanıklı bir meyve ağacıdır. Güneşli bir yer ve süzek bir toprak yeterlidir. Kış dinlenmesinde fidan olarak dikilir, ilk yıllarda düzenli sulanır, sonra az bakımla yetinir. Meyveler eylül-ekim aylarında kızarmaya başladığında toplanır; taze ya da kurutularak tüketilir.
+@govde
+Hünnap yetiştirme, az suyla, az bakımla ve neredeyse hiç ilaç kullanmadan meyve almak isteyen bahçe sahipleri için mükemmel bir seçenektir. Anadolu'da bazı yörelerde çiğde ya da çiçe olarak da bilinen hünnap (Ziziphus jujuba), binlerce yıldır Asya'da ve Akdeniz çevresinde yetiştirilen, ama son yıllarda neredeyse unutulmuş bir meyvedir. Kurakçıl iklimlere uyumu sayesinde, iklim değişikliğiyle birlikte yeniden ilgi görmeye başladı. Elma ile hurma arasında bir tada sahip olan meyveleri taze yenildiğinde gevrek ve tatlı, kurutulduğunda ise yumuşak ve bal gibidir. Bu yazıda hünnap ağacını nasıl dikeceğinizi, bakımını ve hasadını anlatıyoruz.
+
+## Hünnap ağacını tanıyalım
+
+Hünnap, boyu genellikle 5-8 metreye ulaşan, dalları zikzak şeklinde büyüyen ve çoğu çeşitte dikenli olan, yaprağını döken bir ağaçtır. Parlak yeşil yaprakları ve ilkbahar sonunda açan küçük, sarımsı-yeşil, hoş kokulu çiçekleri vardır. Çiçekler arılar için değerli bir besin kaynağıdır. Ağaç oldukça uzun ömürlüdür; iyi koşullarda yüz yıldan fazla yaşayabilir.
+
+Hünnabın en dikkat çekici özelliği dayanıklılığıdır. Yazın 40 °C'yi aşan sıcaklıklara, kışın ise -20 °C'ye varan soğuklara dayanabilir. Kuraklığa son derece dayanıklıdır ve toprak seçmez. Geç uyandığı için ilkbahar donlarından da nadiren zarar görür. Bu özellikler onu [kuraklığa dayanıklı bahçe](/kurakliga-dayanikli-bahce) tasarımları için ideal bir meyve ağacı yapar.
+
+## Hünnap yetiştirmeye uygun iklim ve yer
+
+Hünnap güneşi çok sever. Bol meyve için tam güneş alan, açık bir yer seçin. Yarı gölgede yaşar ama meyve verimi düşer. Sıcak ve uzun yazlar meyvelerin tatlanması için önemlidir; bu nedenle Ege, Akdeniz, Güneydoğu Anadolu ve İç Anadolu'nun sıcak bölgeleri hünnap için çok uygundur. Serin ve yağışlı bölgelerde de yetişir, ancak meyveler daha az tatlı olabilir.
+
+## Toprak
+
+Hünnap toprak konusunda son derece hoşgörülüdür. Kumlu, tınlı, hatta kireçli ve hafif tuzlu topraklarda bile yetişebilir. Tek gerçek isteği suyun birikmemesidir; sürekli ıslak kalan ağır topraklarda kökleri zarar görür. Ağır killi bir toprağınız varsa dikim yerini iyi hazırlayın, toprağı organik maddeyle zenginleştirin ve gerekirse hafif yükseltilmiş bir tümsek üzerine dikin. Kireçli topraklarda yetişebilen diğer bitkileri merak ediyorsanız [kireçli toprakta yetişen bitkiler](/kirecli-toprakta-yetisen-bitkiler) yazımıza göz atabilirsiniz.
+
+## Fidan seçimi ve dikim
+
+Tohumdan yetişen hünnap ağaçları geç meyve verir ve meyve kalitesi değişken olabilir. Bu yüzden aşılı ya da kök sürgününden üretilmiş, adı bilinen bir çeşidin fidanını tercih edin. Aşılı fidanlar genellikle dikimden sonraki iki üç yıl içinde meyve vermeye başlar.
+
+Dikim için en uygun zaman, ağacın yapraksız olduğu kış dinlenme dönemidir; toprağın donmadığı aralık, ocak ve şubat günleri uygundur. Kök sisteminin iki katı genişliğinde, 50-60 santimetre derinliğinde bir çukur açın. Çıkan toprağı bir miktar olgun kompost ya da organik toprakla karıştırın. Fidanı fidanlıktaki seviyesinde dikin, aşı noktasının toprak üstünde kalmasına dikkat edin. Toprağı bastırıp bol su verin. Fidan çukurunun hazırlanması hakkında ayrıntılı bilgi için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazımızı okuyabilirsiniz.
+
+[ürün:organik-toprak]
+
+## Sulama
+
+Genç hünnap fidanlarını ilk iki yıl, özellikle yaz aylarında düzenli olarak derin sulayın. Kök sistemi derinleştikten sonra ağaç kuraklığa çok dayanıklı hale gelir ve yağışların yeterli olduğu bölgelerde ek sulama gerektirmeyebilir. Bununla birlikte, meyve büyüme döneminde yapılacak birkaç derin sulama meyvelerin daha iri ve sulu olmasını sağlar. Meyveler olgunlaşırken aşırı ve ani sulama ise meyve çatlamasına yol açabilir.
+
+## Besleme
+
+Hünnap fazla gübre istemeyen bir ağaçtır. Her yıl kış sonunda ağacın taç izdüşümüne bir miktar solucan gübresi ya da yanmış ahır gübresi serpip toprağa hafifçe karıştırmak yeterlidir. Aşırı azotlu gübre, ağacın meyve yerine uzun ve yumuşak sürgünler üretmesine neden olur.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Budama ve kök sürgünleri
+
+Hünnap ağacının budama ihtiyacı azdır. Kış dinlenmesinde kurumuş, hastalıklı, birbirine sürtünen ve tacın içine doğru büyüyen dallar çıkarılır. Tacın ortasını açık tutmak ışığın içeri girmesini ve meyvelerin daha iyi renklenmesini sağlar. Hünnabın meyvelerini her yıl dökülen kısa, yeşil sürgünlerde verdiğini unutmayın; bu yüzden aşırı budama verimi düşürmez ama ağacın şeklini bozabilir.
+
+Hünnabın bilinen bir huyu da kök sürgünü vermesidir. Ağacın çevresinde topraktan çıkan bu sürgünler düzenli olarak dipten kesilmelidir; aksi halde zamanla bir çalılık oluşturabilirler. Aşılı ağaçlarda kök sürgünleri anaçtan geldiği için ana çeşidin meyvesini vermez. Dikenli dallarla çalışırken kalın eldiven kullanmayı unutmayın. Kış budamasının genel ilkeleri için [kış budaması](/kis-budamasi) yazımıza göz atabilirsiniz.
+
+## Hasat ve saklama
+
+Hünnap meyveleri genellikle eylül ve ekim aylarında olgunlaşır. Meyveler önce yeşilden sarımsı-beyaza döner, ardından kırmızı-kahverengi lekeler belirir. Taze tüketim için meyveler yarı yarıya kızardığında, gevrek ve tatlıyken toplanır. Kurutmak için ise meyvelerin tamamen kızarıp hafifçe buruşmaya başlaması beklenir. Hünnap meyveleri dalda aynı anda olgunlaşmaz; hasat birkaç hafta boyunca, birkaç seferde yapılır.
+
+Taze hünnaplar buzdolabında bir iki hafta dayanır. Kurutulmuş hünnaplar ise kuru ve serin bir yerde aylarca saklanabilir. Kurutma için meyveler güneşte ya da havadar bir gölgede birkaç hafta bekletilir. Kurutulmuş hünnap çay, hoşaf ve tatlılarda kullanılabilir.
+
+## Hünnap yetiştirmede sabır ve ödül
+
+Hünnap yetiştirme yavaş başlayan ama yıllar geçtikçe daha cömert hale gelen bir uğraştır. Fidan ilk yıllarda çoğu zaman yerin altında, köklerini derinlere göndermekle meşguldür; bu dönemde üst kısımdaki büyüme yavaş görünebilir. Ağaç yerleştikten sonra ise her yıl daha fazla meyve vermeye başlar ve on yaşına geldiğinde bir ağaçtan onlarca kilogram meyve almak mümkündür. Hastalık ve zararlılara karşı doğal direnci sayesinde çoğu bahçede ilaçlama gerektirmez. Bu yüzden hünnap, hem bahçesini yeni kuranlar hem de sulama imkânı kısıtlı yazlık ve bağ evleri için uzun vadeli, akıllıca bir yatırımdır.
+
+## Saksıda hünnap
+
+Hünnap büyük bir saksıda da yetiştirilebilir. En az 60-80 litrelik, ağır ve sağlam bir saksı seçin. Süzek bir toprak kullanın ve ağacı budayarak küçük tutun. Saksıdaki hünnap, bahçedekine göre daha sık sulama ister ve kışın saksı köklerini soğuktan korumak için korunaklı bir köşeye alınmalıdır.
+
+@sss
+S: Hünnap kaç yılda meyve verir?
+C: Aşılı fidanlar genellikle dikimden sonra iki üç yıl içinde meyve vermeye başlar. Tohumdan yetişen ağaçlar ise beş yıl ya da daha uzun süre bekletebilir.
+
+S: Hünnap ağacı tek başına meyve verir mi?
+C: Birçok çeşit kendine verimlidir ve tek başına meyve verebilir. Ancak yakında farklı bir hünnap çeşidi bulunması, tozlaşmayı ve verimi genellikle artırır.
+
+S: Hünnap ile iğde aynı meyve mi?
+C: Hayır. İğde farklı bir aileden, gümüşi yapraklı, unlu ve tatlı meyveli bir ağaçtır. Hünnap ise parlak yeşil yapraklı, elmayı andıran gevrek meyveler veren bir ağaçtır.
+
+### YAZI
+slug: leylak-bakimi
+baslik: Leylak Bakımı: Baharın En Güzel Kokusunu Her Yıl Bahçenize Getirin
+yayin: 2026-12-12 20:20
+yazar: Ahmet Sacit Çelik
+kategori: cicekler
+odak: leylak bakımı
+seo_baslik: Leylak Bakımı: Dikim, Budama ve Bol Çiçek İçin İpuçları
+seo_aciklama: Leylak bakımı nasıl yapılır? Yer ve toprak seçimi, dikim, sulama, besleme, çiçek sonrası budama, kök sürgünleri ve yaşlı leylağı gençleştirme.
+ozet: Mayıs akşamlarında bütün sokağı saran leylak kokusu, birçoğumuz için çocukluk anılarının bir parçasıdır. Doğru yer, doğru budama zamanı ve biraz sabırla leylak her yıl bol çiçek açar. Leylak bakımının inceliklerini anlatıyoruz.
+etiketler: leylak bakımı, leylak, syringa, çiçekli çalılar, budama
+gorsel: p10-leylak
+gorsel_alt: Bahçede yeşil yapraklar arasında açmış mor leylak salkımları
+urunler: budama-makasi, hasturk-kati-solucan-gubresi, organik-toprak
+kisaca: Leylak güneşli bir yer, süzek ve hafif kireçli ile nötr arası bir toprak ister. Kış dinlenmesinde dikilir, yerleştikten sonra az sulamayla yetinir. En önemli kural budama zamanıdır: leylak çiçek tomurcuklarını yazdan oluşturduğu için budama, çiçekler solduktan hemen sonra yapılmalıdır. Kışın yapılan budama ertesi baharın çiçeklerini yok eder.
+@govde
+Leylak bakımı, bahçesinde bu kokulu çalıyı yetiştiren ya da yetiştirmek isteyen herkesin bilmesi gereken birkaç basit ama önemli kurala dayanır. Leylak (Syringa vulgaris), Balkanlar kökenli, soğuğa son derece dayanıklı, onlarca yıl yaşayabilen bir çalıdır. Mayıs ayında açan mor, lila, beyaz ya da pembe çiçek salkımları hem bahçeyi süsler hem de etrafı nefis bir kokuyla doldurur. Kesme çiçek olarak vazoda da çok sevilir. Leylak bakımı zor değildir; ancak budama zamanında yapılan bir hata, bir yıllık çiçeği kaybetmeye yeter. Bu yazıda leylağı nereye dikeceğinizi, nasıl besleyeceğinizi ve en önemlisi ne zaman budayacağınızı anlatıyoruz.
+
+## Yer seçimi
+
+Leylak güneşi sever. Bol çiçek için günde en az altı saat doğrudan güneş alan bir yer seçin. Gölgede kalan leylak yaprak üretir, ama çok az çiçek açar. Hava dolaşımının iyi olduğu açık bir yer, yapraklarda külleme hastalığının görülmesini de azaltır. Leylak zamanla 2-4 metre boya ve benzer bir genişliğe ulaşabilir; dikerken bu büyüklüğü hesaba katın ve duvarlara, diğer ağaçlara çok yakın dikmeyin.
+
+Leylak soğuk kışları sever; çiçek tomurcuklarının oluşması için kışın belirli bir süre soğuklamaya ihtiyaç duyar. Bu yüzden İç Anadolu, Doğu Anadolu ve Karadeniz'in iç kesimleri gibi kışı soğuk geçen bölgelerde çok iyi gelişir. Çok ılık kışlı sahil bölgelerinde çiçeklenme zayıf kalabilir.
+
+## Toprak
+
+Leylak süzek, verimli ve nötr ile hafif kireçli arasındaki topraklarda en iyi gelişir. Anadolu'nun kireçli toprakları leylak için genellikle uygundur. Suyun biriktiği ağır topraklarda kökleri çürüyebilir; böyle bir toprakta dikim yerini organik maddeyle zenginleştirip drenajı iyileştirin. Çok asidik topraklarda ise leylak zayıf gelişir.
+
+## Dikim
+
+Leylak dikimi için en uygun zaman, bitkinin yapraksız olduğu sonbahar sonu ve kış dönemidir; toprağın donmadığı günlerde aralıkta da dikim yapılabilir. Kök topunun iki katı genişliğinde ve biraz daha derin bir çukur açın. Çıkan toprağı bir miktar olgun kompost ya da organik toprakla karıştırın. Fidanı saksıdaki ya da fidanlıktaki seviyesinde dikin, toprağı bastırın ve bol su verin. Birden fazla leylak dikecekseniz aralarında en az 1,5-2 metre mesafe bırakın. Çit olarak kullanmak isterseniz [çit bitkileri](/cit-bitkileri) yazımızda farklı seçenekleri bulabilirsiniz.
+
+[ürün:organik-toprak]
+
+## Leylak bakımında sulama ve besleme
+
+Yeni dikilen leylağı ilk iki yıl, kurak dönemlerde düzenli olarak derin sulayın. Yerleşmiş leylak ise kuraklığa oldukça dayanıklıdır; yalnızca uzun süren kuraklıklarda haftada bir derin sulama yeterlidir. Kökleri su içinde kalmaktan hoşlanmaz.
+
+Leylak bakımı açısından besleme konusu basittir: az, çoktan iyidir. Kış sonunda bitkinin çevresine ince bir kat solucan gübresi ya da olgun kompost serpmek yeterlidir. Fazla azotlu gübre, bol yaprak ve uzun sürgünler ama az çiçek demektir. Çimlerin hemen yanına dikilmiş leylaklar, çime verilen azotlu gübreden etkilenebilir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## En önemli kural: Doğru zamanda budama
+
+Leylak, gelecek baharın çiçek tomurcuklarını bu yılın yazında, çiçeklenmeden hemen sonra oluşturmaya başlar. Bu tomurcuklar sonbaharda ve kışın dalların ucunda, iri ve tombul olarak görülebilir. Bu yüzden leylak, çiçekler solduktan hemen sonra, haziran başında budanmalıdır. Kışın ya da erken ilkbaharda yapılan budama, ertesi baharın çiçeklerini keser.
+
+**Solan çiçekleri temizleme:** Çiçek salkımları solduğunda, salkımın hemen altındaki ilk yaprak çiftinin üzerinden kesin. Bu, bitkinin tohum yapmak için enerji harcamasını önler ve daha düzgün bir görünüm sağlar.
+
+**Yıllık seyreltme budaması:** Çiçeklenmeden sonra en yaşlı ve kalın dalların birkaçını dipten kesin. Böylece çalı her yıl genç ve çiçek veren dallarla yenilenir. Ayrıca kurumuş, hastalıklı ve birbirine sürtünen dalları da çıkarın.
+
+**Kök sürgünleri:** Leylak, dibinden ve çevresinden çok sayıda sürgün verir. İstediğiniz birkaç güçlü sürgünü yeni ana dal olarak bırakıp diğerlerini toprak seviyesinden kesin. Aşılı leylaklarda anaçtan gelen sürgünleri mutlaka kesin.
+
+Temiz ve keskin bir makas, dalları ezmeden düzgün kesim yapmanızı sağlar. Makas seçimi için [budama makası seçimi](/budama-makasi-secimi) yazımıza göz atabilirsiniz.
+
+## Yaşlı leylağı gençleştirme
+
+Yıllarca budanmamış, uzun, çıplak gövdeli ve çiçekleri yalnızca tepede açan yaşlı bir leylağı gençleştirmek mümkündür. En güvenli yol, üç yıla yayılan bir gençleştirme budamasıdır: her yıl, çiçeklenmeden sonra en yaşlı dalların üçte birini toprak seviyesinden kesin. Üç yılın sonunda çalı tamamen yeni, genç dallardan oluşur. Bu süreçte bitki bir iki yıl az çiçek açabilir, ancak ardından eskisinden çok daha gür ve çiçekli olur.
+
+## Leylak neden çiçek açmaz?
+
+- **Yanlış zamanda budama:** Kışın ya da ilkbaharda yapılan budama tomurcukları keser.
+- **Yetersiz güneş:** Gölgede kalan leylak az çiçek açar.
+- **Genç bitki:** Yeni dikilen leylaklar ilk birkaç yıl az çiçek verebilir.
+- **Fazla azot:** Bol yaprak, az çiçek.
+- **Ilık kış:** Yeterli soğuklama olmazsa tomurcuklar gelişmez.
+- **Kuraklık:** Yaz sonunda, tomurcuk oluşumu sırasında aşırı susuzluk.
+
+## Leylak bahçede ve vazoda
+
+Leylak yalnızca güzel görünmekle kalmaz, bahçenin canlılarına da katkı sağlar. Bahar başında açan kokulu salkımları arıları ve kelebekleri bahçeye çeker; bu yüzden polinatör dostu bir bahçe kurmak isteyenler için iyi bir seçimdir. Bu konuda daha fazla fikir için [arı dostu bitkiler](/ari-dostu-bitkiler) yazımıza göz atabilirsiniz.
+
+Leylak dallarını vazo için keserken sabahın serin saatlerini tercih edin ve salkımların yarısı açmışken kesin. Kesilen dalın alt yapraklarını temizleyin ve sapın ucunu birkaç santimetre dikey olarak yarın; bu, odunsu sapın su almasını kolaylaştırır. Dalları hemen serin suya koyun. Vazoda daha uzun dayanmaları için suyu her gün tazelemek iyi olur.
+
+## Sık görülen sorunlar
+
+**Külleme:** Yaz sonunda yapraklarda beyaz, unlu bir tabaka görülebilir. Genellikle bitkiye ciddi zarar vermez; hava dolaşımını artıran seyreltme budaması en iyi önlemdir.
+
+**Kabuklu bit:** Dallarda küçük, kabuk benzeri kabarcıklar şeklinde görülür. Yoğun durumlarda müşteri hizmetlerimize danışın.
+
+@sss
+S: Leylak ne zaman budanır?
+C: Çiçekler solduktan hemen sonra, genellikle mayıs sonu ya da haziran başında budanır. Kışın ya da ilkbaharda budama yapılırsa ertesi yılın çiçek tomurcukları kesilir.
+
+S: Leylak saksıda yetiştirilir mi?
+C: Bodur çeşitler büyük bir saksıda yetiştirilebilir. Saksıdaki leylak daha sık sulama ister ve kışın soğuklamaya ihtiyaç duyduğu için dışarıda, korunaklı bir köşede kalmalıdır.
+
+S: Leylak kokusu neden azaldı?
+C: Bazı çeşitler doğal olarak daha az kokuludur. Bitki yaşlandıkça ve gölgede kaldıkça çiçek sayısı ve kokusu azalabilir. Gençleştirme budaması ve güneşli bir yer çoğu zaman yardımcı olur.
+
+### SORU
+yayin: 2026-12-12 10:40
+kategori: sebze-meyve
+baslik: Saksıdaki mandalinamın meyveleri aralık geldi hâlâ yeşil, kışın sararıp tatlanır mı?
+metin: Balkonda büyük bir saksıda iki yıllık bir mandalina ağacım var. Bu yıl ilk kez on beş kadar meyve verdi ama aralık ortası olmasına rağmen meyvelerin çoğu hâlâ yeşil. Toplamalı mıyım, yoksa dalda beklesin mi? Kışın balkonda kalabilir mi?
+@cevap Ahmet Sacit Çelik | 3
+Mandalinada meyvenin rengi ile olgunluğu her zaman aynı anda ilerlemez. Kabuğun turuncuya dönmesi için gecelerin serinlemesi gerekir; sıcak bir balkonda ya da ılık bir sonbaharın ardından meyve iç olarak olgunlaşmış olsa bile kabuk yeşil kalabilir. Bu yüzden rengi değil tadı ölçü alın: bir meyveyi koparıp tadına bakın. Tatlıysa diğerleri de büyük olasılıkla yenmeye hazırdır, ekşiyse birkaç hafta daha dalda bekletin; meyve dalda tatlanmaya devam eder, koparıldıktan sonra ise tatlanmaz. Saksıdaki genç bir ağaç için on beş meyve oldukça iyi bir yüktür, ama ağacı yormaması için hasadı ocak ayını geçirmemekte fayda var. Kış konusunda ise mandalina hafif soğuklara dayanır ama saksıdaki kökler bahçedeki kadar korunaklı değildir. Gece sıcaklıkları sıfırın altına inmeye başladığında ağacı rüzgâr almayan, aydınlık bir köşeye çekin ya da serin ama donmayan, aydınlık bir iç mekâna alın. Kışın sulamayı azaltın, toprak üstten kuruduğunda sulayın ve bu dönemde gübre vermeyin; beslemeye kış sonunda yeniden başlayabilirsiniz.

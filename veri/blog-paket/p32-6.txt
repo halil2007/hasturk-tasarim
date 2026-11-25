@@ -1,0 +1,329 @@
+### YAZI
+slug: hugelkultur-nedir-odun-dolgulu-yatak-yontemi
+baslik: Hügelkultur Nedir? Odun Dolgulu Yatak Yöntemi
+yayin: 2027-04-06 09:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: hügelkultur nedir
+seo_baslik: Hügelkultur Nedir? Odun Dolgulu Yatak Nasıl Kurulur?
+seo_aciklama: Hügelkultur nedir? Çürüyen odun ve dalların üzerine kurulan höyük yatağın nasıl çalıştığı, azot kaybı ve çökme sorunları, kurulum adımları ve uygun bitkiler.
+ozet: Hügelkultur, kütük ve dalların toprak altına gömülüp üzerine yatak kurulduğu bir yöntemdir. Odunun nem tuttuğunu ve yavaş yavaş beslediğini, azot kaybı ve çökme gibi sorunları, adım adım kurulumu ve hangi bitkilerin uyduğunu anlattık.
+etiketler: hügelkultur, odun dolgulu yatak, höyük yatak, kompost yatak, kütük yatak, organik yatak
+gorsel: bekliyor
+gorsel_alt: Bahçede kütük ve dalların üzerine toprak yığılarak kurulmuş yuvarlak höyük sebze yatağı
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, moduler-yukseltilmis-bahce-yatagi-545-litre
+kisaca: Hügelkultur (Almanca "höyük kültürü"), toprağa serilen kütük ve dalların üstüne yığılan toprak ve kompostla yapılan yükseltilmiş yatak yöntemidir. Çürüyen odun nem tutar ve yıllar içinde yavaşça besin verir. Azotu geçici olarak bağlaması ve zamanla çökmesi sorunlarını azaltmak için ince odun, kompost ve ilk yıl baklagil kullanın.
+@govde
+Hügelkultur adı Almanca'da "höyük kültürü" demektir. Fikir basittir: Bahçede yığılı kalan kütük, dal ve budama atığını yakmak ya da atmak yerine toprağa gömersiniz, üstüne kompost ve toprak yığarsınız, yeni bir yükseltilmiş yatak oluşur. Çürüyen odun bir sünger gibi su tutar, yıllar içinde ayrışırken besin bırakır. Peki hügelkultur nedir ve her bahçede çalışır mı? Cevap kısmen evet; ama kuru iklimlerde fayda sağlayan bu yöntem azot kaybı ve çökme gibi sorunları da beraberinde getirir. Aşağıda hem faydaları hem de sınırları ve kurulum adımlarını anlatıyoruz.
+
+## Hügelkultur nedir ve nasıl çalışır?
+
+Hügelkultur yatağının içinde katmanlar vardır: en altta kalın kütükler, onların üstünde dallar ve ince odun, sonra ot ve yaprak gibi yeşil malzeme, en üstte kompost ve toprak. Oklahoma State University'nin yayım servisi, bu höyüğü yüzey akıntısını yakalayabildiği bir yere kurulduğunda az sulama gerektiren, kendi kendini sulayan bir yatak olarak tanımlıyor; odunsu malzeme ayrıştıkça besin açısından zengin bir ortam oluşturduğunu da ekliyor ([Oklahoma State Extension, hügelkultur](https://extension.okstate.edu/fact-sheets/sustainable-landscapes-creating-a-hugelkultur-for-gardening-with-stormwater-management-benefits)).
+
+Odunun yaptığı iş iki şeydir. Birincisi nemi tutmak: Çürüyen odun suyu bünyesine çeker, kurak dönemde yavaş yavaş bırakır. İkincisi besin döngüsü: odun ayrışırken (mantar ve bakteri aracılığıyla) organik madde ve besin açığa çıkar. Bu yüzden hügelkultur, ilk yıllarda iyi bir toprak yapısı sağlayabilir.
+
+## Faydaları ve sınırları
+
+| Konu | Fayda | Sınır |
+|---|---|---|
+| Su | Odun suyu tutar, kurakta bırakır | Eğim ve yağış düzeninde etkisi değişir; kurak mevsimde de sulama gerekir |
+| Toprak hacmi | Alt kısım dolgu olduğundan satın alınan toprak azalır | Odun bulmak ve taşımak zahmetlidir |
+| Besin | Yıllar içinde yavaş yavaş besin verir | İlk yıllarda odun azotu bağlar |
+| Çökme | Toprak katmanı süngerimsi kalır | Odun çürüdükçe yatak çöker; her yıl üstten tamamlama gerekir |
+| Kuruluş | Bahçe atığını değerlendirir | Büyük höyük, 2–3 mevsimde oturur |
+
+Oklahoma State, odunun azotu geçici olarak bağlayabileceğini ve bu azotun bitkilere ulaşamayacağını, organik madde ayrıştıkça toprak seviyesinin çökeceğini ve ilk yıllar yatağın üstünün ek toprak ya da kompostla tamamlanması gerektiğini belirtiyor. Oregon State University de aşırı odunsu malzemenin ayrışırken topraktaki azotu çalabileceğini yazıyor ([Oregon State Extension, bahçe topraklarını organik maddeyle iyileştirmek](https://extension.oregonstate.edu/catalog/ec-1561-improving-garden-soils-organic-matter)).
+
+## Kullanacağınız odun: ne uygun, ne değil?
+
+Her odun işe yaramaz. İyi çürüyen yumuşak ve yarı çürük odunlar (kavak, söğüt, elma, kiraz gibi meyve ağaçları, ıhlamur) tercih edilir. Reçineli ağaçlar (çam, ardıç, servi) ve kokulu, çürümesi yavaş ağaçlar (ceviz, akasya, meşe kısmen) zayıf adaylardır; ceviz bazı bitkilere zarar veren madde bırakır. Boyalı, vernikli, emprenye edilmiş ya da kimyasal işlem görmüş odun gömülmez.
+
+Ayrıştırma açısından ince dallar kalın kütüklerden hızlı çürür; hızlı çürüyen malzeme ilk yıllarda daha çok azot bağlar ama yatağı daha çabuk oturtur. Kalın kütük yıllarca nem deposu olarak kalır. Dolgu için çeşitli kalınlıkta odunu karıştırmak dengeli bir sonuç verir.
+
+## Hügelkultur nedir sorusunun pratik tarafı: adım adım kurulum
+
+::: adimlar
+Yeri seçin | Güneş alan, su toplanmayan bir yer; yatağın uzun ekseni eğime dik olsun ki yüzey akıntısı yakalansın.
+Çimi kaldırın ya da hendek açın | Çimi dilimleyip ters çevirin; isterseniz 30–40 cm derinliğinde hendek kazın.
+Kütükleri serin | En alta kalın kütükleri dizin, aralarındaki boşluğu ince dallarla doldurun.
+Yeşil malzeme ekleyin | Yaprak, ot ve yeşil budama artığıyla boşlukları kapatın; bu katman azot sağlar.
+Kompost ve toprak yığın | En üste 15–30 cm kompost ve toprak karışımı koyun; yatağı hafif bombeli şekillendirin.
+Sulayın ve malçlayın | Bol su verin, üstü saman ya da yaprakla örtün; toprak hemen oturacak ve çökecek.
+:::
+
+Yatağın yüksekliği iki üç mevsimde belirgin biçimde azalır. Bu yüzden ilk yıl yüksek kurmak (60–100 cm) gerçekçidir. Aynı mantıkla kazmadan yatak yapan yöntemler için [katmanlı bahçe yatağı](/katmanli-bahce-yatagi) yazısına bakabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi,leonardit-organik-toprak-duzenleyici]
+
+## Azot kaybını nasıl azaltırsınız?
+
+Utah State University, odunsu organik madde kullanan yataklarda ek azot gerektiğini ve miktarın eklenen odunun kalınlığına göre ayarlanabileceğini bildiriyor ([Utah State Extension, yükseltilmiş yatak bahçeciliği](https://extension.usu.edu/yardandgarden/research/raised-bed-gardening)). Pratik olarak üç yol var:
+
+1. **Yeşil malzeme katmanı:** Odunun üstüne yeşil ot ve yaprak koyun; içindeki azot ayrışmaya yardımcı olur.
+2. **Ek besleme:** İlk yıl sebze dikmeden önce azotça zengin organik gübre (solucan gübresi, olgun kompost) serpin.
+3. **Baklagil ve azot toplayıcılar:** Oklahoma State, ilk sezonlarda baklagil (fasulye, bezelye, bakla) ekmeyi öneriyor; bu bitkiler kendi azotlarını bağlar.
+
+İlk yıl yüksek besin isteyen domates, kabak, mısır yerine baklagil ve yeşillik ağırlıklı ekim planlayın. İkinci ve üçüncü yıl yatak oturunca ağır besleyiciler de yetişir. Mevsimlik takvim için [yeşil gübreleme](/yesil-gubreleme) yazısı baklagil kullanımını anlatıyor.
+
+## Hangi bitkiler uygun?
+
+İlk yıl: Fasulye, bezelye, bakla, marul, ıspanak, turp ve otlar. Odunun üzerinde kök sebzeleri (havuç, pancar) çatallanabilir; dolgu üstünde yeterli toprak yoksa yetiştirmeyin. İkinci yıldan sonra kabak, salatalık, domates ve biber denenebilir; bunlar derin köklüdür ve oturmuş yatağın nemini kullanır.
+
+Yatak yüksekse üst kısım ve güney yüzü sıcak, kuzey yüzü serin ve nemlidir; bitkileri bu mikroklimaya göre yerleştirmek mümkün. Güney yüzüne sıcak sevenleri, kuzey yüzüne yapraklı sebzeleri koyun.
+
+## Hazır yatakla karşılaştırma
+
+Hügelkultur doğal malzemeyle çalışır ama yüksek ve kalıcı bir yapı değildir; her yıl bakım ister. Hazır modüler yükseltilmiş yatakların ürün bilgilerine göre yükseklikleri 30 cm'dir; bu derinlikte odun dolgusu yapılmaz, çünkü hem hacim yetmez hem de odun yatağın içinde ayrışıp çöker. Plastik yatakta toprak karışımını kendiniz hazırlarsınız. Hangi yöntemi seçeceğinize karar vermek için yatak türlerini karşılaştıran [bahçe yatağı malzemesi](/bahce-yatagi-malzemesi) yazısına ve genel kurulum için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazısına bakabilirsiniz.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-545-litre]
+
+## Ne zaman uygun değil?
+
+Çok kuru, çok eğimli ya da hızlı akan su olan arazide höyük erozyon yapar. Fare ve kemirgen barınağı olma riski vardır; özellikle taze odun ve yeşil artıkta. Küçük bir balkon ya da terasa uygun değildir. Apartman bahçelerinde estetik beklenti varsa höyük sıkıntı yaratabilir. Odun bulmak zorsa kompost yatağı ya da hazır yatak daha pratik olur.
+
+## Sık yapılan hatalar
+
+- Hızlı çürümeyen ya da reçineli odun kullanmak.
+- Yeşil katman koymayıp yalnızca odunla doldurmak.
+- Yatağı çok alçak kurmak: Çökünce kaybolur.
+- İlk yıl ağır besleyici sebze dikmek.
+- Çökmeyi hesaba katıp her yıl üstten toprak eklemeyi unutmak.
+@sss
+S: Hügelkultur nedir?
+C: Kütük, dal ve budama atığının toprağa gömülüp üstüne kompost ve toprak yığılmasıyla yapılan yükseltilmiş yatak yöntemidir. Çürüyen odun nemi tutar ve yıllar içinde yavaş yavaş besin bırakır.
+
+S: Hügelkultur yatağı ne kadar sürede çöker?
+C: Odun ayrıştıkça yatak ilk iki üç mevsimde belirgin biçimde çöker. Bu yüzden başta yüksek kurulur ve her yıl üstten kompost ya da toprak eklenir. Kalın kütükler yıllarca dayanır.
+
+S: Hügelkultur'da hangi odun kullanılmalı?
+C: Çabuk çürüyen ve zararsız odunlar uygundur: kavak, söğüt, meyve ağaçları gibi. Reçineli ağaçlar (çam, ardıç), ceviz ve boyalı, vernikli ya da emprenye edilmiş odun kullanılmaz.
+
+S: Hügelkültür ilk yıl neden azot eksikliği yapar?
+C: Odun ayrışırken mikroorganizmalar topraktaki azotu kullanır ve bitkiye geçici olarak ulaşmaz. Yeşil malzeme, solucan gübresi ya da kompost eklemek ve ilk yıl baklagil ekmek sorunu azaltır.
+
+### YAZI
+slug: toprak-nem-sensoru-ile-akilli-sulama-ne-zaman-deger
+baslik: Toprak Nem Sensörü ile Akıllı Sulama: Ne Zaman Değer?
+yayin: 2027-04-06 11:35
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: toprak nem sensörü ile akıllı sulama
+seo_baslik: Toprak Nem Sensörü ile Akıllı Sulama: Ne Zaman Değer?
+seo_aciklama: Toprak nem sensörü ile akıllı sulama ne zaman işe yarar? Sensör türleri, eşik ayarı, saksıda ve bahçede kullanım, kalibrasyon ve zamanlayıcıya bağlama.
+ozet: Toprak nem sensörü, sulamayı saate göre değil toprağın gerçek nemine göre başlatır. Sensör türlerini, zamanlayıcıyla bağlantısını, eşik ayarını ve hangi bahçelerde işe yarayıp hangilerinde gereksiz kaldığını anlatıyoruz.
+etiketler: toprak nem sensörü, akıllı sulama, otomatik sulama, sulama zamanlayıcı, kapasitif sensör, su tasarrufu
+gorsel: bekliyor
+gorsel_alt: Sebze yatağı toprağına saplanmış ince toprak nem sensörü probu ve bağlı sulama vanası
+urunler: sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu, hg-bol-verimli-sebze-topragi
+kisaca: Toprak nem sensörü ile akıllı sulama, zamanlayıcı çalışmadan önce kök bölgesinin nemini ölçer ve toprak yeterince nemliyse sulamayı atlar. Düzenli bakım yapamayan, çok vanalı ya da kurak iklimde yaşayanlar için işe yarar; küçük bir balkonda elle yoklamak çoğu zaman yeterlidir. Eşik ayarı ve kalibrasyon şarttır.
+@govde
+Zamanlayıcı her gün aynı saatte sulama yapar; yağmur yağmışsa da, hava serinlemişse de. Toprak nem sensörü bu körlüğü giderir: Probu toprağa sokarsınız, sulama zamanı geldiğinde toprak zaten nemliyse sistem sulamayı atlar. Toprak nem sensörü ile akıllı sulama kulağa gelişmiş bir yöntem gibi gelir, ama her bahçede kendini ödemez. Aşağıda sensörün nasıl çalıştığını, tiplerini, hangi bahçede değer katacağını ve kurulumda nelere dikkat edeceğinizi anlatıyoruz. Sensörün ölçüm tarafını anlatan [toprak nem ölçer](/toprak-nem-olcer) ve genel dijital tarım araçlarını tanıtan [akıllı tarım](/akilli-tarim) yazıları da bu yazının tamamlayıcısıdır.
+
+## Toprak nem sensörü ile akıllı sulama nasıl çalışır?
+
+Sensör toprağa gömülen bir prob ve ona bağlı bir denetleyiciden oluşur. Denetleyici, toprak neminin ayarlanan eşik değerin altına düştüğünü görürse sulamaya izin verir; üstündeyse atlar. Oklahoma State University'nin akıllı sulama yayını, sensörlü sistemlerin kök bölgesinin nemini programlı sulamadan önce kontrol ettiğini ve nem ayarlı değerin üzerindeyse o sulama turunu atladığını anlatıyor ([Oklahoma State Extension, akıllı sulama teknolojisi](https://extension.okstate.edu/fact-sheets/smart-irrigation-technology-controllers-and-sensors)). İki çalışma tarzı var:
+
+- **Atlama (bypass) türü:** Mevcut zamanlayıcıya bağlanır, sulamayı yalnızca durdurur ya da serbest bırakır.
+- **Başlat-durdur türü:** Alt ve üst eşik tanımlanır; nem alt eşiğe düşünce sulama başlar, üst eşiğe çıkınca durur.
+
+Ev bahçesinde pratik ve ucuz olan, mevcut zamanlayıcıya bağlanan atlama türüdür.
+
+## Sensör türleri: ne ölçer, ne kadar güvenilir?
+
+| Tür | Nasıl ölçer? | Artı | Eksi |
+|---|---|---|---|
+| Dirençli (iki çubuklu ucuz prob) | Çubuklar arası elektrik direncini | Çok ucuz | Çubuklar paslanır, hızla bozulur, toprak tuzluluğundan etkilenir |
+| Kapasitif | Toprağın dielektrik özelliğini | Dayanıklı, kaplamalı prob | Kalibrasyon ister; kil ve tuz etkiler |
+| Gerilim (tensiyometre) | Toprağın suyu tutma gücünü | Bitkinin gerçek su stresine yakın | Bakım ister, genelde profesyonel kullanımda |
+| Hacimsel nem (TDR/FDR) | Su içeriğini yüzde olarak | Hassas | Pahalı |
+
+Oregon State University'nin toprak nemi izleme rehberi, kapasitans sensörlerinin yüksek tuzluluk, kil içeriği, sıcaklık ve yoğunluktan etkilendiğini ve doğrulukların kalibrasyona bağlı olduğunu belirtiyor ([Oregon State Extension, sulama programı için toprak nemi izleme](https://extension.oregonstate.edu/catalog/em-9868-soil-moisture-monitoring-support-irrigation-scheduling)). Yani sensörü kurup unutmak olmaz; toprağınızın gerçek halini bir elle yoklama ile karşılaştırarak ayar yapmak gerekir.
+
+## Su tasarrufu gerçekten ne kadar?
+
+Rakamlar çoğunlukla Florida saha çalışmalarından geliyor. Oklahoma State, sensörlü sulama denetleyicilerinin ev sahibi programına göre ortalama büyük oranda su tasarrufu sağladığını, kuraklıkta bile belirgin bir azalma olduğunu aktarıyor; UF/IFAS ise kuru havada yaklaşık yüzde 35–54 aralığında tasarruf bildiriyor ([UF/IFAS, akıllı sulama denetleyicileri](https://ask.ifas.ufl.edu/publication/ae442)). Bu çalışmalar eski, çim ve peyzaj sulamasına dayanıyor; ev sebze bahçesi için birebir geçerli değildir. Yağışlı bölgelerde ve düzensiz hava durumunda tasarruf yüksek, her gün aynı sıcaklığın olduğu kurak bölgede daha düşüktür.
+
+## Ne zaman değer?
+
+Aşağıdaki durumlarda sensör anlamlı bir iyileştirme getirir:
+
+- **Çok vanalı ya da büyük bahçe:** Her bölgenin toprağı farklı hızda kurur; sensör bölgeyi ayrı yönetir.
+- **Düzenli takip edemeyen sahip:** Hafta sonu yazlıkta, sık seyahat edenler.
+- **Su kıtlığı ya da su maliyeti kaygısı:** Fazla sulamayı kesmek isteyenler.
+- **Yağış ve hava değişken bölgeler:** Zamanlayıcı yağmurdan sonra bile sulayabilir.
+
+Şu durumlarda gereksiz olabilir:
+
+- **Küçük balkon ya da birkaç saksı:** Parmakla yoklamak yeterli.
+- **Sebze bahçesi küçük ve her gün baktığınız yer:** Gözlem sensörden hızlıdır.
+- **Alt yapı eksik:** Zamanlayıcı yok, vana yok; önce otomasyon kurulmalı. Otomasyon için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısı altyapıyı anlatıyor.
+
+## Kurulum adımları
+
+::: adimlar
+Probun yerini seçin | Bitkinin kök bölgesinin ortasına, damlatıcıdan 10–15 cm uzağa ve kök derinliğinin yarısına yerleştirin.
+Toprakla iyi temas ettirin | Probun etrafında hava boşluğu kalmasın; sıkıştırıp sulayın.
+Eşik değerini belirleyin | Toprağı elle yoklayıp "sulama gerekli" ve "yeterli nemli" durumlarını ölçerek eşiği o noktalara göre ayarlayın.
+Zamanlayıcıya bağlayın | Atlama türü sensörü vana ya da zamanlayıcının sensör girişine bağlayın.
+Bir hafta izleyin | Elle yoklamayla karşılaştırın; sulamanın doğru zamanda atlanıp atlanmadığına bakın.
+Mevsim değişince ayarı gözden geçirin | Hava ısınınca eşiği yükseltmeniz gerekebilir.
+:::
+
+Prob yerleşimi önemlidir. Damlatıcının hemen yanına koyarsanız sulama sonrası yanlışlıkla her zaman ıslak okur; bitkiden uzağa koyarsanız her zaman kuru okur. Marul gibi sığ köklü bitkilerde probu sığ, domates gibi derin köklü bitkilerde orta derinlikte yerleştirin.
+
+[ürün:sgs-thermo-flex-1-2-20-metre-esnek-bahce-sulama-hortumu,hg-bol-verimli-sebze-topragi]
+
+## Eşik değeri nasıl belirlenir?
+
+Her toprağın tarla kapasitesi (suyu tutma gücü) farklıdır. Kum çabuk kurur, kil suyu uzun tutar. Eşik değeri toprağın türüne ve bitkiye göre ayarlanmalıdır. Pratik yöntem: Toprağı sulayıp iki üç gün bekleyin, bitki hafifçe solmadan önceki nemi okuyun; bu değer sulama başlama eşiğiniz olur. Üst eşik, sulamadan hemen sonra toprağın doymuş ama su akıtmayan haliyle belirlenir. Eşiği çok yüksek tutarsanız sürekli ıslak toprak, kök çürümesine yol açar.
+
+## Toprak nem sensörü ile akıllı sulama ve bitki çeşitleri
+
+Toprak nem sensörü ile akıllı sulama, bütün bitkilere aynı ayarla uygulanmaz. Marul ve ıspanak gibi sığ köklü yeşilliklerde eşiği yüksek tutarsınız; toprak neredeyse hiç kurumaz. Domates ve biberde sulama aralığı daha geniştir ve toprağın üst katı kuruyabilir. Lavanta, biberiye ve kekik gibi kuraklığa dayanıklı bitkiler ayrı bölgeye alınmalı, sensörün eşiği bu bölgede düşük ayarlanmalıdır. Aynı vanaya farklı su ihtiyaçlı bitkiler bağlıysa sensör yalnızca birini koruyabilir; bölgeleri su ihtiyacına göre ayırmak, otomasyonun işe yaraması için ilk şarttır.
+
+## Saksıda ve balkonda sensör
+
+Saksıda toprak hacmi küçük olduğundan sensör hızlı tepki verir. Ucuz dirençli problar saksıda birkaç hafta idare eder, ama ayarlama zordur. Balkonda bir iki saksı için otomasyon yerine saksı altı su haznesi ya da damlatıcılı basit zamanlayıcı yeterli olabilir. Tatilde uzak kalma durumlarında sensörlü sistem bir güvence sağlar; bu konuda seyahat planları için [tatilde bitkiler nasıl sulanır](/tatilde-bitkiler-nasil-sulanir) yazısı farklı yöntemleri sıralıyor.
+
+## Sık yapılan hatalar
+
+- Probu damlatıcıya çok yakın koymak.
+- Eşiği ayarlamadan fabrika değerini kullanmak.
+- Ucuz dirençli probu bir sezondan fazla çalıştırmayı beklemek.
+- Sensör takıp sulama düzenini bir daha kontrol etmemek.
+- Sensörü tek başına yeterli sanıp yağmur ve hava durumunu izlememek.
+@sss
+S: Toprak nem sensörü ile akıllı sulama ne işe yarar?
+C: Sulamayı saate göre değil toprağın gerçek nemine göre yapar. Toprak zaten nemliyse zamanlayıcının sulama turunu atlar; böylece fazla sulama ve su israfı azalır.
+
+S: Toprak nem sensörü her bahçede gerekli mi?
+C: Hayır. Küçük balkon ve birkaç saksıda parmakla yoklamak yeterlidir. Sensör, çok vanalı büyük bahçede, düzenli takip edemeyenlerde ve yağışı değişken yerlerde daha anlamlıdır.
+
+S: Ucuz toprak nem sensörleri güvenilir mi?
+C: Çubuklu dirençli problar paslanır ve kısa sürede bozulur; tuzluluktan etkilenir. Kapasitif problar daha dayanıklıdır ama kalibrasyon ister. Hangisini seçerseniz seçin elle yoklayarak doğrulayın.
+
+S: Sensörün eşik değerini nasıl ayarlarım?
+C: Toprağı sulayıp bir iki gün bekleyin; bitki solmadan önceki nem değerini okuyun ve bunu alt eşik yapın. Üst eşiği sulamadan hemen sonraki doygun ama su akıtmayan nemle belirleyin.
+
+### YAZI
+slug: asma-uzum-fidani-dikimi-cukur-destek-ilk-budama
+baslik: Asma (Üzüm) Fidanı Dikimi: Çukur, Destek ve İlk Budama
+yayin: 2027-04-06 16:40
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: fidanı dikimi
+seo_baslik: Asma (Üzüm) Fidanı Dikimi: Çukur, Destek, İlk Budama
+seo_aciklama: Asma fidanı dikimi: çukur ölçüsü, sıra ve bitki aralığı, destek direği ve tel, dikimde iki göze budama, sulama ve ilk yıl bakımı adım adım.
+ozet: Asma fidanı dikimi, çukur ve destek hazırlığıyla başlar; fidan iki göze kısaltılır, tek sürgün bırakılıp desteğe bağlanır. Aralık ve çukur ölçüsünü, tel sistemini, ilk yıl sulama ve budama kurallarını anlattık.
+etiketler: asma dikimi, üzüm fidanı, asma çukuru, asma desteği, asma budaması, bağ kurmak
+gorsel: bekliyor
+gorsel_alt: Toprağa dikilmiş genç asma fidanı, yanında çakılı destek kazığı ve gerilmiş tel
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi, budama-makasi
+kisaca: Asma fidanı dikimi için 40–50 cm derinliğinde çukur açın, fidanı hafifçe kökleri açılacak biçimde yerleştirin, dikimden sonra iki göze kadar budayıp bol su verin. Sıra içinde yaklaşık 2–2,5 m aralık bırakın, yanına destek direği ve tel çekin. İlk yıl en güçlü tek sürgünü desteğe bağlayıp diğerlerini alın.
+@govde
+Asma, doğru dikildiğinde onlarca yıl ürün veren bir bitkidir; yanlış dikildiğinde ilk yıl kaybedilen sezon uzun yıllar geriden gelir. Asma fidanı dikimi dört kararı içerir: Çukur nasıl hazırlanır, sıra aralığı ne olur, destek nasıl kurulur ve dikimden sonra ilk budama nasıl yapılır. Aşağıda bu dört kararı adım adım anlatıyoruz. Bağ kurmanın genel mantığı için [bağ kurmak](/bag-kurmak), kış budaması için [asma budama](/asma-budama) yazıları da yardımcı olur.
+
+## Dikim zamanı ve fidan tipi
+
+Asma fidanı dikimi, çıplak köklü fidanda uyku döneminde (kış sonu ve erken ilkbahar), tüplü fidanda ise donsuz her dönemde yapılabilir. Nisan başında çıplak köklü fidanın sezon sonuna gelinir; gözler uyanmadan dikim yapılmalıdır. Tüplü fidan, kök topağını korur ve nisan–mayıs aylarında dikime uygundur. Fidan seçerken kökleri sağlam, gövdesi kalın ve gözleri sağlam olanı seçin; çıplak köklü fidanın kökleri dikim öncesinde bir gün suda bekletilebilir. Çıplak ve tüplü fidanın genel farkları için [çıplak köklü fidan dikimi](/ciplak-koklu-fidan-dikimi) ve [tüplü fidan dikimi](/tuplu-fidan-dikimi) yazılarına bakabilirsiniz.
+
+Aşılı fidanlarda aşı yeri dikimde toprağın üstünde kalmalıdır; Illinois Üniversitesi'nin bağ rehberi aşı noktasının toprak seviyesinden 10–15 cm yukarıda tutulmasını öneriyor ([Illinois Extension, bağ dikimi ve bakımı](https://extension.illinois.edu/small-fruits/planting-and-care-backyard-grapes)).
+
+## Sıra ve bitki aralığı
+
+Aralık, asmanın gücüne ve terbiye sistemine bağlıdır. Oregon State University, Avrupa tipi çeşitler için sıra içinde yaklaşık 1,8 m (6 feet), daha güçlü Amerikan ve melez çeşitler için 1,8–2,4 m, sıra arasında ise 2,7–3 m aralık öneriyor ([Oregon State Extension, sofralık üzüm yetiştirme](https://extension.oregonstate.edu/catalog/ec-1639-growing-table-grapes)). Illinois ise daha geniş, sıra içinde yaklaşık 2,4 m ve sıra arası 3 m öneriyor. Çardak ya da duvar boyunca yetiştirme için 2–3 m yeterli olabilir.
+
+| Durum | Sıra içi | Sıra arası |
+|---|---|---|
+| Avrupa tipi çeşitler | ~1,8 m | 2,7–3 m |
+| Güçlü, melez ve Amerikan | 1,8–2,4 m | 3 m |
+| Çardak, duvar kenarı | 2–3 m | — |
+
+Kaynaklar farklı sayılar veriyor; çeşit gücüne, toprağa ve terbiye şekline göre değişir. Bölgenizdeki yerel bağcılar ve il tarım müdürlüğü en iyi gösterge olur.
+
+## Çukur hazırlığı
+
+Çukuru fidanın kök hacminden geniş açın: yaklaşık 40–50 cm derinlikte ve genişlikte. Dibini kazıp gevşetin; sıkışmış çukur kökün aşağı gitmesini engeller. Çukurdan çıkan üst toprağı bir yana, alt toprağı ayrı yana koyun; dikimde üst toprak köklerin çevresine girmelidir. Üst toprağa bir miktar olgun kompost ya da fidan toprağı karıştırmak kök gelişimine yardım eder. Gübreyi doğrudan köke değdirmeyin. Ayrıntılı çukur ölçüsü ve karışım için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısı var.
+
+[ürün:hg-fidan-topragi,hasturk-kati-solucan-gubresi]
+
+## Asma fidanı dikimi adım adım
+
+::: adimlar
+Kökleri hazırlayın | Çıplak köklü fidanın köklerini bir gün suda bekletin, kırık ve uzun kökleri 20 cm'e kısaltın.
+Fidanı yerleştirin | Fidanı çukura yerleştirip kökleri yana açın; aşılı ise aşı yerini toprak seviyesinin üstünde bırakın.
+Çukuru doldurun | Önce üst toprak, sonra alt toprakla doldurun; hafifçe bastırıp hava boşluklarını giderin.
+Sulayın | Dikimden hemen sonra bol su verip çevresine küçük bir sulama çanağı yapın.
+Budayın | Fidanı iki göz bırakarak kısaltın.
+Desteği çakın | Fidanın yanına kazık ya da bambu çakın ve ilk sürgün gelince bağlayın.
+:::
+
+Dikimde derinlik kritik. Oklahoma State Üniversitesi, çok derin dikilen asmanın çürüyebileceğini, çok sığ dikilenin ise kuruyabileceğini belirtiyor. Fidan, fidanlıktaki derinliğinden biraz daha derine dikilebilir.
+
+## Destek ve tel sistemi
+
+Asma tırmanıcı bir bitkidir ve destek ister. Oregon State, birinci yıl içinde teli kurmayı öneriyor ki sürgün başından itibaren eğitilebilsin; Illinois ise ikinci sezondan önce hazır olmasını anlatıyor. Ev bahçesinde üç yol var: çardak ya da pergola altında; duvar boyunca yatay teller; sıra bağ için tek tel hattı. Köşe direkleri sağlam ve derine çakılmalı, ara direkler 3–5 m aralıkla gerilen teli taşır. Üst tel yerden yaklaşık 1,5–1,8 m yükseklikte olsun.
+
+Hangi çeşidi dikeceğinize karar vermediyseniz [sofralık üzüm çeşitleri](/sofralik-uzum-cesitleri) yazısı bahçe ve çardak için seçenekleri sıralıyor.
+
+## İlk yıl budama ve eğitim
+
+Dikimden sonra fidanı iki göz bırakarak kesmek, üç kuralın ilkidir. Oregon State, ilk yıl en güçlü sürgünü seçip desteğe bağlamayı, diğer sürgünleri 30 cm uzamadan almayı öneriyor. İlk yıl meyve beklenmez; asmanın enerjisi köke ve gövdeye gider. Sürgün ilk yıl telle buluşmazsa ertesi kış üç dört göze budanır. Kesim için temiz ve keskin bir budama makası kullanmak yaraları azaltır.
+
+Aşağıdaki tablo ilk üç yılı özetliyor:
+
+| Yıl | Hedef | Budama |
+|---|---|---|
+| 1. yıl | Güçlü tek gövde | Dikimde 2 göz; tek sürgün bırak |
+| 2. yıl | Gövdeyi tele ulaştırmak | Kışın 3–4 göze ya da tel hizasına kısaltma |
+| 3. yıl | Kollar oluşturmak, ilk ürün | Kış budamasıyla meyve gözlerini bırakın |
+
+## Sulama ve gübre
+
+Dikimden sonra ilk yıl düzenli sulama şart. Kök sistemi yerleşene kadar haftada bir derin sulayın; yazın kuru geçen dönemde sıklığı artırın. İlk yıl gübre vermeyin ya da çok hafif verin; fazla azot yalnızca yaprak büyütür. Yerleşmiş asmanın beslenmesi için [bağ gübreleme](/bag-gubreleme) yazısına bakın. Etrafı malçlamak nemi korur ve ot çıkışını azaltır.
+
+## Asma fidanı dikimi sonrası ilk aylar: neye bakılır?
+
+Asma fidanı dikimi yapıldıktan sonra ilk dört altı hafta kritik dönemdir. Gözler uyanıp sürgün vermeye başlarsa fidan tutmuş demektir. Sürgün vermiyorsa kabuğu hafifçe kazıyın; yeşil görüyorsanız beklemeye devam edin, kahverengi ve kuruysa fidan kaybedilmiştir. Dikimden sonra toprağı kuru bırakmayın, ama çamur da yapmayın. Sürgün 15–20 cm olunca desteğe gevşekçe bağlayın; ipin sürgüne sıkışmaması için sekiz şeklinde bağlayın.
+
+## Hastalık ve koruma
+
+Genç asmaların yapraklarında külleme ve mildiyö görülebilir; nemli, havasız ortamda yaygındır. Sıra aralığını açık tutmak ve yaprakları ıslatmadan sulamak riski azaltır. Hastalık belirtileri ve mücadele konusunda [asma hastalıkları](/asma-hastaliklari) yazısına ve il/ilçe tarım müdürlüğüne başvurun. İlaç seçimi ve kullanımı için ziraat mühendisine danışın.
+
+[ürün:budama-makasi]
+@sss
+S: Asma fidanı dikimi ne zaman yapılır?
+C: Çıplak köklü fidan uyku döneminde, yani kış sonu ile gözler uyanmadan önce dikilir. Tüplü fidan donsuz dönemde, ilkbahar boyunca dikilebilir. Nisan başında çıplak köklü sezon sonuna yaklaşır.
+
+S: Asmalar arası ne kadar mesafe bırakılır?
+C: Güce ve sisteme göre değişir; sıra içinde genelde 1,8–2,4 m, sıralar arasında 2,7–3 m aralık önerilir. Çardak ya da duvar kenarında 2–3 m yeterli olabilir.
+
+S: Asma fidanı dikimden sonra neden iki göze budanır?
+C: Fidanın enerjisini köke ve güçlü bir tek sürgüne yönlendirmek için. İkinci yıl bu sürgün gövde olur. Dikimde budamazsanız zayıf ve çok sayıda sürgün çıkar.
+
+S: Asma dikiminde aşı yeri toprağa gömülür mü?
+C: Hayır. Aşılı fidanda aşı noktası toprak seviyesinin üstünde bırakılır; gömülürse aşı üstü kök salıp aşının amacını bozabilir. Aşı noktasını toprak seviyesinden yaklaşık 10–15 cm yukarıda tutun.
+
+### SORU
+yayin: 2027-04-06 12:10
+kategori: bahce-ipuclari
+baslik: Hügelkultur yatağıma çam ağacı dallarını koyabilir miyim?
+metin: Bahçemde budadığım çam dalları var, hügelkultur yatağı yapmak istiyorum. Çam dalları uygun mu, yoksa başka dal mı kullanmalıyım?
+@cevap Rümeysa Altınova | 2
+Çam reçineli ve yavaş çürüyen bir ağaçtır; hügelkultur için zayıf bir seçimdir. Reçine ve yağlı yapısı ayrışmayı geciktirir, yatak yıllarca oturmaz. Elma, kiraz, kavak, söğüt gibi çabuk ve zararsız çürüyen dallar daha iyidir. Elinizde yalnızca çam varsa onları yatağın en altında az miktarda kullanıp üstüne bol yeşil malzeme ve kompost koyun, ya da çam dallarını parçalayıp kompost yığınına katın. Boyalı, vernikli ve emprenye edilmiş odun hiçbir koşulda gömülmez.
+
+### SORU
+yayin: 2027-04-06 15:40
+kategori: bitki-bakimi
+baslik: İki hafta tatile gideceğim, monsteramı küvete koysam olur mu?
+metin: 14 gün evde olmayacağım. Monstera ve filodendronlarım var, küvette suya koyup gitmeyi düşünüyorum. Güvenli mi?
+@cevap Hatice Kübra Çelik | 2
+Küvet yöntemi iki hafta için uygulanabilir ama doğru kurulmalıdır. Küvetin dibine havlu serin, yaklaşık 5 cm su doldurun ve saksıları havlunun üzerine koyun; saksı dibi suya batmasın, havlu suyu yavaşça çeker. Banyoda doğal ışık yoksa ışığı açık bırakın; yoksa bitkiler iki haftada zayıflar. Gitmeden önce bitkileri derin sulayın. Mümkünse bir hafta önce bir deneme yapıp saksının nemi nasıl tuttuğuna bakın. İki haftadan uzun gidiyorsanız bir komşudan sulama istemek daha güvenlidir.
+
+### SORU
+yayin: 2027-04-06 18:20
+kategori: sebze-meyve
+baslik: Asma fidanımı dikerken iki gözden fazla bırakırsam ne olur?
+metin: Asma fidanı aldım, çubuğunda 5-6 göz var. İki göze budamak çok kısa geliyor. Daha uzun bırakırsam sorun olur mu?
+@cevap Muhammed Hamza Çelik | 2
+İki göze kısaltmanın amacı fidanın enerjisini az sayıda, güçlü sürgüne yönlendirmektir. Daha uzun bırakırsanız çok sayıda zayıf sürgün çıkar, hiçbiri gövde olacak kadar güçlenemez. İkinci yıl gövdeyi tele ulaştırmak zorlaşır. Fidan çıplak köklüyse ve dikimden sonra uyanan gözlerden en güçlü tek sürgünü seçip bağlayın, diğerlerini 30 cm'e gelmeden alın. Kesimi yaparken temiz ve keskin bir budama makası kullanın, kesimi gözün 2-3 cm üstünden yapın.

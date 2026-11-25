@@ -1,0 +1,350 @@
+### YAZI
+slug: venturi-gubre-enjektoru
+baslik: Venturi Gübre Enjektörü: Damla Sulamada Gübre Nasıl Verilir?
+yayin: 2027-03-30 09:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: venturi gübre enjektörü
+seo_baslik: Venturi Gübre Enjektörü: Kurulum ve Ayar
+seo_aciklama: Venturi gübre enjektörü damla sulama suyuna basınç farkıyla gübre emdirir. Paralel bağlantı, çek valf, basınç kaybı, ayar ve tıkanma önlemi.
+ozet: Venturi gübre enjektörü, sulama hattındaki basınç farkından yararlanarak gübre çözeltisini suya karıştıran basit bir parçadır. Ana hatta paralel bağlanır, çıkışına çek valf konur ve basınç kaybı hesaba katılır. Kurulumu, ayarı, geri akış önlemini ve tıkanmayı önlemeyi anlattık.
+etiketler: venturi gübre enjektörü, fertigasyon, damla sulama, gübre enjektörü, çek valf, geri akış, basınç farkı
+gorsel: bekliyor
+gorsel_alt: Damla sulama ana hattına paralel bağlanmış venturi enjektör ve gübre kabı
+urunler: hasturk-sivi-solucan-gubresi
+kisaca: Venturi gübre enjektörü, hattaki basınç farkıyla gübre çözeltisini sulama suyuna emdirir. Üniversite yayımlarına göre ana hatta paralel bağlanır ki gübre verilmezken vana ile devre dışı bırakılabilsin; çıkışına çek valf konur ve basınç kaybı hesaba katılır. Filtre, doğru gübre seçimi ve hattı temiz suyla yıkamak tıkanmayı önler.
+@govde
+Damla sulama hattı kurduktan sonra gübreyi tek tek bitkinin dibine dökmek zahmetlidir; hattaki suya gübre karıştırıp tüm bitkileri aynı anda beslemek ise hem hızlı hem eşit bir yöntemdir. Bunu yapan en yalın aygıtlardan biri, hareketli parçası olmayan venturi gübre enjektörüdür. Bu yazı enjektörün nasıl çalıştığını, hatta nasıl bağlandığını, geri akış ve tıkanma risklerini ve ayarın nasıl yapıldığını üniversite yayımlarının verdiği genel ilkelerle anlatıyor; ürün modeline göre ayrıntı üretici kılavuzunda yazar.
+
+## Venturi gübre enjektörü nasıl çalışır?
+
+Venturi, borunun belirli bir noktada daralıp sonra genişlediği bir parçadır. Su daralan kısımdan geçerken hızlanır ve basıncı düşer; bu basınç düşüşü yan taraftaki bir bağlantıdan gübre çözeltisini emer. Yani enjektör kendi başına pompa gibi iş görmez; hattaki basınç farkından güç alır. Kaliforniya Üniversitesi'nin (UC) tarım yayım sayfası ([kimyasal gübre uygulama kılavuzu](https://ucanr.edu/node/125834)), enjeksiyon hızının enjektörün iki ucu arasındaki basınç farkına bağlı olduğunu ve venturinin genellikle bir vananın üzerinden bağlanarak yüzde 10 ile 30 arasında bir basınç kaybı oluşturulan noktaya kurulduğunu anlatır. Bu, bir venturi gübre enjektörü kurarken sistemin basıncının bu kaybı karşılaması gerektiği anlamına gelir.
+
+Venturinin avantajı basit, ucuz ve bakım gerektirmemesidir; dezavantajı ise basınç kaybının büyük olmasıdır. Düşük basınçla çalışan küçük bahçe sistemlerinde bu kayıp, damlatıcıların düzenli çalışmasını bozabilir. Bu yüzden enjektörü seçmeden önce hattaki çalışma basıncını ölçün.
+
+## Bağlantı şekli: ana hatta paralel
+
+UC yayımı, enjektörün ana boru hattına paralel bağlanmasını önerir; böylece gübre verilmediğinde enjektörün olduğu kol bir vana ile kapatılabilir ve su doğrudan ana hattan akar. Pratikte şöyle düşünün: Ana hatta iki vana arasında bir "bypass" kolu oluşturup, o kolun üzerine enjektörü yerleştirirsiniz. Gübre verirken ana vanayı kısıp suyu enjektörlü kola yönlendirirsiniz; verme işi bitince vanaları eski konumuna döndürür ve enjektörü devre dışı bırakırsınız. Bu düzen, enjektörün sürekli basınç kaybı yaratmasını da önler.
+
+| Bileşen | Görevi | Yeri |
+|---|---|---|
+| Filtre | Gübre ve su içindeki parçacıkları tutar | Enjektörden sonra ve hat girişinde |
+| Venturi enjektör | Basınç farkıyla gübreyi emer | Ana hatta paralel kolda |
+| Gübre kabı | Çözeltiyi tutar | Enjektörün emiş borusuna bağlı |
+| Çek valf | Suyun gübre kabına geri dönmesini önler | Enjeksiyon hattında, enjektörden sonra |
+| Geri akış önleyici | Sulama suyunun kaynağa geri dönüşünü engeller | Ana hat girişinde |
+| Basınç ölçer | Basınç farkını izler | Enjektör girişi ve çıkışı |
+
+## Geri akış önlemi
+
+Enjektör ya da hat arızası olursa sulama suyu gübre kabına, hatta kaynak suya (kuyu, şebeke) geri dönebilir. UC yayımı, geri akış önleyici olarak vakum kesiciler (atmosferik ve basınçlı tip) ile tek ya da çift çek valflerin kullanılabileceğini ve seçimde yerel düzenlemelere uyulması gerektiğini söyler. Enjeksiyon hattında, enjektörün ardına çek valf ya da normalde kapalı bir selenoid vana konulması da öneriler arasındadır. Şebeke suyuna bağlı sistemlerde geri akış koruması ayrıca önemlidir; bu yüzden bağlantıyı yapmadan önce yerel su idaresinin kurallarına bakın. Georgia Üniversitesi'nin [damlayla gübre, asit ve klor enjeksiyonu yayını](https://fieldreport.caes.uga.edu/publications/B1130/drip-chemigation-injecting-fertilizer-acid-and-chlorine/), geri akış önleme kurallarının bölgeden bölgeye değişebildiğini de hatırlatır.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+## Hangi gübre verilir?
+
+Damla hattına verilecek gübre tamamen çözünür olmalı ve hattı tıkamamalıdır. Katı gübreyi suda tamamen eritip süzmek, hattın ve damlatıcıların tıkanmasını önler. Sıvı organik gübreler için üreticinin damla sulamaya uygunluk bilgisini kontrol edin ve filtre kullanın; ürün bilgisine göre HasTürk Sıvı Solucan Gübresi, katı solucan gübresinin sıvılaştırılmasıyla elde edilen konsantre organik bir gübredir. Bu tür ürünlerde bile damlatıcı tıkanma riski olabileceği için kullanım yöntemi ve seyreltme oranı için kullanım talimatına bakın; ayrıntı için [sıvı solucan gübresi nasıl kullanılır](/sivi-solucan-gubresi-nasil-kullanilir) yazısı yardımcı olur. Kalsiyum içeren gübrelerle fosfat ya da sülfat içerenleri aynı kapta karıştırmayın; çökelti oluşup hattı tıkayabilir.
+
+Gübrenin miktarı bitkinin ihtiyacına göre belirlenir; fazla gübre yaprak ve kök yanığına yol açar. Yanık belirtileri için [gübre yakması](/gubre-yakmasi) yazısına, gübre etiketi okumak için [NPK nedir](/npk-nedir-gubre-etiketi) yazısına bakın. Sulama suyunun tuz değeri de önemlidir; ölçüm için [EC metre kullanımı](/ec-metre-kullanimi-besin-cozeltisi-sulama-suyu) yazısı yol gösterir.
+
+## Ayar ve uygulama adımları
+
+::: adimlar
+Basıncı ölçün | Enjektörün giriş ve çıkış basıncını bir manometre ile kontrol edin.
+Filtreyi temizleyin | Gübre vermeden önce hat filtresini temizleyin.
+Çözeltiyi hazırlayın | Gübreyi tamamen eritin, gerekirse süzün ve kabı doldurun.
+Vanaları ayarlayın | Ana hat vanasını kısıp suyu enjektör koluna yönlendirin.
+Emişi izleyin | Gübre kabından çekilen çözelti miktarını zamanla ölçün.
+Hattı yıkayın | Gübre bitince hattı temiz suyla bir süre yıkayın, vanaları eski konuma getirin.
+:::
+
+Enjeksiyon hızını ayarlamak için çoğu enjektörde emiş borusunda bir ayar vanası bulunur. İlk denemede kabın içindeki sıvının ne kadar sürede azaldığını ölçün: Sıvı hacmini geçen süreye bölerek dakikadaki emiş miktarını bulursunuz. Bu miktarı sulama süresiyle çarpıp bitkiye verilen toplam gübre miktarını hesaplayabilirsiniz. Damla sulamada toplam süre ve debi hesabı için [damla sulama hesabı](/damla-sulama-hesabi) yazısı temel formülleri anlatıyor.
+
+## Basınç kaybı ve ayar sorunları
+
+Enjektör çalışmıyor ya da çok az emiyorsa en sık neden yetersiz basınç farkıdır. UC ve diğer yayımlar da basınç farkının yetersiz kalmasını fertigasyon sistemlerinde en sık karşılaşılan sorunlardan biri olarak sayar. Hattın girişindeki basıncı artırmak (pompa, depo yüksekliği), enjektör boyutunu hattın debisine uygun seçmek ve hattı uzun mesafe ya da çok dirsekle zorlamamak yardımcı olur. Basıncın düşük olduğu depo besleme sistemlerinde enjektör iyi çalışmayabilir; depodan sulama için [su deposuyla sulama](/su-deposuyla-sulama) yazısına bakabilirsiniz. Bağlantı parçaları için [PE boru bağlantı parçaları](/pe-boru-baglanti-parcalari) yazısı dirsek ve vana seçimini anlatıyor.
+
+## Venturi mi, pompa mı?
+
+Venturi enjektör ucuz ve basittir; ama basınç kaybı ve enjeksiyon oranının basınca bağlı değişmesi dezavantajlarıdır. Gübre tankı (basınçlı tank) ve dozaj pompası daha pahalı ama daha sabit oranda gübre verebilir. Küçük bir bahçe ya da hobi serası için venturi çoğu zaman yeterlidir; büyük ve hassas üretimde dozaj pompası düşünülür. İlaçlama pompasıyla yapılan sıvı besleme farklı bir yöntemdir; ayrıntı için [pompayla sıvı gübre uygulaması](/pompayla-sivi-gubre-uygulamasi) yazısına bakın.
+
+## Bakım ve kış
+
+Enjektörün içinde kireç ve gübre kalıntısı birikebilir; bu emişi azaltır. Sezon sonunda enjektörü ve emiş borusunu sökerek temiz suyla yıkayın, gerekirse seyreltik asitle kireçten arındırın (üretici talimatına uyarak). Kışın içindeki suyun donarak plastik gövdeyi çatlatmaması için sistemi boşaltın; hortum ve sulama sistemi için kışlatma ilkeleri [hortum kışlatma](/hortum-kislatma) yazısında yer alıyor.
+
+## Sık yapılan hatalar
+
+Enjektörü ana hatta seri bağlayıp sürekli basınç kaybı yaratmak en yaygın hatadır; paralel bağlayın. İkincisi, çek valf ve geri akış önleyici koymamaktır. Üçüncüsü, gübreyi tam eritmeyip hattı tıkamaktır. Dördüncüsü, filtreyi temizlemeden gübre vermektir. Beşincisi, basıncı ölçmeden enjektör seçmektir. Altıncısı, uyumsuz gübreleri aynı kapta karıştırmaktır. Yedincisi, gübre sonrası hattı yıkamamaktır. Venturi gübre enjektörü doğru bağlandığında, damla sulamada gübrelemeyi kolay ve eşit hâle getirir.
+@sss
+S: Venturi gübre enjektörü nasıl çalışır?
+C: Daralan boru kesitinde suyun hızı artar, basıncı düşer; bu düşüş yan bağlantıdan gübre çözeltisini emer. Enjeksiyon hızı enjektörün iki ucu arasındaki basınç farkına bağlıdır.
+
+S: Enjektör ana hatta nasıl bağlanmalı?
+C: UC yayımına göre ana boru hattına paralel bağlanmalı ve bir vana ile kapatılabilmelidir. Gübre verilmediğinde su doğrudan ana hattan akar; enjektör sürekli basınç kaybı yaratmaz.
+
+S: Çek valf neden gerekir?
+C: Enjeksiyon hattındaki çek valf, sulama suyunun gübre kabına geri dönmesini önler. Su kaynağını korumak için ayrıca geri akış önleyici gerekebilir; yerel kurallara bakın.
+
+S: Venturi enjektör yeterince gübre emmiyorsa ne yapılır?
+C: En sık neden yetersiz basınç farkıdır. Hat basıncını artırın, enjektör boyutunu hattın debisine uygun seçin, filtre ve emiş borusunu temizleyin; üretici kılavuzundaki basınç aralığını kontrol edin.
+
+### YAZI
+slug: portulaka-yetistirme
+baslik: Portulaka Yetiştirme: Güneşi ve Kuraklığı Seven Yer Örtücü Çiçek
+yayin: 2027-03-30 14:05
+yazar: Hatice Kübra Çelik
+kategori: cicekler
+odak: portulaka yetiştirme
+seo_baslik: Portulaka Yetiştirme: Güneş ve Süzek Toprak
+seo_aciklama: Portulaka yetiştirme rehberi: tam güneş, süzek toprak, az sulama ve yaz boyu açan renkli çiçekler. Dikim, bakım ve kendiliğinden tohumlanma.
+ozet: Portulaka, sıcak ve kurak yerlerin yer örtücü yıllık çiçeğidir. Tam güneşi, süzek toprağı ve az suyu sever; ıslak toprakta çürür. Tohumdan ya da fideden dikimi, saksıda ve taş aralarında kullanımı, bakımı ve kendi kendine tohumlanmasını üniversite kaynaklarıyla anlattık.
+etiketler: portulaka yetiştirme, portulaca grandiflora, yer örtücü, kuraklığa dayanıklı çiçek, yıllık çiçek, güneş seven çiçek, saksı çiçeği
+gorsel: bekliyor
+gorsel_alt: Güneşli taş duvar kenarında pembe, sarı ve turuncu çiçekli portulaka halısı
+urunler: hg-cicek-topragi, tarim-perliti
+kisaca: Portulaka (Portulaca grandiflora) tam güneşte, süzek kumlu ya da taşlı toprakta yetişen, kuraklığa ve sıcağa dayanıklı bir yıllık yer örtücüdür; ıslak ve ağır toprakta kökleri çürür. Düşük boylu halı gibi yayılır, tohumdan dikilir; kendi kendine tohumlanabilir ama yeni bitkiler ana bitkiye benzemeyebilir.
+@govde
+Güneşin tam vurduğu, toprağın çabuk kuruduğu, çoğu çiçeğin yaz ortasında bunaldığı köşe, portulakanın en rahat ettiği yerdir. Kalın, etli yaprakları ve canlı rengârenk çiçekleriyle yere yayılan bu yıllık, az bakımla yaz boyunca çiçek verir. Bu yazı portulaka yetiştirme için ışık, toprak, sulama ve dikim ayrıntılarını, üniversite yayım kaynaklarına dayanarak anlatıyor. Portulaka ile bahçede yabani ot olarak yetişen ve yenilebilen semizotu birbirine akrabadır; semizotunu yeşillik olarak yetiştirmek için [semizotu yetiştirme](/semizotu-yetistirme) yazısına bakın.
+
+## Portulaka nedir?
+
+Portulaka (Portulaca grandiflora), bazı bölgelerde "yosun gülü" ya da "moss rose" olarak da bilinen, alçak boylu ve yayılan bir yıllık çiçektir. Wisconsin Üniversitesi Yayım Servisi'nin [yosun gülü sayfası](https://hort.extension.wisc.edu/articles/moss-rose-portulaca-grandiflora), bitkiyi Arjantin, güney Brezilya ve Uruguay'ın sıcak ve kurak ovalarına özgü, kuraklığa ve sıcağa dayanıklı bir yıllık olarak tanıtır. Etli, silindirik yapraklar su depolar; bu yüzden bitki kuruya ve sıcağa dayanır. Mississippi Eyalet Üniversitesi Yayım Servisi de portulakayı çok renkli, yosun gibi toprağa yapışan bir halı oluşturan, güçlü ve alçak bir bitki olarak anlatır.
+
+Portulaka çiçekleri güneşte açılır, bulutlu ve gölgeli günlerde kapanma eğilimindedir; bu yüzden en çok güneşli yerlerde işe yarar. Çiçek rengi pembe, sarı, turuncu, kırmızı ve beyaz tonlarında değişir; bazı çeşitlerde katmerli çiçekler görülür.
+
+## Portulaka yetiştirme için ışık ve toprak
+
+Portulaka tam güneş ister. Kaynaklar, bitkinin kumlu ya da taşlı, süzek toprakta ve tam güneşte dikilmesi gerektiğini belirtir; fakir ve orta verimli topraklara da dayanır, yeter ki toprak kuru ya da orta nemli ve süzek olsun. Su toplayan, ağır ve killi toprakta kökler çürür; bu yüzden killi bir yatağa dikecekseniz toprağa kum ve perlit karıştırın ya da yükseltilmiş yatak seçin. Kil toprağı iyileştirmek için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazısı yöntem sunar.
+
+Saksıda yetiştirecekseniz dibi delikli, süzek bir kap ve hafif bir karışım seçin. Çiçek toprağına bir miktar perlit karıştırmak süzek yapıyı artırır. Üretici bilgisine göre HG Çiçek Toprağı çiçekli bitkiler için hazırlanmış bir karışımdır; HG Tarım Perliti ise toprağın sıkışmasını önleyip havalanmayı artırmaya yardım eden bir katkıdır. Perlit ile ilgili ayrıntı için [perlit nedir, saksı toprağında nasıl kullanılır](/perlit-nedir-nasil-kullanilir) yazısına bakabilirsiniz.
+
+[ürün:hg-cicek-topragi]
+
+## Sulama: az ama dikkatli
+
+Portulaka kuraklığa dayanıklıdır; ama bu, hiç sulanmaz demek değildir. Mississippi yayımı, kuraklığa dayanıklı olsa da düzenli nemli yatakta ya da alttan sulanan kaplarda iyi geliştiğini belirtir. Pratikte dikimden sonra ilk haftalarda köklenene kadar düzenli sulayın, sonra toprak iyice kuruyunca sulayın. En büyük risk fazla suyla kök çürümesidir; kaynaklardan biri, bitkinin "ıslak ayaklardan" ve su altında kalan topraktan hoşlanmadığını söyler. Saksıda tabağa su biriktirmeyin. Yağmurlu mevsimde yatağın süzek olduğundan emin olun. Bitkilerin susuz kalma ve aşırı sulama belirtileri için [bitki susuz kalma belirtileri](/bitki-susuz-kalma-belirtileri) yazısı yardımcı olur.
+
+| Durum | Belirti | Ne yapılır |
+|---|---|---|
+| Fazla su | Gövde yumuşar, çürür, yapraklar sararır | Sulamayı kısın, süzeği artırın |
+| Susuzluk | Etli yapraklar buruşur, çiçek azalır | Derin bir sulama yapın |
+| Gölge | Çiçek az, sap uzar, çiçekler kapalı | Güneşli yere taşıyın |
+| Ağır toprak | Büyüme yavaş, kök çürümesi | Kum ve perlit ekleyin ya da yükseltilmiş yatak |
+
+## Dikim: tohum ve fide
+
+Portulaka yetiştirme tohumdan kolayca başlar. Tohumlar çok küçüktür; toprak yüzeyine serpip üzerini çok ince örtmek ya da hafifçe bastırmak yeterlidir. Sıcak ister: Toprak ısınmadan, son don geçmeden dikmeyin. Tohumu doğrudan açık yere ekebileceğiniz gibi, erken çiçek için evde viyole ekip ısındığında dışarı çıkarabilirsiniz. Fide dikecekseniz bitkiler arasında bir karış kadar boşluk bırakın; yayıldıkça kapanırlar. Tohum ekim ve çimlenme koşulları için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) ve [tohum ekim toprağı](/tohum-ekim-topragi) yazıları faydalıdır; evde fide hazırlamak için [evde fide yetiştirme](/evde-fide-yetistirme) yazısına bakabilirsiniz.
+
+::: adimlar
+Güneşli ve süzek yer seçin | Günün büyük kısmında güneş alan, su tutmayan bir yer bulun.
+Toprağı hazırlayın | Ağırsa kum ve perlit karıştırın, yüzeyi tırmıkla düzeltin.
+Son donu bekleyin | Toprak ısınınca tohum ekin ya da fide dikin.
+Tohumu serpin | Çok ince tohumu yüzeye serpip hafifçe bastırın.
+İlk sulamayı yapın | İnce püskürtmeyle nemlendirin, çıkışa kadar nemi koruyun.
+Seyreltin | Fideler çıkınca sık olanları seyreltin; yayılma payı bırakın.
+:::
+
+## Bahçede nerede kullanılır?
+
+Portulaka yer örtücü ve dolgu bitkisi olarak taş aralarında, yol kenarında, kaya bahçesinde, güneş alan şevlerde ve saksı kenarlarında işe yarar. Yayılan gövdeleri sarkan saksıları ve duvar diplerini doldurur. Yol ve taş aralarına yer örtücü bitki fikirleri için [bahçe yolu bitkileri](/bahce-yolu-bitkileri) yazısına, saksıda dik, dolgu ve sarkan bitki kombinasyonu için [balkon çiçek kombinasyonu](/balkon-cicek-kombinasyonu) yazısına bakabilirsiniz. Kuraklığa dayanıklı bir bahçe düzeni için süs adaçayı ve sukulentlerle birlikte düşünmek mantıklıdır; [süs adaçayı](/sus-adacayi) ve [sukulent çeşitleri](/sukulent-cesitleri) yazıları bu tür bir birliktelik için fikir verir.
+
+[ürün:tarim-perliti]
+
+## Kendi kendine tohumlanma ve bakım
+
+Portulaka, tohum verip ertesi yıl kendiliğinden çıkabilir. Üniversite kaynaklarından biri, bitkinin yeniden tohumlanabildiğini ama yeni bitkilerin melezleme nedeniyle ana bitkiye benzemeyebileceğini belirtir. Bu yüzden belirli bir rengi istiyorsanız her yıl yeni tohum ya da fide kullanmak daha güvenlidir. Bakım basittir: Solan çiçekleri ayıklamak şart değildir; çiçeklenme düzeni dağınıklaşırsa uçları kısaltmak toparlar. Gübreyi azaltın; fazla besin yaprak büyütür, çiçeği azaltır. Hafif bir sıvı çiçek gübresi yaz ortasında yeterlidir.
+
+## Zararlı ve hastalık
+
+Portulaka genellikle sağlam bir bitkidir. En çok görülen sorun, nemli ve ağır toprakta kök ve gövde çürümesidir. Bunun önlemi süzek toprak ve ölçülü sulamadır. Yaprak bitleri ve diğer emici zararlılar ara sıra çıkabilir; tanımak için [yaprak biti](/yaprak-biti) yazısına bakın. Salyangoz ve sümüklü böcek nemli dönemlerde zarar yapabilir; önlemler için [salyangoz ve sümüklü böcek](/salyangoz-ve-sumuklu-bocek) yazısı yararlıdır.
+
+## Sık yapılan hatalar
+
+Gölge ya da yarı gölge yere dikmek en yaygın hatadır; çiçek açmaz ya da kapalı kalır. İkincisi, ağır ve su tutan toprağa dikmektir. Üçüncüsü, fazla sulamaktır. Dördüncüsü, toprak ısınmadan erken ekmektir. Beşincisi, bol gübre vermektir. Altıncısı, kendiliğinden çıkan fidelerin aynı renkte olacağını sanmaktır. Portulaka yetiştirme, güneş, süzek toprak ve ölçülü sulama üçlüsüyle, yaz boyu renkli bir halıyı çok az emekle sağlar.
+@sss
+S: Portulaka güneş ister mi?
+C: Evet, tam güneş ister. Üniversite kaynakları bitkinin tam güneşte ve süzek, kumlu ya da taşlı toprakta yetiştirilmesini önerir. Gölgede çiçek açma azalır, çiçekler kapalı kalabilir.
+
+S: Portulaka ne kadar sulanır?
+C: Kuraklığa dayanıklıdır; köklenene kadar düzenli, sonra toprak kuruyunca sulayın. Aşırı su kök çürümesine yol açar. Saksıda tabağa su biriktirmeyin.
+
+S: Portulaka kendiliğinden tohumlanır mı?
+C: Tohumlanabilir; ancak kaynaklara göre melezleme nedeniyle yeni bitkiler ana bitkiye benzemeyebilir. Belirli bir renk için her yıl yeni tohum ya da fide kullanın.
+
+S: Portulaka ne zaman ekilir?
+C: Sıcak sever; son don geçtikten ve toprak ısındıktan sonra tohum ekin ya da fide dikin. Tohum çok küçüktür; yüzeye serpip hafifçe bastırmak yeterlidir.
+
+### YAZI
+slug: ayciceginde-canavar-otu
+baslik: Ayçiçeğinde Canavar Otu (Orobanş): Belirtiler ve Dayanıklı Çeşit Seçimi
+yayin: 2027-03-30 16:40
+yazar: Muhammed Hamza Çelik
+kategori: sebze-meyve
+odak: ayçiçeğinde canavar otu
+seo_baslik: Ayçiçeğinde Canavar Otu: Belirti ve Çeşit
+seo_aciklama: Ayçiçeğinde canavar otu kök paraziti bir bitkidir; belirtisi bitki dibinde çıkan soluk saplardır. Dayanıklı hibrit seçimi, ırklar ve ekim nöbeti.
+ozet: Ayçiçeğinde canavar otu (orobanş), ayçiçeği köküne tutunan, klorofilsiz bir kök parazitidir. Başlıca korunma yolu ırklara dayanıklı hibrit seçimi ve nadas ya da konukçu olmayan bitkilerle uzun ekim nöbetidir. Belirtileri, ırkların aşılması ve resmî önerilere başvuru yolunu anlattık.
+etiketler: ayçiçeğinde canavar otu, orobanş, Orobanche cumana, ayçiçeği hastalığı, dayanıklı hibrit, ekim nöbeti, kök paraziti
+gorsel: bekliyor
+gorsel_alt: Ayçiçeği bitkisinin dibinde topraktan çıkan soluk sarı-kahverengi canavar otu sapları
+urunler: hg-bol-verimli-sebze-topragi
+kisaca: Ayçiçeğinde canavar otu, ayçiçeği köküne bağlanıp besin çeken ve bitki dibinde soluk, yapraksız saplar çıkaran bir kök parazitidir. En etkili korunma, tohumluk paketinde belirtilen ırklara dayanıklı hibrit seçmek ve konukçu olmayan bitkilerle uzun bir ekim nöbeti uygulamaktır. Kimyasal önlem için yetkili kurumlara danışın.
+@govde
+Ayçiçeği tarlasında bazı bitkilerin diğerlerinden bodur kaldığını, dibinde ise yaprağı olmayan, soluk sarı ya da kahverengimsi bir sap çıktığını gördüyseniz karşınızda canavar otu olabilir. Orobanş adıyla da bilinen bu bitki, ayçiçeğinin köküne bağlanıp besinini çalan bir parazittir. Ayçiçeğinde canavar otu, özellikle ayçiçeğinin yoğun ekildiği yörelerde verimi ciddi biçimde düşürebilen bir sorundur. Bu yazı belirtilerini, nasıl yayıldığını ve en önemli korunma yolu olan dayanıklı çeşit seçimini anlatıyor. İlaç adı ve dozu yazmıyoruz; bunlar için il ya da ilçe tarım müdürlüğüne ve ziraat mühendisine başvurun.
+
+## Ayçiçeğinde canavar otu nedir?
+
+Canavar otu (Orobanche cumana), klorofili olmayan, yani kendi besinini yapamayan bir kök parazitidir. Ayçiçeğinin kök salgılarını algılayıp çimlenir, köke tutunur ve besin ile suyu ayçiçeğinden çeker. Bu yüzden ayçiçeği bitkisi bodur kalır, başı küçülür ve yağ verimi düşer. Parazit toprakta çok küçük tohumlar hâlinde uzun süre canlı kalabilir ve yeni bir ayçiçeği ekilene kadar bekler. Parazit tohumlarının topraktaki dayanıklılığı, sorunu tarlada kalıcı hâle getirir.
+
+Bir araştırma derlemesi, hassas hibritlerde canavar otu bulaşıklığından kaynaklanan tohum kaybının yüzde 50'yi aşabildiğini, ağır bulaşık tarlalarda ise sıklıkla yüzde 100'e vardığını bildirir; bu rakamlar belirli çalışmalardan alınmıştır ve her tarlada aynı olmaz, ama sorunun ciddiyetini gösterir.
+
+## Ayçiçeğinde canavar otu belirtileri: tarlada nasıl tanınır?
+
+Canavar otunun en belirgin işareti, ayçiçeği bitkisinin dibinde topraktan çıkan, yaprağı bulunmayan, soluk sarı ya da kahverengimsi saplardır. Bu saplar çoğunlukla bitkiye yakın çıkar ve çiçeklenme dönemine doğru görünür olur. Parazit kök bölgesinde başladığı için toprağı biraz eşelediğinizde köke tutunmuş yumruları da görebilirsiniz. Ayçiçeği bitkisinde ise bodurlaşma, solgunluk ve baş küçülmesi görülür. Bu belirtiler başka sorunlarla (kuraklık, kök çürüklüğü) karışabileceği için bitkinin dibine bakmak tanıyı netleştirir.
+
+::: belirti
+Bitki dibinde soluk sarı-kahverengi saplar | Canavar otu çiçek sapları | Parazit olabilir; bitkiyi kontrol edin
+Bodur, küçük başlı ayçiçeği | Parazit besini çekiyor | Kökü kontrol edin, çeşidi ve ırkı kaydedin
+Kökte yumru benzeri tutunmalar | Parazitin köke bağlanma noktaları | Bulaşık tarlayı işaretleyin
+Tarlada leke leke bulaşma | Tohumların dağılımı | Alet ve makineyi temizleyin
+Aynı parselde yıllar içinde artan sorun | Toprak tohum bankası büyüyor | Ekim nöbetini uzatın, dayanıklı çeşide geçin
+:::
+
+## Dayanıklı çeşit: en önemli önlem
+
+Araştırmalar canavar otuna karşı en etkili ve temel yöntemin konukçu dayanıklılığı, yani dayanıklı hibrit kullanımı olduğunu bildirir. Ancak parazit zamanla dayanıklılığı aşan yeni ırklar geliştirir; ırk adları A'dan H'ye kadar harflerle anılır ve yeni ırklar yayıldıkça dayanıklı hibritlerin sürekli yenilenmesi gerekir. Bu yüzden tohumluk seçerken yalnızca "dayanıklı" yazmasına değil, hangi ırklara dayanıklı olduğuna bakın. Tohumluk paketinde ve firma bilgisinde bu ırk bilgisi yer alır; bölgenizde hangi ırkların görüldüğünü il ya da ilçe tarım müdürlüğünden, Trakya Tarımsal Araştırma Enstitüsü gibi bölgesel araştırma kuruluşlarından ve yetkili tohumluk firmalarından öğrenin.
+
+Dayanıklılığın kalıcı olmadığını, kısa ekim nöbetlerinin ve yoğun ayçiçeği tarımının yeni ırkların gelişimini hızlandırdığını bir derleme vurgular. Bu nedenle dayanıklı hibrit tek başına sihirli çözüm değildir; ekim nöbeti ile birlikte kullanılmalıdır.
+
+| Yöntem | Ne işe yarar | Dikkat |
+|---|---|---|
+| Dayanıklı hibrit | Parazitin köke tutunmasını engeller veya sınırlar | Hangi ırklara dayanıklı olduğunu kontrol edin |
+| Uzun ekim nöbeti | Toprakta parazit tohum miktarını azaltır | Konukçu olmayan bitkilerle uygulanır |
+| Temiz tohumluk ve makine | Tohum yayılmasını önler | Biçerdöver ve aletleri bulaşık tarladan sonra temizleyin |
+| Bulaşık alan kaydı | Hangi parselde sorun olduğunu bilmeyi sağlar | Parselleri haritalayın |
+| Kimyasal ve diğer yöntemler | Durumu destekleyebilir | Ruhsat ve uygulama için resmî kurumlara danışın |
+
+## Ekim nöbeti ve toprak tohum bankası
+
+FAO'nun parazitik yabani otların yönetimi üzerine yayımladığı [değerlendirme](https://www.fao.org/4/Y5031E/y5031e0a.htm), konukçu olmayan bitkilerle ekim nöbeti uygulanmasını ve konukçu bitkilerin aynı tarlada belirli yıllar boyunca (kaynakta en az 3–4 yıl belirtilir) yeniden ekilmemesini önerir. Parazit tohumlarının toprakta uzun süre canlı kaldığı bilindiğinden, ekim nöbetinin etkisi zaman ve disiplin ister. Bu yılların kaç olması gerektiği bölgeye, ırka ve bulaşma düzeyine göre değişir; kendi tarlanız için resmî yayım kuruluşuna ve ziraat mühendisine danışın. Ekim nöbetinin genel mantığı için [ekim nöbeti](/ekim-nobeti) yazısına bakabilirsiniz.
+
+Ayrıca bazı bitkiler "tuzak bitki" gibi davranır: Parazit tohumunun çimlenmesini uyarır ama kendileri parazitlenmez; bu şekilde tohum bankası azalır. Bu yöntem bölgeye ve bitkiye özgüdür ve uygulamadan önce ziraat mühendisine danışılmalıdır.
+
+## Bulaşmayı önlemek: temizlik ve hijyen
+
+Canavar otu tohumları çok küçüktür; makineye, ayakkabıya, toprağa ve tohum partisine karışarak yayılabilir. Bulaşık tarladan temiz tarlaya geçerken alet ve makineyi toprak ve bitki artığından temizleyin. Bulaşık tarladan elde ettiğiniz tohumluğu ya da yemi başka tarlaya götürmeyin. Çiçeklenip tohum bağlamadan önce parazit saplarını sökmek, yeni tohum üretimini azaltabilir; küçük alanlarda elle söküm bir seçenektir. Sökülen sapları tarlada bırakmayın, tarlanın dışına çıkarın ve imha edin. Bu işlemin kapsamı tarla ölçeğinde zor olduğu için asıl çözüm dayanıklı çeşit ve nöbettir.
+
+## Ayçiçeği bahçede ya da saksıda yetişiyorsa
+
+Hobi bahçesinde ya da yükseltilmiş yatakta birkaç ayçiçeği yetiştirenlerde canavar otu sorunu nadiren görülür; çünkü toprakta tohum bulunmaz. Saksıda ya da yeni yatakta taze, temiz toprak kullanıyorsanız bu risk neredeyse ortadan kalkar. Ayçiçeği yetiştirmenin genel adımları için [ayçiçeği yetiştirme](/aycicegi-yetistirme) ve beslenmesi için [ayçiçeği gübreleme](/aycicegi-gubreleme) yazılarına bakın. Temiz sebze toprağı için üretici bilgisine göre HG Premium Sebze Yetiştirme Toprağı sebze yetiştiriciliği için hazırlanmış bir karışımdır.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Resmî öneriler ve kimyasal mücadele
+
+Canavar otuna karşı kimyasal mücadele seçenekleri olabilir; ancak maliyet ve çevresel kaygılar nedeniyle sınırlıdır ve parazitin bazı popülasyonlarında kimyasala direnç bildirilmiştir. Hangi ürünün, hangi çeşitle ve hangi zamanda ruhsatlı ve uygun olduğu, ürün ve mevzuat değişikliklerine bağlıdır. Bu yüzden ilaç adı, doz ve zaman burada yazılmamıştır; il ve ilçe tarım ve orman müdürlüğünden, ziraat mühendisinden ve araştırma enstitülerinden güncel öneri alın. Ayçiçeği tarımında genel yetiştirme ve bakım bilgisi de buralardan temin edilir.
+
+## Sık yapılan hatalar
+
+Çeşit seçerken yalnızca "dayanıklı" ifadesine güvenip ırk bilgisine bakmamak en yaygın hatadır. İkincisi, kısa nöbetle ya da arka arkaya ayçiçeği ekmektir. Üçüncüsü, bulaşık tarladan sonra makineyi temizlememektir. Dördüncüsü, belirtiyi gördüğünde parazit sapları tohum bağlamadan sökmemektir. Beşincisi, bulaşık parselleri kaydetmemektir. Altıncısı, internetten bulunan ilaç dozlarını uygulamaktır. Ayçiçeğinde canavar otu, çeşit, ekim nöbeti ve hijyenle yönetilebilen bir sorundur; tek bir yöntem yetmez.
+@sss
+S: Canavar otu ayçiçeğine nasıl zarar verir?
+C: Ayçiçeği köküne tutunup besin ve su çeker. Bitki bodur kalır, başı küçülür, verim düşer. Araştırma derlemeleri hassas hibritlerde kaybın yüzde 50'yi aşabildiğini bildirir.
+
+S: Canavar otu belirtisi nedir?
+C: Ayçiçeği dibinde topraktan çıkan, yaprağı olmayan soluk sarı ya da kahverengimsi saplar en belirgin işarettir. Bitkide bodurlaşma ve solgunluk da görülür.
+
+S: Canavar otuna karşı en etkili önlem nedir?
+C: Üniversite ve FAO kaynaklarına göre dayanıklı hibrit seçimi temeldir; konukçu olmayan bitkilerle uzun ekim nöbeti ve alet temizliği onu tamamlar. Hangi ırklara dayanıklı olduğuna bakın.
+
+S: Canavar otu için hangi ilaç kullanılır?
+C: İlaç adı ve doz burada yazılmaz. Ruhsatlı ürün ve uygulama koşulları için il ya da ilçe tarım ve orman müdürlüğüne ve ziraat mühendisine danışın.
+
+### YAZI
+slug: tarim-kireci
+baslik: Tarım Kireci: Asit Toprağı Kireçleme ve Dekara Miktar
+yayin: 2027-03-30 19:30
+yazar: Halil İbrahim Çelik
+kategori: toprak-rehberi
+odak: tarım kireci
+seo_baslik: Tarım Kireci: Kireçleme ve Dekara Miktar
+seo_aciklama: Tarım kireci asit toprağın pH'ını yükseltir. Miktar toprak analizindeki tampon pH ve kirecin kalitesine göre belirlenir; karıştırma ve zamanlama.
+ozet: Tarım kireci, asit toprağın pH'ını yükseltmek için kullanılan öğütülmüş kireçtaşıdır. Gereken miktar tahminle değil, toprak analizindeki tampon pH ve kirecin nötralize gücüne göre belirlenir. Üniversite kaynaklarındaki hesap mantığını, dekara örnek dönüşümü, karıştırma ve zamanlamayı anlattık.
+etiketler: tarım kireci, kireçleme, asit toprak, tampon pH, dekara kireç, toprak pH, kireç miktarı
+gorsel: bekliyor
+gorsel_alt: Tarlaya serilmiş toz tarım kireci ve toprak analiz raporu
+urunler: hg-asidik-torf
+kisaca: Tarım kireci, asit toprağın pH'ını yükselten öğütülmüş kireçtaşıdır; miktar tahminle değil toprak analizindeki tampon pH ve kirecin kalitesine göre hesaplanır. Nebraska Üniversitesi örneğinde tampon pH her 0,1 azaldıkça yaklaşık 112–134 kg/da kireç önerilir; kireç yüzeyde kalırsa yalnız üst birkaç santimde etkili olur, bu yüzden toprağa karıştırılmalıdır.
+@govde
+Toprağın pH'ı düşükse (asitse), gübre verdiğiniz halde bitki beslenemez, bazı besinler bağlanır ve kök gelişimi zayıflar. Çözüm çoğu zaman tarım kirecidir; ama "ne kadar?" sorusu tahminle değil ölçümle yanıtlanır. Az kireç etki etmez, çok kireç ise pH'ı gereğinden fazla yükseltip başka eksiklikler doğurur. Bu yazı tarım kirecinin ne olduğunu, miktarın nasıl belirlendiğini, ABD üniversite kaynaklarındaki bir örnek hesabı ve uygulama ilkelerini anlatıyor. Dolomitin magnezyum yönü için [dolomit nedir](/dolomit-nedir) yazısı ayrı bir kaynaktır; bu yazı miktar ve uygulamaya odaklanıyor.
+
+## Tarım kireci nedir, ne işe yarar?
+
+Tarım kireci, öğütülmüş kireçtaşıdır (kalsiyum karbonat) ve dolomitik kireç taşı kullanıldığında magnezyum da içerir. Asit toprağa karıştırıldığında toprağın asitliğini nötrler ve pH'ı yükseltir. pH düzeldikçe kalsiyum ve magnezyum gibi besinler artar, bazı zehirli elementlerin etkisi azalır ve bitki köklerinin besin alımı düzelir. Bahçe ve tarlada toprak pH'ının hangi bitki için ne olması gerektiğini bilmek için [hangi bitki hangi toprağı sever](/hangi-bitki-hangi-topragi-sever) yazısına bakabilirsiniz. Ancak bütün bitkiler kireç istemez: Yaban mersini, ortanca, açelya gibi asit seven bitkiler için toprak asidik kalmalıdır; onlara kireç uygulamayın.
+
+## Önce toprak analizi: pH ve tampon pH
+
+Miktarı belirlemenin ilk adımı toprak analizidir. Analizde iki değer önemlidir: toprağın şu anki pH'ı ve tampon pH'ı. Nebraska Üniversitesi Yayım Servisi'nin [toprak asitliği ve kireçleme yayını (G1504)](https://extensionpubs.unl.edu/publication/g1504/html/view), toprak pH'ı belirli bir düzeyin altındayken laboratuvarın tampon çözeltiyle ölçüm yaptığını açıklar: Tampon pH hem aktif hem de rezerv asitliği yansıtır; ölçülen tampon pH'ı 7'nin ne kadar altına düşerse rezerv asitlik ve kireç ihtiyacı o kadar yüksektir. Yani yalnızca "pH 5,5" bilgisi kireç miktarı için yeterli değildir; aynı pH'ta kil ve organik maddesi yüksek toprak, kumlu topraktan çok daha fazla kireç ister. Analiz sonuçlarının okunması için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısı pH, kireç ve organik madde yorumunu anlatıyor.
+
+## Miktar hesabı: Nebraska örneği ve dekara dönüşüm
+
+Aynı Nebraska yayımı, bir pratik kural verir: Tampon pH 7,0'ın altında her 0,1'lik düşüş için, kireç kalitesi yaklaşık yüzde 60 etkin kalsiyum karbonat eşdeğeri (ECCE) olan tarım kireci için hektar başına bir miktar kireç önerilir; bu, üst 7 inçlik (yaklaşık 18 cm) toprakta pH'ı yaklaşık 6,5'e çıkarmak içindir. Yayımdaki değer, dönüm başına (acre) 1000–1200 pound'dur. Bunu metrik sisteme çevirirsek her 0,1 tampon pH düşüşü için yaklaşık 112–134 kg/da (1120–1345 kg/ha) eder. Kirecin kalitesi yüzde 60'tan farklıysa miktar 60 bölü gerçek ECCE ile çarpılarak ayarlanır.
+
+Örnek (aritmetik açıklama, öneri değil): Tampon pH'ı 6,6 çıkmışsa, 7,0'a göre 0,4'lük bir düşüş var demektir; bu da dört adım demektir. Dört adımı 112–134 kg/da ile çarparsak yaklaşık 450–540 kg/da bir aralık bulunur. Bu rakam yalnızca yayımdaki kuralın dönüştürülmüş hâlidir; Türkiye'deki laboratuvarlar farklı yöntem ve birim kullanabilir ve kireç kalitesi ürüne göre değişir. Bu yüzden kendi analiz raporunuzdaki kireç gereksinimi önerisini ve satın alacağınız kirecin nötralize etme değerini esas alın; ziraat mühendisine danışın.
+
+| Faktör | Miktarı nasıl etkiler? | Not |
+|---|---|---|
+| Tampon pH | Düşükse daha çok kireç gerekir | Laboratuvarın verdiği değere bakın |
+| Toprak tipi | Killi ve organik maddeli toprak daha çok ister | Kumlu toprak daha az |
+| Kirecin kalitesi (ECCE) | Düşük kaliteli kireçte miktar artar | Etiketteki değere bakın |
+| Hedef pH | Bitkiye göre belirlenir | Her bitki 6,5 istemez |
+| Karıştırma derinliği | Daha sığ karıştırmada daha az kireç yeter | Yayımlar derinlik belirtir |
+
+## Kireci toprağa karıştırın
+
+Kireç suda çok az çözünür; bu yüzden toprağın içinde asitle temas etmesi gerekir. Oregon Eyalet Üniversitesi Yayım Servisi'nin [kireçleme yayını](https://extension.oregonstate.edu/sites/default/files/documents/em9057.pdf), kireç toprağa karıştırılmazsa pH'ın yalnızca üstteki bir iki inçte yükseldiğini anlatır; çünkü kireç ancak asidik toprakla temas ederse tepkimeye girer. Tarlada kirecin sürümle ya da diskle toprağa karıştırılması, yani yüzeye serip bırakılmaması bu yüzden önemlidir. Sürülmeyen çayır ve meraya uygulanan kireç yüzeyde etki eder ve etkisi yavaş derine iner.
+
+::: adimlar
+Toprak analizi yaptırın | pH, tampon pH ve organik madde değerlerini öğrenin.
+Hedef pH'ı belirleyin | Yetiştireceğiniz bitkinin ister pH aralığına bakın.
+Kireç miktarını hesaplayın | Analiz raporundaki öneriyi ve kirecin kalitesini kullanın.
+Eşit serin | Kirecin tarlaya eşit dağılması için düzgün bir serici kullanın.
+Toprağa karıştırın | Sürüm ya da diskle kireci toprağa karıştırın.
+Yeniden analiz yapın | Birkaç ay sonra pH'ı kontrol edin, gerekirse tekrar uygulayın.
+:::
+
+## Ne zaman uygulanır, ne kadar sürede etki eder?
+
+Kireç yavaş etki eder; pH'ın yükselmesi aylar sürebilir. Bu yüzden ekimden olabildiğince önce, ideal olarak sonbaharda ya da ekimden birkaç ay önce uygulayıp toprağa karıştırmak iyi sonuç verir. Tarla sürümü zamanı için [sonbaharda tarla sürümü](/sonbaharda-tarla-surumu) yazısı yardımcı olur. Kireci aynı gün gübreyle çok yoğun karıştırmayın; özellikle amonyum içeren azotlu gübrelerle bir araya geldiğinde bazı kayıplar olabilir; ayrı zamanlarda uygulamak daha güvenlidir.
+
+Kirecin etkisi kalıcı değildir; yağış, bitki alımı ve özellikle amonyum azotlu gübreler pH'ı zamanla yeniden düşürür. Nebraska yayımı, amonyum azotlu gübre kullanıldığında pH'ın yıllık düşüş hızının yaklaşık 0,1 birim olabildiğini anlatır. Kumlu topraklarda pH daha hızlı düşer. Bu nedenle birkaç yılda bir toprak analizi tekrarlamak ve gerekirse küçük miktarda yeniden kireçlemek gerekir.
+
+## Kalsitik mi dolomitik mi?
+
+Kalsitik kireç yalnız kalsiyum karbonattır; dolomitik kireç ise magnezyum da içerir. Toprakta magnezyum düşükse dolomitik kireç hem pH'ı düzeltir hem magnezyum sağlar; magnezyum yeterliyse kalsitik kireç yeterlidir. Hangisinin uygun olduğu toprak analizindeki magnezyum değerine göre belirlenir. Dolomit hakkında ayrıntı için [dolomit nedir](/dolomit-nedir) yazısına bakın. Kireçli toprakta (pH yüksek) kireç uygulanmaz; tersine çözüm gerekir, o konuda [kireçli toprakta yetişen bitkiler](/kirecli-toprakta-yetisen-bitkiler) yazısı bilgi verir.
+
+## Ev bahçesi ve saksıda
+
+Küçük bahçede ya da yükseltilmiş yatakta tarım kirecini yine analize göre ve az miktarda kullanın; saksı toprağında ise hazır karışımın pH'ı çoğunlukla ayarlıdır. Üretici bilgisine göre HG Asidik Torf, doğal pH'ı 3,5–4,5 aralığında olan, yaban mersini, böğürtlen ve ortanca gibi asit seven bitkiler için hazırlanmış bir torftur; bu bitkilerde kireç değil, asidik ortam hedeflenir. Yaban mersini ve asidik toprağın ayrıntısı için [yaban mersini bahçesi kurmak](/yaban-mersini-bahcesi-kurmak) yazısına bakabilirsiniz.
+
+[ürün:hg-asidik-torf]
+
+## Güvenlik
+
+Toz kireç gözü, cildi ve solunum yollarını tahriş edebilir. Serme sırasında maske, gözlük ve eldiven kullanın; rüzgârlı havada uygulamayın. Çuvalları kuru ve çocukların ulaşamayacağı yerde saklayın; nemlenen kireç topaklanır. Kullanım talimatı ve güvenlik bilgisi için ürün etiketine bakın.
+
+## Sık yapılan hatalar
+
+Toprak analizi yapmadan kireç atmak en yaygın hatadır. İkincisi, yalnız pH'a bakıp tampon pH'ı yok saymaktır. Üçüncüsü, kireci yüzeye serip karıştırmamaktır. Dördüncüsü, kirecin kalitesini (ECCE) hesaba katmamaktır. Beşincisi, asit seven bitkilere kireç uygulamaktır. Altıncısı, başka ülkenin rakamlarını birebir uygulamaktır. Yedincisi, kireçlemeden sonra pH'ı yeniden kontrol etmemektir. Tarım kireci doğru analiz, doğru miktar ve doğru karıştırmayla asit toprağı verimli hâle getirir.
+@sss
+S: Tarım kireci nasıl uygulanır?
+C: Önce toprak analizi yaptırın; miktarı tampon pH'a ve kirecin kalitesine göre hesaplayın, eşit serin ve toprağa karıştırın. Karıştırılmayan kireç yalnızca üst bir iki inçte etki eder.
+
+S: Dekara kaç kilo kireç atılır?
+C: Toprağa ve kirecin kalitesine göre değişir; tahminle atılmaz. Nebraska Üniversitesi'nin örnek kuralı tampon pH'ın 7'nin altındaki her 0,1'i için yaklaşık 112–134 kg/da (yüzde 60 ECCE'li kireçle) önerir; kendi analiz raporunuzdaki öneriyi esas alın.
+
+S: Tampon pH nedir?
+C: Toprağın hem aktif hem de rezerv asitliğini yansıtan ölçümdür. Değer 7'nin ne kadar altına inerse kireç ihtiyacı o kadar yüksektir. Aynı pH'taki iki toprak çok farklı kireç ister.
+
+S: Tarım kireci ne kadar sürede etki eder?
+C: Yavaş etki eder; pH'ın yükselmesi aylar sürebilir. Ekimden önce, ideal olarak sonbaharda uygulayıp toprağa karıştırın ve birkaç ay sonra pH'ı yeniden ölçün.

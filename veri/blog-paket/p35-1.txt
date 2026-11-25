@@ -1,0 +1,246 @@
+### YAZI
+slug: 1-donum-kac-metrekare-dekar-ve-hektar-cevirisi
+baslik: 1 Dönüm Kaç Metrekare? Dönüm, Dekar ve Hektar Çevirisi
+yayin: 2027-01-27 08:45
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: 1 dönüm kaç metrekare
+seo_baslik: 1 Dönüm Kaç Metrekare? Dekar ve Hektar Çevirisi
+seo_aciklama: 1 dönüm kaç metrekare? Bugünkü dönüm 1.000 m², yani 1 dekardır. Hektar, ar ve eski 919 m² dönüm farkıyla tarla ve bahçe alanını doğru çevirin.
+ozet: Tarla ilanında dönüm, tapuda metrekare, gübre torbasında dekar yazıyor ve her biri başka bir şey gibi duruyor. Birimlerin birbirine nasıl çevrildiğini, 919 metrekarelik eski dönümün nereden geldiğini ve kendi arazinizin alanını nasıl hesaplayacağınızı anlattık.
+etiketler: dönüm, dekar, hektar, metrekare, arazi ölçüsü, alan hesabı
+gorsel: bekliyor
+gorsel_alt: Düzenli sıralar halinde ekilmiş geniş bir tarla parseli
+urunler: moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-38-190x85, moduler-yukseltilmis-bahce-yatagi-153-litre
+kisaca: Bugün 1 dönüm 1.000 metrekaredir; dekarla aynı alandır. Hektar 10.000 metrekare, yani 10 dönümdür. Eski Osmanlı dönümü ise yaklaşık 919 metrekare sayılırdı. Alış verişte ve gübre ya da tohum hesabında 1.000 m² değerini kullanın, tapuda yazan metrekareyi esas alın.
+@govde
+Bir dönüm bugün 1.000 metrekaredir. Yani 1 dönüm kaç metrekare sorusunun cevabı, dekarın cevabıyla aynıdır: 1 dönüm = 1 dekar = 1.000 m². Hektar bunun on katıdır. Ölçü kafa karıştırıyorsa nedeni genellikle ilanda dönüm, tapuda metrekare, torbada dekar yazması ve eski köy ölçülerinin hâlâ konuşmada yaşamasıdır. Aşağıda birimleri tek tabloda topladık ve kendi parselinizin alanını nasıl bulacağınızı adım adım gösterdik.
+
+## 1 dönüm kaç metrekare, dekar ve hektar neye denk gelir?
+
+Dönüm günlük dilde, dekar ise resmî yazışmalarda ve ürün etiketlerinde geçer. İkisi aynı alanı anlatır. Hektar daha büyük parseller için kullanılır ve [Vikipedi'nin hektar maddesi](https://tr.wikipedia.org/wiki/Hektar) bir hektarı 10.000 metrekare olarak verir. Aşağıdaki tablo, aynı alanın farklı birimlerdeki karşılığını gösteriyor.
+
+| Birim | Metrekare | Dönüm (dekar) |
+|---|---|---|
+| 1 metrekare (m²) | 1 | 0,001 |
+| 1 ar | 100 | 0,1 |
+| 1 dönüm (1 dekar) | 1.000 | 1 |
+| 1 hektar | 10.000 | 10 |
+| 1 acre (ekir) | yaklaşık 4.047 | yaklaşık 4,05 |
+| 1 kilometrekare | 1.000.000 | 1.000 |
+
+Son satırlardaki acre, İngilizce kaynaklarda geçen bir ölçüdür. Yabancı bir çiftlik rehberinde "acre" okuyorsanız onu dönümle karıştırmayın; bir acre yaklaşık dört dönümdür.
+
+## Eski dönümün 919 metrekare olması nereden geliyor?
+
+Dönüm, başlangıçta bir çift öküzle bir günde sürülebilen toprak parçasını anlatan bir ölçüydü. Bu yüzden her bölgede, her dönemde biraz farklıydı. [Vikipedi'nin dunam (dönüm) maddesi](https://en.wikipedia.org/wiki/Dunam) eski Osmanlı dönümünü yaklaşık 919 metrekare olarak verir ve modern Türkiye'de metrik sisteme göre 1.000 metrekare kullanıldığını belirtir.
+
+Bugün hâlâ yaşlı çiftçilerden "bizim tarla yedi dönüm" cümlesini duyarsınız. Bu cümlenin arkasında 7.000 metrekare olabileceği gibi, eski ölçüyle sayılmış daha küçük bir alan da olabilir. Alım satımda, kira konuşmasında ya da gübre hesabında sözlü ölçüye güvenmeyin. Tapuda yazan yüzölçümü metrekare cinsindendir; dönümü ona göre çevirin. Kiralık arazi bakıyorsanız [tarla kiralama rehberi](/tarla-kiralama) sözleşmede nelere bakılacağını ayrıca anlatıyor.
+
+## Kendi arazinizin alanını nasıl hesaplarsınız?
+
+Alanı bulmak için pahalı bir alete gerek yok. Bir şerit metre, birkaç kazık ve bir hesap makinesi çoğu bahçe ve tarla için yeter.
+
+::: adimlar
+Şekli sadeleştirin | Parseli dikdörtgenlere ve üçgenlere bölün; kâğıda kabaca çizip her parçaya bir harf verin.
+Kenarları ölçün | Şerit metreyle her parçanın en ve boyunu alın. Uzun mesafede iki kişi çalışın, ip gergin dursun.
+Parçaları hesaplayın | Dikdörtgende en × boy, üçgende taban × yükseklik ÷ 2 alanı verir. 25 m × 40 m = 1.000 m², yani tam bir dönüm eder.
+Toplayıp dönüme çevirin | Parçaların metrekarelerini toplayın, 1.000'e bölün. 3.600 m² çıkıyorsa parsel 3,6 dönümdür.
+Tapuyla karşılaştırın | Çıkan değeri tapudaki yüzölçümüyle kıyaslayın; küçük fark kenar eğrilerinden gelir, büyük fark ölçünün yeniden gözden geçirilmesi demektir.
+:::
+
+Adım sayarak da kaba hesap yapılır: yetişkin bir adımı genellikle 70-80 cm civarındadır. Kendi adımınızı bir kere 10 metrelik şeritte sayıp ortalamasını bulursanız, tarlanın kenarlarını adımla yürüyerek tahmin edebilirsiniz. Telefon uygulamalarıyla sınır noktalarını işaretlemek de mümkündür ama sonuç birkaç metre sapabilir; bu yöntemi kesin ölçü yerine ön bilgi olarak görün.
+
+## Küçük bahçede dönümü metrekare ve litreye çevirmek
+
+Hobi bahçesi ve balkon sahipleri dönümle pek karşılaşmaz; onlar için asıl birim metrekaredir. Aşağıdaki tablo yaygın alanların dönüm karşılığını gösteriyor.
+
+| Alan | Metrekare | Dönüm |
+|---|---|---|
+| Balkon sebze yatağı | yaklaşık 1-2 | 0,001-0,002 |
+| Küçük ev bahçesi | 100 | 0,1 |
+| Orta büyüklükte hobi bahçesi | 250 | 0,25 |
+| Yarım dönümlük arsa | 500 | 0,5 |
+| Tam dönüm | 1.000 | 1 |
+
+Santimetreyle verilen ölçüleri metrekareye çevirmek için en ile boyu çarpıp 10.000'e bölün. Örneğin 190 × 85 cm'lik bir yükseltilmiş yatak 16.150 cm², yani yaklaşık 1,6 m² eder. Ürün sayfasında bu yatağın ekim alanı yaklaşık 1,59 m² olarak geçer; aradaki küçük fark kenar parçalarının kapladığı yerdir. Yükseklik 30 cm olduğundan yatağı doldurmak için yaklaşık 450 litre toprak gerekir. Litre ve hacim hesabının ayrıntısı için [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazımıza bakabilirsiniz.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-38-190x85]
+
+## Dönüm başına bitki sayısını metrekareden bulmak
+
+Alan bilindiğinde dikim sayısı da hesaplanır. Bir bitkinin kapladığı alan, sıra aralığı ile sıra üzeri mesafenin çarpımıdır. 1.000 m²'yi bu değere bölerseniz bir dönümdeki kaba bitki sayısını bulursunuz. Tabloda yol, kanal ve kenar boşlukları çıkarılmamış brüt değerler var; gerçek sayı bunun altında kalır.
+
+| Sıra aralığı × sıra üzeri | Bitki başına alan | Bir dönümde yaklaşık bitki |
+|---|---|---|
+| 50 × 30 cm | 0,15 m² | 6.670 |
+| 70 × 40 cm | 0,28 m² | 3.570 |
+| 100 × 50 cm | 0,50 m² | 2.000 |
+| 4 × 4 m (meyve ağacı) | 16 m² | 62 |
+| 5 × 5 m (meyve ağacı) | 25 m² | 40 |
+
+Meyve ağacı aralıklarının tür ve anaca göre değiştiğini unutmayın; yukarıdaki satırlar yalnız hesap örneğidir. Ağaç dikiminde çukur ölçüsü ve aralık kararı için [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazısı iyi bir başlangıçtır.
+
+## Metrekare hesabı ne zaman işe yarar?
+
+Alanı bilmek, bahçede ve tarlada pek çok kararın başlangıcıdır. Kiralama ya da satın alma konuşurken metrekare fiyatını dönüm fiyatından ayrı hesaplayın; iki rakamı yan yana koyduğunuzda aradaki fark hemen görünür. Tohum, fide ve toprak ihtiyacı alanla orantılı büyür. Küçük bir bahçede metrekareyi verimli kullanmak için [metrekare bahçeciliği](/metrekare-bahceciligi) yaklaşımı iyi bir başlangıçtır. Tarlada ise dönüm başına maliyet ve verim kıyaslarını [dekar başına maliyet hesabı](/dekar-basina-maliyet) yazısındaki tabloyla yapabilirsiniz.
+
+Hesaba girmeden önce şunları kontrol edin:
+
+- Etiketteki birimin dönüm mü, dekar mı, hektar mı olduğuna bakın. Hektar için yazılan miktarı dönüme uygularsanız on kat fazla ya da eksik uygulama yaparsınız.
+- Üründe "dekara" yazıyorsa hesabı 1.000 m² üzerinden yapın; 919 m² ile hesap yapmak hatalı olur.
+- Parselin tamamı ekilebilir alan değildir. Yol, kanal, ağaç dibi ve sınır boşluğunu çıkarıp net ekim alanını ayrıca yazın.
+- Yatak ya da sıra aralarında kalan yürüme yollarını da net alandan düşün.
+
+## Etikette dekara yazan miktarı küçük alana uyarlamak
+
+Gübre, tohum ya da toprak düzenleyici torbalarında miktar çoğu zaman dekar başına verilir. Küçük bir bahçeye uyarlamak için alanı dönüme çevirip miktarla çarparsınız. Elinizde etikette "dekara 20 kg" yazan bir ürün olsun (rakam yalnızca örnektir). 250 m²'lik bahçe 0,25 dönüm eder; 20 × 0,25 = 5 kg bulursunuz. Aynı işlemi 60 m² için yaparsanız 20 × 0,06 = 1,2 kg çıkar.
+
+Hesabı yaparken bitkinin ihtiyacını değil, etikette yazılan uygulama oranını esas alın. Oranı kendi kendinize artırmak kök yanmasına yol açabilir; belirsizlik varsa il ya da ilçe tarım müdürlüğüne danışın.
+
+## Eğimli ve şekilsiz arazilerde ölçüm hatası
+
+Yamaçta şerit metreyi yere paralel çekmek zordur. Eğimli zeminde yüzeyi izleyerek ölçtüğünüz mesafe, aynı noktaların yataydaki uzaklığından büyük çıkar. Bu fark küçük eğimde azdır, dik yamaçta ise belirginleşir. Kaba hesapta kenarları mümkün olduğunca yatay tutarak ölçün. Parselde kuru dere yatağı, kaya ya da sulama kanalı varsa onları ayrı bir parça olarak çizip toplam alandan çıkarın.
+
+## Birimleri karıştırmamak için kısa hatırlatma
+
+Yeniden sorarsak, 1 dönüm kaç metrekare? Cevap yine 1.000 m². Dönüm ile dekarı aynı sayın ve bu değeri aklınızda tutun. Hektarın 10 dönüm, arın 0,1 dönüm olduğunu aklınızda tutun. Eski ölçüler ve acre için dönüşüm gerekiyorsa tablodan ya da hesap makinesinden bakın; tahminle hesap yapmayın.
+
+Aynı bahçeye çok sayıda yatak planlıyorsanız her yatağın dış ölçüsünü ve aralarındaki geçiş yollarını yazın. Bahçe düzeni için 60-90 cm'lik yürüme aralığı bırakmak çoğu zaman rahat bir ölçüdür.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-153-litre]
+@sss
+S: 1 dönüm kaç metrekare eder?
+C: Bugün kullanılan ölçüye göre 1 dönüm 1.000 metrekaredir. Dekarla aynı alandır; hektarın onda biri, yani 0,1 hektardır.
+
+S: 1 dönüm ile 1 dekar aynı mıdır?
+C: Evet. Dönüm günlük dilde, dekar ise resmî belgelerde ve ürün etiketlerinde kullanılır. İkisi de 1.000 m²'ye karşılık gelir.
+
+S: 919 metrekarelik dönüm hâlâ geçerli mi?
+C: 919 m² eski Osmanlı dönümünün değeridir. Bugünkü hesaplarda, tapuda ve ürün etiketlerinde 1.000 m² esas alınır; 919 yalnızca eski kayıtlarda karşınıza çıkar.
+
+S: 1 hektar kaç dönüm eder?
+C: 1 hektar 10.000 metrekaredir, yani 10 dönüm ya da 10 dekara eşittir.
+
+### YAZI
+slug: yukseltilmis-yatagin-altina-ne-serilir
+baslik: Yükseltilmiş Yatağın Altına Ne Serilir? Karton, Kumaş ve Çıplak Zemin
+yayin: 2027-01-27 12:10
+yazar: Rümeysa Altınova
+kategori: bahce-ipuclari
+odak: yükseltilmiş yatağın altına ne serilir
+seo_baslik: Yükseltilmiş Yatağın Altına Ne Serilir? Zemine Göre Seçim
+seo_aciklama: Yükseltilmiş yatağın altına ne serilir? Çimenli zeminde karton, beton zeminde drenaj, köstebekli bahçede tel; zemin türüne göre doğru taban katmanı.
+ozet: Yatağı kurmadan önce zemine bir şey sermek gerekir mi? Çimenli, otlu, betonlu ve köstebekli zeminler için hangi taban katmanının işe yaradığını, landscape kumaşın neden sorun çıkarabildiğini ve kartonun nasıl serileceğini anlattık.
+etiketler: yükseltilmiş yatak, yatak zemini, karton, yabani ot, drenaj, bahçe yatağı
+gorsel: bekliyor
+gorsel_alt: Çimenli zemine serilmiş düz karton üzerinde kurulmayı bekleyen yükseltilmiş bahçe yatağı
+urunler: moduler-yukseltilmis-bahce-yatagi-153-litre, hg-bol-verimli-sebze-topragi, hasturk-kati-solucan-gubresi
+kisaca: Çimenli ya da otlu zeminde yatağın altına üst üste 3-4 kat düz karton serin ve kenarları birkaç santim bindirin. Beton ya da fayans zeminde taban serilmez, drenaj düşünülür. Plastik landscape kumaş çoğu bahçede gerekmez; ot kökleri içinden geçer, su ve kökler de sınırlanır.
+@govde
+Yükseltilmiş yatağın altına ne serilir sorusunun cevabı zemine bağlıdır. Çimenli ya da otlu zeminde üst üste birkaç kat düz karton serilir; beton ya da fayans üzerinde taban katmanı yerine drenajı düşünmek gerekir. Köstebek ve fare bulunan bahçelerde ince gözlü tel işe yarar. Plastik kumaş ise çoğu durumda yatağa yarardan çok zarar verir. Aşağıda her zemin türü için ne yapılacağını, kartonun nasıl serileceğini ve nelerden kaçınılacağını anlattık.
+
+## Yükseltilmiş yatağın altına ne serilir sorusu neden önemli?
+
+Yükseltilmiş yatağı çimenin ya da otlu toprağın üstüne kurduğunuzda, alttaki otlar ışık göremese bile bir süre direnir. Ayrık otu ve sarmaşık türleri gibi köklü yabani otlar yatağın içine sızabilir. Bir taban katmanı bu geçişi yavaşlatır.
+
+Diğer bir sebep, yatağın toprağıyla yer arasındaki ilişkidir. Alt zemin sıkışık ise kökler derine inmez, su birikir. Bu durumda taban katmanından çok yatak altındaki toprağın gevşetilmesi gerekir. Yatağı doğru kurmanın tüm adımları için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazımıza bakın.
+
+## Zemin türüne göre taban katmanı
+
+Aşağıdaki tablo, en sık karşılaşılan zeminler için pratik bir yol haritası veriyor.
+
+| Zemin | Önerilen taban | Dikkat |
+|---|---|---|
+| Çimenli alan | 3-4 kat düz karton, kenarlar bindirmeli | Karton ıslatılır; bant ve etiket sökülür |
+| Otlu ya da sürülmemiş toprak | Önce otu kesin, sonra karton | Kök kalıntılarını elle çekin |
+| Sıkışık, killi zemin | Çatalla gevşetin, kartonu isteğe bağlı koyun | Su birikmesini kontrol edin |
+| Beton, fayans, deck | Taban serilmez; drenaj ve alt tepsi düşünülür | Su akışı komşuya ya da duvara gitmesin |
+| Köstebek ve fare bulunan bahçe | İnce gözlü galvaniz tel | Tel kenarlara dikey de uzatılır |
+| Çakıl ve taş zemin | Kumaş ya da karton gerekmez; toprağın taşa karışmaması için ince katman | Kenarlardan taşan çakılı toplayın |
+
+## Karton nasıl serilir, ne kadar kalır?
+
+[Oregon State Üniversitesi Extension](https://extension.oregonstate.edu/gardening/techniques/sheet-mulching-aka-lasagna-composting-builds-soil-saves-time) örtüleme rehberinde kâğıt ya da karton bariyerin, altındaki otlara ışık geçirmeyerek onları bastırdığını anlatır. Aynı rehber, karton katmanının su ve hava geçişini sınırlayabileceğini de belirtir. Birkaç kat serilecekse üstteki katların delinmesini önerir; böylece hava ve su geçer ama ot açıklık bulamaz.
+
+::: adimlar
+Alanı hazırlayın | Yatağın ayak izinden biraz büyük bir alanı biçin; çimeni kökünden sökmeniz gerekmez, kısa kesmek yeter.
+Kartonu ayıklayın | Bant, etiket ve parlak baskılı yüzeyleri sökün; düz, mat karton kullanın.
+Serin ve ıslatın | Karton parçalarını kenarları 10-15 cm bindirerek serin, hortumla iyice ıslatın ki yerinde dursun.
+Yatağı kurun | Çerçeveyi kartonun üstüne oturtup montajı tamamlayın; kenardan taşan karton uçlarını kesin.
+Doldurun | Yatağı topraklarla doldurup ilk sulamayı yapın; karton birkaç ayda çürüyüp köklere geçit bırakır.
+:::
+
+Karton birkaç ay içinde ıslanıp ayrışır. Köklerin geçeceği zamana kadar ot baskısı da devam eder. Bu süre toprağın kalitesine ve neme göre değişir; sabit bir süre vermek doğru olmaz. Kökler karton üzerinde yan yatıyorsa, kartonda delikler açmak yeterli olur.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-153-litre]
+
+## Landscape kumaş ve plastik örtü neden önerilmez?
+
+Pek çok kişi yatağın altına geçirimsiz plastik ya da dokuma kumaş serer. Oysa üniversite yayım servislerinin soru-cevap sayfalarında bu uygulama genellikle önerilmez. [Ask Extension'daki bir yanıt](https://ask.extension.org/kb/faq.php?id=894862) yatak altındaki bariyerin gereksiz olduğunu, yatak toprağı ile alt toprak arasındaki hava, su, kök ve toprak canlılarının geçişini engelleyebileceğini ve mümkünse sökülmesini söyler. [Penn State Extension](https://extension.psu.edu/putting-an-end-to-my-landscape-fabric-nightmare) yazısı ise peyzaj kumaşlarının kalıcı alanlarda etkili ot kontrolü sağlamadığını aktarır.
+
+Pratikte şunu görürsünüz: toprak yatağın içinde kalır, kökler yatağın altına inip derinlerden su bulamaz. Yağışlı bir bahar sonrası alt kısımda su durur. Kumaşın içinden çıkan otlar ise elle sökmeyi güçleştirir. Kumaşı yalnızca alttaki zeminin kontamine olduğu, örneğin eski ilaçlı bir alanın üstünde, kök bölgesini ayırmak için düşünebilirsiniz.
+
+## Kartonla birlikte kullanılabilecek diğer malzemeler
+
+Düz karton bulamıyorsanız gazete kâğıdı da benzer iş görür. Gazete kâğıdı kartondan ince olduğu için çok kat serilmesi, kenarların bindirilmesi ve hemen ıslatılması gerekir. Renkli, parlak baskılı sayfalar yerine siyah beyaz mat kâğıt kullanın.
+
+Bahçede biçilmiş çim ya da yaprak varsa kartonun üstüne ince bir katman olarak yayabilirsiniz. Bu katman toprağa dolmadan önce hem alt zemini hem de yatağın dibini besler. Ağaç kabuğu ya da iri talaş ise yatağın içine karışmaz, yatağın dışındaki yürüme yoluna malç olarak serilir; yatak ile komşu yatak arasında ot çıkmaması için [malç çeşitleri](/malc-cesitleri) yazısındaki seçeneklere göz atın.
+
+## Köstebek, fare ve zemin hazırlığı
+
+Yatağın alt tarafı kemirgenler için güvenli bir yuva olabilir. Köstebek ve fare şikâyeti olan bir bahçede [bahçede köstebek](/bahcede-kostebek) ve [bahçede fare](/bahcede-fare) yazılarındaki önlemlere bakın. Yatağın tabanına ince gözlü galvaniz tel serilir ve kenar duvarlardan 20-30 cm dışarı taşırılırsa, tünel açmak zorlaşır. Teli ince kıvrımla kenara tutturun ve toprağın drenajını engellemeyin.
+
+Hafif bir yan not: yatağın altındaki kartonu ya da teli ilk yıl bir kere kaldırıp altına bakmak gerekmez. Yatağı sökmeniz gerekirse tel ve kalıntılar ayıklanır.
+
+## Beton, deck ve balkon zeminlerinde farklı düşünün
+
+Beton ya da fayans zeminde karton sermenin anlamı yoktur; ot çıkmayacağı için asıl mesele su ve kökün sıkışmasıdır. Açık tabanlı yatak bu tür zeminde toprağı dışarı taşırabilir; kapalı tabanlı ve alt tepsili model kullanın ya da altına geniş bir drenaj tepsisi koyun. Balkonda zemin korumak için [balkon zemini nasıl korunur](/balkon-zemini-nasil-korunur) yazısı saksı altlığı ve su tahliyesi seçeneklerini gösteriyor.
+
+Yatak toprağını seçerken sebzeye uygun, süzek ve organik maddesi yeterli bir karışım kullanın. [Bahçe yatağı toprağı](/bahce-yatagi-topragi) yazısında hacim ve karışım hesabı var.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Yatağı kurmadan önce zemini gevşetmek
+
+Taban katmanından önce zemin hazırlığı gelir. Sıkışmış bir zeminin üstüne kurulan yatakta kökler alt toprağa inemez ve fazla su yatağın dibinde bekler. Bu yüzden yatağın oturacağı alanı bir bahçe çatalıyla birkaç yerden delip hafifçe oynatmak iyi bir alışkanlıktır; toprağı ters çevirmeye gerek yoktur. Zemin su tutuyorsa yatağı bir iki parmak yükseltmek ya da çevresine drenaj hendeği açmak da düşünülebilir.
+
+Zeminin düz olması da önemlidir. Eğimli yerde yatağın bir köşesi havada kalırsa dolu toprağın ağırlığı çerçeveyi zorlar. Küçük eğimleri ince bir kum ya da toprak katmanıyla dengeleyip su terazisiyle kontrol edin. Yatağın boyutlarına karar verirken [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) yazısı yol gösterir.
+
+## Sezon boyunca takip
+
+Yatak dolduktan sonra ilk iki ay kenarları gözleyin. Kartonun altından ot çıkıyorsa, çoğu zaman kartonun bindirmesi yetersizdir ya da yatağın kenarı toprakla örtülmemiştir. Çıkan otu sökün ve o noktayı yeniden kartonlayın. Köklü ayrık otları parçalanırsa her parçadan yeniden sürebilir; bu otlara karşı yatağı kurmadan önce zemini elle temizlemek en kalıcı çözümdür.
+
+Yatağı sonbaharda ya da bir sonraki bahar yeniden doldurduğunuzda alt katmana bir daha bakın. Karton çürümüşse kökler geçmiştir ve yeni bir taban serilmesi gerekmez. Yabani ot baskısını daha genel olarak azaltmanın yolları için [yabani otla doğal mücadele](/yabani-otla-dogal-mucadele) yazısına bakabilirsiniz.
+
+## Kısaca kontrol listesi
+
+Yükseltilmiş yatağın altına ne serilir sorusunu şu sırayla cevaplayın: zemin çimen mi, beton mu? Çimense karton; beton ise drenaj. Kemirgen varsa tel. Kumaş ve plastik yalnızca özel bir gerekçe varsa. Taban katmanını ne olursa olsun, yatağın toprağının derinlerle bağlantı kurmasına izin verecek biçimde bırakın.
+@sss
+S: Yükseltilmiş yatağın altına karton serilir mi?
+C: Evet, çimenli ve otlu zeminde işe yarar. Düz, bantsız karton 3-4 kat serilir, ıslatılır ve kenarlar bindirilir. Karton aylar içinde çürür ve kökler alt toprağa geçebilir.
+
+S: Landscape kumaş yatağın altına serilmeli mi?
+C: Çoğu bahçede gerekmez. Ot kökleri kumaşın içinden geçip tutunabilir, suyun inmesi yavaşlar ve bitki kökleri alttan beslenemez. Özel bir gerekçe yoksa karton ya da çıplak zemin tercih edilir.
+
+S: Betonun üstüne kurulan yatağın altına ne konur?
+C: Beton zeminde taban katmanı gerekmez; asıl mesele su akışıdır. Kapalı tabanlı yatak ya da alt tepsi kullanılır, fazla suyun duvara veya komşuya akmaması sağlanır.
+
+S: Köstebek yatağın altına girer mi, tel nasıl serilir?
+C: Evet, yumuşak yatak toprağı kemirgenleri çeker. İnce gözlü galvaniz tel yatağın altına serilip kenarlardan 20-30 cm dışa taşırılırsa tünel açmak zorlaşır.
+
+### SORU
+yayin: 2027-01-27 21:05
+kategori: bahce-ipuclari
+baslik: Dönüm ile dekar aynı şey mi, ilanda "5 dönüm" yazıyor, tapuda 4.600 m² çıktı, neden?
+metin: Bir tarla ilanında 5 dönüm yazıyordu. Tapuyu görünce yüzölçümü 4.600 metrekare çıktı. Satıcı eski dönüm diyor. Pazarlık yaparken hangisini esas almalıyım?
+@cevap Mehmet Fatih Çelik | 2
+Bugün kayıtlarda ve ürün etiketlerinde 1 dönüm 1.000 m² sayılır; 5 dönüm yaklaşık 5.000 m² demektir. Eski köy ölçüsüyle bir dönüm 919 m² civarında hesaplanırdı ve 5 eski dönüm 4.595 m² eder, yani sizin tapudaki 4.600'e çok yakın. Muhtemelen satıcı eski ölçüyle konuşuyor. Pazarlıkta tapudaki yüzölçümünü esas alın, fiyatı metrekare başına kıyaslayın.
+
+### SORU
+yayin: 2027-01-27 21:40
+kategori: bahce-ipuclari
+baslik: Yükseltilmiş yatağı çimenin üstüne kuracağım, karton mu yoksa çimi sökmek mi daha iyi?
+metin: Bahçedeki çimli bir köşeye yatak kurmayı düşünüyorum. Çimi söküp toprağı mı açayım, yoksa üstüne karton serip mi kurayım? Çim yatağın içine çıkar mı diye korkuyorum.
+@cevap Rümeysa Altınova | 2
+İkisi de çalışır. Çimi kısa biçip düz kartonu 3-4 kat ve kenarları bindirerek serer, ıslatır, üstüne yatağı kurarsanız çimin ışığı kesilir ve zamanla çürür. Sökmek daha çok iş ama kesin çözümdür. Köklü ayrık otu varsa önce o bölgeyi elle temizleyin. İlk bahar yatağın kenarında çıkan otları hemen sökün, tohum vermesine izin vermeyin.

@@ -1,0 +1,827 @@
+{
+ "aciklama": "Mağaza eşitleme listesi (30 Ekim 2026): kaynak mağazada olup hedefte olmayan ürünler. tarim = HasTürk'ten Tarım Dünyası'na, hasturk = Tarım Dünyası'ndan HasTürk'e. Aynı ürünün farklı adla durduğu kayıtlar ile \"Kendi Toprak Karışımını Oluştur\" ve 0 TL perlit rehberi kullanıcı kararıyla dışarıda.",
+ "tarim": [
+  {
+   "id": "ef9b2d01-a86a-4b69-9574-57fc335fce9a",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu 180° Profil Ekleme Konnektörü No:1",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-180-profil-ekleme-konnektoru-no-1"
+  },
+  {
+   "id": "ab1c1ce9-1168-4554-ae59-a0b4682eea88",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu 90° Dirsek Profil Konnektörü No:2",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-90-dirsek-profil-konnektoru-no-2"
+  },
+  {
+   "id": "f26b8033-2973-4296-ba06-7b1c294a066a",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Beş Kollu Profil Konnektörü No:12-1",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-bes-kollu-profil-konnektoru-no-12-1"
+  },
+  {
+   "id": "90cc1475-eb88-49f9-821b-3246acd9ddd2",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:10-1",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-1"
+  },
+  {
+   "id": "2cd7398b-a4de-4562-9514-dd357f6c4a9c",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:10-2",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-2"
+  },
+  {
+   "id": "71cbca8c-cef6-44e3-b32d-17d551b3523e",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:11-1",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-11-1"
+  },
+  {
+   "id": "49f41e81-6007-49ca-9c05-b7f5e8d237b0",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:12-2",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-12-2"
+  },
+  {
+   "id": "c48c2b30-a6a2-4431-96d3-b0d3f3e48ed0",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:4",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-4"
+  },
+  {
+   "id": "7e544c0f-c03c-496d-9774-ae3e92a6b6fa",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:6",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-6"
+  },
+  {
+   "id": "48009763-14ae-40ea-a017-7ee368a9f2e6",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:8-1",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-8-1"
+  },
+  {
+   "id": "84a82a7b-53cf-4654-a31d-8878b48e1f63",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:8-2",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-8-2"
+  },
+  {
+   "id": "af1b09a9-fa23-415e-8722-77e240899404",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:9-1",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-9-1"
+  },
+  {
+   "id": "8ab8481b-36cb-4e3c-9cfe-d5ac9ae6a16a",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Dört Kollu Profil Konnektörü No:9-2",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-9-2"
+  },
+  {
+   "id": "69f8bc16-d894-4b11-b08e-10b495d0a9d5",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Üç Kollu Profil Konnektörü No:11-2",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-11-2"
+  },
+  {
+   "id": "e73127b3-469f-4c6b-9f45-172c6c757b80",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Üç Kollu Profil Konnektörü No:3",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-3"
+  },
+  {
+   "id": "84bd496a-ea40-477e-8c9f-ffea4f4019df",
+   "ad": "30x30 mm Kutu Profillerde Uyumlu Üç Kollu Profil Konnektörü No:5",
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-5"
+  },
+  {
+   "id": "f6903785-896a-482b-9838-d8bdb20005d2",
+   "ad": "Alocasia Fil Kulağı Bitkisi",
+   "slug": "alocasia-fil-kulagi-bitkisi"
+  },
+  {
+   "id": "a78f5e18-d932-4444-89b1-604ded64d63d",
+   "ad": "Altınvadi Kuşkonmaz Tohumu 12 Adet",
+   "slug": "altinvadi-kuskonmaz-tohumu"
+  },
+  {
+   "id": "79e1b932-e1b5-46a1-8b5e-71445cbc8f83",
+   "ad": "Aşılı Ay Kaktüsü Sukulent Aranjmanı",
+   "slug": "asili-ay-kaktusu-sukulent-aranjmani"
+  },
+  {
+   "id": "02ebd248-1627-4317-8d77-f86ae29cb2fe",
+   "ad": "Beyaz Kelebek Orkide",
+   "slug": "beyaz-kelebek-orkide"
+  },
+  {
+   "id": "bc183e16-2871-45a6-83c3-705bf48d764a",
+   "ad": "Biber Fidesi",
+   "slug": "biber-fidesi"
+  },
+  {
+   "id": "a437de96-2c8f-4ef1-a948-9b0df69df348",
+   "ad": "Domates Fidesi",
+   "slug": "domates-fidesi"
+  },
+  {
+   "id": "a22cfe5e-e244-45d5-9c33-d40983d1fd83",
+   "ad": "Doğatech BASIC 14-14-17 + %25 SO₃ Sonbahar ve Kış Çim Gübresi – 5 kg",
+   "slug": "dogatech-sonbahar-cim-gubresi-14-14-17"
+  },
+  {
+   "id": "924d1d1f-1757-4ba1-bda7-1faae309c77a",
+   "ad": "Dracaena Mısır Bitkisi",
+   "slug": "dracaena-misir-bitkisi"
+  },
+  {
+   "id": "4cdc0520-6e1f-444b-8b5a-b65eff24a0fe",
+   "ad": "Ekim Ayı Sebze Tohumu Seti – 6 Çeşit Kışlık Sebze Tohumu",
+   "slug": "ekim-ayi-sebze-tohumu-seti-6-cesit-kislik-tohum"
+  },
+  {
+   "id": "efc9f294-10af-4135-8c1e-500c74344e04",
+   "ad": "Eylül Ayı Sebze Tohumu Seti – 8 Çeşit Kışlık Sebze Tohumu",
+   "slug": "eylul-ayi-sebze-tohumu-seti-kislik-tohum"
+  },
+  {
+   "id": "0720d754-98ed-41d1-874d-57d90401d5a1",
+   "ad": "Ficus Ginseng Bonsai Ağacı",
+   "slug": "ficus-ginseng-bonsai-agaci"
+  },
+  {
+   "id": "3c6ed653-35c6-4517-8a15-0cde3508bf9a",
+   "ad": "Galvaniz Araç Gölgeliği 3,76 × 4,61 × 2,64 m, Kesik Çatı (Kompakt)",
+   "slug": "galvaniz-arac-golgeligi-3-76-x-4-61-x-2-64-m-kesik-cati-kompakt"
+  },
+  {
+   "id": "e563f6b4-3796-4d54-be0a-d79efe78c63a",
+   "ad": "Galvaniz Araç Gölgeliği 3,76 × 6,13 × 2,64 m, Kesik Çatı (Uzun)",
+   "slug": "galvaniz-arac-golgeligi-3-76-x-6-13-x-2-64-m-kesik-cati-uzun"
+  },
+  {
+   "id": "888e274c-5067-49b9-b0db-3429750dbd2a",
+   "ad": "Galvaniz Arı Kovanı Sehpası 2'li, 2 Katlı, 4 Kovanlık 128×41×152 cm",
+   "slug": "galvaniz-ari-kovani-sehpasi-2-li-2-katli-4-kovanlik-128x41x152-cm"
+  },
+  {
+   "id": "e8539dda-13a7-48b2-ae9f-41420e4fb355",
+   "ad": "Galvaniz Arı Kovanı Sehpası 2'li, Tek Katlı, 2 Kovanlık 128×41×49,5 cm",
+   "slug": "galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm"
+  },
+  {
+   "id": "b058be45-fbf1-473b-b7f3-073a61649af2",
+   "ad": "Galvaniz Arı Kovanı Sehpası 4'lü, 2 Katlı, 8 Kovanlık 253×41×152 cm",
+   "slug": "galvaniz-ari-kovani-sehpasi-4-lu-2-katli-8-kovanlik-253x41x152-cm"
+  },
+  {
+   "id": "ab69ae70-de45-4e0c-abdf-325535339e6b",
+   "ad": "Galvaniz Arı Kovanı Sehpası 4'lü, Tek Katlı, 4 Kovanlık 253×41×49,5 cm",
+   "slug": "galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm"
+  },
+  {
+   "id": "b3c8ca81-813b-449d-94a6-5d55812f45ba",
+   "ad": "Galvaniz Arı Kovanı Sehpası 6'lı, 2 Katlı, 12 Kovanlık 378×41×152 cm",
+   "slug": "galvaniz-ari-kovani-sehpasi-6-li-2-katli-12-kovanlik-378x41x152-cm"
+  },
+  {
+   "id": "9240a9ae-566c-4b35-9548-4fe055a6aeb4",
+   "ad": "Galvaniz Arı Kovanı Sehpası 6'lı, Tek Katlı, 6 Kovanlık 378×41×49,5 cm",
+   "slug": "galvaniz-ari-kovani-sehpasi-6-li-tek-katli-6-kovanlik-378x41x49-5-cm"
+  },
+  {
+   "id": "02c6575f-0f77-4e7a-a63d-3a8b436eaa55",
+   "ad": "Galvaniz Atölye Tezgahı İskeleti, Alt Raflı 250×85×80 cm",
+   "slug": "galvaniz-atolye-tezgahi-iskeleti-alt-rafli-250x85x80-cm"
+  },
+  {
+   "id": "058e7f17-e382-4c92-a4a7-3a93aa839394",
+   "ad": "Galvaniz Bahçe Kemeri Düz Çatı 1 Bölüm 158x81x234 cm – Gül ve Sarmaşık Kemeri",
+   "slug": "galvaniz-bahce-kemeri-duz-cati-1-bolum"
+  },
+  {
+   "id": "ec3a79ee-3e4b-4add-985e-4fb014756cb0",
+   "ad": "Galvaniz Bahçe Kemeri Düz Çatı 2 Bölüm 158x158x234 cm – Gül ve Sarmaşık Kemeri",
+   "slug": "galvaniz-bahce-kemeri-duz-cati-2-bolum"
+  },
+  {
+   "id": "08db7a26-79b7-40d2-99fb-48e5b22602b5",
+   "ad": "Galvaniz Bahçe Kemeri Düz Çatı 3 Bölüm 158x235x234 cm – Gül ve Sarmaşık Kemeri",
+   "slug": "galvaniz-bahce-kemeri-duz-cati-3-bolum"
+  },
+  {
+   "id": "931d75fd-9214-431c-8d50-6cafb5a27f79",
+   "ad": "Galvaniz Bahçe Kemeri Kesik Çatı 1 Bölüm 192x81x212 cm – Gül ve Sarmaşık Kemeri",
+   "slug": "galvaniz-bahce-kemeri-kesik-cati-1-bolum"
+  },
+  {
+   "id": "eb4f61eb-a7cc-4006-94c8-0e1d1446be1c",
+   "ad": "Galvaniz Bahçe Kemeri Kesik Çatı 2 Bölüm 192x158x212 cm – Gül ve Sarmaşık Kemeri",
+   "slug": "galvaniz-bahce-kemeri-kesik-cati-2-bolum"
+  },
+  {
+   "id": "e551d5c4-60aa-41ca-8975-ddc5ddf9ec04",
+   "ad": "Galvaniz Bahçe Kemeri Kesik Çatı 3 Bölüm 192x235x212 cm – Gül ve Sarmaşık Kemeri",
+   "slug": "galvaniz-bahce-kemeri-kesik-cati-3-bolum"
+  },
+  {
+   "id": "45fa5c06-02f4-409f-b67d-c3e36e961b27",
+   "ad": "Galvaniz Bahçe Çalışma Masası İskeleti, Alt Raflı 130×85×80 cm",
+   "slug": "galvaniz-bahce-calisma-masasi-iskeleti-alt-rafli-130x85x80-cm"
+  },
+  {
+   "id": "88d59247-6577-464b-b804-c14d944f9434",
+   "ad": "Galvaniz Dar Balkon Rafı İskeleti, 4 Katlı 101×36×123 cm",
+   "slug": "galvaniz-dar-balkon-rafi-iskeleti-4-katli-101x36x123-cm"
+  },
+  {
+   "id": "da251583-0763-493c-9853-d84e0641561f",
+   "ad": "Galvaniz Dar Kiler Rafı İskeleti, 6 Katlı 68×36×188 cm",
+   "slug": "galvaniz-dar-kiler-rafi-iskeleti-6-katli-68x36x188-cm"
+  },
+  {
+   "id": "11784f18-510e-45fc-a02d-ce04f5d7e6fd",
+   "ad": "Galvaniz Depo Rafı İskeleti, 4 Katlı 191×66×213 cm",
+   "slug": "galvaniz-depo-rafi-iskeleti-4-katli-191x66x213-cm"
+  },
+  {
+   "id": "e0df6db5-7784-45b1-a5fe-97d195c2d381",
+   "ad": "Galvaniz Ekonomik Odunluk 1,58 × 1,08 × 1,58 m, Düz Çatı",
+   "slug": "galvaniz-ekonomik-odunluk-1-58-x-1-08-x-1-58-m-duz-cati"
+  },
+  {
+   "id": "a0fce63f-8f83-4790-a934-d52ac7fc80d5",
+   "ad": "Galvaniz Ekonomik Odunluk 2,35 × 1,08 × 1,58 m, Düz Çatı",
+   "slug": "galvaniz-ekonomik-odunluk-2-35-x-1-08-x-1-58-m-duz-cati"
+  },
+  {
+   "id": "3d727fac-fbcd-4ca0-9b10-ebc4f481a642",
+   "ad": "Galvaniz Ev Deposu Rafı İskeleti, 5 Katlı 88×46×196 cm",
+   "slug": "galvaniz-ev-deposu-rafi-iskeleti-5-katli-88x46x196-cm"
+  },
+  {
+   "id": "ca9a710c-f286-40e4-a87c-a2e9648c5a22",
+   "ad": "Galvaniz Garaj Rafı İskeleti, 4 Katlı 128×66×213 cm",
+   "slug": "galvaniz-garaj-rafi-iskeleti-4-katli-128x66x213-cm"
+  },
+  {
+   "id": "d3f71027-30ab-4a7d-be0e-d383566c77a3",
+   "ad": "Galvaniz Geniş Kiler Rafı İskeleti, 5 Katlı 131×46×196 cm",
+   "slug": "galvaniz-genis-kiler-rafi-iskeleti-5-katli-131x46x196-cm"
+  },
+  {
+   "id": "ee56f951-96d9-4322-a027-ad5cb47b069a",
+   "ad": "Galvaniz Hava Kompresörü Kafesi Tip F 1,68 × 0,81 × 1,25 m",
+   "slug": "galvaniz-hava-kompresoru-kafesi-tip-f-1-68-x-0-81-x-1-25-m"
+  },
+  {
+   "id": "76b5bd48-73ec-411f-bac5-95deee73d5cb",
+   "ad": "Galvaniz Isı Pompası ve Klima Kafesi Tip D 1,55 × 0,81 × 1,25 m",
+   "slug": "galvaniz-isi-pompasi-ve-klima-kafesi-tip-d-1-55-x-0-81-x-1-25-m"
+  },
+  {
+   "id": "a1375c99-1889-4232-8578-a84765c80a38",
+   "ad": "Galvaniz Kapılı Odunluk 2,35 × 1,08 × 2,10 m, Beşik Çatı",
+   "slug": "galvaniz-kapili-odunluk-2-35-x-1-08-x-2-10-m-besik-cati"
+  },
+  {
+   "id": "5bce3396-d79c-4821-88e6-69cbc795971a",
+   "ad": "Galvaniz Kapılı Odunluk 3,13 × 1,08 × 2,10 m, Beşik Çatı",
+   "slug": "galvaniz-kapili-odunluk-3-13-x-1-08-x-2-10-m-besik-cati"
+  },
+  {
+   "id": "be97b1b0-b232-44be-9097-3ce1cc9ef60a",
+   "ad": "Galvaniz Kargo Hazırlama Masası İskeleti, Alt Raflı 160×85×80 cm",
+   "slug": "galvaniz-kargo-hazirlama-masasi-iskeleti-alt-rafli-160x85x80-cm"
+  },
+  {
+   "id": "fc8215c7-93cf-482f-ab10-9bdd79006d57",
+   "ad": "Galvaniz Kedi Balkon Kafesi 1,28 × 0,66 × 1,91 m, Kapılı",
+   "slug": "galvaniz-kedi-balkon-kafesi-1-28-x-0-66-x-1-91-m-kapili"
+  },
+  {
+   "id": "c33693e8-a48c-44ea-9000-93b82419edc4",
+   "ad": "Galvaniz Kedi Balkon Kafesi 1,28 × 1,28 × 1,91 m, Kapılı",
+   "slug": "galvaniz-kedi-balkon-kafesi-1-28-x-1-28-x-1-91-m-kapili"
+  },
+  {
+   "id": "196a83c8-f6ce-4c14-88d1-92372ad3374f",
+   "ad": "Galvaniz Kedi Balkon Kafesi 1,91 × 0,66 × 1,91 m, Kapılı",
+   "slug": "galvaniz-kedi-balkon-kafesi-1-91-x-0-66-x-1-91-m-kapili"
+  },
+  {
+   "id": "fc9622fa-88d8-42be-a5ab-93abb83781d3",
+   "ad": "Galvaniz Kedi Balkon Kafesi 1,91 × 1,28 × 1,91 m, Kapılı",
+   "slug": "galvaniz-kedi-balkon-kafesi-1-91-x-1-28-x-1-91-m-kapili"
+  },
+  {
+   "id": "3de87f1a-d782-4449-999b-185253a09349",
+   "ad": "Galvaniz Kedi Balkon Kafesi 2,53 × 0,66 × 1,91 m, Kapılı",
+   "slug": "galvaniz-kedi-balkon-kafesi-2-53-x-0-66-x-1-91-m-kapili"
+  },
+  {
+   "id": "b5f961f5-8882-4b6e-98cc-66459bd09ae3",
+   "ad": "Galvaniz Kiler ve Ofis Rafı İskeleti, 6 Katlı 101×36×188 cm",
+   "slug": "galvaniz-kiler-ve-ofis-rafi-iskeleti-6-katli-101x36x188-cm"
+  },
+  {
+   "id": "837d87f5-ae68-4d9d-93d0-0d438bed1ce7",
+   "ad": "Galvaniz Klima Kafesi Tip A 1,05 × 0,66 × 0,81 m",
+   "slug": "galvaniz-klima-kafesi-tip-a-1-05-x-0-66-x-0-81-m"
+  },
+  {
+   "id": "104507de-940d-42a1-89af-1f0338aa3c7d",
+   "ad": "Galvaniz Klima Kafesi Tip B 1,25 × 0,66 × 1,05 m",
+   "slug": "galvaniz-klima-kafesi-tip-b-1-25-x-0-66-x-1-05-m"
+  },
+  {
+   "id": "34993eab-87d7-43e2-a439-0f957f3576ff",
+   "ad": "Galvaniz Kompresör Kafesi Tip E 1,25 × 1,05 × 1,25 m",
+   "slug": "galvaniz-kompresor-kafesi-tip-e-1-25-x-1-05-x-1-25-m"
+  },
+  {
+   "id": "447d6f30-df08-40d1-a71b-2623118b2fb4",
+   "ad": "Galvaniz Kompresör Kafesi Tip G 1,55 × 1,05 × 1,83 m",
+   "slug": "galvaniz-kompresor-kafesi-tip-g-1-55-x-1-05-x-1-83-m"
+  },
+  {
+   "id": "0fae48df-ecc4-40f7-82a8-7c60cd56f763",
+   "ad": "Galvaniz Konteyner İskeleti Sağlam Kısa 2,35 × 3,13 × 2,35 m",
+   "slug": "galvaniz-konteyner-iskeleti-saglam-kisa-2-35-x-3-13-x-2-35-m"
+  },
+  {
+   "id": "3e5551ab-c8e2-4b5c-87c4-a9ce266b7ba2",
+   "ad": "Galvaniz Konteyner İskeleti Sağlam Uzun 2,35 × 6,23 × 2,35 m",
+   "slug": "galvaniz-konteyner-iskeleti-saglam-uzun-2-35-x-6-23-x-2-35-m"
+  },
+  {
+   "id": "bc8feb2d-d1fe-43a8-918d-c625f670e9db",
+   "ad": "Galvaniz Konteyner İskeleti Sağlam Uzun Yan Kapılı 2,35 × 6,23 × 2,35 m",
+   "slug": "galvaniz-konteyner-iskeleti-saglam-uzun-yan-kapili-2-35-x-6-23-x-2-35-m"
+  },
+  {
+   "id": "9dd43dc2-e389-46ae-b8a2-b17f25abd1be",
+   "ad": "Galvaniz Konteyner İskeleti Standart Kısa 2,08 × 3,10 × 2,08 m",
+   "slug": "galvaniz-konteyner-iskeleti-standart-kisa-2-08-x-3-10-x-2-08-m"
+  },
+  {
+   "id": "6554c13a-aeaf-4b65-80ce-d558fbfcf9cd",
+   "ad": "Galvaniz Konteyner İskeleti Standart Uzun 2,08 × 6,18 × 2,08 m",
+   "slug": "galvaniz-konteyner-iskeleti-standart-uzun-2-08-x-6-18-x-2-08-m"
+  },
+  {
+   "id": "11278459-2a9b-4277-9855-20fedb98e63a",
+   "ad": "Galvaniz Konteyner İskeleti Standart Uzun Yan Kapılı 2,08 × 6,18 × 2,08 m",
+   "slug": "galvaniz-konteyner-iskeleti-standart-uzun-yan-kapili-2-08-x-6-18-x-2-08-m"
+  },
+  {
+   "id": "2fbb8ac6-1664-418b-ae24-7dc9c2a88a31",
+   "ad": "Galvaniz Konteyner İskeleti Ultra Sağlam Kısa 2,53 × 3,15 × 2,53 m",
+   "slug": "galvaniz-konteyner-iskeleti-ultra-saglam-kisa-2-53-x-3-15-x-2-53-m"
+  },
+  {
+   "id": "9bda9309-9b2f-4425-ad1f-cdf4f64edd98",
+   "ad": "Galvaniz Konteyner İskeleti Ultra Sağlam Uzun 2,53 × 6,28 × 2,53 m",
+   "slug": "galvaniz-konteyner-iskeleti-ultra-saglam-uzun-2-53-x-6-28-x-2-53-m"
+  },
+  {
+   "id": "ce9900cd-e42e-4af4-8485-f6de6c2ede8d",
+   "ad": "Galvaniz Konteyner İskeleti Ultra Sağlam Uzun Yan Kapılı 2,53 × 6,28 × 2,53 m",
+   "slug": "galvaniz-konteyner-iskeleti-ultra-saglam-uzun-yan-kapili-2-53-x-6-28-x-2-53-m"
+  },
+  {
+   "id": "4394737d-7775-49ab-b317-c8557a087cb0",
+   "ad": "Galvaniz Kurutma Tezgâhı 107,5 × 67,5 cm, Kapaklı, 1 Bölmeli",
+   "slug": "galvaniz-kurutma-tezgahi-107-5-x-67-5-cm-kapakli-1-bolmeli"
+  },
+  {
+   "id": "3f8c9ce8-bcec-4428-bde6-028bc3cbdf6c",
+   "ad": "Galvaniz Kurutma Tezgâhı 107,5 × 82,5 cm, Kapaklı, 1 Bölmeli",
+   "slug": "galvaniz-kurutma-tezgahi-107-5-x-82-5-cm-kapakli-1-bolmeli"
+  },
+  {
+   "id": "6ea5c089-3e82-4594-8ead-3419d6b25f6f",
+   "ad": "Galvaniz Kurutma Tezgâhı 175 × 67,5 cm, Kapaklı, 2 Bölmeli",
+   "slug": "galvaniz-kurutma-tezgahi-175-x-67-5-cm-kapakli-2-bolmeli"
+  },
+  {
+   "id": "5a349d67-b956-4403-af19-6773b89c53ab",
+   "ad": "Galvaniz Kurutma Tezgâhı 175 × 82,5 cm, Kapaklı, 2 Bölmeli",
+   "slug": "galvaniz-kurutma-tezgahi-175-x-82-5-cm-kapakli-2-bolmeli"
+  },
+  {
+   "id": "e2cae39a-e021-4a55-b437-13dcdd64f5e7",
+   "ad": "Galvaniz Kurutma Tezgâhı 218 × 67,5 cm, Kapaklı, 2 Bölmeli",
+   "slug": "galvaniz-kurutma-tezgahi-218-x-67-5-cm-kapakli-2-bolmeli"
+  },
+  {
+   "id": "b5815544-bdb0-4ca4-993d-7ba0477b6dbf",
+   "ad": "Galvaniz Kurutma Tezgâhı 218 × 82,5 cm, Kapaklı, 2 Bölmeli",
+   "slug": "galvaniz-kurutma-tezgahi-218-x-82-5-cm-kapakli-2-bolmeli"
+  },
+  {
+   "id": "baa461c6-5a21-4746-8926-8098aa2da5d2",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 10 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-10-cm"
+  },
+  {
+   "id": "29543eaa-d856-4fc0-87eb-982670cb180c",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 100 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-100-cm"
+  },
+  {
+   "id": "70741e7f-fd69-45b4-a6bb-7a72fbb8c8cb",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 110 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-110-cm"
+  },
+  {
+   "id": "e5159249-179d-41f7-a8c6-b501abf0b730",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 120 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-120-cm"
+  },
+  {
+   "id": "d7b9f8b0-6375-4607-b844-9cf78daceef4",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 130 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-130-cm"
+  },
+  {
+   "id": "6269e8a9-9b39-4309-95fc-f116df051f64",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 140 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-140-cm"
+  },
+  {
+   "id": "eaa2baae-5dfa-47a8-8a91-9d815a9189a9",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 150 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-150-cm"
+  },
+  {
+   "id": "71bf6a03-9c47-48b4-b1d2-6b9a5ae0a453",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 20 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-20-cm"
+  },
+  {
+   "id": "321c62ff-8a42-4cd6-a2ee-47fc2013cf62",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 30 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-30-cm"
+  },
+  {
+   "id": "f3a40d03-b695-40f1-88ec-5c52df55d87f",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 40 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-40-cm"
+  },
+  {
+   "id": "deb4f722-df63-4566-acbf-d04c630210ef",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 50 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-50-cm"
+  },
+  {
+   "id": "2d380bee-3362-4235-b524-04848dbdcdc2",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 60 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-60-cm"
+  },
+  {
+   "id": "d5469e76-f61a-4a62-92d4-72b492ecd42f",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 70 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-70-cm"
+  },
+  {
+   "id": "d2c75208-8618-4341-8dd3-9b6d7d5395b5",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 80 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-80-cm"
+  },
+  {
+   "id": "8284c93f-8045-429a-ad8d-38ac73c23321",
+   "ad": "Galvaniz Kutu Profil 30x30x1,2 mm – 90 cm",
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-90-cm"
+  },
+  {
+   "id": "3a2ebe55-b977-45aa-a6ea-84c3870ae1f0",
+   "ad": "Galvaniz Küçük Sera Rafı İskeleti, 3 Katlı 88×46×111 cm",
+   "slug": "galvaniz-kucuk-sera-rafi-iskeleti-3-katli-88x46x111-cm"
+  },
+  {
+   "id": "d10a4721-a25c-4e18-80d3-7f927d521a1b",
+   "ad": "Galvaniz Modüler Mini Kümes İskeleti 1,5 m² (100x150 cm)",
+   "slug": "galvaniz-mini-kumes-iskeleti-1-5-m2"
+  },
+  {
+   "id": "4c8112a7-d70b-44e9-a351-047fceca9240",
+   "ad": "Galvaniz Modüler Sera ve Kümes İskeleti 3,8 m² (160x235 cm)",
+   "slug": "galvaniz-sera-ve-kumes-iskeleti-3-8-m2"
+  },
+  {
+   "id": "48c1db11-7ce4-4091-b6e8-179863f7602a",
+   "ad": "Galvaniz Modüler Sera İskeleti Likya Large 10 m² (220x450 cm)",
+   "slug": "galvaniz-sera-iskeleti-likya-large-10-m2"
+  },
+  {
+   "id": "163b6c94-2f81-45c4-9b9b-fe330dfc62d3",
+   "ad": "Galvaniz Modüler Sera İskeleti Likya Medium 6,8 m² (220x300 cm)",
+   "slug": "galvaniz-sera-iskeleti-likya-medium-6-8-m2"
+  },
+  {
+   "id": "5e1a9299-e9d5-4ba7-a123-2b61b0a1551b",
+   "ad": "Galvaniz Modüler Sera İskeleti Likya XLarge 13 m² (220x600 cm)",
+   "slug": "galvaniz-sera-iskeleti-likya-xlarge-13-m2"
+  },
+  {
+   "id": "08ac72ab-c9aa-4ac6-80dc-eeb552ca187f",
+   "ad": "Galvaniz Modüler Sera İskeleti Olimpos 5,3 m² (235x225 cm)",
+   "slug": "galvaniz-sera-iskeleti-olimpos-5-3-m2"
+  },
+  {
+   "id": "4f3e04ae-a837-420a-b276-2d9dac13923a",
+   "ad": "Galvaniz Modüler Sera İskeleti Olimpos Large 9 m² (390x225 cm)",
+   "slug": "galvaniz-sera-iskeleti-olimpos-large-9-m2"
+  },
+  {
+   "id": "ec27c891-4b74-485f-9427-87c96dbad667",
+   "ad": "Galvaniz Oda ve Balkon Rafı İskeleti, 4 Katlı 88×46×153 cm",
+   "slug": "galvaniz-oda-ve-balkon-rafi-iskeleti-4-katli-88x46x153-cm"
+  },
+  {
+   "id": "a3758e7b-9159-456a-a072-538e9c3134b8",
+   "ad": "Galvaniz Odunluk 1,58 × 1,08 × 2,10 m, Beşik Çatı",
+   "slug": "galvaniz-odunluk-1-58-x-1-08-x-2-10-m-besik-cati"
+  },
+  {
+   "id": "02137ded-7bc1-482d-bc44-6fd965ab41e4",
+   "ad": "Galvaniz Odunluk 2,35 × 1,08 × 2,10 m, Beşik Çatı",
+   "slug": "galvaniz-odunluk-2-35-x-1-08-x-2-10-m-besik-cati"
+  },
+  {
+   "id": "2ef374ef-e911-4256-ae37-2b6306bae6c9",
+   "ad": "Galvaniz Odunluk 3,13 × 1,08 × 2,10 m, Beşik Çatı",
+   "slug": "galvaniz-odunluk-3-13-x-1-08-x-2-10-m-besik-cati"
+  },
+  {
+   "id": "85d5d69e-e665-47e1-b701-ddea069e02e6",
+   "ad": "Galvaniz Odunluk 3,90 × 1,08 × 2,10 m, Beşik Çatı",
+   "slug": "galvaniz-odunluk-3-90-x-1-08-x-2-10-m-besik-cati"
+  },
+  {
+   "id": "8aeece53-c77d-4fbb-b38a-b8fb319270d2",
+   "ad": "Galvaniz Saksı ve Şaşırtma Tezgâhı İskeleti, 2 Katlı 128×66×88 cm",
+   "slug": "galvaniz-saksi-ve-sasirtma-tezgahi-iskeleti-2-katli-128x66x88-cm"
+  },
+  {
+   "id": "4e489e0b-cda5-40a4-9124-d38fbf3a4aed",
+   "ad": "Galvaniz Salma Kuş Kafesi 1,05 × 1,05 × 2,08 m, Kapılı (Mini)",
+   "slug": "galvaniz-salma-kus-kafesi-1-05-x-1-05-x-2-08-m-kapili-mini"
+  },
+  {
+   "id": "a470b0f5-efd6-4506-a1ae-fff4bbb39ada",
+   "ad": "Galvaniz Salma Kuş Kafesi 2,08 × 1,05 × 2,08 m, Kapılı (Küçük)",
+   "slug": "galvaniz-salma-kus-kafesi-2-08-x-1-05-x-2-08-m-kapili-kucuk"
+  },
+  {
+   "id": "ca311ee6-d332-4ff7-b562-b3be7e24545e",
+   "ad": "Galvaniz Salma Kuş Kafesi 2,08 × 2,08 × 2,08 m, Kapılı (Orta)",
+   "slug": "galvaniz-salma-kus-kafesi-2-08-x-2-08-x-2-08-m-kapili-orta"
+  },
+  {
+   "id": "166d3248-51ec-44d1-847a-020a39380a55",
+   "ad": "Galvaniz Salma Kuş Kafesi 3,10 × 1,05 × 2,08 m, Kapılı (Uzun)",
+   "slug": "galvaniz-salma-kus-kafesi-3-10-x-1-05-x-2-08-m-kapili-uzun"
+  },
+  {
+   "id": "63668fb7-3ce3-4384-8834-08bb68d6254e",
+   "ad": "Galvaniz Sera Fide Rafı İskeleti, 3 Katlı 131×46×111 cm",
+   "slug": "galvaniz-sera-fide-rafi-iskeleti-3-katli-131x46x111-cm"
+  },
+  {
+   "id": "9a638e97-d00a-4f42-8c60-8d798e1a829d",
+   "ad": "Galvaniz Sera Orta Tezgahı İskeleti, Alt Raflı 210×110×80 cm",
+   "slug": "galvaniz-sera-orta-tezgahi-iskeleti-alt-rafli-210x110x80-cm"
+  },
+  {
+   "id": "ace20482-c333-43f8-a2e7-d100a2f46079",
+   "ad": "Galvaniz Sera Tezgahı İskeleti, Alt Raflı 110×70×80 cm",
+   "slug": "galvaniz-sera-tezgahi-iskeleti-alt-rafli-110x70x80-cm"
+  },
+  {
+   "id": "c19e17a0-58dd-4ac1-987b-bb874113f515",
+   "ad": "Galvaniz Sera İskeleti 3,8 m² ve U Şekilli Sebze Yatağı Seti",
+   "slug": "galvaniz-sera-iskeleti-3-8-m2-ve-u-sekilli-sebze-yatagi-seti"
+  },
+  {
+   "id": "bda7c5dd-3ffa-4232-b470-20fd4fc69b68",
+   "ad": "Galvaniz Uzun Sera Tezgahı İskeleti, Alt Raflı 210×70×80 cm",
+   "slug": "galvaniz-uzun-sera-tezgahi-iskeleti-alt-rafli-210x70x80-cm"
+  },
+  {
+   "id": "9b6fffba-6ca4-46e4-a943-be9cf541df60",
+   "ad": "Galvaniz VRF Ünite Kafesi Tip C 1,25 × 0,66 × 1,55 m",
+   "slug": "galvaniz-vrf-unite-kafesi-tip-c-1-25-x-0-66-x-1-55-m"
+  },
+  {
+   "id": "8cc6f176-c7e9-458a-9c6b-ef0c453308de",
+   "ad": "Galvaniz Çöp Konteyneri Muhafazası 1100 L Açık 1,55 × 1,55 × 1,55 m",
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-1100-l-acik-1-55-x-1-55-x-1-55-m"
+  },
+  {
+   "id": "13381d71-0d1f-4433-bded-e84e005dd47a",
+   "ad": "Galvaniz Çöp Konteyneri Muhafazası 1100 L Kapaklı 1,55 × 1,55 × 1,58 m",
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-1100-l-kapakli-1-55-x-1-55-x-1-58-m"
+  },
+  {
+   "id": "024a12ea-c13b-47eb-85ff-0283a98ec527",
+   "ad": "Galvaniz Çöp Konteyneri Muhafazası 400 L Açık 1,25 × 0,81 × 1,55 m",
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-400-l-acik-1-25-x-0-81-x-1-55-m"
+  },
+  {
+   "id": "601546b2-a751-49bd-977f-312904af3cef",
+   "ad": "Galvaniz Çöp Konteyneri Muhafazası 400 L Kapaklı 1,25 × 0,81 × 1,58 m",
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-400-l-kapakli-1-25-x-0-81-x-1-58-m"
+  },
+  {
+   "id": "600ad25f-6e67-4b0f-be70-158db1723a50",
+   "ad": "Galvaniz Çöp Konteyneri Muhafazası 770 L Açık 1,55 × 1,05 × 1,55 m",
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-770-l-acik-1-55-x-1-05-x-1-55-m"
+  },
+  {
+   "id": "8bd78412-31ed-4a7b-9b1c-5326ff57def4",
+   "ad": "Galvaniz Çöp Konteyneri Muhafazası 770 L Kapaklı 1,55 × 1,05 × 1,58 m",
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-770-l-kapakli-1-55-x-1-05-x-1-58-m"
+  },
+  {
+   "id": "92dae3e6-0b98-44ab-84a0-055d11c4b3f3",
+   "ad": "Galvaniz Çöp Kovası Muhafazası 120 L Açık 0,66 × 0,81 × 1,25 m",
+   "slug": "galvaniz-cop-kovasi-muhafazasi-120-l-acik-0-66-x-0-81-x-1-25-m"
+  },
+  {
+   "id": "951dc855-d401-43c0-8eaf-3f570ed40ce6",
+   "ad": "Galvaniz Çöp Kovası Muhafazası 120 L Kapaklı 0,66 × 0,81 × 1,28 m",
+   "slug": "galvaniz-cop-kovasi-muhafazasi-120-l-kapakli-0-66-x-0-81-x-1-28-m"
+  },
+  {
+   "id": "9c4c8e01-828f-4d72-b168-b1fa9c83a854",
+   "ad": "Galvaniz Çöp Kovası Muhafazası 240–360 L Açık 0,81 × 1,05 × 1,25 m",
+   "slug": "galvaniz-cop-kovasi-muhafazasi-240-360-l-acik-0-81-x-1-05-x-1-25-m"
+  },
+  {
+   "id": "495f8164-d633-497d-b06c-98f5f97c9ddd",
+   "ad": "Galvaniz Çöp Kovası Muhafazası 240–360 L Kapaklı 0,81 × 1,05 × 1,28 m",
+   "slug": "galvaniz-cop-kovasi-muhafazasi-240-360-l-kapakli-0-81-x-1-05-x-1-28-m"
+  },
+  {
+   "id": "80e14311-3ae7-4cd9-b847-3b2b88821859",
+   "ad": "Galvaniz İri Koli ve Bidon Rafı İskeleti, 3 Katlı 158×81×181 cm",
+   "slug": "galvaniz-iri-koli-ve-bidon-rafi-iskeleti-3-katli-158x81x181-cm"
+  },
+  {
+   "id": "92e5a3e8-aea4-4913-9fef-e35de3464562",
+   "ad": "HG Ham Torf",
+   "slug": "hg-ham-torf"
+  },
+  {
+   "id": "64dc3088-310b-49b4-a743-12ddc63731f3",
+   "ad": "HasTürk Mükemmel Üçlü Set",
+   "slug": "hasturk-mukemmel-uclu-set"
+  },
+  {
+   "id": "e74d2043-7d2c-46d4-b307-d2d6a1e67971",
+   "ad": "Heşerelere Etkili Çözüm Seti",
+   "slug": "heserelere-etkili-cozum-seti"
+  },
+  {
+   "id": "65f33835-e2a0-4171-bc08-6afe0ce0d314",
+   "ad": "Kaktüslü Karışık Sukulent Aranjmanı",
+   "slug": "kaktuslu-karisik-sukulent-aranjmani"
+  },
+  {
+   "id": "74ec3500-fb84-4379-8c91-e8d748308b71",
+   "ad": "Kaynana Koltuğu Altın Fıçı Kaktüsü",
+   "slug": "kaynana-koltugu-altin-fici-kaktusu"
+  },
+  {
+   "id": "dcf05b54-05b8-432f-9425-88c480212e82",
+   "ad": "Kedi Kulağı Kalanşo Sukulent Aranjmanı – Siyah Saksıda",
+   "slug": "kedi-kulagi-kalanso-sukulent-aranjmani"
+  },
+  {
+   "id": "d50e03fa-ba5a-4201-8745-f1d24498ece0",
+   "ad": "Kırmızı Malabar Ispanağı",
+   "slug": "kirmizi-malabar-ispanagi"
+  },
+  {
+   "id": "3cd2c767-6482-45d6-a46a-960226adc332",
+   "ad": "Mini Kaktüs – Beyaz Dikenli, Küme Oluşturan Kaktüs",
+   "slug": "mini-kaktus-beyaz-dikenli-kaktus-kolay-bakim"
+  },
+  {
+   "id": "851949b8-1213-4155-a082-4d4e3022b809",
+   "ad": "Sarkıcı Sukulent ve Kaktüs Aranjmanı – Örgü Desenli Saksıda",
+   "slug": "sarkici-sukulent-ve-kaktus-aranjmani"
+  },
+  {
+   "id": "8ac5d036-fcd9-42f1-a025-c5bf95dc40c9",
+   "ad": "Sarı Kenarlı Paşa Kılıcı",
+   "slug": "sari-kenarli-pasa-kilici"
+  },
+  {
+   "id": "ae2ad318-4077-4b1b-b7bc-ff7e082a2db7",
+   "ad": "Telgraf Çiçeği ve Sukulent Aranjmanı – Mint Yeşili Saksıda",
+   "slug": "telgraf-cicegi-ve-sukulent-aranjmani-mint-yesili-saksida"
+  },
+  {
+   "id": "5d712690-2ab5-4b17-a033-7270a4194443",
+   "ad": "Wanpy Tahılsız Somon&Tuna Kısırlaştırılmış Kedi Maması 8 kg",
+   "slug": "wanpy-tahilsiz-somon-tuna-kisirlastirilmis-kedi-mamasi-8-kg"
+  },
+  {
+   "id": "a060efc0-f7ef-401b-b57d-62ac995ca610",
+   "ad": "Wanpy Tahılsız Somonlu Yetişkin Kedi Maması 1,5 kg",
+   "slug": "wanpy-tahilsiz-somonlu-yetiskin-kedi-mamasi-1-5-kg"
+  },
+  {
+   "id": "a2a7fed6-15ed-4127-a969-8c2dbdba0566",
+   "ad": "Çilek Fidesi",
+   "slug": "cilek-fidesi"
+  },
+  {
+   "id": "24fc01eb-1b25-47f1-8206-8c4fdc251ca8",
+   "ad": "Çiçek Toprağı Bakım Seti",
+   "slug": "cicek-topragi-bakim-seti"
+  }
+ ],
+ "hasturk": [
+  {
+   "id": "956a2dc1-7fd1-4ed7-b0e5-cc048381af39",
+   "ad": "5'li Profesyonel Toprak Düzenleyici Set",
+   "slug": "5li-profesyonel-toprak-duzenleyici-set"
+  },
+  {
+   "id": "ee614d68-79bf-47cf-beed-35b2eb34c575",
+   "ad": "Altınvadi Kuşkonmaz Tohumu 10 Adet",
+   "slug": "altinvadi-kuskonmaz-tohumu-10-adet"
+  },
+  {
+   "id": "73731d0c-c73e-4b9c-ae5a-a2fc16ae8118",
+   "ad": "Bitki Torfu 20 lt",
+   "slug": "bitki-torfu-20-lt"
+  },
+  {
+   "id": "64800992-9a51-4c71-b20a-3ac520ec6408",
+   "ad": "Bitki Torfu 5'lt",
+   "slug": "bitki-torfu-5-lt"
+  },
+  {
+   "id": "621fdb04-7e7c-4464-a36e-b36c3b5a0c88",
+   "ad": "Canna Hidroton Kil Bilyesi 45 Lt",
+   "slug": "canna-hidroton-kil-bilyesi-45-lt"
+  },
+  {
+   "id": "09cacec3-7c9c-4a2a-9b43-03168856aa74",
+   "ad": "Doğal Taş Podima Beyaz Tamburlu Taş - 25/40 MM",
+   "slug": "dogal-tas-podima-beyaz-tamburlu-tas-25-40-mm"
+  },
+  {
+   "id": "5b8ffccb-9c84-4ae4-8724-7d318c5766fc",
+   "ad": "Florist İkili Bakım Seti — Zararlılara ve Mantar Hastalıklarına Karşıtı Sprey Paketi",
+   "slug": "florist-ikili-bakim-seti"
+  },
+  {
+   "id": "c3583636-703a-4b0d-afec-5d5052724e00",
+   "ad": "HG Fidan Toprağı",
+   "slug": "hg-fidan-topragi"
+  },
+  {
+   "id": "d6fee23d-e6b9-4d9b-95ab-c66ca774431e",
+   "ad": "Pomsan 10 Litre Basınçlı Ilaclama Pompası K-93",
+   "slug": "pomsan-10-litre-basincli-ilaclama-pompasi-k-93"
+  },
+  {
+   "id": "cab0483b-0e21-4d3b-9094-bbf0ca156bf3",
+   "ad": "Pomsan 5 Litre Basınçlı Ilaçlama Pompası K-91",
+   "slug": "pomsan-5-litre-basincli-ilaclama-pompasi-k-91"
+  },
+  {
+   "id": "e8b17c6f-a748-4b85-acf2-4a665e30750e",
+   "ad": "Premium İthal Torf | Vermikülitli Özel Karışım",
+   "slug": "premium-ithal-torf-vermikulitli-ozel-karisim"
+  },
+  {
+   "id": "bea6aa61-a633-43ea-bec8-52944636747a",
+   "ad": "RAMORİN TANE BUĞDAY FARE İLACI - 200 GR",
+   "slug": "ramorin-tane-bugday-fare-ilaci-200-gr"
+  },
+  {
+   "id": "4e33331f-a6fd-4460-a81b-97f291418533",
+   "ad": "Reflex - Somonlu ve Pirinçli Kısırlaştırılmış Kedi Maması - 15 Kg (Kargo Bedava)",
+   "slug": "reflex---somonlu-ve-pirincli-kisirlastirilmis-kedi-mamasi---15-kg--kargo-bedava-"
+  },
+  {
+   "id": "560884d3-440d-4ee9-826a-a5321149e000",
+   "ad": "Reflex Plus - Tavuklu Kısırlaştırılmış Yetişkin Kedi Maması- 1,5 Kg (Kargo Bedava))",
+   "slug": "reflex-plus---tavuklu-kisirlastirilmis-yetiskin-kedi-mamasi--1-5-kg--kargo-bedava--"
+  },
+  {
+   "id": "8df3a790-e56c-4c0f-8178-4b8ede73f429",
+   "ad": "Reflex Plus Tavuklu Pate + Et Parçacıklı (Kısırlaştırılmış Kedi) – 395 g",
+   "slug": "reflex-plus-tavuklu-pate---et-parcacikli--kisirlastirilmis-kedi----395-g"
+  },
+  {
+   "id": "07a95694-3c32-4cae-9d99-45ddd272fc3e",
+   "ad": "Reflex Plus- Kuzu Etli Parçacıklı Yavru Köpek Konserve Maması- 415 Gr - (KARGO BEDAVA)",
+   "slug": "reflex-plus--kuzu-etli-parcacikli-yavru-kopek-konserve-mamasi--415-gr----kargo-bedava-"
+  },
+  {
+   "id": "ab48fb1f-d53c-40be-9bb0-67fb685cfc58",
+   "ad": "Reflex Plus- Kuzu Etli Parçacıklı Yavru Köpek Konserve Maması- 415 Gr - (KARGO BEDAVA) - 5 ADET- FIRSAT ÜRÜNÜ",
+   "slug": "reflex-plus--kuzu-etli-parcacikli-yavru-kopek-konserve-mamasi--415-gr----kargo-bedava----5-adet--firsat-urunu"
+  },
+  {
+   "id": "d9f8d3f7-e234-4ac2-af2d-504938fac71b",
+   "ad": "Tarım Perliti - 100 LT",
+   "slug": "tarim-perliti-100-lt"
+  }
+ ]
+}

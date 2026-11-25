@@ -1,0 +1,230 @@
+### YAZI
+slug: pivot-sulama-merkezi-eksenli-sistem-kimler-icin-uygun-maliyet-hesabi
+baslik: Pivot Sulama: Merkezi Eksenli Sistem Kimler İçin Uygun, Maliyeti Nasıl Hesaplanır?
+yayin: 2027-04-07 11:35
+yazar: Mikdat Çelik
+kategori: bahce-ipuclari
+odak: pivot sulama
+seo_baslik: Pivot Sulama: Kimler İçin Uygun, Maliyet Nasıl Hesaplanır
+seo_aciklama: Pivot sulama büyük, düz ve tek ürünlü tarlalar içindir. Parsel şekli, köşe kaybı, debi, pompa gücü ve dekar başına maliyet hesabı örnekle anlatılıyor.
+ozet: Pivot sulama, merkezden dönen bir boru hattıyla dairesel alanı sulayan sistemdir; büyük, düz ve tek ürünlü tarlalara uyar. Parsel şeklini, köşe kaybını, debi ve enerji hesabını örnekle gösterdik.
+etiketler: pivot sulama, merkezi eksenli sulama, yağmurlama, tarla sulaması, sulama maliyeti, debi hesabı
+gorsel: bekliyor
+gorsel_alt: Düz bir buğday tarlasının üzerinde merkezden dönen uzun metal kollu ve tekerlekli pivot sulama sistemi
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, hasturk-humix-sivi-humik-asit, organik-toprak
+kisaca: Pivot sulama, merkezde sabit bir noktadan dönen tekerlekli boru hattıyla dairesel alanı yağmurlama yapar. Büyük, düz, engelsiz ve tek ürün ekilen parsellere uyar; parsel kare ise köşeler sulanmaz. Maliyeti sulanan alan, debi, pompa gücü ve enerji bedeli üzerinden dekara bölerek hesaplayın.
+@govde
+Pivot sulama, tarlanın ortasına bir eksen kurup üzerinde dönen yağmurlama kolu ile bir daire çizerek sulama yapan sistemdir. Kolun altındaki kuleler tekerlekle yürür, boru boyunca dizili başlıklar suyu bitkinin üstüne serper. Büyük ölçekte arpa, mısır, yonca ve pamuk gibi tek ürünün ekildiği düz arazilerde yaygındır. Ama her tarla pivota uygun değildir. Parsel şekli, eğim, su kaynağının debisi ve enerji düzeni uygun değilse sistem yatırımı geri dönmez. Bu yazıda kimin için uygun olduğunu, nasıl karar vereceğinizi ve dekar başına maliyeti hangi kalemlerle hesaplayacağınızı bulacaksınız.
+
+## Pivot sulama nasıl çalışır?
+
+Merkezde su ve elektrik bağlantısı olan bir eksen bulunur. Ondan uzanan galvanizli boru hattı, kuleler üzerinde ilerler ve yaklaşık bir günlük ya da daha uzun sürede tam dönüş yapar. Dönüş süresini ayarlayarak toprağa verilen su miktarı değiştirilir: yavaş dönüş daha çok su demektir. FAO'nun sulama el kitabı merkezi pivot sistemlerinin yaklaşık 3,5 ile 60 hektar arasındaki alanları kapsayabildiğini ve büyük birimlerin birim alan başına daha ucuza geldiğini belirtiyor ([FAO, merkezi pivot sistemleri](https://www.fao.org/4/a1336e/a1336e10a.pdf)).
+
+Bu sistemin getirisi iş gücüdür: sulama vanaları, karıklar ve kanallarla uğraşmazsınız, kolu bir panelden başlatır ve durdurursunuz. Bedeli ise sabit yatırım ve enerjidir. Yüksek basınçla çalışan başlıklar yüzeyde buharlaşma ve rüzgâr kaybı da yaratır.
+
+## Pivot sulama kimler için uygun?
+
+Missouri Üniversitesi'nin yem bitkisi sulama yayını, pivotun büyük ve açık parsellerde birim alan maliyetini düşürdüğünü, eğimin yüzde 10'u geçtiği ya da tam daire dönmeyi engelleyen düzensiz parsellerde kullanımın kısıtlandığını yazıyor ([Missouri Extension, G1697](https://extension.missouri.edu/publications/g1697)). Penn State ise pivotun tek ürün ekilen parsellere daha uygun olduğunu söylüyor ([Penn State Extension, meyve ve sebzede sulama](https://extension.psu.edu/irrigation-for-fruit-and-vegetable-production)).
+
+| Ölçüt | Uygun | Uygun değil |
+|---|---|---|
+| Parsel büyüklüğü | Yüzlerce dekar | Birkaç dekarlık dağınık parseller |
+| Eğim | Düz ya da hafif eğimli | Yüzde 10'dan fazla eğim |
+| Parsel şekli | Dairesel alana yakın, engelsiz | Dar, uzun ya da ağaç ve direk dolu |
+| Ürün | Tek tip, aynı su ihtiyacı | Her yarım hektarda farklı ürün |
+| Su kaynağı | Sürekli ve yeterli debi | Mevsimlik, kesintili kaynak |
+
+Küçük, parçalı arazilerde ya da sebze ve bağ gibi farklı ürünlerde damla sulama, yağmurlama başlıkları ve salma sulama daha uygun olur; [damla sulama kurulumu](/damla-sulama-kurulumu) ve [yağmurlama başlığı seçimi](/yagmurlama-basligi-secimi) yazıları bu alternatiflere bakar.
+
+## Köşe kaybı ve parsel şekli
+
+Pivot bir daire çizdiği için kare bir parselin köşeleri sulanmaz. Dört kenarı 800 metre olan bir kare arazide alan 640 dekardır; 400 metre yarıçaplı bir pivot ise yaklaşık 503 dekarı kapsar. Yani yaklaşık yüzde 21'lik, 137 dekarlık kısım dışarıda kalır. Nebraska Üniversitesi'nin CropWatch yayını, köşelerin sulanabilmesi için köşe sistemi ya da uç tabancası gibi eklerin kullanıldığını anlatıyor ([Nebraska CropWatch, uç tabancası](https://cropwatch.unl.edu/2020/center-pivot-end-gun-considerations/)); bu ekler yatırımı artırır ve düzensiz basınç yaratabilir.
+
+Parsel tam kare değilse, tarla sınırı ağaç, kanal ya da yüksek gerilim direği ile kesiliyorsa pivot kolunun geçiş yolu da engellenir. Yön değiştiren çizgisel (lineer) sistemler ve köşe kolları FAO'nun anlattığı seçeneklerdir. Satın almadan önce parseli uydu görüntüsü üzerinden ölçün ve gerçek daire alanını hesaplayın.
+
+## Debi ve pompa gücü örneği
+
+Karar vermeden önce kaynağınızın debisi yeterli mi bakın. Aşağıdaki örnek hesap, 400 metre yarıçaplı, yaklaşık 503 dekarlık bir pivot içindir; rakamlar sizin parselinize göre değişir.
+
+::: adimlar
+Günlük su ihtiyacını bulun | Yaz tepe su tüketimini örneğin 6 mm/gün alın: 6 mm × 503 dekar yaklaşık 3.000 metreküp/gün eder.
+Sistem verimini ekleyin | Yağmurlamada kayıpları hesaba katarak yüzde 85 verim varsayın: 3.000 ÷ 0,85 yaklaşık 3.530 metreküp.
+Çalışma süresine bölün | Günde 20 saat çalışırsa debi yaklaşık 176 metreküp/saat, yani yaklaşık 49 litre/saniye gerekir.
+Pompa gücünü hesaplayın | Güç (kW) = 9,81 × debi (m³/s) × manometrik yükseklik (m) ÷ verim.
+Örnek yerleştirin | 0,049 m³/s, 40 m yük ve yüzde 65 verimle yaklaşık 30 kW elde edersiniz.
+:::
+
+Bu hesaptaki 40 metrelik yük, kuyudan pivota kadar su yüksekliğini ve kolun işletme basıncını toplar. Kaynağınızın sürekli 49 litre/saniye verip vermediğini, kuyunun debisini ve ruhsat koşullarını [tarımsal sulama kuyusu](/tarimsal-sulama-kuyusu) yazısı ve il tarım müdürlüğü ile DSİ bölge müdürlüğünde öğrenin. Elektrik şebekesi olmayan parselde güneş enerjili pompa seçeneği için [tarımsal GES](/tarimsal-ges) yazısına bakın.
+
+## Maliyeti nasıl hesaplarsınız?
+
+Rakam yazmıyoruz çünkü fiyatlar yıldan yıla değişir; yapmanız gereken, kalemleri toplayıp sulanan alana bölmektir. Missouri'nin G1697 yayını, enerjiyi en büyük işletme gideri sayıyor ve dizel çalışan pivotun elektrikliye göre daha pahalı olduğunu gösteriyor; yani enerji türü sonucu belirliyor.
+
+| Kalem | Nasıl hesaplanır |
+|---|---|
+| Sistem ve montaj | Yıllık itfa: toplam bedel ÷ ömür (yıl) |
+| Kuyu, pompa, elektrik hattı | Aynı yöntemle itfa; kuyu yoksa en büyük kalem |
+| Enerji | Pompa kW × yıllık çalışma saati × birim enerji bedeli |
+| Bakım ve onarım | Yıllık itfa bedelinin belirli bir yüzdesi |
+| İşçilik | Sulama saatleri ve izleme |
+
+Toplamı yıllık sulanan dekara bölün. Aynı hesabı damla sulama ve salma sulama için de yapın; en ucuz yöntem tarlaya, ürüne ve su kaynağına göre değişir. Hesabın doğruluğu için il ya da ilçe tarım müdürlüğünden güncel sulama maliyet bütçelerini isteyin.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Pivot sulamada toprak ve su yönetimi
+
+Pivot hızlı verilen suyu yüzeyde biriktirir; killi, sıkışık topraklarda akış ve kabuk oluşur. Toprağın su alma hızı, başlıkların verdiği su miktarından düşükse su sürüklenir ve erozyon başlar. Bu yüzden toprağın organik maddesini yüksek tutmak yatırımın verimini artırır: organik madde toprağa su alma ve tutma yeteneği kazandırır. Ürün bilgisine göre leonardit suyu sünger gibi tutan ve toprağın havalanmasını destekleyen organik bir düzenleyicidir. Sulama suyunun tuzluluğunu [EC nedir](/ec-nedir-toprak-tuzlulugu-olcumu) yazısındaki yöntemle ölçmek, uzun vadede toprağı korur. Sulamanın zamanlaması için [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısındaki sabah ve akşam ilkeleri tarlada da geçerlidir; öğle rüzgârında buharlaşma kaybı artar.
+
+Toprak neminin ölçümle izlenmesi, pivotun gereksiz dönmesini engeller; [toprak nem ölçer](/toprak-nem-olcer) yazısı bu ölçümün mantığını anlatıyor.
+
+## Pivota alternatifler: küçük ve parçalı araziler
+
+Parseliniz pivota uygun değilse çaresiz değilsiniz. Birkaç parselin ortak su kaynağını paylaşması durumunda sulama birliği ya da komşu çiftçilerle ortak kuyu ve ortak boru hattı mantıklı olabilir. Tek tek parsellerde ise sabit yağmurlama, taşınabilir borulu sistem ya da damla sulama daha az yatırımla başlar. Su kıtlığı olan bölgelerde su verimi, sistem seçiminden önce gelen ölçüttür; geniş çerçeve için [kuraklıkla mücadele](/kuraklikla-mucadele) yazısına bakın. Kararı verirken ziraat mühendisinin ve il ya da ilçe tarım müdürlüğünün sulama biriminin yerinde yapacağı değerlendirmeyi mutlaka alın.
+
+## Karar vermeden önce kontrol listesi
+
+Pivota geçmeden önce yazılı bir tablo yapın: parselin gerçek daire alanı, köşe kaybı, kaynağın yıllık ve sezonluk debisi, enerji seçeneği, ürün deseni ve yatırımı geri alma süresi. Bunlardan biri belirsizse sistem hiçbir yerde "ucuz" çıkmaz. Özellikle sezon içinde kuyunun debisinin düşüp düşmediğini, geçen yılların yaz aylarındaki ölçümlerle doğrulayın; yatırımdan sonra eksik çıkan debi, sistemi tam kapasitede çalıştırmayı imkânsız kılar. Pivot sulama, uygun parselde işçilik ve su tasarrufu sağlayan güçlü bir araçtır; uygun olmayan parselde ise pahalı bir yatırımdır.
+@sss
+S: Pivot sulama kaç dekarlık tarlaya uygundur?
+C: Yüzlerce dekarlık, düz ve engelsiz parsellere uygundur. FAO, merkezi pivotların yaklaşık 3,5 ile 60 hektar arasında alan kapsadığını ve büyük birimlerin birim alan başına daha ucuza geldiğini yazar. Küçük ve parçalı arazide damla ya da yağmurlama daha uygundur.
+
+S: Pivot sulamada köşeler neden sulanmaz?
+C: Sistem merkezden dönerek daire çizdiği için kare bir parselin köşeleri kolun erişimi dışında kalır. Köşe sistemi ya da uç tabancası gibi eklerle bu kayıp azaltılabilir ama yatırım artar.
+
+S: Pivot sulama için ne kadar su debisi gerekir?
+C: Alanın günlük su ihtiyacına ve çalışma saatine bağlıdır. Örneğin yaklaşık 503 dekar için yaz tepe tüketimi 6 mm/gün ve yüzde 85 verimle günde 20 saat çalışırsa yaklaşık 49 litre/saniye gerekir. Kendi parseliniz için yeniden hesaplayın.
+
+S: Eğimli tarlada pivot sulama yapılır mı?
+C: Eğim yüzde 10'u geçince Missouri Üniversitesi yayını kullanımın kısıtlandığını yazar. Kuleler engebeyi zor aşar ve su yamaçta akıp erozyon yapabilir. Eğimli parselde damla ya da özel yağmurlama düzeni daha uygundur.
+
+### YAZI
+slug: okaliptus-saksida-kokulu-mavi-yapraklar-icin-isik-ve-sulama
+baslik: Okaliptüs Saksıda: Kokulu Mavi Yapraklar İçin Işık ve Sulama
+yayin: 2027-04-07 14:05
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: okaliptüs saksıda
+seo_baslik: Okaliptüs Saksıda: Işık, Sulama ve Budama Rehberi
+seo_aciklama: Okaliptüs saksıda nasıl yetişir? En parlak ışık, süzek hafif asidik toprak, ölçülü sulama, yıllık sert budama ve kış koruması ile mavi yaprakları canlı tutun.
+ozet: Okaliptüs saksıda yetişir ama bu hızlı büyüyen ağaçtır: tam güneş, süzek toprak, ölçülü sulama ve her yıl erken ilkbaharda sert budama ister. Işık, su, besin, kışlatma ve yaygın sorunları anlattık.
+etiketler: okaliptüs, saksıda okaliptüs, mavi yapraklı bitki, aromatik bitki, saksı ağacı, budama
+gorsel: bekliyor
+gorsel_alt: Beyaz saksıda yuvarlak, gümüşi mavi yapraklı genç okaliptüs fidanı güneşli bir pencere önünde
+urunler: genel-saksi-topragi-ozel-karisim, hasturk-sivi-solucan-gubresi, hasturk-kati-solucan-gubresi, hg-aromatik-bitkiler-icin-saksi-topragi
+kisaca: Okaliptüs saksıda tam güneşte, süzek ve hafif asidik toprakta, nemli ama su tutmayan bir karışımla yetişir. Kışın sulama azaltılır, her yıl erken ilkbaharda sert budama yapılır; yoksa ağaç saksıya sığmayacak kadar uzar. En parlak pencereyi ya da güneşli balkonu seçin.
+@govde
+Okaliptüs saksıda şirin bir bitki gibi satılır, ama aslında hızla uzayan bir ağaçtır. Mavi, yuvarlak yaprakları ve kokusu nedeniyle pencere önünde ya da balkonda sevilir. Bakımın üç kuralı vardır: bol güneş, hafif asidik ve süzek toprak, her yıl yapılan sert budama. Bunlardan biri eksikse bitki ya yapraklarını döker ya da boylanır. Aşağıda ışığı, sulamayı, besini ve budamayı sırasıyla bulacaksınız.
+
+## Okaliptüs saksıda neden uzar, nasıl kontrol edilir?
+
+Royal Horticultural Society, Eucalyptus gunnii türünün 12 metreden uzun bir ağaç olduğunu belirtiyor; kapta yetiştirmek ancak düzenli budamayla mümkün oluyor ([RHS, okaliptüs yetiştirme rehberi](https://www.rhs.org.uk/plants/eucalyptus/growing-guide)). Yani saksıda satın aldığınız yirmi santimlik fide, bakımsız bırakılırsa iki üç yılda tavana varır. Ağacı küçük tutan şey saksının hacmi değil, her yıl yaptığınız budamadır.
+
+Mavi yapraklı ve yuvarlak "gümüş dolar" tipi okaliptüs genellikle Eucalyptus cinerea adındaki bir türdür; Eucalyptus gunnii ise biraz daha uzun yapraklıdır. İkisinin bakımı benzerdir, ama bu yazıdaki ayrıntılar RHS'nin gunnii için verdiği bilgilere dayanır. Etiketsiz bir bitki aldıysanız tür adını satıcıdan öğrenin.
+
+| Özellik | İhtiyaç |
+|---|---|
+| Işık | Tam güneş, mümkünse güney cephe |
+| Toprak | Hafif asidik, nemli ama süzek |
+| Sulama | Düzenli, su birikmeden; kışın azaltılır |
+| Budama | Erken ilkbaharda sert |
+| Besin | Yılda bir ilkbahar beslemesi |
+
+## Okaliptüs saksıda hangi tür ve boyla alınır?
+
+Okaliptüs saksıda büyütmek için satın alırken iki şeye bakın: tür adının etikette yazması ve bitkinin saksısından kök çıkıp çıkmadığı. Dipten taşan kökler bitkinin bir süredir dar kapta kaldığını gösterir; kazık köklü bir ağaçta bu, büyümeyi durdurur. Kısa boylu, dolgun ve mavi gençlik yapraklı fideyi seçin; uzamış, aralıkları açılmış olanı almayın. Bitkiyi satın aldığınız günden sonra bir iki hafta yeni ışığa alıştırın ve hemen saksı değişimi yapmayın.
+
+Çekirdekten ya da tohumdan başlamak da mümkündür; ama saksıda okaliptüs tohumdan çıkınca ilk yıl çok hızlı uzar ve ilk kış gelmeden budama zamanı gelir. Küçük bir balkonda işin yönetilebilmesi için hazır fide daha kolaydır; ilk yıl kapta bırakıp yalnız budama ve sulamayı düzene sokmak, sonraki yıllar için en sağlam başlangıçtır.
+
+## Işık: en parlak yeri ayırın
+
+RHS okaliptüsü tam güneş isteyen bir bitki olarak listeliyor ve gençken korunaklı yer öneriyor. Evde bunun karşılığı, evin en parlak penceresi ya da güney balkonudur. Işık az olduğunda gövde uzar, yapraklar iyice küçülür ve mavilik kaybolur. Bitkilerin ışık ihtiyacını ölçmek için [bitkilerin ışık ihtiyacı](/bitkilerin-isik-ihtiyaci) yazısındaki gözlem yöntemi işe yarar.
+
+Yazın dışarı almak çoğu zaman en iyi karardır. Ege ve Akdeniz kıyılarında son don geçtikten sonra güneşli bir köşede açık havada rahat eder; İç Anadolu'da mayıs ortasından önce dışarı çıkarmayın. Evin içinden dışarı geçişte ilk hafta öğle güneşinden koruyun, yapraklar yanabilir. Kapalı ortamda kalan okaliptüste rüzgâr ve açık hava sağlıklı gelişimi destekler: yaprak arası havalanır, küf ve külleme riski azalır.
+
+[ürün:genel-saksi-topragi-ozel-karisim]
+
+## Toprak ve saksı
+
+RHS hafif asidik, nemli ama iyi süzülen toprağı öneriyor. Saksıya torfa dayalı hafif bir karışım koyun; yüzde 20-30 perlit havalanmayı artırır. Kireçli ve bazik toprakta okaliptüs yapraklarının renk kaybettiği görülebilir. Saksının dibinde mutlaka delik olsun ve tabağa su bekletmeyin. Okaliptüsün kazık kökü derine iner, bu yüzden dar ve derin bir saksı geniş ve sığ olandan iyidir. Saksı değişimi zorunlu olduğunda kök topağını bozmadan, yılın başında yapın ve bir önceki saksıdan yalnızca bir iki beden büyüğünü seçin.
+
+Büyük saksılarda ağaçların ağırlığı ve drenajı için [büyük saksıda ağaç yetiştirme](/buyuk-saksida-agac) yazısına bakın. Saksı karışımı seçiminde ürün bilgisine göre HG Genel Saksı Toprağı solucan gübresi ve leonardit içeren, ekstra karışım gerektirmeyen bir hazır karışımdır.
+
+## Sulama
+
+RHS kapta yetişen okaliptüste toprağı nemli tutmayı, su birikmesinden kaçınmayı ve kışın sulamayı azaltmayı söylüyor. Pratikte parmağınızı iki üç santim sokun: nemliyse bekleyin, kuruysa bol sulayıp fazlasını boşaltın. Yazın güneşli balkonda günlük kontrol gerekebilir; küçük saksı hızla kurur. Kışın serin bir yerde haftalarca sulamayabilirsiniz.
+
+İki hata sık görülür. Birincisi, toprağın tamamen kurumasına izin vermektir: okaliptüs yapraklarını ucundan kuruturken tepkisi geç gelir. İkincisi aşırı sulamadır; yaprakların sararıp dökülmesi çoğu zaman kök çürümesidir. Su ihtiyacını sıklık değil, ölçümle belirlemek için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazısını ve belirtileri ayırt etmek için [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısını okuyun.
+
+## Besleme
+
+Toprakta yetişen olgun okaliptüs çoğunlukla gübre istemez; ama saksıdaki bitki sınırlı toprakla yetinir ve RHS'nin notuna göre ilkbaharda bir besleme yapılabilir. İlkbaharda yeni sürgün başlarken dengeli, düşük dozlu bir organik gübre yeterlidir. Dozu etiketteki miktarın altında tutun. Bitkiyi sonbahardan sonra beslemeyin; kış öncesi tazelenen sürgün soğuğa dayanıksızdır. Genel bir besleme takvimi için [saksı bitkileri gübreleme takvimi](/saksi-bitkileri-gubreleme-takvimi) yazısına bakın.
+
+## Budama: saksıda okaliptüsün anahtarı
+
+RHS'nin budama rehberi, saksıda yetişen cüce formlar için her yıl erken ilkbaharda sert budamayı, genel zamanı da kış sonu ile ilkbahar başı (şubat-mart) olarak veriyor ([RHS, okaliptüs budama](https://www.rhs.org.uk/plants/eucalyptus/pruning-guide)). Sert budama demek, gövdeyi toprak seviyesinin birkaç göz üstüne kadar kesmektir. Bunun iki yararı vardır: bitki boyunu kontrol altında tutar ve yuvarlak, mavi gençlik yaprakları sürekli yenilenir.
+
+::: adimlar
+Zamanı bekleyin | Şubat-mart gibi, yeni sürgün başlamadan önce yapın; don riski geçmiş olmalı.
+Gövdeyi kısaltın | Ana gövdeyi saksıdan birkaç göz yukarıdan kesin; keskin, temiz makas kullanın.
+Gözü gözetin | Kesimi yaprağın çıktığı gözün hemen üstüne yapın.
+Yeni sürgünü izleyin | Alttan çıkan sürgünlerden en güçlüsünü bırakıp diğerlerini alın.
+Beslemeyi ekleyin | Budama sonrası ilk büyümeyle hafif bir besleme verin.
+:::
+
+Kesilen dalları değerlendirebilirsiniz: okaliptüs dalları vazoda taze kalır ve kuruyunca da kokusunu korur. Evcil hayvanınız varsa saksıyı ulaşamayacağı bir yere koyun; yaprak kemiren hayvanlar için veterinere danışın.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+## Kesilen dalları değerlendirmek
+
+Budamada çıkan her dal çöpe gitmek zorunda değildir. Kıvrık mavi yaprakları olan sürgünleri bir vazoda suya koyabilir ya da baş aşağı asıp kurutabilirsiniz. Kuruyan dal birkaç ay şeklini korur ve hafif kokusu sürer; çiçekçide satılan kurutulmuş dallardan farklı olarak taze kesilen dal evde birkaç haftada rengini mavi-yeşilden gümüşi kahverengiye çevirir, bu normaldir. Kurutma için dalları serin, gölge ve havadar bir odada, sıkı olmayan demetler hâlinde asın; nemli ortamda küf yapar. Kokuyu artırmak için yapraklara dokunup hafifçe ezmek yeterlidir; kokusu için yağ ya da sprey kullanmanız gerekmez.
+
+## Kışlatma ve sık görülen sorunlar
+
+Okaliptüsün soğuğa dayanımı türe göre değişir. Ege ve Akdeniz kıyılarında hafif kışlarda dışarıda kalabilir; İç Anadolu ve Doğu'da saksıyı donmadan önce serin ve çok ışıklı bir yere alın. Donan toprak kökü zedeler; saksıyı duvar dibine ya da ısıtmasız bir veranda ya da balkona yerleştirin. Kışın sulama azalır; yapraklar kışın hafif solabilir, bu çoğu zaman normaldir.
+
+| Belirti | Neden | Çözüm |
+|---|---|---|
+| Yapraklarda sararma ve dökülme | Aşırı sulama, kök çürümesi | Sulamayı azaltın, drenajı kontrol edin |
+| Gövde uzuyor, yapraklar küçük | Işık az | Daha güneşli yere alın, budayın |
+| Yaprak uçları kuruyor | Toprak çok kuru, rüzgâr | Düzenli sulayın, korunaklı yer seçin |
+| Yapraklar yeşilleşiyor | Işık az, olgun yaprak | Normal; sert budama gençlik yaprağını getirir |
+
+Yapraklarda yapışkan bal özü ya da beyaz tozlu görüntü varsa zararlı şüphesi için ziraat mühendisine danışın. Bu yazıda ilaç ya da doz önerilmez.
+@sss
+S: Okaliptüs saksıda ne kadar büyür?
+C: Bakımsız bırakılırsa çok büyür; bazı türler doğada 12 metreyi aşar. Saksıda küçük tutmak için her yıl erken ilkbaharda sert budama yapmak gerekir. Budamasız okaliptüs birkaç yılda saksıya sığmaz.
+
+S: Okaliptüs evde yetişir mi?
+C: Yetişir ama en parlak pencereyi ister. Işık azsa gövdesi uzar, yaprakları küçülür ve mavi rengi solar. Yazın dışarıda, güneşli bir yerde tutmak en sağlıklı yoldur; kışın serin ve ışıklı bir yerde dinlendirin.
+
+S: Okaliptüs ne sıklıkla sulanır?
+C: Toprağı nemli tutun ama suyun birikmesine izin vermeyin. Üst iki üç santim kuruyunca sulayın. Kışın sulamayı azaltın. Sararıp dökülen yapraklar çoğunlukla aşırı sulamayı ve kök çürümesini gösterir.
+
+S: Okaliptüsü ne zaman budamalıyım?
+C: Kış sonundan erken ilkbahara kadar, yeni sürgün başlamadan önce yapılır. Saksıdaki bitkide gövdeyi toprak seviyesinin birkaç göz üstüne kadar kısaltmak yaygın uygulamadır ve gençlik yapraklarını yeniler.
+
+### SORU
+yayin: 2027-04-07 10:15
+kategori: bahce-ipuclari
+baslik: Elektriği olmayan tarlada pivot sulama için güneş enerjisi yeter mi?
+metin: Elli dekarlık bir tarlam var, şebeke elektriği yok. Pivot sulama için güneş panelli pompa düşünüyorum. Mantıklı mı, nelere bakmalıyım?
+@cevap Mikdat Çelik | 3
+Önce gerekli debiyi ve basıncı hesaplayın: yaz tepe su ihtiyacını dekar sayısıyla çarpıp günlük çalışma saatine bölün, sonra pivotun işletme basıncını kuyu derinliğine ekleyin. Güneş enerjisi yalnızca güneşli saatlerde çalıştığı için sulama süresi kısalır ve debi yüksek gerekir; elli dekar için pivottan çok damla ya da küçük yağmurlama daha az enerji ister. Karar vermeden önce kuyu debisini ve ruhsatını il tarım müdürlüğünde, panel ve pompa boyutunu ise teknik servisle yerinde netleştirin.
+
+### SORU
+yayin: 2027-04-07 13:20
+kategori: bitki-bakimi
+baslik: Okaliptüs yaprakları kıvrılıp kuruyor, ne yapmalıyım?
+metin: Saksıdaki okaliptüsün yaprakları uçtan kahverengileşip kıvrılıyor. Sulamayı artırdım ama düzelmedi. Sorun ne olabilir?
+@cevap Rümeysa Altınova | 2
+Sulamayı artırdıktan sonra düzelmediyse kök çürümesi ya da saksının sıkışması olasıdır; bu durumda su fazlası da kuruma gibi görünür. Saksıdan çıkarıp kökleri kontrol edin: beyaz, sağlam kökler sağlıklıdır, kahverengi ve yumuşak olanlar çürümüştür. Drenaj deliğinin açık olduğundan emin olun ve toprağı elle yoklayıp nemliyse sulamayı kesin. Sert rüzgâr ve sıcak da yaprak ucunu kurutur; saksıyı korunaklı ama bol ışıklı bir yere alın.
+
+### SORU
+yayin: 2027-04-07 17:45
+kategori: toprak-rehberi
+baslik: Saksı toprağının pH'ı yüksekse okaliptüs gibi bitkiler için ne yapılır?
+metin: Çeşme suyum kireçli ve saksı toprağımın pH'ı yüksek çıktı. Okaliptüs yapraklarında solgunluk var. Toprağın pH'ını düşürebilir miyim?
+@cevap Mehmet Fatih Çelik | 2
+Kireçli suyla sulamak zamanla saksıda pH'ı yükseltir. Mümkünse sulamada yağmur suyu ya da bir gün dinlendirilmiş su kullanın, saksıyı ara sıra bol suyla yıkayıp tuz birikimini uzaklaştırın ve hafif asidik bir torflu karışıma geçin. Toprak pH'ını ölçmeden kükürt gibi asitleştiriciler eklemeyin; yanlış doz kökleri bozar. Önce ucuz bir pH ölçerle ya da analizle sonucu doğrulayın, sonra ziraat mühendisine danışın.

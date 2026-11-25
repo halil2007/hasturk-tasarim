@@ -1,0 +1,270 @@
+### YAZI
+slug: dolu-filesi
+baslik: Dolu Filesi: Meyve Bahçesinde Kuruluş, Maliyet ve Ömür
+yayin: 2027-03-28 09:10
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: dolu filesi
+seo_baslik: Dolu Filesi: Kuruluş, Maliyet Kalemleri ve Ömür
+seo_aciklama: Dolu filesi meyve bahçesinde örtü ya da tavan ağı olarak kurulur. İki sistemin farkı, maliyet kalemleri, rüzgâr ve kar yükü ile ömür.
+ozet: Dolu filesi, meyveyi dolu darbesinden koruyan bir ağ sistemidir ve iki biçimde kurulur: ağacın üstünü örten ya da ağaç sıralarının üzerine gerilen yapıya asılan ağ. Hangisinin ne işe yaradığını, maliyetin hangi kalemlerden oluştuğunu, rüzgâr ve kar yükünü ve ömür beklentisini anlattık.
+etiketler: dolu filesi, dolu ağı, meyve bahçesi, ağ sistemi, elma bahçesi, koruyucu örtü, rüzgâr yükü
+gorsel: bekliyor
+gorsel_alt: Elma bahçesinde sıraların üzerine çelik direklerle gerilmiş dolu filesi
+urunler: hg-fidan-topragi
+kisaca: Dolu filesi iki biçimde kurulur: ağaç sıralarının üstüne gerilen yapıya asılan örtü ya da yalnız üst kısmı kapatan tavan ağı. Minnesota Üniversitesi'ne göre örtü tipi daha ekonomiktir ve böceği de dışarıda tutar, tavan ağı ise böcek eleme sağlamaz. Maliyet; direk, tel, ağ ve işçilikten oluşur; ömür üretici beyanına ve montaja bağlıdır.
+@govde
+Meyve bahçesinde kısa bir dolu yağışı, bir yılın emeğini aynı akşam bitirebilir; yaralanan meyve saklanamaz, dalda yara izi bırakır ve ağacın o yılki ürünü kaybolur. Dolu filesi bu riski fiziksel olarak keser: Ağ, dolu taneciğinin enerjisini yavaşlatır ve meyveye ulaşmasını engeller. Ama her bahçede kendini ödemez; kuruluş yatırımı yüksektir, yapı rüzgâr ve kar yükü taşır ve ömrü montaj kalitesine bağlıdır. Bu yazı dolu filesi kuracak meyve bahçesi sahibinin bilmesi gereken kararları anlatıyor; fiyat vermiyoruz, çünkü rakamlar ülkeye, döneme ve yapıya göre çok değişir.
+
+## Dolu filesi iki biçimde kurulur
+
+Minnesota Üniversitesi Yayım Servisi'nin [elma bahçelerinde dolu filesi yayını](https://extension.umn.edu/commercial-fruit-production/hail-netting-apple-orchards), iki tip sistemi karşılaştırır. Birinde ağ, ağaç sıralarının üzerine gerilen bir çelik tel ve direk yapısından aşağı sarkıtılır; ağacın üstü ve yanları örtülür. Diğerinde ağ yalnızca üst tarafı, yani bahçenin tavanını kapatır. Yayım, örtü (sarkıtmalı) sistemin iki tipten daha ekonomik olduğunu ve aynı zamanda böcek zararlılarını da dışarıda tuttuğunu belirtir; tavan ağının ise yalnızca blok üstünü kapattığı için böcek elemek amacıyla kullanılamayacağını söyler.
+
+| Özellik | Örtü (sarkıtmalı) ağ | Tavan ağı |
+|---|---|---|
+| Kapsama | Üst ve yanlar | Yalnız üst |
+| Böcek eleme | Sağlar (ağ gözü uygunsa) | Sağlamaz |
+| Yapı | Direk, tel ve ağ; daha hafif | Genellikle daha ağır ve pahalı taşıyıcı |
+| Rüzgâr | Yan ağlar rüzgâr tutar; yapı hesabı gerekir | Üst yük esas; hesap yine gerekir |
+| Tercih edildiği yer | Dolu ve böcek birlikte sorunsa | Yalnız dolu sorunuysa |
+
+Bu karşılaştırma üniversite yayımından özetlenmiştir; kendi bahçenizde seçim, ağaç boyu, sıra yönü ve yerel iklime göre değişir. Bölgenizdeki ziraat mühendisi ya da yayım servisinin yönlendirmesini alın.
+
+## Dolu filesi neye göre seçilir?
+
+Önce risk ve değer hesabı yapılır. Dolu sık görülen bir bölgede, yüksek değerli bir ürün (elma, kiraz, şeftali, üzüm) için yatırım anlamlı olabilir; dolunun nadir olduğu ya da ürünün değerinin düşük kaldığı yerde ağ kendini ödemeyebilir. Dolu yağdıktan sonra hasarlı dalları ve meyveleri fotoğraflamak, kendi kayıtlarınız için de işe yarar; file bu hasarı azaltmanın bir yoludur, yağışı durdurmaz. Meyve ağacı bakımı ve ürün planı için [bodur meyve ağaçları](/bodur-meyve-agaclari) yazısı, sık dikimli ve destekli sistemlerde ağ kurmanın kolaylığını gösterir.
+
+Ağ seçerken ışık geçirgenliğini ve gölge etkisini de hesaba katın. Fazla sık dokulu bir ağ meyve rengini ve olgunlaşmayı etkileyebilir; ağın gölge yüzdesi üretici bilgisinde yazar. Ayrıca ağ gözü ne kadar küçülürse hem rüzgâr yükü artar hem de ışık azalır; doluyu durdurmak için gereken göz boyutu ile bu kayıplar arasında denge kurulur.
+
+## Kuruluş: direk, tel ve ağ
+
+Dolu filesi sistemi, ağ kadar taşıyıcı yapıdır. Direkler ağaç sırasına göre belirli aralıkla çakılır, üstlerinden çelik teller gerilir, ağ bu tellere asılıp yanlardan sabitlenir. Rüzgâr yükü yapının en büyük sınavıdır: Büyük yüzey alanı, rüzgârı yelken gibi yakalar. Bu yüzden direk çapı, derinliği, ankraj sayısı ve tel kalınlığı bir mühendislik hesabına dayanmalıdır; "ucuz yapı" yerine, bölgenin rüzgâr ve kar yükünü karşılayan yapı kurulmalıdır. Kış aylarında kar yükü ağa binerse yapı çökebilir; bu yüzden kışın ağın kapatılma ya da toplanma planı yapılır.
+
+::: adimlar
+Riski ve değeri belirleyin | Dolu sıklığı, ürün değeri ve sigorta durumuna bakın.
+Sistem tipini seçin | Örtü ya da tavan ağı; böcek eleme ihtiyacını da düşünün.
+Yapıyı hesaplatın | Rüzgâr ve kar yükü için mühendislik hesabı yaptırın.
+Direk ve teli kurun | Direkleri belirlenen derinlikte çakın, tellerin gerginliğini ayarlayın.
+Ağı asın ve sabitleyin | Ağı hasar vermeden yayın, kenarları sabitleyin.
+Açma ve toplama planı yapın | Kış ve çiçek dönemi için ağın açılıp toplanma düzenini belirleyin.
+:::
+
+## Maliyet kalemleri: neyi hesaplamalı?
+
+Fiyat rakamı vermiyoruz; ama maliyetin hangi kalemlerden oluştuğunu bilmek karar vermeyi kolaylaştırır. Ana kalemler şunlardır: taşıyıcı yapı (direk, tel, ankraj), ağın kendisi, montaj işçiliği, sistemin bakım giderleri ve her yıl ağı açıp kapatmanın iş yükü. Ağ eskidiğinde değiştirilecek; bu yüzden yenileme maliyetini de ilk yatırım hesabına katın. Ağ ömrünü ve garantisini yazılı isteyin; ağın UV dayanımı ve gram ağırlığı, ömürde fark yaratır.
+
+Geri ödeme hesabında, dolunun hangi sıklıkla ve hangi şiddette vurduğunu, ağın korunan ürün değerini ve her yıl ağı kurup toplamak için ayıracağınız emeği birlikte değerlendirin. Bu hesabı yerelde meyve yetiştiren komşularla karşılaştırmak, tek bir satıcının beyanından daha güvenilirdir. Üniversite yayımlarında bu konuda ayrıntılı ekonomik çalışma bulunmakla birlikte sonuçlar bölgeye ve yıla bağlıdır.
+
+## Ömür ve bakım
+
+Ağların ömrü ağın malzemesine, UV katkısına, gramajına ve montaj gerginliğine bağlıdır; üretici beyanları bölge ve model arasında çok değişir, bu yüzden bu yazıda sayı vermiyoruz. Ağ ömrünü uzatan uygulamalar şunlardır: Doğru gerginlikte monte etmek, ağı keskin telden ve dalın sürtmesinden korumak, kış ve fırtına öncesi kontrol etmek ve yırtıkları hemen onarmak. Kullanılmayan ağı yıkayıp kurutarak, güneşten ve kemirgenden uzak katlayıp saklamak ömrü uzatır. Direk ve tel yapısı da paslanma, çürüme ve gevşeme açısından yılda en az bir kez kontrol edilmelidir.
+
+## Küçük bahçe için dolu koruması
+
+Her üreticinin hektarlık yapı kurması gerekmez. Küçük ev bahçesinde fidan ya da sebze yatağı için mini tünel ve hafif örtü kullanmak yeterli olabilir; tahminde dolu gelen günlerde fidanları geçici örtüyle korumak da bir yoldur. Genç fidan dikimi ve ilk yıl bakımında koruma için [yeni dikilen fidan sulama](/yeni-dikilen-fidan-sulama-ilk-yil) yazısındaki bakım adımları ve [fidan şekil budaması](/fidan-sekil-budamasi) yazısı yararlıdır. Dikim çukuru ve toprak için ürün bilgisine göre HG Fidan Toprağı, tüplü ya da açık köklü fidanların ilk gelişim dönemi için hazırlanmış bir karışımdır.
+
+[ürün:hg-fidan-topragi]
+
+## Ağ, böcek ve tozlaşma
+
+Örtü tipi ağ böcek zararlılarını da dışarıda tutabilir; ama arıyı da engeller. Çiçek dönemini kapsayan ağlarda tozlaşma planı yapılmalıdır: Ağı çiçek döneminde açmak ya da kaldırmak yaygın bir uygulamadır. Meyve zararlıları için feromon takibi ve diğer yöntemler için [feromon tuzağı](/feromon-tuzagi) yazısına bakabilirsiniz; elma iç kurdu gibi tek tek zararlıların nasıl işlediğini [elma iç kurdu](/elma-ic-kurdu) yazısı anlatıyor. Böcek filesi seçiminin göz açıklığı ve havalandırma mantığı için [böcek filesi](/bocek-filesi) yazısındaki ilkeler, meyve bahçesindeki yan ağlar için de geçerlidir.
+
+## Kurmadan önce sorulacak sorular
+
+Bahçenin eğimi ve rüzgâr yönü nedir; yapı hesabı bunlara göre mi yapıldı? Ağın ışık geçirgenliği ve gölge oranı çeşide uygun mu? Ağı hangi dönemde açıp kapatacağım, iş gücü var mı? Ağın garantisi ve ömrü yazılı mı? Bu sorulara net cevap verebilmek, yatırımın akıllıca olup olmadığını gösterir. Yanıtların bir kısmı için üniversite yayım servislerine, bir kısmı için yerel fidancıya ya da ağ kuran firmaya sormak gerekecektir.
+
+## Sık yapılan hatalar
+
+Yapıyı rüzgâr ve kar yüküne göre hesaplatmadan ucuz kurmak en yaygın hatadır. İkincisi, ağın ışık ve gölge etkisini hesaba katmamaktır. Üçüncüsü, çiçek döneminde tozlaşmayı düşünmemektir. Dördüncüsü, ağ ömrü ve garantisini yazılı almamaktır. Beşincisi, kışın ağı toplamayıp kar yüküne bırakmaktır. Altıncısı, yatırımın geri dönüşünü dolu riski ve ürün değeri üzerinden hesaplamadan karar vermektir. Dolu filesi, doğru yerde ve doğru yapıyla bir riski yönetmenin sağlam aracıdır; yanlış yerde ise pahalı bir yük.
+@sss
+S: Dolu filesi kaç tipte kurulur?
+C: Başlıca iki tip vardır: ağaç sıralarının üstüne gerilen yapıya asılan örtü tipi ve yalnız üst kısmı kapatan tavan ağı. Minnesota Üniversitesi'ne göre örtü tipi daha ekonomiktir ve böcek zararlılarını da dışarıda tutar.
+
+S: Dolu filesi böcek zararlılarını da engeller mi?
+C: Örtü tipi ağ uygun göz açıklığıyla böcek girişini azaltabilir. Yalnız üstü kapatan tavan ağı böcek eleme sağlamaz. Her iki sistemde de çiçek döneminde tozlaşma planı yapmak gerekir.
+
+S: Dolu filesi ne kadar dayanır?
+C: Ömür ağın malzemesine, UV katkısına, gramajına ve montajına bağlıdır. Üretici beyanları geniş aralıkta değişir; garantiyi yazılı isteyin, ağı gerginlik ve yırtık açısından düzenli kontrol edin.
+
+S: Dolu filesinin maliyeti neye bağlıdır?
+C: Taşıyıcı yapı (direk, tel, ankraj), ağın kendisi, montaj işçiliği, yenileme ve açma-kapama emeği başlıca kalemlerdir. Yapı hesabı ve ağ yenileme maliyeti ilk yatırım hesabına eklenmelidir.
+
+### YAZI
+slug: karik-sulama
+baslik: Karık Sulama: Debi, Süre ve Eşit Su Dağılımı
+yayin: 2027-03-28 11:35
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: karık sulama
+seo_baslik: Karık Sulama: Debi, Süre ve Eşit Dağılım
+seo_aciklama: Karık sulamada su akımı, karık uzunluğu, eğim ve sulama süresi birlikte ayarlanır. Kesme oranı, erozyon sınırı ve eşit su dağılımı için temel hesap ve örnek.
+ozet: Karık sulama, suyu sıra aralarındaki karıklardan akıtarak bitkiye ulaştıran yüzey sulamadır. Başarı, karığın başına ve sonuna eşit su ulaşmasına bağlıdır: Debi, karık uzunluğu, eğim ve sulama süresi birlikte ayarlanır. Kesme oranı kavramını ve basit hesap örneğini anlattık.
+etiketler: karık sulama, yüzey sulama, kesme oranı, karık eğimi, sıra bitkileri, sulama süresi, su dağılımı
+gorsel: bekliyor
+gorsel_alt: Sıra bitkileri arasındaki karıklarda ilerleyen sulama suyu
+urunler: raco-bahce-el-kuregi
+kisaca: Karık sulamada su, sıra arası karıklardan akar; eşit dağılım için karığa verilen debi, karık uzunluğu, eğim ve sulama süresi birlikte ayarlanır. Nebraska Üniversitesi'ne göre suyun karık sonuna ulaşma süresinin toplam sulama süresine oranı (kesme oranı) tasarımın anahtar ölçüsüdür; eğim arttıkça erozyonsuz azami debi azalır.
+@govde
+Tarlada ya da büyük bahçede sıra bitkilerini sulamanın en eski yollarından biri, sıra aralarına açılan karıklardan su akıtmaktır. Karık sulama, damla sulamaya göre düşük yatırımla kurulur; ama suyun karığın başında fazla, sonunda az kalması en büyük sorundur. Başa çok su verirseniz derine sızıp boşa gider, az verirseniz sona ulaşmaz. Bu yazı karık sulamada debi, süre ve uzunluğun nasıl dengelendiğini, üniversite yayımına dayanan ve basitleştirilmiş bir hesap örneğiyle anlatıyor.
+
+## Karık sulama nasıl çalışır?
+
+Su, sıra aralarında açılan sığ kanallara verilir ve yerçekimi ile karık boyunca ilerler; ilerlerken toprağa sızarak bitkinin kök bölgesini ıslatır. Birleşmiş Milletler Gıda ve Tarım Örgütü'nün (FAO) [yüzey sulama yayını](https://www.fao.org/4/T0231E/t0231e07.htm), karık sistemlerinin sıra bitkilerinde, küçük debilerde ve belirli eğim koşullarında tercih edildiğini anlatır. Sistem basittir, ama yönetimi hassastır: Suyun karığın her noktasına yeterli süre temas etmesi gerekir; karığın başı sona göre daha uzun süre su aldığı için başa daha çok su sızar.
+
+Bu farkı küçültmek, karık sulamanın ana derdidir. Fark büyürse karığın başında derine sızıp kaybolan su, sonunda ise yetersiz ıslanma olur. Küçük bahçede aynı mantık geçerlidir; ölçek farklıdır.
+
+## Kesme oranı: tasarımın anahtarı
+
+Nebraska Üniversitesi Yayım Servisi'nin [karık sulama tasarımı yayını (G1338)](https://extensionpubs.unl.edu/publication/g1338/na/html/view), kesme oranı (cutoff ratio) kavramını tanımlar: Suyun karığın sonuna ulaşma süresinin (ilerleme süresi) toplam sulama süresine oranıdır. Yayıma göre akıntı sonunda oluşan kayıp (karık sonundan taşan su) ve karık boyunca suyun eşit sızması bu orana bağlıdır. Yani suyu karığın sonuna çok geç ulaştırırsanız başı fazla sulanır, çok hızlı ulaştırırsanız sondan su taşar.
+
+Yayımdaki örnekte, tınlı toprakta 12 saatlik sulama süresi için 0,70 kesme oranı hedeflendiğinde, suyun karık sonuna ulaşma süresinin yaklaşık 8,4 saat (0,70 × 12) olması gerektiği gösterilir. Bu tür değerler toprağa, eğime ve karık uzunluğuna göre değiştiği için kendi parselinizde deneme yaparak bulunur; yayım da uygun sulama süresi ve akım büyüklüğünün eğime, toprağın su alma hızına ve karık uzunluğuna bağlı olduğunu belirtir.
+
+## Debi, eğim ve erozyon
+
+Karığa verdiğiniz su miktarı (debi), suyun ilerleme hızını belirler. Yayım, ilerleme süresini ayarlamanın en kolay yolunun, bir seferde sulanan karık sayısını değiştirmek olduğunu söyler: Daha az karık açık tutulursa her karığa verilen akım artar. Ama akımın bir sınırı vardır; çok büyük debi karığın toprağını aşındırır. Aynı yayım, genel olarak eğim arttıkça erozyona neden olmayan en büyük akımın azaldığını belirtir.
+
+Eğimin kendisi de bir denge konusudur. Amerikan Tarım Bakanlığı Tarımsal Araştırma Servisi'ne ait bir yayın, kontur karıklarında suyun akabilmesi için yeterli ama aşındırmayacak kadar hafif bir eğim kullanılmasını, bu eğimin kabaca yüzde 0,1 ile 0,5 arasında olabileceğini anlatır ([USDA-ARS yayını](https://eprints.nwisrl.ars.usda.gov/id/eprint/729/1/65.pdf)). Bu değer belirli koşullar için geçerlidir; kendi arazinizde ölçüm ve deneme gerekir.
+
+| Değişken | Arttırınca ne olur? | Dikkat |
+|---|---|---|
+| Debi | Su daha hızlı ilerler | Çok artarsa erozyon ve karık sonundan taşma |
+| Karık uzunluğu | Baş ve son arasındaki sızma farkı büyür | Çok uzun karık eşitsiz sulanır |
+| Eğim | Su hızlanır | Eğim arttıkça güvenli azami debi azalır |
+| Sulama süresi | Daha derin ıslanma | Çok uzarsa baş kısımda derine kayıp |
+| Toprak su alma hızı | Hızlı sızan toprakta ilerleme yavaşlar | Kumlu toprakta kısa karık gerekir |
+
+## Basit hesap örneği: ne kadar su veriyorum?
+
+Karığa uyguladığınız suyun derinliğini yaklaşık hesaplamak için basit bir ilişki kullanılabilir. Nebraska yayımı bu hesabı inç ve galon birimleriyle verir; metrik karşılığı şöyledir: Uygulanan su derinliği (mm) yaklaşık olarak 3600 × debi (litre/saniye) × süre (saat) ÷ (karık uzunluğu (m) × karık aralığı (m)) formülüyle bulunur. Bu bir örnek hesaptır, kesin bir öneri değildir.
+
+Örnek: Karığa saniyede 0,2 litre su verdiğinizi, süreyi 8 saat, karık uzunluğunu 100 metre ve karık aralığını 0,75 metre alalım. Hesap: 3600 × 0,2 × 8 = 5760; 100 × 0,75 = 75; 5760 ÷ 75 ≈ 77 mm. Yani bu koşulda karığa yaklaşık 77 mm'lik bir su verilir. Bu miktarın bitkinin ihtiyacına uyup uymadığını, toprak nemini ölçerek kontrol edin; hesaplama kağıt üstü bir başlangıçtır.
+
+::: adimlar
+Karık uzunluğunu ve eğimi ölçün | Çok uzun ya da çok eğimli karıkları kısaltmayı düşünün.
+Debiyi ayarlayın | Erozyon olmadan suyun karık sonuna zamanında ulaşacağı akımı bulun.
+İlerleme süresini ölçün | Suyun karık sonuna ulaşma süresini kaydedin.
+Kesme oranına bakın | İlerleme süresi toplam sürenin makul bir oranı olmalı; deneme ile ayarlayın.
+Suyu zamanında kesin | Sulama süresi dolunca akımı kesin ya da diğer sıraya geçin.
+Nemi kontrol edin | Sulamadan sonra toprağın kök bölgesindeki nemi ölçün.
+:::
+
+## Eşit dağılımı artırmanın yolları
+
+Karık sulamada hiçbir zaman mükemmel eşitlik olmaz; Nebraska'nın ilgili ders notu, geleneksel karık sulamada tam eşit su uygulamasının mümkün olmadığını belirtir. Yine de farkı küçültmek için başlıca yöntemler vardır: karığı kısaltmak, debiyi doğru ayarlamak, sulama süresini toprağın su alma hızına uydurmak, karıkları düzgün açmak ve eğimi dengelemek. Aralıklı akıtma (dalga sulama) gibi gelişmiş yöntemler de vardır; bunlar tarla ölçeğinde özel ekipman ister. Küçük bahçede ise karıkları kısa tutmak ve suyu iki üç parçaya bölerek vermek çoğu zaman yeterlidir.
+
+## Karık sulama mı, damla sulama mı?
+
+Karık sulama düşük yatırımla kurulur, enerji istemez ve sıra bitkilerine uygundur; ama su kaybı ve işgücü ihtiyacı damlaya göre fazladır. Damla sulama suyu doğrudan kök bölgesine verir ve eşit dağılım sağlar. Küçük sebze bahçesinde damlanın mantığı ve kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) ve [damla sulama hesabı](/damla-sulama-hesabi) yazılarına bakın. Su kaynağı olarak kuyu kullanıyorsanız [tarımsal sulama kuyusu](/tarimsal-sulama-kuyusu) yazısı debi ve izin konusunu anlatır; su kalitesi için [sulama suyu kalitesi](/sulama-suyu-kalitesi) yazısını inceleyin.
+
+## Karık sulama ve toprak
+
+Toprak türü sızma hızını belirler: Kumlu toprakta su çabuk sızar, karık kısa ve süre kısa tutulmalıdır; killi toprakta su yavaş sızar ve karık sonuna daha kolay ulaşır ama sulama süresi uzar. Toprağın sıkışması ve kabuklanması da sızmayı yavaşlatır; kil toprağın iyileştirilmesi için [killi toprak nasıl iyileştirilir](/killi-toprak-nasil-iyilestirilir) yazısına bakabilirsiniz. Sulamadan sonra suyun göllenmesi sorun yaratıyorsa [tarlada su göllenmesi](/tarlada-su-gollenmesi) yazısındaki drenaj ilkeleri geçerlidir. Toprak nemini ölçmek için [toprak nemi ölçme](/toprak-nemi-olcme) yazısı el ve cihaz yöntemlerini anlatır. Kuraklıkta su tasarrufu ilkeleri için [kuraklıkla mücadele](/kuraklikla-mucadele) yazısı faydalıdır.
+
+## Küçük bahçede karık açmak
+
+Küçük bahçede karıkları elle açıp kenarlarını düzeltmek mümkündür. Üretici bilgisine göre Raco Bahçe El Küreği, ekim ve dikim işlerinde kullanılan, 305 mm uzunluğunda ve yaklaşık 200 gram ağırlığında hafif bir çelik el aletidir; küçük ölçekte kenar düzeltmek gibi işlerde işe yarayabilir. Karığı çok derin ve dar açmak suyu hızlandırır ve aşındırır; sığ ve geniş karık daha dengeli ilerler.
+
+[ürün:raco-bahce-el-kuregi]
+
+## Sık yapılan hatalar
+
+Karığı çok uzun açmak en yaygın hatadır; baş ve son arasındaki fark büyür. İkincisi, debiyi eğimi hesaba katmadan artırmaktır; karık aşınır. Üçüncüsü, suyu karık sonuna ulaştıktan sonra uzun süre açık bırakıp başı boğmaktır. Dördüncüsü, toprağın su alma hızını dikkate almamaktır. Beşincisi, sulamadan sonra nemi kontrol etmemektir. Altıncısı, karık sonundan taşan suyu kaybolmaya bırakmaktır. Karık sulama, doğru ayarlandığında düşük maliyetli ve etkin bir yöntemdir; ayar ise deneme ve ölçüm ister.
+@sss
+S: Karık sulamada kesme oranı nedir?
+C: Suyun karık sonuna ulaşma süresinin toplam sulama süresine oranıdır. Nebraska Üniversitesi'ne göre tasarımın anahtar ölçüsüdür; örnekte 12 saatlik süre ve 0,70 oranla ilerleme süresi yaklaşık 8,4 saat olur.
+
+S: Karık sulamada debi nasıl ayarlanır?
+C: Debi, suyun karık sonuna zamanında ulaşacağı ama toprağı aşındırmayacağı değerde olmalıdır. Aynı anda açılan karık sayısını azaltmak karık başına debiyi artırır; eğim arttıkça güvenli azami debi azalır.
+
+S: Karık sulamada eşit dağılım sağlanabilir mi?
+C: Tam eşitlik mümkün değildir. Karığı kısaltmak, debiyi doğru ayarlamak, süreyi toprağın su alma hızına uydurmak ve karığı düzgün açmak farkı küçültür.
+
+S: Karık ne kadar eğimli olmalı?
+C: Su akacak kadar ama aşındırmayacak kadar hafif eğim gerekir. Bir USDA yayını kontur karıkları için kabaca yüzde 0,1–0,5 aralığını anlatır; kendi arazinizde ölçüm ve deneme gerekir.
+
+### YAZI
+slug: azot-acligi
+baslik: Azot Açlığı: Talaş ve Odun Malçı Toprağa Karışınca Ne Olur?
+yayin: 2027-03-28 19:30
+yazar: Ahmet Sacit Çelik
+kategori: toprak-rehberi
+odak: azot açlığı
+seo_baslik: Azot Açlığı: Talaş ve Odun Malçı Etkisi
+seo_aciklama: Azot açlığı, taze talaş ya da odun toprağa karışınca mikropların azotu kullanıp bitkiyi aç bırakmasıdır. Yüzey malçı farkı, belirtiler ve önlem.
+ozet: Azot açlığı, taze talaş ve odun parçalarının toprağa karıştırılınca mikroorganizmaların azotu tüketip bitkiye bırakmamasıdır. Yüzeyde serilen odun malçında etki ince üst katmanla sınırlı kalırken, toprağa karıştırılan talaşta geniş bir alan etkilenir. Belirtileri, farkı ve önlemleri anlattık.
+etiketler: azot açlığı, azot tutulması, talaş, odun malçı, odun parçası, kompost, toprak mikroorganizmaları
+gorsel: bekliyor
+gorsel_alt: Toprağa karıştırılmış taze talaş ve sararmış genç fideler
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Azot açlığı, taze talaş ya da odun parçası toprağa karıştırıldığında ayrıştırıcı mikroorganizmaların toprağın azotunu kullanıp bitkiye az bırakmasıdır. Odun malçı yüzeye serildiğinde etki ince üst katmanda kalır; karıştırılan taze talaşta etki geniş olur. Çözüm, taze odunu karıştırmamak, kompostlamak ya da üzerine azotlu kaynak eklemektir.
+@govde
+Yeni kurduğunuz sebze yatağının toprağına bir kova taze talaş karıştırdınız, fideler dikildi; birkaç hafta sonra alt yapraklar sarardı, büyüme durdu. Toprağı sulayıp gübre verdiniz ama değişmedi. Karşınızdaki büyük olasılıkla azot açlığıdır: Talaşı ayrıştıran mikroorganizmalar topraktaki azotu kendi büyümeleri için çekmiş, bitkiye az kalmıştır. Bu yazı azot açlığının neden olduğunu, yüzey malçında ve toprağa karışan odunda farkını ve nasıl önleneceğini anlatıyor.
+
+## Azot açlığı nedir ve neden olur?
+
+Odun, talaş, kabuk ve saman gibi karbonca zengin ve azotça fakir malzemeler toprakta ayrışırken, ayrıştırıcı mikroorganizmaların beslenmesine ve çoğalmasına ihtiyaç duyulur. Bu mikroorganizmalar kendi gelişimleri için karbonun yanında azota da gereksinim duyar; azotu topraktan alırlar. Karbon bol, azot az olduğunda mikroplar topraktaki azotu kullanır ve bitkinin kullanabileceği azot geçici olarak azalır. Bu olaya azot tutulması ya da azot açlığı denir. Etki kalıcı değildir; malzeme ayrıştıkça ve mikroplar öldükçe azot yeniden serbest kalır. Ama bu süre içinde bitki, özellikle fide ve hızlı büyüyen sebze, azot yetersizliği yaşar.
+
+Azot eksikliğinin genel belirtileri ve nedenleri için [azot eksikliği](/azot-eksikligi) yazısına bakabilirsiniz; bu yazı, azot eksikliğinin özel bir nedenine, yani odunun toprağa karışmasına odaklanıyor.
+
+## Yüzey malçı ile toprağa karışan odun aynı değildir
+
+Önemli ayrım, odunun yüzeyde mi yoksa toprağın içinde mi olduğudur. Kaynaklarda ortak görüş şudur: Odun malçı yüzeye serildiğinde azot tutulması, malçın hemen altındaki ince toprak katmanıyla sınırlı kalır. Kaliforniya Üniversitesi Master Gardener'larının bir bilgi notu ([UC Master Gardener belgesi](https://ucanr.edu/sites/Shasta_College_Master_Gardener/files/324537.pdf)) ve Ask Extension'daki sebze bahçesinde odun talaşı malçı sorusu ([Ask Extension yanıtı](https://ask.extension.org/kb/faq.php?id=920152)), yerleşik çok yıllık bitkilerin, çalıların ve ağaçların kökleri daha derinde olduğundan bu etkiden genellikle etkilenmediğini anlatır. Odun toprağa karıştırıldığında ise etki alanı çok büyür; talaş gibi ince parçalar yüzey alanı geniş olduğu için daha hızlı ayrışır ve azotu daha çok tüketir.
+
+| Durum | Azot tutulması | Dikkat |
+|---|---|---|
+| Odun yongası yüzeye serilmiş | Yalnız ince üst katmanda | Yerleşik çok yıllık bitkiler genellikle etkilenmez |
+| Taze talaş toprağa karıştırılmış | Geniş alanda, güçlü | Fide ve sebze yatağında risk yüksek |
+| Odun yongası toprağa karıştırılmış | Yongadan büyük olsa da belirgin | Karıştırmak yerine yüzeyde bırakın |
+| Olgun kompost ya da yıllanmış yonga | Düşük | Daha güvenli |
+
+Kaynaklar arasında bu etkinin ne kadar büyük olduğu konusunda farklı görüşler de vardır: Bazı sunumlar yüzey malçlarında "azot çalıyor" endişesinin abartıldığını savunur; üniversite yayım kaynakları ise taze odunu toprağa karıştırmaktan kaçınmayı önermeyi sürdürür. Bu yüzden en güvenli yol, taze odunu yüzeyde malç olarak kullanmak ve sebze yatağına karıştırmamaktır.
+
+## Belirtiler: nasıl anlarım?
+
+Azot açlığı, bitkide azot eksikliği belirtileriyle görünür: Alt ve yaşlı yapraklar önce açık yeşile, sonra sarıya döner, bitki yavaş büyür ve yeni yapraklar küçük kalır. Fark, nedenin toprağa karışan karbonlu malzeme olmasıdır; yatağınıza son dönemde talaş, saman, kabuk ya da ham odun karıştırdıysanız şüphe artar. Başka nedenlerle (aşırı sulama, kök hasarı, pH sorunu, diğer besin eksiklikleri) karıştırılabilir; ayrım için toprağın gelişimini ve toprak analizini kontrol edin. Sararma nedenleri için [yapraklar neden sararır](/yapraklar-neden-sararir) yazısı genel bir liste sunar; toprak analizi için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısı yol gösterir.
+
+::: belirti
+Alt yapraklar açık yeşil, sonra sarı | Mikroplar azotu tuttu | Azotlu organik kaynak ekleyin, odun karıştırmayın
+Genel yavaş büyüme | Bitki azot bulamıyor | Fideyi besleyin, gerekirse yeni karışım hazırlayın
+Yeni yapraklar küçük | Azot eksikliği sürüyor | Dengeli beslemeye geçin
+Taze talaşlı toprakta fide gelişmiyor | Karışan odunun etkisi | Üst katmanı değiştirin, olgun kompost ekleyin
+Malç altında sadece ince üst katman sarı | Yüzeydeki sınırlı etki | Yerleşik bitkiye zarar vermez; fideyi malça yakın dikmeyin
+:::
+
+## Nasıl önlenir ve düzeltilir?
+
+Önlemenin ilk kuralı, taze talaş ve ham odunu toprağa karıştırmamaktır. Kaynaklarda öne çıkan yöntemler şunlardır: Taze yongayı bir süre (kaynaklara göre yaklaşık bir yıl) bekletip yıllandırmak, talaşı önce kompostlamak, odun malçını yalnız yüzeye sermek ve sebze fidelerini malçın kendisine değil, açılmış temiz toprağa dikmek. Odun malçı ile çalışırken malç ve toprak arasında ince bir olgun kompost katmanı koymak da yaygın bir uygulamadır. Dal öğütme makinesiyle ürettiğiniz yongayı nasıl değerlendireceğiniz için [dal öğütme makinesi](/dal-ogutme-makinesi) yazısına, ağaç dibi malçı için [ağaç dibi malçlama](/agac-dibi-malclama) yazısına bakabilirsiniz.
+
+Zaten karıştırdıysanız, kaynaklardaki yaygın öneri, malzemenin üzerine azotlu bir organik kaynak eklemektir; örneğin taze talaş katmanlarının üzerine organik gübre ya da hayvan gübresi serilmesi çok yıllık yataklarda sık görülen bir uygulamadır. Üretici bilgisine göre HasTürk Katı Solucan Gübresi, yüksek besin içeriğiyle toprağın organik madde miktarını artıran organik bir üründür; azotu zenginleştirmek için bu tür organik kaynaklar kullanılabilir. Sebze ya da fide yatağında ise ilk adım, odun karışmış üst toprağı çıkarıp yenilemektir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Daha hızlı azot kaynakları da vardır; bunlardan biri olan kan unu ve dikkat edilecekler için [kan unu gübresi](/kan-unu-gubresi) yazısına bakın. Odun külü ise farklı bir etkiye sahiptir; ayrıntı için [odun külü gübre olarak kullanılır mı](/odun-kulu-gubre) yazısını inceleyin. Bahçe atığını doğru değerlendirmek için [bahçe atıkları](/bahce-atiklari) yazısı faydalıdır.
+
+## Talaş ve odunu doğru kullanmak
+
+Talaş ve odun işe yaramaz demek değildir. Doğru kullanıldığında yüzey malçı olarak nemi korur, otu bastırır ve zamanla toprağa organik madde bırakır. Kompost yığınında ise talaşı karbon kaynağı olarak azotlu malzemelerle (mutfak artığı, çim, gübre) dengelemek gerekir; kompost mantığı için [bahçede kompost yığını](/bahcede-kompost-yigini) yazısına bakın. Yıllanmış ve ayrışmış yonga toprağa karıştırıldığında artık azotu o kadar çekmez. Önemli olan, malzemenin yaşını ve yerini bilmektir.
+
+## Sık yapılan hatalar
+
+Taze talaşı sebze yatağına karıştırmak en yaygın hatadır. İkincisi, odun malçını fide diplerine yığmaktır. Üçüncüsü, sararmayı hemen başka bir nedene bağlayıp gübre dozunu artırmaktır. Dördüncüsü, kompostlamadan talaş kullanmaktır. Beşincisi, malçın etkisini abartıp odunu hiç kullanmamaktır; yüzeyde güvenlidir. Altıncısı, kompost yığınında azot kaynağı eklemeyi unutmaktır. Azot açlığı, odunun yanlış yerde ve yanlış yaşta kullanılmasından doğar; doğru yerde kullanıldığında odun toprağın dostudur.
+@sss
+S: Azot açlığı nedir?
+C: Taze talaş ya da odun parçası toprağa karıştırılınca ayrıştırıcı mikroorganizmaların topraktaki azotu kullanması ve bitkiye az bırakmasıdır. Etki geçicidir ama fide ve sebzelerde sararma ve yavaş büyümeye yol açar.
+
+S: Odun malçı azot açlığına neden olur mu?
+C: Yüzeye serilen odun malçında etki malçın altındaki ince toprak katmanıyla sınırlıdır; yerleşik çok yıllık bitkiler genellikle etkilenmez. Odun toprağa karıştırılırsa etki alanı çok büyür.
+
+S: Talaşı toprağa karıştırmak için ne yapmalı?
+C: Taze talaşı toprağa karıştırmayın. Önce kompostlayın ya da yıllandırın; karıştırdıysanız üzerine azotlu organik gübre ekleyin ve fideleri taze talaşlı toprağa dikmeyin.
+
+S: Azot açlığı ile azot eksikliği aynı mı?
+C: Belirtileri benzerdir. Azot açlığı toprakta azot olsa da mikropların onu tutmasından, azot eksikliği ise toprakta yeterli azot bulunmamasından kaynaklanır. Son dönemde toprağa odun ya da talaş karıştırıp karıştırmadığınızı hatırlayın.
+
+### SORU
+yayin: 2027-03-28 10:15
+kategori: bahce-ipuclari
+baslik: Elma bahçemiz dolu riskli bir yerde, dolu filesi kendini öder mi?
+metin: Ailecek 40 ağaçlık bir elma bahçemiz var, her yıl dolu korkusuyla yaşıyoruz. Dolu filesi kurmayı düşünüyoruz ama maliyet büyük görünüyor. Nasıl karar vermeliyiz?
+@cevap Halil İbrahim Çelik | 5
+Karar değer ve risk hesabına dayanır: dolu sıklığı, ürünün değeri, sigorta durumu ve yapının rüzgâr ve kar yükü karşılaması. Önce yerel ziraat mühendisinden hasar sıklığına dair bilgi alın, iki sistemi (örtü ve tavan ağı) karşılaştırın ve ağ ile yapının garantisini yazılı isteyin. Küçük bir bahçede tam kapama yerine kademeli yatırım ya da sigortayı güçlendirmek de seçenek olabilir.

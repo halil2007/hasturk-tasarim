@@ -1,0 +1,83 @@
+### YAZI
+slug: serada-gubre-eriyigi
+baslik: Serada Gübre Eriyiği: Damla Gübreleme İçin Hazırlık, EC ve pH Kontrolü
+yayin: 2027-01-31 16:40
+yazar: Muhammed Hamza Çelik
+kategori: gubreleme
+odak: serada gübre eriyiği
+seo_baslik: Serada Gübre Eriyiği: Damla Gübreleme, EC ve pH
+seo_aciklama: Serada gübre eriyiği hazırlarken stok tankı ve enjektör oranı, tartıyla çözme, EC ölçümü, pH ve tıkanma önlemini üniversite yayınlarıyla adım adım anlattık.
+ozet: Serada gübre eriyiği, damla sulama hattına enjektörle karıştırılan konsantre besin çözeltisidir; stok tankı enjektör oranına göre hazırlanır, gübre hacimle değil tartıyla çözülür ve eriyik gerçekte hatta ne kadar gübre gittiği EC ölçümüyle kontrol edilir. Hazırlık, pH ve tıkanma, tank oranı hesabını ve ölçüm adımlarını yazdık.
+etiketler: gübre eriyiği, fertigasyon, damla gübreleme, EC ölçümü, enjektör, stok tankı, sera gübreleme
+gorsel: bekliyor
+gorsel_alt: Serada damla hattına bağlı gübre enjektörü, stok tankı ve elde EC ölçer
+urunler: hasturk-sivi-solucan-gubresi
+kisaca: Serada gübre eriyiği, gübreyi stok tankında konsantre çözüp enjektörle damla hattına karıştırma düzenidir. Stok konsantrasyonu enjektör oranına göre belirlenir, gübre hacimle değil tartıyla ve çözünürlük sınırını aşmadan çözülür. Hatta gerçekte ne kadar gübre gittiğini gübre torbasındaki EC değeri değil, enjektör sonrası sulama suyunun EC ölçümü gösterir.
+@govde
+Serada damlayla gübre vermek, sulama ve besleme işini tek hatta birleştirir: bitkiye her sulamada küçük dozlar hâlinde besin gider. Ama bu düzenin kalbi, hattın başındaki tanktaki gübre eriyiğidir; yanlış hazırlanırsa bitkiyi yakar, hattı tıkar ya da aç bırakır. Serada gübre eriyiği hazırlarken üç soru sorulur: stok tankı hangi oranda hazırlanacak, eriyik gerçekten hedeflenen konsantrasyonda mı ve hat tıkanmadan çalışacak mı? Aşağıdaki adımlar üniversite yayınlarının ortak ilkelerine dayanır; hedef EC ve pH değerleri bitkiye, sistem türüne ve su kalitesine göre değiştiği için kendi tesisiniz için ziraat mühendisinden öneri alın. Genel gübre karşılaştırması için [sıvı gübre mi katı gübre mi](/sivi-gubre-mi-kati-gubre-mi) yazısına bakabilirsiniz.
+
+## Stok tankı ve enjektör oranı
+
+Gübre enjektörü, sulama suyundan geçen her birim suya belirli oranda stok çözelti katar; bu orana enjektör oranı denir. New Hampshire Üniversitesi Extension, bu oranın stok çözeltinin gereken konsantrasyonunu belirlediğini, enjektör oranlarının 1:10'dan 1:4000'e kadar çok geniş bir aralıkta değişebildiğini ve stok tankı hacminin karıştırılan gübre miktarıyla uyumlu olması gerektiğini anlatır ([UNH Extension, gübre enjektörleri ve konsantrasyon](https://extension.unh.edu/resources/files/Resource000882_Rep928.pdf)). Massachusetts Üniversitesi de seralarda kullanılan gübre enjektörü tipleri için bir bilgi sayfası yayımlar ([UMass, sera gübre enjektörleri](https://www.umass.edu/agriculture-food-environment/greenhouse-floriculture/fact-sheets/fertilizer-injectors-for-greenhouses)). Mantık basittir: enjektör 1:100 çalışıyorsa sulama suyuna yüzde bir oranında stok karışır; yani stok, hedef çözeltinin 100 katı kadar konsantre olmalıdır.
+
+| Büyüklük | Örnek değer | Hesap |
+|---|---|---|
+| Hedef çözelti konsantrasyonu | 1 g/L gübre | Bitkinin ihtiyacı ve ürün önerisine göre |
+| Enjektör oranı | 1:100 | Enjektörün ayarı |
+| Stok konsantrasyonu | 100 g/L | 1 g/L × 100 |
+| 200 L'lik tank için gübre | 20 kg | 100 g/L × 200 L |
+
+Bu tablo yalnız hesap mantığını gösteren bir örnektir; gerçek gübre miktarı ürüne, çözünürlüğe ve hedefe göre değişir. Hesapta enjektörün gerçekte çalıştığı oranı kontrol edin: etikette yazan oran ile fiilen çekilen miktar farklı olabilir.
+
+## Serada gübre eriyiği hazırlamak: tartı, çözünürlük ve sıra
+
+UNH yayınının önerisi, gübrenin hacimle değil ağırlıkla ölçülmesidir; aynı hacimdeki gübre farklı yoğunlukta olabilir. Stok eriyiği etikette yazan çözünürlük sınırının üstünde hazırlamayın; aşırı konsantre çözelti çöker ve hattı tıkar. Eriyiğin rengi konsantrasyonun güvenilir bir göstergesi değildir; renge bakarak karar vermeyin. Missouri State Üniversitesi'nin sunumu, suyun pH'ı yükseldikçe gübrelerin çözünürlüğünün azaldığını belirtir; bu yüzden hazırlık suyunun pH'ını ve sertliğini bilmek gerekir. Genel ilke olarak suda tamamen çözünen, tortu ve çökelti bırakmayan gübreler seçilir. Bazı gübreler birbiriyle aynı tankta çökelti yapabilir (örneğin kalsiyumlu gübrelerin sülfatlı ve fosfatlı olanlarla karışması); bu durumda gübreler iki ayrı tankta hazırlanır. Kendi gübrelerinizin etiketindeki karışım uyarılarını okuyun.
+
+::: adimlar
+Hedefi belirleyin | Bitkinin evresine göre hedef çözelti konsantrasyonunu ve EC'sini öğrenin.
+Enjektör oranını kontrol edin | Enjektörün gerçek oranını belirleyin; stok konsantrasyonunu hesaplayın.
+Gübreyi tartın | Hacimle değil ağırlıkla ölçün; çözünürlük sınırını aşmayın.
+Temiz suda çözün | Tankı kısmen suyla doldurun, gübreyi azar azar ekleyip karıştırarak çözün.
+Eriyiği doğrulayın | Enjektörden sonra EC ve pH ölçün; hedefle karşılaştırın.
+Hattı izleyin | Filtre ve damlatıcıları düzenli kontrol edin, tıkanmayı erken yakalayın.
+:::
+
+## EC ölçümü: torbadaki değere güvenmeyin
+
+Serada gübre eriyiğinin gerçekten hedeflenen konsantrasyonda olduğunu ancak ölçümle bilirsiniz. UNH yayını, gübre torbasında yazan EC değerinin stok eriyiği için bir kılavuz olarak kullanılmaması gerektiğini söyler; çünkü o değerler saf suya eklenmiş gübre içindir, sizin suyunuzda sonuç farklı olur. Önerilen yöntem şudur: önce gübresiz temiz sulama suyunun EC'sini ölçün, sonra enjektörden sonra hortumun ucundaki sulama suyunun EC'sini ölçün ve ikisini birbirinden çıkarın; fark, gübrenin katkısıdır. UNH örneğinde gübrelenmiş su 0,78 mmho, gübresiz su 0,3 mmho ölçülmüş ve gübreleme yaklaşık 75 ppm düzeyinde bulunmuştur. Aynı yayın, enjektör ayarını bir akış kontrolüyle de doğrulamayı ve hesaplanan oranın enjektör ayarına yüzde bir iki içinde yakın olmasını önerir. EC kavramı ve toprak tuzluluğu için [EC nedir, toprak ve sulama suyunda tuzluluk ölçümü](/ec-nedir-toprak-tuzlulugu-olcumu) yazısına bakın.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+Hedef EC ve pH değerleri bitki, evre, ışık, substrat ve su kalitesine göre değişir; kaynaklar tek bir değerde birleşmez. Örneğin topraksız domates için Florida Üniversitesi yayını uygun pH aralığını 5,5–6,8 olarak ve hedefi 6,5 olarak anar ([UF/IFAS, domates yayını](https://ask.ifas.ufl.edu/hs1392)); Mississippi State'in bir bülteninde ise serada domates çözeltisinde asit enjeksiyonuyla pH'ın 5,6–5,8 aralığında tutulması önerilir; Arizona Üniversitesi'nin bir bölümü olgun domates için damla EC'sini 2,5–3,5 mS/cm olarak verir, yüksek ışık ve sıcaklıkta daha düşük EC önerir ([Arizona CEAC, kontrollü ortam bölümü](https://ceac.arizona.edu/sites/default/files/Chapter%2010.pdf)). Bu değerler topraksız ve kontrollü ortam örnekleridir; topraklı serada hedefler toprak analizine göre belirlenir. Bu yüzden kendi sisteminiz için tek bir sayıyı kesin kabul etmeyin; analiz ve ziraat mühendisi önerisini esas alın. Toprak analizi için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısına bakın.
+
+## pH ve su sertliği: çökelti ve tıkanma
+
+pH hem gübre çözünürlüğünü hem tıkanma riskini etkiler. Sulama suyunda karbonat ve bikarbonat varsa (sert ve alkali su), pH'ı düşürmek için asit gerekebilir; asidin büyük bölümü bikarbonatı nötrleştirmek için harcanır (SLU eğitim notu). Georgia Üniversitesi yayınları mineral çökeltiler için asitlendirmeyi, bakteri ve yosun için klorlamayı önerir. Asit kullanımı güvenlik gerektirir: koruyucu ekipman, doğru seyreltme ve etiket kuralları şarttır. Damlatıcıların tıkanmasında askıdaki katı madde de etkilidir; tıkanma tablolarında askıda katı maddenin belirli seviyeleri orta ve yüksek tıkanma riski olarak sınıflandırılır. Bu yüzden filtre (elek ya da disk) kullanın ve düzenli temizleyin. Damla sistemi kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısına bakın.
+
+## Gübre seçimi ve organik ürünler
+
+Serada gübre eriyiği için suda tamamen çözünür gübreler tercih edilir; çözünmeyen parçacıklar hattı tıkar. Organik sıvı ürünleri (örneğin sıvı solucan gübresi) damla hattına vermek istiyorsanız ürünün etiketinde damlama kullanımına uygun olduğunu kontrol edin, kuvvetli süzme yapın ve sistemi daha sık izleyin. Aynı eriyiğe birden fazla ürün karıştırmadan önce küçük bir kapta karışım denemesi yapın. Besin planı için bitkiye özel yazılara bakın: [domates gübreleme](/domates-gubreleme) ve [salatalık gübreleme](/salatalik-gubreleme). Aşırı gübre belirtileri için [gübre yakması](/gubre-yakmasi) yazısına göz atın. Sera sıcaklığı ve iklimi de besin alımını etkiler ([sera sıcaklık tablosu](/sera-sicaklik-tablosu)).
+
+## Güvenlik ve kayıt
+
+Gübre ve asitle çalışırken eldiven, gözlük ve uygun giysi kullanın; çözeltiyi çocuklardan ve hayvanlardan uzak tutun. Stok tankını kapalı, etiketli ve gölgede saklayın; ışık yosun üretir. Her hazırlıkta tarihi, tank hacmini, kullanılan gübreyi ve ölçülen EC ve pH'ı deftere yazın. Bu kayıt, bir sorun çıkarsa nedenini bulmanızı sağlar. Tarım ve gübre mevzuatı konusunda ilinizin tarım müdürlüğü yetkili kaynaktır; ürün ve doz için gübre etiketine ve ziraat mühendisine başvurun. Sıvı gübre konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Serada gübre eriyiği nasıl hazırlanır?
+C: Stok tankı, enjektör oranına göre hazırlanır: 1:100'lük enjektörde stok, hedef çözeltinin 100 katı konsantre olmalıdır. Gübreyi hacimle değil tartıyla, çözünürlük sınırını aşmadan ve temiz suda çözün.
+
+S: Gübre eriyiğinin EC'si nasıl ölçülür?
+C: Gübresiz sulama suyunun EC'sini ve enjektörden sonraki hortum ucunun EC'sini ayrı ayrı ölçüp farkı alın. Torbadaki EC değeri saf su içindir ve stok için kılavuz olarak kullanılmaz.
+
+S: Damla hattı neden tıkanır, nasıl önlenir?
+C: Çözünmeyen gübre, yüksek pH ve karbonatlı sert suyla oluşan mineral çökeltiler, yosun ve askıdaki katılar tıkanma yapar. Tamamen çözünen gübre seçin, pH ve sertliği kontrol edin, filtre kullanıp düzenli temizleyin.
+
+S: Serada gübre eriyiğinin pH'ı ne olmalı?
+C: Kaynaklar tek değerde birleşmez: topraksız domates için Florida kaynağı 5,5–6,8 aralığını anar, Mississippi State bir bültende 5,6–5,8 önerir. Topraklı serada hedef toprak analizine göre belirlenir; ziraat mühendisine danışın.
+
+### SORU
+yayin: 2027-01-31 18:05
+kategori: gubreleme
+baslik: Serada gübre eriyiğim damla uçlarını tıkıyor, nedeni ne olabilir?
+metin: Domates serasında damla ile gübre veriyorum. Birkaç haftadır damlatıcıların ucunda beyaz tortu birikiyor ve bazıları tıkandı. Suyum çok sert. Ne yapmalıyım?
+@cevap Muhammed Hamza Çelik | 2
+Beyaz tortu çoğunlukla mineral çökeltidir: sert ve alkali suda kalsiyum ve karbonat, yüksek pH'ta gübrelerin çözünürlüğü de düşer ve çökelti yapar. Üniversite yayınları mineral çökeltiler için asitlendirmeyi, bakteri ve yosun için klorlamayı önerir. Önce suyunuzun pH ve sertliğini ölçün; gerekiyorsa uygun asitle pH'ı düşürün, ama asidi güvenlik kurallarıyla ve etiket oranında kullanın. Kalsiyumlu gübreyi sülfatlı ve fosfatlı gübreyle aynı tankta karıştırmayın, ayrı tank kullanın. Filtreleri temizleyin, damla hattını asitli suyla yıkayın ve gübrenin çözünürlük sınırını aşmadığınızdan emin olun. Sorun sürerse ziraat mühendisine su analizinizi gösterip hat için çözüm isteyin.

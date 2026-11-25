@@ -1,0 +1,707 @@
+### YAZI
+slug: fide-cokertmesi
+baslik: Fide Çökertmesi: Fideler Dipten İncelip Devriliyorsa Ne Yapmalı?
+yayin: 2026-11-13 07:15
+yazar: Halil İbrahim Çelik
+kategori: bahce-ipuclari
+odak: fide çökertmesi
+seo_baslik: Fide Çökertmesi Nedir? Belirtileri ve Önleme Yolları
+seo_aciklama: Fide çökertmesi nedir, neden olur? Fidelerin dipten incelip devrilmesi, toprak kökenli mantarlar, aşırı nem, temiz toprak ve viyol, havalandırma ve önleme.
+ozet: Sağlıklı görünen fidelerin bir gecede kök boğazından incelip devrilmesi, fide çökertmesinin tipik belirtisidir. Hastalığı tanımayı ve fideleri baştan korumayı anlatıyoruz.
+etiketler: fide çökertmesi, fide hastalıkları, fide yetiştirme, viyol, toprak kökenli hastalıklar
+gorsel: p4-fide-cokertme
+gorsel_alt: Küçük saksılarda çimlenmiş genç fideler
+urunler: hg-fide-topragi, 45-goz-yuvarlak-fide-viyolu, florist-mantar-onleyici-bitki-spreyi-250-ml
+kisaca: Fide çökertmesi, toprakta yaşayan mantarların genç fidelerin kök boğazını çürütmesiyle oluşur; fide dipten incelir, kararır ve devrilir. Eski ve kullanılmış toprak, aşırı sulama, havasız ve serin ortam, sık ekim hastalığı kolaylaştırır. Temiz fide toprağı ve viyol, ölçülü sulama, iyi havalandırma ve yeterli ışık en etkili önlemdir.
+@govde
+Fide çökertmesi, tohumdan fide yetiştiren herkesin bir gün karşılaşabileceği en can sıkıcı sorunlardan biridir. Haftalarca özenle bakılan, gür ve sağlıklı görünen fideler bir sabah dipten incelmiş, kök boğazı kararmış ve yere yatmış hâlde bulunur. Çoğu zaman tek bir fideyle başlar, birkaç gün içinde viyolün bir bölümüne yayılır. Kış ve erken ilkbahar aylarında, içeride yetiştirilen fidelerde özellikle sık görülür; çünkü serin, nemli ve havasız ortam hastalık etkenleri için idealdir. İyi haber şu ki fide çökertmesi büyük ölçüde önlenebilir bir hastalıktır. Bu yazıda hastalığın neden ortaya çıktığını, nasıl tanındığını ve fideleri nasıl koruyabileceğinizi anlatıyoruz.
+
+## Fide çökertmesi nedir?
+
+Fide çökertmesi, tek bir hastalık değil, toprakta yaşayan birkaç farklı mantar ve mantar benzeri organizmanın genç fidelerde yol açtığı ortak bir tablodur. Bu etkenler hemen her toprakta bulunur; sağlıklı ve güçlü bitkiler onlardan genellikle etkilenmez. Ancak tohumdan yeni çıkmış, dokuları yumuşak ve savunmasız fideler, özellikle aşırı nemli ve serin koşullarda kolayca hastalanır.
+
+Hastalık iki şekilde görülebilir. Bazen tohum çimlenir ama filiz toprak yüzeyine ulaşmadan çürür; bu durumda viyolde boş gözler kalır ve tohumun çimlenmediği sanılır. Daha sık görülen şekli ise fideler çıktıktan sonra ortaya çıkar: Fidenin toprak yüzeyine yakın kök boğazı önce sulu ve koyu renkli bir görünüm alır, sonra incelir, büzülür ve fide bu noktadan kırılarak devrilir. Yapraklar bir süre yeşil kalsa da fide kurtarılamaz.
+
+Çimlenmeyen tohumların diğer nedenleri için [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazımıza göz atabilirsiniz.
+
+## Fide çökertmesi neden olur?
+
+Fide çökertmesinin arkasında genellikle birkaç etken bir arada bulunur. Bahçeden alınan ya da önceki yıldan kalan eski toprak, hastalık etkenlerini barındırır. Aşırı sulama ve sürekli ıslak kalan toprak yüzeyi, mantarların çoğalması için en uygun ortamı oluşturur. Viyollerin üzerinin fideler çıktıktan sonra da kapalı tutulması nemi ve havasızlığı artırır. Serin ortam fidenin büyümesini yavaşlatırken hastalık etkenlerini durdurmaz; bu yüzden soğuk bir pencere önündeki fideler daha kolay hastalanır. Tohumların çok sık ekilmesi fideler arasında hava dolaşımını engeller ve hastalığın fideden fideye geçmesini kolaylaştırır. Yetersiz ışıkta uzayan, ince ve zayıf fideler de çökertmeye daha açıktır.
+
+| Risk etkeni | Neden önemli? |
+|---|---|
+| Eski, kullanılmış ya da bahçe toprağı | Hastalık etkenlerini barındırır |
+| Aşırı sulama | Toprak yüzeyi sürekli ıslak kalır |
+| Kapalı ve havasız ortam | Nem birikir, yüzey kurumaz |
+| Serin ortam | Fide yavaş büyür, savunmasız kalır |
+| Sık ekim | Hava dolaşımı azalır, hastalık hızla yayılır |
+| Yetersiz ışık | Fideler uzar, zayıflar |
+| Kirli viyol ve aletler | Önceki yılın etkenleri taşınır |
+
+## Fide çökertmesi nasıl önlenir?
+
+**Temiz bir başlangıç yapın:** Fide yetiştirmede en önemli adım, temiz ve yeni bir fide toprağı kullanmaktır. Bahçe toprağı ya da önceki yıldan kalan saksı toprağı fide için uygun değildir. Fide toprağı ince yapılı, hafif, iyi drene olan ve hastalık etkenlerinden arındırılmış olmalıdır.
+
+[ürün:hg-fide-topragi]
+
+**Viyolleri temizleyin:** Daha önce kullanılmış viyolleri ve saksıları, yeniden kullanmadan önce sıcak sabunlu suyla iyice yıkayın; mümkünse seyreltilmiş çamaşır suyuyla durulayıp kurutun.
+
+[ürün:45-goz-yuvarlak-fide-viyolu]
+
+Toprağı yeniden kullanmak zorundaysanız temizleme yöntemleri için [toprak sterilizasyonu](/toprak-sterilizasyonu) yazımıza bakabilirsiniz.
+
+**Ölçülü sulayın:** Toprak sürekli ıslak değil, hafif nemli olmalıdır. Mümkünse alttan sulayın: Viyolü birkaç dakika su dolu bir tepsiye koyup toprağın suyu alttan çekmesini sağlayın ve fazlasını boşaltın. Böylece fidelerin kök boğazının bulunduğu yüzey daha kuru kalır.
+
+**Havalandırın:** Viyollerin üzerindeki şeffaf kapağı yalnızca çimlenme süresince kullanın. İlk filizler göründüğünde kapağı kaldırın ya da günde birkaç saat aralayarak fideleri havaya alıştırın. Fidelerin bulunduğu odayı düzenli havalandırmak ve gerekirse hafif bir fan kullanmak, yüzeyin kurumasını sağlar ve fideleri güçlendirir.
+
+**Seyrek ekin:** Her göze bir iki tohum ekin; fazla çıkan fideleri erkenden seyreltin.
+
+**Yeterli ışık ve sıcaklık sağlayın:** Fideleri türüne uygun ılık bir ortamda ve bol ışıkta tutun. Işık yetersizse fideler uzar ve zayıflar. Kış aylarında fidelere ek ışık sağlamanın yolları için [fide aydınlatması](/fide-aydinlatmasi) yazımıza göz atabilirsiniz.
+
+## Toprak yüzeyini kuru tutmanın küçük püf noktaları
+
+Tohumu ektikten sonra toprağın yüzeyine ince bir kat vermikülit ya da ince kum serpmek, kök boğazı çevresinin daha kuru kalmasına yardımcı olur. Bu ince örtü, aynı zamanda toprak yüzeyinde yosun oluşumunu da azaltır. Sulama suyunun oda sıcaklığında olması da önemlidir; soğuk su kökleri strese sokar. Kış aylarında, viyollerin soğuk bir pencere pervazına doğrudan değil, altına konan bir tahta ya da strafor plaka üzerine yerleştirilmesi, toprağın alttan soğumasını engeller.
+
+## Hastalık başladıysa ne yapılır?
+
+Fide çökertmesi başladığında devrilen fideler kurtarılamaz. Yapılabilecek en iyi şey, hastalığın yayılmasını durdurmaktır. Devrilen fideleri ve çevresindeki toprağı hemen uzaklaştırın. Sulamayı azaltıp toprağın yüzeyinin kurumasını sağlayın, havalandırmayı artırın ve viyolü daha ılık ve aydınlık bir yere taşıyın. Sağlam kalan fideler gerçek yapraklarını oluşturmuşsa, en kısa sürede temiz toprakla doldurulmuş ayrı saksılara şaşırtılabilir.
+
+Bitki koruma amacıyla geliştirilmiş, mantar hastalıklarına karşı etkili ürünler yalnızca etiket talimatına uygun şekilde kullanılabilir; ancak hiçbir ürün, ıslak ve havasız ortam düzeltilmedikçe kalıcı sonuç vermez.
+
+## Fide büyüdükçe risk azalır
+
+Fide çökertmesi en çok çimlenmeden sonraki ilk iki üç haftada görülür. Fideler büyüyüp gövdeleri kalınlaştıkça ve dokuları sertleştikçe bu hastalığa karşı dirençleri artar. Bu yüzden ilk haftalarda gösterilen özen, fide döneminin büyük bölümünü güvence altına alır. Viyolde fide yetiştirmenin adım adım rehberi için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazımız yol gösterir. Saksı toprağında uçuşan küçük sinekler de fidelerin köklerine zarar verebilir; bu konuda [mantar sineği](/mantar-sinegi) yazımızı okuyabilirsiniz.
+
+Fide çökertmesi, çoğu zaman fazla sevginin, yani fazla suyun ve fazla korumanın bir sonucudur. Temiz toprak, ölçülü su, bol hava ve ışıkla fidelerinizi bu sessiz tehlikeden koruyabilir, sağlıklı ve güçlü fidelerle sezona başlayabilirsiniz.
+@sss
+S: Fide çökertmesi nedir?
+C: Toprakta yaşayan mantar ve mantar benzeri organizmaların genç fidelerin kök boğazını çürütmesiyle oluşan hastalıktır. Fide dipten incelir, kararır ve devrilir; bazen tohum toprak yüzeyine çıkmadan çürür.
+
+S: Fideler neden dipten çürür?
+C: En sık nedenler eski ve kullanılmış toprak, aşırı sulama, viyollerin kapalı ve havasız tutulması, serin ortam, sık ekim ve yetersiz ışıktır. Bu koşullar toprak kökenli mantarların çoğalmasını kolaylaştırır.
+
+S: Fide çökertmesi nasıl önlenir?
+C: Temiz ve yeni fide toprağı, yıkanmış viyoller, alttan ve ölçülü sulama, filizler çıktıktan sonra iyi havalandırma, seyrek ekim ve yeterli ışık ile sıcaklık en etkili önlemlerdir.
+
+S: Devrilen fideler kurtarılabilir mi?
+C: Kurtarılamaz. Devrilen fideler ve çevresindeki toprak hemen uzaklaştırılmalı, sulama azaltılmalı ve havalandırma artırılmalıdır. Sağlam kalan fideler temiz toprağa şaşırtılabilir.
+
+### YAZI
+slug: kisin-pencere-onundeki-bitkiler
+baslik: Kışın Pencere Önündeki Bitkiler: Soğuk Cam, Kalorifer ve Işık Dengesi
+yayin: 2026-11-13 09:50
+yazar: Hatice Kübra Çelik
+kategori: bitki-bakimi
+odak: kışın pencere önündeki bitkiler
+seo_baslik: Kışın Pencere Önündeki Bitkiler: Doğru Konum Rehberi
+seo_aciklama: Kışın pencere önündeki bitkiler için soğuk cam, kalorifer ve ışık dengesi; yaprak yanığı, yaprak dökümü, hangi pencereye hangi bitki ve gece koruması.
+ozet: Kışın bitkileri ışık için pencereye yaklaştırmak gerekir; ama soğuk cam ve altındaki kalorifer peteği aynı bitkiyi hem dondurabilir hem kurutabilir. Pencere önünde doğru dengeyi kurmanın yollarını anlatıyoruz.
+etiketler: kışın pencere önündeki bitkiler, kış bitki bakımı, salon bitkileri, soğuk cam, kalorifer
+gorsel: p4-pencere-onu
+gorsel_alt: Kışın pencere pervazında sıralanmış saksı bitkileri
+urunler: salon-bitkilerine-ozel-toprak-karisimi, florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini, hg-kil-bilyesi
+kisaca: Kışın pencere önündeki bitkiler bol ışık alır ama soğuk cam ve kalorifer peteği yüzünden zarar görebilir. Yaprakların cama değmemesi, gece perdenin bitkiyle cam arasında kalmaması ve saksının doğrudan kaloriferin üstüne konmaması gerekir. Tropikal bitkiler camdan 20–30 cm geride, kaktüs ve sukulentler ise camın hemen önünde tutulabilir.
+@govde
+Kışın pencere önündeki bitkiler, evdeki en şanslı ama aynı zamanda en riskli bitkilerdir. Kış aylarında günler kısalır ve güneş alçaktan geçer; bu yüzden salon bitkilerinin çoğu için en aydınlık yer olan pencere önü, kışın neredeyse tek iyi seçenek hâline gelir. Ancak aynı pencere, gece camın soğuması, açılıp kapanan kanatlardan gelen soğuk hava ve hemen altındaki kalorifer peteğinin kurutucu sıcağı nedeniyle bitkiler için tehlikeli bir yer de olabilir. Bu yazıda kışın pencere önünde bitkileri nasıl konumlandıracağınızı, hangi belirtilerin soğuktan ya da sıcaktan kaynaklandığını ve hangi bitkinin hangi pencereye uygun olduğunu anlatıyoruz.
+
+## Kışın ışık neden bu kadar önemli?
+
+Kış aylarında güneş ışığının hem süresi hem de şiddeti azalır. Yaz aylarında odanın ortasında rahatça yaşayan bir bitki, kışın aynı yerde yeterli ışık alamaz; uzar, solar ve alt yapraklarını döker. Bu yüzden kışın bitkileri pencereye yaklaştırmak genellikle doğru bir karardır. Yazın güney penceresinde yanabilecek bir bitki bile kışın aynı yerde rahat edebilir.
+
+## Pencere önündeki üç tehlike
+
+**Soğuk cam:** Kış gecelerinde, özellikle tek camlı ya da eski pencerelerde camın yüzeyi dış sıcaklığa çok yaklaşır. Cama değen yapraklar soğuktan yanar; önce koyu yeşil ve sulu bir görünüm alır, sonra kahverengileşip kurur. Tropikal bitkilerde bu zarar birkaç saatte oluşabilir.
+
+**Perde tuzağı:** Gece perdeleri kapattığınızda, bitki perde ile cam arasında kalıyorsa, o dar alan odanın sıcaklığından tamamen kopar ve buzdolabı gibi soğur. Bu durum, gündüz sağlıklı görünen bitkilerin bir sabah toplu yaprak dökmesinin sık nedenlerinden biridir.
+
+**Kalorifer peteği:** Pencerelerin altında genellikle kalorifer peteği bulunur. Peteğin hemen üstündeki saksıda toprak çok hızlı kurur, kökler aşırı ısınır ve çevredeki hava çok kuru olur. Sonuç; yaprak uçlarında kuruma, tomurcuk dökümü ve kırmızı örümcek gibi zararlıların çoğalmasıdır.
+
+Bunlara bir de pencerenin açılıp kapanmasıyla gelen soğuk hava akımları eklenir. Ficus ve benjamin gibi bitkiler bu ani soğuk dalgalarına yaprak dökerek tepki verir. Kauçuk ağacındaki yaprak dökümünün nedenleri için [kauçuk yaprak dökmesi](/kaucuk-yaprak-dokmesi) yazımıza göz atabilirsiniz.
+
+## Kışın pencere önündeki bitkiler için doğru konum
+
+**Camla arasında mesafe bırakın:** Tropikal salon bitkilerini camdan 20–30 cm geride tutun. Yaprakların cama değmemesine özen gösterin.
+
+**Geceleri perdeye dikkat edin:** Perdeyi bitkinin arkasından kapatın ya da soğuk gecelerde bitkileri pencereden birkaç adım geri çekin.
+
+**Kaloriferin üstüne koymayın:** Saksıyı peteğin hemen üstüne ya da pervaza, peteğin sıcak havasının doğrudan çarptığı yere koymayın. Mecbursanız saksının altına ahşap ya da mantar bir altlık koyun ve nem tepsisi kullanın.
+
+**Nemi artırın:** Saksıları içi kil bilyesi ya da çakılla doldurulmuş ve suyla nemlendirilmiş tepsilerin üzerine koymak, bitkinin çevresindeki nemi artırır. Saksının dibi suya değmemelidir.
+
+[ürün:hg-kil-bilyesi]
+
+Kış aylarında nem dengesinin kurulması için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımız ayrıntılı bilgi verir.
+
+**Saksıyı düzenli çevirin:** Işığa doğru eğilen bitkileri birkaç haftada bir çeyrek tur çevirmek, düzgün bir form sağlar. Ancak tomurcuklanmış çiçekli bitkilerin yerini ve yönünü değiştirmeyin.
+
+**Camları temiz tutun:** Kirli camlar, zaten az olan kış ışığının önemli bir kısmını keser. Kışın camları temizlemek bitkiler için de iyi bir yatırımdır.
+
+## Hangi pencereye hangi bitki?
+
+| Pencere yönü | Kış ışığı | Uygun bitkiler |
+|---|---|---|
+| Güney | En bol, doğrudan güneş | Kaktüsler, sukulentler, aloe vera, sardunya, narenciye, begonvil |
+| Doğu | Sabah güneşi, yumuşak | Orkide, hoya, peperomia, begonya, gardenya |
+| Batı | Öğleden sonra güneşi | Kroton, kauçuk, ficus, monstera |
+| Kuzey | Dolaylı, az ışık | Paşa kılıcı, zamia, barış çiçeği, salon sarmaşığı, eğrelti |
+
+Kaktüsler ve sukulentler soğuk camın önüne en dayanıklı bitkilerdir; hatta serin bir pencere önü, kaktüslerin çiçek açması için gereken kış dinlenmesini sağlar. Bu konuda [kaktüs çiçek açtırma](/kaktus-cicek-actirma) yazımıza bakabilirsiniz.
+
+## Belirtilerden nedeni anlamak
+
+Yapraklarda ani koyulaşma, sulu lekeler ve ardından kahverengileşme soğuk zararına işaret eder. Yaprak uçları ve kenarlarının kuruyup kahverengileşmesi, sık sulamaya rağmen toprağın çok çabuk kuruması ise kaloriferin sıcağından kaynaklanır. Bitkinin pencereye doğru uzaması ve alt yaprakların sararıp dökülmesi yetersiz ışığı, yaprakların yeşilken toplu hâlde düşmesi ise soğuk hava akımını ya da ani sıcaklık değişimini gösterir.
+
+## Çift cam, tek cam ve balkon kapıları
+
+Pencerelerin yapısı da bitkilerin kışı nasıl geçireceğini etkiler. Isı yalıtımlı çift camlı pencerelerin iç yüzeyi tek camlılara göre çok daha az soğur; bu pencerelerin önünde bitkiler cama daha yakın durabilir. Eski, tek camlı ya da hava sızdıran pencerelerde ise camın önü gece neredeyse dış hava kadar soğuyabilir. Sık açılan balkon kapılarının önü, her açılışta içeri dolan soğuk hava nedeniyle hassas bitkiler için uygun değildir. Bu kapıların önüne soğuğa dayanıklı bitkiler ya da kaktüsler koymak daha doğrudur. Kış güneşi alçaktan geldiği için, yazın gölgede kalan iç köşeler kışın beklenmedik şekilde aydınlanabilir; bitkilerin yerini mevsime göre gözden geçirmek iyi bir alışkanlıktır.
+
+## Kışın bakım alışkanlıkları
+
+Kışın pencere önündeki bitkilerin büyüme hızı yavaşlar; bu yüzden sulama aralığını açın ve sulamadan önce toprağı mutlaka yoklayın. Kaloriferin yanındaki saksılar diğerlerinden daha çabuk kuruyabilir; her saksıyı ayrı ayrı değerlendirin. Gübrelemeyi kışın durdurun ya da kışın çiçek açan bitkilerle sınırlayın. Yaprakların tozunu nemli bir bezle almak, bitkinin az ışıktan en iyi şekilde yararlanmasını sağlar.
+
+[ürün:florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini]
+
+İlkbaharda yeni büyüme dönemi başladığında saksı değişimi gereken bitkiler için taze ve süzek bir toprak hazırlamayı unutmayın.
+
+Kış aylarında salon bitkisi bakımıyla ilgili diğer ipuçları için [kışın salon bitkisi bakımı](/kisin-salon-bitkisi-bakimi) yazımızı okuyabilirsiniz.
+
+Kışın pencere önündeki bitkiler, doğru konumlandırıldığında kış boyunca sağlıklı kalır ve ilkbahara güçlü girer. Camla aradaki birkaç santimetre, perdenin doğru tarafı ve kaloriferden uzak bir köşe; bu küçük ayrıntılar bütün kışın kaderini belirler.
+@sss
+S: Kışın bitkiler pencere önüne konur mu?
+C: Konur; kışın ışık azaldığı için pencere önü çoğu bitki için en iyi yerdir. Ancak tropikal bitkiler camdan 20–30 cm geride tutulmalı, yapraklar cama değmemeli ve saksı kalorifer peteğinin üstüne konmamalıdır.
+
+S: Soğuk cam bitkiye zarar verir mi?
+C: Verir. Kış gecelerinde soğuyan cama değen yapraklar soğuk yanığına uğrar; önce koyulaşıp sulu bir görünüm alır, sonra kahverengileşip kurur.
+
+S: Kalorifer bitkilere zarar verir mi?
+C: Kalorifer peteğinin üstündeki ya da hemen yanındaki bitkilerde toprak hızla kurur, kökler aşırı ısınır ve hava çok kuru olur. Bu durum yaprak uçlarında kurumaya, tomurcuk dökümüne ve zararlılara yol açar.
+
+S: Hangi bitkiler güney penceresinde yetişir?
+C: Kaktüsler, sukulentler, aloe vera, sardunya, narenciye ve begonvil gibi bol ışık seven bitkiler kışın güney penceresinde en iyi şekilde yetişir.
+
+### YAZI
+slug: azot-eksikligi
+baslik: Azot Eksikliği: Sararan Alt Yapraklar ve Yavaş Büyümenin Nedeni
+yayin: 2026-11-13 11:05
+yazar: Ahmet Sacit Çelik
+kategori: gubreleme
+odak: azot eksikliği
+seo_baslik: Azot Eksikliği: Belirtiler, Nedenler ve Doğru Çözüm
+seo_aciklama: Bitkilerde azot eksikliği nasıl anlaşılır? Alt yaprakların sararması, soluk renk, yavaş büyüme, nedenleri, organik çözümler ve azot fazlasının zararları.
+ozet: Bitkinin alt yaprakları baştan sona sararıyor ve büyüme duruyorsa, ilk şüpheli azottur. Azot eksikliğini diğer sorunlardan ayırmayı ve bitkiyi aşırıya kaçmadan beslemeyi anlatıyoruz.
+etiketler: azot eksikliği, bitki besin eksikliği, yaprak sararması, azotlu gübre, organik gübre
+gorsel: p4-azot
+gorsel_alt: Alt yaprakları sararmış genç lahana bitkisi
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi, guanokalong-extract-sivi-guano-gubresi
+kisaca: Azot eksikliği, önce yaşlı alt yapraklarda başlayan ve yaprağın tamamını kaplayan sararmayla kendini gösterir; bitki soluk yeşilleşir, yavaş büyür ve küçük kalır. Fakir ve kumlu topraklar, bol yağış, taze organik maddenin ayrışması ve uzun süre yenilenmeyen saksı toprakları başlıca nedenlerdir. Organik gübreler ve dengeli besleme ile giderilir.
+@govde
+Azot eksikliği, bitkilerde en sık görülen besin sorunudur. Sebze bahçesindeki marulun soluk yeşil kalması, domatesin alt yapraklarının tek tek sararıp dökülmesi ya da saksıdaki bir bitkinin aylardır yeni yaprak vermemesi çoğu zaman bu durumun işaretidir. Azot, bitkinin büyümesi için en çok ihtiyaç duyduğu besindir; yaprakların, sürgünlerin ve klorofilin yapı taşıdır. Ancak azotun fazlası da en az azlığı kadar sorun yaratır. Bu yazıda belirtileri, diğer sararmalardan nasıl ayırt edileceğini, nedenlerini ve bitkiyi aşırıya kaçmadan nasıl besleyeceğinizi anlatıyoruz.
+
+## Azot bitkide ne işe yarar?
+
+Azot, proteinlerin, enzimlerin ve bitkinin yeşil rengini veren klorofilin temel yapı taşıdır. Yeterli azot alan bitki koyu yeşil yapraklar, güçlü sürgünler ve hızlı bir büyüme gösterir. Bu yüzden azot, özellikle marul, ıspanak, lahana ve çim gibi yaprağı için yetiştirilen bitkilerde en kritik besindir.
+
+Azot bitki içinde hareketlidir. Toprakta azot azaldığında bitki, yaşlı yapraklardaki azotu söküp genç yapraklara ve büyüme noktalarına taşır. Bu nedenle belirtiler her zaman önce alttaki yaşlı yapraklarda görülür.
+
+## Azot eksikliğinin belirtileri
+
+En tipik belirti, yaşlı alt yaprakların baştan sona, yani damarlar dahil, eşit şekilde sararmasıdır. Bu sararma yukarı doğru ilerler ve zamanla bitkinin tamamı soluk, açık yeşil bir renk alır. Sararan alt yapraklar sonunda kuruyup dökülür. Bitki yavaş büyür, sürgünleri ince ve kısa, yaprakları küçük kalır. Meyve ağaçlarında ve sebzelerde çiçek ve meyve sayısı azalır, meyveler küçük kalır. Bazı bitkilerde, örneğin domateste, yaprak sapları ve yaprakların alt yüzü mor-kırmızı bir renk alabilir.
+
+## Diğer sararmalardan ayırmak
+
+| Belirti | Azot eksikliği | Magnezyum eksikliği | Demir eksikliği | Aşırı sulama |
+|---|---|---|---|---|
+| Başladığı yer | Yaşlı alt yapraklar | Yaşlı alt yapraklar | Genç üst yapraklar | Alt yapraklar |
+| Sararma şekli | Yaprağın tamamı, damarlar dahil | Damar arası, damarlar yeşil | Damar arası, damarlar yeşil | Sararma ve yumuşama |
+| Toprak durumu | Değişken | Değişken | Genellikle kireçli | Sürekli ıslak |
+
+Damar arası sararmalar için [magnezyum eksikliği](/magnezyum-eksikligi) ve [bitkilerde demir eksikliği](/bitkilerde-demir-eksikligi) yazılarımıza, genel bir değerlendirme için ise [yapraklar neden sararır](/yapraklar-neden-sararir) yazımıza göz atabilirsiniz.
+
+## Azot neden azalır?
+
+**Fakir ve kumlu topraklar:** Organik maddesi düşük ve kumlu topraklar azotu tutamaz.
+
+**Yağış ve sulama:** Azot, nitrat hâlinde suyla çok kolay yıkanır. Bol yağışlı kışlardan sonra ya da aşırı sulanan bahçelerde toprak azotu hızla azalır.
+
+**Taze organik madde:** Toprağa karıştırılan saman, talaş, taze yaprak ve ayrışmamış gübre gibi karbonu yüksek malzemeler ayrışırken, mikroorganizmalar bu işi yapmak için topraktaki azotu kendileri kullanır. Bu dönemde bitkiler geçici bir azot açlığı yaşayabilir. Ahır gübresinin olgunlaştırılması bu yüzden önemlidir; ayrıntılar için [ahır gübresi](/ahir-gubresi) yazımıza bakabilirsiniz.
+
+**Saksı bitkileri:** Saksıdaki sınırlı toprak, birkaç ay içinde azotunu tüketir. Uzun süre beslenmeyen ve toprağı yenilenmeyen saksı bitkilerinde bu sorun çok yaygındır.
+
+**Soğuk toprak:** İlkbaharda soğuk toprakta mikroorganizmalar yavaş çalıştığı için organik maddeden azot açığa çıkması gecikir; bitkiler geçici olarak sararabilir.
+
+**Kök sorunları:** Sıkışmış, havasız ya da çürümüş köklere sahip bitkiler, toprakta azot olsa bile onu alamaz.
+
+## Azot eksikliği nasıl giderilir?
+
+**Organik gübreler:** Solucan gübresi, olgun kompost ve iyi yanmış hayvan gübresi azotu yavaş yavaş ve dengeli şekilde verir; toprağın yapısını da iyileştirir. Uzun vadede bu sorunu önlemenin en sağlam yoludur.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+**Hızlı destek:** Belirtiler belirgin ve bitki aktif büyüme dönemindeyse, sıvı organik besinler ya da suda çözünen azotlu gübreler daha hızlı sonuç verir. Sıvı gübreler nemli toprağa ve etikette önerilen dozda uygulanmalıdır.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+**Baklagillerden yararlanın:** Bahçede fiğ, bakla ve bezelye gibi baklagiller yetiştirip toprağa karıştırmak, toprağa doğal yoldan azot kazandırır. Bu yöntemin ayrıntıları için [yeşil gübreleme](/yesil-gubreleme) yazımıza göz atabilirsiniz.
+
+**Saksı bitkilerinde:** Büyüme döneminde düzenli bir besleme yapın ve toprağı 1–2 yılda bir yenileyin.
+
+## Bitki türüne göre azot ihtiyacı
+
+Her bitkinin azot ihtiyacı aynı değildir. Marul, ıspanak, lahana, pırasa ve çim gibi yaprağı için yetiştirilen bitkiler bol azot ister ve eksikliği hemen gösterir. Domates, biber ve kabak gibi meyve sebzeleri, büyüme döneminin başında azota ihtiyaç duyar; ancak çiçeklenme ve meyve döneminde fazla azot meyve tutumunu azaltır. Fasulye, bezelye ve bakla gibi baklagiller ise köklerindeki bakteriler sayesinde azotunu büyük ölçüde kendisi sağlar ve azotlu gübreye pek ihtiyaç duymaz. Kaktüsler, sukulentler ve Akdeniz kökenli aromatik bitkiler de az besinle yetinen bitkilerdir. Gübrelemeyi bitkinin türüne ve gelişme dönemine göre ayarlamak, hem eksikliği hem de fazlalığı önler.
+
+## Azotun fazlası da zararlıdır
+
+Eksikliği gidermek isterken aşırıya kaçmak da sorun yaratır. Fazla azot alan bitkiler çok hızlı ama yumuşak ve sulu bir gelişme gösterir; yaprak biti gibi zararlılara ve mantar hastalıklarına çok daha açık hâle gelir. Meyve ağaçları ve çiçekli bitkiler yaprak büyütmeye yönelir, çiçek ve meyve vermez. Domates ve biber bol yaprak yapar ama meyve tutumu azalır. Ayrıca fazla gübre köklerde yanmaya yol açabilir; bu konuda [gübre yakması](/gubre-yakmasi) yazımız yol gösterir. Kışın ve sonbahar sonunda verilen azot ise yumuşak sürgünlerin dondan zarar görmesine neden olur.
+
+Doğru miktarı bilmenin en iyi yolu, toprak analizi yaptırmak ve bitkinin türüne göre dengeli bir besleme programı uygulamaktır. Analiz sonucunda toprağın organik maddesi ve azot durumu görüldüğünde, gübreleme tahmine değil, gerçek ihtiyaca göre planlanabilir. Bu hem bitki sağlığını korur hem de gereksiz gübre masrafını önler.
+
+Azot eksikliği, bitkinin "acıktım" deme şeklidir. Alt yaprakların sararmasını doğru okuyup toprağı organik maddeyle besler ve gerektiğinde ölçülü bir destek verirseniz, bitkiniz kısa sürede koyu yeşil rengine ve güçlü büyümesine kavuşur.
+@sss
+S: Azot eksikliği nasıl anlaşılır?
+C: Önce yaşlı alt yapraklar damarları dahil eşit şekilde sararır, sararma yukarı doğru ilerler ve bitki soluk açık yeşil bir renk alır. Büyüme yavaşlar, sürgünler ince ve yapraklar küçük kalır.
+
+S: Azot eksikliği neden olur?
+C: Fakir ve kumlu topraklar, yağış ve sulamayla azotun yıkanması, ayrışmamış taze organik madde, uzun süre yenilenmeyen saksı toprakları, soğuk toprak ve kök sorunları azot eksikliğine yol açar.
+
+S: Azot eksikliği nasıl giderilir?
+C: Solucan gübresi, olgun kompost ve iyi yanmış gübre gibi organik kaynaklar azotu dengeli şekilde verir. Hızlı destek için sıvı organik besinler kullanılabilir; baklagillerle yeşil gübreleme de toprağa azot kazandırır.
+
+S: Fazla azot bitkiye zarar verir mi?
+C: Verir. Fazla azot yumuşak ve sulu bir gelişmeye, zararlı ve hastalıklara yatkınlığa, az çiçek ve meyveye, köklerde gübre yanığına ve sonbaharda dona hassas sürgünlere yol açar.
+
+### YAZI
+slug: toprak-sicakligi-ve-ekim
+baslik: Toprak Sıcaklığı ve Ekim: Tohumu Ne Zaman Toprağa Vermeli?
+yayin: 2026-11-13 12:25
+yazar: Rümeysa Altınova
+kategori: toprak-rehberi
+odak: toprak sıcaklığı
+seo_baslik: Toprak Sıcaklığı ve Ekim Zamanı: Sebzelere Göre Tablo
+seo_aciklama: Toprak sıcaklığı ekimi nasıl etkiler? Sebzelerin çimlenme sıcaklıkları, toprak sıcaklığını ölçme, soğuk toprakta ekimin riskleri ve toprağı ısıtmanın yolları.
+ozet: Takvim yalnızca bir rehberdir; tohumun çimlenip çimlenmeyeceğine asıl karar veren toprağın sıcaklığıdır. Sebzelere göre çimlenme sıcaklıklarını ve toprağı ölçmenin yolunu anlatıyoruz.
+etiketler: toprak sıcaklığı, ekim zamanı, tohum çimlenme sıcaklığı, toprak termometresi, sebze ekimi
+gorsel: p4-toprak-sicakligi
+gorsel_alt: Bahçe toprağına batırılmış toprak termometreleri
+urunler: hg-premium-fide-topragi, 45-goz-yuvarlak-fide-viyolu, hasturk-kati-solucan-gubresi
+kisaca: Toprak sıcaklığı, tohumun çimlenme hızını ve başarısını doğrudan belirler. Ispanak, marul ve bezelye 5 °C civarında bile çimlenebilirken domates, biber, salatalık ve fasulye en az 12–15 °C ister. Toprak sıcaklığı sabah saatlerinde 5–10 cm derinlikte ölçülür. Soğuk toprakta ekilen tohumlar geç çimlenir ya da çürür.
+@govde
+Toprak sıcaklığı, bahçecilikte çoğu zaman göz ardı edilen ama ekimin başarısını doğrudan belirleyen bir etkendir. Ekim takvimleri bize genel bir fikir verir; ancak her yıl hava aynı gitmez. Bir yıl mart ılık geçer, bir başka yıl nisan ortasında bile toprak buz gibidir. Tohumun çimlenip çimlenmeyeceğine, ne kadar sürede çimleneceğine ve fidenin sağlıklı gelişip gelişmeyeceğine asıl karar veren, havanın değil toprağın sıcaklığıdır. Bu yazıda bu sıcaklığın ekimi nasıl etkilediğini, sebzelere göre çimlenme sıcaklıklarını, toprağı nasıl ölçeceğinizi ve soğuk toprağı ısıtmanın yollarını anlatıyoruz.
+
+## Toprak sıcaklığı neden bu kadar önemli?
+
+Bir tohumun çimlenmesi, içindeki enzimlerin çalışmasıyla başlar ve bu enzimler belirli bir sıcaklık aralığında çalışır. Toprak çok soğuksa tohum su emer ama uyanamaz; bu sırada toprakta yaşayan mantarlar tohumu çürütebilir. Toprak çok sıcaksa bazı serin iklim sebzeleri, örneğin marul ve ıspanak, uyku hâline geçer ve çimlenmez.
+
+Sıcaklık yalnızca çimlenmeyi değil, köklerin gelişimini, besin alımını ve toprak canlılarının faaliyetini de etkiler. Soğuk toprakta kökler yavaş büyür, fosfor gibi besinler zor alınır ve fideler mor-kırmızı bir renk alarak duraklayabilir.
+
+Toprağın sıcaklığı, havanın sıcaklığından farklı davranır. İlkbaharda güneşli bir günde hava 20 °C'yi bulsa bile toprak hâlâ 8–10 °C olabilir; çünkü toprak geç ısınır. Sonbaharda ise tam tersi olur: Hava soğumaya başladığında toprak bir süre daha yazın depoladığı ısıyı korur. Bu yüzden sonbahar ekimleri, soğuk havaya rağmen ılık toprak sayesinde başarılı olabilir.
+
+## Sebzelere göre çimlenme sıcaklıkları
+
+| Sebze | En düşük toprak sıcaklığı | En uygun aralık |
+|---|---|---|
+| Ispanak, marul, roka | 2–5 °C | 10–20 °C |
+| Bezelye, bakla | 4–5 °C | 10–20 °C |
+| Soğan, pırasa, maydanoz | 5 °C | 15–25 °C |
+| Havuç, pancar, turp | 5 °C | 15–25 °C |
+| Lahana, brokoli, karnabahar | 5 °C | 15–25 °C |
+| Fasulye | 12–15 °C | 20–30 °C |
+| Mısır | 10–12 °C | 20–30 °C |
+| Domates | 10–12 °C | 20–30 °C |
+| Biber, patlıcan | 15 °C | 25–30 °C |
+| Salatalık, kabak, kavun, karpuz | 15 °C | 25–32 °C |
+
+Serin iklim sebzeleri soğuk toprakta yavaş da olsa çimlenebilir; sıcak iklim sebzeleri ise en düşük sıcaklığın altında ekildiğinde çoğu zaman çürür. Biber ve patlıcan gibi sıcak seven sebzelerin tohumları bu yüzden kış sonunda dışarıda değil, ılık bir ortamda viyolde çimlendirilir.
+
+Türlere göre ekim derinlikleri için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu), çimlenmeyen tohumların diğer nedenleri için ise [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazılarımıza göz atabilirsiniz.
+
+## Toprak sıcaklığı nasıl ölçülür?
+
+Ölçüm için bahçe marketlerinde bulunan uzun uçlu bir toprak termometresi yeterlidir. Ölçümü birkaç kuralla yaparsanız doğru bir sonuç alırsınız. Termometreyi, tohumun ekileceği derinlikte, yani genellikle 5–10 cm derinliğe batırın. Ölçümü sabah erken saatlerde yapın; toprağın günün en soğuk olduğu saat budur ve tohum için belirleyici olan da bu değerdir. Birkaç gün üst üste ölçüm yapmak, tek bir ılık günün sizi yanıltmasını önler. Bahçenin farklı yerlerinde, örneğin güneye bakan bir duvar dibiyle gölgeli bir köşede, değerlerin birkaç derece fark edebileceğini unutmayın.
+
+Termometreniz yoksa doğa da size ipucu verir. Bahçedeki yabani otların çimlenmeye başlaması, toprak solucanlarının yüzeye yakın faaliyeti ve meyve ağaçlarının tomurcuk kabartması, toprağın ısınmaya başladığının işaretleridir.
+
+## Soğuk toprağı ısıtmanın yolları
+
+İlkbaharda ekimi birkaç hafta öne çekmek istiyorsanız toprağı ısıtmanın bazı pratik yolları vardır. Ekimden 1–2 hafta önce toprağın üzerine koyu renkli ya da şeffaf bir naylon sermek, güneşin ısısını toprağa hapseder ve birkaç derecelik kazanç sağlar. Yükseltilmiş yataklar, düz zemine göre daha çabuk ısınır ve daha iyi drene olur. Soğuk çerçeveler ve mini seralar, hem toprağı hem de genç fideleri soğuktan korur; ayrıntılar için [soğuk çerçeve](/soguk-cerceve) yazımıza bakabilirsiniz. Islak toprak kuru topraktan çok daha geç ısınır; bu yüzden drenajı iyi olan topraklar ilkbaharda ekime daha erken hazır hâle gelir. Organik maddece zengin, koyu renkli topraklar da güneş ısısını daha iyi emer.
+
+Kış ve ilkbaharda tohumları ılık bir ortamda viyolde çimlendirip fideleri toprak ısındığında dikmek, sıcak seven sebzeler için en güvenli yoldur.
+
+[ürün:hg-premium-fide-topragi]
+
+[ürün:45-goz-yuvarlak-fide-viyolu]
+
+## Saksı ve viyolde sıcaklık
+
+Saksı ve viyollerdeki az miktardaki toprak, bahçe toprağına göre çok daha hızlı ısınır ve soğur. Kışın soğuk bir pencere pervazında duran viyolün toprağı, odanın havasından birkaç derece daha soğuk olabilir. Bu yüzden içeride tohum çimlendirirken viyolleri soğuk mermer ya da taş pervazlar yerine ahşap bir yüzeye koymak, gerekiyorsa altına bir strafor levha yerleştirmek çimlenmeyi hızlandırır. Buzdolabının üstü ya da sıcak bir dolabın yakını gibi hafif ılık yerler de biber ve patlıcan gibi sıcak seven tohumlar için iyi bir çimlendirme köşesi olabilir. Filizler çıktıktan sonra ise fideleri bol ışık alan bir yere taşımayı unutmayın.
+
+## Sonbaharda toprak sıcaklığı
+
+Sonbaharda toprak, havaya göre daha yavaş soğur. Bu yüzden eylül ve ekim aylarında yapılan ekimler, hava serinlemeye başlasa bile ılık toprak sayesinde hızla çimlenir. Kasım ayında ise toprak ılıman bölgelerde hâlâ serin iklim sebzelerinin çimlenmesine yeterlidir; ıspanak, roka, bakla ve bezelye bu dönemde ekilebilir. Soğuk bölgelerde ise toprak hızla soğur ve tohumlar ilkbahara kadar toprakta bekler. Kasım ayında ekilebilecek sebzeler için [kışlık sebzeler listesi](/kislik-sebzeler-listesi) yazımıza göz atabilirsiniz.
+
+Toprağın organik maddesini artırmak, toprak canlılarının faaliyetini destekler ve toprağın yapısını iyileştirerek daha dengeli bir sıcaklık ve nem ortamı sağlar.
+
+Toprağın sıcaklığına göre ekim yapmak, takvime göre ekim yapmaktan çok daha güvenilirdir. Basit bir termometre ve birkaç sabahlık ölçümle tohumlarınızı tam zamanında toprağa verebilir, boşa giden tohum ve emekten kurtulabilirsiniz.
+@sss
+S: Toprak sıcaklığı ekimi nasıl etkiler?
+C: Tohumun çimlenmesi için gereken enzimler belirli bir sıcaklık aralığında çalışır. Toprak çok soğuksa tohum geç çimlenir ya da çürür; çok sıcaksa marul gibi serin iklim sebzeleri çimlenmeyebilir.
+
+S: Domates için toprak sıcaklığı kaç derece olmalı?
+C: Domates tohumu en az 10–12 °C toprak sıcaklığında çimlenmeye başlar; en uygun aralık 20–30 °C'dir. Fideler dışarıya toprak sıcaklığı 15 °C'nin üzerine çıktığında dikilmelidir.
+
+S: Toprak sıcaklığı nasıl ölçülür?
+C: Uzun uçlu bir toprak termometresi tohumun ekileceği derinliğe, yaklaşık 5–10 cm'ye batırılır. Ölçüm toprağın en soğuk olduğu sabah erken saatlerde ve birkaç gün üst üste yapılır.
+
+S: Hangi sebzeler soğuk toprakta ekilebilir?
+C: Ispanak, marul, roka, bezelye, bakla, soğan, havuç, turp ve lahanagiller 5 °C civarındaki serin toprakta da yavaş yavaş çimlenebilir.
+
+### YAZI
+slug: kisin-meyve-agaci-sulama
+baslik: Kışın Meyve Ağacı Sulama: Ne Zaman Gerekir, Ne Zaman Zarar Verir?
+yayin: 2026-11-13 13:45
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: kışın meyve ağacı sulama
+seo_baslik: Kışın Meyve Ağacı Sulama: Ne Zaman ve Ne Kadar?
+seo_aciklama: Kışın meyve ağacı sulama gerekir mi? Yağışsız kışlar, genç fidanlar, kış öncesi can suyu, donlu toprakta sulama, saksılı ağaçlar ve aşırı sulamanın zararları.
+ozet: Kış uykusundaki meyve ağaçlarının suya ihtiyacı azdır, ama sıfır değildir. Kurak geçen kışlarda ve yeni dikilmiş fidanlarda doğru zamanda yapılan bir sulama, ağacı ilkbahara güçlü hazırlar.
+etiketler: kışın meyve ağacı sulama, meyve ağacı bakımı, kış sulaması, fidan bakımı, kuraklık
+gorsel: p4-kis-sulama
+gorsel_alt: Kışın yapraksız meyve ağaçlarının bulunduğu bahçe
+urunler: sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu, sgs-3-fonksiyonlu-sulama-tabancasi, leonardit-organik-toprak-duzenleyici
+kisaca: Kışın meyve ağacı sulama, yağışların yeterli olduğu kışlarda genellikle gerekmez. Kurak kışlarda ise fidanlara ve hafif topraklardaki ağaçlara, toprak donmamışken ılık bir öğle vakti derin sulama yapılır. Kış öncesinde verilen bol can suyu ağacı dona karşı da korur. Su biriken topraklarda kış sulaması yapılmaz.
+@govde
+Kışın meyve ağacı sulama, birçok bahçe sahibinin aklına bile gelmeyen bir konudur. Yapraklarını dökmüş, kış uykusuna yatmış bir ağacın suya ihtiyacı olmadığı düşünülür. Gerçekten de kış uykusundaki ağaçların su tüketimi yaza göre çok azdır ve çoğu kışta yağışlar bu ihtiyacı fazlasıyla karşılar. Ancak son yıllarda sıkça yaşanan kurak ve kuru ayazlı kışlar, özellikle genç fidanlar ve hafif topraklardaki ağaçlar için beklenmedik bir risk oluşturur. Kökleri kuruyan ağaç ilkbaharda zayıf uyanır, çiçeklerini dökebilir ya da bazı dalları kuruyabilir. Bu yazıda kışın meyve ağaçlarının ne zaman sulanması gerektiğini, ne zaman sulamanın zarar vereceğini ve doğru sulamanın nasıl yapılacağını anlatıyoruz.
+
+## Kış uykusundaki ağaç su kullanır mı?
+
+Yapraklarını döken bir ağaç, yazın olduğu gibi yapraklarından su buharlaştırmaz; bu yüzden su ihtiyacı büyük ölçüde azalır. Ancak ağaç tamamen durmaz. Kökler, toprak donmadığı sürece kış boyunca yavaş da olsa çalışır ve büyümeye devam eder. Dallar ve gövde, kabuk yüzeyinden az miktarda su kaybeder. Özellikle kuru ve rüzgârlı kış günlerinde bu kayıp artar. Zeytin, limon ve defne gibi her dem yeşil ağaçlar ise kışın da yapraklarından su kaybetmeye devam eder; bu yüzden kış kuraklığından yaprak döken ağaçlara göre daha fazla etkilenirler.
+
+Kökleri kuru toprakta kalan bir ağaç, ilkbaharda tomurcuklarını açmak için ihtiyaç duyduğu suyu bulamaz. Bu durum zayıf bir uyanışa, çiçek ve genç meyve dökümüne ve bazen sürgün kurumasına yol açar.
+
+## Kışın meyve ağacı sulama ne zaman gerekir?
+
+**Yağışsız geçen kışlar:** Birkaç hafta boyunca kayda değer yağış almayan, kuru ve güneşli ya da ayazlı geçen kış dönemlerinde toprak kuruyabilir. Toprağı 15–20 cm derinlikte kontrol edin; avuçta sıkıldığında dağılıyor ve hiç nem hissedilmiyorsa sulama zamanı gelmiştir.
+
+**Yeni dikilmiş fidanlar:** Sonbaharda ya da kış başında dikilen fidanların kökleri henüz toprağa yerleşmemiştir. Bu fidanlar kış kuraklığından en çok etkilenen ağaçlardır. Kış boyunca toprağın kurumamasına özellikle dikkat edin. Fidan dikiminin ilk yıl bakımı için [kasımda fidan dikimi](/kasimda-fidan-dikimi) yazımıza göz atabilirsiniz.
+
+**Hafif ve kumlu topraklar:** Kumlu topraklar suyu tutamaz; yağışlardan birkaç gün sonra bile kuruyabilir.
+
+**Her dem yeşil meyve ağaçları:** Zeytin, limon, mandalina ve diğer narenciyeler kışın da su kaybettiği için kurak kışlarda düzenli kontrol edilmelidir.
+
+**Saksıdaki ağaçlar:** Saksıdaki toprak kışın da kurur; ancak çok ıslak kalması da kökleri çürütür.
+
+## Kış öncesi can suyu
+
+Kış başlamadan önce, sonbaharın son kurak döneminde ağaçlara bol bir sulama yapmak çok faydalıdır. Nemli toprak, kuru toprağa göre ısıyı daha iyi depolar ve geceleri daha yavaş soğur; bu da kökleri dondan korur. Kurak bir sonbaharın ardından kışa kuru toprakla giren ağaçlar, hem dondan hem de kış kuraklığından daha fazla etkilenir. Bu sulama genellikle kasım ayında, toprak donmadan önce yapılır.
+
+## Kışın sulama nasıl yapılır?
+
+**Doğru gün ve saat:** Kış sulaması, toprak donmamışken ve hava sıcaklığı 5 °C'nin üzerindeyken, ılık bir günün öğle saatlerinde yapılır. Böylece su akşam olmadan toprağa iner ve gece donmaz.
+
+**Derin ve seyrek:** Kışın sık ve az sulama değil, seyrek ama derin sulama yapılır. Amaç, kök bölgesini 30–50 cm derinliğe kadar ıslatmaktır. Genç bir fidan için 20–30 litre, yetişkin bir ağaç için ağacın büyüklüğüne göre daha fazla su verilebilir.
+
+**Taç izdüşümüne verin:** Suyu gövdenin dibine değil, ağacın besin alan ince köklerinin bulunduğu taç izdüşümü çevresine verin. Hortumu yavaş akışta bırakıp ağacın çevresinde birkaç noktaya taşıyarak suyun toprağa yavaşça sızmasını sağlayın.
+
+[ürün:sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu]
+
+[ürün:sgs-3-fonksiyonlu-sulama-tabancasi]
+
+**Sulama sonrası:** Kış sulamasından sonra hortumu boşaltmayı ve donmayan bir yerde saklamayı unutmayın; içinde su kalan hortumlar donda çatlayabilir. Ayrıntılar için [hortum kışlatma](/hortum-kislatma) yazımıza bakabilirsiniz.
+
+## Ne zaman sulama yapılmaz?
+
+Kışın sulama, yalnızca gerçekten gerektiğinde yapılmalıdır. Yağışlı kışlarda ek sulamaya gerek yoktur. Toprak donmuşken sulama yapılmaz; su toprağa giremez, yüzeyde donar ve buz tabakası oluşturur. Ağır killi ve su tutan topraklarda, kışın fazla su köklerin havasız kalmasına ve çürümesine yol açar. Gece don beklenen günlerde akşam saatlerinde sulama yapılmaz. Kar örtüsü varken de sulamaya gerek yoktur; eriyen kar toprağı yavaş yavaş nemlendirir.
+
+## Bölgelere göre kış sulaması
+
+Kış sulama ihtiyacı bölgeden bölgeye çok değişir. Karadeniz ve Marmara gibi kışları yağışlı geçen bölgelerde ek sulamaya nadiren ihtiyaç duyulur; bu bölgelerde asıl sorun fazla su ve drenajdır. Ege ve Akdeniz'de kış yağışları genellikle yeterlidir; ancak yağışsız geçen haftalarda özellikle genç zeytin ve narenciye fidanları kontrol edilmelidir. İç Anadolu ve Güneydoğu'da ise kurak ve ayazlı kışlar daha sık görülür; bu bölgelerde kış öncesi can suyu ve ılık günlerde yapılan kontroller daha da önemlidir. Doğu Anadolu'da ise toprak uzun süre donmuş ve karla kaplı kaldığı için kış ortasında sulama yapılmaz; ağaçları kışa iyi sulanmış olarak göndermek yeterlidir.
+
+## Malç: Kış nemini korumanın en kolay yolu
+
+Ağacın dibine, gövdeye değdirmeden 5–10 cm kalınlığında serilen malç, toprağın nemini korur, toprak sıcaklığındaki ani değişimleri yumuşatır ve kökleri dondan korur. Malç ayrıca kış yağmurlarının toprağa daha iyi sızmasını sağlar. Ağaç diplerine malç sermenin incelikleri için [ağaç dibi malçlama](/agac-dibi-malclama) yazımıza göz atabilirsiniz.
+
+Toprağın su tutma kapasitesini artırmak için organik madde ve humik madde kaynakları da uzun vadede faydalıdır.
+
+## Saksılı meyve ağaçlarında kış sulaması
+
+Saksıdaki limon, zeytin ya da kamkat gibi ağaçlar kışın daha az su ister; ama saksı toprağı tamamen kurumamalıdır. Sulamadan önce parmağınızla toprağı 3–5 cm derinlikte yoklayın; kuruysa ılık bir günün öğle saatlerinde, saksının altından su gelene kadar sulayın ve tabakta kalan suyu boşaltın. Kışı serin ve kapalı bir alanda geçiren saksılarda sulama aralığı daha da uzar. Saksılı ağaçların kış koruması için [büyük saksıda ağaç](/buyuk-saksida-agac) yazımız yol gösterir.
+
+Kışın meyve ağacı sulama, aslında bahçeyi gözlemlemekten ibarettir. Yağışlar yeterliyse doğaya bırakın; kurak ve ayazlı geçen haftalarda ise toprağı yoklayın ve ılık bir öğle vakti ağaçlarınıza derin bir yudum su verin. İlkbaharda tomurcuklar bu özenin karşılığını verecektir.
+@sss
+S: Kışın meyve ağaçları sulanır mı?
+C: Yağışların yeterli olduğu kışlarda genellikle gerekmez. Ancak birkaç hafta yağışsız ve kuru geçen kışlarda, özellikle yeni dikilmiş fidanlar ve hafif topraklardaki ağaçlar toprak donmamışken derin bir şekilde sulanmalıdır.
+
+S: Kışın ağaç sulamak için en iyi zaman ne zaman?
+C: Toprak donmamışken ve hava sıcaklığı 5 °C'nin üzerindeyken, ılık bir günün öğle saatleridir. Böylece su akşam olmadan toprağa iner ve gece donmaz.
+
+S: Donmuş toprağa su verilir mi?
+C: Verilmez. Donmuş toprağa verilen su toprağa sızamaz, yüzeyde donarak buz tabakası oluşturur. Sulama, toprak çözüldükten sonra ılık bir günde yapılmalıdır.
+
+S: Kış öncesi can suyu neden önemlidir?
+C: Nemli toprak ısıyı kuru topraktan daha iyi depolar ve geceleri daha yavaş soğur; bu da kökleri dondan korur. Kurak bir sonbaharın ardından kış öncesi verilen bol su, ağacı hem dona hem kış kuraklığına karşı hazırlar.
+
+### YAZI
+slug: kompost-kokusu
+baslik: Kompost Kokusu: Kötü Kokan Kompostu Düzeltmenin Yolları
+yayin: 2026-11-13 15:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: kompost kokusu
+seo_baslik: Kompost Kokusu Neden Olur? Kokuyu Gidermenin Yolları
+seo_aciklama: Kompost kokusu neden olur? Çürük yumurta ve amonyak kokusunun nedenleri, yeşil-kahverengi dengesi, nem, havalandırma ve balkonda kokusuz kompost.
+ozet: İyi işleyen bir kompost orman toprağı gibi kokar. Çürük yumurta ya da amonyak kokusu, kompostun dengesinin bozulduğunu gösterir ve çoğu zaman birkaç basit düzeltmeyle giderilir.
+etiketler: kompost kokusu, kompost yapımı, kompost sorunları, balkonda kompost, organik atık
+gorsel: p4-kompost
+gorsel_alt: Bahçede ahşap kompost kasası içinde ayrışan organik atıklar
+urunler: biochar-mese-odunu-bazli-karbon-toprak-duzenleyici, hasturk-kati-solucan-gubresi, sgs-karistirma-kabi-35-lt-siyah
+kisaca: Kompost kokusu çoğunlukla fazla nemden, havasızlıktan ve yeşil malzemenin fazlalığından kaynaklanır. Çürük yumurta kokusu havasızlığa, amonyak kokusu fazla azotlu malzemeye işaret eder. Kuru yaprak, karton ve saman gibi kahverengi malzeme eklemek, yığını aktarmak ve nemi sıkılmış sünger kıvamına getirmek kokuyu kısa sürede giderir.
+@govde
+Kompost kokusu, kompost yapmaya başlayan pek çok kişinin vazgeçme nedeni olur. Oysa doğru işleyen bir kompost kötü kokmaz; olgunlaştıkça yağmurdan sonraki orman toprağını andıran hoş bir koku yayar. Kompost yığınından ya da balkondaki kompost kovasından çürük yumurtaya, lağıma ya da keskin amonyağa benzeyen kokular geliyorsa, bu kompostun dengesinin bozulduğunu gösterir. İyi haber şu ki kötü kokan bir kompost çoğu zaman birkaç basit müdahaleyle birkaç gün içinde düzelir. Bu yazıda kompost kokusunun nedenlerini, kokuya göre ne yapmanız gerektiğini ve baştan kokusuz bir kompost kurmanın yollarını anlatıyoruz.
+
+## Kompost neden kokar?
+
+Kompost, mikroorganizmaların organik atıkları ayrıştırmasıyla oluşur. Bu mikroorganizmaların çoğu oksijenle çalışır ve iyi çalıştıklarında ortaya çıkan ürünler kokusuzdur. Yığın havasız kaldığında ise oksijensiz ortamda çalışan başka mikroorganizmalar devreye girer ve kükürtlü, keskin kokulu gazlar üretir. Kötü kokunun büyük çoğunluğu bu yüzden havasızlıktan kaynaklanır.
+
+Kompostun dengesi üç temel etkene bağlıdır: yeşil ve kahverengi malzeme oranı, nem ve hava. Bu üçünden biri bozulduğunda koku başlar.
+
+**Yeşil malzemeler** azotça zengindir: sebze ve meyve artıkları, kahve telvesi, taze biçilmiş çim, taze bitki artıkları. **Kahverengi malzemeler** ise karbonca zengindir: kuru yapraklar, saman, karton, gazete kâğıdı, talaş ve kuru dallar. Dengeli bir kompostta kahverengi malzeme, hacim olarak yeşil malzemeden genellikle iki üç kat fazla olmalıdır.
+
+## Kokuya göre teşhis
+
+| Koku | Neden | Ne yapmalı? |
+|---|---|---|
+| Çürük yumurta, lağım | Havasızlık, aşırı nem | Yığını aktarın, kuru kahverengi malzeme ekleyin |
+| Keskin amonyak | Fazla yeşil malzeme, özellikle taze çim | Kuru yaprak, karton, saman ekleyin |
+| Ekşi, sirke | Fazla meyve artığı, sıkışma | Kahverengi malzeme ekleyin, karıştırın |
+| Kokuşmuş et, süt | Hayvansal artıklar | Bu artıkları çıkarın, bir daha eklemeyin |
+| Hiç koku yok, ayrışma yok | Yığın çok kuru ya da çok küçük | Nemlendirin, yeşil malzeme ekleyin |
+
+## Kompost kokusu nasıl giderilir?
+
+**Aktarın:** Kokunun en hızlı çözümü, yığını bir bahçe çatalıyla aktarmaktır. Dıştaki malzemeyi içeri, içtekini dışarı alın; sıkışmış katmanları açın. Bu işlem yığına oksijen kazandırır ve kokuyu çoğu zaman bir iki gün içinde azaltır.
+
+**Kahverengi malzeme ekleyin:** Kuru yaprak, parçalanmış karton, saman ya da talaş, fazla nemi emer, yığını havalandırır ve azot fazlasını dengeler. Sonbaharda dökülen yaprakları torbalarda biriktirip yıl boyunca komposta eklemek, bu dengeyi kurmanın en kolay yoludur. Yaprakların değerlendirilmesi için [yaprak kompostu](/yaprak-kompostu) yazımıza göz atabilirsiniz.
+
+**Nemi ayarlayın:** Kompost, sıkılmış bir sünger kıvamında nemli olmalıdır. Avucunuzda sıktığınızda birkaç damladan fazla su akıyorsa yığın çok ıslaktır. Kışın yağmur alan açık yığınların üzerini bir branda ya da kapakla örtmek, fazla suyu önler.
+
+**Büyük parçaları küçültün:** Karpuz kabuğu, lahana sapı gibi büyük parçalar yavaş ayrışır ve içleri çürüyerek kokabilir. Malzemeleri komposta atmadan önce küçük parçalara ayırın.
+
+**Biochar kullanın:** Gözenekli yapısı sayesinde biochar, kompostta kokuya neden olan gazları tutabilir, havalanmayı artırır ve ayrışmayı destekler. Kompost yığınına ya da kovasına az miktarda biochar karıştırmak koku sorununu azaltabilir. Kullanımı için [biochar nedir, toprakta nasıl kullanılır](/biochar-nedir-toprakta-nasil-kullanilir) yazımıza bakabilirsiniz.
+
+[ürün:biochar-mese-odunu-bazli-karbon-toprak-duzenleyici]
+
+## Kışın kompost
+
+Kış aylarında kompost yığını soğuk havanın etkisiyle yavaşlar; mikroorganizmalar düşük sıcaklıkta daha az çalışır. Bu dönemde koku sorunu genellikle azalır, ama kış yağmurlarıyla ıslanan açık yığınlar havasız kalıp kokmaya başlayabilir. Yığının üzerini bir branda ya da kapakla örtmek, hem fazla suyu engeller hem de içerideki ısıyı korur. Kışın mutfak artıklarını eklemeye devam edebilirsiniz; her eklemede üzerine bir kat kuru yaprak ya da karton koymak, dengeyi korur. İlkbaharda havalar ısındığında yığını bir kez iyice aktarmak, ayrışmayı yeniden hızlandırır. Sonbaharda biriktirilen kuru yaprakların bir kısmını kış ve ilkbahar için ayırmak, kahverengi malzeme sıkıntısını önler.
+
+## Yığın büyüklüğü ve yeri
+
+Çok küçük kompost yığınları yeterince ısınmaz ve çabuk kurur; çok büyük yığınlar ise ortasında havasız kalabilir. Bahçede yaklaşık bir metreküplük bir yığın ya da kasa iyi bir dengedir. Kompost yığınını su birikmeyen, yarı gölge bir köşeye kurmak, yazın aşırı kurumayı, kışın ise aşırı ıslanmayı önler. Yığının altına birkaç dal ya da kaba sap sermek, alttan havalanmayı kolaylaştırır.
+
+## Komposta neler eklenmez?
+
+Bazı malzemeler kompostta kötü kokuya, sinek ve fareye yol açar. Et, balık, kemik, süt ürünleri, yağlı yemek artıkları, kedi ve köpek dışkısı, hastalıklı bitkiler ve yabani ot tohumları ev kompostuna eklenmemelidir. Kahve telvesi ve yumurta kabukları ise uygun miktarlarda komposta katkı sağlar; ancak kalın tabakalar hâlinde atılmamalıdır. Kahve telvesinin doğru kullanımı için [kahve telvesi gübre](/kahve-telvesi-gubre) yazımıza göz atabilirsiniz.
+
+## Balkonda kokusuz kompost
+
+Apartmanda ya da balkonda kompost yapanlar için koku, en hassas konudur. Küçük bir kompost kovasında da aynı kurallar geçerlidir; ancak alan küçük olduğu için denge daha çabuk bozulur. Her mutfak artığı ekleyişinizde üzerine bir avuç kuru kahverengi malzeme, örneğin parçalanmış karton ya da kuru yaprak koyun. Kovanın altında fazla suyun birikmemesi için delikler olmalı ve altına bir tepsi konmalıdır. Kovanın içini haftada bir karıştırın. Kapağın sıkı kapanması sineklerin girmesini önler ama hava alışverişini tamamen kesmemelidir; küçük havalandırma delikleri bu dengeyi sağlar.
+
+[ürün:sgs-karistirma-kabi-35-lt-siyah]
+
+Balkonda kompost yapmanın adım adım rehberi için [balkonda kompost yapımı](/balkonda-kompost-yapimi) yazımızı okuyabilirsiniz.
+
+## Olgun kompost nasıl kokar?
+
+Olgunlaşmış kompost koyu kahverengi, ufalanan, orijinal malzemelerin artık tanınmadığı bir yapıdadır ve hoş, toprak kokusu taşır. Bu koku, toprakta yaşayan faydalı mikroorganizmaların ürettiği doğal bir maddeden gelir. Kompostunuz bu kokuyu aldığında, bahçeye ve saksılara kullanmaya hazırdır. Kompost hazır olana kadar bitkilerinizi besleyecek kokusuz ve olgun bir organik kaynak arıyorsanız solucan gübresi iyi bir seçenektir.
+
+Kompost kokusu bir başarısızlık değil, kompostun size verdiği bir işarettir. Biraz kahverengi malzeme, biraz hava ve doğru nemle kötü koku kaybolur ve yerini, bahçenizin en değerli malzemesinin hoş toprak kokusuna bırakır.
+@sss
+S: Kompost neden kötü kokar?
+C: Kötü kokunun en sık nedenleri havasızlık, aşırı nem ve yeşil malzemenin fazlalığıdır. Havasız kalan yığında oksijensiz çalışan mikroorganizmalar kükürtlü ve keskin kokulu gazlar üretir.
+
+S: Komposttaki çürük yumurta kokusu nasıl geçer?
+C: Yığın bir bahçe çatalıyla aktarılarak havalandırılır ve kuru yaprak, karton ya da saman gibi kahverengi malzeme eklenir. Fazla nem emildiğinde ve oksijen arttığında koku bir iki gün içinde azalır.
+
+S: Komposta neler atılmaz?
+C: Et, balık, kemik, süt ürünleri, yağlı yemek artıkları, kedi ve köpek dışkısı, hastalıklı bitkiler ve yabani ot tohumları ev kompostuna eklenmemelidir.
+
+S: Olgun kompost nasıl kokar?
+C: Olgun kompost, yağmurdan sonraki orman toprağını andıran hoş bir toprak kokusu taşır. Koyu kahverengi ve ufalanan yapıdadır; içindeki malzemeler artık tanınmaz.
+
+### YAZI
+slug: fitonya-bakimi
+baslik: Fitonya Bakımı: Damarlı Yapraklı Sinir Otunu Bayıltmadan Yetiştirmek
+yayin: 2026-11-13 16:35
+yazar: Halil İbrahim Çelik
+kategori: bitki-bakimi
+odak: fitonya bakımı
+seo_baslik: Fitonya Bakımı: Işık, Nem, Sulama ve Bayılma Sorunu
+seo_aciklama: Fitonya bakımı nasıl yapılır? Damarlı yapraklı bitkinin ışık ve nem ihtiyacı, susuz kalınca bayılma, sulama düzeni, teraryumda fitonya, budama ve çoğaltma.
+ozet: Beyaz, pembe ya da kırmızı damarlarla süslü yapraklarıyla fitonya, küçük boyuna rağmen çok dikkat çeken bir salon bitkisidir. Nemli havayı sever ve susuz kaldığında bayılarak bunu hemen belli eder.
+etiketler: fitonya bakımı, fittonia, sinir otu, nem seven bitkiler, teraryum bitkileri
+gorsel: p4-fitonya
+gorsel_alt: Pembe damarlı yapraklarıyla fitonya
+urunler: salon-bitkilerine-ozel-toprak-karisimi, hg-kil-bilyesi, florist-yesil-yaprakli-bitkiler-sivi-konsantre-besini
+kisaca: Fitonya bakımı için orta ya da parlak dolaylı ışık, sürekli hafif nemli bir toprak ve yüksek hava nemi gerekir. Susuz kaldığında yaprakları birden sarkar; sulandıktan birkaç saat sonra toparlanır. Doğrudan güneş yapraklarını yakar, kuru hava kenarlarını kurutur. Nemli ortamı sevdiği için teraryum ve şişe bahçeleri için idealdir.
+@govde
+Fitonya bakımı, nemli havayı sevenler için çok keyifli, kuru ve sıcak evlerde ise biraz dikkat isteyen bir iştir. Fitonya (Fittonia), koyu yeşil zemin üzerine beyaz, gümüşi, pembe ya da kırmızı damarlar işlenmiş gibi görünen yapraklarıyla salon bitkilerinin en süslülerinden biridir. Halk arasında sinir otu ya da mozaik bitkisi olarak da bilinir. Küçük boyu sayesinde masa üstlerine, raflara ve teraryumlara çok yakışır. Fitonyanın en bilinen özelliği ise "dramatik" tavrıdır: Toprağı biraz kuruduğunda bütün yapraklarını birden sarkıtıp bayılmış gibi görünür, sulandıktan birkaç saat sonra ise hiçbir şey olmamış gibi yeniden dikilir. Bu yazıda fitonyanın ışık, su ve nem isteklerini, bayılma sorununu ve teraryumda yetiştirmeyi anlatıyoruz.
+
+## Fitonyayı tanıyalım
+
+Fitonya, Güney Amerika'nın, özellikle Peru'nun yağmur ormanlarından gelen, yerde sürünerek yayılan küçük bir bitkidir. Doğada büyük ağaçların gölgesinde, sürekli nemli orman zemininde yaşar. Bu yaşam alanı, fitonyanın evdeki bütün isteklerini açıklar: dolaylı ışık, sürekli nem, nemli hava ve sabit bir sıcaklık.
+
+Bitki genellikle 10–15 cm boyunda kalır ve yana doğru yayılır. Yaprak damarlarının rengine göre farklı çeşitleri vardır; beyaz damarlı çeşitler biraz daha dayanıklı, pembe ve kırmızı damarlı çeşitler ise renklerini korumak için daha fazla ışığa ihtiyaç duyar.
+
+## Fitonya bakımında ışık
+
+Fitonya, orta ya da parlak dolaylı ışığı sever. Doğu ya da kuzey penceresinin yakını ya da güney penceresinden biraz uzak bir köşe idealdir. Doğrudan güneş, ince yapraklarını kısa sürede yakar ve soldurur. Çok az ışıkta ise bitki uzar, seyrekleşir ve damarlardaki renkler solar. Kışın günler kısaldığında fitonyayı biraz daha aydınlık bir yere yaklaştırmak faydalıdır; ancak soğuk camın önüne koymamaya dikkat edin. Kışın pencere önünde bitki konumlandırmanın kuralları için [kışın pencere önündeki bitkiler](/kisin-pencere-onundeki-bitkiler) yazımıza göz atabilirsiniz.
+
+## Sulama: Bayılma neden olur?
+
+Fitonya, toprağın kurumasını sevmez. Toprak kuruduğunda bitki suyu korumak için yapraklarını sarkıtır; bu, fitonyanın en tanınmış davranışıdır. Bitkiyi hemen suladığınızda birkaç saat içinde yapraklar yeniden dikilir. Ancak bu durumun sık sık tekrarlanması bitkiyi yorar; yaprak kenarları kurur ve alt yapraklar dökülür.
+
+Toprağı sürekli hafif nemli tutmak, ama asla çamur gibi ıslak bırakmamak gerekir. Genellikle toprağın yüzeyi hafifçe kuruduğunda sulamak doğru bir ölçüdür. Sürekli ıslak toprak ise köklerin çürümesine ve gövdenin dipten yumuşamasına yol açar. Sulama suyu oda sıcaklığında olmalıdır; soğuk su bu hassas bitkiyi strese sokar.
+
+Sulamayı alışkanlık hâline getirmek için saksının ağırlığını kontrol etmek pratik bir yöntemdir: Sulandıktan sonra saksı ağırdır; hafiflediğinde sulama zamanı yaklaşmıştır.
+
+## Nem: Fitonyanın en önemli ihtiyacı
+
+Fitonya, yüksek hava nemi ister. Kalorifer yanan, kuru havalı odalarda yaprak kenarları kahverengileşir ve kıvrılır. Nemi artırmanın en kolay yolu, saksıyı içi kil bilyesi ya da çakılla doldurulmuş ve suyla nemlendirilmiş bir tepsinin üzerine koymaktır. Saksının dibi suya değmemelidir. Bitkileri gruplamak da çevredeki nemi artırır. Banyo ve mutfak gibi doğal olarak nemli odalar, yeterli ışık varsa fitonya için çok uygun yerlerdir.
+
+[ürün:hg-kil-bilyesi]
+
+Kış aylarında nem dengesinin sağlanması için [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımız ayrıntılı bilgi verir.
+
+## Toprak, saksı ve gübre
+
+Fitonya, organik maddece zengin, nemi tutan ama iyi drene olan bir toprak ister. Salon bitkileri için hazırlanmış bir toprak karışımı uygundur. Kökleri sığ olduğu için derin saksıya ihtiyaç duymaz; geniş ve sığ saksılar, yayılan formuna daha uygundur. Drenaj deliği şarttır.
+
+[ürün:salon-bitkilerine-ozel-toprak-karisimi]
+
+İlkbahar ve yaz boyunca ayda bir, yarı dozda bir sıvı yeşil yaprak besini yeterlidir. Kışın gübre verilmez.
+
+## Teraryumda fitonya
+
+Fitonya, teraryum ve şişe bahçeleri için en ideal bitkilerden biridir. Kapalı bir cam kap içindeki sürekli nemli hava ve sabit sıcaklık, fitonyanın doğal yaşam alanına çok benzer. Teraryumda fitonya kuru havadan ve bayılma sorunundan kurtulur, yaprakları canlı ve renkli kalır. Teraryumu doğrudan güneş almayan aydınlık bir yere koyun; güneş cam kabın içini aşırı ısıtır. Cam yüzeyde sürekli yoğun buğu birikiyorsa kapağı birkaç saat aralayarak havalandırın.
+
+## Budama ve çoğaltma
+
+Fitonya zamanla uzar ve seyrekleşebilir. Sürgünlerin uçlarını düzenli olarak koparmak, bitkinin daha gür ve sık olmasını sağlar. Bitkinin ürettiği küçük çiçek başakları göze çok çekici değildir ve bitkiyi yorar; çıktıklarında koparılabilir.
+
+Çoğaltma çok kolaydır. Birkaç yapraklı bir sürgün ucu kesilip suya ya da nemli toprağa konduğunda birkaç hafta içinde köklenir. Yerde sürünen gövdeler de toprakla temas ettikleri boğumlardan kendiliğinden kök salar; bu köklü parçalar ayrılıp yeni saksılara dikilebilir.
+
+## Fitonyayı diğer bitkilerle birlikte sergilemek
+
+Fitonyanın küçük boyu ve renkli yaprakları, onu bitki gruplamalarında çok kullanışlı bir yardımcı yapar. Büyük salon bitkilerinin saksılarının dibine ya da geniş bir kasenin içine, nem seven diğer küçük bitkilerle birlikte dikildiğinde göz alıcı bir kompozisyon oluşturur. Aynı nem ve ışık isteklerini paylaşan peperomia, küçük eğrelti otları ve dua çiçeği gibi bitkiler fitonya için iyi komşulardır. Kaktüs ve sukulentler gibi kuru ortam seven bitkilerle ise aynı kapta yetiştirilmemelidir. Gruplanan bitkiler birbirlerinin çevresindeki nemi artırdığı için fitonyanın bayılma ve kenar kuruması sorunları da azalır.
+
+## Sık görülen sorunlar
+
+Yaprakların birden sarkması susuzluğa, sürekli sarkık kalması ve gövdenin dipten yumuşaması ise aşırı sulamaya ve kök çürümesine işaret eder. Yaprak kenarlarının kahverengileşmesi kuru havadan, yapraklarda solgun ve yanık lekeler doğrudan güneşten kaynaklanır. Bitkinin uzayıp renklerinin solması yetersiz ışığı gösterir.
+
+Fitonya, kedi ve köpekler için genel olarak zehirsiz kabul edilen bitkilerdendir. Evcil hayvanlı evler için güvenli diğer bitkiler hakkında [evcil hayvan dostu bitkiler](/evcil-hayvan-dostu-bitkiler) yazımızı okuyabilirsiniz.
+
+Fitonya bakımı, aslında küçük bir yağmur ormanı kurmaktan ibarettir: dolaylı ışık, nemli toprak ve nemli hava. Bu üçünü sağladığınızda, damarlı yapraklarıyla fitonya köşenizin en göz alıcı bitkisi olacaktır.
+@sss
+S: Fitonya neden bayılır?
+C: Fitonya, toprağı kuruduğunda suyu korumak için yapraklarını birden sarkıtır. Sulandıktan birkaç saat sonra toparlanır; ancak bu durumun sık tekrarlanması bitkiyi yorar ve yaprak kenarlarını kurutur.
+
+S: Fitonya ne sıklıkla sulanır?
+C: Toprak sürekli hafif nemli tutulmalıdır; genellikle yüzey hafifçe kuruduğunda sulanır. Toprak tamamen kurumamalı ama çamur gibi ıslak da kalmamalıdır.
+
+S: Fitonya güneş sever mi?
+C: Doğrudan güneşi sevmez; ince yaprakları kolayca yanar. Orta ya da parlak dolaylı ışık idealdir. Çok az ışıkta ise bitki uzar ve damar renkleri solar.
+
+S: Fitonya teraryumda yetişir mi?
+C: Yetişir; fitonya teraryum için en ideal bitkilerden biridir. Kapalı cam kaptaki nemli hava ve sabit sıcaklık, doğal yaşam alanına çok benzer ve bayılma sorununu ortadan kaldırır.
+
+### YAZI
+slug: fide-aydinlatmasi
+baslik: Fide Aydınlatması: Kışın Evde Uzamayan, Güçlü Fideler İçin Işık
+yayin: 2026-11-13 18:15
+yazar: Hatice Kübra Çelik
+kategori: ekim-takvimi
+odak: fide aydınlatması
+seo_baslik: Fide Aydınlatması: LED Işıkla Güçlü Fide Yetiştirme
+seo_aciklama: Fide aydınlatması nasıl yapılır? Fideler neden uzar, pencere ışığının yetersizliği, LED lamba seçimi, mesafe ve süre, zamanlayıcı ve fideleri ışığa alıştırma.
+ozet: Kış sonunda pencere önünde yetiştirilen fideler çoğu zaman ince, uzun ve zayıf olur. Bunun nedeni genellikle yetersiz ışıktır. Basit bir LED aydınlatmayla nasıl güçlü ve tıknaz fideler yetiştirebileceğinizi anlatıyoruz.
+etiketler: fide aydınlatması, fide led ışık, fide neden uzar, evde fide yetiştirme, bitki yetiştirme lambası
+gorsel: p4-fide-isik
+gorsel_alt: Pencere önünde yetiştirme lambası altındaki saksı bitkileri
+urunler: hg-fide-topragi, 45-goz-yuvarlak-fide-viyolu, hindistan-cevizi-torfu-tablet-cocopeat-12-adet
+kisaca: Fide aydınlatması, kış ve erken ilkbaharda pencere ışığının yetmediği durumlarda fidelere LED lambalarla ek ışık sağlamaktır. Yetersiz ışıkta fideler ince ve uzun olur, kolayca devrilir. Fidelere günde 14–16 saat ışık verilir; LED lamba fidelerin 10–30 cm üzerinde tutulur ve fideler büyüdükçe yükseltilir. Geceleri en az 8 saat karanlık bırakılır.
+@govde
+Fide aydınlatması, kış sonunda evde fide yetiştirenlerin en büyük sorununa, yani uzayan ve zayıflayan fidelere getirilmiş en etkili çözümdür. Ocak ve şubat aylarında domates, biber ve patlıcan tohumlarını viyollere ekip pencere önüne koyanlar, birkaç hafta sonra çoğu zaman aynı manzarayla karşılaşır: ince, uzun, açık yeşil ve pencereye doğru eğilmiş fideler. Bu fideler dikimde kolayca kırılır, devrilir ve bahçede yavaş gelişir. Sorunun nedeni neredeyse her zaman aynıdır: yetersiz ışık. Kasım ayı, gelecek sezonun fidelerini planlamak ve gerekirse basit bir aydınlatma düzeni kurmak için iyi bir zamandır. Bu yazıda fidelerin neden uzadığını, ek ışığın nasıl sağlanacağını, lamba seçimini, mesafeyi ve süreyi anlatıyoruz.
+
+## Fideler neden uzar?
+
+Bitkiler ışığa doğru büyür. Işık yetersiz olduğunda fide, daha fazla ışığa ulaşmak için bütün enerjisini boy uzatmaya harcar. Gövdesi incelir, yapraklar arasındaki mesafe açılır ve renk solar. Bu duruma bahçecilikte fide boylanması ya da etiyolasyon denir.
+
+Kış aylarında pencere ışığı, insan gözüne yeterli görünse de fideler için genellikle çok zayıftır. Güneş alçaktan geçer, günler kısadır ve cam ışığın bir kısmını keser. Üstelik pencereden gelen ışık tek yönlüdür; fideler sürekli pencereye doğru eğilir. Sıcak bir oda da uzamayı artırır; çünkü sıcaklık fidenin büyümesini hızlandırır, ama yetersiz ışık bu büyümeyi sağlıklı bir yöne yönlendiremez.
+
+Uzamış fideler yalnızca görüntü olarak sorun değildir. İnce gövdeleri dikimden sonra rüzgârda kırılabilir, hastalıklara daha açıktır ve yeni ortamlarına uyum sağlamakta zorlanır. Fide çökertmesi de zayıf ve uzamış fidelerde daha sık görülür; bu konuda [fide çökertmesi](/fide-cokertmesi) yazımıza göz atabilirsiniz.
+
+## Ek ışık ne zaman gerekir?
+
+Fide aydınlatması her durumda gerekmez. Mart sonu ve nisan aylarında güneye bakan aydınlık bir pencerede yetiştirilen fideler genellikle yeterli ışığı alır. Ancak ocak ve şubat aylarında yapılan erken ekimlerde, kuzey, doğu ya da batıya bakan pencerelerde, apartmanların alt katlarında ve aydınlık bir pencerenin bulunmadığı evlerde ek ışık neredeyse zorunludur. Fidelerinizin uzamaya ve pencereye doğru eğilmeye başladığını görüyorsanız, ek ışık için geç kalmamışsınız demektir.
+
+## Lamba seçimi
+
+Günümüzde fide aydınlatması için en pratik ve ekonomik seçenek LED lambalardır. Az elektrik harcarlar, az ısınırlar ve fidelere yakın tutulabilirler. Bitki yetiştirme için üretilmiş LED'ler genellikle mor-pembe ya da beyaz ışık verir. Fideler için tam spektrumlu beyaz LED'ler iyi bir seçimdir; hem bitkiler için yeterli ışığı sağlar hem de fidelerin renklerini doğal görmenizi kolaylaştırır. Basit beyaz LED panel ya da çubuk lambalar da, fidelere yeterince yakın tutulduğunda çoğu zaman iş görür.
+
+Eski tip akkor ampuller ise fide aydınlatmasına uygun değildir; çok ısınırlar ve fideler için yeterli ışığı vermezler.
+
+## Mesafe ve süre
+
+**Mesafe:** LED lambalar fidelerin yaklaşık 10–30 cm üzerinde tutulur. Doğru mesafe lambanın gücüne göre değişir; güçlü lambalar daha yukarıda, zayıf lambalar daha yakında olmalıdır. Fideler hâlâ uzuyorsa lamba çok uzaktır; yapraklarda solgunluk ya da yanık görülüyorsa çok yakındır. Lambayı zincir ya da ayarlanabilir bir askıyla asmak, fideler büyüdükçe kolayca yükseltmeyi sağlar.
+
+**Süre:** Fidelere günde 14–16 saat ışık vermek idealdir. Ancak bitkilerin de karanlığa ihtiyacı vardır; geceleri en az 8 saat karanlık bırakın. Lambayı 24 saat açık tutmak fideleri yorar.
+
+**Zamanlayıcı:** Basit bir priz zamanlayıcısı, lambanın her gün aynı saatte açılıp kapanmasını sağlar ve unutma riskini ortadan kaldırır.
+
+## Fide aydınlatmasını destekleyen diğer etkenler
+
+**Sıcaklık:** Fideler çimlendikten sonra biraz daha serin bir ortamda, gündüz 18–22 °C, gece birkaç derece daha serin bir yerde tutulduğunda daha tıknaz büyür.
+
+**Hava hareketi:** Fidelerin üzerinden günde birkaç kez hafifçe elinizi gezdirmek ya da düşük ayarda çalışan küçük bir fan, gövdelerin kalınlaşmasını ve güçlenmesini sağlar.
+
+**Doğru toprak ve viyol:** Hafif, süzek ve temiz bir fide toprağı, köklerin sağlıklı gelişmesini sağlar. Uzamış fideler, şaşırtma sırasında gövdenin bir kısmı toprağa gömülerek kurtarılabilir; özellikle domates fideleri gömülen gövdeden yeni kökler verir.
+
+[ürün:hg-fide-topragi]
+
+[ürün:45-goz-yuvarlak-fide-viyolu]
+
+Az sayıda tohum için pratik bir başlangıç arıyorsanız torf tabletler de iyi bir seçenektir; kullanımı için [torf tablet kullanımı](/torf-tablet-kullanimi) yazımıza bakabilirsiniz.
+
+## Basit bir fide köşesi kurmak
+
+Fide aydınlatması için büyük bir düzen kurmanıza gerek yoktur. Bir rafın ya da masanın üzerine yerleştirilen viyoller, bunların üzerine asılan bir iki LED çubuk lamba ve bir priz zamanlayıcısı, birkaç düzine fide için yeterlidir. Lambaları rafın altına vidalamak ya da zincirle asmak, yüksekliği ayarlamayı kolaylaştırır. Rafın arkasına ve yanlarına konan beyaz bir karton ya da alüminyum folyo, ışığı fidelere geri yansıtarak verimi artırır. Viyollerin altına bir tepsi koymak, alttan sulamayı ve temizliği kolaylaştırır. Fide köşesini, sıcaklığı 18–22 °C civarında kalan bir odaya kurmak idealdir; çok sıcak odalarda fideler ek ışığa rağmen uzayabilir.
+
+## Hangi sebzeler erken fide ister?
+
+Evde ek ışıkla fide yetiştirmek en çok biber, patlıcan ve domates gibi uzun gelişme süresi olan sıcak iklim sebzeleri için gereklidir. Biber ve patlıcan ocak sonu ile şubatta, domates şubat ortası ile mart başında ekilir. Marul, lahana ve brokoli gibi serin iklim sebzeleri de erken ilkbahar dikimi için kış sonunda fidelenebilir. Kabak, salatalık ve fasulye ise hızlı büyüdüğü için fide döneminde çok uzun tutulmamalı, dikimden 3–4 hafta önce ekilmelidir.
+
+## Fideleri dışarıya alıştırma
+
+Lamba altında yetiştirilen fideler, dış ortamın güçlü güneşine ve rüzgârına alışık değildir. Dikimden 1–2 hafta önce fideleri her gün biraz daha uzun süre dışarıda, önce gölgede, sonra güneşte tutarak alıştırın. Bu işlem fidelerin yapraklarının güneşte yanmasını ve dikim şokunu önler. Soğuk çerçeve, bu alıştırma için çok kullanışlı bir araçtır; ayrıntılar için [soğuk çerçeve](/soguk-cerceve) yazımıza göz atabilirsiniz.
+
+Fide aydınlatması, küçük bir yatırımla sezonun bütün başarısını değiştirebilir. Bu kış basit bir LED lamba, bir zamanlayıcı ve ayarlanabilir bir askıyla küçük bir fide köşesi kurun; ilkbaharda bahçenize ince ve devrik fideler yerine güçlü ve tıknaz fideler dikeceksiniz.
+@sss
+S: Fideler neden uzar?
+C: Fideler en çok yetersiz ışık nedeniyle uzar. Işığa ulaşmaya çalışan fide boyunu uzatır, gövdesi incelir ve rengi solar. Sıcak oda da uzamayı artırır.
+
+S: Fide için LED ışık kaç saat açık kalmalı?
+C: Fidelere günde 14–16 saat ışık vermek idealdir. Geceleri en az 8 saat karanlık bırakılmalı, lamba 24 saat açık tutulmamalıdır.
+
+S: LED lamba fideye ne kadar yakın olmalı?
+C: LED lambalar genellikle fidelerin 10–30 cm üzerinde tutulur. Fideler uzamaya devam ediyorsa lamba çok uzaktır; yapraklarda solgunluk ya da yanık varsa çok yakındır.
+
+S: Uzamış fideler kurtarılabilir mi?
+C: Hafif uzamış fideler, şaşırtma sırasında gövdelerinin bir kısmı toprağa gömülerek kurtarılabilir; özellikle domates gömülen gövdeden yeni kök verir. Ardından fidelere daha fazla ışık sağlanmalıdır.
+
+### SORU
+yayin: 2026-11-13 10:40
+kategori: ekim-takvimi
+baslik: Fidelerim dipten incelip devriliyor, ne yapmalıyım?
+metin: Ocak ayında evde domates fidesi yetiştirmeye çalıştım ama birkaç gün içinde fidelerin çoğu dipten incelip devrildi. Bu yıl tekrar denemek istiyorum. Neyi yanlış yaptım, nasıl önleyebilirim?
+@cevap Halil İbrahim Çelik | 3
+Anlattığınız tablo fide çökertmesine çok benziyor. Toprakta yaşayan bazı mantarlar, özellikle aşırı nemli, serin ve havasız ortamlarda genç fidelerin kök boğazını çürütüyor; fide de o noktadan incelip devriliyor. Devrilen fideler ne yazık ki kurtarılamıyor, ama bir sonraki ekimde önlemek oldukça kolay. Önce mutlaka yeni ve temiz bir fide toprağı kullanın; bahçe toprağı ya da önceki yıldan kalan saksı toprağı bu hastalığı taşıyabiliyor. Viyolleri de sıcak sabunlu suyla iyice yıkayın. Tohumları seyrek ekin, sulamayı az ve mümkünse alttan yapın, toprağın yüzeyi sürekli ıslak kalmasın. Filizler çıkar çıkmaz viyolün üzerindeki kapağı kaldırın ve odayı düzenli havalandırın. Fideleri soğuk bir pervaz yerine ılık bir yerde ve bol ışıkta tutun; ışık yetersizse uzayan zayıf fideler hastalığa daha açık oluyor. Bu kurallara uyduğunuzda bu yıl çok daha sağlıklı fidelerle sezona başlayacaksınız.

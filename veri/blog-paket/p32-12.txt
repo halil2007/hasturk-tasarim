@@ -1,0 +1,454 @@
+### YAZI
+slug: bitki-hormonlari-oksin-sitokinin-giberellin-bahcede-etkileri
+baslik: Bitki Hormonları (Oksin, Sitokinin, Giberellin): Bahçede Etkileri
+yayin: 2027-04-12 11:35
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: bitki hormonları
+seo_baslik: Bitki Hormonları: Oksin, Sitokinin, Giberellin
+seo_aciklama: Bitki hormonları nedir? Oksin, sitokinin, giberellin ve etilenin köklenme, uç alma, uzama ve olgunlaşmaya etkisi; bahçede nasıl kullanılır?
+ozet: Bitki hormonları, bitkinin kök, sürgün, çiçek ve meyve kararlarını yöneten kimyasal habercilerdir. Oksin köklenmeyi ve uç baskınlığını, sitokinin yan tomurcuğu, giberellin boy uzamasını, etilen olgunlaşmayı yönetir. Her birinin bahçedeki pratik karşılığını anlattık.
+etiketler: bitki hormonları, oksin, sitokinin, giberellin, etilen, uç alma, köklendirme
+gorsel: bekliyor
+gorsel_alt: Filizlenen bir çeliğin köklerini gösteren cam kavanoz ve yanında pens edilmiş genç fesleğen
+urunler: tarim-perliti, hg-fide-topragi, hindistan-cevizi-torfu-tablet-cocopeat-12-adet
+kisaca: Bitki hormonları, bitkinin kendi ürettiği kimyasal habercilerdir. Oksin köklenmeyi destekler ve tepe tomurcuğunun yan tomurcukları baskılamasını sağlar; sitokinin yan tomurcukları uyandırır; giberellin boy uzamasını artırır; etilen gazı meyve olgunlaşmasını ve yaprak dökümünü tetikler. Uç alma ve çelik köklendirme bu bilgilerin pratiğidir.
+@govde
+Bir fesleğenin ucunu kopardığınızda iki gün sonra yan sürgünlerin patladığını görürsünüz. Çeliği suya koyduğunuzda birkaç hafta sonra kök çıkar. Muzu elmayla aynı torbaya koyduğunuzda daha çabuk olgunlaşır. Bunların hepsinin arkasında bitki hormonları vardır. Hormon denince akla ilaç ya da yapay madde gelir; oysa her bitki bunları kendi üretir ve bahçıvanın pek çok alışkanlığı farkında olmadan hormon dengesine dayanır. Aşağıda dört temel hormonun ne yaptığını, bahçede nerede karşımıza çıktığını ve bu bilgiyle hangi pratik kararları vereceğimizi anlatıyoruz. Bitki hormonları kavramına ilk kez giren okur için bu bir giriş metnidir; ayrıntılı fizyoloji kitabı değil.
+
+## Bitki hormonları nedir?
+
+Bitki hormonları (fitohormonlar), bitkinin bir bölgesinde üretilip başka bir bölgesinde etki eden, çok küçük miktarlarda bile büyüme ve gelişmeyi yönlendiren kimyasallardır. University of Florida'nın bahçıvanlara yönelik yazısı hormonları "bitkinin yönetim sistemi" olarak anlatıyor ([UF/IFAS Pinellas, bahçıvanlar için bitki hormonlarına giriş](https://sfyl.ifas.ufl.edu/media/sfylifasufledu/pinellas/lawn-and-garden/TheDirtSept2016.pdf)). Oregon State University'nin yayım servisi de hormonların ve büyüme düzenleyicilerin bitkileri nasıl etkilediğini bahçıvan diliyle açıklıyor ([Oregon State Extension, hormonlar ve büyüme düzenleyiciler](https://extension.oregonstate.edu/gardening/techniques/how-hormones-growth-regulators-affect-your-plants)).
+
+Birçok hormon birlikte, dengeli oranlarda çalışır; hormonun tek başına "iyi" ya da "kötü" olduğu söylenemez. Aynı hormonun etkisi bitkinin hangi organında ve hangi mevsimde olduğuna göre değişir.
+
+| Hormon | Ana işlevi | Bahçedeki karşılığı |
+|---|---|---|
+| Oksin | Hücre uzaması, köklenme, uç baskınlığı | Çelik köklendirme, bitkinin ışığa dönmesi |
+| Sitokinin | Yan tomurcuk uyanması, hücre bölünmesi | Uç aldıktan sonra yan sürgün |
+| Giberellin | Gövde ve sap uzaması, çimlenme | Tohum çimlenmesi, bitkinin uzaması |
+| Etilen (gaz) | Olgunlaşma, yaprak ve meyve dökümü | Meyve olgunlaştırma, sonbahar yaprak dökümü |
+| Absisik asit | Stres, uyku hali | Kuraklıkta gözenek kapanması, tohum dormansisi |
+
+## Oksin: köklenme ve uç baskınlığı
+
+Oksin bitkinin tepe tomurcuğunda ve genç yapraklarında üretilir ve aşağı doğru taşınır. Üç işi vardır: hücre uzamasını sağlamak (bitki ışığa doğru eğilir), köklenmeyi desteklemek ve tepe tomurcuğunun altındaki yan tomurcukları baskılamak (apikal dominans). Bahçıvanın uç alma (pens) işlemi bu baskıyı kaldırır: Tepeyi kopardığınızda oksin kaynağı gider ve yan tomurcuklar uyanır. Fesleğende, domateste ve biberde uç alma bu yüzden bitkiyi gürleştirir; ayrıntılı yöntem için [uç alma](/uc-alma) yazısına bakın.
+
+Oksin kökleşmeyi de destekler. Ticari kök hormonları sentetik oksine dayanır; çeliğin kesik ucuna sürülür. Evde çelik köklendirmenin başarısı, doğru ortam (hafif, nemli, havadar) ve doğru çelik tipine bağlıdır; ortam ayrıntıları için [perlitte çelik köklendirme](/perlitte-celik-koklendirme) yazısı yol gösterir. Hormon ürünlerinin kullanımında üretici etiketinin yönergesini aşmayın.
+
+Bitkilerin ışığa doğru eğilmesi (fototropizm) de oksinle ilgilidir: Işık almayan taraf daha çok oksin biriktirir, o taraf daha çok uzar ve gövde ışığa doğru döner. Pencere önündeki bitkiyi haftada bir çevirmek bu bükülmeyi dengeler.
+
+## Sitokinin: yan tomurcukların uyandırıcısı
+
+Sitokinin kökte üretilir ve yukarı doğru taşınır. Oksine karşıt çalışır: Oksin yan tomurcukları baskılar, sitokinin onları uyandırır. Bitki doku kültürü çalışmalarında oksin ve sitokinin oranı kökle sürgün arasındaki dengeyi belirler: Sitokinin yüksek, oksin düşükse çok sayıda sürgün, oksin yüksek sitokinin düşükse kök gelişir. Bahçıvan için pratik sonuç: Güçlü bir kök sistemi, sitokinin üretimini ve dolayısıyla yan sürgün canlılığını da etkiler. Saksıda kökü sıkışmış bitki zayıf dallanır.
+
+## Giberellin: uzama ve çimlenme
+
+Giberellin gövde ve çiçek sapının uzamasını sağlar, tohum çimlenmesinde dormansiyi kırar. Işıksız ya da sıcak ortamda yetişen fidenin ince ve uzun gelişmesi, giberelin etkisinin ışık eksikliğinde kontrolden çıkmasıdır (etiyolasyon). Marul ve ıspanağın sıcakta çiçek sapı çıkarması (tohuma kaçma) da giberellin ve sıcaklık ilişkisiyle bağlantılıdır; bu konu için [tohuma kaçma: marul ve ıspanak](/tohuma-kacma-marul-ispanak) yazısına bakabilirsiniz. Bazı soğuklama isteyen tohumlarda kış soğuğu giberellin düzeyini değiştirerek çimlenmeyi tetikler; bu mantık [tohum soğuklama](/tohum-soguklama-stratifikasyon) yazısında anlatılıyor.
+
+Giberellinin üretimde kullanımı (üzümde salkım uzatma, tohumsuz meyve) ticari bir uygulamadır ve doz ve zamanlama gerektirir; ev bahçesinde kendi başınıza kullanmayın.
+
+[ürün:tarim-perliti,hg-fide-topragi]
+
+## Etilen: olgunlaşma gazı
+
+Etilen, hormonlar arasında tek gazdır. Meyvenin olgunlaşmasını, yaprağın ve meyvenin dökümünü ve çiçeklerin solmasını yönetir. Bu yüzden bir elma ya da muz çürümeye başladığında yanındaki meyveleri de çabuk olgunlaştırır; etilen gazı çevreye yayılır. Pratikte iki sonucu var: Meyveyi olgunlaştırmak için kâğıt torbaya elma ya da muzla birlikte koyabilirsiniz; depolanacak meyveyi ve sebzeyi ise çok olgun ya da çürük meyveden uzak tutmalısınız. Etilen duyarlı sebzeleri (marul, havuç, patates) olgun meyve yakınında saklamak kalite kaybına yol açabilir.
+
+Sonbaharda ağaçların yapraklarını dökmesi de etilenle bağlantılıdır. Salon bitkilerinde aniden yaprak dökümü (ısı, ışık ve nem sarsıntısı sonrası) stres hormonu ve etilen dengesiyle ilişkilidir.
+
+## Hormonlarla bahçe pratikleri: özet tablo
+
+| Sorun ya da hedef | Hormon yönü | Ne yapılır? |
+|---|---|---|
+| Bitki seyrek ve uzun | Tepe baskın (oksin) | Uç alın |
+| Çelik kök yapmıyor | Oksin düşük, ortam uygun değil | Hafif, nemli ortam, kök hormonu etiket yönergesiyle |
+| Fide uzuyor ve zayıf | Aşırı giberellin etkisi (ışıksızlık) | Işığı artırın, daha serin tutun |
+| Marul sapa kalkıyor | Sıcak ve giberellin | Serin dönemde ekin, gölge |
+| Meyve geç olgunlaşıyor | Etilen eksik | Kâğıt torba ve olgun meyve |
+| Depoda meyve çabuk bozuluyor | Etilen kaynağı | Çürük ve çok olgun meyveyi ayırın |
+
+## Hormon ürünlerinin güvenli kullanımı
+
+Kök hormonu, meyve tutturucu ve büyüme düzenleyicileri ticari ürünlerdir. Bunlar ilaç değildir ama kimyasaldır: Etiketin yönergesi dışında kullanmak, doz aşımı ve bitkiye zarar riski taşır. Meyve tutumu için, çiçek sayısı ve tozlaşma sorunlarının çoğu ışık, sıcaklık ve su düzeniyle çözülür; hormon uygulaması son çaredir. Kullanım ve doz konusunda ziraat mühendisine ya da il/ilçe tarım müdürlüğüne danışın.
+
+## Hormon dengesi ve çevre
+
+Bitki hormonları dış koşullarla birlikte çalışır: Işık, sıcaklık, su ve besin hormon düzeylerini değiştirir. Bu yüzden "bitki çiçek açmıyor" gibi sorunların kaynağı çoğu zaman hormonun kendisi değil, çevredir. Işığı artırmak, sulamayı düzenlemek, besini dengelemek hormonları da doğru yöne çeker. Çiçeklenme ve hormonlarla ilgili genel sorunlar için [bitki neden çiçek açmaz](/bitki-neden-cicek-acmaz) yazısı yararlı.
+
+## Bitki hormonları ve fide yetiştirme
+
+Fide döneminde hormon dengesi en görünür biçimde ortaya çıkar. Işık yetersiz, ortam sıcaksa giberellin etkisi baskın çıkar ve fide uzar; gövde incelir, yapraklar küçük kalır. Çözüm hormon eklemek değil, ışığı artırmak ve ortamı biraz serinletmektir. Fide sertleştirme sırasında rüzgâr ve hafif sarsıntı gövdeyi kalınlaştırır; bitki yapısal destek için daha fazla büyüme aktivatörü üretir. Bu yüzden fideyi hafif hava akımına ve doğal ışığa alıştırmak sağlam bir gövde verir. Fide ayrıntıları için [fide sertleştirme](/fide-sertlestirme) yazısına bakın.
+
+## Mevsim geçişi ve hormonlar
+
+Sonbaharda gün kısalıp hava serinleyince bitkilerde absisik asit artar; tomurcuklar uykuya girer, yapraklar dökülür. İlkbaharda sıcaklık ve gün uzunluğu arttıkça giberellin yükselir; tomurcuklar uyanır. Bahçıvanın bu döngüyle çelişen hareketlerinden kaçınması gerekir: Geç sonbaharda sert budama ve azotlu gübre bitkiyi yeni sürgüne zorlar ve donda zarar görür. Sonbahar ve kış gübrelemesi için [kış gübrelemesi](/kis-gubrelemesi) yazısındaki zamanlama kuralları bu dengeyle uyumludur.
+
+## Sık yapılan yanlış anlayışlar
+
+- "Bitki hormonu = ilaç": Bitkilerin kendi ürettiği doğal bir sistemdir.
+- "Daha fazla kök hormonu daha iyi kök": Fazla hormon çeliği yakar.
+- "Hormon yapay bir müdahaledir": Uç alma ve çelik alma gibi doğal bahçıvan hareketleri zaten hormon dengesini değiştirir.
+- "Meyveyi her zaman hormonla tutturmak gerekir": Çoğu sorun ışık ve sıcaklık düzeniyle çözülür.
+@sss
+S: Bitki hormonları nedir?
+C: Bitkinin kendi ürettiği, çok küçük miktarlarda bile büyüme ve gelişmeyi yönlendiren kimyasal habercilerdir. Oksin, sitokinin, giberellin, etilen ve absisik asit başlıca olanlardır; çoğu birlikte çalışır.
+
+S: Uç alma neden bitkiyi gürleştirir?
+C: Tepe tomurcuğu oksin üretip yan tomurcukları baskılar. Ucu kopardığınızda bu baskı kalkar, yan tomurcuklar uyanır ve bitki dallanır. Fesleğen, domates ve biberde bu yaygın bir uygulamadır.
+
+S: Etilen gazı bahçede neye yarar?
+C: Meyvenin olgunlaşmasını ve yaprak dökümünü tetikler. Meyveyi kâğıt torbada olgun elma ya da muzla birlikte tutarak olgunlaştırabilirsiniz. Depolanacak ürünü çürük meyveden uzak tutun.
+
+S: Kök hormonu evde kullanılır mı?
+C: Kullanılabilir ama etiket yönergesini aşmayın; fazlası çeliği yakar. Hormon yerine hafif ve nemli bir ortam, doğru çelik tipi ve uygun sıcaklık çoğu zaman yeterlidir. Doz sorularında mühendise danışın.
+
+### YAZI
+slug: taze-sebze-ambalajlama-kasa-etiket-ve-gorunum
+baslik: Taze Sebze Ambalajlama: Kasa, Etiket ve Görünüm
+yayin: 2027-04-12 14:05
+yazar: Halil İbrahim Çelik
+kategori: gundem
+odak: taze sebze ambalajlama
+seo_baslik: Taze Sebze Ambalajlama: Kasa, Etiket ve Görünüm
+seo_aciklama: Taze sebze ambalajlama: hasattan sonra soğutma, temizlik, sınıflama, kasa seçimi, etiket ve görünüm. Hobi bahçıvanı için kasaya hazırlama rehberi.
+ozet: Taze sebzeyi kasaya ya da hediye sepetine koyarken ambalajlama, hasat sonrası işlemlerin son halkasıdır. Hasattan hemen sonra serin tutmayı, temizlik ve sınıflamayı, kasa ve ambalaj seçimini, etiket bilgisini ve görünümü anlattık.
+etiketler: sebze ambalajlama, kasa, etiket, hasat sonrası, soğutma, küçük üretici
+gorsel: bekliyor
+gorsel_alt: Pazar tezgahında temiz plastik kasalarda sıralanmış taze marul, turp ve salatalık
+urunler: galvaniz-kargo-hazirlama-masasi-iskeleti-alt-rafli-160x85x80-cm, galvaniz-sera-tezgahi-iskeleti-alt-rafli-110x70x80-cm
+kisaca: Taze sebze ambalajlamada sıra şudur: hasatla birlikte soğutma ve gölge, temizlik, bozuk ürünü ayıklama ve boyuta göre sınıflama, sonra temiz, havalandırmalı ve ezmeyen bir kasaya ya da ambalaja yerleştirme ve etiketleme. Soğutmadaki gecikme çürümeyi belirgin biçimde artırır. Kasaya ürün adı ve hasat tarihi yazmak, önce tüketilecek sebzeyi gösterir.
+@govde
+Güzel yetişmiş sebze, kötü paketlenince hak ettiği değeri bulmaz. Komşuya götürülen bir kasada, bahçe arkadaşlarıyla yapılan bir hasat paylaşımında ya da bayram ziyaretine giden bir sepette alan kişi önce görünüme, ardından tazeliğe ve en sonunda tada bakar. Taze sebze ambalajlama bu yüzden hasadın bittiği değil, emeğin korunduğu aşamadır: Doğru zamanda soğutma, temizlik, sınıflama, kasa ve etiket. Aşağıda hobi bahçıvanının hasat sonrası zincirini adım adım anlatıyoruz.
+
+## Taze sebze ambalajlama hasattan başlar
+
+Ambalaj, hasat anında başlayan bir zincirdir. FAO'nun meyve ve sebze eğitim kitabı, sınıflama ve paketlemenin hasattan hemen sonra yapılması gerektiğini ve ambalajın içindeki ürünün hızlı soğumasına izin vermesini söylüyor ([FAO, meyve ve sebze hasat ve hasat sonrası işlemlerinin temel esasları](https://www.fao.org/4/y4358e/y4358e05.htm)). Oregon State University de çoğu sebze ve meyvenin hasattan sonra solunum hızını düşürmek için soğutulduğunu belirtiyor ([Oregon State Extension, hasat sonrası gıda işlemeye giriş](https://extension.oregonstate.edu/catalog/em-9870-introduction-post-harvest-food-handling)).
+
+Zamanlama kritiktir: Yaprak sebzeyi, çileği ve taze fasulyeyi sabahın serin saatlerinde hasat edin; öğle sıcağında hasat edilen ürünün iç sıcaklığı yüksektir ve bozulması hızlıdır. Hasat sonrası ürünü doğrudan güneşte beklemeyin; gölgeli bir alana alın ve bez ya da nemli örtüyle koruyun. FAO'nun aktardığı bir California çalışmasında çilekte soğutmanın bir saat gecikmesi bile pazarlama sırasında yaklaşık yüzde 10 çürüme kaybına yol açmış.
+
+| Ürün grubu | Hasat zamanı | Hasat sonrası ilk işlem |
+|---|---|---|
+| Yaprak sebzeler (marul, ıspanak, roka) | Sabah serin | Hemen soğuk suya ya da serin gölgeye |
+| Kök sebzeler (turp, havuç) | Sabah | Toprağı yıkayıp yaprakları kesin ya da bağlayın |
+| Meyveli sebzeler (domates, biber, salatalık) | Sabah | Gölgede, aşırı sıcaktan koruyun |
+| Baklagil (taze fasulye, bezelye) | Sabah | Çabuk soğutun; çabuk sertleşir |
+| Dayanıklı ürünler (patates, soğan) | Kuru hava | Kürleme, kuru depolama |
+
+## Taze sebze ambalajlamada temizlik
+
+Hasattan sonra temiz suyla durulama ya da kuru fırçalama gerekir; hangisi ürüne bağlıdır. University of California'nın küçük ölçekli hasat sonrası kılavuzu, her ürün partisi için temiz su kullanılmasını ve ürünle temas eden alet ve ekipmanın dezenfekte edilmesini öneriyor ([UC Postharvest, küçük ölçekli hasat sonrası işlemler](https://my.ucanr.edu/sites/Postharvest_Technology_Center_/files/231952.pdf)). Yaprak sebzelerde soğuk su soğutmaya da yarar. Ürünü yıkadıktan sonra fazla suyu süzün; ıslak ürün kasada çürür.
+
+Temizlikte iki kural vardır: Kullandığınız suyun temiz (içilebilir nitelikte) olması ve yıkama sonrası ürünün fazla bekletilmeden kurutulup soğutulması. Dezenfektan kullanacaksanız ürün ve alet için güvenli miktarı güncel gıda güvenliği kaynaklarından kontrol edin; yanlış konsantrasyon ürüne ve sağlığa zarar verir.
+
+## Sınıflama ve ayıklama
+
+Taze sebze ambalajlama aşamasında sınıflama, ürünün boyuta ve olgunluğa göre ayrılması, kusurlu ürünün ayıklanmasıdır. FAO, sınıflama ve paketlemenin kırık ve hastalıklı parçalar alındıktan sonra, boya ve olgunluk aşamasına göre yapıldığını söylüyor. Alıcı homojen kasa ister; aynı kasada küçük ve büyük, olgun ve olgunlaşmamış ürünün karışması fiyatı düşürür. Çürük, ezik, çatlak ve hastalıklı ürünü ayırın; bir tane çürük, kasadakileri etkileyebilir.
+
+::: adimlar
+Hasat edin | Serin saatte, temiz ve sığ kaplara; üst üste yığmayın.
+Gölgeye alın ve soğutun | Doğrudan güneşten koruyun; serin su ya da serin ortam.
+Temizleyin | Temiz suyla yıkayın ya da kuru fırçalayın; fazla suyu süzün.
+Ayıklayın ve sınıflayın | Kusurluyu alın; boy ve olgunluğa göre ayırın.
+Kasaya yerleştirin | Ezilmeyecek, havalanacak biçimde; fazla doldurmayın.
+Etiketleyin | Ürün adı, çeşit, üretici ve tarih.
+Serin taşıyın | Kasaları sabitleyin, sıcakta bekletmeyin.
+:::
+
+## Kasa ve ambalaj seçimi
+
+Kasa, ürünün korunduğu ve pazara taşındığı kaptır. FAO ambalajın içindekini hızla soğutabilmesi gerektiğini belirtirken UC kılavuzu tarla kasalarının taşıma sırasında iyi sabitlenmesini öneriyor. Kasa seçerken şu özelliklere bakın:
+
+| Özellik | Neden önemli? |
+|---|---|
+| Havalandırma delikleri | Soğutma ve nem çıkışı |
+| Temiz, kolay yıkanabilir yüzey | Hijyen; plastik kasa yıkanır |
+| Sağlam ve istiflenebilir | Üst üste yükte ezilmez |
+| Pürüzsüz iç yüzey | Yumuşak ürünü yaralamaz |
+| Uygun boy | Çok derin kasa alttakini ezer |
+
+Yaprak sebzeler için sığ ve havalandırmalı kasa, kök sebzeler için derin ve sağlam kasa; yumuşak ürün (domates, çilek) için tek ya da iki kat sıra ve ayırıcı malzeme tercih edilir. Poşet ve film ambalaj, nem kaybını azaltır ama fazla nem çürümeyi artırır; ince delikli poşet iyi bir ara çözümdür. Kasa kullanıyorsanız her kullanımdan sonra yıkayıp kurutun.
+
+[ürün:galvaniz-kargo-hazirlama-masasi-iskeleti-alt-rafli-160x85x80-cm]
+
+## Paketleme alanını düzenlemek
+
+Paketleme işi, yer ve masa düzeniyle kolaylaşır. Temiz bir tezgah, kasaları sıralayacak raf ve tartı için alan hız kazandırır ve hatayı azaltır. Ürün bilgisine göre galvaniz kargo hazırlama masası iskeleti 160 × 85 cm tabla ölçüsüne göre üretilir; çalışma yüksekliği 80 cm olur ve tabla üzerinde koli, bant, tartı ve etiket aynı yüzeyde durur. Tabla ve alt raf levhası pakete dahil değildir; yıkanabilir bir yüzey seçmek hijyen açısından önemlidir. Seranın ya da bahçenin köşesinde sera tezgahı da ürün ayıklama alanı olarak kullanılabilir. Alan küçük bile olsa temiz ve düzenli olması, ürün kalitesini korur.
+
+## Etiket: neyi yazmalı?
+
+Etiket, ürünün kimliğidir. Hobi bahçıvanı için pratik asgari bilgi: ürün adı ve çeşit, bahçenin adı ya da bölgesi, hasat tarihi ve miktar. Bir not kâğıdı ya da kasaya yapıştırılan bant bile yeter. Ürün iyi etiketlendiğinde alan kişi neyi ne zaman tüketeceğini bilir; sorun çıktığında hangi hasattan olduğunu bulmak da kolaylaşır.
+
+## Görünüm: alıcının ilk izlenimi
+
+Alıcı kasayı açar açmaz ürünün parlaklığına, renk eşitliğine ve temizliğine bakar. Kasa içinde çiçek, yaprak ve gereksiz çer çöp olmamalı; marul ve ıspanak taze, sarı ve ezik yaprak içermemeli. Kök sebzelerde yaprakları düzgünce kesmek ya da demet yapmak görünümü iyileştirir. Domates ve biberde sapı koruyun, ezilmeyi önleyin. Ürünün iç kalitesini (tat, olgunluk) görünümle birlikte tutarlı tutmak güveni artırır: Çok güzel görünüp tatsız ürün tekrar satın alınmaz.
+
+## Taşıma ve bekleme
+
+Paketlenen ürünü serin saatlerde taşıyın; araçta kasaları sabitleyin ve üst üste fazla yığmayın. Ürünün yolda ya da tezgâhta beklemesi gerekiyorsa gölgede ve serin yerde tutun. Yaprak sebzeyi nemli bezle örtmek taze kalmasına yardımcı olur. Dağıtılmayan ürünü ertesi gün serin ortamda saklamak ya da hemen değerlendirmek (reçel, turşu, kurutma) israfı azaltır. Dayanıklı ürün depolama koşulları için [patates depolama](/patates-depolama) yazısına, kurutma için [güneşte kurutma tezgâhı](/kurutma-tezgahi) yazısına bakın.
+
+## Ambalaj atığı ve geri dönüşüm
+
+Taze sebze ambalajlama atık da üretir: Karton, plastik film, strafor ve kasa. Mümkün olduğunca yıkanıp yeniden kullanılan plastik kasaları tercih edin; tek kullanımlık ambalajı en aza indirin. Film ve poşet kullanıyorsanız geri dönüşüme uygun olanları seçin. Sebze artıklarını (çürük, ezik, yaprak) çöpe değil kompost yığınına atmak hem atığı azaltır hem toprağa dönüş sağlar; bahçe artığı mantığı için [balkonda kompost yapımı](/balkonda-kompost-yapimi) yazısına bakabilirsiniz. Ambalaj maliyetini, ürünün satış değeriyle orantılı tutmak da önemlidir: Ucuz sebze için çok pahalı ambalaj ekonomik olmaz.
+
+## Mevsime göre ambalaj ve görünüm
+
+Yaz sıcağında yaprak sebze ve çilek gibi ürünler çok hızlı bozulur; bu dönemde kasaları gölgede ve serin ortamda tutmak, nemli bez örtü kullanmak ve yola en erken saatte çıkmak gerekir. Serin mevsimde ise donma riski ve yoğuşma (terleme) sorunu olabilir: Soğuk kasa sıcak ortama girince üzerinde su toplar ve ürün çürüyebilir. Yağışlı havalarda ürünün yağmurla ıslanmaması için kasaların üstünü örtün. Mevsim değiştikçe aynı ürün için ambalaj ve zamanlama alışkanlığını yeniden gözden geçirin.
+
+## Sık yapılan hatalar
+
+- Hasat sonrası ürünü güneşte bekletmek.
+- Islak ürünü kapalı poşet ya da kasaya koymak.
+- Karışık boy ve olgunlukta ürünü aynı kasaya doldurmak.
+- Etiketsiz, hangi hasattan olduğu belli olmayan kasalar.
+- Kirli, deliksiz ya da kırık kasayı kullanmak.
+@sss
+S: Taze sebze ambalajlamada ilk adım nedir?
+C: Hasattan hemen sonra ürünü gölgeye alıp soğutmak. Sabah serin saatte hasat edin, güneşte beklemeyin; soğutmadaki gecikme çürüme kaybını artırır. Sonra temizleyin, ayıklayın, sınıflayın ve kasaya yerleştirin.
+
+S: Hangi kasa taze sebze için uygundur?
+C: Havalandırma delikli, temiz, yıkanabilir, sağlam ve istiflenebilir kasa uygundur. Yaprak sebzeler için sığ kasa, kök sebzeler için derin kasa, yumuşak ürünler için tek ya da iki sıra tercih edin; fazla doldurmayın.
+
+S: Sebze etiketine ne yazılmalı?
+C: Ürün adı, çeşit, bahçenin adı ya da yöresi, hasat tarihi ve miktar asgari bilgidir. Kasanın kenarına yapıştırılan bir bant ya da not kâğıdı bunun için yeterlidir.
+
+S: Yıkanan sebze kasaya ne zaman konur?
+C: Fazla suyu iyice süzüp havalandırmalı ve serin ortamda kurulayıp soğuttuktan sonra konur. Islak ürün kasada çürür. Yıkamada temiz, içilebilir nitelikte su kullanın ve alet ekipmanı temiz tutun.
+
+### YAZI
+slug: ana-ari-nedir-kolonide-gorevi-ve-yasam-suresi
+baslik: Ana Arı Nedir? Kolonide Görevi ve Yaşam Süresi
+yayin: 2027-04-12 16:40
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: ana arı nedir
+seo_baslik: Ana Arı Nedir? Kolonide Görevi ve Yaşam Süresi
+seo_aciklama: Ana arı nedir? Kolonideki tek yumurtlayan dişinin görevi, günlük yumurta sayısı, feromon yönetimi, yaşam süresi ve ana arı yenileme nedenleri.
+ozet: Ana arı, kolonide yumurtlayan tek verimli dişidir; yumurtalarıyla koloniyi sürdürür ve feromonlarıyla işçi arıları yönetir. Görevini, günlük yumurta kapasitesini, yaşam süresini, yaşlandığında nasıl değiştirildiğini ve arıcının ne gözlemesi gerektiğini anlattık.
+etiketler: ana arı, arıcılık, kraliçe arı, koloni, ana arı yenileme, arı feromonu
+gorsel: bekliyor
+gorsel_alt: Petek üzerinde işçi arılarla çevrili, işaretli ana arı
+urunler: galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm, galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm
+kisaca: Ana arı, kolonide yumurtlayan tek verimli dişi arıdır. Sağlıklı bir ana arı iyi koşullarda günde 2000'e kadar yumurta bırakabilir; salgıladığı feromonlarla işçi arıların düzenini korur. Yıllarca yaşayabilir ama verimi bir iki yıldan sonra düşer; işçiler zayıflayan ana arıyı yenisiyle değiştirir.
+@govde
+Bir kovanda onbinlerce arı yaşar ama yalnızca bir tanesi koloninin geleceğini belirler: ana arı. Boyu işçilerden uzundur, karnı belirgin biçimde iridir ve bütün gün yumurta bırakır. Ana arı nedir sorusunun cevabı bu yüzden bir "kraliçe" tanımından fazlasıdır; ana arı nedir diye soran herkes aslında koloninin tüm düzenini sormuş olur: Koloninin üreme organı, düzen belirleyicisi ve genetik mirasıdır. Aşağıda görevini, yumurtlama düzenini, feromonlarla koloniyi nasıl yönettiğini, yaşam süresini ve ne zaman değiştirildiğini anlatıyoruz. Arıcılığa yeni başlayanlar için hazırlık için [ilk arı kovanı hazırlığı](/ilk-ari-kovani-hazirligi-nisanda-yapilacaklar), kovan yeri ve sehpa için [arı kovanı yerleşimi](/ari-kovani-yerlesimi) yazılarına bakabilirsiniz. Arı sağlığı ve hastalık konusunda veteriner hekime ve il/ilçe tarım müdürlüğüne başvurun.
+
+## Ana arı nedir ve kolonide neler yapar? Üç kast
+
+Bal arısı kolonisi üç kasttan oluşur: ana arı (dişi, yumurtlar), işçi arılar (üreme yeteneği olmayan dişiler) ve erkek arılar (ana arıyı çiftleştirmek için yaşar). Ana arının görevi iki ana işe indirgenir: yumurtlamak ve koloninin düzenini feromonlarla korumak. Yumurtladığı yumurtalardan işçi, erkek ve gelecekte yeni ana arılar çıkar.
+
+| Kast | Sayı (aktif sezon) | Ana görevi |
+|---|---|---|
+| Ana arı | 1 | Yumurtlamak, feromon salgılamak |
+| İşçi arı | 20.000–60.000 | Besleme, bakım, nektar toplama, temizlik, savunma |
+| Erkek arı | Yüzlerce (sezonluk) | Ana arıyı çiftleştirmek |
+
+İşçi arılar, ana arıya "bakıcı" gibi davranır: Onu besler, temizler ve çevresinde bir refakatçi grubu oluşturur. UF/IFAS yayımlarına göre ana arının yumurtlama hızı, işçilerin onu ne kadar iyi beslediğine bağlıdır; koloni büyüdükçe ve besin bolluğu arttıkça yumurtlama hızı yükselir.
+
+## Günde kaç yumurta?
+
+University of Florida'nın ana arı yönetimi yayını, sağlıklı bir ana arının günde 2000'e kadar yumurta bırakabildiğini bildiriyor ([UF/IFAS, arıcılıkta ana arı yönetiminin temelleri](https://ask.ifas.ufl.edu/publication/IN1457)). Bu, ana arının bir günde kendi vücut ağırlığının yaklaşık iki katı yumurtası demektir. Yumurtlama mevsime göre değişir: İlkbaharda çiçeklenmeyle birlikte hızlanır, yazın zirve yapar, sonbaharda yavaşlar, kışın neredeyse durur.
+
+Yumurtlama hızı koloninin gelişim hızını belirler. Güçlü bir koloni nisan–mayısta hızlı büyür; ana arı zayıfsa koloni küçük kalır ve bal toplama gücü düşer. Bu yüzden arıcı ilkbahar kontrolünde yumurtlama düzenine (petekte düzenli kapalı yavru) bakar.
+
+## Feromonlar: görünmez yönetim
+
+Ana arı, "ana arı maddesi" denen feromon karışımı salgılar. Bu karışım işçi arılar tarafından kovan içinde yayılır ve koloninin ana arının varlığını ve sağlığını anlamasını sağlar. Feromon birkaç işe yarar: Yeni ana arı yetiştirme eğilimini baskılar, işçi arıların yumurtlamasını engeller, koloni uyumunu korur. Eextension kaynakları ana arının "refakat feromonunun" en az dokuz bileşiğin karışımı olduğunu anlatıyor. Güncel bir araştırma önbaskısı (henüz hakem değerlendirmesinden geçmemiş), virüs enfeksiyonuyla yumurtalıkların küçülmesinin feromon üretimini düşürdüğünü ve işçilerin bunu ana arı zayıflığı olarak algıladığını ileri sürüyor; mekanizma tam anlaşılmış değil.
+
+Pratikte şunu bilmek yeter: Ana arının feromonu azalırsa ya da ana arı ölürse işçiler bunu birkaç saat ila gün içinde fark eder ve yeni ana arı yetiştirme hazırlığına başlar.
+
+## Yaşam süresi: kaç yıl?
+
+Bal arısı ana arısı işçiden çok daha uzun yaşar. UF/IFAS yayımı ana arının yedi yılı aşan sürelerde yaşayabildiğini ama verimliliğinin bir iki yıldan sonra belirgin biçimde düştüğünü yazıyor. Tarım arıcılığında bu yüzden ana arılar genellikle bir ya da iki yılda bir değiştirilir. İşçi arılar ise yaz aylarında yalnızca haftalar yaşar; yaz işçileri yaklaşık altı hafta, kışlayan işçiler aylarca yaşar. Bazı kaynaklarda verilen "6 hafta–6 ay" gibi kısa süreler işçi ve erkek arıya aittir, ana arı için geçerli değildir; bu ayrımı karıştırmayın.
+
+| Arı | Tipik ömür |
+|---|---|
+| Yaz işçisi | Yaklaşık 4–6 hafta |
+| Kış işçisi | Birkaç ay |
+| Erkek arı | Sezon (haftalar–aylar) |
+| Ana arı | Yıllar (verim 1–2 yıl sonra düşer) |
+
+[ürün:galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm]
+
+## Ana arı nasıl yetişir?
+
+Ana arı ve işçi arı aynı yumurtadan çıkar; fark larvanın beslenmesindedir. Ana arı olacak larva, tüm gelişimi boyunca arı sütü (ana arı sütü) ile beslenir; işçi larvaları ise kısa süre arı sütü alıp sonra polen ve bal karışımına geçer. Ana arı larvası özel, aşağı sarkan, fıstık biçimli bir ana arı gözünde gelişir. Yumurtadan çıkması yaklaşık 16 gün sürer. Çıkan genç ana arı, birkaç gün içinde çiftleşme uçuşuna çıkar; havada birkaç erkek arıyla çiftleşir ve hayatı boyunca yumurtlamak için yeterli sperm depolar. Çiftleşmemiş ya da yetersiz çiftleşmiş ana arı döllenmemiş yumurta bırakır; bu yumurtalardan yalnızca erkek arı çıkar ve koloni zayıflar.
+
+## Ana arı neden değiştirilir? (Yenileme)
+
+Eextension'ın ana arı değiştirme yayını, arıların ana arıyı üç durumda değiştirdiğini anlatıyor: Ana arı yaşlanıp feromonu zayıflarsa ya da yaralanırsa (sessiz değişim, supersedure), koloni kalabalıklaşıp oğul hazırlığına girerse (oğul) ve ana arı aniden ölürse (acil durum). Ana arının sessiz değişimi sırasında işçiler yeni ana arı gözleri yapar; yeni ana arı çıkar, çiftleşir, bir süre eski ana arıyla birlikte yaşayabilir. Arıcı için ana arı değişimi, kolonide bir sorun değil bir yenilenme olabilir; ama her ana arı değişiminin başarılı olacağı garanti değildir.
+
+::: adimlar
+Yumurtlama düzenini kontrol edin | Petekte düzenli, kapalı yavru alanı ve yeni yumurta arayın.
+Koloni davranışına bakın | Sakin, çalışkan ve kovan içi düzenli mi?
+Ana arı gözlerine bakın | Peteğin kenarında sarkan fıstık biçimli gözler var mı?
+Yaşını ve işaretini kaydedin | Ana arıyı yılın rengine göre işaretleyip yaşını takip edin.
+Zayıflayan ana arıyı değiştirmeyi düşünün | Verimi düşen ana arıyı yenisiyle (yerel arıcıdan) değiştirmek koloniyi güçlendirir.
+:::
+
+## Ana arı nedir ve kolonide hangi mevsimde ne yapar?
+
+İlkbaharda hava ısınıp çiçekler açınca ana arı yumurtlama hızını artırır; koloni birkaç haftada hızla büyür. Yaz boyunca yumurtlama zirvede kalır; bal akımı bittiğinde ve sonbaharda yavaşlar. Kışın ana arı neredeyse yumurtlamaz; işçiler kış kümesi oluşturup ana arıyı ortada ısıtır. Bu döngüyü bilmek arıcının ne zaman koloniyi kontrol edeceğini, ne zaman rahatsız etmeyeceğini belirler. Çiçeklenme döneminde koloniye zengin nektar ve polen kaynağı sağlamak için [arı dostu bitkiler](/ari-dostu-bitkiler) yazısındaki bitkiler bahçeniz için fikir verebilir. Ana arı nedir sorusunun mevsimsel yanı, koloninin yıllık döngüsünü anlamaktır: Her mevsimde ana arının görevi aynı kalır ama hızı değişir.
+
+## Ana arıyı işaretlemek ve kaydetmek
+
+Arıcılar ana arıyı yılın rengine göre küçük bir işaret noktasıyla boyayarak işaretler. Beş yıllık renk döngüsü (beyaz, sarı, kırmızı, yeşil, mavi) uluslararası kabul görmüş bir düzendir; böylece ana arının yaşı bir bakışta anlaşılır. İşaretleme ana arıyı petekte bulmayı kolaylaştırır. Yeni başlayan için ilk yıl işaretli ana arı almak, kontrol sırasında rahatlık sağlar. İşaretleme ve kayıt, ana arı yenileme programını planlamak için de bir defterde tutulmalıdır: ana arının satın alındığı tarih, kaynağı ve her kontroldeki durumu.
+
+## Ana arısız koloni
+
+Ana arısını kaybeden koloni ilk saatlerde huzursuz uğuldar; kovan içi sesi değişir. Birkaç gün sonra yavru kalmayınca ve işçiler yeni ana arı yetiştirmeye başlamazsa, koloni zayıflar; bazı işçi arılar yumurtlamaya başlayabilir (yumurtlayan işçi) ve bu sorunlu bir durumdur. Bu noktada çözüm, yerel bir arıcıdan genç bir ana arı almak ya da koloniyi başka bir kolonide birleştirmektir. Çözüm yöntemi ve süresi için deneyimli bir arıcıya ve il/ilçe tarım müdürlüğüne danışın; bu yazıda adım adım müdahale vermiyoruz.
+
+## Yeni başlayanlar için ana arı gözlemi
+
+Yeni başlayan arıcı için ana arıyı bulmak her kontrolde şart değildir. Önemli olan ana arının izlerini görmektir: Yeni bırakılmış beyaz yumurtalar (üç günlük), düzenli kapalı yavru ve sakin bir koloni. Yumurta görmek, ana arının son üç günde var olduğunu gösterir. Ana arıyı bulmak istediğiniz durumda, dumanı az kullanın ve petekleri yavaşça çıkarın; ana arı kaçar ya da yere düşebilir. Renkli işaretli ana arıyı bulmak daha kolaydır. Kontrolleri gün ortasında, hava güneşli ve rüzgârsız olduğunda yapın.
+
+## Sık yapılan hatalar
+
+- Ana arıyı her kontrolde aramak ve kolonyi gereksiz rahatsız etmek.
+- Yumurta ve düzenli yavru yokluğunu geç fark etmek.
+- Verimi düşmüş ana arıyı yıllarca bırakmak.
+- İşçi arı ömrü ile ana arı ömrünü karıştırmak.
+- Hastalık belirtilerini kendi başına ilaçla çözmeye çalışmak.
+@sss
+S: Ana arı nedir?
+C: Kolonide yumurtlayan tek verimli dişi arıdır. Yumurtalarıyla işçi, erkek ve yeni ana arıları üretir; feromonlarıyla koloninin düzenini korur. Boyu işçilerden uzun, karnı iridir.
+
+S: Ana arı günde kaç yumurta bırakır?
+C: Sağlıklı bir ana arı iyi koşullarda günde 2000'e kadar yumurta bırakabilir. Yumurtlama hızı mevsime, koloninin büyüklüğüne ve işçilerin onu ne kadar iyi beslediğine bağlıdır; kışın neredeyse durur.
+
+S: Ana arı kaç yıl yaşar?
+C: Yıllarca, hatta yedi yılı aşkın yaşayabilir ama verimi bir iki yıldan sonra belirgin düşer. Bu yüzden arıcılar genelde ana arıyı bir iki yılda bir değiştirir. İşçi arılar ise haftalar ya da aylar yaşar.
+
+S: Ana arı neden değiştirilir?
+C: Yaşlanıp feromonu zayıfladığında, yaralandığında ya da aniden öldüğünde, ayrıca kolonide oğul hazırlığı olduğunda yeni ana arı yetiştirilir. İşçiler ana arı gözleri yapar; yeni ana arı çıkar, çiftleşir ve yumurtlamaya başlar.
+
+### YAZI
+slug: cemen-otu-yetistirme-ekim-zamani-ve-hasat
+baslik: Çemen Otu Yetiştirme: Ekim Zamanı ve Hasat
+yayin: 2027-04-12 19:30
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: çemen otu yetiştirme
+seo_baslik: Çemen Otu Yetiştirme: Ekim Zamanı ve Hasat
+seo_aciklama: Çemen otu yetiştirme: serin iklim bitkisi, ekim zamanı, sıra ve bitki aralığı, toprak, sulama, yaprak ve tohum hasadı. Bahçe ve saksı için rehber.
+ozet: Çemen otu, serin mevsimi seven tek yıllık bir baklagildir; yaprakları taze, tohumları baharat ve çemen için kullanılır. Ekim zamanını, aralıkları, toprak ve sulama isteğini, yaprak ve tohum hasadını anlattık; kaynakların bölgesel rakamlarını karşılaştırdık.
+etiketler: çemen otu, çemen, Trigonella, baharat bitkisi, baklagil, yeşil yem
+gorsel: bekliyor
+gorsel_alt: Bahçe yatağında sıra halinde büyüyen üç yapraklı çemen otu fideleri
+urunler: hg-bol-verimli-sebze-topragi, hg-aromatik-bitkiler-icin-saksi-topragi, hasturk-kati-solucan-gubresi
+kisaca: Çemen otu (Trigonella foenum-graecum) serin mevsim bitkisidir; ilkbaharda ya da sonbaharda, güneşli ve süzek toprağa sıra arası yaklaşık 25–30 cm, bitkiler arası 5–10 cm bırakılarak ekilir. Sıcaklar artınca tohuma kalkar. Taze yaprak 4–6 haftada toplanır; tohum için bitki çiçek açıp bakla yapınca ve baklalar renk değiştirince hasat edilir.
+@govde
+Çemen deyince çoğumuzun aklına pastırma kaplanan hamur gelir; oysa çemen aynı zamanda yetiştirilmesi kolay, hızlı büyüyen bir baklagildir. Taze yaprağı sebze ve çorba baharatı, tohumu baharat ve çemen karışımı, otu yem ve yeşil gübre olarak kullanılır. Çemen otu yetiştirme için üç şeyi bilmek yeter: Serin mevsimi sevdiği, sıcakta çabuk tohuma kalktığı ve güneşli, süzek bir toprak istediği. Aşağıda ekim zamanını, aralığı, bakımı ve hasadı kaynaklarla birlikte anlatıyoruz. Kaynak bölgesel olduğu için rakamlarda aralık veriyoruz; kendi bölgenizde yerel tarım müdürlüğünün ve komşu çiftçilerin deneyimini de sorun.
+
+## Çemen otu nedir?
+
+Çemen (Trigonella foenum-graecum), baklagiller ailesinden tek yıllık bir bitkidir. Boyu 30–60 cm'dir; yaprakları üçlü, çiçekleri küçük ve sarımsı-beyazdır, baklası ince ve uzun, içinde sert kahverengi tohumlar taşır. Bir baklagil olduğu için kökündeki bakterilerle havadan azot bağlar. Bu özelliğini gösteren baklagil ailesi için [baklagiller toprağa azot bağlar mı](/baklagiller-azot) yazısı geniş bilgi veriyor.
+
+| Özellik | Bilgi |
+|---|---|
+| Aile | Baklagiller |
+| Ömür | Tek yıllık |
+| İklim | Serin mevsim; sıcakta tohuma kalkar |
+| Kullanım | Taze yaprak, tohum (baharat, çemen), yem, yeşil gübre |
+| Boy | 30–60 cm |
+| Işık | Tam güneş |
+
+## Çemen otu yetiştirme için iklim ve toprak
+
+University of California Master Gardener programının çemen sayfası, çemenin serin mevsim ürünü olarak yetiştirildiğini, bahar sıcakları artınca tohuma kalkmaya başladığını, tam güneş ve iyi düzeltilmiş, süzek toprak sevdiğini yazıyor ([UC Master Gardeners, çemen](https://ucanr.edu/site/uc-master-gardeners-santa-clara-county/fenugreek)). University of Florida'nın baklagil üretim bölümü ise çemenin taşlı topraklarda iyi gelişmediğini belirtiyor ([UF/IFAS, baklagil üretimi](https://ask.ifas.ufl.edu/publication/cv125?downloadOpen=true)). Hindistan kaynaklarında ılık-serin ve donsuz iklim, tınlı ya da kumlu-tınlı toprak ve pH 6–7 anılıyor.
+
+Türkiye'de çemen genellikle Ege, Akdeniz ve Güneydoğu bölgelerinde tarla ve bahçede yetiştirilir; kışı ılık geçen yerlerde sonbahar–kış, iç bölgelerde ilkbahar ekimi uygundur. Yeşil yem ve ot kalitesiyle ilgili Türkiye'de yapılan çalışmalar da vardır; örneğin farklı hasat dönemlerinin çemen otunun kimyasal bileşimine etkisi bir üniversite dergisinde incelenmiş ([Kahramanmaraş Sütçü İmam Üniversitesi, çemen otunda hasat dönemi etkisi](http://dogadergi.ksu.edu.tr/en/pub/article/688749)).
+
+## Ekim zamanı
+
+Ekim zamanı iklime bağlıdır. UC Master Gardener'lar Kaliforniya'da yaz sonunda doğrudan ekim yapılmasını öneriyor; Hindistan'ın kuzeyinde ekim ekim sonu–kasım başında, güneyinde ekim ayında ya da haziran–temmuzda yapılıyor; Florida'nın güneyinde eylül–nisan arası ekim yapılır. Yani ortak mantık: Serin dönemde ekin.
+
+| Bölge | Ekim dönemi (genel) | Not |
+|---|---|---|
+| Akdeniz ve Ege kıyıları | Eylül–kasım ve şubat–mart | Kış ılık; ilkbahar geç sıcaklarda tohuma kalkar |
+| Marmara, Karadeniz | Mart sonu–nisan, eylül | Nem ve soğuğa dikkat |
+| İç Anadolu, Doğu | Nisan–mayıs başı | Son don sonrası; yazın tohuma kalkar |
+
+Nisan başı, çoğu bölge için ekim penceresinin açıldığı dönemdir. Bir Polonya saha denemesi, en erken ekimin en yüksek tohum verimini verdiğini göstermiş; bir Türk denemesi ise daha yüksek tohum miktarının bitki başına tohum verimini düşürdüğünü bildirmiş ([Yüzüncü Yıl Üniversitesi, çemende ekim sıklığı ve genotipin verim ve kalite etkisi](https://avesis.yyu.edu.tr/yayin/5b43165d-f2f9-4d11-bb38-2b3a1b75b9d5/yield-and-quality-of-fenugreek-trigonella-foenum-graecum-l-as-influenced-by-different-sowing-rates-and-different-genotypes)). Yani erken ve çok sık olmayan ekim önerilir.
+
+## Aralık ve derinlik
+
+Kaynaklarda ekim ölçüleri farklı veriliyor:
+
+| Kaynak | Sıra arası | Bitki arası | Derinlik |
+|---|---|---|---|
+| Florida tablosu | ~23 cm (9 inç) | 5–8 cm (2–3 inç) | 2,5–4 cm (1–1,5 inç) |
+| Hindistan uygulaması | ~30 cm | ~10 cm | 5 cm'den az |
+
+Bahçede pratik: Sıra arası 25–30 cm, sıra üzeri 5–10 cm, derinlik 2–3 cm. Yeşil yaprak için sık (5 cm), tohum için biraz daha seyrek (10 cm) ekmek mantıklıdır. Tohumu doğrudan toprağa ekin; çemen nakli sevmez.
+
+[ürün:hg-bol-verimli-sebze-topragi,hg-aromatik-bitkiler-icin-saksi-topragi]
+
+## Sulama ve bakım
+
+Çemen kuraklığa kısmen dayanır ama düzenli nem ister. Çimlenme ve ilk gelişim döneminde toprağı nemli tutun; sonra seyrek ve derin sulama yeterlidir. Erciyes Üniversitesi'nde yapılan bir çalışma farklı sulama düzeylerinin çemen otu verimine ve biyokimyasal özelliklerine etkisini incelemiş; yani su ot veriminde belirleyici bir etkendir. Baklagil olduğu için kendi azotunu bağlar; fazla azotlu gübre vermeyin. Toprağa olgun kompost ya da solucan gübresi karıştırmak yeterlidir. Yabani otlarla rekabet fideleri bastırır; ilk haftalarda otları temizleyin. Aralık gevşetme ve yabani ot kontrolü için [bahçe toprağı ne derinlikte kazılır](/bahce-topragi-ne-derinlikte-kazilir-capa-mi-bel-mi) yazısındaki hazırlık notları kullanılabilir.
+
+## Yaprak hasadı
+
+Taze çemen yaprağı ekimden yaklaşık 3–5 hafta sonra, bitki 10–15 cm boylandığında toplanır. Genç sürgün uçlarını keserek hasat edin; böylece bitki dallanır ve yeniden sürgün verir. Çiçeklenme başlayınca yapraklar acılaşır ve sertleşir; bu yüzden yaprak için çiçek tomurcuğu çıkmadan hasat etmek en iyisidir. Kesilen yaprak taze tüketilir ya da kurutulup saklanır. Aromatik otları genel olarak yetiştirmek için [aromatik bitki gübreleme](/aromatik-bitki-gubreleme) yazısı da fikir verir.
+
+## Tohum hasadı
+
+Tohum için bitkiyi çiçeklenip bakla bağlamaya bırakın. Hindistan kaynaklarında hasat, alt yapraklar dökülüp baklalar renk değiştirdiğinde yapılıyor; ardından 5–7 gün kurutulup dövülüyor. Bahçede de baklalar sararıp kuruyunca bitkiyi kökünden kesin, kâğıt ya da bez üzerinde bir iki hafta kurutun, baklaları ezip tohumları ayırın. Tohumu temiz ve tam kuru, kapalı bir kavanozda serin yerde saklayın. Kendi tohumunuzu toplayıp saklamak için [ata tohumu saklama](/ata-tohumu-saklama) yazısı ayrıntı verir.
+
+::: adimlar
+Yeri hazırlayın | Güneşli, süzek, taşsız toprağı gevşetin; olgun kompost karıştırın.
+Ekin | Serin dönemde 2–3 cm derinliğe, sıra arası 25–30 cm olacak şekilde.
+Sulayın | Çimlenmeye kadar nemli tutun, sonra seyrek ve derin sulayın.
+Otları temizleyin | İlk haftalarda yabani otu alın.
+Yaprak toplayın | 10–15 cm boydayken uç sürgünleri kesin.
+Tohum için bırakın | Bir kısmını çiçeklenmeye, bakla yapmaya bırakın; kurutup tohumu çıkarın.
+:::
+
+## Çemen otu yetiştirme ve mutfakta kullanım
+
+Çemen otu yetiştirme yalnızca bahçıvanlık değil, mutfak için de bir yatırımdır. Taze yaprak çorba, pilav ve yumurtaya katılır; kurutulmuş yaprak (kasuri methi) baharat olarak kullanılır. Tohum, çemen hamuru (pastırma çemeni), çay ve baharat karışımlarında yer alır. Tohum acımsı ve keskin kokuludur; kavurmak tadı yumuşatır. Hamile ve ilaç kullananların çemen tohumunu şifa amacıyla tüketmeden önce hekime danışması gerekir; bu yazı tıbbi bir tavsiye değildir. Gıda olarak tüketilecek tohumun temiz, kuru ve küf içermeyen olması önemlidir.
+
+## Çemen otu yetiştirme: yeşil gübre ve yem olarak kullanımı
+
+Çemen hızlı büyüyen bir baklagil olduğu için bahçede yeşil gübre olarak da kullanılabilir: Çiçeklenmeden önce kesilip toprağa karıştırıldığında organik madde ve azot kazandırır. Yeşil gübre mantığı ve diğer baklagil seçenekleri için [yeşil gübreleme](/yesil-gubreleme) yazısına bakın. Hayvan yemi olarak kullanımı için tür ve miktar konusunda veteriner hekime ve ziraat mühendisine danışın.
+
+## Saksıda çemen
+
+Çemen saksıda da yetişir; derinliği 20–25 cm olan, drenajlı bir saksı yeterlidir. Aromatik bitki toprağı hafif ve süzek olduğu için uygundur. Saksıda daha sık sulama gerekir ve bitki sıcakta çabuk tohuma kalkar; öğleden sonra gölgeye çekin. Balkonda küçük bir sıra taze yaprak ve çiçek için yeterli bir üründür; tohum verimi için daha geniş alan lazımdır.
+
+## Sık yapılan hatalar
+
+- Sıcak mevsimde ekmek: Bitki hemen tohuma kalkar.
+- Çok sık ekip havasız bırakmak.
+- Taşlı, ağır ve çamurlu toprağa ekmek.
+- Çiçek açtıktan sonra yaprak hasadı beklemek: Yapraklar acılaşır.
+- Tohumu nemli toplayıp küflendirmek.
+@sss
+S: Çemen otu yetiştirme için en iyi ekim zamanı ne zaman?
+C: Serin dönemde: Akdeniz ve Ege kıyılarında eylül–kasım ya da şubat–mart, iç bölgelerde son don sonrası nisan. Çemen sıcakta tohuma kalktığı için erken ekim tercih edilir.
+
+S: Çemen kaç santim derine ekilir?
+C: Yaklaşık 2–3 cm. Florida tablosunda 2,5–4 cm, Hindistan uygulamasında 5 cm'den az derinlik verilir. Sıra arası 25–30 cm, bitki arası 5–10 cm bırakın.
+
+S: Çemen yaprağı ne zaman toplanır?
+C: Ekimden yaklaşık 3–5 hafta sonra, bitki 10–15 cm boylanınca ve çiçek tomurcuğu çıkmadan. Çiçeklenme başlayınca yapraklar acılaşır ve sertleşir. Uç sürgünleri keserek bitkiyi dallandırın.
+
+S: Çemen tohumu nasıl hasat edilir?
+C: Bitki çiçek açıp bakla bağlayınca beklenir; alt yapraklar dökülüp baklalar renk değiştirince bitki kesilir, bir iki hafta kurutulur, baklalar ezilip tohum ayrılır. Tohum tam kuru ve kapalı kapta saklanmalıdır.
+
+### SORU
+yayin: 2027-04-12 12:30
+kategori: bahce-ipuclari
+baslik: Fesleğenin ucunu kopardım ama yan sürgün çıkmıyor, neden?
+metin: Bir hafta önce fesleğenimin tepesini kopardım ama hâlâ yan sürgün yok. Yanlış mı yaptım?
+@cevap Muhammed Hamza Çelik | 2
+Uç alma yan tomurcuklarını uyandırır ama birkaç gün, bazen iki hafta sürer. Ucu bir yaprak çiftinin hemen üstünden almış mısınız? Aldığınız yerin altında yan tomurcuk (yaprak koltuğunda küçük sürgün) görünüyor mu bakın. Bitki ışık ve besin açısından zayıfsa tepkisi yavaş olur. Parlak ışıkta tutun, toprağı nemli ama ıslak olmayacak şekilde sulayın. Ucu çok yeşil ve gevşek yerden kopardıysanız bir iki hafta bekleyin; hala yoksa ışığı artırın.
+
+### SORU
+yayin: 2027-04-12 15:30
+kategori: sebze-meyve
+baslik: Kovanımda ana arıyı hiç görmedim, koloni sağlıklı mı?
+metin: Yeni aldığım kovanda ana arıyı bulamıyorum. Arılar çalışıyor gibi. Ana arı var mı nasıl anlarım?
+@cevap Mehmet Fatih Çelik | 2
+Ana arıyı görmek şart değil; izlerine bakın. Petekte yeni bırakılmış beyaz yumurtalar (üç günlük) ve düzenli kapalı yavru varsa ana arı vardır ve yumurtluyordur. Koloni sakin ve düzenliyse iyi işaret. Yumurta ya da yavru yoksa, işçiler huzursuzsa ya da ana arı gözleri görüyorsanız deneyimli bir arıcıya danışın. Kontrolleri sakin, az dumanla yapın.
+

@@ -1,0 +1,603 @@
+### YAZI
+slug: mantar-yetistirme-ortami
+baslik: Mantar Yetiştirme Ortamı: Saman, Talaş ve Kahve Telvesi
+yayin: 2027-02-01 08:45
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: mantar yetiştirme ortamı
+seo_baslik: Mantar Yetiştirme Ortamı: Saman, Talaş, Kahve Telvesi
+seo_aciklama: Mantar yetiştirme ortamı nasıl hazırlanır? Saman, talaş ve kahve telvesinin farkı, sıcak su ile pastörizasyon, nem testi ve küf belirtileri adım adım.
+ozet: Istiridye mantarı için ortam olarak saman, sert ağaç talaşı ve kahve telvesi kullanılabilir; asıl iş malzemeyi ısıl işlemden geçirip doğru nemde tutmaktır. Üç malzemenin farkını, saman pastörizasyonunu, nem testini ve küf belirtilerini anlattık.
+etiketler: mantar yetiştirme, mantar ortamı, saman, talaş, kahve telvesi, istiridye mantarı, pastörizasyon
+gorsel: bekliyor
+gorsel_alt: Plastik kovada kıyılmış saman ve üzerinde beyaz miselyum ağı oluşmuş istiridye mantarı ortamı
+urunler: uzman-2-lt-basincli-el-puskurtucu, kullanima-hazir-cocopeat-torfu, hg-fide-topragi
+kisaca: Mantar yetiştirme ortamı olarak kıyılmış saman, sert ağaç talaşı ve (saman ya da talaşla karıştırılmış) taze kahve telvesi kullanılır. İstiridye mantarında saman en kolay seçenektir: sıcak suda yaklaşık 74 °C'de 1–2 saat tutulur, süzülüp soğutulur, sonra miselyum tohumuyla karıştırılır. Ortam avuçta sıkılınca elde yalnızca birkaç damla bırakmalıdır.
+@govde
+Mantar yetiştirme ortamı, mantarın iplik ağı olan miseliyumun yürüdüğü ve beslendiği malzemedir; bitkideki toprağın işini saman, talaş ya da telve görür. İstiridye mantarı bu konuda en esnek türlerden biridir. Buğday samanı da olur, sert ağaç talaşı da, kahve telvesi de. Zor olan malzemeyi bulmak değil, ortamı mantardan önce başka küflerin tutmasına izin vermemektir.
+
+## Hangi malzeme mantar yetiştirme ortamı olur?
+
+Üç malzeme evde en sık denenenlerdir. Hiçbiri tek başına mucize değil; her birinin kolay ve zor tarafı var.
+
+| Malzeme | Kolay tarafı | Dikkat edilecek yer |
+|---|---|---|
+| Buğday ya da arpa samanı | Her kırsal bölgede bulunur, ısıl işlemi basittir | Kıyılmazsa kabarık kalır, kovada hava boşluğu bırakır |
+| Sert ağaç talaşı (meşe, kayın, kavak) | Besin dengesi sabittir, uzun süre meyve verir | Çam gibi reçineli ağaçların talaşı uygun değildir; talaş fabrikasından geliyorsa boya ve kimyasal bulaşmış olabilir |
+| Kahve telvesi | Her evde birikir, zaten nemlidir | Çabuk küflenir; tek başına değil saman ya da talaşla karıştırılır |
+
+Kahve telvesi bu üçü arasında en az belgelenmiş olanıdır. Mantar yetiştirme kılavuzlarında istiridye mantarı için olası alternatif ortamlar arasında sayılıyor, ama saman kadar ayrıntılı ve sınanmış bir uygulama tarifi bulamadık. Bu yüzden telveyi ana malzeme değil, katkı olarak düşünmek daha güvenli.
+
+## Saman ortamı adım adım nasıl hazırlanır?
+
+Amerika'daki Florida Üniversitesi'nin yayım servisi, saman için sıcak su pastörizasyonunu tarif ediyor: Saman bir gece suda bekletilir, süzülür, sonra yaklaşık 165 °F (74 °C) sıcaklıktaki su banyosunda 1–2 saat tutulur. Ardından süzülüp soğutulur ve miselyum tohumu hacim ya da ağırlıkça yüzde 5–10 oranında karıştırılır; ayrıntılar [Florida Üniversitesi istiridye mantarı yayınında](https://edis.ifas.ufl.edu/publication/SS662) var. Aynı kaynak kireç banyosu, peroksit ve soğuk fermantasyonu da alternatif yöntem olarak sayıyor.
+
+::: adimlar
+Samanı doğrayın | Birkaç santimlik parçalar hava boşluğunu azaltır ve ısının her yere ulaşmasını sağlar.
+Bir gece suda bekletin | Saman suyu içine çeker; ertesi gün ısıl işlem daha eşit olur.
+Isıl işlem uygulayın | Süzülen samanı büyük bir tencerede ya da varilde yaklaşık 74 °C'de 1–2 saat tutun; kaynatmayın, haşlanmış saman ortamı çamurlaştırır.
+Süzün ve soğutun | Fazla suyu iyice akıtın; oda sıcaklığına inmeden miselyum katmayın, sıcak ortam tohumu öldürür.
+Katmanlayarak doldurun | Temiz kovaya ya da delikli torbaya saman ve miselyum tohumunu kat kat koyup sıkıştırın.
+:::
+
+## Talaş ve telveyi ortamda nasıl kullanırsınız?
+
+Talaş samandan daha yavaş başlar ama meyveyi daha uzun süre verir. Küçük ölçekte en rahat yol, hazır karışım değil, kendi karışımınızı kurmaktır: talaşı nemlendirir, ısıl işlemden geçirirsiniz. Kahve telvesini ise kahveyi demledikten hemen sonra, hâlâ taze iken ve küf başlamadan kullanmak gerekir. Kenarında beyaz ya da yeşil tüylenme olan telve ortama hiç girmemeli.
+
+Telveyi saman ya da talaşla karıştırdığınızda ortam hem daha besleyici olur hem de tek başına telvenin yoğun, hava almayan yapısından kurtulur. Karıştırma oranı için standart bir yayın yok; küçük bir deneme kovasıyla başlayıp sonucu not etmek en dürüst yol.
+
+[ürün:kullanima-hazir-cocopeat-torfu]
+
+## Doğru nem nasıl anlaşılır?
+
+Ortamın nemi hem miselyumun hem de rakip küflerin kaderini belirler. Evde kullanılabilecek en basit ölçü avuç testidir: Bir avuç ortamı sıkın. Su akıyorsa fazla ıslak, sıkınca dağılıp toz gibi kalıyorsa fazla kurudur. Doğrusu, elinizde yalnızca birkaç damla bırakıp topak hâlinde durmasıdır. Mantar yetiştirme ortamı bu nemde yoğunlaşır ve miselyum rahat yürür.
+
+Nem ölçeri olmadan bu testi her yeni partide tekrarlayın; saman yağmurdan nemlenmiş ya da depoda kurumuş olabilir. Doldurma günündeki bu ayar, kovada üç hafta sonra göreceğiniz sonucu belirler.
+
+## Pastörizasyon mu, sterilizasyon mu?
+
+İki sözcük sık karıştırılır. Sterilizasyon ortamdaki her canlıyı öldürür; basınçlı kap ve laboratuvar şartı ister. Pastörizasyon ise ortamı yalnızca rakip küflerin ve bakterilerin baskın çıkamayacağı düzeye indirir. Saman için pastörizasyon yeterlidir, çünkü istiridye mantarı güçlü bir kolonizedir ve temiz başlayan ortamda rakiplerini geride bırakır. Talaşta ise besin zengin olduğu için daha dikkatli çalışmak gerekir. Yeni başlayan biri sterilizasyona kalkışmadan önce saman ile iki üç parti deneyip elini alabilir.
+
+## Samanı nereden alırsınız?
+
+Mantar samanı kıl gibi sert değil, taze ve kuru olmalı. Yağmur yemiş, küf kokan ya da kapalı depoda ısınmış bir balya hazırlıkta size sorun çıkarır. Tarlada ot ilacı kullanılmış samanda kalıntı bulunabilir; bunu çiftçiye sormak en kolay önlemdir. Aldığınız samanı yıkamak şart değildir ama toz ve çürük parçalarını ayıklamak işe yarar. Bir kova için çok az saman gerekir: Yarım balya çoğu ev üreticisinin birkaç partisine yeter.
+
+## Kovaya dolum ve havalandırma
+
+Hazırladığınız ortamı doldurmak için temiz, kapaklı bir kova ya da delikli, kalın bir plastik torba kullanın. Kovayı kaynar su ya da çamaşır suyu çözeltisiyle yıkayıp iyice durulayın; kalıntı mantar tohumunu öldürür. Saman ve miselyum tohumunu katmanlayarak, her katı elinizle bastırarak koyun. Çok sıkı basmak havasızlık, çok gevşek bırakmak boşluk ve küf demektir.
+
+Miselyum ilerlerken kovada gaz birikir; yan yüzeye açılan küçük delikler mantarın çıkacağı yerleri de belirler. Hasat beklentisi olan her delikte küçük bir meyve kümesi çıkar. Deliklerden önce parça parça ilerleyen beyaz örtüyü gördüğünüzde ortam tutmuş demektir.
+
+## Ortam neden küflenir ve ne yapılır?
+
+Mantar ortamında küf, çoğunlukla ısıl işlemin yetersiz kalmasından ya da tohumun ortama geç karışmasından gelir.
+
+- **Yeşil ya da siyah küf:** Başladıysa o kovayı kapatıp bahçeden uzağa gömün ya da kompost yığınına götürmeyin; sporu yayılır. Sonraki partide ısıl işlem süresini ve soğuma beklemesini kontrol edin.
+- **Islak, ekşi koku:** Fazla nem ve havasızlık işaretidir. Ortamı daha gevşek doldurun, kovanın kapağına küçük hava delikleri açın.
+- **Miselyum ilerlemiyor:** Çoğu zaman tohum eski ya da ortam çok sıcak karışmıştır. Tohumu tazeleyin.
+- **Sinek:** Mantar kovasında uçan sinekler için [mantar sineği](/mantar-sinegi) yazısındaki önlemlere bakın.
+
+Sprey ile ortam yüzeyine nem vermek meyve başlangıcında işe yarar; ama ortam dolarken değil. İnce sisleme yapan basit bir el püskürtücü bu iş için yeterli.
+
+[ürün:uzman-2-lt-basincli-el-puskurtucu]
+
+## Kullanılmış mantar ortamı ne olur?
+
+Mantar hasadı biten ortam çöpe gitmez. İçindeki organik madde ve miselyum kalıntısı kompost yığınına katılabilir; yığının nasıl kurulacağını [bahçede kompost yığını](/bahcede-kompost-yigini) yazısında, kompostun ne zaman kullanıma hazır olduğunu da [kompost ne zaman hazır olur](/kompost-ne-zaman-hazir-olur) yazısında anlattık. İstiridye mantarının kendisi için gereken kovayı ve hasat zamanlamasını görmek isterseniz [istiridye mantarı yetiştirme](/istiridye-mantari-yetistirme) rehberi bu yazının devamı gibidir.
+@sss
+S: Mantar yetiştirmek için en kolay ortam hangisi?
+C: İstiridye mantarı için kıyılmış buğday ya da arpa samanı en kolay seçenektir. Isıl işlemi basittir ve her yerde bulunur. Talaş daha uzun süre meyve verir ama hazırlığı daha dikkatlidir.
+
+S: Kahve telvesiyle tek başına mantar yetişir mi?
+C: Telve istiridye mantarı için olası ortamlardan biri olarak anılıyor ama çabuk küflenir ve yoğun olduğu için hava almaz. Saman ya da talaşla karıştırıp taze kullanmak daha güvenlidir.
+
+S: Mantar ortamını kaynatmak gerekir mi?
+C: Hayır. Evdeki yöntemde saman yaklaşık 74 °C'de 1–2 saat tutulur. Kaynatmak ortamı çamurlaştırır. Amaç rakip küfleri azaltmaktır, her canlıyı öldürmek değil.
+
+S: Ortamın nemi doğru mu nasıl anlarım?
+C: Bir avuç ortamı sıkın. Elinizde birkaç damla su kalıyor ve ortam topaklanıyorsa nem doğrudur. Su akıyorsa fazla ıslak, toz gibi dağılıyorsa fazla kurudur.
+
+### YAZI
+slug: shiitake-yetistirme-kutukte
+baslik: Shiitake Yetiştirme: Mantar Kütükte Nasıl Yetiştirilir?
+yayin: 2027-02-01 10:20
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: shiitake yetiştirme
+seo_baslik: Shiitake Yetiştirme: Kütükte Adım Adım Rehber
+seo_aciklama: Shiitake yetiştirme kütükte nasıl yapılır? Meşe kütüğü seçimi, delik düzeni, miselyum tohumu, sulama ve ilk hasat süresi için ölçülü rehber.
+ozet: Shiitake mantarı bahçede meşe kütüğünde yetiştirilebilir ama sabır ister: ilk mantar kütük türüne göre 6–12 ay sonra çıkar. Kütük boyutunu, delik düzenini, tohum aşılamayı, bekletmeyi ve kütüğü suya batırarak mantar vermeye zorlamayı anlattık.
+etiketler: shiitake, kütükte mantar, meşe kütüğü, mantar yetiştirme, bahçede mantar, miselyum
+gorsel: bekliyor
+gorsel_alt: Gölgede dik yaslanmış meşe kütüğü üzerinde kahverengi şapkalı shiitake mantarları
+urunler: uzman-2-lt-basincli-el-puskurtucu, sgs-3-fonksiyonlu-sulama-tabancasi, raco-bahce-el-kuregi
+kisaca: Shiitake yetiştirme kütükte yapılır: 10–15 cm çapında, taze kesilmiş meşe kütüğüne delikler açılır, miselyum tohumu yerleştirilip mumla kapatılır, kütük gölgede 6–12 ay bekler. Kırmızı meşe grubunda ilk mantar daha erken, beyaz meşede daha geç çıkar. Mantar çıkmayan kütük 24 saat suya batırılarak uyarılır.
+@govde
+Shiitake, marketteki fiyatı ve lezzeti kadar yetiştirme süresiyle de dikkat çeker. Torbada birkaç haftada hasat edilen istiridye mantarının tersine, shiitake yetiştirme işi kütükte aylar sürer. Karşılığında aynı kütük yıllarca, yağışlı mevsimlerde yeniden mantar verir. Bahçesinde gölgeli bir köşe, bir de sabrı olan herkes shiitake yetiştirme işini deneyebilir.
+
+## Shiitake yetiştirme için hangi kütük seçilir?
+
+Virginia Tech'in yayım servisi, geleneksel shiitake kütüğünün yaklaşık 4 fit (yaklaşık 120 cm) boyunda ve 4–6 inç (10–15 cm) çapında olduğunu yazıyor. Aynı kaynağa göre en iyi sonucu yeni kesilmiş, canlı ağaçtan gelen beyaz meşe veriyor ([Virginia Tech shiitake rehberi](https://pubs.ext.vt.edu/ANR/ANR-102/ANR-102.html)). Oregon State Üniversitesi de kütüğün kesildikten sonra 15–30 gün içinde aşılanmasını öneriyor ([Oregon State yayımı](https://extension.oregonstate.edu/node/211811)).
+
+Türkiye'de pratik anlamı şu: Meşe kütüğü bulmak istiyorsanız bahçenizdeki ya da izinle budanan ağaçtan alın. Ormandan izinsiz kütük kesmek yasaktır. Kütüğün kabuğu sağlam, gövdesi sağlıklı ve çürüksüz olmalı; kabuk soyulursa mantar tutunamaz.
+
+## Aşılamadan önce neyi hazırlamalısınız?
+
+- **Tohum türü:** Kütük için kama (tahta çubuk) ya da talaş miselyum tohumu kullanılır; tahıl tohumu kütüğe uygun değildir.
+- **Delik açacak alet:** Delik çapı tohum türüne uyar: Alabama Üniversitesi'nin yayınına göre kama tohumda yaklaşık 8 mm, talaş tohumda yaklaşık 11 mm çaplı, 2,5 cm derinliğinde delikler açılır.
+- **Mum:** Tohum yerleştirildikten sonra delikler eriyik mumla kapatılır, çünkü nem kaybı ve rakip küf deliklerden girer.
+- **Etiket:** Kütüğün aşılama tarihini yazın. Aylar sonra hangisinin ne zaman uyandığını hatırlamayacaksınız.
+
+## Delikler nasıl düzenlenir, tohum nasıl yerleştirilir?
+
+::: adimlar
+Delikleri açın | Mississippi State Üniversitesi, bir kütüğe yaklaşık 40 delik önerir; sıralar arası 6 inç (yaklaşık 15 cm), sıra içinde 2 inç (yaklaşık 5 cm), delikler şaşırtmalı sıralanır.
+Tohumu çakın | Kama ya da talaş tohumu deliğe sıkıca yerleştirin; boşluk kalırsa miselyum nemden yararlanamaz.
+Mumla kapatın | Eriyik mumu delik ve kütüğün kesik uçlarına sürün.
+Gölgede istifleyin | Kütükleri toprak yerine takoza oturtup gölge bir yerde, rüzgâra açık ama sıcağa kapalı biçimde yaslayın.
+:::
+
+Yaslama yönteminde kütükler dik durur, birbirinin üstüne bindirilmez. Bu şekilde hava sirküle eder ve kütük dibi çürümez.
+
+## İlk mantar ne zaman çıkar?
+
+Alabama Üniversitesi, kırmızı meşe grubundaki ve diğer yumuşak odunlarda ilk mantarın 6–8 ay içinde, beyaz meşede 8–12 aya kadar gecikebileceğini belirtiyor ([Alabama yayım servisi](https://www.aces.edu/blog/topics/fruits-vegetables-urban/shiitake-mushroom-gardening/)). Yani ilk yılın sonbaharında hiçbir şey görmemek normaldir; sabırsızlığa kapılıp kütüğü atmayın.
+
+Bu aralıkta kütüğün yüzeyine bakın. Kesik uçlarında beyaz miselyum görünüyorsa mantar iplikleri ilerliyor demektir. Kuru yaz haftalarında kütüğü arada yağmur gibi ıslatın; sulama tabancası ya da püskürtücü bu iş için yeterli.
+
+[ürün:uzman-2-lt-basincli-el-puskurtucu,sgs-3-fonksiyonlu-sulama-tabancasi]
+
+## Kütüklerin bekleme yeri: gölge, nem ve rüzgâr
+
+Shiitake gölge ve nem sever. Bahçenin kuzeye bakan duvar dibi, büyük bir ağacın altı ya da ahşap bir sundurmanın gölgeliği iyi bir yerdir. Kıyı ve Karadeniz iklimi bu işe doğal olarak yatkındır; İç Anadolu ve Güneydoğu'da ise yaz aylarında nem azalır, kütüğü gölgeye ve rüzgâr almayan bir köşeye taşıyıp düzenli ıslatmak gerekir. Kütükler doğrudan toprağa değmemeli; toprak temasında rakip mantarlar ve termitler kütüğü işgal eder.
+
+Yağmursuz haftalarda kütüğü her gün yüzeyden ıslatmak yerine, birkaç günde bir bol su vermek daha iyidir. Kuruyan kütüğün miselyumu hemen ölmez ama beslenme durur.
+
+## Bir yıllık yetiştirme takvimi
+
+Aşağıdaki akış, ılıman iklimde genel bir sıralamayı gösterir; kendi bölgenizde aylar kayabilir.
+
+::: takvim
+Kütük kesimi (ağaç dinlenirken) | 12-2
+Aşılama ve mumlama | 1-3
+Miselyumun kütükte yürümesi | 3-9
+İlk mantar ve zorlama | 5-10
+:::
+
+Kesim ile aşılama arasında geçen süreyi kısa tutmak önemlidir. Oregon State'in 15–30 günlük penceresi, kütüğün kendi mantarlarıyla yarışmadan önce ona kendi tohumunuzu yerleştirmeniz içindir.
+
+## Kütüğü suya batırarak mantara zorlamak
+
+Aylar geçti ama mantar çıkmıyorsa, kütük batırılarak uyarılabilir. North Carolina State Üniversitesi 24 saatlik bir batırma öneriyor ve 48 saati geçmemesini söylüyor ([NC State yayını](https://henderson.ces.ncsu.edu/2020/05/forcing-shiitake-mushroom-logs-to-fruit/)). Bu uyarı, kütüğün yeterince ıslanıp mantara dönüşmesini hızlandırır; birkaç gün içinde şapkalar belirir.
+
+Batırmadan sonra kütüğü yine gölgeye yaslayın. NC State, bir sonraki zorlamadan önce yaklaşık 8 hafta dinlenme ve yılda en çok 3 zorlama öneriyor. Mississippi State ise 8–10 haftalık dinlenmeyi yeterli sayıyor ([Mississippi State yayını](https://extension.msstate.edu/sites/default/files/document/2025-12/M2492_web.pdf)).
+
+## Kütükte mi torbada mı?
+
+Shiitake torbada, talaş bloklarında da yetişir, ama bu yöntem sıcaklık ve nem kontrolü ister ve ev ölçeğinde zor tutar. Kütük yöntemi ise doğanın kendi düzenine yaslanır: Yağmur, gölge ve mevsim kütüğü uyarır. Bunun bedeli zamandır. Bir kütük aşılandıktan sonra hasat için aylarca bekler, ama bu süre boyunca sizden istediği tek şey ara sıra su ve gözlemdir. Torba yönteminde hız ve verim yüksektir, bakım yükü de öyle.
+
+Meşe bulamıyorsanız yumuşak odunlu ağaçlarda da mantar çıkar; Alabama'nın yayını kırmızı meşe grubunun ve tatlı sakız (sweetgum) ağacının daha yumuşak odunlu olduğunu, bu yüzden daha erken mantar verdiğini yazıyor. Ancak yumuşak odun daha kısa ömürlüdür; kütük birkaç mevsim sonra tükenebilir.
+
+## Hasattan sonra mantarı saklamak
+
+Shiitake şapkası buzdolabında kâğıt torbada birkaç gün durur; plastik poşet ise nemi hapseder ve mantarı çabuk bozar. Bol hasat geldiyse dilimleyip kurutmak en pratik yoldur: Kurutulmuş shiitake çorba ve pilavda yeniden suyunu alır ve aromasını korur. Kurutma için rafı serin, havadar bir yerde tutun; fırın sıcaklığı hafif tutulmalı.
+
+Sapı genellikle sert olduğu için çoğu mutfakta çorba suyu için ayrılır. Çiğ yenmemeli; iyice pişirmek gerekir. Mantar türünü kesin tanımadığınız hiçbir doğa mantarını bu kütüklerden toplamayın ve kütüğe başka mantarlar yerleşirse bunlara dokunmayın.
+
+## Hasat ve sık yapılan hatalar
+
+Shiitake şapkası tam açılmadan, kenarları hafif içe kıvrıkken toplanır. Sapı kütükten çevirerek çıkarın, böylece iz kalmaz ve yeni mantar için yer açılır.
+
+- Kütüğü güneşe ya da asfalt zemine koymak, miselyumu kurutur.
+- Kütük kesildikten haftalar geçtikten sonra aşılamak, rakip küflerin yerleşmesine izin verir.
+- Delikleri mumsuz bırakmak kütüğü hızla küflendirir.
+
+Mantar ortamını konteynerde yetiştirmek istiyorsanız [mantar yetiştirme ortamı](/mantar-yetistirme-ortami) yazısı saman, talaş ve telve için ayrı bir anlatım sunar. Zaten mantar yetiştirmeye başlamış olanlar için kolay başlangıç [istiridye mantarı yetiştirme](/istiridye-mantari-yetistirme) rehberidir; kütük bahçesi kurduktan sonra kompost için de [bahçede kompost yığını](/bahcede-kompost-yigini) işinize yarar.
+@sss
+S: Shiitake yetiştirme için hangi ağaç kütüğü uygundur?
+C: Meşe en iyi seçenektir. Virginia Tech, yeni kesilmiş beyaz meşeyi tercih ediyor. Kırmızı meşe grubunda mantar daha erken çıkar. Kütük çapı yaklaşık 10–15 cm, boyu yaklaşık 120 cm olmalıdır.
+
+S: Shiitake kütükte kaç ayda mantar verir?
+C: Alabama Üniversitesi'ne göre kırmızı meşe grubunda 6–8 ay, beyaz meşede 8–12 ay içinde ilk mantar çıkabilir. Aşılama ile ilk hasat arasında yaklaşık yarım yıl ile bir yıl beklemek gerekir.
+
+S: Kütüğü suya batırmak gerekir mi?
+C: Doğal yağmurla mantar çıkmıyorsa 24 saat batırmak mantarı uyarır. NC State 48 saatten fazla bekletmeyi önermiyor. Batırmadan sonra yaklaşık 8 hafta dinlenme verin.
+
+S: Ormandan kütük kesebilir miyim?
+C: Hayır. Orman alanından izinsiz ağaç kesmek yasaktır. Bahçenizdeki ya da izinle budanan ağaçtan sağlıklı kütük temin edin.
+
+### YAZI
+slug: hidroponik-marul-evde-basit-duzenek
+baslik: Hidroponik Marul Yetiştirme: Evde Basit Düzenek
+yayin: 2027-02-01 12:10
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: hidroponik marul
+seo_baslik: Hidroponik Marul Yetiştirme: Evde Basit Düzenek
+seo_aciklama: Hidroponik marul evde nasıl yetişir? Kutu ve fide sepetiyle basit düzenek, pH 5,5–6 ve EC hedefi, sıcaklık sınırı, hasat ve sık sorunlar adım adım.
+ozet: Hidroponik marul, bir kapaklı kutu, birkaç fide sepeti ve dengeli besin çözeltisiyle mutfakta yetişir. Düzeneğin parçalarını, pH ve EC hedeflerini, marulun sıcaklık sınırını, hasat zamanını ve yaprak sorunlarını tablolarla anlattık.
+etiketler: hidroponik marul, topraksız tarım, evde marul, kratky, besin çözeltisi, fide sepeti
+gorsel: bekliyor
+gorsel_alt: Beyaz kapaklı plastik kutuda fide sepetlerinde büyüyen genç marul bitkileri ve altta sarkan beyaz kökler
+urunler: altinvadi-marul-tohumu-yedikule-10-gr, hindistan-cevizi-torfu-tablet-cocopeat-12-adet, tarim-perliti
+kisaca: Hidroponik marul için opak kapaklı bir kutu, fide sepetleri ve topraksız ortam yeter. Besin çözeltisi pH 5,5–6 aralığında ve yaklaşık 1,2–1,5 mS/cm EC'de tutulur; hava sıcaklığı gündüz 24 °C, gece 18 °C'yi geçmemelidir. Marul, serin ve aydınlık yerde tohumdan hasada birkaç haftada baş verir.
+@govde
+Marul, topraksız yetiştirmeye en çabuk uyan sebzelerden biridir. Kökü yüzeyseldir, yaprağı hızlı büyür ve fazla besin istemez. Hidroponik marul düzeneği de buna göre sadedir: karanlık bir kutu, kapağında delikler, deliklerde fide sepetleri, altta besin çözeltisi. Pompa, hortum ya da elektrik şart değil. Önemli olan dört şey var: ışık, sıcaklık, çözeltinin pH'ı ve köklerin soluk alabilmesi.
+
+## Hidroponik marul düzeneğinin parçaları
+
+Bir ev düzeneği için gereken şeyler çoğu zaman mutfakta ya da balkonda zaten vardır.
+
+| Parça | Görevi | Yerine ne kullanılır? |
+|---|---|---|
+| Opak kapaklı kutu (5–10 litre) | Çözeltiyi tutar, ışığı keser | Koyu renkli saklama kabı, boyanmış kavanoz |
+| Fide sepeti | Bitkiyi kapakta tutar | Delikli yoğurt kabı, kesik plastik bardak |
+| Ortam | Tohum ve genç kökü destekler | Kokopit, perlit, kil bilyesi |
+| Besin çözeltisi | Besin ve suyu verir | Hidroponik besin tuzları, ölçülü karışım |
+| Işık | Fotosentez | Güney pencere, gerekirse bitki lambası |
+
+Kutunun ışık geçirmemesi önemlidir. Saydam kapta kökler yosunla bulaşır ve çözelti yeşile döner. Yosun besin ve oksijen için bitkiyle yarışır.
+
+## Kurulum: ilk gün ne yapılır?
+
+::: adimlar
+Tohumu önce ortama ekin | Kokopit tablet ya da ıslak perlit içine 2–3 tohum koyun, çimlenene kadar nemli tutun.
+Kapağı delin | Fide sepetinin ağzı kadar delikler açın; delikler arası mesafe baş marul için en az 15 cm olmalı.
+Çözeltiyi hazırlayın | Kutuyu doldurun, besini etiket oranına göre ekleyin, pH'ı ölçün.
+Fideyi yerleştirin | Fide sepetini çözeltiyle ıslanacak kadar aşağı indirin ama kökler başlangıçta çözeltiyi görmeli.
+Işığa alın | Kutuyu pencere önüne ya da lambanın altına koyun, günlük 12–14 saat aydınlık hedefleyin.
+:::
+
+Kratky yönteminde bu düzenekle çözelti yükseldikçe değil azaldıkça kök bölgesinde hava boşluğu açılır; ayrıntıyı [Kratky yöntemi](/kratky-yontemi) yazısında anlattık. Çözeltiyi fitille yükseltmeyi tercih ederseniz [fitilli hidroponik sistem](/fitilli-hidroponik-sistem) daha uygun olabilir.
+
+## pH ve EC hedefi: marul için ölçüler
+
+Florida Üniversitesi'nin küçük ölçekli hidroponik rehberi, besin çözeltisinde pH'ın 5,5–6 aralığına çekilmesini, toplam iletkenliğin ise yaklaşık 1250 µS/cm (yaklaşık 800 ppm TDS) tutulmasını öneriyor; ayrıntılar [UF/IFAS marul rehberinde](https://edis.ifas.ufl.edu/publication/HS1488) var. Brezilya'da yapılan bir Kratky denemesi marul için 1,5 mS/cm'i referans alıyor. Yani ortak hedef, 1,2–1,5 mS/cm bandı. Ölçüm cihazı yoksa etiket dozunu aşmayın; tuzluluk gözle görünmeden köklere zarar verir.
+
+EC'nin ne anlama geldiğini, neden ölçüldüğünü [EC nedir](/ec-nedir-toprak-tuzlulugu-olcumu) yazısında topladık. Yeni başlayanın hatası genelde çözeltiyi yoğun yapmaktır: "Marul çabuk büyür, güçlü olsun" diye dozu artırınca yaprak kenarı yanar.
+
+## Sıcaklık: marulun asıl sınırı
+
+Kentucky Üniversitesi'nin hidroponik marul yayını, hava sıcaklığının gündüz 24 °C'yi (75 °F), gece 18 °C'yi (65 °F) geçmemesini öneriyor. Uzun süren sıcak ya da gece-gündüz farkı büyükse marul tohuma kaçar ([Kentucky hidroponik marul rehberi](https://ccd.uky.edu/sites/default/files/2026-02/ccd-cp-63_hydrolettuce-updated_accessible.pdf)). Bu yüzden kış ve erken bahar, marul için hidroponikte en rahat dönemdir. Yazın ısınan balkonda marul tohuma kaçar ve acılaşır; o dönemde fesleğen ve nane daha uygun olur.
+
+Çözelti sıcaksa içindeki çözünmüş oksijen azalır. Kutuyu doğrudan güneşe koymayın; kutunun dışını beyaz ya da yansıtıcı malzemeyle kaplamak işe yarar.
+
+[ürün:altinvadi-marul-tohumu-yedikule-10-gr]
+
+## Hangi marul çeşidi seçilir?
+
+Göbek yapan marullar (Yedikule gibi) uzun süre ister; yaprakları tek tek koparılan kıvırcık ve yaprak maruller daha hızlı hasat verir ve küçük kutuda rahat eder. Altınvadi'nin Yedikule tohumu açıklamasında serin havaları sevdiği ve erken ilkbahar ile sonbahar-kış ekimlerine uyduğu belirtiliyor; bu özellik, hidroponikte de serin yerde işe yarayan bir şeydir. Hızlı sonuç isterseniz kıvırcık yapraklı bir çeşit seçin.
+
+Fideyi tohumdan yetiştirmeyi öğrenmek isterseniz [hidroponik fide küpü](/hidroponik-fide-kupu) ve [marul fidesi yetiştirme](/marul-fidesi-yetistirme) rehberleri çimlenme aşamasını ayrıntılı anlatıyor.
+
+## Işık ve su: musluk suyu yeter mi?
+
+Marul için gereken ışık miktarı, yetiştirmeyi yaptığınız mevsime bağlıdır. Güney cephesindeki bir pencere ilkbahar ve sonbaharda çoğu zaman yeter; aralık ve ocakta gün kısalır, bitki ışığa uzanıp zayıf ve soluk kalır. Bu durumda tezgâha bir bitki lambası eklemek en doğrusudur. Lambayı bitkiye yaklaştırırken yaprak ucunu yakmamaya dikkat edin; elinizin tersini lambanın altına tutup sıcaklığı hissedebilirsiniz.
+
+Musluk suyu hidroponikte kullanılabilir ama içindeki tuzlar çözeltinin EC değerine eklenir. Sert su bölgelerinde çözelti daha hızlı bazikleşir ve pH yükselir. Çözeltiyi hazırlamadan önce musluk suyunun kendi EC ve pH değerini bir kez ölçün; değerlerde sorun varsa suyu bir gece dinlendirmek klorun uçmasına yardımcı olur, ama sertliği düşürmez. Yağmur suyu toplayabiliyorsanız temiz bir kapta saklayıp kullanmak, pH ayarını kolaylaştırır.
+
+## Marul tohuma kaçarsa ne yapılır?
+
+Marulda tohuma kaçma, gövdenin birdenbire uzayıp yaprakların acılaşmasıdır. Sıcaklık, uzun gün ve stres tetikler. Bir kez başladı mı geri dönüş yoktur; bitkiyi hemen hasat edip yeni fide ekmek daha iyidir. Önlem olarak serin yerde, düzenli ışık süresiyle ve dengeli besinle yetiştirin; nedenleri ayrıntılı görmek için [tohuma kaçma](/tohuma-kacma-marul-ispanak) yazısına bakabilirsiniz.
+
+## Yaprakta görülen sorunlar ve çözümleri
+
+| Belirti | Olası neden | Ne yapılır? |
+|---|---|---|
+| Uzayan, soluk bitki | Işık yetersiz | Lambayı yaklaştırın, süreyi 14 saate çıkarın |
+| Yaprak kenarında kahverengi yanık | Çözelti çok yoğun ya da sıcak | Çözeltiyi seyreltin, serin yere alın |
+| Alt yapraklar sararıyor | Besin tükeniyor | Çözeltiyi yenileyin, pH'ı yeniden ayarlayın |
+| Kökler kahverengi ve kokuyor | Oksijen eksikliği, ısınma | Kökleri durulayın, hava boşluğunu açın, kabı temizleyin |
+| Yeşil tabaka | Işık sızıyor | Kabı koyu renge boyayın ya da sarın |
+
+## Hasat ve çözelti yenileme
+
+Marulu dıştaki yapraklardan kesmek mümkündür; bitki bir süre daha yaprak üretir. Baş marulda ise bitkiyi kökünden alıp hasat edersiniz. Hawaii Üniversitesi'nden Kratky'nin kendi yayını, hasadın çözelti tükenmeden yapılmasını ve aynı kutunun bir sonraki ekim için yeni çözeltiyle yeniden kullanılabileceğini, kabaca üç üründe bir çözeltinin tümüyle yenilenmesini öneriyor ([Hawaii CTAHR yayını](https://www.ctahr.hawaii.edu/oc/freepubs/pdf/vc-1.pdf)). Kapları her yenilemede ılık suyla yıkayın; biyofilm ve yosun birikimi ertesi ürüne bulaşır.
+
+Topraksız yetiştirmenin ortam seçimi hakkında bir şey sorarsanız, kokopit ve perlit karışımları için [hidroponik ortamlar](/hidroponik-ortamlar) yazısı iyi bir başlangıçtır.
+@sss
+S: Hidroponik marul kaç haftada hasat edilir?
+C: Süre çeşide, ışığa ve sıcaklığa göre değişir. Yaprak marul ve kıvırcık çeşitler birkaç haftada dıştan koparmaya hazır olur. Baş marul daha uzun sürer. Tohum paketindeki hasat süresine ve ışığınıza göre planlayın.
+
+S: Hidroponik marul için pH kaç olmalı?
+C: Florida Üniversitesi rehberine göre pH 5,5–6 aralığı uygundur. Çözelti sertleşiyse pH yükselir; bu durumda besin alımı zorlaşır. Haftada bir ölçmek çoğu ev düzeneği için yeterlidir.
+
+S: Hidroponik marul yazın yetişir mi?
+C: Güçlükle yetişir. Kentucky Üniversitesi marul için gündüz 24 °C ve gece 18 °C üstünü önermiyor. Sıcakta marul tohuma kaçar ve acılaşır. Yazın serin bir oda ya da gölge dış mekân gerekir.
+
+S: Marul için besin çözeltisi ne sıklıkla değişir?
+C: Kratky yönteminde çözelti hasada kadar yetecek şekilde hazırlanır ve araya eklenmez. Hasattan sonra aynı kutu yeni çözeltiyle kullanılabilir; yaklaşık üç üründe bir çözeltiyi tümüyle yenilemek önerilir.
+
+### YAZI
+slug: helen-tere-yetistirme-saksida-bahcede
+baslik: Helen Tere Yetiştirme: Saksıda ve Bahçede Tere Nasıl Yetişir?
+yayin: 2027-02-01 16:55
+yazar: Hatice Kübra Çelik
+kategori: sebze-meyve
+odak: helen tere yetiştirme
+seo_baslik: Helen Tere Yetiştirme: Saksıda ve Bahçede Rehber
+seo_aciklama: Helen tere yetiştirme rehberi: geniş yapraklı terenin ekim zamanı, 20–25 °C çimlenme, toprak pH'ı, sulama, kesim ve yaklaşık 30–35 günde hasat.
+ozet: Helen tere, geniş ve parlak yapraklı, baharlı tadıyla sofralık yenen bir tere çeşididir. Ekim zamanını, çimlenme sıcaklığını, toprak seçimini, saksı ve bahçe düzenini, sulamayı, kesimle uzatılan hasadı ve sıcakta tohuma kaçma sorununu anlattık.
+etiketler: helen tere, tere yetiştirme, saksıda tere, geniş yapraklı tere, hızlı yeşillik, bahar ekimi
+gorsel: bekliyor
+gorsel_alt: Saksıda büyüyen geniş yapraklı parlak yeşil tere yaprakları ve yanında toprak yüzeyinde fideler
+urunler: arzuman-helen-tere-tohumu-25-gr, hg-aromatik-bitkiler-icin-saksi-topragi, hg-fide-topragi
+kisaca: Helen tere yetiştirme ilkbahar ve sonbaharda yapılır; tohum 20–25 °C'de hızla çimlenir, ekimden hasada yaklaşık 30–35 gün geçer. Süzek, organik maddece zengin ve nemli bir toprak ister. Aşırı sıcak terenin tohuma kaçmasına ve acılaşmasına yol açtığı için yaz sıcaklarında gölge ya da serin dönem seçilir.
+@govde
+Salatada, ayranda, kahvaltı sofrasında bir tutam tere hem rengi hem baharlı tadıyla yer tutar. Helen tere bu işi diğerlerinden biraz daha geniş yaprakla yapar. Bahçesi olmayanlar için iyi haber şu: Tere, küçük tohumlu sebzeler içinde en hızlı çimlenenlerden biridir ve saksıda da bir ay içinde sofraya gelir. Helen tere yetiştirme, doğru mevsimi tutturmak kaydıyla, yeni başlayan birinin bile başarabileceği kadar kolaydır.
+
+## Helen tere nedir, diğer terelerden farkı ne?
+
+Tere dendiğinde akla iki bitki gelir. Biri su kenarında yetişen su teresi, diğeri tarlada ve bahçede ekilen, tohumdan çıkan tere. Helen tere ikincisi gibi toprakta yetiştirilir. Arzuman'ın ürün açıklamasına göre bu çeşit geniş, parlak yeşil yapraklıdır ve aromatik, baharlı tadı nedeniyle taze sofralık olarak yenir. Yani aranan şey, çok küçük yapraklı bir mikro yeşillik değil, kesilip tabağa konabilecek bir yeşilliktir.
+
+Roka ile tere sık karıştırılır; ikisinin tadı da acımsıdır. Aralarındaki farkı ve ikisinin birlikte ekimini [roka ve tere yetiştirme](/roka-ve-tere-yetistirme) yazısında anlattık. Bu yazı yalnızca helen terenin kendi bakımına odaklanıyor.
+
+## Hangi toprak ve hangi sıcaklık?
+
+Ondokuz Mayıs Üniversitesi'nin tere yetiştiriciliği ders notuna göre besin maddelerince zengin, tınlı topraklar tere için idealdir ve pH 5,0–7,5 arası uygundur; optimum çimlenme sıcaklığı 20–25 °C'dir. Aynı notta tere, küçük tohumlu sebzeler arasında en hızlı çimlenen tür olarak anılıyor ve kışın çok düşük sıcaklıklarda zarar gördüğü yazılıyor ([OMÜ tere yetiştiriciliği ders notu](https://avys.omu.edu.tr/storage/app/public/haruno/66655/13.%20Hafta%20%28Tere%20Yeti%C5%9Ftiricili%C4%9Fi%29.pdf)).
+
+Bu iki bilgi bir arada okunmalı. Tere soğuk toprakta çimlenmez; tohum 20 °C'nin altında geç çıkar. Ama sıcak da onu bozar. Bu yüzden iki aylık sezon penceresi vardır: Şubat sonu–nisan ve eylül–ekim. Yaz sıcağında tere tohuma kalkar, yaprakları ufalır ve acılaşır.
+
+Saksı için, drenajı iyi ve hafif bir karışım yeterlidir. Aromatik bitkiler için hazırlanmış saksı toprağı bu işe uygundur; kullanım amacını ürün sayfasında inceleyebilirsiniz.
+
+## Saksıda helen tere yetiştirme adımları
+
+::: adimlar
+Kabı seçin | 15–20 cm derinlikte, dibi delikli bir saksı ya da balkon sandığı yeterli; kök yüzeyseldir.
+Toprağı doldurun | Hafif bir toprak karışımı kullanın, ıslatıp üzerini düzeltin.
+Serpin ya da sıraya ekin | Tohumu yüzeye ince serpip üzerini 0,5–1 cm toprakla örtün; çok derin ekim çıkışı geciktirir.
+Nemli tutun | Yüzey kurumasın; ilk günlerde püskürtücü ile sulayın, tohumu yıkamayın.
+İlk kesimi bekleyin | Ürün açıklamasında ekimden hasada gelim süresi 30–35 gün olarak veriliyor; yapraklar 8–10 cm olunca kesmeye başlayın.
+:::
+
+Çimlenme için gereken sıcaklık, mutfak penceresinde bile sağlanır. Ev içinde, ısıtılan bir odada bir kap ekim yaparsanız tohum bir hafta içinde çıkar. Çimlenmeyen tohum için [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazısındaki kontrol listesine bakın.
+
+[ürün:arzuman-helen-tere-tohumu-25-gr]
+
+## Bahçede ekim, mesafe ve sulama
+
+Açık bahçede toprak serin ve nemlidir; tere serpme ya da sıra ekim kabul eder. OMÜ ders notu sıralı ekimde sıra arasının çapalanmasını, serpme ekimde otun elle ayıklanmasını öneriyor; sulama için karık ya da damla yöntemi anılıyor. Küçük bir bahçede bu, her ekim sonrası kısa bir otlama ve düzenli ince sulama demektir.
+
+Mesafeler için genel bir aralık, 15 cm sıra arası ve sıra üzeri sık ekimdir; sıkışırsa yaprak ince, seyrekse geniş olur. Sıra ekimi için [sebze ekim aralıkları](/sebze-ekim-araliklari) tablosuna bakın. Bahçeniz hâlâ soğuksa mini sera ya da örtü altı yöntemi tere için de işe yarar; ayrıntıları [mini sera ile balkonda kış ekimi](/mini-sera-ile-balkonda-kis-ekimi) yazısında bulabilirsiniz.
+
+Sulamada tek kural, düzenli ve hafif olmaktır. Su azalırsa yaprak sertleşir ve acılaşır. Fazla sulanırsa kök boğazı çürür. Sabah sulaması ve çanak yerine yüzeyden damla sulama bu işi kolaylaştırır.
+
+## Sürekli hasat için kesme ve ardışık ekim
+
+Tereyi kökünden sökmek zorunda değilsiniz. Yaprakları toprağın biraz üstünden keserseniz bitki bir süre daha yeni yaprak üretir. Ancak ikinci ve üçüncü kesimde yapraklar daha küçük ve baharlıdır; çiçek sapı görünmeye başladığında bitki artık tohuma gidiyordur. Bu noktada bitkiyi sökmek ve yeni bir ekime geçmek daha iyidir.
+
+En kolay sürekli hasat yöntemi, her 10–14 günde küçük bir saksı ya da sıra ekmektir. Böylece bir hafta fazla yaprak çıkıp bir hafta hiç çıkmaması dalgası yaşamazsınız.
+
+## Bölgeye göre ekim penceresi
+
+Helen tere yetiştirme takvimi bölgeden bölgeye kayar. Genel bir çerçeve şöyledir:
+
+| Bölge | İlkbahar ekimi | Sonbahar ekimi |
+|---|---|---|
+| Akdeniz ve Ege kıyıları | Şubat ortası–nisan | Eylül sonu–kasım |
+| Marmara ve Karadeniz | Mart–nisan | Eylül–ekim |
+| İç Anadolu ve yüksek yerler | Nisan–mayıs başı, don geçince | Ağustos sonu–eylül |
+
+Kıyıda kışı hafif geçen yerlerde, korumalı bir köşede kış boyunca ara sıra ekim yapılabilir. İç bölgelerde ise tohumu ev içinde çimlendirip fideleri bahçeye taşımak yerine, doğrudan toprağa ekmek daha doğrudur; tere dikim sırasında kök zarar görünce kolay tutmaz.
+
+## Sofrada helen tere: yıkama ve saklama
+
+Tere yapraklarında toprak ve kum kalabilir. Yıkarken bol soğuk suda sallayın, iki kez su değiştirin ve süzün. Bir kâğıt havluya sarılıp kapaklı bir kapta buzdolabında birkaç gün durur; ıslak saklanırsa çabuk kararır. Baharlı tadı en çok çiğ yenince hissedilir; peynir, yumurta ve ayranla çok iyi gider, ama sıcak yemeğe son dakikada ekleyin yoksa lezzeti uçar.
+
+Tohumunu da toplayabilirsiniz: Tohuma kaçan bir bitkiyi sökmeyin, kuruyup kahverengine dönen kapsülleri kâğıt torbada toplayın. Ertesi sezonun ekimi için tohumu serin ve kuru yerde saklayın. Helen tere yetiştirme zinciri böylece bir sezondan diğerine devam eder.
+
+## Tere neden acılaşır, tohuma kaçar?
+
+| Belirti | Neden | Ne yapılır? |
+|---|---|---|
+| Yapraklar acı ve küçük | Sıcak ve susuzluk | Serin döneme alın, gölgeleyin, daha sık sulayın |
+| Hızlı uzayan sap | Uzun gün ve ısı | Hasat edip yeniden ekin |
+| Çimlenmiyor | Toprak çok soğuk veya tohum fazla derin | Sıcaklığı 20 °C üzerine çıkarın, derinliği azaltın |
+| Yaprak sararıyor | Fazla su ya da besin eksikliği | Drenajı kontrol edin, hafif besin verin |
+| Delik deşik yaprak | Böcek | Tül örtüyle koruyun |
+
+Terede besin ihtiyacı düşüktür; ekim öncesi toprağa karıştırılan olgun kompost ya da solucan gübresi çoğu zaman yeter. Çok azotlu gübre yaprağı sulandırır ve kokusunu azaltır.
+@sss
+S: Helen tere ne zaman ekilir?
+C: İlkbahar ve sonbaharda ekilir. Çimlenme 20–25 °C'de hızlıdır. Şubat sonu ile nisan arası ve eylül–ekim ayları uygun pencerelerdir. Yaz sıcaklarında tere tohuma kaçar ve acılaşır.
+
+S: Helen tere kaç günde hasat edilir?
+C: Ürün açıklamasına göre ekimden hasada yaklaşık 30–35 gün geçer. Yapraklar 8–10 cm olunca toprak üstünden kesilir, böylece bitki bir süre daha yaprak verebilir.
+
+S: Helen tere saksıda yetişir mi?
+C: Evet. Kök yüzeyseldir; 15–20 cm derinlikte, süzek ve hafif bir toprağı olan saksı yeterlidir. Toprak yüzeyi kurumamalı, ama su da birikmemelidir.
+
+S: Tere neden acı olur?
+C: Sıcak, susuzluk ve tohuma kalkma başlıca nedenlerdir. Terede serin mevsimi seçmek, toprağı düzenli nemli tutmak ve çiçek sapı görünce yeni ekim yapmak acılığı azaltır.
+
+### YAZI
+slug: meyve-agacina-solucan-gubresi-tac-izdusumu
+baslik: Meyve Ağacına Solucan Gübresi: Taç İzdüşümüne Katı Gübre Uygulaması
+yayin: 2027-02-01 19:40
+yazar: Muhammed Hamza Çelik
+kategori: gubreleme
+odak: meyve ağacına solucan gübresi
+seo_baslik: Meyve Ağacına Solucan Gübresi Nasıl Verilir?
+seo_aciklama: Meyve ağacına solucan gübresi taç izdüşümüne nasıl verilir? Gövdeden uzak şerit, toprağa karıştırma, kış sonu zamanı, genç ve yetişkin ağaç farkı.
+ozet: Meyve ağacına solucan gübresi gövdeye yığılmaz; ince kökler taç izdüşümü civarındadır, gübre de orada toprağa karıştırılır. Kış sonu uygulama zamanını, genç ve yetişkin ağaç farkını, taç izdüşümünün nasıl bulunacağını ve doz konusundaki dürüst sınırı anlattık.
+etiketler: solucan gübresi, meyve ağacı gübresi, taç izdüşümü, kış sonu gübreleme, organik gübre, katı gübre
+gorsel: bekliyor
+gorsel_alt: Meyve ağacının dalları altında, taç sınırı boyunca toprağa serpilmiş koyu renkli katı solucan gübresi şeridi
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, kati-solucan-gubresi-20-kg
+kisaca: Meyve ağacına solucan gübresi gövdenin dibine değil, taç izdüşümü boyunca açılan bir şeride verilir; ince besin kökleri oradadır. Gübre serpilip hafifçe toprağa karıştırılır, sulanır ve malçlanır. En uygun zaman, göz kabarmadan önceki kış sonudur. Yetişkin ağaçta miktar toprak ve yaprak analizine göre belirlenir.
+@govde
+Meyve ağacının kökleri, çoğu insanın tahmin ettiğinden çok daha yatay ve geniş yayılır. Ağacın besin alan ince kökleri gövdenin dibinde değil, dalların ucunun hizasında, yani taç izdüşümünde toplanır. Gübreyi kaybolmuş bir yere değil, o hatta vermek gerekir. Meyve ağacına solucan gübresi verirken de aynı kural geçerlidir: gövdeye değil, köklerin çalıştığı yere.
+
+## Taç izdüşümü nedir, nasıl bulunur?
+
+Taç izdüşümü, ağaç dallarının dış çevresinin toprağa düşen gölgesidir. Öğle saatlerinde güneşin tepede olduğu zaman, dalların en uç noktasının hizasında toprağa bir çizgi çekerseniz bu çemberi bulursunuz. Ağacın etrafında bir halka şeklindedir. Gübre bu halkanın iç ve dış kenarında, yaklaşık bir karış genişliğinde bir şerit hâlinde verilir.
+
+Gövdenin dibi (yaklaşık 30–40 cm çapında bir alan) gübreden boş tutulur. Burada ince kök yoktur; ayrıca kabuk nemli ve bol besinli toprakla temas ederse çürüme ve mantar hastalıkları artar. Genç fidanda taç henüz dar olduğundan şerit gövdeye yakın olur; her yıl ağaç büyüdükçe şerit dışa taşınır.
+
+## Meyve ağacına solucan gübresi ne zaman verilir?
+
+En uygun zaman, ağaç uykudan uyanıp göz kabarmadan önceki kış sonu–erken ilkbahardır. Bu dönemde gübre toprağa karışır, yağmur ve sulamayla yavaş yavaş çözünür; ağaç uyanınca besin hazırdır. Sonbahar uygulaması da mümkündür; yaprak dökümü sonrası gübreleme için [meyve ağaçlarında sonbahar gübrelemesi](/meyve-agaclarinda-sonbahar-gubrelemesi) yazısındaki takvime bakın.
+
+Solucan gübresi organik ve yavaş salınımlı olduğu için tek bir kış sonu uygulaması sezonun büyük bölümünü karşılar; ürün açıklamasında toprak hazırlığında bir kez, gelişme döneminde bitkiye özel aralıklarla tekrar uygulanabileceği söyleniyor. Kış donu sürerken toprak donmuşsa uygulamayı erteleyin; donmuş toprağa serilen gübre yağmurla kayar.
+
+Takvime göre özet:
+
+::: takvim
+Gübre uygulaması (kış sonu) | 2-3
+Göz kabarması ve çiçeklenme | 3-4
+Meyve tutumu ve büyüme | 4-6
+Sonbahar bakım gübrelemesi | 10-11
+:::
+
+## Adım adım uygulama
+
+::: adimlar
+Taç sınırını belirleyin | Dalların uç hizasından toprağa halka çizin; gövde dibinden yaklaşık 30–40 cm'lik alanı boş bırakın.
+Yüzeyi temizleyin | Ot ve kuru yaprakları kenara çekin.
+Gübreyi şerit hâlinde serpin | Katı solucan gübresini bir karış genişliğinde, taç hattı boyunca eşit yayın.
+Hafifçe karıştırın | Çapa ya da tırmıkla üst 5–10 cm toprağa karıştırın; derin kazarak yüzey kökleri kesmeyin.
+Sulayın ve malçlayın | Bol sulayın, üstüne saman ya da yaprak malçı serin.
+:::
+
+Taç izdüşümüne serpip toprakla karıştırma kuralı, Tarım ve Orman Bakanlığı Yalova Bahçe Kültürleri Araştırma Enstitüsü'nün zeytin broşüründe azotlu gübre için de aynen yazıyor: Gübre taç izdüşümüne saçıldıktan sonra çapa ya da tırmıkla toprağa karıştırılmalı ([Tarım ve Orman Bakanlığı zeytin broşürü](https://arastirma.tarimorman.gov.tr/yalovabahce/Belgeler/brosurler/Zeytin.pdf)). Aynı mantık elma, armut ve ceviz için de geçerlidir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Miktar: ürün açıklaması ne diyor, ne demiyor?
+
+Bu yazıyı yazarken en açık sınırı baştan söylemek gerekiyor: Yetişkin bir meyve ağacı için bilimsel kaynaklı, ağaç başına bir solucan gübresi dozu tablosu yok. Kaynaklar toprak ve yaprak analizine dayalı gübreleme öneriyor ve doz, ağacın yaşına, türüne, anacına ve toprağa göre değişiyor.
+
+HasTürk Katı Solucan Gübresi açıklamasında verilen ve yazıya uyan tek ölçü fidan dikimi için: Fidan çukuruna fidan başına 1,5–2 kg. Yetişkin ağaç için yazılı bir doz yoktur. Bu yüzden şu üç yola bakın:
+
+- **Toprak analizi:** Gübre ihtiyacını ve toprağın organik madde durumunu gösterir; nasıl okunacağı [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısında.
+- **Dekara hesap:** Bahçeniz bir sıra meyve bahçesi ise [solucan gübresi dekara ne kadar](/solucan-gubresi-dekara) yazısındaki hesap mantığı yol gösterir.
+- **Küçük başlangıç:** Hiç deneyiminiz yoksa ilk yıl az başlayın, ağacın sürgün uzunluğunu ve yaprak rengini bir sezon boyunca not edin. Ertesi yıl miktarı buna göre ayarlayın.
+
+Ağaçtaki asıl gübre ihtiyacının azottan, fosfordan ya da mikro elementlerden hangisi olduğunu bilmeden miktar artırmak boşuna masraf olabilir. Bunu analiz gösterir.
+
+## Katı mı, sıvı mı?
+
+Ağaç altına serpilen katı gübre yavaş çalışır: Yağmur ve sulamayla ağır ağır çözünür, toprağın organik maddesini de artırır. Sıvı solucan gübresi ise damla sulamayla ya da yapraktan verilince daha çabuk etki gösterir; ürün açıklaması iki formun dönüşümlü kullanılmasının yaygın olduğunu belirtiyor. Meyve ağacına solucan gübresi verirken kış sonunda katıyı, büyüme döneminde kullanılan sıvıyı düşünebilirsiniz. Sıvı gübrenin ayrıntıları [sıvı solucan gübresi nasıl kullanılır](/sivi-solucan-gubresi-nasil-kullanilir) yazısında.
+
+Bu iki formu birlikte düşünmenin güzel yanı, ağacın ihtiyacı en yüksek olduğu dönemde (çiçeklenme ve meyve tutumu) elinizde hızlı bir seçenek olmasıdır. Yine de bir kez gübre verdikten sonra ağaç ve toprak üzerindeki etkiyi gözlemlemeden ikinci bir uygulama yapmayın.
+
+## Bahçe sahibi sık ne soruyor?
+
+Kış sonunda ağaç hâlâ uykudaysa, gübre işe yaramaz mı diye merak edilir. Yarar: Kökler toprak ısındıkça çalışmaya başlar ve gübre o zaman ulaşılabilir olur. Çok kuru geçen bir kış sonunda uygulamanın ardından sulama yapmak, gübrenin toprağa girmesini sağlar. Yağışlı bölgelerde (Karadeniz, Marmara) yağmur zaten bu işi görür.
+
+Bir diğer soru da ağacın altındaki çimle ilgilidir. Taç altında çim varsa gübreyi çimin üzerine serpip tırmıkla karıştırın; ağaç ve çim aynı gübreden yararlanır. Ağacın altında yabani ot yoğunsa önce otlanın, yoksa gübre otları besler.
+
+## Genç ve yetişkin ağaçta fark
+
+Genç fidanda dikim çukuruna karışan gübre ilk yılın temel besinidir; ayrıntı için [fidan gübreleme](/fidan-gubreleme) yazısına bakın. Yetişkin ağaçta ise yıllık bakım gübresi taç izdüşümü şeridine verilir. Aşağıdaki tablo bu farkı özetler:
+
+| Konu | Genç fidan | Yetişkin ağaç |
+|---|---|---|
+| Uygulama yeri | Dikim çukuru ve gövde çevresi | Taç izdüşümü şeridi |
+| Miktar | Dikim çukuruna 1,5–2 kg/fidan (ürün açıklaması) | Toprak ve yaprak analizine göre |
+| Zaman | Dikimde ve ilk ilkbaharda | Kış sonu, göz kabarmadan önce |
+| Dikkat | Kökle doğrudan temas etmesin | Gövdeye yığılmasın |
+
+## Hangi hatalar ağaca zarar verir?
+
+Gövdenin dibine yığılan gübre en yaygın hatadır. Bunun yanında dibe derin kazma ya da çukur açmak, ince besleyici kökleri keser. Taze ve yarı yanmış hayvan gübresiyle karıştırmak da gereksizdir; solucan gübresi zaten olgun ve stabildir. Doz aşımını bu gübrede kimyasal gübre kadar kritik görmek gerekmese de, ağacın başka bir yetersizliği varsa (demir, çinko, su) gübre sorunu çözmez. Sorun yaprak sararması ya da meyve dökümü ise önce nedenini araştırın.
+@sss
+S: Meyve ağacına solucan gübresi nereye verilir?
+C: Gövdenin dibine değil, dalların dış çevresinin hizasındaki taç izdüşümüne verilir. Gübre bir karış genişliğinde şerit hâlinde serpilir ve üst 5–10 cm toprakla hafifçe karıştırılır, sonra sulanır.
+
+S: Meyve ağacına solucan gübresi ne zaman verilir?
+C: En uygun zaman, ağaç göz kabarmadan önceki kış sonu ile erken ilkbahardır. Toprak donmuşsa uygulamayı erteleyin; sonbaharda yaprak dökümü sonrası da bakım gübresi verilebilir.
+
+S: Yetişkin meyve ağacına kaç kilo solucan gübresi verilir?
+C: Ağaç başına sabit bir doz yoktur; yaşa, türe ve toprağa göre değişir. Ürün açıklamasındaki yazılı ölçü yalnızca fidan dikimi içindir: çukura fidan başına 1,5–2 kg. Yetişkin ağaç için toprak ve yaprak analizine bakın.
+
+S: Solucan gübresi meyve ağacını yakar mı?
+C: Ürün açıklamasına göre önerilen dozlarda bitkiyi yakma riski taşımaz ve koku yapmaz. Yine de gövdeye yığmayın; kökleri taç izdüşümüne yayın ve ilk yıl az başlayın.
+
+### YAZI
+slug: cay-budamasi-cay-bahcesinde-zaman-yontem
+baslik: Çay Budaması: Çay Bahçesinde Budama Zamanı ve Yöntemi
+yayin: 2027-02-01 14:30
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: çay budaması
+seo_baslik: Çay Budaması: Çay Bahçesinde Zaman ve Yöntem
+seo_aciklama: Çay budaması ne zaman yapılır? ÇAYKUR raporuna göre Kasım–Aralık ve Şubat–Nisan pencereleri, budamanın amacı ve makas ile motorlu aletin farkı.
+ozet: Çay budaması, çalılaşmış ve verimi düşmüş çay ocaklarını tazeleyip sürgün verimini ve kalitesini artırmak için yapılır. ÇAYKUR raporları uygun zamanı Kasım–Aralık veya Şubat–Mart–Nisan olarak veriyor. Budamanın amacını, yıllık kademeli programı, makas ile motorlu aletin farkını ve kontrol listesini anlattık.
+etiketler: çay budaması, çay bahçesi, gençleştirme budaması, çay ocağı, ÇAYKUR, Rize, budama zamanı
+gorsel: bekliyor
+gorsel_alt: Karadeniz yamacında sıra hâlinde çay ocakları ve budama sonrası düzleştirilmiş bir çay parseli
+urunler: budama-makasi
+kisaca: Çay budaması, çalılaşmış ve verimi düşmüş çay ocaklarını tazelemek için yapılır; ÇAYKUR raporu uygun zamanı Kasım–Aralık ya da Şubat–Mart–Nisan olarak veriyor. Çay çalıştayı kitapçığı motorlu budamada bitkilerin zarar gördüğünü belirtir. Kademeli yıllık oran için ÇAYKUR duyurusuna bakın.
+@govde
+Çay ocağı budanmadan bırakıldığında yıllar içinde yukarı doğru uzar, içi boşalır, sürgünler incelir ve toplanabilir yaprak verimi düşer. Çay budaması bu yüzden bahçe sahibinin yılda bir kez verdiği değil, parsel parsel planladığı bir karardır: Hangi parsel bu yıl, hangi zaman aralığında, hangi aletle? Bu yazı çay bahçesi sahibine ve çay üretimine ilgi duyana yönelik. Kendi bahçesinde bir iki çay bitkisi yetiştirenler için [çay bitkisi yetiştirme](/cay-bitkisi-yetistirme) yazısında ev ölçeğinde budamayı ayrıca anlattık. Burada konu, çay bahçesinde (ocak düzeninde) budamanın amacı, zamanı ve yöntemi.
+
+Bir uyarı baştan: Çay üretimi ruhsat, kota ve budama programı gibi kamu düzenlemelerine bağlıdır ve oranlar, tarihler yıllara göre değişebilir. Bu yazı kural koymaz; ÇAYKUR raporlarında ve üniversite çalıştay yayınında yazanı aktarır. Güncel zorunluluklar için çay işletmesinin duyurularına ya da ilçe tarım ve orman müdürlüğüne bakın.
+
+## Çay budaması ne işe yarar?
+
+ÇAYKUR'un çay sektörü raporlarında budamanın amacı, çalılaşmış ve verimden düşmüş çay ocaklarını tazelemek, böylece sürgün verimini ve kalitesini artırmak olarak anlatılıyor ([ÇAYKUR 2016 çay sektörü raporu](https://www.caykur.gov.tr/cms/design/sources/dosya/yayinlar/142.pdf)). Bitki fizyolojisi açısından mantık şöyle özetlenebilir: Yıllar geçtikçe ocağın üst kısmı odunlaşır, yeni ve taze sürgün üretimi azalır. Budama, bitkiyi yeniden sürgün vermeye zorlayarak taze büyümeyi artırır; çay yaprağı için aranan şey tam da o taze sürgündür.
+
+Budama bu nedenle bir "kesme" işlemi olmaktan çok bir "yenileme" işlemidir. Hasat edilen sürgünler (iki yaprak bir tomurcuk) ocağın üst yüzeyinden toplanır; budama ise bu yüzeyin yaşlanmış ve işe yaramaz kısmını atıp yeni bir hasat yüzeyi oluşturur. Bu fikir diğer çok yıllık çalılarda da tanıdıktır: Gül ve ortanca gibi bitkilerde de kış sonunda yapılan budama, yeni sürgünün yönünü ve gücünü belirler; [kış budaması](/kis-budamasi) yazısı bu genel mantığı bahçe bitkileri için anlatıyor.
+
+## Zaman: iki pencere
+
+Aynı ÇAYKUR raporu, budamanın uygun zamanda (Kasım–Aralık veya Şubat–Mart–Nisan) ve tekniğine uygun şekilde yapılmasının çay bitkisinde taze sürgün üretimini artırdığını yazıyor. Yani iki pencere var: sonbahar sonu–kış başı (Kasım ve Aralık) ve kış sonu–ilkbahar başı (Şubat, Mart, Nisan). Bu iki pencere arasındaki Ocak ayı, Karadeniz kıyısında bile soğuk ve nemli geçtiği için dışarıda bırakılmış görünüyor; ancak raporda bunun gerekçesi açıklanmıyor, bu yüzden yorum yapmıyoruz.
+
+Hangi pencerenin seçileceği bahçenin konumuna, hava durumuna ve işçi ile alet erişimine bağlıdır. Rakımı yüksek ve soğuğu sert olan bahçelerde şiddetli kış donları budanmış ocağın yeni sürgününü riske atabilir; bu yüzden bahçe sahipleri çoğu zaman şubat sonu–nisan penceresini seçer. Ancak bu bir kural değil gözlemdir ve kaynaklar arasında net bir bölge ayrımı bulamadık. Kendi bahçeniz için yerel çay üreticilerinin ve ilçe müdürlüğünün deneyimi daha değerlidir.
+
+| Dönem | Genel özellik | Dikkat |
+|---|---|---|
+| Kasım–Aralık | Hasat bitmiş, bitki dinlenmeye girmiş | Soğuk gelmeden iyileşme zamanı kısa |
+| Şubat–Mart–Nisan | Kış sonu, yeni sürgün öncesi | Geç don riski; sürgün patlamasından önce bitirin |
+
+## Kademeli program: bahçenin tamamını bir yılda budamayın
+
+Çay bahçelerinde budama tüm parsele bir anda değil, her yıl bahçenin bir kısmına uygulanır. ÇAYKUR raporu, çay bahçelerinin yıllık budanmasını düzenleyen bir Bakanlar Kurulu Kararı'ndan söz ediyor; sonraki bir kararla bahçelerin belirli bir oranda (yedide bir) her yıl budandığını belirtiyor. Bu oran zaman içinde değiştiği ve kamu düzenlemesine bağlı olduğu için bir rakamı sabit yazmak doğru olmaz; güncel oran ve uygulama için çay işletmesinin ya da ilgili müdürlüğün duyurusuna bakın.
+
+Programın mantığı iki yönlüdür. Bir yandan her ocağın düzenli aralıklarla yenilenmesini sağlar; öte yandan bütün bahçe aynı yıl budanırsa o yıl gelir ve yaprak miktarı sert düşer, kademeli uygulama ise geliri dengeler. Önce hiç budanmamış ve çalılaşmış parselleri öncelemek de çoğu üretici için pratiktir: Verimi en çok düşen parsel, budamadan en çok kazanacak olandır.
+
+## Yöntem: makas mı, motor mu?
+
+Budamada kullanılan alet kesim kalitesini belirler. Atatürk Çay ve Bahçe Kültürleri Araştırma Enstitüsü ve Recep Tayyip Erdoğan Üniversitesi'nin çay çalıştayı kitapçığı, son yıllarda yaygınlaşan motorla budama işleminde bitkilerin zarar gördüğünü belirtiyor ([RTEÜ çay çalıştayı kitapçığı](https://cayihtisas.erdogan.edu.tr/Files/ckFiles/cayihtisas-erdogan-edu-tr/%C3%87AY%20%C3%87ALI%C5%9ETAYI%20K%C4%B0TAP%C3%87I%C4%9EI.pdf)). Bunun mantığı, motorlu aletin kesim yüzeyini parçalı ve lifli bıraktığı, makasın ise düzgün kestiği fikridir; yarası düzgün kesilmiş bir dal daha çabuk iyileşir ve mantar bulaşma yüzeyi daha azdır. Bu, tüm bitkilerde geçerli bir genel ilkedir.
+
+Pratikte iş yükü ve zaman da hesaba girer: Motorlu alet hızlıdır, büyük parseli kısa sürede keser; makas ise yavaş ve yorucudur. Seçim, kesim kalitesi ile hız arasındaki bir takas. Büyük parselde motorlu aleti seçip kesimden sonra pürüzlü yüzeyleri düzeltmek, ya da en azından bıçağı keskin ve temiz tutmak, zararı azaltır. Küçük ya da önemli ocaklarda makas tercih edilebilir.
+
+[ürün:budama-makasi]
+
+Bu yazıdaki budama makası, ürün açıklamasına göre 225 mm uzunluğunda ve en fazla 25 mm çaplı dalları kesebiliyor; çay bahçesinin büyük parsellerinde motorlu ya da özel çay budama aletleri kullanılır, bu makas ise ev bahçesinde birkaç çay ocağının dalını düzeltmek ya da kalın dal kesmek gibi küçük işlerde işe yarar. Kullanımdan sonra makası makine yağı ile temizleyip ambalajında saklamak ürün açıklamasında öneriliyor.
+
+## Budama günü için kontrol listesi
+
+::: adimlar
+Parseli belirleyin | Bu yıl budanacak parseli, ocakların yaşını ve verim düşüşünü göz önüne alarak seçin.
+Zaman penceresini seçin | Kasım–Aralık ya da Şubat–Nisan; hava durumunu izleyin.
+Aleti hazırlayın | Bıçağı keskinleyin; kesimden önce yüzeyi temizleyin.
+Düzgün kesin | Parçalı yüzey bırakmayın; gerekirse pürüzleri makasla düzeltin.
+Atığı toplayın | Budanan dalları parselden uzaklaştırın ya da kompost için ayırın.
+Parseli not edin | Hangi parselin ne zaman budandığını kaydedin; sonraki yıl sıradaki parsele geçin.
+:::
+
+## Budama sonrası: bahçe neye ihtiyaç duyar?
+
+Budanmış ocak yeni sürgün vermek için bitkinin depoladığı besini kullanır; bu yüzden toprak sağlığı ve besin dengesi önemlidir. Çay asidik toprakta yetişir; toprak pH'ı ve organik madde durumu uzun vadeli verimi belirler. Ayrıntılı toprak ve gübre düzeni için çay işletmesinin ve ziraat odalarının önerilerine ve toprak analizi sonuçlarına başvurun; genel toprak organik maddesi konusunda [toprakta organik madde](/toprakta-organik-madde) yazısı okunabilir. Kesim sonrası dalları parselin dışına çıkarıp kompost yığınında değerlendirmek, bahçede hastalık yükünü de azaltır.
+
+## Çay budaması ve hasat dengesi
+
+Budama yılında hasat azalır; çünkü ocağın hasat yüzeyi yeniden kurulur. Bu nedenle üretici gelir planını buna göre yapmalıdır. Budanan parsel ertesi sezon sürgün verir; ilk hasatlar genellikle alışılandan daha hafif olur, ikinci sezondan itibaren dengeli sürgün sayısı beklenir. Ancak bu süreler bahçeye ve bakıma göre değiştiği için kaynaklarda net bir zaman çizelgesi bulamadık; kendi parselinizin geçmiş verisi en iyi rehberdir.
+
+## Nelerden kaçınmalı?
+
+Üç şeyden kaçının. Birincisi, çok geç ve sürgün patlamasından sonra yapılan budama: Bitki yeni sürgün vermiş hâlde kesilirse enerji boşa gider ve geç dondan zarar riski artar. İkincisi, aynı yıl bahçenin tamamını budamak: Gelir ve verim dalgası yaratır, kademeli programa da aykırıdır. Üçüncüsü, kör ve kirli aletle kesmek: Parçalı ve kirli yara, hastalığa kapıdır. Bu üç ilke budama konusunda genel geçer bahçıvanlık bilgisidir ve çay bahçesi için de geçerlidir.
+@sss
+S: Çay budaması ne zaman yapılır?
+C: ÇAYKUR sektör raporu uygun zamanı Kasım–Aralık ya da Şubat–Mart–Nisan olarak veriyor. Hangi pencerenin seçileceği bahçenin konumuna ve hava durumuna bağlıdır; geç don riski olan yerlerde sürgün patlamasından önce bitirmek gerekir.
+
+S: Çay budaması ne işe yarar?
+C: Çalılaşmış ve verimden düşmüş çay ocaklarını tazeler, taze sürgün verimini ve kalitesini artırır. Hasat edilen sürgünler ocağın üstünden toplandığı için budama yeni bir hasat yüzeyi oluşturur.
+
+S: Çay bahçesi her yıl tamamen budanır mı?
+C: Hayır. Çay bahçeleri kademeli olarak, her yıl belirli bir oranı budanır; oran ve kurallar kamu düzenlemesine bağlıdır ve değişebilir. Güncel oran için çay işletmesinin duyurusuna ya da ilçe müdürlüğüne bakın.
+
+S: Çay budamasında makas mı motor mu kullanılmalı?
+C: Çalıştay kitapçığı motorla budamada bitkilerin zarar gördüğünü belirtiyor; makas daha düzgün kesim bırakır. Büyük parselde hız için motor kullanılabilir, ama kesim yüzeyi düzgün ve alet keskin olmalıdır.

@@ -1,0 +1,307 @@
+### YAZI
+slug: ari-sokmasi-ilk-yardim-sokuldugunda-yapilacaklar-ve-alerji-uyarisi
+baslik: Arı Sokması İlk Yardım: Sokulduğunda Ne Yapılır, Alerji Uyarısı
+yayin: 2027-04-18 09:10
+yazar: Halil İbrahim Çelik
+kategori: sebze-meyve
+odak: arı sokması ilk yardım
+seo_baslik: Arı Sokması İlk Yardım: Ne Yapılır, Alerji Uyarısı
+seo_aciklama: Arı sokması ilk yardım nasıl yapılır? İğneyi kazıyarak çıkarma, yarayı yıkama, soğuk uygulama; nefes darlığı ve yüz şişmesinde 112'yi arama.
+ozet: Arı sokması ilk yardım adımları şunlardır: Sakin kalıp alandan uzaklaşmak, iğneyi tutmadan kazıyarak çıkarmak, yarayı sabunlu suyla yıkamak ve soğuk uygulamak. Nefes darlığı ve yüzde şişme alerjik reaksiyon belirtisidir; 112 aranır.
+etiketler: arı sokması, ilk yardım, arı iğnesi, alerjik reaksiyon, anafilaksi, bahçe güvenliği
+gorsel: bekliyor
+gorsel_alt: Çiçek açmış bir meyve ağacının dalında çalışan bal arıları, yakın çekim
+urunler: raco-yabani-ot-sokme-aleti
+kisaca: Arı sokması ilk yardım: Önce sakin kalıp arıdan uzaklaşın, iğne yarada kaldıysa parmakla sıkmadan kenarı düz bir cisimle (tırnak, kart kenarı) kazıyarak çıkarın, yarayı sabunlu suyla yıkayıp soğuk uygulayın. Nefes darlığı, boğazda ya da yüzde şişme, baş dönmesi varsa derhal 112'yi arayın.
+@govde
+Meyve ağaçları çiçek açtığında bahçe arılarla dolar ve yılın bir noktasında çoğumuz bir arı tarafından sokuluruz. Çoğu sokma ağrılı ama zararsızdır; küçük bir kısmı ise hızlı gelişen alerjik reaksiyona dönüşür ve acil müdahale ister. Arı sokması ilk yardım bilgisi bu ikisini ayırmayı ve doğru anda doğru şeyi yapmayı öğretir. Bu rehber, arı sokması ilk yardım adımlarını sırayla verir. Aşağıda adım adım ne yapılacağını, hangi belirtilerin tehlikeli olduğunu ve neleri yapmamak gerektiğini anlatıyoruz. Bu yazı genel bilgidir, tıbbi tanı ve tedavi yerine geçmez.
+
+## Arı sokması ilk yardım: ilk dakikada yapılacaklar
+
+Bal arısı sokunca iğnesini ve zehir torbasını deride bırakır; kopan iğne bir süre zehir pompalamaya devam eder. Bu yüzden ilk iş iğneyi hızla çıkarmaktır. Amerika Tarım Bakanlığı'nın (USDA) arı araştırma merkezi, iğneyi tırnakla, kredi kartı kenarıyla, kör bir bıçak sırtıyla ya da düz kenarlı bir nesneyle kazıyarak çıkarmayı, parmaklarla ya da cımbızla çekmemeyi öneriyor; çünkü sıkmak daha fazla zehir salabilir ([USDA ARS, arı sokmaları 101](https://www.ars.usda.gov/pacific-west-area/tucson-az/carl-hayden-bee-research-center/docs/bee-safety/bee-stings-101/)). Kaliforniya Üniversitesi'nin IPM programı yöntemden çok hız önemlidir diyor: İğne ne kadar çabuk çıkarsa o kadar az zehir girer ([UC IPM, arı ve eşek arısı sokmaları](https://ipm.ucanr.edu/home-and-landscape/bee-and-wasp-stings/)).
+
+1. Sakin kalın ve arıların bulunduğu yerden yavaşça uzaklaşın; kolunuzu sallamak başka arıları kızdırır.
+2. İğneyi görürseniz kazıyarak çıkarın; gözle seçilmiyorsa ellerinizle sıkmadan kenarı düz bir şeyle sıyırın.
+3. Sokulan yeri sabunlu ve temiz suyla yıkayın.
+4. Soğuk uygulama (buz torbası, soğuk kompres) yapın; bezle sarıp doğrudan deriye temas ettirmeyin.
+5. Sokulan bölgedeki yüzük, bilezik gibi takıları, şişlik başlamadan çıkarın.
+6. Sokulan kişiyi en az yarım saat izleyin; belirtilerin yayılıp yayılmadığına bakın.
+
+## Normal tepki ve alerji: nasıl ayırt edilir?
+
+UC IPM kaynağına göre sokma yerindeki kızarıklık, şişlik ve kaşıntı beklenen tepkidir; sokma yerinden uzakta ortaya çıkan kaşıntı ve kurdeşen ise alerjik reaksiyon işaretidir. Alerjisi olan kişilerde belirtiler genellikle sokmadan sonraki 1 ile 15 dakika içinde başlar, bazı kaynaklarda 30 dakikaya kadar uzayabildiği belirtilir.
+
+| Belirti | Normal yerel tepki | Alerjik reaksiyon (acil) |
+|---|---|---|
+| Ağrı ve yanma | Sokma yerinde, birkaç saat | — |
+| Kızarıklık ve şişlik | Sokma yerinde, küçük | Yüz, dudak, dil ve boğazda şişme |
+| Kaşıntı | Sokma yerinde | Vücudun başka yerlerinde kaşıntı, kurdeşen |
+| Nefes | Normal | Nefes darlığı, hırıltı, yutkunma güçlüğü |
+| Genel durum | İyi | Baş dönmesi, bayılma, çarpıntı, huzursuzluk |
+
+Alerjik reaksiyonun en ciddi şekli anafilakside bilinç bulanıklığı, tansiyon düşmesi ve nefes yolu tıkanması görülebilir. Florida Üniversitesi'nin arılarla ilgili yayını da bu belirtilerde sokulan kişinin acil tıbbi yardım alması ya da 911'i (Türkiye'de 112) araması gerektiğini söylüyor ([UF/IFAS, Florida'da dış mekân işyerlerinde arılarla yaşamak](https://ask.ifas.ufl.edu/publication/IN783)).
+
+## 112'yi ne zaman aramalı?
+
+Şu durumlarda beklemeden 112'yi arayın:
+
+- Nefes almada zorluk, hırıltı ya da yutkunma güçlüğü
+- Yüzde, dudakta, dilde ya da boğazda şişme
+- Baş dönmesi, bayılma, bilinç bulanıklığı
+- Vücudun geniş bir bölümünde kurdeşen
+- Çok sayıda arı tarafından sokulma (özellikle çocuk ve yaşlıda)
+- Ağız ya da boğaz içinde sokma
+
+Daha önce alerjik reaksiyon geçirmiş ve doktoru acil kullanım için bir ilaç yazmış kişi, o ilacı doktorunun gösterdiği şekilde kullanmalı ve yine de 112'yi aramalıdır; çünkü belirtiler geri dönebilir. İlaç adı ve dozu konusunda kendi doktorunuza danışın; bu yazıda ilaç adı ya da doz yazmıyoruz.
+
+## Yapılmaması gerekenler
+
+Bazı yaygın alışkanlıklar yarayı kötüleştirir. İğneyi cımbız ya da parmakla sıkarak çekmek zehir torbasını sıkıp zehiri artırabilir. Sokma yerini kazımak ya da çizmek enfeksiyon riskini yükseltir. Diş macunu, sirke ya da toprak gibi ev yöntemlerinin bilimsel bir yararı kanıtlanmış değildir ve yarayı kirletebilir. Alerji belirtisi olan kişiyi yalnız bırakmayın, yürütmeyin ve yemek ya da içecek vermeyin. Kendi başınıza ilaç kullanmaya karar vermeyin; ilaç için hekime ya da eczacıya danışın.
+
+## Bahçede ve kovan başında sokulmayı önlemek
+
+Arıları bahçeden çıkarmak mümkün değil, ama sokulma riskini azaltabilirsiniz. Çiçekli ağaç ve bitkilerin altında çalışırken ani hareketlerden kaçının. Parfüm, kokulu losyon ve parlak renkli giysi arıları çekebilir. Çiçekli otlar üzerinde yalın ayak yürümeyin; arı çimdeki yonca çiçeğinde de bulunur. Yiyecek ve tatlı içecekleri açık bırakmayın. Eşek arıları ve arılar yaz sonunda şekerli şeylere daha çok yönelir. Hasat sırasında kovan çevresinde çalışırken ağır ve sakin hareket edin.
+
+Kovan sahibiyseniz koruyucu giysi, eldiven ve arı peçesi şarttır; ayrıntılar için [ilk arı kovanı hazırlığı: nisanda yapılacaklar](/ilk-ari-kovani-hazirligi-nisanda-yapilacaklar) yazısına bakın. Oğul çıkarsa arılar genellikle sakindir ama dikkat gerekir; ayrıntı için [oğul nedir](/ogul-nedir-ari-ogulu-ve-ogul-vermenin-nedenleri) yazısına göz atın. Bahçede arı su kaynağı kurarsanız suluğu oturma alanından uzağa yerleştirin ([arı su kaynağı](/ari-su-kaynagi-bahcede-arilar-icin-guvenli-suluk)).
+
+## Arı mı, eşek arısı mı, yaban arısı mı?
+
+Sokan böceğin kim olduğu ilk yardımı değiştirmez ama davranışı bilmeniz işe yarar. Bal arısı sokunca iğnesini bırakır ve ölür; eşek arısı ve yaban arısı iğnesini bırakmaz, birden çok kez sokabilir. Bu yüzden eşek arısı saldırısında hızla uzaklaşmak gerekir. Eşek arıları yaz sonunda yiyecek ve içeceğe saldırgan olabilir. Sokan böcek ne olursa olsun alerji belirtileri aynıdır ve aynı acil durum kuralları geçerlidir. Bahçedeki yabani arılar ve rolleri için [yabani arılar ve tozlaşma](/yabani-arilar) yazısına bakabilirsiniz.
+
+## Çocuklar, yaşlılar ve hamileler
+
+Çocuklarda zehir miktarı vücut ağırlığına göre fazla olur; birden çok sokmada tehlike artar. Çocuk sokulursa sakin kalın, çocuğu sakinleştirin ve alerji belirtilerini izleyin. Yaşlılarda ve kalp hastalığı olanlarda sokmanın etkisi daha ağır olabilir. Hamile kadınlar sokulduktan sonra bir hekime başvurmalıdır. Bilinen arı alerjisi olan çocuk ve yetişkinlerin bahçe ve kır gezilerinde doktorlarının önerdiği acil önlemleri yanlarında taşımaları ve çevrelerindeki kişileri bilgilendirmeleri gerekir.
+
+## Birden çok arı soktuysa ya da sokma ağız çevresindeyse
+
+Kafa ve boyun bölgesindeki, ağız ve boğaz çevresindeki sokmalar, şişme nefes yolunu daraltabileceği için bir alerji olmasa bile tehlikelidir. Ağzın içindeki bir sokma (örneğin içecekte kalan bir arıyı yutarken) hızla şişebilir; bu durumda dili ve boğazı izleyin, nefes zorlaşırsa 112'yi arayın. Çok sayıda arı birden sokmuşsa (örneğin kovana ya da yuvaya yanlışlıkla yaklaşıldığında) zehir miktarı toplamda yüksek olur ve alerji olmayan kişide bile ağır sonuç doğurabilir: Kişiyi arıların olduğu alandan hemen uzaklaştırın, korunaklı kapalı bir alana alın ve acil yardım çağırın. Arılar peşinizi bırakmıyorsa koşarken yüzünüzü koruyun ve bina ya da araç gibi kapalı bir yere girin.
+
+## Sokma sonrası evde bakım
+
+Hafif yerel tepkide kaşıntı ve şişlik bir iki gün sürebilir. Soğuk uygulama şişliği azaltır; yarayı kaşımayın ve temiz tutun. Ağrı ve kaşıntı için hangi ilacın uygun olduğu konusunda eczacıya danışın. Birkaç gün içinde şişlik artıyorsa, yara sıcak ve kızarıksa, irin oluşmuşsa ya da ateş çıkarsa enfeksiyon olabilir ve hekime başvurmak gerekir. Aynı kişide sık ve şiddetli tepki olursa alerji testi ve bağışıklık tedavisi seçenekleri için alerji hekimine başvurun.
+
+## Sık yapılan hatalar
+
+- **İğneyi parmakla sıkıp çıkarmak:** Daha fazla zehir salınabilir. Düzeltme: Kenarı düz bir cisimle kazıyın.
+- **Belirtileri küçümsemek:** Nefes darlığı ve yüz şişmesi acildir. Düzeltme: 112'yi arayın.
+- **Kendi başına ilaç denemek:** Yanlış ilaç ya da doz risklidir. Düzeltme: Hekime ve eczacıya danışın.
+- **Arı yuvasını kendiniz yok etmeye çalışmak:** Çok sayıda sokma. Düzeltme: Arıcıya ya da yetkililere haber verin.
+@sss
+S: Arı sokması ilk yardım nasıl yapılır?
+C: Sakin kalıp arıdan uzaklaşın, iğneyi parmakla sıkmadan kenarı düz bir cisimle kazıyarak çıkarın, yarayı sabunlu suyla yıkayıp soğuk uygulayın ve yarım saat izleyin. Nefes darlığı, yüz ya da boğaz şişmesi, baş dönmesi varsa 112'yi arayın.
+
+S: Arı iğnesi nasıl çıkarılır?
+C: Tırnak, kredi kartı kenarı ya da kör bir bıçak sırtı gibi düz bir cisimle yara üzerinde kazıyarak çıkarın. Cımbızla ya da parmakla sıkmayın; bu zehir salınımını artırabilir. Asıl önemli olan iğneyi mümkün olan en kısa sürede çıkarmaktır.
+
+S: Arı alerjisi belirtileri nelerdir?
+C: Sokma yerinden uzakta kaşıntı ve kurdeşen, yüz, dudak, dil ve boğazda şişme, nefes darlığı, yutkunma güçlüğü, baş dönmesi ve bayılma. Bu belirtiler genellikle ilk dakikalarda başlar. Böyle bir durumda hemen 112'yi arayın.
+
+S: Arı sokunca soğuk mu sıcak mı uygulanır?
+C: Soğuk uygulama şişliği ve ağrıyı azaltır. Buz torbasını bir bezle sarıp doğrudan deriye temas ettirmeyin. Sıcak uygulama şişliği artırabilir, bu nedenle önermiyoruz. Belirti artıyorsa sağlık kuruluşuna başvurun.
+
+### YAZI
+slug: evde-zeytin-salamurasi-aciligi-alma-yontemleri
+baslik: Evde Zeytin Salamurası: Acılığı Alma Yöntemleri
+yayin: 2027-04-18 16:40
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: zeytin salamurası
+seo_baslik: Evde Zeytin Salamurası: Acılığı Alma Yöntemleri
+seo_aciklama: Evde zeytin salamurası nasıl yapılır? Suda bekletme, tuzlu suda ve kuru tuzla acılık alma yöntemleri, kostik riski ve güvenli saklama kuralları.
+ozet: Zeytin salamurası, zeytinin acılığını veren maddeyi uzaklaştırmak için suda, tuzlu suda ya da kuru tuzla bekletme yöntemidir. Evde en güvenli yollar su ve tuzlu su yöntemleridir; kostik gibi güçlü maddeler yanık riski taşır.
+etiketler: zeytin salamurası, zeytin acılığı, salamura, siyah zeytin, yeşil zeytin, evde zeytin
+gorsel: bekliyor
+gorsel_alt: Geniş bir cam kavanozda tuzlu suyla dolu yeşil ve siyah zeytinler, üstünde limon dilimi ve defne yaprağı
+urunler: hasturk-kati-solucan-gubresi
+kisaca: Zeytin salamurası, taze zeytinin acılığını uzaklaştırmak için zeytini birkaç hafta boyunca düzenli değiştirilen suda ve ardından tuzlu suda bekletmektir. Evde en güvenli yol su ve tuzlu su yöntemleridir; kostik (lye) kullanımı yanık riski taşır. Kavanozlanan zeytinde güvenlik için tuz ve asit dengesi gerekir.
+@govde
+Ağaçtan yeni toplanmış bir zeytini ısırmak denemeyin: Acılığı ağzınızı büzer. Bu acılık, zeytinin doğal olarak içerdiği ve yenilebilir hâle gelmesi için uzaklaştırılması gereken bir maddeden gelir. Zeytin salamurası bu acılığı suyla, tuzlu suyla ya da kuru tuzla alma yoludur. Evde yapmak mümkündür, ama güvenlik kuralları vardır: Yanlış yöntem hem tadı bozar hem de sağlık riski yaratır. Aşağıda yöntemleri ve saklamada bilmeniz gerekenleri anlatıyoruz.
+
+Zeytin hasat zamanı sonbahardır; nisan, geçen yılın zeytinini değerlendirmek ve yeni sezona hazırlanmak için iyi bir zamandır. Evde zeytin salamurası yapmak isteyenler, işe hasadı beklemeden malzemelerini ve kaplarını hazırlayarak başlayabilir.
+
+## Zeytin neden acıdır?
+
+Taze zeytin, acı tadı veren fenolik bir bileşik içerir ve bu bileşik zeytini çiğ yemeyi zorlaştırır. Acılık alma işlemi, bu bileşiği suya, tuzlu suya ya da bir fermantasyon sürecine çekerek yapılır. Yöntemler arasında tat ve zaman farkı vardır. Kaliforniya Üniversitesi'nin evde zeytin turşusu hazırlama yayınları dört temel yöntemi anlatıyor: suyla, tuzlu suyla (salamura), kuru tuzla ve kostikle ([UC ANR, zeytin turşusu hazırlamada güvenli yöntemler](https://ucanr.edu/sites/fresnonutrition/files/14350.pdf)). Davis'teki üniversite kaynağı da suyla acılık almanın altı farklı yolunu özetliyor ([UC Davis, zeytin kürleme](https://ccuh.ucdavis.edu/sites/g/files/dgvnsk1376/files/inline-files/Olive%20Curing-%20Pam%20Geisel.pdf)).
+
+## Zeytin salamurası için zeytin seçimi
+
+Salamuraya uygun zeytin sağlam, çürüksüz, kurtsuz ve lekesiz olmalıdır. Zeytin sineği ve zeytin güvesi tarafından delinmiş zeytinde acılık alma sorun çıkarır ve zeytin bozulabilir; sineğin zararı için [zeytin sineği](/zeytin-sinegi) yazısına bakın. Yeşil zeytin tam büyüklüğünü almış ama rengi henüz dönmemiş zeytindir; siyah zeytin ise olgunlaşıp koyulaşan zeytindir. Yeşil zeytin daha sert ve acıdır, siyah zeytin daha yumuşak ve hafif acıdır; bu yüzden yeşil zeytinin acılığı alması daha uzun sürer.
+
+Zeytini hasat sonrası beklemeden işlemeye başlayın; bekleyen zeytin ezilir ve küflenir. Ağaçtan zeytin toplayanlar için [zeytin ağacına hasat sonrası bakım](/zeytin-agacina-hasat-sonrasi-bakim) ve ağaç yetiştirme için [saksıda zeytin ağacı nasıl yetiştirilir](/saksida-zeytin-agaci-yetistirme) yazıları yararlıdır.
+
+## Yöntem 1: Suda acılık alma
+
+En basit ve en güvenli ev yöntemidir. UC ANR kaynağı, suyla acılık almanın zeytinin tadını diğer yöntemlere göre daha az değiştirdiğini belirtiyor. Zeytinler çatlatılır ya da yarılır, bir kaba konup üzeri suyla kapatılır ve su her gün değiştirilir. Bu yöntemde zeytin yüzeyde kalmasın diye üzerine temiz bir tabak ya da ağırlık konur.
+
+1. Zeytinleri yıkayın ve çatlatın (tahta tokmakla tek tek ezip ya da bıçakla yarıp).
+2. Cam ya da gıda sınıfı plastik bir kaba koyup suyla tamamen örtün.
+3. Suyu her gün değiştirin; zeytinleri havaya çıkarmayın.
+4. Bu işlemi zeytinin acılığı istenen düzeye inene kadar sürdürün; birkaç haftayı bulabilir. Süre zeytinin boyuna ve yöntemine göre değişir.
+5. Acılık geçince zeytinleri tuzlu su ve baharatlarla kavanoza alın.
+
+## Yöntem 2: Tuzlu suda (salamura)
+
+Tuzlu suda bekleme acılığı daha yavaş alır ama zeytini aynı zamanda tuzlar ve korur; UC ANR özetine göre salamura zeytin kostikle işlenmiş zeytine göre daha tuzlu olur. Zeytin tuzlu suya (salamura) konur; tuz oranı tarife ve tadına göre belirlenir ve zamanla suyun tuz oranı ölçülerek korunur. Üzerine suyu örtecek şekilde bir ağırlık konur ve kap serin yerde, kapağı gevşek bekletilir. Tuzlu su yöntemi sürerken yüzeyde beyaz bir tabaka (mayalı film) oluşabilir; tüylü, renkli küf ise sorun işaretidir.
+
+Salamuranın bitmiş zeytini, kavanoza alınırken genellikle son bir salamura ya da sirkeli tuzlu su ile doldurulur; bu son salamura hem tat verir hem bozulmayı engeller. UC Davis kaynağı, suda acılığı alınmış zeytinlerin genellikle sirke ve tuzlu bir son salamurada bekletildiğini anlatıyor.
+
+## Yöntem 3: Kuru tuzla
+
+Siyah ve olgun zeytinlerde kullanılan yöntemdir. Zeytinler tabakalar halinde tuzla katmanlanır; tuz zeytinin suyunu çeker ve acılığı da beraberinde götürür. İşlem aylar sürebilir ve zeytin buruşur. Çıkan sıvı düzenli olarak süzülür. Bu yöntem, bölgede geleneksel olarak kullanılan sofralık siyah zeytin yöntemidir. Aşırı tuz isteyenler için uygun değildir.
+
+## Zeytin salamurası için tuz oranı ve su
+
+Salamurada kullanılacak su temiz ve klorsuz olmalı; musluk suyu klorluysa bir gün bekletmek ya da kaynatıp soğutmak işe yarar. Tuz iyotsuz ve katkısız deniz ya da kaya tuzu olmalıdır; iyotlu ve topaklanmayı önleyici katkılı sofra tuzu salamurayı bulandırabilir ve zeytinin rengini bozabilir. Tuz oranı tarifine göre değişir; yöreden yöreye az ya da çok tuzlu salamura tercih edilir. Tuz oranı yeterli değilse zeytin küflenir ve bozulur, çok yüksekse zeytin tuzlu olur ve acılık uzun sürede gider. Tuzun yeterli olup olmadığını anlamak için güvenilir bir tarifteki oranı kullanın ve salamuranın üstünde küf oluşup oluşmadığını izleyin.
+
+Kap seçiminde cam, seramik ya da gıda sınıfı plastik kullanın; metal kaplar tuz ve asitle tepkimeye girer. Ağır bir cam ya da seramik tabak, zeytinleri salamuranın altında tutar. Zeytin ve salamuranın bulunduğu kabı serin, karanlık ve titreşimsiz bir yerde saklayın; sıcak ortam fermantasyonu hızlandırır ve kötü kokuya yol açar.
+
+## Kostik (lye) kullanmak: neden evde önerilmez?
+
+Bazı yöntemler acılığı hızla almak için sodyum hidroksit (kostik) kullanır. UC kaynakları kostiğin ciddi yanıklara yol açabileceğini, cilde sıçramada bol suyla yıkamak ve gözle temasta akan suyla yıkamak gerektiğini belirtiyor. Ayrıca bir UC bildirimi, uzun yıllar kullanılan ev ürünlerinin artık bulunmadığını ve "başka gider açıcı ürünlerle zeytin işlemeyin" uyarısını yapıyor. Gıda sınıfı olmayan temizlik ürünlerini zeytin için kullanmayın; bu hem sağlığa hem de zeytine zarar verir. Kostikle çalışmayı düşünüyorsanız yetkin bir kaynaktaki tarifi harfiyen uygulayın ve koruyucu eldiven ve gözlük kullanın; tecrübesizseniz su ve salamura yöntemlerini tercih edin.
+
+| Yöntem | Süre | Tat | Risk |
+|---|---|---|---|
+| Suda acılık alma | Haftalar | Zeytin tadı korunur | Düşük; sık su değişimi şart |
+| Tuzlu suda (salamura) | Haftalar-aylar | Tuzlu, olgun | Düşük; küf kontrolü |
+| Kuru tuz | Haftalar-aylar | Yoğun, buruşuk | Orta; tuz oranı ve hijyen |
+| Kostik | Günler | Hafif | Yüksek; yanık riski |
+
+## Kavanozlama ve güvenli saklama
+
+Acılığı alınan zeytin kavanoza alınırken temiz ve kuru bir kap, yeterli tuz ve gerekirse sirke kullanılır. Kapalı bir kavanozda hava olmadığı için bozulmaya karşı tuz ve asit güvence sağlar; bu dengeyi bozmak risk yaratır. UC kaynağı, konserve edilen kürlenmiş zeytinlerin botulizm riskine karşı basınçlı kapta işlenmesi gerektiğini belirtiyor; ev ortamında bu iş yanlış yapılırsa tehlikelidir. Bu yüzden zeytini kapalı kavanozda saklıyorsanız buzdolabında, ya da tuz ve asit dengesi güvenli olan salamurada saklayın; kavanozu rastgele kapatıp kilerde bırakmayın.
+
+Kavanozun üstüne tarih ve yöntem yazın. Zeytin üstte kalırsa küflenir; salamura her zaman zeytinin üstünü örtmelidir. Küf, kötü koku, kabarmış kapak ya da bulanıklık görürseniz zeytini atın; tadına bakıp karar vermeyin. Kavanozu hediye edecekseniz etikete tarih ve yöntemi yazmak, alan kişinin zeytini ne zamana kadar tüketeceğini bilmesini sağlar.
+
+## Tatlandırma: limon, defne, sarımsak
+
+Acılığı alınan zeytin taze limon dilimi, defne yaprağı, sarımsak, kekik ve zeytinyağı ile lezzetlendirilebilir. Bu katkılar güvenlik için tuz ve asit dengesini bozacak miktarda olmamalı; özellikle sarımsak ve zeytinyağı kapalı kavanozda oksijensiz ortamda risk yaratabilir; bu nedenle bu katkıları genellikle tüketimden kısa süre önce eklemek ve zeytini buzdolabında tutmak daha güvenlidir. Hazır tarife güvenmeden önce yetkili bir gıda güvenliği kaynağını kontrol edin.
+
+## Sık yapılan hatalar
+
+- **Suyu değiştirmemek:** Zeytin çürür, acılık gitmez. Düzeltme: Günlük su değişimi.
+- **Zeytini havaya açıkta bırakmak:** Küf ve renk bozulması. Düzeltme: Ağırlıkla suyun altında tutun.
+- **Gıda dışı temizlik ürünü kullanmak:** Zehirlenme riski. Düzeltme: Sadece gıda sınıfı malzeme.
+- **Salamurayı hazırlayıp kapalı kavanozda kilere koymak:** Güvenlik riski. Düzeltme: Buzdolabı ya da onaylı tarif.
+@sss
+S: Evde zeytin salamurası nasıl yapılır?
+C: Zeytinleri çatlatıp suyla örtün ve suyu her gün değiştirerek acılığı alın; ardından tuzlu suya (salamura) alıp baharatlayın. Bu su ve salamura yöntemi evde en güvenli olanıdır. Zeytinleri hep suyun altında tutun ve küf kontrolü yapın.
+
+S: Zeytinin acılığı kaç günde gider?
+C: Süre zeytinin boyuna, olgunluğuna ve yönteme göre değişir; suda acılık alma birkaç haftayı bulabilir. Tadına bakarak karar verin. Yeşil zeytin siyah zeytinden daha uzun sürede acılığını kaybeder.
+
+S: Zeytin salamurasında beyaz tabaka oluştu, küf mü?
+C: İnce, düz, beyazımsı bir tabaka mayalı film olabilir ve genellikle zararsızdır; tüylü, kabarık ya da renkli (yeşil, siyah) bir tabaka küftür. Emin değilseniz atın ve zeytini tadına bakarak denemeyin.
+
+S: Zeytin salamurasını kavanozda ne kadar saklayabilirim?
+C: Salamura ve tuz dengesi doğruysa ve zeytin her zaman salamuranın altındaysa uzun süre saklanabilir; ama kapalı kavanozda güvenlik riski vardır. Buzdolabında saklamak ve bozulma belirtisinde (koku, küf, kabarma) atmak güvenlidir.
+
+### YAZI
+slug: ev-yapimi-bitki-spreyi-sarimsak-sabun-ve-sirke-ise-yarar-mi
+baslik: Ev Yapımı Bitki Spreyi: Sarımsak, Sabun ve Sirke Gerçekten İşe Yarar mı?
+yayin: 2027-04-18 19:30
+yazar: Ahmet Sacit Çelik
+kategori: bitki-bakimi
+odak: ev yapımı bitki spreyi
+seo_baslik: Ev Yapımı Bitki Spreyi: Gerçekten İşe Yarar mı?
+seo_aciklama: Ev yapımı bitki spreyi gerçekten işe yarar mı? Sarımsak, sabun ve sirke spreylerinin üniversite kaynaklarına göre kanıtı, riskleri ve güvenli adımlar.
+ozet: Ev yapımı bitki spreyi, üniversite kaynaklarına göre çoğunlukla bilimsel olarak denenmemiştir. Sabunlu su sınırlı işe yarayabilir ama bulaşık deterjanı bitkiye zarar verir; sarımsak ve sirke için kanıt zayıftır. Önce basit ve zararsız yöntemler denenir.
+etiketler: ev yapımı bitki spreyi, sarımsak spreyi, sabunlu su, sirke spreyi, yaprak biti, doğal mücadele
+gorsel: bekliyor
+gorsel_alt: Mutfak tezgâhında sarımsak başları, sıvı sabun şişesi, sprey şişesi ve yaprağında bit olan bir saksı bitkisi
+urunler: florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi, florist-mantar-onleyici-bitki-spreyi-250-ml
+kisaca: Ev yapımı bitki spreyi için kanıt zayıftır: Kaliforniya Üniversitesi'nin IPM programı, ev yapımı pestisitlerin çoğunun denemelerle test edilmediğini ve etkisinin kanıtlanmadığını söylüyor. Sabun spreyi çok seyreltik ve sınırlı işe yarayabilir ama bulaşık deterjanı yaprağı yakar. Önce suyla yıkamak ve elle temizlemek gibi zararsız yolları deneyin.
+@govde
+İnternette dolaşan her tarif aynı iddiayı taşır: Sarımsak, bulaşık sabunu ve sirkeyi karıştır, yapraklara sık, bütün zararlılar gitsin. Ev yapımı bitki spreyi cazip görünür: Ucuz, "doğal", ve elinizin altında. Ama üniversite yayım servisleri bu konuda temkinli. Aşağıda ev yapımı bitki spreyi tariflerinden sarımsak, sabun ve sirkenin kaynaklara göre ne kadar işe yaradığını, bitkiye zarar riskini ve önce denenecek daha güvenli adımları anlatıyoruz. Bu yazıda ilaç adı ve doz yazmıyoruz; kimyasal mücadele için ziraat mühendisine ve il ya da ilçe tarım müdürlüğüne danışın.
+
+## Ev yapımı bitki spreyi: kaynaklar ne diyor?
+
+Kaliforniya Üniversitesi'nin IPM programının ev yapımı pestisitler hakkındaki açıklaması net: Hakem denetiminden geçmiş UC ANR yayınlarında yer almıyorsa, ev yapımı pestisitler genellikle tekrarlanan deneylerle araştırılmamıştır ve bu yüzden zararlıları etkili biçimde kontrol ettikleri bilimsel olarak kanıtlanmış değildir ([UC IPM, ev yapımı pestisitler hakkında açıklama](https://ucanr.edu/blog/coordinator-news/article/uc-ipm-statement-homemade-pesticides)). Colorado State Üniversitesi de ev yapımı pestisitlerin tutarlı biçimde hazırlanmadığını ve test edilmediğini, bu yüzden zararlıyı kontrol edip etmediklerini gösteren kanıt olmadığını belirtiyor ([Colorado State Extension, böcek kontrolü: insektisit sabun](https://extension.colostate.edu/resource/insect-control-insecticidal-soap/)).
+
+Öte yandan Oregon State Üniversitesi'nin yayım servisi, ev yapımı çözümlerin birçok bahçe zararlısı ve hastalığına karşı bir miktar etki gösterdiğini söyleyerek sarımsaklı yağ spreyi gibi tarifleri listeliyor ([Oregon State Extension, zararlı ve hastalıklar için ev yapımı çözümler](https://extension.oregonstate.edu/gardening/techniques/homemade-remedies-pests-diseases)). Yani kaynaklar arasında bir görüş ayrılığı var: Bazıları deneyime dayalı tarifler sunuyor, bazıları ise kanıt eksikliğine dikkat çekiyor. Sizin için pratik sonuç: Ev tarifleri garantili bir çözüm değildir ve bitkiye zarar verebilir.
+
+## Sarımsak spreyi
+
+Sarımsak spreyi için kaynaklar farklı bilgi veriyor. Oregon State yayını, sarımsak yağı spreyini yaprak biti, beyaz sinek, kabak böceği ve yaprak piresi gibi zararlılar için örnek olarak veriyor. UC IPM ise bu tür tariflerin kanıtlanmış olmadığını belirtiyor. Sarımsak spreyi kokusuyla bazı böcekleri uzak tutabilir ama sonucu kesin değildir; ayrıca yağlı karışım yapraktaki gözenekleri tıkayıp yanık oluşturabilir, bekletilen sarımsaklı yağ küflenebilir. Üniversite destekli bir soru-cevap sitesinde de sarımsaklı yağlı karışımın küflendiğini bildiren bir okur sorusu yer alıyor; bu yüzden karışımı bekletmeyin, her seferinde taze hazırlayın ve kullanmadan önce küçük bir yaprakta deneyin.
+
+## Sabunlu su: ne kadar güvenli?
+
+Sabun spreyi, böceğin vücut yüzeyini bozarak etki gösteren ve en çok yumuşak vücutlu böceklere (yaprak biti, unlu bit, kırmızı örümcek) karşı denenen yöntemdir. Kaliforniya Üniversitesi'nin sabun spreyleri hakkındaki yayını, sabun-deterjan spreylerinin her zaman su ile seyreltilerek uygulandığını ve tipik olarak yüzde 2-3 gibi bir seyreltmede kullanıldığını belirtiyor; aynı yayında kuru bulaşık deterjanlarının ve çamaşır deterjanlarının bitkiler için fazla sert olduğu da vurgulanıyor ([UC Cooperative Extension, böcek öldürücü sabun spreyleri](https://cecentralsierra.ucanr.edu/files/212467.pdf)). Colorado State de bulaşık sabunlarının bitkiye zarar verebilecek, toprağı bozabilecek ve sulara karışabilecek güçlü deterjanlar içerdiğini söylüyor.
+
+Yani "bulaşık sıvısı ile su" tarifi sorunlu olabilir: Yaprakta yanık, doku bozulması ve toprağa zarar riski taşır. Bitkilerin bir kısmı (örneğin bazı salon bitkileri, genç fide ve kalın yapraklı bitkiler) sabuna özellikle duyarlıdır; bu yüzden küçük bir yaprakta deneyip bir gün beklemek önerilir. Güneşli ve sıcak havada sabun spreyi yakar; sabah erken ya da akşam serinliğinde uygulayın.
+
+## Sirke spreyi
+
+Sirkenin yabani ot öldürmek ya da yaprak spreyi olarak kullanımı yaygın bir tarif ama kaynaklarda etkisine dair veri sınırlı. UC IPM, sirkeyi ev yapımı pestisit malzemeleri arasında sayıyor ve aynı kanıt eksikliği uyarısı kapsamında değerlendiriyor. Sirke asidiktir; yaprağa sıkıldığında dokuyu yakabilir ve topraktaki canlı yaşamı olumsuz etkileyebilir. Sirkenin bahçedeki kullanımı için [sirke ile yabani ot öldürmek doğru mu](/sirke-ile-yabani-ot-oldurmek) yazısına bakabilirsiniz.
+
+## Zararlı gördüğünüzde önce ne yapmalı?
+
+Ev tarifine koşmadan önce basit ve zararsız adımlar çoğu zaman yeterlidir:
+
+1. **Teşhis edin:** Yaprağın altını büyüteçle inceleyin; gördüğünüz bit mi, böcek mi, yoksa yaprak lekesi mi? Salon bitkilerinde zararlıların tanımı için [salon bitkilerinde zararlılar](/salon-bitkilerinde-zararlilar) yazısına bakın.
+2. **Suyla yıkayın:** Yaprak biti ve kırmızı örümcek için güçlü ama sert olmayan su akışı çoğu zaman yeterlidir; saksı bitkisini duşta ya da hortumla yıkayın.
+3. **Elle temizleyin:** Unlu bit ve kabuklu biti nemli bir bez ya da pamuk çubukla silin ([unlu bit](/unlu-bit) ve [kabuklu bit](/kabuklu-bit) yazılarında anlatıldı).
+4. **Etkilenen kısmı budayın:** Çok yoğun bitli sürgünü kesip uzaklaştırın.
+5. **Faydalı böcekleri koruyun:** Uğur böceği gibi yırtıcılar yaprak bitini kendiliğinden azaltır ([uğur böceği faydaları](/ugur-bocegi-faydalari)).
+6. **Karantina:** Hastalıklı saksıyı diğerlerinden ayırın.
+
+Daha ayrıntılı doğal mücadele adımları için [yaprak biti: belirtileri, neden çoğaldığı ve doğal mücadele yolları](/yaprak-biti) yazısı ve bitki yaprağı temizliği için [bitki yaprakları nasıl temizlenir](/bitki-yapraklari-nasil-temizlenir) yazısı yardımcı olur. Neem yağı gibi bitkisel ürünlerin kullanımı için [neem yağı](/neem-yagi) yazısına bakın.
+
+## Hazır ürün mü, ev yapımı mı?
+
+Ev yapımı karışımda içerik ve oran tutarsızdır; her seferinde farklı bir sonuç alırsınız. Etiketli ve hazır ürünlerin içeriği ve kullanım şekli belirlidir; bu yüzden zarar riski daha öngörülebilirdir. Hazır ürünlerde etiketteki uyarılara ve kullanım talimatlarına uyun; ilaç ve ilaç benzeri ürünlerde bitkiye ve zararlıya uygun ürünü seçmek için ziraat mühendisine danışın.
+
+[ürün:florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi]
+
+Ürün açıklamasına göre Florist Sinek ve Unlu Bit Önleyici Bitki Spreyi, bitkisel yağ bazlı bir formüle sahiptir ve yaprak yüzeyinde koruyucu bir tabaka oluşturarak unlu bit, yaprak biti, yeşil bit ve tuta gibi zararlıları hedefler. Kullanımda etiketteki talimata uyun.
+
+## Ev yapımı bitki spreyi yerine önleyici bakım
+
+Zararlıyı püskürtmeden önlemek çoğu zaman daha ucuz ve güvenlidir. Bitkiyi uygun ışıkta tutmak, aşırı sulamadan kaçınmak ve yaprakları arada silmek zararlı baskısını azaltır; zayıf ve stresli bitki zararlıya daha açıktır. Yeni aldığınız bitkiyi iki hafta ayrı tutup izlemek ve kullanılan toprağı temiz seçmek, sivrisinek ve unlu bit gibi sorunları baştan önler. Toprak sineği için torfun fazla nemli kalmasını önlemek gerekir. Bahçede bitki çeşitliliği ve yararlı böcekleri çeken çiçekler, yaprak bitini doğal yoldan azaltır. Bu önlemler kaynaklarda da zararlı yönetiminin temeli olarak öneriliyor; kimyasal ya da ev yapımı sprey, son basamaktır.
+
+## Güvenlik: evcil hayvan, çocuk ve gıda bitkileri
+
+"Doğal" kelimesi "zararsız" demek değildir. Sarımsak ve soğan kedi ve köpek için zehirlidir; sarımsaklı spreyin yapraktan yalanması hayvanda sorun yaratabilir. Sabunlu su ve sirke gözü ve cildi tahriş edebilir. Yenen bitkilere (sebze, aromatik bitki) uygulama yapıyorsanız hasattan önce yıkamak ve bekleme süresi bırakmak gerekir. Evcil hayvanlı evde bitki ve gübre güvenliği için [evcil hayvanlı evde gübre ve saksı güvenliği](/evcil-hayvanli-evde-gubre-guvenligi) yazısına bakın. Spreyi kapalı ve işaretli bir şişede saklayın; yiyecek şişesi kullanmayın ve çocukların ulaşamayacağı bir yerde tutun.
+
+## Sık yapılan hatalar
+
+- **Bulaşık deterjanı kullanmak:** Yaprak yanar. Düzeltme: Seyreltik, yumuşak sabun kullanın ya da hazır ürüne yönelin.
+- **Güneşli ve sıcakta püskürtmek:** Yanık riski. Düzeltme: Sabah erken ya da akşam serinliğinde uygulayın.
+- **Önce deneme yapmamak:** Hassas bitki zarar görür. Düzeltme: Küçük bir yaprakta deneyip bir gün bekleyin.
+- **Teşhis etmeden sıkmak:** Hastalık ya da zararlı farklıdır. Düzeltme: Önce yaprağın altına bakın.
+- **Karışımı bekletmek:** Küflenir ve etkisi değişir. Düzeltme: Her seferinde taze hazırlayın.
+@sss
+S: Ev yapımı bitki spreyi gerçekten işe yarar mı?
+C: Kaynaklar arasında görüş ayrılığı var. UC IPM ev yapımı pestisitlerin çoğunun denemelerle test edilmediğini ve etkisinin kanıtlanmadığını söylüyor; bazı üniversite yayınları tarif örnekleri veriyor. Kesin sonuç beklemeyin ve önce suyla yıkamak gibi zararsız yolları deneyin.
+
+S: Bulaşık deterjanı bitki spreyi olarak kullanılır mı?
+C: Önerilmez. Kaliforniya ve Colorado Üniversitelerinin yayınları bulaşık ve çamaşır deterjanlarının bitkiye zarar verebilecek kadar sert olduğunu belirtiyor. Sabun spreyi gerekiyorsa seyreltik, yumuşak sabun kullanın ve önce küçük bir yaprakta deneyin.
+
+S: Sarımsak spreyi yaprak bitine karşı işe yarar mı?
+C: Bazı kaynaklar sarımsak spreyini tarif olarak listeler ama etkisi kanıtlanmış değildir. Yağlı karışım yaprakta yanık yapabilir, bekletilen karışım küflenebilir. Önce suyla yıkamak ve elle temizlemek gibi yöntemleri deneyin.
+
+S: Bitki spreyi evcil hayvana zararlı olur mu?
+C: Olabilir. Sarımsak ve soğan kedi ve köpek için zehirlidir; sabun ve sirke de ağız ve gözü tahriş eder. Spreyi hayvanın ulaşamayacağı yerde kullanın ve bitki kuruyana kadar hayvanı uzak tutun.
+
+### SORU
+yayin: 2027-04-18 10:20
+kategori: sebze-meyve
+baslik: Arı sokunca yüzüm şişti ama nefes alabiliyorum, ne yapayım?
+metin: Bahçede arı sokması sonrası yüzüm ve gözüm şişti. Nefesim normal. Beklemeli miyim?
+@cevap Halil İbrahim Çelik | 2
+Yüzde şişme alerjik reaksiyon belirtisi olabilir ve nefes henüz normal olsa bile hızla ilerleyebilir. Beklemeyin, 112'yi arayın ya da en yakın acile gidin; yalnız olmayın. Doktorunuz daha önce acil ilaç yazdıysa onu kendi talimatına göre kullanın. Bu yazıda tıbbi tavsiye vermiyoruz, ama yüz şişmesi acil değerlendirme gerektirir.
+
+### SORU
+yayin: 2027-04-18 13:00
+kategori: sebze-meyve
+baslik: Kekik tarlası için ilk yıl kaç dekarla başlamalıyım?
+metin: Boş bir arazim var, kekik ekmek istiyorum. İlk yıl küçük mü büyük mü başlamalıyım?
+@cevap Mehmet Fatih Çelik | 2
+Küçük bir deneme parseliyle (birkaç yüz metrekare) başlayın; iklimi, toprağı, verimi ve en önemlisi alıcıyı denemiş olursunuz. Ürünü satabileceğiniz en az iki alıcıyla ekimden önce görüşün. İlk yıl sonunda maliyet ve verim kaydınıza bakıp büyütme kararı verin. Bölgenizdeki üreticilerin deneyimi de çok değerlidir.
+
+### SORU
+yayin: 2027-04-18 17:30
+kategori: bitki-bakimi
+baslik: Saksı bitkime sabunlu su sıktım, yapraklar yandı, ne yapmalıyım?
+metin: Yaprak bitine karşı bulaşık sabunlu su püskürttüm, yapraklar kahverengileşti. Kurtarabilir miyim?
+@cevap Ahmet Sacit Çelik | 2
+Bitkiyi serin ve gölgeli yere alıp yaprakları temiz suyla yıkayın, sabun kalıntısını giderin. Yanmış yaprakları hemen koparmayın; sağlıklı yeni sürgün çıkana kadar bekleyin, sonra yanık kısımları kesin. Bir süre sulamayı dengeli yapıp gübre vermeyin. Bulaşık deterjanı bitkiye sert gelir; sonraki sefer önce küçük bir yaprakta deneyin ya da suyla yıkamayı tercih edin.

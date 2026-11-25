@@ -1,0 +1,1071 @@
+### YAZI
+slug: domates-yaprak-kivrilmasi
+baslik: Domates Yaprak Kıvrılması: Zararsız Kıvrılma ile Tehlikeyi Ayırmak
+yayin: 2026-12-24 07:15
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: domates yaprak kıvrılması
+seo_baslik: Domates Yaprak Kıvrılması: Nedenleri ve Çözümleri
+seo_aciklama: Domates yaprak kıvrılması neden olur? Sıcak ve susuzluğa bağlı zararsız kıvrılma; virüs, zararlı ve ilaç kalıntısı belirtileri, ayırt etme ve önlemler.
+ozet: Domates yapraklarının yukarı doğru kıvrılması bazen bitkinin sıcaktan korunma yöntemidir, bazen de ciddi bir virüsün işareti. Kıvrılmanın şekline, yerine ve diğer belirtilere bakarak nedeni ayırt etmeyi anlatıyoruz.
+etiketler: domates, yaprak kıvrılması, domates hastalıkları, beyaz sinek, sebze bahçesi
+gorsel: p12-domates-kivrilma
+gorsel_alt: Bahçede gelişen genç domates bitkisinin yaprakları ve gövdesi
+urunler: solucan-gubreli-sebze-topragi, hasturk-sivi-solucan-gubresi, arzuman-koy-tipi-domates-tohumu
+kisaca: Domates yaprak kıvrılması çoğu zaman sıcak, kuraklık, ani su dalgalanması ya da sert budamaya bağlı zararsız bir tepkidir; alt ve orta yapraklar yukarı kıvrılır ama yeşil ve sert kalır. Genç yapraklarda sararma, bodurluk ve çiçek dökümüyle birlikte görülen kıvrılma ise virüs, zararlı ya da yabancı ot ilacı kalıntısına işaret edebilir.
+@govde
+Domates yaprak kıvrılması, domates yetiştirenlerin yaz ortasında sıkça karşılaştığı ve çoğu zaman paniğe yol açan bir durumdur. Bir sabah bakarsınız, yapraklar kenarlarından yukarı doğru kıvrılmış, bazıları neredeyse boru gibi sarılmıştır. Bu görüntü her zaman bir hastalık işareti değildir. Domates, zorlu koşullarda kendini korumak için yapraklarını kıvırabilir ve koşullar düzelince yoluna devam eder. Ancak bazı durumlarda kıvrılma, ciddi bir virüsün ya da zararlının ilk belirtisidir. Bu yazıda farkı anlamanın yollarını anlatıyoruz.
+
+## Fizyolojik domates yaprak kıvrılması
+
+Domates yaprak kıvrılmasının en yaygın nedeni, bitkinin çevresel strese verdiği doğal tepkidir. Bu duruma fizyolojik yaprak kıvrılması denir. Yapraklar kıvrılarak güneşe bakan yüzeylerini küçültür ve su kaybını azaltır.
+
+Fizyolojik kıvrılmanın özellikleri:
+
+- **Alt ve orta yapraklar etkilenir.** Genellikle yaşlı yapraklar önce kıvrılır; tepe sürgünleri normal görünür.
+- **Yapraklar yukarı doğru, uzunlamasına kıvrılır.** Bazen yaprak kenarları neredeyse birbirine değer.
+- **Yapraklar yeşil, kalın ve sert kalır.** Sararma, leke ya da deformasyon görülmez.
+- **Bitki büyümeye, çiçek açmaya ve meyve bağlamaya devam eder.**
+
+Fizyolojik kıvrılmanın başlıca tetikleyicileri şunlardır:
+
+- **Sıcak dalgası:** Yüksek sıcaklıklar, özellikle sıcak ve rüzgârlı günler.
+- **Su dalgalanması:** Uzun bir kuraklıktan sonra bol sulama ya da sağanak yağış.
+- **Sert budama:** Çok sayıda koltuk ya da yaprağın bir anda alınması.
+- **Kök zararı:** Derin çapa ya da dikim sırasında köklerin zarar görmesi.
+- **Fazla azot:** Bol azot alan bitkilerde yapraklar kalınlaşıp kıvrılabilir.
+
+Bu durumda yapılacak şey, stresi azaltmaktır: düzenli sulama, malç, en sıcak saatlerde gölgeleme ve ölçülü budama. Fizyolojik kıvrılma bitkiye ve verime genellikle önemli bir zarar vermez.
+
+## Virüslerin neden olduğu kıvrılma
+
+Bazı virüs hastalıkları da domateste yaprak kıvrılmasına yol açar. Bunların en bilineni, beyaz sinekle taşınan domates sarı yaprak kıvırcıklığı virüsüdür. Virüs kaynaklı kıvrılma fizyolojik kıvrılmadan oldukça farklı görünür:
+
+- **Genç, tepe yaprakları etkilenir.** Yeni çıkan yapraklar küçük, kıvrık ve buruşuk olur.
+- **Sararma eşlik eder.** Yaprak kenarlarında ve damar aralarında sararma görülür.
+- **Bitki bodurlaşır.** Boğum araları kısalır, bitki çalımsı ve dik bir görünüm alır.
+- **Çiçekler dökülür, meyve bağlamaz.** Verim ciddi şekilde düşer.
+
+Virüs hastalıklarının tedavisi yoktur. Virüslü bitkileri erkenden söküp bahçeden uzaklaştırmak, hastalığın diğer bitkilere yayılmasını sınırlar. Taşıyıcı böceklerin, özellikle beyaz sineğin kontrolü ve dayanıklı çeşitlerin seçimi en önemli önlemlerdir. Virüs hastalıkları hakkında genel bilgi için [bitkilerde virüs hastalıkları](/bitkilerde-virus-hastaliklari) yazımıza göz atabilirsiniz.
+
+## Zararlıların yol açtığı kıvrılma
+
+Bazı küçük zararlılar da yaprakların kıvrılmasına ve şekil bozukluğuna neden olur:
+
+- **Yaprak bitleri:** Genç yaprakların alt yüzünde koloniler oluşturur, yapraklar aşağı doğru kıvrılır ve yapışkan bir salgı görülür.
+- **Beyaz sinek:** Yaprak altlarında küçük beyaz sinekler uçuşur; doğrudan zarar verdiği gibi virüs de taşır.
+- **Akarlar:** Bazı akar türleri genç yaprakların kenarlarının aşağı kıvrılmasına, yaprakların bronzlaşmasına ve sertleşmesine yol açar. Gözle zor görülürler; büyüteçle bakmak gerekir.
+- **Thrips:** Yapraklarda gümüşi lekeler ve şekil bozukluğu yapar. Ayrıntılar için [thrips zararlısı](/trips-zararlisi) yazımıza bakabilirsiniz.
+
+Yaprak altlarını büyüteçle düzenli kontrol etmek, zararlıları erken fark etmenin en kolay yoludur.
+
+## Yabancı ot ilacı kalıntısı
+
+Az bilinen ama oldukça yaygın bir neden de yabancı ot ilaçlarıdır. Domates bazı yabancı ot ilaçlarına son derece duyarlıdır. Komşu tarlada ya da çim alanda yapılan bir uygulamanın rüzgârla sürüklenmesi, ilaç kullanılan bir pompanın iyi temizlenmeden domateste kullanılması ya da ilaçlı alanlardan gelen saman ve gübre, domateste belirgin hasara yol açabilir.
+
+Bu durumda yeni yapraklar dar, şeritli, kıvrık ve çarpık bir görünüm alır; gövde ve yaprak sapları bükülebilir. Belirtiler genellikle bahçenin bir tarafında ya da belirli bir sırada yoğunlaşır. Domatesin kullandığınız ilaçlama pompasını yabancı ot ilacı için kullanmamak, en basit ve etkili önlemdir.
+
+## Nedeni ayırt etmek için kontrol listesi
+
+Domatesinizde yaprak kıvrılması gördüğünüzde şu soruları sorun:
+
+1. **Hangi yapraklar kıvrık?** Alt ve orta yapraklarsa fizyolojik, genç tepe yapraklarıysa virüs, zararlı ya da ilaç kalıntısı olabilir.
+2. **Yapraklar sararmış mı?** Yeşil ve sert kalan yapraklar genellikle fizyolojik kıvrılmayı gösterir.
+3. **Bitki büyümeye devam ediyor mu?** Bodurlaşma ve çiçek dökümü ciddi bir soruna işaret eder.
+4. **Yaprak altında böcek var mı?** Büyüteçle yaprak altlarına bakın.
+5. **Son günlerde neler oldu?** Sıcak dalgası, ani sulama, sert budama ya da yakında bir ilaç uygulaması.
+
+Domates hastalıklarının genel bir listesi için [domates hastalıkları](/domates-hastaliklari) yazımız size yol gösterecektir. Benzer görünen diğer sorunlar için [bitkilerde güneş yanığı](/bitkilerde-gunes-yanigi) ve [çiçek burnu çürüklüğü](/cicek-burnu-curuklugu-domates) yazılarımıza da bakabilirsiniz.
+
+## Önlemek için yapılabilecekler
+
+- **Düzenli sulama:** Toprağı ne kurutun ne de su içinde bırakın. Damla sulama ve malç, nem dalgalanmalarını azaltır.
+- **Dengeli besleme:** Fazla azottan kaçının; organik maddece zengin bir toprak ve ölçülü besleme yeterlidir.
+- **Ölçülü budama:** Koltukları küçükken ve azar azar alın; aynı anda çok sayıda yaprak koparmayın.
+- **Gölgeleme:** Çok sıcak bölgelerde öğle saatlerinde hafif bir gölge filesi stresi azaltır.
+- **Temiz fide ve dayanıklı çeşit:** Virüs sorunlarının yaygın olduğu bölgelerde dayanıklı çeşitleri tercih edin ve sağlıklı fideler kullanın.
+- **Zararlı takibi:** Yaprak altlarını düzenli kontrol edin. İlaçlı mücadele gerekiyorsa ürün ve uygulama için müşteri hizmetlerimize danışın.
+
+[ürün:solucan-gubreli-sebze-topragi,hasturk-sivi-solucan-gubresi]
+
+## Saksıda domates yetiştirenler için
+
+Saksıdaki domates, bahçedekine göre sıcaklık ve su dalgalanmalarından daha çok etkilenir. Saksı toprağı hızla ısınır ve kurur; bu da fizyolojik kıvrılmayı daha sık görmenize yol açar. Büyük saksılar seçmek, saksıyı öğle güneşinden biraz korumak ve sıcak günlerde toprağı sabah ve gerekirse akşam kontrol etmek kıvrılmayı azaltır.
+
+Kendi domatesinizi tohumdan yetiştirmek istiyorsanız, bölgenize uyum sağlamış yerel çeşitler iyi bir başlangıçtır.
+
+[ürün:arzuman-koy-tipi-domates-tohumu]
+
+Kısacası domates yaprak kıvrılması gördüğünüzde önce bitkinin genel durumuna bakın. Yeşil, sert ve yalnız alt yapraklarda görülen kıvrılma çoğu zaman sıcak ve su stresinin geçici bir sonucudur. Genç yapraklarda sararma, bodurluk ve çiçek dökümüyle birlikte görülen kıvrılma ise daha yakından incelenmesi gereken bir sorundur.
+@sss
+S: Domates yapraklarının kıvrılması tehlikeli mi?
+C: Her zaman değil. Alt ve orta yaprakların yeşil kalarak yukarı kıvrılması genellikle sıcak ve su stresine bağlı zararsız bir tepkidir. Genç yapraklarda sararma ve bodurlukla görülen kıvrılma ise virüs ya da zararlı belirtisi olabilir.
+
+S: Kıvrılan domates yaprakları düzelir mi?
+C: Fizyolojik kıvrılmada koşullar düzeldiğinde yeni yapraklar normal gelişir; kıvrılan eski yaprakların bir kısmı da açılabilir. Virüs kaynaklı kıvrılma ise düzelmez.
+
+S: Virüslü domates bitkisi ne yapılmalı?
+C: Virüs hastalıklarının tedavisi yoktur. Virüslü bitkileri erkenden söküp bahçeden uzaklaştırmak ve taşıyıcı böcekleri kontrol etmek diğer bitkileri korur.
+
+S: Yabancı ot ilacı domatese zarar verir mi?
+C: Evet. Domates bazı yabancı ot ilaçlarına çok duyarlıdır. Rüzgârla sürüklenen ilaç ya da iyi temizlenmemiş pompa genç yapraklarda kıvrılma ve şekil bozukluğuna yol açabilir.
+
+### YAZI
+slug: kavun-gubreleme
+baslik: Kavun Gübreleme: Kokulu ve Şekerli Kavun İçin Besleme
+yayin: 2026-12-24 08:35
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: kavun gübreleme
+seo_baslik: Kavun Gübreleme: Dönemlere Göre Besin İhtiyacı
+seo_aciklama: Kavun gübreleme nasıl yapılır? Ekim öncesi organik madde, ölçülü azot, meyve döneminde potasyum ve magnezyum, olgunlukta sulama ve tatlılık için öneriler.
+ozet: Kavunun kokusu ve şekeri, büyük ölçüde meyve dönemindeki beslenme ve sulamaya bağlıdır. Kavun gübrelemenin dönem dönem nasıl yapılacağını ve tatlı kavun için dikkat edilecek noktaları anlatıyoruz.
+etiketler: kavun, kavun yetiştirme, potasyum, magnezyum, bostan
+gorsel: p12-kavun2
+gorsel_alt: Tarlada geniş yapraklar arasında büyüyen koyu yeşil kabuklu kışlık kavun
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi, hasturk-humix-sivi-humik-asit
+kisaca: Kavun gübreleme, ekimden önce toprağa bol organik madde ve fosfor verilmesiyle başlar. Sarılgan gövdeler uzarken ölçülü azot, meyve tutumundan sonra potasyum ve magnezyum öne çıkar. Meyve döneminde fazla azot ve olgunluğa yakın bol su, kavunun şekerini ve kokusunu azaltır. Düzenli ama ölçülü sulama ve dengeli besleme tatlı kavunun anahtarıdır.
+@govde
+Kavun gübreleme, bostan yetiştiriciliğinin en ince ayar gerektiren konularından biridir. Kavun, karpuz gibi kabakgiller ailesindendir ve benzer bir besleme mantığına sahiptir; ama tatlılık ve aroma konusunda karpuzdan da hassastır. İyi beslenmiş bir kavun bitkisi güçlü bir yaprak örtüsü oluşturur; bu yapraklar meyveye şekeri taşır. Yanlış zamanda verilen gübre ise bol yapraklı ama sulu ve kokusuz kavunlara yol açabilir. Bu yazıda kavun gübrelemenin dönemlere göre nasıl yapılacağını anlatıyoruz.
+
+## Kavunun şekeri yapraklardan gelir
+
+Kavunun tatlılığını belirleyen şeker, yapraklarda fotosentezle üretilir ve meyveye taşınır. Bu nedenle sağlıklı ve geniş bir yaprak örtüsü, tatlı kavunun ilk şartıdır. Yaprakların sağlığı için yeterli azot ve magnezyum gerekir. Şekerin meyveye taşınması ve depolanması için ise potasyum çok önemlidir. Meyve olgunlaşırken yaprakların hastalık ya da besin eksikliği nedeniyle zarar görmesi, kavunun tatsız kalmasının en yaygın nedenlerinden biridir.
+
+## Kavunun besin ihtiyacı
+
+- **Azot:** Gövde ve yaprak gelişimi için gereklidir. Erken dönemde yeterli olmalı, meyve döneminde ise sınırlandırılmalıdır.
+- **Fosfor:** Kök gelişimi, çiçeklenme ve meyve tutumu için önemlidir. Ekim öncesinde toprağa verilmelidir.
+- **Potasyum:** Şeker birikimi, meyve iriliği, kabuk kalitesi ve aroma için en kritik besindir. Belirtiler için [potasyum eksikliği](/potasyum-eksikligi) yazımıza bakabilirsiniz.
+- **Magnezyum:** Yaprakların yeşil kalması için gereklidir. Kavunda magnezyum eksikliği sık görülür; yaşlı yapraklarda damar arası sararma ile kendini gösterir. Meyve döneminde bu eksiklik yaprak kaybına ve tatlılığın düşmesine yol açar.
+- **Kalsiyum ve bor:** Meyve dokusunun sağlamlığı ve meyve tutumu için gereklidir.
+
+Bu besinlerin etiketlerde nasıl gösterildiğini merak ediyorsanız [NPK nedir](/npk-nedir-gubre-etiketi) yazımız size yol gösterecektir.
+
+## Toprak hazırlığı
+
+Kavun; sıcak, iyi süzülen, havadar ve organik maddece zengin toprakları sever. Ağır ve su tutan topraklarda kökler zorlanır ve kök hastalıkları artar.
+
+1. **Organik madde:** Ekimden birkaç hafta önce toprağa iyi yanmış hayvan gübresi, kompost ya da solucan gübresi karıştırın.
+2. **Taban gübresi:** Toprak analizi eksiklik gösteriyorsa, fosfor ve potasyumu ekim öncesinde verin.
+3. **Toprak düzenleyiciler:** Humik asit, toprağın besin tutma kapasitesini artırarak özellikle kumlu topraklarda verilen besinlerin daha verimli kullanılmasına yardım eder.
+
+[ürün:hasturk-kati-solucan-gubresi,hasturk-humix-sivi-humik-asit]
+
+## Kavun gübreleme takvimi
+
+### Dikim ve ilk haftalar
+
+Toprakta bulunan organik madde ve taban gübresi, genç bitkiler için yeterlidir. Bu dönemde yoğun gübre vermeyin; genç kökler kolayca yanar.
+
+### Sarılgan gövdelerin uzaması
+
+Bitkiler gövde salmaya başladığında besin ihtiyacı artar. Bu dönemde ölçülü bir azot desteği, güçlü bir yaprak örtüsü oluşmasını sağlar. Bahçede bitki diplerine solucan gübresi serpip hafifçe karıştırabilir ya da sulama suyuna sıvı organik besin ekleyebilirsiniz.
+
+### Çiçeklenme ve meyve tutumu
+
+Bu dönemde azotu artırmayın. Fazla azot, dişi çiçeklerin dökülmesine ve meyve tutumunun azalmasına yol açabilir. Fosfor, potasyum ve bor bu dönemde önemlidir. Arıların çalışmasını engellememek için çiçeklenme döneminde bitkilerin üzerine ilaç uygulanmamalıdır.
+
+### Meyve büyüme dönemi
+
+Meyveler büyümeye başladığında potasyum ve magnezyum ihtiyacı en üst düzeye çıkar. Bu dönemde potasyumu gözeten bir besleme, kavunun iri, tatlı ve kokulu olmasını sağlar. Yaşlı yapraklarda damar arası sararma görürseniz, magnezyum eksikliğini düşünün.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+### Olgunluğa yakın
+
+Hasattan önceki son iki üç haftada gübrelemeyi kesin ve sulamayı azaltın. Bu dönemde bol su ve azot, meyvenin sulu, tatsız ve kokusuz olmasına yol açar; kabuk çatlamaları da artar.
+
+## Kavun gübreleme ile sulama birlikte
+
+Kavun gübreleme yaparken sulamayı da birlikte planlamak gerekir. Gübre ancak nemli toprakta köklere ulaşır; kuru toprağa verilen gübre kökleri yakabilir. Kavun, gelişme ve meyve büyüme dönemlerinde düzenli su ister. Bu dönemde toprağın kuruması meyve büyümesini durdurur; ardından gelen bol sulama ise meyve çatlamasına yol açar. Olgunluğa yaklaşırken sulamayı azaltmak, meyvede şeker birikimini destekler.
+
+Damla sulama, kavun için en uygun sulama yöntemidir. Suyu ve sıvı besini köklere düzenli şekilde ulaştırır ve yaprakları ıslatmadığı için külleme gibi yaprak hastalıklarını azaltır. Kurulum için [damla sulama kurulumu](/damla-sulama-kurulumu) yazımıza göz atabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Meyve döneminde azot vermek:** Bol yaprak, az ve tatsız meyve.
+- **Magnezyum eksikliğini gözden kaçırmak:** Yapraklar erken sararır, meyveye yeterli şeker taşınamaz.
+- **Olgunluğa yakın bol sulama:** Tatlılık ve koku azalır, kabuk çatlar.
+- **Yaprak hastalıklarını ihmal etmek:** Yaprak kaybı, kavunun tatsız kalmasına yol açar.
+- **Aynı yere her yıl kabakgil ekmek:** Toprak yorulur, kök hastalıkları birikir.
+
+## Kışlık kavun ve yazlık kavun
+
+Yazlık kavunlar kısa sürede olgunlaşır ve hasattan sonra uzun süre saklanamaz. Kışlık kavunlar ise daha uzun bir yetişme süresine sahiptir, kabukları kalındır ve serin bir yerde haftalarca saklanabilir. Kışlık kavunlarda yetişme süresi uzun olduğu için yaprakların sezon sonuna kadar sağlıklı kalması daha da önemlidir; meyve döneminde magnezyum ve potasyum beslemesini aksatmamak, saklama boyunca lezzetin korunmasına da katkı sağlar.
+
+## Karpuz ve kavun arasındaki farklar
+
+Karpuz ve kavunun besin ihtiyaçları birbirine çok benzer. Ancak kavun, magnezyum eksikliğine ve yaprak hastalıklarına daha duyarlıdır; aroma ve şeker birikimi de olgunluk dönemindeki sulamaya daha hassastır. Karpuz için ayrıntılı bilgi [karpuz gübreleme](/karpuz-gubreleme) yazımızda, kabak için ise [kabak gübreleme](/kabak-gubreleme) yazımızda bulabilirsiniz.
+
+## Kavunun olgunluğunu anlamak
+
+İyi beslenmiş bir kavunun tadını çıkarmak için doğru zamanda hasat etmek gerekir. Ağ desenli kavunlarda meyve sapının bağlandığı yerde çevresel bir çatlak oluşur ve meyve hafif bir dokunuşla saptan ayrılır. Kabuk rengi yeşilden sarımsı tonlara döner ve meyveden belirgin, tatlı bir koku gelir. Kışlık kavunlarda ise olgunluk belirtileri daha zayıftır; çeşide göre belirlenen gün sayısı ve kabuk rengindeki değişim dikkate alınır.
+
+Kavun gübreleme planını sezon başında yapmak, meyve dönemindeki potasyum ve magnezyum ihtiyacını unutmamak ve olgunluğa yakın sulamayı azaltmak, yaz sonunda kokusu bahçeyi saran tatlı kavunlar toplamanın en güvenilir yoludur.
+@sss
+S: Kavun için en önemli besin hangisi?
+C: Potasyum, meyvede şeker birikimi ve aroma için en önemli besinlerden biridir. Magnezyum da yaprakların sağlığı ve dolayısıyla tatlılık için kritik önemdedir.
+
+S: Kavun neden tatsız olur?
+C: Meyve döneminde fazla azot, potasyum ya da magnezyum eksikliği, yaprak hastalıkları, olgunluğa yakın bol sulama ve erken hasat kavunun tatsız olmasının en sık nedenleridir.
+
+S: Kavun yaprakları neden damar aralarından sararır?
+C: Yaşlı yapraklarda damar arası sararma çoğunlukla magnezyum eksikliğine işaret eder. Meyve döneminde bu eksiklik yaprak kaybına ve tatlılığın düşmesine yol açabilir.
+
+S: Kavunda hasattan önce sulama azaltılmalı mı?
+C: Evet. Hasattan önceki son iki üç haftada sulamayı azaltmak şeker birikimini ve kokuyu destekler, kabuk çatlamasını önler.
+
+### YAZI
+slug: fide-sulama
+baslik: Fide Sulama: Az mı, Çok mu, Alttan mı, Üstten mi?
+yayin: 2026-12-24 09:50
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: fide sulama
+seo_baslik: Fide Sulama: Doğru Zaman, Doğru Miktar, Doğru Yöntem
+seo_aciklama: Fide sulama nasıl yapılır? Viyolde toprak nemini anlamak, alttan ve üstten sulama, püskürtme, sulama sıklığı, fide çökertmesini önleme ve sık yapılan hatalar.
+ozet: Fidelerin en çok sulama hatalarından zarar gördüğünü biliyor muydunuz? Fazla su çökertmeye, az su solgunluğa yol açar. Viyolde fide sulamanın doğru yollarını anlatıyoruz.
+etiketler: fide sulama, fide yetiştirme, viyol, fide çökertmesi, sebze fidesi
+gorsel: p12-fide-sulama
+gorsel_alt: Taş zemin üzerinde yan yana dizilmiş eski metal sulama kovaları
+urunler: 45-goz-yuvarlak-fide-viyolu, hg-premium-fide-topragi, uzman-05-lt-basincli-sprey-puskurtucu-k-4
+kisaca: Fide sulama, toprağın yüzeyi hafifçe kurudukça ve kök bölgesi nemli kalacak şekilde yapılır. Çimlenme döneminde ince püskürtme, fideler büyüdükçe viyolü suya oturtarak alttan sulama en güvenli yöntemlerdir. Takvim yerine viyolün ağırlığına ve toprak rengine bakılır. Fazla su fide çökertmesine, kuruma ise solgunluğa ve gelişme geriliğine yol açar.
+@govde
+Fide sulama, fide yetiştirmenin en basit görünen ama en çok hata yapılan adımıdır. Tohumlar özenle ekilir, ışık ayarlanır, sıcaklık kontrol edilir; ama sulama çoğu zaman alışkanlıkla yapılır. Fazla su, fidelerin kök boğazından çürüyüp devrilmesine yol açar. Az su ise küçük viyol gözlerinde birkaç saat içinde fidelerin solmasına neden olur. Bu yazıda fidelerin farklı dönemlerdeki su ihtiyacını, doğru sulama yöntemlerini ve sık yapılan hataları anlatıyoruz.
+
+## Fidenin su ihtiyacı neden farklıdır?
+
+Fide, küçük bir kök sistemi ve çok az miktarda toprakla yaşar. Viyolün bir gözündeki toprak birkaç kaşık kadardır. Bu küçük hacim hızla ıslanır ve hızla kurur. Aynı zamanda fidenin genç kökleri ve ince gövdesi hem susuzluğa hem de fazla neme karşı son derece hassastır.
+
+Fidelerin su ihtiyacı, bulundukları ortama göre de büyük farklılık gösterir. Sıcak, aydınlık ve havadar bir pencere önündeki fideler hızla su tüketir. Serin ve az ışıklı bir köşedeki fideler ise suyu çok yavaş kullanır. Bu nedenle fide sulama için sabit bir takvim yoktur; her seferinde toprağın durumuna bakmak gerekir.
+
+## Ne zaman sulamalı?
+
+Fidelerin sulama zamanını anlamak için üç basit yöntem kullanabilirsiniz:
+
+- **Toprak rengi:** Nemli fide toprağı koyu, kuruyan toprak açık renklidir. Yüzeyin açık renge dönmesi, sulama zamanının yaklaştığını gösterir.
+- **Viyolün ağırlığı:** Sulamadan hemen sonra viyolü kaldırıp ağırlığını hissedin. Birkaç gün sonra tekrar kaldırın. Belirgin şekilde hafiflemişse sulama zamanı gelmiştir. Bu yöntem birkaç denemeden sonra çok güvenilir hale gelir.
+- **Parmak testi:** Parmağınızın ucunu toprağa hafifçe değdirin. Yüzey kuru ama hemen altı hafif nemliyse sulama için uygun zamandır.
+
+Fidelerin hafifçe sarkması da su ihtiyacının işaretidir, ancak bu noktaya kadar beklememek gerekir. Sık solup kendine gelen fideler strese girer ve gelişmeleri yavaşlar.
+
+## Çimlenme döneminde sulama
+
+Tohumlar ekildikten sonra toprağın yüzeyi sürekli hafif nemli kalmalıdır. Bu dönemde sert bir su akışı tohumları yerinden oynatabilir ya da derine itebilir. En güvenli yöntem, ince püskürtme yapan bir sprey kullanmaktır. Viyolün üzerine şeffaf bir kapak ya da streç film örtmek, nemin kaybolmasını önler ve sık sulama ihtiyacını azaltır.
+
+[ürün:uzman-05-lt-basincli-sprey-puskurtucu-k-4]
+
+Filizler toprağı yardığında örtüyü kaldırın. Bu noktadan sonra toprağın yüzeyini sürekli ıslak tutmak, fide çökertmesi riskini artırır.
+
+## Fide büyürken: alttan sulama
+
+Fideler birkaç yapraklı olduğunda alttan sulama en iyi yöntemdir. Bu yöntemde:
+
+1. Viyolü, içinde birkaç santim su bulunan bir tepsiye ya da kaba oturtun.
+2. Toprak, drenaj deliklerinden suyu yukarı doğru çeker.
+3. Toprak yüzeyi nemlenip koyulaştığında, genellikle 15–30 dakika sonra, viyolü sudan çıkarın.
+4. Fazla suyun süzülmesine izin verin.
+
+Alttan sulamanın avantajları şunlardır:
+
+- Toprak yüzeyi kuru kalır; bu da fide çökertmesi riskini azaltır.
+- Kökler suyu takip ederek aşağı doğru büyür; daha güçlü bir kök sistemi gelişir.
+- Fidelerin yaprakları ve gövdeleri ıslanmaz.
+- Toprağın tamamı eşit şekilde nemlenir.
+
+Önemli olan, viyolü suda uzun süre bırakmamaktır. Sürekli suda duran viyol, kökleri havasız bırakır.
+
+[ürün:45-goz-yuvarlak-fide-viyolu]
+
+## Üstten sulama nasıl yapılmalı?
+
+Alttan sulama imkânınız yoksa üstten sulamayı dikkatli yapın. İnce ağızlı bir sulama kabı kullanın ve suyu fidelerin gövdesine değil, gözlerin kenarına doğru verin. Her göze, drenaj deliğinden birkaç damla akacak kadar su verin. Yaprakları ıslatmamaya çalışın; özellikle akşam saatlerinde ıslak yapraklar mantar hastalıklarına davetiye çıkarır.
+
+## Su sıcaklığı ve kalitesi
+
+Fideleri soğuk suyla sulamak köklerde şoka yol açar ve gelişmeyi yavaşlatır. Suyu oda sıcaklığında bekletmek iyi bir alışkanlıktır. Musluk suyunu bir gece açık bir kapta bekletmek, hem sıcaklığını oda sıcaklığına getirir hem de içindeki klorun bir kısmının uçmasını sağlar.
+
+## Fide sulama ve fide çökertmesi
+
+Fide çökertmesi, genç fidelerin kök boğazında ince, koyu ve çürük bir bölge oluşması ve fidelerin aniden devrilmesidir. Toprakta bulunan bazı mantarlar tarafından oluşturulur ve en çok aşırı nem, serin ortam ve havasızlık koşullarında görülür. Fide sulama alışkanlıklarını düzeltmek, bu sorunu önlemenin en etkili yoludur:
+
+- Toprak yüzeyinin sulamalar arasında hafifçe kurumasına izin verin.
+- Mümkünse alttan sulayın.
+- Viyolleri havadar bir yerde tutun; küçük bir vantilatör hava dolaşımına yardım eder.
+- Temiz viyol ve taze fide toprağı kullanın; eski toprağı yeniden kullanmayın.
+
+Belirtileri ve diğer önlemleri [fide çökertmesi](/fide-cokertmesi) yazımızda ayrıntılı ele aldık.
+
+## Fide büyüdükçe sulama nasıl değişir?
+
+Fideler büyüdükçe kökleri viyol gözünü doldurur ve su tüketimi artar. Bu dönemde viyoller daha sık kurur; sıcak ve güneşli günlerde günde bir kez kontrol etmek gerekebilir. Kökler gözü tamamen doldurduysa ve toprak çok hızlı kuruyorsa, fideleri daha büyük kaplara şaşırtma zamanı gelmiş olabilir.
+
+Dikimden önceki sertleştirme döneminde ise sulama biraz seyrekleştirilir. Bu, fidelerin dış ortamdaki su kaybına karşı dayanıklılık kazanmasına yardım eder. Ayrıntılar için [fide sertleştirme](/fide-sertlestirme) yazımıza göz atabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Takvime göre sulamak:** Her gün aynı saatte sulamak, toprağın sürekli ıslak kalmasına yol açabilir.
+- **Tabakta su bırakmak:** Viyolün altındaki tabakta bekleyen su kökleri boğar. Saksı tabağındaki suyun etkileri için [saksı tabağında su](/saksi-tabaginda-su) yazımıza bakabilirsiniz.
+- **Sert su akışı:** Tohumları ve genç fideleri yerinden oynatır.
+- **Soğuk su:** Kök gelişimini yavaşlatır.
+- **Uzun süre kuru bırakmak:** Küçük viyol gözleri birkaç saat içinde tamamen kuruyabilir.
+- **Akşam üstten sulamak:** Yapraklar ve toprak yüzeyi gece boyunca ıslak kalır.
+
+Fazla sulama ayrıca fidelerin ince ve uzun büyümesine de katkıda bulunabilir. Bu konuyu [fide neden boylanır](/fide-neden-boylanir) yazımızda anlattık. Evde fide yetiştirmenin tüm adımları için [evde fide yetiştirme](/evde-fide-yetistirme) yazımıza göz atabilirsiniz.
+
+Fide sulama, biraz dikkat ve gözlemle kısa sürede ustalaşabileceğiniz bir iştir. Toprağın rengine, viyolün ağırlığına ve fidelerin görünümüne bakmayı alışkanlık haline getirdiğinizde, sağlıklı ve güçlü fideler yetiştirmek çok daha kolay hale gelir.
+@sss
+S: Fideler ne sıklıkla sulanmalı?
+C: Sabit bir sıklık yoktur. Toprağın yüzeyi hafifçe kuruduğunda ve viyol belirgin şekilde hafiflediğinde sulanır. Sıcak ve aydınlık ortamlarda daha sık, serin ortamlarda daha seyrek sulama gerekir.
+
+S: Fideler alttan mı üstten mi sulanmalı?
+C: Fideler birkaç yapraklı olduktan sonra alttan sulama en güvenli yöntemdir. Toprak yüzeyi kuru kalır, kökler aşağı doğru büyür ve fide çökertmesi riski azalır.
+
+S: Fidelerim neden dipten çürüyüp devriliyor?
+C: Bu genellikle fide çökertmesidir. Aşırı nem, serin ortam ve havasızlık bu sorunu tetikler. Sulamayı azaltmak, alttan sulamak ve hava dolaşımını artırmak önler.
+
+S: Fideleri soğuk suyla sulamak zararlı mı?
+C: Soğuk su köklerde şoka yol açabilir ve gelişmeyi yavaşlatır. Oda sıcaklığında bekletilmiş su kullanmak daha iyidir.
+
+### SORU
+yayin: 2026-12-24 10:40
+kategori: sebze-meyve
+baslik: Domates fidelerimin dibi inceldi ve birer birer devriliyor, ne yapabilirim?
+metin: Mutfak penceresinde viyolde domates ve biber fideleri yetiştiriyorum. Fideler iki yapraklıydı, son iki günde bazılarının gövdesi dipten incelip koyulaştı ve devrildiler. Her gün düzenli suluyorum, viyolün üstünü de nem kalsın diye streçle kapalı tutuyorum. Kalanları kurtarabilir miyim?
+@cevap Ahmet Sacit Çelik | 4
+Anlattığınız belirtiler fide çökertmesine çok benziyor. Fidenin kök boğazında ince ve koyu bir bölge oluşması ve fidenin aniden devrilmesi, topraktaki bazı mantarların aşırı nemli ortamda fidelere saldırmasıyla olur. Devrilen fideler maalesef kurtarılamaz; onları ve çevrelerindeki toprağı hemen alın. Kalan fideler için ilk iş viyolün üzerindeki streci kaldırmak: o örtü yalnız çimlenme dönemi içindir, filizler çıktıktan sonra nemi hapsederek tam da bu soruna zemin hazırlar. Her gün sulamayı bırakın ve toprağın yüzeyinin hafifçe kurumasını bekleyin; mümkünse viyolü bir tepsiye oturtup alttan sulayın. Fideleri havadar ve aydınlık bir yerde tutun, kalorifer yanındaki durgun ve nemli köşelerden uzak durun. Bir sonraki ekimde temiz viyol ve taze fide toprağı kullanmanız da bu riski azaltır.
+
+### YAZI
+slug: yaprak-bakim-spreyi-ne-ise-yarar
+baslik: Yaprak Bakım Spreyi Ne İşe Yarar? Parlatıcı, Besin ve Nem Spreyleri
+yayin: 2026-12-24 11:05
+yazar: Rümeysa Altınova
+kategori: bitki-bakimi
+odak: yaprak bakım spreyi
+seo_baslik: Yaprak Bakım Spreyi Ne İşe Yarar? Doğru Kullanım
+seo_aciklama: Yaprak bakım spreyi ne işe yarar? Yaprak parlatıcılar, yapraktan besin spreyleri ve nem spreyleri arasındaki fark; hangi bitkide, ne zaman, nasıl?
+ozet: Salon bitkileri için satılan spreylerin hepsi aynı işi yapmaz. Yaprak parlatıcı, yapraktan besin ve nem spreyleri arasındaki farkı, faydalarını ve sınırlarını anlatıyoruz.
+etiketler: salon bitkileri, yaprak bakımı, yaprak parlatıcı, yapraktan besleme, kışın bitki bakımı
+gorsel: p12-yaprak-sprey
+gorsel_alt: Üzerinde su damlaları bulunan parlak yeşil bitki yaprağının yakın görünümü
+urunler: tarm-evergreen-pro-salon-bitkisi-besini-500-ml, tarm-petal-power-cicekli-bitki-besini-sprey-500-ml, uzman-05-lt-basincli-sprey-puskurtucu-k-4
+kisaca: Yaprak bakım spreyi adıyla satılan ürünler üç gruba ayrılır: yapraklara parlaklık veren parlatıcılar, yapraktan besin sağlayan besin spreyleri ve nemi artırmak için kullanılan su spreyleri. Parlatıcılar görünümü iyileştirir ama sık kullanılırsa gözenekleri tıkayabilir. Besin spreyleri hızlı destek verir, kök beslemesinin yerini tutmaz. Önce toz silinir.
+@govde
+Yaprak bakım spreyi, salon bitkisi bakımı için satılan ürünler arasında en çok merak edilenlerden biridir. Raflarda "yaprak parlatıcı", "yaprak besini", "bitki bakım spreyi" gibi farklı isimlerle onlarca ürün bulunur. Bu ürünlerin hepsi aynı işi yapmaz ve her bitki için uygun da değildir. Bu yazıda yaprak bakım spreylerinin türlerini, ne işe yaradıklarını, ne zaman kullanılmaları gerektiğini ve dikkat edilmesi gereken noktaları anlatıyoruz.
+
+## Yapraklar neden bakım ister?
+
+Yapraklar bitkinin hem mutfağı hem de akciğeridir. Fotosentez yapraklarda gerçekleşir ve bitki, yaprak yüzeyindeki çok küçük gözeneklerden gaz alışverişi yapar. Evlerde yaprakların üzerinde zamanla toz birikir. Bu toz tabakası ışığın yaprağa ulaşmasını azaltır ve gözenekleri kısmen tıkayabilir. Ayrıca tozlu yapraklar, kırmızı örümcek gibi zararlıların fark edilmesini de zorlaştırır.
+
+Bu yüzden yaprak bakımının ilk ve en önemli adımı temizliktir. Geniş yapraklı bitkilerin yapraklarını ayda bir, ılık suyla nemlendirilmiş yumuşak bir bezle silmek, çoğu zaman herhangi bir spreyden daha faydalıdır. Küçük yapraklı bitkileri ise ılık bir duşla yıkamak tozdan arındırır.
+
+## Yaprak bakım spreyi türleri
+
+### Yaprak parlatıcılar
+
+Yaprak parlatıcılar, yapraklara parlak ve canlı bir görünüm kazandırmak için kullanılır. Genellikle ince bir tabaka oluşturan maddeler içerirler. Kauçuk, monstera, deve tabanı ve fil kulağı gibi geniş ve parlak yapraklı bitkilerde görsel olarak etkili olurlar.
+
+Ancak parlatıcıların bazı sınırları vardır:
+
+- Görünümü iyileştirirler ama bitkinin sağlığına doğrudan bir katkı sağlamazlar.
+- Sık kullanıldığında yaprak gözeneklerini tıkayabilir ve yüzeyde birikerek toz tutabilirler.
+- Tüylü yapraklı bitkilerde (menekşe, begonya bazı türleri), mumsu ve tozlu yüzeyli bitkilerde (bazı sukulentler) ve çok genç yapraklarda kullanılmamalıdırlar.
+- Yaprağın alt yüzüne uygulanmamalıdırlar; gözeneklerin büyük kısmı alt yüzdedir.
+
+Parlatıcı kullanacaksanız, önce yaprakları temizleyin, ardından ince bir uygulama yapın ve sık tekrarlamayın.
+
+### Yapraktan besin spreyleri
+
+Bu spreyler, bitkinin ihtiyaç duyduğu besinlerin bir kısmını yapraklardan almasını sağlar. Yapraktan alınan besinler hızlı etki gösterir; bu nedenle bitkinin hızlı bir desteğe ihtiyaç duyduğu dönemlerde faydalıdır. Örneğin saksı değişimi sonrasında kökler henüz yerleşmemişken ya da bitkide hafif bir besin eksikliği belirtisi görüldüğünde kullanılabilir.
+
+Yapraktan besleme hakkında bilinmesi gerekenler:
+
+- **Kök beslemesinin yerini tutmaz.** Bitki besinlerinin büyük kısmını kökleriyle alır. Yapraktan besleme tamamlayıcıdır.
+- **Etiketteki talimatlara uyun.** Yoğun uygulama yapraklarda yanmaya yol açabilir.
+- **Doğru bitki için doğru ürün:** Çiçekli bitkiler, yeşil yapraklı bitkiler, orkideler ve sukulentler için farklı formüller bulunur.
+
+[ürün:tarm-petal-power-cicekli-bitki-besini-sprey-500-ml,tarm-evergreen-pro-salon-bitkisi-besini-500-ml]
+
+### Nem spreyleri
+
+Kaloriferli evlerde hava kuruduğunda pek çok kişi yapraklara su püskürtür. Bu uygulama yaprak yüzeyinde kısa süreli bir nem sağlar, ancak etkisi sanıldığından çok daha kısadır; su damlaları birkaç dakika içinde buharlaşır. Ayrıca yaprakların uzun süre ıslak kalması, özellikle serin ve havasız odalarda mantar hastalıklarına yol açabilir.
+
+Çevredeki nemi kalıcı olarak artırmak için daha etkili yöntemler şunlardır: bitkileri gruplamak, saksıları içinde çakıl ve su bulunan tepsilere oturtmak ve bitkileri kaloriferden uzak tutmak. Bu konuyu [kışın bitkiler için nem](/kisin-bitkiler-icin-nem) yazımızda ayrıntılı ele aldık.
+
+## Yaprak bakım spreyi nasıl kullanılır?
+
+1. **Önce temizleyin.** Tozlu yaprağa sprey uygulamak, tozu yaprağa yapıştırır. Yaprakları önce nemli bir bezle silin.
+2. **Serin saatleri seçin.** Uygulamayı doğrudan güneş almayan bir zamanda, tercihen sabah yapın.
+3. **İnce ve eşit uygulayın.** Yaprakları sırılsıklam etmeyin. İnce sis yapan, ayarlanabilir uçlu bir püskürtücü bu işi kolaylaştırır.
+4. **Yaprak aralarında su bırakmayın.** Orkide gibi bitkilerde yaprakların birleştiği noktada biriken su çürümeye yol açabilir.
+5. **Kurumasını bekleyin.** Bitkiyi yaprakları kuruyana kadar doğrudan güneşe koymayın.
+
+[ürün:uzman-05-lt-basincli-sprey-puskurtucu-k-4]
+
+## Ne sıklıkla kullanılmalı?
+
+Yaprak parlatıcıları birkaç ayda bir, özel bir gün öncesinde ya da yapraklar temizlendikten sonra görünümü tamamlamak için kullanmak yeterlidir. Yapraktan besin spreyleri ise büyüme döneminde, etikette belirtilen aralıklarla ve genellikle kök beslemesiyle dönüşümlü olarak kullanılır. Kışın, bitki yavaş büyürken yapraktan beslemeye de ara vermek ya da sıklığını azaltmak doğru olur. Nem spreylerini ise yalnız sabah saatlerinde ve yaprakların öğlene kadar kuruyabileceği koşullarda kullanın.
+
+## Hangi bitkide dikkatli olunmalı?
+
+- **Tüylü yapraklılar:** Menekşe ve bazı begonyalar ıslak yapraklarda leke ve çürüklük gösterebilir. Bu bitkilerde sprey yerine yaprakları kuru, yumuşak bir fırçayla temizlemek daha iyidir.
+- **Sukulentler ve kaktüsler:** Yapraklarındaki doğal mumsu tabaka onları korur. Parlatıcı ve nem spreyi kullanılmamalıdır.
+- **Çiçekler:** Pek çok çiçek spreyle lekelenebilir; uygulama sırasında çiçekleri koruyun.
+
+## Sprey kullanmadan önce sorunu tanıyın
+
+Yapraklarda sararma, lekeler ya da solgunluk görüyorsanız, sorunun nedeni çoğu zaman bir sprey ile çözülemez. Fazla ya da az sulama, yetersiz ışık, zararlılar ya da mantar hastalıkları bu belirtilerin daha olası nedenleridir. Yapraklarda ince ağlar, küçük noktalar ya da yapışkan bir salgı görüyorsanız zararlıları kontrol edin; bu konuda [salon bitkilerinde zararlılar](/salon-bitkilerinde-zararlilar) yazımız yol gösterecektir. Mantar belirtileri için ise [mantar önleyici sprey](/mantar-onleyici-sprey-ne-zaman-kullanilir) yazımıza göz atabilirsiniz.
+
+## Parlak yapraklı bitkiler için doğal bakım
+
+Kauçuk, monstera ve barış çiçeği gibi bitkilerin yaprakları, düzenli temizlik ve doğru bakımla doğal olarak parlak görünür. Bunun için:
+
+- Yaprakları ayda bir nemli bezle silin.
+- Bitkiye yeterli ışık sağlayın.
+- Büyüme döneminde dengeli besleme yapın.
+- Sulamayı toprağın nemine göre ayarlayın.
+
+Sağlıklı bir yaprak, parlatıcıya ihtiyaç duymadan da canlı ve parlak görünür. Kauçuk ağacının bakımıyla ilgili ayrıntılar için [kauçuk ağacı bakımı](/kaucuk-agaci-bakimi) yazımıza, kış aylarındaki genel bakım için [kışın salon bitkisi bakımı](/kisin-salon-bitkisi-bakimi) yazımıza bakabilirsiniz.
+
+## Kısaca
+
+Yaprak bakım spreyi doğru seçilip doğru kullanıldığında faydalı bir yardımcıdır; ama temizlik, doğru ışık, sulama ve beslemenin yerini tutmaz. Parlatıcıları seyrek ve yalnız uygun bitkilerde, besin spreylerini destek amaçlı ve etikete uygun şekilde, nem spreylerini ise ölçülü kullanmak en doğru yaklaşımdır.
+@sss
+S: Yaprak parlatıcı bitkiye zarar verir mi?
+C: Seyrek ve doğru kullanıldığında genellikle zarar vermez. Ancak sık kullanılırsa yaprak gözeneklerini tıkayabilir ve toz tutabilir. Tüylü yapraklı bitkilerde ve sukulentlerde kullanılmamalıdır.
+
+S: Yapraklara su püskürtmek nemi artırır mı?
+C: Çok kısa süreli bir etki sağlar. Damlalar birkaç dakika içinde buharlaşır. Bitkileri gruplamak ve çakıllı su tepsileri kullanmak nemi daha kalıcı şekilde artırır.
+
+S: Yapraktan besleme kök beslemesinin yerini tutar mı?
+C: Hayır. Bitki besinlerinin büyük kısmını kökleriyle alır. Yapraktan besleme hızlı bir destek sağlar, ancak tamamlayıcı olarak kullanılmalıdır.
+
+S: Yaprakları temizlemenin en iyi yolu nedir?
+C: Geniş yapraklı bitkilerde yaprakları ılık suyla nemlendirilmiş yumuşak bir bezle silmek en iyi yöntemdir. Küçük yapraklı bitkiler ılık bir duşla yıkanabilir.
+
+### YAZI
+slug: bahce-sulama-saatleri
+baslik: Bahçe Sulama Saatleri: Sabah mı, Akşam mı, Öğlen mi?
+yayin: 2026-12-24 12:25
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: bahçe sulama saatleri
+seo_baslik: Bahçe Sulama Saatleri: Sabah mı Akşam mı Daha İyi?
+seo_aciklama: Bahçe sulama saatleri nasıl seçilir? Sabah sulamanın avantajları, akşam sulamanın riskleri, öğlen efsanesi; çim, sebze, saksı ve kış sulaması önerileri.
+ozet: Bahçeyi ne zaman suladığınız, ne kadar suladığınız kadar önemlidir. Sabah, akşam ve öğlen sulamanın artılarını ve eksilerini, farklı bitkiler ve mevsimler için doğru saatleri anlatıyoruz.
+etiketler: bahçe sulama, sulama zamanı, çim sulama, sebze sulama, damla sulama
+gorsel: p12-sulama-saat
+gorsel_alt: Yeşil bahçede çimlerin üzerine su püskürten çalışan bir fıskiye
+urunler: sgs-3-fonksiyonlu-sulama-tabancasi, sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu
+kisaca: Bahçe sulama saatleri arasında en iyisi sabahın erken saatleridir: hava serin, rüzgâr azdır, su buharlaşmadan toprağa işler ve yapraklar gün içinde kurur. Akşam sulaması suyu iyi değerlendirir ama yapraklar gece ıslak kalırsa mantar hastalıkları artar. Öğle sulamasında su kaybı fazladır. Kışın ise toprak donmuyorken öğleye yakın sulamak uygundur.
+@govde
+Bahçe sulama saatleri, bahçecilikte en çok tartışılan konulardan biridir. Kimisi sabah sular, kimisi akşam; kimisi ise öğlen sulamanın yaprakları yakacağına inanır. Doğru saat, bitkinin suyu ne kadar iyi kullanacağını, ne kadar suyun boşa gideceğini ve hastalık riskini doğrudan etkiler. Bu yazıda farklı saatlerde sulamanın artılarını ve eksilerini, farklı bitki grupları ve mevsimler için doğru zamanlamayı anlatıyoruz.
+
+## Sabah sulaması: en iyi seçenek
+
+Bahçe sulamak için en uygun zaman, güneş doğduktan sonraki ilk saatlerdir. Sabah sulamasının avantajları şunlardır:
+
+- **Az buharlaşma:** Hava serin ve rüzgâr genellikle hafiftir. Su toprağa işlemeden buharlaşıp gitmez.
+- **Gün boyu hazır su:** Bitkiler, günün en sıcak saatlerine kök bölgesinde yeterli suyla girer. Bu, öğle sıcağında solmayı ve strese girmeyi önler.
+- **Kuruyan yapraklar:** Islanan yapraklar sabah güneşiyle kısa sürede kurur. Bu da mantar hastalıklarının yayılmasını zorlaştırır.
+- **Salyangozlara karşı:** Sabah sulanan bir bahçenin yüzeyi akşama kadar kurur; gece aktif olan salyangoz ve sümüklü böcekler için daha az çekici hale gelir.
+
+Mümkünse güneş doğmadan hemen önce ya da doğduktan sonraki birkaç saat içinde sulamayı tamamlayın.
+
+## Akşam sulaması: dikkatli kullanılmalı
+
+Akşam saatlerinde sulamak da suyun buharlaşmadan toprağa işlemesini sağlar. Bu yönüyle sabah sulamasına benzer. Ancak önemli bir riski vardır: akşam ıslanan yapraklar gece boyunca kurumaz. Uzun süre ıslak kalan yapraklar, külleme, mildiyö ve yaprak lekeleri gibi mantar hastalıkları için ideal bir ortam oluşturur. Ayrıca sürekli ıslak toprak yüzeyi salyangozları çeker.
+
+Akşam sulaması yapacaksanız şunlara dikkat edin:
+
+- Suyu yapraklara değil, doğrudan toprağa verin.
+- Damla sulama ya da toprak seviyesinde sulama yöntemlerini tercih edin.
+- Güneş batmadan önce, yaprakların kısmen kurumasına zaman kalacak şekilde sulayın.
+
+Sabah sulama imkânı olmayan çalışan bahçe sahipleri için damla sulama ile akşam sulaması makul bir uzlaşmadır.
+
+## Öğlen sulaması: efsaneler ve gerçekler
+
+Öğle sıcağında yapraklardaki su damlalarının büyüteç etkisiyle yaprakları yakacağı yaygın bir inanıştır. Gerçekte bu durum çok nadir görülür; su damlaları ışığı yaprak üzerinde yakacak kadar yoğunlaştırmaz ve kısa sürede buharlaşır. Öğle sulamasının asıl sorunu yanık değil, su kaybıdır. Sıcak ve rüzgârlı öğle saatlerinde suyun önemli bir kısmı toprağa ulaşmadan buharlaşır. Bu da hem su israfı hem de yetersiz sulama anlamına gelir.
+
+Ancak bir bitki öğle saatlerinde ciddi şekilde solmuşsa, akşamı beklemek yerine hemen sulamak doğru olur. Susuzluk, sulama saatinden çok daha büyük bir zarardır.
+
+Yaprakların güneşte yanmasının gerçek nedenleri için [bitkilerde güneş yanığı](/bitkilerde-gunes-yanigi) yazımıza bakabilirsiniz.
+
+## Bitki gruplarına göre bahçe sulama saatleri
+
+### Çim alanlar
+
+Çim alanlar için sabah sulaması açık ara en iyisidir. Akşam sulanan çim, gece boyunca ıslak kalır ve çim hastalıklarına yatkın hale gelir. Çimi sık ve yüzeysel değil, seyrek ve derin sulamak köklerin derinleşmesini sağlar. Yeni ekilen çim alanlar ise çimlenme dönemine kadar yüzeyin sürekli nemli kalması için günde birkaç kez kısa sulama isteyebilir. Ayrıntılar için [çim ekiminden sonra sulama](/cim-ekiminden-sonra-sulama) yazımıza göz atabilirsiniz.
+
+### Sebze bahçesi
+
+Sebzeler için de sabah sulaması idealdir. Domates, biber, kabakgiller ve fasulye gibi yaprak hastalıklarına yatkın sebzelerde yaprakları ıslatmadan, toprağa sulamak çok önemlidir. Damla sulama, sebze bahçesi için hem su tasarrufu hem de hastalık kontrolü açısından en iyi yöntemdir. Kurulum için [damla sulama kurulumu](/damla-sulama-kurulumu) yazımıza bakabilirsiniz.
+
+### Saksılar ve balkon bitkileri
+
+Saksı toprağı bahçe toprağından çok daha hızlı kurur. Yaz sıcağında saksıları sabah sulamak ve akşamüstü kontrol etmek gerekebilir. Küçük saksılar ve askılı saksılar özellikle hızlı kurur. Saksılarda toprağın tamamen kurumasına izin vermemek, ama tabakta su da bırakmamak gerekir.
+
+### Ağaçlar ve çalılar
+
+Yerleşmiş ağaçlar ve çalılar, seyrek ama derin sulamadan fayda görür. Sabah ya da akşam fark etmez, ancak suyun kök bölgesine ulaşacak kadar yavaş ve bol verilmesi önemlidir. Genç ağaçlar ilk birkaç yıl daha düzenli sulama ister.
+
+## Kışın sulama saatleri
+
+Kışın bitkilerin su ihtiyacı belirgin şekilde azalır, ama tamamen ortadan kalkmaz. Özellikle kış kurak geçtiğinde yaprak dökmeyen bitkiler, genç ağaçlar ve saksı bitkileri sulamaya ihtiyaç duyar. Kışın sulama için kurallar farklıdır:
+
+- **Öğleye yakın sulayın:** Kışın sabahları toprak donmuş olabilir. Toprak çözüldükten sonra, günün ılık saatlerinde sulamak en iyisidir.
+- **Akşam sulamayın:** Gece donu, ıslak toprakta ve köklerde daha fazla zarar verir.
+- **Donmuş toprağa su vermeyin:** Su toprağa işlemez ve yüzeyde buz tabakası oluşturur.
+
+Kışın meyve ağaçlarının sulanması için [kışın meyve ağacı sulama](/kisin-meyve-agaci-sulama) yazımıza bakabilirsiniz.
+
+## Ne kadar suladığınız da önemli
+
+Doğru saatte sulamak kadar, doğru miktarda sulamak da önemlidir. Sık ve yüzeysel sulama, köklerin yüzeyde kalmasına ve bitkinin kuraklığa karşı hassas olmasına yol açar. Seyrek ama derin sulama ise köklerin derinlere inmesini sağlar. Toprağın nemini kontrol etmenin yolları için [toprak nemi ölçme](/toprak-nemi-olcme) yazımız size yol gösterecektir. Fazla sulamanın belirtileri için de [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazımızı okuyabilirsiniz.
+
+## Doğru ekipman
+
+Sulama tabancası ve hortum seçimi, sulamanın kalitesini doğrudan etkiler. Ayarlanabilir uçlu bir sulama tabancası, fideler için yumuşak bir yağmur, saksılar için ince bir akış ve toprak için daha güçlü bir su sağlar. Dayanıklı ve kıvrılmayan bir hortum ise sulamayı kolaylaştırır. Seçim için [sulama tabancası seçimi](/sulama-tabancasi-secimi) ve [bahçe hortumu seçimi](/bahce-hortumu-secimi) yazılarımıza göz atabilirsiniz.
+
+[ürün:sgs-3-fonksiyonlu-sulama-tabancasi,sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu]
+
+Kısacası bahçe sulama saatleri arasında sabah her zaman en güvenli seçenektir. Akşam sulaması toprağa yapıldığında makul bir alternatiftir; öğle sulaması ise ancak acil durumlarda tercih edilmelidir. Kışın ise kurallar değişir ve günün ılık saatleri öne çıkar.
+@sss
+S: Bahçeyi sulamak için en iyi saat hangisi?
+C: Sabahın erken saatleri en iyisidir. Hava serin olduğu için su buharlaşmadan toprağa işler ve ıslanan yapraklar gün içinde kurur.
+
+S: Akşam sulamak bitkilere zarar verir mi?
+C: Suyu toprağa vermek koşuluyla genellikle zarar vermez. Ancak yapraklar gece boyunca ıslak kalırsa mantar hastalıkları artabilir.
+
+S: Öğlen sulanan bitkilerin yaprakları yanar mı?
+C: Bu çok nadir görülür. Öğle sulamasının asıl sorunu suyun büyük kısmının buharlaşmasıdır. Bitki solmuşsa saatine bakmadan sulamak gerekir.
+
+S: Kışın bahçe ne zaman sulanmalı?
+C: Toprak donmuyorken, günün ılık saatlerinde, öğleye yakın sulanmalıdır. Akşam sulaması ve donmuş toprağa su verilmesi önerilmez.
+
+### YAZI
+slug: bahcede-zehirli-bitkiler
+baslik: Bahçede Zehirli Bitkiler: Çocuk ve Evcil Hayvan Güvenliği İçin Rehber
+yayin: 2026-12-24 13:45
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: bahçede zehirli bitkiler
+seo_baslik: Bahçede Zehirli Bitkiler: Çocuk ve Hayvan Güvenliği
+seo_aciklama: Bahçede zehirli bitkiler hangileri? Zakkum, yüksük otu, tatula, porsuk ve diğerleri; çocuk ve evcil hayvan riskleri, önlemler ve zehirlenmede yapılacaklar.
+ozet: Bahçelerimizi süsleyen bazı bitkiler, çocuklar ve evcil hayvanlar için ciddi tehlike oluşturabilir. Yaygın zehirli bahçe bitkilerini, riskleri ve güvenli bir bahçe için alınabilecek önlemleri anlatıyoruz.
+etiketler: zehirli bitkiler, çocuklarla bahçe, evcil hayvan güvenliği, bahçe güvenliği, zakkum
+gorsel: p12-zehirli
+gorsel_alt: Uzun sapı üzerinde çan biçimli mor çiçekler açmış yüksük otu bitkisi
+urunler: raco-yabani-ot-sokme-aleti, budama-makasi, raco-bahce-el-kuregi
+kisaca: Bahçede zehirli bitkiler arasında zakkum, yüksük otu, boru çiçeği, keneotu, porsuk ve mor salkım tohumları en bilinenlerdir; nergis soğanı, şimşir ve ormangülü de risklidir. Zambak türleri kediler için çok tehlikelidir. Bitkileri tanımak, çocuk alanlarında riskli türlerden kaçınmak ve şüphede hemen yardım almak gerekir.
+@govde
+Bahçede zehirli bitkiler, çoğu zaman bahçenin en güzel köşelerinde karşımıza çıkar. Yüksük otunun çan biçimli çiçekleri, zakkumun pembe ve beyaz salkımları ya da mor salkımın sarkan çiçekleri bahçeye büyük bir güzellik katar. Ancak bu bitkilerin bazı kısımları, yanlışlıkla yendiğinde ya da çiğnendiğinde, çocuklar ve evcil hayvanlar için ciddi sağlık sorunlarına yol açabilir. Bu yazının amacı korku yaratmak değil, bilinçli bir bahçe sahibi olmanıza yardım etmektir. Hangi bitkinin riskli olduğunu bilmek, güvenli ve güzel bir bahçeyi bir arada kurmanın ilk adımıdır.
+
+## Neden önemli?
+
+Küçük çocuklar dünyayı ağızlarıyla keşfeder. Parlak renkli meyveler, tohumlar ve çiçekler onlar için çekicidir. Köpekler, özellikle yavruyken, bahçede buldukları her şeyi çiğneyebilir. Kediler ise ev içinde ve bahçede bitkileri kemirmeyi severler. Bahçede zehirli bitkiler hakkında bilgi sahibi olmak, bu risklerin önüne geçmenizi sağlar.
+
+Zehirlilik; bitkinin türüne, hangi kısmının ve ne kadarının alındığına, kişinin ya da hayvanın vücut ağırlığına göre büyük farklılık gösterir. Bazı bitkiler yalnız hafif mide rahatsızlığına yol açarken, bazıları çok küçük miktarlarda bile ciddi tehlike oluşturabilir.
+
+## Bahçede zehirli bitkiler: en sık görülenler
+
+- **Zakkum:** Akdeniz ve Ege bölgelerinde çok yaygın bir süs çalısıdır. Bitkinin tüm kısımları, yaprakları, çiçekleri, dalları ve özsuyu son derece zehirlidir. Budama artıklarının yakılmasıyla oluşan duman da tehlikelidir. Kesinlikle mangal çubuğu ya da şiş olarak kullanılmamalıdır.
+- **Yüksük otu:** Çan biçimli mor, pembe ya da beyaz çiçekleriyle sevilen bir bahçe bitkisidir. Bitkinin tüm kısımları, özellikle yaprakları, kalp üzerinde etkili maddeler içerir ve çok zehirlidir.
+- **Boru çiçeği (tatula):** Büyük, beyaz ya da mor boru biçimli çiçekleri vardır. Bitkinin tüm kısımları, özellikle tohumları çok zehirlidir.
+- **Keneotu (hint yağı bitkisi):** Büyük, parlak yaprakları ve dikenli kapsülleriyle süs bitkisi olarak yetiştirilir. Tohumları son derece zehirlidir.
+- **Porsuk:** Çit ve süs ağacı olarak kullanılan, iğne yapraklı bir bitkidir. Kırmızı, etli tohum örtüsü dışında, bitkinin tüm kısımları ve özellikle tohumları çok zehirlidir.
+- **Mor salkım:** Görkemli pergole bitkisi; tohumları ve baklaları zehirlidir.
+- **Ormangülü ve açelya:** Yaprakları ve çiçekleri zehirlidir.
+- **Şimşir:** Bordür ve çit bitkisi olarak yaygındır; yaprakları zehirlidir.
+- **Lale, nergis ve sümbül soğanları:** Soğanlar zehirli maddeler içerir; özellikle soğanları kazmayı seven köpekler için risklidir. Nergis soğanlarının sofralık soğanla karıştırılması da bilinen bir tehlikedir.
+- **Ortanca:** Yaprakları ve çiçekleri hafif zehirli maddeler içerir.
+- **Kuşkonmaz meyveleri, ligustrum ve bazı süs meyveleri:** Parlak renkli meyveleri çocukların ilgisini çekebilir.
+
+Ev içinde de difenbahya, kaladyum, salon sarmaşığı ve monstera gibi bitkiler ağızda yanma ve tahrişe yol açabilir; bu bitkiler bahçeye taşındığında da aynı dikkat gerekir.
+
+## Evcil hayvanlar için özel riskler
+
+Bazı bitkiler insanlardan çok evcil hayvanlar için tehlikelidir:
+
+- **Zambak türleri:** Kediler için son derece tehlikelidir. Çiçeğin polenini yalamak bile böbrek yetmezliğine yol açabilir. Kedisi olan evlerde zambak bulundurulmamalıdır.
+- **Sago palmiyesi (yalancı palmiye):** Köpekler ve kediler için çok zehirlidir; özellikle tohumları tehlikelidir.
+- **Soğanlı bitkiler:** Köpekler bahçeyi kazarken soğanlara ulaşabilir.
+- **Kakao kabuğu malçı:** Bazı bahçelerde malç olarak kullanılan kakao kabuğu, köpekler için zararlı olabilir.
+
+## Güvenli bir bahçe için önlemler
+
+1. **Bitkilerinizi tanıyın.** Bahçenizdeki her bitkinin adını öğrenin. Yeni bitki alırken etiketini saklayın ve zehirlilik durumunu araştırın.
+2. **Çocuk oyun alanlarını planlayın.** Küçük çocukların oynadığı alanlarda ve yollarda riskli bitkiler kullanmayın. Bu alanlarda yenilebilir bitkiler ve güvenilir türler tercih edin. Çocuklarla bahçe kurma fikirleri için [çocuklarla bahçe](/cocuklarla-bahce) yazımıza bakabilirsiniz.
+3. **Çocuklara öğretin.** Çocuklara bahçedeki hiçbir bitkiyi, meyveyi ya da tohumu bir yetişkine sormadan ağızlarına almamalarını öğretin.
+4. **Eldiven kullanın.** Zakkum, keneotu ve özsuyu tahriş edici olan bitkilerle çalışırken eldiven giyin; işiniz bittiğinde ellerinizi yıkayın.
+5. **Budama artıklarını güvenle uzaklaştırın.** Zehirli bitkilerin budama artıklarını yakmayın, hayvanların ulaşabileceği yerlerde bırakmayın.
+6. **Soğanları güvenli saklayın.** Dikilmeyi bekleyen çiçek soğanlarını mutfaktan ve hayvanların ulaşamayacağı yerden uzakta tutun.
+7. **Dökülen meyve ve tohumları toplayın.** Porsuk, mor salkım ve keneotu gibi bitkilerin yere düşen tohum ve meyvelerini düzenli olarak toplayın.
+
+[ürün:raco-yabani-ot-sokme-aleti,budama-makasi]
+
+Bahçede kendiliğinden çıkan ve tanımadığınız bitkileri, özellikle tatula gibi zehirli yabani türleri, kökleriyle birlikte sökmek ve bahçeden uzaklaştırmak güvenliği artırır.
+
+[ürün:raco-bahce-el-kuregi]
+
+## Zehirlenme şüphesinde ne yapmalı?
+
+- **Sakin olun ve kalan bitki parçalarını ağızdan çıkarın.**
+- **Kendi başınıza kusturmaya çalışmayın.**
+- **Hemen yardım alın:** Türkiye'de Ulusal Zehir Danışma Merkezi'ne 114 numaralı telefondan ulaşabilirsiniz. Acil durumlarda 112'yi arayın.
+- **Bitkiyi tanımlayın:** Bitkinin adını biliyorsanız söyleyin; bilmiyorsanız bir parçasını ya da fotoğrafını sağlık ekibine götürün.
+- **Evcil hayvanlar için:** Vakit kaybetmeden veteriner hekiminize başvurun.
+
+## Zehirli diye bahçeden çıkarmalı mıyım?
+
+Her zehirli bitkiyi bahçeden sökmek gerekmez. Zakkum, yüksük otu ve mor salkım gibi pek çok bitki, yıllardır bahçelerde güvenle yetiştirilmektedir. Önemli olan, riskin farkında olmak ve bahçenizi kullanan kişilere göre düzenlemektir. Küçük çocuğu ya da kemirmeyi seven bir evcil hayvanı olan bir aile için yüksek riskli bitkileri oyun alanlarından uzak tutmak ya da geçici olarak bahçeden çıkarmak makul olabilir. Yetişkinlerin kullandığı bir bahçede ise bilinçli bakım genellikle yeterlidir.
+
+Gölgelik ve pergole için bitki seçerken de bu bilgileri göz önünde bulundurabilirsiniz; ayrıntılar [bahçede gölgelik](/bahcede-golgelik-sarmasik-ve-pergole-bitkileri) yazımızda. Kuşları bahçenize çekmek isterseniz, güvenli meyveli bitkiler için [kuş dostu bahçe](/kus-dostu-bahce) yazımız size fikir verecektir.
+
+Bahçede zehirli bitkiler hakkında bilgi sahibi olmak, bahçenizin güzelliğinden ödün vermeden ailenizi ve evcil hayvanlarınızı korumanın en etkili yoludur.
+@sss
+S: Bahçede en tehlikeli zehirli bitkiler hangileri?
+C: Zakkum, yüksük otu, boru çiçeği (tatula), keneotu tohumları ve porsuk en tehlikeli bahçe bitkileri arasındadır. Bu bitkilerin küçük miktarları bile ciddi zehirlenmeye yol açabilir.
+
+S: Zakkum dalı mangalda kullanılabilir mi?
+C: Hayır, kesinlikle kullanılmamalıdır. Zakkumun tüm kısımları zehirlidir ve yakılmasıyla oluşan duman da tehlikelidir.
+
+S: Kediler için en tehlikeli bitki hangisi?
+C: Zambak türleri kediler için son derece tehlikelidir. Çiçeğin polenini yalamak bile böbrek yetmezliğine yol açabilir.
+
+S: Zehirlenme şüphesinde kimi aramalıyım?
+C: Türkiye'de Ulusal Zehir Danışma Merkezi'ne 114 numaralı telefondan ulaşabilirsiniz. Acil durumlarda 112 aranmalıdır. Evcil hayvanlar için veteriner hekime başvurulmalıdır.
+
+### YAZI
+slug: muz-gubreleme
+baslik: Muz Gübreleme: Saksıda ve Bahçede Muz Bitkisini Beslemek
+yayin: 2026-12-24 15:10
+yazar: Muhammed Hamza Çelik
+kategori: gubreleme
+odak: muz gübreleme
+seo_baslik: Muz Gübreleme: Potasyum, Azot ve Organik Madde
+seo_aciklama: Muz gübreleme nasıl yapılır? Muz bitkisinin yüksek potasyum ve azot ihtiyacı, saksıda ve bahçede besleme takvimi, kışın besleme ve sık yapılan hatalar.
+ozet: Muz, hızla büyüyen dev yaprakları ve ağır salkımlarıyla en çok besin isteyen bitkilerden biridir. Saksıda süs olarak ya da sıcak bölgelerde meyve için yetiştirilen muzun besleme ihtiyacını anlatıyoruz.
+etiketler: muz, muz bitkisi, saksıda muz, potasyum, tropik bitkiler
+gorsel: p12-muz-gubre
+gorsel_alt: Sıra sıra dikilmiş, geniş yapraklı muz bitkilerinin bulunduğu bahçe
+urunler: hasturk-kati-solucan-gubresi, hasturk-sivi-solucan-gubresi, kati-solucan-gubresi-20-kg
+kisaca: Muz, çok hızlı büyüyen ve özellikle potasyum ile azotu bol kullanan bir bitkidir. Dikimde ve her ilkbaharda toprağa bol organik madde verilir; sıcak büyüme döneminde düzenli olarak azot ve potasyumu dengeleyen besleme yapılır. Salkım döneminde potasyum öne çıkar. Kışın büyüme yavaşladığında besleme azaltılır; saksıdaki muz daha sık ama hafif beslenir.
+@govde
+Muz gübreleme, muz bitkisinin hızlı büyümesini ve gösterişli görünümünü sürdürmek için en önemli bakım adımlarından biridir. Muz, sıcak bir yaz boyunca birkaç haftada bir yeni ve dev bir yaprak açabilen, son derece hızlı büyüyen bir bitkidir. Bu hız, ancak toprakta bol besin ve su varsa mümkündür. Ülkemizde muz, Anamur ve Alanya gibi sıcak kıyı bölgelerinde meyvesi için, diğer bölgelerde ise saksıda ya da korunaklı bahçelerde tropik bir süs bitkisi olarak yetiştirilir. Her iki durumda da beslemenin temel kuralları aynıdır.
+
+## Muz neden bu kadar besin ister?
+
+Muz bitkisi, botanik olarak bir ağaç değil, dev bir otsu bitkidir. Gövde gibi görünen kısım, aslında iç içe geçmiş yaprak saplarından oluşur. Bitki kısa sürede metrelerce boy atar ve kocaman yapraklar oluşturur. Meyve veren bir muz bitkisi ise ağır salkımlarını büyütmek için çok miktarda besin kullanır.
+
+- **Potasyum:** Muzun en çok ihtiyaç duyduğu besindir. Salkım gelişimi, meyve kalitesi, bitkinin su dengesi ve rüzgâra karşı dayanıklılığı için gereklidir. Potasyum eksikliğinde yaşlı yaprakların uçları ve kenarları sararıp kahverengileşir, yapraklar erken kurur. Belirtiler için [potasyum eksikliği](/potasyum-eksikligi) yazımıza bakabilirsiniz.
+- **Azot:** Hızlı yaprak ve gövde gelişimi için gereklidir. Eksikliğinde yapraklar soluk yeşil ya da sarımsı olur, yeni yaprakların çıkışı yavaşlar.
+- **Magnezyum:** Yaprakların yeşil kalması için önemlidir. Eksikliğinde yaprak kenarlarına yakın bölgelerde sararma görülür.
+- **Organik madde:** Muz, organik maddece zengin, nemli ama iyi süzülen toprakları sever. Organik madde hem besin kaynağıdır hem de toprağın nem tutmasını sağlar.
+
+## Dikimde toprak hazırlığı
+
+Muz dikimi için geniş ve derin bir çukur açın. Çukurdan çıkan toprağı bol miktarda iyi yanmış hayvan gübresi, kompost ya da solucan gübresiyle karıştırın. Muz kökleri yüzeye yakın yayılır; bu nedenle toprağın üst katmanının organik maddece zengin olması önemlidir.
+
+[ürün:kati-solucan-gubresi-20-kg]
+
+Dikimden sonra bitkinin çevresine kalın bir organik malç serin. Kurumuş muz yaprakları da bu iş için kullanılabilir. Malç toprağın nemini korur, yabancı otları bastırır ve zamanla çürüyerek toprağa organik madde kazandırır.
+
+## Muz gübreleme takvimi
+
+### İlkbahar: büyümenin başlangıcı
+
+Havalar ısınıp bitki yeni yapraklar çıkarmaya başladığında, bitkinin çevresine taç izdüşümü boyunca katı solucan gübresi ya da kompost serpin ve hafifçe toprağa karıştırın. Bu, sezonun ilk ve en önemli beslemesidir.
+
+### Yaz: hızlı büyüme dönemi
+
+Sıcak yaz aylarında muz en hızlı büyüdüğü dönemdedir. Bu dönemde düzenli aralıklarla besleme yapmak gerekir. Sıvı organik besinleri sulama suyuyla iki üç haftada bir vermek, bitkinin besin ihtiyacını düzenli olarak karşılar. Azot ve potasyumu birlikte gözeten bir besleme, hem yaprak hem de salkım gelişimini destekler.
+
+[ürün:hasturk-sivi-solucan-gubresi]
+
+### Salkım dönemi
+
+Bitki salkım çıkardığında potasyum ihtiyacı en üst düzeye ulaşır. Bu dönemde potasyumu gözeten besleme, meyvelerin dolgun ve lezzetli olmasını sağlar. Salkım olgunlaşıp hasat edildikten sonra, meyve veren ana gövde bir daha meyve vermez; kesilir ve yerini dibinden çıkan yavru sürgünlere bırakır. Kesilen gövde parçalanıp bitkinin çevresine malç olarak serilebilir.
+
+### Sonbahar ve kış
+
+Sıcaklık düştükçe muzun büyümesi yavaşlar. Sonbaharın ortasından itibaren beslemeyi azaltın, kışın ise tamamen durdurun ya da çok seyrek tutun. Kışın verilen bol besin, bitkinin soğuğa karşı daha hassas, yumuşak dokular oluşturmasına neden olabilir.
+
+## Saksıda muz gübreleme
+
+Saksıda yetiştirilen süs muzları, toprak hacmi sınırlı olduğu için besinleri hızla tüketir. Her sulamada besinlerin bir kısmı drenaj deliğinden yıkanır. Bu nedenle saksıdaki muz, bahçedekine göre daha sık ama daha hafif beslenmelidir.
+
+- Büyük bir saksı ve organik maddece zengin, iyi süzülen bir toprak kullanın.
+- İlkbaharda toprağın yüzeyine katı solucan gübresi serpin ve hafifçe karıştırın.
+- Büyüme döneminde iki üç haftada bir sıvı organik besin verin.
+- Kışın, bitki serin bir odada ya da kış bahçesinde dinlenirken beslemeyi durdurun.
+- Her iki yılda bir saksıyı yenileyin ya da en azından üst toprağı tazeleyin.
+
+Büyük saksılarda bitki yetiştirmenin ayrıntıları için [büyük saksıda ağaç](/buyuk-saksida-agac) yazımız size fikir verecektir. Saksıdaki muzu kışın aydınlık ve serin bir köşede tutmak isterseniz [kış bahçesi](/kis-bahcesi-nasil-yapilir) yazımız da faydalı olacaktır.
+
+## Muz kabuğu ile beslemek
+
+Muz kabuğunun bitkilere potasyum sağladığı sıkça söylenir. Muz kabuğu gerçekten potasyum içerir ve kompost yığınına eklendiğinde değerli bir organik malzemedir. Ancak doğrudan toprağa gömülen kabuklar yavaş çürür ve bitkinin besin ihtiyacını tek başına karşılamaz. Bu konuyu [muz kabuğu gübresi](/muz-kabugu-gubresi) yazımızda ayrıntılı tartıştık.
+
+## Sulama ve gübrenin birlikte düşünülmesi
+
+Muz, büyük yaprakları nedeniyle çok su buharlaştırır ve yazın bol su ister. Gübre ancak nemli toprakta köklere ulaşır. Kuru toprağa verilen gübre kökleri yakabilir. Ancak muz, sürekli su içinde kalan topraklarda kök çürümesine de yatkındır. Toprağı düzenli nemli ama asla çamur halinde tutmamak gerekir. Sıvı besinleri her zaman nemli toprağa verin. Sıvı besin kullanımı için [sıvı solucan gübresi nasıl kullanılır](/sivi-solucan-gubresi-nasil-kullanilir) yazımıza bakabilirsiniz.
+
+## Sık yapılan hatalar
+
+- **Yetersiz besleme:** Hızlı büyüyen muz kısa sürede açlık belirtileri gösterir; yapraklar küçülür ve soluklaşır.
+- **Kışın yaz gibi beslemek:** Dinlenen bitki besini kullanamaz, toprakta tuz birikir.
+- **Potasyumu ihmal etmek:** Yaprak kenarları kurur, salkım gelişimi zayıflar.
+- **Gübreyi gövdeye yığmak:** Gübreyi gövdenin dibine değil, kök bölgesine, taç izdüşümü boyunca verin.
+- **Organik maddeyi unutmak:** Yalnız sıvı besinle beslenen muzun toprağı zamanla fakirleşir ve sıkışır.
+
+Muz gübreleme, bu hızlı büyüyen bitkiyi sağlıklı ve gösterişli tutmanın anahtarıdır. Bol organik madde, büyüme döneminde düzenli besleme, salkım döneminde potasyum ve kışın dinlenme, muz yetiştiriciliğinin temel kurallarıdır.
+@sss
+S: Muz bitkisi için en önemli besin hangisi?
+C: Potasyum, muzun en çok ihtiyaç duyduğu besindir. Salkım gelişimi, meyve kalitesi ve bitkinin genel dayanıklılığı için gereklidir. Azot da hızlı yaprak gelişimi için önemlidir.
+
+S: Saksıdaki muz ne sıklıkla gübrelenmeli?
+C: Büyüme döneminde iki üç haftada bir sıvı organik besin verilebilir. İlkbaharda toprağa katı organik gübre eklemek de faydalıdır. Kışın besleme durdurulur.
+
+S: Muz yapraklarının kenarları neden kurur?
+C: Potasyum eksikliği, yetersiz sulama, kuru hava ve rüzgâr yaprak kenarlarının kurumasına yol açabilir. Saksıda ise toprakta biriken tuzlar da bu soruna neden olabilir.
+
+S: Muz kabuğu muz bitkisine gübre olur mu?
+C: Muz kabuğu potasyum içerir ve kompost yığınına eklendiğinde faydalıdır. Ancak doğrudan toprağa gömülen kabuklar yavaş çürür ve bitkinin besin ihtiyacını tek başına karşılamaz.
+
+### YAZI
+slug: limon-bakim-seti-saksi-limonu
+baslik: Limon Bakım Seti: Saksı Limonu İçin Toprak ve Besin Bir Arada
+yayin: 2026-12-24 16:35
+yazar: Halil İbrahim Çelik
+kategori: bitki-bakimi
+odak: limon bakım seti
+seo_baslik: Limon Bakım Seti: Saksı Limonu İçin Toprak ve Besin
+seo_aciklama: Limon bakım seti ne işe yarar? Saksı limonu için doğru toprak, sıvı organik besinle besleme, saksı değişimi adımları ve yıl boyu limon bakım takvimi.
+ozet: Saksıda limon yetiştirmenin iki temel taşı vardır: doğru toprak ve düzenli besleme. Limon bakım setinin içeriğini, saksı değişiminde nasıl kullanılacağını ve yıl boyu bakım takvimini anlatıyoruz.
+etiketler: limon ağacı, saksıda limon, narenciye bakımı, limon toprağı, sıvı solucan gübresi
+gorsel: p12-limon-saksi
+gorsel_alt: Saksıda yetişen, dalları küçük sarı meyvelerle dolu bodur narenciye ağacı
+urunler: limon-agaci-bakim-seti-20-lt-toprak-500-ml-sivi-solucan-gubresi, limon-agaci-topragi-ozel-organik-karisim, hg-narenciye-topragi
+kisaca: Limon bakım seti, saksıda limon yetiştirmenin iki temel ihtiyacını bir arada sunar: limona uygun, iyi süzülen 20 litre toprak ve büyüme döneminde düzenli kullanılacak 500 ml sıvı solucan gübresi. Toprak, saksı değişiminde ya da yeni dikimde kullanılır; sıvı besin ilkbahar ve yaz boyunca sulama suyuyla verilir. Kışın besleme azaltılır.
+@govde
+Limon bakım seti, saksıda limon ağacı yetiştirenlerin en sık sorduğu iki soruya birlikte cevap verir: "Limonumu hangi toprağa dikmeliyim?" ve "Nasıl beslemeliyim?" Saksı limonu, doğru bakımla yıl boyu çiçek açan, mis gibi kokan ve meyve veren harika bir bitkidir. Ancak saksıda toprak sınırlı olduğu için hem toprağın kalitesi hem de düzenli besleme, bitkinin sağlığı için belirleyicidir. Bu yazıda limon bakım setinin içeriğini, nasıl kullanılacağını ve saksı limonunun yıl boyu bakımını anlatıyoruz.
+
+## Limon bakım seti neler içerir?
+
+Limon bakım setimiz iki üründen oluşur:
+
+- **20 litre limon ağacı toprağı:** Narenciyenin ihtiyaçlarına göre hazırlanmış, organik maddece zengin, iyi süzülen ve havadar bir karışım.
+- **500 ml sıvı solucan gübresi:** Büyüme döneminde sulama suyuna karıştırılarak kullanılan organik bir besin.
+
+Set, özellikle yeni bir limon fidanı alıp saksıya dikmek isteyenler ve mevcut limonunun saksısını değiştirmeyi planlayanlar için pratik bir çözüm sunar.
+
+## Limon neden özel toprak ister?
+
+Limon ve diğer narenciyeler, kökleri suyun içinde kalmaya hiç dayanamayan bitkilerdir. Sürekli ıslak ve havasız toprakta kökler hızla çürür. Aynı zamanda narenciye, hafif asidik ile nötr arası bir toprak ortamını sever. Kireçli ve ağır topraklarda demir gibi besinleri almakta zorlanır ve yapraklarında damar arası sararmalar görülür.
+
+İyi bir limon toprağı:
+
+- Suyu hızla süzer ama tamamen kurumaz.
+- Havadardır; kökler oksijen alabilir.
+- Organik maddece zengindir ve besinleri yavaş yavaş sağlar.
+- Narenciyenin sevdiği hafif asidik ortamı destekler.
+
+Bahçe toprağı ya da genel saksı toprağı bu özellikleri her zaman taşımaz. Saksıda yetiştirilen limon için özel olarak hazırlanmış bir toprak, sorunların büyük kısmını baştan önler.
+
+[ürün:limon-agaci-topragi-ozel-organik-karisim,hg-narenciye-topragi]
+
+[ürün:limon-agaci-bakim-seti-20-lt-toprak-500-ml-sivi-solucan-gubresi]
+
+## Saksı değişiminde limon bakım seti kullanımı
+
+Saksı limonu genellikle iki üç yılda bir daha büyük bir saksıya alınmalıdır. En uygun zaman, bitkinin büyümeye başladığı ilkbahar başıdır.
+
+1. **Saksı seçin.** Mevcut saksıdan bir iki boy büyük, mutlaka drenaj delikli bir saksı seçin. Çok büyük saksı, fazla toprağın uzun süre nemli kalmasına ve kök çürümesine yol açar.
+2. **Bitkiyi çıkarın.** Saksıyı yan yatırıp kenarlarına vurarak bitkiyi kök topuyla birlikte çıkarın.
+3. **Kökleri kontrol edin.** Sağlıklı kökler açık renkli ve serttir. Kahverengi, yumuşak ve kötü kokan kökleri temiz bir makasla kesin. Saksının çevresinde dönen uzun kökleri hafifçe açın.
+4. **Yeni toprağı hazırlayın.** Saksının dibine bir miktar limon toprağı koyun.
+5. **Dikin.** Bitkiyi eski saksıdaki seviyesinde olacak şekilde yerleştirin. Kök boğazını gömmeyin. Kenarları toprakla doldurup hafifçe bastırın.
+6. **Sulayın.** Saksının dibinden su akana kadar sulayın ve fazla suyun süzülmesini sağlayın.
+
+Saksı değişiminden sonraki ilk dört altı hafta besin vermeyin; taze toprak bu dönem için yeterli besin içerir ve yeni kökler hassastır. Saksının kaç litre toprak alacağını hesaplamak için [saksıya kaç litre toprak gider](/saksiya-kac-litre-toprak-gider) yazımızdan yararlanabilirsiniz. Saksı değişiminin genel kuralları için de [saksı değiştirme rehberi](/saksi-degistirme-rehberi) yazımıza göz atabilirsiniz.
+
+## Sıvı solucan gübresi ile besleme
+
+Saksı değişiminden birkaç hafta sonra ve her yıl ilkbahar ile yaz boyunca, limonu sıvı solucan gübresiyle düzenli olarak besleyebilirsiniz. Sıvı besin, sulama suyuna karıştırılarak verilir ve köklere hızla ulaşır.
+
+- **Büyüme döneminde:** İlkbahardan sonbahar başına kadar, iki üç haftada bir kullanın.
+- **Miktar:** Ürün etiketindeki oranı uygulayın.
+- **Nemli toprağa verin:** Kuru toprağa besinli su vermek kökleri yakabilir.
+- **Kışın:** Bitki serin bir yerde dinleniyorsa beslemeyi durdurun ya da ayda bire düşürün. Kışın çiçek açan ve sıcak bir odada büyümeye devam eden limonlar için hafif bir besleme sürdürülebilir.
+
+Limonun beslenmesiyle ilgili daha fazla bilgi için [limon ağacı gübreleme](/limon-agaci-gubreleme) yazımızı okuyabilirsiniz.
+
+## Saksı limonu için yıl boyu bakım takvimi
+
+### İlkbahar
+
+- Gerekiyorsa saksı değişimi yapın.
+- Bitkiyi kademeli olarak dışarıya, güneşli bir köşeye alıştırın.
+- Büyüme başladığında düzenli beslemeye başlayın.
+
+### Yaz
+
+- Bol güneş alan bir yerde tutun.
+- Toprağın üst kısmı kurudukça derin sulama yapın; sıcak günlerde saksıyı daha sık kontrol edin.
+- Düzenli beslemeye devam edin.
+- Yaprak altlarını zararlılar için kontrol edin.
+
+### Sonbahar
+
+- Beslemeyi yavaş yavaş azaltın.
+- Gece sıcaklıkları düşmeye başladığında bitkiyi korunaklı bir yere almaya hazırlanın.
+
+### Kış
+
+- Limonu aydınlık ve serin bir odaya, kapalı bir balkona ya da kış bahçesine alın.
+- Sulamayı belirgin şekilde azaltın; toprağın üst kısmı kurumadan sulamayın.
+- Kalorifer peteğinin yakınından ve soğuk hava akımlarından uzak tutun.
+
+Kış bahçesi kurmayı düşünüyorsanız [kış bahçesi nasıl yapılır](/kis-bahcesi-nasil-yapilir) yazımız size fikir verecektir.
+
+## Işık ve yer seçimi
+
+Limon, günde en az birkaç saat doğrudan güneş almak ister. Yazın balkon ya da terasın en güneşli köşesi, kışın ise evin en aydınlık penceresi ya da camlı bir balkon idealdir. Yetersiz ışıkta limon çiçek açmaz, yaprakları soluklaşır ve dökülmeye başlar. Saksıyı mevsim geçişlerinde bir anda yer değiştirmek yerine, yeni yerine birkaç güne yayarak alıştırmak yaprak dökümünü önler.
+
+## Sık karşılaşılan sorunlar
+
+- **Yaprak dökümü:** Ani ortam değişikliği, soğuk hava akımı, fazla ya da az sulama en sık nedenlerdir.
+- **Sararan yapraklar:** Damar arası sararma demir eksikliğine, genel sararma ise fazla suya ya da azot eksikliğine işaret edebilir.
+- **Çiçek ve meyve dökümü:** Düzensiz sulama ve ani sıcaklık değişimleri çiçek ve küçük meyvelerin dökülmesine yol açar.
+- **Zararlılar:** Kabuklu bit, unlu bit ve kırmızı örümcek saksı limonunda sık görülür.
+
+Limon ağacının hastalık ve zararlıları için [limon ağacı hastalıkları](/limon-agaci-hastaliklari) yazımıza, genel bakım için de [saksıda limon ağacı bakımı](/saksida-limon-agaci-bakimi) yazımıza göz atabilirsiniz.
+
+Limon bakım seti, saksı limonunuza doğru bir başlangıç yapmanın pratik bir yoludur. Doğru toprak ve düzenli besleme ile limonunuz yıllarca sağlıklı kalır, çiçek açar ve meyve verir.
+@sss
+S: Limon bakım setinde neler var?
+C: Set, limon ağacına uygun hazırlanmış 20 litre toprak ve büyüme döneminde kullanılacak 500 ml sıvı solucan gübresinden oluşur.
+
+S: Saksı limonunun saksısı ne zaman değiştirilmeli?
+C: Genellikle iki üç yılda bir, ilkbahar başında değiştirilmelidir. Yeni saksı mevcut saksıdan bir iki boy büyük ve drenaj delikli olmalıdır.
+
+S: Saksı değişiminden sonra gübre verilir mi?
+C: İlk dört altı hafta besin vermeyin. Taze toprak bu dönem için yeterli besin içerir ve yeni kökler hassastır.
+
+S: Limon kışın beslenmeli mi?
+C: Serin bir yerde dinlenen limon için kışın besleme durdurulur ya da ayda bire düşürülür. Sıcak bir odada büyümeye ve çiçek açmaya devam eden limonlar hafif beslenebilir.
+
+### YAZI
+slug: kisin-bahce-planlamasi
+baslik: Kışın Bahçe Planlaması: Gelecek Yıla Bugünden Hazırlık
+yayin: 2026-12-24 18:15
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: bahçe planlaması
+seo_baslik: Kışın Bahçe Planlaması: Adım Adım Hazırlık Rehberi
+seo_aciklama: Bahçe planlaması kışın nasıl yapılır? Geçen sezonu değerlendirmek, bahçe haritası, ekim nöbeti, tohum listesi, toprak analizi ve ekim takvimi hazırlığı.
+ozet: Kış, bahçenin dinlendiği ama bahçıvanın plan yaptığı mevsimdir. Geçen sezonu değerlendirip yeni sezonu kâğıt üzerinde kurmak, ilkbaharda zaman ve emek kazandırır. Adım adım anlatıyoruz.
+etiketler: bahçe planı, sebze bahçesi, ekim nöbeti, tohum seçimi, kış hazırlığı
+gorsel: p12-bahce-plan
+gorsel_alt: Düzenli dikdörtgen yataklara ayrılmış, kışa hazırlanmış duvarla çevrili sebze bahçesi
+urunler: moduler-yukseltilmis-bahce-yatagi-198-litre, arzuman-koy-tipi-domates-tohumu, hasturk-kati-solucan-gubresi
+kisaca: Kışın bahçe planlaması, geçen sezonun notlarını gözden geçirmek, bahçenin ölçekli bir haritasını çıkarmak, ekim nöbetine göre yatakları yerleştirmek, tohum listesini hazırlamak ve ekim takvimi oluşturmakla yapılır. Toprak analizi ve gerekli düzenlemeler de bu dönemde planlanır. İyi bir plan ilkbaharda telaşı azaltır ve verimi artırır.
+@govde
+Bahçe planlaması, kış aylarının en keyifli bahçe işidir. Dışarıda toprak dinlenirken, sıcak bir odada geçen sezonu hatırlamak, yeni bitkiler seçmek ve bahçeyi kâğıt üzerinde yeniden kurmak, ilkbaharın heyecanını şimdiden hissettirir. İyi bir plan, ilkbaharda tohum ekim zamanı geldiğinde neyin, nereye ve ne zaman ekileceğini bilmenizi sağlar. Bu yazıda kış aylarında adım adım bahçe planlamasının nasıl yapılacağını anlatıyoruz.
+
+## Bahçe planlaması neden kışın yapılır?
+
+Kış, bahçede yapılacak işin en az olduğu mevsimdir. Bu boş zaman, geçen sezonu değerlendirmek ve yeni sezonu düşünmek için idealdir. Ayrıca:
+
+- **Tohum siparişleri için doğru zaman:** Popüler çeşitler ve yerel tohumlar ilkbaharda hızla tükenebilir.
+- **Erken ekimler yaklaşıyor:** Domates, biber ve patlıcan gibi sebzelerin fideleri kış sonunda ekilmeye başlanır. Planınız hazır olmalıdır.
+- **Toprak hazırlığı:** Toprak analizi ve gerekli düzenlemeler ilkbahardan önce yapılmalıdır.
+- **Yapısal işler:** Yeni yataklar, yollar ve çitler, bitkiler dikilmeden önce kurulmalıdır.
+
+## Adım 1: Geçen sezonu değerlendirin
+
+İyi bir plan, geçmişten öğrenmekle başlar. Geçen sezonu düşünün ve şu soruları yanıtlayın:
+
+- Hangi sebzeler ve çeşitler iyi verim verdi, hangileri hayal kırıklığı yarattı?
+- Hangi hastalık ve zararlılarla karşılaştınız? Hangi yataklarda?
+- Bazı sebzelerden çok fazla, bazılarından çok az mı yetiştirdiniz?
+- Bahçenin hangi kısımları daha çok güneş aldı, hangileri gölgede kaldı?
+- Sulama yeterli miydi? Hangi bölgeler kurudu ya da su tuttu?
+
+Bir bahçe defteri tutuyorsanız bu sorulara cevap vermek çok kolaylaşır. Tutmuyorsanız bu yıl başlamak için en iyi zaman. Bahçe defterinin nasıl tutulacağını [bahçe defteri](/bahce-defteri) yazımızda anlattık.
+
+## Adım 2: Bahçenin haritasını çıkarın
+
+Bahçenizin ölçülerini alın ve kareli bir kâğıda ölçekli olarak çizin. Haritada şunları gösterin:
+
+- Mevcut yataklar, yollar, ağaçlar ve yapılar
+- Güneşin geliş yönü ve gölge alanlar
+- Su kaynağı ve sulama hattı
+- Rüzgârın geldiği yön
+- Kompost alanı ve alet deposu
+
+Bu harita, her yıl kullanabileceğiniz temel bir belge olur. Her sezon için haritanın bir kopyası üzerinde planlama yapabilirsiniz.
+
+## Adım 3: Ekim nöbetini planlayın
+
+Aynı sebzeyi ya da aynı aileden sebzeleri her yıl aynı yere ekmek, toprakta hastalık ve zararlıların birikmesine ve belirli besinlerin tükenmesine yol açar. Ekim nöbeti, sebzeleri ailelerine göre gruplayıp her yıl farklı bir yatağa kaydırmaktır.
+
+Basit bir dört yataklı nöbet örneği:
+
+1. **Baklagiller:** Fasulye, bezelye, bakla. Toprağa azot kazandırır.
+2. **Yaprak sebzeler:** Lahana, marul, ıspanak. Azotu sever, baklagillerden sonra iyi gelişir.
+3. **Meyve sebzeler:** Domates, biber, patlıcan, kabakgiller. Bol besin ister.
+4. **Kök sebzeler:** Havuç, turp, soğan, pancar. Daha az besinle yetinir.
+
+Geçen yılki yerleşimi haritada işaretleyin ve her grubu bir sonraki yatağa kaydırın. Ekim nöbetinin ayrıntıları için [ekim nöbeti](/ekim-nobeti) yazımıza göz atabilirsiniz.
+
+## Adım 4: Ne kadar yetiştireceğinize karar verin
+
+Ailenizin gerçekten ne kadar tükettiğini düşünün. Pek çok bahçe sahibi ilk yıllarda çok fazla kabak ve çok az domates yetiştirir. Her sebze için kaç bitkiye ihtiyacınız olduğunu hesaplayın ve bunu alanla karşılaştırın. Sebzelerin aralık ihtiyaçlarını bilmek bu hesabı kolaylaştırır; [sebze ekim aralıkları](/sebze-ekim-araliklari) yazımız bu konuda size yardımcı olacaktır.
+
+Kademeli ekim de planlamanın bir parçasıdır. Marul, turp ve fasulye gibi sebzeleri tek seferde değil, birkaç hafta arayla ekmek, sezon boyu düzenli ve israfsız hasat sağlar.
+
+## Adım 5: Tohum ve fide listesi hazırlayın
+
+Planınıza göre bir tohum listesi oluşturun:
+
+- Elinizdeki tohumları kontrol edin. Tarihlerine bakın; eski tohumların çimlenme gücü düşmüş olabilir.
+- Kendi topladığınız ata tohumlarını listeye ekleyin. Saklama koşulları için [ata tohumu saklama](/ata-tohumu-saklama) yazımıza bakabilirsiniz.
+- Bu yıl denemek istediğiniz bir iki yeni çeşit ekleyin.
+- Hangi sebzeleri tohumdan, hangilerini hazır fide olarak alacağınıza karar verin.
+
+[ürün:arzuman-koy-tipi-domates-tohumu]
+
+## Adım 6: Ekim takvimi oluşturun
+
+Bölgenizdeki son don tarihini temel alarak geriye doğru bir ekim takvimi hazırlayın. Her sebze için şunları not edin:
+
+- Fide için ne zaman ekilecek?
+- Ne zaman bahçeye dikilecek ya da doğrudan ekilecek?
+- Yaklaşık hasat zamanı ne zaman?
+
+Bu takvimi duvara asmak ya da bahçe defterinize yazmak, ilkbaharın yoğun haftalarında hiçbir ekimi kaçırmamanızı sağlar.
+
+## Adım 7: Toprak ve yapı işlerini planlayın
+
+Kış, toprak analizi yaptırmak için de uygun bir zamandır. Analiz sonuçları, ilkbaharda toprağa ne ekleyeceğinizi belirler. Örneğin nasıl alınacağını [toprak örneği alma](/toprak-ornegi-alma) yazımızda anlattık. Her yatak için ne kadar kompost ya da organik gübre gerekeceğini hesaplayın ve temin edin.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Yeni yataklar, yükseltilmiş bahçe yatakları ya da yollar planlıyorsanız, bu işleri ilkbahardan önce tamamlamak gerekir. Yükseltilmiş yataklar, toprağı ağır olan bahçelerde, sırt ağrısı çekenler için ve düzenli bir görünüm isteyenler için iyi bir çözümdür.
+
+## Bahçe planlaması için ipuçları
+
+Planı tek seferde mükemmel hale getirmeye çalışmayın. İlk taslağı hazırlayıp birkaç gün sonra yeniden bakmak, gözden kaçan ayrıntıları fark etmenizi sağlar. Ailenizle birlikte plan yapmak da hem iş bölümünü kolaylaştırır hem de herkesin sevdiği sebzelerin bahçede yer almasını sağlar.
+
+## Küçük bahçe ve balkon için planlama
+
+Bahçe planlaması yalnız büyük bahçeler için değildir. Bir balkon ya da teras da planlamadan büyük fayda görür. Hangi saksının nereye konacağını, hangi bitkinin ne kadar güneş alacağını ve dikey alanların nasıl kullanılacağını kâğıt üzerinde düşünmek, sınırlı alanı en verimli şekilde kullanmanızı sağlar. Yeni bir bahçe kurmayı düşünüyorsanız [hobi bahçesi nasıl kurulur](/hobi-bahcesi-nasil-kurulur) yazımız iyi bir başlangıç olur. Sebze bahçesinin yerleşimi için de [sebze bahçesi planı](/sebze-bahcesi-plani) yazımıza göz atabilirsiniz.
+
+Kışın yapılan bahçe planlaması, ilkbaharda sizi telaştan kurtarır ve sezonu çok daha verimli geçirmenizi sağlar. Bir fincan çay, kareli bir kâğıt ve geçen yılın notları: yeni sezonun hazırlığı için başka bir şeye ihtiyacınız yok.
+@sss
+S: Bahçe planlamasına ne zaman başlamalıyım?
+C: Kış ayları bahçe planlaması için en uygun zamandır. Tohum siparişleri ve erken fide ekimleri başlamadan önce planın hazır olması gerekir.
+
+S: Ekim nöbeti neden önemlidir?
+C: Aynı aileden sebzeleri her yıl aynı yere ekmek hastalık ve zararlıların birikmesine ve belirli besinlerin tükenmesine yol açar. Ekim nöbeti bu riskleri azaltır.
+
+S: Bahçe haritasında neler olmalı?
+C: Yataklar, yollar, ağaçlar, güneş ve gölge alanları, su kaynağı, rüzgâr yönü ve kompost alanı haritada gösterilmelidir.
+
+S: Eski tohumlar kullanılabilir mi?
+C: Kullanılabilir, ancak çimlenme gücü düşmüş olabilir. Ekimden önce küçük bir çimlenme testi yapmak, tohumun hâlâ iyi olup olmadığını gösterir.
+
+### YAZI
+slug: ocak-ayinda-bahce-isleri
+baslik: Ocak Ayında Bahçe İşleri: Kış Ortasında Bahçe Takvimi
+yayin: 2026-12-24 20:20
+yazar: Mehmet Fatih Çelik
+kategori: ekim-takvimi
+odak: ocak ayında bahçe işleri
+seo_baslik: Ocak Ayında Bahçe İşleri: Budama, Koruma ve Hazırlık
+seo_aciklama: Ocak ayında bahçe işleri nelerdir? Kış budaması, fidan dikimi, ağaçları kıştan korumak, alet bakımı, kış sulaması, fide hazırlığı ve bölgesel öneriler.
+ozet: Ocak, bahçenin en sakin ama hazırlık açısından en verimli aylarından biridir. Budamadan fidan dikimine, alet bakımından ilk fide ekimlerine kadar ocak ayında bahçede yapılacakları anlatıyoruz.
+etiketler: ocak ayı, bahçe takvimi, kış budaması, fidan dikimi, kış bakımı
+gorsel: p12-ocak-bahce
+gorsel_alt: Kış ortasında yaprakları dökülmüş ağaçlar ve dinlenmeye çekilmiş sakin bir bahçe
+urunler: budama-makasi, raco-tel-tirmik-kucuk, hasturk-kati-solucan-gubresi
+kisaca: Ocak ayında bahçe işleri arasında kuru ve donsuz günlerde meyve ağaçlarının kış budaması, çıplak köklü fidan dikimi, gövdeleri kış güneşinden ve dondan korumak, kar yükünü dallardan almak ve kurak geçen kışta genç ağaçları sulamak yer alır. Aletlerin bakımı, tohum listesinin hazırlanması ve sıcak bölgelerde ilk fide ekimleri de bu ayın işleridir.
+@govde
+Ocak ayında bahçe işleri, ilk bakışta azmış gibi görünür. Ağaçlar çıplak, toprak soğuk, günler kısadır. Ancak bu sakin ay, bahçıvan için hem bakım hem de hazırlık açısından son derece değerlidir. Ocakta yapılan doğru işler, ilkbaharda bahçenin güçlü ve sağlıklı uyanmasını sağlar. Bu yazıda ocak ayında bahçede yapılacak işleri, bölgesel farklılıkları da göz önünde bulundurarak anlatıyoruz. Bir önceki ayın işleri için [aralık ayında bahçede yapılacaklar](/aralik-ayinda-bahcede-yapilacaklar) yazımıza göz atabilirsiniz.
+
+## Meyve ağaçlarında kış budaması
+
+Ocak, yaprak döken meyve ağaçlarının kış budaması için en uygun aylardan biridir. Yapraklar döküldüğü için ağacın iskeleti net olarak görülür ve hangi dalların alınacağına karar vermek kolaylaşır. Budama yaparken şu kurallara dikkat edin:
+
+- **Kuru ve donsuz bir gün seçin.** Dondurucu soğukta yapılan budama yaralarında doku zarar görebilir. Islak havada ise hastalık etmenleri kesik yerlerden daha kolay girer.
+- **Önce kuru, hastalıklı ve kırık dalları alın.** Bu her ağaç için ilk adımdır.
+- **Birbirine sürtünen ve içe doğru büyüyen dalları seyreltin.** Ağacın içine ışık ve hava girmesini sağlayın.
+- **Temiz ve keskin aletler kullanın.** Kesimlerin düzgün olması yaraların hızla kapanmasını sağlar.
+- **Kayısı ve kiraz gibi sert çekirdeklilerde dikkatli olun.** Bu türler kış budamasına karşı daha hassastır ve bazı bölgelerde budamanın kış sonuna ya da hasat sonrasına bırakılması önerilir.
+
+Kış budamasının ayrıntıları için [kış budaması](/kis-budamasi) yazımıza, elma için [elma ağacı budama](/elma-agaci-budama) yazımıza bakabilirsiniz. Asma budaması da ocak ve şubat aylarının işidir; ayrıntılar [asma budama](/asma-budama) yazımızda.
+
+[ürün:budama-makasi]
+
+## Çıplak köklü fidan dikimi
+
+Toprak donmuş ya da çamur halinde değilse, ocak ayı çıplak köklü meyve ve süs fidanlarının dikimi için uygundur. Kışın dikilen fidanlar, ilkbahar gelene kadar köklerini toprağa yerleştirmeye başlar ve büyüme mevsimine daha güçlü girer. Dikim adımları için [çıplak köklü fidan dikimi](/ciplak-koklu-fidan-dikimi) yazımızı okuyabilirsiniz. Bahçenize uygun ağaç seçimi için de [bahçeye uygun süs ağaçları](/bahceye-uygun-sus-agaclari) yazımız size yol gösterecektir.
+
+## Ağaçları kıştan korumak
+
+- **Gövde koruma:** Genç ve ince kabuklu ağaçların gövdeleri, gündüz güneşle ısınıp gece donunca çatlayabilir. Gövdeyi kireç badanası ile beyaza boyamak bu riski azaltır. Uygulama için [ağaç gövdesine kireç badanası](/agac-govdesine-kirec-badanasi) yazımıza bakabilirsiniz.
+- **Kar yükü:** Yoğun kar yağışından sonra, özellikle yaprak dökmeyen ağaç ve çalıların dallarındaki karı nazikçe silkeleyin. Ağır kar dalları kırabilir.
+- **Kemirgenler:** Bazı bölgelerde tavşan ve fare gibi kemirgenler genç ağaçların kabuğunu kemirebilir. Gövdenin alt kısmını tel bir koruyucuyla sarmak işe yarar.
+- **Kış güneşi:** Kış güneşinin genç ağaçlar ve yaprak dökmeyen bitkiler üzerindeki etkilerine karşı da dikkatli olun. Ayrıntılar [bitkilerde güneş yanığı](/bitkilerde-gunes-yanigi) yazımızda.
+
+## Kış sulaması
+
+Kış kurak geçiyorsa, özellikle yeni dikilmiş fidanlar, genç ağaçlar ve yaprak dökmeyen bitkiler sulamaya ihtiyaç duyar. Kışın sulama, toprak donmuyorken, günün ılık saatlerinde yapılmalıdır. Akşam sulaması gece donunda köklere zarar verebilir. Ayrıntılar için [kışın meyve ağacı sulama](/kisin-meyve-agaci-sulama) yazımıza göz atabilirsiniz.
+
+## Toprak ve kompost
+
+Toprak işlenebilir durumdaysa, ilkbaharda ekim yapılacak yataklara organik madde eklemek için iyi bir zamandır. Kompost ya da solucan gübresini yatakların yüzeyine serip hafifçe karıştırmak, toprağın ilkbahara kadar bu organik maddeyi sindirmesine izin verir. Ancak ıslak ve çamurlu toprağı işlemek yapısını bozar; toprak avuçta ufalanıyorsa çalışın, yapışıyorsa bekleyin.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Kompost yığınınızı da kontrol edin. Kışın kompostlaşma yavaşlar, ama yığını örtmek ve arada bir karıştırmak süreci canlı tutar. Yere dökülen yaprakları toplayıp kompost yığınına eklemek ya da yaprak kompostu yapmak için ayrı bir yığın oluşturmak da ocak ayının işlerindendir.
+
+## Aletlerin bakımı
+
+Ocak, bahçe aletlerinin bakımı için ideal bir aydır. Budama makaslarını bileyin ve yağlayın, kürek ve çapaların paslarını temizleyin, ahşap sapları kontrol edin. Hortumları ve sulama tabancalarını donmaya karşı korunaklı bir yerde saklayın. Bakımlı aletler, ilkbaharın yoğun haftalarında işinizi kolaylaştırır. Ayrıntılar için [bahçe aletleri kış bakımı](/bahce-aletleri-kis-bakimi) yazımıza bakabilirsiniz.
+
+## Planlama ve tohum hazırlığı
+
+Ocak, yeni sezonun planlamasını tamamlamak için de en uygun aydır. Geçen sezonun notlarını gözden geçirin, bahçenin haritasını güncelleyin, ekim nöbetini planlayın ve tohum listenizi hazırlayın. Bu konuda adım adım rehber için [kışın bahçe planlaması](/kisin-bahce-planlamasi) yazımızı okuyabilirsiniz.
+
+## İlk fide ekimleri
+
+Sıcak bölgelerde ve ısıtılan seralarda, ocak ayının sonuna doğru ilk fide ekimlerine başlanabilir. Patlıcan ve biber gibi yavaş gelişen sebzeler, dikim tarihinden yaklaşık iki ay önce ekilmelidir. Soğuk bölgelerde ise bu ekimler şubat ve mart aylarına kalır. Fide yetiştirmeye başlamadan önce [evde fide yetiştirme](/evde-fide-yetistirme) yazımızdan yararlanabilirsiniz.
+
+## Saksı ve balkon bitkileri
+
+Ocakta balkonda kalan saksı bitkilerini sert donlara karşı kontrol edin. Saksıları duvar dibine toplamak, altlarına köpük ya da tahta bir altlık koymak ve en soğuk gecelerde üzerlerini örtmek kökleri korur. İçeri alınan bitkilerde sulamayı azaltın, yaprak altlarını zararlılar için kontrol edin ve bitkileri kalorifer peteğinin doğrudan sıcak hava akımından uzak tutun.
+
+## Bölgelere göre ocak ayında bahçe işleri
+
+- **Akdeniz ve Ege kıyıları:** Kışlık sebzelerin bakımı ve hasadı devam eder. Bakla, bezelye, ıspanak ve marul gibi kışlık ürünlerin yabancı ot temizliği yapılır. Narenciye hasadı sürer. Ilık günlerde bazı sebzelerin doğrudan ekimi yapılabilir.
+- **Marmara ve Karadeniz:** Kış budaması ve fidan dikimi için uygun günler değerlendirilir. Kışlık sebzeler soğuk gecelere karşı örtülerle korunur.
+- **İç Anadolu ve Doğu Anadolu:** Toprak çoğu zaman donmuştur. Bu bölgelerde ocak, daha çok planlama, alet bakımı ve kar yükünden ağaçları koruma ayıdır. Budama, sert donların geçtiği kış sonuna bırakılabilir.
+
+Ocak ayında bahçe işleri az görünse de, bu ayda yapılan her hazırlık ilkbaharda size zaman ve emek olarak geri döner. Sakin bir kış gününde bahçede geçirilen birkaç saat, gelecek sezonun en verimli yatırımıdır.
+@sss
+S: Ocak ayında meyve ağaçları budanır mı?
+C: Evet, kuru ve donsuz günlerde yaprak döken meyve ağaçlarının kış budaması yapılabilir. Kayısı ve kiraz gibi sert çekirdeklilerde budamanın zamanlaması bölgeye göre daha dikkatli seçilmelidir.
+
+S: Ocak ayında fidan dikilir mi?
+C: Toprak donmuş ya da çamur halinde değilse çıplak köklü fidanlar ocakta dikilebilir. Kışın dikilen fidanlar ilkbahara daha güçlü girer.
+
+S: Kışın bahçe sulanmalı mı?
+C: Kış kurak geçiyorsa genç ağaçlar, yeni dikilmiş fidanlar ve yaprak dökmeyen bitkiler sulanmalıdır. Sulama toprak donmuyorken, günün ılık saatlerinde yapılmalıdır.
+
+S: Ocak ayında hangi tohumlar ekilir?
+C: Sıcak bölgelerde ve ısıtılan seralarda ay sonuna doğru patlıcan ve biber gibi yavaş gelişen sebzelerin fide ekimlerine başlanabilir. Soğuk bölgelerde bu ekimler şubat ve marta kalır.

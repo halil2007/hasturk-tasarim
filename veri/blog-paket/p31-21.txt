@@ -1,0 +1,264 @@
+### YAZI
+slug: yatak-arasi-yesil-tunel
+baslik: Yatak Arası Yeşil Tünel: Domates ve Fasulyeyi Üstten Geçirmek
+yayin: 2027-03-26 09:10
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: yatak arası yeşil tünel
+seo_baslik: Yatak Arası Yeşil Tünel: Fasulye ve Domates
+seo_aciklama: Yatak arası yeşil tünel, iki yatağın üzerinden geçen kemerle fasulye, salatalık ve domatesi yukarı büyütür. Bitki seçimi, destek, aralık ve hasat planı.
+ozet: Yatak arası yeşil tünel, iki yükseltilmiş yatağın arasındaki yola bir kemer kurup sarılgan fasulye, salatalık ve bağlanan domatesi üstten geçirmektir. Hangi bitkinin kendi sarıldığını, hangisinin bağlanması gerektiğini, gölge etkisini ve yerleşimi anlattık.
+etiketler: yatak arası yeşil tünel, bahçe kemeri, sırık fasulye, sarılgan sebze, dikey bahçe, yükseltilmiş yatak, domates desteği
+gorsel: bekliyor
+gorsel_alt: İki sebze yatağının arasındaki yürüme yolunun üzerinde fasulye sarmaşıklarıyla kaplı kemer tünel
+urunler: galvaniz-bahce-kemeri-duz-cati-2-bolum, moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-35-290x60
+kisaca: Yatak arası yeşil tünel için iki yatağın dış kenarına sırık fasulye ya da salatalık ekin ve yolun üzerinden geçen kemerle yukarı yönlendirin. Fasulye kendi sarılır, salatalık asma uçlarıyla tutunur; domates ise sarılmadığı için iplerle bağlanır. Tünel yatakların uzun kenarına dik kurulursa yürüme yolu gölgelenir.
+@govde
+İki yükseltilmiş yatağın arasında genellikle boş bir yürüme yolu kalır; bu boşluğun üstü de ekim alanına çevrilebilir. Yatak arası yeşil tünel, yola bir kemer ya da çatı kurup sarılgan sebzeleri yatakların kenarından başlayarak üstten geçirmektir. Hem yerden kazandırır, hem de yolun üstünde hasat edilmeye hazır, yere değmeyen sebze asılı kalır. Bu yazı hangi bitkilerin böyle yetişeceğini, hangilerinin ek destek istediğini ve tünelin nereye kurulacağını anlatıyor.
+
+## Yatak arası yeşil tünel fikri nereden gelir?
+
+Küçük bahçede yer sınırlıdır; bitkiyi yatay yaymak yerine dikey yetiştirmek aynı alanda daha fazla ürün almayı sağlar. Nebraska Üniversitesi Yayım Servisi'nin [dikey bahçecilik yazısı](https://lancaster.unl.edu/vertical-gardening-makes-most-small-garden-footprint), çit, kafes ve çadır tipi destekleri anlatırken yükseltilmiş yataklarda sarılgan bitkilerin yer kazandırdığını gösterir. Kemer ya da tünel şeklindeki destek, iki yatağın arasına yerleştiğinde hem yatağın içindeki ekim alanını yemez hem de bahçeye dikey bir koridor kazandırır.
+
+Burada önemli ayrım şudur: Bazı bitkiler kendi tırmanır, bazıları tırmanmaz. Virginia Teknik Üniversitesi Yayım Servisi'nin [dikey sebze yetiştirme belgesi](https://pubs.ext.vt.edu/HORT/HORT-189/HORT-189.html), dikey yetiştirmeye uygun sebzeler arasında sırık fasulye, bezelye, salatalık, kavun ve domatesi sayar. Yani tünelden geçecek bitkiyi seçerken ona göre karar vermek gerekir.
+
+| Bitki | Nasıl tırmanır | Tünelde bakım |
+|---|---|---|
+| Sırık fasulye | Gövdesiyle dolanır | Kemer tellerine kendi sarılır; ilk haftalar yönlendirin |
+| Salatalık | Asma uçlarıyla (tırmaç) tutunur | Tünele ince tel ya da ağ eklemek tutunmayı kolaylaştırır |
+| Küçük kabak ve kavun türleri | Asma uçlarıyla tutunur | Meyveyi taşıyacak sağlam destek ve gerekirse ağ kese |
+| Bezelye | Asma uçlarıyla tutunur | Serin mevsimde ince ağla destekleyin |
+| Sırık (belirsiz) domates | Tırmanmaz | İple bağlanır, koltuk sürgünleri alınır |
+
+## Fasulye, salatalık ve domates: ortak noktalar ve farklar
+
+Nebraska yayımı, belirsiz (indeterminate) büyüyen domatesin destek ya da kafes sistemine uygun olduğunu, bodur tipteki domatesin ise tel kafesle desteklenebileceğini söyler. Domates sarılgan değildir; tünele yerleştirilen bitki tünelin çatısına kadar çıkarken iple bağlanmalı ve düzenli olarak yönlendirilmelidir. Fasulye ve salatalık ise tünelin yan duvarlarına kendi tutunur. Kemerin yan kısmında tel aralıklarının geniş olduğu yerlerde fasulyeyi kendi başına bırakabilirsiniz; salatalık için ise ince bir ağ ya da yatay ip eklemek gerekebilir.
+
+Kombinasyon fikri olarak, yatağın bir yanına sırık fasulye, karşı tarafa salatalık ya da sırık domates ekmek, tünelin üstünde iki bitkinin buluşmasını sağlar. Ama domates ağır olduğu için kemerin taşıma gücünü bilmeniz gerekir: Yatay çatıya aşırı yük bindirmeyin.
+
+[ürün:galvaniz-bahce-kemeri-duz-cati-2-bolum]
+
+Ürün açıklamasına göre iki bölümlü, düz çatılı bu galvaniz bahçe kemeri, sarmaşık gül ve yasemin için çiçek kemeri olduğu gibi, kabak ve fasulye gibi sarılgan sebzeler için kısa bir tünel olarak da kullanılabilir. Kemerin iskeleti aynı boyda galvaniz kutu profillerden kaynaksız ve civatalı olarak kurulur. Ölçüleri ve kurulumu ürün sayfasından kontrol edin.
+
+## Yerleşim: yön, aralık ve yükseklik
+
+Tünelin yönü gölge dağılımını belirler. Kemeri yatakların uzun kenarına dik, yani yürüme yolunu kesecek şekilde kurarsanız tünelin gölgesi yatakların bir bölümüne düşer; yola paralel uzun bir çatı ise güneyden gelen ışığı kısmen keser. Gölgeyi bilinçli kullanın: Tünelin altındaki yol ve bitki köşesinde marul, ıspanak ve roka gibi sıcak yazda sorun yaşayan yeşillikler daha az bunalır. Güneş seven domates ve salatalığı ise güneşi alan tarafa yerleştirin. Yön ve güneş saati için [yatak güneş yönü](/yatak-gunes-yonu) yazısına bakın.
+
+Yürüme yolunun genişliğini, hasat yapan bir kişinin ve el arabasının geçmesine göre belirleyin; tünelin iç yüksekliği, uzanarak hasat edebileceğiniz bir noktada bitmeli. Yatakların uzunluğu ve genişliği için birden çok model vardır; üretici bilgisine göre 290 cm uzunluğunda ve 60 cm genişliğinde, 30 cm yüksekliğinde bir modüler yatak yaklaşık 1,72 metrekare ekim alanı sunar ve doldurmak için yaklaşık 480 litre toprak gerektirir. Aynı toprak hacmini hesaplamak için ürün sayfasındaki değerleri kullanın. İki yatak dizisini yan yana kurmak için [seraya sebze yatağı nasıl yerleştirilir](/seraya-sebze-yatagi) yazısındaki yürüme yolu mantığı bahçe için de geçerlidir.
+
+[ürün:moduler-yukseltilmis-bahce-yatagi-uzun-seri-no-35-290x60]
+
+## Kurulum adımları
+
+::: adimlar
+Yatakları ve yolu ölçün | Yatakların dış kenarları arasındaki mesafeyi ve istediğiniz iç yüksekliği belirleyin.
+Kemeri yatağın kenarına sabitleyin | Kemerin ayaklarını yatak çerçevesine ya da zemine sağlam şekilde oturtun.
+Ek destek hazırlayın | Salatalık ve bezelye için ince tel ya da ağ, domates için ip ve bağlama noktaları ekleyin.
+Dik bitkileri kenara ekin | Fasulye ve salatalığı kemerin ayağına yakın, domatesi güneşli tarafa dikin.
+Yönlendirin | İlk haftalarda sürgünleri tele ya da ipe yönlendirin; kendi sarılmayanları bağlayın.
+Aşırı yükü önleyin | Ağır meyveleri ağla taşıyın, rüzgârlı günlerde kemeri kontrol edin.
+:::
+
+## Bakım: sulama, ayıklama ve hasat
+
+Tünelin altındaki yatakların toprağı, sarılgan bitkilerin gölgesinde daha yavaş kurur; yine de dikey sebzeler çok su tüketir. Sulamayı bitkinin köküne ve toprağa verin, yaprağı ıslatmaktan kaçının; nem bakteriyel ve mantar hastalıklarını artırır. Hasat için tünelin altında dolaşmak kolaydır; meyve ve baklalar sarkık olduğundan gözle bulmak daha kolaydır. Olgunlaşan fasulyeyi sık toplayın; toplamazsanız bitki üretimi azaltır. Salatalığın kuruyan ve sararan yapraklarını temizleyin. Tünelde hava dolaşımını sağlamak, külleme ve benzeri hastalıkları azaltır; salatalık için [salatalık hastalıkları](/salatalik-hastaliklari) yazısına bakın.
+
+Fasulye yetiştirme ayrıntıları için [fasulye yetiştirme](/fasulye-yetistirme) yazısı oturak ve sırık fasulyeyi anlatır; salatalık için [salatalık yetiştirme](/salatalik-yetistirme) yazısına bakabilirsiniz. Mini tünel mantığıyla kışlık örtü için [bahçe yatağına mini tünel](/bahce-yatagina-mini-tunel) yazısı farklı bir kullanım gösteriyor.
+
+## Ne zaman kurulur?
+
+Tünelin ayaklarını ve ana iskeletini ekim zamanından önce sabitleyin; çünkü bitkiler büyüdüğünde çalışmak zorlaşır. Fasulye ve salatalık sıcak mevsim sebzeleridir; son don geçtikten sonra dikilmeleri gerekir. Dönem ve fide için [fide dikim derinliği](/fide-dikim-derinligi) yazısına bakabilirsiniz. Yaz sonunda tünel boşalınca, serin mevsim ürünleri için yatakları yeniden kullanabilirsiniz; üç dönemli yatak planı fikri için [balkon yatağı mevsim planı](/balkon-yatagi-mevsim-plani) yazısı küçük alanda dönüş mantığını gösterir.
+
+## Tünelin altında ne olur?
+
+Tünelin altındaki yürüme yolu ilk bakışta boş görünür; ama bu alan sezon boyunca bir serinlik köşesine dönüşür. Sarılgan bitkiler yapraklarını kemere doğru yaydıkça yoldaki yeşillik yatağı için bir gölgelik oluşur. Çok sıcak yaz haftalarında marul, ıspanak ve roka bu gölgede daha geç çiçeğe kalkar. Yolun zeminini çakıl ya da kıyılmış kabukla kaplamak hem çamuru önler hem de gölgede nemin dengede kalmasını sağlar. Tünelin içinde yerde sebze yetiştirmek yerine, yolu temiz tutup yatağın kenarında yeşillik şeridi bırakmak da düzenli bir çözümdür.
+
+## Sık yapılan hatalar
+
+Tırmanmayan bitkiyi sarılgan sanıp desteksiz bırakmak en yaygın hatadır; domates mutlaka bağlanmalıdır. İkincisi, kemeri zayıf bırakıp ağır meyveyi taşımaya çalışmaktır. Üçüncüsü, yürüme yolunu fazla dar bırakmaktır. Dördüncüsü, güneş seven bitkileri tünelin gölgeli yanına dikmektir. Beşincisi, üstten sulayıp yaprağı sürekli ıslatmaktır. Altıncısı, tünel iskeletini bitki büyüdükten sonra kurmaya çalışmaktır. Yatak arası yeşil tünel, bitki seçimi ve destek planı doğru yapıldığında az yerden çok ürün almanın pratik bir yoludur.
+@sss
+S: Yatak arası yeşil tünel nedir?
+C: İki yatağın arasındaki yürüme yolunun üzerine kemer kurup sarılgan fasulye, salatalık ve bağlanan domatesi üstten yönlendirmektir. Aynı alanda daha fazla ürün almayı ve hasadı kolaylaştırmayı amaçlar.
+
+S: Tünele domates ekilir mi?
+C: Ekilir ama domates kendi sarılmaz. Belirsiz (sırık) domatesi iple bağlayarak ve koltuk sürgünlerini alarak yönlendirmek gerekir. Domates ağır olduğu için kemerin taşıma gücünü gözetin.
+
+S: Hangi sebzeler kendi tırmanır?
+C: Sırık fasulye gövdesiyle dolanır, salatalık, bezelye, kavun ve kabak asma uçlarıyla tutunur. Domates tırmanmaz; mutlaka bağlanır.
+
+S: Tünelin altına ne ekilir?
+C: Gölgede daha az bunalan marul, ıspanak ve roka gibi yeşillikler uygundur. Güneş seven bitkileri tünelin güneş alan yanında tutun.
+
+### YAZI
+slug: sera-sulama-programi
+baslik: Sera Sulama Programı: Damla ile Günlük Su, Sıklık ve Nem Dengesi
+yayin: 2027-03-26 11:35
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: sera sulama programı
+seo_baslik: Sera Sulama Programı: Damla Süre ve Sıklık
+seo_aciklama: Sera sulama programı bitkinin yaşına, ortama ve güneşe göre kurulur. Günlük su ihtiyacı, damla sıklığı, topraksız ortam ve toprak farkı, nem dengesi.
+ozet: Sera sulama programı sabit bir takvim değil, bitkinin yaşı, kök ortamı ve günün ışığına bağlı bir düzendir. Üniversite yayımlarının verdiği günlük su aralıklarını, toprak ve topraksız ortam farkını, damla süresini ve fazla nemin hastalık riskini anlattık.
+etiketler: sera sulama programı, damla sulama, sera nemi, günlük su ihtiyacı, serada domates, sulama sıklığı, topraksız ortam
+gorsel: bekliyor
+gorsel_alt: Seranın içinde sıralı domates bitkilerinin köklerine damlatıcıyla verilen sulama
+urunler: hg-bol-verimli-sebze-topragi, galvaniz-sera-iskeleti-3-8-m2-ve-u-sekilli-sebze-yatagi-seti
+kisaca: Sera sulama programı bitki yaşına, ortama ve güneşe göre kurulur: Üniversite yayımları olgun serada domates için günde yaklaşık 2 litre, parlak günlerde yaklaşık 3 litreye kadar su önerir; topraksız ortamda bu miktar gün içinde 6–12 kısa sulamaya bölünür, toprak yatakta ise daha seyrek ve derin sulanır.
+@govde
+Seranın içi, dışarıdaki bahçeye benzemez: Yağmur girmez, rüzgâr az eser, güneş camdan ya da naylondan geçince sıcaklık hızla yükselir. Bu yüzden bitki yalnızca damlatıcıdan gelen suya bağımlıdır. Sera sulama programı kurarken "ne kadar su" sorusu kadar "ne zaman, hangi ortamda, kaç sefer" sorusu da önemlidir. Bu yazı üniversite yayımlarının verdiği örnek aralıkları, hobi seranız için uyarlanabilecek bir mantıkla anlatıyor; kendi serada ölçüm ve gözlem her zaman rakamların önündedir.
+
+## Sera sulama programı neye göre kurulur?
+
+Üç değişken belirleyicidir: bitkinin yaşı ve büyüklüğü, kök ortamının türü ve günün ışığı ile sıcaklığı. Küçük fide çok az su ister, boyu ve yaprak alanı büyüyen bitki ise çok. Mississippi Eyalet Üniversitesi Yayım Servisi'nin [sera domates el kitabı](http://extension.msstate.edu/publications/greenhouse-tomato-handbook), genç fidelerin günde yaklaşık 50 mililitre suya ihtiyaç duyduğunu, olgun bitkinin ise güneşli günlerde bitki başına günde 3 litreye (yaklaşık 2,7 L) kadar su isteyebildiğini, tam büyümüş ya da buna yakın bitkiler için yaklaşık 2 litrenin yeterli olduğunu belirtir. Alabama Yayım Servisi'nin [sera domates yetiştiriciliği yayını](https://www.aces.edu/blog/topics/crop-production/greenhouse-tomato-production/) de benzer şekilde genel kural olarak bitki başına günde yaklaşık 2 litre su verir ve ihtiyacın bitki yaşına ve sıcaklığa göre değiştiğini söyler. Aynı yayın, bitkinin fotosentez için su kullandığı gündüz saatlerinde sulamayı önerir.
+
+| Bitki durumu | Günlük su (domates için yayım değeri) | Not |
+|---|---|---|
+| Genç fide | Yaklaşık 50 mL | Kök ortamı nemli kalmalı, çamur olmamalı |
+| Orta büyüklükte bitki | Yaşa göre artar | Yaprak alanı büyüdükçe sıklaştırın |
+| Olgun bitki | Yaklaşık 2 L | Ortalama güne göre |
+| Olgun bitki, güneşli sıcak gün | Yaklaşık 2,7 L'ye kadar | Tepe değer; bitki solmasın |
+
+Bu rakamlar domates için ve ağırlıklı olarak ticari sera koşullarında verilmiştir; salatalık, biber ya da yeşillik için ihtiyaç farklıdır. Kendi seranız için başlangıç noktası olarak kullanın, sonra bitkinizi izleyerek düzeltin.
+
+## Topraksız ortam ve toprak yatak aynı değildir
+
+Mississippi yayımı, kök ortamına göre sulama sıklığının çok değiştiğini gösterir: Topraksız ortamlarda (çam kabuğu, pirinç kabuğu gibi hızlı süzülen ortamlar) bitki bir günde 6 ila 12 kısa sulama alabilir; çok hızlı süzülen ortamda bu sayı 12'yi geçebilir. Bu, ortamın az su tutması ve fazla suyun hemen süzülmesi yüzündendir. Ölçüt, bitkinin solmamasıdır.
+
+Toprak yatakta ise toprak su depoladığı için daha seyrek ama daha derin sulama yeterlidir. Hobi seralarda çoğu zaman toprak yatak ya da büyük kaplar kullanıldığından, gün içinde onlarca kısa sulama yerine birkaç doyurucu sulama mantıklıdır. Toprağın ve kabın su tutma yeteneğini toprak nem ölçerle ya da parmakla kontrol edin; yöntem için [toprak nemi ölçme](/toprak-nemi-olcme) yazısına bakın.
+
+[ürün:hg-bol-verimli-sebze-topragi]
+
+## Damla süresini hesaplamak
+
+Damlatıcının dakikadaki debisini bilirseniz, bitkiye istediğiniz suyu vermek için gereken süreyi hesaplayabilirsiniz: Süre = hedef su miktarı ÷ damlatıcı debisi. Örneğin saatte 2 litre veren bir damlatıcıdan bitkiye günde 2 litre vermek için toplamda bir saat gerekir; bunu tek seferde ya da gün içinde parçalara bölebilirsiniz. Florida Üniversitesi'nin (UF/IFAS) [damla sulama çalışma süresi ve döngü hesabı belgesi](https://edis.ifas.ufl.edu/ae500), domates ve biber örnekleriyle sulama süresini buharlaşma, tarla kapasitesi ve solma noktası gibi değerlerden hesaplayan bir yöntem sunar. Hobi serada bu kadar ayrıntıya girmeden, debi ve hedef su hesabıyla başlamak yeterlidir. Hesabın temel adımları için [damla sulama hesabı](/damla-sulama-hesabi) yazısına, hattın kurulumu için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısına bakın. Otomatik çalıştırma için [sulama zaman ayarlayıcı](/sulama-zaman-ayarlayici) yazısı saat ve süre ayarını anlatıyor.
+
+::: adimlar
+Bitki yaşını ve ortamı belirleyin | Fide mi, olgun bitki mi; toprak mı, hızlı süzülen ortam mı?
+Hedef suyu seçin | Yayımdaki değerlerden başlayın; olgun domates için yaklaşık 2 litre.
+Damlatıcı debisini ölçün | Dakikada ya da saatte verilen suyu bir kapla ölçün.
+Süreyi hesaplayın | Hedef suyu debiye bölün, gerekirse gün içinde parçalara ayırın.
+Gündüze yayın | Sulamayı bitkinin su kullandığı saatlere, özellikle sabaha ve öğlene dağıtın.
+Gözleyin ve ayarlayın | Solma, aşırı ıslaklık ve yaprak durumuna göre süreyi artırın ya da azaltın.
+:::
+
+## Sulama ile nem dengesi
+
+Sera, dışarı kaçamayan nemi tutar. Britanya Kolumbiyası'nın bir damla sulama kılavuzu, havayı daha az sızdıran, daha kapalı yapıların daha nemli olduğunu belirtir; çözüm olarak daha çok havalandırma, ısıtma ve serada fazla suyun azaltılmasını önerir. Fazla sulama hem toprağı hem havayı nemlendirir; yüksek nem, yaprak küfü ve mantar hastalıklarını artırır. Bu yüzden sulamayı akşamüzeri geç saatlere değil, sera havalanabilecek saatlere denk getirin. Havalandırma ve nem yönetimi için [sera havalandırması ve nem kontrolü](/sera-havalandirmasi-nem-kontrolu) yazısını, serada yaprak küfü için [domates yaprak küfü](/domates-yaprak-kufu) yazısını inceleyin. Zemin yapısı ve su tahliyesi için [sera zemini](/sera-zemini) yazısı faydalıdır.
+
+## Mevsime göre ayarlama
+
+İlkbaharda gün uzadıkça ve bitki büyüdükçe su ihtiyacı kademeli artar; yaz ortasında en yüksek seviyeye çıkar; sonbaharda azalır. Kışın ısıtmasız seralarda bitki yavaş büyüdüğü için sulama çok seyrekleşir ve aşırı nem riski artar. Kış serası için [kış serası: ısıtma, havalandırma ve nem dengesi](/kis-serasi-isitma-havalandirma) yazısı bu dönemi anlatıyor. Seranın içinde domates yetiştirmek için [serada domates yetiştirme](/serada-domates-yetistirme) yazısı dikimden hasada genel bakış sunar. Su kalitesi de program kadar önemlidir; [sulama suyu kalitesi](/sulama-suyu-kalitesi) yazısı tuz ve kireç kontrolünü anlatır.
+
+[ürün:galvaniz-sera-iskeleti-3-8-m2-ve-u-sekilli-sebze-yatagi-seti]
+
+## Küçük hobi serası için örnek düzen
+
+Altı yedi metrekarelik küçük bir seranın iki yatağında domates ve salatalık yetiştirdiğinizi düşünün. Fide dikildikten sonraki ilk haftalarda yalnızca kök bölgesini nemli tutacak kısa sulamalar yapın. Bitki büyüyüp ilk meyveler tutunca sulama süresini artırın ve yazın en sıcak haftalarında sabah ve öğle olmak üzere iki üç sulamaya bölün. Her hafta aynı saatte toprağın dibine parmak sokup nem durumuna bakın; yaprak sarkıyorsa ve toprak kuruysa süreyi artırın, toprak sürekli ıslaksa kısın. Programı bir deftere yazarsanız ertesi yıl kendi seranızın gerçek ihtiyacını görürsünüz; [bahçe defteri](/bahce-defteri) yazısı bu kaydı tutmanın pratik yolunu gösteriyor.
+
+## Sık yapılan hatalar
+
+Takvim kurup bitkiye bakmamak en yaygın hatadır; sulama bitki yaşına ve ışığa göre ayarlanmalıdır. İkincisi, topraksız ortam için verilen sık ve kısa sulama programını toprak yatakta uygulamaktır. Üçüncüsü, akşam geç sulayıp geceyi nemli geçirmektir. Dördüncüsü, damlatıcı debisini ölçmeden süre belirlemektir. Beşincisi, sera havalandırmasını ihmal edip nemi biriktirmektir. Altıncısı, aynı programı yıl boyu değiştirmeden sürdürmektir. İyi bir sera sulama programı, rakamdan çok bitkiyi okumaya dayanır.
+@sss
+S: Serada domatese günde ne kadar su verilir?
+C: Mississippi ve Alabama üniversite yayımları, olgun serada domates için günde yaklaşık 2 litre su verir; güneşli sıcak günlerde 2,7 litreye kadar çıkabilir. Genç fide ise günde yaklaşık 50 mililitre ister.
+
+S: Sera sulaması günde kaç kez yapılır?
+C: Hızlı süzülen topraksız ortamlarda olgun bitki günde 6–12 kısa sulama alabilir. Toprak yatakta daha seyrek ve derin sulama yeterlidir; asıl ölçüt bitkinin solmamasıdır.
+
+S: Sera sulaması günün hangi saatinde yapılmalı?
+C: Bitkinin su kullandığı gündüz saatleri önerilir. Akşam geç sulama geceyi nemli geçirip hastalık riskini artırabilir; sulamayı seranın havalanabildiği saatlere yayın.
+
+S: Damla sulama süresi nasıl hesaplanır?
+C: Hedef su miktarını damlatıcı debisine bölün. Saatte 2 litre veren damlatıcıdan 2 litre vermek için bir saat gerekir; süreyi gün içinde parçalara bölebilirsiniz.
+
+### YAZI
+slug: tohum-ekim-topragi
+baslik: Tohum Ekim Toprağı: Fide Yastığı Karışımı Nasıl Hazırlanır?
+yayin: 2027-03-26 16:40
+yazar: Halil İbrahim Çelik
+kategori: toprak-rehberi
+odak: tohum ekim toprağı
+seo_baslik: Tohum Ekim Toprağı: Fide Karışımı Nasıl Olur?
+seo_aciklama: Tohum ekim toprağı hafif, ince, temiz ve su tutan olmalıdır. Torf ya da kokopit, vermikülit ve perlitle fide karışımı hazırlama ve sterilite.
+ozet: Tohum ekim toprağı, bahçe toprağından farklı olarak hafif, ince, temiz ve dengeli su tutan bir karışımdır. Torf ya da kokopit, vermikülit ve ince perlitle hazırlanan fide yastığı karışımını, sterilite sorununu ve hazır karışımın ne zaman yeterli olduğunu anlattık.
+etiketler: tohum ekim toprağı, fide toprağı, fide yastığı, torf, kokopit, vermikülit, ince perlit
+gorsel: bekliyor
+gorsel_alt: Torf, vermikülit ve perlit parçalarının bir kapta karıştırılarak fide karışımı yapılması
+urunler: hg-premium-fide-topragi, hg-vermikulit
+kisaca: Tohum ekim toprağı hafif, ince, temiz ve su tutan olmalıdır; bahçe toprağı bu iş için ağırdır. Yaygın karışım, torf ya da kokopit, vermikülit ve ince perlitin eşit hacimde birleştirilmesidir. Evde hazırlanan karışım kendiliğinden steril değildir; kompost ya da toprak katılacaksa önce ısıl işlemle temizlenmelidir.
+@govde
+Ekilen tohum, bir sonraki üç hafta boyunca yalnızca kendi içindeki besine ve ona sarılan ortamdaki suya dayanır. Bu ortam ağır, topak topak ya da hastalıklıysa çimlenme düşer, fide boğazı çürür. Tohum ekim toprağı, saksı toprağından ve bahçe toprağından bilerek farklı hazırlanır: Hafiftir, inceliklidir, suyu tutar ama boğmaz ve temizdir. Bu yazı fide yastığı karışımının neden bu özelliklerde olması gerektiğini ve evde nasıl hazırlanacağını anlatıyor.
+
+## Tohum ekim toprağı neden ayrı bir karışımdır?
+
+Çimlenen tohumun kökü incedir ve ortamdan kolay geçmesi gerekir; ağır bahçe toprağı kabuk bağlar ve ince kökün ilerlemesini zorlaştırır. Ortamın ayrıca su ve hava dengesi iyi olmalıdır: Çok kuru kalırsa tohum çimlenmez, çok ıslak kalırsa çürür. Besin yönünden zengin bir karışım ise çimlenme döneminde şart değildir; asıl ihtiyaç ilk gerçek yapraklar çıktıktan sonra başlar. Bu yüzden tohum ekim toprağı, genel saksı toprağından daha ince ve daha az besinli olabilir. Saksı toprağı için ayrı bir yazı var: [saksı toprağı nasıl hazırlanır](/saksi-topragi-nasil-hazirlanir). Genel karışım oranları için [kendi toprak karışımını oluşturma](/kendi-toprak-karisimini-olusturma) yazısı bitkiye göre litre hesabı verir.
+
+## Temel karışım: torf ya da kokopit, vermikülit ve perlit
+
+Georgia Üniversitesi Yayım Servisi'nin [kendi tohum ekim karışımınızı yapma yazısı](https://site.extension.uga.edu/fultonag/2025/02/cut-veggie-garden-costs-by-making-your-own-seed-starting-mix), tohum ekim karışımı için torf ya da hindistan cevizi lifi (kokopit), vermikülit ve perlitin eşit hacimde karıştırıldığı 1:1:1 oranını verir. Her malzemenin görevi farklıdır.
+
+| Malzeme | Görevi | Dikkat |
+|---|---|---|
+| Torf ya da kokopit | Su tutar, hafif ve ince yapı sağlar | Kuruyunca suyu zor alır; önce nemlendirin |
+| Vermikülit | Suyu ve besini sünger gibi tutar | İnce tanelisini seçin |
+| İnce perlit | Havalandırma ve süzek sağlar | İri perlit çok hızlı süzer |
+| (İsteğe bağlı) olgun kompost | Hafif besin katar | Isıl işlemle temizlenmeli |
+
+Kaynaklar arasında peat içeriğini artıran ya da kokopitle tamamen torfsuz yapılan varyasyonlar da vardır; hepsinin ortak noktası ince, hafif ve boşluklu bir yapı sağlamaktır. İnce taneli perlit bulamazsanız, iri perlitle tohum karışımı yapmak yerine perlitsiz bir tarifi tercih etmek daha doğru olur; çünkü iri perlit küçük tohum için fazla hızlı süzer. İnce ve iri perlit farkını [perlit nedir, saksı toprağında nasıl kullanılır](/perlit-nedir-nasil-kullanilir) yazısında, perlit ve vermikülit seçimini [perlit mi vermikülit mi](/perlit-mi-vermikulit-mi) yazısında anlattık. Torf çeşitleri için [torf nedir, hangi torf seçilmeli](/torf-nedir-hangi-torf-secilmeli), kokopit için [kokopit nedir, nasıl kullanılır](/kokopit-nedir-nasil-kullanilir) yazıları var.
+
+[ürün:hg-premium-fide-topragi]
+
+## Evde karışım nasıl hazırlanır?
+
+::: adimlar
+Malzemeleri hazırlayın | Torf ya da kokopit, vermikülit ve ince perliti temiz bir kapta toplayın.
+Torfu ya da kokopiti nemlendirin | Kuru torf ve kokopit suyu zor alır; önce ılık suyla ıslatıp sıkın.
+Eşit hacimde karıştırın | Temiz bir kapta ya da leğende 1:1:1 oranında harmanlayın.
+Nemini ayarlayın | Elinizle sıkınca birkaç damla su çıkaracak, ama dökülmeyecek kadar nemli olsun.
+Viyol ya da kaba doldurun | Hafifçe bastırın, sıkıştırmayın; üstüne tohumu ekin.
+Etiketleyin ve sulayın | Tohum türünü etiketleyin; alttan ya da ince püskürtmeyle nemlendirin.
+:::
+
+Karışımı hazırlarken eldiven ve maske kullanmak, özellikle kuru torf ve perlit tozu için iyi olur. Viyole ya da kaba doldururken boşluk kalmaması için hafifçe vurup bastırın. Ekim derinliği için [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu), viyol kullanımı için [fide viyolü ile tohum çimlendirme](/fide-viyolu-ile-tohum-cimlendirme) yazılarına bakın.
+
+## Steril mi olmalı? Hastalıktan korunma
+
+Evde hazırlanan karışım, kendiliğinden steril değildir. Üniversite yayımları, karışıma kompost katılacaksa önce fırında ya da ısıyla temizlenmesi gerektiğini söyler; Oregon Eyalet Üniversitesi Yayım Servisi de küçük miktarda temizlenmiş toprak ya da kompostun torfa karıştırılmasını ve ardından kum, vermikülit ya da perlit eklenmesini önerir. Bahçeden alınan toprağı katacaksanız risk artar: Yabani ot tohumu ve fide boğazı çürüten mantarlar karışıma girebilir. Önce temiz ortam, sonra temiz kap: Kapları ve viyolleri sabunla yıkayıp seyreltik çamaşır suyuyla dezenfekte etmek için [saksı dezenfeksiyonu](/saksi-dezenfeksiyonu) yazısına bakın. Fide boğazı çürümesinin ve çimlenememenin diğer nedenleri için [tohum neden çimlenmez](/tohum-neden-cimlenmez) yazısı faydalıdır.
+
+## Hazır fide toprağı ne zaman yeterlidir?
+
+Hazır fide karışımları, tam bu iş için hazırlanmış ince ve hafif ortamlardır. Üretici bilgisine göre HG Premium Fide Toprağı, tohum çimlendirme ve fide şaşırtma için formüle edilmiş, hafif yapıda ve vermikülit içeren bir karışımdır. Az sayıda tohum ekecekseniz hazır karışım, malzeme almak ve hazırlamaktan daha pratiktir. Çok sayıda fide yetiştiriyorsanız kendi karışımınızı hazırlamak maliyeti ve oranı kontrol etmenizi sağlar. Potgrond türü hazır torf karışımları için [potgrond nedir](/potgrond-nedir) yazısına bakın.
+
+[ürün:hg-vermikulit]
+
+## Ekimden sonra nem ve sıcaklık
+
+Karışımı doldurduktan sonra tohum ekilen viyolün üzerini nemli tutmak çimlenme için önemlidir; bunun için üzerine şeffaf bir kapak ya da örtü koymak nemin korunmasına yardım eder. Çimlenme başlayınca kapağı açıp hava vermek, fide boğazı çürümesini önler. Su vermek için alttan sulama ya da ince püskürtme kullanın; sert su akıntısı tohumu yerinden oynatır. Işık ve sıcaklık ihtiyacı tohuma göre değişir; ekim derinliği ve çimlenme koşulları için tohum paketindeki bilgiye bakın.
+
+## Fide yastığı ve sonraki aşama
+
+Çimlendikten sonra ilk gerçek yapraklar çıkınca fide, besin ihtiyacı daha fazla olan saksı toprağına şaşırtılır; ayrıntıyı [fide şaşırtma](/fide-sasirtma) yazısında anlattık. Fide yetiştirme genel adımları için [evde fide yetiştirme](/evde-fide-yetistirme) yazısına, boylanmayı önlemek için [fide neden boylanır](/fide-neden-boylanir) yazısına bakabilirsiniz. Toprak ısısı ve çimlenme için [fide ısıtma matı](/fide-isitma-mati) yazısı yardımcı olur.
+
+## Sık yapılan hatalar
+
+Bahçe toprağıyla tohum ekmek en yaygın hatadır; kabuk bağlar ve ince kök zorlanır. İkincisi, iri perlitle karışım yapmaktır. Üçüncüsü, kuru torfu ıslatmadan kullanmaktır; su ortaya yayılmaz. Dördüncüsü, karışıma kompost ya da toprak katıp ısıl işlem yapmamaktır. Beşincisi, karışımı sıkıştırmaktır. Altıncısı, çok ıslak tutup tohum çürütmektir. Yedincisi, kapları temizlemeden kullanmaktır. Tohum ekim toprağı basit görünür, ama çimlenme başarısının büyük kısmı bu ortama bağlıdır.
+@sss
+S: Tohum ekim toprağı nasıl olmalı?
+C: Hafif, ince, temiz ve dengeli su tutan olmalıdır. Georgia Üniversitesi yayımı, torf ya da kokopit, vermikülit ve perlitin eşit hacimde karıştırıldığı 1:1:1 karışımı verir.
+
+S: Bahçe toprağıyla tohum ekilir mi?
+C: Önerilmez. Bahçe toprağı ağırdır, kabuk bağlar ve ince kökün ilerlemesini zorlaştırır; hastalık ve yabani ot tohumu da taşıyabilir. Hazır ya da kendi hazırladığınız fide karışımını kullanın.
+
+S: Evde hazırlanan karışım steril midir?
+C: Kendiliğinden değildir. Karışıma kompost ya da toprak katılacaksa önce ısıl işlemle temizlenmelidir. Kapları da yıkayıp dezenfekte edin.
+
+S: İnce perlit yerine iri perlit kullanılır mı?
+C: Küçük tohumlar için iri perlit fazla hızlı süzer. İnce perlit bulamıyorsanız perlitsiz bir tarif ya da hazır fide karışımı tercih edin.
+
+### SORU
+yayin: 2027-03-26 08:20
+kategori: bahce-ipuclari
+baslik: İki yatağın arasına kemer kursam fasulye üstten geçer mi?
+metin: Yükseltilmiş iki yatağım yan yana ve arada yürüme yolu var. Yola bir kemer koyup sırık fasulyeyi üstten geçirmeyi düşünüyorum. Bu işe yarar mı, domatesi de aynı şekilde yetiştirebilir miyim?
+@cevap Ahmet Sacit Çelik | 3
+Fasulye gövdesiyle dolanarak kemer tellerine kendi sarılır, bu yüzden işe yarar. Domates ise sarılmaz; iple bağlayıp koltuk sürgünlerini alarak yönlendirmeniz gerekir ve ağır olduğu için kemerin taşıma gücüne dikkat etmelisiniz. Güneş seven bitkileri güneş alan tarafa, tünel altına ise marul gibi yeşillikleri koyun.

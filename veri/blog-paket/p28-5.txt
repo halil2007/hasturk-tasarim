@@ -1,0 +1,500 @@
+### YAZI
+slug: permakultur-nedir-kucuk-bahce-ilkeler
+baslik: Permakültür Nedir? Küçük Bahçeye Uygulanabilir İlkeler
+yayin: 2027-02-05 12:10
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: permakültür nedir
+seo_baslik: Permakültür Nedir? Küçük Bahçeye Uygulanabilir İlkeler
+seo_aciklama: Permakültür nedir? Doğayı örnek alan bahçe tasarımının ilkeleri, bölge sistemi, malç, kompost ve çok katmanlı dikim; küçük bir bahçeye adım adım uygulama.
+ozet: Permakültür, doğadaki ilişkileri örnek alan, uzun vadeli ve kendini besleyen bahçe tasarımı yaklaşımıdır. Gözlemle başlayan ilkelerini, bölge (zon) sistemini, malç, kompost ve çok katmanlı dikim gibi uygulamaları ve küçük bahçede nereden başlanacağını anlattık.
+etiketler: permakültür, sürdürülebilir bahçe, bölge sistemi, malç, kompost, çok katmanlı bahçe
+gorsel: bekliyor
+gorsel_alt: Kalın malçla örtülmüş toprakta birlikte yetişen sebze, aromatik bitki ve meyve fidanı sıraları
+urunler: hasturk-kati-solucan-gubresi, biochar-mese-odunu-bazli-karbon-toprak-duzenleyici, leonardit-organik-toprak-duzenleyici
+kisaca: Permakültür, doğal ekosistemlerin ilişkilerini örnek alarak yiyecek üreten, uzun ömürlü ve düşük girdili bahçe tasarlama yaklaşımıdır. Başlangıç noktası gözlemdir: güneşi, suyu, rüzgârı bir yıl izlemek. Küçük bahçede kompost, malç, yağmur suyu toplama ve eşlik eden bitkilerle başlanır; her yeri bir anda dönüştürmek gerekmez.
+@govde
+Permakültür kulağa büyük bir felsefe gibi gelir; çoğu insan bir ormanda yaşayan birilerinin işi sanır. Oysa balkonunda kompost yapan, toprağı çıplak bırakmayıp malçlayan, yağmur suyunu toplayan herkes permakültürün ilkelerini uygulamış olur. Permakültür nedir sorusunun kısa cevabı şudur: Bu, bir tasarım yaklaşımıdır: Doğadaki düzeni gözleyip bahçeyi o düzenin bir parçası olacak şekilde kurmak. Aşağıda kelimeyi, ilkeleri ve küçük bir bahçeye uygulanabilir somut adımları sırayla anlatıyoruz.
+
+## Permakültür nedir?
+
+Kelime İngilizce "permanent agriculture" (kalıcı tarım) ve "permanent culture" (kalıcı kültür) sözcüklerinden türetilmiştir ve 1970'lerin sonunda Tasmanya'da Bill Mollison ile David Holmgren tarafından ortaya atılmıştır. Utah Eyalet Üniversitesi'nin yayım servisi permakültürü, kaynak kullanımı en aza indirilmiş, doğal sistemleri örnek alan tasarım yaklaşımı olarak tanımlıyor ([Utah State Üniversitesi permakültür sayfası](https://extension.usu.edu/sustainability/research/permaculture)). Holmgren'in tanımı ise doğadaki örüntü ve ilişkileri taklit eden, yerel ihtiyaçlar için yiyecek, lif ve enerji üreten bilinçli tasarımlı peyzajlardır. Zamanla kavram insanlara ve topluluklara kadar genişlemiştir.
+
+Permakültür tek bir "teknik" değildir: Kompost, malç, yağmur suyu hasadı, çok yıllık bitkiler ve yaban hayatı için yaşam alanları bu yaklaşımın parçalarıdır. Organik tarımla da aynı şey değildir. Organik tarım kimyasal girdilerden uzak durmaya odaklanır; permakültür ise bütün sistemin nasıl tasarlandığına bakar.
+
+## Temel ilkeler
+
+Holmgren'in on iki tasarım ilkesinden ilki gözlemdir: Sürekli ve dikkatli gözlem iyi tasarımın anahtarıdır. Diğer ilkeler de bahçeye uygulanabilir:
+
+| İlke | Bahçede anlamı |
+|---|---|
+| Gözlemle ve etkileşime geç | Bir yıl boyunca güneşin, suyun ve rüzgârın hareketini izle |
+| Enerjiyi yakala ve depola | Yağmur suyu topla, toprağı malçla, kompostta besini sakla |
+| Verim al | İlk yıldan yenebilir bir şey yetiştir |
+| Atığı değerlendir | Mutfak artığı kompost, dallar malç |
+| Küçük ve yavaş çözümler | Küçük bir köşede başla, her şeyi birden kurma |
+| Çeşitliliği kullan | Tek bitki yerine karışık dikim |
+| Kenarları değerlendir | Yatak kenarı, çit dibi, duvar önü üretken olabilir |
+
+Bu liste Holmgren'in tüm ilkelerini kapsamaz; bahçe için pratik karşılıklarını özetliyor. İlkeler farklı kaynaklarda biraz farklı biçimlerde sıralanır, ama genel çerçeve değişmez.
+
+## Bölge (zon) sistemi: neyi nereye?
+
+Kuzey Karolina Eyalet Üniversitesi'nin yayım servisi, ev bahçesi için bölge sistemini işlerin ne sıklıkla yapıldığına göre tarif ediyor: Sıfır bölgesi evin kendisi, birinci bölge eve en yakın alan, ikinci ila beşinci bölgeler ise giderek uzaklaşan alanlardır; birinci bölgeye mutfak bahçesi, saksılar ve tavuk örnek veriliyor ([NC State permakültür tasarımı](https://content.ces.ncsu.edu/appendix-g-permaculture-design)). Mantık basittir: Sık ziyaret ettiğiniz bitkiler (fesleğen, maydanoz, marul) kapıya yakın, ayda bir uğradığınız bitkiler (meyve ağacı, çalılık) uzağa konur.
+
+Balkon ve küçük bahçede tüm alan zaten birinci bölgedir. Bu durumda mantığı şöyle uygulayın: Mutfak kapısına en yakın saksıyı aromatik otlara ve yeşilliğe ayırın, uzak köşeyi büyük kaplara ya da uzun ömürlü bitkilere bırakın.
+
+## Küçük bahçeye uygulanabilir yedi adım
+
+::: adimlar
+Bir yıl gözleyin | Güneşin yazın ve kışın hangi köşelere düştüğünü, rüzgâr ve su akışını not edin.
+Toprağı örtün | Çıplak toprak bırakmayın; malç, kuru yaprak ya da örtü bitkisi koyun.
+Kompost yapın | Mutfak ve bahçe atığını bir yığında ya da kutuda toplayın.
+Suyu toplayın | Yağmur varili ya da çatı suyu toplayıcı ile sulama suyunu karşılayın.
+Katmanlı dikin | Ağaç, çalı, otsu bitki ve yer örtücüyü aynı alana yerleştirin.
+Çok yıllık bitki ekleyin | Kuşkonmaz, ravent, aromatik çalılar bir kez dikilir, yıllarca verir.
+Yaban hayatına yer açın | Böcek oteli, su kabı, çiçekli bitkilerle faydalı böcekleri çağırın.
+:::
+
+Bu adımlar sırayla ve yavaş yavaş atılır. Permakültür "küçük ve yavaş" ilkesiyle çalışır; ilk yıl yalnızca kompost ve malçla başlamak bile sizi doğru yöne sokar. Malç ve toprak örtüsü için [ağaç dibi malçlama](/agac-dibi-malclama) yazısına, kompost için [bahçede kompost yığını](/bahcede-kompost-yigini) yazısına bakabilirsiniz.
+
+## Çok katmanlı bahçe ve eşlik eden bitkiler
+
+Doğal bir ormanda bitkiler katmanlar hâlinde büyür: yüksek ağaçlar, alt ağaçlar ve çalılar, otsu bitkiler, yer örtüleri ve kök sebzeleri. Permakültür bahçesi bu katmanları taklit eder. Küçük bahçede bunun anlamı, bir meyve ağacının altına çalı ve aromatik otlar, onların arasına yeşillik ve yer örtücü koymaktır. Birbirine fayda sağlayan bitki gruplarına "lonca" (guild) denir; örneğin bir elma ağacının altında ağacın dibini koruyan, böcek çeken ve toprağı besleyen karışık bir bitki grubu.
+
+Bu dizilim her yerde işe yaramaz; bitkilerin ışık, su ve kök ihtiyacı birbiriyle çakışmamalıdır. Başlangıçta yalnızca iki üç bitkiyi birlikte denemek yeterlidir.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Toprak yapımı: kazmadan, çevirmeden
+
+Permakültür toprağı olabildiğince az bozar. Her yıl toprağı çevirmek yerine, üstüne organik madde (kompost, solucan gübresi, malç) serilir ve solucanlar bunu aşağı taşır. Katmanlı bahçe yatağı bu yöntemin güzel bir uygulamasıdır; ayrıntıları [katmanlı bahçe yatağı](/katmanli-bahce-yatagi) yazısında anlattık. Toprak organik maddesini artırmanın yolları için [toprakta organik madde](/toprakta-organik-madde) yazısı yol gösterir. Biochar gibi karbon esaslı düzenleyiciler de bu yaklaşımda anılır; ürün açıklamasına göre biochar yüksek su tutma kapasitesine sahiptir ve aktif hâle getirilmemiş (şarj edilmemiş) saf form olarak satılır, yani kullanmadan önce besinle yüklenmesi gerekir.
+
+## Permakültürde su: yağmuru yakalamak
+
+Permakültür bahçesinde su, bir sorun değil bir kaynak olarak ele alınır. Çatı suyunu bir varilde toplamak, yağmuru toprağın içine yavaşça sızdırmak, ekim yataklarını hafif çukur yapıp suyun orada tutulmasını sağlamak bu yaklaşımın parçalarıdır. Eğimli arazide su akışını yavaşlatan basit bir set ya da hendek, hem erozyonu azaltır hem de ağaç dibinde nem biriktirir. Küçük bahçede ise sulamayı sabah erken yapmak, toprağı malçla örtmek ve damlaya geçmek aynı mantığın ölçeğidir.
+
+## Permakültürün sınırları
+
+Permakültür bir mucize reçete değildir. İlk yıllarda verim klasik sebze bahçesinden düşük olabilir; sistemin olgunlaşması zaman alır. Bölge iklimine uymayan bitkiler (örneğin kış soğuğu sert olan yerde subtropik meyveler) çaba ile de yetişmez. Ayrıca bazı iddialar bilimsel olarak sınanmamıştır; kaynaklar da ilkelerin ayrıntısında farklılaşır. Yani permakültür nedir sorusunun dürüst cevabı, bir mucize değil, bir düşünme biçimidir. Dolayısıyla permakültürü bir dogma değil, düşünme biçimi olarak ele almak ve kendi bahçenizde denemeler yaparak ilerlemek en sağlıklısıdır.
+@sss
+S: Permakültür nedir?
+C: Doğal ekosistemlerin ilişkilerini örnek alan, yiyecek üreten, uzun ömürlü ve düşük girdili bahçe tasarlama yaklaşımıdır. 1970'lerin sonunda Mollison ve Holmgren tarafından Tasmanya'da geliştirilmiştir. İlk ilkesi gözlemdir.
+
+S: Permakültür ile organik tarım aynı şey mi?
+C: Hayır. Organik tarım, kimyasal girdilerden uzak durmaya odaklanır. Permakültür ise bütün sistemin nasıl tasarlanacağına, su, toprak, bitki ve insan ilişkilerine bakar. İkisi birbirini tamamlayabilir.
+
+S: Küçük bir balkonda permakültür yapılır mı?
+C: Yapılır. Mutfak atığından kompost, toprağı malçlama, aromatik otları kapıya yakın dikme, yağmur suyu toplama ve çok katmanlı saksı düzeni balkona uygulanabilir. Küçük başlayıp her yıl genişletin.
+
+S: Permakültürde bölge (zon) sistemi nedir?
+C: Bahçeyi eve yakınlığa ve ziyaret sıklığına göre bölgelere ayırma yöntemidir. Sık gidilen mutfak bahçesi ve otlar eve yakın, ayda bir bakım gereken ağaç ve çalılar uzağa konur. NC State Üniversitesi bu sistemi ev bahçesi için tarif ediyor.
+
+### YAZI
+slug: sevgililer-gunu-bitki-hediyesi-saksi-bitkisi
+baslik: Sevgililer Günü Bitki Hediyesi: Çiçek Yerine Uzun Ömürlü Saksı Bitkileri
+yayin: 2027-02-05 14:30
+yazar: Halil İbrahim Çelik
+kategori: gundem
+odak: sevgililer günü bitki hediyesi
+seo_baslik: Sevgililer Günü Bitki Hediyesi: Uzun Ömürlü Saksı Bitkisi
+seo_aciklama: Sevgililer Günü bitki hediyesi olarak çiçek yerine hangi saksı bitkisi verilir? Orkide, antoryum, sıklamen ve sukulent; ışık, sulama ve hayvan güvenliği.
+ozet: Sevgililer Günü'nde kesme çiçek birkaç günde solar; saksı bitkisi aylarca, bazen yıllarca yaşar. Orkide, antoryum, sukulent, sıklamen gibi uzun ömürlü hediye seçeneklerini, her birinin ışık ve sulama ihtiyacını, evcil hayvan güvenliğini ve hediye ederken ekleyeceğiniz bakım notunu anlattık.
+etiketler: sevgililer günü, bitki hediyesi, saksı bitkisi, orkide, antoryum, sukulent, hediye fikirleri
+gorsel: bekliyor
+gorsel_alt: Kırmızı kurdele bağlı beyaz seramik saksıda çiçek açmış pembe orkide ve yanında küçük hediye notu
+urunler: orkide-topragi-besini-bakim-seti, kaktus-sukulent-3lu-dikim-bakim-seti, florist-cicekli-bitkiler-sivi-konsantre-bitki-besini
+kisaca: Sevgililer Günü bitki hediyesi için orkide, antoryum, sıklamen ve kolay sukulentler uzun ömürlü seçeneklerdir; kesme çiçeğin aksine haftalarca çiçekte kalırlar ve bakılırsa yıllarca yaşarlar. Hediye almadan önce alıcının evinin ışığını, evcil hayvanı olup olmadığını ve bitki bakma alışkanlığını düşünün; yanına kısa bir bakım notu koyun.
+@govde
+Bir buket gül, üç beş günde başını eğer. Saksıdaki bir orkide ise aylarca açar ve ardından yeniden çiçek açmayı bekleyen bir yaşam bırakır. Sevgililer Günü'nde bitki hediyesi seçmek bu yüzden son yıllarda yükselen bir alışkanlık; sevgililer günü bitki hediyesi olarak saksı bitkisi seçenlerin sayısı artıyor. Ama bitki, çiçek gibi vazoya konup unutulan bir hediye değildir; bir canlıdır ve hediye edilen kişinin evinde yaşayacaktır. Aşağıda sevgililer günü bitki hediyesi olarak hangi bitkileri neden önerdiğimizi ve nelere dikkat etmeniz gerektiğini anlatıyoruz.
+
+## Sevgililer Günü bitki hediyesi seçerken neye bakılır?
+
+Güzel görünen bitki değil, o eve uyan bitki iyi hediyedir. Seçmeden önce üç soruyu düşünün: Alıcının evinde ışık nasıl? Kuzey cepheli, güneşsiz bir evde güneş seven bir bitki birkaç haftada çürür. Evde kedi, köpek ya da küçük çocuk var mı? Birçok yaygın süs bitkisi hayvanlar için zehirlidir. Alıcı bitki bakmaya ne kadar vakit ayırabilir? Sık sulama isteyen bitki, yoğun çalışan biri için yük olur.
+
+Bu üç soruya göre bitki seçmek, hediyenin uzun yaşamasını sağlar. Illinois Üniversitesi'nin yayım servisi de Sevgililer Günü için ev bitkilerini öneren bir yazı yayımlamış ([Illinois Üniversitesi Sevgililer Günü ev bitkileri yazısı](https://extension.illinois.edu/blogs/garden-scoop/2021-02-05-houseplants-valentines)); fikir yalnızca bizde değil.
+
+## Uzun ömürlü seçenekler
+
+| Bitki | Çiçek süresi | Işık | Sulama | Evcil hayvan |
+|---|---|---|---|---|
+| Orkide (Phalaenopsis) | Haftalar, bazen aylar | Parlak, dolaylı | Kabuk kuruyunca | Güvenli sayılmaz; veterinere danışın |
+| Antoryum | Aylarca | Parlak, dolaylı | Üst toprak kuruyunca | Zehirli; uzak tutun |
+| Sıklamen | 6–10 hafta | Serin, parlak | Alttan sulama | Zehirli olabilir |
+| Atatürk çiçeği | Aylarca (renkli yapraklar) | Parlak | Ölçülü | Hayvana zararlı olabilir |
+| Sukulent, kaktüs | Yıl boyu yaprak, ara sıra çiçek | Güneşli pencere | Çok seyrek | Çoğu türde dikkat |
+| Yılan bitkisi | Çiçek beklenmez, yaprak güzeli | Az ışıkta da yaşar | Seyrek | Zehirli olabilir |
+
+Çiçek süreleri bakım koşullarına göre değişir. Gardening Know How ve diğer popüler kaynaklarda orkidelerin birkaç hafta, bazen aylarca çiçekte kalabileceği anlatılıyor; bu süre bitkinin ışığa, sıcaklığa ve doğru sulamaya bağlıdır. Antoryum için de uzun ömürlü, mumsu çiçekler anılıyor. Hayvan güvenliği konusunda tek tek bitkiler için veteriner hekime ya da güvenilir bir zehirli bitki veri tabanına danışın; tablodaki notlar yalnızca bir uyarıdır.
+
+## Yeni başlayan için en kolay seçenekler
+
+Bitkiyle ilk kez ilgilenecek bir kişiye hediye edecekseniz, ölmesi zor olan türleri seçin. Yılan bitkisi (sansevieria), zamiokulkas, pothos ve çoğu sukulent az ışıkta ve düzensiz sulamada da hayatta kalır. Çiçek isteniyorsa orkide ve antoryum çiçeklenme için daha çok bakım ister ama gösterişlidir. Bu iki bitkinin bakımını [orkide bakımı](/orkide-bakimi-yeniden-cicek-actirma) ve [antoryum bakımı](/antoryum-bakimi) yazılarımızda ayrıntılı anlattık.
+
+Sukulent ve kaktüs, bahçe tecrübesi olmayanlar için iyi bir giriştir ama onların da ihtiyacı vardır: parlak ışık ve süzek toprak. Sukulent hediyelerinde dikim setleri ve süzek toprak, uzun yaşamını destekler. Ürün açıklamasına göre kaktüs ve sukulent 3'lü bakım seti toprak, bitki besini ve dikim ekipmanını birlikte içerir.
+
+[ürün:kaktus-sukulent-3lu-dikim-bakim-seti]
+
+## Hediyeyi nasıl paketlersiniz?
+
+Kış sonunda soğuk havada bitkiyi taşımak kritik bir adımdır. Bitkiyi kâğıt ya da kumaşla sarın ve arabada bırakmayın; birkaç dakika soğuk hava tropikal bitkileri (orkide, antoryum, atatürk çiçeği) incitebilir. Saksıyı çok süslü bir kılıfa koymayın; fazla su içinde kalan kılıf kökleri çürütür. Süslü kılıf kullanırsanız altına delikli ikinci bir saksı koyun ya da sarmalayıcıyı yalnızca hediye sırasında kullanın.
+
+Hediyeyi bir bakım kartıyla tamamlamak, hem bilgilendirir hem de içten bir dokunuş olur. Kartta şunlar yer alsın: Bitkinin adı, ışık ihtiyacı, ne zaman sulanacağı, ne kadar sulanacağı, iki kelimeyle "dokunmayın" gibi uyarılar ve sizin telefonunuz yerine ilgili bakım yazılarının adresi.
+
+## Hediye verdikten sonra: ilk haftalar
+
+Yeni bir bitki evine geldiğinde birkaç yaprak dökebilir; bu stres tepkisidir ve normaldir. İlk hafta bitkiyi parlak, ama doğrudan güneşsiz bir yere koyun, kalorifer ve soğuk cam kenarından uzak tutun. Sulama için toprağın üst 2–3 cm'sine parmakla bakın; kuruysa ölçülü sulayın. Aşırı sulama, hediye edilen bitkilerin en sık ölüm nedenidir.
+
+Çiçek açan bitki hediye ederseniz alıcıya çiçek döküldükten sonra bitkinin sönmediğini, dinlenme ve yeniden açma döneminin başladığını anlatın. Aksi hâlde çiçek bittiğinde bitki atılır. Orkidenin yeniden çiçek açtırması için [orkide çiçek dalı](/orkide-cicek-dali) yazısı bir yol gösterir; çiçekli bitkilere besin için ürün açıklamasına bakın.
+
+[ürün:orkide-topragi-besini-bakim-seti]
+
+## Bütçe değil uyum: hangi bitki kime?
+
+Sevgililer Günü bitki hediyesinde en iyi seçim, alıcının yaşam tarzına uyan bitkidir. Çok seyahat eden biri için yılan bitkisi ya da sukulent, evi güneşli ve bakıma meraklı biri için orkide ya da antoryum, kuzey cepheli kısıtlı ışığı olan biri için pothos ya da zamiokulkas daha doğru olur. Çiçek isteyen ama bakım yükü sevmeyen biri için sıklamen kısa süre çiçek açıp serin odada kalan bir seçenek olabilir; ancak çiçek sonrası bitkinin yeni çiçek açtırması zordur ve bunu önceden söylemek dürüstlüktür.
+
+İki kişilik ev ya da yeni birlikte yaşayan çiftler için ortak bakılacak bir bitki de anlamlı bir hediyedir. Bir kaktüs ya da küçük bir orkide, birlikte bakılacak sade bir ortak proje olur. Böyle bir bitkiyi, gelecek yıl aynı gün birlikte yeni saksıya taşımak da güzel bir gelenek olabilir.
+
+## Alternatif fikirler
+
+Bitkiyi canlı hediye yapmak istemiyorsanız küçük bir tohum seti, bir bitki yetiştirme kutusu ya da yeşilliğin kavanozda yetiştirildiği bir set de iyi bir hediyedir. Bahçe sevenler için bir çift el aleti, güzel bir saksı ya da bahçe günlüğü de düşünülebilir. Önemli olan, hediyenin alıcının yaşamına uymasıdır.
+@sss
+S: Sevgililer Günü için hangi saksı bitkisi hediye edilir?
+C: Orkide, antoryum, sıklamen, atatürk çiçeği ve kolay sukulentler uzun ömürlü seçeneklerdir. Alıcının evindeki ışık, evcil hayvan durumu ve bitki bakma alışkanlığına göre seçmek en iyisidir.
+
+S: Saksı bitkisi kesme çiçekten daha mı uzun yaşar?
+C: Genellikle evet. Kesme çiçek birkaç gün ya da bir iki hafta dayanırken, orkide gibi saksı bitkileri haftalarca, bazen aylarca çiçekte kalır ve doğru bakılırsa yıllarca yaşar.
+
+S: Evde kedi varsa hangi bitki hediye edilir?
+C: Çoğu süs bitkisi kedi ve köpek için zehirli olabilir. Antoryum, atatürk çiçeği ve yılan bitkisi gibi türlerden kaçının; seçmeden önce veteriner hekime ya da güvenilir bir zehirli bitki listesine danışın.
+
+S: Bitkiyi hediye ederken ne yazmalıyım?
+C: Bitkinin adını, ışık ihtiyacını, ne zaman ve ne kadar sulanacağını yazan kısa bir bakım kartı koyun. Çiçek döküldükten sonra bitkinin ölmediğini, dinlendiğini de belirtin.
+
+### YAZI
+slug: sera-havalandirmasi-nem-kontrolu
+baslik: Sera Havalandırması ve Nem Kontrolü
+yayin: 2027-02-05 16:55
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: sera havalandırması
+seo_baslik: Sera Havalandırması ve Nem Kontrolü: Pencere Alanı
+seo_aciklama: Sera havalandırması nasıl planlanır? Çatı ve yan pencere alanı, rüzgâr yönü, fan ihtiyacı, nem ve sıcaklık kontrolü ile ilkbaharda pencere zamanlaması.
+ozet: Sera havalandırması, sıcaklığı ve nemi dengeleyen en önemli iklim aracıdır. Çatı ve yan pencere alanının nasıl hesaplanacağını, rüzgârı kullanmayı, ne zaman fan gerektiğini, günlük açma-kapama düzenini ve nem kontrolünü anlattık.
+etiketler: sera havalandırması, sera nemi, çatı penceresi, yan pencere, sera sıcaklığı, hobi serası
+gorsel: bekliyor
+gorsel_alt: Çatı penceresi açık plastik örtülü bir seranın içinde sıra sıra sebze fideleri ve duvarda termometre
+urunler: sebze-yatagi-kemer-tipi-bitki-destek-unitesi-iki-yatak-arasina-yesil-tunel, hg-bol-verimli-sebze-topragi, uzman-2-lt-basincli-el-puskurtucu
+kisaca: Sera havalandırması için çatı ve yan pencere alanlarının her biri taban alanının yaklaşık yüzde 15–20'si kadar olmalıdır. Çatı pencereleri rüzgârın ters yönüne açılır, yan pencereler yağmurda ya da sert rüzgârda yedek olur. Hava akışı sıcaklığı ve nemi birlikte düşürür; kapalı bir serada nem ve hastalık hızla artar.
+@govde
+Güneşli bir şubat öğleninde kapalı bir sera, bahçede en çabuk ısınan yerdir. Dışarıda 10 derece, içeride 35 dereceyi görmek şaşırtıcı değildir. Sera havalandırması işte bu yüzden seranın en önemli düzenekidir: Fazla sıcaklığı atar, nemi düşürür, bitkiye taze hava ve karbondioksit getirir. Doğru planlanmış bir havalandırma, ısıtma ya da gölgeleme kadar önem taşır. Aşağıda sera havalandırmasını tasarım, yönetim ve nem kontrolü olarak üç adımda anlatıyoruz.
+
+## Sera havalandırması neden bu kadar önemli?
+
+Serada güneş ısısı içeride hapsolur. Havalandırma olmadığında sıcaklık hızla yükselir, bitkiler solar ve çiçekler dökülür. Aynı anda bitkinin terlemesi ve sulama suyunun buharlaşması iç havayı doyurur; nem artar, yaprak yüzeyinde su damlaları kalır ve mantar hastalıkları (külleme, gri küf) için uygun ortam oluşur. Havalandırma bu iki sorunu birden çözer: sıcaklığı düşürür, nemli havayı dışarı atar.
+
+Kışın ise havalandırma ayrı bir denge ister: Fazla havalandırma ısıtma masrafını artırır ve serada hava kurur. Florida Üniversitesi'nin yayını, yaz için dakikada bir hava değişimini asgari sayarken kışın bunun çok altına inmeyi önermiyor. Kış serası için ısıtma ve havalandırma dengesi [kış serası: ısıtma, havalandırma ve nem dengesi](/kis-serasi-isitma-havalandirma) yazısında ele alındı; bu yazı daha çok ilkbahar ve yaz için tasarıma odaklanıyor.
+
+## Pencere alanı ne kadar olmalı?
+
+Üniversite yayımları doğal havalandırma için alan oranları veriyor. Extension.org'un sera havalandırması sayfasına göre çatı pencerelerinin ve yan pencerelerin toplam alanı taban alanının yaklaşık yüzde 15–20'si kadar olmalı ([extension.org sera havalandırması](https://farm-energy.extension.org/greenhouse-ventilation/)). Alabama Üniversitesi yüzde 15–25 aralığını yazıyor ve sıcak yazlarda daha fazlasının gerekebileceğini söylüyor. Yani 10 m²'lik bir sera için çatı penceresi toplamda yaklaşık 1,5–2 m², yan pencere de benzeri alan olmalı.
+
+| Sera taban alanı | Çatı penceresi (yaklaşık) | Yan pencere (yaklaşık) |
+|---|---|---|
+| 6 m² | 0,9–1,2 m² | 0,9–1,2 m² |
+| 10 m² | 1,5–2,0 m² | 1,5–2,0 m² |
+| 20 m² | 3,0–4,0 m² | 3,0–4,0 m² |
+
+Bu oranlar planlama için bir başlangıçtır; sıcak ve nemli bölgelerde daha fazla pencere gerekir. Hobi seraları çoğu zaman bu orandan çok daha az pencereyle yapılır ve yaz sıcağında sorun yaşar. Satın alırken ya da kurarken pencere alanını sorgulayın.
+
+## Rüzgârı kullanmak: çatı ve yan pencere
+
+Doğal havalandırma rüzgârın ve sıcak havanın yükselmesinin birleşiminden doğar. Massachusetts Üniversitesi'nin yayını, çatı pencerelerinin rüzgârın ters yönüne (rüzgâr altı) açılmasını ve rüzgârın çatıdan geçerken sıcak havayı çektiğini anlatıyor ([UMass doğal havalandırma yayını](https://www.umass.edu/agriculture-food-environment/greenhouse-floriculture/fact-sheets/natural-ventilation-in-greenhouses)). Yan pencereler yağmur ya da sert rüzgâr çatı pencerelerinin açılmasını engellediğinde yedek olarak çalışır. Sıcak hava yukarı çıkıp çatıdan çıkarken yan pencerelerden gelen serin hava yerini alır; buna baca etkisi denir.
+
+Bu yüzden serayı konumlandırırken hâkim rüzgâr yönünü gözleyin, çatı pencerelerini sıcak havanın çıkacağı en yüksek noktaya yerleştirin. Pencere hareketlerinin rüzgârdan zarar görmemesi için sert rüzgârda kapalı tutmak da gerekir.
+
+## Günlük açma-kapama düzeni
+
+Seranın havalandırması mevsime göre değişen bir rutindir. İlkbahar ve sonbaharda genellikle sabah güneş doğduktan sonra pencereler kısmen açılır, öğleye doğru iyice açılır, öğleden sonra kapatılır ki gece sıcaklığı korunsun. Yazın bütün gün açık kalır, geceleri gerekirse yarı açık bırakılır. Kışın ise hava en ılık saatte kısa süreli, ısı kaybetmeyecek kadar havalandırılır.
+
+::: adimlar
+Sabah ilk kontrolü yapın | Sıcaklık yükselmeye başlamadan pencerelerin arasını açın; nem sabahın ilk saatlerinde en yüksektir.
+Öğleden önce tam açın | İç sıcaklık 25 °C'ye yaklaşırken çatı ve yan pencereleri açın.
+Sulamayı sabaha alın | Sulama sonrası hava akışı yaprakları kurutsun.
+Akşamdan önce kapatın | Gece soğuğu bekleniyorsa güneş batmadan pencereleri kapatın.
+Gecenin nemini kontrol edin | Sabah yaprak ve cam üzerinde damla görürseniz havalandırmayı artırın.
+:::
+
+Termostatlı otomatik pencere açıcılar bu işi kendiliğinden yapar ve çok bitkili seralarda faydalıdır. Hobi serasında zaman ayarlı bir fanla ya da elle açma-kapama alışkanlığıyla da yönetilebilir.
+
+## Fan ne zaman gerekir?
+
+Küçük, pencereleri az bir serada ya da rüzgârsız yaz günlerinde doğal havalandırma yetmeyebilir. Bu durumda bir egzoz fanı sıcak havayı çeker, karşı duvardaki giriş aralığından taze hava gelir. Fan, pencere açık iken çalıştırılmalıdır; kapalı serada fan havayı çekemez. Fanın gücünü seranın hacmine göre seçin; Connecticut Üniversitesi fan soğutmalı seralar için taban alanının her metrekaresi başına dakikada yaklaşık 2,4–3 m³ yaz havalandırma kapasitesi veriyor (metrekare başına 8–10 fit küp); yani yaz havalandırması bol hava ister. İç hava karıştırması için küçük vantilatörler de fiyat ve elektrik açısından ekonomik bir tamamlayıcıdır.
+
+[ürün:uzman-2-lt-basincli-el-puskurtucu]
+
+## Nem kontrolü
+
+Nemi izlemek için serada bir termometre-nem ölçer bulundurun. Fide ve çimlenme döneminde yüksek nem uygundur; ama gelişen bitkide uzun süre yüzde 85–90'ın üzerinde nem mantar hastalıklarına yol açar. Nemi düşürmenin en kolay yolları şunlardır: sabah erkenden sulama, serin saatlerde damla sulama kullanma, bitkileri birbirine fazla yaklaştırmama ve zemini bir parça çakıl ya da kuru bir tabakayla kaplama. Camda yoğuşma, gece soğuğunda iç nemin yüksek olduğunun göstergesidir; havalandırmayı artırmak bunu azaltır.
+
+Seranın hastalık yönünü ayrıca ele alacağımız yazıda, havalandırmayla mantar hastalıklarının nasıl önleneceğini anlatıyoruz; bu yazıda ise havalandırma tasarımının ve nem yönetiminin temellerini verdik. Seraya sebze yatağı ya da yetiştirme düzeni için [seraya sebze yatağı](/seraya-sebze-yatagi) yazısına, ısıtmasız sera için ürün planı için [kışın serada ne yetiştirilir](/kisin-serada-ne-yetistirilir) yazısına bakabilirsiniz.
+
+## Rüzgâr ve bakım
+
+Pencere kollarını, menteşeleri ve bağlantıları sezon başında yağlayın; sert rüzgârda açık bırakılan çatı penceresi zarar görür. Sızdıran ya da iyi kapanmayan pencereler kış ısı kaybına yol açar. Örtü malzemesindeki yırtıklar da iç iklimi bozar. Sezon başında bir tur atıp açılıp kapanan her parçayı denemek, ilk sıcak gün çıkmadan sorunları yakalar.
+@sss
+S: Sera havalandırması için pencere alanı ne kadar olmalı?
+C: Çatı ve yan pencerelerin her birinin alanı taban alanının yaklaşık yüzde 15–20'si kadar olmalıdır. Alabama Üniversitesi sıcak yazlarda yüzde 25'e kadar çıkmayı önerir. 10 m²'lik seranın çatı penceresi yaklaşık 1,5–2 m² olmalıdır.
+
+S: Çatı penceresi hangi yöne açılmalı?
+C: Rüzgârın ters yönüne, yani rüzgâr altı tarafa açılır. Rüzgâr çatının üstünden geçerken sıcak havayı çeker. Yan pencereler yağmur ya da sert rüzgârda çatı pencereleri açılamadığında yedek olarak çalışır.
+
+S: Serada nem ne kadar olmalı?
+C: Fide döneminde yüksek nem uygundur; gelişen bitkide uzun süre çok yüksek nem mantar hastalıklarına yol açar. Sabah sulama, havalandırma ve bitkileri sıkıştırmamak nemi düşürür. Termometre-nem ölçer bulundurun.
+
+S: Seraya fan gerekir mi?
+C: Pencereler yetmiyorsa ya da rüzgârsız sıcak günlerde fan işe yarar. Egzoz fanı pencere açıkken çalışmalı; kapalı serada çekiş yapamaz. Fan gücünü sera hacmine göre seçin.
+
+### YAZI
+slug: meyve-gozu-olusumu-icin-gubreleme
+baslik: Meyve Gözü Oluşumu İçin Gübreleme
+yayin: 2027-02-05 19:40
+yazar: Mikdat Çelik
+kategori: gubreleme
+odak: meyve gözü oluşumu için gübreleme
+seo_baslik: Meyve Gözü Oluşumu İçin Gübreleme: Ne Zaman Yapılır?
+seo_aciklama: Meyve gözü oluşumu için gübreleme ne zaman yapılır? Çiçek gözünün yazın oluştuğunu, azot dengesini, hasat sonrası beslenmeyi ve fazla azotun zararını anlatır.
+ozet: Meyve ağaçlarında çiçek gözleri, çiçek açmadan önceki yaz–sonbahar döneminde oluşur ve ertesi yılın ürününü belirler. Bu dönemde azot dengesini, hasat sonrası beslenmeyi, fazla azot ve aşırı budamanın zararını, analizle gübre planı yapmayı anlattık.
+etiketler: meyve gözü, çiçek tomurcuğu, gübreleme, azot dengesi, hasat sonrası gübre, meyve verimi
+gorsel: bekliyor
+gorsel_alt: Elma dalında kış tomurcukları: sivri yaprak gözleri yanında yuvarlak şişkin çiçek gözleri
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici, hasturk-sivi-solucan-gubresi
+kisaca: Meyve gözü oluşumu için gübreleme, ağacın ertesi yılın çiçek gözlerini kurduğu yaz–sonbahar dönemine göre dengelenir: Çiçek gözleri çiçeklenmeden önceki büyüme mevsiminde oluşur. Bu dönemde aşırı azot sürgünü uzatıp çiçek gözü oluşumunu azaltır; dengeli beslenme, hasat sonrası destek ve ölçülü budama gerekir.
+@govde
+Bir elma ağacı bu bahar çiçek açıyorsa, o çiçeklerin gözleri geçen yazın ortasında oluşmuş demektir. Meyve gözü oluşumu çoğu insanın tahmin ettiğinden çok daha erken ve çok daha gizli gerçekleşir. Bu yüzden bu bahar yapılan gübreleme bu yılın çiçeklerine değil, çoğunlukla bu yılın sonundaki çiçek gözlerine ve gelecek yılın ürününe yön verir. Meyve gözü oluşumu için gübreleme zamanlaması bu yüzden kritik bir bahçecilik konusu.
+
+## Meyve gözü oluşumu için gübreleme neden yazın başlar?
+
+Çiçek gözü (çiçek tomurcuğu), ağacın ertesi yılın çiçeklerini oluşturan dokusudur. Iowa State Üniversitesi, meyve ağaçlarında çiçek tomurcuklarının çiçeklenmeden önceki büyüme mevsiminde oluştuğunu belirtiyor ([Iowa State meyve ağacı yayını](https://store.extension.iastate.edu/Product/pm1083-pdf)). Elmada bir gençlik denemesinde çiçek gözü başlangıcının temmuz sonu ile ağustos başında olduğu görülmüş; ilkbaharda uygulanan azot bu başlangıcı eylüle geciktirmiş, yaz uygulaması ise eylülde çiçek gözü gelişimini hızlandırmıştır. Kaynaklar arasında zamanlama farkları var; kesin takvim türe, çeşide, bölgeye ve yıla göre değişiyor.
+
+Önemli sonuç şu: Meyve ağacı yazın hem bu yılın meyvesini taşıyor hem de gelecek yılın gözlerini kuruyor. Ağaç yükünü bu iki işe nasıl bölüştüreceğini besin durumuna göre belirler. Aşırı meyve yükü, besin eksikliği ya da su stresi çiçek gözü oluşumunu azaltır; sonuçta bir yıl bol, ertesi yıl az ürün veren dönüşümlü verim (periyodisite) ortaya çıkar. Dönüşümlü verimin nedenlerini genel olarak [meyve ağacı neden meyve vermez](/meyve-agaci-neden-meyve-vermez) yazısında anlattık.
+
+## Azot: dengeli olmalı
+
+Meyve gözü oluşumunda en çok tartışılan besin azottur. Fazla azot, ağacı sürgün üretmeye iter; bu da çiçek gözü oluşumunu azaltır. Iowa State, çok fazla azotun ya da aşırı budamanın, çiçek tomurcuğu oluşumu pahasına güçlü sürgün büyümesine yol açtığını uyarıyor. UMass Extension elma için çiçeklenme öncesi azotu sıkı salkım ile pembe tomurcuk arasında öneriyor ([UMass çiçeklenme öncesi besin yayını](https://www.umass.edu/agriculture-food-environment/fruit/fact-sheets/f-126-prebloom-nutrient-applications-for-apple-trees)); bu uygulama içinde bulunulan sezon çiçeklenmesini hedefler.
+
+Ağaç yeterince sürgün vermişse (genç ağaçta yıllık sürgün uzunluğu yaklaşık 30–60 cm, yetişkinde daha kısa olabilir, ama kesin değer türe göre değişir) fazladan azot vermek meyve gözlerine yarar sağlamaz. Sürgün çok zayıfsa ise azot yetersizdir. Bu yüzden sürgün uzunluğunu bir yıl boyunca not etmek gübre kararında en iyi rehberdir.
+
+| Ağacın durumu | Olası durum | Yapılacak |
+|---|---|---|
+| Sürgün kısa, yaprak soluk | Azot yetersiz | Ölçülü azot desteği, analiz |
+| Sürgün çok uzun ve yumuşak, az çiçek | Fazla azot, aşırı budama | Azotu kısın, budamayı hafifletin |
+| Sürgün orta, ağaçta aşırı meyve | Meyve yükü fazla | Meyve seyreltme, hasat sonrası destek |
+| Yapraklar kenarda yanık | Potasyum ya da tuz sorunu | Toprak analizi |
+
+## Hasat sonrası beslenme
+
+Erken olgunlaşan türlerde (kiraz, erik, şeftali) hasattan sonra ağaç hâlâ yaprak taşır ve gelecek yılın gözlerini kurmakta. Bu dönemde ağacın su ihtiyacı ve besin dengesi önemlidir. Washington Eyalet Üniversitesi'nin bir denemesi, yaz sonunda yapılan azot uygulamasının çiçek tomurcuklarına ulaşabildiğini ve dönüş çiçeklenmesini etkileyebildiğini, ama aynı denemede dormansiden önce yeni sürgün oluşmadığını bildiriyor. Bu bulgu yalnızca bir denemedir; bahçenizde uygulamadan önce yerel öneriye bakın.
+
+Hasat sonrası ilk iş sulamayı sürdürmek, ağacın yaprağını sağlıklı tutmak ve gerekirse organik madde ile toprağı beslemektir. Olgun kompost ya da katı solucan gübresi gibi yavaş besleyen organik gübreler, sonbahar ve kış boyunca toprağın dengesine katkı sağlar; sonbahar gübrelemesinin ayrıntıları için [meyve ağaçlarında sonbahar gübrelemesi](/meyve-agaclarinda-sonbahar-gubrelemesi) yazısına bakabilirsiniz.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Bor, çinko ve çiçek gözü
+
+Mikro elementler de çiçek ve meyve tutumuyla ilişkilidir. Türkçe akademik yayınlar, bor yetersizliğinde çiçek tomurcuğu oluşumu, polen üretimi ve meyve tutumunun zayıfladığını bildiriyor; kirazda ve zeytinde çiçeklenme öncesi veya çiçeklenme sırasındaki bor uygulamalarının meyve tutumunu artırdığı çalışmalarda anılıyor. Çinko için ise yüksek dozun bazı elmalarda kabuğa zarar verdiği bildirilmiş. Bu elementlerin dozu ve uygulama zamanı analize ve yerel öneriye bağlıdır; ürün adı ve doz vermeden önce toprak ve yaprak analizi yaptırmak doğru yoldur. Analizin nasıl okunacağı için [toprak analizi sonuçları](/toprak-analizi-sonuclari) yazısına bakın.
+
+## Budama, seyreltme ve yük dengesi
+
+Meyve gözü oluşumu yalnızca gübreyle yönetilmez. Aşırı budama güçlü sürgün üretir ve çiçek gözlerini azaltır; Iowa State bunu açıkça belirtiyor. Hafif ve düzenli budama dengelidir; çiçek gözlerini korur, ağacın ışık almasını sağlar ve meyve kalitesini destekler. Bir ağaçta çok fazla meyve varsa (özellikle bol ürün yılında), meyve seyreltme (aşırı meyvenin erken dönemde alınması) hem meyve boyutunu hem de gelecek yılın çiçek gözü oluşumunu destekler. Kış budamasının ayrıntıları için [kış budaması](/kis-budamasi) yazısını okuyabilirsiniz.
+
+## Gençken ve yaşlıyken fark
+
+Genç ağaç, çatı ve kök sistemini kuruyor; sürgün büyümesi öncelikli, çiçek gözü oluşumu ikincil. Bu nedenle genç ağaçta yapılan azotlu gübre ağaca büyüme sağlar ve ilk yıllarda çiçek gözünü azaltmaz; asıl sorun, yetişkin ağacın azotu fazla alıp aşırı sürgün üretmesidir. Yaşlı ve verimi düşük ağaçta ise tam tersi, sürgün çok kısa kalmışsa azot ve su desteği gerekir. Meyve gözü oluşumu için gübreleme kararında ağacın yaşını, yükünü ve sürgün gücünü birlikte okumak gerekir; gübre torbası yalnız başına cevap vermez.
+
+## Küçük bir yıllık plan
+
+Ev bahçesinde bir ağaç için basit bir takvim kurmak yeter. İlkbaharda çiçeklenme öncesi ölçülü beslenme, çiçeklenme sonrası meyve seyreltme, yaz boyunca düzenli sulama, hasattan sonra ağacın yaprak sağlığını koruma ve sonbaharda organik madde desteği. Her yıl ağaç başına sürgün uzunluğunu, meyve sayısını ve çiçeklenmeyi bir defterde tutun. Üç yıl sonra ağacınızın dönüşümlü verime eğilimi ve besin dengesi net görünür.
+@sss
+S: Meyve gözü ne zaman oluşur?
+C: Çiçek gözleri çiçeklenmeden önceki büyüme mevsiminde, çoğunlukla yaz ortası ile sonbahar arasında oluşur. Bir elma çalışmasında başlangıç temmuz sonu ile ağustos başındaydı. Tam zaman türe, çeşide ve bölgeye göre değişir.
+
+S: Fazla azot meyve gözünü azaltır mı?
+C: Evet. Iowa State Üniversitesi, aşırı azotun ya da aşırı budamanın çiçek tomurcuğu oluşumu pahasına güçlü sürgün büyümesine yol açtığını belirtiyor. Gübre dengeli verilmeli, sürgün uzunluğu izlenmelidir.
+
+S: Meyve ağacı neden bir yıl çok, bir yıl az ürün verir?
+C: Ağaç yükü fazla olduğunda hem meyveye hem gelecek yılın çiçek gözlerine yeterince kaynak ayıramaz. Bu dönüşümlü verim denir. Meyve seyreltme, dengeli beslenme ve ölçülü budama bunu azaltır.
+
+S: Hasattan sonra ağaca gübre verilir mi?
+C: Yavaş etkili organik madde ya da analizin gösterdiği eksik besinle sınırlı bir destek verilebilir. Bir Washington denemesi geç yaz azotunun çiçek tomurcuklarına ulaşabildiğini gösterse de bu tek bir deneme; yerel öneriye bakın.
+
+### YAZI
+slug: dalgic-pompa-secimi-kuyudan-sulama
+baslik: Dalgıç Pompa Seçimi: Kuyudan Sulama İçin Debi ve Basma Yüksekliği
+yayin: 2027-02-05 08:45
+yazar: Ahmet Sacit Çelik
+kategori: bahce-ipuclari
+odak: dalgıç pompa seçimi
+seo_baslik: Dalgıç Pompa Seçimi: Debi ve Basma Yüksekliği
+seo_aciklama: Dalgıç pompa seçimi nasıl yapılır? Kuyudan sulama için gereken debi, toplam basma yüksekliği, dinamik su seviyesi, pompa eğrisi ve kuyu testi.
+ozet: Dalgıç pompa seçimi iki sayıya dayanır: ihtiyaç duyulan debi ve toplam dinamik basma yüksekliği. Kuyudaki dinamik su seviyesini, boru ve bağlantı kayıplarını, mevsim boyunca su çekilmesini ve pompa eğrisinde çalışma noktasını anlattık. Hesabı kendi kuyunuza göre yapmak için adımlar verildi.
+etiketler: dalgıç pompa, kuyu, sulama, debi, basma yüksekliği, pompa eğrisi, dinamik seviye
+gorsel: bekliyor
+gorsel_alt: Kuyu başında bağlantıları yapılmış sulama hattı ve yanındaki basınç göstergesi
+urunler: sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu
+kisaca: Dalgıç pompa seçimi için iki değer gerekir: ihtiyaç duyulan debi (L/dk ya da m³/saat) ve toplam dinamik basma yüksekliği. Yükseklik, kuyudaki dinamik su seviyesi, boru sürtünme kayıpları ve çıkış basıncının toplamıdır; yaz boyunca seviye düşebilir. Pompa, üretici eğrisinde bu iki değerin kesiştiği noktada, verimin yüksek olduğu bölgede çalışmalıdır.
+@govde
+Yanlış pompa iki şekilde hata yapar: Ya yetersiz kalır ve su ağacın dibine ulaşmaz, ya da fazla büyük seçilir ve hem enerji harcar hem kuyuyu çabuk boşaltır. İkisi de bahçeciye pahalıya mal olur. Dalgıç pompa seçimi, marka ve beygir gücü karşılaştırmasından önce iki sayının doğru hesaplanmasıdır: ne kadar su (debi) ve ne kadar yüksekliğe (basma yüksekliği). Aşağıda bu iki sayıyı kuyunuz ve sulama sisteminiz için nasıl bulacağınızı, pompa eğrisini nasıl okuyacağınızı ve kaynakların hangi tuzaklara dikkat çektiğini anlatıyoruz. Kuyunun kendisi, kuyu açma ve su kullanım izinleri bu yazının konusu değildir; yasal şartlar için yerel su idaresine bakın.
+
+## Dalgıç pompa seçimi için iki temel değer
+
+**Debi**, pompanın birim zamanda verdiği su miktarıdır; litre/dakika ya da m³/saat olarak ifade edilir. **Basma yüksekliği (manometrik yükseklik)** ise pompanın suyu kaç metre yükseğe kaldırabildiğini gösterir. Amerikan kaynaklarında debi galon/dakika (gpm), yükseklik fit olarak geçer; çevirmek için 1 gpm yaklaşık 3,785 L/dk, 1 fit yaklaşık 0,305 m eder.
+
+Pompa seçiminin mantığını anlatan USDA NRCS'nin sulama pompaj tesisleri bölümü, bu iki değerin birlikte düşünülmesi gerektiğini ve pompanın, istenen debide gereken toplam dinamik yüksekliği sağlayabilmesinin seçimin özü olduğunu anlatıyor ([USDA NRCS: sulama pompaj tesisleri](https://www.wcc.nrcs.usda.gov/ftpref/wntsc/waterMgt/irrigation/NEH15/ch8.pdf)). Kuzey Dakota Eyalet Üniversitesi'nin sulama pompaları yayını da seçimin büyük ölçüde pompa verimi ile pompanın o debide sağladığı toplam yükseklik arasındaki ilişkiye bağlı olduğunu belirtiyor ([NDSU: sulama su pompaları](https://www.ag.ndsu.edu/publications/crops/irrigation-water-pumps)).
+
+## Debiyi nasıl hesaplarsınız?
+
+Debi, sulama sisteminizin aynı anda ne kadar su harcayacağına bağlıdır. Bunu bulmanın en basit yolu, aynı anda açık çalışacak tüm çıkış noktalarının debisini toplamaktır: damla sulamada damlatıcıların, yağmurlamada başlıkların, hortumla sulamada tabancanın ya da hortumun debisi. Üreticiler her çıkışın debisini ürün üzerinde ya da kataloğunda yazar.
+
+Örnek (varsayımsal, kendi değerlerinizle değiştirin): Bahçenizde her biri saatte 2 litre veren 150 damlatıcı varsa toplam debi 300 L/saat, yani 0,3 m³/saat'tir; bu çok küçük bir değerdir, küçük bir pompa bile yeter. Aynı bahçede iki yağmurlama başlığı da çalışacaksa ve her biri dakikada 10 litre verirse eklenen debi 20 L/dk, yani saatte 1,2 m³ olur ve hesap değişir. Yani seçim, aynı anda kaç çıkış açtığınıza bağlıdır; sulamayı bölümlere ayırmak, gereken pompa debisini düşürür. Damla sulama ve bölümleme mantığı için [damla sulama kurulumu](/damla-sulama-kurulumu) yazısına bakabilirsiniz.
+
+Debinin kuyunun verebileceğiyle uyumlu olması şarttır. Kuyu, pompanın çekmek istediğinden az su veriyorsa pompa kuruyabilir. NRCS teknik notu, kuyunun kapasitesinden emin değilseniz tam bir kuyu testi yapılması gerektiğini söylüyor. Kuyu testi, pompa seçiminden önce yapılması gereken ilk adımdır.
+
+## Toplam dinamik basma yüksekliği (TDH) nedir?
+
+NRCS, toplam dinamik yüksekliği (TDH) emme hattı sürtünme kaybı, emme yüksekliği, basma hattı sürtünme kaybı ve basma yüksekliğinin toplamı olarak tanımlıyor. Kuyudan sulamada pratik olarak şu parçaları toplarsınız:
+
+| Parça | Anlamı | Nasıl bulunur? |
+|---|---|---|
+| Dinamik su seviyesi | Pompa çalışırken kuyudaki su seviyesinin yüzeyden derinliği | Kuyu testi, kuyu sahibi kaydı |
+| Yüzeyden çıkış yüksekliği | Çıkış noktasının zeminden yüksekliği | Ölçüm |
+| Boru ve bağlantı kayıpları | Sürtünmeyle kaybolan basınç | Boru çapı, uzunluk ve debiye göre tablodan |
+| Çıkış basıncı | Sulama sistemi için gereken basınç | Damlatıcı ya da başlık kataloğu |
+
+Burada kritik kelime "dinamik"tir: NRCS teknik notu, pompaj yüksekliğini ve TDH'yi belirlerken statik değil dinamik su seviyesinin kullanılmasını öneriyor. Statik seviye, pompa durduğunda kuyudaki su seviyesidir; pompa çalışırken seviye düşer ve bu düşüşe çekilme (drawdown) denir. Pompa seçimini statik seviyeye göre yapmak, yetersiz bir pompa almak demektir.
+
+## Mevsim boyunca seviye düşer
+
+NRCS belgelerinden birinde, sulama mevsimi boyunca su seviyesi düşen bir kuyuyu anlatan bir örnek var: Pompa maksimum çekilmeye göre seçildiği için mevsimin büyük bölümünde fazla büyük (aşırı boyutlu) kalıyor. Aynı kaynak, TDH'yi etkileyen tüm parametrelerin, çekilme aralığı dahil, pompa seçerken göz önüne alınması gerektiğini söylüyor. Yani seçimi yaparken yalnızca bugünkü seviyeyi değil, yaz sonundaki seviyeyi de düşünmelisiniz. Kuyunuzun yaz sonu seviyesini bilmiyorsanız, komşu kuyuların ve kuyu açan firmanın deneyimini sorun.
+
+## Pompa eğrisini okumak
+
+Her pompanın üretici tarafından verilen bir eğrisi vardır. Eğri, yatay eksende debiyi, düşey eksende toplam yüksekliği gösterir; çoğu zaman verim ve güç eğrileri de aynı grafikte yer alır. İstediğiniz debiyi yatay eksende, hesapladığınız TDH'yi düşey eksende işaretleyin; iki çizginin kesiştiği nokta çalışma noktanızdır. Pompa bu noktada bulunuyorsa ve nokta verim eğrisinin yüksek olduğu bölgeye düşüyorsa seçim uygundur. Oregon Eyalet Üniversitesi'nin bir örneğinde pompa, 900 gpm debi ve 120 fit yükseklik noktası için seçiliyor ve kesişim yüzde 83 verim eğrisine yakın düşüyor; yani seçimde pompanın çoğu zaman en yüksek verime yakın çalışması hedefleniyor. NRCS de aynı hedefi öneriyor.
+
+::: adimlar
+Kuyu testi yaptırın | Kuyunun sürekli verebileceği debiyi ve çekilmeyi öğrenin.
+Debiyi belirleyin | Aynı anda çalışacak tüm çıkışların debisini toplayın.
+Dinamik seviyeyi öğrenin | Yaz sonunda beklenen en derin seviyeyi baz alın.
+Kayıpları ekleyin | Boru ve bağlantı sürtünmesi ile çıkış basıncını ekleyin.
+TDH'yi hesaplayın | Hepsini toplayıp metreye çevirin.
+Pompa eğrisine bakın | Debi ve TDH kesişimi verimli bölgede olsun.
+Güvenlik payı bırakın | Kuyu dibine çok yakın yerleştirmeyin; kuru çalışmaya karşı koruma ekleyin.
+:::
+
+## Dalgıç pompa ne zaman tercih edilir?
+
+NDSU yayınındaki tabloda dalgıç pompalar, orta aralıktaki koşullar için aday olarak sıralanıyor; tablo sulama ölçeğinde (yaklaşık 300 ile 5000 gpm debi ve 50 ile 500 fit yükseklik) hazırlanmış. Bu, büyük tarla sulaması ölçeğidir; ev bahçesi ve küçük tarım alanlarında debiler bundan çok daha küçüktür ve tablo doğrudan uygulanamaz. Yine de ilke geçerlidir: Derin kuyularda, emme yüksekliğini aşan seviyelerde dalgıç pompa; sığ kuyularda yüzey pompası da seçenek olabilir. Hangisinin uygun olduğunu kuyu derinliğine ve ihtiyaca göre kuyu açan firmayla belirleyin.
+
+## Borular ve hortum: pompadan sonrası
+
+Pompanın verdiği suyun bahçeye ulaşması boru çapı ve uzunluğuna bağlıdır; dar ya da çok uzun borular sürtünme kaybını artırır ve TDH'yi yükseltir. Bahçe sulamasında pompadan sonra çıkış hattının çapını pompanın çıkış ağzına ve debiye uygun seçin. Hortum ve tabanca gibi son uç parçalar da debiyi sınırlar. Bu ürünlerle ilgili ürün açıklaması bulunmadığından teknik değer vermiyoruz; üretici etiketine ve kataloğuna bakın. Sulama tabancası seçimi için [sulama tabancası seçimi](/sulama-tabancasi-secimi) yazısı, kış öncesi hortum bakımı için [hortum kışlatma](/hortum-kislatma) yazısı işinize yarar.
+
+[ürün:sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu]
+
+## Seçimden sonra sık yapılan hatalar
+
+Dalgıç pompa seçimi sonrası yapılan hatalar çoğu zaman hesap hatalarıdır; pompanın kendisinden çok hesaplardaki eksiklik sorun çıkarır.
+
+Birincisi, "ne kadar büyük, o kadar iyi" düşüncesidir: Fazla büyük pompa kuyuyu hızla çeker, sık açılıp kapanır ve ömrü kısalır. İkincisi, çekilmeyi hesaba katmamaktır: Yazın seviye düşünce pompa hava çeker ya da kuru çalışır. Üçüncüsü, sulama sistemini pompaya göre değil, pompayı sistemin gerektirdiği debiye göre seçmemektir. Dördüncüsü, boru ve bağlantı kaybını ihmal etmektir. Pompa gücü, elektrik şebekesi ve bağlantı güvenliği gibi konular yetkili elektrik tesisatçısının ve kuyu açan firmanın işidir; kendi başınıza yapmayın. Bahçe sulamasının aşırıya kaçmaması için de [aşırı sulama belirtileri](/asiri-sulama-belirtileri) yazısına bakın.
+@sss
+S: Dalgıç pompa seçimi nasıl yapılır?
+C: İhtiyaç duyulan debiyi (aynı anda çalışacak çıkışların toplamı) ve toplam dinamik basma yüksekliğini (dinamik su seviyesi, çıkış yüksekliği, boru kayıpları ve çıkış basıncı) hesaplayın; sonra üretici pompa eğrisinde bu iki değerin kesiştiği noktanın verimli bölgede olduğu pompayı seçin.
+
+S: Dinamik su seviyesi nedir, neden önemli?
+C: Pompa çalışırken kuyudaki su seviyesinin yüzeye göre derinliğidir. NRCS pompaj yüksekliği ve TDH'yi belirlerken statik değil dinamik seviyenin kullanılmasını öneriyor; çünkü pompa çalışınca seviye düşer.
+
+S: Kuyunun debisini nasıl öğrenirim?
+C: Kuyu testi yaptırarak. NRCS, kuyunun kapasitesinden emin değilseniz tam bir kuyu testi yapılmasını söylüyor. Pompa, kuyunun sürekli verebileceğinden fazla su çekmemelidir.
+
+S: Pompa ne kadar büyük olmalı?
+C: İhtiyaca göre; fazla büyük pompa enerji harcar ve kuyuyu hızla boşaltır. NRCS pompanın çoğu zaman en yüksek verime yakın çalışacak şekilde seçilmesini hedef olarak öneriyor.
+
+### YAZI
+slug: delmeden-balkon-bahcesi-kiraci-icin
+baslik: Delmeden Balkon Bahçesi: Kiracı İçin Askı, Raf ve Taşınabilir Çözümler
+yayin: 2027-02-05 10:20
+yazar: Hatice Kübra Çelik
+kategori: bahce-ipuclari
+odak: delmeden balkon bahçesi
+seo_baslik: Delmeden Balkon Bahçesi: Kiracı İçin Çözümler
+seo_aciklama: Delmeden balkon bahçesi nasıl kurulur? Kiracı için kendi ayağında duran raf, tekerlekli yatak, korkuluğa takılan saksılık, ağırlık hesabı ve rüzgâr önlemleri.
+ozet: Delmeden balkon bahçesi, kiracının duvara ve korkuluğa zarar vermeden balkonda bitki yetiştirmesidir. Kendi ayağında duran raf, tekerlekli yatak, korkuluğa kıskaçla takılan saksılık ve asma seçeneklerini, ağırlığı azaltma yollarını, rüzgâr ve zemin önlemlerini ve ev sahibiyle konuşulacakları anlattık.
+etiketler: balkon bahçesi, kiracı, delmeden, saksı rafı, balkon sebze yatağı, ağırlık, rüzgâr, taşınabilir bahçe
+gorsel: bekliyor
+gorsel_alt: Kiralık dairenin balkonunda delik açılmadan kurulmuş dar raf üzerinde sıralı saksılar ve tekerlekli yükseltilmiş yatak
+urunler: galvaniz-dar-balkon-rafi-iskeleti-4-katli-101x36x123-cm, golgelikli-ve-tekerlekli-sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak
+kisaca: Delmeden balkon bahçesi için kendi ayağında duran raf, tekerlekli yatak ve korkuluğa takılan saksılıklar kullanılır. Asıl sınır ağırlıktır: ıslak toprak ve su balkona yük bindirir. Hafif saksı ve topraksız karışım seçin; taşıma gücünden emin değilseniz ev sahibine ya da bina yönetimine sorun.
+@govde
+Kiralık evin balkonu çoğu zaman bahçe hayalinin en yakın ve en kısıtlı yeridir: Duvara matkap sokamazsınız, korkuluğa kaynak yaptıramazsınız, taşınırken her şeyi götürmeniz gerekir. Yine de delmeden balkon bahçesi kurmak mümkündür; yeter ki yaptığınız her seçimde üç şeyi tartın: ağırlık, rüzgâr ve taşınabilirlik. Bu yazı kiracının evde iz bırakmadan kurup sökebileceği düzenleri, her birinin sınırlarını ve ağırlık konusundaki uyarıları anlatıyor.
+
+## Delmeden balkon bahçesinin kuralı: ağırlık önce gelir
+
+Balkon bir zemindir ama taşıma gücü sınırsız değildir. Kraliyet Bahçıvanlık Derneği (RHS) balkon bahçeciliği rehberinde balkonların yalnızca belirli bir ağırlığı taşıyabileceğini, emin değilseniz yapısal durumu bir mühendisin ya da bilirkişinin doğrulaması gerektiğini söylüyor ([RHS: balkon ve çatı bahçesi](https://www.rhs.org.uk/garden-inspiration/garden-types/balconies-roof-gardens)). Kiracı için bu soru çoğu zaman ev sahibine ya da bina yönetimine gider; yazılı bir cevap almak en güvenlisidir.
+
+Ağırlığın büyük kısmı sudur ve toprağa gizlenir. Oregon Eyalet Üniversitesi Uzantı Servisi, sulanmış askı saksılarının solmadan önce hafiflediğini hatırlatıyor ve bir galon suyun yaklaşık 8 libre ağırlığında olduğunu belirtiyor ([OSU: asma sepetler](https://extension.oregonstate.edu/news/add-color-lift-hanging-baskets)); metrik karşılığıyla bir litre su yaklaşık bir kilogramdır. Yani 20 litrelik saksının suyla doymuş hâli, toprağı ve saksıyla birlikte kolayca 20 kilogramın üzerine çıkar. On saksılık bir balkon düzeni yüzlerce kilogram demektir; bu yüzden ağırlık hesabı yapılmadan dolgu yapılmamalıdır.
+
+Ağırlığı azaltmanın kaynaklarda anılan yolları şunlar. Toprak bazlı karışımlar topraksız karışımlardan ağırdır; balkonda çok saksı varsa ya da saksıları sık taşıyacaksanız topraksız (torf, perlit, vermikülit bazlı) karışım tercih edilebilir. Plastik gibi hafif saksıları seçin, seramik ve pişmiş toprak saksıları ise büyük boylarda kullanmayın. Büyük saksıların tabanına köpük parçaları ya da boş plastik fide saksıları koymak, toprak hacmini ve ağırlığını azaltır. Hesap için saksıya ne kadar toprak gittiğini [saksıya kaç litre toprak gider](/saksiya-kac-litre-toprak-gider) yazısından, saksı malzemesini [saksı seçimi rehberi](/saksi-secimi-rehberi) yazısından görebilirsiniz.
+
+## Seçenek 1: Kendi ayağında duran raf
+
+En az sorunlu düzen, hiçbir yere bağlanmayan, kendi ayağında duran raftır. Duvara ya da korkuluğa tutturulmadığı için delik gerektirmez; taşınırken sökülür. Galvaniz Dar Balkon Rafı İskeleti ürün açıklamasına göre 101 × 36 × 123 cm ölçüsünde, 4 katlı ve 3 bölümlü; 36 cm derinliği dar balkona uygun, 12 saksı yeri var. Sökülüp taşınabiliyor, kaynaksız ve civatalı kurulumu var; raf tablaları pakete dahil değil, istediğiniz malzemeden kestirerek tamamlıyorsunuz. Tabla için ürün açıklaması OSB, kontrplak ya da MDF'yi sayıyor ve balkon gibi nemli yerlerde suya dayanıklı tabla öneriyor.
+
+[ürün:galvaniz-dar-balkon-rafi-iskeleti-4-katli-101x36x123-cm]
+
+Raf düzeninde ağırlığı katlara dağıtmak için ağır, büyük saksıları alt kata, hafif ve küçük saksıları üst kata koyun; böylece hem devrilme riski azalır hem de yük zemine yakın toplanır. Raf yan yana duran bir duvar ya da korkuluğa yaslanabilir ama bağlamayın; çok yüksek raf rüzgârda devrilebileceği için balkon rüzgâr alıyorsa daha alçak ve geniş bir düzen seçin. Raf altına su toplama tabağı koymak zemini temiz tutar ve komşunun balkonuna su damlamasını önler.
+
+## Seçenek 2: Tekerlekli yükseltilmiş yatak
+
+Biraz sebze yetiştirmek isteyen kiracı için bir diğer çözüm, kendi sehpasında duran yükseltilmiş yataktır. Gölgelikli ve Tekerlekli Sehpalı Balkon Sebze Yatağı'nın ürün açıklamasına göre yatak 60 × 112 × 30 cm ölçüsünde, galvaniz profil sehpanın üstünde bel hizasında duruyor, toplam yükseklik 2,00 m; 6 frenli tekerlek sayesinde yatak balkonda güneşe ya da gölgeye kaydırılıp frenle sabitleniyor. Yatak altlığı süzülen suyu ve toprağı tutuyor, balkon zemini temiz kalıyor. Yatağın hacmi yaklaşık 200 litre; bu doldurulmuş hâlinde ağır bir yüktür, bu yüzden balkonun taşıma gücü sorusu özellikle burada önem kazanır.
+
+[ürün:golgelikli-ve-tekerlekli-sehpali-balkon-sebze-yatagi-60x112-cm-bel-hizasinda-yukseltilmis-yatak]
+
+Tekerlekli yatak, mevsime göre konumunu değiştirmek isteyen kiracı için pratiktir: Kışın güneşe, yazın öğle sıcağından uzağa kaydırılır. Ürün açıklaması marul, roka ve maydanoz gibi yeşillikleri; domates, biber, çilek ve fasulye gibi kökü 30 cm derinliğe sığan sebzeleri yetişebilecek bitkiler olarak sayıyor. Balkonda sebze yetiştirmenin ayrıntıları için [balkonda domates yetiştirme](/balkonda-domates-yetistirme) ve [balkon bahçesi kısa hazırlık](/balkon-bahcesi-kisa-hazirlik) yazılarına bakabilirsiniz.
+
+## Seçenek 3: Korkuluğa takılan saksılıklar
+
+Korkuluğa kıskaçla ya da kancayla takılan saksılıklar delik gerektirmez; RHS rehberi bu tür ürünlerin piyasada çeşitli korkuluk tiplerine uyacak şekilde üretildiğini belirtiyor. Ama aynı kaynak, bitkilerin balkonun "kenarında" büyüyeceği için rüzgâra karşı dayanıklı olması gerektiğini de uyarıyor. Korkuluğa takılan her şey düşme riski taşır: Ürünün taşıma kapasitesini üretici etiketinden okuyun, bağlantıyı sıkı ve ikili kontrol edin, ıslak toprakla ağırlaşmış hâlini hesaba katın. Dışa, sokağa bakan korkuluğa ağır saksı asmak yerine, balkon içine bakan tarafı tercih edin. Apartman yönetim planı ve ev sahibi izni konusu da vardır; kiralık evde dış cepheye bitki asmadan önce yönetimin kuralını öğrenin.
+
+## Seçenek 4: Zemin ve köşe düzeni
+
+Delmeden balkon bahçesinin en basit biçimi, saksıları zemine ve köşeye yerleştirmektir. Balkon köşesine büyük bir saksı, duvara dayalı iki üç küçük saksı yeterli olabilir. Zemini korumak için saksı altına tabak, balkon zemini boyalıysa altına ince bir ped koyun. Sık sulanan saksılarda zemin üzerinde su birikmesini engellemek için su gideri açık kalmalıdır. Balkon bahçesi kurulumunun genel ilkeleri ve çiçeklik seçimi için [balkon çiçekliği seçimi](/balkon-cicekligi-secimi) yazısı yardımcı olur.
+
+::: adimlar
+Taşıma gücünü sorun | Ev sahibine ya da bina yönetimine balkonun yük kapasitesini ve izin kurallarını yazılı sorun.
+Yükü hesaplayın | Saksı sayısı, toprak hacmi ve suyla toplam ağırlığı kabaca çıkarın.
+Hafif malzeme seçin | Plastik saksı, topraksız karışım ve köpük dolgu ile ağırlığı azaltın.
+Kendi ayağında duran düzen kurun | Raf ya da tekerlekli yatak; hiçbir şeyi duvara ya da korkuluğa bağlamayın.
+Rüzgârı düşünün | Alçak ve geniş düzen, rüzgâra dayanıklı bitkiler; devrilme riskini azaltın.
+Zemini koruyun | Saksı altına tabak, su gideri açık.
+Taşınmaya hazır olun | Raf sökülebilir, yatak tekerlekli; saksıları kolay taşınır yapıda tutun.
+:::
+
+## Rüzgâr ve güneş
+
+Balkon rüzgâr alıyorsa uzun boylu ve geniş yapraklı bitkiler devrilir ya da yaprağı yırtılır. RHS balkon bahçelerinde rüzgâra dayanıklı bitkileri öneriyor. Alçak bitkiler, kompakt çiçekler ve aromatik bitkiler rüzgâr için daha güvenlidir. Güneş yönü de seçimi belirler: Güneye bakan balkon yaz sıcağında bitkiyi kavurabilir, kuzey balkon ise gölge bitkileri ister. Bitkilerin ışık ihtiyacı ve balkon yönüne göre seçimi için [balkon çiçekliği seçimi](/balkon-cicekligi-secimi) yazısında ek ipuçları var.
+
+## Taşınırken ne olur?
+
+Delmeden kurulan düzenin avantajı taşınırken ortaya çıkar: Raf sökülür, saksılar kolilere ya da arabaya taşınır, tekerlekli yatak yeni eve çekilir. Balkonda iz bırakmadığınız için kiracılık süresi sonunda depozito sorunu yaşamazsınız. Taşıma öncesinde bitkileri kısa budayıp, toprağı bir iki gün önce sulamayı azaltıp saksıları hafifletmek, taşıma sırasında yaprak ve kök zararını da azaltır.
+@sss
+S: Delmeden balkon bahçesi nasıl kurulur?
+C: Duvara ya da korkuluğa bağlanmayan, kendi ayağında duran düzenlerle: sökülebilir galvaniz raf, tekerlekli yükseltilmiş yatak, zemine ve köşeye yerleştirilen saksılar. Korkuluğa kıskaçla takılan saksılıklar da seçenektir ama rüzgâr ve düşme riski taşır.
+
+S: Balkona kaç kilo saksı konabilir?
+C: Balkonun taşıma gücüne bağlıdır; RHS balkonların yalnızca belirli bir ağırlığı taşıyabileceğini ve emin değilseniz mühendis ya da bilirkişiden doğrulama alınmasını söylüyor. Kiracı olarak ev sahibine ya da bina yönetimine sorun.
+
+S: Balkon bahçesinde ağırlık nasıl azaltılır?
+C: Topraksız karışım, plastik saksı ve büyük saksıların tabanında köpük ya da boş plastik saksı kullanmak ağırlığı azaltır. Bir litre su yaklaşık bir kilogramdır; ıslak toprağın ağırlığını hesaba katın.
+
+S: Korkuluğa saksı asmak güvenli mi?
+C: Ürünün taşıma kapasitesi, bağlantının sağlamlığı ve rüzgâr dikkate alınmalı. RHS korkuluğa takılan saksılığın rüzgâr alacağını belirtiyor. Sokağa bakan tarafa ağır saksı asmayın ve bina yönetiminin kurallarını öğrenin.

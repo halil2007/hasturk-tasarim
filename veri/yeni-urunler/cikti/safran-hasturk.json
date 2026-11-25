@@ -1,0 +1,78 @@
+{
+ "site": "hasturk",
+ "kategoriler": [
+  {
+   "name": "Topraklar",
+   "slug": "topraklar",
+   "pageTitle": "Topraklar",
+   "description": "Topraklar",
+   "children": [
+    {
+     "name": "Özel Bitki Toprakları",
+     "slug": "ozel-bitki-topraklari",
+     "pageTitle": "Özel Bitki Toprakları",
+     "description": "Özel bitki toprakları"
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "HG Safran Toprağı",
+   "marka": "HG",
+   "sku": "HG-SFR-05L",
+   "kategoriler": [
+    "Özel Bitki Toprakları"
+   ],
+   "fiyat": 249,
+   "etiketler": [
+    "kdv_20"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/hg-safran-topragi.webp"
+   ],
+   "metaData": {
+    "slug": "hg-safran-topragi",
+    "pageTitle": "HG Safran Toprağı | HasTürk Gübre",
+    "description": "HG Safran Toprağı: pomza ve perlitle süzek, hafif hazır toprak. Safran soğanının çürümesini önlemeye yardımcı olur, saksı ve yatak için."
+   },
+   "aciklama": "<p>HG Safran Toprağı, safran (Crocus sativus) soğanlarının saksıda ya da bahçede yetiştirilmesi için hazırlanmış, kullanıma hazır bir toprak karışımıdır. Safran soğanı, suyu tutan ağır toprakta çürüyen bitkilerdendir. Başarılı yetiştirmenin ilk şartı, fazla suyu hızla bırakan, hafif ve havadar bir toprak kullanmaktır.</p>\n<h2>Safran Nasıl Bir Toprak Sever?</h2>\n<ul>\n<li><strong>Çok süzek:</strong> Soğanın bulunduğu bölgede su birikmemeli; sulama ve yağmurdan sonra fazla su hızla akmalı.</li>\n<li><strong>Hafif ve gevşek:</strong> Kökler ve yeni gelişen soğanlar kolayca yayılabilmeli.</li>\n<li><strong>Orta düzeyde besinli:</strong> Çiçeklenme için soğanın depoladığı besin yeterlidir; toprak aşırı zengin olmak zorunda değildir.</li>\n<li><strong>Güneşli yerde:</strong> Safran bol güneş ister; saksı ya da yatak da buna göre yerleştirilmelidir.</li>\n</ul>\n<h2>Karışım İçeriği</h2>\n<ul>\n<li><strong>Sphagnum ham torf:</strong> %30</li>\n<li><strong>Kırmızı pomza lav taşı:</strong> %30</li>\n<li><strong>Kalın tarım perliti:</strong> %20</li>\n<li><strong>Longoz orman toprağı (doğal humuslu):</strong> %10</li>\n<li><strong>Solucan gübresi:</strong> %10</li>\n</ul>\n<h2>Neden Bu Karışım?</h2>\n<ul>\n<li><strong>Sphagnum torf</strong> karışımı hafifletir ve gevşek tutar.</li>\n<li><strong>Kırmızı pomza lav taşı</strong> iri ve gözenekli olduğu için sulamalardan sonra da yapısını korur, kök bölgesinde hava boşluğu bırakır.</li>\n<li><strong>Perlit</strong> boşluk açar; fazla suyun çabuk akmasına ve soğan çürümesi riskinin azalmasına yardımcı olur.</li>\n<li><strong>Longoz orman toprağı</strong> doğal humus ve doku sağlar.</li>\n<li><strong>Solucan gübresi</strong> organik besin katar.</li>\n</ul>\n<h2>Bu Toprak Kimler İçin?</h2>\n<ul>\n<li>Balkon, teras ya da bahçede safran soğanı yetiştirmek isteyenler</li>\n<li>Önceki yıl soğanlarını suda çürüten ve süzek toprak arayanlar</li>\n<li>Soğanlı çiçekler için hafif ve havadar bir saksı toprağı isteyenler</li>\n</ul>\n<h2>Nasıl Kullanılır?</h2>\n<ol>\n<li>Dibi delikli, derin bir saksı ya da yükseltilmiş bir yatak seçin.</li>\n<li>Toprağı doldurun; safran soğanlarını sivri uçları yukarı bakacak biçimde, birbirine değmeyecek aralıkla ve yaklaşık 10 cm derinliğe yerleştirin.</li>\n<li>Dikimden sonra bir kez ölçülü su verin; ardından toprağı sürekli ıslak tutmayın.</li>\n<li>Saksıyı güneşli bir yere koyun; yağmur ve fazla su birikmesine karşı korumalı olsun.</li>\n</ol>\n<h2>Bakım Önerileri</h2>\n<ul>\n<li>Safran soğanları yaz sonunda (ağustos–eylül) dikilir; çiçekler sonbaharda, ekim–kasım aylarında açar.</li>\n<li>Çiçeklenmeden sonra yapraklar uzar; sararıp kuruyana kadar bırakın, çünkü soğan bu yapraklardan besin depolar.</li>\n<li>Yazın uyku döneminde toprağı kuru tutmak soğanın çürümesini önler.</li>\n<li>Tuzlu, ağır ve kil oranı yüksek bahçe toprağı yerine bu tür hafif karışımlar tercih edilir.</li>\n</ul>\n<h2>Paket Seçenekleri</h2>\n<p>5, 10, 20 ve 40 litrelik paketler: tek saksıdan çok sayıda saksıya ya da geniş bir yatağa kadar ihtiyacınıza göre seçin.</p>\n<h2>Sıkça Sorulan Sorular</h2>\n<h3>Safran hangi toprakta yetişir?</h3>\n<p>Fazla suyu tutmayan, hafif, havadar ve süzek topraklarda yetişir. Ağır ve sürekli ıslak kalan toprakta soğanlar çürür.</p>\n<h3>Safran saksıda yetiştirilebilir mi?</h3>\n<p>Evet. Dibi delikli, derin bir saksı ve süzek bir toprak yeterlidir; saksıyı bol güneş alan bir yere koymak gerekir.</p>\n<h3>Safran ne zaman dikilir, ne zaman çiçek açar?</h3>\n<p>Soğanlar yaz sonunda dikilir; çiçekler genellikle sonbaharda, ekim–kasım aylarında açar.</p>",
+   "secenek": {
+    "ad": "Farklı Paket Seçeneği",
+    "degerler": [
+     "5 Lt",
+     "10 Lt",
+     "20 Lt",
+     "40 Lt"
+    ]
+   },
+   "varyantlar": [
+    {
+     "deger": "5 Lt",
+     "fiyat": 249,
+     "sku": "HG-SFR-05L",
+     "stok": 1000
+    },
+    {
+     "deger": "10 Lt",
+     "fiyat": 349,
+     "sku": "HG-SFR-10L",
+     "stok": 1000
+    },
+    {
+     "deger": "20 Lt",
+     "fiyat": 549,
+     "sku": "HG-SFR-20L",
+     "stok": 1000
+    },
+    {
+     "deger": "40 Lt",
+     "fiyat": 1075,
+     "sku": "HG-SFR-40L",
+     "stok": 1000
+    }
+   ],
+   "stoksuzSat": false
+  }
+ ]
+}

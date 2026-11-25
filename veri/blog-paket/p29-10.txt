@@ -1,0 +1,475 @@
+### YAZI
+slug: cime-solucan-gubresi
+baslik: Çime Solucan Gübresi Serpmek: Bahar Uygulaması
+yayin: 2027-02-25 10:20
+yazar: Halil İbrahim Çelik
+kategori: gubreleme
+odak: çime solucan gübresi
+seo_baslik: Çime Solucan Gübresi Serpmek: Bahar Rehberi
+seo_aciklama: Çime solucan gübresi bahar başında nasıl serpilir? Zamanı, metrekareye miktar hesabı, serpme tekniği, sulama, eksik yerlere tohum ve sık yapılan hatalar.
+ozet: Çime solucan gübresi, bahar başında çim büyümeye başlarken yavaş salınımlı ve yakma riski düşük bir besleme sağlar. Uygulama zamanını, metrekareye düşen miktarın hesabını, çimin nasıl hazırlanıp gübrenin nasıl eşit serpileceğini ve sulama düzenini anlattık.
+etiketler: çim gübresi, solucan gübresi, bahar çim bakımı, çim besleme, serpme, çim tohumu
+gorsel: bekliyor
+gorsel_alt: Bahar başında yeşillenen çimin üzerine elle serpilen koyu renkli solucan gübresi
+urunler: hasturk-kati-solucan-gubresi, cim-kapama-topragi-leonarditli-formul, dsv-lippa-special-4s-cim-tohumu
+kisaca: Çime solucan gübresi, çim büyümeye başladığında, toprak ısınınca ve ilk biçimden sonra serpilir. Ürün bilgisinde çim alanlar için serpme yöntemiyle dekara 100-125 kilogram, yani metrekareye 100-125 gram önerilir. Önce çim taranır, gübre eşit yayılır, ardından hafifçe sulanır. Yakma riski düşüktür ama yine de yığın bırakmadan, düzgün serpmek gerekir.
+@govde
+Çim, kışı donuk ve soluk geçirir. Mart geldiğinde toprak ısınır, kök uyanır ve çim yeniden yeşillenmek ister. Bu uyanışı doğru besleyen bahçıvan, yaz boyu gür ve koyu bir çim görür. Çime solucan gübresi bu iş için uygun bir seçenektir: Yavaş çözünür, çimi yakmaz ve toprağın yapısını da iyileştirir. Aşağıda bahar uygulamasının zamanını, miktarını ve tekniğini anlattık. Sonbahardaki gübreleme için [sonbahar çim gübresi](/sonbahar-cim-gubresi) yazısına bakabilirsiniz; bu yazı baharı kapsıyor.
+
+## Çimde bahar gübrelemesi neden başlar?
+
+Kışın büyüme durur ve çim kökleri dinlenmeye geçer. Mart ile nisan arasında toprak ısındıkça kökler yeniden besin almaya başlar. Bu dönemde verilen besin, çimin yeni yaprak ve kök üretmesine yardımcı olur. Çok erken, toprak hâlâ soğukken verilen gübre ise ya kullanılmadan yıkanır ya da gereksiz büyümeyi tetikler. İşaretler basittir: Çim yeşillenmeye başlamıştır, toprak sıkıldığında çamur değildir ve gece donu geçmiştir. Çoğu bölgede bu mart ortası ile nisan başı demektir; kıyıda şubat sonu da olabilir.
+
+Çim yaprağını ilk iki üç kez biçtikten sonra gübre vermek iyidir. Böylece çim aktif büyümededir ve besini hemen kullanır. Ağır ve soğuk toprakta beklemek, kıyıdaki hafif toprakta erken başlamak daha doğrudur. Bölge ve toprak durumunu hesaba katmak için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısındaki eşikleri kullanabilirsiniz.
+
+## Solucan gübresi çim için neden uygun?
+
+Solucan gübresi, organik ve yavaş salınımlı bir toprak düzenleyici ve besin kaynağıdır. Ürün bilgisinde kırmızı Kaliforniya solucanlarının doğal sindirim sürecinden elde edilen organik bir toprak düzenleyici olduğu belirtilir; kimyasal gübrelere kıyasla yakma riskinin çok düşük olduğu, katı formun kokusuz olduğu ve bu yüzden yerleşim alanlarında rahatça kullanılabildiği anlatılır. Çimde bu iki özellik önemlidir: Serperken yanık leke bırakmaz ve bahçede koku yapmaz.
+
+Hızlı yeşillendiren, ama kısa süren kimyasal çim gübresinin aksine, solucan gübresi etkisini haftalar içinde yavaş gösterir. Bu yüzden tek seferde güçlü bir "yeşil patlaması" beklemeyin; çim yavaş ve istikrarlı bir renk kazanır. Ayrıntılı kıyas için [solucan gübresi mi kimyasal gübre mi](/solucan-gubresi-mi-kimyasal-gubre-mi) yazısına bakın. Solucan gübresinin genel kullanımı için [solucan gübresi nedir, nasıl kullanılır](/solucan-gubresi-nedir-nasil-kullanilir) yazısı yeterlidir.
+
+## Çime solucan gübresi ne kadar serpilir? Metrekare hesabı
+
+Ürün bilgisindeki kullanım tablosunda, çim alanlar için serpme yöntemiyle dekara 100-125 kilogram önerilir. Dekar 1000 metrekare olduğu için bu, metrekareye 100-125 gram eder. Aşağıdaki tablo, bahçe ölçeğinde bu hesabı gösterir:
+
+| Çim alanı | 100 g/m² | 125 g/m² |
+|---|---|---|
+| 10 m² | 1 kg | 1,25 kg |
+| 25 m² | 2,5 kg | 3,1 kg |
+| 50 m² | 5 kg | 6,25 kg |
+| 100 m² | 10 kg | 12,5 kg |
+| 200 m² | 20 kg | 25 kg |
+
+Çime solucan gübresi için bu miktar ilk uygulama çerçevesidir. Çim durumunuz iyi, toprağınız organik maddece zenginse alt sınır yeterlidir. Çim zayıf, toprak fakir ya da kumluysa üst sınıra yaklaşın. Aşırıya kaçmayın; solucan gübresi yakma riski düşük olsa da, çok kalın serildiğinde çimin üstünü örter ve yeşil aksamı boğabilir. Aynı alanı bahar boyunca bir kez, gerekirse sonbaharda ikinci kez besleyin.
+
+## Hazırlık: uygulamadan önce çimi toparlayın
+
+Gübreyi bakımsız bir çimin üstüne atmak, işin yarısını boşa harcar. Önce şu adımları uygulayın:
+
+::: adimlar
+Tarayın | Metal ya da yaprak tırmığıyla kış boyu birikmiş ölü yaprak ve örtüyü alın.
+Biçin | Çim 6-8 cm olunca ilk biçimi yapın; bıçağı yüksek tutun.
+Eksik yerleri belirleyin | Çıplak ve seyrek lekeleri işaretleyin; tohum serpilecek yerler bunlardır.
+Gerekirse havalandırın | Sıkışmış çimi çatalla ya da havalandırıcıyla delin; gübre ve su kök bölgesine inebilsin.
+Toprağı nemlendirin | Kuru çim üzerine gübre serpmek yerine, toprak hafif nemliyken uygulayın.
+Serpin | Gübreyi eşit yayın.
+Sulayın | Serpme sonrası hafifçe sulayın; gübre toprağa karışsın.
+:::
+
+Çıplak yerlere çim tohumu serpecekseniz, gübreyi tohumla birlikte yaymak yerine, önce gübreyi serpin ve çim tohumunu ayrıca ekin. Tohum üstünü ince bir toprak tabakasıyla kapatmak için çim kapama toprağı kullanılabilir. Ürün bilgisinde elenmiş orman toprağı, tarım perliti, solucan gübresi ve leonarditten oluşan bir kapama karışımı, ekimden sonra tohumun üzerini yaklaşık 1 cm kalınlığında örtmek için tanıtılır. Çim ekiminin ayrıntıları için [çim tohumu nasıl ekilir](/cim-tohumu-nasil-ekilir) yazısına bakın.
+
+[ürün:hasturk-kati-solucan-gubresi,cim-kapama-topragi-leonarditli-formul]
+
+## Eşit serpme tekniği
+
+Gübrenin eşit dağılması, çimin eşit yeşillenmesini belirler. Küçük alanlarda elle serpebilirsiniz: Eldiven takıp bir avuç gübreyi geniş yay hareketiyle, yürüyerek savurun. Alanı iki yönde (önce uzun, sonra enine) geçmek, iz kalmasını önler. Büyük alanlarda el serpme aleti ya da tekerlekli gübre serpici işi hızlandırır ve düzenli yayar. Serpiciyi kullanmadan önce miktarı küçük bir alanda deneyin: 10 metrekarelik bir alana 1 ila 1,25 kg yayılıyor mu?
+
+Yığın ya da toplu bırakılan gübre, çimin üstünde yeşil aksamı boğabilir. Fazla yığılan yerleri tırmıkla ya da süpürgeyle düzleyin. Rüzgârlı havada serpmekten kaçının; gübre savrulur. Serpme sonrası çimin yaprağında kalan gübreyi süpürgeyle yaprak diplerine indirmek ve sulamak iyidir.
+
+## Sulama ve sonrası
+
+Serpmeden sonra çimi hafifçe sulayın; gübre toprağa karışır, yaprakta bulunan parçalar yıkanır ve mikroorganizmalar çalışmaya başlar. Sulamayı fazla yapmayın; çamur oluşturmasın. İlk iki üç hafta toprağı nemli tutun. Çim biçimini yüksek ayarda sürdürün. Bahar boyunca çim büyüdükçe haftada bir biçmek yeterlidir. Sulama sıklığı ve çim ekiminden sonraki ilk haftalar için [çim ekiminden sonra sulama](/cim-ekiminden-sonra-sulama) yazısı ayrıntı verir.
+
+Çimin renk ve yoğunluğunu birkaç hafta içinde takip edin. Beklenen sonuç, yavaş ve koyu bir yeşildir. Çim hâlâ soluksa toprağın pH ve organik madde durumuna bakın; toprak analizi sorunun gübre değil, toprakta olduğunu gösterebilir. Çimin sıkışmış toprağı, yosun, gölge ve su sorunları gübreyle çözülmez.
+
+## Sık yapılan hatalar
+
+- **Çok erken serpmek:** Toprak soğukken çim gübreyi kullanamaz.
+- **Kuru ve taranmamış çime serpmek:** Gübre ölü örtünün üzerinde kalır.
+- **Yığın bırakmak:** Çimde yeşil aksam boğulur ve leke oluşur.
+- **Sulamamak:** Gübre yüzeyde kalır, toprağa karışmaz.
+- **Gölgede aynı dozu vermek:** Gölgedeki çim az büyür, az besin ister.
+- **Tek başına çözüm beklemek:** Sıkışma, yosun ve drenaj sorunları gübreyle düzelmez.
+@sss
+S: Çime solucan gübresi ne zaman serpilir?
+C: Bahar başında, çim yeşillenmeye ve toprak ısınmaya başladığında, ilk biçimden sonra serpilir. Çoğu bölgede mart ortası ile nisan başıdır. Donlu ya da çamur hâlindeki toprağa serpmeyin.
+
+S: Çime metrekareye ne kadar solucan gübresi serpilir?
+C: Ürün bilgisinde çim alanlar için serpme yöntemiyle dekara 100-125 kilogram önerilir; bu, metrekareye 100-125 gram eder. Örneğin 50 metrekare için 5-6,25 kilogram. Çim durumuna göre alt ya da üst sınırı seçin.
+
+S: Solucan gübresi çimi yakar mı?
+C: Ürün bilgisine göre organik ve yavaş salınımlı olduğu için kimyasal gübrelere kıyasla yakma riski çok düşüktür. Yine de yığın bırakmadan, eşit serpmek ve ardından sulamak gerekir; kalın yığın çimin yaprağını boğabilir.
+
+S: Solucan gübresini serptikten sonra sulamak gerekir mi?
+C: Evet, hafifçe sulayın. Su gübrenin toprağa karışmasını sağlar ve mikroorganizmaların çalışmasını başlatır. Çamur oluşturacak kadar sulamayın; ilk iki üç hafta toprağı nemli tutmak yeterlidir.
+
+### YAZI
+slug: tarla-sulama-yontemleri
+baslik: Tarla Sulama Yöntemleri: Salma, Yağmurlama ve Damla Karşılaştırması
+yayin: 2027-02-25 12:10
+yazar: Mehmet Fatih Çelik
+kategori: bahce-ipuclari
+odak: tarla sulama yöntemleri
+seo_baslik: Tarla Sulama Yöntemleri: Salma, Yağmurlama, Damla
+seo_aciklama: Tarla sulama yöntemleri nelerdir? Salma, yağmurlama ve damla sulamanın su verimi, toprak ve eğime uyumu, yatırım ve işçilik farkı, seçim ölçütleri.
+ozet: Tarla sulama yöntemleri üç ana grupta toplanır: salma, yağmurlama ve damla sulama. Her yöntemin nasıl çalıştığını, su verimini, toprak bünyesi, eğim ve ürüne uyumunu, işçilik ve bakım yükünü karşılaştırdık ve doğru yöntemi seçmenin ölçütlerini verdik.
+etiketler: tarla sulaması, salma sulama, yağmurlama, damla sulama, sulama verimi, su yönetimi
+gorsel: bekliyor
+gorsel_alt: Tarlada sıra boyunca uzanan damla hortumu ve yanında yağmurlama başlığı
+urunler: leonardit-organik-toprak-duzenleyici, hasturk-kati-solucan-gubresi
+kisaca: Tarla sulama yöntemleri üçtür: Salma sulama, suyu karık ya da tavaya salıp yüzeyden yayar; yağmurlama, suyu yağmur gibi basınçla püskürtür; damla sulama, suyu bitki köküne damla damla verir. Damla en yüksek su verimine, salma en düşük yatırıma sahiptir. Seçim toprağa, eğime, ürüne, su kaynağına ve işçiliğe bağlıdır.
+@govde
+Tarlada su, en pahalı ve en kıt girdidir. Aynı suyla bir üretici iki dekar sulayabilirken, öteki beş dekar sulayabilir; fark yöntemden gelir. Sulama yöntemi seçmek, aslında toprağa, ürüne ve işçiliğe uygun bir sistem seçmektir. Tarla sulama yöntemleri üç ana başlıkta toplanır ve her birinin güçlü ve zayıf yanı vardır. Aşağıda salma, yağmurlama ve damla sulamayı karşılaştırdık ve seçimin kuralını verdik. Kesin proje ve debi için il ya da ilçe tarım müdürlüğü ile Devlet Su İşleri bölge müdürlüğünün önerilerine başvurun: [Devlet Su İşleri](https://www.dsi.gov.tr/).
+
+## Sulamanın amacı: doğru yere, doğru zamanda, doğru miktarda
+
+Sulama, bitkinin kök bölgesini nemli tutmaktır; tarlanın üstünü ıslatmak değil. Bu yüzden iyi bir sulama yöntemi üç şeyi sağlar: suyu eşit dağıtır, kök bölgesine ulaştırır ve kaybı azaltır. Su kaybı dört yoldan olur: yüzey akışı, derine sızma, buharlaşma ve rüzgârla savrulma. Hangi yöntem hangi kaybı artırır, seçimi bu belirler.
+
+Bu üç yöntemin ortak noktası, toprağın su tutma kapasitesinin bilinmesidir. Toprak bünyesi sulama sıklığını ve miktarını belirler; bünye için [kum mil kil oranı](/kum-mil-kil-orani) yazısına bakabilirsiniz.
+
+## Salma sulama: karık, tava ve taşırma
+
+Salma sulama, suyun tarlaya serbestçe salınmasıdır. Sıra bitkilerinde sıralar arasına açılan karıklardan, tahıl ve yem bitkilerinde ise tavalara bölünmüş alanlara su verilir. Kuruluşu basit, yatırımı düşüktür; enerji gerektirmez. Eğimin düzgün olduğu ve su kaynağının bol olduğu yerlerde yaygındır.
+
+Zayıf yanı su kaybıdır: Suyun bir kısmı yüzeyden akar, bir kısmı kök bölgesinin altına sızar. Eğimli ya da düzgün olmayan arazide eşit dağılım zordur; tarlanın bir ucu fazla ıslanır, öteki az. Uzun süre sulanan hafif topraklarda su ve besin derine kaçar. Yüzeyden sulamanın bir başka sorunu, tuz birikimidir: Sulama suyu buharlaşırken tuzu yüzeyde bırakır. İyi bir tarla düzlemesi ve kontrollü debi, salma sulamanın verimini artırır.
+
+## Yağmurlama: basınçla yağmur yapmak
+
+Yağmurlamada su, borular ve basınçla başlıklara iletilir ve havaya püskürtülür; tıpkı yağmur gibi düşer. Düzensiz eğimli arazide bile suyu eşit dağıtır, kum ve hafif topraklarda uygundur. Tahıl, yem bitkisi, sebze ve patates gibi bitkilerde yaygındır. Taşınabilir borularla yapılan sistemler esnek, sabit sistemler ise işçilikten tasarruf sağlayan seçeneklerdir.
+
+Zayıf yanları: Enerji ve basınç gerektirir; rüzgâr suyu savurur ve eşitliği bozar; sıcak havada buharlaşma kaybı olur. Yaprağı ıslattığı için mantar hastalıklarını artırabilir; bazı bitkilerde (domates, kabak) tercih edilmez. Tuzlu su yaprağı yakabilir. Başlıkların aşınması ve tıkanması düzenli bakım ister.
+
+## Damla sulama: köke damla damla
+
+Damla sulamada su, borular ve üzerindeki damlatıcılar aracılığıyla doğrudan bitkinin kök bölgesine verilir. Yaprak ıslanmaz, yüzey kuru kalır, buharlaşma ve yüzey akışı çok azdır. Su ve gübre (damlatıcı ile gübreleme) kök bölgesine yönlendirilir. Sıra bitkilerinde (pamuk, sebze, meyve ağaçları, mısır) çok yaygındır.
+
+Zayıf yanları: İlk yatırım en yüksektir. Filtreleme ve düzenli temizlik şarttır; çünkü damlatıcılar kireç, silt ve yosunla tıkanır. Hat arızası, kemirgen hasarı ve parçaların yenilenmesi bakım gerektirir. Sık ekim yapılan tahıl ve yem bitkilerinde damla pratik olmayabilir.
+
+## Tarla sulama yöntemleri karşılaştırma tablosu
+
+Aşağıdaki değerler, yöntemlerin genel eğilimini gösterir; kesin rakamlar sistemin tasarımına ve işletmesine bağlıdır.
+
+| Konu | Salma | Yağmurlama | Damla |
+|---|---|---|---|
+| Su verimi | Düşük (kaynaklara göre yaklaşık yüzde 50-60) | Orta-yüksek (yaklaşık yüzde 70-80) | Yüksek (yaklaşık yüzde 85-95) |
+| İlk yatırım | Düşük | Orta | Yüksek |
+| Enerji ihtiyacı | Yok | Var (basınç) | Düşük basınç |
+| İşçilik | Yüksek | Orta | Düşük (otomasyonla) |
+| Eğimli arazi | Zor | Uygun | Uygun |
+| Hafif (kumlu) toprak | Uygun değil | Uygun | Çok uygun |
+| Ağır (killi) toprak | Uygun | Yavaş uygulama | Uygun |
+| Yaprak hastalığı riski | Düşük | Yüksek | Düşük |
+| Tıkanma ve bakım | Az | Orta | Yüksek |
+| Gübreyi suyla verme | Zor | Mümkün | Kolay |
+
+Su verimi yüzdeleri kaynaktan kaynağa değişir. FAO'nun sulama verimliliği ekinde tarla uygulama verimi salmada yüzde 60, yağmurlamada yüzde 75, damlada yüzde 90 olarak alınır ([FAO: sulama verimlilikleri](https://www.fao.org/4/t7202e/t7202e08.htm)). Oregon State Üniversitesi uzantısı damlayı yaklaşık yüzde 85-95, merkez pivot gibi yağmurlama sistemlerini yüzde 75-90, düzgün tava ve karık sulamayı yüzde 60-80, kontrolsüz taşırmayı ise yüzde 25-40 aralığında verir ([OSU Extension: sulama suyu planlaması](https://extension.oregonstate.edu/catalog/em-9717-irrigation-water-scheduling)). Yüzdeler yönetime, basınca, rüzgâra ve toprağa göre değişir; kendi tarlanız için verimi ölçmek en güvenilir yoldur.
+
+## Toprağa göre seçim
+
+Sulama yöntemini en çok toprak bünyesi belirler. Kumlu toprakta su hızla süzülür; sık ve az sulamak gerekir. Bu yüzden damla ve yağmurlama kumlu toprakta daha doğrudur; salma suyu derine kaçırır. Killi toprakta su yavaş girer; yavaş ve uzun süreli sulama gerekir. Yağmurlamada su yüzeyde birikip akabilir; damla ve kontrollü salma daha uygundur. Orta bünyeli topraklar üç yöntem için de elverişlidir.
+
+Toprağın su tutma kapasitesi, organik madde ile artar; leonardit ve olgun kompost gibi toprak düzenleyiciler sulama aralığını uzatabilir. Ürün bilgisinde leonarditin toprağın su tutma kapasitesini artırdığı, kuraklığa karşı direnç sağladığı anlatılır. Toprağı geliştirmek, hangi yöntemi seçerseniz seçin, su kullanımını azaltır.
+
+[ürün:leonardit-organik-toprak-duzenleyici]
+
+## Ürüne ve arazi yapısına göre seçim
+
+| Durum | Uygun yöntem | Gerekçe |
+|---|---|---|
+| Sıra bitkisi (pamuk, mısır, sebze) | Damla ya da karık | Kök bölgesine su, yaprak kuru |
+| Tahıl, yem bitkisi, geniş alan | Yağmurlama ya da salma | Alan geniş, sık ekim |
+| Meyve bahçesi | Damla | Ağaç başına kontrollü su |
+| Eğimli ve düzensiz arazi | Yağmurlama, damla | Eşit dağılım |
+| Su kıt | Damla | En yüksek verim |
+| Enerji erişimi yok | Salma | Basınç gerektirmez |
+| Tuzlu su | Damla (dikkatle), yıkama | Yaprak yanığı riski azalır |
+
+## Seçim için adımlar
+
+::: adimlar
+Su kaynağını tanıyın | Debiyi, basıncı, tuz ve kireç düzeyini öğrenin; suyunuzu analiz ettirin.
+Toprağı tanıyın | Bünyeyi, eğimi ve su tutma kapasitesini belirleyin.
+Ürün planını yapın | Hangi bitkiyi hangi alanda yetiştireceğinizi netleştirin.
+Yatırım ve işçiliği hesaplayın | Kurulum maliyetini ve yıllık bakım yükünü karşılaştırın; yatırımın geri dönüşünü düşünün.
+Küçük başlayın | Önce küçük bir alanda deneyin, verimi ölçün.
+Uzmana danıştırın | Proje, debi ve ekipman için tarım müdürlüğüne ve su ile ilgili kuruluşlara başvurun.
+:::
+
+## Su tasarrufunun yan yolları
+
+Tarla sulama yöntemleri seçiminin dışında, her sistemde işe yarayan uygulamalar vardır. Sulamayı serin saatlerde, sabah erken ya da akşam yapmak buharlaşmayı azaltır. Malç ya da anız örtüsü toprak nemini korur. Organik madde artışı toprağın su tutmasını artırır. Bitkinin kritik dönemlerinde (çiçeklenme, meyve tutma) su kesmemek, verimi korur; gereksiz erken ve geç sulamayı azaltmak tasarruf sağlar. Bahçe ve saksı bitkilerinde sulama sıklığı için [bitkiler ne sıklıkla sulanmalı](/bitkiler-ne-siklikla-sulanmali) yazısına bakabilirsiniz; tarla ölçeğindeki maliyet hesapları için [dekar başına maliyet](/dekar-basina-maliyet) yazısı yararlıdır.
+
+Modern sulama sistemlerine yönelik destek ve hibe programları zaman zaman duyurulur. Güncel şartlar, tutarlar ve başvuru koşulları için Tarım ve Orman Bakanlığı ile il ya da ilçe tarım müdürlüğünün duyurularına bakın: [Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr/).
+@sss
+S: Tarla sulama yöntemleri nelerdir?
+C: Üç ana yöntem vardır: salma (karık ya da tava ile yüzeyden), yağmurlama (basınçla yağmur gibi) ve damla sulama (köke damla damla). Damla en yüksek su verimini, salma en düşük yatırımı sağlar.
+
+S: En az su kullanan sulama yöntemi hangisidir?
+C: Damla sulama, suyu doğrudan kök bölgesine verdiği ve buharlaşma ile yüzey akışını azalttığı için en verimli yöntemdir. Salma sulamada su kaybı yüksektir. Yağmurlama orta düzeydedir; rüzgâr ve sıcakta kaybı artar.
+
+S: Kumlu toprakta hangi sulama yöntemi uygundur?
+C: Kumlu toprak suyu hızla süzdüğü için damla ve yağmurlama uygundur; salma sulama suyu derine kaçırır. Organik madde eklemek toprağın su tutmasını artırır ve sulama aralığını uzatır.
+
+S: Yağmurlama sulamanın dezavantajı nedir?
+C: Enerji ve basınç gerektirir, rüzgâr suyu savurup eşitliği bozar, sıcak havada buharlaşma kaybı olur ve yaprağı ıslattığı için mantar hastalıklarını artırabilir. Başlıklar tıkanır ve aşınır, düzenli bakım ister.
+
+### YAZI
+slug: cavdar-yetistirme
+baslik: Çavdar Yetiştirme: Fakir Toprakların Tahılı
+yayin: 2027-02-25 14:30
+yazar: Mikdat Çelik
+kategori: sebze-meyve
+odak: çavdar yetiştirme
+seo_baslik: Çavdar Yetiştirme: Fakir Toprakların Tahılı
+seo_aciklama: Çavdar yetiştirme rehberi: soğuğa ve fakir toprağa dayanımı, ekim zamanı, tohum miktarı hesabı, ilkbahar bakımı, tane, yem, yeşil gübre ve mahmuz uyarısı.
+ozet: Çavdar yetiştirme, soğuğa ve fakir toprağa en dayanıklı tahılla çalışmaktır. Çavdarın hangi toprak ve iklimde öne çıktığını, sonbahar ve yazlık ekimini, tohum miktarının hesabını, ilkbahar bakımını, tane, yem ve yeşil gübre olarak kullanımını ve mahmuz hastalığı uyarısını anlattık.
+etiketler: çavdar, çavdar ekimi, tahıl yetiştirme, yeşil gübre, fakir toprak, kışlık tahıl
+gorsel: bekliyor
+gorsel_alt: İlkbaharda yeşil, sık ve uzun yapraklı çavdar tarlasında esen rüzgâr
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Çavdar yetiştirme, tahılların en dayanıklısı olan çavdarın fakir, hafif ve asidik topraklarda, soğuk iklimde bile yetişmesinden yararlanır. Çoğunlukla sonbaharda ekilir ve ilkbaharda hızla büyür; tane, yem ve yeşil gübre amacıyla yetiştirilir. Azotu az ister, yatmaya yatkındır ve mahmuz hastalığı taşıyabilir.
+@govde
+Buğdayın tutunamadığı yerde çavdar tutunur. Kumlu, asidik, fakir ve soğuk toprakta, yağış ve gübre azken bile bir hasat verir. Bu yüzden çavdar yüzyıllarca yoksul toprağın ve soğuk iklimin ekmek tahılı olmuştur. Çavdar yetiştirme, bu dayanıklılığı kullanmaktır; ama yatma ve mahmuz gibi kendine özgü sorunları da vardır. Aşağıda çavdarın nerede ve nasıl yetiştiğini, ekim ve bakım ayrıntılarını anlattık. Genel tarım bilgileri için Tarım ve Orman Bakanlığı araştırma enstitülerinin yayınlarına başvurabilirsiniz: [TAGEM araştırma enstitüleri](https://arastirma.tarimorman.gov.tr/).
+
+## Çavdar yetiştirme neden fakir toprakta öne çıkar?
+
+Çavdarın kök sistemi güçlü ve derindir; fakir topraktan besin ve su alabilir. Soğuğa çok dayanıklıdır; kışı kar altında bile rahatça geçirir. Asidik ve kumlu toprağa buğday ve arpadan daha iyi uyum sağlar; kil ağırlıklı, kötü drenajlı ve çok ıslak toprakta ise zorlanır. Bu özellikleriyle çavdar, buğdayın ekilmediği kıraç ve yüksek rakımlı alanlarda üretilir.
+
+Bir başka avantajı, hızlı büyümesi ve ot bastırmasıdır. Sık ekilen çavdar ilkbaharda yabani otları gölgeler ve bastırır. Bu yüzden örtü bitkisi ve yeşil gübre olarak da bahçeciler tarafından kullanılır; yeşil gübre mantığı için [yeşil gübreleme](/yesil-gubreleme) yazısına bakabilirsiniz.
+
+## Kullanım alanları
+
+| Amaç | Nasıl yetiştirilir? | Ne zaman biçilir? |
+|---|---|---|
+| Tane (un, ekmek) | Olgunluğa kadar bırakılır | Haziran-temmuz, tane sertleşince |
+| Yem (yeşil, silaj, otlatma) | Başaklanma öncesi ya da başaklanma başında | İlkbahar |
+| Yeşil gübre, örtü bitkisi | Sonbaharda ekilir, bahar başında toprağa karıştırılır | Başaklanmadan önce |
+| Kış otu bastırma | Sonbahar ekimi, kışlık örtü | Bahar |
+
+Çavdar ekmeği koyu renkli, yoğun ve kendine özgü bir tada sahiptir; bu yüzden çavdar tane üretimi, özellikle Kuzey ve Doğu Avrupa mutfaklarında yaygındır. Türkiye'de ise çavdar çoğunlukla yem, silaj ve yeşil gübre olarak değerlendirilir.
+
+## Ne zaman ekilir?
+
+Çavdar çoğunlukla kışlık, yani sonbaharda ekilen bir tahıldır. Ekim, ekim ile kasım ayları arasında yapılır; bitki kışa girmeden iyi kardeşlenir ve soğuğu geçirdikten sonra ilkbaharda hızla büyür. Çok soğuk bölgelerde ekim erkene alınır; böylece fide kış gelmeden güçlenir. Yazlık çavdar da vardır; ama verimi kışlığa göre daha düşüktür.
+
+Üniversite uzantı kaynakları çavdarı küçük taneli tahılların en kışa dayanıklısı sayar: Vermont Üniversitesi, yerleşmiş çavdarın -30 °F'ye (yaklaşık -34 °C) yakın soğuğa dayandığını yazar ([UVM: kışlık çavdar](https://www.uvm.edu/vtvegandberry/factsheets/winterrye.html)). Maine Üniversitesi çavdarın iyi süzülen topraklarda en iyi sonucu verdiğini, kuraklığa ve düşük verimliliğe dayandığını belirtir ([Maine Extension: küçük taneli tahıllar](https://extension.umaine.edu/publications/2270e/)). Georgia Üniversitesi ise çavdarda toprak verimliliğini önemli etkenlerden biri sayar ve potasyumun sap dayanıklılığına ve kışa dayanıma katkı verdiğini not eder ([UGA: çavdar bilgi föyü](https://grains.caes.uga.edu/content/dam/caes-subsite/grains/docs/rye/rye-info-sheet.pdf)). Bu kaynaklar ABD koşullarına aittir; ekim tarihi ve gübre için kendi bölgenizin il ya da ilçe tarım müdürlüğüne danışın.
+
+Şubat ve mart ayı çavdar yetiştirme planı için ne anlama gelir? Sonbaharda ekilen tarlada ilkbahar bakımı, yani gübreleme ve ot kontrolüdür; ekim yapacaksanız yazlık çavdar için toprak işlenebilir hale gelince yapılır. Kışlık ekimin zamanı ve tohum yatağı için, buğday ve arpa ekimi yazılarındaki mantık çavdar için de geçerlidir: [buğday ekim zamanı](/bugday-ekim-zamani) ve [arpa ekimi](/arpa-ekimi).
+
+## Toprak, tohum yatağı ve tohum miktarı
+
+Çavdar, orta ve hafif bünyeli, süzek topraklarda iyi gelişir. Ağır ve su tutan toprakta kök çürümesi ve hastalık artar. Tarlayı ekimden önce işleyip ince bir tohum yatağı hazırlayın; çavdar tohumu orta iridir, toprakla temas etmesi çıkışı eşitler. Ekim derinliği 3-5 cm olur.
+
+Tohum miktarı, çeşidin bin tane ağırlığına, çimlenme oranına ve hedef bitki sayısına göre hesaplanır:
+
+Tohum miktarı (kg/dekar) = hedef bitki sayısı (bitki/m²) × bin tane ağırlığı (g) ÷ 1000 ÷ çıkış oranı
+
+Örnek: Hedef 350 bitki/m², bin tane ağırlığı 30 g, çıkış oranı yüzde 85 ise: 350 × 30 ÷ 1000 ÷ 0,85 ≈ 12,4 kg/dekar. Bu örnek bir hesap yöntemidir; kendi tohumunuzun bin tane ağırlığı ve çimlenme oranı için etiketi ve il ya da ilçe tarım müdürlüğünün bölge önerisini esas alın.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Gübreleme: az ve dikkatli
+
+Çavdar az besinle yetinir; ama bu hiç gübre gerekmediği anlamına gelmez. Çok fakir toprakta, taban gübresiyle fosfor ve potasyum ile ilkbaharda az miktarda azot verimi artırır. Fazla azot çavdarı yatırır. Yatma, çavdarın en büyük sorunlarından biridir: Çavdar uzun boylu bir bitkidir (bir buçuk metreyi bulabilir) ve fazla azotla, yağmur ve rüzgârda yere serilir. Tane kaybı ve hasat zorluğu yaşanır. Bu yüzden azotu ölçülü ve toprak analizine göre verin. Olgun kompost ya da solucan gübresi gibi yavaş salınımlı organik kaynaklar, yatma riskini azaltarak toprağı iyileştirir. Taban gübresi mantığı için [sebze bahçesi taban gübresi](/sebze-bahcesi-taban-gubresi) yazısı genel çerçeveyi sunar.
+
+## İlkbahar bakımı ve hasat
+
+Kış çıkışında tarlayı gözleyin: Kar altında çürüme, don zararı ya da seyrek çıkış var mı? İlkbaharda toprak çözülünce, çavdar kardeşlenip uzamaya başlar. Yabani ot ve hastalık takibini yapın. Başaklanma mayıs-haziranda olur. Tane amaçlı çavdar, haziran sonu ile temmuzda, başaklar sararıp tane sertleşince hasat edilir. Erken biçim taneyi buruşturur, geç biçim tane dökülmesine ve çimlenmeye (başakta çimlenme) neden olabilir.
+
+## Bahçe ve küçük alanda çavdar
+
+Çavdar yalnız tarlanın bitkisi değildir; bahçede örtü bitkisi olarak da kullanılır. Sebze tarhını sonbaharda çavdarla örtmek, kışın toprağı erozyondan korur, kökleriyle yapıyı gevşetir ve bahar başında toprağa karıştırıldığında organik madde bırakır. Karıştırma, çavdar başaklanmadan, boyu 30-40 cm iken yapılmalıdır; çünkü olgunlaşmış çavdar sapı toprakta yavaş ayrışır ve bir süre azot bağlar. Karıştırdıktan sonra iki üç hafta bekleyip ekim yapmak iyi olur. Küçük bahçede çavdar yetiştirme, tane değil, toprağı iyileştirme amacıyla yapılır; bu yöntemin ayrıntılarını [yeşil gübreleme](/yesil-gubreleme) yazısında anlattık.
+
+## Mahmuz: çavdarın sinsi riski
+
+Çavdarın özel ve ciddi bir hastalığı mahmuzdur (ergot). Mantar, çiçeklenme döneminde çavdar başaklarına bulaşır ve tane yerine mor-siyah, boynuz biçiminde sklerot (mahmuz) oluşturur. Bu yapılar zehirli maddeler içerir ve tahılla birlikte öğütülürse hem insan hem hayvan sağlığı için tehlikelidir. Yağışlı ve nemli çiçeklenme dönemleri riski artırır. Hasattan önce başakları kontrol edin; mahmuzlu taneleri ayıklayın ve gıdaya, yeme katmayın. Şüpheli ürün için tarım müdürlüğüne, hayvan yemi için veterinere danışın. Ekim nöbetine uymak ve temiz tohum kullanmak da önlemdir.
+@sss
+S: Çavdar ne zaman ekilir?
+C: Çoğunlukla sonbaharda, ekim ve kasım aylarında kışlık olarak ekilir; kışa girmeden kardeşlenmesi sağlanır. Yazlık çavdar toprak işlenebilir hale gelince ilkbaharda ekilir, ama verimi kışlığa göre düşüktür.
+
+S: Çavdar hangi toprağa uygundur?
+C: Fakir, hafif, kumlu ve asidik topraklara buğday ve arpadan daha iyi uyum sağlar. Süzek toprakta iyi gelişir; ağır, killi ve su tutan toprakta zorlanır. Soğuğa ve kıtlığa çok dayanıklıdır.
+
+S: Çavdar neden yatar?
+C: Çavdar bir buçuk metreyi bulabilen uzun boylu bir bitkidir; fazla azot, yağmur ve rüzgârla yere serilir. Azotu toprak analizine göre ve ölçülü verin, çok sık ekmeyin. Yatan çavdarda hasat zorlaşır ve tane kaybı olur.
+
+S: Mahmuz hastalığı nedir?
+C: Çavdar başaklarında tane yerine oluşan mor-siyah, boynuz şekilli mantar yapılarıdır. Zehirli maddeler içerir. Mahmuzlu taneyi gıdaya ya da yeme katmayın, ayıklayın; şüpheli ürün için tarım müdürlüğüne ve veterinere danışın.
+
+### YAZI
+slug: susam-yetistirme
+baslik: Susam Yetiştirme ve Hasat Zamanı
+yayin: 2027-02-25 16:55
+yazar: Rümeysa Altınova
+kategori: sebze-meyve
+odak: susam yetiştirme
+seo_baslik: Susam Yetiştirme: Ekim, Bakım ve Hasat Zamanı
+seo_aciklama: Susam yetiştirme nasıl yapılır? Sıcak isteği, toprak sıcaklığı, ekim zamanı, seyreltme, sulama, kapsül olgunluğu, tane dökülmesini önleyen hasat adımları.
+ozet: Susam yetiştirme, sıcağı seven ve az suyla yetişen yağlı tohum bitkisini toprak ısındığında ekmek, seyrek bırakmak ve kapsüller çatlamadan hasat etmektir. Sıcaklık isteğini, ekim derinliğini, seyreltme ve bakımı, hasat zamanını ve tane dökülmesini önleyen kurutma yolunu anlattık.
+etiketler: susam, susam ekimi, susam hasadı, yağlı tohum, sıcak seven bitki, kapsül olgunluğu
+gorsel: bekliyor
+gorsel_alt: Sıra hâlinde dikilmiş boyunlu, beyaz zil biçimli çiçek açan susam bitkileri
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Susam yetiştirme için toprak ısınmalı: Tohum, toprak sıcaklığı yaklaşık 21 dereceyi aşınca, genellikle mayıs ortasında, 1-3 santim derine ekilir. Bitki sıcağı sever, kuraklığa dayanır ama su fazlasını sevmez. Hasat, alt kapsüller sararıp çatlamadan önce kesilip demet yapılarak yapılır; geç kalan hasatta taneler dökülür.
+@govde
+Susam, insanlığın en eski yağ bitkilerinden biridir ve kuru, sıcak yerlerin bitkisidir. Çatlak topraklarda, yağmurun az olduğu yıllarda bile yaşamaya devam eder. Ama bu dayanıklılık, bakımsızlık anlamına gelmez: Ekim zamanı, seyreltme ve hasat anı verimi belirler. Susam yetiştirme planı şubatta, yani ekimden üç ay önce yapılır: Toprak, çeşit ve tarih belirlenir. Aşağıda susamın iklim isteğini, ekimden hasada adımları ve hasat sırasında tane kaybını nasıl önleyeceğinizi anlattık. Genel tarım bilgisi için Tarım ve Orman Bakanlığı araştırma enstitülerinin yayınlarına bakabilirsiniz: [TAGEM araştırma enstitüleri](https://arastirma.tarimorman.gov.tr/).
+
+## Susam nasıl bir bitki?
+
+Susam, tek yıllık, dik büyüyen, bir metreyi bulabilen otsu bir bitkidir. Yaprak koltuklarında beyaz-pembe, zil biçimli çiçekler açar; her çiçekten uzunca bir kapsül oluşur ve içinde onlarca küçük tane bulunur. Kapsüller olgunlaşınca kurur ve çatlar; taneler dökülür. Bu yüzden hasat zamanı susamda hayati önem taşır.
+
+Susam sıcak iklim bitkisidir. Soğuk toprakta çimlenmez, serin havada büyümez. Kuraklığa derin kökleri sayesinde dayanır; ama çiçeklenme döneminde aşırı kuraklık verimi düşürür. Fazla su ve ıslak toprak, kök çürümesi ve hastalık getirir. Türkiye'de susam çoğunlukla Ege ve Akdeniz'in sıcak bölgelerinde yetiştirilir; iç bölgede yaz kısa ve serin ise başarı sınırlıdır.
+
+## Toprak ve ekim zamanı
+
+Susam, orta bünyeli, süzek ve derin toprakları sever. Ağır, çamurlaşan ve su tutan toprak kök çürümesine yol açar. Toprak çok fakir değilse ek gübre gerekmez; fazla azot bitkiyi gürleştirir, ama kapsül sayısını azaltır ve olgunlaşmayı geciktirir. Organik madde olarak az miktarda olgun kompost ya da solucan gübresi yeterlidir.
+
+Ekim zamanı, toprak sıcaklığına bağlıdır. Susam tohumu çimlenmek için sıcak ister; uzantı kaynaklarında toprak sıcaklığının yaklaşık 21 derecenin (70 °F) üzerine çıkması önerilir: Kuzey Carolina uzantısı toprak bu değere ulaşınca ekim yapılmasını, Tennessee Üniversitesi ise 70 °F'nin altında çimlenmenin engellendiğini yazar ([NC State Extension: susam üretimi](https://content.ces.ncsu.edu/sesame-production-fact-sheet); [Tennessee Üniversitesi: susam üretimi](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/W943.pdf)). Texas A&M de ekim zamanı için takvimden çok toprak sıcaklığının daha iyi bir gösterge olduğunu söyler ([Texas A&M: susam üretim rehberi](https://sanangelo.tamu.edu/agronomy/agronomy-publications/sesame-production-guide/)). Bu da çoğu bölgede mayıs ortası ile haziran başı demektir. Soğuk ve ıslak toprakta tohum çürür; geç ekim ise olgunlaşmayı sonbahar yağmuruna denk getirir. Bu yüzden toprağın sıcaklığını termometreyle ölçmek, takvimden daha güvenilirdir. Toprak sıcaklığı ve ekim ilişkisi için [toprak sıcaklığı ve ekim](/toprak-sicakligi-ve-ekim) yazısına bakabilirsiniz.
+
+## Ekim: derinlik, aralık ve seyreltme
+
+Susam tohumu çok küçüktür; bu yüzden sığ ekilir. Derinlik yaklaşık 1-3 cm'dir; daha derin gömülen tohum çıkamaz. Tohum yatağı ince ve düzgün olmalıdır; kesek varsa ince tohum kaybolur. Sıra arası 50-70 cm, sıra üzerinde bitkiler arası 5-10 cm bırakmak yaygındır; çıkıştan sonra seyreltme ile bitki aralığı 10-20 cm'ye getirilir. Seyreltmeden bırakılan sık bitkiler ince kalır ve verimi düşürür.
+
+Küçük tohumu eşit serpmek için tohumu kuru kum ya da toprakla karıştırıp sıra boyunca serpebilirsiniz. Ekimden sonra yüzeyi hafifçe bastırın ve nemli tutun; çıkış genellikle bir hafta kadar sürer. Tohum derinliklerini tablo hâlinde [tohum ekim derinliği tablosu](/tohum-ekim-derinligi-tablosu) yazısında bulabilirsiniz.
+
+::: adimlar
+Toprak sıcaklığını ölçün | yaklaşık 21 derecenin üstüne çıkmasını bekleyin.
+Toprağı ince hazırlayın | Keseksiz, düzgün ve süzek tohum yatağı yapın.
+Tohumu serpin | Kumla karıştırıp sıra boyunca ince serpin; 1-3 cm derinliğe örtün.
+Hafifçe sulayın | Çıkışa kadar yüzeyi nemli tutun, yıkamayın.
+Seyreltin | İkinci gerçek yaprakta bitkileri 10-20 cm aralığa getirin.
+Yabani otu temizleyin | İlk bir iki ayda sıra arası çapa yapın.
+:::
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+## Sulama ve bakım
+
+Susam az sulama ister. Çıkış ve ilk gelişimde toprak nemli tutulur; sonra derin ve seyrek sulama yeterlidir. Çiçeklenme ve kapsül bağlama döneminde uzun kuraklık verimi düşürebilir; bu dönemde bir iki sulama yararlı olur. Olgunlaşmaya yaklaşırken sulamayı kesin; fazla su kapsül olgunlaşmasını geciktirir. Toprağın su tutma kapasitesini artırmak ve sulamayı azaltmak için organik madde eklemek yardımcı olur; sulama yöntemleri için [tarla sulama yöntemleri](/tarla-sulama-yontemleri) yazısına bakabilirsiniz.
+
+Yabani ot, susamın ilk haftalarında en büyük rakiptir; çünkü fide yavaş büyür. Sıra aralarında çapa yaparak otları kontrol edin. Hastalık açısından en çok kök çürüklüğü ve yaprak lekeleri görülür; havalı, süzek toprak ve ekim nöbeti önleyicidir.
+
+## Hasat zamanı: kapsül çatlamadan önce
+
+Susamın hasadı, özen ister. Bitkideki kapsüller alttan üste doğru olgunlaşır; alt kapsüller sararıp kururken üsttekiler hâlâ yeşildir. Tamamı kurumasını beklerseniz alt kapsüller çatlar ve taneler tarlada dökülür. Bu yüzden hasat, alt kapsüllerin sararıp üsttekilerin henüz yeşil olduğu dönemde, genellikle ağustos ve eylülde yapılır. Yapraklar dökülmüş ve gövde sararmış olmalıdır.
+
+Hasatta bitkiler tabana yakın kesilir, küçük demetlere bağlanır ve kapsül uçları yukarı bakacak şekilde, bir naylon örtü ya da çuval üzerinde dik biçimde kurumaya bırakılır. Kuruma sırasında kapsüller çatlar ve taneler örtüye dökülür; demetleri hafifçe silkeleyerek taneleri toplayın. Taneyi serin, kuru ve havalı bir ortamda tam kurutun ve saklayın.
+
+## Susamı yetiştirmeye değer kılan nedenler
+
+Susam yetiştirme, kurak ve sıcak yerlerde diğer bitkilerin tutunamadığı toprakta bile bir ürün almaktır. Susam tanesi hem gıda (tahin, ekmek ve simit üstü) hem de yağ ürünüdür. Bakımı görece az, su ihtiyacı azdır; ama el işçiliği hasat, kurutma ve silkeleme aşamalarında yoğundur. Bu yüzden büyük alanda susam, mekanik hasada uygun çeşitlerle yapılır; küçük alanda ise el emeğiyle. Bahçe ölçeğinde deneme için bir iki metrekarelik tarh yeterlidir; bitkiyi çiçeklenme döneminde de süs olarak görmek mümkündür. Yetiştirme öncesi kendi bölgenizin iklim koşullarını ve toprağınızı değerlendirmek önemlidir.
+
+## Susam yetiştirme takvimi
+
+::: takvim
+Toprak ve çeşit planı | 2-4
+Toprak hazırlığı | 4-5
+Ekim (toprak yaklaşık 21 derece üstü) | 5-6
+Seyreltme ve çapa | 6-7
+Çiçeklenme ve kapsül bağlama | 7-8
+Hasat ve kurutma | 8-9
+:::
+
+Bu tarihler Ege ve Akdeniz'in sıcak bölgeleri için yaklaşıktır; serin bölgelerde yetiştirme sınırlıdır. Yerel çeşit ve tarih için il ya da ilçe tarım müdürlüğüne başvurun.
+@sss
+S: Susam ne zaman ekilir?
+C: Toprak sıcaklığı yaklaşık 21 derecenin üzerine çıkınca, çoğu bölgede mayıs ortası ile haziran başı ekilir. Soğuk ve ıslak toprakta tohum çürür. Toprak sıcaklığını termometreyle ölçmek takvimden daha güvenilirdir.
+
+S: Susam tohumu kaç santim derine ekilir?
+C: Tohum çok küçük olduğu için yaklaşık 1-3 santim derine ekilir. Daha derin gömülen tohum çıkamaz. Tohumu kuru kumla karıştırıp sıra boyunca serpmek eşit dağılım sağlar.
+
+S: Susam ne zaman hasat edilir?
+C: Alt kapsüller sararıp üsttekiler hâlâ yeşilken, genellikle ağustos ve eylülde hasat edilir. Tamamı kurumasını beklemek tane dökülmesine yol açar. Bitkiler kesilip demetlenerek dik biçimde kurutulur.
+
+S: Susam çok su ister mi?
+C: Hayır. Kuraklığa derin kökleriyle dayanır; fazla su ve ıslak toprak kök çürümesine neden olur. Çıkış ve ilk gelişimde nem gerekir, çiçeklenmede bir iki sulama yararlıdır, olgunlaşmaya yakın sulama kesilir.
+
+### YAZI
+slug: pamuk-ekimi
+baslik: Pamuk Ekimi: Toprak Sıcaklığı ve Ekim Zamanı
+yayin: 2027-02-25 19:40
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: pamuk ekimi
+seo_baslik: Pamuk Ekimi: Toprak Sıcaklığı ve Ekim Zamanı
+seo_aciklama: Pamuk ekimi ne zaman yapılır? Toprak sıcaklığı eşiği, tohum yatağı, ekim derinliği, sıra aralığı, çıkış sorunları, sulama ve geç donun ilk haftalara etkisi.
+ozet: Pamuk ekimi, sıcağı seven bu bitki için toprak sıcaklığı ve geç donun bittiği tarihe bağlıdır. Ekim zamanını, toprak sıcaklığı eşiğini, tohum yatağı hazırlığını, derinliği, sıra aralığını, çıkış sorunlarını ve ilk sulamayı anlattık.
+etiketler: pamuk, pamuk ekimi, toprak sıcaklığı, tarla bitkisi, sıcak seven bitki, ekim zamanı
+gorsel: bekliyor
+gorsel_alt: Nisan sonunda sıra hâlinde hazırlanmış pamuk tarlasında çıkmış iki yapraklı pamuk fideleri
+urunler: hasturk-kati-solucan-gubresi, leonardit-organik-toprak-duzenleyici
+kisaca: Pamuk ekimi, toprak sıcaklığı 14-15 dereceyi aşınca ve geç don tehlikesi geçince, çoğu bölgede nisan sonu ile mayıs başında yapılır. Tohum 3-4 santim derine, ince hazırlanmış tohum yatağına ekilir; sıra arası 70-80 santim bırakılır. Soğuk ve ıslak toprakta çıkış zayıf olur; erken ekim büyük riskir.
+@govde
+Pamuk, dünyanın en çok işlenen lif bitkisidir ve sıcak iklimin bitkisidir. Uzun bir yetişme dönemi, bol güneş ve yeterli su ister. Bu yüzden pamukta başarı, ekimin ilk haftalarında belirlenir: Soğuk toprağa ekilen tohum çıkamaz, geç donu gören fide kaybolur, geç ekilen bitki ise sonbahar yağmuruna yakalanır. Pamuk ekimi, bu iki uç arasında doğru tarihi bulmaktır. Aşağıda toprak sıcaklığı eşiğini, tohum yatağını, ekim ayrıntılarını ve çıkış sorunlarını anlattık. Genel tarım bilgisi için Tarım ve Orman Bakanlığı araştırma enstitülerine bakabilirsiniz: [TAGEM araştırma enstitüleri](https://arastirma.tarimorman.gov.tr/).
+
+## Pamuk nerede ve nasıl yetişir?
+
+Pamuk sıcak, uzun ve güneşli yazlar ister. Türkiye'de başlıca Güneydoğu Anadolu, Çukurova ve Ege'de yetiştirilir. Bitkinin yetişme süresi yaklaşık altı ay sürer; bu süre içinde yeterli sıcaklık toplamına ihtiyaç duyar. Çimlenme ve fide çıkışı için toprağın ısınması, çiçeklenme ve koza açma için uzun ve sıcak bir yaz gerekir. Soğuk yaz ve erken sonbahar yağmuru, kozaların açılmasını ve kaliteyi bozar.
+
+Bu yüzden iklimi pamuğa uygun olmayan bölgelerde yetiştirme çoğu zaman verimsizdir. Bahçe ölçeğinde süs ve deneme amaçlı pamuk yetiştirmek mümkündür; ama ticari üretim için bölge, çeşit ve su durumu il ya da ilçe tarım müdürlüğüyle değerlendirilmelidir.
+
+## Toprak sıcaklığı: pamuk ekiminin ölçüsü
+
+Pamuk ekiminin zamanını takvim değil, toprak sıcaklığı belirler. Tohum, toprak sıcaklığı yaklaşık 14-15 derecenin altında olduğunda çimlenemez ya da yavaş ve düzensiz çimlenir; soğuk ve ıslak toprakta çürür. Eşik üzerindeki sıcaklık sabah saatlerinde 5-10 cm derinlikte, birkaç gün üst üste ölçülmelidir; çünkü tek günlük ısınma yanıltıcıdır. Sıcak bir günün ardından gelen soğuk bir gece, toprağı yeniden düşürür.
+
+Uzantı kaynaklarındaki eşikler birbirinden biraz farklıdır: UC IPM, sabah saat 8'de toprak sıcaklığı en az 58 °F (yaklaşık 14,5 °C) değilse ekim yapılmamasını önerir ([UC IPM: pamukta yabancı ot yönetimi](https://ipm.ucanr.edu/agriculture/cotton/integrated-weed-management/)); Texas A&M Lubbock ise 8 inç (yaklaşık 20 cm) derinlikte 10 günlük ortalama 65 °F (yaklaşık 18 °C) hedefler ([Texas A&M Lubbock: pamukta temel uygulamalar](https://lubbock.tamu.edu/programs/crops/cotton/general-production/2002-sticking-to-the-basics/)). NC State, ekim bölgesinde sabahın ortasındaki toprak sıcaklığı 60-65 °F'nin altındaysa tohum miktarını artırmayı önerir ([NC State: tohum miktarı ve bitki sayısı](https://cotton.ces.ncsu.edu/2016/04/seeding-rate-and-plant-population-considerations-collins-edmisten/)). Yerel eşik için il ya da ilçe tarım müdürlüğünün önerisine bakın.
+
+Geç don da fide için tehlikelidir. Pamuk fidesi donda zarar görür; bu yüzden ekim tarihini, bölgenizin son don tarihinden sonraya yerleştirin. Çoğu pamuk bölgesinde bu nisan sonu ile mayıs başıdır; kıyıda ve Güneydoğu'da daha erken, serin bölgelerde daha geç olabilir.
+
+| Koşul | Durum | Karar |
+|---|---|---|
+| Toprak 14-15 derecenin altı | Çimlenme zayıf, çürüme riski | Bekleyin |
+| Toprak 15 derece üstü, hava ısınıyor | Çıkış hızlı | Ekin |
+| Gece donu bekleniyor | Fide zarar görür | Erteleyin |
+| Toprak çok ıslak | Havasızlık, çürüme | Tavı bekleyin |
+| Mayıs ortası ve sonrası | Büyüme dönemi kısalır | Hızlı çeşit düşünün |
+
+## Tohum yatağı hazırlığı
+
+Pamuk tohumu orta iridir ama çıkışı hassastır. Tohum yatağı ince, düzgün, nemli ve süzek olmalıdır. Sonbaharda ya da erken ilkbaharda derin sürüm yapılır; ekimden hemen önce toprak ince biçimde işlenir ve yüzey düzlenir. Kesek ve yabani otlu tarlada tohum eşit çıkmaz. Toprak tavdayken işleme, sıkışmayı önler; toprak işleme seçenekleri için [toprak işleme](/toprak-isleme) yazısı yararlıdır.
+
+Gübreleme için toprak analizi esastır. Pamuk azot, fosfor ve potasyum ister; ama aşırı azot bitkiyi uzatır ve koza bağlamayı geciktirir. Organik madde olarak olgun kompost ya da solucan gübresi toprağın yapısını iyileştirir; ürün bilgisinde sebze toprak hazırlığı için dekara 40-80 kilogram solucan gübresi örnek dozu verilir, tarla bitkileri için analiz sonucuna göre karar verin.
+
+[ürün:hasturk-kati-solucan-gubresi,leonardit-organik-toprak-duzenleyici]
+
+## Ekim derinliği, aralık ve tohum miktarı
+
+Pamuk tohumu genellikle 3-4 cm derinliğe ekilir. Toprak kuru ve hafifse biraz daha derin, ağır ve nemliyse daha sığ ekilir. Sıra arası 70-80 cm, sıra üzeri bitki aralığı 10-15 cm yaygın değerlerdir; ekim makinesi, çeşit ve sulama yöntemine göre değişir. Elle ekilen küçük alanlarda bir noktaya birkaç tohum bırakıp sonra seyreltmek mümkündür.
+
+Tohum miktarı çeşidin bin tane ağırlığına ve çimlenme oranına göre hesaplanır:
+
+Tohum miktarı (kg/dekar) = hedef bitki sayısı (bitki/m²) × bin tane ağırlığı (g) ÷ 1000 ÷ çıkış oranı
+
+Örnek: Hedef 8 bitki/m², bin tane ağırlığı 110 g, çıkış oranı yüzde 80 ise: 8 × 110 ÷ 1000 ÷ 0,80 = 1,1 kg/dekar. Bu yalnız bir hesap örneğidir; çiğitli ya da delinte edilmiş tohumun kullanım şekli ve önerilen miktar için çeşit etiketine ve bölge önerisine uyun.
+
+## Çeşit ve tohum seçimi
+
+Pamuk çeşitleri olgunlaşma süresine, lif kalitesine ve hastalık dayanımına göre ayrılır. Bölgenizin yaz uzunluğuna uygun erkenci ya da orta-geççi çeşit seçmek, kozaların sonbahar yağmuru gelmeden açılmasını sağlar. Sertifikalı tohum kullanmak, çimlenme gücü ve saflık bakımından güvenlidir; kendi tohumunu kullanan üretici, çimlenme oranını önceden test etmelidir. Tohum, çiğit ya da kimyasal işlenmiş olabilir; etiketteki kullanım ve güvenlik uyarılarını okuyun. Çeşit ve ekim alanı konusunda il ya da ilçe tarım müdürlüğü bölgesel öneri sunar.
+
+## Çıkış sorunları
+
+Pamukta fide çıkışı en kritik aşamadır. Çıkmayan ya da eksik çıkan tarlanın üç ana nedeni vardır. Birincisi soğuk ve ıslak topraktır: Tohum çürür ve fide hastalıkları (fide çökmesi) artar. İkincisi kabuk bağlayan toprak yüzeyidir: Yağmur sonrası yüzey sertleşir ve filiz çıkamaz. Üçüncüsü derin ya da sığ ekimdir: Çok derin tohum çıkamaz, çok sığ tohum kurur. Çözüm, toprak sıcaklığını beklemek, tohum yatağını ince ve düzgün hazırlamak, derinliği doğru ayarlamak ve kabuk bağlarsa yüzeyi hafifçe kırmaktır. Fide çökmesi için benzer belirtileri [fide çökertmesi](/fide-cokertmesi) yazısında anlattık.
+
+Erken ekim, mevsimin başındaki cazibeli ama tehlikeli bir tuzaktır. İlk hafta serin ve yağışlı geçerse tohumun yarısı kaybolabilir; yeniden ekim zaman ve tohum kaybettirir. Tarihi, toprak sıcaklığı ve hava tahminine bakarak belirleyin.
+
+## İlk sulama ve bakım
+
+Çıkıştan sonra pamuk yavaş büyür; ilk haftalar yabani otla rekabette zayıftır. Sıra arası çapa ya da ot kontrolü gereklidir. Çıkış sonrası toprağı nemli tutmak, ama sulamayı abartmamak gerekir. İlk sulamayı bitkinin ihtiyacına göre, çoğu zaman çıkıştan bir iki ay sonra, çiçeklenme öncesinde yapın. Sulama yöntemi seçimi (damla, karık, yağmurlama) için [tarla sulama yöntemleri](/tarla-sulama-yontemleri) yazısı yol gösterir. Hastalık ve zararlı için ürün seçimi, doz ve zamanlama konusunda etikete ve il ya da ilçe tarım müdürlüğüne başvurun.
+@sss
+S: Pamuk ne zaman ekilir?
+C: Toprak sıcaklığı yaklaşık 14-15 dereceyi aşınca ve geç don tehlikesi geçince, çoğu bölgede nisan sonu ile mayıs başında ekilir. Soğuk ve ıslak toprakta tohum çürür. Sıcaklığı sabah saatlerinde birkaç gün ölçerek karar verin.
+
+S: Pamuk tohumu kaç santim derine ekilir?
+C: Genellikle 3-4 santim derine ekilir. Hafif ve kuru toprakta biraz daha derin, ağır ve nemli toprakta daha sığ ekilir. Çok derin ekilen tohum çıkamaz, çok sığ ekilen kurur.
+
+S: Pamuk ekiminde sıra arası ne kadar olmalı?
+C: Sıra arası genellikle 70-80, sıra üzeri bitki aralığı 10-15 santimdir. Ekim makinesine, çeşide ve sulama yöntemine göre değişir. Elle ekimde bir noktaya birkaç tohum bırakıp sonra seyreltilebilir.
+
+S: Pamuk neden çıkmaz?
+C: En sık nedenler soğuk ve ıslak toprak, kabuk bağlayan yüzey ve yanlış derinliktir. Toprak sıcaklığının eşiği geçmesini bekleyin, ince tohum yatağı hazırlayın, derinliği ayarlayın. Çıkmayan alanda yeniden ekim gerekebilir.
+
+### SORU
+yayin: 2027-02-25 09:20
+kategori: gubreleme
+baslik: Çim alanıma solucan gübresi atacağım, ne zaman ve ne kadar atmalıyım?
+metin: Yaklaşık 80 metrekarelik bir çim alanım var. Mart geliyor, çim hâlâ soluk. Katı solucan gübresi aldım, ne zaman ve ne kadar atmam gerekiyor?
+@cevap Halil İbrahim Çelik | 2
+Çim yeşillenmeye başlayıp toprak ısınınca, çoğu yerde mart ortası ile nisan başında, ilk biçimden sonra serpin. Ürün bilgisinde çim alanlar için serpme yöntemiyle dekara 100-125 kilogram, yani metrekareye 100-125 gram önerilir. 80 metrekare için bu 8-10 kilogram eder. Çim iyi durumdaysa alt sınır yeterlidir. Önce çimi tırmıkla tarayın ve biçin, toprak hafif nemliyken gübreyi iki yönde yürüyerek eşit serpin, yığın bırakmayın. Sonra hafifçe sulayın. Etkisi yavaş ve yumuşak olduğundan bir iki hafta içinde belirgin bir sıçrama beklemeyin; çim zamanla koyulaşır.
+
+### SORU
+yayin: 2027-02-25 15:40
+kategori: bahce-ipuclari
+baslik: Eğimli tarlamda hangi sulama yöntemi daha uygun, salma mı damla mı?
+metin: İki dekar eğimli, kumlu bir tarlam var, su kaynağım kuyu. Domates ve biber ekmeyi planlıyorum. Salma sulama mı yoksa damla mı yapmalıyım?
+@cevap Mehmet Fatih Çelik | 2
+Bu koşulda damla sulama daha uygundur. Eğimli arazide salma sulama suyu eşit dağıtmaz ve yüzeyden akıp gidebilir; kumlu toprakta ise su hızla derine süzülür ve su ile besin kaybı artar. Domates ve biber sıra bitkisidir ve yaprağın ıslanmasını sevmez; damla suyu doğrudan köke verir, yaprağı kuru tutar ve hastalığı azaltır. Kuyu suyunun kireç ve tuz düzeyi damlatıcıların tıkanmasını etkileyeceği için suyu analiz ettirin ve iyi bir filtre kullanın. Başlangıç yatırımı daha yüksektir ama su tasarrufu ve verim bunu dengeler. Proje ve debi için il ya da ilçe tarım müdürlüğüne ve su ile ilgili kuruluşlara danışın.

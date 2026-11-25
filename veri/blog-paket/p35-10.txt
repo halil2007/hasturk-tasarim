@@ -1,0 +1,124 @@
+### YAZI
+slug: yagmur-olcer-bahcede-sulamayi-yagis-miktarina-gore-ayarlamak
+baslik: Yağmur Ölçer: Bahçede Sulamayı Yağış Miktarına Göre Ayarlamak
+yayin: 2027-02-25 08:45
+yazar: Muhammed Hamza Çelik
+kategori: bahce-ipuclari
+odak: yağmur ölçer
+seo_baslik: Yağmur Ölçer: Sulamayı Yağışa Göre Ayarlama
+seo_aciklama: Yağmur ölçer bahçeye düşen yağışı milimetre olarak gösterir; 1 mm metrekareye 1 litre demektir. Yer seçimi, okuma, kendin yap ölçer ve sulama hesabı.
+ozet: Yağmur ölçer, bahçenize ne kadar su düştüğünü sayıyla söyleyen ucuz bir araçtır. Milimetreyi litreye çevirmeyi, ölçeri nereye koyacağınızı, günlük kaydı, kendin yap şişe ölçerini ve yağış bilgisini sulama kararına dönüştürmenizi örnek hesaplarla anlattık.
+etiketler: yağmur ölçer, yağış ölçümü, sulama planı, milimetre, bahçe sulama, kendin yap ölçer
+gorsel: bekliyor
+gorsel_alt: Bahçe tarhının kenarında yağmur suyu biriken şeffaf, dereceli ölçüm silindiri
+urunler: sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu, sgs-3-fonksiyonlu-sulama-tabancasi, hasturk-kati-solucan-gubresi
+kisaca: Yağmur ölçer, bahçenize düşen yağışı milimetre olarak gösterir. 1 mm yağış, metrekareye 1 litre su demektir. Ölçeri ağaç ve duvardan uzak, açık bir yerde yerden yaklaşık 1-1,5 metre yükseklikte tutun, her sabah okuyup boşaltın. Haftalık yağışı bitkinin su ihtiyacıyla karşılaştırıp eksik kısmı sulayın.
+@govde
+Yağmur ölçer, bahçede sulamayı tahminden çıkarıp sayıya bağlayan en ucuz araçlardan biridir. "Dün akşam çok yağdı, bu hafta sulamaya gerek yok" cümlesi çoğu zaman yanlıştır; çünkü gözle yağışın 3 mm mi 15 mm mi olduğunu ayırt edemezsiniz. Ölçer ise bunu net söyler. Aşağıda önce milimetre ve litre arasındaki ilişkiyi, sonra ölçerin nereye konulacağını, nasıl okunacağını ve sulama kararına nasıl dönüştürüleceğini anlattık. Kendin yap ölçer için de bir tarif var.
+
+## Yağmur ölçer neyi gösterir: milimetre ve litre
+
+Yağış milimetre (mm) cinsinden verilir. Bir milimetre yağış, düz bir yüzeyin her metrekaresine bir litre su düştüğü anlamına gelir. 10 mm yağış, 10 metrekarelik bir bahçeye 100 litre, bir dekara (1.000 m²) ise 10.000 litre, yani 10 metreküp su bırakır. Bu çeviri sayesinde yağışı hortumla verdiğiniz suyla karşılaştırabilirsiniz.
+
+| Yağış | 10 m² bahçeye | 100 m² bahçeye | 1 dekara (1.000 m²) |
+|---|---|---|---|
+| 2 mm | 20 litre | 200 litre | 2.000 litre |
+| 5 mm | 50 litre | 500 litre | 5.000 litre |
+| 10 mm | 100 litre | 1.000 litre | 10.000 litre |
+| 25 mm | 250 litre | 2.500 litre | 25 metreküp |
+
+Hafif bir çiseleme 1-2 mm, dolu bir sağanak 20-30 mm olabilir. Aralık bu kadar geniş olduğu için gözle tahmin sulama kararını yanlış yöne çekebilir. Dönüm ve metrekare ilişkisini [1 dönüm kaç metrekare](/1-donum-kac-metrekare-dekar-ve-hektar-cevirisi) yazısında topladık.
+
+## Ölçer nereye konur?
+
+Ölçerin doğru okuması yerine bağlıdır. Arizona Üniversitesi Cooperative Extension'ın [hava istasyonları rehberi](https://extension.arizona.edu/sites/extension.arizona.edu/files/attachment/WeatherStations.pdf) ölçerin bina, ağaç, duvar ve benzeri yüksek nesnelerden uzak, açık bir yere konmasını söyler; çünkü bu engeller okumayı saptırır. Penn State'in hava gözlemcileri için hazırladığı [eğitim kılavuzu](https://climate.met.psu.edu/data/frost/frosttraining.php) ölçerin kuvvetli rüzgârdan korunmuş ama engelsiz bir yerde, yerden 2-5 fit (yaklaşık 60-150 cm) yükseklikte durmasını önerir. Arizona rehberi bu yüksekliği 3-5 fit (yaklaşık 90-150 cm) olarak verir.
+
+Evde bu şu demektir: çim ortasında ya da tarhın boş bir köşesinde, bir kazığa sabitlenmiş ölçer. Çatı kenarının altına, ağaç dalının altına ya da duvar dibine koymayın; oradan damlayan su ölçümü şişirir, rüzgâr gölgesi ise eksik gösterir. Ölçer dik durmalı ve sallanmamalıdır.
+
+## Ölçer türleri ve doğruluk
+
+Çeşit çok, ama basit olanlar yeterlidir. Şeffaf plastik silindir ölçerler yüzlerce ölçüm yapabilecek kadar sağlamdır. Dijital ölçerler kayıt tutar ama pil ve kurulum ister. Evde yapılan şişe ölçerler de işe yarar. Michigan State Üniversitesi'nin [yağmur ölçer yazısı](https://www.canr.msu.edu/news/rain-gauges-best-low-cost-tools-for-saving-water) küçük toplama ağzı olan ölçerlerde örneklem küçüldüğü için hata payının büyüdüğünü belirtir. Mümkün olduğunca geniş ağızlı bir model seçin.
+
+Doğruluğu deneyerek kontrol edebilirsiniz: bilinen bir miktar suyu, örneğin ölçülü bir kapla 50 ml, ölçere dökün ve okunan değerle karşılaştırın. Michigan State aynı yöntemi kalibrasyon testi olarak önerir. Sapma büyükse ölçeri değiştirin.
+
+## Kendin yap yağmur ölçer
+
+Elinizde dik kenarlı, silindir biçimli bir şişe ya da bardak varsa ölçer yapabilirsiniz. Önemli olan ağzın ve gövdenin aynı genişlikte olmasıdır; yoksa derecelendirme yanlış çıkar.
+
+::: adimlar
+Kabı seçin | Düz kenarlı, silindir biçimli şeffaf bir kap bulun; kenarlar daralmasın.
+Derecelendirin | Bir cetvelle yan yüzeye milimetre çizgileri çizin; kabın içinden ölçün. Taban eğriyse önce 1 cm su doldurup tabanı hesaba katın.
+Sabitleyin | Kabı açık bir yerde, 1-1,5 metre yükseklikte bir kazığa ya da korkuluğa sabitleyin.
+Okuyun | Her sabah aynı saatte seviyeyi okuyun, deftere yazın ve suyu boşaltın.
+Test edin | Bir ölçü bardağındaki sabit suyla çizgilerin doğruluğunu kontrol edin.
+:::
+
+Geniş ağızlı bir kap ve dar bir ölçüm silindiri birleştirirseniz doğruluk artar: geniş kapta toplanan suyu dar silindire boşaltıp okursunuz. Bu yöntemle çok küçük yağışlar bile okunabilir.
+
+## Yağış bilgisini sulamaya dönüştürmek
+
+Ölçer, yalnız yağışı söyler; bitkinin ne kadara ihtiyacı olduğunu bilmek gerekir. Birçok sebze için haftalık yaklaşık 25 mm (metrekareye 25 litre) su, orta bir hedeftir. Örneğin hindiba fidesi ürün sayfasında haftada yaklaşık 2,5 cm su isteyen bir bitki olarak tarif edilir ve yağmur yetmiyorsa kalanın tamamlanması önerilir. Bu bir başlangıç değeridir; sıcak, rüzgârlı ve kumlu toprakta ihtiyaç artar, serin ve killi toprakta azalır.
+
+Haftalık hedeften yağışı çıkarırsanız eksik kalanı bulursunuz. Örnek: hedef 25 mm, ölçer bu hafta 12 mm gösterdi. Eksik 13 mm, yani metrekareye 13 litredir. 20 metrekarelik bir tarh için 13 × 20 = 260 litre. Hortumun ya da damla hattının debisini bilirseniz süreyi hesaplarsınız; debiyi ölçmek için 10 litrelik bir kovayı doldurma süresini ölçün. 10 litre 30 saniyede doluyorsa hortum dakikada 20 litre verir; 260 litre için 13 dakika gerekir.
+
+Tek seferde bol su vermek yerine iki üç seferde bölmek, özellikle kumlu toprakta sızmayı azaltır. Sabah erken sulamanın nedenlerini [bahçe sulama saatleri](/bahce-sulama-saatleri) yazısında anlattık. Toprak nemini kontrol etmenin yolları için [toprak nemi ölçme](/toprak-nemi-olcme) rehberine bakabilirsiniz. Arizona Extension da yağış ölçümlerinin bahçe ve meyve ağaçlarını yeniden sulamak arasındaki süre konusunda kaba bir fikir verdiğini belirtir.
+
+[ürün:sgs-premium-flex-1-2-20-metre-3-katli-orgulu-bahce-hortumu]
+
+## Yağışın sulama saymayacağı durumlar
+
+Ölçerin gösterdiği yağış, bitkinin tamamen aldığı su demek değildir. Hafif çiseleme yaprağa ve malça takılır, toprağa az ulaşır. Hızlı ve sert yağışta su yüzeyden akar ya da derine kaçar. Yoğun yaprak örtüsü ya da malç yağmuru kısmen tutar. Bu yüzden 3-5 mm'den küçük yağışları sulama saymak yerine "toprağı ıslatmayan yağış" olarak düşünün; parmakla toprağı yoklayın.
+
+Saksıdaki ve balkondaki bitkiler farklıdır: üstü örtülü balkonda yağmur saksıya düşmez; ölçer dışarıda yağış gösterse de saksı kurur. Balkon için ölçer yerine saksı ağırlığına ve toprak yoklamasına güvenin. Saksılarda su yönetimi için [balkon damla sulama seti](/balkon-damla-sulama-seti) yazısı çözüm sunar.
+
+## Ölçerden elde edilen kayıtları kullanmak
+
+Her sabah aynı saatte okuyup deftere yazmak birkaç hafta sonra size bir bahçe iklim özeti verir. Hangi ayın ne kadar yağış aldığını, kuraklığın ne zaman başladığını, sulamanın ne zaman şart olduğunu görürsünüz. Kayıtlar sulama programını sezondan sezona iyileştirir. Aylık toplamı tablolaştırıp geçen yılla kıyaslamak da alışkanlık edinin. Hava tahmini ile ölçüm farklıdır; meteoroloji bölgesel tahmin verir, ölçeriniz bahçenizin gerçek yağışını gösterir.
+
+Yağmur suyunu biriktiriyorsanız ölçer, bir sonraki sulamaya kaç litre depoda toplandığını hesaplamanıza da yardımcı olur: çatı alanı × yağış mm = litre. Detay için [yağmur suyu toplama](/yagmur-suyu-toplama) yazısına bakın. Kuraklıkta su tasarrufu için [kuraklıkla mücadele](/kuraklikla-mucadele) rehberi tarlada ve bahçede uygulanabilecek yöntemleri sıralıyor.
+
+[ürün:sgs-3-fonksiyonlu-sulama-tabancasi]
+
+## Bahçe için basit bir kayıt tablosu
+
+Sulama kaydını tutmak için karmaşık bir sisteme gerek yok. Bir deftere ya da telefonda bir tabloya şu sütunları ekleyin: tarih, yağış (mm), sulama (litre), notlar. Her sabah ölçeri okuyup boşalttıktan sonra yağışı yazın. Sulama yaptıysanız hortumun süresini ve debisini çarparak yaklaşık litreyi kaydedin. Haftalık toplamı alıp hedefle kıyaslayın. Birkaç hafta sonra hangi günlerin kuru geçtiğini ve sulamanın ne kadar yeterli olduğunu görürsünüz.
+
+Kayıtlar sezon sonunda sizin bahçenizin su haritasıdır. Gelecek yıl aynı sebzeyi aynı yerde yetiştirirken, hangi dönemde fazla ya da eksik sulandığını bu tablodan bulursunuz. Bu bilgi tahmine dayanan sulamanın yerini alır.
+
+## Yağmur ölçer kullanırken sık yapılan hatalar
+
+- Ölçeri ağaç, çatı ya da duvar yanına koymak.
+- Küçük ağızlı, ucuz ve sallanan bir ölçerle ölçmek.
+- Ölçerde biriken suyu boşaltmayı unutup ertesi gün üstüne eklemek.
+- Çiseleme gibi küçük yağışı sulama yerine saymak.
+- Kayıt tutmadan hafızaya güvenmek.
+
+Yağmur ölçer küçük bir araçtır ama bahçedeki su kararlarının dayanağını değiştirir.
+@sss
+S: Yağmur ölçer neyi gösterir?
+C: Bahçeye düşen yağışı milimetre olarak gösterir. 1 mm yağış, düz bir alanın her metrekaresine 1 litre su düşmesi demektir. Böylece yağışı sulamayla kıyaslayabilirsiniz.
+
+S: Yağmur ölçer nereye konur?
+C: Ağaç, çatı ve duvardan uzak, açık ve rüzgârdan korunaklı bir yere, yerden yaklaşık 1-1,5 metre yüksekliğe, dik duracak biçimde sabitlenir. Dar ya da gölgeli yerde okuma sapar.
+
+S: Kendin yap yağmur ölçer yapılır mı?
+C: Evet. Dik kenarlı, silindir biçimli şeffaf bir şişe ya da bardağa cetvelle milimetre çizgileri çizip açık alanda sabitlersiniz. Bilinen hacimde suyla doğruluğunu deneyin.
+
+S: Haftalık 25 mm yağış yeterli mi?
+C: Birçok sebze için haftalık 25 mm başlangıç hedefidir; sıcak ve rüzgârlı havada, kumlu toprakta daha fazlası gerekir. Küçük yağışlar toprağa ulaşmayabilir, bu yüzden toprağı yoklayarak karar verin.
+
+### SORU
+yayin: 2027-02-25 21:05
+kategori: bahce-ipuclari
+baslik: Dün gece yağmur yağdı, bahçeyi bu sabah sulamalı mıyım, ölçer yok
+metin: Bahçede domates ve biber fideleri var. Gece yağmur yağdı ama ne kadar yağdığını bilmiyorum. Sabah sulayayım mı, yoksa beklemeli miyim?
+@cevap Muhammed Hamza Çelik | 2
+Yağmurun toprağa ne kadar ulaştığını parmağınızla yoklayarak anlayabilirsiniz. İki parmak boyu, yaklaşık 5-6 cm derinliğe parmağınızı batırın; toprak nemliyse sulamayı bekleyin. Hafif bir yağmur yaprağı ıslatır ama kök bölgesini ıslatmayabilir. Gelecekte yağmur ölçer koymak ve ölçümü deftere yazmak, bu kararı rakama bağlamanıza yardım eder. Bugün için toprağı yoklayıp karar verin.
+
+### SORU
+yayin: 2027-02-25 21:40
+kategori: bahce-ipuclari
+baslik: Balkonda yağmur ölçer işe yarar mı, saksıları ona göre mi sulamalıyım?
+metin: Balkonum kapalı ve saksılar yağmur almıyor. Yağmur ölçer almayı düşünüyorum ama balkonda işe yarar mı, saksı sulamasını buna göre ayarlayabilir miyim?
+@cevap Muhammed Hamza Çelik | 2
+Üstü örtülü ya da korunaklı balkonda yağmur ölçer işinize yaramaz; yağış saksıya düşmediği için sulama programınız yağıştan bağımsızdır. Saksı sulamasını toprak yoklaması ve saksının ağırlığıyla belirleyin. Balkonunuz yağmura açıksa ölçer yararlı olur; ölçeri açık, rüzgârdan korunaklı ve duvardan uzak bir köşeye koyun.

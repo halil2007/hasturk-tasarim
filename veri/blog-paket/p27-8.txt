@@ -1,0 +1,210 @@
+### YAZI
+slug: bahce-yataginda-dikey-destek
+baslik: Bahçe Yatağında Dikey Destek: Hıyar, Fasulye ve Domates İçin Ağ ve Çardak
+yayin: 2027-01-25 10:20
+yazar: Ahmet Sacit Çelik
+kategori: sebze-meyve
+odak: bahçe yatağında dikey destek
+seo_baslik: Bahçe Yatağında Dikey Destek: Hıyar, Fasulye, Domates
+seo_aciklama: Bahçe yatağında dikey destek nasıl kurulur? Hıyar, fasulye ve domates için ağ, ip ve çardak seçimi, montaj, bitkiyi yönlendirme ve dayanım kontrolü.
+ozet: Bahçe yatağında dikey destek, sarılıcı ve sırık sebzeleri yukarı taşıyarak aynı alana daha çok bitki sığdırır ve meyveyi topraktan uzak tutar. Ağ, ip ve çardak seçeneklerini, bitkiye göre destek tipini, kurulum zamanını, bitkiyi yönlendirmeyi ve ağırlığa dayanımı yazdık.
+etiketler: dikey destek, çardak, ip ve ağ, hıyar yetiştirme, sırık fasulye, domates desteği, sebze yatağı
+gorsel: bekliyor
+gorsel_alt: Sebze yatağının kısa kenarlarına bağlı galvaniz çerçevede ipe sarılmış domates, hıyar ve fasulye bitkileri
+urunler: sebze-yatagi-bitki-destek-unitesi-85-cm-genislikteki-yataklar-icin, sebze-yatagi-kemer-tipi-bitki-destek-unitesi-iki-yatak-arasina-yesil-tunel, moduler-yukseltilmis-bahce-yatagi-217-litre
+kisaca: Bahçe yatağında dikey destek için sarılıcı ve sırık sebzeler (sırık fasulye, bezelye, hıyar, sırık domates) yatağın kenarına kurulan bir çerçeveye ip ya da ağla bağlanır. Desteği ekimden önce kurun, ipleri yaklaşık 20 cm aralıkla gerin ve çerçevenin dolu bitki ağırlığını taşıyacak kadar sağlam olduğundan emin olun; bodur çeşitlere yalnızca kafes yeter.
+@govde
+Bir bahçe yatağında en değerli kaynak toprak değil, alandır. Domates, hıyar ve sırık fasulye yere yatırılırsa yatağın yarısını kaplar; yukarı yönlendirilirse aynı yatakta yanına başka sebzeler de sığar. Bahçe yatağında dikey destek bu yüzden bir süs değil, verimin bir parçasıdır. Aşağıda hangi bitkiye hangi desteğin uyduğunu, kurulumun zamanını ve bitkiyi nasıl yönlendireceğinizi sırayla anlatıyoruz.
+
+## Hangi sebzeler desteğe ihtiyaç duyar?
+
+Wisconsin Üniversitesi Extension, destekte en iyi büyüyen asma tipi sebzeler arasında sırık fasulye, bezelye, domates, salatalık ve kabakgilleri sayar ([Wisconsin Extension destek, kazık ve kafes](https://hort.extension.wisc.edu/articles/trellising-staking-and-caging)). Virginia Tech Extension de sırık fasulye, bezelye, salatalık, kavun ve domatesi destek için çok uygun adaylar olarak anar. Nebraska Üniversitesi Extension ise sırık (sınırsız büyüyen) domates çeşitlerinin ip ve direk sistemine, bodur (sınırlı büyüyen) çalı domateslerin ise tel kafese uygun olduğunu belirtir ([Nebraska Extension dikey bahçecilik](https://lancaster.unl.edu/vertical-gardening-makes-most-small-garden-footprint)). Bunun anlamı basittir: her sebze aynı destek tipini istemez.
+
+| Bitki | Büyüme biçimi | Uygun destek | Not |
+|---|---|---|---|
+| Sırık fasulye | Sarılıcı | İp, ağ, kazık | En hafif desteği ister |
+| Bezelye | Tırmanıcı (vrille ile) | İnce ağ, ip | Hafif ağ yeter |
+| Hıyar (salatalık) | Tırmanıcı | Ağ, ip, kemer | Vrilleleriyle tutunur |
+| Sırık domates | Sürekli büyür | İp, direk, tel | Düzenli bağlama ve yan sürgün alma |
+| Bodur domates | Çalı biçimli | Tel kafes | Yüksek destek gereksiz |
+| Küçük meyveli kabak, kavun | Yayılıcı | Sağlam ağ ya da kemer | Meyve ağır, ağ sağlam olmalı |
+
+## Bahçe yatağında dikey destek neden önemli? Kazandıkları
+
+Dikey destek dört şey kazandırır. Birincisi alan: bitki yukarı çıkınca yatak zemini başka sebzelere kalır. İkincisi hava ve ışık: yapraklar yerden uzaklaşınca daha iyi havalanır ve mantar hastalığı riski azalır. Üçüncüsü temiz meyve: hıyar ve domates toprağa değmediği için kirlenmez ve çürümez. Dördüncüsü kolay hasat: meyve göz hizasındadır, eğilmek gerekmez. Bu avantajlar yatağın yüksekliğiyle birleşince bel hizasında rahat bir bahçecilik ortaya çıkar. Yatak ölçüsü ve düzeni için [yükseltilmiş yatak ölçüsü](/yukseltilmis-yatak-olcusu) ve [bahçe yatağı dikim planı](/bahce-yatagi-dikim-plani) yazılarına bakabilirsiniz.
+
+## Destek tipleri: ağ, ip, kafes ve çardak
+
+**İp ve çerçeve:** Yatağın kısa kenarlarına dikmeler takılır, üstte bir kuşak bağlanır ve yaklaşık 20 cm aralıkla ipler gerilir. Bir ürün açıklamasında 85 ve 110 cm gibi yatak genişliklerine uyan galvaniz destek üniteleri tarif edilir: yatağın üstünden 153 cm yükselen çerçeveye ip gerilir, domates, salatalık, fasulye ve bezelye ipe sarılarak yukarı büyür, yere yatmaz ve meyve topraktan uzakta olgunlaşır. İp olarak sezon sonunda bitkiyle kompostlanabilen jüt ya da pamuk ip önerilir. Bu yöntem sırık domates ve sarılıcı bitkiler için idealdir.
+
+**Ağ:** Fasulye, bezelye ve hıyar için ince ağ yeterlidir. Minnesota Üniversitesi Extension, fasulye için basit ve hafif bir ağın yeterli destek verdiğini söyler ([Minnesota Extension destek ve kafesler](https://extension.umn.edu/planting-and-growing-guides/trellises-and-cages)). Ağ gözü çok ince olursa hasat zorlaşır; yaklaşık 10–15 cm göz açıklığı pratiktir.
+
+**Kafes:** Bodur (çalı) domates, biber ve patlıcan için tel kafes yeterlidir; bitkinin yanına dikilip büyüdükçe dallar kafesin içinde tutulur.
+
+**Kemer ve çardak:** İki yatağın arasına gerilen kemer, sebzeleri yeşil bir tünele çevirir. Bir ürün açıklamasına göre kemer tipi destek ünitesi, iki yan yana yatağın aralarındaki 153 cm'lik yolun üstünden geçer, tepe yüksekliği zeminden 202 cm'dir ve altından rahatça geçilebilir; domates, salatalık ve fasulye kemeri kaplar. Büyük bahçelerde bu çözüm hem gölge hem hasat kolaylığı sağlar.
+
+[ürün:sebze-yatagi-bitki-destek-unitesi-85-cm-genislikteki-yataklar-icin]
+
+## Bahçe yatağında dikey destek ne zaman kurulur? Dikimden önce
+
+Destek sistemini bitkiyi dikmeden önce kurun. Büyümüş bir bitkinin çevresine direk çakmak kökleri keser; ayrıca bitkiyi sonradan desteğe bağlamak yapraklarını kırar. Yatağı toprakla doldurup toprağın oturmasını bekleyin, ardından desteği kurun: dolu ve oturmuş bir yatakta çerçeve daha sağlam durur. Fide dikimi ve ekim zamanı için bölgenizin son don tarihini gözetin; ocak ayı, destek sistemini hazırlamak ve ipleri biçmek için iyi bir zamandır. Hazırlık sırası için [yükseltilmiş bahçe yatağı kurulumu](/yukseltilmis-bahce-yatagi-kurulumu) yazısındaki adımlar geçerlidir.
+
+## Bitkiyi desteğe yönlendirmek
+
+Destek tek başına yetmez; bitkiyi yönlendirmek gerekir.
+
+::: adimlar
+Bitkiyi ipe yakın dikin | Domates ve fasulyeyi desteğin dibine, ipten 5–10 cm uzağa dikin.
+İlk bağlamayı erken yapın | Bitki 20–30 cm olunca gövdeyi ipe gevşekçe bağlayın ya da sarın; sıkı bağ gövdeyi boğar.
+Domateste yan sürgün alın | Yaprak koltuğundaki yan sürgünleri küçükken koparın; tek ya da çift gövdeyle ipe yönlendirin.
+Hıyarın vrillelerine yardım edin | Tırmanmaya başlamayan sürgünleri nazikçe ağa ya da ipe yönlendirin.
+Haftalık kontrol yapın | Her hafta yeni büyümeyi ipe sarın ya da bağlayın; sarkan dalları desteğe alın.
+:::
+
+Clemson Üniversitesi Extension, domatesin desteğe, her bitkinin trellisin ortasına ve yakınına dikilerek ve yatay tellerin arasından geçirilerek yönlendirilmesini anlatır ([Clemson Extension domatesi dikey yetiştirme](https://hgic.clemson.edu/grow-tomatoes-vertically/)). Aynı mantık yatağın ipli çerçevesinde de işler. Domates yan sürgünleri ve uç alma için [uç alma](/uc-alma) ve [domates fidesi yetiştirme](/domates-fidesi-yetistirme) yazıları ek bilgi verir.
+
+## Dayanım: bitki ağırlığını hafife almayın
+
+Nebraska Extension, olgunlaşma döneminde bitkilerin şaşırtıcı biçimde ağır olabileceğini, özellikle kavun ve domateste desteğin bunu taşıyacak sağlamlıkta olması gerektiğini vurgular. Bir sırık domates bitkisi meyve yüklüyken birkaç kilogram gelebilir; ıslak yaprakla ve rüzgârla bu yük artar. Bu yüzden destek çerçevesini sağlam seçin: dikmeler yatağa sağlam bağlanmalı, ipler kopmayacak kalınlıkta olmalı, çerçeve rüzgârda devrilmemelidir. Balkonda ya da rüzgâra açık yerde yatak ve destek birlikte sabitlenmeli; rüzgâr desteğe yelken gibi etki eder. Yılda iki kez bağlantıları kontrol edin ve paslanan ya da gevşeyen parçaları değiştirin. Balkonda ağırlık hesabı için [balkonda saksı ağırlığı](/balkonda-saksi-agirligi) yazısına bakın.
+
+## Aralık ve gölge: dikey büyüklerin yatağa etkisi
+
+Yüksek bitkiler yatağın bir kenarına gölge yapar. Desteği yatağın kuzey kenarına kurun; böylece güneş yüksek bitkilerden alçak bitkilere engelsiz ulaşır. Alçak sebzeleri (marul, turp, havuç) desteğin güneyine yerleştirin; marul öğleden sonra bu gölgeden de yararlanır. Yatak içinde bitkiler arasındaki mesafeyi koruyun: ipe sarılan her bitkiye yaklaşık 20 cm aralık verin. Sıkı dikim hava akışını bozar ve hastalığı artırır. Birlikte ekim ve yerleştirme için [bahçe yatağı dikim planı](/bahce-yatagi-dikim-plani) yazısı farklı sebzelerin düzenini gösterir.
+
+## Sezon sonu: desteği toplamak
+
+Sezon bitince bitki artıklarını desteklerden ayırın; hasta bitki artığı çerçeveye ve ipe bulaşır. Jüt ya da pamuk ip bitkiyle birlikte kompostlanabilir; sentetik ipi sökün ve atın. Metal çerçeveyi bir sonraki yıl için kuru bir yerde saklayın ya da yatakta bırakıp kontrol edin. Kış boyu desteği yatakta bırakıyorsanız rüzgâr ve kar yükünü düşünün; gerekirse sökülebilir parçaları çıkarın.
+
+Bahçe yatağında dikey destek kurmak, bir kez doğru yapıldığında yıllarca kullanılan bir yatırımdır; çerçeve metalden yapılmışsa sezon sonunda söküp saklamak ya da yatakta bırakıp yalnızca ipleri yenilemek yeterlidir.
+
+[ürün:sebze-yatagi-kemer-tipi-bitki-destek-unitesi-iki-yatak-arasina-yesil-tunel]
+
+Bahçe yatağı ve destek ünitesi seçiminde takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz.
+@sss
+S: Bahçe yatağında dikey destek hangi sebzeler için gerekir?
+C: Sırık fasulye, bezelye, hıyar, sırık domates ve küçük meyveli kabak ya da kavun için gerekir. Bodur çalı domates ve biber ise yalnızca tel kafesle idare eder.
+
+S: Dikey destek ne zaman kurulur?
+C: Bitki dikilmeden önce, yatağı doldurup toprağın oturmasını bekledikten sonra kurulur. Büyümüş bitkinin çevresine direk çakmak kökleri keser ve bitkiyi sonradan bağlamak yapraklara zarar verir.
+
+S: İp aralığı kaç cm olmalı?
+C: Yaklaşık 20 cm aralık pratiktir; her bitki kendi ipine sarılır. Fasulye ve bezelye için ince ağ da yeter, ağırlıklı meyve veren bitkilerde sağlam ip ya da tel gerekir.
+
+S: Domates ipe nasıl bağlanır?
+C: Bitki 20–30 cm olunca gövde ipe gevşekçe bağlanır ya da sarılır; her hafta yeni büyüme ipe alınır ve yan sürgünler küçükken koparılır. Bağ sıkı olmamalı, gövdeyi boğmamalıdır.
+
+### YAZI
+slug: kucuk-meyve-bahcesi-plani
+baslik: Küçük Meyve Bahçesi Planı: 10 Ağaçla Yıl Boyu Meyve
+yayin: 2027-01-25 19:40
+yazar: Mehmet Fatih Çelik
+kategori: sebze-meyve
+odak: küçük meyve bahçesi planı
+seo_baslik: Küçük Meyve Bahçesi Planı: 10 Ağaçla Yıl Boyu Meyve
+seo_aciklama: Küçük meyve bahçesi planı nasıl yapılır? 10 ağaçla yaz başından sonbahara meyve zinciri, anaç, dikim mesafesi, tozlayıcı çeşit ve bölge farkı.
+ozet: Küçük meyve bahçesi planı, 10 ağaçla mayıstan kasıma uzanan bir hasat zinciri kurmayı ve her ağaç için doğru anaç, mesafe ve tozlayıcıyı seçmeyi içerir. Örnek 10 ağaç listesini, alan hesabını, tozlayıcı kuralını ve ılık ile soğuk bölge farkını yazdık.
+etiketler: meyve bahçesi planı, bodur fidan, tozlayıcı çeşit, dikim mesafesi, ev bahçesi, meyve takvimi
+gorsel: bekliyor
+gorsel_alt: Küçük bir bahçede düzenli aralıklarla dikilmiş genç meyve fidanları ve aralarında yürüme yolu
+urunler: hg-fidan-topragi, hasturk-kati-solucan-gubresi
+kisaca: Küçük meyve bahçesi planı için bodur ya da yarı bodur anaçlı fidanlar seçin, ağaç başına yaklaşık 12–25 m² ayırın ve olgunlaşma zamanları farklı türleri karıştırın: kiraz, kayısı, şeftali, erik, incir, elma, armut ve nar gibi. Elma ve armut gibi türlerde farklı çeşitle tozlayıcı sağlayın; bölgenizin iklimine uymayan türleri listeye almayın.
+@govde
+Küçük bir bahçede on meyve ağacı sığar mı, sığarsa yıl boyunca meyve verir mi? Cevap, anaç ve tür seçimine bağlıdır. Bodur ve yarı bodur anaçlar ağacı küçültür, farklı olgunlaşma zamanlı türler hasadı mevsime yayar. Küçük meyve bahçesi planı bu iki fikri birleştirir: az yer, çok çeşit ve sürekli hasat. Aşağıda adım adım bir plan kuruyoruz.
+
+## Önce alan ve iklim: planın iki temeli
+
+Plan, iki soruyla başlar: Ne kadar alanınız var ve iklim hangi türlere izin veriyor? Alan ağaç sayısını, iklim türleri belirler. Soğuk bölgelerde (İç ve Doğu Anadolu'nun yüksek kesimleri) geç donlar kayısı, badem ve şeftali çiçeklerini vurur; ılık kıyılarda ise incir, nar ve turunçgil rahat yetişir ama soğuk isteyen bazı çeşitler (elma, kiraz) yeterli soğuğu bulamayabilir. Bu yüzden bölgenize göre ağaç seçerken yerel çiftçinin ve il tarım müdürlüğünün önerisine kulak verin: yıllardır yetişen türler çoğu zaman en güvenli seçimdir. Illinois Üniversitesi Extension da soğuk havanın biriktiği çukur yerlerden kaçınılmasını, çünkü şeftali gibi çekirdekli meyvelerin geç ilkbahar donlarına en hassas olduğunu belirtir ([Illinois Extension cüce meyve ağaçları ve tozlaşma](https://extension.illinois.edu/blogs/over-garden-fence/2014-01-17-dwarf-fruit-trees-and-pollination)). Bahçenin soğuk hava akışına açık, hafif eğimli bir yerde olması çiçek donunu azaltır.
+
+## Anaç seçimi: ağacın boyunu fidan belirler
+
+Meyve fidanı, kökü sağlayan anaç ile üstteki çeşidin birleşiminden oluşur ve anaç ağacın boyunu belirler. Samsun İl Tarım Müdürlüğü'nün bodur elma yetiştiriciliği yayını gibi resmî kaynaklar, bodur anaçlarda ağacın küçüldüğünü, erken meyveye yattığını ve daha sık dikilebildiğini anlatır ([Samsun İl Tarım Müdürlüğü bodur elma yetiştiriciliği](https://samsun.tarimorman.gov.tr/BelgelerArsiv/Yayinlar/Kitaplarimiz/bodur_elma_yetistiriciligi.pdf)). Aynı kaynaklar bodur anaçların kök sisteminin zayıf ve yüzlek olabildiğini; bu nedenle destek ve iyi toprak gerektiğini de vurgular. Çok bodur anaçların (M9 gibi) zayıf topraklarda önerilmediği de kaynaklarda geçer. Pratik sonuç: küçük bahçede yarı bodur anaç çoğu zaman bodurdan daha güvenli bir dengedir; toprağınız fakirse yarı bodur ya da orta kuvvetli anaçları seçin. Bodur, yarı bodur ve çöğür farkı için [fidan seçimi nasıl yapılır](/fidan-secimi-nasil-yapilir) yazısına bakabilirsiniz.
+
+| Anaç tipi | Ağaç boyu | Meyveye yatma | Özel not |
+|---|---|---|---|
+| Bodur | Küçük | Erken | Kök zayıf, destek ve iyi toprak ister |
+| Yarı bodur | Orta | Orta | Küçük bahçede dengeli seçim |
+| Çöğür (kuvvetli) | Büyük | Geç | Büyük alan ister, uzun ömürlü |
+
+## Dikim mesafesi ve alan hesabı
+
+Mesafe anaca ve türe göre değişir. Milli Eğitim Bakanlığı'nın elma yetiştiriciliği modülü, elma için bodur anaçta yaklaşık 1–3 m, yarı bodur anaçta 3–5 m, kuvvetli anaçta 6–10 m aralık verir ([MEB elma yetiştiriciliği modülü](https://www.megep.meb.gov.tr/mte_program_modul/moduller_pdf/Elma%20Yeti%C5%9Ftiricili%C4%9Fi.pdf)). Ordu İl Tarım Müdürlüğü yayını ise çok bodur anaçlar için farklı mesafeler (örneğin 5×6 m) önerir ([Ordu İl Tarım Müdürlüğü bodur elma](https://ordu.tarimorman.gov.tr/Belgeler/bodurelma.pdf)). Kaynaklar arasında fark olduğuna göre, kendi toprağınıza, çeşide ve budama biçiminize göre en güvenli aralığı fidan aldığınız yerden ve il müdürlüğünden teyit edin. Ev bahçesinde kaba bir alan hesabı yapabilirsiniz: yarı bodur anaçta 3–5 m aralık, ağaç başına yaklaşık 12–25 m² demektir. Ona göre 10 ağaç için 120–250 m² alan gerekir; daha dar alanda bodur anaç, espalye (duvara yatık) ya da kordon biçimi gibi yöntemler kullanılır.
+
+## Örnek 10 ağaçlık liste
+
+Aşağıdaki liste ılıman bir bölge (Marmara, Ege iç kesimleri, geçit bölgeleri) için bir örnektir. Ilık kıyılar ve soğuk bölgeler için ağaçları değiştirin.
+
+| Ağaç | Adet | Olgunlaşma (kabaca) | Tozlayıcı notu |
+|---|---|---|---|
+| Kiraz (kendine verimli çeşit) | 1 | Mayıs sonu–Haziran | Kendine verimli çeşit seçin |
+| Kayısı (kendine verimli çeşit) | 1 | Haziran | Geç donlara hassas |
+| Erik (kendine verimli çeşit) | 1 | Haziran–Ağustos | Çeşide göre |
+| Şeftali | 1 | Temmuz–Ağustos | Genelde kendine verimli |
+| Armut | 2 | Ağustos–Ekim | İki farklı çeşit |
+| Elma | 2 | Eylül–Ekim | İki farklı çeşit |
+| İncir | 1 | Ağustos–Eylül | Ilık bölgede |
+| Nar ya da ayva | 1 | Ekim–Kasım | Nar ılık bölgede, ayva soğuk bölgede |
+
+Toplam on ağaç sayılabilir: 1 kiraz, 1 kayısı, 1 erik, 1 şeftali, 2 armut, 2 elma, 1 incir ve 1 nar ya da ayva. Olgunlaşma tarihleri bölgeye, çeşide ve yıla göre bir iki ay oynar; kendi bölgeniz için fidan aldığınız yerden çeşit takvimini isteyin. Aşağıdaki şerit, örnek listenin kaba hasat dönemlerini ay bazında gösterir.
+
+::: takvim
+Kiraz | 5-6
+Kayısı | 6-6
+Erik | 6-8
+Şeftali | 7-8
+Armut | 8-10
+İncir | 8-9
+Elma | 9-10
+Nar ve ayva | 10-11
+:::
+
+## Tozlayıcı çeşit: yalnız ağaç yetmez
+
+Birçok meyve türü kendi çiçek tozuyla meyve tutmaz ya da zayıf tutar. Samsun İl Tarım Müdürlüğü kaynakları elma çiçeklerinin genel olarak kendine kısır olduğunu ve bahçeye dölleyici çeşit konması gerektiğini, ekonomik verim için en az üç çeşidin kullanılmasının önerildiğini belirtir; ticari bahçe için yazılmış bu öneri, küçük bahçede en az iki farklı çeşit anlamına gelir. Illinois Extension, elmaların çoğunun çapraz tozlaştığını, bazı çeşitlerin ise meyve verse bile başka çeşidi tozlayamadığını ve komşudaki çiçek açan bir elma ya da süs elmasının tozlayıcı işlevi görebileceğini yazar. Pratik kural şudur: elma ve armutta aynı dönemde çiçek açan iki farklı çeşit dikin; kiraz, erik, şeftali ve kayısıda "kendine verimli" etiketli çeşit seçin; fidan aldığınız yerde hangi çeşitin hangisini tozladığını sorun.
+
+## Küçük meyve bahçesi planı: dikim sırası ve toprak
+
+Planı çizdikten sonra dikim zamanı ve çukur hazırlığı gelir. Çıplak köklü fidanlar yaprak döktükten sonra dikilir; ocak ve şubat ayları ılık bölgelerde donsuz günlerde uygun olabilir, soğuk bölgelerde dikim ilkbahara kalır. Dikim ayrıntıları için [meyve fidanı dikimi](/meyve-fidani-dikimi), [çıplak köklü fidan dikimi](/ciplak-koklu-fidan-dikimi) ve [fidan çukuru nasıl hazırlanır](/fidan-cukuru-nasil-hazirlanir) yazılarına bakın. Toprak analizi yaptırıp kireç ve pH durumunu öğrenmek, hangi türün tutacağını belirler; numune alma için [toprak numunesi nasıl alınır](/toprak-numunesi-nasil-alinir) yazısı yol gösterir.
+
+[ürün:hg-fidan-topragi]
+
+## Küçük meyve bahçesi planı: sıralar, yollar ve su
+
+Ağaçları kuzey-güney yönünde sıralarsanız her ağaç güneşi dengeli alır. Sıralar arası yürüme yolunu hasat, budama ve bakım için en az 2–3 m geniş tutun. Uzun boylu ağaçları (ceviz, çöğür kiraz) bahçenin kuzeyine, kısa boylu ağaçları güneyine koyun; böylece uzun ağaçlar kısaları gölgelemez. Sulama için bahçenin bir ucuna musluk ya da damla hattı çekin; genç fidanlar ilk iki yıl düzenli suya ihtiyaç duyar. Malçlama toprağın nemini korur; ağaç dibi malç için [ağaç dibi malçlama](/agac-dibi-malclama) yazısındaki yöntem uygulanır.
+
+## İlk yıllar: beklenti ve bakım
+
+Meyve fidanı dikildiği yıl meyve vermez. Bodur anaçlarda 2–3 yıl, yarı bodur anaçlarda 3–4 yıl, çöğür anaçlarda daha uzun sürede ilk meyve görülür. İlk yıllar şekil budaması, düzenli sulama, don koruması ve rekabetçi otların temizlenmesine ayrılır. Genç ağacı rüzgâr ve kemirgenden korumak için kazık ve gövde koruyucu kullanın. Erken meyveyi (ilk iki yıl) toplamayıp çiçekleri almak, ağacın büyümesine enerji bırakır. Küçük bir meyve bahçesinin değeri ilk yıl değil, beşinci yıl ve sonrasında belli olur. Bu nedenle sabırlı olmak ve yıl yıl bakım yapmak gerekir.
+
+Küçük meyve bahçesi planı yazılı bir krokiyle başlar: bahçenin ölçüsünü ölçekli çizin, ağaçların yerini ve olgunlaşma sırasını işaretleyin, tozlayıcı çiftleri birbirine yakın gösterin. Krokiyi her yıl güncellemek, kayıp ağaçların yerine hangi türün konacağını önceden düşünmenizi sağlar.
+
+[ürün:hasturk-kati-solucan-gubresi]
+
+Meyve fidanı toprağı ve besleme konusunda takıldığınız noktalar için müşteri hizmetlerimize danışabilirsiniz. Tür ve çeşit seçimi için ise il ya da ilçe tarım müdürlüğüne ve bölgenizdeki ziraat mühendislerine başvurmanız önerilir.
+@sss
+S: Küçük bahçede kaç meyve ağacı olur?
+C: Yarı bodur anaçta ağaç başına yaklaşık 12–25 m² hesaplanırsa 10 ağaç için 120–250 m² gerekir. Daha dar alanda bodur anaç, espalye ve kordon gibi biçimler kullanılır.
+
+S: Yıl boyu meyve için hangi ağaçlar seçilir?
+C: Olgunlaşma zamanları farklı türleri karıştırın: kiraz ve kayısı yaz başında, şeftali ve erik yazın, incir ve armut yaz sonunda, elma ve nar sonbaharda olgunlaşır. Tarihler bölgeye ve çeşide göre değişir.
+
+S: Elma ve armut için tozlayıcı çeşit gerekir mi?
+C: Evet. Elma ve armutta çoğu çeşit kendine verimli değildir; aynı dönemde çiçek açan iki farklı çeşit dikilir. Kiraz, erik, şeftali ve kayısıda kendine verimli etiketli çeşitler seçilebilir.
+
+S: Bodur anaç mı yarı bodur anaç mı seçilmeli?
+C: Küçük bahçede toprağınız iyiyse bodur, fakirse yarı bodur güvenlidir. Bodur anaçların kökü zayıf ve yüzlektir; destek, iyi toprak ve sulama ister. Fidan aldığınız yerden anaç bilgisini isteyin.
+
+### SORU
+yayin: 2027-01-25 11:20
+kategori: sebze-meyve
+baslik: Yatağıma hıyar ve fasulye ekeceğim, ip mi ağ mı daha iyi, desteği ne yüksekliğe kurmalıyım?
+metin: 110x60 cm'lik bir sebze yatağım var. İçine hıyar, sırık fasulye ve iki domates dikmeyi planlıyorum. Destek için ip mi yoksa file/ağ mı kullanmalıyım? Yüksekliği ne kadar tutmalıyım, rüzgâra dayanır mı?
+@cevap Ahmet Sacit Çelik | 3
+Üç bitkinin ihtiyacı farklı olduğu için iki çözümü birlikte kullanabilirsiniz. Hıyar ve fasulye için ağ ya da yan yana gerilmiş ince ipler yeter; bu bitkiler kendi vrille ve gövdeleriyle sarılır. Fasulye en hafif desteği ister, hıyarın ağırlığı biraz daha fazladır. Domates ise gövdeyi ipe bağlamayı ve yan sürgün almayı gerektirir; bunun için dikey ip daha uygundur. Yükseklik olarak yatağın üstünden 150–180 cm çoğu sebze için yeterlidir; bitki daha yükseğe çıkarsa ucunu alırsınız. Ipleri yaklaşık 20 cm aralıkla gerin. Çerçevenin dolu bitkinin ağırlığını ve rüzgârı taşıyacak sağlamlıkta olması önemlidir: dikmeleri yatağa sağlam bağlayın, üst kuşağı tek parça kullanın ve rüzgârlı yerde çapraz bağlantı ekleyin. Yatağın kuzey kenarına kurarsanız yüksek bitkiler diğer sebzeleri gölgelemez. Destek sistemini dikimden önce kurun ve haftada bir bitkileri ipe yönlendirin.
+
+### SORU
+yayin: 2027-01-25 15:40
+kategori: sebze-meyve
+baslik: Bahçeme meyve ağacı dikeceğim, kiraz ve elma aynı yere dikilir mi, tozlanma için ne yapmalıyım?
+metin: 200 metrekarelik bir bahçem var ve iki elma, iki armut, bir kiraz ve bir şeftali dikmeyi düşünüyorum. Fidancıdan çeşit seçerken tozlayıcı konusunda ne sormalıyım? Hepsi birbirinin yanına mı dikilmeli?
+@cevap Mikdat Çelik | 2
+Elma ve armutta çoğu çeşit kendi çiçek tozuyla yeterli meyve tutmaz, bu yüzden aynı dönemde çiçek açan en az iki farklı çeşit gerekir; iki elma ve iki armut dikecekseniz her tür için çeşitleri birbirini tozlayacak biçimde seçin. Fidancıya şunları sorun: Bu çeşit kendine verimli mi? Hangi çeşitlerle iyi tozlaşır? Çiçeklenme zamanı hangi dönemde? Elma çeşitleri birbirini tozlar ama armutla elma birbirini tozlamaz; her tür kendi içinde eşleşir. Kiraz ve şeftalide kendine verimli çeşit seçerseniz ek tozlayıcı gerekmez; bazı kiraz çeşitleri ise partner ister, bu yüzden çeşidin özelliğini sorun. Aynı türün iki çeşidini birbirine çok uzak dikmeyin; arıların kolayca gidebileceği, yaklaşık birkaç on metre içinde tutun. Çiçek dönemi olan ilkbaharda ilaçlamadan kaçınıp arıları ve tozlayıcı böcekleri bahçede tutmak da verimi artırır. Son olarak, yerel il ya da ilçe tarım müdürlüğünden bölgeye uygun çeşit listesini isteyin; bölgenin iklimine uymayan çeşit çiçek donu ya da soğuk yetersizliği nedeniyle meyve vermeyebilir.
