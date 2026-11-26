@@ -1,0 +1,50 @@
+{
+ "site": "tarim",
+ "kategoriler": [
+  {
+   "name": "Bahçe Ekipmanları",
+   "slug": "bahce-malzemeleri",
+   "pageTitle": "Bahçe Ekipmanları",
+   "description": "Bahçe Ekipmanları",
+   "children": [
+    {
+     "name": "İlaçlama Pompaları",
+     "slug": "ilaclama-pompasi",
+     "pageTitle": "İlaçlama Pompaları",
+     "description": "İlaçlama pompaları",
+     "children": [
+      {
+       "name": "Manuel İlaçlama Pompaları",
+       "slug": "manuel-ilaclama-pompasi",
+       "pageTitle": "Manuel İlaçlama Pompaları",
+       "description": "Manuel ilaçlama pompaları"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "Guno Mac 2 Lt Basınçlı Sprey Pompa GNM-P01",
+   "marka": "Guno",
+   "sku": "GNM-P01",
+   "kategoriler": [
+    "Manuel İlaçlama Pompaları"
+   ],
+   "fiyat": 549,
+   "etiketler": [
+    "kdv_10"
+   ],
+   "gorseller": [],
+   "stok": 25,
+   "stoksuzSat": false,
+   "metaData": {
+    "slug": "guno-mac-2-lt-basincli-sprey-pompa-gnm-p01",
+    "pageTitle": "Guno Mac 2 Lt Basınçlı Sprey Pompa GNM-P01 | Tarım Dünyası",
+    "description": "Guno Mac 2 litre el pompalı basınçlı sprey pompa (GNM-P01): yaprak gübresi ve bitki karışımlarını balkon, sera ve küçük bahçede püskürtmek için."
+   },
+   "aciklama": "<p>Guno Mac 2 Lt Basınçlı Sprey Pompa (GNM-P01), 2 litre hazneli, el pompasıyla basınç oluşturan bir sprey pompasıdır. Üst kısımdaki pompa koluyla hazne basınçlandırılır, tutma kolundaki tetikle püskürtme yapılır; elektrik ya da pil gerektirmez.</p>\n<h2>Öne Çıkanlar</h2>\n<ul>\n<li><strong>2 litre hazne:</strong> Balkon, saksı, sera ve küçük bahçe uygulamaları için taşınması kolay hacim.</li>\n<li><strong>El pompalı basınç:</strong> Pompa koluyla basınç verilir, tetikle püskürtülür.</li>\n<li><strong>Püskürtme ucu:</strong> Sıvıyı ince damlacıklar halinde dağıtır.</li>\n<li><strong>Marka ve model:</strong> Guno, GNM-P01.</li>\n</ul>\n<h2>Nerede Kullanılır?</h2>\n<p>Yaprak gübresi, sulu bitki besini ve bitki koruma karışımlarının yapraklara uygulanmasında; ayrıca temizlik amaçlı sulu karışımların püskürtülmesinde kullanılabilir. Kullanacağınız ürünün etiketindeki karışım oranını ve güvenlik uyarılarını izleyin; hazneyi kapasitesinin üzerinde doldurmayın.</p>\n<h2>Kullanım İpuçları</h2>\n<ol>\n<li>Haznenin yaklaşık üçte ikisine kadar sıvı doldurun; hava payı bırakın.</li>\n<li>Kapağı kapatıp pompa koluyla basınç verin.</li>\n<li>Püskürtmeyi sabah erken ya da akşam serinliğinde yapın; güçlü güneşte yaprak yanabilir.</li>\n<li>İşiniz bitince kalan sıvıyı boşaltıp haznenin içini temiz suyla çalkalayın.</li>\n</ol>\n<h2>Ürün Bilgisi</h2>\n<ul>\n<li><strong>Marka:</strong> Guno</li>\n<li><strong>Model / stok kodu:</strong> GNM-P01</li>\n<li><strong>Kapasite:</strong> 2 litre</li>\n<li><strong>Tür:</strong> Manuel (el pompalı) basınçlı sprey pompası</li>\n</ul>"
+  }
+ ]
+}
