@@ -1,47 +1,1069 @@
 [
- [
-  "saksi-topraginda-beyaz-kuf-zararli-mi-nasil-temizlenir",
-  [
-   "white mold on potting soil",
-   "fungus on houseplant soil",
-   "mold on plant pot soil",
-   "saprophytic fungus potting mix"
-  ]
- ],
- [
-  "ev-bitkisinde-kahverengi-yaprak-uclari-nem-su-kalitesi-ve-gubre-nedenleri",
-  [
-   "brown leaf tips houseplant",
-   "spider plant brown tips",
-   "houseplant leaf tip burn",
-   "dracaena brown leaf tips"
-  ]
- ],
- [
-  "cim-gubresi-nasil-secilir-yavas-salinimli-ve-hizli-etkili-fark",
-  [
-   "lawn fertilizer spreader",
-   "fertilizer granules lawn",
-   "green lawn grass",
-   "slow release fertilizer granules"
-  ]
- ],
- [
-  "bahce-gunlugu-nasil-tutulur-ekim-hasat-ve-sorun-kaydi",
-  [
-   "garden journal notebook",
-   "garden notebook planting",
-   "gardener writing notes",
-   "garden planner notebook"
-  ]
- ],
- [
-  "bahcede-kus-korkulugu-cd-bant-ve-ag-hangisi-ise-yarar",
-  [
-   "scarecrow garden",
-   "bird netting garden",
-   "reflective tape bird scare",
-   "bird deterrent vegetable garden"
-  ]
- ]
+[
+"saksi-topraginda-beyaz-kuf-zararli-mi-nasil-temizlenir",
+[
+"Leucocoprinus birnbaumii",
+"Leucocoprinus houseplant",
+"fungus potting soil",
+"mold soil"
+]
+],
+[
+"ev-bitkisinde-kahverengi-yaprak-uclari-nem-su-kalitesi-ve-gubre-nedenleri",
+[
+"Chlorophytum comosum",
+"Dracaena fragrans",
+"leaf scorch",
+"Spathiphyllum wallisii"
+]
+],
+[
+"bahce-gunlugu-nasil-tutulur-ekim-hasat-ve-sorun-kaydi",
+[
+"garden diary",
+"gardener notebook pencil",
+"seed packets notebook",
+"plant labels garden"
+]
+],
+[
+"patlican-hasat-zamani-parlaklik-sertlik-ve-tohum-belirtisiyle-olgunluk",
+[
+"eggplant harvest",
+"ripe eggplant plant",
+"aubergine garden"
+]
+],
+[
+"balkondaki-ev-bitkisi-yaz-gunesi-hangi-bitki-disarida-yanar",
+[
+"houseplants on balcony summer",
+"houseplant sunburn",
+"plants balcony sun"
+]
+],
+[
+"lavanta-hasadi-cicek-sapi-kesimi-kurutma-ve-hasat-sonrasi-budama",
+[
+"lavender harvest",
+"cutting lavender",
+"lavender bundles drying"
+]
+],
+[
+"cimde-kuru-kahverengi-alanlar-sulama-mi-bocek-mi-yakici-sicak-mi",
+[
+"brown patches lawn",
+"dry lawn summer",
+"lawn drought"
+]
+],
+[
+"yaz-gubreleme-programi-sicakta-hangi-bitkiye-ne-kadar-verilir",
+[
+"fertilizing vegetables summer",
+"liquid fertilizer garden",
+"feeding plants"
+]
+],
+[
+"temmuz-ayinda-bahcede-yapilacaklar-haftalik-is-listesi",
+[
+"july garden",
+"garden summer work",
+"gardener july"
+]
+],
+[
+"toprak-solarizasyonu-yaz-gunesiyle-yatak-temizleme-adimlari",
+[
+"soil solarization plastic",
+"clear plastic soil",
+"solarizing garden bed"
+]
+],
+[
+"ciftci-icin-yaz-sicagi-is-saatleri-sicak-carpmasi-ve-su-molasi",
+[
+"farmer heat field",
+"farm worker hat sun",
+"farm field summer"
+]
+],
+[
+"biber-hasadi-yesil-mi-kirmizi-mi-toplanmali-dal-nasil-korunur",
+[
+"pepper harvest garden",
+"red and green peppers plant",
+"picking bell peppers"
+]
+],
+[
+"ev-bitkisinde-fungus-sinegi-toprak-nemi-sari-tuzak-ve-alt-sulama",
+[
+"fungus gnats houseplant",
+"yellow sticky trap plant",
+"gnats potting soil"
+]
+],
+[
+"temmuz-ayi-hasat-takvimi-bu-ay-neler-toplanir",
+[
+"summer harvest basket",
+"vegetable harvest basket",
+"harvest garden vegetables"
+]
+],
+[
+"dahlia-yetistirme-yumru-dikimi-destek-ve-cicek-kesimi",
+[
+"dahlia flowers garden",
+"dahlia tubers",
+"dahlia bloom"
+]
+],
+[
+"cimde-kirmizi-iplik-hastaligi-pembe-lekeler-ve-azot-eksikligi",
+[
+"red thread lawn disease",
+"lawn pink patches",
+"lawn disease"
+]
+],
+[
+"gubre-yanigi-belirtileri-kenar-kurumasi-beyaz-tuz-ve-kurtarma-adimlari",
+[
+"fertilizer burn plant",
+"burnt leaf edges",
+"over fertilized plant"
+]
+],
+[
+"toprak-nemini-korumak-malc-organik-madde-ve-golge-karsilastirmasi",
+[
+"mulching soil moisture",
+"mulched garden bed",
+"moist soil garden"
+]
+],
+[
+"tarlada-yangin-onlemi-aniz-bicerdover-ve-kuru-ot-riski",
+[
+"field fire dry stubble",
+"wheat stubble field",
+"dry field summer"
+]
+],
+[
+"salatalik-hasat-zamani-boy-renk-ve-acilik-riski",
+[
+"cucumber harvest",
+"cucumbers on vine",
+"picking cucumber garden"
+]
+],
+[
+"potos-yaz-bakimi-sarkan-dallar-sulama-araligi-ve-kesim",
+[
+"pothos plant",
+"pothos trailing vines",
+"golden pothos care"
+]
+],
+[
+"krizantem-yaz-bakimi-sikistirma-kesimi-ve-sonbahar-ciceklenmesi",
+[
+"chrysanthemum garden",
+"chrysanthemum plant",
+"mums pinching"
+]
+],
+[
+"cimde-ot-kontrolu-yazin-elle-cekme-bicim-ve-siklastirma",
+[
+"lawn weeds",
+"weeds in lawn",
+"pulling weeds lawn"
+]
+],
+[
+"meyve-agaclarinda-yaz-gubresi-hangi-agac-hangi-donem-ne-kadar",
+[
+"fertilizing fruit trees",
+"fruit tree garden summer",
+"orchard fertilizer"
+]
+],
+[
+"toprak-canliligi-solucan-mantar-ve-bakteri-dengesini-gozlemek",
+[
+"earthworm soil",
+"healthy soil handful",
+"soil life"
+]
+],
+[
+"hasatta-isci-sagligi-sicak-su-golge-ve-ilk-yardim",
+[
+"harvest workers field",
+"farm workers water break",
+"harvest crew"
+]
+],
+[
+"incir-hasadi-meyve-rengi-sap-sutu-ve-dalda-olgunluk",
+[
+"fig harvest",
+"ripe figs on tree",
+"fig tree fruit"
+]
+],
+[
+"kaucuk-bitkisi-yaz-bakimi-yaprak-silme-isik-ve-su-araligi",
+[
+"rubber plant",
+"ficus elastica leaves",
+"rubber tree houseplant"
+]
+],
+[
+"ciceklerde-yaz-celigi-sardunya-begonya-ve-petunya-cogaltma",
+[
+"geranium cuttings",
+"taking cuttings flowers",
+"rooting cuttings water"
+]
+],
+[
+"bahcede-golgelik-yapimi-golge-bezi-pergola-ve-sarmasik",
+[
+"garden shade structure",
+"pergola garden shade",
+"shade sail garden"
+]
+],
+[
+"domates-icin-potasyum-meyve-kalitesi-ve-gubre-zamani",
+[
+"tomato fruit ripening",
+"tomatoes red vine",
+"tomato plant garden"
+]
+],
+[
+"kum-kil-ve-tinli-toprakta-yaz-sulamasi-hangi-toprak-ne-kadar-tutar",
+[
+"soil types sand clay loam",
+"clay soil cracked",
+"sandy soil"
+]
+],
+[
+"seftali-hasat-zamani-zemin-rengi-ve-hafif-basinc-testi",
+[
+"peach harvest",
+"ripe peaches tree",
+"peach orchard fruit"
+]
+],
+[
+"orkide-yaz-bakimi-sicakta-sulama-golge-ve-hava-akimi",
+[
+"orchid summer",
+"phalaenopsis orchid",
+"orchid window light"
+]
+],
+[
+"cicek-kurutma-havada-presle-ve-silika-ile-hangi-yontem",
+[
+"drying flowers",
+"dried flower bouquet",
+"flowers drying hanging"
+]
+],
+[
+"bahce-hortumu-bakimi-sizinti-kivrilma-ve-guneste-dayaniklilik",
+[
+"garden hose",
+"coiled garden hose",
+"hose reel garden"
+]
+],
+[
+"organik-malc-gubre-etkisi-cururken-topraga-ne-katar",
+[
+"organic mulch garden",
+"straw mulch vegetables",
+"wood chip mulch"
+]
+],
+[
+"toprak-testi-ev-yontemi-kavanoz-testi-ile-kum-silt-ve-kil-orani",
+[
+"soil jar test",
+"soil texture test",
+"soil in jar layers"
+]
+],
+[
+"bogurtlen-hasadi-parlaklik-kaybi-ve-dalda-kalma-suresi",
+[
+"blackberry harvest",
+"ripe blackberries bush",
+"picking blackberries"
+]
+],
+[
+"ev-bitkisinde-yaprak-parlatma-silmek-mi-parlatici-mi",
+[
+"wiping houseplant leaves",
+"cleaning plant leaves cloth",
+"glossy leaves houseplant"
+]
+],
+[
+"bahceden-kesme-cicek-kesim-saati-su-ve-vazo-omru",
+[
+"cut flower garden",
+"cutting flowers vase",
+"flower bucket harvest"
+]
+],
+[
+"bahce-aydinlatma-yaz-aksamlari-sicak-isik-hasere-ve-guvenli-kablo",
+[
+"garden lights evening",
+"string lights garden",
+"outdoor garden lighting"
+]
+],
+[
+"bitkilerde-kalsiyum-eksikligi-uc-yanigi-meyve-curugu-ve-su-iliskisi",
+[
+"blossom end rot",
+"calcium deficiency tomato",
+"tomato bottom rot"
+]
+],
+[
+"sikismis-toprak-yaz-sonunda-havalandirma-ve-organik-madde-ekleme",
+[
+"compacted soil",
+"hard soil garden",
+"aerating garden soil"
+]
+],
+[
+"visne-hasadi-renk-sap-ayrilmasi-ve-dalda-curume-riski",
+[
+"sour cherry harvest",
+"sour cherries tree",
+"picking cherries"
+]
+],
+[
+"ev-bitkisi-saksi-degisimi-yazin-yapilir-mi-sicakta-kok-stresi",
+[
+"repotting houseplant",
+"plant repotting roots",
+"repotting pot soil"
+]
+],
+[
+"gul-budama-yazin-solan-cicegi-almak-ve-yaz-kesiminin-siniri",
+[
+"deadheading roses",
+"rose bush summer",
+"roses garden"
+]
+],
+[
+"bahcede-sivrisinek-durgun-su-bitki-secimi-ve-fan-etkisi",
+[
+"mosquito garden",
+"standing water mosquito",
+"mosquito larvae water"
+]
+],
+[
+"toprak-ortucu-bitkiler-yaz-sicaginda-ciplak-topragi-korumak",
+[
+"ground cover plants",
+"ground cover garden",
+"creeping thyme ground cover"
+]
+],
+[
+"elma-meyve-seyreltme-temmuz-dokumu-sonrasi-kac-meyve-birakilir",
+[
+"apple thinning fruit",
+"young apples on branch",
+"apple tree fruit set"
+]
+],
+[
+"sukulent-yavru-ayirma-anne-bitkiden-ayirma-ve-koklendirme-adimlari",
+[
+"succulent offsets propagation",
+"succulent pups separating",
+"succulent babies"
+]
+],
+[
+"petunya-hastaliklari-gri-kuf-yaprak-lekesi-ve-cicek-curumesi",
+[
+"petunia flowers",
+"petunia disease",
+"petunia garden"
+]
+],
+[
+"bahcede-ari-guvenligi-cicek-secimi-su-kabi-ve-sokma-onlemi",
+[
+"bees garden flowers",
+"honeybee flower",
+"bee water dish"
+]
+],
+[
+"yesil-gubre-bitkileri-bos-yataga-yaz-sonunda-ne-ekilir",
+[
+"cover crop green manure",
+"clover cover crop",
+"buckwheat cover crop"
+]
+],
+[
+"uzumde-ben-dusme-renk-degisimi-su-ve-yaprak-dengesi",
+[
+"grape veraison",
+"grapes ripening vineyard",
+"grape cluster color change"
+]
+],
+[
+"ic-mekan-bitkileri-icin-nem-artirma-tepsi-gruplama-ve-nemolcer",
+[
+"humidity houseplants pebble tray",
+"plant humidifier",
+"houseplants grouped humidity"
+]
+],
+[
+"ortancada-renk-degisimi-ph-aluminyum-ve-mavi-pembe-farki",
+[
+"blue hydrangea",
+"pink hydrangea",
+"hydrangea color"
+]
+],
+[
+"bahcede-yaban-arisi-yuvasi-ne-zaman-mudahale-edilir-ne-zaman-beklenir",
+[
+"wasp nest garden",
+"paper wasp nest",
+"wasps garden"
+]
+],
+[
+"saksi-topragi-yeniden-kullanimi-eski-toprak-ne-zaman-atilir",
+[
+"reusing potting soil",
+"potting soil bag",
+"old potting soil"
+]
+],
+[
+"biberde-meyve-tutmama-sicak-gece-cicek-dokumu-ve-su-stresi",
+[
+"pepper flower drop",
+"pepper plant blossoms",
+"pepper plant heat stress"
+]
+],
+[
+"ev-bitkisi-yaprak-sararmasi-yazin-isik-su-ve-besin-ayrimi",
+[
+"yellow leaves houseplant",
+"yellowing leaves indoor plant",
+"houseplant yellow leaf"
+]
+],
+[
+"cicek-sogani-yaz-dinlenmesi-lale-ve-nergis-sogani-nasil-saklanir",
+[
+"tulip bulbs storage",
+"flower bulbs",
+"bulbs dried"
+]
+],
+[
+"bahce-yagmur-suyu-depolama-varil-kapak-ve-sivrisinek-onlemi",
+[
+"rain barrel",
+"rainwater harvesting garden",
+"rain barrel downspout"
+]
+],
+[
+"kompost-eleme-elek-boyutu-olgunluk-testi-ve-kullanim",
+[
+"sifting compost",
+"finished compost",
+"compost sieve"
+]
+],
+[
+"salatalikta-mildiyo-yaprak-alti-kufu-sari-lekeler-ve-nem",
+[
+"cucumber downy mildew",
+"cucumber leaf disease",
+"yellow spots cucumber leaf"
+]
+],
+[
+"ev-bitkisi-isyerinde-neonda-ve-klimada-yasayan-bitkiler",
+[
+"office plants desk",
+"plants in office",
+"desk plant fluorescent light"
+]
+],
+[
+"solan-cicek-kesimi-hangi-cicekte-ne-zaman-nereden-kesilir",
+[
+"deadheading flowers",
+"cutting spent blooms",
+"deadheading petunia"
+]
+],
+[
+"bahcede-gri-su-kullanimi-hangi-su-hangi-bitki-hangi-sinir",
+[
+"greywater garden",
+"watering garden recycled water",
+"graywater irrigation"
+]
+],
+[
+"organik-madde-artirma-kompost-yesil-gubre-ve-malc-karsilastirmasi",
+[
+"compost spreading garden",
+"adding compost soil",
+"organic matter soil"
+]
+],
+[
+"tarla-faresi-bahcede-tunel-izleri-kok-hasari-ve-onlem",
+[
+"vole damage garden",
+"field mouse garden",
+"rodent tunnel lawn"
+]
+],
+[
+"ofis-bitkisi-tatil-bakimi-hafta-sonu-ve-iki-hafta-plani",
+[
+"office plant watering",
+"plants office desk watering",
+"watering can office plant"
+]
+],
+[
+"bahce-atigi-kompostlama-yazin-nem-kokuya-karsi-kahverengi-malzeme",
+[
+"compost pile summer",
+"garden compost bin",
+"compost green brown"
+]
+],
+[
+"sebze-bahcesinde-sicak-stresi-hangi-belirti-ne-anlatir",
+[
+"heat stressed vegetable plants",
+"wilting vegetables heat",
+"vegetable garden summer heat"
+]
+],
+[
+"tropikal-ev-bitkisi-yaz-yagmuru-disari-alip-yagmurda-birakmak",
+[
+"houseplants in rain",
+"plants outside rain summer",
+"tropical plant rain"
+]
+],
+[
+"bahce-tatilden-donus-ilk-gun-yapilacaklar-ve-kurtarma-sirasi",
+[
+"overgrown garden",
+"garden after vacation",
+"wilted plants watering"
+]
+],
+[
+"kavun-hasadi-sap-catlagi-koku-ve-kabuk-rengi",
+[
+"melon harvest",
+"ripe cantaloupe garden",
+"melon on vine"
+]
+],
+[
+"saksida-beyaz-tuz-tabakasi-kirec-gubre-tuzu-ve-yikama",
+[
+"white crust on pot",
+"mineral salt buildup terracotta",
+"white deposit plant pot"
+]
+],
+[
+"bahcede-tatil-oncesi-hazirlik-sulama-malc-ve-komsu-plani",
+[
+"watering garden before holiday",
+"mulching garden",
+"drip irrigation timer"
+]
+],
+[
+"bamya-hasat-zamani-meyve-boyu-sertlesme-ve-gunluk-toplama",
+[
+"okra harvest",
+"okra pods plant",
+"picking okra"
+]
+],
+[
+"ev-bitkisinde-ani-yaprak-dokumu-tasima-isik-ve-su-soku",
+[
+"houseplant leaf drop",
+"dropping leaves indoor plant",
+"ficus leaves falling"
+]
+],
+[
+"bahce-icin-yaz-is-takvimi-sabah-ve-aksam-saatlerine-gore-gorevler",
+[
+"gardener morning watering",
+"gardening summer morning",
+"gardener watering evening"
+]
+],
+[
+"fasulye-kurutma-taze-fasulyeyi-kis-icin-hazirlamak",
+[
+"drying green beans",
+"dried beans harvest",
+"string beans drying"
+]
+],
+[
+"monstera-yaprak-delikleri-isik-yas-ve-cesit-farki",
+[
+"monstera leaf holes",
+"monstera deliciosa leaves",
+"monstera fenestration"
+]
+],
+[
+"sulamada-islak-yaprak-aksam-sulamasi-hastalik-riskini-ne-kadar-artirir",
+[
+"watering leaves wet",
+"sprinkler on plants",
+"watering plants evening"
+]
+],
+[
+"domates-kurutma-guneste-firinda-ve-kurutucuda-sure-ve-saklama",
+[
+"sun dried tomatoes",
+"drying tomatoes",
+"dehydrated tomatoes"
+]
+],
+[
+"terakota-saksida-sukulent-su-cekme-ve-kok-curumesi-iliskisi",
+[
+"succulents terracotta pot",
+"terracotta pot",
+"succulent pot"
+]
+],
+[
+"bahce-suyu-tasarrufu-malc-damla-ve-zamanlama-ile-yuzde-kac-fark",
+[
+"water saving garden",
+"mulch garden water",
+"drip irrigation garden"
+]
+],
+[
+"biber-kurutma-ip-firin-ve-kurutucu-yontemlerinin-farki",
+[
+"drying peppers string",
+"dried red peppers",
+"chili peppers drying"
+]
+],
+[
+"sulama-programi-yaz-toprak-turune-gore-haftalik-plan",
+[
+"garden watering schedule",
+"watering vegetable garden",
+"garden irrigation summer"
+]
+],
+[
+"tursu-icin-salatalik-hangi-cesit-hangi-boy-ve-ne-zaman-toplanir",
+[
+"pickling cucumbers",
+"pickles jar cucumbers",
+"small cucumbers harvest"
+]
+],
+[
+"saksi-bitkisi-sulama-sikligi-yazin-saksi-boyu-ve-malzemesine-gore-degisir",
+[
+"watering potted plants",
+"container plants watering",
+"pots on terrace"
+]
+],
+[
+"yaz-sonu-hasat-sonrasi-yatak-bosalan-alani-hemen-nasil-kullanirsiniz",
+[
+"empty garden bed",
+"cleaning garden bed",
+"garden bed compost"
+]
+],
+[
+"balkonda-yaz-sebzesi-bakimi-sulama-golge-ve-hasat-duzeni",
+[
+"balcony vegetable garden",
+"tomatoes balcony pots",
+"balcony garden summer"
+]
+],
+[
+"domates-tohumu-kurutma-fermantasyon-sonrasi-kagit-tabak-ve-saklama",
+[
+"tomato seeds drying",
+"tomato seeds",
+"seed saving tomato"
+]
+],
+[
+"balkon-golge-secenekleri-tente-perde-ve-sarmasikla-serinlik",
+[
+"balcony shade awning",
+"balcony sun shade",
+"balcony plants shade"
+]
+],
+[
+"sebze-fidesi-yeniden-dikim-yaz-sicaginda-fide-hasar-gorurse",
+[
+"transplanting seedlings",
+"vegetable seedlings garden",
+"replanting seedlings"
+]
+],
+[
+"balkon-zemin-isinmasi-saksi-alti-yalitim-ve-yukseltme",
+[
+"hot balcony floor pots",
+"pots on concrete balcony",
+"balcony pot stand"
+]
+],
+[
+"nane-hasadi-ve-kurutma-kesim-zamani-kurutma-suresi-ve-saklama",
+[
+"mint harvest",
+"drying mint",
+"mint leaves bunch"
+]
+],
+[
+"balkonda-yagmur-sonrasi-saksi-su-tabagi-drenaj-ve-kok-curumesi",
+[
+"balcony plants rain",
+"wet pots balcony",
+"rain on balcony plants"
+]
+],
+[
+"kekik-hasadi-ciceklenme-oncesi-kesim-ve-golgede-kurutma",
+[
+"thyme harvest",
+"drying thyme",
+"thyme plant"
+]
+],
+[
+"teras-bahce-duzeni-ruzg-r-gunes-ve-agirlik-hesabi",
+[
+"terrace garden",
+"rooftop terrace plants",
+"terrace containers"
+]
+],
+[
+"feslegen-hasadi-cicek-tomurcugu-alma-ve-yaprak-saklama",
+[
+"basil harvest",
+"basil pinching",
+"basil leaves garden"
+]
+],
+[
+"emekli-bahce-rutini-gunluk-30-dakikalik-bakim-plani",
+[
+"senior gardening",
+"elderly gardener",
+"older woman gardening"
+]
+],
+[
+"kabak-cicegi-toplama-erkek-cicek-dolma-ve-meyve-tutumu",
+[
+"squash blossoms",
+"zucchini flowers",
+"pumpkin flower"
+]
+],
+[
+"kiraci-icin-tasinabilir-bahce-tasinirken-yatagi-ve-saksiyi-nasil-goturursunuz",
+[
+"portable garden pots",
+"container garden movable",
+"wheeled planter"
+]
+],
+[
+"hiyar-aciligi-sicak-su-stresi-ve-kabuk-tadi",
+[
+"cucumber bitter",
+"cucumbers garden",
+"cucumber plant"
+]
+],
+[
+"bahce-kulesi-sezon-ortasi-genisletme-kat-ilavesi-ne-zaman-anlamli",
+[
+"vertical garden tower",
+"tower garden vegetables",
+"vertical planter stack"
+]
+],
+[
+"seftalide-meyve-curumesi-monilya-belirtisi-ve-hasat-hijyeni",
+[
+"brown rot peach",
+"peach rot",
+"rotting peaches"
+]
+],
+[
+"bahce-kulesini-golgeye-tasimak-tekerlek-seti-ile-sicak-gun-plani",
+[
+"vertical tower garden shade",
+"wheeled planter tower",
+"garden tower summer"
+]
+],
+[
+"kirazda-meyve-sinegi-kurtlu-meyve-tuzak-ve-hasat-hijyeni",
+[
+"cherry fruit fly",
+"cherry harvest",
+"cherries tree"
+]
+],
+[
+"bahce-kulesi-sulama-dengesi-ust-kat-kuru-alt-kat-islak-kaliyorsa",
+[
+"vertical planter watering",
+"tower garden lettuce",
+"vertical garden irrigation"
+]
+],
+[
+"serada-yaz-sicagi-golge-boyasi-havalandirma-ve-sulama-dengesi",
+[
+"greenhouse summer shade",
+"greenhouse ventilation",
+"greenhouse tomatoes"
+]
+],
+[
+"yukseltilmis-yatakta-sicak-kenar-isinmasi-malc-ve-golge-bezi",
+[
+"raised bed summer",
+"raised garden bed mulch",
+"raised bed shade cloth"
+]
+],
+[
+"tarla-domatesi-hasat-organizasyonu-kasa-golge-ve-soguk-zincir",
+[
+"tomato harvest field crates",
+"tomato field workers",
+"tomato harvest crates"
+]
+],
+[
+"tekerlekli-yatak-yaz-yer-degistirme-gunes-ve-golge-arasinda-nasil-gidilir",
+[
+"raised bed on wheels",
+"mobile planter wheels",
+"balcony raised bed"
+]
+],
+[
+"tarlada-damla-hatti-kontrolu-sezon-ortasi-basinc-tikanma-ve-kacak",
+[
+"drip line field",
+"drip irrigation field",
+"drip tape crop"
+]
+],
+[
+"kis-sebzesi-fide-plani-agustos-dikimi-icin-temmuzda-baslayin",
+[
+"cabbage seedlings",
+"broccoli seedlings",
+"kale seedlings tray"
+]
+],
+[
+"kabak-cekirdegi-kurutma-bahceden-mutfaga-yikama-kurutma-ve-kavurma",
+[
+"pumpkin seeds drying",
+"pumpkin seeds",
+"roasted pumpkin seeds"
+]
+],
+[
+"tohum-toplama-takvimi-hangi-bitkiden-ne-zaman-alinir",
+[
+"collecting seeds",
+"seed heads drying",
+"seed saving envelopes"
+]
+],
+[
+"armut-hasat-zamani-dalda-degil-hasat-sonrasi-olgunlasan-meyve",
+[
+"pear harvest",
+"pears tree",
+"ripe pears"
+]
+],
+[
+"bahce-fotograf-kaydi-sezon-boyunca-ayni-acidan-cekim",
+[
+"garden photo",
+"taking photo garden phone",
+"garden progress"
+]
+],
+[
+"elma-hasat-zamani-cekirdek-rengi-sap-ayrilmasi-ve-cesit-farki",
+[
+"apple harvest",
+"picking apples",
+"apples tree"
+]
+],
+[
+"bahce-cardaginda-asma-tasiyici-golge-ve-uzum-yetistirme",
+[
+"grape pergola",
+"grapevine arbor",
+"vine pergola"
+]
+],
+[
+"agustos-ayinda-ne-ekilir-sonbahar-ve-kis-sebzeleri-icin-plan",
+[
+"sowing seeds late summer",
+"seedlings garden bed",
+"planting autumn vegetables"
+]
+],
+[
+"domates-hasat-zamani-renk-donumu-sap-kopmasi-ve-olgunlastirma",
+[
+"picking tomatoes",
+"ripe tomatoes vine",
+"tomato harvest"
+]
+],
+[
+"bahce-yolu-zemin-secimi-cakil-tas-ve-ahsap-karsilastirmasi",
+[
+"garden path gravel",
+"stone garden path",
+"wooden garden path"
+]
+],
+[
+"ilaclama-sirt-pompasi-bakimi-conta-meme-ve-temizlik-adimlari",
+[
+"backpack sprayer",
+"garden sprayer",
+"sprayer nozzle"
+]
+],
+[
+"yagmur-sensoru-sulama-zamanlayiciyla-gereksiz-suyu-kesmek",
+[
+"rain sensor irrigation",
+"sprinkler rain",
+"irrigation controller"
+]
+],
+[
+"agustos-ayi-hasat-takvimi-bu-ay-neler-toplanir",
+[
+"august harvest",
+"vegetables harvest basket",
+"garden harvest"
+]
+],
+[
+"eylul-ayinda-ne-ekilir-kislik-sebze-ve-soganli-cicek-plani",
+[
+"sowing fall garden",
+"spinach lettuce seedlings",
+"autumn vegetable bed"
+]
+],
+[
+"agac-alti-sulama-halkasi-govdeden-uzakta-kok-bolgesini-nasil-sularsiniz",
+[
+"tree watering ring",
+"watering tree trunk",
+"tree drip ring"
+]
+],
+[
+"meyve-agaci-govde-boyasi-gunes-yanigina-karsi-beyaz-boya-gerekli-mi",
+[
+"whitewashed tree trunk",
+"tree trunk paint",
+"painted tree trunk"
+]
+],
+[
+"balkonda-baharat-saksilari-feslegen-nane-kekik-ve-maydanoz-yan-yana-olur-mu",
+[
+"herb pots balcony",
+"culinary herbs pots",
+"basil mint thyme pots"
+]
+]
 ]
