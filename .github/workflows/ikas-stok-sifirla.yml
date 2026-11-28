@@ -1,0 +1,49 @@
+name: ikas stok sıfırla
+
+# veri/stok/<ad>-hasturk.json ve <ad>-tarim.json planındaki ürünlerin stoğunu iki mağazada sıfırlar.
+# Dala push ile tetiklenince her zaman deneme (kuru) çalışır; yazma yalnız elle "uygula" ile.
+on:
+  workflow_dispatch:
+    inputs:
+      uygula:
+        description: 'Uygula (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+      ad:
+        description: 'Plan adı (veri/stok/<ad>-hasturk.json ve <ad>-tarim.json)'
+        default: 'profimod'
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/ikas-stok-sifirla.mjs', '.github/workflows/ikas-stok-sifirla.yml', 'veri/stok/**']
+
+permissions:
+  contents: read
+
+concurrency: ikas-stok-sifirla
+
+jobs:
+  sifirla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      APPLY: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.uygula == 'true' && '1' || '0' }}
+      AD: ${{ github.event.inputs.ad || 'profimod' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/ikas-stok-sifirla.mjs
+        env:
+          PLAN: veri/stok/${{ env.AD }}-hasturk.json
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası
+        run: node scripts/ikas-stok-sifirla.mjs
+        env:
+          PLAN: veri/stok/${{ env.AD }}-tarim.json
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
