@@ -1,6 +1,6 @@
 # Ziyaretçi ve satış eğilimleri
 
-Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11190 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
+Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11201 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
 
 Bu dosya saatte bir otomatik güncellenir. Puan = şimdiki talep + yükselme ivmesi + 0,6 × geçmiş yılların sezonu × bu yılki teyit. Masaüstü menüde ürün sabitlemek için `config.json > desktopMenu.picks`.
 
@@ -140,8 +140,8 @@ Bu kelimeler için ürün eklemeyi ya da `config.json > synonyms` ile eşanlaml�
 | 5 | HG Tarım Perliti | 8 | 47,1 |
 | 6 | Chrysamed Worm-Ex 5 Lt Tahta Kurdu İlacı | 7,3 | 40,6 |
 | 7 | Uzman 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | 7 | 124,4 |
-| 8 | 4'lü Sıkıştırılmış Cocopeat (Kokopit) Blok - 20 Kg (260 Litre) | 6,6 | 94,9 |
-| 9 | Limon Ağacı Toprağı - Özel Organik Karışım | 5,8 | 35,3 |
+| 8 | Limon Ağacı Toprağı - Özel Organik Karışım | 6,8 | 36,3 |
+| 9 | 4'lü Sıkıştırılmış Cocopeat (Kokopit) Blok - 20 Kg (260 Litre) | 6,6 | 94,9 |
 | 10 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | 5,6 | 67 |
 | 11 | Uzman 20 lt Sırt Pulverizatörü İlaçlama Pompası | 5,5 | 194,2 |
 | 12 | Kalın Tarım Perliti 1.0–3.0 mm (200 Litre) | 5,2 | 25,3 |
@@ -210,15 +210,15 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 
 ## Çapraz satış önerilerinin sonucu (son 30 gün)
 
-Öneri 872 kez gösterildi, 5 kez sepete eklendi (%1).
+Öneri 875 kez gösterildi, 5 kez sepete eklendi (%1).
 
 | # | Önerilen ürün | Gösterildi | Eklendi | Oran |
 |---|---|---|---|---|
 | 1 | Katı Solucan Gübresi 5 KG | 20 | 3 | %15 |
 | 2 | cocopeat-hindistan-cevizi-torfu-5-kg | 47 | 1 | %2 |
 | 3 | Sıvı Solucan Gübresi 1 Lt | 20 | 1 | %5 |
-| 4 | HG Tarım Perliti | 136 | 0 | %0 |
-| 5 | hasturk-sivi-solucan-gubresi | 121 | 0 | %0 |
+| 4 | HG Tarım Perliti | 137 | 0 | %0 |
+| 5 | hasturk-sivi-solucan-gubresi | 122 | 0 | %0 |
 | 6 | Leonardit - Organik Toprak Düzenleyici | 76 | 0 | %0 |
 | 7 | hasturk-kati-solucan-gubresi | 66 | 0 | %0 |
 | 8 | HG Vermikülit | 46 | 0 | %0 |

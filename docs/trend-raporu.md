@@ -1,6 +1,6 @@
 # Ziyaretçi ve satış eğilimleri
 
-Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11190 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
+Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11201 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
 
 Bu dosya saatte bir otomatik güncellenir. Puan = şimdiki talep + yükselme ivmesi + 0,6 × geçmiş yılların sezonu × bu yılki teyit. Masaüstü menüde ürün sabitlemek için `config.json > desktopMenu.picks`.
 
@@ -137,7 +137,7 @@ Bu kelimeler için ürün eklemeyi ya da `config.json > synonyms` ile eşanlaml�
 | 2 | Kendi Toprak Karışımını Oluştur – İstediğin Litrede (Sınırsız Sipariş) | 15,2 | 165,8 |
 | 3 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 15,2 | 259,2 |
 | 4 | HasTürk Sıvı Solucan Gübresi  | 12,9 | 40,3 |
-| 5 | Limon Ağacı Toprağı - Özel Organik Karışım  | 10,8 | 35,3 |
+| 5 | Limon Ağacı Toprağı - Özel Organik Karışım  | 11,8 | 36,3 |
 | 6 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | 10,4 | 57,4 |
 | 7 | Leonardit - Organik Toprak Düzenleyici | 8,3 | 73,1 |
 | 8 | HG Starliçe & Cennet Kuşu Toprağı | 8,2 | 23,8 |
@@ -171,7 +171,7 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 | Galvaniz Salma Kuş Kafesi 1,05 × 1,05 × 2,08 m, Kapılı (Mini) | 33,8 | 0 | %0 |
 | Arzuman Çilek Tohumu (100 Adet) | 30,8 | 0,9 | %3 |
 | Altınvadi Sırık Domates Tohumu 5 Gr | 29 | 1,1 | %4 |
-| Galvaniz Atölye Tezgahı İskeleti, Alt Raflı 250×85×80 cm | 26,3 | 0,6 | %2 |
+| Galvaniz Atölye Tezgahı İskeleti, Alt Raflı 250×85×80 cm | 27,3 | 0,6 | %2 |
 | Uzman Lityum Akülü İlaçlama Pompası 8 Lt | 26,2 | 1 | %4 |
 | Galvaniz Kutu Profil 30x30x1,2 mm – 30 cm | 24,5 | 0 | %0 |
 | Bitki Toprağı Özel Karışım - 40 LT | 24,3 | 1 | %4 |
@@ -210,15 +210,15 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 
 ## Çapraz satış önerilerinin sonucu (son 30 gün)
 
-Öneri 872 kez gösterildi, 5 kez sepete eklendi (%1).
+Öneri 875 kez gösterildi, 5 kez sepete eklendi (%1).
 
 | # | Önerilen ürün | Gösterildi | Eklendi | Oran |
 |---|---|---|---|---|
 | 1 | kati-solucan-gubresi-5-kg | 20 | 3 | %15 |
 | 2 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | 47 | 1 | %2 |
 | 3 | sivi-solucan-gubresi-1-lt | 20 | 1 | %5 |
-| 4 | HG Tarım Perliti | 136 | 0 | %0 |
-| 5 | HasTürk Sıvı Solucan Gübresi  | 121 | 0 | %0 |
+| 4 | HG Tarım Perliti | 137 | 0 | %0 |
+| 5 | HasTürk Sıvı Solucan Gübresi  | 122 | 0 | %0 |
 | 6 | Leonardit - Organik Toprak Düzenleyici | 76 | 0 | %0 |
 | 7 | HasTürk Solucan Gübresi  | 66 | 0 | %0 |
 | 8 | HG Vermikülit | 46 | 0 | %0 |
