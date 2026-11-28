@@ -1,0 +1,56 @@
+{
+ "site": "tarim",
+ "kategoriler": [
+  {
+   "name": "Bahçe Ekipmanları",
+   "slug": "bahce-ekipmanlari",
+   "pageTitle": "Bahçe Ekipmanları",
+   "description": "Bahçe ekipmanları",
+   "children": [
+    {
+     "name": "İlaçlama Pompaları",
+     "slug": "ilaclama-pompalari",
+     "pageTitle": "İlaçlama Pompaları",
+     "description": "İlaçlama pompaları",
+     "children": [
+      {
+       "name": "Akülü / Şarjlı İlaçlama Pompaları",
+       "slug": "akulu-sarjli-ilaclama-pompalari",
+       "pageTitle": "Akülü / Şarjlı İlaçlama Pompaları",
+       "description": "Akülü ve şarjlı ilaçlama pompaları"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "Uzman 2 Lt Şarjlı Püskürtücü (USR-41)",
+   "marka": "Uzman",
+   "sku": "USR-41",
+   "kategoriler": [
+    "İlaçlama Pompaları",
+    "Akülü / Şarjlı İlaçlama Pompaları"
+   ],
+   "fiyat": 1349.0,
+   "etiketler": [
+    "kdv_10"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-1.webp",
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-2.webp",
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-3.webp",
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-4.webp"
+   ],
+   "stoksuzSat": false,
+   "metaData": {
+    "slug": "uzman-2-lt-sarjli-puskurtucu-usr-41",
+    "pageTitle": "Uzman 2 Litre Şarjlı Elektrikli Püskürtücü | Tarım Dünyası",
+    "description": "Bahçe, saksı ve çiçek bakımı için 2 litrelik şarjlı püskürtücü: elle pompalama yok, ayarlanabilir nozul, şeffaf seviye şeridi, USB şarj."
+   },
+   "aciklama": "<p>Saksıdaki çiçeklerden balkon bahçesine, seradaki fidelerden evin temizliğine kadar elle pompalamadan sıvı püskürtmek isteyenler için: <strong>Uzman 2 Lt Şarjlı Püskürtücü (USR-41)</strong>. İçindeki lityum pil ve mikro pompa sıvıyı kendisi basınçlandırır; siz yalnızca tek düğmeye basarsınız.</p><h2>Hangi İşlerde Kullanılır?</h2><p>Kullanım kılavuzunda şu alanlar sayılır:</p><ul><li>Bahçe ve bitki sulama</li><li>Çiçek bakımı</li><li>Temizlik işlemleri</li><li>Böcek ilacı uygulamaları</li><li>Sıvı dozajlama ve püskürtme işlemleri</li><li>İç ve dış mekân genel kullanımı</li></ul><p>Cihazın 2 litrelik tankı küçük ve orta ölçekli işler içindir. Daha geniş alanlar için Uzman markasının 5, 8 ve 16 litrelik akülü modelleri de mağazamızda bulunur.</p><h2>Kullanışlı Yanları</h2><ul><li><strong>Elle pompalama yok:</strong> Güç düğmesine basınca püskürtme başlar; tekrar basınca durur.</li><li><strong>İki püskürtme şekli:</strong> Başlığı çevirerek ince sis (sisleme) ya da doğrudan püskürtme seçersiniz.</li><li><strong>Dolu mu, boş mu belli:</strong> Şişenin yanındaki şeffaf şeritte 0,5 – 2,0 litre ölçeği vardır.</li><li><strong>Pil durumunu gösterir:</strong> HD LCD ekran pil seviyesini gösterir.</li><li><strong>Kolay doldurma ve yıkama:</strong> Geniş su doldurma ağzı vardır.</li><li><strong>USB ile şarj:</strong> USB kablosu ya da USB adaptörle şarj edilir; şarj kablosu cihazın bileşenleri arasında sayılır.</li></ul><h2>Kullanım Adımları</h2><p>Kılavuzdaki sıraya göre:</p><ol><li>Şişeyi saat yönünün tersine çevirip açın ve sıvıyı doldurun; sıvı seviyesi maksimum dolum çizgisini geçmesin.</li><li>Üst gövdeyi yerine takıp sıkıca kapatın, böylece sızdırmaz.</li><li>Güç düğmesine basarak cihazı çalıştırın.</li><li>Başlığı çevirerek sisleme ya da doğrudan püskürtme açısını ayarlayın.</li><li>Bitince güç düğmesine tekrar basın.</li><li>Özel kimyasal ya da ilaç kullandıysanız şişeyi ve püskürtme sistemini temiz suyla çalkalayın.</li></ol><h2>Şarj ve Pil</h2><p>Tam şarj yaklaşık 3 – 4 saat sürer ve tam şarjla yaklaşık 2 – 3 saat çalışma sağlar. Kılavuz, en iyi performans için 5 V / 1000 mA standart bir adaptör kullanmanızı önerir. Pil seviyesi çok düşerse koruma devresi cihazı durdurur; bu durumda şarj etmeniz gerekir. Uzun süre kullanmayacaksanız pil sağlığı için 2 – 3 ayda bir şarj etmenizi öneririz.</p><h2>Kutu ve Ürün Bilgisi</h2><table><tbody><tr><th>Stok kodu</th><td>USR-41</td></tr><tr><th>Ürün kodu</th><td>YL-1001-2</td></tr><tr><th>Tank</th><td>2 litre</td></tr><tr><th>Pil</th><td>Lityum, 3,7 V (ürün etiketinde)</td></tr><tr><th>Şarj girişi</th><td>USB</td></tr><tr><th>Gösterge</th><td>HD LCD pil göstergesi</td></tr><tr><th>Püskürtme</th><td>Sisleme / doğrudan püskürtme (ayarlanabilir nozul)</td></tr><tr><th>Belge</th><td>Etiketinde CE işareti</td></tr></tbody></table><h2>Kullanırken Dikkat</h2><ul><li>Sökmeyin, üzerinde değişiklik yapmayın; üretici onayı olmadan müdahale yasaktır.</li><li>Aşındırıcı, yoğun kıvamlı ya da cihaza uygun olmayan sıvıları doldurmayın.</li><li>Çocukların kullanmasına izin vermeyin.</li><li>Elektronik aksama su temas ettirmeyin; nemli ya da aşırı ıslak yerde bırakmayın.</li><li>Şarjda yalnızca uygun USB güç kaynakları kullanın.</li><li>Düşürmeyin, darbelerden koruyun.</li></ul><p>Bitki koruma ürünü kullanacaksanız ürünün kendi etiket talimatına uyun; bu cihaz yalnızca uygulama aracıdır.</p><h2>Sık Sorulan Sorular</h2><h3>Elektrikli püskürtücü ile elle pompalanan püskürtücü arasında ne fark var?</h3><p>Bu cihazda içindeki mikro pompa basıncı kendisi oluşturur; güç düğmesine basmanız yeterlidir, elle pompalamanız gerekmez.</p><h3>Püskürtme açısı değiştirilebilir mi?</h3><p>Evet. Püskürtme başlığını çevirerek sisleme (mist) ya da doğrudan püskürtme (direct injection) seçebilirsiniz.</p><h3>Şişeyi tamamen doldurabilir miyim?</h3><p>Sıvı seviyesinin şişe üzerindeki maksimum dolum çizgisini aşmaması gerekir.</p><h3>Kullandıktan sonra ne yapmalıyım?</h3><p>İlaç ya da özel kimyasal kullandıysanız şişeyi ve püskürtme sistemini temiz suyla durulayın.</p><h3>Pil ne zaman şarj edilmeli?</h3><p>LCD ekrandan pil seviyesini izleyin; düşük seviyede cihaz kendini korumaya alıp durur. Uzun süre kullanmayacaksanız 2 – 3 ayda bir şarj önerilir.</p><p>Sorularınız için müşteri hizmetlerimize (+90 553 727 2929) ulaşabilirsiniz.</p>",
+   "stok": 50
+  }
+ ]
+}

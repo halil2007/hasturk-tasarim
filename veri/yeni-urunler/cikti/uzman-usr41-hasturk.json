@@ -1,0 +1,56 @@
+{
+ "site": "hasturk",
+ "kategoriler": [
+  {
+   "name": "Bahçe Ekipmanları",
+   "slug": "bahce-ekipmanlari",
+   "pageTitle": "Bahçe Ekipmanları",
+   "description": "Bahçe ekipmanları",
+   "children": [
+    {
+     "name": "İlaçlama Pompaları",
+     "slug": "ilaclama-pompalari",
+     "pageTitle": "İlaçlama Pompaları",
+     "description": "İlaçlama pompaları",
+     "children": [
+      {
+       "name": "Akülü / Şarjlı İlaçlama Pompaları",
+       "slug": "akulu-sarjli-ilaclama-pompalari",
+       "pageTitle": "Akülü / Şarjlı İlaçlama Pompaları",
+       "description": "Akülü ve şarjlı ilaçlama pompaları"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "urunler": [
+  {
+   "ad": "Uzman 2 Lt Şarjlı Püskürtücü (USR-41)",
+   "marka": "Uzman",
+   "sku": "USR-41",
+   "kategoriler": [
+    "İlaçlama Pompaları",
+    "Akülü / Şarjlı İlaçlama Pompaları"
+   ],
+   "fiyat": 1349.0,
+   "etiketler": [
+    "kdv_10"
+   ],
+   "gorseller": [
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-1.webp",
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-2.webp",
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-3.webp",
+    "https://hasturk-arama.halilc2007.workers.dev/gorsel/uzman-2l-sarjli-puskurtucu-4.webp"
+   ],
+   "stoksuzSat": false,
+   "metaData": {
+    "slug": "uzman-2-lt-sarjli-puskurtucu-usr-41",
+    "pageTitle": "Uzman 2 Lt Şarjlı Püskürtücü USR-41 | HasTürk Gübre",
+    "description": "Uzman 2 Lt şarjlı püskürtücü (USR-41): tek tuşla çalışır, USB ile şarj edilir, LCD pil göstergesi var; sisleme ve doğrudan püskürtme ayarlı."
+   },
+   "aciklama": "<p><strong>Uzman 2 Lt Şarjlı Püskürtücü (USR-41)</strong>, lityum pille çalışan, dahili mikro pompalı 2 litrelik bir elektrikli püskürtücüdür. Güç düğmesine bir kez basmanız yeterlidir: pompa sıvıyı basınçlandırır ve püskürtme başlığından ince sis ya da doğrudan püskürtme olarak verir. Elle pompalama yoktur.</p><h2>Öne Çıkan Özellikler</h2><ul><li><strong>Tek tuşla çalıştırma:</strong> Güç düğmesiyle açılır, aynı düğmeyle kapanır.</li><li><strong>Yüksek hızlı motor:</strong> Kararlı çalışma basıncıyla sıvıyı homojen biçimde atomize eder.</li><li><strong>HD LCD pil göstergesi:</strong> Pil seviyesini ekrandan izleyebilirsiniz; şarj sırasında da seviye ekranda görünür.</li><li><strong>USB şarj girişi:</strong> Cihazla birlikte USB şarj kablosu gelir; şarj için USB kablosu ya da USB şarj adaptörü kullanılabilir.</li><li><strong>Geniş su doldurma ağzı:</strong> Şişeyi doldurmak ve sonrasında yıkamak kolaydır.</li><li><strong>Şeffaf su seviye göstergesi:</strong> Şişenin yanındaki şeffaf şerit ve 0,5 – 2,0 litre ölçeği, ne kadar sıvı kaldığını gösterir.</li><li><strong>Ayarlanabilir püskürtme deseni:</strong> Püskürtme başlığını çevirerek sisleme (mist) ile doğrudan püskürtme (direct injection) arasında geçiş yaparsınız.</li><li><strong>Ergonomik tutma sapı:</strong> Tek elle kullanıma uygun saplı gövde.</li></ul><h2>Teknik Bilgiler</h2><table><tbody><tr><th>Ürün</th><td>Uzman 2 Lt Şarjlı Püskürtücü</td></tr><tr><th>Stok kodu</th><td>USR-41</td></tr><tr><th>Ürün kodu</th><td>YL-1001-2</td></tr><tr><th>Tank hacmi</th><td>2 litre (şişe üzerinde 0,5 – 2,0 litre ölçeği)</td></tr><tr><th>Çalışma şekli</th><td>Lityum pilli, dahili mikro pompa</td></tr><tr><th>Pil gerilimi</th><td>3,7 V (ürün etiketinde)</td></tr><tr><th>Şarj</th><td>USB şarj girişi; önerilen adaptör 5 V / 1000 mA</td></tr><tr><th>Tam şarj süresi</th><td>Yaklaşık 3 – 4 saat</td></tr><tr><th>Çalışma süresi</th><td>Tam şarjla yaklaşık 2 – 3 saat</td></tr><tr><th>Püskürtme</th><td>Sisleme (mist) ve doğrudan püskürtme; ayarlanabilir nozul</td></tr><tr><th>Gösterge</th><td>LCD pil göstergesi</td></tr><tr><th>Belge</th><td>Ürün etiketinde CE işareti bulunur</td></tr></tbody></table><h2>Nasıl Kullanılır?</h2><ol><li>Şişeyi saat yönünün tersine çevirerek açın, sıvıyı doldurun. Seviyenin şişe üzerindeki maksimum dolum çizgisini aşmamasına dikkat edin.</li><li>Üst gövdeyi geri yerleştirin ve sızdırmazlık için sıkıca kapatın.</li><li>Güç düğmesine basın; püskürtme başlar.</li><li>Püskürtme başlığını çevirerek sisleme ya da doğrudan püskürtme ayarını seçin.</li><li>İş bitince güç düğmesine yeniden basarak kapatın.</li></ol><p>Özel kimyasallar ya da ilaçlar kullandıysanız, kullanım sonrasında şişeyi ve püskürtme sistemini temiz suyla durulamanız önerilir. Kullanacağınız sıvının kendi etiketindeki talimatlara uyun.</p><h2>Şarj Bilgileri</h2><ul><li>Lityum pil fabrikadan belirli bir şarj seviyesiyle gelir.</li><li>En iyi performans için 5 V / 1000 mA standart bir USB adaptör önerilir.</li><li>Pil seviyesi düştüğünde koruma devresi devreye girer ve cihaz çalışmayı durdurur; bu durumda şarj etmeniz gerekir.</li><li>Cihaz uzun süre kullanılmayacaksa pil sağlığını korumak için 2 – 3 ayda bir şarj edilmesi önerilir.</li></ul><h2>Güvenlik Uyarıları</h2><ul><li>Üretici onayı olmadan cihazı sökmeyin ya da üzerinde değişiklik yapmayın.</li><li>Aşındırıcı, yoğun kıvamlı veya cihazın kullanım amacına uygun olmayan sıvılar kullanmayın.</li><li>Çocukların cihazı kullanmasına izin vermeyin.</li><li>Kısa devre riskine karşı cihazı nemli ya da aşırı ıslak ortamlarda bırakmayın; elektronik aksama su temas ettirmeyin.</li><li>Şarj sırasında yalnızca uygun USB güç kaynakları kullanın.</li><li>Cihazı darbelerden ve düşmelerden koruyun.</li></ul><h2>Sık Sorulan Sorular</h2><h3>Uzman USR-41 ne kadar sürede şarj olur?</h3><p>Kullanım kılavuzuna göre tam şarj süresi yaklaşık 3 – 4 saattir. Şarj başladığında pil seviyesi LCD ekranda görünür.</p><h3>Tam şarjla ne kadar çalışır?</h3><p>Kılavuz, yüksek kapasiteli lityum pille tam şarjda yaklaşık 2 – 3 saat çalışma süresi belirtir.</p><h3>Pil bitince ne olur?</h3><p>Pil seviyesi düştüğünde koruma devresi cihazın çalışmasını durdurur. Yeniden kullanmadan önce şarj etmeniz gerekir.</p><h3>Hangi sıvılarla kullanılır?</h3><p>Cihazın kullanım amacına uygun, aşındırıcı ve yoğun kıvamlı olmayan sıvılarla. Kullanacağınız sıvının etiketindeki talimatlara da uyun.</p><h3>Sisleme ile doğrudan püskürtme arasındaki fark nedir?</h3><p>Püskürtme başlığını çevirerek sıvıyı ince sis halinde ya da doğrudan püskürtme olarak uygulayabilirsiniz.</p><p>Uygunluk konusunda emin olamazsanız siparişten önce müşteri hizmetlerimize (+90 553 727 2929) danışabilirsiniz.</p>",
+   "stok": 50
+  }
+ ]
+}
