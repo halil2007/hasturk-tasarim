@@ -1,0 +1,535 @@
+{
+ "not": "Profimod ürünleri: stok bitince satış kapalı, tükendi görünsün (28 Kasım 2026, kullanıcı isteği)",
+ "urunler": [
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-180-profil-ekleme-konnektoru-no-1",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-180-profil-ekleme-konnektoru-no-1",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-90-dirsek-profil-konnektoru-no-2",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-90-dirsek-profil-konnektoru-no-2",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-bes-kollu-profil-konnektoru-no-12-1",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-bes-kollu-profil-konnektoru-no-12-1",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-1",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-1",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-2",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-10-2",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-11-1",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-11-1",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-12-2",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-12-2",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-4",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-4",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-6",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-6",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-8-1",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-8-1",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-8-2",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-8-2",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-9-1",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-9-1",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-9-2",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-dort-kollu-profil-konnektoru-no-9-2",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-11-2",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-11-2",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-3",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-3",
+   "kapat": true
+  },
+  {
+   "slug": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-5",
+   "ad": "30x30-mm-kutu-profillerde-uyumlu-uc-kollu-profil-konnektoru-no-5",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-arac-golgeligi-3-76-x-4-61-x-2-64-m-kesik-cati-kompakt",
+   "ad": "galvaniz-arac-golgeligi-3-76-x-4-61-x-2-64-m-kesik-cati-kompakt",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-arac-golgeligi-3-76-x-6-13-x-2-64-m-kesik-cati-uzun",
+   "ad": "galvaniz-arac-golgeligi-3-76-x-6-13-x-2-64-m-kesik-cati-uzun",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ari-kovani-sehpasi-2-li-2-katli-4-kovanlik-128x41x152-cm",
+   "ad": "galvaniz-ari-kovani-sehpasi-2-li-2-katli-4-kovanlik-128x41x152-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm",
+   "ad": "galvaniz-ari-kovani-sehpasi-2-li-tek-katli-2-kovanlik-128x41x49-5-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ari-kovani-sehpasi-4-lu-2-katli-8-kovanlik-253x41x152-cm",
+   "ad": "galvaniz-ari-kovani-sehpasi-4-lu-2-katli-8-kovanlik-253x41x152-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm",
+   "ad": "galvaniz-ari-kovani-sehpasi-4-lu-tek-katli-4-kovanlik-253x41x49-5-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ari-kovani-sehpasi-6-li-2-katli-12-kovanlik-378x41x152-cm",
+   "ad": "galvaniz-ari-kovani-sehpasi-6-li-2-katli-12-kovanlik-378x41x152-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ari-kovani-sehpasi-6-li-tek-katli-6-kovanlik-378x41x49-5-cm",
+   "ad": "galvaniz-ari-kovani-sehpasi-6-li-tek-katli-6-kovanlik-378x41x49-5-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-atolye-tezgahi-iskeleti-alt-rafli-250x85x80-cm",
+   "ad": "galvaniz-atolye-tezgahi-iskeleti-alt-rafli-250x85x80-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-bahce-calisma-masasi-iskeleti-alt-rafli-130x85x80-cm",
+   "ad": "galvaniz-bahce-calisma-masasi-iskeleti-alt-rafli-130x85x80-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-dar-balkon-rafi-iskeleti-4-katli-101x36x123-cm",
+   "ad": "galvaniz-dar-balkon-rafi-iskeleti-4-katli-101x36x123-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-dar-kiler-rafi-iskeleti-6-katli-68x36x188-cm",
+   "ad": "galvaniz-dar-kiler-rafi-iskeleti-6-katli-68x36x188-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-depo-rafi-iskeleti-4-katli-191x66x213-cm",
+   "ad": "galvaniz-depo-rafi-iskeleti-4-katli-191x66x213-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ekonomik-odunluk-1-58-x-1-08-x-1-58-m-duz-cati",
+   "ad": "galvaniz-ekonomik-odunluk-1-58-x-1-08-x-1-58-m-duz-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ekonomik-odunluk-2-35-x-1-08-x-1-58-m-duz-cati",
+   "ad": "galvaniz-ekonomik-odunluk-2-35-x-1-08-x-1-58-m-duz-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-ev-deposu-rafi-iskeleti-5-katli-88x46x196-cm",
+   "ad": "galvaniz-ev-deposu-rafi-iskeleti-5-katli-88x46x196-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-garaj-rafi-iskeleti-4-katli-128x66x213-cm",
+   "ad": "galvaniz-garaj-rafi-iskeleti-4-katli-128x66x213-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-genis-kiler-rafi-iskeleti-5-katli-131x46x196-cm",
+   "ad": "galvaniz-genis-kiler-rafi-iskeleti-5-katli-131x46x196-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-hava-kompresoru-kafesi-tip-f-1-68-x-0-81-x-1-25-m",
+   "ad": "galvaniz-hava-kompresoru-kafesi-tip-f-1-68-x-0-81-x-1-25-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-isi-pompasi-ve-klima-kafesi-tip-d-1-55-x-0-81-x-1-25-m",
+   "ad": "galvaniz-isi-pompasi-ve-klima-kafesi-tip-d-1-55-x-0-81-x-1-25-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kapili-odunluk-2-35-x-1-08-x-2-10-m-besik-cati",
+   "ad": "galvaniz-kapili-odunluk-2-35-x-1-08-x-2-10-m-besik-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kapili-odunluk-3-13-x-1-08-x-2-10-m-besik-cati",
+   "ad": "galvaniz-kapili-odunluk-3-13-x-1-08-x-2-10-m-besik-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kargo-hazirlama-masasi-iskeleti-alt-rafli-160x85x80-cm",
+   "ad": "galvaniz-kargo-hazirlama-masasi-iskeleti-alt-rafli-160x85x80-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kedi-balkon-kafesi-1-28-x-0-66-x-1-91-m-kapili",
+   "ad": "galvaniz-kedi-balkon-kafesi-1-28-x-0-66-x-1-91-m-kapili",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kedi-balkon-kafesi-1-28-x-1-28-x-1-91-m-kapili",
+   "ad": "galvaniz-kedi-balkon-kafesi-1-28-x-1-28-x-1-91-m-kapili",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kedi-balkon-kafesi-1-91-x-0-66-x-1-91-m-kapili",
+   "ad": "galvaniz-kedi-balkon-kafesi-1-91-x-0-66-x-1-91-m-kapili",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kedi-balkon-kafesi-1-91-x-1-28-x-1-91-m-kapili",
+   "ad": "galvaniz-kedi-balkon-kafesi-1-91-x-1-28-x-1-91-m-kapili",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kedi-balkon-kafesi-2-53-x-0-66-x-1-91-m-kapili",
+   "ad": "galvaniz-kedi-balkon-kafesi-2-53-x-0-66-x-1-91-m-kapili",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kiler-ve-ofis-rafi-iskeleti-6-katli-101x36x188-cm",
+   "ad": "galvaniz-kiler-ve-ofis-rafi-iskeleti-6-katli-101x36x188-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-klima-kafesi-tip-a-1-05-x-0-66-x-0-81-m",
+   "ad": "galvaniz-klima-kafesi-tip-a-1-05-x-0-66-x-0-81-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-klima-kafesi-tip-b-1-25-x-0-66-x-1-05-m",
+   "ad": "galvaniz-klima-kafesi-tip-b-1-25-x-0-66-x-1-05-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kompresor-kafesi-tip-e-1-25-x-1-05-x-1-25-m",
+   "ad": "galvaniz-kompresor-kafesi-tip-e-1-25-x-1-05-x-1-25-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kompresor-kafesi-tip-g-1-55-x-1-05-x-1-83-m",
+   "ad": "galvaniz-kompresor-kafesi-tip-g-1-55-x-1-05-x-1-83-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-saglam-kisa-2-35-x-3-13-x-2-35-m",
+   "ad": "galvaniz-konteyner-iskeleti-saglam-kisa-2-35-x-3-13-x-2-35-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-saglam-uzun-2-35-x-6-23-x-2-35-m",
+   "ad": "galvaniz-konteyner-iskeleti-saglam-uzun-2-35-x-6-23-x-2-35-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-saglam-uzun-yan-kapili-2-35-x-6-23-x-2-35-m",
+   "ad": "galvaniz-konteyner-iskeleti-saglam-uzun-yan-kapili-2-35-x-6-23-x-2-35-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-standart-kisa-2-08-x-3-10-x-2-08-m",
+   "ad": "galvaniz-konteyner-iskeleti-standart-kisa-2-08-x-3-10-x-2-08-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-standart-uzun-2-08-x-6-18-x-2-08-m",
+   "ad": "galvaniz-konteyner-iskeleti-standart-uzun-2-08-x-6-18-x-2-08-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-standart-uzun-yan-kapili-2-08-x-6-18-x-2-08-m",
+   "ad": "galvaniz-konteyner-iskeleti-standart-uzun-yan-kapili-2-08-x-6-18-x-2-08-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-ultra-saglam-kisa-2-53-x-3-15-x-2-53-m",
+   "ad": "galvaniz-konteyner-iskeleti-ultra-saglam-kisa-2-53-x-3-15-x-2-53-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-ultra-saglam-uzun-2-53-x-6-28-x-2-53-m",
+   "ad": "galvaniz-konteyner-iskeleti-ultra-saglam-uzun-2-53-x-6-28-x-2-53-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-konteyner-iskeleti-ultra-saglam-uzun-yan-kapili-2-53-x-6-28-x-2-53-m",
+   "ad": "galvaniz-konteyner-iskeleti-ultra-saglam-uzun-yan-kapili-2-53-x-6-28-x-2-53-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kurutma-tezgahi-107-5-x-67-5-cm-kapakli-1-bolmeli",
+   "ad": "galvaniz-kurutma-tezgahi-107-5-x-67-5-cm-kapakli-1-bolmeli",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kurutma-tezgahi-107-5-x-82-5-cm-kapakli-1-bolmeli",
+   "ad": "galvaniz-kurutma-tezgahi-107-5-x-82-5-cm-kapakli-1-bolmeli",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kurutma-tezgahi-175-x-67-5-cm-kapakli-2-bolmeli",
+   "ad": "galvaniz-kurutma-tezgahi-175-x-67-5-cm-kapakli-2-bolmeli",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kurutma-tezgahi-175-x-82-5-cm-kapakli-2-bolmeli",
+   "ad": "galvaniz-kurutma-tezgahi-175-x-82-5-cm-kapakli-2-bolmeli",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kurutma-tezgahi-218-x-67-5-cm-kapakli-2-bolmeli",
+   "ad": "galvaniz-kurutma-tezgahi-218-x-67-5-cm-kapakli-2-bolmeli",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kurutma-tezgahi-218-x-82-5-cm-kapakli-2-bolmeli",
+   "ad": "galvaniz-kurutma-tezgahi-218-x-82-5-cm-kapakli-2-bolmeli",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-10-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-10-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-100-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-100-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-110-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-110-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-120-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-120-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-130-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-130-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-140-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-140-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-150-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-150-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-20-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-20-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-30-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-30-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-40-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-40-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-50-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-50-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-60-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-60-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-70-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-70-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-80-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-80-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kutu-profil-30x30x1-2-mm-90-cm",
+   "ad": "galvaniz-kutu-profil-30x30x1-2-mm-90-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-kucuk-sera-rafi-iskeleti-3-katli-88x46x111-cm",
+   "ad": "galvaniz-kucuk-sera-rafi-iskeleti-3-katli-88x46x111-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-oda-ve-balkon-rafi-iskeleti-4-katli-88x46x153-cm",
+   "ad": "galvaniz-oda-ve-balkon-rafi-iskeleti-4-katli-88x46x153-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-odunluk-1-58-x-1-08-x-2-10-m-besik-cati",
+   "ad": "galvaniz-odunluk-1-58-x-1-08-x-2-10-m-besik-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-odunluk-2-35-x-1-08-x-2-10-m-besik-cati",
+   "ad": "galvaniz-odunluk-2-35-x-1-08-x-2-10-m-besik-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-odunluk-3-13-x-1-08-x-2-10-m-besik-cati",
+   "ad": "galvaniz-odunluk-3-13-x-1-08-x-2-10-m-besik-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-odunluk-3-90-x-1-08-x-2-10-m-besik-cati",
+   "ad": "galvaniz-odunluk-3-90-x-1-08-x-2-10-m-besik-cati",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-saksi-ve-sasirtma-tezgahi-iskeleti-2-katli-128x66x88-cm",
+   "ad": "galvaniz-saksi-ve-sasirtma-tezgahi-iskeleti-2-katli-128x66x88-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-salma-kus-kafesi-1-05-x-1-05-x-2-08-m-kapili-mini",
+   "ad": "galvaniz-salma-kus-kafesi-1-05-x-1-05-x-2-08-m-kapili-mini",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-salma-kus-kafesi-2-08-x-1-05-x-2-08-m-kapili-kucuk",
+   "ad": "galvaniz-salma-kus-kafesi-2-08-x-1-05-x-2-08-m-kapili-kucuk",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-salma-kus-kafesi-2-08-x-2-08-x-2-08-m-kapili-orta",
+   "ad": "galvaniz-salma-kus-kafesi-2-08-x-2-08-x-2-08-m-kapili-orta",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-salma-kus-kafesi-3-10-x-1-05-x-2-08-m-kapili-uzun",
+   "ad": "galvaniz-salma-kus-kafesi-3-10-x-1-05-x-2-08-m-kapili-uzun",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-sera-fide-rafi-iskeleti-3-katli-131x46x111-cm",
+   "ad": "galvaniz-sera-fide-rafi-iskeleti-3-katli-131x46x111-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-sera-orta-tezgahi-iskeleti-alt-rafli-210x110x80-cm",
+   "ad": "galvaniz-sera-orta-tezgahi-iskeleti-alt-rafli-210x110x80-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-sera-tezgahi-iskeleti-alt-rafli-110x70x80-cm",
+   "ad": "galvaniz-sera-tezgahi-iskeleti-alt-rafli-110x70x80-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-uzun-sera-tezgahi-iskeleti-alt-rafli-210x70x80-cm",
+   "ad": "galvaniz-uzun-sera-tezgahi-iskeleti-alt-rafli-210x70x80-cm",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-vrf-unite-kafesi-tip-c-1-25-x-0-66-x-1-55-m",
+   "ad": "galvaniz-vrf-unite-kafesi-tip-c-1-25-x-0-66-x-1-55-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-1100-l-acik-1-55-x-1-55-x-1-55-m",
+   "ad": "galvaniz-cop-konteyneri-muhafazasi-1100-l-acik-1-55-x-1-55-x-1-55-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-1100-l-kapakli-1-55-x-1-55-x-1-58-m",
+   "ad": "galvaniz-cop-konteyneri-muhafazasi-1100-l-kapakli-1-55-x-1-55-x-1-58-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-400-l-acik-1-25-x-0-81-x-1-55-m",
+   "ad": "galvaniz-cop-konteyneri-muhafazasi-400-l-acik-1-25-x-0-81-x-1-55-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-400-l-kapakli-1-25-x-0-81-x-1-58-m",
+   "ad": "galvaniz-cop-konteyneri-muhafazasi-400-l-kapakli-1-25-x-0-81-x-1-58-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-770-l-acik-1-55-x-1-05-x-1-55-m",
+   "ad": "galvaniz-cop-konteyneri-muhafazasi-770-l-acik-1-55-x-1-05-x-1-55-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-konteyneri-muhafazasi-770-l-kapakli-1-55-x-1-05-x-1-58-m",
+   "ad": "galvaniz-cop-konteyneri-muhafazasi-770-l-kapakli-1-55-x-1-05-x-1-58-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-kovasi-muhafazasi-120-l-acik-0-66-x-0-81-x-1-25-m",
+   "ad": "galvaniz-cop-kovasi-muhafazasi-120-l-acik-0-66-x-0-81-x-1-25-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-kovasi-muhafazasi-120-l-kapakli-0-66-x-0-81-x-1-28-m",
+   "ad": "galvaniz-cop-kovasi-muhafazasi-120-l-kapakli-0-66-x-0-81-x-1-28-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-kovasi-muhafazasi-240-360-l-acik-0-81-x-1-05-x-1-25-m",
+   "ad": "galvaniz-cop-kovasi-muhafazasi-240-360-l-acik-0-81-x-1-05-x-1-25-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-cop-kovasi-muhafazasi-240-360-l-kapakli-0-81-x-1-05-x-1-28-m",
+   "ad": "galvaniz-cop-kovasi-muhafazasi-240-360-l-kapakli-0-81-x-1-05-x-1-28-m",
+   "kapat": true
+  },
+  {
+   "slug": "galvaniz-iri-koli-ve-bidon-rafi-iskeleti-3-katli-158x81x181-cm",
+   "ad": "galvaniz-iri-koli-ve-bidon-rafi-iskeleti-3-katli-158x81x181-cm",
+   "kapat": true
+  }
+ ]
+}
