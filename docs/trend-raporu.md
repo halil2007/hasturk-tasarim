@@ -1,6 +1,6 @@
 # Ziyaretçi ve satış eğilimleri
 
-Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11201 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
+Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11204 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
 
 Bu dosya saatte bir otomatik güncellenir. Puan = şimdiki talep + yükselme ivmesi + 0,6 × geçmiş yılların sezonu × bu yılki teyit. Masaüstü menüde ürün sabitlemek için `config.json > desktopMenu.picks`.
 
@@ -135,7 +135,7 @@ Bu kelimeler için ürün eklemeyi ya da `config.json > synonyms` ile eşanlaml�
 |---|---|---|---|
 | 1 | HasTürk Solucan Gübresi  | 24,2 | 76,4 |
 | 2 | Kendi Toprak Karışımını Oluştur – İstediğin Litrede (Sınırsız Sipariş) | 15,2 | 165,8 |
-| 3 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 15,2 | 259,2 |
+| 3 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 15,2 | 260,2 |
 | 4 | HasTürk Sıvı Solucan Gübresi  | 12,9 | 40,3 |
 | 5 | Limon Ağacı Toprağı - Özel Organik Karışım  | 11,8 | 36,3 |
 | 6 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | 10,4 | 57,4 |
@@ -146,7 +146,7 @@ Bu kelimeler için ürün eklemeyi ya da `config.json > synonyms` ile eşanlaml�
 | 11 | HG Paşa Kılıcı (Sansevieria) Toprağı | 7,3 | 33,6 |
 | 12 | HG Tarım Perliti | 7 | 47,1 |
 | 13 | Kalın Tarım Perliti 1.0–3.0 mm | 6,9 | 25,3 |
-| 14 | 4'lü Sıkıştırılmış Cocopeat (Kokopit) Blok - 20 Kg (260 Litre) | 6,8 | 94,9 |
+| 14 | 4'lü Sıkıştırılmış Cocopeat (Kokopit) Blok - 20 Kg (260 Litre) | 6,8 | 95,9 |
 | 15 | Uzman 10 Lt Basınçlı İlaçlama Pompası (K-73)  | 6,7 | 63,5 |
 | 16 | Doğal Orman Toprağı / %100 Organik ve Humuslu | 6,6 | 43,4 |
 | 17 | Uzman 16 Lt Akülü İlaçlama Pompası (USR-403) | 6,1 | 74 |
@@ -160,7 +160,7 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 
 | Ürün | Görüntüleme | Sepete ekleme | Oran |
 |---|---|---|---|
-| İnsektisit MAX 5 Lt Kampanya Paketi | 174,2 | 2,7 | %2 |
+| İnsektisit MAX 5 Lt Kampanya Paketi | 175,2 | 2,7 | %2 |
 | Proline Bebek Pudra Kokulu Bentonit Kedi Kumu 10 LT | 93,2 | 1,3 | %1 |
 | İlposan 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | 77 | 1,8 | %2 |
 | Uzman 5 Lt Basınçlı İlaçlama Pompası (K-71) | 72,2 | 2,2 | %3 |

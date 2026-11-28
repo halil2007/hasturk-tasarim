@@ -1,6 +1,6 @@
 # Ziyaretçi ve satış eğilimleri
 
-Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11201 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
+Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11204 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
 
 Bu dosya saatte bir otomatik güncellenir. Puan = şimdiki talep + yükselme ivmesi + 0,6 × geçmiş yılların sezonu × bu yılki teyit. Masaüstü menüde ürün sabitlemek için `config.json > desktopMenu.picks`.
 
@@ -13,7 +13,7 @@ Bu yıl hızla ilgi görmeye başlayanlar; sezon verisi beklenmeden öne çıkar
 | 1 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | ×2,8 | 1 | evet |
 | 2 | İnsektisit MAX 5 Lt Kampanya Paketi | ×6,4 | 0 | evet |
 | 3 | Uzman 20 lt Sırt Pulverizatörü İlaçlama Pompası | ×5,9 | 0 | evet |
-| 4 | Uzman 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | ×5,6 | 0 | evet |
+| 4 | Uzman 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | ×5,7 | 0 | evet |
 | 5 | Proline Bebek Pudra Kokulu Bentonit Kedi Kumu 10 LT | ×5 | 2 | evet |
 | 6 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | ×2,3 | 2 | evet |
 | 7 | Chrysamed Worm-Ex 5 Lt Tahta Kurdu İlacı | ×3,3 | 0 | evet |
@@ -134,14 +134,14 @@ Bu kelimeler için ürün eklemeyi ya da `config.json > synonyms` ile eşanlaml�
 | # | Ürün | Sepete ekleme | Görüntüleme |
 |---|---|---|---|
 | 1 | Kendi Toprak Karışımını Oluştur – İstediğin Litrede (Sınırsız Sipariş) | 13,7 | 165,8 |
-| 2 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 9,7 | 259,2 |
+| 2 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 9,7 | 260,2 |
 | 3 | Leonardit - Organik Toprak Düzenleyici | 9 | 73,1 |
-| 4 | İnsektisit MAX 5 Lt Kampanya Paketi | 8,7 | 174,2 |
+| 4 | İnsektisit MAX 5 Lt Kampanya Paketi | 8,7 | 175,2 |
 | 5 | HG Tarım Perliti | 8 | 47,1 |
 | 6 | Chrysamed Worm-Ex 5 Lt Tahta Kurdu İlacı | 7,3 | 40,6 |
-| 7 | Uzman 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | 7 | 124,4 |
+| 7 | Uzman 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | 7 | 125,4 |
 | 8 | Limon Ağacı Toprağı - Özel Organik Karışım | 6,8 | 36,3 |
-| 9 | 4'lü Sıkıştırılmış Cocopeat (Kokopit) Blok - 20 Kg (260 Litre) | 6,6 | 94,9 |
+| 9 | 4'lü Sıkıştırılmış Cocopeat (Kokopit) Blok - 20 Kg (260 Litre) | 6,6 | 95,9 |
 | 10 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | 5,6 | 67 |
 | 11 | Uzman 20 lt Sırt Pulverizatörü İlaçlama Pompası | 5,5 | 194,2 |
 | 12 | Kalın Tarım Perliti 1.0–3.0 mm (200 Litre) | 5,2 | 25,3 |
@@ -160,9 +160,9 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 
 | Ürün | Görüntüleme | Sepete ekleme | Oran |
 |---|---|---|---|
-| Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 259,2 | 9,7 | %4 |
+| Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 260,2 | 9,7 | %4 |
 | Uzman 20 lt Sırt Pulverizatörü İlaçlama Pompası | 194,2 | 5,5 | %3 |
-| İnsektisit MAX 5 Lt Kampanya Paketi | 174,2 | 8,7 | %5 |
+| İnsektisit MAX 5 Lt Kampanya Paketi | 175,2 | 8,7 | %5 |
 | Proline Bebek Pudra Kokulu Bentonit Kedi Kumu 10 LT | 93,2 | 3,4 | %4 |
 | İlposan 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | 77 | 1,9 | %3 |
 | Uzman 10 Lt Basınçlı İlaçlama Pompası (K-73)  | 63,5 | 1,8 | %3 |
