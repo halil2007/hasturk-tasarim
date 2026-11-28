@@ -1,6 +1,6 @@
 # Ziyaretçi ve satış eğilimleri
 
-Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11337 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
+Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11349 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
 
 Bu dosya saatte bir otomatik güncellenir. Puan = şimdiki talep + yükselme ivmesi + 0,6 × geçmiş yılların sezonu × bu yılki teyit. Masaüstü menüde ürün sabitlemek için `config.json > desktopMenu.picks`.
 
@@ -16,11 +16,11 @@ Bu yıl hızla ilgi görmeye başlayanlar; sezon verisi beklenmeden öne çıkar
 | 4 | HasTürk Solucan Gübresi  | ×1,7 | 2 | evet |
 | 5 | Chrysamed İnsektisit Max 2 Lt | ×3,7 | 0 | evet |
 | 6 | Arzuman Çilek Tohumu (100 Adet) | ×5,4 | 0 | evet |
-| 7 | Galvaniz Salma Kuş Kafesi 3,10 × 1,05 × 2,08 m, Kapılı (Uzun) | ×3 | 0 | evet |
+| 7 | Galvaniz Salma Kuş Kafesi 3,10 × 1,05 × 2,08 m, Kapılı (Uzun) | ×3 | 0 | **HAYIR** |
 | 8 | Barış Çiçeği (Spathiphyllum) Toprağı | ×2,8 | 1 | evet |
 | 9 | Altınvadi Sırık Domates Tohumu 5 Gr | ×3,1 | 0 | evet |
 | 10 | HG Narenciye Toprağı | ×3 | 0 | evet |
-| 11 | Galvaniz Kutu Profil 30x30x1,2 mm – 120 cm | ×5,3 | 2 | evet |
+| 11 | Galvaniz Kutu Profil 30x30x1,2 mm – 120 cm | ×5,3 | 2 | **HAYIR** |
 | 12 | Arzuman Rota Roka Tohumu 25 Gr | ×3,6 | 0 | evet |
 | 13 | Uzman 5 Lt Basınçlı İlaçlama Pompası (K-71) | ×2 | 0 | evet |
 | 14 | Uzman 2 Lt Basınçlı İlaçlama Pompası (K-51) | ×2,7 | 1 | evet |
@@ -83,10 +83,10 @@ _Öne çıkarılmayan kategoriler (Kedi Ürünleri, Köpek Ürünleri): son 28 g
 | 10 | toprak | 29 | 4 |  |  |
 | 11 | sera | 7 | 5 | ↑ ×2,6 |  |
 | 12 | sera iskeleti | 4 | 4 | ↑ ×2,9 |  |
-| 13 | çim | 6 | 4 | ↑ ×2,2 |  |
-| 14 | fide | 5 | 3 | ↑ ×1,8 |  |
-| 15 | cocopeat | 8 | 3 |  |  |
-| 16 | orkide | 10 | 3 |  |  |
+| 13 | orkide | 11 | 4 |  |  |
+| 14 | çim | 6 | 4 | ↑ ×2,2 |  |
+| 15 | fide | 5 | 3 | ↑ ×1,8 |  |
+| 16 | cocopeat | 8 | 3 |  |  |
 | 17 | kendi | 8 | 2 |  |  |
 | 18 | guno | 4 | 3 | ↑ ×2,1 |  |
 | 19 | zeyt | 3 | 3 | ↑ ×2,4 |  |
@@ -143,7 +143,7 @@ Bu kelimeler için ürün eklemeyi ya da `config.json > synonyms` ile eşanlaml�
 | 8 | HG Starliçe & Cennet Kuşu Toprağı | 9,2 | 26,8 |
 | 9 | Yaban Mersini ve Ortanca Toprağı – Asidik Bitkiler İçin Özel Karışım | 8,7 | 57,4 |
 | 10 | Uzman 16 Lt Sırt Pulverizatörü İlaçlama Pompası (K-103) | 7,9 | 49,6 |
-| 11 | HG Paşa Kılıcı (Sansevieria) Toprağı | 7,3 | 33,6 |
+| 11 | HG Paşa Kılıcı (Sansevieria) Toprağı | 7,3 | 34,6 |
 | 12 | HG Tarım Perliti | 7 | 48,1 |
 | 13 | Kalın Tarım Perliti 1.0–3.0 mm | 6,9 | 25,3 |
 | 14 | 4'lü Sıkıştırılmış Cocopeat (Kokopit) Blok - 20 Kg (260 Litre) | 6,8 | 95,9 |
@@ -160,7 +160,7 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 
 | Ürün | Görüntüleme | Sepete ekleme | Oran |
 |---|---|---|---|
-| İnsektisit MAX 5 Lt Kampanya Paketi | 181,2 | 3,7 | %2 |
+| İnsektisit MAX 5 Lt Kampanya Paketi | 182,2 | 3,7 | %2 |
 | Proline Bebek Pudra Kokulu Bentonit Kedi Kumu 10 LT | 94,2 | 1,3 | %1 |
 | İlposan 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | 78 | 2,8 | %4 |
 | Uzman 5 Lt Basınçlı İlaçlama Pompası (K-71) | 72,2 | 2,2 | %3 |
@@ -178,48 +178,48 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 
 ## Birlikte satın alınanlar (son 180 gün)
 
-314 siparişin 129 tanesinde birden fazla ürün var. En az 2 siparişte birlikte alınan çiftler; kaldıraç = tesadüfe göre kaç kat sık birlikte alındığı. Sepete ekleme sonrası "Bunu alanlar bunları da aldı" önerisi bu listeden gelir (39 ürün); listede olmayan ürünlerde `config.json > crossSell` kuralları kullanılır.
+312 siparişin 128 tanesinde birden fazla ürün var. En az 2 siparişte birlikte alınan çiftler; kaldıraç = tesadüfe göre kaç kat sık birlikte alındığı. Sepete ekleme sonrası "Bunu alanlar bunları da aldı" önerisi bu listeden gelir (39 ürün); listede olmayan ürünlerde `config.json > crossSell` kuralları kullanılır.
 
 | # | Ürün | Birlikte alınan | Sipariş | Kaldıraç |
 |---|---|---|---|---|
-| 1 | HasTürk Solucan Gübresi  | HasTürk Sıvı Solucan Gübresi  | 14 | ×2 |
-| 2 | Chrysamed İnsektisit Max 5 Lt / Tahtakurusu ve Akrep İlacı | Uzman 2 Lt Basınçlı İlaçlama Pompası (K-51) | 7 | ×25 |
+| 1 | HasTürk Solucan Gübresi  | HasTürk Sıvı Solucan Gübresi  | 13 | ×1,9 |
+| 2 | Chrysamed İnsektisit Max 5 Lt / Tahtakurusu ve Akrep İlacı | Uzman 2 Lt Basınçlı İlaçlama Pompası (K-51) | 7 | ×24,8 |
 | 3 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | HG Tarım Perliti | 8 | ×3,6 |
-| 4 | HG Vermikülit | Leonardit - Organik Toprak Düzenleyici | 6 | ×14,3 |
-| 5 | HG Vermikülit | HG Tarım Perliti | 4 | ×6,2 |
+| 4 | HG Vermikülit | Leonardit - Organik Toprak Düzenleyici | 6 | ×14,2 |
+| 5 | HG Vermikülit | HG Tarım Perliti | 4 | ×6,1 |
 | 6 | Leonardit - Organik Toprak Düzenleyici | HG Tarım Perliti | 4 | ×6,7 |
-| 7 | HasTürk Solucan Gübresi  | Leonardit - Organik Toprak Düzenleyici | 5 | ×3,2 |
-| 8 | HG Çilek Toprağı Özel Karışım | Yaban Mersini ve Ortanca Toprağı – Asidik Bitkiler İçin Özel Karışım | 3 | ×7,5 |
+| 7 | HasTürk Solucan Gübresi  | Leonardit - Organik Toprak Düzenleyici | 5 | ×3,3 |
+| 8 | HG Çilek Toprağı Özel Karışım | Yaban Mersini ve Ortanca Toprağı – Asidik Bitkiler İçin Özel Karışım | 3 | ×7,4 |
 | 9 | 1 Ton Solucan Gübresi (20 KG'lık Çuvallarla) | HasTürk Solucan Gübresi  | 3 | ×5,4 |
 | 10 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | Leonardit - Organik Toprak Düzenleyici | 4 | ×2,8 |
 | 11 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | Kalın Tarım Perliti 1.0–3.0 mm | 3 | ×4,6 |
-| 12 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | HG Vermikülit | 4 | ×2,6 |
-| 13 | HasTürk Sıvı Solucan Gübresi  | Limon Ağacı Toprağı - Özel Organik Karışım  | 5 | ×1,6 |
-| 14 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | HasTürk Solucan Gübresi  | 6 | ×1 |
+| 12 | HasTürk Sıvı Solucan Gübresi  | Limon Ağacı Toprağı - Özel Organik Karışım  | 5 | ×1,6 |
+| 13 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | HG Vermikülit | 4 | ×2,5 |
+| 14 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | HasTürk Solucan Gübresi  | 6 | ×1,1 |
 | 15 | HasTürk Sıvı Solucan Gübresi  | Yaban Mersini ve Ortanca Toprağı – Asidik Bitkiler İçin Özel Karışım | 5 | ×1,5 |
 | 16 | HG Vermikülit | Yaban Mersini ve Ortanca Toprağı – Asidik Bitkiler İçin Özel Karışım | 3 | ×3,7 |
-| 17 | HG Areka Palmiyesi Toprağı | Yuka (Yucca) Toprağı Özel Karışım | 2 | ×31,4 |
-| 18 | Arzuman Çilek Tohumu (100 Adet) | Çifteler Biberi Ata Tohumu (50 Adet) | 2 | ×104,7 |
-| 19 | Biochar Meşe Odunu Bazlı Karbon Toprak Düzenleyici | Leonardit - Organik Toprak Düzenleyici | 2 | ×19 |
-| 20 | Biochar Meşe Odunu Bazlı Karbon Toprak Düzenleyici | HG Tarım Perliti | 2 | ×12,3 |
-| 21 | Florist Çiçekli Bitkiler Sıvı Konsantre Bitki Besini | HasTürk Sıvı Solucan Gübresi  | 2 | ×6,2 |
-| 22 | HasTürk Solucan Gübresi  | Fide Toprağı | 2 | ×7,1 |
-| 23 | HG Kumkuat (Kamkat) Toprağı Özel Karışım | Limon Ağacı Toprağı - Özel Organik Karışım  | 2 | ×11 |
-| 24 | HG Vermikülit | Kullanıma Hazır Cocopeat Torfu | 2 | ×17,4 |
-| 25 | Kullanıma Hazır Cocopeat Torfu | Leonardit - Organik Toprak Düzenleyici | 2 | ×19 |
+| 17 | HasTürk Sıvı Solucan Gübresi  | HG Avokado Toprağı Özel Karışım | 3 | ×2,7 |
+| 18 | HG Areka Palmiyesi Toprağı | Yuka (Yucca) Toprağı Özel Karışım | 2 | ×34,7 |
+| 19 | Arzuman Çilek Tohumu (100 Adet) | Çifteler Biberi Ata Tohumu (50 Adet) | 2 | ×104 |
+| 20 | Biochar Meşe Odunu Bazlı Karbon Toprak Düzenleyici | Leonardit - Organik Toprak Düzenleyici | 2 | ×18,9 |
+| 21 | Biochar Meşe Odunu Bazlı Karbon Toprak Düzenleyici | HG Tarım Perliti | 2 | ×12,2 |
+| 22 | Florist Çiçekli Bitkiler Sıvı Konsantre Bitki Besini | HasTürk Sıvı Solucan Gübresi  | 2 | ×6,2 |
+| 23 | HasTürk Solucan Gübresi  | Fide Toprağı | 2 | ×7,3 |
+| 24 | HG Kumkuat (Kamkat) Toprağı Özel Karışım | Limon Ağacı Toprağı - Özel Organik Karışım  | 2 | ×10,9 |
+| 25 | HG Vermikülit | Kullanıma Hazır Cocopeat Torfu | 2 | ×17,3 |
 
 ## Çapraz satış önerilerinin sonucu (son 30 gün)
 
-Öneri 888 kez gösterildi, 5 kez sepete eklendi (%1).
+Öneri 892 kez gösterildi, 5 kez sepete eklendi (%1).
 
 | # | Önerilen ürün | Gösterildi | Eklendi | Oran |
 |---|---|---|---|---|
-| 1 | kati-solucan-gubresi-5-kg | 20 | 3 | %15 |
+| 1 | kati-solucan-gubresi-5-kg | 21 | 3 | %14 |
 | 2 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | 47 | 1 | %2 |
 | 3 | sivi-solucan-gubresi-1-lt | 22 | 1 | %5 |
-| 4 | HG Tarım Perliti | 139 | 0 | %0 |
+| 4 | HG Tarım Perliti | 140 | 0 | %0 |
 | 5 | HasTürk Sıvı Solucan Gübresi  | 124 | 0 | %0 |
-| 6 | Leonardit - Organik Toprak Düzenleyici | 77 | 0 | %0 |
+| 6 | Leonardit - Organik Toprak Düzenleyici | 78 | 0 | %0 |
 | 7 | HasTürk Solucan Gübresi  | 67 | 0 | %0 |
 | 8 | HG Vermikülit | 46 | 0 | %0 |
 | 9 | HasTürk Hümix Sıvı Hümik Asit | 28 | 0 | %0 |
@@ -254,7 +254,7 @@ Onayladıklarınızı `desktopMenu.picks` içine yazarsanız sabitlenir; yazmazs
 | Kategori | Önerilen ürünler |
 |---|---|
 | Gübreler | HasTürk Solucan Gübresi  (`hasturk-kati-solucan-gubresi`)<br>HasTürk Sıvı Solucan Gübresi  (`hasturk-sivi-solucan-gubresi`)<br>Florist Sinek ve Unlu Bit Önleyici Bitki Spreyi (`florist-sinek-ve-unlu-bit-onleyici-bitki-spreyi`) |
-| Galvaniz Modüler Yapılar | Galvaniz Salma Kuş Kafesi 3,10 × 1,05 × 2,08 m, Kapılı (Uzun) (`galvaniz-salma-kus-kafesi-3-10-x-1-05-x-2-08-m-kapili-uzun`)<br>30x30 mm Kutu Profillerde Uyumlu 180° Profil Ekleme Konnektörü No:1 (`30x30-mm-kutu-profillerde-uyumlu-180-profil-ekleme-konnektoru-no-1`)<br>Galvaniz Kutu Profil 30x30x1,2 mm – 120 cm (`galvaniz-kutu-profil-30x30x1-2-mm-120-cm`) |
+| Galvaniz Modüler Yapılar | Galvaniz Modüler Sera İskeleti Likya 2,23 × 3,08 m (6,9 m²) – Kapısız tarla serası (`galvaniz-moduler-sera-iskeleti-likya-2-23-x-3-08-m-6-9-m2-kapisiz-tarla-serasi`)<br>Galvaniz Modüler Sera İskeleti Likya 2,94 × 8,13 m (23,9 m²) – Kapısız tarla serası (`galvaniz-moduler-sera-iskeleti-likya-2-94-x-8-13-m-23-9-m2-kapisiz-tarla-serasi`)<br>Galvaniz Modüler Sera İskeleti Olimpos 2,98 × 4,13 m (12,3 m²) – Hobi bahçe serası (`galvaniz-moduler-sera-iskeleti-olimpos-2-98-x-4-13-m-12-3-m2-hobi-bahce-serasi`) |
 | Topraklar | Kendi Toprak Karışımını Oluştur – İstediğin Litrede (Sınırsız Sipariş) (`kendi-toprak-karisimini-olustur`)<br>Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt (`cocopeat-hindistan-cevizi-torfu-5-kg`)<br>Leonardit - Organik Toprak Düzenleyici (`leonardit-organik-toprak-duzenleyici`) |
 | Saksılar ve Bahçe Yatakları | Modüler Yükseltilmiş Bahçe Sebze Yatağı No:10 (165x110) (`moduler-yukseltilmis-bahce-yatagi-545-litre`)<br>Modüler Yükseltilmiş Bahçe Sebze Yatağı No:17 (220x220) (`moduler-yukseltilmis-bahce-yatagi-sekilli-no-17-220x220`)<br>Modüler Yükseltilmiş Balkon ve Teras Tekerlekli Sebze Yatağı No:4 (110x60) (`moduler-balkon-teras-sebze-yatagi-no-4-tekerlekli-110x60`) |
 | Bitkiler | Albion Çilek Fidesi – Yediveren (Gün Nötr), Tüplü, 6 Adet (`albion-cilek-fidesi-6-adet`)<br>Yedikule Marul Fidesi – Göbek Yapan, Soğuğa Dayanıklı, 12 Adet (`yedikule-marul-fidesi-12-adet`)<br>Kuşkonmaz Fidesi – Çok Yıllık, 6 Adet (`kuskonmaz-fidesi-6-adet`) |
