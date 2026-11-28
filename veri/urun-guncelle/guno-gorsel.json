@@ -1,0 +1,14 @@
+{
+ "not": "Guno Mac 2 Lt (GNM-P01): ürün fotoğrafı, 28 Kasım 2026",
+ "urunler": [
+  {
+   "slug": "guno-mac-2-lt-basincli-sprey-pompa-gnm-p01",
+   "ad": "Guno Mac 2 Lt Basınçlı Sprey Pompa GNM-P01",
+   "gorsel": {
+    "ortak": [
+     "https://raw.githubusercontent.com/halil2007/hasturk-tasarim/985601f4d7e4fe07ba18992457f4f9f5b7fecd99/public/gorsel/guno-mac-2-lt-gnm-p01-1.webp"
+    ]
+   }
+  }
+ ]
+}
