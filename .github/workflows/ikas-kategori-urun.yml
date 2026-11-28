@@ -1,0 +1,50 @@
+name: ikas kategori aç ve ürünleri ekle
+
+# Yeni bir alt kategori açar (satış kanalı kardeş kategoriden kopyalanır) ve plandaki ürünleri bu kategoriye EKLER;
+# ürünlerin mevcut kategorileri kalır. Planlar: veri/kategori-urun/<ad>-hasturk.json ve <ad>-tarim.json.
+# Dala push ile tetiklenince her zaman deneme (kuru) çalışır; yazma yalnız elle "uygula" ile.
+on:
+  workflow_dispatch:
+    inputs:
+      uygula:
+        description: 'Uygula (işaretsizse sadece deneme)'
+        type: boolean
+        default: false
+      ad:
+        description: 'Plan adı (veri/kategori-urun/<ad>-hasturk.json ve <ad>-tarim.json)'
+        default: 'el-tipi'
+  push:
+    branches: ['claude/**']
+    paths: ['scripts/ikas-kategori-urun.mjs', '.github/workflows/ikas-kategori-urun.yml', 'veri/kategori-urun/**']
+
+permissions:
+  contents: read
+
+concurrency: ikas-kategori-urun
+
+jobs:
+  ekle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      APPLY: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.uygula == 'true' && '1' || '0' }}
+      AD: ${{ github.event.inputs.ad || 'el-tipi' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: HasTürk Gübre
+        run: node scripts/ikas-kategori-urun.mjs
+        env:
+          PLAN: veri/kategori-urun/${{ env.AD }}-hasturk.json
+          IKAS_STORE: ${{ secrets.IKAS_STORE }}
+          IKAS_CLIENT_ID: ${{ secrets.IKAS_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS_CLIENT_SECRET }}
+      - name: Tarım Dünyası
+        run: node scripts/ikas-kategori-urun.mjs
+        env:
+          PLAN: veri/kategori-urun/${{ env.AD }}-tarim.json
+          IKAS_STORE: hasturktarimdunyasi
+          IKAS_CLIENT_ID: ${{ secrets.IKAS2_CLIENT_ID }}
+          IKAS_CLIENT_SECRET: ${{ secrets.IKAS2_CLIENT_SECRET }}
