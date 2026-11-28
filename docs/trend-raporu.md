@@ -1,6 +1,6 @@
 # Ziyaretçi ve satış eğilimleri
 
-Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11204 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
+Kaynaklar: son 60 günde 46 sipariş; site içi olaylar son 30 gün (11214 kayıt); 1 yıl önce aynı dönem (sipariş; mağaza büyümesi ×1); 2 yıl önce aynı dönemde veri yok.
 
 Bu dosya saatte bir otomatik güncellenir. Puan = şimdiki talep + yükselme ivmesi + 0,6 × geçmiş yılların sezonu × bu yılki teyit. Masaüstü menüde ürün sabitlemek için `config.json > desktopMenu.picks`.
 
@@ -11,7 +11,7 @@ Bu yıl hızla ilgi görmeye başlayanlar; sezon verisi beklenmeden öne çıkar
 | # | Ürün | Hızlanma | Son 7 gün satış | Stokta |
 |---|---|---|---|---|
 | 1 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | ×2,5 | 1 | evet |
-| 2 | İnsektisit MAX 5 Lt Kampanya Paketi | ×5,3 | 0 | evet |
+| 2 | İnsektisit MAX 5 Lt Kampanya Paketi | ×5,4 | 0 | evet |
 | 3 | Proline Bebek Pudra Kokulu Bentonit Kedi Kumu 10 LT | ×4,9 | 2 | evet |
 | 4 | HasTürk Solucan Gübresi  | ×1,7 | 2 | evet |
 | 5 | Chrysamed İnsektisit Max 2 Lt | ×3,7 | 0 | evet |
@@ -77,10 +77,10 @@ _Öne çıkarılmayan kategoriler (Kedi Ürünleri, Köpek Ürünleri): son 28 g
 | 4 | coco | 28 | 9 |  |  |
 | 5 | torf | 29 | 7 |  |  |
 | 6 | saksı | 35 | 3 |  |  |
-| 7 | sıvı solucan gübresi | 30 | 4 |  |  |
-| 8 | sıvı | 7 | 6 | ↑ ×3,3 |  |
-| 9 | toprak | 29 | 4 |  |  |
-| 10 | uzman | 8 | 5 | ↑ ×2,3 |  |
+| 7 | uzman | 10 | 7 | ↑ ×2,9 |  |
+| 8 | sıvı solucan gübresi | 30 | 4 |  |  |
+| 9 | sıvı | 7 | 6 | ↑ ×3,3 |  |
+| 10 | toprak | 29 | 4 |  |  |
 | 11 | çim | 6 | 4 | ↑ ×2,2 |  |
 | 12 | fide | 5 | 3 | ↑ ×1,8 |  |
 | 13 | cocopeat | 8 | 3 |  |  |
@@ -135,7 +135,7 @@ Bu kelimeler için ürün eklemeyi ya da `config.json > synonyms` ile eşanlaml�
 |---|---|---|---|
 | 1 | HasTürk Solucan Gübresi  | 24,2 | 76,4 |
 | 2 | Kendi Toprak Karışımını Oluştur – İstediğin Litrede (Sınırsız Sipariş) | 15,2 | 165,8 |
-| 3 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 15,2 | 260,2 |
+| 3 | Uzman Lityum Akülü İlaçlama Pompası 5 Lt | 15,2 | 261,2 |
 | 4 | HasTürk Sıvı Solucan Gübresi  | 12,9 | 40,3 |
 | 5 | Limon Ağacı Toprağı - Özel Organik Karışım  | 11,8 | 36,3 |
 | 6 | Sıkıştırılmış Cocopeat (Kokopit) Hindistan Cevizi Torfu 4-5 Kg / 65 Lt | 10,4 | 57,4 |
@@ -160,7 +160,7 @@ Fiyat, görsel veya açıklama gözden geçirilebilir.
 
 | Ürün | Görüntüleme | Sepete ekleme | Oran |
 |---|---|---|---|
-| İnsektisit MAX 5 Lt Kampanya Paketi | 175,2 | 2,7 | %2 |
+| İnsektisit MAX 5 Lt Kampanya Paketi | 176,2 | 2,7 | %2 |
 | Proline Bebek Pudra Kokulu Bentonit Kedi Kumu 10 LT | 93,2 | 1,3 | %1 |
 | İlposan 16 lt Akülü/Şarjlı Sırt Pulverizatörü İlaçlama Pompası | 77 | 1,8 | %2 |
 | Uzman 5 Lt Basınçlı İlaçlama Pompası (K-71) | 72,2 | 2,2 | %3 |
@@ -259,7 +259,7 @@ Onayladıklarınızı `desktopMenu.picks` içine yazarsanız sabitlenir; yazmazs
 | Bitkiler | Albion Çilek Fidesi – Yediveren (Gün Nötr), Tüplü, 6 Adet (`albion-cilek-fidesi-6-adet`)<br>Kuşkonmaz Fidesi – Çok Yıllık, 6 Adet (`kuskonmaz-fidesi-6-adet`)<br>Albion Çilek Fidesi – Yediveren, Tüplü, Çiçekli, 12 Adet (`albion-cilek-fidesi-ciceli-12-adet`) |
 | Tohumlar | Altınvadi Sırık Domates Tohumu 5 Gr (`altinvadi-sirik-domates-tohumu-5-gr`)<br>Arzuman Çilek Tohumu (100 Adet) (`arzuman-cilek-tohumu-100-adet`)<br>Arzuman Rota Roka Tohumu 25 Gr (`arzuman-rota-roka-tohumu-25-gr`) |
 | Halk Sağlığı Ürünleri | İnsektisit MAX 5 Lt Kampanya Paketi (`insektisit-max-5-lt-kampanya-paketi`)<br>Chrysamed İnsektisit Max 2 Lt (`chrysamed-insektisit-max-2-lt-tum-ev-bahce-bocek-ilaci`)<br>Chrysamed İnsektisit Max 5 Lt | Tahtakurusu ve Akrep İlacı (`chrysamed-insektisit-max-5-lt-ekonomik-tahtakurusu-akrep-ilaci`) |
-| Bahçe Ekipmanları | Uzman Lityum Akülü İlaçlama Pompası 5 Lt (`uzman-lityum-akulu-ilaclama-pompasi-5-lt`)<br>Uzman 10 Lt Basınçlı İlaçlama Pompası (K-73)  (`uzman-10-lt-basincli-ilaclama-pompasi-k-73`)<br>Uzman 16 Lt Akülü İlaçlama Pompası (USR-403) (`uzman-16-lt-sarjli-ilaclama-pompasi-usr-403`) |
+| Bahçe Ekipmanları | Uzman Lityum Akülü İlaçlama Pompası 5 Lt (`uzman-lityum-akulu-ilaclama-pompasi-5-lt`)<br>Uzman 10 Lt Basınçlı İlaçlama Pompası (K-73)  (`uzman-10-lt-basincli-ilaclama-pompasi-k-73`)<br>Uzman 5 Lt Basınçlı İlaçlama Pompası (K-71) (`uzman-5-lt-basincli-ilaclama-pompasi-k-71`) |
 | Kedi Ürünleri | Proline Bebek Pudra Kokulu Bentonit Kedi Kumu 10 LT (`proline-bebek-pudra-kokulu-bentonit-kedi-kumu-10-lt`)<br>Proline Aktif Karbonlu 10 LT Kedi Kumu (`proline-aktif-karbonlu-10-lt-kedi-kumu`)<br>Reflex Tüy Yumağı Kontrolü Kedi Ödül Maması 60 Gr (`reflex-tuy-yumagi-kontrolu-kedi-odul-mamasi-60-gr`) |
 | Köpek Ürünleri | Reflex Care Köpek Alıştırma Pedi 60x90 cm 30'lu Paket (`reflex-care-kopek-alistirma-pedi-60x90-cm-30-lu-paket`)<br>Reflex Plus Büyük Irk Kuzulu ve Pirinçli Yetişkin Köpek Maması 18 Kg (`reflex-plus-buyuk-irk-kuzulu-ve-pirincli-yetiskin-kopek-mamasi-18-kg`) |
 
